@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As expected, Ding Liren is the eighth participant in the Candidates Tournament 2022. The Chinese top GM replaces the suspended Sergey Karjakin as the highest-rated player after World Champion Carlsen. The Candidates Tournament begins on 17 June in Madrid and the winner will play Magnus Carlsen for the World Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-confirmed-to-play-in-the-candidates",
+         "pubDate" : "Wed, 18 May 2022 19:00:00 +0100",
+         "title" : "Ding Liren confirmed to play in the Candidates"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #516, Merijn van Delft takes a look at a fine attacking win by Dutch IM and ChessBase author Nico Zwirs. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-516-a-fine-attack-by-nico-zwirs",
+         "pubDate" : "Wed, 18 May 2022 18:10:56 +0100",
+         "title" : "Game of the Week #516: A fine attack by Nico Zwirs"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91648093.cms\" />'Team bonding' and 'intensity' were the buzz words for everyone as the Indian chess Olympiad teams' first camp concluded in Chennai on Tuesday. The players couldn't have asked for better mentors to train with than the five-time former World champion Viswanathan Anand and the legendary Boris Gelfand.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-players-learn-a-lot-in-camp-under-viswanathan-anand-boris-gelfand/articleshow/91648093.cms",
+         "pubDate" : "Wed, 18 May 2022 16:56:52 +0000",
+         "title" : "Indian players 'learn a lot' in camp under Viswanathan Anand, Gelfand"
+      },
+      {
+         "description" : "May 17 was a good day in&#38;nbsp;Titled Tuesday for two familiar faces: GM Jose Martinez, winning the early event by a full point, and GM Alexander Grischuk, taking the late tournament with a round to spare. Martinez also finished fifth in the late...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-grischuk-win-titled-tuesday-may-17-2022",
+         "pubDate" : "Wed, 18 May 2022 08:57:57 -0700",
+         "title" : "Martinez, Grischuk Crush May 17 Titled Tuesday"
+      },
+      {
          "description" : "Magnus Carlsen and Aryan Tari celebrated Norway's Constitution Day together on Tuesday, but they'll be facing off against each other when the Chessable Masters starts on Thursday May 19th at 18:00 CEST (12:00 ET, 21:30 IST). Ding Liren, confirmed as playing the Candidates Tournament in under a month, Anish Giri, Shakhriyar Mamedyarov and Praggnanandhaa will be among the other favourites for tournament victory.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1690,14 +1722,6 @@ news_feed (
          "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
       },
       {
-         "description" : "The Russian Chess Federation&#39;s appeal against GM Sergey Karjakin&#39;s six-month ban was dismissed by the FIDE Ethics and Disciplinary Commission (EDC). This opens the door for GM Ding Liren to replace Karjakin in the FIDE Candidates Tournament. The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/karjakin-appeal-dismissed-fide-candidates-ding",
-         "pubDate" : "Fri, 06 May 2022 07:43:00 -0700",
-         "title" : "Karjakin Appeal Dismissed: Door Open For Ding To Enter Candidates"
-      },
-      {
          "description" : "Sergey Karjakin, the controversial former world chess title challenger, looks set to miss the Candidates Tournament after the World Chess Federation FIDE dismissed his appeal against a 6-month ban from chess. Pending a new appeal to the Court of Arbitration of Sport, the ruling leaves the way open for China's No.1 Ding Liren who, as the highest-rated player in the FIDE rankings list not yet to have qualified, stands in line to take the Russian's place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2042,14 +2066,6 @@ news_feed (
          "title" : "Passed pawns are powerful"
       },
       {
-         "description" : "Opening theory has come a long way, from the ECO codes to the current digital, multimedia publications. The ChessBase Opening Encyclopaedia is more than a compilation of writings on opening variations. It also has opening videos, tutorials, databases and games, annotated and unannotated. For who is it intended? For everyone who wants to learn.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/encyclopaedia-review-2022-part-1",
-         "pubDate" : "Tue, 03 May 2022 08:35:00 +0100",
-         "title" : "Opening Encyclopaedia 2022 Review: Open Games"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,14 +2088,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33842004/chess-olympiad-viswanathan-anand-mentor-india-two-teams-open-women-section?device=featurephone",
          "pubDate" : "Mon, 2 May 2022 12:42:05 -0500",
          "title" : "Chess Olympiad: Anand to mentor India, hosts to field two teams"
-      },
-      {
-         "description" : "What is the most important phase of the game? Surprisingly, many club players get the answer wrong. Usually, they put a lot of effort into positions that are approximately equal. However, once they get a much better or much worse position, they tend to relax a bit. In an almost winning position, a voice in the head of such a player whispers: \"You are great, my dear, and you have proved that already. The rest of the game is a mere formality.\" And in a lost position, this voice says: \"You have played rubbish. Ok, you have to pretend some fight, but the game is decided already, you will surely be defeated.\" Although psychologically understandable, this approach is wrong. Why? | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-9-fight-till-the-very-end",
-         "pubDate" : "Mon, 02 May 2022 18:00:00 +0100",
-         "title" : "The Winning Academy 9: Fight till the very end!"
       },
       {
          "description" : " <p class=\"lead\">Noam Sason, 8, <a href=\"https://www.timesofisrael.com/8-year-old-israeli-wins-european-chess-championship/\">won the European school chess championship</a> for children under 9 in Rhodes, Greece. He scored 7 out of 9 and defeated players from Turkey, Greece, Georgia, Romania, and Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/97B79EE5-A3AE-4E04-84ED-3BA751F14363.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Spectators at the 2016 World Chess Championship Match in New York's South Street Sea Port</div> </div> Noam's success comes on the heels of his other chess accomplishments, as well as support from his parents",
@@ -2162,7 +2170,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;ic&#107;&#104;&#x61;&#x6d;&#64;b&#116;&#105;&#x6e;&#x74;er&#110;&#x65;&#x74;&#x2e;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;i&#x63;&#107;h&#x61;&#109;&#64;&#x62;&#116;i&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;c&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
