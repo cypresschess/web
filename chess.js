@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MPL 31st National U-18 (Open &#38; Girls) Chess Championship 2022 held at Dr. Mahalingam College of Engineering &#38; Technology, Pollachi, Tamilnadu from 18-23 April 2022",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-31st-national-under-18-open-girls-chess-championships-2022/",
+         "pubDate" : "Wed, 18 May 2022 05:18:03 +0000",
+         "title" : "MPL 31st National Under-18 (Open & Girls) CHESS CHAMPIONSHIPS - 2022"
+      },
+      {
+         "description" : "RE: AICF STATE SCHOOLS CHESS SELECTION TOURNAMENT 2022 It is a matter of great pride that the 44th Chess Olympiad will be hosted by India at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-state-schools-chess-tournament/",
+         "pubDate" : "Wed, 18 May 2022 04:35:12 +0000",
+         "title" : "AICF State Schools Chess Tournament"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby begins a series on beating Black&#039;s King&#039;s Indian Defense. 2022.05.17<br /> E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Peter Heine Nielsen vs Boris Kantsler, European Championship (2001)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1168439\">https://www.chessgames.com/perl/chessgame?gid=1168439</a><br /> Boris Gelfand vs Veselin Topalov, Hoogovens Group A (1996)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1048390\">https://www.chessgames.com/perl/chessgame?gid=1048390</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "Superbet Rapid&Blitz Warsaw 2022 opens tomorrow"
       },
       {
-         "description" : "Our discount day live stream has plenty of wonderful ChessBase guests ZOOMing in. Daniel King, Robert Ris, Sipke Ernst, Elisabeth Paehtz, Nick Pert, Svitlana Demchenko, Lawrence Trent, Karsten Mueller, Markus Ragger, and Andrew Martin will join the host, Arne Kaehler, and share their Fritztrainer knowledge with you. Larry Kaufman, and Mark Lefler will talk about the new Komodo 3! See you on twitch.tv or YouTube at 4pm CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/25-chessbase-live-stream-today",
-         "pubDate" : "Tue, 17 May 2022 14:55:00 +0100",
-         "title" : "25 % ChessBase Live Stream today!"
-      },
-      {
          "description" : " For those of a certain generation, <a href=\"https://en.wikipedia.org/wiki/Zork\">Zork</a> was one of the great computer games. While it wasn't the first \"Adventure Game\" it was probably the first great adventure game. A few years ago I came across a link to the source code for the program, which on one level is fantastic. The slight drawback is that is written in <a href=\"https://en.wikipedia.org/wiki/MDL_(programming_language)\">MDL</a> which is a long obsolete modelling language. Nonetheless, if you want to see how the original Zork was written, you can do so <a href=\"https://github.com/MITDDC/zork\">here</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/us-elementary-school-k-6-champions-crowned/",
          "pubDate" : "Tue, 17 May 2022 11:29:12 +0000",
          "title" : "US Elementary School (K-6) Champions crowned"
-      },
-      {
-         "description" : "Discount Day 2022 begins on Monday, May 16 at 4:00 p.m. and ends on Wednesday, May 18 at 10.00 a.m. CEST (midnight in California). We are offering you a 25% discount on all our products. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products that are being released. The biggest attraction: the brand new Komodo Dragon 3. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-is-your-chance-big-discount-day-2",
-         "pubDate" : "Tue, 17 May 2022 12:00:00 +0100",
-         "title" : "This is your chance: big Discount Day"
       },
       {
          "description" : "",
@@ -1474,14 +1474,6 @@ news_feed (
          "title" : "The extraordinary Ignatz Von Kolisch: champion, patron, banker"
       },
       {
-         "description" : "&#160; MPL 9th National Amateur Chess Championship organized by Jaipur District Chess Association on behalf of Rajasthan Chess Association held at Mahal Rajwada Resort, Vaishali",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-9th-national-amateur-chess-championship-2022-tournament-report/",
-         "pubDate" : "Sun, 08 May 2022 03:41:57 +0000",
-         "title" : "MPL 9th National Amateur Chess Championship-2022 Tournament Report"
-      },
-      {
          "description" : "For the third round in a row, the players delivered one win and four draws. This round saw the hometown hero, GM Bogdan-Daniel Deac, win against GM Richard Rapport after the latter first let go of a decisive advantage and then a perpetual check. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1826,14 +1818,6 @@ news_feed (
          "title" : "Chessable English Seniors Championships - RESULTS"
       },
       {
-         "description" : "Please find the live link for 9th MPL National Amateur Chess Championship-2022 at Jaipur MPL National Amateur-2022 (MPL National Amateur Chess Championship-2022) https://view.livechesscloud.com#372a1f89-2cb8-4a76-b366-8ed72e9589da",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-9th-mpl-national-ametur-2022/",
-         "pubDate" : "Thu, 05 May 2022 05:18:50 +0000",
-         "title" : "Live link for 9th MPL National Ametur-2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2122,6 +2106,14 @@ news_feed (
          "title" : "May rating list: five young players debut in Top-100 Open"
       },
       {
+         "description" : "Our columnist Jon Speelman found an old book by Alexey Suetin on his shelves. \"Scribed in the ancient English descriptive tongue, I hadn't touched it for years, but when opened, it proved to be a treasure trove of 'old chestnuts', some of which I'm going to share\". | Photo: The Spruce Crafts",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-169",
+         "pubDate" : "Sun, 01 May 2022 20:00:00 +0100",
+         "title" : "A fistful of chestnuts"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2136,6 +2128,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2022",
          "pubDate" : "Sun, 1 May 2022 20:14:00 +0400",
          "title" : "Russian Team Championship 2022 - Games and Results"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 77th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pawn majorities. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-77-pawn-majorities-1",
+         "pubDate" : "Sun, 01 May 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 77: Pawn Majorities (1)"
       },
       {
          "description" : "Just in from ECF President Dominic Lawson To the England Team Juniors On behalf of the English Chess Federation, I am writing to congratulate...",
@@ -2154,7 +2154,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#x72;&#46;&#x77;&#105;&#x63;&#x6b;h&#x61;&#109;&#x40;&#98;&#x74;&#105;n&#x74;&#101;&#x72;&#110;&#x65;&#116;&#46;&#x63;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;i&#x63;&#107;h&#x61;&#109;&#64;&#x62;&#116;i&#x6e;&#x74;e&#x72;&#x6e;&#101;&#x74;&#x2e;&#99;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
