@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system). The time control of Rapid games will be 25 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-poland-2022-pairings-and-timetable/",
+         "pubDate" : "Wed, 18 May 2022 21:52:01 +0000",
+         "title" : "Grand Chess Tour Poland 2022 pairings and timetable"
+      },
+      {
+         "description" : " This week's guest on the Master Chess Web Show was GM Keith Arkell. In one of the most illuminating shows yet, Keith explained much about his view of strategy and gave insights into the life of a chess professional: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-14/\">Master Chess Web Show (14)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-14/",
+         "pubDate" : "Wed, 18 May 2022 20:16:55 +0000",
+         "title" : "Master Chess Web Show (14)"
+      },
+      {
+         "description" : " The Superbet Rapid & Blitz takes place in Warsaw 17th to 24th May 2022. Players: Fabiano Caruana, Richard Rapport, Wesley So, Levon Aronian, Viswanathan Anand, Jan-Krzysztof Duda, Radoslaw Wojtaszek, Anton Korobov, Kirill Shevchenko and David Gavrilescu. Play starts at 13:00 BST each day.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2022",
+         "pubDate" : "Wed, 18 May 2022 23:24:00 +0400",
+         "title" : "Superbet Rapid & Blitz 2022 - "
+      },
+      {
+         "description" : " The Chessable Masters take place Thu 19th May to Thu 26th May 2022 on chess24. This is an online event and part of the Meltwater Champions Chess Tour. Players: Magnus Carlsen, Ding Liren, Shakhriyar Mamedyarov, Jorden Van Foreest, Anish Giri, Wei Yi, David Anton Guijarro, Santosh Vidit, Sam Shankland, R Praggnanandhaa, Pentala Harikrishna, Nils Grandelius, Aryan Tari, Eric Hansen, Gawain C B Jones and Abhimanyu Mishra. Play starts at 17:00 BST each day.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2022",
+         "pubDate" : "Wed, 18 May 2022 23:19:00 +0400",
+         "title" : "Chessable Masters 2022 - "
+      },
+      {
          "description" : "As expected, Ding Liren is the eighth participant in the Candidates Tournament 2022. The Chinese top GM replaces the suspended Sergey Karjakin as the highest-rated player after World Champion Carlsen. The Candidates Tournament begins on 17 June in Madrid and the winner will play Magnus Carlsen for the World Championship.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-2022-february-top-picks/",
          "pubDate" : "Tue, 17 May 2022 12:34:28 +0000",
          "title" : "Chess 2022 - February Top Picks"
-      },
-      {
-         "description" : "The 10th jubilee edition of the TCEC Cup starts this Tuesday at 17.00 UTC (19:00 CEST, 13:00 ET). The best 32 engines are going to meet in a direct knockout event. Top seeded is the winner of TCEC Cup 9 and the TCEC League Stockfish. The other participants are seeded by their final standing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tcec-cup-10-starts-today/",
-         "pubDate" : "Tue, 17 May 2022 12:03:00 +0000",
-         "title" : "TCEC Cup 10 starts today"
       },
       {
          "description" : "",
@@ -2162,15 +2186,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : " Jules Arnous de Rivière (1830-1905), also known as Arnous-Rivière, was perhaps the strongest chess player in France between the mid 1850s and the mid 1880s. He was ranked in the world's top 20 for some time, his highest position, according to Rod Edwards' retrospective analysis, being 11th with a rating of 2556 in 1859. By <a href=\"https://chessimprover.com/jules-arnous-de-riviere/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Jules Arnous de Rivière\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/jules-arnous-de-riviere/\">Jules Arnous de Rivière</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/jules-arnous-de-riviere/",
-         "pubDate" : "Sun, 01 May 2022 09:30:29 +0000",
-         "title" : "Jules Arnous de Rivière"
-      },
-      {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;i&#x63;&#107;h&#x61;&#109;&#64;&#x62;&#116;i&#x6e;&#116;e&#x72;&#110;e&#x74;&#46;c&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#x77;&#x69;&#x63;&#x6b;ha&#109;&#64;&#x62;&#x74;&#x69;&#x6e;te&#114;&#110;&#101;&#x74;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
