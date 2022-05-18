@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 17 May, the Polish National Championships ended in Kruszwica. In the open tournament, played in knockout format, defending champion Radoslaw Wojtaszek won his fifth title. But the women's tournament ended with a big surprise. | Photos: Polish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wojtaszek-and-rudzinska-win-polish-championships-2022",
+         "pubDate" : "Wed, 18 May 2022 12:17:09 +0100",
+         "title" : "Wojtaszek and Rudzinska win Polish Championships 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1765",
+         "pubDate" : "Wed, 18 May 2022 10:45:25 +0000",
+         "title" : "Munich will host a leg of Women's Grand Prix 2022-23"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1755",
+         "pubDate" : "Wed, 18 May 2022 10:26:36 +0000",
+         "title" : "Chess and brain ageing"
+      },
+      {
+         "description" : "The Azerbaijan Women's Chess Championship 2022 takes place in Baku from 16 to 23 May. Live broadcast of the games will be daily on Chessdom.com. (scroll down for more information about the event) . Eight participants compete in a round-robin tournament of 7 rounds fighting for the trophy of the National Championship and the total []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2022-live/",
+         "pubDate" : "Wed, 18 May 2022 09:58:49 +0000",
+         "title" : "Azerbaijan Women's Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "National Rapid and Blitz, Nasik Certificates are out to download Links : Blitz https://aicf.online/National-Blitz.html Rapid https://aicf.online/National-Rapid.html Any Correction Mail at Aicfwebmaster2021@gmail.com &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-rapid-and-blitz-certificates-out-to-download/",
+         "pubDate" : "Wed, 18 May 2022 09:51:04 +0000",
+         "title" : "National Rapid and Blitz Certificates out to download"
+      },
+      {
+         "description" : "Teen Indian sensation Rameshbabu Praggnanandhaa currently is giving his 11th-grade exams, same time expecting the start of the Chessable Masters which kicks off tomorrow, Thursday, 19th of May. Praggnanandhaa will face Wei Yi in the first round, completing the Day 1 with the games against Anish Giri, Aryan Tari and Nils Grandelius. Pairings, schedule and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/11th-grade-exams-are-the-best-preparation-for-chessable-masters-tweetoftheday/",
+         "pubDate" : "Wed, 18 May 2022 09:26:40 +0000",
+         "title" : "11th-grade exams are the best preparation for Chessable Masters?! #TweetOftheDay"
+      },
+      {
+         "description" : "The Superbet Rapid & Blitz Poland will be held at the Museum of the History of Polish Jews in Warsaw on May 17-23. It will feature four full tour players and six wildcard players. The field will be headed by Fabiano Caruana, Wesley So and Levon Aronian. Vishy Anand and Jan-Krzysztof Duda are the highest-rated wildcards included in the mix. The first round of the Rapid Tournament starts 19 May, 14.00 CEST (8.00 EST, 12.00 UTC). | Photo: Lennart Ootes (Croatia GCT, 2019)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2022-preview",
+         "pubDate" : "Wed, 18 May 2022 10:04:55 +0100",
+         "title" : "Anand among wildcards at the Superbet Rapid & Blitz in Poland"
+      },
+      {
+         "description" : "&#160;The Chessable Masters kicks off tomorrow and takes place from 19 26 May. The 16-player $150,000 tournament is the 4th stage of the $1.6 million Meltwater Champions Chess Tour.&#160; The first round of the event starts at 18:00 CEST on Thursday, featuring four days of Preliminaries, where the 16 players will play each other []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-masters-live/",
+         "pubDate" : "Wed, 18 May 2022 08:59:48 +0000",
+         "title" : "Chessable Masters LIVE"
+      },
+      {
          "description" : "MPL 31st National U-18 (Open &#38; Girls) Chess Championship 2022 held at Dr. Mahalingam College of Engineering &#38; Technology, Pollachi, Tamilnadu from 18-23 April 2022",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,6 +104,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-sf-erigaisi-niemann",
          "pubDate" : "Tue, 17 May 2022 15:43:44 -0700",
          "title" : "Erigaisi Knocks Out Niemann: 2022 Junior Speed Chess Championship SF"
+      },
+      {
+         "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet chess classic. The game of the day is the clutch victory by Maxime Vachier-Lagrave in the tiebreak vs Levon Aronian which secured him the tournament win. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-a-nice-squeeze-by-caruana-2",
+         "pubDate" : "Tue, 17 May 2022 23:00:00 +0100",
+         "title" : "The Weekly Show: A clutch victory by Maxime Vachier-Lagrave"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows lessons based on the book &quot;Chess Secrets: The Giants of Power Play&quot; by Neil McDonald. BUY THE BOOK: <a href=\"https://everymanchess.com/products/chess-secrets-the-giants-of-power-play-learn-from-topalov-geller-bronstein-alekhine-and-morphy?variant=17966563131454\">https://everymanchess.com/products/chess-secrets-the-giants-of-power-pla...</a> 2022.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-secret",
@@ -194,14 +266,6 @@ news_feed (
          "title" : "Erigaisi Routs Comeback King Muradli: 2022 Junior Speed Chess Championship QF"
       },
       {
-         "description" : "The&#160;79th LOTTO Polish Championship&#160;and the&#160;74th Polish Women&#x2019;s Chess Championship&#160;simultaneously take place in Kruszwica, from 9-17 May 2022. The Open section event was played as a 16 players knockout tournament, with Radoslaw&#160;Wojtaszek and Kacper Piorun proceeding to the finals. The final match of two games started with a quick draw after only 16 moves but the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wojtaszek-and-rudzinska-win-polish-chess-championships-2022/",
-         "pubDate" : "Tue, 17 May 2022 09:07:30 +0000",
-         "title" : "Wojtaszek and Rudzinska win Polish Chess Championships 2022"
-      },
-      {
          "description" : "Passed pawns can be very powerful and they are even more dangerous if they have help from their king. In the diagrammed position it is White to move, and what did he do with his king to support his passed pawns to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,22 +288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1767",
          "pubDate" : "Mon, 16 May 2022 21:07:21 +0000",
          "title" : "21st IPCA World Championship 2022: Andrei Obodchuk clinches title"
-      },
-      {
-         "description" : "The award named after Serbian grandmaster Svetozar Gligoric was established by FIDE in 2012. FIDE General Assembly in 2012 has accepted the proposal of the Serbian Chess Federation to establish the award for fair play which would be named after the legendary Svetozar Gligoric who passed away earlier that year. The FIDE Presidental Board decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nominations-for-gligoric-trophy-2021/",
-         "pubDate" : "Mon, 16 May 2022 21:07:16 +0000",
-         "title" : "Nominations for Gligoric Trophy 2021"
-      },
-      {
-         "description" : "True to her Petrosian-esque reputation of a strong match player who does not often win tournaments, Leela Chess Zero defeated Komodo Dragon 54.5-45.5 (+24 -15 =61) to win the TCEC Subfinal. The match started out closely contested, with Leela scoring wins in games 1 &#38; 5 before Komodo Dragon evened the score with its own []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/leela-chess-zero-wins-the-tcec-subfinal/",
-         "pubDate" : "Mon, 16 May 2022 21:03:51 +0000",
-         "title" : "Leela Chess Zero wins the TCEC Subfinal"
       },
       {
          "description" : "",
@@ -1338,14 +1386,6 @@ news_feed (
          "title" : "Circular Letter No.2/2022"
       },
       {
-         "description" : "Kindly find attached links for live games of MPL 34th National Under - 14 Open &#38; Girls Chess Championships 2022 going on Ahmedabad, Gujarat. Open : https://view.livechesscloud.com/#3781caaa-20c5-40ff-acaf-b567bfea710c",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-of-mpl-34th-national-under-14-open-girls-chess-championships-2022/",
-         "pubDate" : "Mon, 09 May 2022 04:20:01 +0000",
-         "title" : "live games of MPL 34th National Under - 14 Open & Girls Chess Championships 2022"
-      },
-      {
          "description" : "The 13th week of the Rapid Chess Championship, brought to you by Coinbase, saw GM Hikaru Nakamura outwit a strong field and take home the top spot in the knockout while GM Samuel Sevian won the Swiss event by a convincing one-point margin.&#38;nbsp; ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2066,14 +2106,6 @@ news_feed (
          "title" : "Mr. Fumey announces his candidacy for FIDE President"
       },
       {
-         "description" : "In his Endgame Magic Show #192 Karsten M&uuml;ller has a very special guest. Tichon Cherniaev, who's now in Hamburg, joins Karsten on an interesting endgame journey. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-show-192-highlights-from-the-charity-cup",
-         "pubDate" : "Mon, 02 May 2022 13:00:00 +0100",
-         "title" : "Endgame Magic Show #192: Tichon Cherniaev"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91260418.cms\" />Two teams each will represent India in the Open and women's section at the 44th Chess Olympiad with five-time world champion Viswanathan Anand being named as the hosts' mentor for the prestigious tournament scheduled to be played from July 28 to Aug 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2106,14 +2138,6 @@ news_feed (
          "title" : "May rating list: five young players debut in Top-100 Open"
       },
       {
-         "description" : "Our columnist Jon Speelman found an old book by Alexey Suetin on his shelves. \"Scribed in the ancient English descriptive tongue, I hadn't touched it for years, but when opened, it proved to be a treasure trove of 'old chestnuts', some of which I'm going to share\". | Photo: The Spruce Crafts",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-169",
-         "pubDate" : "Sun, 01 May 2022 20:00:00 +0100",
-         "title" : "A fistful of chestnuts"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2128,14 +2152,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2022",
          "pubDate" : "Sun, 1 May 2022 20:14:00 +0400",
          "title" : "Russian Team Championship 2022 - Games and Results"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 77th instalment of his ChessBase show \"Understanding before Moving\", Herman talks about pawn majorities. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-77-pawn-majorities-1",
-         "pubDate" : "Sun, 01 May 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 77: Pawn Majorities (1)"
       },
       {
          "description" : "Just in from ECF President Dominic Lawson To the England Team Juniors On behalf of the English Chess Federation, I am writing to congratulate...",
@@ -2154,7 +2170,7 @@ news_feed (
          "title" : "Jules Arnous de Rivière"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;i&#x63;&#107;h&#x61;&#109;&#64;&#x62;&#116;i&#x6e;&#x74;e&#x72;&#x6e;&#101;&#x74;&#x2e;&#99;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#x72;&#46;&#x77;&#x69;&#99;&#x6b;&#x68;&#97;&#x6d;&#x40;&#98;&#x74;&#x69;&#110;&#x74;&#x65;&#114;&#x6e;&#x65;&#116;&#x2e;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2280,22 +2296,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-indian-gm-praggnanandhaa-falters-in-final-round-of-oslo-event-finishes-fourth/articleshow/91171783.cms",
          "pubDate" : "Fri, 29 Apr 2022 06:13:38 +0000",
          "title" : "Indian GM Praggnanandhaa falters in final round of Oslo event, finishes fourth"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1718",
-         "pubDate" : "Thu, 28 Apr 2022 21:37:31 +0000",
-         "title" : "Duda comes from behind to win Oslo Esports Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1717",
-         "pubDate" : "Thu, 28 Apr 2022 19:14:27 +0000",
-         "title" : "Grand Chess Tour becomes part of the World Championship Cycle"
       },
       {
          "description" : " Broadcasting tournament games used to rely on having your own dedicated website. These days chess platforms have realised that such broadcasts can help bring users in, and have started offering it as a free service. Chess24 were probably the pioneers here, but other platforms are catching up. Both chess.com and lichess contacted me to stream the O2C Doeberl Cup this year, while 'Follow chess' normally carries it as well. If you are an organiser looking to use these services, each platform normally has instructions to follow (eg <a href=\"https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom\">https://www.chess.com/article/view/how-to-broadcast-your-games-on-chesscom</a> f",
