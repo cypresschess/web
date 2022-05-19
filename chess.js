@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2nd leg of the Romanian Grand Prix 2022 will take place from 4-11 June in Targu Mures. Read more: Baadur Jobava wins 1st Romanian Grand Prix event / Romanian Grand Prix 2022 Basic information The city of Targu Mures will simultaneously host two tournaments: A (part of the Romanian Grand Prix for players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-grand-prix-2022-stage-2/",
+         "pubDate" : "Thu, 19 May 2022 11:12:51 +0000",
+         "title" : "Romanian Grand Prix 2022 - Stage 2"
+      },
+      {
+         "description" : "The Chess in School conference &#8220;Chess a Game to be Spread in Schools&#8221; a took place on 14th May 2022 in Dorint Airport Hotel, Zurich. On behalf of Swiss Chess Federation Secretary General Mr. Oliver Marti welcomed all participants in Zurich. Main items in the program: CGS project overall presentation Psychomotricity on giant chessboard - CASTLE/ERASMUS+ project Report&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-schools-conference-successfully-concluded-in-zurich/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-schools-conference-successfully-concluded-in-zurich/",
+         "pubDate" : "Thu, 19 May 2022 11:04:27 +0000",
+         "title" : "\"Chess a Game to be Spread in Schools\" Conference successfully concluded in Zurich"
+      },
+      {
+         "description" : "Munich will host the third leg of the FIDE Women's Grand Prix 2022-23, to be held from February 1-14, 2023. The venues, dates, and details for the other three legs in the WGP Series will be announced at the end of May. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/munich-to-host-a-leg-of-women-s-grand-prix-2022-23",
+         "pubDate" : "Thu, 19 May 2022 11:10:52 +0100",
+         "title" : "Munich to host a leg of Women's Grand Prix 2022-23"
+      },
+      {
+         "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; The Rapid part of the championship is played from 19-21 May and the Blitz part will take place on 22-23 May. The games will be broadcasted live on Chessdom.com.&#xA0;Pairings &#38; Timetable / All information about the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-poland-2022-live/",
+         "pubDate" : "Thu, 19 May 2022 09:21:50 +0000",
+         "title" : "Grand Chess Tour Poland 2022 LIVE"
+      },
+      {
+         "description" : "Chessable English Championship and Chessable English Women&#x2019;s Championship 2022 take place on 19th-22nd May 2022 in Kenilworth. Two weeks earlier, the English Chess Federation announced National Champions among Seniors and the series of National competitions continue today with Open and Women's events. The Open event attracted 33 entries and the top seeds are: GM Mark []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-english-championships-2022-live/",
+         "pubDate" : "Thu, 19 May 2022 09:07:50 +0000",
+         "title" : "Chessable English Championships 2022 LIVE"
+      },
+      {
+         "description" : "Users of ChessBase are undoubtedly familiar with the Player Encyclopedia that comes with Mega Database, a massive archive of players and photos that allow you to view games with a picture of that player instead of just their name. There is an online version with ChessBase Account, but offers much more. Read the tutorial or watch the video to find out why.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/online-player-encyclopedia-players-profiles-and-pictures",
+         "pubDate" : "Thu, 19 May 2022 09:48:25 +0100",
+         "title" : "Online Player Encyclopedia - Players, profiles, and pictures (with video!)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -250,36 +298,12 @@ news_feed (
          "title" : "Wilhelm Steinitz, the thinker, and the dawning of chess' classical age"
       },
       {
-         "description" : "The Peruvian Open and Women's National Chess Championships 2022 will take place from 17-22 May in Lima.LIVE now: Czech National Chess Championship 2022 The Open event attracted 47 entries who will compete for the National Champion title in 9 swiss rounds, with time control: 90 minutes + 30 seconds of an increment per each move. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peruvian-chess-championships-2022/",
-         "pubDate" : "Tue, 17 May 2022 16:47:54 +0000",
-         "title" : "Peruvian Chess Championships 2022"
-      },
-      {
-         "description" : "The Czech National Open Chess Championship 2022 is an open tournament taking place from 14-22 May 2022 in Usti nad Labem. 48 players compete in the 9 rounds swiss event and the top seeds are 10 times Czech Champion GM David Navara, Czech Champion in 1993 and 2008 GM Vlastimil Babula and GM Zbynek Hracek []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/czech-national-chess-championship-2022-live/",
-         "pubDate" : "Tue, 17 May 2022 16:08:04 +0000",
-         "title" : "Czech National Chess Championship 2022 LIVE"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg\" data-image-dimensions=\"2048x1536\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62839325e1583034f3e1aa99\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg?format=1000w\" /> </figure> <p class=\"\"><br>Photo by Nathan Kelly of the <a href=\"https://www.facebook.com/NationalBlitzLeague/\">National Blitz League</a> <p class=\"\"><strong>This week's</strong><a href=\"https://www.pe",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/17/ep-279-derek-wilder-adult-improver-series-derek-wilder-on-the-key-lessons-that-helped-him-break-through-a-multi-year-plateau-and-ascend-to-a-uscf-2000-rating",
          "pubDate" : "Tue, 17 May 2022 16:07:35 +0000",
          "title" : "EP 279- Derek Wilder (Adult Improver Series)- The key lessons that helped an 1800 break through to a USCF 2000 rating. "
-      },
-      {
-         "description" : "15-year-old Indian grandmaster Gukesh Dommaraju&#160;showed an amazing performance this summer winning three open tournaments in Spain:&#160;1st Chessable Sunway Formentera Chess Festival 2022,&#160;1st Menorca Chess Open 2022&#160;and the 48th La Roda Open 2022. Gukesh scored 22/26 points staying unbeaten during all three events. After the Menorca Open, he had the live rating of 2660, leaping to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-gukesh-d-ultimate-goal-is-to-be-the-number-one-in-the-world/",
-         "pubDate" : "Tue, 17 May 2022 15:47:17 +0000",
-         "title" : "Interview with Gukesh D: \"Ultimate goal is to be the number one in the World\""
       },
       {
          "description" : "The series of the Grand Chess Tour 2022 events continues from 17th -23th May with the Superbet Rapid&#38;Blitz in Warsaw, Poland. The event opens tomorrow and kicks off with the Round 1 on Thursday, 19th May. Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system).&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/superbet-rapidblitz-warsaw-2022-opens-tomorrow/\">Read More &#187;</a></span>",
@@ -2058,14 +2082,6 @@ news_feed (
          "title" : "EP 277-GM Kirill Shevchenko and WFM Maria Emelianova, a Ukrainian GM and a Russian Chess Streamer, on How the Russian-Ukrainian War Impacts their lives, their Careers and the Chess World"
       },
       {
-         "description" : "The Superbet Chess Classic Romania will be held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It will include all nine full tour players and one wildcard player, Romanian Grandmaster Bogdan-Daniel Deac. A star-studded field has Alireza Firouzja, Levon Aronian and Fabiano Caruana as the top seeds. | Photo: Lennart Ootes (2021)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-preview",
-         "pubDate" : "Tue, 03 May 2022 11:00:00 +0100",
-         "title" : "The Grand Chess Tour kicks off in Romania"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2080,22 +2096,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/27th-tepe-sigeman-co-chess-tournament-2022",
          "pubDate" : "Tue, 3 May 2022 13:50:00 +0400",
          "title" : "27th TePe Sigeman & Co Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "The Superbet Chess Classic Romania, the first event of the 2022 Grand Chess Tour series, opens tomorrow in Bucharest and will be played from 4th to 15th May. 10 players participate in the event which will be played in 9 rounds, round robin system: Alireza Firouzja, Ian Nepomniachtchi, Levon Aronian, Richard Rapport, Fabiano Caruana, Maxime Vachier-Lagrave, Wesley So,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/superbet-chess-classic-romania-2022-opens/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/superbet-chess-classic-romania-2022-opens/",
-         "pubDate" : "Tue, 03 May 2022 09:40:27 +0000",
-         "title" : "Superbet Chess Classic Romania 2022 opens"
-      },
-      {
-         "description" : "Passed pawns are often strong and connected passed pawns are even stronger. In the diagrammed position it is White to move - how can he use the power of his passed pawns to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-2",
-         "pubDate" : "Tue, 03 May 2022 09:00:00 +0100",
-         "title" : "Passed pawns are powerful"
       },
       {
          "description" : "",
@@ -2194,7 +2194,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;c&#x6b;h&#97;&#x6d;&#64;&#x62;&#116;&#x69;n&#x74;e&#114;&#x6e;&#101;&#x74;&#46;&#x63;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;bti&#110;&#116;&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
