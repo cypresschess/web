@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich looks at the opening ceremony, drawing of lots, simul exhibition, and more before the second leg of the Grand Chess Tour. 2022.05.18<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-opening-ceremony\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vpJFHfm-aXE.jpg?",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-opening-ceremony",
+         "pubDate" : "Thu, 19 May 2022 13:54:29 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Opening Ceremony"
+      },
+      {
+         "description" : " For a while it looked like Arkady Dvorkovich was going to be re-elected as FIDE President without a challenger. Then the Russian invasion of Ukraine upended that calculation, although it still seemed like a number of potential challengers were still laying low. First out of the blocks was Enyonam Fumey (Former FIDE Secretary) with Stuart Fancy as his running mate. Then Dvorkovich officially announced he was running, with former World Champion Viswanathan Anand as his Deputy. And just today Andrii Baryshpolets, a US based Ukrainian GM has announced he also plans to run. The Fumey camp has released an early set of policies and positions, while Baryshpolets is campaigning on the promise to bri",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/fide-elections.html",
+         "pubDate" : "Thu, 19 May 2022 13:48:00 +0000",
+         "title" : "FIDE Elections"
+      },
+      {
+         "description" : "Men's Health, the world's largest men's magazine with 35 editions in 59 countries, yesterday published an article giving answers to how fit you really need to be to sit still and move pawns around. (scroll down for the full text) The Workout Bucket List book featuring a collection of exercises states that you need to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/how-fit-do-you-really-need-to-be-to-sit-still-and-move-pawns-around-tweetoftheday/",
+         "pubDate" : "Thu, 19 May 2022 12:33:38 +0000",
+         "title" : "How fit do you really need to be to sit still and move pawns around? #TweetOftheDay"
+      },
+      {
+         "description" : "The second tournament of the Grand Chess Tour 2022 will take place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. Fabiano Caruana, Wesley So and Levon Aronian head the field, Vishy Anand and Jan-Krzysztof Duda are the highest-rated wildcards. The first round of the Rapid Tournament starts 19 May, 14.00 CEST (8.00 EST, 12.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
+         "pubDate" : "Thu, 19 May 2022 13:30:00 +0100",
+         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
+      },
+      {
          "description" : "The 2nd leg of the Romanian Grand Prix 2022 will take place from 4-11 June in Targu Mures. Read more: Baadur Jobava wins 1st Romanian Grand Prix event / Romanian Grand Prix 2022 Basic information The city of Targu Mures will simultaneously host two tournaments: A (part of the Romanian Grand Prix for players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,7 +58,7 @@ news_feed (
          "title" : "Munich to host a leg of Women's Grand Prix 2022-23"
       },
       {
-         "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; The Rapid part of the championship is played from 19-21 May and the Blitz part will take place on 22-23 May. The games will be broadcasted live on Chessdom.com.&#xA0;Pairings &#38; Timetable / All information about the []",
+         "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; The Rapid part of the championship is played from 19-21 May and the Blitz part will take place on 22-23 May. The games will be broadcasted live on Chessdom.com.&#160;Pairings &#38; Timetable / All information about the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/grand-chess-tour-poland-2022-live/",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/european-assembly-before-olympiad/",
          "pubDate" : "Tue, 17 May 2022 20:37:58 +0100",
          "title" : "European assembly before Olympiad"
-      },
-      {
-         "description" : "Serbian Chess Federation today hold a press conference announcing the composition of National teams for the upcoming 44th Chess Olympiad 2022 which will take place in Chennai from July 28 August 10. Serbian Team (Open section): GM Velimir Ivic (2623) GM Aleksandar Indjic (2621) GM Robert Markus (2613) GM Ivan Ivanisevic (2550) GM Milos []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbia-announces-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Tue, 17 May 2022 17:34:42 +0000",
-         "title" : "Serbia announces teams for 44th Chess Olympiad 2022"
       },
       {
          "description" : "Wilhelm Steinitz looms as one of the largest figures in chess. Earning the distinction of being the first ever World Champion in 1886, he was a successful competitive player and chess journalist whose theoretical teachings revolutionized chess and laid the foundations of the modern game. He is, arguably, chess' greatest thinker.",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: New ideas in the Bayonet Attack"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila talks to Grand Chess Tour Spokesman Michael Khodarkovsky during Round 9 of the Superbet Chess Classic. 2022.05.14<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/michael-khodarkovsky-superbet-and-playoffs-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7XHwO1mqkA4.jpg?itok=0HEo14HC\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/michael-khodarkovsky-superbet-and-playoffs-round-9",
-         "pubDate" : "Sat, 14 May 2022 16:51:05 +0000",
-         "title" : "Michael Khodarkovsky on Superbet and Playoffs | Round 9"
-      },
-      {
          "description" : " Share!Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -759,7 +775,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
          "pubDate" : "Sat, 14 May 2022 10:55:00 +0100",
-         "title" : "Superbet Chess Classic - Games and standints"
+         "title" : "Superbet Chess Classic - Games and standings"
       },
       {
          "description" : "FM James Canty III and IM Kostya Kavutskiy duked it out over the board on Friday in the third round of 16 match of the IM Not A GM Speed Chess Championship. Pre-match favorite Canty was able to stave off a valiant comeback effort from Kavutskiy in...",
@@ -2050,14 +2066,6 @@ news_feed (
          "title" : "A Ukranian top talent in Hamburg"
       },
       {
-         "description" : "In his 'Weekly Show' Lawrence Trent does a round-up of the action over the past week, including the Capablanca Memorial, the Bundesliga and the Oslo Esports Cup. Lawrence also analyses a nice attacking game he played at the Bundesliga Nord Division! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-bundesliga-nord",
-         "pubDate" : "Tue, 03 May 2022 20:20:00 +0100",
-         "title" : "The Weekly Show: An attacking game from the Bundesliga Nord"
-      },
-      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras We've been rotating between different formats for the club tournament between rapid chess, chess 960, three check chess or crazy house. Now we are in the middle of a rapid chess one and last round saw an interesting game being played. The opening phase went like this: White <a href=\"https://chessimprover.com/quick-decisions-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-8/\">Quick Decisions (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2194,7 +2202,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;bti&#110;&#116;&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#x63;&#x6b;h&#97;&#x6d;&#x40;b&#116;&#x69;&#x6e;t&#101;&#x72;&#x6e;e&#116;&#46;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
