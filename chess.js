@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on the French Defense, inspired by Parimarjan Negi. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.05.18<br /> C11 French, Steinitz, Boleslavsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-5-chess-and-psychology-im-dorsa-derakhshani",
+         "pubDate" : "Thu, 19 May 2022 01:54:06 +0000",
+         "title" : "1.e4 vs. The French: Part 5 | Chess and Psychology - IM Dorsa Derakhshani"
+      },
+      {
          "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system). The time control of Rapid games will be 25 minutes []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/michael-khodarkovsky-superbet-and-playoffs-round-9",
          "pubDate" : "Sat, 14 May 2022 16:51:05 +0000",
          "title" : "Michael Khodarkovsky on Superbet and Playoffs | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to two-time European women&#039;s chess champion Natalia Zhukova during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/natalia-zhukova-ukraine-not-alone-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hC-MC7DMNcg.jpg?itok=BR0PFRG5",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/natalia-zhukova-ukraine-not-alone-round-9",
-         "pubDate" : "Sat, 14 May 2022 16:51:05 +0000",
-         "title" : "Natalia Zhukova: Ukraine is Not Alone | Round 9"
       },
       {
          "description" : " Share!Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2186,7 +2186,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#x77;&#x69;&#x63;&#x6b;ha&#109;&#64;&#x62;&#x74;&#x69;&#x6e;te&#114;&#110;&#101;&#x74;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;r&#x2e;&#119;i&#x63;&#x6b;&#104;&#x61;&#x6d;&#64;b&#x74;&#105;n&#x74;&#x65;&#114;&#x6e;&#x65;&#116;&#46;&#x63;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
