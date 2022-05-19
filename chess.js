@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wei Yi beat Harikrishna, Gawain Jones and David Anton to lead on 10/12 after Day 1 of the Chessable Masters, ahead of Ding Liren, Anish Giri and Magnus Carlsen, who all scored two wins and two draws. 13-year-old Abhimanyu Mishra, who's vowed to break Wei Yi's record as the youngest player ever to cross the 2700 barrier, was the other star, as he picked up wins over Eric Hansen and Shakhriyar Mamedyarov, while also having Ding Liren on the ropes.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-1-wei-yi-leads-as-13-year-old-mishra-stars",
+         "pubDate" : "Thu, 19 May 2022 23:10:27 +0000",
+         "title" : "Chessable Masters 1: Wei Yi leads as 13-year-old Mishra stars"
+      },
+      {
+         "description" : "Two young rookie stars took centre stage as the elite Chessable Masters e-sports chess event kicked off today. The world's youngest grandmaster Abhimanyu Mishra scored his first win over a top 10 player on the Meltwater Champions Chess Tour aged just 13 as he racked up an impressive 6/12. Mishra is ranked just 459 in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/youngsters-steal-the-show-at-chessable-masters/",
+         "pubDate" : "Thu, 19 May 2022 23:01:44 +0000",
+         "title" : "Youngsters steal the show at Chessable Masters"
+      },
+      {
+         "description" : "Today, May 19, 2022, is a historical day for Georgian chess. The Ministry of Education Mikhail Chkhenkeli has announced that starting with the next school year, chess will be a mandatory subject for first-grade students in the country. It will apply to all the 2,200 schools in Georgia, both public and private. The plan aims []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-will-be-a-compulsory-subject-in-2200-georgian-schools/",
+         "pubDate" : "Thu, 19 May 2022 23:00:00 +0000",
+         "title" : "Chess will be a compulsory subject in 2200 Georgian schools"
+      },
+      {
+         "description" : "The second leg of the Grand Chess Tour, Superbet Rapid and Blitz in Poland, kicked off yesterday, May 18th in the Museum of the History of Polish Jews in Warsaw, Poland. The opening ceremony was kicked-off with a solo violin performance followed by a drawing of lots, where each player picked up his starting numbers []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anand-with-a-perfect-start-at-grand-chess-tour-poland-2022-day-1-recap/",
+         "pubDate" : "Thu, 19 May 2022 22:39:10 +0000",
+         "title" : "Anand with a perfect start at Grand Chess Tour Poland 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1771",
+         "pubDate" : "Thu, 19 May 2022 22:11:40 +0000",
+         "title" : "Superbet Rapid & Blitz: Day 1 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1770",
+         "pubDate" : "Thu, 19 May 2022 21:30:34 +0000",
+         "title" : "Fast-start to the Chessable Masters as youngsters impress"
+      },
+      {
          "description" : "Vishy Anand scored three wins in as many games to take the lead at the rapid section of the Superbet Poland Rapid & Blitz Tournament. With six rounds of rapid left to go, the former world champion has a 2-point lead over a chasing pack consisting of Fabiano Caruana, Levon Aronian and Jan-Krzysztof Duda - players receive 2 points for a win and 1 point for a draw in the rapid. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-1",
-         "pubDate" : "Thu, 19 May 2022 11:31:22 -0700",
+         "pubDate" : "Thu, 19 May 2022 11:31:00 -0700",
          "title" : "Undefeated Anand Scores Hat Trick: 2022 Superbet Rapid & Blitz Poland, Day 1"
       },
       {
@@ -338,14 +386,6 @@ news_feed (
          "title" : "Chess and brain ageing"
       },
       {
-         "description" : "The Azerbaijan Women's Chess Championship 2022 takes place in Baku from 16 to 23 May. Live broadcast of the games will be daily on Chessdom.com. (scroll down for more information about the event) . Eight participants compete in a round-robin tournament of 7 rounds fighting for the trophy of the National Championship and the total []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-womens-chess-championship-2022-live/",
-         "pubDate" : "Wed, 18 May 2022 09:58:49 +0000",
-         "title" : "Azerbaijan Women's Chess Championship 2022 LIVE"
-      },
-      {
          "description" : "National Rapid and Blitz, Nasik Certificates are out to download Links : Blitz https://aicf.online/National-Blitz.html Rapid https://aicf.online/National-Rapid.html Any Correction Mail at Aicfwebmaster2021@gmail.com &#160;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -354,28 +394,12 @@ news_feed (
          "title" : "National Rapid and Blitz Certificates out to download"
       },
       {
-         "description" : "Teen Indian sensation Rameshbabu Praggnanandhaa currently is giving his 11th-grade exams, same time expecting the start of the Chessable Masters which kicks off tomorrow, Thursday, 19th of May. Praggnanandhaa will face Wei Yi in the first round, completing the Day 1 with the games against Anish Giri, Aryan Tari and Nils Grandelius. Pairings, schedule and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/11th-grade-exams-are-the-best-preparation-for-chessable-masters-tweetoftheday/",
-         "pubDate" : "Wed, 18 May 2022 09:26:40 +0000",
-         "title" : "11th-grade exams are the best preparation for Chessable Masters?! #TweetOftheDay"
-      },
-      {
          "description" : "The Superbet Rapid & Blitz Poland will be held at the Museum of the History of Polish Jews in Warsaw on May 17-23. It will feature four full tour players and six wildcard players. The field will be headed by Fabiano Caruana, Wesley So and Levon Aronian. Vishy Anand and Jan-Krzysztof Duda are the highest-rated wildcards included in the mix. The first round of the Rapid Tournament starts 19 May, 14.00 CEST (8.00 EST, 12.00 UTC). | Photo: Lennart Ootes (Croatia GCT, 2019)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-poland-2022-preview",
          "pubDate" : "Wed, 18 May 2022 10:04:55 +0100",
          "title" : "Anand among wildcards at the Superbet Rapid & Blitz in Poland"
-      },
-      {
-         "description" : "&#160;The Chessable Masters kicks off tomorrow and takes place from 19 26 May. The 16-player $150,000 tournament is the 4th stage of the $1.6 million Meltwater Champions Chess Tour.&#160; The first round of the event starts at 18:00 CEST on Thursday, featuring four days of Preliminaries, where the 16 players will play each other []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-masters-live/",
-         "pubDate" : "Wed, 18 May 2022 08:59:48 +0000",
-         "title" : "Chessable Masters LIVE"
       },
       {
          "description" : "MPL 31st National U-18 (Open &#38; Girls) Chess Championship 2022 held at Dr. Mahalingam College of Engineering &#38; Technology, Pollachi, Tamilnadu from 18-23 April 2022",
@@ -1770,14 +1794,6 @@ news_feed (
          "title" : "Checkmate sculptor"
       },
       {
-         "description" : "Ian Nepomniachtchi beat Alireza FIrouzja with the black pieces in Round 2 of the Superbet Chess Classic after an enthralling battle that could have gone either way. That knocked Alireza out of the 2800 club, while Ian both moved up to world no. 5 and joined Wesley So in the lead in Bucharest. The remaining games were drawn, but not without some sharp battles, most notably Mamedyarov-Rapport ,where Shakhriyar struggled to believe he wasn't winning.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-2-nepo-knocks-firouzja-out-of-2800-club",
-         "pubDate" : "Sat, 07 May 2022 07:37:30 +0000",
-         "title" : "Superbet Classic 2: Nepo knocks Firouzja out of 2800 club"
-      },
-      {
          "description" : " The chess community on the African continent is buzzing at the news of Enyonam Sewa Noël Fumey announcing his candidacy for FIDE President. According to the FIDE press release, Fumey notified current FIDE President Arkady Dvorkovich of his intentions. There was also this plea of inclusivity: \"FIDE machine is working effectively, but with my team, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/\">Togo's Fumey will stand for FIDE President</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2218,20 +2234,12 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#x77;&#x69;&#x63;kh&#97;&#109;&#x40;&#x62;&#x74;&#x69;nt&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;bti&#110;&#116;&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
          "pubDate" : "Sun, 01 May 2022 08:00:08 +0000",
          "title" : "BCET Awards 2022 - a reminder"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1721",
-         "pubDate" : "Sat, 30 Apr 2022 20:38:10 +0000",
-         "title" : "The Gift of Chess goes global"
       },
       {
          "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
@@ -2288,14 +2296,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ivanchuk-reviews-his-game-against-carlsen-during-air-raid-alert/",
          "pubDate" : "Fri, 29 Apr 2022 20:02:48 +0000",
          "title" : "Ivanchuk Reviews His Game Against Carlsen, Ignores Air Raid Alert"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1720",
-         "pubDate" : "Fri, 29 Apr 2022 19:10:26 +0000",
-         "title" : "Mwale and Priyasha win Malawian Championship"
       },
       {
          "description" : " The Oslo Esports Cup was the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr to Thu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen played in this round robin of 4 game mini-matches. This is the first tour classic of the season. In the final round leaders Magnus Carlsen and R Praggnanandhaa lost their mini-matches allowing Jan-Krzysztof Duda to come through to win the event and Le Quang Liem to finish in second place.",
