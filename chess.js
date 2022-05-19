@@ -2,12 +2,156 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich looks at the opening ceremony, drawing of lots, simul exhibition, and more before the second leg of the Grand Chess Tour. 2022.05.18<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-opening-ceremony\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vpJFHfm-aXE.jpg?",
+         "description" : "Vishy Anand scored three wins in as many games to take the lead at the rapid section of the Superbet Poland Rapid & Blitz Tournament. With six rounds of rapid left to go, the former world champion has a 2-point lead over a chasing pack consisting of Fabiano Caruana, Levon Aronian and Jan-Krzysztof Duda - players receive 2 points for a win and 1 point for a draw in the rapid. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d1",
+         "pubDate" : "Thu, 19 May 2022 20:05:00 +0100",
+         "title" : "Superbet Poland: Anand's perfect day"
+      },
+      {
+         "description" : "The first day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, was dominated by a vintage performance from GM Vishwanathan Anand, who leads the fray with a perfect score. With each win being worth two points...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-1",
+         "pubDate" : "Thu, 19 May 2022 11:31:22 -0700",
+         "title" : "Undefeated Anand Scores Hat Trick: 2022 Superbet Rapid & Blitz Poland, Day 1"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>RCadia Hotel</strong> in Hamburg, that is specializing in gaming and E-sport, will <a href=\"https://www.schachbund.de/bspnews/die-dsam-kommt-anfang-juli-nach-hamburg.html\">host a qualifier</a> of the <strong>German Amateur Chess Championship</strong> on 1-3 July. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/esport-hotel-hosts-federation-event/",
+         "pubDate" : "Thu, 19 May 2022 18:12:28 +0100",
+         "title" : "ESport hotel hosts federation event"
+      },
+      {
+         "description" : "This week Robert Ris shows how David Navara managed to beat the currently popular line with 3...a6 against the Queens Gambit Declined in a fine and instructive game played in the Czech Championship 2022. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-playing-against-3-a6-in-the-queens-gambit-declined",
+         "pubDate" : "Thu, 19 May 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Playing against 3...a6 in the Queens Gambit Declined"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-opening-ceremony",
-         "pubDate" : "Thu, 19 May 2022 13:54:29 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Opening Ceremony"
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-2",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Saint Louis Norm Congress: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Polish Chess Federation President Radosław Jedynak during Day 1 of the 2022 Superbet Rapid &amp; Blitz Poland. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/radoslaw-jedynak-duda-wojtaszek-deserve-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yB7e_pm4g-M.jpg?itok=4lnsnrg",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/radoslaw-jedynak-duda-wojtaszek-deserve-day-1",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "Radoslaw Jedynak: Duda & Wojtaszek Deserve This | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today is the middle three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-labe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-2",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-3",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today is the first blitz round robin. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-4",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today has the last blitz round robin. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-5",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-3",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Saint Louis Norm Congress: Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-4",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Saint Louis Norm Congress: Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-5",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Saint Louis Norm Congress: Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-6",
+         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
+         "title" : "2022 Saint Louis Norm Congress: Day 6"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-off-to-winning-start-in-superbet-rapid-chess-event/articleshow/91671475.cms",
+         "pubDate" : "Thu, 19 May 2022 16:47:09 +0000",
+         "title" : "Viswanathan Anand off to winning start in Superbet Rapid chess event"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play start daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Thu, 19 May 2022 17:30:00 +0100",
+         "title" : "Chessable Masters, Day 1: Live"
+      },
+      {
+         "description" : "\"The future of Indian chess looks bright!\" tweeted Anish Giri after 52-year-old Vishy Anand got off to a brilliant start in the Superbet Rapid &amp; Blitz Poland tournament in Warsaw. Vishy beat his former second Radek Wojtaszek, then sacrificed a pawn to crush world no. 8 Wesley So, then crashed through against Anton Korobov's French to end the day in the sole lead on a perfect 6/6.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/vishy-anand-with-perfect-start-in-superbet-rapid-blitz",
+         "pubDate" : "Thu, 19 May 2022 16:09:26 +0000",
+         "title" : "Vishy Anand with perfect Superbet Rapid & Blitz start"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Georgian Minister of Education <strong>Mikhail Chkhenkeli</strong> <a href=\"https://www.apsny.ge/2022/soc/1652971844.php\">announced</a> that from the next school year 2022/23 chess will be a mandatory subject for first-graders in primary schools and an elective subject in grade two and three. The curriculum and teacher training will be developed together with the <strong>Georgian Chess Federation</strong>. In neighbouring Armenia, chess has been a mandatory subject since 2011. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/georgia-makes-chess-mandatory-in/",
+         "pubDate" : "Thu, 19 May 2022 16:38:41 +0100",
+         "title" : "Georgia makes chess mandatory"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1769",
+         "pubDate" : "Thu, 19 May 2022 15:29:38 +0000",
+         "title" : "Chess will be compulsory in Georgian schools"
       },
       {
          "description" : " For a while it looked like Arkady Dvorkovich was going to be re-elected as FIDE President without a challenger. Then the Russian invasion of Ukraine upended that calculation, although it still seemed like a number of potential challengers were still laying low. First out of the blocks was Enyonam Fumey (Former FIDE Secretary) with Stuart Fancy as his running mate. Then Dvorkovich officially announced he was running, with former World Champion Viswanathan Anand as his Deputy. And just today Andrii Baryshpolets, a US based Ukrainian GM has announced he also plans to run. The Fumey camp has released an early set of policies and positions, while Baryshpolets is campaigning on the promise to bri",
@@ -24,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/how-fit-do-you-really-need-to-be-to-sit-still-and-move-pawns-around-tweetoftheday/",
          "pubDate" : "Thu, 19 May 2022 12:33:38 +0000",
          "title" : "How fit do you really need to be to sit still and move pawns around? #TweetOftheDay"
-      },
-      {
-         "description" : "The second tournament of the Grand Chess Tour 2022 will take place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. Fabiano Caruana, Wesley So and Levon Aronian head the field, Vishy Anand and Jan-Krzysztof Duda are the highest-rated wildcards. The first round of the Rapid Tournament starts 19 May, 14.00 CEST (8.00 EST, 12.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
-         "pubDate" : "Thu, 19 May 2022 13:30:00 +0100",
-         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
       },
       {
          "description" : "The 2nd leg of the Romanian Grand Prix 2022 will take place from 4-11 June in Targu Mures. Read more: Baadur Jobava wins 1st Romanian Grand Prix event / Romanian Grand Prix 2022 Basic information The city of Targu Mures will simultaneously host two tournaments: A (part of the Romanian Grand Prix for players []",
@@ -88,14 +224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championships-2022/",
          "pubDate" : "Thu, 19 May 2022 05:28:29 +0000",
          "title" : "English and English Women's Championships underway &hellip;"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani continues her series on the French Defense, inspired by Parimarjan Negi. BUY NEGI&#039;S BOOK: <a href=\"http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e4_vs_the_french_caro-kann_and_philidor_by_parimarjan_negi/\">http://www.qualitychess.co.uk/products/1/227/grandmaster_repertoire_-_1e...</a> 2022.05.18<br /> C11 French, Steinitz, Boleslavsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/1e4-v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/1e4-vs-french-part-5-chess-and-psychology-im-dorsa-derakhshani",
-         "pubDate" : "Thu, 19 May 2022 01:54:06 +0000",
-         "title" : "1.e4 vs. The French: Part 5 | Chess and Psychology - IM Dorsa Derakhshani"
       },
       {
          "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system). The time control of Rapid games will be 25 minutes []",
@@ -266,22 +394,6 @@ news_feed (
          "title" : "AICF State Schools Chess Tournament"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby begins a series on beating Black&#039;s King&#039;s Indian Defense. 2022.05.17<br /> E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> Peter Heine Nielsen vs Boris Kantsler, European Championship (2001)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1168439\">https://www.chessgames.com/perl/chessgame?gid=1168439</a><br /> Boris Gelfand vs Veselin Topalov, Hoogovens Group A (1996)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1048390\">https://www.chessgames.com/perl/chessgame?gid=1048390</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-kid-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 18 May 2022 01:53:45 +0000",
-         "title" : "Beating the KID | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows lessons based on the book \"Chess Secrets: The Giants of Power Play\" by Neil McDonald. BUY THE BOOK: <a href=\"https://everymanchess.com/products/chess-secrets-the-giants-of-power-play-learn-from-topalov-geller-bronstein-alekhine-and-morphy?variant=17966563131454\">https://everymanchess.com/products/chess-secrets-the-giants-of-power-pla...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-secrets-giants-power-play-g",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-secrets-giants-power-play-grandmasters-choice-im-dorsa-derakhshani",
-         "pubDate" : "Wed, 18 May 2022 01:53:45 +0000",
-         "title" : "Chess Secrets: The Giants of Power Play | Grandmaster's Choice - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "The second semifinal of the 2022 Junior Speed Chess Championship took place on Tuesday and featured powerhouses GMs Hans Niemann and Arjun Erigaisi, with Erigaisi claiming a 14.5-11.5 victory in just over four hours of electrifying gameplay. Nie...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -296,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-a-nice-squeeze-by-caruana-2",
          "pubDate" : "Tue, 17 May 2022 23:00:00 +0100",
          "title" : "The Weekly Show: A clutch victory by Maxime Vachier-Lagrave"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows lessons based on the book &quot;Chess Secrets: The Giants of Power Play&quot; by Neil McDonald. BUY THE BOOK: <a href=\"https://everymanchess.com/products/chess-secrets-the-giants-of-power-play-learn-from-topalov-geller-bronstein-alekhine-and-morphy?variant=17966563131454\">https://everymanchess.com/products/chess-secrets-the-giants-of-power-pla...</a> 2022.05.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-secret",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-secrets-giants-power-play-grandmasters-choice-im-dorsa-derakhshani-lichessorg",
-         "pubDate" : "Tue, 17 May 2022 19:53:33 +0000",
-         "title" : "Chess Secrets: The Giants of Power Play | Grandmaster's Choice - IM Dorsa Derakhshani | lichess.org"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> <a href=\"https://www.europechess.org/category/news/\">brings forward the date of its general assembly and election</a> from 6 August to 23 July. The European federations won't meet in Mamallapuram but in Thessaloniki. The <strong>Asian Chess Federation</strong> also avoids the <strong>Chess Olympiad</strong> for its general assembly and has postponed it to December. </div> ",
@@ -562,14 +666,6 @@ news_feed (
          "title" : "A few chestnuts more"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> A positional game turns into a sharp attack in this game from Harrison Keyser! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fianchettoed-bishops-are-op\"><img src=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fianchettoed-bishops-are-op",
-         "pubDate" : "Sun, 15 May 2022 19:51:54 +0000",
-         "title" : "Fianchettoed Bishops are OP"
-      },
-      {
          "description" : " Grandmasters are not especially noted for their longevity, but Yuri Averbakh, whose death at the age of 100 was announced the other day, was a notable exception. He will be remembered for his work on endings, but also for various opening variations bearing his name, most notably the Averbakh Variation against the King's Indian Defence. <a href=\"https://chessimprover.com/averbakh-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Averbakh Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/averbakh-variation/\">Averbakh Variation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -664,46 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/icga-world-computer-chess-championship-olympiad-conference",
          "pubDate" : "Sat, 14 May 2022 21:25:00 +0100",
          "title" : "ICGA: World Computer Chess Championship, Olympiad, Conference"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to Alexander Onischuk about rooting for the U.S. players, the Russian invasion of Ukraine, and more during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alexander-onischuk-ukraine-forever\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alexander-onischuk-ukraine-forever",
-         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
-         "title" : "Alexander Onischuk: Ukraine Forever"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich talks to two-time European women&#039;s chess champion Natalia Zhukova during Round 9 of the Superbet Chess Classic. 2022.05.13<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/natalia-zhukova-ukraine-not-alone\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hC-MC7DMNcg.jpg?itok=BR0PFRG5\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/natalia-zhukova-ukraine-not-alone",
-         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
-         "title" : "Natalia Zhukova: Ukraine is Not Alone"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian plays Maxime Vachier-Lagrave in a 10+5 rapid playoff game. This was the third game in a round robin (also including Wesley So). Going into this game, MVL and So had 1 point, whereas Aronian had 0 points. With a win here, Aronian will force an armageddon knockout between the trio. With an MVL score, Maxime wins the event. 2022.05.14<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-vs-mvl-rapid-pla",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-vs-mvl-rapid-playoff-round-9",
-         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
-         "title" : "Aronian vs. MVL: Rapid Playoff | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave is presented with the trophy and check after his playoff victory in the Superbet Chess Classic. Join Tour Spokesman Michael Khodarkovsky, Superbet Foundation President Augusta Dragic, and GM Cristian Chirila for the ceremony. 2022.05.14<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-superbet-chess-classic-champion-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-superbet-chess-classic-champion-round-9",
-         "pubDate" : "Sat, 14 May 2022 19:51:17 +0000",
-         "title" : "MVL: Superbet Chess Classic Champion | Round 9"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wesley So</strong>, <strong>Levon Aronian</strong> and <strong>Maxime Vachier-Lagrave</strong> <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic-romania/recap\">share the first place</a> and the latter won the tie-break at the first <strong>Grand Chess Tour</strong> event 2022, the <strong>Superbet Chess Classic Romania</strong> in Bucharest. None of the four participants of the forthcoming Candidates Tournament performed well. <strong>Fabiano Caruana</strong> did the least bad at 50%, <strong>Alireza Firouzja, Ian Nepomniachtchi</strong> and <strong>Rich&aacute;rd Rapport</strong> all ended below. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/candidates-do-poorly-in-bucharest/",
-         "pubDate" : "Sat, 14 May 2022 19:39:28 +0100",
-         "title" : "Candidates do poorly in Bucharest"
       },
       {
          "description" : " The Superbet Chess Classic took place in Bucharest Thu 5th May to Sat 14th May 2022. It was the first event in the 2022 Grand Chess Tour which has three rapid and blitz events and one further classical event, the Sinquefield Cup. Players: Alireza Firouzja, Levon Aronian, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, Ian Nepomniachtchi, Richard Rapport, Maxime Vachier-Lagrave, Leinier Dominguez and Bogdan-Daniel Deac. There was a three way tie for first and that resulted in a tie-break MVL beat both Wesley So and Levon Aronian to take first place, So finished second and Aronian 3rd.",
@@ -872,14 +928,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-one/",
          "pubDate" : "Fri, 13 May 2022 17:04:26 +0000",
          "title" : "A Foundation for Beginners Sixty One"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Blitz Society</strong> chess pub hosts a charity rapid match France - Ukraine on four boards, led by GMs Laurent Fressinet and Pavel Eljanov, this Saturday at 17.30 CET with <a href=\"https://team.unicef.fr/projects/champions-chess-tour-france-ukraine\">donations going to <strong>Unicef</strong></a> and a <a href=\"https://www.twitch.tv/dicomaniaque\">Twitch stream</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ukraine-solidarity-match-in-paris/",
-         "pubDate" : "Fri, 13 May 2022 16:55:21 +0100",
-         "title" : "Ukraine solidarity match in Paris"
       },
       {
          "description" : " Six weeks ago on April 1st, Arkady Dvorkovich announced a commitment from 5-time world champion Viswanathan Anand to stand with him on the ticket for reelection. The incumbent FIDE President needs to gain some appeal after his former ties with Russian President Vladimir Putin have put him in a serious bind. FIDE President Arkady Dvorkovich The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/\">Dvorkovich-Anand 2022 campaign for FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1762,14 +1810,6 @@ news_feed (
          "title" : "Trent's Tactics - The one and only: Bobby Fischer"
       },
       {
-         "description" : "NM Griffin McConnell earned the national master title on March 19, 2022, at the age of 17, after undergoing four brain surgeries. Despite having seizures since childhood and undergoing several operations&#38;mdash;after various medications failed to h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/17-year-old-earns-chess-master-title-after-brain-surgeries-griffin-mcconnell",
-         "pubDate" : "Fri, 06 May 2022 11:48:00 -0700",
-         "title" : "17-Year-Old Earns Master Title After Four Brain Surgeries"
-      },
-      {
          "description" : " <p class=\"lead\">In an exclusive interview with World Chess and WGM Dina Belenkaya, the Dutch chess star Anish Giri said that having people tweeting annoying things about FIDE all the time is not chess politics. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Giri.jpg\" width=\"2560\" height=\"1399\" alt=\"\" /> </div> We've seen many professional chess players getting involved in politics, with the most blatant example of the former World Champion Gary Kasparov. After his retirement from chess in 2005, Kasparov turned to politics and created the United Civil Front, a social movement whose main goal is to \"work to preserve electoral democracy in Russia\". Recently, after",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1792,14 +1832,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/",
          "pubDate" : "Fri, 06 May 2022 16:21:05 +0000",
          "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
-      },
-      {
-         "description" : "Sergey Karjakin, the controversial former world chess title challenger, looks set to miss the Candidates Tournament after the World Chess Federation FIDE dismissed his appeal against a 6-month ban from chess. Pending a new appeal to the Court of Arbitration of Sport, the ruling leaves the way open for China's No.1 Ding Liren who, as the highest-rated player in the FIDE rankings list not yet to have qualified, stands in line to take the Russian's place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-dismisses-sergey-karjakin-s-appeal",
-         "pubDate" : "Fri, 06 May 2022 14:26:27 +0000",
-         "title" : "FIDE dismisses Sergey Karjakin's appeal"
       },
       {
          "description" : "In a review published in Chess Life, John Watson looks at a number of titles that explore the Jobava London System. He notes, \"It's remarkable that 2.Nc3 was considered a marginal and even anti-positional move for most of chess history. It is now played by the world's elite and creates fresh and interesting play\".",
@@ -2018,14 +2050,6 @@ news_feed (
          "title" : "Master Chess Web Show (12)"
       },
       {
-         "description" : "The Alapin Variation (1.e4 c5 2.c3) is a very solid system for White. Logically, you have no chance to avoid it with Black, if you play the Sicilian. So you should be well-prepared when answering 1.e4 with ...c5. In the new ChessBase Magazine #207, Markus Ragger presents a complete repertoire against the Alapin: after 2...d5 3.exd5 he recommends the side line 3...Nf6, which leads to sharp play and completely different structures than one would expect in a normal c3-Sicilian. In CBM #207 you will also find two more opening videos: Rustam Kasimdzhanov puts the highly topical English Four Kinights Game with 4.e4 (Bc5) to the test and Mihail Marin presents a good old idea by Bent Larsen in the S",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-complete-repertoire-against-the-alapin",
-         "pubDate" : "Wed, 04 May 2022 13:30:00 +0100",
-         "title" : "A complete repertoire against the Alapin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2056,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1728",
          "pubDate" : "Tue, 03 May 2022 20:04:34 +0000",
          "title" : "Sri Lanka Championships 2022: De Silva and Ranasinghe clinch titles"
-      },
-      {
-         "description" : "\"There were few moments in the course of a conversation that leave one speechless - if our profession did not require us to ask questions,\" writes Bj&ouml;rn Jensen, reporter of Hamburg's major daily newspaper. He visited Tykhon Cherniaiev, the 12-year-old chess supertalent from Ukraine, who fled his country and is now staying in Hamburg, Germany, where he is attending school and pursuing his chess career. | Photo of Tykhon with his coach GM Dorian Rogozenco by Michael Rauhe/FUNKE Foto Services.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-ukranian-top-talent-in-hamburg",
-         "pubDate" : "Tue, 03 May 2022 21:00:00 +0100",
-         "title" : "A Ukranian top talent in Hamburg"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras We've been rotating between different formats for the club tournament between rapid chess, chess 960, three check chess or crazy house. Now we are in the middle of a rapid chess one and last round saw an interesting game being played. The opening phase went like this: White <a href=\"https://chessimprover.com/quick-decisions-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-8/\">Quick Decisions (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2202,7 +2218,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#x72;&#x2e;w&#105;&#x63;&#x6b;h&#97;&#x6d;&#x40;b&#116;&#x69;&#x6e;t&#101;&#x72;&#x6e;e&#116;&#46;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#x77;&#x69;&#x63;kh&#97;&#109;&#x40;&#x62;&#x74;&#x69;nt&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2312,14 +2328,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/29/chess-polands-duda-wins-in-oslo-while-tired-carlsen-fades-at-the-finish",
          "pubDate" : "Fri, 29 Apr 2022 11:38:53 +0000",
          "title" : "Chess: Poland's Duda wins in Oslo while tired Carlsen fades at the finish"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1719",
-         "pubDate" : "Fri, 29 Apr 2022 09:42:52 +0000",
-         "title" : "American Cup: Caruana and Crush clinch titles"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91171783.cms\" />India's teenaged Grandmaster R Praggnanandhaa missed out on the top prize in the USD 210,000 Oslo Esports Cup online rapid chess tournament as he lost 0.5-2.5 to Dutch player Anish Giri in the seventh and final round to finish fourth.",
