@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the first day of the Champions Chess Tour, Gawain Jones played the Kings Indian against Vidit Gujrathi because it is a very legit weapon. One of Svitlana's favourite openings deserves a second part, to get into some deeper strategic territory. What if White is castling on the queen side? We adjust our plans, and build up some important decisions. Svitlana analyses an interesting King's Indian game between Ivan Cheparinov, and Wang Yue!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-41",
+         "pubDate" : "Fri, 20 May 2022 16:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The King's Indian Part 2"
+      },
+      {
+         "description" : "The Italian Summer Chess Tour 2022&#160;features six open tournaments taking place one after another from May 16 &#x2013; June 11, with a total prize fund of 35.000e. The tour kicked off with the GrandMaster Grandiscacchi Chess Festival GM/IM Mix norm tournament which took place from 16-20 May in Montebelluna. Georgian grandmaster Levan Pantsulaia won the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levan-pantsulaia-wins-gm-grandiscacchi-chess-festival-2022/",
+         "pubDate" : "Fri, 20 May 2022 13:55:23 +0000",
+         "title" : "Levan Pantsulaia wins GM Grandiscacchi Chess Festival"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Richie Rapport after his win over David Gavrilescu in Rapid Round 4 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tBYK7402wuc",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-2",
+         "pubDate" : "Fri, 20 May 2022 13:54:56 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Richard Rapport Interview | Day 2"
+      },
+      {
+         "description" : "The 2022 Saint Louis Norm Congress takes place from 18-25 May in the Saint Louis Chess Club, Saint Louis, Missouri. The invitational norm IM and GM tournaments bring together 20 players to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Both IM and GM events are played as 10-player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-norm-congress-2022-live/",
+         "pubDate" : "Fri, 20 May 2022 13:46:22 +0000",
+         "title" : "Saint Louis Norm Congress 2022 LIVE"
+      },
+      {
+         "description" : "The 5th edition of the Sharjah Chess Masters&#160;international tournament will be held from 20th-30th May in Sharjah Cultural &#38; Chess Club. The event will kick off tomorrow with the technical meeting, opening ceremony and the first round starting from 15:00 CEST. The selected 80 players compete in a 9 round swiss system tournament for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sharjah-chess-masters-2022-live/",
+         "pubDate" : "Fri, 20 May 2022 13:01:32 +0000",
+         "title" : "Sharjah Chess Masters 2022 LIVE"
+      },
+      {
+         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. After three rounds of rapid, Vishy Anand is in the sole lead on a perfect 6 out of 6 score. Day 2 starts Friday, May 20, at 14.00 CEST (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
+         "pubDate" : "Fri, 20 May 2022 13:55:00 +0100",
+         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
+      },
+      {
+         "description" : " While following up my research into Zork, I cam across a website that lets you play vintage chess games (and other games) in your browser. <a href=\"https://playclassic.games/games/chess-dos-games-online/\">https://playclassic.games/games/chess-dos-games-online/</a> has a set of old Dos chess programs which look to be fully playable. I played one game against Sargon V, which I won, although the user interface lead me to play 1.e3 by accident. I did play it on Level 1, which was good enough not to hang pieces, but not strong enough to spot a mate in 2 (albeit one I also missed for one move) <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/more-vintage-chess-programs.html",
+         "pubDate" : "Fri, 20 May 2022 12:23:00 +0000",
+         "title" : "More Vintage Chess Programs"
+      },
+      {
          "description" : "After four rounds at the preliminaries of the Chessable Masters, 22-year-old Wei Yi is leading the standings table on 10/12 points. Three of the favourites stand two points behind - Magnus Carlsen, Ding Liren and Anish Giri. The 16-player online tournament is played with a football scoring system. Half the players will move on to the knockout stage from the single round-robin set to run until Sunday. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2022-d1",
          "pubDate" : "Fri, 20 May 2022 13:10:00 +0100",
          "title" : "Chessable Masters: Wei Yi leads"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1772",
+         "pubDate" : "Fri, 20 May 2022 12:02:40 +0000",
+         "title" : "FIDE sponsors participation of African chess talents in Sharjah Championships 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91685191.cms\" />According to Organising Secretary Niranjan Godbole, the Ukrainian GM has applied for the visa again so that he can compete in the tournament, set to be held in Pune from May 31 to June 8.",
@@ -130,7 +194,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Playing against 3...a6 in the Queens Gambit Declined"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-2",
@@ -178,7 +242,7 @@ news_feed (
          "title" : "2022 Superbet Rapid & Blitz Poland: Day 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-3",
@@ -186,7 +250,7 @@ news_feed (
          "title" : "2022 Saint Louis Norm Congress: Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-4",
@@ -194,20 +258,12 @@ news_feed (
          "title" : "2022 Saint Louis Norm Congress: Day 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-5",
          "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
          "title" : "2022 Saint Louis Norm Congress: Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-6",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Saint Louis Norm Congress: Day 6"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
@@ -314,14 +370,6 @@ news_feed (
          "title" : "English and English Women's Championships underway &hellip;"
       },
       {
-         "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system). The time control of Rapid games will be 25 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-poland-2022-pairings-and-timetable/",
-         "pubDate" : "Wed, 18 May 2022 21:52:01 +0000",
-         "title" : "Grand Chess Tour Poland 2022 pairings and timetable"
-      },
-      {
          "description" : " This week's guest on the Master Chess Web Show was GM Keith Arkell. In one of the most illuminating shows yet, Keith explained much about his view of strategy and gave insights into the life of a chess professional: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-14/\">Master Chess Web Show (14)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -392,14 +440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2022-preview",
          "pubDate" : "Wed, 18 May 2022 15:00:00 +0100",
          "title" : "Carlsen and Ding head the field at the Chessable Masters"
-      },
-      {
-         "description" : "The 2022-2023 series of Women's Grand Prix tournaments features four events which will be held between August 2022 and June 2023. The schedule and dates framework is as followed: 1st WGP event: August &#x2013; September 2022; 2nd WGP event: October &#x2013; December 2022; 3rd WGP event: January &#x2013; March 2023; 4th WGP event: April &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023/",
-         "pubDate" : "Wed, 18 May 2022 13:17:03 +0000",
-         "title" : "FIDE Women's Grand Prix 2022-2023"
       },
       {
          "description" : "On 17 May, the Polish National Championships ended in Kruszwica. In the open tournament, played in knockout format, defending champion Radoslaw Wojtaszek won his fifth title. But the women's tournament ended with a big surprise. | Photos: Polish Chess Federation",
@@ -1698,14 +1738,6 @@ news_feed (
          "title" : "Grandmaster D Gukesh cherishes Sunway Formentera Open win"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91417382.cms\" />Indian Grandmaster D Gukesh on Sunday emerged champion in the 1st Chessable Sunway Formentera Open 2022 chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-sunway-formentera-open-chess-tourney/articleshow/91417382.cms",
-         "pubDate" : "Sun, 08 May 2022 10:28:47 +0000",
-         "title" : "Indian GM Gukesh wins Sunway Formentera Open chess tourney"
-      },
-      {
          "description" : "Levon Aronian blundered a pawn in the opening and spent more than one hour on a single move against Alireza Firouzja, but in the end he pulled off a great escape on a day when four games once again ended drawn in Bucharest. The one win was a wild game in which both Richard Rapport and Bogdan-Daniel Deac had impressed before Richard blundered on move 40 and there was no road back.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2034,22 +2066,6 @@ news_feed (
          "title" : "Game of the Week #514: Erwin l'Ami vs Frederik Svane"
       },
       {
-         "description" : "The French Defence is one of the most popular openings - from club player to grandmaster. It's a very solid opening against 1.e4, but it leaves room for counterplay and initiative. In this two-volume video course, former world champion and star trainer Rustam Kasimdzhanov shows you the ins and outs of this hugely complex opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-choice-repertoire-play-the-french-defence-vol-1-2",
-         "pubDate" : "Wed, 04 May 2022 20:20:00 +0100",
-         "title" : "Top Choice Repertoire: Play the French Defence Vol. 1 & 2"
-      },
-      {
-         "description" : "Perhaps we have already heard the statement that all rook endgames are drawn. But even if this is the case, how to draw? And if it isn't the case, how to defend correctly, or transfer the position to a win? Svitlana explains the principles of rook endgames, with some examples by Alekhine, Capablanca, Firouzja, and Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-39",
-         "pubDate" : "Wed, 04 May 2022 20:10:00 +0100",
-         "title" : "Svitlana's Smart Moves - Rook endgame principles"
-      },
-      {
          "description" : " At the moment I am in Bangkok, attending a planning and development meeting for Asian chess federations (wearing both my PNG and Oceania hats). One topic of discussion is finding volunteers to implement programs that are usually required by developing federations (eg coaching and tournament organisation). For developed countries (both chess and economically) finding volunteers is hard, but aided by the large population of funded retirees. But for poorer countries this pool of resources is almost non-existent. So one suggestion is that each developing federation receives funding for a program officer, whose job it is is to implement these programs. The ultimate goal is to create enough chess",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2226,14 +2242,6 @@ news_feed (
          "title" : "May rating list: five young players debut in Top-100 Open"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1722",
-         "pubDate" : "Sun, 01 May 2022 16:16:33 +0000",
-         "title" : "Mr. Fumey announces his candidacy for FIDE President"
-      },
-      {
          "description" : " The Russian Team Championships take place in Sochi 1st to 10th May 2022. The event has obviously been severely impacted by the war. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2250,7 +2258,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;kh&#x61;&#x6d;&#64;b&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#101;t&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;ck&#104;&#97;&#x6d;&#x40;&#x62;t&#105;&#110;&#116;&#x65;&#x72;&#x6e;e&#116;&#46;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2312,38 +2320,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ivanchuk-reviews-his-game-against-carlsen-during-air-raid-alert/",
          "pubDate" : "Fri, 29 Apr 2022 20:02:48 +0000",
          "title" : "Ivanchuk Reviews His Game Against Carlsen, Ignores Air Raid Alert"
-      },
-      {
-         "description" : " The Oslo Esports Cup was the first Meltwater Champions Chess Tour event to take place not online but at a venue Fri 22nd Apr to Thu 28th Apr 2022. Players: Carlsen, Giri, Mamedyarov, Duda, Van Foreest, Le Quang Liem, Praggnanandhaa and Eric Hansen played in this round robin of 4 game mini-matches. This is the first tour classic of the season. In the final round leaders Magnus Carlsen and R Praggnanandhaa lost their mini-matches allowing Jan-Krzysztof Duda to come through to win the event and Le Quang Liem to finish in second place.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/oslo-esports-cup-2022",
-         "pubDate" : "Fri, 29 Apr 2022 19:10:00 +0400",
-         "title" : "Oslo Esports Cup 2022 - Games and Results"
-      },
-      {
-         "description" : " The American Cup took place in Saint Louis 20th to 30th April 2022. The format is double elimination knockout. This was a complex format where to be eliminated you had to lose two matches. The second chance game via rapid games. Players: Aronian, Caruana, So, Dominguez, Shankland, Sevian, Xiong and Robson. There was also a women's event with Krush, Zatonskih, Tsolakidou, Tokhirjonova, Nemcova, Alice Lee, Abrahamyan and Ruiyang Yan. Fabiano Caruana and Irina Krush won the two main events. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2022",
-         "pubDate" : "Fri, 29 Apr 2022 18:48:00 +0400",
-         "title" : "American Cup 2022 - "
-      },
-      {
-         "description" : " For a brief moment, chess.com thought it would be a good idea to organise a $1,000,000 World Championship. The problem wasn't the prize money, which is certainly a hefty amount, but the name. As there is already an official World Championship, and I'm assuming FIDE haven't sold it off, there might have been a legal problem. So instead of a World Championship, the chess.com event is now the Global Championship. With this change I'm assuming everyone is now happy, except for the afore mentioned flat earthers. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/flat-earthers-miss-out-i-guess.html",
-         "pubDate" : "Fri, 29 Apr 2022 14:33:00 +0000",
-         "title" : "Flat earthers miss out I guess"
-      },
-      {
-         "description" : " The world champion missed a long distance threat and lost three of his seven matches in the Oslo Esports Cup, including Thursday's final round when victory would have ensured first prize An overambitious schedule, a heavy cold and mental fatigue finally caught up with Magnus Carlsen at the Oslo Esports Cup this week. The world champion had won the previous two legs of the online Meltwater Champions Tour and was expected to make it three in his home city, but it was Poland's Jan-Krzysztof Duda who edged ahead in Thursday's final round. Leading scores were Duda (Poland) 14/21, Le Quang Liem (Vietnam) 13, Carlsen (Norway) and Rameshbabu Praggnanandhaa (India) 12, Shak Mamedyarov (Azerbaijan) 1",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/apr/29/chess-polands-duda-wins-in-oslo-while-tired-carlsen-fades-at-the-finish",
-         "pubDate" : "Fri, 29 Apr 2022 11:38:53 +0000",
-         "title" : "Chess: Poland's Duda wins in Oslo while tired Carlsen fades at the finish"
       }
    ]
 }
