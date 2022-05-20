@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last weekend, the semifinals concluded with two of the most thrilling matches we have ever seen in Collegiate Chess League history. Both matches came down to the very last game of the match with thousands of dollars on the line and a spot in the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-semifinals-2",
+         "pubDate" : "Fri, 20 May 2022 15:44:00 -0700",
+         "title" : "Collegiate Chess League Season 4 Semifinals: UTRGV, UChicago Advance To Finals"
+      },
+      {
+         "description" : " Spike Lee in the legendary Prospect Park Photo by NIKE Spike Lee Joint helps to celebrate Nike's 50th with a montage of videos of famous athletes and events spanning history since 1988. Spike Lee does it as an all-seeing witness at the chessboard. Set in the chess battleground in a New York park, Lee reprises The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/\">Spike Lee celebrates NIKE's 50th with chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/",
+         "pubDate" : "Fri, 20 May 2022 20:41:05 +0000",
+         "title" : "Spike Lee celebrates NIKE's 50th with chess"
+      },
+      {
+         "description" : "The Ukrainian Grandmaster Andrii Baryshpolets is running for&#xA0;president&#xA0;of FIDE in the upcoming presidential elections during the Chess Olympiad 2022. Baryshpolets announced today his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. See the full statement by Andrii Baryshpolets below and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andrii-baryshpolets-is-running-for-fide-president/",
+         "pubDate" : "Fri, 20 May 2022 20:16:56 +0000",
+         "title" : "Andrii Baryshpolets is running for FIDE President"
+      },
+      {
+         "description" : "Martin B. Justesen is an avid chess player from Denmark. Justesen is a chess author who published seven chess books and he creates content about his own journey towards chess improvement on Youtube, Twitch, and his newsletter saychess.substack.com. For years the brand of his social media accounts and the newsletter says #SayChess exactly what []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/martin-b-justesen-aka-saychess-comments-the-dvorkovichs-saychess-campaign-tweetoftheday/",
+         "pubDate" : "Fri, 20 May 2022 19:47:02 +0000",
+         "title" : "Martin B. Justesen aka SayChess comments the Dvorkovich's #SayChess campaign #TweetOftheDay"
+      },
+      {
+         "description" : "The second day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, continued today with outstanding results by GM Viswanathan Anand and GM Richard Rapport. The pair surged ahead of the field after they scored 2...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-2",
+         "pubDate" : "Fri, 20 May 2022 12:09:00 -0700",
+         "title" : "Anand Leads, Rapport Close Behind: 2022 Superbet Rapid & Blitz Poland, Day 2"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022&#160;takes place from 28th July &#x2013; 10th August in Chennai, India, and&#160;100 countries already registered for the event. A number of countries revealed the composition of their teams for Chennai, such as:&#160;Germany,&#160;Spain,&#160;Serbia, Monaco, Kenya,&#160;India, Uganda,&#160;Sri Lanka,&#160;Malawi&#x2026; Norway joined them and today disclosed the composition of their team which will travel to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-announces-team-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Fri, 20 May 2022 19:00:00 +0000",
+         "title" : "Norway announces team for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "The second day of Superbet Rapid and Blitz Poland did not disappoint the tournament fans as day 2 was filled with exciting games and rapid action. The day came to an end with GM Vishy Anand continuing to maintain his two-point lead going to the last day of the rapid portion. Read more: Anand with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anand-remains-convincing-in-poland-gct-poland-day-2-recap/",
+         "pubDate" : "Fri, 20 May 2022 18:58:00 +0000",
+         "title" : "Anand remains convincing in Poland; GCT Poland Day 2 recap"
+      },
+      {
+         "description" : "Tour rookie Wei Yi dominated again in the&#xA0;Chessable&#xA0;Masters as World Champion Magnus Carlsen suffered&#xA0;a second shock loss&#xA0;to 16-year-old Rameshbabu Praggnanandhaa.Read more: Youngsters steal the show at Chessable Masters Wei Yi leads the field by 3 points after scoring two wins and two draws to stay unbeaten in the $150,000 online esports event. With 7 rounds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pragg-defeats-carlsen-wei-yi-maintains-the-lead-chessable-masters-day-2-recap/",
+         "pubDate" : "Fri, 20 May 2022 18:50:00 +0000",
+         "title" : "Pragg defeats Carlsen, Wei Yi maintains the lead; Chessable Masters Day 2 recap"
+      },
+      {
+         "description" : "52-year-old chess legend Vishy Anand continued to dominate in Warsaw on Day 2 of the Superbet Rapid and Blitz as he raced to a perfect 10/10 start with thumping wins over Kirill Shevchenko and Levon Aronian. Only local hero Jan-Krzysztof Duda managed to hold the 5-time World Champion to a draw, leaving Vishy two points clear of Richard Rapport, who won all three games on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-vishy-anand-rampage-continues",
+         "pubDate" : "Fri, 20 May 2022 16:59:51 +0000",
+         "title" : "The Vishy Anand rampage continues"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Viswanathan Anand after his win over Levon Aronian in Rapid Round 5 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-vishy-anand-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w0iXyCdsPLA.jpg",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-vishy-anand-interview-day-2",
+         "pubDate" : "Fri, 20 May 2022 16:55:04 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Vishy Anand Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews David Gavrilescu after his draw with Radek Wojtaszek in Rapid Round 5 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-david-gavrilescu-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MIHq5Omy",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-david-gavrilescu-interview-day-2",
+         "pubDate" : "Fri, 20 May 2022 16:55:04 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: David Gavrilescu Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Kirill Shevchenko after his draw with Levon Aronian in Rapid Round 6 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-kirill-shevchenko-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U_cED6Ky",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-kirill-shevchenko-interview-day-2",
+         "pubDate" : "Fri, 20 May 2022 16:55:04 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Kirill Shevchenko Interview | Day 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91694704.cms\" />Indian chess legend Viswanathan Anand continued his superb form on the second day of the rapid event of the Superbet Rapid and Blitz Poland tournament on Friday, posting victories in rounds four and five before local hero Jan-Kryzstof Duda halted the winning streak in the sixth.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-rapid-chess-indian-gm-viswanathan-anand-continues-to-lead-the-field/articleshow/91694704.cms",
+         "pubDate" : "Fri, 20 May 2022 16:37:10 +0000",
+         "title" : "Superbet Rapid Chess: Indian GM Anand continues to lead the field"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play start daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Fri, 20 May 2022 17:30:00 +0100",
+         "title" : "Chessable Masters, Day 2: Live"
+      },
+      {
+         "description" : "Chinese star Ding Liren has revealed he's booked his ticket and is hoping to get a visa approved so he can travel to the Candidates. Speaking publicly for the first time about his epic race against time to be eligible, the newly-installed world No.2 said the experience has spurred him on to play the best chess of his life.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-i-m-buying-my-ticket-to-the-candidates",
+         "pubDate" : "Fri, 20 May 2022 16:01:00 +0000",
+         "title" : "Ding Liren: I'm buying my ticket to the Candidates!"
+      },
+      {
          "description" : "In the first day of the Champions Chess Tour, Gawain Jones played the Kings Indian against Vidit Gujrathi because it is a very legit weapon. One of Svitlana's favourite openings deserves a second part, to get into some deeper strategic territory. What if White is castling on the queen side? We adjust our plans, and build up some important decisions. Svitlana analyses an interesting King's Indian game between Ivan Cheparinov, and Wang Yue!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +186,6 @@ news_feed (
          "title" : "Chessable Masters: Wei Yi leads"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1772",
-         "pubDate" : "Fri, 20 May 2022 12:02:40 +0000",
-         "title" : "FIDE sponsors participation of African chess talents in Sharjah Championships 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91685191.cms\" />According to Organising Secretary Niranjan Godbole, the Ukrainian GM has applied for the visa again so that he can compete in the tournament, set to be held in Pune from May 31 to June 8.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -136,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-will-be-a-compulsory-subject-in-2200-georgian-schools/",
          "pubDate" : "Thu, 19 May 2022 23:00:00 +0000",
          "title" : "Chess will be a compulsory subject in 2200 Georgian schools"
-      },
-      {
-         "description" : "The second leg of the Grand Chess Tour, Superbet Rapid and Blitz in Poland, kicked off yesterday, May 18th in the Museum of the History of Polish Jews in Warsaw, Poland. The opening ceremony was kicked-off with a solo violin performance followed by a drawing of lots, where each player picked up his starting numbers []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anand-with-a-perfect-start-at-grand-chess-tour-poland-2022-day-1-recap/",
-         "pubDate" : "Thu, 19 May 2022 22:39:10 +0000",
-         "title" : "Anand with a perfect start at Grand Chess Tour Poland 2022"
       },
       {
          "description" : "",
@@ -242,30 +346,6 @@ news_feed (
          "title" : "2022 Superbet Rapid & Blitz Poland: Day 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-3",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Saint Louis Norm Congress: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-4",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Saint Louis Norm Congress: Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-5",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Saint Louis Norm Congress: Day 5"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -306,22 +386,6 @@ news_feed (
          "title" : "FIDE Elections"
       },
       {
-         "description" : "Men's Health, the world's largest men's magazine with 35 editions in 59 countries, yesterday published an article giving answers to how fit you really need to be to sit still and move pawns around. (scroll down for the full text) The Workout Bucket List book featuring a collection of exercises states that you need to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/how-fit-do-you-really-need-to-be-to-sit-still-and-move-pawns-around-tweetoftheday/",
-         "pubDate" : "Thu, 19 May 2022 12:33:38 +0000",
-         "title" : "How fit do you really need to be to sit still and move pawns around? #TweetOftheDay"
-      },
-      {
-         "description" : "The 2nd leg of the Romanian Grand Prix 2022 will take place from 4-11 June in Targu Mures. Read more: Baadur Jobava wins 1st Romanian Grand Prix event / Romanian Grand Prix 2022 Basic information The city of Targu Mures will simultaneously host two tournaments: A (part of the Romanian Grand Prix for players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-grand-prix-2022-stage-2/",
-         "pubDate" : "Thu, 19 May 2022 11:12:51 +0000",
-         "title" : "Romanian Grand Prix 2022 - Stage 2"
-      },
-      {
          "description" : "The Chess in School conference &#8220;Chess a Game to be Spread in Schools&#8221; a took place on 14th May 2022 in Dorint Airport Hotel, Zurich. On behalf of Swiss Chess Federation Secretary General Mr. Oliver Marti welcomed all participants in Zurich. Main items in the program: CGS project overall presentation Psychomotricity on giant chessboard - CASTLE/ERASMUS+ project Report&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-schools-conference-successfully-concluded-in-zurich/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -336,22 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/munich-to-host-a-leg-of-women-s-grand-prix-2022-23",
          "pubDate" : "Thu, 19 May 2022 11:10:52 +0100",
          "title" : "Munich to host a leg of Women's Grand Prix 2022-23"
-      },
-      {
-         "description" : "The series of the&#160;Grand Chess Tour 2022&#160;events continues from 17-24 May with the&#160;Grand Chess Tour Poland 2022 in Warsaw.&#160; The Rapid part of the championship is played from 19-21 May and the Blitz part will take place on 22-23 May. The games will be broadcasted live on Chessdom.com.&#160;Pairings &#38; Timetable / All information about the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-poland-2022-live/",
-         "pubDate" : "Thu, 19 May 2022 09:21:50 +0000",
-         "title" : "Grand Chess Tour Poland 2022 LIVE"
-      },
-      {
-         "description" : "Chessable English Championship and Chessable English Women&#x2019;s Championship 2022 take place on 19th-22nd May 2022 in Kenilworth. Two weeks earlier, the English Chess Federation announced National Champions among Seniors and the series of National competitions continue today with Open and Women's events. The Open event attracted 33 entries and the top seeds are: GM Mark []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-english-championships-2022-live/",
-         "pubDate" : "Thu, 19 May 2022 09:07:50 +0000",
-         "title" : "Chessable English Championships 2022 LIVE"
       },
       {
          "description" : "Users of ChessBase are undoubtedly familiar with the Player Encyclopedia that comes with Mega Database, a massive archive of players and photos that allow you to view games with a picture of that player instead of just their name. There is an online version with ChessBase Account, but offers much more. Read the tutorial or watch the video to find out why.",
@@ -874,7 +922,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: New ideas in the Bayonet Attack"
       },
       {
-         "description" : " Share!18Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/",
@@ -1642,22 +1690,6 @@ news_feed (
          "title" : "Circular Letter No.2/2022"
       },
       {
-         "description" : "The 13th week of the Rapid Chess Championship, brought to you by Coinbase, saw GM Hikaru Nakamura outwit a strong field and take home the top spot in the knockout while GM Samuel Sevian won the Swiss event by a convincing one-point margin.&#38;nbsp; ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-13-nakamura-wins",
-         "pubDate" : "Sun, 08 May 2022 19:19:00 -0700",
-         "title" : "Nakamura Wins Third Knockout: Rapid Chess Championship Week 13"
-      },
-      {
-         "description" : "If you were getting used to just one decisive game per round, then Sunday&#39;s round rocks your world with three decisive games, lots of blunders, and electrifying action. Winners were GM Wesley So who prevailed over co-loader GM Ian Nepomniachtchi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-4",
-         "pubDate" : "Sun, 08 May 2022 17:14:00 -0700",
-         "title" : "Wesley So Wins Again, Takes Lead: 2022 Superbet Chess Classic Romania, Day 4"
-      },
-      {
          "description" : "Wesley So is the sole leader of the Superbet Chess Classic in Bucharest after Ian Nepomniachtchi finally cracked under the pressure of being a pawn down for most of their Round 4 game. Levon Aronian also converted an extra pawn, against Leinier Dominguez, while Maxime Vachier-Lagrave refuted Fabiano Caruana's exchange sacrifice to grab the 3rd win of the day. There were eventful draws in Firouzja-Rapport and Mamedyarov-Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1738,12 +1770,12 @@ news_feed (
          "title" : "Grandmaster D Gukesh cherishes Sunway Formentera Open win"
       },
       {
-         "description" : "Levon Aronian blundered a pawn in the opening and spent more than one hour on a single move against Alireza Firouzja, but in the end he pulled off a great escape on a day when four games once again ended drawn in Bucharest. The one win was a wild game in which both Richard Rapport and Bogdan-Daniel Deac had impressed before Richard blundered on move 40 and there was no road back.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-classic-3-aronian-s-great-escape-deac-beats-rapport",
-         "pubDate" : "Sun, 08 May 2022 09:56:25 +0000",
-         "title" : "Superbet Classic 3: Aronian's great escape, Deac beats Rapport"
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91417382.cms\" />Indian Grandmaster D Gukesh on Sunday emerged champion in the 1st Chessable Sunway Formentera Open 2022 chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-sunway-formentera-open-chess-tourney/articleshow/91417382.cms",
+         "pubDate" : "Sun, 08 May 2022 10:28:47 +0000",
+         "title" : "Indian GM Gukesh wins Sunway Formentera Open chess tourney"
       },
       {
          "description" : "Only Grandmaster, who reached 100 years passed away in Moscow. When I was twelve &#160;I was lucky to buy one of the best endgame books! It was Yuri Averbakh three volumes endgame manual. I studied every position from the books! It was his main endgame evergreen work. I could never imagine in that moment ., that after 10&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/\">Read More &#187;</a></span>",
@@ -1800,14 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1738",
          "pubDate" : "Sat, 07 May 2022 13:33:37 +0000",
          "title" : "Yuri Averbakh (1922-2022)"
-      },
-      {
-         "description" : "Yuri Averbakh, the world's oldest grandmaster, passed away today, May 7th, three months after celebrating his 100th birthday. Yuri, who was born in Kaluga, Russia on February 8th 1922, got to see the 2nd World Chess Champion Emanuel Lasker play as a child. In 1954 Yuri went on to win the formidable USSR Championship, and he also tied for first two years later. In later years he was a renowned chess arbiter, writer, presenter, journalist and historian, staying active until the very end.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/yuri-averbakh-passes-away-at-age-100",
-         "pubDate" : "Sat, 07 May 2022 13:10:43 +0000",
-         "title" : "Yuri Averbakh passes away at age 100"
       },
       {
          "description" : "Bent Larsen is the \"hero\" of the new issue of ChessBase Magazine. In CBM #207 our authors - among others Emanuel Berg, Jan Markos and Yannick Pelletier - comment on their favourite game of the great Dane. CBM readers can expect a collection of 19 special encounters from the period 1956 to 1998. In addition, Mihail Marin presents Larsen as a \"universal player\" in his strategy column and Karsten Mueller analyses a selection of Larsen's best endgames. You can watch the Larsen-Andersson game (1982) with Jan Markos' analysis here. Enjoy!",
@@ -2058,14 +2082,6 @@ news_feed (
          "title" : "FIDE EDU Upcoming Courses for Lecturers and Teachers"
       },
       {
-         "description" : "In his \"Game of the Week\" show #514, Merijn van Delft takes a look at the game between Erwin l'Ami and Frederik Svane from the German Bundesliga. With a steady hand, L'Ami outplayed his young opponent. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-514-lami-svane",
-         "pubDate" : "Wed, 04 May 2022 21:00:00 +0100",
-         "title" : "Game of the Week #514: Erwin l'Ami vs Frederik Svane"
-      },
-      {
          "description" : " At the moment I am in Bangkok, attending a planning and development meeting for Asian chess federations (wearing both my PNG and Oceania hats). One topic of discussion is finding volunteers to implement programs that are usually required by developing federations (eg coaching and tournament organisation). For developed countries (both chess and economically) finding volunteers is hard, but aided by the large population of funded retirees. But for poorer countries this pool of resources is almost non-existent. So one suggestion is that each developing federation receives funding for a program officer, whose job it is is to implement these programs. The ultimate goal is to create enough chess",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2242,6 +2258,14 @@ news_feed (
          "title" : "May rating list: five young players debut in Top-100 Open"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1722",
+         "pubDate" : "Sun, 01 May 2022 16:16:33 +0000",
+         "title" : "Mr. Fumey announces his candidacy for FIDE President"
+      },
+      {
          "description" : " The Russian Team Championships take place in Sochi 1st to 10th May 2022. The event has obviously been severely impacted by the war. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2258,7 +2282,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;ck&#104;&#97;&#x6d;&#x40;&#x62;t&#105;&#110;&#116;&#x65;&#x72;&#x6e;e&#116;&#46;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;w&#x69;&#x63;&#107;&#104;a&#x6d;&#x40;&#98;&#116;i&#x6e;&#x74;&#x65;&#114;ne&#x74;&#x2e;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2312,14 +2336,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/dominguez-chess-is-traumatic-sometimes/",
          "pubDate" : "Sat, 30 Apr 2022 00:02:26 +0000",
          "title" : "Dominguez: Chess is traumatic sometimes"
-      },
-      {
-         "description" : " <p class=\"lead\">Vasil Ivanchuk, a famous Ukrainian Grandmaster, was just breaking down his blitz game against Magnus Carlsen (\"a winning position which I spectacularly lost in just a few moves) when <a href=\"https://youtu.be/2Fz6Q5yWGiA?t=2892\">the air raid alert sirens went off</a>. Kyiv was being bombed again. Ivanchuk, famous for his passion for the game, calmly continued with the analysis. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2B85F77A-BD76-40F8-BFF6-A89257EADC08.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Ivanchuk during Rapid and Blitz Championship in Berlin in 2015. The event was organized by World Chess</div> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/ivanchuk-reviews-his-game-against-carlsen-during-air-raid-alert/",
-         "pubDate" : "Fri, 29 Apr 2022 20:02:48 +0000",
-         "title" : "Ivanchuk Reviews His Game Against Carlsen, Ignores Air Raid Alert"
       }
    ]
 }
