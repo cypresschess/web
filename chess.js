@@ -82,7 +82,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Playing against 3...a6 in the Queens Gambit Declined"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-2",
@@ -130,7 +130,7 @@ news_feed (
          "title" : "2022 Superbet Rapid & Blitz Poland: Day 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-3",
@@ -138,7 +138,7 @@ news_feed (
          "title" : "2022 Saint Louis Norm Congress: Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-4",
@@ -146,7 +146,7 @@ news_feed (
          "title" : "2022 Saint Louis Norm Congress: Day 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-5",
@@ -154,7 +154,7 @@ news_feed (
          "title" : "2022 Saint Louis Norm Congress: Day 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GM Illya Nyzhnyk, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_imag",
+         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. 2022.05.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-6",
@@ -802,7 +802,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: New ideas in the Bayonet Attack"
       },
       {
-         "description" : " Share!Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Share!18Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/",
@@ -2234,7 +2234,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;r&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;bti&#110;&#116;&#101;&#114;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;&#x63;k&#104;&#97;&#109;&#x40;&#x62;&#x74;in&#116;&#101;&#x72;&#x6e;&#x65;t&#46;&#99;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
