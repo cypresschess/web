@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/may/20/chess-carlsen-goes-head-to-head-with-ding-liren-as-world-top-two-meet",
+         "pubDate" : "Fri, 20 May 2022 07:00:44 +0000",
+         "title" : "Chess: Carlsen goes head to head with Ding Liren as world top two meet"
+      },
+      {
          "description" : "Wei Yi beat Harikrishna, Gawain Jones and David Anton to lead on 10/12 after Day 1 of the Chessable Masters, ahead of Ding Liren, Anish Giri and Magnus Carlsen, who all scored two wins and two draws. 13-year-old Abhimanyu Mishra, who's vowed to break Wei Yi's record as the youngest player ever to cross the 2700 barrier, was the other star, as he picked up wins over Eric Hansen and Shakhriyar Mamedyarov, while also having Ding Liren on the ropes.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2234,7 +2242,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;&#x63;k&#104;&#97;&#109;&#x40;&#x62;&#x74;in&#116;&#101;&#x72;&#x6e;&#x65;t&#46;&#99;&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;&#101;&#114;&#110;&#101;&#116;&#46;&#99;&#111;m as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2328,14 +2336,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/apr/29/chess-polands-duda-wins-in-oslo-while-tired-carlsen-fades-at-the-finish",
          "pubDate" : "Fri, 29 Apr 2022 11:38:53 +0000",
          "title" : "Chess: Poland's Duda wins in Oslo while tired Carlsen fades at the finish"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91171783.cms\" />India's teenaged Grandmaster R Praggnanandhaa missed out on the top prize in the USD 210,000 Oslo Esports Cup online rapid chess tournament as he lost 0.5-2.5 to Dutch player Anish Giri in the seventh and final round to finish fourth.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-indian-gm-praggnanandhaa-falters-in-final-round-of-oslo-event-finishes-fourth/articleshow/91171783.cms",
-         "pubDate" : "Fri, 29 Apr 2022 06:13:38 +0000",
-         "title" : "Indian GM Praggnanandhaa falters in final round of Oslo event, finishes fourth"
       }
    ]
 }
