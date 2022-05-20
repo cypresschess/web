@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After four rounds at the preliminaries of the Chessable Masters, 22-year-old Wei Yi is leading the standings table on 10/12 points. Three of the favourites stand two points behind - Magnus Carlsen, Ding Liren and Anish Giri. The 16-player online tournament is played with a football scoring system. Half the players will move on to the knockout stage from the single round-robin set to run until Sunday. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d1",
+         "pubDate" : "Fri, 20 May 2022 13:10:00 +0100",
+         "title" : "Chessable Masters: Wei Yi leads"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91685191.cms\" />According to Organising Secretary Niranjan Godbole, the Ukrainian GM has applied for the visa again so that he can compete in the tournament, set to be held in Pune from May 31 to June 8.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-ukraine-gm-ponomariov-applies-for-visa-again-maharashtra-open-organisers-knock-on-mea-doors/articleshow/91685191.cms",
+         "pubDate" : "Fri, 20 May 2022 09:09:52 +0000",
+         "title" : "Ukraine GM Ponomariov applies for visa again, Maharashtra Open organisers knock on MEA doors"
+      },
+      {
+         "description" : "The 2022 IM Not A GM Speed Chess Championship continued on Thursday with the round of 16 matchup between IMs Alina Kashlinskaya and Carissa Yip. Kashlinskaya was a class above and showed her experience in time pressure, winning by a score of 16-7....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kashlinskaya-blitzes-yip-2022-imscc-round-of-16",
+         "pubDate" : "Fri, 20 May 2022 01:13:18 -0700",
+         "title" : "Kashlinskaya Blitzes Yip: 2022 IMSCC, Round Of 16"
+      },
+      {
+         "description" : "GM Wei Yi took an early lead at the 2022 Meltwater Champion&#39;s Chess Tour&#39;s Chessable Masters on Thursday, scoring a draw and three wins. GM Abhimanyu Mishra, the youngest grandmaster in the world, won twice&#38;mdash;like world champion Magnus Carlsen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-1",
+         "pubDate" : "Fri, 20 May 2022 00:45:01 -0700",
+         "title" : "Wei Yi Leads, Mishra Shines: Chessable Masters, Day 1"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Andrii Baryshpolets</strong>, a Los-Angeles-based Ukrainian GM and <a href=\"https://www.linkedin.com/in/andrii-baryshpolets/\">business consultant</a>, <a href=\"https://www.facebook.com/andrii.baryshpolets\">has announced</a> that he runs for FIDE President. Earlier, he initiated <a href=\"https://www.change.org/p/remove-arkady-dvorkovich-from-the-international-chess-federation-fide-presidency\">a petition to remove Dvorkovich</a> from the post. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/baryshpolets-challenges-dvorkovich/",
+         "pubDate" : "Fri, 20 May 2022 08:30:57 +0100",
+         "title" : "Baryshpolets challenges Dvorkovich"
+      },
+      {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -66,7 +106,7 @@ news_feed (
          "title" : "Superbet Poland: Anand's perfect day"
       },
       {
-         "description" : "The first day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, was dominated by a vintage performance from GM Vishwanathan Anand, who leads the fray with a perfect score. With each win being worth two points...",
+         "description" : "The first day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, was dominated by a vintage performance from GM Viswanathan Anand, who leads the fray with a perfect score. With each win being worth two points&#38;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-1",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-off-to-winning-start-in-superbet-rapid-chess-event/articleshow/91671475.cms",
          "pubDate" : "Thu, 19 May 2022 16:47:09 +0000",
          "title" : "Viswanathan Anand off to winning start in Superbet Rapid chess event"
-      },
-      {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play start daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Thu, 19 May 2022 17:30:00 +0100",
-         "title" : "Chessable Masters, Day 1: Live"
       },
       {
          "description" : "\"The future of Indian chess looks bright!\" tweeted Anish Giri after 52-year-old Vishy Anand got off to a brilliant start in the Superbet Rapid &amp; Blitz Poland tournament in Warsaw. Vishy beat his former second Radek Wojtaszek, then sacrificed a pawn to crush world no. 8 Wesley So, then crashed through against Anton Korobov's French to end the day in the sole lead on a perfect 6/6.",
@@ -656,14 +688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1757",
          "pubDate" : "Mon, 16 May 2022 10:00:07 +0000",
          "title" : "2022 1st FIDE Council meeting - decisions for FC"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> On 7-10 July rounds 11-15 of this year's delayed <strong>Schachbundesliga</strong> season <a href=\"https://www.schachbundesliga.de/artikel/353\">will be played at the VIP halls</a> of <strong>Weserstadion</strong> during the summer break of <strong>Werder Bremen</strong> that has just assured its return to Germany's top football league. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/bremen-hosts-bundesliga-final/",
-         "pubDate" : "Mon, 16 May 2022 08:45:59 +0100",
-         "title" : "Bremen hosts Bundesliga final"
       },
       {
          "description" : "Gujarat State Chess Association in association with Sports Authority of Gujarat is all set to host the &#8220;MPL 34th National U-14 Open &#38; Girls Chess",
@@ -1706,14 +1730,6 @@ news_feed (
          "title" : "The extraordinary Ignatz Von Kolisch: champion, patron, banker"
       },
       {
-         "description" : "For the third round in a row, the players delivered one win and four draws. This round saw the hometown hero, GM Bogdan-Daniel Deac, win against GM Richard Rapport after the latter first let go of a decisive advantage and then a perpetual check. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-3",
-         "pubDate" : "Sat, 07 May 2022 17:10:00 -0700",
-         "title" : "Deac Beats Rapport, Joins Lead: 2022 Superbet Chess Classic Romania, Day 3"
-      },
-      {
          "description" : "For a third day in a row, we got to see one of five games ending decisively at the Superbet Chess Classic in Bucharest. Bogdan-Daniel Deac, the clear underdog in the field, joined Wesley So and Ian Nepomniachtchi in the lead after making the most of Richard Rapport's one-move blunder. Meanwhile, Levon Aronian escaped against Alireza Firouzja, who could not convert his advantage in a double-edged endgame. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1752,14 +1768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1738",
          "pubDate" : "Sat, 07 May 2022 13:33:37 +0000",
          "title" : "Yuri Averbakh (1922-2022)"
-      },
-      {
-         "description" : "GM Yuri Averbakh, the world&#38;rsquo;s oldest grandmaster, a trainer, international arbiter, chess composer, endgame theoretician, writer, historian, honorary member of FIDE, and the last living participant of the famous Zurich 1953 Candidates Tourna...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yuri-averbakh-obituary",
-         "pubDate" : "Sat, 07 May 2022 06:27:00 -0700",
-         "title" : "Yuri Averbakh, 1922-2022"
       },
       {
          "description" : "Yuri Averbakh, the world's oldest grandmaster, passed away today, May 7th, three months after celebrating his 100th birthday. Yuri, who was born in Kaluga, Russia on February 8th 1922, got to see the 2nd World Chess Champion Emanuel Lasker play as a child. In 1954 Yuri went on to win the formidable USSR Championship, and he also tied for first two years later. In later years he was a renowned chess arbiter, writer, presenter, journalist and historian, staying active until the very end.",
@@ -2242,7 +2250,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#x40;&#x62;&#x74;&#105;&#110;&#116;&#101;&#114;&#110;&#101;&#116;&#46;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;&#x77;&#x69;&#99;kh&#x61;&#x6d;&#64;b&#x74;&#x69;&#110;&#116;e&#x72;&#x6e;&#101;t&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
