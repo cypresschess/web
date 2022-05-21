@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand continued his winning streak at the Superbet Rapid & Blitz tournament in Warsaw, as he kicked off day 2 with two straight wins before signing his first draw of the event in round 6. Anand has a 2-point lead over Richard Rapport, who collected full points in all three rounds on Friday. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d2",
+         "pubDate" : "Sat, 21 May 2022 03:50:00 +0100",
+         "title" : "Superbet Poland: Anand keeps the lead, Rapport wins three in a row"
+      },
+      {
+         "description" : " IM Daniel Cawdery won his second national title by edging out the field of contemporaries including former national champions and the country's lone Grandmaster. The tournament took place May 7-14, 2022 in the Newlands Cricket Stadium in Cape Town, South Africa. GM Kenny Solomon and IM Daniel Cawdery with a nice backdrop of the cricket The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/daniel-cawdery-wins-south-african-championship/\">Daniel Cawdery wins South African Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/20/daniel-cawdery-wins-south-african-championship/",
+         "pubDate" : "Sat, 21 May 2022 00:57:44 +0000",
+         "title" : "Daniel Cawdery wins South African Championship"
+      },
+      {
          "description" : "Last weekend, the semifinals concluded with two of the most thrilling matches we have ever seen in Collegiate Chess League history. Both matches came down to the very last game of the match with thousands of dollars on the line and a spot in the f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sharjah-chess-masters-2022-live/",
          "pubDate" : "Fri, 20 May 2022 13:01:32 +0000",
          "title" : "Sharjah Chess Masters 2022 LIVE"
-      },
-      {
-         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. After three rounds of rapid, Vishy Anand is in the sole lead on a perfect 6 out of 6 score. Day 2 starts Friday, May 20, at 14.00 CEST (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
-         "pubDate" : "Fri, 20 May 2022 13:55:00 +0100",
-         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
       },
       {
          "description" : " While following up my research into Zork, I cam across a website that lets you play vintage chess games (and other games) in your browser. <a href=\"https://playclassic.games/games/chess-dos-games-online/\">https://playclassic.games/games/chess-dos-games-online/</a> has a set of old Dos chess programs which look to be fully playable. I played one game against Sargon V, which I won, although the user interface lead me to play 1.e3 by accident. I did play it on Level 1, which was good enough not to hang pieces, but not strong enough to spot a mate in 2 (albeit one I also missed for one move) <br /> ",
@@ -2282,7 +2290,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#114;&#46;w&#x69;&#x63;&#107;&#104;a&#x6d;&#x40;&#98;&#116;i&#x6e;&#x74;&#x65;&#114;ne&#x74;&#x2e;&#99;&#111;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;w&#105;&#x63;&#107;&#x68;a&#x6d;&#64;&#98;&#x74;&#105;&#x6e;t&#x65;&#x72;&#110;&#x65;t&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2328,14 +2336,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-a-great-learning-experience-says-r-praggnanandhaa/articleshow/91200206.cms",
          "pubDate" : "Sat, 30 Apr 2022 05:48:51 +0000",
          "title" : "Oslo Esports Cup a great learning experience, says R Praggnanandhaa"
-      },
-      {
-         "description" : " <p class=\"lead\">In an exclusive interview with World Chess and WGM Dina Belenkaya, Leinier Dominguez talked about the traumas in professional chess, broke down his chess career, acknowledged the most important things in his life, and explained more about his preparation for the Grand Prix. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/LzRK55o3ML8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Cuban-born American GM, Leinier Dominguez had a - more of a - conversation with DIna, showing his calm and funny side, as well as his high sense of professionalism. Dominguez said that he plays online but he prefers offline tournaments beca",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/dominguez-chess-is-traumatic-sometimes/",
-         "pubDate" : "Sat, 30 Apr 2022 00:02:26 +0000",
-         "title" : "Dominguez: Chess is traumatic sometimes"
       }
    ]
 }
