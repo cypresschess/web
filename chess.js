@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Slovak Youth Chess Championships 2022 take place from 21&#x2013;28 May 2022 in &#x13D;ubovnianske k&#xFA;pele. The event is played in 6 age categories: U8, U10, U12, U14, U16 &#38; U18, open and girls sections separately. Each category is played in 9 rounds, swiss system, with round-robin system in the sections with less than 11 participants. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/slovak-youth-chess-championships-2022-all-information-live-games/",
+         "pubDate" : "Sat, 21 May 2022 14:51:54 +0000",
+         "title" : "Slovak Youth Chess Championships 2022 - All information & LIVE games"
+      },
+      {
+         "description" : "South Sudan determined the team for the upcoming 44th Chess Olympiad 2022 after the selection process which featured three tournaments. More than 120 players took part in the first phase with the top 40 proceeding to the second stage. The second event determined 12 players who competed in the final 11 rounds round robin event []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/south-sudan-determines-team-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Sat, 21 May 2022 14:04:33 +0000",
+         "title" : "South Sudan determines team for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : " A change of government in Australia is expected after the results of today's Federal election. While this may not have direct effect on chess in Australia, I do know a couple of chess players are closely connected with the Labor Party, and this maty lead to some small wins over the next three (or more) years! ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/speaking-of-elections.html",
+         "pubDate" : "Sat, 21 May 2022 13:04:00 +0000",
+         "title" : "Speaking of elections ...."
+      },
+      {
+         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. After six rounds of rapid, Vishy Anand is in the sole lead with an 11/12 score. Day 3 starts Saturday, May 20, at 14.00 CEST (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
+         "pubDate" : "Sat, 21 May 2022 13:55:00 +0100",
+         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91710288.cms\" />Almost winning his maiden World championship in Chennai back in 2013, Magnus Carlsen will be revisiting the city to be part of the 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-set-to-be-part-of-chess-olympiad/articleshow/91710288.cms",
+         "pubDate" : "Sat, 21 May 2022 12:22:02 +0000",
+         "title" : "Magnus Carlsen set to be part of Chess Olympiad"
+      },
+      {
          "description" : "Another fantastic chess player, who was able to play defensive, aggressive, tactical, strategical, and creative. Boris Spassky has solved some juicy tactics in his games. Also, this is the very first time, that Lawrence and Arne have to face the so-called \"nightmare\" of the ChessBase tactics section. With limited amount of time, they have to solve this beast. Can you solve it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +74,15 @@ news_feed (
          "title" : "31st Chicago Open"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91705044.cms\" />The 16-year-old, who also won their duel at the Airthings Masters in February, took advantage of a one-move blunder by Carlsen in the closing stages to stay in the hunt for a place in the knockout stages.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1775",
+         "pubDate" : "Sat, 21 May 2022 08:35:43 +0000",
+         "title" : "Superbet Rapid & Blitz: Day 2 Recap"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91705044.cms\" /> Indian Grandmaster Praggnanandhaa Rameshbabu notched up his second win of the season over Magnus Carlsen in the fifth round of the Chessable Masters online rapid chess tournament, exactly three months after stunning the world champion for the first time.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teen-praggnanandhaa-stuns-magnus-carlsen-again-to-take-win-at-chessable-masters/articleshow/91705044.cms",
@@ -93,7 +141,7 @@ news_feed (
          "description" : "Last weekend, the semifinals concluded with two of the most thrilling matches we have ever seen in Collegiate Chess League history. Both matches came down to the very last game of the match with thousands of dollars on the line and a spot in the f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-semifinals-2",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-semifinals",
          "pubDate" : "Fri, 20 May 2022 15:44:00 -0700",
          "title" : "Collegiate Chess League Season 4 Semifinals: UTRGV, UChicago Advance To Finals"
       },
@@ -234,14 +282,6 @@ news_feed (
          "title" : "Saint Louis Norm Congress 2022 LIVE"
       },
       {
-         "description" : "The 5th edition of the Sharjah Chess Masters&#160;international tournament will be held from 20th-30th May in Sharjah Cultural &#38; Chess Club. The event will kick off tomorrow with the technical meeting, opening ceremony and the first round starting from 15:00 CEST. The selected 80 players compete in a 9 round swiss system tournament for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sharjah-chess-masters-2022-live/",
-         "pubDate" : "Fri, 20 May 2022 13:01:32 +0000",
-         "title" : "Sharjah Chess Masters 2022 LIVE"
-      },
-      {
          "description" : " While following up my research into Zork, I cam across a website that lets you play vintage chess games (and other games) in your browser. <a href=\"https://playclassic.games/games/chess-dos-games-online/\">https://playclassic.games/games/chess-dos-games-online/</a> has a set of old Dos chess programs which look to be fully playable. I played one game against Sargon V, which I won, although the user interface lead me to play 1.e3 by accident. I did play it on Level 1, which was good enough not to hang pieces, but not strong enough to spot a mate in 2 (albeit one I also missed for one move) <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -304,14 +344,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessable-masters-1-wei-yi-leads-as-13-year-old-mishra-stars",
          "pubDate" : "Thu, 19 May 2022 23:10:27 +0000",
          "title" : "Chessable Masters 1: Wei Yi leads as 13-year-old Mishra stars"
-      },
-      {
-         "description" : "Two young rookie stars took centre stage as the elite Chessable Masters e-sports chess event kicked off today. The world's youngest grandmaster Abhimanyu Mishra scored his first win over a top 10 player on the Meltwater Champions Chess Tour aged just 13 as he racked up an impressive 6/12. Mishra is ranked just 459 in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/youngsters-steal-the-show-at-chessable-masters/",
-         "pubDate" : "Thu, 19 May 2022 23:01:44 +0000",
-         "title" : "Youngsters steal the show at Chessable Masters"
       },
       {
          "description" : "",
@@ -997,8 +1029,8 @@ news_feed (
          "description" : "The first two rounds of the Collegiate Chess League Season 4 playoffs have concluded leaving only four teams remaining in each division, and these teams are now fighting for a spot in the finals. The teams that have made it this far are guaranteed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-semifinals",
-         "pubDate" : "Sat, 14 May 2022 08:06:41 -0700",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-quarterfinals",
+         "pubDate" : "Sat, 14 May 2022 08:06:00 -0700",
          "title" : "Collegiate Chess League Season 4: Semifinals"
       },
       {
@@ -2074,14 +2106,6 @@ news_feed (
          "title" : "European Youth Chess Championship 2022 - Official invitation"
       },
       {
-         "description" : "Tykhon Cherniaiev is a 12-year-old Ukrainian Candidate Master and a double world U10 chess champion in Rapid and Blitz. His family fled Ukraine and is now safe in Hamburg. In the latest Endgame Magic Show, the talented kid joined GM Karsten M&uuml;ller to analyse a few of his most interesting endgames. Take a look! It is now free for all to watch (no ChessBase Premium account needed). | Pictured: Tykhon with his mom Svetlana, his sister Ustynya and GM Anna Muzychuk at the Women's Bundesliga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tykhon-cherniaev-endgame-magic-show",
-         "pubDate" : "Thu, 05 May 2022 14:50:00 +0100",
-         "title" : "Tykhon's endgame magic!"
-      },
-      {
          "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2282,14 +2306,6 @@ news_feed (
          "title" : "Asa Hoffmann, New York chess hustler"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1723",
-         "pubDate" : "Sun, 01 May 2022 20:33:40 +0000",
-         "title" : "May rating list: five young players debut in Top-100 Open"
-      },
-      {
          "description" : " The Russian Team Championships take place in Sochi 1st to 10th May 2022. The event has obviously been severely impacted by the war. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2306,7 +2322,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#x69;&#x63;&#x6b;&#x68;am&#64;&#98;&#116;&#x69;&#x6e;&#x74;&#x65;rn&#101;&#116;&#46;&#x63;&#x6f;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#119;&#105;&#99;&#107;ham&#x40;&#x62;&#x74;&#x69;&#x6e;&#116;&#101;&#114;net&#x2e;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2320,22 +2336,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
          "pubDate" : "Sat, 30 Apr 2022 21:18:00 +0400",
          "title" : "Bundesliga 2021-22 - "
-      },
-      {
-         "description" : " Inspired by a position I saw at today's Street Chess, here is a little study with White to play and win. As the winning idea is quite well known, I doubt this is an original creation, but it does identify one key idea in positions of this type. In the actual game there were a pair of rooks (and the black pawns were a lot further advanced), which actually saw Black win. <br /> <script>new PgnViewer( { boardName: \"game1324\", movesFormat: \"default\", pgnString:'[Event \"?\"][Site \"?\"][Date \"????.??.??\"][Round \"?\"][White \"?\"][Black \"?\"][Result \"1-0\"][SetUp \"1\"][FEN \"8/pp3pp1/4k3/6PP/5P2/8/8/K7 w - - 0 0\"][PlyCount \"11\"]1. h6 gxh6 2. gxh6 Kf6 3. f5 b6 4. Kb2 a6 5. Kb3 a5 6. Ka4', pauseBetweenMoves:",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/04/knowing-little-tricks.html",
-         "pubDate" : "Sat, 30 Apr 2022 13:44:00 +0000",
-         "title" : "Knowing the little tricks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91214083.cms\" />All India Chess Federation (AICF), the Indian Government and Tamil Nadu Government are ensuring that the forthcoming Chess Olympiad, scheduled in Chennai from July 28 to August 10, would be memorable for the country, the participants as well as the spectators.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sports-minister-anurag-thakur-reviews-preparation-for-chess-olympiad-2022/articleshow/91214083.cms",
-         "pubDate" : "Sat, 30 Apr 2022 13:27:19 +0000",
-         "title" : "Sports Minister Anurag Thakur reviews preparation for Chess Olympiad 2022"
       }
    ]
 }
