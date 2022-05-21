@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Another fantastic chess player, who was able to play defensive, aggressive, tactical, strategical, and creative. Boris Spassky has solved some juicy tactics in his games. Also, this is the very first time, that Lawrence and Arne have to face the so-called \"nightmare\" of the ChessBase tactics section. With limited amount of time, they have to solve this beast. Can you solve it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-23",
+         "pubDate" : "Sat, 21 May 2022 12:34:05 +0100",
+         "title" : "Trent's Tactics - Boris Spassky, and a nightmare"
+      },
+      {
+         "description" : "16-year-old Praggnanandhaa beat Magnus Carlsen on Day 2 of the Chessable Masters, though the Indian prodigy said he didn't want to win by a one-move blunder. Magnus shrugged off that loss with two wins (one with 1.c3) that put him in second place, alongside David Anton, while Wei Yi remains out in front on an unbeaten +5. His final win of the day ended a 3-game winning streak that made Jorden van Foreest, who started in last place, the day's top scorer.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-2-pragg-beats-magnus-again",
+         "pubDate" : "Sat, 21 May 2022 10:01:18 +0000",
+         "title" : "Chessable Masters 2: Pragg beats Magnus again"
+      },
+      {
+         "description" : "In 1978 I became involved in perhaps the weirdest world chess championship of all time, including parapsychology, the Great Yoghurt controversy, terrorists, mystic gurus levitating for victory, long range hypnosis and an attempt to abort the entire contest, just as it was reaching its maximum sporting climax. I experienced this panoply of outlandish occurrences when []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/levitation-yoghurt-and-chess/",
+         "pubDate" : "Sat, 21 May 2022 09:27:17 +0000",
+         "title" : "Levitation, yoghurt and chess"
+      },
+      {
+         "description" : "The 31st edition of the annual Chicago open will be held from 26-30 May in Westin Chicago North Shore Hotel. The event features 8 tournaments being played in different rating categories: Open (for players rated 2200+ UCF), U2300, U2100, U1900, U1700, U1500, U1300 and U1000. The total prize fund of the events is 100.000$ with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/31st-chicago-open/",
+         "pubDate" : "Sat, 21 May 2022 09:20:39 +0000",
+         "title" : "31st Chicago Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91705044.cms\" />The 16-year-old, who also won their duel at the Airthings Masters in February, took advantage of a one-move blunder by Carlsen in the closing stages to stay in the hunt for a place in the knockout stages.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teen-praggnanandhaa-stuns-magnus-carlsen-again-to-take-win-at-chessable-masters/articleshow/91705044.cms",
+         "pubDate" : "Sat, 21 May 2022 07:52:49 +0000",
+         "title" : "Indian teen Praggnanandhaa stuns world champion Carlsen again"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1774",
+         "pubDate" : "Sat, 21 May 2022 07:42:32 +0000",
+         "title" : "FIDE sponsors participation of African chess talents in Sharjah Championships 2022"
+      },
+      {
          "description" : "Wei Yi continues to lead the standings in the preliminary stage of the Chessable Masters, as he collected two wins and two draws in Friday's rounds. David Anton and Magnus Carlsen are sharing second place three points back. Carlsen kicked off the day with a loss - for a second time in the tour, the world champion was defeated by 16-year-old Indian prodigy Praggnanandhaa.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +312,6 @@ news_feed (
          "link" : "https://www.chessdom.com/youngsters-steal-the-show-at-chessable-masters/",
          "pubDate" : "Thu, 19 May 2022 23:01:44 +0000",
          "title" : "Youngsters steal the show at Chessable Masters"
-      },
-      {
-         "description" : "Today, May 19, 2022, is a historical day for Georgian chess. The Ministry of Education Mikhail Chkhenkeli has announced that starting with the next school year, chess will be a mandatory subject for first-grade students in the country. It will apply to all the 2,200 schools in Georgia, both public and private. The plan aims []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-will-be-a-compulsory-subject-in-2200-georgian-schools/",
-         "pubDate" : "Thu, 19 May 2022 23:00:00 +0000",
-         "title" : "Chess will be a compulsory subject in 2200 Georgian schools"
       },
       {
          "description" : "",
@@ -1754,14 +1794,6 @@ news_feed (
          "title" : "2022 ACTJCL GM Simul"
       },
       {
-         "description" : "Magnus Carlsen second Jan Gustafsson is back to answer more chess24 Premium user questions in Episode 2 of Season 27 of Jan's Opening Clinic. In the latest video Jan gives advice on a wide range of openings, including the Marshall, Reti, Vienna, Modern (in particular a dodgy but fun line he enjoyed playing in his youth) and the Catalan. \"It's the usual, we follow Anish!\" says Jan of his recommendation there. There's also still some time to ask a question for Jan to answer in one of the upcoming shows!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-2",
-         "pubDate" : "Sun, 08 May 2022 13:45:28 +0000",
-         "title" : "Jan's Opening Clinic Season 27, Episode 2"
-      },
-      {
          "description" : " Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2050,14 +2082,6 @@ news_feed (
          "title" : "Tykhon's endgame magic!"
       },
       {
-         "description" : "\"It is early night in Havana. A red retro Chevrolet convertible is taking us back to the iconic Hotel Nacional. The ocean is on our right, the lively streets of the old town on the left, and I can't help thinking that it's a dream I will soon wake up from\", writes Irina Bulmaga about her successful trip to Havana, where she got a remarkable victory in the Premier group of the Capablanca Memorial. | Pictured: A photo from the Morro Castle, a fortress guarding the entrance to the Havana harbour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/irina-bulmaga-havana-2022",
-         "pubDate" : "Thu, 05 May 2022 14:40:00 +0100",
-         "title" : "Unmasked emotions: a trip to Havana"
-      },
-      {
          "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2266,14 +2290,6 @@ news_feed (
          "title" : "May rating list: five young players debut in Top-100 Open"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1722",
-         "pubDate" : "Sun, 01 May 2022 16:16:33 +0000",
-         "title" : "Mr. Fumey announces his candidacy for FIDE President"
-      },
-      {
          "description" : " The Russian Team Championships take place in Sochi 1st to 10th May 2022. The event has obviously been severely impacted by the war. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2290,7 +2306,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#64;b&#116;&#105;&#110;&#116;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;c&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#x69;&#x63;&#x6b;&#x68;am&#64;&#98;&#116;&#x69;&#x6e;&#x74;&#x65;rn&#101;&#116;&#46;&#x63;&#x6f;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2320,14 +2336,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sports-minister-anurag-thakur-reviews-preparation-for-chess-olympiad-2022/articleshow/91214083.cms",
          "pubDate" : "Sat, 30 Apr 2022 13:27:19 +0000",
          "title" : "Sports Minister Anurag Thakur reviews preparation for Chess Olympiad 2022"
-      },
-      {
-         "description" : "In the days of the movie &#8220;Gladiator&#8221;, sand and sandals were de rigueur. &#8220;The Lord of the Rings&#8221; and &#8220;Hobbit&#8221; moved the focus to swords and sorcery. The current favourites are blood and mud. A prime example is the &#8220;Last Duel&#8221;, depicting chivalric battles in the days of mad King Charles VI of France, who []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/norse-code/",
-         "pubDate" : "Sat, 30 Apr 2022 08:51:23 +0000",
-         "title" : "Norse Code"
       }
    ]
 }
