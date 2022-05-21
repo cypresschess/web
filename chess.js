@@ -2290,7 +2290,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#x2e;&#x77;&#105;&#99;&#x6b;&#x68;&#97;&#109;&#x40;&#x62;&#116;&#105;&#x6e;&#x74;&#101;&#114;&#x6e;&#x65;&#116;&#46;&#x63;&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#46;&#119;&#105;&#x63;&#x6b;&#x68;&#x61;&#x6d;&#64;b&#116;&#105;&#110;&#116;&#x65;&#x72;&#x6e;&#x65;&#x74;&#46;c&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
