@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wei Yi continues to lead the standings in the preliminary stage of the Chessable Masters, as he collected two wins and two draws in Friday's rounds. David Anton and Magnus Carlsen are sharing second place three points back. Carlsen kicked off the day with a loss - for a second time in the tour, the world champion was defeated by 16-year-old Indian prodigy Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d2",
+         "pubDate" : "Sat, 21 May 2022 08:20:00 +0100",
+         "title" : "Chessable Masters: Pragg beats Carlsen as Wei leads"
+      },
+      {
+         "description" : "By hindsight, it's easy to say that in the diagram position White must play 29.Rxd3! - but is it just as easy to refute the game continuation 29.f3?? Your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/duo-infernale",
+         "pubDate" : "Sat, 21 May 2022 08:00:00 +0100",
+         "title" : "Duo infernale"
+      },
+      {
+         "description" : "GM Wei Yi continues to lead the 2022 Meltwater Champion&#39;s Chess Tour&#39;s Chessable Masters. The Chinese GM is three points ahead of the pack. World Champion Magnus Carlsen again lost to GM Praggnanandhaa R. as he blundered a knight in a drawn endgam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-2",
+         "pubDate" : "Fri, 20 May 2022 23:08:18 -0700",
+         "title" : "Carlsen Blunders Piece vs. Pragg: Chessable Masters, Day 2"
+      },
+      {
          "description" : "Vishy Anand continued his winning streak at the Superbet Rapid & Blitz tournament in Warsaw, as he kicked off day 2 with two straight wins before signing his first draw of the event in round 6. Anand has a 2-point lead over Richard Rapport, who collected full points in all three rounds on Friday. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-rapid-chess-indian-gm-viswanathan-anand-continues-to-lead-the-field/articleshow/91694704.cms",
          "pubDate" : "Fri, 20 May 2022 16:37:10 +0000",
          "title" : "Superbet Rapid Chess: Indian GM Anand continues to lead the field"
-      },
-      {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play start daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Fri, 20 May 2022 17:30:00 +0100",
-         "title" : "Chessable Masters, Day 2: Live"
       },
       {
          "description" : "Chinese star Ding Liren has revealed he's booked his ticket and is hoping to get a visa approved so he can travel to the Candidates. Speaking publicly for the first time about his epic race against time to be eligible, the newly-installed world No.2 said the experience has spurred him on to play the best chess of his life.",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "110 Instructive Chess Annotations"
       },
       {
-         "description" : "The first round of 16 match in this year&#39;s&#38;nbsp;I&#39;M Not A GM Speed Chess Championship featured an exciting battle between two well-known names in the chess streaming community: IM Levy Rozman (GothamChess), the number one chess streamer on YouTube...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rozman-defeats-nemo",
-         "pubDate" : "Mon, 09 May 2022 16:30:00 -0700",
-         "title" : "Rozman Defeats Nemo: 2022 IMSCC, Round Of 16"
-      },
-      {
          "description" : "Less than two weeks after winning the Capablanca Memorial, Hans Niemann claimed outright victory at the TePe Sigeman & Co tournament in Malm&ouml;. Niemann scored 5/7 points to finish a full point ahead of a three-player chasing pack, which consisted of Michael Adams, Nils Grandelius and Arjun Erigaisi. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2050,14 +2058,6 @@ news_feed (
          "title" : "Unmasked emotions: a trip to Havana"
       },
       {
-         "description" : "Two rounds, two wins. Arjun Erigaisi won his second game at the Tepe Sigemann & Co tournament in Malm&ouml;. The Indian grandmaster's victory over Saleh Salem was the only decisive game of the second round. The other three games ended in draws, with Alexei Shirov and Jorden van Foreest playing a particularly fierce battle. | Photos: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-r2",
-         "pubDate" : "Thu, 05 May 2022 13:05:00 +0100",
-         "title" : "TePe Sigeman & Co: Arjun wins two in a row, leads"
-      },
-      {
          "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2290,7 +2290,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;w&#105;&#x63;&#107;&#x68;a&#x6d;&#64;&#98;&#x74;&#105;&#x6e;t&#x65;&#x72;&#110;&#x65;t&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#46;&#114;&#x2e;&#x77;&#105;&#99;&#x6b;&#x68;&#97;&#109;&#x40;&#x62;&#116;&#105;&#x6e;&#x74;&#101;&#114;&#x6e;&#x65;&#116;&#46;&#x63;&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
@@ -2328,14 +2328,6 @@ news_feed (
          "link" : "https://www.thearticle.com/norse-code/",
          "pubDate" : "Sat, 30 Apr 2022 08:51:23 +0000",
          "title" : "Norse Code"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91200206.cms\" />India's R Praggnanandhaa missed a golden opportunity to win the Oslo Esports Cup as he lost in the seventh and final round 0.5-2.5 to Dutchman Anish Giri on Thursday night. Praggu, who had led the tournament for the first five rounds, ended fourth with 12 points. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/oslo-esports-cup-a-great-learning-experience-says-r-praggnanandhaa/articleshow/91200206.cms",
-         "pubDate" : "Sat, 30 Apr 2022 05:48:51 +0000",
-         "title" : "Oslo Esports Cup a great learning experience, says R Praggnanandhaa"
       }
    ]
 }
