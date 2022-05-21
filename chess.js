@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen played&#xA0;one of the worst possible opening moves and still secured his place in the Chessable Masters knockout on a day his Dutch rival&#xA0;Anish Giri powered into the lead. Giri, a beaten finalist in the $150,000&#xA0;Meltwater Champions Chess Tour event two years, emerged from rounds 9 to 12&#xA0;unbeaten with three wins and a draw []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-goes-with-1-h4-giri-takes-the-lead-chessable-masters-day-3-recap/",
+         "pubDate" : "Sat, 21 May 2022 22:58:09 +0000",
+         "title" : "Carlsen goes with 1.h4, Giri takes the lead; Chessable Masters Day 3 recap"
+      },
+      {
+         "description" : "The rapid portion of Superbet Rapid and Blitz Poland came to an end with GM Vishy Anand winning the rapid section, though his two points lead was diminished to one after the Indian legend conceded his first loss in the last round to his closest rival GM Richard Rapport. Tomorrow will see the first round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anand-wins-the-rapid-stage-of-grand-chess-tour-poland-2022/",
+         "pubDate" : "Sat, 21 May 2022 22:35:25 +0000",
+         "title" : "Anand wins the Rapid stage of Grand Chess Tour Poland 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1777",
+         "pubDate" : "Sat, 21 May 2022 21:02:25 +0000",
+         "title" : "Chessable Masters: Anish Giri takes the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1776",
+         "pubDate" : "Sat, 21 May 2022 20:40:46 +0000",
+         "title" : "Superbet Rapid & Blitz: Day 3 Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Richard Rapport after his win over Vishy Anand in Rapid Round 9 of the Superbet Rapid &amp; Blitz Poland. 2022.05.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ef0tIjraeVg.jpg",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-3",
+         "pubDate" : "Sat, 21 May 2022 19:56:07 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Richard Rapport Interview | Day 3"
+      },
+      {
          "description" : " I've recently set up three new websites, which are about to be released to the general public. The first is chesswithrichard.uk. This is a personal site advertising my tuition services. Regular readers will be aware that I don't teach like other chess tutors. Nor do I teach for the same reasons as other chess tutors. <a href=\"https://chessimprover.com/chess-with-richard/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess With Richard\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-with-richard/\">Chess With Richard</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -306,28 +346,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The King's Indian Part 2"
       },
       {
-         "description" : "The Italian Summer Chess Tour 2022&#160;features six open tournaments taking place one after another from May 16 &#x2013; June 11, with a total prize fund of 35.000e. The tour kicked off with the GrandMaster Grandiscacchi Chess Festival GM/IM Mix norm tournament which took place from 16-20 May in Montebelluna. Georgian grandmaster Levan Pantsulaia won the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levan-pantsulaia-wins-gm-grandiscacchi-chess-festival-2022/",
-         "pubDate" : "Fri, 20 May 2022 13:55:23 +0000",
-         "title" : "Levan Pantsulaia wins GM Grandiscacchi Chess Festival"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Richie Rapport after his win over David Gavrilescu in Rapid Round 4 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tBYK7402wuc",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-2",
          "pubDate" : "Fri, 20 May 2022 13:54:56 +0000",
          "title" : "2022 Superbet Rapid & Blitz Poland: Richard Rapport Interview | Day 2"
-      },
-      {
-         "description" : "The 2022 Saint Louis Norm Congress takes place from 18-25 May in the Saint Louis Chess Club, Saint Louis, Missouri. The invitational norm IM and GM tournaments bring together 20 players to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Both IM and GM events are played as 10-player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-norm-congress-2022-live/",
-         "pubDate" : "Fri, 20 May 2022 13:46:22 +0000",
-         "title" : "Saint Louis Norm Congress 2022 LIVE"
       },
       {
          "description" : " While following up my research into Zork, I cam across a website that lets you play vintage chess games (and other games) in your browser. <a href=\"https://playclassic.games/games/chess-dos-games-online/\">https://playclassic.games/games/chess-dos-games-online/</a> has a set of old Dos chess programs which look to be fully playable. I played one game against Sargon V, which I won, although the user interface lead me to play 1.e3 by accident. I did play it on Level 1, which was good enough not to hang pieces, but not strong enough to spot a mate in 2 (albeit one I also missed for one move) <br /> ",
@@ -472,14 +496,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-3",
          "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
          "title" : "2022 Superbet Rapid & Blitz Poland: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today is the first blitz round robin. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-4",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Day 4"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
@@ -2266,14 +2282,6 @@ news_feed (
          "title" : "V&aacute;zquez Maccarini wins Puerto-Rican Women's Championship"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1725",
-         "pubDate" : "Mon, 02 May 2022 18:02:31 +0000",
-         "title" : "Susan Namangale: \"I want to be a part of the change\""
-      },
-      {
          "description" : "Viswanathan Anand, who decided against playing in Chennai, will be involved the mentor of the Indian teams",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-27th-28th-29th.html",
          "pubDate" : "Mon, 02 May 2022 12:49:00 +0000",
          "title" : "2022 ACT Championship - 27th, 28th, 29th 30th May "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1724",
-         "pubDate" : "Mon, 02 May 2022 11:00:35 +0000",
-         "title" : "Winners crowned at 2022 US Middle School Championship "
       },
       {
          "description" : "Can you imagine a chess book, written by a master, which contains exactly one chess diagram, and the notation of a single 17-move game? And that you would not be able to put it down? That is what happens with this unique work, written by chess master Asa Hoffmann, with his wife Ginny. Asa has spent a lifetime hustling game in the clubs, parks and streets of New York, and his account of his days there is absolutely compelling.",
@@ -2330,7 +2330,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#107;&#104;&#97;&#109;&#64;btin&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#46;&#x77;&#105;&#x63;k&#104;&#x61;m&#x40;&#x62;&#116;&#x69;n&#116;&#x65;r&#x6e;&#x65;&#116;&#x2e;c&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
