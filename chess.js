@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've recently set up three new websites, which are about to be released to the general public. The first is chesswithrichard.uk. This is a personal site advertising my tuition services. Regular readers will be aware that I don't teach like other chess tutors. Nor do I teach for the same reasons as other chess tutors. <a href=\"https://chessimprover.com/chess-with-richard/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess With Richard\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-with-richard/\">Chess With Richard</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-with-richard/",
+         "pubDate" : "Sat, 21 May 2022 18:11:34 +0000",
+         "title" : "Chess With Richard"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Garry Kasparov during Day 1 of the Superbet Rapid &amp; Blitz Poland. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-garry-kasparov-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dul_KeqPT44.jpg?itok=aEQPFd-5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-garry-kasparov-interview-day-1",
+         "pubDate" : "Sat, 21 May 2022 16:55:48 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Garry Kasparov Interview | Day 1"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play start daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Sat, 21 May 2022 17:55:00 +0100",
+         "title" : "Chessable Masters, Day 3: Live"
+      },
+      {
+         "description" : "Vishy Anand rolled back the years as he clinched victory in the rapid section of the Superbet Rapid & Blitz in Warsaw with a round to spare. He began the final day of rapid chess by outplaying David Gavrilescu with the black pieces for a 6th win in 7 games. A draw against Fabiano Caruana was then enough for Vishy to top the table after his key rival Richard Rapport went astray and lost a winning position to Wesley So. Richard won their individual clash in the final round, however, narrowing the gap to just 1 point before the blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/vishy-anand-wins-superbet-rapid-with-round-to-spare",
+         "pubDate" : "Sat, 21 May 2022 16:28:12 +0000",
+         "title" : "Vishy Anand wins Superbet Rapid with round to spare"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91713601.cms\" />Former world champion Viswanathan Anand won the rapid event of the Superbet Rapid and Blitz Poland chess tournament on Saturday with a round to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-tourney-viswanathan-anand-wins-rapid-event-with-a-round-to-spare/articleshow/91713601.cms",
+         "pubDate" : "Sat, 21 May 2022 16:21:14 +0000",
+         "title" : "Superbet tourney: Viswanathan Anand wins Rapid event with a round to spare"
+      },
+      {
+         "description" : " Early this month, the Presidential election (FIDE 2022) opened and there are already four candidates for President. This point was noted by current FIDE Vice President Nigel Short. It appears that the FIDE Presidential Election will be a crowded field. &#8212; Nigel Short (@nigelshortchess) May 20, 2022 Crowded indeed. After the announcement of Enyonam Sewa The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/\">FIDE 2022 election campaigns heat up!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/",
+         "pubDate" : "Sat, 21 May 2022 15:42:11 +0000",
+         "title" : "FIDE 2022 election campaigns heat up!"
+      },
+      {
          "description" : "The Slovak Youth Chess Championships 2022 take place from 21&#x2013;28 May 2022 in &#x13D;ubovnianske k&#xFA;pele. The event is played in 6 age categories: U8, U10, U12, U14, U16 &#38; U18, open and girls sections separately. Each category is played in 9 rounds, swiss system, with round-robin system in the sections with less than 11 participants. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +82,7 @@ news_feed (
          "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91710288.cms\" />Almost winning his maiden World championship in Chennai back in 2013, Magnus Carlsen will be revisiting the city to be part of the 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91710288.cms\" />Almost 9 years after winning his maiden World championship in Chennai back in 2013, Magnus Carlsen will be revisiting the city to be part of the 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-set-to-be-part-of-chess-olympiad/articleshow/91710288.cms",
@@ -146,7 +194,7 @@ news_feed (
          "title" : "Collegiate Chess League Season 4 Semifinals: UTRGV, UChicago Advance To Finals"
       },
       {
-         "description" : " Spike Lee in the legendary Prospect Park Photo by NIKE Spike Lee Joint helps to celebrate Nike's 50th with a montage of videos of famous athletes and events spanning history since 1988. Spike Lee does it as an all-seeing witness at the chessboard. Set in the chess battleground in a New York park, Lee reprises The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/\">Spike Lee celebrates NIKE's 50th with chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Spike Lee filming &#8220;Seen It All&#8221; Photo by NIKE Spike Lee Joint helps to celebrate Nike's 50th with a montage of videos of famous athletes and events spanning history since 1988. Spike Lee does it as an all-seeing witness at the chessboard. Set in the chess battleground in a New York park, Lee reprises Mars The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/\">Spike Lee celebrates NIKE's 50th with chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/",
@@ -432,14 +480,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-4",
          "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
          "title" : "2022 Superbet Rapid & Blitz Poland: Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today has the last blitz round robin. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-5",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Day 5"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
@@ -1031,7 +1071,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-quarterfinals",
          "pubDate" : "Sat, 14 May 2022 08:06:00 -0700",
-         "title" : "Collegiate Chess League Season 4: Semifinals"
+         "title" : "Collegiate Chess League Season 4: Quarterfinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91562290.cms\" />The All India Chess Federation (AICF) on Saturday signed a Memorandum of Understanding (MoU) with the Tamil Nadu government for the forthcoming 44th Chess Olympiad, slated to be held here from July 28 to August 10.",
@@ -1778,14 +1818,6 @@ news_feed (
          "title" : "Circular Letter No.2/2022"
       },
       {
-         "description" : "Wesley So is the sole leader of the Superbet Chess Classic in Bucharest after Ian Nepomniachtchi finally cracked under the pressure of being a pawn down for most of their Round 4 game. Levon Aronian also converted an extra pawn, against Leinier Dominguez, while Maxime Vachier-Lagrave refuted Fabiano Caruana's exchange sacrifice to grab the 3rd win of the day. There were eventful draws in Firouzja-Rapport and Mamedyarov-Deac.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-classic-4-so-leads-as-mvl-aronian-also-strike",
-         "pubDate" : "Sun, 08 May 2022 21:49:24 +0000",
-         "title" : "Superbet Classic 4: So leads as MVL & Aronian also strike"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2082,14 +2114,6 @@ news_feed (
          "title" : "Sanchez Alvarez and Vasquez Jaen win Panamanian championship"
       },
       {
-         "description" : "This week Robert Ris looks at the line with 6.Bd3 against the Najdorf, only the tenth most popular against the sharp defence. Facing this move with Black is no easy task, though, as was demonstrated in an all-Ukrainian confrontation at the Bundesliga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-playing-6bd3-against-the-najdorf",
-         "pubDate" : "Thu, 05 May 2022 20:15:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Going for 6.Bd3 against the Najdorf"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2202,14 +2226,6 @@ news_feed (
          "title" : "Sri Lanka Championships 2022: De Silva and Ranasinghe clinch titles"
       },
       {
-         "description" : " \"Choices are the hinges of destiny\" Pythagoras We've been rotating between different formats for the club tournament between rapid chess, chess 960, three check chess or crazy house. Now we are in the middle of a rapid chess one and last round saw an interesting game being played. The opening phase went like this: White <a href=\"https://chessimprover.com/quick-decisions-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-8/\">Quick Decisions (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/quick-decisions-8/",
-         "pubDate" : "Tue, 03 May 2022 17:27:46 +0000",
-         "title" : "Quick Decisions (8)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91293260.cms\" />Indian Woman Grandmaster R Vaishali on Tuesday won the Heraklion 2022 - 8th Fischer Memorial chess tournament, scoring seven points from nine rounds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2282,14 +2298,6 @@ news_feed (
          "title" : "2022 ACT Championship - 27th, 28th, 29th 30th May "
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91260418.cms\" />Two teams each will represent India in the Open and women's section at the 44th Chess Olympiad with five-time world champion Viswanathan Anand being named as the hosts' mentor for the prestigious tournament scheduled to be played from July 28 to Aug 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-viswanathan-anand-to-mentor-squad-as-india-name-two-teams-in-open-and-womens-section/articleshow/91260418.cms",
-         "pubDate" : "Mon, 02 May 2022 11:11:34 +0000",
-         "title" : "Olympiad: Anand to mentor squad as India name two teams in open and women's section"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2322,20 +2330,12 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham j&#46;&#114;&#x2e;&#x77;&#x69;c&#107;&#104;&#x61;&#x6d;&#x40;bt&#105;&#x6e;&#x74;&#x65;rn&#101;&#116;&#x2e;&#x63;&#x6f;m as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#x6a;&#x2e;&#x72;&#x2e;&#x77;&#x69;&#x63;&#107;&#104;&#97;&#109;&#64;btin&#x74;&#x65;&#x72;&#x6e;&#x65;&#x74;&#x2e;&#x63;&#111;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
          "pubDate" : "Sun, 01 May 2022 08:00:08 +0000",
          "title" : "BCET Awards 2022 - a reminder"
-      },
-      {
-         "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
-         "pubDate" : "Sat, 30 Apr 2022 21:18:00 +0400",
-         "title" : "Bundesliga 2021-22 - "
       }
    ]
 }
