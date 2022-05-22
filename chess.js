@@ -2,20 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Anish Giri stormed into the lead with three wins and a draw on Day 3 of the Chessable Masters, while Magnus Carlsen is 2nd after beating Vidit with 1.d3 and almost taking down Wei Yi with 1.h4. It was a day of reversals, with Jorden van Foreest going from top scorer on Day 2 to losing all four games on Day 3. Wei Yi also suffered, while winless Arjan Tari suddenly won three games in a row as the race to finish in the Top 8 heated up.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-3-giri-leads-as-magnus-plays-1-d3-1-h4",
-         "pubDate" : "Sun, 22 May 2022 10:38:11 +0000",
-         "title" : "Chessable Masters 3: Giri leads as Magnus plays 1.d3, 1.h4"
+         "description" : "The Czech Women's Chess Championship 2022 kicked off in Jaromerice nad Rokytnou, taking place from 21-29 May. Ten players compete in 9 rounds (round robin system) for the National Champion title. The battlefield is led by WGM Kristyna Petrova, WGM Karolina Pilsova and WIM Natasa Richterova. (starting rank list of players can be found below)Read []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-womens-chess-championship-2022-live/",
+         "pubDate" : "Sun, 22 May 2022 15:03:29 +0000",
+         "title" : "Czech Women's Chess Championship 2022 LIVE"
       },
       {
          "description" : "Scoring 3.5/4 on Saturday, GM Anish Giri is the new leader at the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Second-ranked GM Magnus Carlsen tried the remarkable 1.h4 and drew his game with&#38;nbsp;GM Wei Yi, who is now in third positio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-3",
-         "pubDate" : "Sun, 22 May 2022 02:03:57 -0700",
-         "title" : "Giri Grabs Lead; Carlsen Goes 1.h4: Chessable Masters, Day 3"
+         "pubDate" : "Sun, 22 May 2022 07:00:00 -0700",
+         "title" : "Giri Grabs Lead; Carlsen Tries 1.h4: Chessable Masters, Day 3"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 80th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-80-pawn-majorities-4",
+         "pubDate" : "Sun, 22 May 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 80: Pawn Majorities (4)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Wesley So after his win over Richard Rapport in Rapid Round 8 of the Superbet Rapid &amp; Blitz Poland. 2022.05.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-wesley-so-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ouaBtlrEgD0.jpg?itok=mO",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-wesley-so-interview-day-3",
+         "pubDate" : "Sun, 22 May 2022 13:56:45 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Wesley So Interview | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players talk about competing in Warsaw at the first Grand Chess Tour event in Poland. 2022.05.18<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-playing-poland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nIWlq6ndT-A.jpg?itok=pMBAWeKe\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-playing-poland",
+         "pubDate" : "Sun, 22 May 2022 13:56:45 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Playing in Poland"
+      },
+      {
+         "description" : "On the third day of the Chessable Masters, Anish Giri took the lead in the standings table after scoring three wins and a draw. Wei Yi, who had been leading until Friday, only managed two draws and dropped to fourth place. Magnus Carlsen is one point behind Giri in second place; Ding Liren is third. Sunday's final three rounds of the preliminaries will decide which eight players move on to the knockout.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d3",
+         "pubDate" : "Sun, 22 May 2022 14:55:00 +0100",
+         "title" : "Chessable Masters: Giri grabs the lead"
+      },
+      {
+         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. After six rounds of rapid, Vishy Anand is in the sole lead with an 11/12 score. Day 4 starts Sunday, May 22, at 14.00 CEST (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
+         "pubDate" : "Sun, 22 May 2022 13:55:00 +0100",
+         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
+      },
+      {
+         "description" : "The 1/8 finals of the jubilee edition of the TCEC Cup are history. The 16 best engines from the TCEC S22 qualified for this round without trouble. The league winner Stockfish, the Superfinal participant KomodoDragon, and the subfinal winner Lc0 had no problems in their matches, winning with significant margin. Stoofvlees, Slowchess, and Igel followed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/revenge-brings-the-only-cupset-in-the-tcec-cup-1-8-finals/",
+         "pubDate" : "Sun, 22 May 2022 12:16:33 +0000",
+         "title" : "Revenge brings the only !cupset in the TCEC Cup 1/8 finals"
+      },
+      {
+         "description" : " If you are turning 50 years old (or more) this year, then the 2022 Asian Seniors Championship may be of interest to you. It is being held from the 14th to the 22nd of October, in Auckland, New Zealand. It will be a 9 round swiss and apart from an enjoyable week of chess, title and title norms are on offer. I played in 2017 and I highly recommend this event to those who are able to take part. Brief details are available at <a href=\"https://www.newzealandchess.co.nz/calendar.html\">https://www.newzealandchess.co.nz/calendar.html</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-asian-seniors-championship.html",
+         "pubDate" : "Sun, 22 May 2022 11:55:00 +0000",
+         "title" : "2022 Asian Seniors Championship"
+      },
+      {
+         "description" : "Anish Giri stormed into the lead with three wins and a draw on Day 3 of the Chessable Masters, while Magnus Carlsen is 2nd after beating Vidit with 1.d3 and almost taking down Wei Yi with 1.h4. It was a day of reversals, with Jorden van Foreest going from top scorer on Day 2 to losing all four games on Day 3. Wei Yi also suffered, while winless Arjan Tari suddenly won three games in a row as the race to finish in the Top 8 heated up.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-3-giri-leads-as-magnus-plays-1-d3-1-h4",
+         "pubDate" : "Sun, 22 May 2022 10:38:11 +0000",
+         "title" : "Chessable Masters 3: Giri leads as Magnus plays 1.d3, 1.h4"
       },
       {
          "description" : "Vishy Anand won the rapid section of the Superbet tournament in Warsaw, despite losing his round-9 encounter against Richard Rapport. The latter goes into the 18 rounds of blitz in sole second place, after winning twice and losing once on Saturday. Jan-Krzysztof Duda stands in third place, a point further back. | Photo: Lennart Ootes",
@@ -88,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-garry-kasparov-interview-day-1",
          "pubDate" : "Sat, 21 May 2022 16:55:48 +0000",
          "title" : "2022 Superbet Rapid & Blitz Poland: Garry Kasparov Interview | Day 1"
-      },
-      {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play start daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Sat, 21 May 2022 17:55:00 +0100",
-         "title" : "Chessable Masters, Day 3: Live"
       },
       {
          "description" : "Vishy Anand rolled back the years as he clinched victory in the rapid section of the Superbet Rapid & Blitz in Warsaw with a round to spare. He began the final day of rapid chess by outplaying David Gavrilescu with the black pieces for a 6th win in 7 games. A draw against Fabiano Caruana was then enough for Vishy to top the table after his key rival Richard Rapport went astray and lost a winning position to Wesley So. Richard won their individual clash in the final round, however, narrowing the gap to just 1 point before the blitz.",
@@ -234,6 +290,14 @@ news_feed (
          "title" : "Carlsen Blunders Piece vs. Pragg: Chessable Masters, Day 2"
       },
       {
+         "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-madrid/",
+         "pubDate" : "Sat, 21 May 2022 03:24:00 +0000",
+         "title" : "FIDE Candidates Chess 2022 Madrid"
+      },
+      {
          "description" : "Vishy Anand continued his winning streak at the Superbet Rapid & Blitz tournament in Warsaw, as he kicked off day 2 with two straight wins before signing his first draw of the event in round 6. Anand has a 2-point lead over Richard Rapport, who collected full points in all three rounds on Friday. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -288,30 +352,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-2",
          "pubDate" : "Fri, 20 May 2022 12:09:00 -0700",
          "title" : "Anand Leads, Rapport Close Behind: 2022 Superbet Rapid & Blitz Poland, Day 2"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022&#160;takes place from 28th July &#x2013; 10th August in Chennai, India, and&#160;100 countries already registered for the event. A number of countries revealed the composition of their teams for Chennai, such as:&#160;Germany,&#160;Spain,&#160;Serbia, Monaco, Kenya,&#160;India, Uganda,&#160;Sri Lanka,&#160;Malawi&#x2026; Norway joined them and today disclosed the composition of their team which will travel to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-announces-team-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Fri, 20 May 2022 19:00:00 +0000",
-         "title" : "Norway announces team for 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "The second day of Superbet Rapid and Blitz Poland did not disappoint the tournament fans as day 2 was filled with exciting games and rapid action. The day came to an end with GM Vishy Anand continuing to maintain his two-point lead going to the last day of the rapid portion. Read more: Anand with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anand-remains-convincing-in-poland-gct-poland-day-2-recap/",
-         "pubDate" : "Fri, 20 May 2022 18:58:00 +0000",
-         "title" : "Anand remains convincing in Poland; GCT Poland Day 2 recap"
-      },
-      {
-         "description" : "Tour rookie Wei Yi dominated again in the&#xA0;Chessable&#xA0;Masters as World Champion Magnus Carlsen suffered&#xA0;a second shock loss&#xA0;to 16-year-old Rameshbabu Praggnanandhaa.Read more: Youngsters steal the show at Chessable Masters Wei Yi leads the field by 3 points after scoring two wins and two draws to stay unbeaten in the $150,000 online esports event. With 7 rounds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pragg-defeats-carlsen-wei-yi-maintains-the-lead-chessable-masters-day-2-recap/",
-         "pubDate" : "Fri, 20 May 2022 18:50:00 +0000",
-         "title" : "Pragg defeats Carlsen, Wei Yi maintains the lead; Chessable Masters Day 2 recap"
       },
       {
          "description" : "52-year-old chess legend Vishy Anand continued to dominate in Warsaw on Day 2 of the Superbet Rapid and Blitz as he raced to a perfect 10/10 start with thumping wins over Kirill Shevchenko and Levon Aronian. Only local hero Jan-Krzysztof Duda managed to hold the 5-time World Champion to a draw, leaving Vishy two points clear of Richard Rapport, who won all three games on Friday.",
@@ -504,22 +544,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/radoslaw-jedynak-duda-wojtaszek-deserve-day-1",
          "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
          "title" : "Radoslaw Jedynak: Duda & Wojtaszek Deserve This | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today is the middle three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-labe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-2",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the POLIN Museum of the History of Polish Jews in Warsaw, the inaugural Superbet Rapid &amp; Blitz Poland is the second leg of the Grand Chess Tour. Four Tour players (Caruana, Aronian, So, and Rapport) are joined by wildcards (Anand, Duda, Korobov, Wojtaszek, Shevchenko, and Gavrilescu) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, and WGM Anastasia Karlovich for the move-by-move. 2022.05.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-day-3",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Day 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
@@ -2050,14 +2074,6 @@ news_feed (
          "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
       },
       {
-         "description" : "In a review published in Chess Life, John Watson looks at a number of titles that explore the Jobava London System. He notes, \"It's remarkable that 2.Nc3 was considered a marginal and even anti-positional move for most of chess history. It is now played by the world's elite and creates fresh and interesting play\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jobava-london-john-watson-review",
-         "pubDate" : "Fri, 06 May 2022 14:50:00 +0100",
-         "title" : "The Jobava London: theory marches on"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/heading-back.html",
          "pubDate" : "Fri, 06 May 2022 05:20:00 +0000",
          "title" : "Heading Back"
-      },
-      {
-         "description" : "Wesley So grabbed the first win at this year's Superbet Chess Classic, the inaugural event of the Grand Chess Tour. The Filipino-born star beat defending champion Shakhriyar Mamedyarov to get the sole lead in Bucharest, as the four remaining round-1 games finished drawn. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r1",
-         "pubDate" : "Thu, 05 May 2022 22:25:00 +0100",
-         "title" : "Superbet: So beats Mamedyarov"
       },
       {
          "description" : "",
