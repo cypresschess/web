@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-3-anand-wins",
-         "pubDate" : "Sat, 21 May 2022 17:44:34 -0700",
+         "pubDate" : "Sat, 21 May 2022 17:44:00 -0700",
          "title" : "Anand Wins Rapid Portion: 2022 Superbet Rapid & Blitz Poland, Day 3"
       },
       {
@@ -2330,7 +2330,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#114;&#46;&#119;i&#x63;k&#x68;a&#x6d;&#64;&#x62;t&#x69;n&#x74;e&#x72;n&#x65;t&#x2e;c&#x6f;&#109; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;&#99;&#x6b;&#104;&#x61;&#109;&#x40;&#98;&#x74;&#105;&#x6e;&#116;&#x65;&#114;&#x6e;&#101;&#x74;&#46;&#x63;&#111;&#x6d; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
