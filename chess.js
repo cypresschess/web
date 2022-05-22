@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand won the rapid section of the Superbet tournament in Warsaw, despite losing his round-9 encounter against Richard Rapport. The latter goes into the 18 rounds of blitz in sole second place, after winning twice and losing once on Saturday. Jan-Krzysztof Duda stands in third place, a point further back. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d3",
+         "pubDate" : "Sun, 22 May 2022 03:40:00 +0100",
+         "title" : "Superbet Poland: Rapport inflicts a first loss on Anand"
+      },
+      {
+         "description" : "The Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, continued on Saturday. GM Viswanathan Anand was confirmed as the tournament leader after scoring six wins, two draws, and one loss and winning the rapid section....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-3-anand-wins",
+         "pubDate" : "Sat, 21 May 2022 17:44:34 -0700",
+         "title" : "Anand Wins Rapid Portion: 2022 Superbet Rapid & Blitz Poland, Day 3"
+      },
+      {
          "description" : "Magnus Carlsen played&#xA0;one of the worst possible opening moves and still secured his place in the Chessable Masters knockout on a day his Dutch rival&#xA0;Anish Giri powered into the lead. Giri, a beaten finalist in the $150,000&#xA0;Meltwater Champions Chess Tour event two years, emerged from rounds 9 to 12&#xA0;unbeaten with three wins and a draw []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Speaking of elections ...."
       },
       {
-         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. After six rounds of rapid, Vishy Anand is in the sole lead with an 11/12 score. Day 3 starts Saturday, May 20, at 14.00 CEST (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
-         "pubDate" : "Sat, 21 May 2022 13:55:00 +0100",
-         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91710288.cms\" />Almost 9 years after winning his maiden World championship in Chennai back in 2013, Magnus Carlsen will be revisiting the city to be part of the 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -202,11 +210,11 @@ news_feed (
          "title" : "Duo infernale"
       },
       {
-         "description" : "GM Wei Yi continues to lead the 2022 Meltwater Champion&#39;s Chess Tour&#39;s Chessable Masters. The Chinese GM is three points ahead of the pack. World Champion Magnus Carlsen again lost to GM Praggnanandhaa R. as he blundered a knight in a drawn endgam...",
+         "description" : "GM Wei Yi continues to lead the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Chinese GM is three points ahead of the pack. World Champion Magnus Carlsen again lost to GM Praggnanandhaa R. as he blundered a knight in a drawn endgame...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-2",
-         "pubDate" : "Fri, 20 May 2022 23:08:18 -0700",
+         "pubDate" : "Fri, 20 May 2022 23:08:00 -0700",
          "title" : "Carlsen Blunders Piece vs. Pragg: Chessable Masters, Day 2"
       },
       {
@@ -1642,14 +1650,6 @@ news_feed (
          "title" : "Batumi to host FIDE World Cadets Chess Championships 2022"
       },
       {
-         "description" : "Another brutal round in Bucharest has concluded with a similar pattern as the first three rounds: one victory and four draws. This time, it was GM Fabiano Caruana who beat the luckless winner of last year&#39;s event GM Shakhriyar Mamedyarov. There we...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-5",
-         "pubDate" : "Tue, 10 May 2022 05:28:00 -0700",
-         "title" : "Caruana Strikes: 2022 Superbet Chess Classic Romania, Day 5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2330,7 +2330,7 @@ news_feed (
          "title" : "Congratulations to English Juniors - updated 4/5/22"
       },
       {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;r&#46;&#x77;&#105;&#x63;k&#104;&#x61;m&#x40;&#x62;&#116;&#x69;n&#116;&#x65;r&#x6e;&#x65;&#116;&#x2e;c&#111;&#x6d; as...",
+         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#46;&#114;&#46;&#119;i&#x63;k&#x68;a&#x6d;&#64;&#x62;t&#x69;n&#x74;e&#x72;n&#x65;t&#x2e;c&#x6f;&#109; as...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
