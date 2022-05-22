@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri stormed into the lead with three wins and a draw on Day 3 of the Chessable Masters, while Magnus Carlsen is 2nd after beating Vidit with 1.d3 and almost taking down Wei Yi with 1.h4. It was a day of reversals, with Jorden van Foreest going from top scorer on Day 2 to losing all four games on Day 3. Wei Yi also suffered, while winless Arjan Tari suddenly won three games in a row as the race to finish in the Top 8 heated up.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-3-giri-leads-as-magnus-plays-1-d3-1-h4",
+         "pubDate" : "Sun, 22 May 2022 10:38:11 +0000",
+         "title" : "Chessable Masters 3: Giri leads as Magnus plays 1.d3, 1.h4"
+      },
+      {
+         "description" : "Scoring 3.5/4 on Saturday, GM Anish Giri is the new leader at the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Second-ranked GM Magnus Carlsen tried the remarkable 1.h4 and drew his game with&#38;nbsp;GM Wei Yi, who is now in third positio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-3",
+         "pubDate" : "Sun, 22 May 2022 02:03:57 -0700",
+         "title" : "Giri Grabs Lead; Carlsen Goes 1.h4: Chessable Masters, Day 3"
+      },
+      {
          "description" : "Vishy Anand won the rapid section of the Superbet tournament in Warsaw, despite losing his round-9 encounter against Richard Rapport. The latter goes into the 18 rounds of blitz in sole second place, after winning twice and losing once on Saturday. Jan-Krzysztof Duda stands in third place, a point further back. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1618,14 +1634,6 @@ news_feed (
          "title" : "Quick Decisions (9)"
       },
       {
-         "description" : "Just coming off his victory at the Capablanca Memorial, GM Hans Niemann also emerged victoriously at the Tepe Sigeman &#38;amp; Co Tournament in Malmo, Sweden. The 18-year-old American grandmaster finished on 5/7, a point clear of the pack. How to w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hans-niemann-wins-2022-tepe-sigeman-co-tournament",
-         "pubDate" : "Tue, 10 May 2022 07:58:00 -0700",
-         "title" : "Hans Niemann Wins 2022 Tepe Sigeman & Co Tournament"
-      },
-      {
          "description" : " The position below is from a game I played tonight, and is just before a draw was agreed. Weirdly Deep Fritz thinks that Black is clearly better in this position. Sure Black is a piece up, but the knight cannot jump across the board to engineer a very unlikely mate. I guess this shows that there is still some differences between humans and chess engines. <br /> <script>new PgnViewer( { boardName: \"game1327\", movesFormat: \"default\", pgnString:'[FEN \"7n/7P/8/8/2k5/p7/8/1K6 w - - 0 52\"]', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1327-container\"></div><div id=\"game1327-moves\"></div><br />",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-very-special-najdorf",
          "pubDate" : "Tue, 10 May 2022 12:00:00 +0100",
          "title" : "A very special Najdorf"
-      },
-      {
-         "description" : "Fabiano Caruana bounced back from losing to Maxime Vachier-Lagrave to beat Shakhriyar Mamedyarov in Round 5 of the Superbet Chess Classic and go into the rest day on 50%. The other games were drawn, so that Wesley So continues to be the sole leader on +2. Richard Rapport's 1.e4 e5 2.Ne2!? failed to unsettle Leinier Dominguez, while the most exciting game of the day was Deac-Firouzja, where Alireza pounced on a time-trouble blunder by his opponent but was unable to convert an extra piece into a win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-5-caruana-hits-straight-back",
-         "pubDate" : "Tue, 10 May 2022 10:33:04 +0000",
-         "title" : "Superbet Chess Classic 5: Caruana hits straight back"
       },
       {
          "description" : "",
@@ -2320,22 +2320,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2022",
          "pubDate" : "Sun, 1 May 2022 20:14:00 +0400",
          "title" : "Russian Team Championship 2022 - Games and Results"
-      },
-      {
-         "description" : "Just in from ECF President Dominic Lawson To the England Team Juniors On behalf of the English Chess Federation, I am writing to congratulate...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-to-english-juniors/",
-         "pubDate" : "Sun, 01 May 2022 10:56:26 +0000",
-         "title" : "Congratulations to English Juniors - updated 4/5/22"
-      },
-      {
-         "description" : "A reminder that the deadline for nominations and citations for the BCET Awards is 31st May 2022. Please send these to John Wickham &#106;&#x2e;&#114;&#x2e;&#119;&#x69;&#99;&#x6b;&#104;&#x61;&#109;&#x40;&#98;&#x74;&#105;&#x6e;&#116;&#x65;&#114;&#x6e;&#101;&#x74;&#46;&#x63;&#111;&#x6d; as...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcet-awards-2022/",
-         "pubDate" : "Sun, 01 May 2022 08:00:08 +0000",
-         "title" : "BCET Awards 2022 - a reminder"
       }
    ]
 }
