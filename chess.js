@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91728691.cms\" />Veteran Indian Grandmaster Viswanathan Anand had a mixed outing in the blitz section of the Superbet Rapid and Blitz Poland chess tournament on Sunday, winning three matches while drawing four and losing two.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-poland-chess-tournament-mixed-result-for-anand-on-day-1-of-blitz/articleshow/91728691.cms",
+         "pubDate" : "Sun, 22 May 2022 18:01:11 +0000",
+         "title" : "Superbet Poland chess tournament: Mixed result for Anand on Day 1 of Blitz"
+      },
+      {
+         "description" : "The&#160;World Chess Championship Match 2023 between the reigning World Champion Magnus Carlsen and the Winner of Candidates Chess Tournament 2022&#160;will take place in early 2023. In a short video below it was seen how Magnus and Jorden discussed the new ideas that could possibly be used in the World Championship games. (scroll down for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/behind-the-scenes-carlsen-and-his-team-prepare-for-the-world-championship-match-tweetoftheday/",
+         "pubDate" : "Sun, 22 May 2022 17:05:19 +0000",
+         "title" : "Behind the scenes - Carlsen and his team prepare for the World Championship Match #TweetOftheDay"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players express their goals and expectations going into the first Grand Chess Tour event in Poland. 2022.05.18<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-player-expectations\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Jfm2SI2U2iA.jpg?itok=x8N1Ug1o\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-player-expectations",
+         "pubDate" : "Sun, 22 May 2022 16:56:46 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Player Expectations"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana after his tremendous performance in the first blitz round robin of the Superbet Rapid &amp; Blitz Poland. 2022.05.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-fabiano-caruana-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-fabiano-caruana-interview-day-4",
+         "pubDate" : "Sun, 22 May 2022 16:56:46 +0000",
+         "title" : "2022 Superbet Rapid & Blitz Poland: Fabiano Caruana Interview | Day 4"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Sun, 22 May 2022 17:55:00 +0100",
+         "title" : "Chessable Masters, Day 4: Live"
+      },
+      {
+         "description" : "The 13th KIIT International Chess Festival 2022 takes place from 22nd to 29th May 2022 at KIIT University, Bhubaneswar, Odisha, India. The event is played in 3 categories: A, B (U1900) and C (U1600), with more than 700 participants and the total prize fund of&#xA0;&#x20B9;2500000 (~30.000 euros). The A category attracted 175 entries who will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/13th-kiit-chess-festival/",
+         "pubDate" : "Sun, 22 May 2022 16:20:11 +0000",
+         "title" : "13th KIIT Chess Festival"
+      },
+      {
+         "description" : "The Czech National Chess Championship 2022 took place from 14-22 May 2022 in Usti nad Labem. The best rated Czech player, GM David Navara, won the tournament to become Czech National Chess Champion for the 11th time in his career. Read more: Czech Women&#x2019;s Chess Championship 2022 LIVE Navara scored 7/9 points to be the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/david-navara-wins-his-11th-czech-chess-champion-title/",
+         "pubDate" : "Sun, 22 May 2022 15:31:52 +0000",
+         "title" : "David Navara wins his 11th Czech Chess Champion title"
+      },
+      {
          "description" : "The Czech Women's Chess Championship 2022 kicked off in Jaromerice nad Rokytnou, taking place from 21-29 May. Ten players compete in 9 rounds (round robin system) for the National Champion title. The battlefield is led by WGM Kristyna Petrova, WGM Karolina Pilsova and WIM Natasa Richterova. (starting rank list of players can be found below)Read []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -290,14 +346,6 @@ news_feed (
          "title" : "Carlsen Blunders Piece vs. Pragg: Chessable Masters, Day 2"
       },
       {
-         "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-madrid/",
-         "pubDate" : "Sat, 21 May 2022 03:24:00 +0000",
-         "title" : "FIDE Candidates Chess 2022 Madrid"
-      },
-      {
          "description" : "Vishy Anand continued his winning streak at the Superbet Rapid & Blitz tournament in Warsaw, as he kicked off day 2 with two straight wins before signing his first draw of the event in round 6. Anand has a 2-point lead over Richard Rapport, who collected full points in all three rounds on Friday. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,22 +376,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/",
          "pubDate" : "Fri, 20 May 2022 20:41:05 +0000",
          "title" : "Spike Lee celebrates NIKE's 50th with chess"
-      },
-      {
-         "description" : "The Ukrainian Grandmaster Andrii Baryshpolets is running for&#xA0;president&#xA0;of FIDE in the upcoming presidential elections during the Chess Olympiad 2022. Baryshpolets announced today his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. See the full statement by Andrii Baryshpolets below and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andrii-baryshpolets-is-running-for-fide-president/",
-         "pubDate" : "Fri, 20 May 2022 20:16:56 +0000",
-         "title" : "Andrii Baryshpolets is running for FIDE President"
-      },
-      {
-         "description" : "Martin B. Justesen is an avid chess player from Denmark. Justesen is a chess author who published seven chess books and he creates content about his own journey towards chess improvement on Youtube, Twitch, and his newsletter saychess.substack.com. For years the brand of his social media accounts and the newsletter says #SayChess exactly what []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/martin-b-justesen-aka-saychess-comments-the-dvorkovichs-saychess-campaign-tweetoftheday/",
-         "pubDate" : "Fri, 20 May 2022 19:47:02 +0000",
-         "title" : "Martin B. Justesen aka SayChess comments the Dvorkovich's #SayChess campaign #TweetOftheDay"
       },
       {
          "description" : "The second day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, continued today with outstanding results by GM Viswanathan Anand and GM Richard Rapport. The pair surged ahead of the field after they scored 2...",
@@ -454,7 +486,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-1",
-         "pubDate" : "Fri, 20 May 2022 00:45:01 -0700",
+         "pubDate" : "Fri, 20 May 2022 00:45:00 -0700",
          "title" : "Wei Yi Leads, Mishra Shines: Chessable Masters, Day 1"
       },
       {
@@ -528,22 +560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-playing-against-3-a6-in-the-queens-gambit-declined",
          "pubDate" : "Thu, 19 May 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Playing against 3...a6 in the Queens Gambit Declined"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The invitational norm tournaments brings together players from around the world to compete for cash prizes and the chance to earn Grandmaster and International Master norms. Join GMs Illya Nyzhnyk, Denes Boros, IM Dorsa Derakhshani, and NM Caleb Denby for the move-by-move. GM Norm Tournament<br /> Vladimir Belous<br /> Chris Repka<br /> Viktor Matviishen<br /> Bali Daggupati<br /> Ivan Schitco<br /> David Brodsky<br /> Josh Ruiz<br /> Evan Park<br /> Kostya Kavutskiy<br /> Josiah Stearman </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-day-2",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "2022 Saint Louis Norm Congress: Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Polish Chess Federation President Radosław Jedynak during Day 1 of the 2022 Superbet Rapid &amp; Blitz Poland. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/radoslaw-jedynak-duda-wojtaszek-deserve-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yB7e_pm4g-M.jpg?itok=4lnsnrg",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/radoslaw-jedynak-duda-wojtaszek-deserve-day-1",
-         "pubDate" : "Thu, 19 May 2022 16:54:30 +0000",
-         "title" : "Radoslaw Jedynak: Duda & Wojtaszek Deserve This | Day 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
@@ -2058,14 +2074,6 @@ news_feed (
          "title" : "Anish Giri: \"I don't think we have chess politics as such\""
       },
       {
-         "description" : "The Appeal Chamber of the FIDE Ethics and Disciplinary Commission has announced its decision to dismiss the appeal presented by Grandmaster Sergey Karjakin, confirming the 6-month ban that was imposed by the EDC on March 21. This decision is appealable to the Court of Arbitration for Sport (CAS) within 21 calendar days following communication of this decision. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-dismisses-sergey-karjakin-appeal",
-         "pubDate" : "Fri, 06 May 2022 17:35:00 +0100",
-         "title" : "FIDE dismisses Sergey Karjakin's appeal"
-      },
-      {
          "description" : " <p class=\"lead\">Today, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) has announced its decision to dismiss the appeal presented by GM Sergey Karjakin, and confirmed the 6-month ban that was imposed by the EDC. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> On February 27, 2022, the FIDE Council decided to bring <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-by-fide-ethics/\">the case of GM Sergey Karjakin</a> to the Ethics and Disciplinary Commission for his public statements on Russia's invasion of Ukraine. On March 21st, 2022, the ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2250,14 +2258,6 @@ news_feed (
          "title" : "Sri Lanka Championships 2022: De Silva and Ranasinghe clinch titles"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91293260.cms\" />Indian Woman Grandmaster R Vaishali on Tuesday won the Heraklion 2022 - 8th Fischer Memorial chess tournament, scoring seven points from nine rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vaishali-wins-chess-tournament-in-greece/articleshow/91293260.cms",
-         "pubDate" : "Tue, 03 May 2022 16:40:14 +0000",
-         "title" : "Vaishali wins chess tournament in Greece"
-      },
-      {
          "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG\" data-image-dimensions=\"800x1067\" data-image-focal-point=\"0.5,0.5\" alt=\"2019-Kirill-Shevchenko.JPG\" data-load=\"false\" data-image-id=\"627120da493d026d741d0a49\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581160081-8OCRX2I6OKJ16CAV3R32/me-norwaychess-dsc06056-emelianova-removebg+%281%29",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2320,14 +2320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asa-hoffmann-new-york-chess-hustler",
          "pubDate" : "Mon, 02 May 2022 08:00:00 +0100",
          "title" : "Asa Hoffmann, New York chess hustler"
-      },
-      {
-         "description" : " The Russian Team Championships take place in Sochi 1st to 10th May 2022. The event has obviously been severely impacted by the war. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/russian-team-championship-2022",
-         "pubDate" : "Sun, 1 May 2022 20:14:00 +0400",
-         "title" : "Russian Team Championship 2022 - Games and Results"
       }
    ]
 }
