@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri won a spectacular game against Wei Yi and made draws against Magnus Carlsen and Aryan Tari to finish the Chessable Masters Prelims a point ahead of Magnus, who described himself as \"not too thrilled\" with his play. Giri now faces Tari in the quarterfinals and, after some huge swings in the final round, we also have Carlsen-Anton, Ding Liren-Mamedyarov and Praggnanandhaa-Wei Yi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-4-giri-wins-prelims-after-wild-final-day",
+         "pubDate" : "Sun, 22 May 2022 22:52:35 +0000",
+         "title" : "Chessable Masters 4: Giri wins Prelims after wild final day"
+      },
+      {
+         "description" : "The all-star field in the&#xA0;Chessable&#xA0;Masters was cut in half today as a nervy climax to the $150,000 event&#x2019;s prelim stage saw eight go through to the knockout. Anish Giri finished top of the leaderboard on 29 points and $7,250 earned, pipping World Champion and long-time Meltwater Champions Chess Tour rival Magnus Carlsen.Read more: Behind the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-masters-field-cut-in-half-as-the-prelims-stage-concluded-today/",
+         "pubDate" : "Sun, 22 May 2022 22:07:42 +0000",
+         "title" : "Chessable Masters field cut in half as the Prelims stage concluded today"
+      },
+      {
+         "description" : "The first day of the Blitz portion of the Superbet Rapid &#38; Blitz Poland saw a drastic shift in the dynamic of the event. While former World Champion GM Vishy Anand maintained his lead and even extended it to 1.5 points, It was GM Fabiano Caruana and GM Levon Aronian who stole the show today. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caruana-and-aronian-shine-at-the-blitz-stage-of-gct-poland-2022/",
+         "pubDate" : "Sun, 22 May 2022 21:43:17 +0000",
+         "title" : "Caruana and Aronian shine at the Blitz stage of GCT Poland 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1782",
+         "pubDate" : "Sun, 22 May 2022 21:23:43 +0000",
+         "title" : "Superbet Rapid & Blitz: Day 4 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1781",
+         "pubDate" : "Sun, 22 May 2022 20:58:44 +0000",
+         "title" : "Giri tops leaderboard as Chessable Masters heads into KO stage"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1780",
+         "pubDate" : "Sun, 22 May 2022 20:29:24 +0000",
+         "title" : "Czech Championship: David Navara clinches national 11th title"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Restream helps you multistream &amp; reach your audience, wherever they are. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z1ZvHyC6eQU.jpg?itok=WnW-M280\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-lichessorg",
+         "pubDate" : "Sun, 22 May 2022 19:56:45 +0000",
+         "title" : "2022 Saint Louis Norm Congress | lichess.org"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91728691.cms\" />Veteran Indian Grandmaster Viswanathan Anand had a mixed outing in the blitz section of the Superbet Rapid and Blitz Poland chess tournament on Sunday, winning three matches while drawing four and losing two.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -112,6 +168,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
          "pubDate" : "Sun, 22 May 2022 13:55:00 +0100",
          "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
+      },
+      {
+         "description" : "GM Fabiano Caruana was the standout performer on the fourth day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, that took place on Sunday. The American superstar, scoring 8/9 to commence the blitz section, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-4",
+         "pubDate" : "Sun, 22 May 2022 05:18:00 -0700",
+         "title" : "Caruana Wins 7, Draws 2: 2022 Superbet Rapid & Blitz Poland, Day 4"
       },
       {
          "description" : "The 1/8 finals of the jubilee edition of the TCEC Cup are history. The 16 best engines from the TCEC S22 qualified for this round without trouble. The league winner Stockfish, the Superfinal participant KomodoDragon, and the subfinal winner Lc0 had no problems in their matches, winning with significant margin. Stoofvlees, Slowchess, and Igel followed []",
@@ -242,14 +306,6 @@ news_feed (
          "title" : "Slovak Youth Chess Championships 2022 - All information & LIVE games"
       },
       {
-         "description" : "South Sudan determined the team for the upcoming 44th Chess Olympiad 2022 after the selection process which featured three tournaments. More than 120 players took part in the first phase with the top 40 proceeding to the second stage. The second event determined 12 players who competed in the final 11 rounds round robin event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/south-sudan-determines-team-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Sat, 21 May 2022 14:04:33 +0000",
-         "title" : "South Sudan determines team for 44th Chess Olympiad 2022"
-      },
-      {
          "description" : " A change of government in Australia is expected after the results of today's Federal election. While this may not have direct effect on chess in Australia, I do know a couple of chess players are closely connected with the Labor Party, and this maty lead to some small wins over the next three (or more) years! ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -288,14 +344,6 @@ news_feed (
          "link" : "https://www.thearticle.com/levitation-yoghurt-and-chess/",
          "pubDate" : "Sat, 21 May 2022 09:27:17 +0000",
          "title" : "Levitation, yoghurt and chess"
-      },
-      {
-         "description" : "The 31st edition of the annual Chicago open will be held from 26-30 May in Westin Chicago North Shore Hotel. The event features 8 tournaments being played in different rating categories: Open (for players rated 2200+ UCF), U2300, U2100, U1900, U1700, U1500, U1300 and U1000. The total prize fund of the events is 100.000$ with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/31st-chicago-open/",
-         "pubDate" : "Sat, 21 May 2022 09:20:39 +0000",
-         "title" : "31st Chicago Open"
       },
       {
          "description" : "",
@@ -440,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-41",
          "pubDate" : "Fri, 20 May 2022 16:00:00 +0100",
          "title" : "Svitlana's Smart Moves - The King's Indian Part 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Richie Rapport after his win over David Gavrilescu in Rapid Round 4 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tBYK7402wuc",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-2",
-         "pubDate" : "Fri, 20 May 2022 13:54:56 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Richard Rapport Interview | Day 2"
       },
       {
          "description" : " While following up my research into Zork, I cam across a website that lets you play vintage chess games (and other games) in your browser. <a href=\"https://playclassic.games/games/chess-dos-games-online/\">https://playclassic.games/games/chess-dos-games-online/</a> has a set of old Dos chess programs which look to be fully playable. I played one game against Sargon V, which I won, although the user interface lead me to play 1.e3 by accident. I did play it on Level 1, which was good enough not to hang pieces, but not strong enough to spot a mate in 2 (albeit one I also missed for one move) <br /> ",
@@ -1458,14 +1498,6 @@ news_feed (
          "title" : "Aronian Wins Miniature, Joins Lead: 2022 Superbet Chess Classic Romania, Day 6"
       },
       {
-         "description" : "Levon Aronian beat Maxime Vachier-Lagrave with Black in just 25 moves in Round 6 to catch Wesley So in the Superbet Chess Classic lead with three rounds to go. A 5-player pack is a full point behind the leaders, including Leinier Dominguez, who became the first player to beat Bogdan-Daniel Deac in Bucharest. So-Rapport and Caruana-Nepo were relatively uneventful draws, while Alireza Firouzja held on a pawn down against Shakhriyar Mamedyarov in a 96-move grind.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-classic-6-aronian-joins-so-in-the-lead",
-         "pubDate" : "Wed, 11 May 2022 23:15:43 +0000",
-         "title" : "Superbet Classic 6: Aronian joins So in the lead"
-      },
-      {
          "description" : "IMs Greg Shahade and Lawrence Trent threw down on Wednesday in the second round of 16 match of the I&#39;M Not A GM Speed Chess Championship. This longtime rivalry was settled for the first time ever in favor of the underdog, Trent, who won with a sco...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1656,14 +1688,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-weekly-show-a-nice-squeeze-by-caruana",
          "pubDate" : "Tue, 10 May 2022 19:30:00 +0100",
          "title" : "The Weekly Show: A nice squeeze by Caruana"
-      },
-      {
-         "description" : "Titled Tuesday presented by SEOcrawl took a surprising turn on May 10 as none other than GM Magnus Carlsen played in the early event, his first games on Chess.com since February 2021. Carlsen delivered, effectively clinching the tournament with a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-surprise-titled-tuesday-appearance-may-10-2022",
-         "pubDate" : "Tue, 10 May 2022 11:20:00 -0700",
-         "title" : "Carlsen Wins Surprise Titled Tuesday Appearance"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Last week we saw how a bad opening setup has put White in a lost position. Black obliged but his attack came with hesitation and missed a couple of clear wins. Have another look at the position we stopped at with Black up an exchange. This should also <a href=\"https://chessimprover.com/quick-decisions-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-9/\">Quick Decisions (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2250,14 +2274,6 @@ news_feed (
          "title" : "Chess Olympiad: Boris Gelfand to be one of India's mentors"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1728",
-         "pubDate" : "Tue, 03 May 2022 20:04:34 +0000",
-         "title" : "Sri Lanka Championships 2022: De Silva and Ranasinghe clinch titles"
-      },
-      {
          "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG\" data-image-dimensions=\"800x1067\" data-image-focal-point=\"0.5,0.5\" alt=\"2019-Kirill-Shevchenko.JPG\" data-load=\"false\" data-image-id=\"627120da493d026d741d0a49\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581160081-8OCRX2I6OKJ16CAV3R32/me-norwaychess-dsc06056-emelianova-removebg+%281%29",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2266,28 +2282,12 @@ news_feed (
          "title" : "EP 277-GM Kirill Shevchenko and WFM Maria Emelianova, a Ukrainian GM and a Russian Chess Streamer, on How the Russian-Ukrainian War Impacts their lives, their Careers and the Chess World"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1727",
-         "pubDate" : "Tue, 03 May 2022 09:53:59 +0000",
-         "title" : "Gretarsson dominates Icelandic Championship"
-      },
-      {
          "description" : " The 27th TePe Sigeman & Co Chess tournament took place in May 3rd - 9th, 2022 - Malmo, Sweden. There was a really interesting mixed age group field this year: Jorden Van Foreest, Michael Adams, David Navara, Alexei Shirov, Saleh Salem, Arjun Erigaisi, Nils Grandelius and Hans Moke Niemann. I always have a special feeling about this tournament as it started the same year I was first reporting on chess on the internet. Hans Moke Niemann won his second important tournament in a row after winning the Capablanca Memorial, he scored 5/7 a point clear of Arjun Erigaisi, Nils Grandelius and Michael Adams.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/27th-tepe-sigeman-co-chess-tournament-2022",
          "pubDate" : "Tue, 3 May 2022 13:50:00 +0400",
          "title" : "27th TePe Sigeman & Co Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1726",
-         "pubDate" : "Mon, 02 May 2022 22:13:25 +0000",
-         "title" : "V&aacute;zquez Maccarini wins Puerto-Rican Women's Championship"
       },
       {
          "description" : "Viswanathan Anand, who decided against playing in Chennai, will be involved the mentor of the Indian teams",
