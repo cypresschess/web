@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jan-Krzysztof Duda won a last-round thriller to end the Superbet Rapid &amp; Blitz just half a point ahead of Levon Aronian and Vishy Anand. The Polish no. 1 said it had \"special value\" to win on his home turf, and was the most consistent player across both the rapid and blitz. Vishy faded in blitz but still almost tied for first after winning his last two games, while Fabiano Caruana (+10!) and Levon Aronian (an unbeaten +9) had amazing blitz performances, with Levon set to be the blitz no. 1 on the June FIDE rating list.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/duda-wins-superbet-rapid-blitz-in-warsaw",
+         "pubDate" : "Mon, 23 May 2022 23:05:18 +0000",
+         "title" : "Duda wins Superbet Rapid & Blitz in Warsaw"
+      },
+      {
+         "description" : "An explosive day in the Chessable Masters saw Anish Giri power into the semis to set up a titanic clash with&#xA0;teen sensation Rameshbabu Praggnanandhaa. The red hot Dutchman knocked out Norway&#x2019;s no.2 Aryan Tari with a game to spare as he went 18 unbeaten&#xA0;in the event so far. He will face 16-year-old Pragg, who overcame []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-vs-ding-pragg-vs-giri-chessable-masters-semifinals/",
+         "pubDate" : "Mon, 23 May 2022 21:33:07 +0000",
+         "title" : "Carlsen vs Ding & Pragg vs Giri - Chessable Masters Semifinals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91750353.cms\" />Former world champion Viswanathan Anand had a moderate run on the second day of the Blitz section to finish overall joint second in the Superbet Rapid and Blitz Poland chess tournament on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,6 +66,14 @@ news_feed (
          "title" : "Ukrainian GM Andrii Baryshpolets is running for FIDE President"
       },
       {
+         "description" : "The Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, concluded today with the crowning of GM Jan Krzysztof Duda, who won his final game in a nail-biting finish where any one of four contenders could have taken the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-5-duda-wins",
+         "pubDate" : "Mon, 23 May 2022 07:03:00 -0700",
+         "title" : "Duda Wins 2022 Superbet Rapid & Blitz Poland"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Tour Spokesman Michael Khodarkovsky during the last blitz round robin of the Superbet Rapid &amp; Blitz Poland. 2022.05.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khodarkovsky-magnus-will-play-sinquefield-cup-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zhvmwnO8Bd0.jpg?itok=w",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/anish-giri-on-the-twitter-hack-grand-prix-and-missing-out-on-the-candidates",
          "pubDate" : "Mon, 23 May 2022 08:02:10 +0000",
          "title" : "Giri: \"The purpose of my chess career is to become the best player in the world\""
+      },
+      {
+         "description" : "The Bolivian National Men's and Women's Chess Championships 2022 took place from 18-22 May in Santa Cruz de la Sierra. LIVE now: Czech Women&#x2019;s Chess Championship 2022 / Sharjah Chess Masters 2022 After 9 round robin rounds in the Men's event, Rodrigo Mendoza won the Championship scoring unbeaten 7 points. Mendoza made a huge surprise []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bolivia-crowns-national-chess-champions/",
+         "pubDate" : "Mon, 23 May 2022 07:45:00 +0000",
+         "title" : "Bolivia crowns National Chess Champions"
       },
       {
          "description" : "Scoring 29 out of a possible 45 points, GM Anish Giri finished first while remaining undefeated in the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Also qualifying for the knockout phase were GMs Magnus Carlsen, Di...",
@@ -154,7 +186,7 @@ news_feed (
          "title" : "Chessable Masters 4: Giri wins Prelims after wild final day"
       },
       {
-         "description" : "The all-star field in the&#xA0;Chessable&#xA0;Masters was cut in half today as a nervy climax to the $150,000 event&#x2019;s prelim stage saw eight go through to the knockout. Anish Giri finished top of the leaderboard on 29 points and $7,250 earned, pipping World Champion and long-time Meltwater Champions Chess Tour rival Magnus Carlsen.Read more: Behind the []",
+         "description" : "The all-star field in the&#160;Chessable&#160;Masters was cut in half today as a nervy climax to the $150,000 event&#x2019;s prelim stage saw eight go through to the knockout. Anish Giri finished top of the leaderboard on 29 points and $7,250 earned, pipping World Champion and long-time Meltwater Champions Chess Tour rival Magnus Carlsen.Read more: Behind the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chessable-masters-field-cut-in-half-as-the-prelims-stage-concluded-today/",
@@ -352,22 +384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-3-anand-wins",
          "pubDate" : "Sat, 21 May 2022 17:44:00 -0700",
          "title" : "Anand Wins Rapid Portion: 2022 Superbet Rapid & Blitz Poland, Day 3"
-      },
-      {
-         "description" : "Magnus Carlsen played&#xA0;one of the worst possible opening moves and still secured his place in the Chessable Masters knockout on a day his Dutch rival&#xA0;Anish Giri powered into the lead. Giri, a beaten finalist in the $150,000&#xA0;Meltwater Champions Chess Tour event two years, emerged from rounds 9 to 12&#xA0;unbeaten with three wins and a draw []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-goes-with-1-h4-giri-takes-the-lead-chessable-masters-day-3-recap/",
-         "pubDate" : "Sat, 21 May 2022 22:58:09 +0000",
-         "title" : "Carlsen goes with 1.h4, Giri takes the lead; Chessable Masters Day 3 recap"
-      },
-      {
-         "description" : "The rapid portion of Superbet Rapid and Blitz Poland came to an end with GM Vishy Anand winning the rapid section, though his two points lead was diminished to one after the Indian legend conceded his first loss in the last round to his closest rival GM Richard Rapport. Tomorrow will see the first round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anand-wins-the-rapid-stage-of-grand-chess-tour-poland-2022/",
-         "pubDate" : "Sat, 21 May 2022 22:35:25 +0000",
-         "title" : "Anand wins the Rapid stage of Grand Chess Tour Poland 2022"
       },
       {
          "description" : "",
@@ -1538,14 +1554,6 @@ news_feed (
          "title" : "Call for interest: Fair Play Experts"
       },
       {
-         "description" : "Alireza Firouzja is back in the hunt for the Superbet Chess Classic title after winning a thrilling game against Leinier Dominguez. Shakhriyar Mamedyarov also grabbed his 1st win of the event, but only after Ian Nepomniachtchi missed a clear win of his own. The biggest blunder of the day was made by Richard Rapport, who helped Maxime Vachier-Lagrave bounce back from his own troubles the day before. Wesley So and Levon Aronian both drew and still lead with two rounds to go.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-classic-7-firouzja-mamedyarov-grab-1st-wins",
-         "pubDate" : "Thu, 12 May 2022 21:32:25 +0000",
-         "title" : "Superbet Classic 7: Firouzja & Mamedyarov grab 1st wins"
-      },
-      {
          "description" : "Levon Aronian and Wesley So continue to share the lead at the Superbet Chess Classic despite three games finishing decisively in the seventh round. After losing to Aronian on Wednesday, Maxime Vachier-Lagrave bounced back with a win over Richard Rapport - the Frenchman is now in sole third place, a half point behind the leaders. Meanwhile, both Shakhriyar Mamedyarov and Alireza Firouzja collected their first wins of the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-6",
          "pubDate" : "Thu, 12 May 2022 02:14:00 -0700",
          "title" : "Aronian Wins Miniature, Joins Lead: 2022 Superbet Chess Classic Romania, Day 6"
-      },
-      {
-         "description" : "IMs Greg Shahade and Lawrence Trent threw down on Wednesday in the second round of 16 match of the I&#39;M Not A GM Speed Chess Championship. This longtime rivalry was settled for the first time ever in favor of the underdog, Trent, who won with a sco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-trent-upsets-shahade",
-         "pubDate" : "Wed, 11 May 2022 15:58:00 -0700",
-         "title" : "Trent Upsets Shahade: 2022 IMSCC, Round Of 16"
       },
       {
          "description" : "Gukesh won his third consecutive tournament in Spain as he scored an unbeaten 8/10 to claim first place at the Chessable Sunway Formentera Open. After missing several tournament triumphs on tiebreaks, Gukesh got outright victory in Formentera by finishing a half point ahead of the field. Jaime Santos (Spain) and Shant Sargsyan (Armenia) completed the podium. | Photo: Official site",
