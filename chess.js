@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91750353.cms\" />Former world champion Viswanathan Anand had a moderate run on the second day of the Blitz section to finish overall joint second in the Superbet Rapid and Blitz Poland chess tournament on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-poland-chess-viswanathan-anand-finishes-overall-joint-second/articleshow/91750353.cms",
+         "pubDate" : "Mon, 23 May 2022 17:12:41 +0000",
+         "title" : "Superbet Poland chess: Viswanathan Anand finishes overall joint second"
+      },
+      {
+         "description" : "In his Endgame Magic Show #195 Karsten and Arne look at endgame highlights and take a particularly close look at the strengths and weaknesses of knights and \"zugzwang\", a sharp weapon in the endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-195-with-arne-kaehler",
+         "pubDate" : "Mon, 23 May 2022 18:00:00 +0100",
+         "title" : "Karsten M&uuml;ller's Endgame Magic Show #195 - with Arne Kaehler"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila, Tour Spokesman Michael Khodarkovsky, and Superbet Poland CEO Adam Lamentowicz present Jan-Krzysztof Duda with the Superbet Rapid &amp; Blitz Poland trophy. 2022.05.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jan-krzysztof-duda-crowned-rapid-blitz-king-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnail",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jan-krzysztof-duda-crowned-rapid-blitz-king-day-5",
+         "pubDate" : "Mon, 23 May 2022 16:56:49 +0000",
+         "title" : "Jan-Krzysztof Duda Crowned as Rapid & Blitz King! | Day 5"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Mon, 23 May 2022 17:55:00 +0100",
+         "title" : "Chessable Masters QF: Live"
+      },
+      {
          "description" : "In his \"Power Play Show\" Daniel King takes a look at the book \"From Ukraine With Love For Chess\", that was just published by \"New in Chess\". The book celebrates the chess of notable Ukrainian players from the past and present, and all profits will go to charities in Ukraine. To quote Daniel: \"A worthy project and a superb book with tremendous material.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -538,14 +570,6 @@ news_feed (
          "title" : "2022 Superbet Rapid & Blitz Poland: Vishy Anand Interview | Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews David Gavrilescu after his draw with Radek Wojtaszek in Rapid Round 5 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-david-gavrilescu-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MIHq5Omy",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-david-gavrilescu-interview-day-2",
-         "pubDate" : "Fri, 20 May 2022 16:55:04 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: David Gavrilescu Interview | Day 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91694704.cms\" />Indian chess legend Viswanathan Anand continued his superb form on the second day of the rapid event of the Superbet Rapid and Blitz Poland tournament on Friday, posting victories in rounds four and five before local hero Jan-Kryzstof Duda halted the winning streak in the sixth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -762,7 +786,7 @@ news_feed (
          "title" : "Master Chess Web Show (14)"
       },
       {
-         "description" : " The Superbet Rapid & Blitz takes place in Warsaw 17th to 24th May 2022. Players: Fabiano Caruana, Richard Rapport, Wesley So, Levon Aronian, Viswanathan Anand, Jan-Krzysztof Duda, Radoslaw Wojtaszek, Anton Korobov, Kirill Shevchenko and David Gavrilescu. Play starts at 13:00 BST each day.",
+         "description" : " The Superbet Rapid & Blitz took place in Warsaw 17th to 24th May 2022. Players: Fabiano Caruana, Richard Rapport, Wesley So, Levon Aronian, Viswanathan Anand, Jan-Krzysztof Duda, Radoslaw Wojtaszek, Anton Korobov, Kirill Shevchenko and David Gavrilescu. Viswanthan Anand dominated the Rapid starting with 5.5/6 and finishing with 7/9 but an inconsistent performance in the blitz allowed Duda to pip him by half a point in the combined standings at the end. <table class=\"results-table\" summary=\"Event 2013 Crosstable\"> <tr class=\"tabhead2\"><th>Rk</th><th>Name</th><th>Rapid</th><th>Blitz</th><th>Total</th></tr> <tr><td>1</td><td>Duda</td><td>12</td><td>12</td><td>24</td></tr> <tr><td>2</td><td>Aro",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2022",
@@ -1962,14 +1986,6 @@ news_feed (
          "title" : "France wins historical double gold at Mitropa Cup 2022"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 78th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-78-pawn-majorities-2",
-         "pubDate" : "Sun, 08 May 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 78: Pawn Majorities (2)"
-      },
-      {
          "description" : " GM Hrant Melkumyan, winner of this years Doeberl Cup, took on 18 ACT junior players in a simultaneous display today. While a number of players made him work for his wins, and there was a drawing line that might have been missed in the final game, he ended up with a perfect 18 wins and no losses. However the quality of play was quite high in most of the games, although the GM technique of picking up small pieces of material at regular intervals was on full display. While every player survived the first hour, and most reached 20 moves, it was in the middlegame where most players came undone. A few players did survive to the ending (including one game that went past 60 moves), but in those cas",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2016,14 +2032,6 @@ news_feed (
          "link" : "https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/",
          "pubDate" : "Sun, 08 May 2022 08:01:03 +0000",
          "title" : "100 years old Legendary Grandmaster Yuri Averbakh passed away"
-      },
-      {
-         "description" : "Some of the most regrettable chess stories are those of great players leaving the game at the peak of their powers. First, there was Paul Morphy, then, more than a century later, Robert Fischer. Very few probably know or remember that shortly after Morphy left, another brilliant player took his talents elsewhere. He was not of Morphy's stature, certainly, but all the same, it was a pity that the world saw no more of his chess. That man was Ignatz von Kolisch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-extraordinary-ignatz-von-kolisch",
-         "pubDate" : "Sun, 08 May 2022 09:00:00 +0100",
-         "title" : "The extraordinary Ignatz Von Kolisch: champion, patron, banker"
       },
       {
          "description" : " <p class=\"lead\">10 elite Grandmasters face each other in the classic round-robin tournament that takes place in Bucharest, Romania. It is staged by and is part of the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Grand Chess Tour</a>, a circuit of chess events organized by former world champion Garry Kasparov. Here is Round 3 of the event in photos. All photos by <a href=\"https://www.flickr.com/photos/grandchesstour/albums/72177720298714286/with/52055806952/\">Lennart Ootes</a>, Grand Chess Tour official photographer. Fabiano Caruana, World's number 3 at the moment, has 1.5 points after 3 draws. <div class=\"e2-text-picture\"> <img src=\"https://worldche",
@@ -2266,14 +2274,6 @@ news_feed (
          "title" : "2022 Superbet Chess Classic Kicks Off in Romania"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91306441.cms\" />The All-India Chess Federation (AICF) is going all out to ensure the Indian teams have the best possible preparation ahead of the chess Olympiad to be held here from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-boris-gelfand-to-be-one-of-indias-mentors/articleshow/91306441.cms",
-         "pubDate" : "Wed, 04 May 2022 05:46:38 +0000",
-         "title" : "Chess Olympiad: Boris Gelfand to be one of India's mentors"
-      },
-      {
          "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG\" data-image-dimensions=\"800x1067\" data-image-focal-point=\"0.5,0.5\" alt=\"2019-Kirill-Shevchenko.JPG\" data-load=\"false\" data-image-id=\"627120da493d026d741d0a49\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581160081-8OCRX2I6OKJ16CAV3R32/me-norwaychess-dsc06056-emelianova-removebg+%281%29",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2288,14 +2288,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/27th-tepe-sigeman-co-chess-tournament-2022",
          "pubDate" : "Tue, 3 May 2022 13:50:00 +0400",
          "title" : "27th TePe Sigeman & Co Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "Viswanathan Anand, who decided against playing in Chennai, will be involved the mentor of the Indian teams",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33842004/chess-olympiad-viswanathan-anand-mentor-india-two-teams-open-women-section?device=featurephone",
-         "pubDate" : "Mon, 2 May 2022 12:42:05 -0500",
-         "title" : "Chess Olympiad: Anand to mentor India, hosts to field two teams"
       }
    ]
 }
