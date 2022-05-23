@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Scoring 29 out of a possible 45 points, GM Anish Giri finished first while remaining undefeated in the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Dutchman qualified for the knockout phase together with GMs Ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-4",
+         "pubDate" : "Mon, 23 May 2022 00:20:19 -0700",
+         "title" : "Giri Undefeated Entering Knockout: Chessable Masters, Day 4"
+      },
+      {
+         "description" : "The preliminary stage of the Chessable Masters came to an end on Sunday. Anish Giri scored a win and two draws to keep the lead and win the single round-robin. Magnus Carlsen finished in second place, and was followed by Ding Liren and Praggnanandhaa. Wei Yi, Shakhriyar Mamedyarov, David Anton and Aryan Tari also made it to the knockout stage.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d4",
+         "pubDate" : "Mon, 23 May 2022 07:15:00 +0100",
+         "title" : "Chessable Masters: Giri wins prelims, Tari makes it to the KO"
+      },
+      {
+         "description" : "Please find the live game link for 13th KIIT International Chess Festival 2022 https://view.livechesscloud.com/#48c62a8e-74bf-472d-8a9f-5cb971e1f546",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-update-13th-kiit-international-chess-festival-2022/",
+         "pubDate" : "Mon, 23 May 2022 04:36:39 +0000",
+         "title" : "Live Game Link Update : 13th KIIT International Chess Festival 2022"
+      },
+      {
          "description" : "Vishy Anand kept the sole lead at the Superbet tournament in Warsaw after scoring 5 points in the first nine rounds of blitz, which were played on Sunday. The Indian has a 1&frac12;-point lead over Jan-Krzysztof Duda, who finished the day with three wins in a row. A half point back stand Fabiano Caruana and Levon Aronian, the day's top scorers - Caruana collected 8 points, while Aronian added 7 points to his tally. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +138,6 @@ news_feed (
          "title" : "2022 Superbet Rapid & Blitz Poland: Fabiano Caruana Interview | Day 4"
       },
       {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Sun, 22 May 2022 17:55:00 +0100",
-         "title" : "Chessable Masters, Day 4: Live"
-      },
-      {
          "description" : "The 13th KIIT International Chess Festival 2022 takes place from 22nd to 29th May 2022 at KIIT University, Bhubaneswar, Odisha, India. The event is played in 3 categories: A, B (U1900) and C (U1600), with more than 700 participants and the total prize fund of&#xA0;&#x20B9;2500000 (~30.000 euros). The A category attracted 175 entries who will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -178,11 +194,19 @@ news_feed (
          "title" : "2022 Superbet Rapid & Blitz Poland: Playing in Poland"
       },
       {
+         "description" : "Another fantastic chess player, who was able to play defensive, aggressive, tactical, strategical, and creative. Boris Spassky has solved some juicy tactics in his games. Also, this is the very first time, that Lawrence and Arne have to face the so-called \"nightmare\" of the ChessBase tactics section. With limited amount of time, they have to solve this beast. Can you solve it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-23",
+         "pubDate" : "Sun, 22 May 2022 14:55:00 +0100",
+         "title" : "Trent's Tactics - Boris Spassky, and a nightmare"
+      },
+      {
          "description" : "On the third day of the Chessable Masters, Anish Giri took the lead in the standings table after scoring three wins and a draw. Wei Yi, who had been leading until Friday, only managed two draws and dropped to fourth place. Magnus Carlsen is one point behind Giri in second place; Ding Liren is third. Sunday's final three rounds of the preliminaries will decide which eight players move on to the knockout.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2022-d3",
-         "pubDate" : "Sun, 22 May 2022 14:55:00 +0100",
+         "pubDate" : "Sun, 22 May 2022 14:50:00 +0100",
          "title" : "Chessable Masters: Giri grabs the lead"
       },
       {
@@ -330,14 +354,6 @@ news_feed (
          "title" : "Magnus Carlsen set to be part of Chess Olympiad"
       },
       {
-         "description" : "Another fantastic chess player, who was able to play defensive, aggressive, tactical, strategical, and creative. Boris Spassky has solved some juicy tactics in his games. Also, this is the very first time, that Lawrence and Arne have to face the so-called \"nightmare\" of the ChessBase tactics section. With limited amount of time, they have to solve this beast. Can you solve it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-23",
-         "pubDate" : "Sat, 21 May 2022 12:34:05 +0100",
-         "title" : "Trent's Tactics - Boris Spassky, and a nightmare"
-      },
-      {
          "description" : "16-year-old Praggnanandhaa beat Magnus Carlsen on Day 2 of the Chessable Masters, though the Indian prodigy said he didn't want to win by a one-move blunder. Magnus shrugged off that loss with two wins (one with 1.c3) that put him in second place, alongside David Anton, while Wei Yi remains out in front on an unbeaten +5. His final win of the day ended a 3-game winning streak that made Jorden van Foreest, who started in last place, the day's top scorer.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -378,20 +394,20 @@ news_feed (
          "title" : "FIDE sponsors participation of African chess talents in Sharjah Championships 2022"
       },
       {
-         "description" : "Wei Yi continues to lead the standings in the preliminary stage of the Chessable Masters, as he collected two wins and two draws in Friday's rounds. David Anton and Magnus Carlsen are sharing second place three points back. Carlsen kicked off the day with a loss - for a second time in the tour, the world champion was defeated by 16-year-old Indian prodigy Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d2",
-         "pubDate" : "Sat, 21 May 2022 08:20:00 +0100",
-         "title" : "Chessable Masters: Pragg beats Carlsen as Wei leads"
-      },
-      {
          "description" : "By hindsight, it's easy to say that in the diagram position White must play 29.Rxd3! - but is it just as easy to refute the game continuation 29.f3?? Your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/duo-infernale",
          "pubDate" : "Sat, 21 May 2022 08:00:00 +0100",
          "title" : "Duo infernale"
+      },
+      {
+         "description" : "Wei Yi continues to lead the standings in the preliminary stage of the Chessable Masters, as he collected two wins and two draws in Friday's rounds. David Anton and Magnus Carlsen are sharing second place three points back. Carlsen kicked off the day with a loss - for a second time in the tour, the world champion was defeated by 16-year-old Indian prodigy Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d2",
+         "pubDate" : "Sat, 21 May 2022 07:55:00 +0100",
+         "title" : "Chessable Masters: Pragg beats Carlsen as Wei leads"
       },
       {
          "description" : "GM Wei Yi continues to lead the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Chinese GM is three points ahead of the pack. World Champion Magnus Carlsen again lost to GM Praggnanandhaa R. as he blundered a knight in a drawn endgame...",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "Trent Upsets Shahade: 2022 IMSCC, Round Of 16"
       },
       {
-         "description" : "Chess.com is excited to announce a regulation change to our most elite event. The 2022 Rapid Chess Championship is now open to all grandmasters, starting this weekend on May 14! With this change, more of your favorite players will have the chanc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-new-eligibility-finals-format",
-         "pubDate" : "Wed, 11 May 2022 15:05:00 -0700",
-         "title" : "Rapid Chess Championship Now Open To All Grandmasters, Finals Format Announced"
-      },
-      {
          "description" : "Gukesh won his third consecutive tournament in Spain as he scored an unbeaten 8/10 to claim first place at the Chessable Sunway Formentera Open. After missing several tournament triumphs on tiebreaks, Gukesh got outright victory in Formentera by finishing a half point ahead of the field. Jaime Santos (Spain) and Shant Sargsyan (Armenia) completed the podium. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://www.espn.com/blog/baltimore-ravens/post/_/id/55962/trusting-film-not-stopwatch-why-the-baltimore-ravens-believe-kyle-hamilton-is-a-steal?device=featurephone",
          "pubDate" : "Mon, 9 May 2022 06:00:51 -0500",
          "title" : "Trusting film, not stopwatch: Why the Baltimore Ravens believe Kyle Hamilton is a steal"
-      },
-      {
-         "description" : "National Under-12 Chess Championships-2022, Karnataka (09-14 April) out to download Links:- Female https://aicf.online/U-12-Female.html Male https://aicf.online/U1-2-Male.html Any Correction Mail at : aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u1-2-certificates-are-out-to-download/",
-         "pubDate" : "Mon, 09 May 2022 09:58:30 +0000",
-         "title" : "National U-12 Certificates are out to Download"
       },
       {
          "description" : "",
@@ -2312,14 +2312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-27th-28th-29th.html",
          "pubDate" : "Mon, 02 May 2022 12:49:00 +0000",
          "title" : "2022 ACT Championship - 27th, 28th, 29th 30th May "
-      },
-      {
-         "description" : "Can you imagine a chess book, written by a master, which contains exactly one chess diagram, and the notation of a single 17-move game? And that you would not be able to put it down? That is what happens with this unique work, written by chess master Asa Hoffmann, with his wife Ginny. Asa has spent a lifetime hustling game in the clubs, parks and streets of New York, and his account of his days there is absolutely compelling.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asa-hoffmann-new-york-chess-hustler",
-         "pubDate" : "Mon, 02 May 2022 08:00:00 +0100",
-         "title" : "Asa Hoffmann, New York chess hustler"
       }
    ]
 }
