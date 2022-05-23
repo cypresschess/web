@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Power Play Show\" Daniel King takes a look at the book \"From Ukraine With Love For Chess\", that was just published by \"New in Chess\". The book celebrates the chess of notable Ukrainian players from the past and present, and all profits will go to charities in Ukraine. To quote Daniel: \"A worthy project and a superb book with tremendous material.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-pragg-gukesh-2",
+         "pubDate" : "Mon, 23 May 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: \"From Ukraine With Love For Chess\""
+      },
+      {
+         "description" : "At the FIDE Congress during the upcoming Chess Olympiad in Chennai, the elections for the FIDE Presidium are on the agenda. Arkady Dvorkovich is standing for re-election and is supported by Viswanathan Anand. In view of the candidacy of the Russian President, the election has a strong political colour. Now a Ukrainian, GM Andrii Baryshpolets, has announced his candidacy. | Photo: US Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ukrainian-gm-andrii-baryshpolets-is-running-for-fide-president",
+         "pubDate" : "Mon, 23 May 2022 16:00:00 +0100",
+         "title" : "Ukrainian GM Andrii Baryshpolets is running for FIDE President"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Tour Spokesman Michael Khodarkovsky during the last blitz round robin of the Superbet Rapid &amp; Blitz Poland. 2022.05.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khodarkovsky-magnus-will-play-sinquefield-cup-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zhvmwnO8Bd0.jpg?itok=w",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khodarkovsky-magnus-will-play-sinquefield-cup-day-5",
+         "pubDate" : "Mon, 23 May 2022 13:56:49 +0000",
+         "title" : "Khodarkovsky: Magnus Will Play Sinquefield Cup | Day 5"
+      },
+      {
          "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. Going into the last 9 rounds of blitz, Vishy Anand has a 1&frac12;-point lead over second-placed Jan-Krzysztof Duda. The final day of action starts at 14.00 CEST on Monday (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Giri: \"The purpose of my chess career is to become the best player in the world\""
       },
       {
-         "description" : "Scoring 29 out of a possible 45 points, GM Anish Giri finished first while remaining undefeated in the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Dutchman qualified for the knockout phase together with GMs Ma...",
+         "description" : "Scoring 29 out of a possible 45 points, GM Anish Giri finished first while remaining undefeated in the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Also qualifying for the knockout phase were GMs Magnus Carlsen, Di...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-4",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-david-gavrilescu-interview-day-2",
          "pubDate" : "Fri, 20 May 2022 16:55:04 +0000",
          "title" : "2022 Superbet Rapid & Blitz Poland: David Gavrilescu Interview | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Kirill Shevchenko after his draw with Levon Aronian in Rapid Round 6 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-kirill-shevchenko-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/U_cED6Ky",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-kirill-shevchenko-interview-day-2",
-         "pubDate" : "Fri, 20 May 2022 16:55:04 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Kirill Shevchenko Interview | Day 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91694704.cms\" />Indian chess legend Viswanathan Anand continued his superb form on the second day of the rapid event of the Superbet Rapid and Blitz Poland tournament on Friday, posting victories in rounds four and five before local hero Jan-Kryzstof Duda halted the winning streak in the sixth.",
@@ -2010,14 +2026,6 @@ news_feed (
          "title" : "The extraordinary Ignatz Von Kolisch: champion, patron, banker"
       },
       {
-         "description" : "For a third day in a row, we got to see one of five games ending decisively at the Superbet Chess Classic in Bucharest. Bogdan-Daniel Deac, the clear underdog in the field, joined Wesley So and Ian Nepomniachtchi in the lead after making the most of Richard Rapport's one-move blunder. Meanwhile, Levon Aronian escaped against Alireza Firouzja, who could not convert his advantage in a double-edged endgame. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r3",
-         "pubDate" : "Sat, 07 May 2022 23:45:00 +0100",
-         "title" : "Superbet: Deac joins the lead as Rapport blunders"
-      },
-      {
          "description" : " <p class=\"lead\">10 elite Grandmasters face each other in the classic round-robin tournament that takes place in Bucharest, Romania. It is staged by and is part of the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Grand Chess Tour</a>, a circuit of chess events organized by former world champion Garry Kasparov. Here is Round 3 of the event in photos. All photos by <a href=\"https://www.flickr.com/photos/grandchesstour/albums/72177720298714286/with/52055806952/\">Lennart Ootes</a>, Grand Chess Tour official photographer. Fabiano Caruana, World's number 3 at the moment, has 1.5 points after 3 draws. <div class=\"e2-text-picture\"> <img src=\"https://worldche",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2048,14 +2056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1738",
          "pubDate" : "Sat, 07 May 2022 13:33:37 +0000",
          "title" : "Yuri Averbakh (1922-2022)"
-      },
-      {
-         "description" : "Bent Larsen is the \"hero\" of the new issue of ChessBase Magazine. In CBM #207 our authors - among others Emanuel Berg, Jan Markos and Yannick Pelletier - comment on their favourite game of the great Dane. CBM readers can expect a collection of 19 special encounters from the period 1956 to 1998. In addition, Mihail Marin presents Larsen as a \"universal player\" in his strategy column and Karsten Mueller analyses a selection of Larsen's best endgames. You can watch the Larsen-Andersson game (1982) with Jan Markos' analysis here. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/my-favourite-game-by-bent-larsen",
-         "pubDate" : "Sat, 07 May 2022 14:00:00 +0100",
-         "title" : "\"My favourite game by Bent Larsen\""
       },
       {
          "description" : " The early underpromotion to a knight is a well known trap in the Budapest Gambit, but it can be even more devastating in other circumstances. The following game may well be the quickest underpromotion checkmate there is, unless someone has constructed a shorter game. <br /> <b>Amateur - Goetz</b><br />Strassburg, 1880 <script>new PgnViewer( { boardName: \"game1325\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.b3 Qh4+ 4.g3 fxg3 5.h3 g2+ 6.Ke2 Qxe4+ 7.Kf2 gxh1=N#', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1325-container\"></div><div id=\"game1325-moves\"></div><br />",
@@ -2296,22 +2296,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33842004/chess-olympiad-viswanathan-anand-mentor-india-two-teams-open-women-section?device=featurephone",
          "pubDate" : "Mon, 2 May 2022 12:42:05 -0500",
          "title" : "Chess Olympiad: Anand to mentor India, hosts to field two teams"
-      },
-      {
-         "description" : " <p class=\"lead\">Noam Sason, 8, <a href=\"https://www.timesofisrael.com/8-year-old-israeli-wins-european-chess-championship/\">won the European school chess championship</a> for children under 9 in Rhodes, Greece. He scored 7 out of 9 and defeated players from Turkey, Greece, Georgia, Romania, and Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/97B79EE5-A3AE-4E04-84ED-3BA751F14363.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Spectators at the 2016 World Chess Championship Match in New York's South Street Sea Port</div> </div> Noam's success comes on the heels of his other chess accomplishments, as well as support from his parents",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/8-year-old-israeli-wins-european-chess-championship-now-lets-tal/",
-         "pubDate" : "Mon, 02 May 2022 15:09:04 +0000",
-         "title" : "8-year-old Israeli Wins European Chess Championship. Now Let's Talk Money."
-      },
-      {
-         "description" : "<p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-size: 13pt; font-variant-ligatures: none; line-height: 1.55; margin: 14px 0px 0px; outline: none; position: relative; text-decoration-line: inherit; white-space: pre-wrap;\"><span class=\" jgG6ef\" style=\"box-sizing: border-box; font-size: 18pt; vertical-align: baseline;\"><strong style=\"-webkit-font-smoothing: antialiased; box-sizing: border-box;\">ACT Championships 2022</strong></span> <p class=\"CDt4Ke zfr3Q\" dir=\"ltr\" style=\"box-sizing: border-box; color: #212121; font-family: Roboto; font-size: 13pt; font-variant-ligatures: none; line-height: 1.55; margin: 14px 0px 0px; outline: none; pa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-27th-28th-29th.html",
-         "pubDate" : "Mon, 02 May 2022 12:49:00 +0000",
-         "title" : "2022 ACT Championship - 27th, 28th, 29th 30th May "
       }
    ]
 }
