@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand kept the sole lead at the Superbet tournament in Warsaw after scoring 5 points in the first nine rounds of blitz, which were played on Sunday. The Indian has a 1&frac12;-point lead over Jan-Krzysztof Duda, who finished the day with three wins in a row. A half point back stand Fabiano Caruana and Levon Aronian, the day's top scorers - Caruana collected 8 points, while Aronian added 7 points to his tally. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d4",
+         "pubDate" : "Mon, 23 May 2022 03:35:00 +0100",
+         "title" : "Superbet Poland: Anand leads, Caruana scores 8 out of 9"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won week 15 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He gained a victory from a losing position against GM Dmitry Andreikin, winner of the Swiss in the knockout final. GMs David Paravyan and Jose Martin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-15-nakamura-wins",
+         "pubDate" : "Sun, 22 May 2022 18:10:00 -0700",
+         "title" : "Nakamura Wins 5th Knockout: Rapid Chess Championship Week 15"
+      },
+      {
+         "description" : "The Ukrainian Grandmaster&#xA0;Andrii Baryshpolets&#xA0;is running for&#xA0;president&#xA0;of FIDE in the upcoming presidential elections during the&#xA0;Chess Olympiad 2022. Baryshpolets announced his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. See the full statement of Andrii Baryshpolets here In an interview with Chessdom.com []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andrii-baryshpolets-fide-cannot-be-run-by-a-long-year-kremlin-politician-as-it-violates-the-fide-charter/",
+         "pubDate" : "Sun, 22 May 2022 23:40:19 +0000",
+         "title" : "Andrii Baryshpolets, \"FIDE cannot be run by a long-year Kremlin politician, as it violates the FIDE Charter\""
+      },
+      {
          "description" : "Anish Giri won a spectacular game against Wei Yi and made draws against Magnus Carlsen and Aryan Tari to finish the Chessable Masters Prelims a point ahead of Magnus, who described himself as \"not too thrilled\" with his play. Giri now faces Tari in the quarterfinals and, after some huge swings in the final round, we also have Carlsen-Anton, Ding Liren-Mamedyarov and Praggnanandhaa-Wei Yi.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -162,14 +186,6 @@ news_feed (
          "title" : "Chessable Masters: Giri grabs the lead"
       },
       {
-         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. After six rounds of rapid, Vishy Anand is in the sole lead with an 11/12 score. Day 4 starts Sunday, May 22, at 14.00 CEST (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
-         "pubDate" : "Sun, 22 May 2022 13:55:00 +0100",
-         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
-      },
-      {
          "description" : "GM Fabiano Caruana was the standout performer on the fourth day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, that took place on Sunday. The American superstar, scoring 8/9 to commence the blitz section, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/",
          "pubDate" : "Sat, 21 May 2022 15:42:11 +0000",
          "title" : "FIDE 2022 election campaigns heat up!"
-      },
-      {
-         "description" : "The Slovak Youth Chess Championships 2022 take place from 21&#x2013;28 May 2022 in &#x13D;ubovnianske k&#xFA;pele. The event is played in 6 age categories: U8, U10, U12, U14, U16 &#38; U18, open and girls sections separately. Each category is played in 9 rounds, swiss system, with round-robin system in the sections with less than 11 participants. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/slovak-youth-chess-championships-2022-all-information-live-games/",
-         "pubDate" : "Sat, 21 May 2022 14:51:54 +0000",
-         "title" : "Slovak Youth Chess Championships 2022 - All information & LIVE games"
       },
       {
          "description" : " A change of government in Australia is expected after the results of today's Federal election. While this may not have direct effect on chess in Australia, I do know a couple of chess players are closely connected with the Labor Party, and this maty lead to some small wins over the next three (or more) years! ",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
          "pubDate" : "Wed, 11 May 2022 10:00:00 +0400",
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "The 2022 Junior Speed Chess Championship by SIG continued today with a hard-fought round of 16 match between popular Twitch streamer GM Hans Niemann and GM Velimir Ivic. Niemann won in style with a 16.5-12.5 match score. The two could barely be ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-triumphs-against-ivic-2022-junior-speed-chess-championship-round-of-16",
-         "pubDate" : "Tue, 10 May 2022 18:24:57 -0700",
-         "title" : "Niemann Triumphs Against Ivic: 2022 Junior Speed Chess Championship Round Of 16"
       },
       {
          "description" : "Endgame tablebases can only be described as \"god chess\" as they are perfect information on all positions they cover, and the terms 'better' or 'worse' cease to have any meaning. Marc Bourzutschky has trained and resolved a large number of the 8-piece tablebase positions and shared his results and findings, as well as insights in a video interview.",
