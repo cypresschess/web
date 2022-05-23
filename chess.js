@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. Going into the last 9 rounds of blitz, Vishy Anand has a 1&frac12;-point lead over second-placed Jan-Krzysztof Duda. The final day of action starts at 14.00 CEST on Monday (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
+         "pubDate" : "Mon, 23 May 2022 13:55:00 +0100",
+         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
+      },
+      {
+         "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/last-call-for-volunteers-for-olympiad-2022-once-in-a-lifetime-opportunity/",
+         "pubDate" : "Mon, 23 May 2022 11:48:23 +0000",
+         "title" : "Last Call for Volunteers for Olympiad 2022 - Once in a Lifetime opportunity"
+      },
+      {
+         "description" : "The ChessBase video portal contains a wealth of videos on various topics (opening, middlegame and endgame). A helpful function for owners of the newer FritzTrainer courses is the possibility to view the contents of the purchased courses directly with the browser in the video portal. This makes it easier to access the courses as it is not necessary to view the contents of the courses with the ChessBase Reader, ChessBase or one of the chess programmes on the desktop.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stream-fritztrainers-in-the-video-portal",
+         "pubDate" : "Mon, 23 May 2022 11:58:57 +0100",
+         "title" : "Stream FritzTrainers in the video portal!"
+      },
+      {
+         "description" : "Last month Dutch no. 1 Anish Giri joined The Late Knight Show studio in Oslo for a fascinating two-hour interview. The candid 27-year-old Grandmaster opened up about a variety of topics ranging from the Meltwater Champions Chess Tour to his ambitions to become World Champion and missing out on the Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anish-giri-on-the-twitter-hack-grand-prix-and-missing-out-on-the-candidates",
+         "pubDate" : "Mon, 23 May 2022 08:02:10 +0000",
+         "title" : "Giri: \"The purpose of my chess career is to become the best player in the world\""
+      },
+      {
          "description" : "Scoring 29 out of a possible 45 points, GM Anish Giri finished first while remaining undefeated in the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Dutchman qualified for the knockout phase together with GMs Ma...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-4",
-         "pubDate" : "Mon, 23 May 2022 00:20:19 -0700",
+         "pubDate" : "Mon, 23 May 2022 00:20:00 -0700",
          "title" : "Giri Undefeated Entering Knockout: Chessable Masters, Day 4"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won week 15 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He gained a victory from a losing position against GM Dmitry Andreikin, winner of the Swiss in the knockout final. GMs David Paravyan and Jose Martin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-15-nakamura-wins",
+         "pubDate" : "Sun, 22 May 2022 23:22:00 -0700",
+         "title" : "Nakamura Wins 5th Knockout: Rapid Chess Championship Week 15"
       },
       {
          "description" : "The preliminary stage of the Chessable Masters came to an end on Sunday. Anish Giri scored a win and two draws to keep the lead and win the single round-robin. Magnus Carlsen finished in second place, and was followed by Ding Liren and Praggnanandhaa. Wei Yi, Shakhriyar Mamedyarov, David Anton and Aryan Tari also made it to the knockout stage.",
@@ -34,12 +74,12 @@ news_feed (
          "title" : "Superbet Poland: Anand leads, Caruana scores 8 out of 9"
       },
       {
-         "description" : "GM Hikaru Nakamura won week 15 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He gained a victory from a losing position against GM Dmitry Andreikin, winner of the Swiss in the knockout final. GMs David Paravyan and Jose Martin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-15-nakamura-wins",
-         "pubDate" : "Sun, 22 May 2022 18:10:00 -0700",
-         "title" : "Nakamura Wins 5th Knockout: Rapid Chess Championship Week 15"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1780",
+         "pubDate" : "Mon, 23 May 2022 00:29:24 +0000",
+         "title" : "Czech Championship: David Navara clinches national 11th title"
       },
       {
          "description" : "The Ukrainian Grandmaster&#xA0;Andrii Baryshpolets&#xA0;is running for&#xA0;president&#xA0;of FIDE in the upcoming presidential elections during the&#xA0;Chess Olympiad 2022. Baryshpolets announced his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. See the full statement of Andrii Baryshpolets here In an interview with Chessdom.com []",
@@ -90,14 +130,6 @@ news_feed (
          "title" : "Giri tops leaderboard as Chessable Masters heads into KO stage"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1780",
-         "pubDate" : "Sun, 22 May 2022 20:29:24 +0000",
-         "title" : "Czech Championship: David Navara clinches national 11th title"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Restream helps you multistream &amp; reach your audience, wherever they are. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z1ZvHyC6eQU.jpg?itok=WnW-M280\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -112,6 +144,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-poland-chess-tournament-mixed-result-for-anand-on-day-1-of-blitz/articleshow/91728691.cms",
          "pubDate" : "Sun, 22 May 2022 18:01:11 +0000",
          "title" : "Superbet Poland chess tournament: Mixed result for Anand on Day 1 of Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1778",
+         "pubDate" : "Sun, 22 May 2022 17:13:30 +0000",
+         "title" : "Mr. Sheripov announces his candidacy for FIDE President"
       },
       {
          "description" : "The&#160;World Chess Championship Match 2023 between the reigning World Champion Magnus Carlsen and the Winner of Candidates Chess Tournament 2022&#160;will take place in early 2023. In a short video below it was seen how Magnus and Jorden discussed the new ideas that could possibly be used in the World Championship games. (scroll down for the []",
@@ -1490,14 +1530,6 @@ news_feed (
          "title" : "India presents four strong teams for the Olympiad in Chennai"
       },
       {
-         "description" : "The year is 1935. Salo Flohr just won the 2nd Moscow International Tournament in front of Mikhail Botvinnik, Emanuel Lasker, and Jose Raul Capablanca. The late Yuri Averbakh is 13 years old. He knows the rules of chess but is not an enthusiast yet. A lecture by Nikolai Grigoriev is about to give birth to a love for chess that will dictate each day of the 87 years that Averbakh has left to live.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/how-yuri-averbakh-fell-in-love-with-chess-grigoriev-best-pawn-studies",
-         "pubDate" : "Thu, 12 May 2022 17:04:40 +0000",
-         "title" : "How Yuri Averbakh fell in love with chess - Grigoriev's best pawn studies"
-      },
-      {
          "description" : "The King's Indian is a very straight-forward, aggressive opening. Basically, Black builds up a system in the first couple of moves, and once it is set up, the attacking begins! White tries to counter on the queenside, in most cases. But please take a look at it all for yourself in this episode of \"Svitlana's Smart Moves\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1890,6 @@ news_feed (
          "title" : "Superbet: So beats Nepo, grabs the lead"
       },
       {
-         "description" : "The MPL 34th National Under-14 Chess Tournament for Open and Girls witnessed a grand opening ceremony today 9th May 2022 at 10:00 am in Golden Hall, Rajpath",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/inaugural-function-the-mpl-34th-national-under-14-chess-tournament-for-open-and-girls/",
-         "pubDate" : "Mon, 09 May 2022 11:42:34 +0000",
-         "title" : "Inaugural function :The MPL 34th National Under-14 Chess Tournament for Open and Girls"
-      },
-      {
          "description" : "Hamilton's slower-than-expected 40-yard dash time made him fall in the draft, and the Ravens couldn't be happier.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2050,14 +2074,6 @@ news_feed (
          "title" : "Fields of force: Marcel Duchamp and chess"
       },
       {
-         "description" : "In the diagram position, White found a stunning way to strengthen his attack decisively. Your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-sculptor",
-         "pubDate" : "Sat, 07 May 2022 09:00:00 +0100",
-         "title" : "Checkmate sculptor"
-      },
-      {
          "description" : " The chess community on the African continent is buzzing at the news of Enyonam Sewa Noël Fumey announcing his candidacy for FIDE President. According to the FIDE press release, Fumey notified current FIDE President Arkady Dvorkovich of his intentions. There was also this plea of inclusivity: \"FIDE machine is working effectively, but with my team, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/\">Togo's Fumey will stand for FIDE President</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2080,14 +2096,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-beats-firouzja-carlsons-preferred-opponent/",
          "pubDate" : "Fri, 06 May 2022 20:08:27 +0000",
          "title" : "Nepo Beats Firouzja, Carlsen's Preferred Opponent"
-      },
-      {
-         "description" : "Lawrence thought about showing us some tactics of one of the greatest chess players in the world. The world champion from the US was excellent with everything that chess has to offer. Obviously, Bobby Fischer played some tremendous tactical combinations during his career. We start with a game from 1961 against Mikhail Tal!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-21",
-         "pubDate" : "Fri, 06 May 2022 21:00:00 +0100",
-         "title" : "Trent's Tactics - The one and only: Bobby Fischer"
       },
       {
          "description" : " <p class=\"lead\">In an exclusive interview with World Chess and WGM Dina Belenkaya, the Dutch chess star Anish Giri said that having people tweeting annoying things about FIDE all the time is not chess politics. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Giri.jpg\" width=\"2560\" height=\"1399\" alt=\"\" /> </div> We've seen many professional chess players getting involved in politics, with the most blatant example of the former World Champion Gary Kasparov. After his retirement from chess in 2005, Kasparov turned to politics and created the United Civil Front, a social movement whose main goal is to \"work to preserve electoral democracy in Russia\". Recently, after",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-12/",
          "pubDate" : "Wed, 04 May 2022 12:43:52 +0000",
          "title" : "Master Chess Web Show (12)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1730",
-         "pubDate" : "Wed, 04 May 2022 09:36:04 +0000",
-         "title" : "Winners crowned at World Cadets & Youth Championships 2022 for Rapid and Blitz"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://grandchesstour.org/\">2022 Grand Chess Tour</a> kicks off on May 5th with the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">2022 Superbet Chess Classic Romania,</a> in Bucharest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/871848.719daad2.5000x5000o.666537263dc8.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Wijk aan Zee. Photo: Jurriaan Hoefsmit/Tata Steel Chess</div> </div> The tournament lasts until May 14th and features a 10-player round-robin battle for a total of $350,000 in prize money. Among the players are the US Champion and <a hr",
