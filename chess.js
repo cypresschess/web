@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri continued to cruise through the Chessable Masters as he eased past Aryan Tari 2.5:0.5 in the quarterfinals. Magnus Carlsen achieved the same scoreline, but admitted what he did after his 1.f4 in the 3rd game was \"silly\" and could have let David Anton back into the match. Ding Liren (vs. Shakhriyar Mamedyarov) and Praggnanandhaa (vs. Wei Yi) both powered to a 2:0 lead, but then lost Game 3 before drawing Game 4, with Praggnanandhaa surviving some nail-biting moments. We've now got Carlsen-Ding and Giri-Pragg in the semi-finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-5-giri-carlsen-ding-pragg-advance",
+         "pubDate" : "Tue, 24 May 2022 11:07:17 +0000",
+         "title" : "Chessable Masters 5: Giri, Carlsen, Ding & Pragg advance"
+      },
+      {
+         "description" : "The Hamburger Schachklub von 1830 (HSK) is the largest and second oldest German chess club. It is also very active and currently organises two invitational tournaments in Hamburg: a GM tournament and an IM tournament, both featuring promising young players (pictured: Leon Mendonca) and experienced masters. With 3.0/3 GM Vasilios Kotronias from Greece (in the GM tournament) and IM Brandon Clarke from England (in the IM tournament) had the best start. | Photos: Frank Bracker",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-invitational-tournaments-in-hamburg",
+         "pubDate" : "Tue, 24 May 2022 11:52:26 +0100",
+         "title" : "Two invitational tournaments in Hamburg"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda won the Superbet Rapid & Blitz tournament in Warsaw. The Polish star collected 6&frac12;/9 points on the final day of action to overcome long-time sole leader Vishy Anand in the standings table. Anand tied in second place with Levon Aronian, who scored 13&frac12;/18 points in the blitz section and thus climbed to first place in the blitz world ranking. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d5",
+         "pubDate" : "Tue, 24 May 2022 11:15:00 +0100",
+         "title" : "Duda comes from behind, wins Superbet Rapid & Blitz Poland"
+      },
+      {
+         "description" : " <p class=\"lead\">The Polish GM Jan-Krzysztof Duda won the 2022 Superbet Rapid & Blitz Poland half a point ahead of Vishy Anand and Levon Aronian. But Duda was not the only \"winner\" as Fabiano Caruana (+10) and Levon Aronian (+9) climbed the blitz rating list after their remarkable performance, surpassing Carlsen who is now downgraded to 4th place! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-1.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The former World Champion Vishy Anand had a stunning performance in the rapid chess but unfortunately faded in blitz. Nevertheless, the 52-year-old GM still tied for first after losing his last two game",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/duda-is-the-2022-superbet-rapid-blitz-poland-king/",
+         "pubDate" : "Tue, 24 May 2022 09:59:06 +0000",
+         "title" : "Duda is the 2022 Superbet Rapid & Blitz Poland King"
+      },
+      {
+         "description" : "Chess.com&#39;s very own IM Danny Rensch was the winner by the slightest of margins in the 2022 IM Not A GM Speed Chess Championship on Monday, needing tiebreaks and an armageddon game to claim a 13.5-12.5 victory over IM Justus Williams in their roun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rensch-williams",
+         "pubDate" : "Tue, 24 May 2022 02:16:00 -0700",
+         "title" : "Rensch Triumphant In Armageddon Tiebreak: 2022 IMSCC, Round Of 16"
+      },
+      {
+         "description" : "The semifinals of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters will see the matches GM Magnus Carlsen vs. GM Ding Liren and&#38;nbsp;GM Anish Giri vs.&#38;nbsp;Praggnanandhaa R. played on Tuesday. The winners will qualify for the final that...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chessable-masters-quarterfinals",
+         "pubDate" : "Tue, 24 May 2022 02:01:00 -0700",
+         "title" : "Carlsen-Ding, Giri-Pragg In Semifinals: Chessable Masters, Day 5"
+      },
+      {
+         "description" : "Following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. The ECU Presidential Candidate Zurab Azmaiparashvili published a presentation of his ticket, program, and detailed information. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/europe-2026-platform/",
+         "pubDate" : "Tue, 24 May 2022 08:35:54 +0000",
+         "title" : "EUROPE 2026 #Platform"
+      },
+      {
          "description" : "Stalemate motifs often play a role in endgames. In the diagrammed position it is White to move. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,12 +162,12 @@ news_feed (
          "title" : "Khodarkovsky: Magnus Will Play Sinquefield Cup | Day 5"
       },
       {
-         "description" : "The second tournament of the Grand Chess Tour 2022 is taking place in Warsaw from May 17-23, and consists of a rapid and a blitz tournament. Going into the last 9 rounds of blitz, Vishy Anand has a 1&frac12;-point lead over second-placed Jan-Krzysztof Duda. The final day of action starts at 14.00 CEST on Monday (8.00 ET, 12.00 UTC). Follow the games live with expert commentary.",
+         "description" : "The second tournament of the Grand Chess Tour 2022 took place in Warsaw from May 17-23, and consisted of a rapid and a blitz tournament. Jan-Krzysztof Duda won the event after collecting 6&frac12;/9 points on the final day of action to overcome long-time sole leader Vishy Anand in the standings table. Anand and Levon Aronian finished in shared second place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
          "pubDate" : "Mon, 23 May 2022 13:55:00 +0100",
-         "title" : "Grand Chess Tour Superbet Tournament Warsaw: Live"
+         "title" : "Superbet Tournament Warsaw: Games and standings"
       },
       {
          "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
@@ -368,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-4",
          "pubDate" : "Sun, 22 May 2022 05:18:00 -0700",
          "title" : "Caruana Wins 7, Draws 2: 2022 Superbet Rapid & Blitz Poland, Day 4"
-      },
-      {
-         "description" : "The 1/8 finals of the jubilee edition of the TCEC Cup are history. The 16 best engines from the TCEC S22 qualified for this round without trouble. The league winner Stockfish, the Superfinal participant KomodoDragon, and the subfinal winner Lc0 had no problems in their matches, winning with significant margin. Stoofvlees, Slowchess, and Igel followed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/revenge-brings-the-only-cupset-in-the-tcec-cup-1-8-finals/",
-         "pubDate" : "Sun, 22 May 2022 12:16:33 +0000",
-         "title" : "Revenge brings the only !cupset in the TCEC Cup 1/8 finals"
       },
       {
          "description" : " If you are turning 50 years old (or more) this year, then the 2022 Asian Seniors Championship may be of interest to you. It is being held from the 14th to the 22nd of October, in Auckland, New Zealand. It will be a 9 round swiss and apart from an enjoyable week of chess, title and title norms are on offer. I played in 2017 and I highly recommend this event to those who are able to take part. Brief details are available at <a href=\"https://www.newzealandchess.co.nz/calendar.html\">https://www.newzealandchess.co.nz/calendar.html</a> ",
@@ -1514,14 +1562,6 @@ news_feed (
          "title" : "Wins For Firouzja, Mamedyarov, Vachier-Lagrave: 2022 Superbet Chess Classic Romania, Day 7"
       },
       {
-         "description" : "Magnus Carlsen and Ding Liren, the chess world numbers 1 and 2, will be in action as the 3rd edition of the Chessable Masters starts May 19th at 18:00 CEST. The 16-player $150,000 tournament is the 4th stage on the $1.6 million Meltwater Champions Chess Tour. It will also feature Shakhriyar Mamedyarov and Anish Giri, as well as two of the hottest young talents around, 16-year-old Praggnanandhaa and 13-year-old Abhimanyu Mishra.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-and-ding-top-chessable-masters-field",
-         "pubDate" : "Fri, 13 May 2022 12:00:01 +0000",
-         "title" : "Carlsen and Ding top Chessable Masters field"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1552,14 +1592,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/cayman-islands-chess-jubilee/",
          "pubDate" : "Fri, 13 May 2022 05:15:19 +0000",
          "title" : "Cayman Islands' Chess Jubilee!"
-      },
-      {
-         "description" : "The 2022 Junior Speed Chess Championship by SIG returned on Thursday with double the action as GM Hans Niemann toppled GM Kiril Shevchenko in their quarterfinal matchup, while GM Nihal Sarin ended GM Awonder Liang&#39;s run with a nearly impeccable ef...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-nihal-niemann-win",
-         "pubDate" : "Thu, 12 May 2022 18:58:00 -0700",
-         "title" : "Nihal and Niemann Both Win: 2022 Junior Speed Chess Championship"
       },
       {
          "description" : "",
@@ -1616,14 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1751",
          "pubDate" : "Thu, 12 May 2022 09:56:01 +0000",
          "title" : "Argentinean Women's Championship: Fernandez clinches fifth title"
-      },
-      {
-         "description" : "Round six saw a shake-up of the standings after two crucial games ended decisively, with GM Levon Aronian swiftly beating GM Maxime Vachier-Lagrave in just 25 moves, and GM Leinier Dominguez winning a hair-raising and heart-breaking battle against...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-6",
-         "pubDate" : "Thu, 12 May 2022 02:14:00 -0700",
-         "title" : "Aronian Wins Miniature, Joins Lead: 2022 Superbet Chess Classic Romania, Day 6"
       },
       {
          "description" : "Gukesh won his third consecutive tournament in Spain as he scored an unbeaten 8/10 to claim first place at the Chessable Sunway Formentera Open. After missing several tournament triumphs on tiebreaks, Gukesh got outright victory in Formentera by finishing a half point ahead of the field. Jaime Santos (Spain) and Shant Sargsyan (Armenia) completed the podium. | Photo: Official site",
@@ -1930,28 +1954,12 @@ news_feed (
          "title" : "Mitropa Cup: Double gold for France"
       },
       {
-         "description" : "The legendary grandmaster Yuri Averbakh passed away in Moscow. Yuri Averbakh was the world's oldest living Grandmaster. In his prime, he was one of the strongest players in the USSR and the world, and in 1953 he took part in the legendary Candidates Tournament in Zurich. Our deepest sympathy goes out to Yuri Lvovich's family and loved ones. Video added. | Photo: Maria Emellianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yuri-averbakh-passes-away-in-moscow",
-         "pubDate" : "Mon, 09 May 2022 14:00:00 +0100",
-         "title" : "Yuri Averbakh passes away in Moscow"
-      },
-      {
          "description" : "South Eastern Railway Sports Association has published recruitment of Sports person against Talent Scouting Sports Quota 2022-23 . The detailed advertisement is given in the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/recruitment-of-meritorious-sportsperson-in-the-south-eastern-railway-sports-association/",
          "pubDate" : "Mon, 09 May 2022 12:57:10 +0000",
          "title" : "Recruitment of meritorious sportsperson in the South Eastern Railway Sports Association"
-      },
-      {
-         "description" : "After the fourth round of the Superbet Chess Classic, Wesley So is leading the standings table with 3 points. With his win over Ian Nepomniachtchi, So single-handedly put a previously tied rival at a distance, while Bogdan-Daniel Deac, the third member of the pre-round leading trio, had to settle for a draw against Shakhriyar Mamedyarov. There were also wins for Maxime Vachier-Lagrave (over Fabiano Caruana) and Levon Aronian (over Leinier Dominguez). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r4",
-         "pubDate" : "Mon, 09 May 2022 13:25:00 +0100",
-         "title" : "Superbet: So beats Nepo, grabs the lead"
       },
       {
          "description" : "Hamilton's slower-than-expected 40-yard dash time made him fall in the draft, and the Ravens couldn't be happier.",
@@ -2280,14 +2288,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/3/ep-277-gm-kirill-shevchenko-and-wfm-maria-emelianova-a-ukrainian-gm-and-a-russian-chess-streamer-on-the-impact-of-the-russian-ukrainian-war-on-their-lives-and-its-impact-on-the-chess-world",
          "pubDate" : "Tue, 03 May 2022 12:48:41 +0000",
          "title" : "EP 277-GM Kirill Shevchenko and WFM Maria Emelianova, a Ukrainian GM and a Russian Chess Streamer, on How the Russian-Ukrainian War Impacts their lives, their Careers and the Chess World"
-      },
-      {
-         "description" : " The 27th TePe Sigeman & Co Chess tournament took place in May 3rd - 9th, 2022 - Malmo, Sweden. There was a really interesting mixed age group field this year: Jorden Van Foreest, Michael Adams, David Navara, Alexei Shirov, Saleh Salem, Arjun Erigaisi, Nils Grandelius and Hans Moke Niemann. I always have a special feeling about this tournament as it started the same year I was first reporting on chess on the internet. Hans Moke Niemann won his second important tournament in a row after winning the Capablanca Memorial, he scored 5/7 a point clear of Arjun Erigaisi, Nils Grandelius and Michael Adams.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/27th-tepe-sigeman-co-chess-tournament-2022",
-         "pubDate" : "Tue, 3 May 2022 13:50:00 +0400",
-         "title" : "27th TePe Sigeman & Co Chess Tournament 2022 - Games and Results"
       }
    ]
 }
