@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rating underdogs Ding Liren and Praggnanandhaa moved on to the finals of the Chessable Masters after knocking out Magnus Carlsen and Anish Giri respectively. After drawing their first three encounters, Ding defeated Carlsen in game 4 to clinch match victory. Meanwhile, Pragg and Giri traded blows to take their match to tiebreaks. The 16-year-old Indian prodigy was stronger in blitz, and thus knocked out his famed opponent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d6",
+         "pubDate" : "Wed, 25 May 2022 01:00:00 +0100",
+         "title" : "Chessable Masters: Ding knocks out Carlsen, Pragg stuns Giri"
+      },
+      {
+         "description" : "IM Eric Rosen defeated IM Tania Sachdev in their round of 16 match in the 2022 I&#39;M Not A GM Speed Chess Championship. Suffering only two losses in the entire match, the American streamer flourished in the 3+1 and 1+1 segments especially, with an 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rosen-sachdev",
+         "pubDate" : "Tue, 24 May 2022 14:14:15 -0700",
+         "title" : "Rosen Beats Sachdev With 11-Game Streak: 2022 IMSCC, Round Of 16"
+      },
+      {
+         "description" : "The ex-President of Moldova and current President of Moldova Chess Federation was arrested on Tuesday after a raid on his home. The 47-year-old Igor Dodon, a pro-Kremlin politician and leader of the Socialist Party, is under investigation for alleged corruption, treason, illicit enrichment, and &#8220;illegal party financing&#8221;. The ties of Dodon with Kremlin and the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/breaking-igor-dodon-the-president-of-moldova-chess-federation-arrested-kremlin-and-peskov-protest/",
+         "pubDate" : "Tue, 24 May 2022 21:13:02 +0000",
+         "title" : "Breaking: Igor Dodon, the President of Moldova Chess Federation arrested; Kremlin and Peskov protest"
+      },
+      {
+         "description" : "India&#x2019;s boy wonder Rameshbabu Praggnanandhaa announced himself at the very top table of world chess as he stormed into his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old from Chennai showed off all his skills as he simply overpowered the super-strong Dutch no.1 Anish Giri in the Chessable Masters semi-final, the fourth []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pragg-beats-giri-ding-defeats-carlsen-chessable-masters-final-will-see-pragg-vs-ding/",
+         "pubDate" : "Tue, 24 May 2022 21:12:00 +0000",
+         "title" : "Pragg beats Giri, Ding defeats Carlsen; Chessable Masters Final will see Pragg vs Ding"
+      },
+      {
          "description" : "Last Friday, Russia&#39;s Ministry of Justice added GM Garry Kasparov to the list of individuals acting as &#34;foreign agents&#34; for receiving donations or funding from outside Russia and carrying out political activities. For Kasparov, who is living abroa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,14 +74,6 @@ news_feed (
          "title" : "Students Analysis (7)"
       },
       {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Tue, 24 May 2022 17:55:00 +0100",
-         "title" : "Chessable Masters SF: Live"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With 85% of the votes <strong>French Chess Federation</strong> <a href=\"http://echecs.asso.fr/Actu.aspx?Ref=13968\">was accepted</a> as a new member by the <strong>French Olympic Committee</strong>. This (usually) paves the way to more sport-related subsidies. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.chessdom.com/french-chess-federation-becomes-a-member-of-the-french-olympic-and-athletic-committee-tweetoftheday/",
          "pubDate" : "Tue, 24 May 2022 15:28:53 +0000",
          "title" : "French Chess Federation becomes a member of the French Olympic and Athletic Committee #TweetOftheDay"
-      },
-      {
-         "description" : "In the quarterfinals of the Chessable Masters, Magnus Carlsen, Ding Liren and Anish Giri beat their opponents quite confidently. In the duel of talents, Praggnanandhaa won 2.5-1.5 against Wei Yi. | Photos and pictures: Play Magnus Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-carlsen-ding-praggnanandhaa-and-giri-qualify-for-the-semifinals",
-         "pubDate" : "Tue, 24 May 2022 16:11:53 +0100",
-         "title" : "Chessable Masters: Carlsen, Ding, Praggnanandhaa and Giri qualify for the semifinals"
       },
       {
          "description" : "",
@@ -216,6 +232,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-poland-2022-d5",
          "pubDate" : "Tue, 24 May 2022 11:15:00 +0100",
          "title" : "Duda comes from behind, wins Superbet Rapid & Blitz Poland"
+      },
+      {
+         "description" : "In the quarterfinals of the Chessable Masters, Magnus Carlsen, Ding Liren and Anish Giri beat their opponents quite confidently. In the duel of talents, Praggnanandhaa won 2.5-1.5 against Wei Yi. | Photos and pictures: Play Magnus Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-carlsen-ding-praggnanandhaa-and-giri-qualify-for-the-semifinals",
+         "pubDate" : "Tue, 24 May 2022 11:00:00 +0100",
+         "title" : "Chessable Masters: Carlsen, Ding, Praggnanandhaa and Giri qualify for the semifinals"
       },
       {
          "description" : " <p class=\"lead\">The Polish GM Jan-Krzysztof Duda won the 2022 Superbet Rapid & Blitz Poland half a point ahead of Vishy Anand and Levon Aronian. But Duda was not the only \"winner\" as Fabiano Caruana (+10) and Levon Aronian (+9) climbed the blitz rating list after their remarkable performance, surpassing Carlsen who is now downgraded to 4th place! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-1.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The former World Champion Vishy Anand had a stunning performance in the rapid chess but unfortunately faded in blitz. Nevertheless, the 52-year-old GM still tied for first after losing his last two game",
@@ -370,14 +394,6 @@ news_feed (
          "title" : "Giri: \"The purpose of my chess career is to become the best player in the world\""
       },
       {
-         "description" : "The Bolivian National Men's and Women's Chess Championships 2022 took place from 18-22 May in Santa Cruz de la Sierra. LIVE now: Czech Women&#x2019;s Chess Championship 2022 / Sharjah Chess Masters 2022 After 9 round robin rounds in the Men's event, Rodrigo Mendoza won the Championship scoring unbeaten 7 points. Mendoza made a huge surprise []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bolivia-crowns-national-chess-champions/",
-         "pubDate" : "Mon, 23 May 2022 07:45:00 +0000",
-         "title" : "Bolivia crowns National Chess Champions"
-      },
-      {
          "description" : "Scoring 29 out of a possible 45 points, GM Anish Giri finished first while remaining undefeated in the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Also qualifying for the knockout phase were GMs Magnus Carlsen, Di...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -424,14 +440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1780",
          "pubDate" : "Mon, 23 May 2022 00:29:24 +0000",
          "title" : "Czech Championship: David Navara clinches national 11th title"
-      },
-      {
-         "description" : "The Ukrainian Grandmaster&#xA0;Andrii Baryshpolets&#xA0;is running for&#xA0;president&#xA0;of FIDE in the upcoming presidential elections during the&#xA0;Chess Olympiad 2022. Baryshpolets announced his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. See the full statement of Andrii Baryshpolets here In an interview with Chessdom.com []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andrii-baryshpolets-fide-cannot-be-run-by-a-long-year-kremlin-politician-as-it-violates-the-fide-charter/",
-         "pubDate" : "Sun, 22 May 2022 23:40:19 +0000",
-         "title" : "Andrii Baryshpolets, \"FIDE cannot be run by a long-year Kremlin politician, as it violates the FIDE Charter\""
       },
       {
          "description" : "Anish Giri won a spectacular game against Wei Yi and made draws against Magnus Carlsen and Aryan Tari to finish the Chessable Masters Prelims a point ahead of Magnus, who described himself as \"not too thrilled\" with his play. Giri now faces Tari in the quarterfinals and, after some huge swings in the final round, we also have Carlsen-Anton, Ding Liren-Mamedyarov and Praggnanandhaa-Wei Yi.",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1760",
          "pubDate" : "Fri, 13 May 2022 22:12:27 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 8 Recap"
-      },
-      {
-         "description" : "FIDE&#38;rsquo;s former Secretary General CM Enyonam Sewa Fumey from Togo has joined the&#38;nbsp;presidential race for the 2022 elections of the international chess federation. The elections will take place in Chennai, India, on August 7 during this year...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-presidential-candidate-enyonam-sewa-fumey-interview",
-         "pubDate" : "Fri, 13 May 2022 15:12:00 -0700",
-         "title" : "Fumey's Presidential Bid: 'I Can't Imagine Dvorkovich Is Re-Elected'"
       },
       {
          "description" : "",
