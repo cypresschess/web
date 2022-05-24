@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The General Assembly of the French Olympic and Athletic Committee brought the decision on May 23rd to accept the membership application of the French Chess Federation. The French Olympic Committee General Assembly was held in the presence of all the member federations, the president, Ms. Brigitte Henriques, and the Minister of Sports and the Olympic []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-chess-federation-becomes-a-member-of-the-french-olympic-and-athletic-committee-tweetoftheday/",
+         "pubDate" : "Tue, 24 May 2022 15:28:53 +0000",
+         "title" : "French Chess Federation becomes a member of the French Olympic and Athletic Committee #TweetOftheDay"
+      },
+      {
+         "description" : "In the quarterfinals of the Chessable Masters, Magnus Carlsen, Ding Liren and Anish Giri beat their opponents quite confidently. In the duel of talents, Praggnanandhaa won 2.5-1.5 against Wei Yi. | Photos and pictures: Play Magnus Group",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-carlsen-ding-praggnanandhaa-and-giri-qualify-for-the-semifinals",
+         "pubDate" : "Tue, 24 May 2022 16:11:53 +0100",
+         "title" : "Chessable Masters: Carlsen, Ding, Praggnanandhaa and Giri qualify for the semifinals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1785",
+         "pubDate" : "Tue, 24 May 2022 15:09:28 +0000",
+         "title" : "French Federation becomes a member of the National Olympic and Sports Committee"
+      },
+      {
+         "description" : "Following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. The ECU Presidential Candidate Zurab Azmaiparashvili published a presentation of his ticket, program, and detailed information. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/europe-2026-platform/",
+         "pubDate" : "Tue, 24 May 2022 14:58:00 +0000",
+         "title" : "EUROPE 2026 #Platform"
+      },
+      {
+         "description" : "The Azerbaijan Women&#x2019;s Chess Championship 2022&#160;took place in Baku from 16 to 23 May. Eight participants compete in a round-robin tournament of 7 rounds fighting for the trophy of the&#160;National Championship&#160;and the total prize fund of 11.400 AZN (6.500 euros).&#160; 19-year-old WIM Govhar Beydullayeva triumphed the event, scoring 5/7 points to be the sole Winner []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/govhar-beydullayeva-wins-azerbaijan-womens-chess-championship-2022/",
+         "pubDate" : "Tue, 24 May 2022 14:57:17 +0000",
+         "title" : "Govhar Beydullayeva wins Azerbaijan Women's Chess Championship 2022"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg\" data-image-dimensions=\"1750x693\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"628cedd60bce435664933b98\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are re-joined by the popular and amusing <a href=\"https://www.twitch.tv/gmbenjaminfinegold\" target=\"_blank\">Twitch streamer</a>, <a href=\"https://www.",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/24/ep-280-gm-ben-finegold-on-the-fide-candidates-recent-declines-in-chess-twitch-viewership-and-why-he-thinks-he-doesnt-play-as-well-as-he-used-to",
+         "pubDate" : "Tue, 24 May 2022 14:40:40 +0000",
+         "title" : "EP 280- GM Ben Finegold on The FIDE Candidates, Recent Declines in Chess Twitch Viewership, and Why he thinks he Doesn't Play as Well as he Used to. "
+      },
+      {
+         "description" : "The Peruvian Open and Women&#x2019;s National Chess Championships 2022&#160;took place from 17-22 May in Lima.LIVE now: Sharjah Chess Masters 2022 / Slovak Youth Chess Championships 2022 / Czech Women&#x2019;s Chess Championship 2022 Best rated Peruvian grandmaster Jorge Cori claimed the trophy in the Open section, winning the event with 7/9 points. He had the same []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peruvian-chess-champions-2022-crowned-in-lima/",
+         "pubDate" : "Tue, 24 May 2022 14:22:12 +0000",
+         "title" : "Peruvian Chess Champions 2022 crowned in Lima"
+      },
+      {
+         "description" : " The Somali Chess Federation had successfully finalized the Olympiad qualifying chess tournament that was held in Mogadishu between 17/05/2022 to 22/05/2022. The event was organized in a professional manner and 10 chess players had participated in the tournament. CM Ali Farah 1st, FM Omar Abdulrahman 2nd, CM Islam Shiekh 3th, and Mohamed Ahmed 4th, finished The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/24/somalia-finalizes-team-for-2022-olympiad/\">Somalia finalizes team for 2022 Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/24/somalia-finalizes-team-for-2022-olympiad/",
+         "pubDate" : "Tue, 24 May 2022 13:07:22 +0000",
+         "title" : "Somalia finalizes team for 2022 Olympiad"
+      },
+      {
+         "description" : "On May 19, Inal Sheripov (Belgium) announced his intention to run for FIDE President. His ticket has already been officially submitted to the FIDE office, with supporting letters from the federations of Ukraine, Zambia, Sierra-Leone, Barbados, and Timor Leste. The ticket includes Lewis Ncube (Zambia), current President of the African Chess Confederation, as a Candidate for the position of FIDE Deputy President.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sheripov-announces-his-candidacy-for-fide-president",
+         "pubDate" : "Tue, 24 May 2022 14:00:00 +0100",
+         "title" : "Sheripov announces his candidacy for FIDE President"
+      },
+      {
+         "description" : " <p class=\"lead\">IM and WGM Elisabeth Paehtz gives an exclusive interview to World Chess about her experience in the army, women's chess in Germany, recent successes in chess tournaments and much more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wKwWbFFxYJc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/elisabeth-paehtz-people-either-love-me-or-hate-me/",
+         "pubDate" : "Tue, 24 May 2022 12:54:20 +0000",
+         "title" : "Elisabeth Paehtz: \"People either love me or hate me\""
+      },
+      {
+         "description" : " Every now and then I dig up one of my more dubious openings from my youth. While the Schliemann in and of itself isn't that bad, there are some pretty dubious lines, especially now with chess engines ruining most gambits. I ventured the Mohring variation, which is known to be poor as long ago as the early 1980's, hoping my opponent might miss the best line. When he played 12 moves of theory I began to (a) regret my decision to choose this line and (b) try and remember what I used to know 35 years ago. Luckily he missed the the correct defensive move (13.d4!) and after that his position collapsed very quickly. <br /> <b>Cunningham,Cam - Press,Shaun [C63]</b><br />Belconnen Cup, 24.05.2022 <s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/the-half-forgotten-dreams-of-my-youth.html",
+         "pubDate" : "Tue, 24 May 2022 12:52:00 +0000",
+         "title" : "The half forgotten dreams of my youth"
+      },
+      {
+         "description" : "The final day of Superbet Rapid &#38; Blitz Poland was filled with a significant amount of excitement in the history of The Grand Chess Tour. Going to the final round of the blitz games, four players had a chance to win or tie for first place for this event. In the end, it was the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-wins-grand-chess-tour-poland-2022/",
+         "pubDate" : "Tue, 24 May 2022 12:46:31 +0000",
+         "title" : "Jan-Krzysztof Duda wins Grand Chess Tour Poland 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1784",
+         "pubDate" : "Tue, 24 May 2022 12:35:56 +0000",
+         "title" : "Batsuren and Enkhtuul win Mongolian Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1783",
+         "pubDate" : "Tue, 24 May 2022 12:22:54 +0000",
+         "title" : "Jan-Krzysztof Duda wins Superbet Rapid & Blitz"
+      },
+      {
+         "description" : "The Queens Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on June 5th 2022. Female players from Africa, Asia, Europe...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/queens-online-chess-festival-2022/",
+         "pubDate" : "Tue, 24 May 2022 11:40:21 +0000",
+         "title" : "Queens Online Chess Festival 2022"
+      },
+      {
          "description" : "Anish Giri continued to cruise through the Chessable Masters as he eased past Aryan Tari 2.5:0.5 in the quarterfinals. Magnus Carlsen achieved the same scoreline, but admitted what he did after his 1.f4 in the 3rd game was \"silly\" and could have let David Anton back into the match. Ding Liren (vs. Shakhriyar Mamedyarov) and Praggnanandhaa (vs. Wei Yi) both powered to a 2:0 lead, but then lost Game 3 before drawing Game 4, with Praggnanandhaa surviving some nail-biting moments. We've now got Carlsen-Ding and Giri-Pragg in the semi-finals.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -48,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-quarterfinals",
          "pubDate" : "Tue, 24 May 2022 02:01:00 -0700",
          "title" : "Carlsen-Ding, Giri-Pragg In Semifinals: Chessable Masters, Day 5"
-      },
-      {
-         "description" : "Following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. The ECU Presidential Candidate Zurab Azmaiparashvili published a presentation of his ticket, program, and detailed information. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/europe-2026-platform/",
-         "pubDate" : "Tue, 24 May 2022 08:35:54 +0000",
-         "title" : "EUROPE 2026 #Platform"
       },
       {
          "description" : "Stalemate motifs often play a role in endgames. In the diagrammed position it is White to move. What would you do?",
@@ -120,14 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jan-krzysztof-duda-crowned-rapid-blitz-king-day-5",
          "pubDate" : "Mon, 23 May 2022 16:56:49 +0000",
          "title" : "Jan-Krzysztof Duda Crowned as Rapid & Blitz King! | Day 5"
-      },
-      {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Mon, 23 May 2022 17:55:00 +0100",
-         "title" : "Chessable Masters QF: Live"
       },
       {
          "description" : "In his \"Power Play Show\" Daniel King takes a look at the book \"From Ukraine With Love For Chess\", that was just published by \"New in Chess\". The book celebrates the chess of notable Ukrainian players from the past and present, and all profits will go to charities in Ukraine. To quote Daniel: \"A worthy project and a superb book with tremendous material.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -322,14 +426,6 @@ news_feed (
          "title" : "Mr. Sheripov announces his candidacy for FIDE President"
       },
       {
-         "description" : "The&#160;World Chess Championship Match 2023 between the reigning World Champion Magnus Carlsen and the Winner of Candidates Chess Tournament 2022&#160;will take place in early 2023. In a short video below it was seen how Magnus and Jorden discussed the new ideas that could possibly be used in the World Championship games. (scroll down for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/behind-the-scenes-carlsen-and-his-team-prepare-for-the-world-championship-match-tweetoftheday/",
-         "pubDate" : "Sun, 22 May 2022 17:05:19 +0000",
-         "title" : "Behind the scenes - Carlsen and his team prepare for the World Championship Match #TweetOftheDay"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The players express their goals and expectations going into the first Grand Chess Tour event in Poland. 2022.05.18<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-player-expectations\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Jfm2SI2U2iA.jpg?itok=x8N1Ug1o\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -344,30 +440,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-fabiano-caruana-interview-day-4",
          "pubDate" : "Sun, 22 May 2022 16:56:46 +0000",
          "title" : "2022 Superbet Rapid & Blitz Poland: Fabiano Caruana Interview | Day 4"
-      },
-      {
-         "description" : "The 13th KIIT International Chess Festival 2022 takes place from 22nd to 29th May 2022 at KIIT University, Bhubaneswar, Odisha, India. The event is played in 3 categories: A, B (U1900) and C (U1600), with more than 700 participants and the total prize fund of&#xA0;&#x20B9;2500000 (~30.000 euros). The A category attracted 175 entries who will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/13th-kiit-chess-festival/",
-         "pubDate" : "Sun, 22 May 2022 16:20:11 +0000",
-         "title" : "13th KIIT Chess Festival"
-      },
-      {
-         "description" : "The Czech National Chess Championship 2022 took place from 14-22 May 2022 in Usti nad Labem. The best rated Czech player, GM David Navara, won the tournament to become Czech National Chess Champion for the 11th time in his career. Read more: Czech Women&#x2019;s Chess Championship 2022 LIVE Navara scored 7/9 points to be the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/david-navara-wins-his-11th-czech-chess-champion-title/",
-         "pubDate" : "Sun, 22 May 2022 15:31:52 +0000",
-         "title" : "David Navara wins his 11th Czech Chess Champion title"
-      },
-      {
-         "description" : "The Czech Women's Chess Championship 2022 kicked off in Jaromerice nad Rokytnou, taking place from 21-29 May. Ten players compete in 9 rounds (round robin system) for the National Champion title. The battlefield is led by WGM Kristyna Petrova, WGM Karolina Pilsova and WIM Natasa Richterova. (starting rank list of players can be found below)Read []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/czech-womens-chess-championship-2022-live/",
-         "pubDate" : "Sun, 22 May 2022 15:03:29 +0000",
-         "title" : "Czech Women's Chess Championship 2022 LIVE"
       },
       {
          "description" : "Scoring 3.5/4 on Saturday, GM Anish Giri is the new leader at the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Second-ranked GM Magnus Carlsen tried the remarkable 1.h4 and drew his game with&#38;nbsp;GM Wei Yi, who is now in third positio...",
@@ -863,7 +935,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championships-2022/",
          "pubDate" : "Thu, 19 May 2022 05:28:29 +0000",
-         "title" : "English and English Women's Championships underway &hellip;"
+         "title" : "English and English Women's Championships - results"
       },
       {
          "description" : " This week's guest on the Master Chess Web Show was GM Keith Arkell. In one of the most illuminating shows yet, Keith explained much about his view of strategy and gave insights into the life of a chess professional: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-14/\">Master Chess Web Show (14)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1946,14 +2018,6 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Championships 2023 - Call for bids"
       },
       {
-         "description" : "The Mitropa Cup for teams ended on Sunday with a victory for the French team in both the open and the women's events (photo: the French open team). In the open, Slovakia and Hungary finished second and third respectively, much like among the women. The tournament took place in the town of Corte on the French Mediterranean island of Corsica. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-double-gold-france",
-         "pubDate" : "Mon, 09 May 2022 14:05:00 +0100",
-         "title" : "Mitropa Cup: Double gold for France"
-      },
-      {
          "description" : "South Eastern Railway Sports Association has published recruitment of Sports person against Talent Scouting Sports Quota 2022-23 . The detailed advertisement is given in the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2106,14 +2170,6 @@ news_feed (
          "title" : "Fields of force: Marcel Duchamp and chess"
       },
       {
-         "description" : " The chess community on the African continent is buzzing at the news of Enyonam Sewa Noël Fumey announcing his candidacy for FIDE President. According to the FIDE press release, Fumey notified current FIDE President Arkady Dvorkovich of his intentions. There was also this plea of inclusivity: \"FIDE machine is working effectively, but with my team, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/\">Togo's Fumey will stand for FIDE President</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/06/enynonam-fumey-fide/",
-         "pubDate" : "Sat, 07 May 2022 00:53:08 +0000",
-         "title" : "Togo's Fumey will stand for FIDE President"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2210,14 +2266,6 @@ news_feed (
          "title" : "Sanchez Alvarez and Vasquez Jaen win Panamanian championship"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1733",
-         "pubDate" : "Thu, 05 May 2022 18:51:31 +0000",
-         "title" : "FIDE delegation meets representatives of Asian federations in Bangkok"
-      },
-      {
          "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2232,14 +2280,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-seniors-championships/#new_tab",
          "pubDate" : "Thu, 05 May 2022 10:59:41 +0000",
          "title" : "Chessable English Seniors Championships - RESULTS"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1732",
-         "pubDate" : "Wed, 04 May 2022 20:03:23 +0000",
-         "title" : "FIDE EDU Upcoming Courses for Lecturers and Teachers"
       },
       {
          "description" : " At the moment I am in Bangkok, attending a planning and development meeting for Asian chess federations (wearing both my PNG and Oceania hats). One topic of discussion is finding volunteers to implement programs that are usually required by developing federations (eg coaching and tournament organisation). For developed countries (both chess and economically) finding volunteers is hard, but aided by the large population of funded retirees. But for poorer countries this pool of resources is almost non-existent. So one suggestion is that each developing federation receives funding for a program officer, whose job it is is to implement these programs. The ultimate goal is to create enough chess",
@@ -2258,14 +2298,6 @@ news_feed (
          "title" : "GM Anish Giri: \"My weakness is that I can't lie\""
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1731",
-         "pubDate" : "Wed, 04 May 2022 14:22:42 +0000",
-         "title" : "Canada stages Zonal Tournaments at Easter"
-      },
-      {
          "description" : " In this week's show there was no guest, just myself and Andrew Martin showing some games with interesting openings. The first one has Jim Plaskett wielding the Benko Gambit, the second is the surprising 6.h4 against the Najdorf and the third is an Evans Gambit, with Hikaru Nakamura showing how to play the Black side: <a href=\"https://chessimprover.com/master-chess-web-show-12/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (12)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-12/\">Master Chess Web Show (12)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2280,14 +2312,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/2022-superbet-chess-classic-romania/",
          "pubDate" : "Wed, 04 May 2022 07:22:54 +0000",
          "title" : "2022 Superbet Chess Classic Kicks Off in Romania"
-      },
-      {
-         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG\" data-image-dimensions=\"800x1067\" data-image-focal-point=\"0.5,0.5\" alt=\"2019-Kirill-Shevchenko.JPG\" data-load=\"false\" data-image-id=\"627120da493d026d741d0a49\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581147171-JYO9BCYLIX376F95FTWR/2019-Kirill-Shevchenko.JPG?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1651581160081-8OCRX2I6OKJ16CAV3R32/me-norwaychess-dsc06056-emelianova-removebg+%281%29",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/3/ep-277-gm-kirill-shevchenko-and-wfm-maria-emelianova-a-ukrainian-gm-and-a-russian-chess-streamer-on-the-impact-of-the-russian-ukrainian-war-on-their-lives-and-its-impact-on-the-chess-world",
-         "pubDate" : "Tue, 03 May 2022 12:48:41 +0000",
-         "title" : "EP 277-GM Kirill Shevchenko and WFM Maria Emelianova, a Ukrainian GM and a Russian Chess Streamer, on How the Russian-Ukrainian War Impacts their lives, their Careers and the Chess World"
       }
    ]
 }
