@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Stalemate motifs often play a role in endgames. In the diagrammed position it is White to move. What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-desperado-rook-2",
+         "pubDate" : "Tue, 24 May 2022 09:00:00 +0100",
+         "title" : "The desperado rook"
+      },
+      {
+         "description" : "The 20th edition of the European Union Youth Chess Championship U8-U14 will take place from 21st 30th August 2022 in Prague, Hotel STEP. The event is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/",
+         "pubDate" : "Tue, 24 May 2022 05:20:10 +0000",
+         "title" : "20th European Union Youth Chess Championship U8-U14"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91756992.cms\" />The 16-year-old Praggnanandhaa will take on Anish Giri (the Netherlands) in the semifinals. World No. 1 Magnus Carlsen will take on China's Ding Liren in the other semifinal clash.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-sails-into-semifinals-of-chessable-masters/articleshow/91756992.cms",
+         "pubDate" : "Tue, 24 May 2022 04:25:20 +0000",
+         "title" : "India's Praggnanandhaa sails into semis of Chessable Masters"
+      },
+      {
          "description" : "Jan-Krzysztof Duda won a last-round thriller to end the Superbet Rapid &amp; Blitz just half a point ahead of Levon Aronian and Vishy Anand. The Polish no. 1 said it had \"special value\" to win on his home turf, and was the most consistent player across both the rapid and blitz. Vishy faded in blitz but still almost tied for first after winning his last two games, while Fabiano Caruana (+10!) and Levon Aronian (an unbeaten +9) had amazing blitz performances, with Levon set to be the blitz no. 1 on the June FIDE rating list.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1946,14 +1970,6 @@ news_feed (
          "title" : "FIDE Candidates 2022: tiebreaker play-off format"
       },
       {
-         "description" : "The traditional TePe Sigeman & Co tournament took place on May 3-9 as an 8-player single round-robin event. An exciting mix of veterans and rising stars made for an enjoyable tournament, as defending champion Jorden van Foreest was joined by the likes of Michael Adams, Alexei Shirov, Arjun Erigaisi and Hans Niemann. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-live",
-         "pubDate" : "Mon, 09 May 2022 08:45:00 +0100",
-         "title" : "TePe Sigeman & Co - Games and results"
-      },
-      {
          "description" : "Dear Chess Friends, The following valid nominations have been received within the deadline of the 6th May 2022, for the ECU Board elections 2022. . A Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/circular-letter-no-2-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2194,28 +2210,12 @@ news_feed (
          "title" : "FIDE delegation meets representatives of Asian federations in Bangkok"
       },
       {
-         "description" : "The European Youth Chess Championship 2022 will take place from 5th November (arrival day) 15th November (departure day) in Antalya, Turkey. The event will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each national federation, which is a member of the European Chess Union, can register one&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2022-official-invitation/",
-         "pubDate" : "Thu, 05 May 2022 14:33:32 +0000",
-         "title" : "European Youth Chess Championship 2022 - Official invitation"
-      },
-      {
          "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/photo-of-the-day-kasparov-courtside/",
          "pubDate" : "Thu, 05 May 2022 11:22:59 +0000",
          "title" : "Photo of the Day: Kasparov Courtside"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91345502.cms\" />Five-time world champion Viswanathan Anand and Boris Gelfand will work in tandem to guide the Indian chess players during the team's coaching camp, beginning May 7, for the 44th Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anand-gelfand-to-work-with-indian-players-ahead-of-chess-olympiad/articleshow/91345502.cms",
-         "pubDate" : "Thu, 05 May 2022 11:06:45 +0000",
-         "title" : "Anand, Gelfand to work with Indian players ahead of Chess Olympiad"
       },
       {
          "description" : "",
