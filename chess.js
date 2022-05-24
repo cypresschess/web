@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Friday, Russia&#39;s Ministry of Justice added GM Garry Kasparov to the list of individuals acting as &#34;foreign agents&#34; for receiving donations or funding from outside Russia and carrying out political activities. For Kasparov, who is living abroa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kasparov-added-to-russian-foreign-agents-list",
+         "pubDate" : "Tue, 24 May 2022 12:16:00 -0700",
+         "title" : "Kasparov Added To Russian 'Foreign Agents' List"
+      },
+      {
+         "description" : "The Mongolian Open and Women's Championships 2022 took place from May 12-23, 2022, in Chinggis, Khentii. Both events were played as 12-player round-robin tournaments with classical time control. The second-rated participant in the Open section, 18-year-old grandmaster Dambasuren Batsuren won the event as the only unbeaten player of the event, scoring 8.5/11 points. Dambasuren turned []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mongolia-crowns-national-chess-champions/",
+         "pubDate" : "Tue, 24 May 2022 18:31:59 +0000",
+         "title" : "Mongolia crowns National Chess Champions and announces Teams for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1786",
+         "pubDate" : "Tue, 24 May 2022 18:19:01 +0000",
+         "title" : "test"
+      },
+      {
+         "description" : "Magnus Carlsen will return to Chennai, the city where he was first crowned World Champion in 2013, to be part of the 44th Chess Olympiad from July 28 to August 10. The 31-year-old will make his first appearance in a team event for Norway in six years.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-heads-norwegian-team-in-chennai-olympiad",
+         "pubDate" : "Tue, 24 May 2022 17:56:17 +0000",
+         "title" : "Carlsen heads Norwegian team in Chennai Olympiad"
+      },
+      {
+         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart For the past couple of months at the club we have been solving puzzles where the position of certain pieces was the difference maker. This is <a href=\"https://chessimprover.com/students-analysis-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-7/\">Students Analysis (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/students-analysis-7/",
+         "pubDate" : "Tue, 24 May 2022 16:59:13 +0000",
+         "title" : "Students Analysis (7)"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Tue, 24 May 2022 17:55:00 +0100",
+         "title" : "Chessable Masters SF: Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With 85% of the votes <strong>French Chess Federation</strong> <a href=\"http://echecs.asso.fr/Actu.aspx?Ref=13968\">was accepted</a> as a new member by the <strong>French Olympic Committee</strong>. This (usually) paves the way to more sport-related subsidies. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/french-federation-joins-olympic/",
+         "pubDate" : "Tue, 24 May 2022 17:05:58 +0100",
+         "title" : "French federation joins Olympic Committee"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91772225.cms\" />The Superbet Rapid and Blitz event, part of the Grand Chess Tour, which concluded in Warsaw on Monday saw Viswanathan Anand in splendid form. Anand won the rapid portion and eventually shared the second spot with Levon Aronian while Jan-Krzysztof Duda clinched the overall tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-hopes-to-make-a-difference-as-an-administrator/articleshow/91772225.cms",
+         "pubDate" : "Tue, 24 May 2022 15:59:43 +0000",
+         "title" : "Viswanathan Anand hopes to make a difference as an administrator"
+      },
+      {
          "description" : "The General Assembly of the French Olympic and Athletic Committee brought the decision on May 23rd to accept the membership application of the French Chess Federation. The French Olympic Committee General Assembly was held in the presence of all the member federations, the president, Ms. Brigitte Henriques, and the Minister of Sports and the Olympic []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -40,6 +104,14 @@ news_feed (
          "link" : "https://www.chessdom.com/govhar-beydullayeva-wins-azerbaijan-womens-chess-championship-2022/",
          "pubDate" : "Tue, 24 May 2022 14:57:17 +0000",
          "title" : "Govhar Beydullayeva wins Azerbaijan Women's Chess Championship 2022"
+      },
+      {
+         "description" : "On May 19,&#xA0;Inal Sheripov&#xA0;(Belgium) announced his intention to run for FIDE President. His ticket has already been officially submitted to the FIDE office, with supporting letters from the federations of Ukraine, Zambia, Sierra-Leone, Barbados, and Timor Leste. The ticket includes Lewis Ncube (Zambia), current President of the African Chess Confederation, as a Candidate for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/inal-sheripov-announces-his-candidacy-for-fide-president/",
+         "pubDate" : "Tue, 24 May 2022 14:46:00 +0000",
+         "title" : "Inal Sheripov announces his candidacy for FIDE President"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg\" data-image-dimensions=\"1750x693\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"628cedd60bce435664933b98\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are re-joined by the popular and amusing <a href=\"https://www.twitch.tv/gmbenjaminfinegold\" target=\"_blank\">Twitch streamer</a>, <a href=\"https://www.",
@@ -154,7 +226,7 @@ news_feed (
          "title" : "Duda is the 2022 Superbet Rapid & Blitz Poland King"
       },
       {
-         "description" : "Chess.com&#39;s very own IM Danny Rensch was the winner by the slightest of margins in the 2022 IM Not A GM Speed Chess Championship on Monday, needing tiebreaks and an armageddon game to claim a 13.5-12.5 victory over IM Justus Williams in their roun...",
+         "description" : "Chess.com&#39;s very own IM Danny Rensch was the winner by the slightest of margins in the 2022 IM Not A GM Speed Chess Championship on Monday, needing tiebreaks and an armageddon game to claim a 14.5-13.5 victory over IM Justus Williams in their roun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rensch-williams",
@@ -368,22 +440,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessable-masters-4-giri-wins-prelims-after-wild-final-day",
          "pubDate" : "Sun, 22 May 2022 22:52:35 +0000",
          "title" : "Chessable Masters 4: Giri wins Prelims after wild final day"
-      },
-      {
-         "description" : "The all-star field in the&#160;Chessable&#160;Masters was cut in half today as a nervy climax to the $150,000 event&#x2019;s prelim stage saw eight go through to the knockout. Anish Giri finished top of the leaderboard on 29 points and $7,250 earned, pipping World Champion and long-time Meltwater Champions Chess Tour rival Magnus Carlsen.Read more: Behind the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-masters-field-cut-in-half-as-the-prelims-stage-concluded-today/",
-         "pubDate" : "Sun, 22 May 2022 22:07:42 +0000",
-         "title" : "Chessable Masters field cut in half as the Prelims stage concluded today"
-      },
-      {
-         "description" : "The first day of the Blitz portion of the Superbet Rapid &#38; Blitz Poland saw a drastic shift in the dynamic of the event. While former World Champion GM Vishy Anand maintained his lead and even extended it to 1.5 points, It was GM Fabiano Caruana and GM Levon Aronian who stole the show today. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-and-aronian-shine-at-the-blitz-stage-of-gct-poland-2022/",
-         "pubDate" : "Sun, 22 May 2022 21:43:17 +0000",
-         "title" : "Caruana and Aronian shine at the Blitz stage of GCT Poland 2022"
       },
       {
          "description" : "",
@@ -1234,14 +1290,6 @@ news_feed (
          "title" : "Ding Liren Will Play In 2022 Candidates"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Eight million people have seen, and more than 176,000 liked <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:6929143816482406400/\">a post</a> by 16-year-old French IM <strong>Elliot Papadiamandis</strong> looking for a sponsor on the former-networking-turned-into-self-marketing-site <strong>LinkedIn</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/teenage-im-sponsor-search-viral-on/",
-         "pubDate" : "Mon, 16 May 2022 14:42:56 +0100",
-         "title" : "Teenage IM sponsor search viral on LinkedIn"
-      },
-      {
          "description" : " In the lead up to his match against Bobby Fischer, Mark Taimanov played a training match against a couple of Soviet GM's. To make the match harder for Tamainov, his opponents were allowed to consult with books (no engines in those days), or move the pieces on the board while analysing (they had a separate board and room for this). While Taimanov didn't win the training matches he felt it helped him, that was until he lost 6-0. So my question is - If you add either the ability to reference books, or be allowed to move pieces while analysing, how much stronger would you be? 100 points, 200 points or more ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1474,14 +1522,6 @@ news_feed (
          "title" : "Aronian's Great Escape: 2022 Superbet Chess Classic Romania, Day 8"
       },
       {
-         "description" : "Levon Aronian admitted \"I'm toast!\" about his position against Ian Nepomniachtchi in the penultimate round of the Superbet Chess Classic, but, as against Alireza Firouzja, he went on to pull off a miraculous escape. That kept him level with co-leader Wesley So going into the final round, after Wesley refused to let Alireza have any fun in the King's Indian Defence. Leinier Dominguez grabbed the day's only win, outplaying Shakhriyar Mamedyarov from what seemed a dry position.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/superbet-chess-classic-8-levon-does-it-again",
-         "pubDate" : "Sat, 14 May 2022 10:05:00 +0000",
-         "title" : "Superbet Chess Classic 8: Levon does it again!"
-      },
-      {
          "description" : "Four French champions will gather at Blitz Society (pictured), the hip new chess meeting point in the heart of Paris, for a rapid match against four champions from Ukraine. The match will take place on Saturday, May 14, starting at 17.30 CEST. Donations for Ukrainian relief efforts are being collected by UNICEF!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1624,14 +1664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-515-so-mamedyarov",
          "pubDate" : "Fri, 13 May 2022 14:00:00 +0100",
          "title" : "Game of the Week #515: Wesley So vs Shakhriyar Mamedyarov"
-      },
-      {
-         "description" : "GMs Alireza Firouzja and Shakhriyar Mamedyarov both won their first games in round seven of the 2022 Superbet Chess Classic Romania. The third winner was&#38;nbsp;GM Maxime Vachier-Lagrave, who was gifted a full point as his opponent blundered. In a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-7",
-         "pubDate" : "Fri, 13 May 2022 05:06:00 -0700",
-         "title" : "Wins For Firouzja, Mamedyarov, Vachier-Lagrave: 2022 Superbet Chess Classic Romania, Day 7"
       },
       {
          "description" : "",
@@ -1994,14 +2026,6 @@ news_feed (
          "title" : "Indian GM Arjun Erigaisi finishes second in Tepe Sigeman tourney"
       },
       {
-         "description" : "In his Endgame Magic Show #193 Karsten M&uuml;ller is joined by Arne Kaehler to explore endgames played at the latest round of the Bundesliga, including one which saw Nihal Sarin demonstrating great technique to take down Shakhriyar Mamedyarov. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-show-193-arne-kaehler",
-         "pubDate" : "Mon, 09 May 2022 17:25:00 +0100",
-         "title" : "Endgame Magic Show #193 with Arne Kaehler"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2218,14 +2242,6 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91374202.cms\" />India's six-year-old chess player Ashwath Kaushik has made history by winning gold in the Open Under-8 category in the World Cadets and Youth Championships 2022 for Rapid and Blitz in Rhodes, Greece from May 1-3.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/six-year-old-ashwath-kaushik-clinches-under-8-world-cadets-chess-gold/articleshow/91374202.cms",
-         "pubDate" : "Fri, 06 May 2022 11:00:34 +0000",
-         "title" : "Six-year-old Ashwath Kaushik clinches Under-8 World Cadets chess gold"
-      },
-      {
          "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on&#160;June 05, 2022. The event organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess Confederation, the European Chess Union, and the Confederation of Chess for Americas. Female players from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-online-chess-festival-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2258,14 +2274,6 @@ news_feed (
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 1 Recap"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1734",
-         "pubDate" : "Thu, 05 May 2022 20:28:44 +0000",
-         "title" : "Sanchez Alvarez and Vasquez Jaen win Panamanian championship"
-      },
-      {
          "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2296,14 +2304,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gm-anish-giri-my-weakness-is-that-i-cant-lie/",
          "pubDate" : "Wed, 04 May 2022 14:49:49 +0000",
          "title" : "GM Anish Giri: \"My weakness is that I can't lie\""
-      },
-      {
-         "description" : " In this week's show there was no guest, just myself and Andrew Martin showing some games with interesting openings. The first one has Jim Plaskett wielding the Benko Gambit, the second is the surprising 6.h4 against the Najdorf and the third is an Evans Gambit, with Hikaru Nakamura showing how to play the Black side: <a href=\"https://chessimprover.com/master-chess-web-show-12/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (12)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-12/\">Master Chess Web Show (12)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-12/",
-         "pubDate" : "Wed, 04 May 2022 12:43:52 +0000",
-         "title" : "Master Chess Web Show (12)"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://grandchesstour.org/\">2022 Grand Chess Tour</a> kicks off on May 5th with the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">2022 Superbet Chess Classic Romania,</a> in Bucharest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/871848.719daad2.5000x5000o.666537263dc8.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Wijk aan Zee. Photo: Jurriaan Hoefsmit/Tata Steel Chess</div> </div> The tournament lasts until May 14th and features a 10-player round-robin battle for a total of $350,000 in prize money. Among the players are the US Champion and <a hr",
