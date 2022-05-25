@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Slovenian National Women's Team Chess Championship 2022 took place over two weekends in May, being played from 13-15 and 21-22 May at the Grand Hotel in Rogaska Slatina. The second top seed according to the average rating of players team of Tajfun Ljubljana Chess Club clinched gold with the perfect score of 10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tajfun-ljubljana-team-wins-slovenian-teams-womens-championship-2022/",
+         "pubDate" : "Wed, 25 May 2022 14:57:56 +0000",
+         "title" : "Tajfun Ljubljana Team wins Slovenian Teams Women's Championship 2022"
+      },
+      {
+         "description" : "The Ontario Open Chess Tournament&#160;took place from May 21 through May 23, at the beautiful&#160;West Toronto Masonic Temple. The event featured 4 tournaments: U2200, U1800, U1400 and the main tournament Ontario Crown Open 2022. The events gathered more than 170 players who fought for the total prize fund of 8.500$. All information about the events []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-nikolay-noritsyn-wins-ontario-open-2022/",
+         "pubDate" : "Wed, 25 May 2022 14:28:32 +0000",
+         "title" : "IM Nikolay Noritsyn wins Ontario Open 2022"
+      },
+      {
+         "description" : "The 20th edition of the European Union Youth Chess Championship U8-U14 will take place from 21st &#x2013; 30th August 2022 in Prague, Hotel STEP. The event is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/20th-european-union-youth-chess-championship-u8-u14/",
+         "pubDate" : "Wed, 25 May 2022 13:53:38 +0000",
+         "title" : "20th European Union Youth Chess Championship U8-U14"
+      },
+      {
+         "description" : "Anatoly Karpov, born 23 May, 1951, is one of the strongest players in the history of chess. He was World Champion from 1975 to 1985, finished first in 160 strong tournaments, and was the world's number one for 102 months. However, he seemed to win many of his games without much effort, without striking moves or crushing attacks. But he had a secret weapon - which Jan Markos analyses in more detail. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-10-karpov-s-secret-weapon",
+         "pubDate" : "Wed, 25 May 2022 14:40:45 +0100",
+         "title" : "The Winning Academy 10: Karpov's Secret Weapon"
+      },
+      {
+         "description" : "A staple since 2019, the SuperUnited Croatia Grand Chess Tour signals the third tournament and midway point of the Grand Chess Tour. Continuing in&#xA0;the thrilling&#xA0;fashion of rapid and blitz format, exciting displays of chess play and blunders under time pressure will certainly&#xA0;keep fans entertained. The event will be held in Zagreb, Croatia at the Westin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-headlines-the-field-of-grand-chess-tour-croatia-2022/",
+         "pubDate" : "Wed, 25 May 2022 13:15:25 +0000",
+         "title" : "Magnus Carlsen headlines the field of Grand Chess Tour Croatia 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91792371.cms\" />Grandmaster R Praggnanandhaa is making it a habit of beating the top players in the circuit. Days after defeating world champion Magnus Carlsen during a preliminary stage clash of the ongoing Chessable Masters, an online tournament, Praggu beat Anish Giri to make the final of the competition on Tuesday night. The Anish-Praggu match ended 2-2 after the 4-game rapid match and the 16-year-old won the tie-breaker 1.5-0.5 to book his place in the summit clash. Praggu faces World no. 2 Ding Liren who defeated Magnus 2.5-1.5 in the other semifinal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/making-the-chessable-masters-final-was-unexpected-praggnanandhaa/articleshow/91792371.cms",
+         "pubDate" : "Wed, 25 May 2022 12:58:02 +0000",
+         "title" : "Making Chessable Masters final was unexpected: Praggnanandhaa"
+      },
+      {
          "description" : "An agreement has been signed between the Norwegian chess club Offerspill and Uppsala Chess+ Academy from Uppsala, Sweden. This agreement means that the organizations are linked closer to each other, and that they will help with each other&#x2019;s development through training, competition, and other areas of cooperation.&#xA0; The most concrete part of the collaboration is []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -66,11 +114,11 @@ news_feed (
          "title" : "FIDE World Championship Match 2023 Qualification Rules"
       },
       {
-         "description" : "The two-day final of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters will be played between GMs Ding Liren and&#38;nbsp;Praggnanandhaa R. Both scored upset victories in the semfinals, with Ding ousting World Champion GM Magnus Carlsen and ...",
+         "description" : "The two-day final of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters will be played between GMs Ding Liren and&#38;nbsp;Praggnanandhaa R. Both scored upset victories in the semifinals. Ding ousted World Champion GM Magnus Carlsen, and Prag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-semifinals",
-         "pubDate" : "Wed, 25 May 2022 00:31:13 -0700",
+         "pubDate" : "Wed, 25 May 2022 00:31:00 -0700",
          "title" : "Ding, Praggnanandhaa Reach Final: Chessable Masters, Day 6"
       },
       {
@@ -178,44 +226,12 @@ news_feed (
          "title" : "French Federation becomes a member of the National Olympic and Sports Committee"
       },
       {
-         "description" : "Following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. The ECU Presidential Candidate Zurab Azmaiparashvili published a presentation of his ticket, program, and detailed information. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/europe-2026-platform/",
-         "pubDate" : "Tue, 24 May 2022 14:58:00 +0000",
-         "title" : "EUROPE 2026 #Platform"
-      },
-      {
-         "description" : "The Azerbaijan Women&#x2019;s Chess Championship 2022&#160;took place in Baku from 16 to 23 May. Eight participants compete in a round-robin tournament of 7 rounds fighting for the trophy of the&#160;National Championship&#160;and the total prize fund of 11.400 AZN (6.500 euros).&#160; 19-year-old WIM Govhar Beydullayeva triumphed the event, scoring 5/7 points to be the sole Winner []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/govhar-beydullayeva-wins-azerbaijan-womens-chess-championship-2022/",
-         "pubDate" : "Tue, 24 May 2022 14:57:17 +0000",
-         "title" : "Govhar Beydullayeva wins Azerbaijan Women's Chess Championship 2022"
-      },
-      {
-         "description" : "On May 19,&#xA0;Inal Sheripov&#xA0;(Belgium) announced his intention to run for FIDE President. His ticket has already been officially submitted to the FIDE office, with supporting letters from the federations of Ukraine, Zambia, Sierra-Leone, Barbados, and Timor Leste. The ticket includes Lewis Ncube (Zambia), current President of the African Chess Confederation, as a Candidate for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/inal-sheripov-announces-his-candidacy-for-fide-president/",
-         "pubDate" : "Tue, 24 May 2022 14:46:00 +0000",
-         "title" : "Inal Sheripov announces his candidacy for FIDE President"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg\" data-image-dimensions=\"1750x693\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"628cedd60bce435664933b98\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are re-joined by the popular and amusing <a href=\"https://www.twitch.tv/gmbenjaminfinegold\" target=\"_blank\">Twitch streamer</a>, <a href=\"https://www.",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/24/ep-280-gm-ben-finegold-on-the-fide-candidates-recent-declines-in-chess-twitch-viewership-and-why-he-thinks-he-doesnt-play-as-well-as-he-used-to",
          "pubDate" : "Tue, 24 May 2022 14:40:40 +0000",
          "title" : "EP 280- GM Ben Finegold on The FIDE Candidates, Recent Declines in Chess Twitch Viewership, and Why he thinks he Doesn't Play as Well as he Used to. "
-      },
-      {
-         "description" : "The Peruvian Open and Women&#x2019;s National Chess Championships 2022&#160;took place from 17-22 May in Lima.LIVE now: Sharjah Chess Masters 2022 / Slovak Youth Chess Championships 2022 / Czech Women&#x2019;s Chess Championship 2022 Best rated Peruvian grandmaster Jorge Cori claimed the trophy in the Open section, winning the event with 7/9 points. He had the same []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peruvian-chess-champions-2022-crowned-in-lima/",
-         "pubDate" : "Tue, 24 May 2022 14:22:12 +0000",
-         "title" : "Peruvian Chess Champions 2022 crowned in Lima"
       },
       {
          "description" : " The Somali Chess Federation had successfully finalized the Olympiad qualifying chess tournament that was held in Mogadishu between 17/05/2022 to 22/05/2022. The event was organized in a professional manner and 10 chess players had participated in the tournament. CM Ali Farah 1st, FM Omar Abdulrahman 2nd, CM Islam Shiekh 3th, and Mohamed Ahmed 4th, finished The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/24/somalia-finalizes-team-for-2022-olympiad/\">Somalia finalizes team for 2022 Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1055,7 +1071,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championships-2022/",
          "pubDate" : "Thu, 19 May 2022 05:28:29 +0000",
-         "title" : "English and English Women's Championships - results"
+         "title" : "Chessable English and English Women's Championships - results"
       },
       {
          "description" : " This week's guest on the Master Chess Web Show was GM Keith Arkell. In one of the most illuminating shows yet, Keith explained much about his view of strategy and gave insights into the life of a chess professional: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-14/\">Master Chess Web Show (14)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2026,14 +2042,6 @@ news_feed (
          "title" : "Karjakin's prank call"
       },
       {
-         "description" : "On first sight, things look grim for White in the diagrammed position as it is hard to see what he can do against the advance of Black's f-pawn. However, White remembered the rule that pawn endings should be calculated carefully and found a way to get a draw. What did he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/poisoned-pawn",
-         "pubDate" : "Tue, 10 May 2022 09:00:00 +0100",
-         "title" : "Poisoned Pawn"
-      },
-      {
          "description" : " From the back cover: Senior International Master Mike Read competed 115 times for the England and Great Britain teams at correspondence chess, including playing on board one for England in the 13th Olympiad. In this, his fourth book, he aims to instruct his readers by dissecting 110 games played by local players at all levels <a href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">110 Instructive Chess Annotations</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\">110 Instructive Chess Annota",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
          "pubDate" : "Sun, 08 May 2022 12:44:50 +0000",
          "title" : "Brewington Hardaway wins K8!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91419608.cms\" />On the occasion of Mother's Day, five-time World Chess Champion, Viswanathan Anand remembered his late mother, Susheela Viswanathan by sharing an anecdote from his first Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mothers-day-viswanathan-anand-remembers-his-late-mother-shares-anecdote-from-his-first-olympiad/articleshow/91419608.cms",
-         "pubDate" : "Sun, 08 May 2022 12:37:25 +0000",
-         "title" : "Mother's Day: Anand remembers his late mother, shares anecdote from his first Olympiad"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91418291.cms\" />Grandmaster D Gukesh is on a roll. The 15-year-old won the 1st Chessable Sunway Formentera Open in Spain on Sunday. It was a hat-trick of titles for Gukesh as he had earlier won in La Roda tournament and followed it by pocketing the Menorca Open.",
@@ -2287,7 +2287,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-seniors-championships/#new_tab",
          "pubDate" : "Thu, 05 May 2022 10:59:41 +0000",
-         "title" : "Chessable English Seniors Championships - RESULTS"
+         "title" : "Chessable English Seniors Championships - results"
       },
       {
          "description" : " At the moment I am in Bangkok, attending a planning and development meeting for Asian chess federations (wearing both my PNG and Oceania hats). One topic of discussion is finding volunteers to implement programs that are usually required by developing federations (eg coaching and tournament organisation). For developed countries (both chess and economically) finding volunteers is hard, but aided by the large population of funded retirees. But for poorer countries this pool of resources is almost non-existent. So one suggestion is that each developing federation receives funding for a program officer, whose job it is is to implement these programs. The ultimate goal is to create enough chess",
@@ -2296,14 +2296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/the-paid-volunteer.html",
          "pubDate" : "Wed, 04 May 2022 16:20:00 +0000",
          "title" : "The paid volunteer"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Anish Giri gave an <a href=\"https://www.youtube.com/watch?v=YPBYJBUulys&ab_channel=WorldChess\">exclusive interview</a> to WGM Dina Belenkaya and talked about his weaknesses, his favorite YouTube channels, his friendship with Vidit Gujrathi; books, politics, food, trash-talking, and his future plans. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/YPBYJBUulys?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The interview started with Dina showing Anish an old photo of him playing on a train! The Dutch GM recognized it and added: \"When I was small I had a friend with whom we would even play on the phone! I think these i",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/gm-anish-giri-my-weakness-is-that-i-cant-lie/",
-         "pubDate" : "Wed, 04 May 2022 14:49:49 +0000",
-         "title" : "GM Anish Giri: \"My weakness is that I can't lie\""
       }
    ]
 }
