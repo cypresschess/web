@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An agreement has been signed between the Norwegian chess club Offerspill and Uppsala Chess+ Academy from Uppsala, Sweden. This agreement means that the organizations are linked closer to each other, and that they will help with each other&#x2019;s development through training, competition, and other areas of cooperation.&#xA0; The most concrete part of the collaboration is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uppsala-chess-academy-and-offerspill-sjakklubb-initiate-a-formal-cooperation/",
+         "pubDate" : "Wed, 25 May 2022 11:23:38 +0000",
+         "title" : "Uppsala Chess+ Academy and Offerspill Sjakklubb initiate a formal cooperation"
+      },
+      {
+         "description" : "16-year-old Praggnanandhaa will play world no. 2 Ding Liren in the Chessable Masters final just hours after he sits school exams at home in Chennai, India. The prodigy played some brilliant chess to overcome heroic resistance from Anish Giri, while Ding Liren called it \"a little unbelievable\" that he finally beat World Champion Magnus Carlsen in an online tour knockout match. An extremely high-level clash featured chances for both players before Ding finally broke through in the 4th game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-6-pragg-ding-in-the-final-as-carlsen-giri-knocked-out",
+         "pubDate" : "Wed, 25 May 2022 11:16:26 +0000",
+         "title" : "Chessable Masters 6: Pragg-Ding in the final as Carlsen & Giri knocked out"
+      },
+      {
+         "description" : " This week's Master Chess Web Show featured another special guest in FIDE Master Tim Wall. Tim told us how he got into chess, describes the chess scene in the North East and how he ended up in Russia as the editor of an English language newspaper: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-15/\">Master Chess Web Show (15)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-15/",
+         "pubDate" : "Wed, 25 May 2022 11:14:06 +0000",
+         "title" : "Master Chess Web Show (15)"
+      },
+      {
+         "description" : "In a time of strife and war, everyone suffers, but few more than children yanked from their homes in a storm of confusion. Thrown into a world of strangers and strange languages is a huge challenge, which is why it is heartwarming to see NBC news report that Afghan refugee children in the US are helped through chess with the help of GM Elshan Moradiabadi.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/young-refugees-learning-chess-in-the-us",
+         "pubDate" : "Wed, 25 May 2022 12:00:00 +0100",
+         "title" : "Young refugees learning chess in the US"
+      },
+      {
+         "description" : "The Candidates Chess 2022 is just around the corner. After a turmoil with Sergey Karjakin's ban, he was substituted by Ding Liren based on rating. Karjakin&#x2019;s case:&#xA0;Karjakin ban by FIDE announced&#xA0;/&#xA0;Karjakin posts comments on the ban, decides not to appeal, but&#xA0;Kremlin supports Karjakin&#xA0;/ Top players comment on Karjakin ban&#xA0;/&#xA0;All stories on Sergey Karjakin here Ding []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2023-rules-of-replacement-approved/",
+         "pubDate" : "Wed, 25 May 2022 10:49:54 +0000",
+         "title" : "FIDE Candidates 2023 - rules of replacement approved"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1788",
          "pubDate" : "Wed, 25 May 2022 09:18:50 +0000",
          "title" : "FIDE Chess.com Women's Speed Chess Championship gets underway"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Uppsala Chess Academy</strong> and <strong>Offerspill Chess Club</strong> Oslo have signed a <a href=\"https://usss.se/wp/wp-content/uploads/2022/05/Press-Release-Uppsala-Chess-Academy-and-Offerspill-Sjakklubb-initiates-formal-cooperation.pdf\">cooperation agreement</a> that includes joint competitions, training camps and <strong>Jesper Hall Bergmark</strong> supervising the training of the Norwegian top players. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nordic-cooperation/",
+         "pubDate" : "Wed, 25 May 2022 10:10:44 +0100",
+         "title" : "Nordic cooperation"
       },
       {
          "description" : "",
@@ -202,14 +250,6 @@ news_feed (
          "title" : "The half forgotten dreams of my youth"
       },
       {
-         "description" : "The final day of Superbet Rapid &#38; Blitz Poland was filled with a significant amount of excitement in the history of The Grand Chess Tour. Going to the final round of the blitz games, four players had a chance to win or tie for first place for this event. In the end, it was the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-wins-grand-chess-tour-poland-2022/",
-         "pubDate" : "Tue, 24 May 2022 12:46:31 +0000",
-         "title" : "Jan-Krzysztof Duda wins Grand Chess Tour Poland 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -320,14 +360,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/duda-wins-superbet-rapid-blitz-in-warsaw",
          "pubDate" : "Mon, 23 May 2022 23:05:18 +0000",
          "title" : "Duda wins Superbet Rapid & Blitz in Warsaw"
-      },
-      {
-         "description" : "An explosive day in the Chessable Masters saw Anish Giri power into the semis to set up a titanic clash with&#xA0;teen sensation Rameshbabu Praggnanandhaa. The red hot Dutchman knocked out Norway&#x2019;s no.2 Aryan Tari with a game to spare as he went 18 unbeaten&#xA0;in the event so far. He will face 16-year-old Pragg, who overcame []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-vs-ding-pragg-vs-giri-chessable-masters-semifinals/",
-         "pubDate" : "Mon, 23 May 2022 21:33:07 +0000",
-         "title" : "Carlsen vs Ding & Pragg vs Giri - Chessable Masters Semifinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91750353.cms\" />Former world champion Viswanathan Anand had a moderate run on the second day of the Blitz section to finish overall joint second in the Superbet Rapid and Blitz Poland chess tournament on Monday.",
@@ -1170,14 +1202,6 @@ news_feed (
          "title" : "The Weekly Show: A clutch victory by Maxime Vachier-Lagrave"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> <a href=\"https://www.europechess.org/category/news/\">brings forward the date of its general assembly and election</a> from 6 August to 23 July. The European federations won't meet in Mamallapuram but in Thessaloniki. The <strong>Asian Chess Federation</strong> also avoids the <strong>Chess Olympiad</strong> for its general assembly and has postponed it to December. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/european-assembly-before-olympiad/",
-         "pubDate" : "Tue, 17 May 2022 20:37:58 +0100",
-         "title" : "European assembly before Olympiad"
-      },
-      {
          "description" : "Wilhelm Steinitz looms as one of the largest figures in chess. Earning the distinction of being the first ever World Champion in 1886, he was a successful competitive player and chess journalist whose theoretical teachings revolutionized chess and laid the foundations of the modern game. He is, arguably, chess' greatest thinker.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1456,14 +1480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1762",
          "pubDate" : "Sun, 15 May 2022 12:38:33 +0000",
          "title" : "Nguyen and Citra win gold medals at the Southeast Asian Games"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave beat Alireza Firouzja, then Wesley So, then Levon Aronian on the final day to complete a remarkable comeback victory in the Superbet Chess Classic. Maxime defeated an over-ambitious Firouzja, while the leaders drew, to reach a 3-way playoff. Though Wesley started brilliantly against Aronian and was a move or two away from wrapping up victory in the 2nd game, MVL triumphed in a chaotic finale before going on to clinch the title against Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mvl-beats-firouzja-so-aronian-to-win-superbet-chess-classic",
-         "pubDate" : "Sun, 15 May 2022 11:21:49 +0000",
-         "title" : "MVL beats Firouzja, So, Aronian to win Superbet Chess Classic"
       },
       {
          "description" : "MPL 34th National Under 8 Open and Girls Chess Championship 2002 organised by Andhra Chess Association under the aegis of All India Chess federation from",
@@ -2026,14 +2042,6 @@ news_feed (
          "title" : "110 Instructive Chess Annotations"
       },
       {
-         "description" : "Less than two weeks after winning the Capablanca Memorial, Hans Niemann claimed outright victory at the TePe Sigeman & Co tournament in Malm&ouml;. Niemann scored 5/7 points to finish a full point ahead of a three-player chasing pack, which consisted of Michael Adams, Nils Grandelius and Arjun Erigaisi. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2022-r7",
-         "pubDate" : "Mon, 09 May 2022 20:30:00 +0100",
-         "title" : "Hans Niemann triumphant at TePe Sigeman & Co"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91450010.cms\" />Indian Grandmaster Arjun Erigaisi secured four points from seven rounds to finish second in the Tepe Sigeman round-robin chess tournament on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1736",
          "pubDate" : "Fri, 06 May 2022 13:03:00 +0000",
          "title" : "Sergey Karjakin's appeal dismissed"
-      },
-      {
-         "description" : " I was going to play out our long running endgame from the last few months this week. However, I decided to discuss some additional middle-game principles instead. The reason for this is because you should have enough information at hand to play last week's position out yourself. At some point, I will play through the <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty/\">A Foundation for Beginners Sixty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.c",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty/",
-         "pubDate" : "Fri, 06 May 2022 12:43:25 +0000",
-         "title" : "A Foundation for Beginners Sixty"
       },
       {
          "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on&#160;June 05, 2022. The event organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess Confederation, the European Chess Union, and the Confederation of Chess for Americas. Female players from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-online-chess-festival-2022/\">Read More &#187;</a></span>",
