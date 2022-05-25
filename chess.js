@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1788",
+         "pubDate" : "Wed, 25 May 2022 09:18:50 +0000",
+         "title" : "FIDE Chess.com Women's Speed Chess Championship gets underway"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1787",
+         "pubDate" : "Wed, 25 May 2022 08:27:43 +0000",
+         "title" : "FIDE World Championship Match 2023 Qualification Rules"
+      },
+      {
+         "description" : "The two-day final of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters will be played between GMs Ding Liren and&#38;nbsp;Praggnanandhaa R. Both scored upset victories in the semfinals, with Ding ousting World Champion GM Magnus Carlsen and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chessable-masters-semifinals",
+         "pubDate" : "Wed, 25 May 2022 00:31:13 -0700",
+         "title" : "Ding, Praggnanandhaa Reach Final: Chessable Masters, Day 6"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91778163.cms\" />R Praggnanandhaa made it to his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old displayed tremendous skillset and tenacity to defeat Anish Giri in the Chessable Masters semifinal.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://www.chessdom.com/mongolia-crowns-national-chess-champions/",
          "pubDate" : "Tue, 24 May 2022 18:31:59 +0000",
          "title" : "Mongolia crowns National Chess Champions and announces Teams for 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1786",
-         "pubDate" : "Tue, 24 May 2022 18:19:01 +0000",
-         "title" : "test"
       },
       {
          "description" : "Magnus Carlsen will return to Chennai, the city where he was first crowned World Champion in 2013, to be part of the 44th Chess Olympiad from July 28 to August 10. The 31-year-old will make his first appearance in a team event for Norway in six years.",
@@ -1554,14 +1570,6 @@ news_feed (
          "title" : "Superbet Chess Classic - Games and standings"
       },
       {
-         "description" : "FM James Canty III and IM Kostya Kavutskiy duked it out over the board on Friday in the third round of 16 match of the IM Not A GM Speed Chess Championship. Pre-match favorite Canty was able to stave off a valiant comeback effort from Kavutskiy in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-canty-beats-kavutskiy",
-         "pubDate" : "Sat, 14 May 2022 01:33:00 -0700",
-         "title" : "Canty Conquers Kavutskiy: 2022 IMSCC, Round Of 16"
-      },
-      {
          "description" : "Just over a year ago I celebrated the 99th birthday of the Russian Grandmaster, world championship candidate and former Soviet champion, Yuri Averbakh. Sadly, having passed his 100th birthday in February, Averbakh finally succumbed to the ravages of time on May 7th (last Saturday). I cannot avoid the suspicion that the complications in Russian life []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/heading-back.html",
          "pubDate" : "Fri, 06 May 2022 05:20:00 +0000",
          "title" : "Heading Back"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1735",
-         "pubDate" : "Thu, 05 May 2022 21:16:59 +0000",
-         "title" : "2022 GCT Superbet Chess Classic Romania: Day 1 Recap"
       },
       {
          "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
