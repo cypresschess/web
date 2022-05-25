@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91778163.cms\" />R Praggnanandhaa made it to his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old displayed tremendous skillset and tenacity to defeat Anish Giri in the Chessable Masters semifinal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-makes-chessable-masters-final/articleshow/91778163.cms",
+         "pubDate" : "Wed, 25 May 2022 02:46:23 +0000",
+         "title" : "Praggnanandhaa makes Chessable Masters final"
+      },
+      {
          "description" : "Rating underdogs Ding Liren and Praggnanandhaa moved on to the finals of the Chessable Masters after knocking out Magnus Carlsen and Anish Giri respectively. After drawing their first three encounters, Ding defeated Carlsen in game 4 to clinch match victory. Meanwhile, Pragg and Giri traded blows to take their match to tiebreaks. The 16-year-old Indian prodigy was stronger in blitz, and thus knocked out his famed opponent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-d-gukesh-cherishes-sunway-formentera-open-win/articleshow/91418291.cms",
          "pubDate" : "Sun, 08 May 2022 11:18:58 +0000",
          "title" : "Grandmaster D Gukesh cherishes Sunway Formentera Open win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91417382.cms\" />Indian Grandmaster D Gukesh on Sunday emerged champion in the 1st Chessable Sunway Formentera Open 2022 chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-sunway-formentera-open-chess-tourney/articleshow/91417382.cms",
-         "pubDate" : "Sun, 08 May 2022 10:28:47 +0000",
-         "title" : "Indian GM Gukesh wins Sunway Formentera Open chess tourney"
       },
       {
          "description" : "Only Grandmaster, who reached 100 years passed away in Moscow. When I was twelve &#160;I was lucky to buy one of the best endgame books! It was Yuri Averbakh three volumes endgame manual. I studied every position from the books! It was his main endgame evergreen work. I could never imagine in that moment ., that after 10&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/\">Read More &#187;</a></span>",
