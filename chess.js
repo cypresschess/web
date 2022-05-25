@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Hi dear readers, as the title suggests, this is another guest article. This time. I have the honor to publish an article written by Dror Allouche AKA Mr.OTG. Dror is a Nextlevelchess reader, chess fan &#38; blogger himself. You can check out his work here. He also has a weekly Newsletter which I enjoy reading. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/start-learning-chess/\">How To Start Learning Chess As An Adult: From 0 To 700 Rating</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/start-learning-chess/",
+         "pubDate" : "Wed, 25 May 2022 17:14:28 +0000",
+         "title" : "How To Start Learning Chess As An Adult: From 0 To 700 Rating"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #517, Merijn van Delft shows how 52-year old former World Champion Vishy Anand won a fine attacking game against Levon Aronian at the Superbet Rapid & Blitz in Warsaw, where Anand surprisingly won the rapid portion of the tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-517-levon-aronian-vs-vishy-anand",
+         "pubDate" : "Wed, 25 May 2022 18:00:00 +0100",
+         "title" : "Game of the Week #517: Levon Aronian vs Vishy Anand"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Wed, 25 May 2022 17:55:00 +0100",
+         "title" : "Chessable Masters Finals: Live"
+      },
+      {
+         "description" : "Titled Tuesday belonged to the Americans on May 24, the early edition won by GM Dariusz Swiercz and the late tournament by GM Hikaru Nakamura. It was Swiercz&#39;s first-ever win in the event and Nakamura&#39;s first since May 3. Nakamura was the only pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/swiercz-nakamura-win-titled-tuesday-may-24-2022",
+         "pubDate" : "Wed, 25 May 2022 09:21:03 -0700",
+         "title" : "Swiercz, Nakamura Win May 24 Titled Tuesday"
+      },
+      {
+         "description" : " <p class=\"lead\">On May 30th the Indian superstar and FIDE Online Arena Ambassador Vidit Gujrathi will play and stream the <a href=\"https://chessarena.com/tournaments/18066\">2nd Open Arena Tournament</a> on Arena, and the winner will receive a premium pocket chess set personally signed by Vidit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-139.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> The <a href=\"https://chessarena.com/tournaments/17311?fbclid=IwAR27RvkM9QeJdUIMrF4PbYen2F1yU23CkOOcG3lTEq0agEL6rnmz5ibpf3Q\">first Open Arena Tournament</a> with GM Vidit Gujrathi attracted 1520 players from 90 countries. The Indian GM not only played but made sure to ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/vidits-open-arena-2/",
+         "pubDate" : "Wed, 25 May 2022 16:07:12 +0000",
+         "title" : "Vidit's 2nd Open Arena Tournament"
+      },
+      {
          "description" : "The Slovenian National Women's Team Chess Championship 2022 took place over two weekends in May, being played from 13-15 and 21-22 May at the Grand Hotel in Rogaska Slatina. The second top seed according to the average rating of players team of Tajfun Ljubljana Chess Club clinched gold with the perfect score of 10 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://www.chessdom.com/im-nikolay-noritsyn-wins-ontario-open-2022/",
          "pubDate" : "Wed, 25 May 2022 14:28:32 +0000",
          "title" : "IM Nikolay Noritsyn wins Ontario Open 2022"
+      },
+      {
+         "description" : "At the recently held Malakoff Open near Paris, Woman International Master Anastasiya Rakhmangulova scored 6.5 points in nine rounds to finish in 11th place. While her performance wasn't extraordinary, the mere participation of the 27-year-old Ukrainian at the annual chess tournament was. She was in Kyiv when the Russian invasion of Ukraine began on February 24. | Photo: Anastasiya Rakhmangulova at the Cappelle-la-Grande tournament 2022",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-chess-is-helping-an-ukrainian-player-to-cope-with-the-war",
+         "pubDate" : "Wed, 25 May 2022 15:00:00 +0100",
+         "title" : "How chess is helping an Ukrainian player to cope with the war"
       },
       {
          "description" : "The 20th edition of the European Union Youth Chess Championship U8-U14 will take place from 21st &#x2013; 30th August 2022 in Prague, Hotel STEP. The event is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in []",
@@ -1578,14 +1626,6 @@ news_feed (
          "title" : "44th Chess Olympiad: AICF, Tamil Nadu government sign MoU"
       },
       {
-         "description" : "The eighth round of the Superbet Chess Classic, which was played on the notorious Friday the 13th, delivered just as much blood as the history annals would have us believe that was spilled on the days with that date. At the end of it there was onl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-8",
-         "pubDate" : "Sat, 14 May 2022 03:42:00 -0700",
-         "title" : "Aronian's Great Escape: 2022 Superbet Chess Classic Romania, Day 8"
-      },
-      {
          "description" : "Four French champions will gather at Blitz Society (pictured), the hip new chess meeting point in the heart of Paris, for a rapid match against four champions from Ukraine. The match will take place on Saturday, May 14, starting at 17.30 CEST. Donations for Ukrainian relief efforts are being collected by UNICEF!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1962,14 +2002,6 @@ news_feed (
          "title" : "Superbet: Caruana bounces back"
       },
       {
-         "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet Chess Classic currently taking place in Romania. He looks at a fine win by Fabiano Caruana over Shakhriyar Mamedyarov. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-a-nice-squeeze-by-caruana",
-         "pubDate" : "Tue, 10 May 2022 19:30:00 +0100",
-         "title" : "The Weekly Show: A nice squeeze by Caruana"
-      },
-      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Last week we saw how a bad opening setup has put White in a lost position. Black obliged but his attack came with hesitation and missed a couple of clear wins. Have another look at the position we stopped at with Black up an exchange. This should also <a href=\"https://chessimprover.com/quick-decisions-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-9/\">Quick Decisions (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2018,28 +2050,12 @@ news_feed (
          "title" : "Blind Faith"
       },
       {
-         "description" : "When White wants to tackle the Sicilian Najdorf Variation - 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 - very directly, 6.Bg5 is a popular choice. After 6...e6 7.f4 the rare 7...b5, the Polugaevsky Variation, leads to sharp and difficult positions. Petra Papp brings the theory of this variation up to date in her article for ChessBase Magazine #207, explaining typical strategies and motifs for both sides.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-very-special-najdorf",
-         "pubDate" : "Tue, 10 May 2022 12:00:00 +0100",
-         "title" : "A very special Najdorf"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1744",
          "pubDate" : "Tue, 10 May 2022 10:21:36 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 5 Recap"
-      },
-      {
-         "description" : "Sergey Karjakin was born in 1990 in Simferopol, the second-largest city in Crimea - Ukrainian territory that was annexed by Russia in 2014. At 12 he became (at the time) the youngest grandmaster in history. In the past months, Karjakin publicly supported the Russian assault on Ukraine, for which he was banned for six months from all FIDE chess competitions. Now he has sought revenge with a deep-fake call to FIDE Director General GM Emil Sutovsky. The British Chess Magazine reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karjakin-s-prank-call",
-         "pubDate" : "Tue, 10 May 2022 10:00:00 +0100",
-         "title" : "Karjakin's prank call"
       },
       {
          "description" : " From the back cover: Senior International Master Mike Read competed 115 times for the England and Great Britain teams at correspondence chess, including playing on board one for England in the 13th Olympiad. In this, his fourth book, he aims to instruct his readers by dissecting 110 games played by local players at all levels <a href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">110 Instructive Chess Annotations</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\">110 Instructive Chess Annota",
@@ -2288,14 +2304,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-seniors-championships/#new_tab",
          "pubDate" : "Thu, 05 May 2022 10:59:41 +0000",
          "title" : "Chessable English Seniors Championships - results"
-      },
-      {
-         "description" : " At the moment I am in Bangkok, attending a planning and development meeting for Asian chess federations (wearing both my PNG and Oceania hats). One topic of discussion is finding volunteers to implement programs that are usually required by developing federations (eg coaching and tournament organisation). For developed countries (both chess and economically) finding volunteers is hard, but aided by the large population of funded retirees. But for poorer countries this pool of resources is almost non-existent. So one suggestion is that each developing federation receives funding for a program officer, whose job it is is to implement these programs. The ultimate goal is to create enough chess",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/the-paid-volunteer.html",
-         "pubDate" : "Wed, 04 May 2022 16:20:00 +0000",
-         "title" : "The paid volunteer"
       }
    ]
 }
