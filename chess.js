@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave recently won the Grand Chess Tour Romania event in Bucharest. In the interview he gave before the tournament he said he enjoys different sports activities when he has time. Two days ago, the French Grandmaster met an American professional&#xA0;basketball&#xA0;player who currently plays for Paris Basketball&#xA0; Kyle Allman Jr. Despite the fact they met []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mvl-meets-kyle-allman-jr-on-the-basketball-court-tweetoftheday/",
+         "pubDate" : "Wed, 25 May 2022 22:44:32 +0000",
+         "title" : "MVL meets Kyle Allman Jr. on the basketball court #TweetOftheDay"
+      },
+      {
+         "description" : "The final of the Chessable Masters started with Ding Liren giving 16-year-old Rameshbabu Praggnanandhaa a tough test just hours after the talented youngster sat a real-life school exam. The Chinese star showed exactly why he&#x2019;s ranked world number 2 with a cool and classy display to take the first of two matches of the Meltwater []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-wins-the-first-match-of-the-chessable-masters-final/",
+         "pubDate" : "Wed, 25 May 2022 22:12:19 +0000",
+         "title" : "Ding Liren wins the first match of the Chessable Masters Final"
+      },
+      {
+         "description" : "&#38;nbsp;WGM Vantika Agrawal won the first qualifier of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship. She defeated WGM Annamaria Marjanovic in a thrilling final bullet tiebreaker. IM Gulnar Mammadova won the Swiss tournament on the previo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-qualifier-1-agrawal-wins",
+         "pubDate" : "Wed, 25 May 2022 15:11:39 -0700",
+         "title" : "Agrawal Wins Knockout: 2022 FIDE Chess.com WSCC, Qualifier 1"
+      },
+      {
+         "description" : "English Chess Federation crowned the National Chess Champions in Kenilworth. The Chessable English Championship and Chessable English Women&#x2019;s Championship 2022&#160;took place on 19th-22nd May 2022, and two weeks earlier, the National Champions among Seniors&#160;were crowned in the same venue. The Open event attracted 33 entries while the women&#x2019;s Championship had 10 participants. Both events were []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-english-chess-champions-crowned-in-kenilworth/",
+         "pubDate" : "Wed, 25 May 2022 22:11:21 +0000",
+         "title" : "Chessable English Chess Champions crowned in Kenilworth"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, President of the <strong>Moldovan Chess Federation</strong> and President of Moldova in 2016-2020, has been detained on charges of corruption. The pro-Russian politician is leader of the Socialist party, to whom FIDE Executive Director, member of the Moldovan parliament and Vice President of the Moldovan Chess Federation <strong>Victor Bologan</strong> belongs. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/dodon-detained/",
+         "pubDate" : "Wed, 25 May 2022 20:35:23 +0100",
+         "title" : "Dodon detained"
+      },
+      {
          "description" : " Hi dear readers, as the title suggests, this is another guest article. This time. I have the honor to publish an article written by Dror Allouche AKA Mr.OTG. Dror is a Nextlevelchess reader, chess fan &#38; blogger himself. You can check out his work here. He also has a weekly Newsletter which I enjoy reading. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/start-learning-chess/\">How To Start Learning Chess As An Adult: From 0 To 700 Rating</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -202,28 +242,12 @@ news_feed (
          "title" : "Breaking: Igor Dodon, the President of Moldova Chess Federation arrested; Kremlin and Peskov protest"
       },
       {
-         "description" : "India&#x2019;s boy wonder Rameshbabu Praggnanandhaa announced himself at the very top table of world chess as he stormed into his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old from Chennai showed off all his skills as he simply overpowered the super-strong Dutch no.1 Anish Giri in the Chessable Masters semi-final, the fourth []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pragg-beats-giri-ding-defeats-carlsen-chessable-masters-final-will-see-pragg-vs-ding/",
-         "pubDate" : "Tue, 24 May 2022 21:12:00 +0000",
-         "title" : "Pragg beats Giri, Ding defeats Carlsen; Chessable Masters Final will see Pragg vs Ding"
-      },
-      {
          "description" : "Last Friday, Russia&#39;s Ministry of Justice added GM Garry Kasparov to the list of individuals acting as &#34;foreign agents&#34; for receiving donations or funding from outside Russia and carrying out political activities. For Kasparov, who is living abroa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kasparov-added-to-russian-foreign-agents-list",
          "pubDate" : "Tue, 24 May 2022 12:16:00 -0700",
          "title" : "Kasparov Added To Russian 'Foreign Agents' List"
-      },
-      {
-         "description" : "The Mongolian Open and Women's Championships 2022 took place from May 12-23, 2022, in Chinggis, Khentii. Both events were played as 12-player round-robin tournaments with classical time control. The second-rated participant in the Open section, 18-year-old grandmaster Dambasuren Batsuren won the event as the only unbeaten player of the event, scoring 8.5/11 points. Dambasuren turned []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mongolia-crowns-national-chess-champions/",
-         "pubDate" : "Tue, 24 May 2022 18:31:59 +0000",
-         "title" : "Mongolia crowns National Chess Champions and announces Teams for 44th Chess Olympiad 2022"
       },
       {
          "description" : "Magnus Carlsen will return to Chennai, the city where he was first crowned World Champion in 2013, to be part of the 44th Chess Olympiad from July 28 to August 10. The 31-year-old will make his first appearance in a team event for Norway in six years.",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-hopes-to-make-a-difference-as-an-administrator/articleshow/91772225.cms",
          "pubDate" : "Tue, 24 May 2022 15:59:43 +0000",
          "title" : "Viswanathan Anand hopes to make a difference as an administrator"
-      },
-      {
-         "description" : "The General Assembly of the French Olympic and Athletic Committee brought the decision on May 23rd to accept the membership application of the French Chess Federation. The French Olympic Committee General Assembly was held in the presence of all the member federations, the president, Ms. Brigitte Henriques, and the Minister of Sports and the Olympic []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-chess-federation-becomes-a-member-of-the-french-olympic-and-athletic-committee-tweetoftheday/",
-         "pubDate" : "Tue, 24 May 2022 15:28:53 +0000",
-         "title" : "French Chess Federation becomes a member of the French Olympic and Athletic Committee #TweetOftheDay"
       },
       {
          "description" : "",
@@ -1066,14 +1082,6 @@ news_feed (
          "title" : "Vishy Anand with perfect Superbet Rapid & Blitz start"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Georgian Minister of Education <strong>Mikhail Chkhenkeli</strong> <a href=\"https://www.apsny.ge/2022/soc/1652971844.php\">announced</a> that from the next school year 2022/23 chess will be a mandatory subject for first-graders in primary schools and an elective subject in grade two and three. The curriculum and teacher training will be developed together with the <strong>Georgian Chess Federation</strong>. In neighbouring Armenia, chess has been a mandatory subject since 2011. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/georgia-makes-chess-mandatory-in/",
-         "pubDate" : "Thu, 19 May 2022 16:38:41 +0100",
-         "title" : "Georgia makes chess mandatory"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/",
          "pubDate" : "Sat, 14 May 2022 16:33:05 +0000",
          "title" : "Jamaica's Christie wins Heroes Cup 2022!"
-      },
-      {
-         "description" : "The first two rounds of the Collegiate Chess League Season 4 playoffs have concluded leaving only four teams remaining in each division, and these teams are now fighting for a spot in the finals. The teams that have made it this far are guaranteed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-quarterfinals",
-         "pubDate" : "Sat, 14 May 2022 08:06:00 -0700",
-         "title" : "Collegiate Chess League Season 4: Quarterfinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91562290.cms\" />The All India Chess Federation (AICF) on Saturday signed a Memorandum of Understanding (MoU) with the Tamil Nadu government for the forthcoming 44th Chess Olympiad, slated to be held here from July 28 to August 10.",
