@@ -2304,14 +2304,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gm-anish-giri-my-weakness-is-that-i-cant-lie/",
          "pubDate" : "Wed, 04 May 2022 14:49:49 +0000",
          "title" : "GM Anish Giri: \"My weakness is that I can't lie\""
-      },
-      {
-         "description" : " <p class=\"lead\">The <a href=\"https://grandchesstour.org/\">2022 Grand Chess Tour</a> kicks off on May 5th with the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">2022 Superbet Chess Classic Romania,</a> in Bucharest. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/871848.719daad2.5000x5000o.666537263dc8.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">Alireza Firouzja in Wijk aan Zee. Photo: Jurriaan Hoefsmit/Tata Steel Chess</div> </div> The tournament lasts until May 14th and features a 10-player round-robin battle for a total of $350,000 in prize money. Among the players are the US Champion and <a hr",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/2022-superbet-chess-classic-romania/",
-         "pubDate" : "Wed, 04 May 2022 07:22:54 +0000",
-         "title" : "2022 Superbet Chess Classic Kicks Off in Romania"
       }
    ]
 }
