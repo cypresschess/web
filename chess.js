@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren won the Chessable Masters after beating 16-year-old Praggnanandhaa in the final match's tiebreaks. The Chinese had won the first set on Wednesday, but saw his opponent bouncing back in the second 4-game mini-match. A clear rating favourite, Ding defeated his prodigious rival in the deciding blitz tiebreaker.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d8",
+         "pubDate" : "Fri, 27 May 2022 01:10:00 +0100",
+         "title" : "Ding beats Pragg in close match, wins Chessable Masters"
+      },
+      {
+         "description" : "China&#x2019;s Ding Liren battled mosquitoes, late-night starts and an inspired fightback from boy wonder Rameshbabu Praggnanandhaa to break Indian hearts and win the Chessable Masters today. The world no.2 had to neutralise an incredible performance from 16-year-old Pragg who came back hard after falling behind in the final yesterday. The youngster from Chennai had a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-is-the-winner-of-chessable-masters/",
+         "pubDate" : "Thu, 26 May 2022 21:30:47 +0000",
+         "title" : "Ding Liren is the Winner of Chessable Masters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BU6VDRwLLS0.jpg?itok=lp9uou4r\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-junior-us-senior-championships-round-1",
+         "pubDate" : "Thu, 26 May 2022 19:59:55 +0000",
+         "title" : "2022 U.S. Junior & U.S. Senior Championships: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs TBA for the move-by-move. 2022.06.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-classic-round-1\"><img src=\"https://s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-1",
+         "pubDate" : "Thu, 26 May 2022 19:59:55 +0000",
+         "title" : "2022 Summer Chess Classic: Round 1"
+      },
+      {
          "description" : "The 9th edition of the Cherry Blossom Classic&#160;takes place from 26-30 May at Washington Dulles Airport Marriott in Virginia. The event consists of 6 tournaments: Open tournament, U2300, U2000, U1700, U1400 and U1100. 47 players from 9 countries registered for the main Open event and the battlefield is currently led by:&#160;GM Aleksandr Lenderman,&#160;GM Hedinn Steingrimsson,&#160;GM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -50,12 +82,12 @@ news_feed (
          "title" : "The Weekly Show: A tense victory in Hamburg"
       },
       {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "description" : "Among the growing number of apps and functions available with ChessBase Account is the Quiz. Most of the functions in a subscription have an inherent training or educational factor in their usage, and the quiz is no exception, But even more than what it can teach you is the plain old 'fun' factor. Read on to learn more!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Thu, 26 May 2022 17:55:00 +0100",
-         "title" : "Chessable Masters Finals: Live"
+         "link" : "https://en.chessbase.com/post/fun-with-quizzes",
+         "pubDate" : "Thu, 26 May 2022 17:45:00 +0100",
+         "title" : "Fun with quizzes"
       },
       {
          "description" : "International Chess-Tennis Masters will take place from August 13 to 15, 2022, at the Vienna Athletic Sports Club. Men&#x2019;s and women&#x2019;s tennis singles and the chess rapid event be held on August 13 and 14 and tennis and chess doubles on Monday 15 August. Read more: Tennis star Carlos Alcaraz is using chess to up []",
@@ -64,6 +96,22 @@ news_feed (
          "link" : "https://www.chessdom.com/international-chess-tennis-masters/",
          "pubDate" : "Thu, 26 May 2022 16:43:24 +0000",
          "title" : "International Chess-Tennis Masters"
+      },
+      {
+         "description" : "At the recently held Malakoff Open near Paris, Woman International Master Anastasiya Rakhmangulova scored 6.5 points in nine rounds to finish in 11th place. While her performance wasn't extraordinary, the mere participation of the 27-year-old Ukrainian at the annual chess tournament was. She was in Kyiv when the Russian invasion of Ukraine began on February 24. | Photo: Anastasiya Rakhmangulova at the Cappelle-la-Grande tournament 2022",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-chess-is-helping-an-ukrainian-player-to-cope-with-the-war",
+         "pubDate" : "Thu, 26 May 2022 17:30:00 +0100",
+         "title" : "How chess is helping an Ukrainian player to cope with the war"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Thu, 26 May 2022 17:25:00 +0100",
+         "title" : "Chessable Masters Finals"
       },
       {
          "description" : "The first set of the final match at the online Chessable Masters ended on Wednesday with a 2&frac12;-1&frac12; victory by Ding Liren over Praggnanandhaa. It has been a busy few days for the 16-year-old Pragg: the Indian chess prodigy shuttles between tournament matches and school exams. A second match will be played on Thursday - a draw will then be enough for Ding to win the tournament.",
@@ -80,14 +128,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nielsen-joins-baryshpolets/",
          "pubDate" : "Thu, 26 May 2022 16:52:02 +0100",
          "title" : "Nielsen joins Baryshpolets"
-      },
-      {
-         "description" : "At the recently held Malakoff Open near Paris, Woman International Master Anastasiya Rakhmangulova scored 6.5 points in nine rounds to finish in 11th place. While her performance wasn't extraordinary, the mere participation of the 27-year-old Ukrainian at the annual chess tournament was. She was in Kyiv when the Russian invasion of Ukraine began on February 24. | Photo: Anastasiya Rakhmangulova at the Cappelle-la-Grande tournament 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-chess-is-helping-an-ukrainian-player-to-cope-with-the-war",
-         "pubDate" : "Thu, 26 May 2022 16:00:00 +0100",
-         "title" : "How chess is helping an Ukrainian player to cope with the war"
       },
       {
          "description" : " The 2022 ACT Chess Championship begins tomorrow, and it is already looking to be the strongest (and maybe largest) edition in a number of years. The top seed is IM Rishi Sardana, who has moved back to the city of his birth, for work. IM Junta Ikeda is 2nd seed, ahead of a field of young challengers including Cameron McCowan, FM Michael Kethro, Fred Litchfield and Harry Press. The tournament has been bolstered by the entry of a number of players from NSW, who are eligible for the prize money, but not the championship title/ The tournament begins tomorrow evening at Campbell High School (next to the War Memorial). There is one round on Friday, with 2 rounds on Saturday, Sunday and Monday. Ful",
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1790",
          "pubDate" : "Thu, 26 May 2022 10:45:59 +0000",
          "title" : "Peruvian Championship: Jorge Cori and Mitzy Caballero win titles"
-      },
-      {
-         "description" : "Among the growing number of apps and functions available with ChessBase Account is the Quiz. Most of the functions in a subscription have an inherent training or educational factor in their usage, and the quiz is no exception, But even more than what it can teach you is the plain old 'fun' factor. Read on to learn more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fun-with-quizzes",
-         "pubDate" : "Thu, 26 May 2022 09:30:00 +0100",
-         "title" : "Fun with quizzes"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91808659.cms\" />Indian teenage chess sensation Rameshbabu Praggnanandhaa is currently playing the final of the Chessable Masters online tournament.",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.chessdom.com/im-nikolay-noritsyn-wins-ontario-open-2022/",
          "pubDate" : "Wed, 25 May 2022 14:28:32 +0000",
          "title" : "IM Nikolay Noritsyn wins Ontario Open 2022"
-      },
-      {
-         "description" : "The 20th edition of the European Union Youth Chess Championship U8-U14 will take place from 21st &#x2013; 30th August 2022 in Prague, Hotel STEP. The event is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/20th-european-union-youth-chess-championship-u8-u14/",
-         "pubDate" : "Wed, 25 May 2022 13:53:38 +0000",
-         "title" : "20th European Union Youth Chess Championship U8-U14"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91792371.cms\" />Grandmaster R Praggnanandhaa is making it a habit of beating the top players in the circuit. Days after defeating world champion Magnus Carlsen during a preliminary stage clash of the ongoing Chessable Masters, an online tournament, Praggu beat Anish Giri to make the final of the competition on Tuesday night. The Anish-Praggu match ended 2-2 after the 4-game rapid match and the 16-year-old won the tie-breaker 1.5-0.5 to book his place in the summit clash. Praggu faces World no. 2 Ding Liren who defeated Magnus 2.5-1.5 in the other semifinal.",
@@ -898,14 +922,6 @@ news_feed (
          "title" : "Chess With Richard"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Garry Kasparov during Day 1 of the Superbet Rapid &amp; Blitz Poland. 2022.05.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-garry-kasparov-interview-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dul_KeqPT44.jpg?itok=aEQPFd-5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-garry-kasparov-interview-day-1",
-         "pubDate" : "Sat, 21 May 2022 16:55:48 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Garry Kasparov Interview | Day 1"
-      },
-      {
          "description" : "Vishy Anand rolled back the years as he clinched victory in the rapid section of the Superbet Rapid & Blitz in Warsaw with a round to spare. He began the final day of rapid chess by outplaying David Gavrilescu with the black pieces for a 6th win in 7 games. A draw against Fabiano Caruana was then enough for Vishy to top the table after his key rival Richard Rapport went astray and lost a winning position to Wesley So. Richard won their individual clash in the final round, however, narrowing the gap to just 1 point before the blitz.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/the-vishy-anand-rampage-continues",
          "pubDate" : "Fri, 20 May 2022 16:59:51 +0000",
          "title" : "The Vishy Anand rampage continues"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Viswanathan Anand after his win over Levon Aronian in Rapid Round 5 of the Superbet Rapid &amp; Blitz Poland. 2022.05.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-vishy-anand-interview-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w0iXyCdsPLA.jpg",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-vishy-anand-interview-day-2",
-         "pubDate" : "Fri, 20 May 2022 16:55:04 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Vishy Anand Interview | Day 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91694704.cms\" />Indian chess legend Viswanathan Anand continued his superb form on the second day of the rapid event of the Superbet Rapid and Blitz Poland tournament on Friday, posting victories in rounds four and five before local hero Jan-Kryzstof Duda halted the winning streak in the sixth.",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1751",
          "pubDate" : "Thu, 12 May 2022 09:56:01 +0000",
          "title" : "Argentinean Women's Championship: Fernandez clinches fifth title"
-      },
-      {
-         "description" : "Gukesh won his third consecutive tournament in Spain as he scored an unbeaten 8/10 to claim first place at the Chessable Sunway Formentera Open. After missing several tournament triumphs on tiebreaks, Gukesh got outright victory in Formentera by finishing a half point ahead of the field. Jaime Santos (Spain) and Shant Sargsyan (Armenia) completed the podium. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-wins-chessable-sunway-formentera-open",
-         "pubDate" : "Wed, 11 May 2022 18:35:00 +0100",
-         "title" : "Gukesh scores a hat-trick, wins Chessable Sunway Formentera Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91500156.cms\" />Five-time Chess world champion Viswanathan Anand said on Wednesday that he is optimistic about India's chances of winning big at the 44th Chess Olympiad 2022, which will begin in Chennai on July 28.",
