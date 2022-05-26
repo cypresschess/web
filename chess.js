@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ding Liren took a first step to winning the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Chinese grandmaster beat GM&#38;nbsp;Praggnanandhaa R in their first mini-match on Wednesday and only needs a tie on Thursday to win the $25,00...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chessable-masters-final-ding-praggnanandhaa",
+         "pubDate" : "Thu, 26 May 2022 00:22:46 -0700",
+         "title" : "Ding Leads Final: Chessable Masters, Day 7"
+      },
+      {
+         "description" : "Chinese world no. 2 Ding Liren said his plan \"to avoid any complicated line\" paid off as he won both games with the black pieces on Day 1 of the Chessable Masters final. 16-year-old Indian prodigy Praggnanandhaa managed to hit back in Game 2 but was held to a draw in Game 4 as Ding Liren won the first mini-match 2.5:1.5. That means Pragg must now win Thursday's second match to force tiebreaks, or Ding Liren will have won his first Meltwater Champions Chess Tour title.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-masters-7-ding-takes-lead-against-pragg",
+         "pubDate" : "Thu, 26 May 2022 07:20:56 +0000",
+         "title" : "Chessable Masters 7: Ding takes lead against Pragg"
+      },
+      {
+         "description" : "We are pleased to inform you that All India Chess Federation is going to conduct Olympiad Curtain Raiser Rapid Chess Tournament 2022 on 24 July",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-curtain-raiser-rapid-chess-tournament-2022/",
+         "pubDate" : "Thu, 26 May 2022 04:50:59 +0000",
+         "title" : "Olympiad Curtain Raiser Rapid Chess Tournament 2022"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91801243.cms\" />The final of the Chessable Masters started with Ding Liren giving 16-year-old R Praggnanandhaa a tough test just hours after the talented youngster sat a real-life school exam.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-shuvalova-pruess",
-         "pubDate" : "Wed, 25 May 2022 17:25:11 -0700",
+         "pubDate" : "Wed, 25 May 2022 17:25:00 -0700",
          "title" : "Shuvalova Eliminates Pruess: 2022 IMSCC, Round Of 16"
       },
       {
@@ -1458,14 +1482,6 @@ news_feed (
          "title" : "49th International Chess Days in Dortmund: Schedule and Pairings"
       },
       {
-         "description" : "\"Make a move that surprises Nepomniachtchi, gets him out of book - I guess that's the main idea!\" says Jan Gustafsson on the reason for playing a particular chess opening, referring of course to the 2021 World Chess Championship match in Dubai, where he worked with Peter Heine Nielsen, Laurent Fressinet, Jorden van Foreest and Daniil Dubov on Team Magnus. Episode 3 of Jan's Opening Clinic has an Italian Opening theme.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jan-s-opening-clinic-season-27-episode-3",
-         "pubDate" : "Mon, 16 May 2022 12:16:23 +0000",
-         "title" : "Jan's Opening Clinic Season 27, Episode 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1504,14 +1520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cooks-and-finds-with-8-piece-tablebases",
          "pubDate" : "Mon, 16 May 2022 08:00:00 +0100",
          "title" : "Cooks and finds with 8-piece tablebases"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won week 14 of the&#38;nbsp;2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Dmitry Andreikin in a hard-fought knockout final. GM Jeffery Xiong won the Swiss tournament and finished in the semifinals along wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-14-nakamura-wins",
-         "pubDate" : "Sun, 15 May 2022 18:44:00 -0700",
-         "title" : "Nakamura Wins 4th Knockout: Rapid Chess Championship Week 14"
       },
       {
          "description" : "Unashamed ultra-violence. Jon Speelman continues to share findings from his bookshelf, and today explores Irving Chernev's \"The 1000 best short games of chess\", a collection of miniatures first published in 1957. Speelman adds notes to selected games from the collection of thud and blunder.",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1742",
          "pubDate" : "Mon, 09 May 2022 14:26:13 +0000",
          "title" : "FIDE World Rapid & Blitz Championships 2023 - Call for bids"
-      },
-      {
-         "description" : "South Eastern Railway Sports Association has published recruitment of Sports person against Talent Scouting Sports Quota 2022-23 . The detailed advertisement is given in the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/recruitment-of-meritorious-sportsperson-in-the-south-eastern-railway-sports-association/",
-         "pubDate" : "Mon, 09 May 2022 12:57:10 +0000",
-         "title" : "Recruitment of meritorious sportsperson in the South Eastern Railway Sports Association"
       },
       {
          "description" : "Hamilton's slower-than-expected 40-yard dash time made him fall in the draft, and the Ravens couldn't be happier.",
