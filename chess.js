@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The city of Casablanca in Morocco hosts the Casablanca Chess Week from May 30 to June 4, 2022, with several events throughout the week. The event will open on 31 May in the venue of the Casablanca Stock Exchange with attendance of Officials of the city of Casablanca and Officials of the International Federation (FIDE). []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/casablanca-chess-week/",
+         "pubDate" : "Thu, 26 May 2022 18:26:31 +0000",
+         "title" : "Casablanca Chess Week"
+      },
+      {
+         "description" : "You probably know that the biggest online rapid event for elite players, the Rapid Chess Championship, is happening right now, don&#39;t you? But have you ever wondered how you&#39;d stack up against some of the grandmasters playing in the event? Well, no...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-rcc-bots",
+         "pubDate" : "Thu, 26 May 2022 10:08:00 -0700",
+         "title" : "Rapid Chess Championship Bots Are Here"
+      },
+      {
+         "description" : "In his 'Weekly Show' Lawrence Trent reviews what went on at the Superbet Rapid & Blitz and the Chessable Masters. He focuses, however, on one of his own game from the GM Invitational in Hamburg - a very tense affair which he eventually managed to win! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-weekly-show-a-tense-victory",
+         "pubDate" : "Thu, 26 May 2022 18:00:00 +0100",
+         "title" : "The Weekly Show: A tense victory in Hamburg"
+      },
+      {
+         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
+         "pubDate" : "Thu, 26 May 2022 17:55:00 +0100",
+         "title" : "Chessable Masters Finals: Live"
+      },
+      {
+         "description" : "International Chess-Tennis Masters will take place from August 13 to 15, 2022, at the Vienna Athletic Sports Club. Men&#x2019;s and women&#x2019;s tennis singles and the chess rapid event be held on August 13 and 14 and tennis and chess doubles on Monday 15 August. Read more: Tennis star Carlos Alcaraz is using chess to up []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/international-chess-tennis-masters/",
+         "pubDate" : "Thu, 26 May 2022 16:43:24 +0000",
+         "title" : "International Chess-Tennis Masters"
+      },
+      {
+         "description" : "The first set of the final match at the online Chessable Masters ended on Wednesday with a 2&frac12;-1&frac12; victory by Ding Liren over Praggnanandhaa. It has been a busy few days for the 16-year-old Pragg: the Indian chess prodigy shuttles between tournament matches and school exams. A second match will be played on Thursday - a draw will then be enough for Ding to win the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d7",
+         "pubDate" : "Thu, 26 May 2022 17:15:00 +0100",
+         "title" : "Chessable Masters Finals: Ding wins first set"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Peter Heine Nielsen</strong>, Danish grandmaster and coach of Magnus Carlsen, <a href=\"https://twitter.com/PHChess/status/1529722379416526850\">runs for</a> <strong>FIDE Deputy President</strong> on the ticket of fellow grandmaster <strong>Andrii Baryshpolets</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nielsen-joins-baryshpolets/",
+         "pubDate" : "Thu, 26 May 2022 16:52:02 +0100",
+         "title" : "Nielsen joins Baryshpolets"
+      },
+      {
+         "description" : "At the recently held Malakoff Open near Paris, Woman International Master Anastasiya Rakhmangulova scored 6.5 points in nine rounds to finish in 11th place. While her performance wasn't extraordinary, the mere participation of the 27-year-old Ukrainian at the annual chess tournament was. She was in Kyiv when the Russian invasion of Ukraine began on February 24. | Photo: Anastasiya Rakhmangulova at the Cappelle-la-Grande tournament 2022",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-chess-is-helping-an-ukrainian-player-to-cope-with-the-war",
+         "pubDate" : "Thu, 26 May 2022 16:00:00 +0100",
+         "title" : "How chess is helping an Ukrainian player to cope with the war"
+      },
+      {
+         "description" : " The 2022 ACT Chess Championship begins tomorrow, and it is already looking to be the strongest (and maybe largest) edition in a number of years. The top seed is IM Rishi Sardana, who has moved back to the city of his birth, for work. IM Junta Ikeda is 2nd seed, ahead of a field of young challengers including Cameron McCowan, FM Michael Kethro, Fred Litchfield and Harry Press. The tournament has been bolstered by the entry of a number of players from NSW, who are eligible for the prize money, but not the championship title/ The tournament begins tomorrow evening at Campbell High School (next to the War Memorial). There is one round on Friday, with 2 rounds on Saturday, Sunday and Monday. Ful",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-chess-championship.html",
+         "pubDate" : "Thu, 26 May 2022 13:35:00 +0000",
+         "title" : "2022 ACT Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1791",
+         "pubDate" : "Thu, 26 May 2022 11:54:15 +0000",
+         "title" : "Prisons of Armenia stage qualifying events for Intercontinental Chess Championship"
+      },
+      {
          "description" : "Normally, we sacrifice a piece to win material, or even set up a check-mate attack. But occasionally, we can also sacrifice a piece to gain a positional advantage! Svitlana demonstrates how this is working with some very instructional games by Vladimir Kramnik, Garry Kasparov, Mikhail Tal, and Tigran Petrosian - the \"Master\" of positional sacrifices.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,6 +154,14 @@ news_feed (
          "title" : "Shuvalova Eliminates Pruess: 2022 IMSCC, Round Of 16"
       },
       {
+         "description" : " From the publishers' blurb: &#8220;GM Jan Werle is a professional chess trainer, coach and author. In 2008 he became EU Champion in Liverpool and reached his peak rating of 2607. Afterwards he finished his law studies, obtaining Master's degrees in Civil and Commercial Law, and embarked on a career as a lawyer. However his main <a href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Unbeatable!: The Art of Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\">Unbeatable!: The Art of Defense</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/",
+         "pubDate" : "Thu, 26 May 2022 00:10:37 +0000",
+         "title" : "Unbeatable!: The Art of Defense"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave recently won the Grand Chess Tour Romania event in Bucharest. In the interview he gave before the tournament he said he enjoys different sports activities when he has time. Two days ago, the French Grandmaster met an American professional&#xA0;basketball&#xA0;player who currently plays for Paris Basketball&#xA0; Kyle Allman Jr. Despite the fact they met []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,6 +202,14 @@ news_feed (
          "title" : "Dodon detained"
       },
       {
+         "description" : "Anatoly Karpov, born 23 May, 1951, is one of the strongest players in the history of chess. He was World Champion from 1975 to 1985, finished first in 160 strong tournaments, and was the world's number one for 102 months. However, he seemed to win many of his games without much effort, without striking moves or crushing attacks. But he had a secret weapon - which Jan Markos analyses in more detail. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-10-karpov-s-secret-weapon",
+         "pubDate" : "Wed, 25 May 2022 18:30:00 +0100",
+         "title" : "The Winning Academy 10: Karpov's Secret Weapon"
+      },
+      {
          "description" : " Hi dear readers, as the title suggests, this is another guest article. This time. I have the honor to publish an article written by Dror Allouche AKA Mr.OTG. Dror is a Nextlevelchess reader, chess fan &#38; blogger himself. You can check out his work here. He also has a weekly Newsletter which I enjoy reading. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/start-learning-chess/\">How To Start Learning Chess As An Adult: From 0 To 700 Rating</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -128,14 +224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-517-levon-aronian-vs-vishy-anand",
          "pubDate" : "Wed, 25 May 2022 18:00:00 +0100",
          "title" : "Game of the Week #517: Levon Aronian vs Vishy Anand"
-      },
-      {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Wed, 25 May 2022 17:55:00 +0100",
-         "title" : "Chessable Masters Finals: Live"
       },
       {
          "description" : "Titled Tuesday belonged to the Americans on May 24, the early edition won by GM Dariusz Swiercz and the late tournament by GM Hikaru Nakamura. It was Swiercz&#39;s first-ever win in the event and Nakamura&#39;s first since May 3. Nakamura was the only pla...",
@@ -170,28 +258,12 @@ news_feed (
          "title" : "IM Nikolay Noritsyn wins Ontario Open 2022"
       },
       {
-         "description" : "At the recently held Malakoff Open near Paris, Woman International Master Anastasiya Rakhmangulova scored 6.5 points in nine rounds to finish in 11th place. While her performance wasn't extraordinary, the mere participation of the 27-year-old Ukrainian at the annual chess tournament was. She was in Kyiv when the Russian invasion of Ukraine began on February 24. | Photo: Anastasiya Rakhmangulova at the Cappelle-la-Grande tournament 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-chess-is-helping-an-ukrainian-player-to-cope-with-the-war",
-         "pubDate" : "Wed, 25 May 2022 15:00:00 +0100",
-         "title" : "How chess is helping an Ukrainian player to cope with the war"
-      },
-      {
          "description" : "The 20th edition of the European Union Youth Chess Championship U8-U14 will take place from 21st &#x2013; 30th August 2022 in Prague, Hotel STEP. The event is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/20th-european-union-youth-chess-championship-u8-u14/",
          "pubDate" : "Wed, 25 May 2022 13:53:38 +0000",
          "title" : "20th European Union Youth Chess Championship U8-U14"
-      },
-      {
-         "description" : "Anatoly Karpov, born 23 May, 1951, is one of the strongest players in the history of chess. He was World Champion from 1975 to 1985, finished first in 160 strong tournaments, and was the world's number one for 102 months. However, he seemed to win many of his games without much effort, without striking moves or crushing attacks. But he had a secret weapon - which Jan Markos analyses in more detail. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-10-karpov-s-secret-weapon",
-         "pubDate" : "Wed, 25 May 2022 14:40:45 +0100",
-         "title" : "The Winning Academy 10: Karpov's Secret Weapon"
       },
       {
          "description" : "A staple since 2019, the SuperUnited Croatia Grand Chess Tour signals the third tournament and midway point of the Grand Chess Tour. Continuing in&#xA0;the thrilling&#xA0;fashion of rapid and blitz format, exciting displays of chess play and blunders under time pressure will certainly&#xA0;keep fans entertained. The event will be held in Zagreb, Croatia at the Westin []",
@@ -240,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/young-refugees-learning-chess-in-the-us",
          "pubDate" : "Wed, 25 May 2022 12:00:00 +0100",
          "title" : "Young refugees learning chess in the US"
-      },
-      {
-         "description" : "The Candidates Chess 2022 is just around the corner. After a turmoil with Sergey Karjakin's ban, he was substituted by Ding Liren based on rating. Karjakin&#x2019;s case:&#xA0;Karjakin ban by FIDE announced&#xA0;/&#xA0;Karjakin posts comments on the ban, decides not to appeal, but&#xA0;Kremlin supports Karjakin&#xA0;/ Top players comment on Karjakin ban&#xA0;/&#xA0;All stories on Sergey Karjakin here Ding []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2023-rules-of-replacement-approved/",
-         "pubDate" : "Wed, 25 May 2022 10:49:54 +0000",
-         "title" : "FIDE Candidates 2023 - rules of replacement approved"
       },
       {
          "description" : "",
@@ -304,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rosen-sachdev",
          "pubDate" : "Tue, 24 May 2022 14:14:15 -0700",
          "title" : "Rosen Beats Sachdev With 11-Game Streak: 2022 IMSCC, Round Of 16"
-      },
-      {
-         "description" : "The ex-President of Moldova and current President of Moldova Chess Federation was arrested on Tuesday after a raid on his home. The 47-year-old Igor Dodon, a pro-Kremlin politician and leader of the Socialist Party, is under investigation for alleged corruption, treason, illicit enrichment, and &#8220;illegal party financing&#8221;. The ties of Dodon with Kremlin and the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/breaking-igor-dodon-the-president-of-moldova-chess-federation-arrested-kremlin-and-peskov-protest/",
-         "pubDate" : "Tue, 24 May 2022 21:13:02 +0000",
-         "title" : "Breaking: Igor Dodon, the President of Moldova Chess Federation arrested; Kremlin and Peskov protest"
       },
       {
          "description" : "Last Friday, Russia&#39;s Ministry of Justice added GM Garry Kasparov to the list of individuals acting as &#34;foreign agents&#34; for receiving donations or funding from outside Russia and carrying out political activities. For Kasparov, who is living abroa...",
@@ -1122,14 +1178,6 @@ news_feed (
          "title" : "Undefeated Anand Scores Hat Trick: 2022 Superbet Rapid & Blitz Poland, Day 1"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>RCadia Hotel</strong> in Hamburg, that is specializing in gaming and E-sport, will <a href=\"https://www.schachbund.de/bspnews/die-dsam-kommt-anfang-juli-nach-hamburg.html\">host a qualifier</a> of the <strong>German Amateur Chess Championship</strong> on 1-3 July. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/esport-hotel-hosts-federation-event/",
-         "pubDate" : "Thu, 19 May 2022 18:12:28 +0100",
-         "title" : "ESport hotel hosts federation event"
-      },
-      {
          "description" : "This week Robert Ris shows how David Navara managed to beat the currently popular line with 3...a6 against the Queens Gambit Declined in a fine and instructive game played in the Czech Championship 2022. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1472,14 +1520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/four-player-types-model-review",
          "pubDate" : "Mon, 16 May 2022 17:00:00 +0100",
          "title" : "The 4 player types standard model - a review"
-      },
-      {
-         "description" : "GM Ding Liren is officially among the participants of the FIDE Candidates Tournament. The field of eight players was announced today by the International Chess Federation. Ding replaces GM Sergey Karjakin, who was banned for six months due to expr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-participants",
-         "pubDate" : "Mon, 16 May 2022 08:48:00 -0700",
-         "title" : "Ding Liren Officially In the Candidates As FIDE Announces Participants"
       },
       {
          "description" : " <p class=\"lead\">After Karjakin's <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/\">6-months ban</a> from competitive chess left an open spot for the 2022 Candidates Tournament, the Chinese GM Ding Liren started a successful marathon of rated games in order to be eligible for the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51132737892_420ff3984c_k.jpg\" width=\"2047\" height=\"1260\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE / Lennart Ootes</div> </div> Invitation of Ding Liren, while officially issued by FIDE, is contingent on Sergey Karjakin's appeal to CAS, the highest court for sports disputes. A",
@@ -1898,14 +1938,6 @@ news_feed (
          "title" : "Gukesh scores a hat-trick, wins Chessable Sunway Formentera Open"
       },
       {
-         "description" : "Levon Aronian grabbed a 25-move win over Maxime Vachier-Lagrave to catch Wesley So in the lead of the Superbet Chess Classic. Aronian and So have a full-point lead over a 4-player chasing pack with three rounds to go at the inaugural event of this year's Grand Chess Tour. In the other decisive game of round 6, Leinier Dominguez defeated local rising star Bogdan-Daniel Deac. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r6",
-         "pubDate" : "Wed, 11 May 2022 18:30:00 +0100",
-         "title" : "Superbet: Aronian scores, shares the lead with So"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91500156.cms\" />Five-time Chess world champion Viswanathan Anand said on Wednesday that he is optimistic about India's chances of winning big at the 44th Chess Olympiad 2022, which will begin in Chennai on July 28.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1920,14 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1750",
          "pubDate" : "Wed, 11 May 2022 16:31:39 +0000",
          "title" : "FIDE awards grants to Ukrainian seniors and disabled players"
-      },
-      {
-         "description" : "Much has been discussed regarding the tiebreak system used in previous editions of the Candidates Tournament. Given the controversy, FIDE decided to reconsider the regulations before this year's edition. After consulting the participants, the rules have been updated - in case of a tie for first, a rapid (and blitz, if necessary) playoff will decide who wins the tournament. | Photo: Lennart Ootes (2020)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-playoff-announcement",
-         "pubDate" : "Wed, 11 May 2022 17:00:00 +0100",
-         "title" : "Candidates to be decided in playoffs in case of a tie for first place"
       },
       {
          "description" : "",
@@ -2232,14 +2256,6 @@ news_feed (
          "link" : "https://www.thearticle.com/fields-of-force-marcel-duchamp-and-chess/",
          "pubDate" : "Sat, 07 May 2022 12:31:36 +0000",
          "title" : "Fields of force: Marcel Duchamp and chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1737",
-         "pubDate" : "Fri, 06 May 2022 21:42:21 +0000",
-         "title" : "2022 GCT Superbet Chess Classic Romania: Day 2 Recap"
       },
       {
          "description" : " Ian Nepomniachtchi (Nepo), Russian Grandmaster and 2021 Championship challenger, beat Alireza Firouzja with White in Round 2 of Superbet Chess Classic. The game was captivating not only because of chess (it was chaotic), but also because everyone is watching for Firouzja's chances to win the Candidates Tournament. The reason - Magnus Carlsen recently said that he would play the Match only against Firouzja. Apparently, chances are slim. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9E7D3455-3106-45B4-9344-4718D79C38CE.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Nepo in Moscow in 2019</div> </div> Nepo, grumpy but visibly pleased with",
