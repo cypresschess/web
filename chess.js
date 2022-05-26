@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Ding Liren took a first step to winning the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Chinese grandmaster beat GM&#38;nbsp;Praggnanandhaa R in their first mini-match on Wednesday and only needs a tie on Thursday to win the $25,00...",
+         "description" : "Normally, we sacrifice a piece to win material, or even set up a check-mate attack. But occasionally, we can also sacrifice a piece to gain a positional advantage! Svitlana demonstrates how this is working with some very instructional games by Vladimir Kramnik, Garry Kasparov, Mikhail Tal, and Tigran Petrosian - the \"Master\" of positional sacrifices.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-42",
+         "pubDate" : "Thu, 26 May 2022 12:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Positional Sacrifices by Kramnik, Kasparov, Tal and Petrosian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1790",
+         "pubDate" : "Thu, 26 May 2022 10:45:59 +0000",
+         "title" : "Peruvian Championship: Jorge Cori and Mitzy Caballero win titles"
+      },
+      {
+         "description" : "Among the growing number of apps and functions available with ChessBase Account is the Quiz. Most of the functions in a subscription have an inherent training or educational factor in their usage, and the quiz is no exception, But even more than what it can teach you is the plain old 'fun' factor. Read on to learn more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fun-with-quizzes",
+         "pubDate" : "Thu, 26 May 2022 09:30:00 +0100",
+         "title" : "Fun with quizzes"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91808659.cms\" />Indian teenage chess sensation Rameshbabu Praggnanandhaa is currently playing the final of the Chessable Masters online tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-all-you-need-to-know-about-the-tournament-where-indias-praggnanandhaa-is-playing-the-final/articleshow/91808659.cms",
+         "pubDate" : "Thu, 26 May 2022 08:10:12 +0000",
+         "title" : "Chessable Masters: All you need to know about the tournament"
+      },
+      {
+         "description" : "GM Ding Liren took a first step to winning the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Chinese grandmaster beat GM Praggnanandhaa R in their first mini-match on Wednesday and needs only a tie on Thursday to win the $25,000 fir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-final-ding-praggnanandhaa",
-         "pubDate" : "Thu, 26 May 2022 00:22:46 -0700",
+         "pubDate" : "Thu, 26 May 2022 00:22:00 -0700",
          "title" : "Ding Leads Final: Chessable Masters, Day 7"
       },
       {
@@ -2002,22 +2034,6 @@ news_feed (
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
       },
       {
-         "description" : "Endgame tablebases can only be described as \"god chess\" as they are perfect information on all positions they cover, and the terms 'better' or 'worse' cease to have any meaning. Marc Bourzutschky has trained and resolved a large number of the 8-piece tablebase positions and shared his results and findings, as well as insights in a video interview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/8-piece-endgame-tablebases-first-findings-and-interview",
-         "pubDate" : "Wed, 11 May 2022 00:10:00 +0100",
-         "title" : "8-piece endgame tablebases - first findings and interview!"
-      },
-      {
-         "description" : "Round 5 of the Superbet Chess Classic saw Fabiano Caruana bouncing back from his loss on Sunday by taking down defending champion Shakhriyar Mamedyarov. The US grandmaster thus went into the rest day with a fifty-percent score. The remaining games finished drawn, leaving Wesley So in the sole lead, half a point ahead of a three-player chasing pack. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r5",
-         "pubDate" : "Wed, 11 May 2022 00:05:00 +0100",
-         "title" : "Superbet: Caruana bounces back"
-      },
-      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras Last week we saw how a bad opening setup has put White in a lost position. Black obliged but his attack came with hesitation and missed a couple of clear wins. Have another look at the position we stopped at with Black up an exchange. This should also <a href=\"https://chessimprover.com/quick-decisions-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-9/\">Quick Decisions (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2080,14 +2096,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/",
          "pubDate" : "Tue, 10 May 2022 00:10:51 +0000",
          "title" : "110 Instructive Chess Annotations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91450010.cms\" />Indian Grandmaster Arjun Erigaisi secured four points from seven rounds to finish second in the Tepe Sigeman round-robin chess tournament on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-arjun-erigaisi-finishes-second-in-tepe-sigeman-chess-tourney/articleshow/91450010.cms",
-         "pubDate" : "Mon, 09 May 2022 16:31:42 +0000",
-         "title" : "Indian GM Arjun Erigaisi finishes second in Tepe Sigeman tourney"
       },
       {
          "description" : "",
@@ -2258,14 +2266,6 @@ news_feed (
          "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1736",
-         "pubDate" : "Fri, 06 May 2022 13:03:00 +0000",
-         "title" : "Sergey Karjakin's appeal dismissed"
-      },
-      {
          "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on&#160;June 05, 2022. The event organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess Confederation, the European Chess Union, and the Confederation of Chess for Americas. Female players from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-online-chess-festival-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2288,22 +2288,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/heading-back.html",
          "pubDate" : "Fri, 06 May 2022 05:20:00 +0000",
          "title" : "Heading Back"
-      },
-      {
-         "description" : " Garry Kasparov, former World Champion and the main force behind the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Superbet Chess Classic</a>, which starts today, is sitting courtside right before the tournament opens. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/AAA28857-AD1F-480D-9FE8-DA4BA97F405B.jpeg\" width=\"1200\" height=\"649\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Lennart Ootes, Grand Chess Tour</div> </div> Superbet Chess Classic, an event that hosts the elite chess players, is part of the Grand Chess Tour. <a href=\"https://chessarena.com/broadcasts/17409\">Watch it</a> on World Chess. ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/photo-of-the-day-kasparov-courtside/",
-         "pubDate" : "Thu, 05 May 2022 11:22:59 +0000",
-         "title" : "Photo of the Day: Kasparov Courtside"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-championships/#new_tab",
-         "pubDate" : "Thu, 05 May 2022 10:59:41 +0000",
-         "title" : "Chessable English Seniors Championships - results"
       }
    ]
 }
