@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-05-03  - 05-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202205246312 target='_blank'>MAY TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2022-05-02  - 05-23","11","<a href=http://www.uschess.org/msa/XtblMain.php?202205235742 target='_blank'>CLCC MARCH MONDAYS</a>",
 "HOUSTON","2022-05-21  - 05-22","41","<a href=http://www.uschess.org/msa/XtblMain.php?202205225042 target='_blank'>$1,500 HOUSTON CHESS STUDIO MAY CHA</a>",
 "SUGAR LAND","2022-05-20","6","<a href=http://www.uschess.org/msa/XtblMain.php?202205203542 target='_blank'>FBCC END OF SCHOOL OPEN 2022</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-07-09","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107096112 target='_blank'>FRIDAYFLEX79</a>",
 "CYPRESS","2021-07-09","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107096102 target='_blank'>05212021KOFC</a>",
 "SPRING","2021-07-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202107096062 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2021-07-02","6","<a href=http://www.uschess.org/msa/XtblMain.php?202107024862 target='_blank'>FLEXIBLEFRIDAYSJULYRD1</a>",
 ]);
