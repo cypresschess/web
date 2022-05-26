@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91801243.cms\" />The final of the Chessable Masters started with Ding Liren giving 16-year-old R Praggnanandhaa a tough test just hours after the talented youngster sat a real-life school exam.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-final-praggnanandhaa-falters-at-opening-hurdle/articleshow/91801243.cms",
+         "pubDate" : "Thu, 26 May 2022 02:44:07 +0000",
+         "title" : "Chessable Masters final: Praggnanandhaa falters at opening hurdle"
+      },
+      {
+         "description" : "The 2022 IM Not A GM Speed Chess Championship resumed on Wednesday with a gripping round of 16 match between IM Polina Shuvalova and IM David Pruess, in which Shuvalova won with a convincing 16.5-6.5 score. The match was a tactical slugfest that...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-shuvalova-pruess",
+         "pubDate" : "Wed, 25 May 2022 17:25:11 -0700",
+         "title" : "Shuvalova Eliminates Pruess: 2022 IMSCC, Round Of 16"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave recently won the Grand Chess Tour Romania event in Bucharest. In the interview he gave before the tournament he said he enjoys different sports activities when he has time. Two days ago, the French Grandmaster met an American professional&#xA0;basketball&#xA0;player who currently plays for Paris Basketball&#xA0; Kyle Allman Jr. Despite the fact they met []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "Averbakh Variation"
       },
       {
-         "description" : "The ninth and final round of the Superbet Chess Classic delivered the results that allowed the viewers a spectacle of a three-way playoff. GM Maxime Vachier-Lagrave beat GM Alireza Firouzja&#38;nbsp;to catch up to the American duo of GMs Levon Aroni...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-chess-classic-romania-day-9-vachier-lagrave-wins",
-         "pubDate" : "Sun, 15 May 2022 08:41:00 -0700",
-         "title" : "Vachier-Lagrave Wins Three-Way Playoff: 2022 Superbet Chess Classic Romania, Day 9"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 79th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
          "pubDate" : "Sun, 08 May 2022 12:44:50 +0000",
          "title" : "Brewington Hardaway wins K8!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91418291.cms\" />Grandmaster D Gukesh is on a roll. The 15-year-old won the 1st Chessable Sunway Formentera Open in Spain on Sunday. It was a hat-trick of titles for Gukesh as he had earlier won in La Roda tournament and followed it by pocketing the Menorca Open.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-d-gukesh-cherishes-sunway-formentera-open-win/articleshow/91418291.cms",
-         "pubDate" : "Sun, 08 May 2022 11:18:58 +0000",
-         "title" : "Grandmaster D Gukesh cherishes Sunway Formentera Open win"
       },
       {
          "description" : "Only Grandmaster, who reached 100 years passed away in Moscow. When I was twelve &#160;I was lucky to buy one of the best endgame books! It was Yuri Averbakh three volumes endgame manual. I studied every position from the books! It was his main endgame evergreen work. I could never imagine in that moment ., that after 10&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/\">Read More &#187;</a></span>",
