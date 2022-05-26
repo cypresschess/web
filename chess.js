@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the Cherry Blossom Classic&#160;takes place from 26-30 May at Washington Dulles Airport Marriott in Virginia. The event consists of 6 tournaments: Open tournament, U2300, U2000, U1700, U1400 and U1100. 47 players from 9 countries registered for the main Open event and the battlefield is currently led by:&#160;GM Aleksandr Lenderman,&#160;GM Hedinn Steingrimsson,&#160;GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/9th-cherry-blossom-classic-live/",
+         "pubDate" : "Thu, 26 May 2022 19:10:56 +0000",
+         "title" : "9th Cherry Blossom Classic LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1792",
+         "pubDate" : "Thu, 26 May 2022 18:50:28 +0000",
+         "title" : "Casablanca Chess Week kicks off on May 30"
+      },
+      {
+         "description" : "The&#xA0;1st Grandiscacchi Challenge Open 2022&#xA0;was the second event of the Italian Summer Chess tour, taking place from 21-27 May in Montebelluna. Twenty players from 11 countries participated the event, including 7 grandmasters. After 9 played rounds, the two top seeds Vitaliy Bernadskiy and Andrey Esipenko tied for the top scoring 7/9 points. Tie-break criteria was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vitaliy-bernadskiy-wins-1st-grandiscacchi-challenge-open/",
+         "pubDate" : "Thu, 26 May 2022 18:46:52 +0000",
+         "title" : "Vitaliy Bernadskiy wins 1st Grandiscacchi Challenge Open"
+      },
+      {
          "description" : "The city of Casablanca in Morocco hosts the Casablanca Chess Week from May 30 to June 4, 2022, with several events throughout the week. The event will open on 31 May in the venue of the Casablanca Stock Exchange with attendance of Officials of the city of Casablanca and Officials of the International Federation (FIDE). []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -234,12 +258,12 @@ news_feed (
          "title" : "Swiercz, Nakamura Win May 24 Titled Tuesday"
       },
       {
-         "description" : " <p class=\"lead\">On May 30th the Indian superstar and FIDE Online Arena Ambassador Vidit Gujrathi will play and stream the <a href=\"https://chessarena.com/tournaments/18066\">2nd Open Arena Tournament</a> on Arena, and the winner will receive a premium pocket chess set personally signed by Vidit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-139.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> The <a href=\"https://chessarena.com/tournaments/17311?fbclid=IwAR27RvkM9QeJdUIMrF4PbYen2F1yU23CkOOcG3lTEq0agEL6rnmz5ibpf3Q\">first Open Arena Tournament</a> with GM Vidit Gujrathi attracted 1520 players from 90 countries. The Indian GM not only played but made sure to ",
+         "description" : " <p class=\"lead\">On May 30, the Indian superstar and FIDE Online Arena Ambassador Vidit Gujrathi will play and stream the <a href=\"https://chessarena.com/tournaments/18066\">2nd Open Arena Tournament</a> on Arena, and the winner will receive a pocket chess set signed by Vidit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-139.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> The <a href=\"https://chessarena.com/tournaments/17311?fbclid=IwAR27RvkM9QeJdUIMrF4PbYen2F1yU23CkOOcG3lTEq0agEL6rnmz5ibpf3Q\">first Open Arena Tournament</a> with GM Vidit Gujrathi attracted 1520 players from 90 countries. The Indian GM not only played but made sure to entertnain his audie",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/vidits-open-arena-2/",
          "pubDate" : "Wed, 25 May 2022 16:07:12 +0000",
-         "title" : "Vidit's 2nd Open Arena Tournament"
+         "title" : "Join Vidit's 2nd Open Arena Tournament"
       },
       {
          "description" : "The Slovenian National Women's Team Chess Championship 2022 took place over two weekends in May, being played from 13-15 and 21-22 May at the Grand Hotel in Rogaska Slatina. The second top seed according to the average rating of players team of Tajfun Ljubljana Chess Club clinched gold with the perfect score of 10 []",
@@ -266,28 +290,12 @@ news_feed (
          "title" : "20th European Union Youth Chess Championship U8-U14"
       },
       {
-         "description" : "A staple since 2019, the SuperUnited Croatia Grand Chess Tour signals the third tournament and midway point of the Grand Chess Tour. Continuing in&#xA0;the thrilling&#xA0;fashion of rapid and blitz format, exciting displays of chess play and blunders under time pressure will certainly&#xA0;keep fans entertained. The event will be held in Zagreb, Croatia at the Westin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-headlines-the-field-of-grand-chess-tour-croatia-2022/",
-         "pubDate" : "Wed, 25 May 2022 13:15:25 +0000",
-         "title" : "Magnus Carlsen headlines the field of Grand Chess Tour Croatia 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91792371.cms\" />Grandmaster R Praggnanandhaa is making it a habit of beating the top players in the circuit. Days after defeating world champion Magnus Carlsen during a preliminary stage clash of the ongoing Chessable Masters, an online tournament, Praggu beat Anish Giri to make the final of the competition on Tuesday night. The Anish-Praggu match ended 2-2 after the 4-game rapid match and the 16-year-old won the tie-breaker 1.5-0.5 to book his place in the summit clash. Praggu faces World no. 2 Ding Liren who defeated Magnus 2.5-1.5 in the other semifinal.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/making-the-chessable-masters-final-was-unexpected-praggnanandhaa/articleshow/91792371.cms",
          "pubDate" : "Wed, 25 May 2022 12:58:02 +0000",
          "title" : "Making Chessable Masters final was unexpected: Praggnanandhaa"
-      },
-      {
-         "description" : "An agreement has been signed between the Norwegian chess club Offerspill and Uppsala Chess+ Academy from Uppsala, Sweden. This agreement means that the organizations are linked closer to each other, and that they will help with each other&#x2019;s development through training, competition, and other areas of cooperation.&#xA0; The most concrete part of the collaboration is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uppsala-chess-academy-and-offerspill-sjakklubb-initiate-a-formal-cooperation/",
-         "pubDate" : "Wed, 25 May 2022 11:23:38 +0000",
-         "title" : "Uppsala Chess+ Academy and Offerspill Sjakklubb initiate a formal cooperation"
       },
       {
          "description" : "16-year-old Praggnanandhaa will play world no. 2 Ding Liren in the Chessable Masters final just hours after he sits school exams at home in Chennai, India. The prodigy played some brilliant chess to overcome heroic resistance from Anish Giri, while Ding Liren called it \"a little unbelievable\" that he finally beat World Champion Magnus Carlsen in an online tour knockout match. An extremely high-level clash featured chances for both players before Ding finally broke through in the 4th game.",
@@ -2232,14 +2240,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/",
          "pubDate" : "Sat, 07 May 2022 19:39:47 +0000",
          "title" : "Geopolitics and the Diverse Voices in Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1738",
-         "pubDate" : "Sat, 07 May 2022 13:33:37 +0000",
-         "title" : "Yuri Averbakh (1922-2022)"
       },
       {
          "description" : " The early underpromotion to a knight is a well known trap in the Budapest Gambit, but it can be even more devastating in other circumstances. The following game may well be the quickest underpromotion checkmate there is, unless someone has constructed a shorter game. <br /> <b>Amateur - Goetz</b><br />Strassburg, 1880 <script>new PgnViewer( { boardName: \"game1325\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.b3 Qh4+ 4.g3 fxg3 5.h3 g2+ 6.Ke2 Qxe4+ 7.Kf2 gxh1=N#', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1325-container\"></div><div id=\"game1325-moves\"></div><br />",
