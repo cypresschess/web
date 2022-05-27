@@ -15,7 +15,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/richard-rapport-switches-federation-three-weeks-before-candidate/",
          "pubDate" : "Fri, 27 May 2022 16:54:41 +0000",
-         "title" : "Richard Rapport Switches Federation Three Weeks Before Candidates Tournament"
+         "title" : "Richard Rapport Switches Federation Three Weeks Before Candidates"
       },
       {
          "description" : "In his \"Power Play Show\" Daniel King looks at some snapshots from the Chessable Masters, focusing on one game in particular, Giri vs Praggnanandhaa, which was a rollercoaster! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -216,6 +216,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-rosen-rozman",
          "pubDate" : "Thu, 26 May 2022 18:00:05 -0700",
          "title" : "Rosen Takes Revenge Vs Rozman: 2022 IMSCC, Quarterfinal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1794",
+         "pubDate" : "Thu, 26 May 2022 22:28:41 +0000",
+         "title" : "WSCC 2022 Qualifier 1: Agrawal Wins Knockout"
       },
       {
          "description" : "China&#x2019;s Ding Liren battled mosquitoes, late-night starts and an inspired fightback from boy wonder Rameshbabu Praggnanandhaa to break Indian hearts and win the Chessable Masters today. The world no.2 had to neutralise an incredible performance from 16-year-old Pragg who came back hard after falling behind in the final yesterday. The youngster from Chennai had a []",
@@ -2210,14 +2218,6 @@ news_feed (
          "title" : "Circular Letter No.2/2022"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1741",
-         "pubDate" : "Sun, 08 May 2022 20:16:40 +0000",
-         "title" : "2022 GCT Superbet Chess Classic Romania: Day 4 Recap"
-      },
-      {
          "description" : "The 2022 Mitropa Chess Cup took place from 27th April 8th May in Corti, Corsica France. The traditional event for teams from Central Europe was played in 9 round-robin rounds within Open and Women's sections. French teams won the historical double gold , winning both Mitropa Cup events. French team in the Open section scored convincing 16&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2280,14 +2280,6 @@ news_feed (
          "link" : "https://www.thearticle.com/fields-of-force-marcel-duchamp-and-chess/",
          "pubDate" : "Sat, 07 May 2022 12:31:36 +0000",
          "title" : "Fields of force: Marcel Duchamp and chess"
-      },
-      {
-         "description" : " Ian Nepomniachtchi (Nepo), Russian Grandmaster and 2021 Championship challenger, beat Alireza Firouzja with White in Round 2 of Superbet Chess Classic. The game was captivating not only because of chess (it was chaotic), but also because everyone is watching for Firouzja's chances to win the Candidates Tournament. The reason - Magnus Carlsen recently said that he would play the Match only against Firouzja. Apparently, chances are slim. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9E7D3455-3106-45B4-9344-4718D79C38CE.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Nepo in Moscow in 2019</div> </div> Nepo, grumpy but visibly pleased with",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-beats-firouzja-carlsons-preferred-opponent/",
-         "pubDate" : "Fri, 06 May 2022 20:08:27 +0000",
-         "title" : "Nepo Beats Firouzja, Carlsen's Preferred Opponent"
       }
    ]
 }
