@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ding Liren won the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters despite a comeback by GM Praggnanandhaa R, who won Thursday&#39;s second mini-match. It was Ding who clinched the title anyway and the $25,000 first prize by winning a two-g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-liren-wins-2022-chessable-masters",
+         "pubDate" : "Fri, 27 May 2022 00:14:44 -0700",
+         "title" : "Ding Liren Wins 2022 Chessable Masters"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91826864.cms\" />The 16-year-old Praggnanandhaa from Chennai fought back to win the second set after having lost the opener, but then lost the two-game blitz tie-breaker against Liren. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-final-indias-praggnanandhaa-loses-to-ding-liren-in-tie-break/articleshow/91826864.cms",
+         "pubDate" : "Fri, 27 May 2022 04:56:45 +0000",
+         "title" : "Chessable Masters final: India's Praggnanandhaa loses to Ding Liren in tie-break"
+      },
+      {
          "description" : "The 2022 IM Not A GM Speed Chess Championship continued on Thursday with the one of the event&#39;s most anticipated clashes, IM Eric Rosen vs. Levy Rozman. The two world-class content creators met in the quarterfinals for a rematch of last year&#39;s sho...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1402,14 +1418,6 @@ news_feed (
          "title" : "AICF State Schools Chess Tournament"
       },
       {
-         "description" : "The second semifinal of the 2022 Junior Speed Chess Championship took place on Tuesday and featured powerhouses GMs Hans Niemann and Arjun Erigaisi, with Erigaisi claiming a 14.5-11.5 victory in just over four hours of electrifying gameplay. Nie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-sf-erigaisi-niemann",
-         "pubDate" : "Tue, 17 May 2022 15:43:44 -0700",
-         "title" : "Erigaisi Knocks Out Niemann: 2022 Junior Speed Chess Championship SF"
-      },
-      {
          "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet chess classic. The game of the day is the clutch victory by Maxime Vachier-Lagrave in the tiebreak vs Levon Aronian which secured him the tournament win. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1978,14 +1986,6 @@ news_feed (
          "title" : "SEA Games"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91496134.cms\" />Seasoned campaigner Pradeep Tiwari won the national amateur chess championship for below 2000 players in Jaipur. Representing Defence Accounts Sports Control Board (DASCB), city's Tiwari, secured 7.5 points in 9-nine round swiss league tournament to emerge champion. He was rewarded 16,000 in cash.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pradeep-tiwari-claims-national-amateur-chess-title/articleshow/91496134.cms",
-         "pubDate" : "Wed, 11 May 2022 13:19:54 +0000",
-         "title" : "Pradeep Tiwari claims national amateur chess title"
-      },
-      {
          "description" : " This week's edition of the Master Chess Web Show featured a return of special guest, GM Ray Keene, who gave us some fascinating insights into the 1978 World Championship match in Baguio City. This was the match in which Victor Korchnoi, who had recently defected from the USSR, faced the then Soviet World Champion, Anatoly <a href=\"https://chessimprover.com/master-chess-web-show-13/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (13)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-13/\">Master Chess Web Show (13)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver<",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2288,22 +2288,6 @@ news_feed (
          "link" : "https://www.europechess.org/queens-online-chess-festival-2022/",
          "pubDate" : "Fri, 06 May 2022 10:53:38 +0000",
          "title" : "Queens' Online Chess Festival 2022"
-      },
-      {
-         "description" : " Talented generation with skills honed by online games capture seven golds, one silver and six bronzes in Euro Schools, World Rapid and World Blitz youth championships England's chess children claimed a record 14-medal haul last weekend when the island of Rhodes hosted the European Schools age group championships followed by the Fide World Rapid and World Blitz youth championships. Seven golds, one silver and six bronzes put England second in the overall medal table, one gold behind Turkey but one ahead of Ukraine. The result owes something to Netflix's Beth Harmon in The Queen's Gambit, to the inspiration of Magnus Carlsen as an active and personable world champion, but also to the pandemic",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/may/06/chess-england-children-sweep-gold-medals-and-world-titles-in-rhodes",
-         "pubDate" : "Fri, 06 May 2022 07:00:09 +0000",
-         "title" : "Chess: England children sweep gold medals and world titles in Rhodes"
-      },
-      {
-         "description" : " My current trip to Bangkok was the first international trip in around 2 and half years. While it was to attend an important FIDE PDC meeting, it was also a warmup for travel to the Olympiad in a few months. Overall it was a pretty smooth trip (so far), although there is a lot more paperwork to fill out. Both the enter Thailand, and to return to Australia requires you to submit proof of vaccination, otherwise you still need to be tested. The other main issue is that there are far few flights to book. In my case I could only get separate domestic and international tickets, and while I was able to make my outgoing connection in Sydney easily enough, going in the opposite direction may be a lit",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/heading-back.html",
-         "pubDate" : "Fri, 06 May 2022 05:20:00 +0000",
-         "title" : "Heading Back"
       }
    ]
 }
