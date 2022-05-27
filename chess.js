@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 IM Not A GM Speed Chess Championship continued on Thursday with the one of the event&#39;s most anticipated clashes, IM Eric Rosen vs. Levy Rozman. The two world-class content creators met in the quarterfinals for a rematch of last year&#39;s sho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-rosen-rozman",
+         "pubDate" : "Thu, 26 May 2022 18:00:05 -0700",
+         "title" : "Rosen Takes Revenge Vs Rozman: 2022 IMSCC, Quarterfinal"
+      },
+      {
          "description" : "Ding Liren won the Chessable Masters after beating 16-year-old Praggnanandhaa in the final match's tiebreaks. The Chinese had won the first set on Wednesday, but saw his opponent bouncing back in the second 4-game mini-match. A clear rating favourite, Ding defeated his prodigious rival in the deciding blitz tiebreaker.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/check-mate-donate-online-charity-tournament-for-ukraine",
          "pubDate" : "Tue, 17 May 2022 11:30:18 +0100",
          "title" : "Check, Mate, Donate! Online Charity Tournament for Ukraine"
-      },
-      {
-         "description" : "The 2022 Junior Speed Chess Championship continued on Monday with a high-energy quarterfinal in which GM Arjun Erigaisi defeated an in-form GM-elect Mahammad Muradli 17-11. Erigaisi managed to build a one-point lead in the 5+1 segment but went t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-qf-erigaisi-muradli",
-         "pubDate" : "Tue, 17 May 2022 02:13:00 -0700",
-         "title" : "Erigaisi Routs Comeback King Muradli: 2022 Junior Speed Chess Championship QF"
       },
       {
          "description" : "Passed pawns can be very powerful and they are even more dangerous if they have help from their king. In the diagrammed position it is White to move, and what did he do with his king to support his passed pawns to win the game?",
