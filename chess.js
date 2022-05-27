@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Chess Club will host the second leg of the Classic Series, the 2022 Summer Chess Classic, from June 1-11. The event is comprised of two 10-player Round Robin tournaments: A and B. Over the course of 9 days, twenty competitors will compete for $36,000 in prize money and gain valuable experience in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-summer-chess-classic/",
+         "pubDate" : "Fri, 27 May 2022 15:20:45 +0000",
+         "title" : "2022 Summer Chess Classic"
+      },
+      {
+         "description" : "The fourth season of the Collegiate Chess League came to a dramatic finish this weekend with the University of Texas Rio Grande Valley completing their perfect season 10-0 to win the championship title along with $5,000. They took down last season...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-finals",
+         "pubDate" : "Fri, 27 May 2022 08:13:17 -0700",
+         "title" : "Collegiate Chess League Season 4: Finals"
+      },
+      {
+         "description" : " Last week, we looked at reducing tension or pressure within a position. I was going to give you some positional examples this week, but realized that I needed to add two additional components to the mix, relative value and the trading of material. There's more to relative value than meets the eye, especially if you're <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-two/\">A Foundation for Beginners Sixty Two</a> appeared first on <a rel=\"nofollow\" href=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-two/",
+         "pubDate" : "Fri, 27 May 2022 15:08:34 +0000",
+         "title" : "A Foundation for Beginners Sixty Two"
+      },
+      {
+         "description" : " The 2022 ACT Championship began this evening, with almost all games going to the ratings favourite. The only upset was a win by unrated Muhammad Yunus over veteran player Thomas Mautner. On the top boards, some players had to work a little harder to secure the point, but all eventually did so. Tomorrow mornings second round will see some closer contests on all boards. The top seeds are likely to face experienced Canberra club stalwarts, while the middle group of players on half a point will be looking to kick start their campaign with a win. The top 4 boards for this event are being broadcast live. You can find the link to the broadcast, as well as the tournament results and pairings at <a ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-round-1.html",
+         "pubDate" : "Fri, 27 May 2022 14:01:00 +0000",
+         "title" : "2022 ACT Championship - Round 1"
+      },
+      {
+         "description" : "The Hungarian Chess Federation is about to lose one of its greatest chess geniuses, as Richard Rapport received an irresistible offer from Superbet. A Romanian company led by a billionaire owner of Serbian origin placed a sponsorship offer with Rapport that would help him to get a real chance of winning the world champion title []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/breaking-richard-rapport-changes-federation-to-romania/",
+         "pubDate" : "Fri, 27 May 2022 13:43:09 +0000",
+         "title" : "BREAKING: Richard Rapport changes federation to Romania"
+      },
+      {
+         "description" : "Norway Chess 2022&#xA0;is going to take place May 31st to June 10th in Stavanger. It is going to be a 10 player round robin with Magnus Carlsen (who recently won&#xA0;Airthings Masters&#xA0;and&#xA0;Charity Chess Cup), Wesley So (recent&#xA0;winner&#xA0;of Grand Prix Berlin), Shakhriyar Mammedyarov (semifinalist&#xA0;of the Grand Prix Berlin), Maxime-Vachier Lagrave (the winner of Grand Chess Tour Romania []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-2022-final-participants-list-with-replacement-for-rapport/",
+         "pubDate" : "Fri, 27 May 2022 13:42:00 +0000",
+         "title" : "Norway Chess 2022 - Final participants list with replacement for Rapport"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ding Liren</strong> confirms his shape for the Candidates Tournament <a href=\"https://chess24.com/tour/\">by winning</a> the <strong>Chessable Masters</strong>, the fourth event of the <strong>Meltwater Champions Chess Tour</strong>. The surprise of the tournament was 16-year-old <strong>Pragnanandhaa</strong> who reached the final, which he lost only narrowly in spite of school examinations on the same days. <strong>Indian Oil</strong> was <a href=\"https://twitter.com/Rameshchess/status/1529773904352649222\">announced as his new sponsor</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ding-wins-chessable-masters/",
+         "pubDate" : "Fri, 27 May 2022 13:13:59 +0100",
+         "title" : "Ding wins Chessable Masters"
+      },
+      {
          "description" : "Rustam Kasimdzhanov is considered one of the world's leading opening experts; he has worked as a second for Vishy Anand, Fabiano Caruana and the German national team. In his new Fritztrainer on the French Defence, he passes on his knowledge. Christian H&ouml;the has taken a look at the course and concludes, \"The French is a wonderful opening, especially after studying this Fritztrainer!\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +66,28 @@ news_feed (
          "title" : "Top choice: Kasimdzhanov's French Defence - a review"
       },
       {
+         "description" : "Indomitable engine Stockfish, having already won the TCEC Season 22, won the TCEC Cup 10 by defeating Komodo Dragon in the finals. After Stockfish's dominant performance in Premier Division and&#xA0;record-setting victory&#xA0;against Komodo Dragon in the Superfinal, few people would bet against Stockfish winning the Cup. The short matches of the Cup meant that small sample []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-the-jubilee-edition-of-the-tcec-cup/",
+         "pubDate" : "Fri, 27 May 2022 11:42:29 +0000",
+         "title" : "Stockfish wins the jubilee edition of the TCEC Cup"
+      },
+      {
          "description" : "This week Robert Ris looks at a gambit, which Magnus Carlsen tried at the Chessable Masters to counter Nils Grandelius' Sicilian Alapin (1.e4 c5 2.c3). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-gambit-against-the-sicilian-alapin",
          "pubDate" : "Fri, 27 May 2022 12:36:17 +0100",
          "title" : "Robert Ris' Fast and Furious: A Gambit against the Sicilian Alapin"
+      },
+      {
+         "description" : "The Davos Chess Festival 2022 will take place from 3-6 June, 2022 at the 4 stars Hotel Sunstar in Davos, Switzerland, just a few days after the World Economic Forum where the world&#x2019;s top leaders from politics, business, civil society, academia, media and the arts meet to tackle global issues. The Festival features two events: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/davos-chess-festival-2022/",
+         "pubDate" : "Fri, 27 May 2022 11:32:38 +0000",
+         "title" : "Davos Chess Festival 2022"
       },
       {
          "description" : " The Indian 16-year-old beat his rivals with bold attacking play before losing in the $150,000 final to Ding Liren, who knocked out Magnus Carlsen in the semis India's 16-year-old Rameshbabu Praggnanandhaa jumped into the world elite this week when the Tamil Nadu teenager reached the final of the online $150,000 Chessable Masters by bold attacking play. It was the latest and most significant success yet for the former prodigy, who became the youngest ever international master at 11 and narrowly missed the youngest grandmaster title at 12. The epic quality of the schoolboy's feat was underlined in his post-match interview after defeating the Netherlands world No 9, Anish Giri, in Tuesday's se",
@@ -66,7 +138,7 @@ news_feed (
          "title" : "Ding survives Pragg comeback to win Chessable Masters"
       },
       {
-         "description" : "GM Ding Liren won the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters despite a comeback by GM Praggnanandhaa R, who won Thursday&#39;s second mini-match. It was Ding who clinched the title anyway and the $25,000 first prize by winning a two-g...",
+         "description" : "GM Ding Liren won the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters despite a comeback by GM Praggnanandhaa R, who won Thursday&#39;s second mini-match. It was Ding who clinched the title and the $25,000 first prize by winning a two-game pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ding-liren-wins-2022-chessable-masters",
@@ -146,14 +218,6 @@ news_feed (
          "title" : "Vitaliy Bernadskiy wins 1st Grandiscacchi Challenge Open"
       },
       {
-         "description" : "The city of Casablanca in Morocco hosts the Casablanca Chess Week from May 30 to June 4, 2022, with several events throughout the week. The event will open on 31 May in the venue of the Casablanca Stock Exchange with attendance of Officials of the city of Casablanca and Officials of the International Federation (FIDE). []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/casablanca-chess-week/",
-         "pubDate" : "Thu, 26 May 2022 18:26:31 +0000",
-         "title" : "Casablanca Chess Week"
-      },
-      {
          "description" : "You probably know that the biggest online rapid event for elite players, the Rapid Chess Championship, is happening right now, don&#39;t you? But have you ever wondered how you&#39;d stack up against some of the grandmasters playing in the event? Well, no...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -176,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fun-with-quizzes",
          "pubDate" : "Thu, 26 May 2022 17:45:00 +0100",
          "title" : "Fun with quizzes"
-      },
-      {
-         "description" : "International Chess-Tennis Masters will take place from August 13 to 15, 2022, at the Vienna Athletic Sports Club. Men&#x2019;s and women&#x2019;s tennis singles and the chess rapid event be held on August 13 and 14 and tennis and chess doubles on Monday 15 August. Read more: Tennis star Carlos Alcaraz is using chess to up []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/international-chess-tennis-masters/",
-         "pubDate" : "Thu, 26 May 2022 16:43:24 +0000",
-         "title" : "International Chess-Tennis Masters"
       },
       {
          "description" : "At the recently held Malakoff Open near Paris, Woman International Master Anastasiya Rakhmangulova scored 6.5 points in nine rounds to finish in 11th place. While her performance wasn't extraordinary, the mere participation of the 27-year-old Ukrainian at the annual chess tournament was. She was in Kyiv when the Russian invasion of Ukraine began on February 24. | Photo: Anastasiya Rakhmangulova at the Cappelle-la-Grande tournament 2022",
@@ -306,36 +362,12 @@ news_feed (
          "title" : "Unbeatable!: The Art of Defense"
       },
       {
-         "description" : "Maxime Vachier-Lagrave recently won the Grand Chess Tour Romania event in Bucharest. In the interview he gave before the tournament he said he enjoys different sports activities when he has time. Two days ago, the French Grandmaster met an American professional&#xA0;basketball&#xA0;player who currently plays for Paris Basketball&#xA0; Kyle Allman Jr. Despite the fact they met []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mvl-meets-kyle-allman-jr-on-the-basketball-court-tweetoftheday/",
-         "pubDate" : "Wed, 25 May 2022 22:44:32 +0000",
-         "title" : "MVL meets Kyle Allman Jr. on the basketball court #TweetOftheDay"
-      },
-      {
-         "description" : "The final of the Chessable Masters started with Ding Liren giving 16-year-old Rameshbabu Praggnanandhaa a tough test just hours after the talented youngster sat a real-life school exam. The Chinese star showed exactly why he&#x2019;s ranked world number 2 with a cool and classy display to take the first of two matches of the Meltwater []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-wins-the-first-match-of-the-chessable-masters-final/",
-         "pubDate" : "Wed, 25 May 2022 22:12:19 +0000",
-         "title" : "Ding Liren wins the first match of the Chessable Masters Final"
-      },
-      {
          "description" : "&#38;nbsp;WGM Vantika Agrawal won the first qualifier of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship. She defeated WGM Annamaria Marjanovic in a thrilling final bullet tiebreaker. IM Gulnar Mammadova won the Swiss tournament on the previo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-wscc-qualifier-1-agrawal-wins",
          "pubDate" : "Wed, 25 May 2022 15:11:39 -0700",
          "title" : "Agrawal Wins Knockout: 2022 FIDE Chess.com WSCC, Qualifier 1"
-      },
-      {
-         "description" : "English Chess Federation crowned the National Chess Champions in Kenilworth. The Chessable English Championship and Chessable English Women&#x2019;s Championship 2022&#160;took place on 19th-22nd May 2022, and two weeks earlier, the National Champions among Seniors&#160;were crowned in the same venue. The Open event attracted 33 entries while the women&#x2019;s Championship had 10 participants. Both events were []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-english-chess-champions-crowned-in-kenilworth/",
-         "pubDate" : "Wed, 25 May 2022 22:11:21 +0000",
-         "title" : "Chessable English Chess Champions crowned in Kenilworth"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, President of the <strong>Moldovan Chess Federation</strong> and President of Moldova in 2016-2020, has been detained on charges of corruption. The pro-Russian politician is leader of the Socialist party, to whom FIDE Executive Director, member of the Moldovan parliament and Vice President of the Moldovan Chess Federation <strong>Victor Bologan</strong> belongs. </div> ",
@@ -1210,14 +1242,6 @@ news_feed (
          "title" : "Wei Yi Leads, Mishra Shines: Chessable Masters, Day 1"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Andrii Baryshpolets</strong>, a Los-Angeles-based Ukrainian GM and <a href=\"https://www.linkedin.com/in/andrii-baryshpolets/\">business consultant</a>, <a href=\"https://www.facebook.com/andrii.baryshpolets\">has announced</a> that he runs for FIDE President. Earlier, he initiated <a href=\"https://www.change.org/p/remove-arkady-dvorkovich-from-the-international-chess-federation-fide-presidency\">a petition to remove Dvorkovich</a> from the post. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/baryshpolets-challenges-dvorkovich/",
-         "pubDate" : "Fri, 20 May 2022 08:30:57 +0100",
-         "title" : "Baryshpolets challenges Dvorkovich"
-      },
-      {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1376,14 +1400,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-players-learn-a-lot-in-camp-under-viswanathan-anand-boris-gelfand/articleshow/91648093.cms",
          "pubDate" : "Wed, 18 May 2022 16:56:52 +0000",
          "title" : "Indian players 'learn a lot' in camp under Viswanathan Anand, Gelfand"
-      },
-      {
-         "description" : "May 17 was a good day in&#38;nbsp;Titled Tuesday for two familiar faces: GM Jose Martinez, winning the early event by a full point, and GM Alexander Grischuk, taking the late tournament with a round to spare. Martinez also finished fifth in the late...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-grischuk-win-titled-tuesday-may-17-2022",
-         "pubDate" : "Wed, 18 May 2022 08:57:57 -0700",
-         "title" : "Martinez, Grischuk Crush May 17 Titled Tuesday"
       },
       {
          "description" : "The world's top two chess stars go head-to-head starting Thursday at the Chessable Masters, the fourth leg of the Meltwater Champions Chess Tour. Norway's world champion Magnus Carlsen will face Ding Liren, who returns having regained his second spot in the world ranking. The field also includes two of the most promising rising stars in the chess world, Praggnanandhaa and Abhimanyu Mishra.",
@@ -2192,14 +2208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1741",
          "pubDate" : "Sun, 08 May 2022 20:16:40 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 4 Recap"
-      },
-      {
-         "description" : " Regular readers will probably be aware of my views that, in general, you will learn more from the games of players 200-300 points stronger than you than from the games of players 1000 points stronger than you. To put it another way, you might learn from: Your own games: learning from the mistakes you made <a href=\"https://chessimprover.com/110-instructive-chess-annotations/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"110 Instructive Chess Annotations\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/110-instructive-chess-annotations/\">110 Instructive Chess Annotations</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/110-instructive-chess-annotations/",
-         "pubDate" : "Sun, 08 May 2022 18:53:42 +0000",
-         "title" : "110 Instructive Chess Annotations"
       },
       {
          "description" : "The 2022 Mitropa Chess Cup took place from 27th April 8th May in Corti, Corsica France. The traditional event for teams from Central Europe was played in 9 round-robin rounds within Open and Women's sections. French teams won the historical double gold , winning both Mitropa Cup events. French team in the Open section scored convincing 16&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/\">Read More &#187;</a></span>",
