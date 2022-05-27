@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With the accelerated shift from the written word to video content, some might feel that classic books are noteworthy only as historic footnotes in the evolution of chess. However, to do so is to not only deny yourself a deeper and richer culture, but also to overlook the invaluable lessons of the past. Here is a look at one of the great chess books and what makes it special.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-classics-reti-s-masters-of-the-chessboard",
+         "pubDate" : "Fri, 27 May 2022 19:00:00 +0100",
+         "title" : "Chess Classics - Reti's Masters of the Chessboard"
+      },
+      {
+         "description" : " <p class=\"lead\">Grandmaster Richard Rapport, 26, one of the most promising members of the new generation of elite chess players, is changing the federation from Hungary to Romania. The move, unexpected under normal circumstances, appears scandalous because Rapport is set to take part in the Candidates Tournament in June. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/40AD8D6C-A8F1-40EA-A471-5349F7327072.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Richard Rapport taking part in the Grand Prix Series in 2022</div> </div> The move has been reported by the Romanian Chess Federation and chess-news website and independently confirmed by FI",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/richard-rapport-switches-federation-three-weeks-before-candidate/",
+         "pubDate" : "Fri, 27 May 2022 16:54:41 +0000",
+         "title" : "Richard Rapport Switches Federation Three Weeks Before Candidates Tournament"
+      },
+      {
+         "description" : "In his \"Power Play Show\" Daniel King looks at some snapshots from the Chessable Masters, focusing on one game in particular, Giri vs Praggnanandhaa, which was a rollercoaster! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-spot-the-checkmate",
+         "pubDate" : "Fri, 27 May 2022 17:45:00 +0100",
+         "title" : "Daniel King's Power Play Show: Spot the checkmate"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91841350.cms\" />Indian teen chess sensation Rameshbabu Praggnanandhaa might have achieved some of his best results in the recent past, including upsetting world champion Magnus Carlsen twice, but the 16-year-old believes in keeping his feet firmly grounded.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/its-about-staying-grounded-for-teen-chess-sensation-r-praggnanandhaa/articleshow/91841350.cms",
+         "pubDate" : "Fri, 27 May 2022 16:28:06 +0000",
+         "title" : "It's about staying grounded for teen chess sensation Praggnanandhaa"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Romanian Chess Federation</strong> <a href=\"https://twitter.com/FrsahRo/status/1530180985047994369\">announced</a> that <strong>Rich&aacute;rd Rapport</strong> will join. The 26-year-old world championship candidate had very little support in Hungary and moved to Serbia six years ago. Behind his and is wife <strong>Jovana Rapport</strong>'s move to Romania is the owner of <strong>Superbet</strong> <strong>Sasha Dragic</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/rapport-to-represent-romania/",
+         "pubDate" : "Fri, 27 May 2022 16:57:40 +0100",
+         "title" : "Rapport to represent Romania"
+      },
+      {
+         "description" : "The 96th edition of the Argentine National Chess Championship will take place from 2-12 June, 2022 in Club Argentino de Ajedrez located in Buenos Aires. The event is organized by the Chess Federation of Argentina which this year celebrates its 100th anniversary. More than 100 players registered for the event which will be played in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/96th-argentine-chess-championship/",
+         "pubDate" : "Fri, 27 May 2022 15:49:56 +0000",
+         "title" : "96th Argentine Chess Championship"
+      },
+      {
          "description" : "The Saint Louis Chess Club will host the second leg of the Classic Series, the 2022 Summer Chess Classic, from June 1-11. The event is comprised of two 10-player Round Robin tournaments: A and B. Over the course of 9 days, twenty competitors will compete for $36,000 in prize money and gain valuable experience in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -72,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/stockfish-wins-the-jubilee-edition-of-the-tcec-cup/",
          "pubDate" : "Fri, 27 May 2022 11:42:29 +0000",
          "title" : "Stockfish wins the jubilee edition of the TCEC Cup"
+      },
+      {
+         "description" : "Ding Liren won the Chessable Masters after beating 16-year-old Praggnanandhaa in the final match's tiebreaks. The Chinese had won the first set on Wednesday, but saw his opponent bouncing back in the second 4-game mini-match. A clear rating favourite, Ding defeated his prodigious rival in the deciding blitz tiebreaker.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d8",
+         "pubDate" : "Fri, 27 May 2022 12:40:00 +0100",
+         "title" : "Ding beats Pragg in close match, wins Chessable Masters"
       },
       {
          "description" : "This week Robert Ris looks at a gambit, which Magnus Carlsen tried at the Chessable Masters to counter Nils Grandelius' Sicilian Alapin (1.e4 c5 2.c3). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -151,7 +207,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-final-indias-praggnanandhaa-loses-to-ding-liren-in-tie-break/articleshow/91826864.cms",
          "pubDate" : "Fri, 27 May 2022 04:56:45 +0000",
-         "title" : "Chessable Masters final: India's Praggnanandhaa loses to Ding Liren in tie-break"
+         "title" : "Chessable Masters final: Praggnanandhaa loses to Ding Liren in tie-break"
       },
       {
          "description" : "The 2022 IM Not A GM Speed Chess Championship continued on Thursday with the one of the event&#39;s most anticipated clashes, IM Eric Rosen vs. Levy Rozman. The two world-class content creators met in the quarterfinals for a rematch of last year&#39;s sho...",
@@ -160,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-rosen-rozman",
          "pubDate" : "Thu, 26 May 2022 18:00:05 -0700",
          "title" : "Rosen Takes Revenge Vs Rozman: 2022 IMSCC, Quarterfinal"
-      },
-      {
-         "description" : "Ding Liren won the Chessable Masters after beating 16-year-old Praggnanandhaa in the final match's tiebreaks. The Chinese had won the first set on Wednesday, but saw his opponent bouncing back in the second 4-game mini-match. A clear rating favourite, Ding defeated his prodigious rival in the deciding blitz tiebreaker.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d8",
-         "pubDate" : "Fri, 27 May 2022 01:10:00 +0100",
-         "title" : "Ding beats Pragg in close match, wins Chessable Masters"
       },
       {
          "description" : "China&#x2019;s Ding Liren battled mosquitoes, late-night starts and an inspired fightback from boy wonder Rameshbabu Praggnanandhaa to break Indian hearts and win the Chessable Masters today. The world no.2 had to neutralise an incredible performance from 16-year-old Pragg who came back hard after falling behind in the final yesterday. The youngster from Chennai had a []",
@@ -210,14 +258,6 @@ news_feed (
          "title" : "Casablanca Chess Week kicks off on May 30"
       },
       {
-         "description" : "The&#xA0;1st Grandiscacchi Challenge Open 2022&#xA0;was the second event of the Italian Summer Chess tour, taking place from 21-27 May in Montebelluna. Twenty players from 11 countries participated the event, including 7 grandmasters. After 9 played rounds, the two top seeds Vitaliy Bernadskiy and Andrey Esipenko tied for the top scoring 7/9 points. Tie-break criteria was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vitaliy-bernadskiy-wins-1st-grandiscacchi-challenge-open/",
-         "pubDate" : "Thu, 26 May 2022 18:46:52 +0000",
-         "title" : "Vitaliy Bernadskiy wins 1st Grandiscacchi Challenge Open"
-      },
-      {
          "description" : "You probably know that the biggest online rapid event for elite players, the Rapid Chess Championship, is happening right now, don&#39;t you? But have you ever wondered how you&#39;d stack up against some of the grandmasters playing in the event? Well, no...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -247,7 +287,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-chess-is-helping-an-ukrainian-player-to-cope-with-the-war",
          "pubDate" : "Thu, 26 May 2022 17:30:00 +0100",
-         "title" : "How chess is helping an Ukrainian player to cope with the war"
+         "title" : "How chess is helping a Ukrainian player to cope with the war"
       },
       {
          "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
@@ -528,14 +568,6 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-7/",
          "pubDate" : "Tue, 24 May 2022 16:59:13 +0000",
          "title" : "Students Analysis (7)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> With 85% of the votes <strong>French Chess Federation</strong> <a href=\"http://echecs.asso.fr/Actu.aspx?Ref=13968\">was accepted</a> as a new member by the <strong>French Olympic Committee</strong>. This (usually) paves the way to more sport-related subsidies. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/french-federation-joins-olympic/",
-         "pubDate" : "Tue, 24 May 2022 17:05:58 +0100",
-         "title" : "French federation joins Olympic Committee"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91772225.cms\" />The Superbet Rapid and Blitz event, part of the Grand Chess Tour, which concluded in Warsaw on Monday saw Viswanathan Anand in splendid form. Anand won the rapid portion and eventually shared the second spot with Levon Aronian while Jan-Krzysztof Duda clinched the overall tournament.",
@@ -1906,14 +1938,6 @@ news_feed (
          "title" : "All in one game!"
       },
       {
-         "description" : "In his \"Game of the Week\" show #515, Merijn van Delft takes a look at a strategic masterpiece by Wesley So, who got a fine win with white over Shakhriyar Mamedyarov at the Superbet Chess Classic in Bucharest. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-515-so-mamedyarov",
-         "pubDate" : "Fri, 13 May 2022 14:00:00 +0100",
-         "title" : "Game of the Week #515: Wesley So vs Shakhriyar Mamedyarov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1962,14 +1986,6 @@ news_feed (
          "title" : "Call for interest: Fair Play Experts"
       },
       {
-         "description" : "Levon Aronian and Wesley So continue to share the lead at the Superbet Chess Classic despite three games finishing decisively in the seventh round. After losing to Aronian on Wednesday, Maxime Vachier-Lagrave bounced back with a win over Richard Rapport - the Frenchman is now in sole third place, a half point behind the leaders. Meanwhile, both Shakhriyar Mamedyarov and Alireza Firouzja collected their first wins of the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r7",
-         "pubDate" : "Thu, 12 May 2022 22:00:00 +0100",
-         "title" : "Superbet: Wins for MVL, Firouzja and Mamedyarov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1751",
          "pubDate" : "Thu, 12 May 2022 09:56:01 +0000",
          "title" : "Argentinean Women's Championship: Fernandez clinches fifth title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91500156.cms\" />Five-time Chess world champion Viswanathan Anand said on Wednesday that he is optimistic about India's chances of winning big at the 44th Chess Olympiad 2022, which will begin in Chennai on July 28.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-optimistic-about-indias-chances-at-chess-olympiad/articleshow/91500156.cms",
-         "pubDate" : "Wed, 11 May 2022 17:26:33 +0000",
-         "title" : "Viswanathan Anand optimistic about India's chances at Chess Olympiad"
       },
       {
          "description" : "",
@@ -2280,22 +2288,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-beats-firouzja-carlsons-preferred-opponent/",
          "pubDate" : "Fri, 06 May 2022 20:08:27 +0000",
          "title" : "Nepo Beats Firouzja, Carlsen's Preferred Opponent"
-      },
-      {
-         "description" : " <p class=\"lead\">In an exclusive interview with World Chess and WGM Dina Belenkaya, the Dutch chess star Anish Giri said that having people tweeting annoying things about FIDE all the time is not chess politics. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Giri.jpg\" width=\"2560\" height=\"1399\" alt=\"\" /> </div> We've seen many professional chess players getting involved in politics, with the most blatant example of the former World Champion Gary Kasparov. After his retirement from chess in 2005, Kasparov turned to politics and created the United Civil Front, a social movement whose main goal is to \"work to preserve electoral democracy in Russia\". Recently, after",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/anish-giri-i-dont-think-we-have-chess-politics-as-such/",
-         "pubDate" : "Fri, 06 May 2022 18:10:57 +0000",
-         "title" : "Anish Giri: \"I don't think we have chess politics as such\""
-      },
-      {
-         "description" : " <p class=\"lead\">Today, the Appeal Chamber of the FIDE Ethics and Disciplinary Commission (EDC) has announced its decision to dismiss the appeal presented by GM Sergey Karjakin, and confirmed the 6-month ban that was imposed by the EDC. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> On February 27, 2022, the FIDE Council decided to bring <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-by-fide-ethics/\">the case of GM Sergey Karjakin</a> to the Ethics and Disciplinary Commission for his public statements on Russia's invasion of Ukraine. On March 21st, 2022, the ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/",
-         "pubDate" : "Fri, 06 May 2022 16:21:05 +0000",
-         "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
       }
    ]
 }
