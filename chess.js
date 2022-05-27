@@ -2,11 +2,75 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rustam Kasimdzhanov is considered one of the world's leading opening experts; he has worked as a second for Vishy Anand, Fabiano Caruana and the German national team. In his new Fritztrainer on the French Defence, he passes on his knowledge. Christian H&ouml;the has taken a look at the course and concludes, \"The French is a wonderful opening, especially after studying this Fritztrainer!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ksimdzanov-top-choice-french-defence-a-review",
+         "pubDate" : "Fri, 27 May 2022 13:00:00 +0100",
+         "title" : "Top choice: Kasimdzhanov's French Defence - a review"
+      },
+      {
+         "description" : "This week Robert Ris looks at a gambit, which Magnus Carlsen tried at the Chessable Masters to counter Nils Grandelius' Sicilian Alapin (1.e4 c5 2.c3). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-gambit-against-the-sicilian-alapin",
+         "pubDate" : "Fri, 27 May 2022 12:36:17 +0100",
+         "title" : "Robert Ris' Fast and Furious: A Gambit against the Sicilian Alapin"
+      },
+      {
+         "description" : " The Indian 16-year-old beat his rivals with bold attacking play before losing in the $150,000 final to Ding Liren, who knocked out Magnus Carlsen in the semis India's 16-year-old Rameshbabu Praggnanandhaa jumped into the world elite this week when the Tamil Nadu teenager reached the final of the online $150,000 Chessable Masters by bold attacking play. It was the latest and most significant success yet for the former prodigy, who became the youngest ever international master at 11 and narrowly missed the youngest grandmaster title at 12. The epic quality of the schoolboy's feat was underlined in his post-match interview after defeating the Netherlands world No 9, Anish Giri, in Tuesday's se",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/may/27/chess-rameshbabu-praggnanandhaa-reaches-final-at-2am-on-day-of-his-exams",
+         "pubDate" : "Fri, 27 May 2022 11:17:58 +0000",
+         "title" : "Chess: Rameshbabu Praggnanandhaa reaches final at 2am on day of his exams"
+      },
+      {
+         "description" : "The Ukrainian Grandmaster&#160;Andrii Baryshpolets&#160;is running for&#160;president&#160;of FIDE in the upcoming presidential elections during the&#160;Chess Olympiad 2022. Baryshpolets announced his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. The Danish Grandmaster Peter Heine Nielsen announced through social media that he will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-heine-nielsen-joins-andrii-baryshpolets-as-deputy/",
+         "pubDate" : "Fri, 27 May 2022 10:35:30 +0000",
+         "title" : "Peter Heine Nielsen joins Andrii Baryshpolets as deputy"
+      },
+      {
+         "description" : "18-year-old Indian Champion Arjun Erigaisi tops the line-up for Leg 2 of the MPL Indian Chess Tour, with the 16-player tournament taking place here on chess24 from Thursday June 2nd at 15:30 IST (12:00 CEST). Arjun won the 1st Leg ahead of Raunak Sadhwani, Gukesh and Surya Ganguly, who all return, while 17-year-old Nihal Sarin and 2-time Indian Champion Aravindh Chithambaram make their debut on the $100,000 tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-tops-line-up-for-leg-2-of-mpl-indian-chess-tour",
+         "pubDate" : "Fri, 27 May 2022 10:00:08 +0000",
+         "title" : "Arjun Erigaisi tops line-up for Leg 2 of MPL Indian Chess Tour"
+      },
+      {
+         "description" : "The Ukrainian Grandmaster&#xA0;Andrii Baryshpolets&#xA0;is running for&#xA0;president&#xA0;of FIDE in the upcoming presidential elections during the&#xA0;Chess Olympiad 2022. Baryshpolets announced his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. The Danish Grandmaster&#xA0;Peter Heine Nielsen joined Baryshpolets team as deputy, bringing the promise []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sergey-karjakin-with-extensive-commentary-on-nielsen-joining-baryshpolets-team/",
+         "pubDate" : "Fri, 27 May 2022 09:44:00 +0000",
+         "title" : "Sergey Karjakin with \"extensive\" commentary on Nielsen joining Baryshpolets team"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1793",
+         "pubDate" : "Fri, 27 May 2022 08:57:57 +0000",
+         "title" : "Ding Liren wins Chessable Masters"
+      },
+      {
+         "description" : "Chinese world no. 2 Ding Liren has won the Chessable Masters, the 4th event on the $1.6 million Meltwater Champions Chess Tour, after clinching the title in a dramatic blitz playoff against Praggnanandhaa. The 16-year-old Indian prodigy had earlier done everything right as he won the 2nd rapid match on demand to take the final to blitz, before coming within a whisker of winning the 1st blitz game. The 2nd could have gone either way, but it was Ding, playing until 5am, who claimed his first major online trophy.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-survives-pragg-comeback-to-win-chessable-masters",
+         "pubDate" : "Fri, 27 May 2022 07:33:45 +0000",
+         "title" : "Ding survives Pragg comeback to win Chessable Masters"
+      },
+      {
          "description" : "GM Ding Liren won the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters despite a comeback by GM Praggnanandhaa R, who won Thursday&#39;s second mini-match. It was Ding who clinched the title anyway and the $25,000 first prize by winning a two-g...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ding-liren-wins-2022-chessable-masters",
-         "pubDate" : "Fri, 27 May 2022 00:14:44 -0700",
+         "pubDate" : "Fri, 27 May 2022 00:14:00 -0700",
          "title" : "Ding Liren Wins 2022 Chessable Masters"
       },
       {
@@ -320,22 +384,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/vidits-open-arena-2/",
          "pubDate" : "Wed, 25 May 2022 16:07:12 +0000",
          "title" : "Join Vidit's 2nd Open Arena Tournament"
-      },
-      {
-         "description" : "The Slovenian National Women's Team Chess Championship 2022 took place over two weekends in May, being played from 13-15 and 21-22 May at the Grand Hotel in Rogaska Slatina. The second top seed according to the average rating of players team of Tajfun Ljubljana Chess Club clinched gold with the perfect score of 10 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tajfun-ljubljana-team-wins-slovenian-teams-womens-championship-2022/",
-         "pubDate" : "Wed, 25 May 2022 14:57:56 +0000",
-         "title" : "Tajfun Ljubljana Team wins Slovenian Teams Women's Championship 2022"
-      },
-      {
-         "description" : "The Ontario Open Chess Tournament&#160;took place from May 21 through May 23, at the beautiful&#160;West Toronto Masonic Temple. The event featured 4 tournaments: U2200, U1800, U1400 and the main tournament Ontario Crown Open 2022. The events gathered more than 170 players who fought for the total prize fund of 8.500$. All information about the events []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-nikolay-noritsyn-wins-ontario-open-2022/",
-         "pubDate" : "Wed, 25 May 2022 14:28:32 +0000",
-         "title" : "IM Nikolay Noritsyn wins Ontario Open 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91792371.cms\" />Grandmaster R Praggnanandhaa is making it a habit of beating the top players in the circuit. Days after defeating world champion Magnus Carlsen during a preliminary stage clash of the ongoing Chessable Masters, an online tournament, Praggu beat Anish Giri to make the final of the competition on Tuesday night. The Anish-Praggu match ended 2-2 after the 4-game rapid match and the 16-year-old won the tie-breaker 1.5-0.5 to book his place in the summit clash. Praggu faces World no. 2 Ding Liren who defeated Magnus 2.5-1.5 in the other semifinal.",
@@ -1234,14 +1282,6 @@ news_feed (
          "title" : "Viswanathan Anand off to winning start in Superbet Rapid chess event"
       },
       {
-         "description" : "\"The future of Indian chess looks bright!\" tweeted Anish Giri after 52-year-old Vishy Anand got off to a brilliant start in the Superbet Rapid &amp; Blitz Poland tournament in Warsaw. Vishy beat his former second Radek Wojtaszek, then sacrificed a pawn to crush world no. 8 Wesley So, then crashed through against Anton Korobov's French to end the day in the sole lead on a perfect 6/6.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/vishy-anand-with-perfect-start-in-superbet-rapid-blitz",
-         "pubDate" : "Thu, 19 May 2022 16:09:26 +0000",
-         "title" : "Vishy Anand with perfect Superbet Rapid & Blitz start"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1344,14 +1384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-grischuk-win-titled-tuesday-may-17-2022",
          "pubDate" : "Wed, 18 May 2022 08:57:57 -0700",
          "title" : "Martinez, Grischuk Crush May 17 Titled Tuesday"
-      },
-      {
-         "description" : "Magnus Carlsen and Aryan Tari celebrated Norway's Constitution Day together on Tuesday, but they'll be facing off against each other when the Chessable Masters starts on Thursday May 19th at 18:00 CEST (12:00 ET, 21:30 IST). Ding Liren, confirmed as playing the Candidates Tournament in under a month, Anish Giri, Shakhriyar Mamedyarov and Praggnanandhaa will be among the other favourites for tournament victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norwegian-day-as-chessable-masters-starts-thursday",
-         "pubDate" : "Wed, 18 May 2022 14:59:46 +0000",
-         "title" : "Norwegian Day as Chessable Masters starts Thursday"
       },
       {
          "description" : "The world's top two chess stars go head-to-head starting Thursday at the Chessable Masters, the fourth leg of the Meltwater Champions Chess Tour. Norway's world champion Magnus Carlsen will face Ding Liren, who returns having regained his second spot in the world ranking. The field also includes two of the most promising rising stars in the chess world, Praggnanandhaa and Abhimanyu Mishra.",
@@ -1930,22 +1962,6 @@ news_feed (
          "title" : "FIDE Trainer Online Seminar for North and Central America announced"
       },
       {
-         "description" : "The All India Chess Federation has announced the biggest squad of Indian teams for the upcoming FIDE Olympiad. Vishy Anand has been named as the mentor for all four Indian teams, while the country's third GM in history, Pravin Thipsay, will be the Head of the Delegation. | Photo: AICF",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/india-strong-squads-olympiad-chennai",
-         "pubDate" : "Thu, 12 May 2022 20:00:00 +0100",
-         "title" : "India presents four strong teams for the Olympiad in Chennai"
-      },
-      {
-         "description" : "The King's Indian is a very straight-forward, aggressive opening. Basically, Black builds up a system in the first couple of moves, and once it is set up, the attacking begins! White tries to counter on the queenside, in most cases. But please take a look at it all for yourself in this episode of \"Svitlana's Smart Moves\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-40",
-         "pubDate" : "Thu, 12 May 2022 16:10:00 +0100",
-         "title" : "Svitlana's Smart Moves - The King's Indian"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2226,14 +2242,6 @@ news_feed (
          "title" : "Superbet Chess Classic: Round 3 in Photos"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1739",
-         "pubDate" : "Sat, 07 May 2022 20:51:14 +0000",
-         "title" : "2022 GCT Superbet Chess Classic Romania: Day 3 Recap"
-      },
-      {
          "description" : " The Russian incursion into Ukraine is still burning up the news cycle more than two months after the geopolitical conflict began. The constant display of the horrid images of battle and scenes of death has filled our consciousness. The reaction was swift as FIDE condemned the act and decided to bring sanctions against the Russia The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/\">Geopolitics and the Diverse Voices in Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2280,14 +2288,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/",
          "pubDate" : "Fri, 06 May 2022 16:21:05 +0000",
          "title" : "FIDE Bans Sergey Karjakin Again, Possibly"
-      },
-      {
-         "description" : "The Queens' Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on&#160;June 05, 2022. The event organized by FIDE Commission for Women's Chess in cooperation with FIDE Events Commission, is supported by the Asian Chess Federation, the African Chess Confederation, the European Chess Union, and the Confederation of Chess for Americas. Female players from&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/queens-online-chess-festival-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/queens-online-chess-festival-2022/",
-         "pubDate" : "Fri, 06 May 2022 10:53:38 +0000",
-         "title" : "Queens' Online Chess Festival 2022"
       }
    ]
 }
