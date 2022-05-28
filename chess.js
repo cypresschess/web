@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position Black wins with 22...Nxf4!, this much is revealed - all the rest will be up to you. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indian-whirlwind-i",
+         "pubDate" : "Sat, 28 May 2022 09:00:00 +0100",
+         "title" : "Indian whirlwind I"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91849899.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/india/pragg-vishy-a-revolution/articleshow/91841600.cms",
+         "pubDate" : "Sat, 28 May 2022 06:28:42 +0000",
+         "title" : "Anand, Praggnanandhaa and India's chess revolution"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91846453.cms\" />The final, which went down to the wire, ended at around 2:20 am IST on Friday, and by 8:45 am, the 16-year-old had arrived at his school to appear for the Class XI state board exams.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1826,14 +1842,6 @@ news_feed (
          "title" : "Jamaica's Christie wins Heroes Cup 2022!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91562290.cms\" />The All India Chess Federation (AICF) on Saturday signed a Memorandum of Understanding (MoU) with the Tamil Nadu government for the forthcoming 44th Chess Olympiad, slated to be held here from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/44th-chess-olympiad-aicf-tamil-nadu-government-sign-mou/articleshow/91562290.cms",
-         "pubDate" : "Sat, 14 May 2022 10:48:27 +0000",
-         "title" : "44th Chess Olympiad: AICF, Tamil Nadu government sign MoU"
-      },
-      {
          "description" : "Four French champions will gather at Blitz Society (pictured), the hip new chess meeting point in the heart of Paris, for a rapid match against four champions from Ukraine. The match will take place on Saturday, May 14, starting at 17.30 CEST. Donations for Ukrainian relief efforts are being collected by UNICEF!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/retis-lesser-know-miniature.html",
          "pubDate" : "Fri, 13 May 2022 13:31:00 +0000",
          "title" : "Reti's lesser know miniature"
-      },
-      {
-         "description" : "The column \"All in one\" was introduced in ChessBase Magazine almost three years ago. The idea behind it: on the basis of a single extensively annotated game, you learn everything you need to know about a concrete opening line. In the new ChessBase Magazine #207, Igor Stohl and Tanmay Srinath introduce you to two concepts for White. One explores the pawn advance 3.h4 against Black's Fianchetto in the Gruenfeld and King's Indian; the other delves into a London System setup against the King's Indian. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-in-one-game",
-         "pubDate" : "Fri, 13 May 2022 14:05:00 +0100",
-         "title" : "All in one game!"
       },
       {
          "description" : "",
