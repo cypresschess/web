@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91846453.cms\" />The final, which went down to the wire, ended at around 2:20 am IST on Friday, and by 8:45 am, the 16-year-old had arrived at his school to appear for the Class XI state board exams.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-writes-board-exams-hours-after-close-loss-to-world-no-2-ding-liren-in-chessable-masters-final/articleshow/91846453.cms",
+         "pubDate" : "Sat, 28 May 2022 03:00:20 +0000",
+         "title" : "Praggnanandhaa writes Board exams hours after close loss in Chessable Masters final"
+      },
+      {
+         "description" : "Former Women&#39;s World Champion and GM Antoaneta Stefanova&#38;nbsp;won the second qualifier of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship. She defeated WIM Mobina Alinasab in an incredibly hard-fought final match. IM Karina Ambartsumova w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-qualifier-2-stefanova-wins",
+         "pubDate" : "Fri, 27 May 2022 17:03:27 -0700",
+         "title" : "Stefanova Wins Knockout: 2022 FIDE Chess.com WSCC, Qualifier 2"
+      },
+      {
          "description" : "With the accelerated shift from the written word to video content, some might feel that classic books are noteworthy only as historic footnotes in the evolution of chess. However, to do so is to not only deny yourself a deeper and richer culture, but also to overlook the invaluable lessons of the past. Here is a look at one of the great chess books and what makes it special.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1322,14 +1338,6 @@ news_feed (
          "title" : "Superbet Poland: Anand's perfect day"
       },
       {
-         "description" : "The first day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, was dominated by a vintage performance from GM Viswanathan Anand, who leads the fray with a perfect score. With each win being worth two points&#38;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-1",
-         "pubDate" : "Thu, 19 May 2022 11:31:00 -0700",
-         "title" : "Undefeated Anand Scores Hat Trick: 2022 Superbet Rapid & Blitz Poland, Day 1"
-      },
-      {
          "description" : "This week Robert Ris shows how David Navara managed to beat the currently popular line with 3...a6 against the Queens Gambit Declined in a fine and instructive game played in the Czech Championship 2022. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1756",
          "pubDate" : "Fri, 13 May 2022 11:52:21 +0000",
          "title" : "Arkady Dvorkovich announces his team on the way to 2022 FIDE elections"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91538227.cms\" />Indian chess legend Viswanathan Anand would become the deputy president of the world chess federation (FIDE) if the incumbent Arkady Dvorkovich is re-elected as the president in the elections scheduled during the 44th chess Olympiad in July-August this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-announced-as-candidate-for-fide-deputy-presidents-post/articleshow/91538227.cms",
-         "pubDate" : "Fri, 13 May 2022 08:53:07 +0000",
-         "title" : "Anand announced as candidate for FIDE deputy president's post"
       },
       {
          "description" : " The world champion scored 10/11 online in Chess.com's weekly masters open, using 1 b2-b3 as White and 1...b7-b6 as Black in all games, while the 18-year-old talent has been uneven against the elite at Bucharest Magnus Carlsen has not competed on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> for more than a year, since the website is in direct competition with <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>, which is owned by the Play Magnus Group. So it was a shock when the world champion appeared unannounced on the starting line for this week's Titled Tuesday, an 11-round blitz event with free entry to all internationally titled players. The Norwegian used 1 b3 and 2 Bb",
