@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "18-year-old German International Master Frederik Svane achieved two grandmasters norms in 24 hours to secure his Grandmaster title. Svane finished the Hamburg Chess Club GM Invitational 2022 yesterday and today played the 9th round of Schachbundesliga. Finishing the Hamburg Chess Club GM Invitational with an unbeaten 6.5 points and the rating performance of 2607, Rasmus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/frederik-svane-becomes-gm-after-earning-two-norms-in-24-hours/",
+         "pubDate" : "Sat, 28 May 2022 21:37:35 +0000",
+         "title" : "Frederik Svane becomes GM after earning two norms in 24 hours"
+      },
+      {
          "description" : "Polarchy or Polyarchy is the idea to have the burden of government on the shoulders of multiple people, as opposed to the monarchy that only sees one king or queen with all the burden. In chess, the king remains the sole objective of the game, but in rare cases one might be faced with the constellation that said king is joined not only by one but two queens. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-gambit-against-the-sicilian-alapin",
          "pubDate" : "Fri, 27 May 2022 12:36:17 +0100",
          "title" : "Robert Ris' Fast and Furious: A Gambit against the Sicilian Alapin"
-      },
-      {
-         "description" : "The Davos Chess Festival 2022 will take place from 3-6 June, 2022 at the 4 stars Hotel Sunstar in Davos, Switzerland, just a few days after the World Economic Forum where the world&#x2019;s top leaders from politics, business, civil society, academia, media and the arts meet to tackle global issues. The Festival features two events: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/davos-chess-festival-2022/",
-         "pubDate" : "Fri, 27 May 2022 11:32:38 +0000",
-         "title" : "Davos Chess Festival 2022"
       },
       {
          "description" : " The Indian 16-year-old beat his rivals with bold attacking play before losing in the $150,000 final to Ding Liren, who knocked out Magnus Carlsen in the semis India's 16-year-old Rameshbabu Praggnanandhaa jumped into the world elite this week when the Tamil Nadu teenager reached the final of the online $150,000 Chessable Masters by bold attacking play. It was the latest and most significant success yet for the former prodigy, who became the youngest ever international master at 11 and narrowly missed the youngest grandmaster title at 12. The epic quality of the schoolboy's feat was underlined in his post-match interview after defeating the Netherlands world No 9, Anish Giri, in Tuesday's se",
@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/",
          "pubDate" : "Sun, 08 May 2022 08:01:03 +0000",
          "title" : "100 years old Legendary Grandmaster Yuri Averbakh passed away"
-      },
-      {
-         "description" : " <p class=\"lead\">10 elite Grandmasters face each other in the classic round-robin tournament that takes place in Bucharest, Romania. It is staged by and is part of the <a href=\"https://grandchesstour.org/2022-grand-chess-tour/2022-superbet-chess-classic\">Grand Chess Tour</a>, a circuit of chess events organized by former world champion Garry Kasparov. Here is Round 3 of the event in photos. All photos by <a href=\"https://www.flickr.com/photos/grandchesstour/albums/72177720298714286/with/52055806952/\">Lennart Ootes</a>, Grand Chess Tour official photographer. Fabiano Caruana, World's number 3 at the moment, has 1.5 points after 3 draws. <div class=\"e2-text-picture\"> <img src=\"https://worldche",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/superbet-chess-classic-round-3-in-photos/",
-         "pubDate" : "Sat, 07 May 2022 21:58:33 +0000",
-         "title" : "Superbet Chess Classic: Round 3 in Photos"
       }
    ]
 }
