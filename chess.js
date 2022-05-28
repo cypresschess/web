@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Exactly two months left before the start of the 44th Chess Olympiad 2022 and 187 countries with 343 teams (189 in the Open section and 154 in the Women's section) enrolled for the competition. In the previous Chess Olympiad held in Baku in 2018, the participation record of team numbers was set with 176 countries, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/187-countries-enrolled-for-the-record-breaking-44th-chess-olympiad-2022/",
+         "pubDate" : "Sat, 28 May 2022 15:07:08 +0000",
+         "title" : "187 countries enrolled for the record-breaking 44th Chess Olympiad 2022"
+      },
+      {
          "description" : "The Chess Federation of Argentina which this year celebrates its 100th anniversary disclosed who will compose Argentine National Teams at the upcoming 44th Chess Olympiad 2022 which starts on 28th July in Chennai. Argentine Team (Open section): GM Sandro Mareco (2653) GM Alan Pichot (2652) GM Fernando Peralta (2600) GM Federico Perez Ponsa (2553) GM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/arjun-erigaisi-tops-line-up-for-leg-2-of-mpl-indian-chess-tour",
          "pubDate" : "Fri, 27 May 2022 10:00:08 +0000",
          "title" : "Arjun Erigaisi tops line-up for Leg 2 of MPL Indian Chess Tour"
-      },
-      {
-         "description" : "The Ukrainian Grandmaster&#xA0;Andrii Baryshpolets&#xA0;is running for&#xA0;president&#xA0;of FIDE in the upcoming presidential elections during the&#xA0;Chess Olympiad 2022. Baryshpolets announced his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. The Danish Grandmaster&#xA0;Peter Heine Nielsen joined Baryshpolets team as deputy, bringing the promise []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sergey-karjakin-with-extensive-commentary-on-nielsen-joining-baryshpolets-team/",
-         "pubDate" : "Fri, 27 May 2022 09:44:00 +0000",
-         "title" : "Sergey Karjakin with \"extensive\" commentary on Nielsen joining Baryshpolets team"
       },
       {
          "description" : "",
