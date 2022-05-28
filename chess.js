@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "‌In a new episode of chess24's Chess Talk with Jovanka, Azerbaijan star Shakhriyar Mamedyarov shares an inspirational story about his career, how he learned chess, growing up in a chess family and what made him break into the world's elite.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mamedyarov-i-was-not-a-big-talent",
+         "pubDate" : "Sat, 28 May 2022 11:17:50 +0000",
+         "title" : "Mamedyarov: I was not a big talent"
+      },
+      {
+         "description" : "75 years ago, on 28 May 1947, the American Grandmaster and renowned writer Andrew \"Andy\" Soltis was born in Hazleton, Pennsylvania. In an extensive interview Soltis talks about his chess and his writing career, chess in New York, the Marshall Chess Club, playing blitz against Bobby Fischer and about Fabiano Caruana and Magnus Carlsen. | Photo: Marcy Soltis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/congratulations-andy-soltis-turns-75-an-interview",
+         "pubDate" : "Sat, 28 May 2022 12:00:00 +0100",
+         "title" : "Congratulations! Andy Soltis turns 75 - an interview"
+      },
+      {
          "description" : "In the diagrammed position Black wins with 22...Nxf4!, this much is revealed - all the rest will be up to you. Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/india/pragg-vishy-a-revolution/articleshow/91841600.cms",
          "pubDate" : "Sat, 28 May 2022 06:28:42 +0000",
          "title" : "Anand, Praggnanandhaa and India's chess revolution"
+      },
+      {
+         "description" : "This past week, Praggnanandhaa had been studying for (and appearing in) his 11th standard exams in the mornings and then beating some of the best players in the world in the evenings. Including the best: Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/33996474/r-praggnanandhaa-2022-chessable-masters-rb-ramesh-magnus-carlsen-chess?device=featurephone",
+         "pubDate" : "Sat, 28 May 2022 01:19:23 -0500",
+         "title" : "Praggnanandhaa - Student by day, world-beating chess star by night"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91846453.cms\" />The final, which went down to the wire, ended at around 2:20 am IST on Friday, and by 8:45 am, the 16-year-old had arrived at his school to appear for the Class XI state board exams.",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-1",
          "pubDate" : "Thu, 26 May 2022 19:59:55 +0000",
          "title" : "2022 Summer Chess Classic: Round 1"
-      },
-      {
-         "description" : "The 9th edition of the Cherry Blossom Classic&#160;takes place from 26-30 May at Washington Dulles Airport Marriott in Virginia. The event consists of 6 tournaments: Open tournament, U2300, U2000, U1700, U1400 and U1100. 47 players from 9 countries registered for the main Open event and the battlefield is currently led by:&#160;GM Aleksandr Lenderman,&#160;GM Hedinn Steingrimsson,&#160;GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/9th-cherry-blossom-classic-live/",
-         "pubDate" : "Thu, 26 May 2022 19:10:56 +0000",
-         "title" : "9th Cherry Blossom Classic LIVE"
       },
       {
          "description" : "",
@@ -1322,14 +1338,6 @@ news_feed (
          "title" : "Chess: Carlsen goes head to head with Ding Liren as world top two meet"
       },
       {
-         "description" : "Wei Yi beat Harikrishna, Gawain Jones and David Anton to lead on 10/12 after Day 1 of the Chessable Masters, ahead of Ding Liren, Anish Giri and Magnus Carlsen, who all scored two wins and two draws. 13-year-old Abhimanyu Mishra, who's vowed to break Wei Yi's record as the youngest player ever to cross the 2700 barrier, was the other star, as he picked up wins over Eric Hansen and Shakhriyar Mamedyarov, while also having Ding Liren on the ropes.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-1-wei-yi-leads-as-13-year-old-mishra-stars",
-         "pubDate" : "Thu, 19 May 2022 23:10:27 +0000",
-         "title" : "Chessable Masters 1: Wei Yi leads as 13-year-old Mishra stars"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-human-factor-in-chess-review-barry-hymer",
          "pubDate" : "Fri, 13 May 2022 18:40:00 +0100",
          "title" : "Professor Barry Hymer reviews \"The Human Factor in Chess\""
-      },
-      {
-         "description" : "The sixth World Chess Champion was certainly not known for his cunning tactical manoeuvres. He actually confessed that he was relatively weak with tactics. Nonetheless, he was one of the best chess players in the world, and had to face a fair amount of tactical challenges over the board, which he solved brilliantly. Lawrence shows us more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-22",
-         "pubDate" : "Fri, 13 May 2022 18:30:00 +0100",
-         "title" : "Trent's Tactics - Was Botvinnik strong tactically?"
       },
       {
          "description" : " \"There's a lot of tension in that position dude!\" I said that to two of my students upon viewing their middle-game. Tension and stress are a killer, both on the chessboard and off the chessboard. In life, if you want to live to a ripe old age, your doctor will tell you to reduce the <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\">A Foundation for Beginners Sixty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impro",
