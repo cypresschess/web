@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91855509.cms\" />A record number of 343 teams from 187 countries will take part in the 44th Chess Olympiad to be held here from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/44th-chess-olympiad-189-teams-register-in-open-section-154-in-womens-category/articleshow/91855509.cms",
+         "pubDate" : "Sat, 28 May 2022 11:40:11 +0000",
+         "title" : "44th Chess Olympiad: 189 teams register in Open section, 154 in women's category"
+      },
+      {
          "description" : "‌In a new episode of chess24's Chess Talk with Jovanka, Azerbaijan star Shakhriyar Mamedyarov shares an inspirational story about his career, how he learned chess, growing up in a chess family and what made him break into the world's elite.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-qualifier-2-stefanova-wins",
          "pubDate" : "Fri, 27 May 2022 17:03:27 -0700",
          "title" : "Stefanova Wins Knockout: 2022 FIDE Chess.com WSCC, Qualifier 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1794",
+         "pubDate" : "Fri, 27 May 2022 22:28:41 +0000",
+         "title" : "WSCC 2022: Agrawal and Stefanova qualify for the main event"
       },
       {
          "description" : "With the accelerated shift from the written word to video content, some might feel that classic books are noteworthy only as historic footnotes in the evolution of chess. However, to do so is to not only deny yourself a deeper and richer culture, but also to overlook the invaluable lessons of the past. Here is a look at one of the great chess books and what makes it special.",
@@ -272,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-rosen-rozman",
          "pubDate" : "Thu, 26 May 2022 18:00:05 -0700",
          "title" : "Rosen Takes Revenge Vs Rozman: 2022 IMSCC, Quarterfinal"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1794",
-         "pubDate" : "Thu, 26 May 2022 22:28:41 +0000",
-         "title" : "WSCC 2022 Qualifier 1: Agrawal Wins Knockout"
       },
       {
          "description" : "China&#x2019;s Ding Liren battled mosquitoes, late-night starts and an inspired fightback from boy wonder Rameshbabu Praggnanandhaa to break Indian hearts and win the Chessable Masters today. The world no.2 had to neutralise an incredible performance from 16-year-old Pragg who came back hard after falling behind in the final yesterday. The youngster from Chennai had a []",
@@ -1578,14 +1586,6 @@ news_feed (
          "title" : "Zork!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91621572.cms\" />The All India Chess Federation (AICF) will be organising tournaments for school children across the country with an aim to promote the forthcoming 44th Chess Olympiad and also to popularise the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-to-organise-tourneys-to-popularise-chess-in-run-up-to-44th-olympiad/articleshow/91621572.cms",
-         "pubDate" : "Tue, 17 May 2022 12:52:06 +0000",
-         "title" : "AICF to organise tourneys to popularise chess in run up to 44th Olympiad"
-      },
-      {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ A month ago I presented a couple of exotic puzzles from the &#8220;Chess 2022 Day-to-Day Calendar: A Year of Chess Puzzles&#8221; <a href=\"https://chessimprover.com/chess-2022-february-top-picks/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 February Top Picks\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-february-top-picks/\">Chess 2022 February Top Picks</a> appeared first on <a rel=\"nofol",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2264,22 +2264,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/",
          "pubDate" : "Sat, 07 May 2022 19:39:47 +0000",
          "title" : "Geopolitics and the Diverse Voices in Chess"
-      },
-      {
-         "description" : " The early underpromotion to a knight is a well known trap in the Budapest Gambit, but it can be even more devastating in other circumstances. The following game may well be the quickest underpromotion checkmate there is, unless someone has constructed a shorter game. <br /> <b>Amateur - Goetz</b><br />Strassburg, 1880 <script>new PgnViewer( { boardName: \"game1325\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.b3 Qh4+ 4.g3 fxg3 5.h3 g2+ 6.Ke2 Qxe4+ 7.Kf2 gxh1=N#', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1325-container\"></div><div id=\"game1325-moves\"></div><br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/a-triple-knightmare.html",
-         "pubDate" : "Sat, 07 May 2022 12:52:00 +0000",
-         "title" : "A triple knightmare"
-      },
-      {
-         "description" : "\"Fields of Force\" was the title of an article written by the polymath and chess-lover George Steiner for the New Yorker in 1972, giving his slant on the celebrated Fischer v Spassky world championship in Reykjavik. I have borrowed the phrase to revert once again to the life and works of that master of chess []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/fields-of-force-marcel-duchamp-and-chess/",
-         "pubDate" : "Sat, 07 May 2022 12:31:36 +0000",
-         "title" : "Fields of force: Marcel Duchamp and chess"
       }
    ]
 }
