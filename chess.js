@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Federation of Argentina which this year celebrates its 100th anniversary disclosed who will compose Argentine National Teams at the upcoming 44th Chess Olympiad 2022 which starts on 28th July in Chennai. Argentine Team (Open section): GM Sandro Mareco (2653) GM Alan Pichot (2652) GM Fernando Peralta (2600) GM Federico Perez Ponsa (2553) GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/argentina-announces-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Sat, 28 May 2022 14:51:35 +0000",
+         "title" : "Argentina announces teams for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : " International Master Eugenio Campos is a long-time Olympian from Angola. Recently, he represented the country at the IPCA (International Physically Disabled Chess Association) tournament in Ashdod, Israel and placed a respectable 5/9. It is a tournament that he has participated in for the past decade. He has also represented his country in four Olympiad tournaments The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/\">IM Eugenio Campos at IPCA</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/",
+         "pubDate" : "Sat, 28 May 2022 14:43:05 +0000",
+         "title" : "IM Eugenio Campos at IPCA"
+      },
+      {
+         "description" : " The 2nd day of the 2022 ACT Championship was a lot tougher for the top seeds, with not everyone escaping unscathed. 2nd seed Junta Ikeda drew his third round game with Willis Lo, while 4th seed Fred Litchfield had a similar result in round 2 against James Phan. On the other hand IM Rishi Sardana reached 3 from 3 with a win over Harry Press in the afternoon round, joined by Cameron McGowan and Michael Kethro. Kethro showed good technique to convert a rook and pawn ending against CM Hui Li, from a position he thought might have been drawn. With 8 players within half a point of each other at the top, it is too early to pick a likely winner. McGowan and Sardana are on the top board for tomorrow",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-2-and-3.html",
+         "pubDate" : "Sat, 28 May 2022 14:35:00 +0000",
+         "title" : "2022 ACT Championship - Rounds 2 and 3"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91855509.cms\" />A record number of 343 teams from 187 countries will take part in the 44th Chess Olympiad to be held here from July 28 to August 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-rosen-rozman",
          "pubDate" : "Thu, 26 May 2022 18:00:05 -0700",
          "title" : "Rosen Takes Revenge Vs Rozman: 2022 IMSCC, Quarterfinal"
-      },
-      {
-         "description" : "China&#x2019;s Ding Liren battled mosquitoes, late-night starts and an inspired fightback from boy wonder Rameshbabu Praggnanandhaa to break Indian hearts and win the Chessable Masters today. The world no.2 had to neutralise an incredible performance from 16-year-old Pragg who came back hard after falling behind in the final yesterday. The youngster from Chennai had a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-is-the-winner-of-chessable-masters/",
-         "pubDate" : "Thu, 26 May 2022 21:30:47 +0000",
-         "title" : "Ding Liren is the Winner of Chessable Masters"
       },
       {
          "description" : "<div class=\"body text-secondary\"> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BU6VDRwLLS0.jpg?itok=lp9uou4r\" alt=\"\" /></a></div>",
@@ -2256,14 +2272,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/superbet-chess-classic-round-3-in-photos/",
          "pubDate" : "Sat, 07 May 2022 21:58:33 +0000",
          "title" : "Superbet Chess Classic: Round 3 in Photos"
-      },
-      {
-         "description" : " The Russian incursion into Ukraine is still burning up the news cycle more than two months after the geopolitical conflict began. The constant display of the horrid images of battle and scenes of death has filled our consciousness. The reaction was swift as FIDE condemned the act and decided to bring sanctions against the Russia The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/\">Geopolitics and the Diverse Voices in Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/07/geopolitics-and-the-diverse-voices-in-chess/",
-         "pubDate" : "Sat, 07 May 2022 19:39:47 +0000",
-         "title" : "Geopolitics and the Diverse Voices in Chess"
       }
    ]
 }
