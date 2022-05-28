@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Polarchy or Polyarchy is the idea to have the burden of government on the shoulders of multiple people, as opposed to the monarchy that only sees one king or queen with all the burden. In chess, the king remains the sole objective of the game, but in rare cases one might be faced with the constellation that said king is joined not only by one but two queens. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-double-trouble-queens",
+         "pubDate" : "Sat, 28 May 2022 20:00:00 +0100",
+         "title" : "Study of the Month - Double trouble queens"
+      },
+      {
+         "description" : "The breaking news of Richard Rapport's transfer to Romania exploded yesterday, overwhelming social media. The shockwaves of the news went through the chess world and engaged chess players and journalists who reacted to the unhoped transfer that includes also Richard's wife WGM Jovana Rapport. Just a day before confirmation that Rapport changes federation to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-chess-world-reacts-to-rapports-transfer/",
+         "pubDate" : "Sat, 28 May 2022 16:46:58 +0000",
+         "title" : "The chess world reacts to Rapport's transfer"
+      },
+      {
          "description" : "Exactly two months left before the start of the 44th Chess Olympiad 2022 and 187 countries with 343 teams (189 in the Open section and 154 in the Women's section) enrolled for the competition. In the previous Chess Olympiad held in Baku in 2018, the participation record of team numbers was set with 176 countries, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -256,14 +272,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/may/27/chess-rameshbabu-praggnanandhaa-reaches-final-at-2am-on-day-of-his-exams",
          "pubDate" : "Fri, 27 May 2022 11:17:58 +0000",
          "title" : "Chess: Rameshbabu Praggnanandhaa reaches final at 2am on day of his exams"
-      },
-      {
-         "description" : "The Ukrainian Grandmaster&#160;Andrii Baryshpolets&#160;is running for&#160;president&#160;of FIDE in the upcoming presidential elections during the&#160;Chess Olympiad 2022. Baryshpolets announced his intention to challenge Dvorkovich, pointing corruption practices, systematic reputational issues, misrepresentation of federations, and failures to observe democratic, liberal and corporate governance principles. The Danish Grandmaster Peter Heine Nielsen announced through social media that he will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-heine-nielsen-joins-andrii-baryshpolets-as-deputy/",
-         "pubDate" : "Fri, 27 May 2022 10:35:30 +0000",
-         "title" : "Peter Heine Nielsen joins Andrii Baryshpolets as deputy"
       },
       {
          "description" : "18-year-old Indian Champion Arjun Erigaisi tops the line-up for Leg 2 of the MPL Indian Chess Tour, with the 16-player tournament taking place here on chess24 from Thursday June 2nd at 15:30 IST (12:00 CEST). Arjun won the 1st Leg ahead of Raunak Sadhwani, Gukesh and Surya Ganguly, who all return, while 17-year-old Nihal Sarin and 2-time Indian Champion Aravindh Chithambaram make their debut on the $100,000 tour.",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1759",
          "pubDate" : "Fri, 13 May 2022 21:46:14 +0000",
          "title" : "FIDE delegation pays visit to Montenegro"
-      },
-      {
-         "description" : "A sceptic regarding the value of 'learning styles' approaches, Professor Barry Hymer feared that \"The Human Factor in Chess\", a book written by GMs Karsten M&uuml;ller and Luis Engel, would fall short of expectations. As he states in his review, though, the book \"recognises the dynamic evolution of many players' styles and, for the most part, it avoids assertions that are overly deterministic and mystical\". Moreover, Hymer asserts that the book is both instructive and a pleasurable read.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-human-factor-in-chess-review-barry-hymer",
-         "pubDate" : "Fri, 13 May 2022 18:40:00 +0100",
-         "title" : "Professor Barry Hymer reviews \"The Human Factor in Chess\""
       },
       {
          "description" : " \"There's a lot of tension in that position dude!\" I said that to two of my students upon viewing their middle-game. Tension and stress are a killer, both on the chessboard and off the chessboard. In life, if you want to live to a ripe old age, your doctor will tell you to reduce the <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\">A Foundation for Beginners Sixty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impro",
