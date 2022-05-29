@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 81st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-81-pawn-majorities-5",
+         "pubDate" : "Sun, 29 May 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 81: Pawn Majorities (5)"
+      },
+      {
+         "description" : "The Angola National Chess Championships 2022 in Open and Women's sections for classical, rapid and blitz time controls took place from 22-28 May. The main classical event was played from 22-27 May with 35 competitors in the Open event. After 9 rounds played in swiss system, IM David Silva won the Championship scoring unbeaten 7/9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/angola-crowns-national-chess-champions/",
+         "pubDate" : "Sun, 29 May 2022 13:43:31 +0000",
+         "title" : "Angola crowns National Chess Champions"
+      },
+      {
+         "description" : " Cameron McGowan has continued his good start to the 2022 ACT Championship, winning both his games today to lead on 5/5. After beating top seed IM Rishi Sardana in a complicated game, he backed up to beat FM Michael Kethro in round 5. This puts him ahead of Sardana, IM Junta Ikeda, Fred Litchfield and CM Hui Li, who are all on 4 points. Kethro had a particularly tough day, playing 100 moves against Ikeda, the last 50 being a RvB ending (no pawns!), before starting his round 5 game on a short break. While McGowan leads the tournament, the destination of the championship title is less clear (as it is restricted to ACT residents). Ikeda has the easier start in the morning round, but is likely t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-4-and-5.html",
+         "pubDate" : "Sun, 29 May 2022 13:34:00 +0000",
+         "title" : "2022 ACT Championship - Rounds 4 and 5"
+      },
+      {
+         "description" : "One of the best Grandmasters in the World, number 9 on the World's rankings list, Levon Aronian was spotted today playing street chess in Barcelona. Read more: More than 500 kids crowd the central street of Berga to play Chess The Chessable company, part of the Play Magnus Group, last month started filming the street []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-playing-chess-on-barcelonas-streets-tweetoftheday/",
+         "pubDate" : "Sun, 29 May 2022 13:16:22 +0000",
+         "title" : "Levon Aronian playing chess on Barcelona's streets #TweetOftheDay"
+      },
+      {
          "description" : "It is a little known fact that Queen Victoria, by virtue of her being declared Empress of India in 1876, was the ruler of the world's third largest Muslim population, behind only the Islamic Sultan of Turkey and the Orthodox Christian Czar of Russia. Indeed, the very word Czar (cognate with Kaiser) is derived from Caesar, the name []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -242,14 +274,6 @@ news_feed (
          "title" : "96th Argentine Chess Championship"
       },
       {
-         "description" : "The Saint Louis Chess Club will host the second leg of the Classic Series, the 2022 Summer Chess Classic, from June 1-11. The event is comprised of two 10-player Round Robin tournaments: A and B. Over the course of 9 days, twenty competitors will compete for $36,000 in prize money and gain valuable experience in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-summer-chess-classic/",
-         "pubDate" : "Fri, 27 May 2022 15:20:45 +0000",
-         "title" : "2022 Summer Chess Classic"
-      },
-      {
          "description" : "The fourth season of the Collegiate Chess League came to a dramatic finish this weekend with the University of Texas Rio Grande Valley completing their perfect season 10-0 to win the championship title along with $5,000. They took down last season...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-round-1.html",
          "pubDate" : "Fri, 27 May 2022 14:01:00 +0000",
          "title" : "2022 ACT Championship - Round 1"
-      },
-      {
-         "description" : "The Hungarian Chess Federation is about to lose one of its greatest chess geniuses, as Richard Rapport received an irresistible offer from Superbet. A Romanian company led by a billionaire owner of Serbian origin placed a sponsorship offer with Rapport that would help him to get a real chance of winning the world champion title []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/breaking-richard-rapport-changes-federation-to-romania/",
-         "pubDate" : "Fri, 27 May 2022 13:43:09 +0000",
-         "title" : "BREAKING: Richard Rapport changes federation to Romania"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ding Liren</strong> confirms his shape for the Candidates Tournament <a href=\"https://chess24.com/tour/\">by winning</a> the <strong>Chessable Masters</strong>, the fourth event of the <strong>Meltwater Champions Chess Tour</strong>. The surprise of the tournament was 16-year-old <strong>Pragnanandhaa</strong> who reached the final, which he lost only narrowly in spite of school examinations on the same days. <strong>Indian Oil</strong> was <a href=\"https://twitter.com/Rameshchess/status/1529773904352649222\">announced as his new sponsor</a>. </div> ",
@@ -1914,14 +1930,6 @@ news_feed (
          "title" : "Jamaica's Christie wins Heroes Cup 2022!"
       },
       {
-         "description" : "Four French champions will gather at Blitz Society (pictured), the hip new chess meeting point in the heart of Paris, for a rapid match against four champions from Ukraine. The match will take place on Saturday, May 14, starting at 17.30 CEST. Donations for Ukrainian relief efforts are being collected by UNICEF!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ukraine-france-solidarity-match-paris",
-         "pubDate" : "Sat, 14 May 2022 11:00:00 +0100",
-         "title" : "Ukraine vs France solidarity match in Paris"
-      },
-      {
          "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. After tying for first place on 5&frac12;/9, Wesley So, Levon Aronian and Maxime Vachier-Lagrave are deciding who wins the tournament in a rapid-chess playoff. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2256,22 +2264,6 @@ news_feed (
          "link" : "https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/",
          "pubDate" : "Sun, 08 May 2022 16:12:48 +0000",
          "title" : "France wins historical double gold at Mitropa Cup 2022"
-      },
-      {
-         "description" : " GM Hrant Melkumyan, winner of this years Doeberl Cup, took on 18 ACT junior players in a simultaneous display today. While a number of players made him work for his wins, and there was a drawing line that might have been missed in the final game, he ended up with a perfect 18 wins and no losses. However the quality of play was quite high in most of the games, although the GM technique of picking up small pieces of material at regular intervals was on full display. While every player survived the first hour, and most reached 20 moves, it was in the middlegame where most players came undone. A few players did survive to the ending (including one game that went past 60 moves), but in those cas",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/2022-actjcl-gm-simul.html",
-         "pubDate" : "Sun, 08 May 2022 13:46:00 +0000",
-         "title" : "2022 ACTJCL GM Simul"
-      },
-      {
-         "description" : " Top-seed Brewington Hardaway won the K8 National Championship on tiebreaks over four co-champions. All ended with 6/7. Now 13, Brewington has continued to improve and adds the K8 title to add to the 7th grade title he won at the K12 Championships in December. He also got 9/9 in the XXXI Pan American Youth Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/\">Brewington Hardaway wins K8!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
-         "pubDate" : "Sun, 08 May 2022 12:44:50 +0000",
-         "title" : "Brewington Hardaway wins K8!"
       }
    ]
 }
