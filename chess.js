@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Norway Chess 2022&#xA0;commences today taking place from May 30th to June 10th in Stavanger. The event kicks off with the Blitz tournament which will determine the pairings of the main classical event. The event is played as a 10 player round robin with&#160;Magnus Carlsen as the top seed. The final list of participants after []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-2022-live/",
+         "pubDate" : "Sun, 29 May 2022 21:47:27 +0000",
+         "title" : "Norway Chess 2022 LIVE"
+      },
+      {
+         "description" : "The tenth edition of the Norway Chess Tournament is set to kick off on Monday, with a blitz tournament which will decide who gets more whites in the main event. An impressive lineup, including Magnus Carlsen, Vishy Anand and Veselin Topalov, will fight in a 9-round all-play-all with a unique format - in case of a draw, an Armageddon follows. Richad Rapport, who will play the Candidates in a few weeks, withdrew from the tournament; Aryan Tari stepped in (pictured). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-preview",
+         "pubDate" : "Sun, 29 May 2022 22:10:00 +0100",
+         "title" : "Norway Chess kicks off Monday, Rapport withdraws"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1796",
+         "pubDate" : "Sun, 29 May 2022 20:39:39 +0000",
+         "title" : "Nataša Richterova wins Czech Women's Championship"
+      },
+      {
          "description" : "Magnus Carlsen and Vishy Anand will lock horns again as the 10th editor of Norway Chess starts in Stavanger this Monday with a blitz tournament. In the run-up to the event the organisers explained why they decided to invite a number of semi-retired and inactive players, including a surprise return to top-level action for China's Wang Hao.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/rapport-to-represent-romania/",
          "pubDate" : "Fri, 27 May 2022 16:57:40 +0100",
          "title" : "Rapport to represent Romania"
-      },
-      {
-         "description" : "The 96th edition of the Argentine National Chess Championship will take place from 2-12 June, 2022 in Club Argentino de Ajedrez located in Buenos Aires. The event is organized by the Chess Federation of Argentina which this year celebrates its 100th anniversary. More than 100 players registered for the event which will be played in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/96th-argentine-chess-championship/",
-         "pubDate" : "Fri, 27 May 2022 15:49:56 +0000",
-         "title" : "96th Argentine Chess Championship"
       },
       {
          "description" : "The fourth season of the Collegiate Chess League came to a dramatic finish this weekend with the University of Texas Rio Grande Valley completing their perfect season 10-0 to win the championship title along with $5,000. They took down last season...",
@@ -1930,14 +1946,6 @@ news_feed (
          "title" : "Jamaica's Christie wins Heroes Cup 2022!"
       },
       {
-         "description" : "The Superbet Chess Classic is being held in Bucharest, Romania at the Sheraton Hotel from May 5 to May 14. It includes all nine full tour players and one wildcard player, Romanian grandmaster Bogdan-Daniel Deac. After tying for first place on 5&frac12;/9, Wesley So, Levon Aronian and Maxime Vachier-Lagrave are deciding who wins the tournament in a rapid-chess playoff. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-live",
-         "pubDate" : "Sat, 14 May 2022 10:55:00 +0100",
-         "title" : "Superbet Chess Classic - Games and standings"
-      },
-      {
          "description" : "Just over a year ago I celebrated the 99th birthday of the Russian Grandmaster, world championship candidate and former Soviet champion, Yuri Averbakh. Sadly, having passed his 100th birthday in February, Averbakh finally succumbed to the ravages of time on May 7th (last Saturday). I cannot avoid the suspicion that the complications in Russian life []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://www.espn.com/blog/baltimore-ravens/post/_/id/55962/trusting-film-not-stopwatch-why-the-baltimore-ravens-believe-kyle-hamilton-is-a-steal?device=featurephone",
          "pubDate" : "Mon, 9 May 2022 06:00:51 -0500",
          "title" : "Trusting film, not stopwatch: Why the Baltimore Ravens believe Kyle Hamilton is a steal"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1729",
-         "pubDate" : "Mon, 09 May 2022 08:18:12 +0000",
-         "title" : "FIDE Candidates 2022: tiebreaker play-off format"
       },
       {
          "description" : "Dear Chess Friends, The following valid nominations have been received within the deadline of the 6th May 2022, for the ECU Board elections 2022. . A Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/circular-letter-no-2-2022/\">Read More &#187;</a></span>",
