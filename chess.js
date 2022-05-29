@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg\" data-image-dimensions=\"1713x805\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6292d780000e1722c23bd3ae\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg?format=1000w\" /> </figure> <p class=\"\">After a one month hiatus, Chess Books Recaptured returns to discuss another classic chess book- GM Alexei Shirov's <a href=\"https://www.amazon.com/Fire-B",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/28/book-recap-26-discussing-alexei-shirovs-fire-on-board-with-mitchell-fabian",
+         "pubDate" : "Sun, 29 May 2022 02:18:52 +0000",
+         "title" : "Book Recap #26- Discussing Alexei Shirov's Fire on Board with Mitchell Fabian "
+      },
+      {
+         "description" : "DZ-BANK and the chess club of the Cultural and Sports Association of the Deutsche Bundesbank organized a charity simultaneous exhibition with the Ukrainian national champion WIM Kateryna Dolzhykova at the premises of the bank in Frankfurt.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kateryna-dolzhykova-simul-for-charity",
+         "pubDate" : "Sun, 29 May 2022 03:00:00 +0100",
+         "title" : "Kateryna Dolzhykova gives a simul for charity in Frankfurt"
+      },
+      {
          "description" : "18-year-old German International Master Frederik Svane achieved two grandmasters norms in 24 hours to secure his Grandmaster title. Svane finished the Hamburg Chess Club GM Invitational 2022 yesterday and today played the 9th round of Schachbundesliga. Finishing the Hamburg Chess Club GM Invitational with an unbeaten 6.5 points and the rating performance of 2607, Rasmus []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1912,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1758",
          "pubDate" : "Sat, 14 May 2022 03:04:26 +0000",
          "title" : "FIDE extends simplified procedure for playing under FIDE flag"
-      },
-      {
-         "description" : "Wesley So and Levon Aronian top the standings table with one round to go at the Superbet Chess Classic in Romania. While So had little trouble drawing Alireza Firouzja in round 8, Aronian was inches away from losing against Ian Nepomniachtchi. In the one decisive result of the day, Leinier Dominguez got the better of Shakhriyar Mamedyarov. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r8",
-         "pubDate" : "Sat, 14 May 2022 03:05:00 +0100",
-         "title" : "Superbet: Aronian escapes, still shares the lead"
       },
       {
          "description" : " For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
