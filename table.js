@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2022-05-27","16","<a href=http://www.uschess.org/msa/XtblMain.php?202205277322 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-05-27","18","<a href=http://www.uschess.org/msa/XtblMain.php?202205277252 target='_blank'>KINGHTS OF CYPRESS</a>",
 "HOUSTON","2022-05-03  - 05-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202205246312 target='_blank'>MAY TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2022-05-02  - 05-23","11","<a href=http://www.uschess.org/msa/XtblMain.php?202205235742 target='_blank'>CLCC MARCH MONDAYS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-07-16","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107161302 target='_blank'>FRIDAYFLEXJULIII</a>",
 "PEARLAND","2021-07-12  - 07-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202107155942 target='_blank'>SCS PEARLAND MARRIOTT CHESS CAMP</a>",
 "HOUSTON","2021-07-09","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107096112 target='_blank'>FRIDAYFLEX79</a>",
-"CYPRESS","2021-07-09","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107096102 target='_blank'>05212021KOFC</a>",
 ]);
