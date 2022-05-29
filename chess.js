@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is a little known fact that Queen Victoria, by virtue of her being declared Empress of India in 1876, was the ruler of the world's third largest Muslim population, behind only the Islamic Sultan of Turkey and the Orthodox Christian Czar of Russia. Indeed, the very word Czar (cognate with Kaiser) is derived from Caesar, the name []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/lost-empires/",
+         "pubDate" : "Sun, 29 May 2022 09:11:10 +0000",
+         "title" : "Lost Empires"
+      },
+      {
+         "description" : "The 47th Lebanese National Chess Championship was played from 18-27 May in Keshmat Chess Center. The event attracted more than 50 entries who competed for the title of National Champion in 9 swiss system rounds. The top seed of the event FM Amro El Jawich won the event scoring 7.5 points. El Jawich did not []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/amro-el-jawich-wins-47th-lebanese-chess-championship/",
+         "pubDate" : "Sun, 29 May 2022 09:10:22 +0000",
+         "title" : "Amro El Jawich wins 47th Lebanese Chess Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> announced that he might not defend the classical world champion title again. Is it unfair to his colleagues who compete at the forthcoming <strong>Candidates Tournament?</strong> </div> <div class='articletext'> <div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/lon03886.1920.jpeg\" title=\"Will he play another match? Magnus Carlsen wants to see the Candidates first and decide after. Lennart Ootes / Altibox Norway Chess\" data-title=\"Will he play another match? Magnus Carlsen wants to see the Candidates first and decide after. (Lennart Ootes / Altibox Norway Chess)\" class=\"js-img\"> <img itempro",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/should-carlsen-decide-now/",
+         "pubDate" : "Sun, 29 May 2022 10:03:52 +0100",
+         "title" : "Should Carlsen decide now?"
+      },
+      {
+         "description" : "Machgielis \"Max\" Euwe is one of the most esteemed figures in chess history. A teacher and a professed chess amateur, he did the unthinkable when he became world champion in 1935, defeating an all-time great in Alexander Alekhine. On top of that, he was a perennial top player from the late 1920s to the 1950s, an outstanding writer, and F&eacute;d&eacute;ration Internationale des Échecs (FIDE) President in the latter part of his life. On the recent occasion of Euwe's 121st birth anniversary, Eugene Manlapao explores the life and times of chess' 5th world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-max-euwe-121-birth-anniversary",
+         "pubDate" : "Sun, 29 May 2022 10:00:00 +0100",
+         "title" : "Remembering Machgielis \"Max\" Euwe on his 121st birth anniversary"
+      },
+      {
+         "description" : " You reach an ending with king and pawn against king and pawn. Both players promote: king and queen against king and queen. Time to agree a draw, shake hands and adjourn to the bar? Not always. There are one or two positions where you can win: it's well worth knowing them just in case one <a href=\"https://chessimprover.com/queen-against-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen Against Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-against-queen/\">Queen Against Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/queen-against-queen/",
+         "pubDate" : "Sun, 29 May 2022 08:54:19 +0000",
+         "title" : "Queen Against Queen"
+      },
+      {
+         "description" : "Montenegrin Chess Federation determined teams for the 44th Chess Olympiad 2022 which kicks off in two months in Chennai, India. Read more: 187 countries enrolled for the record-breaking 44th Chess Olympiad 2022 Team Montenegro (Open section): GM Denis Kadric (2576) GM Nikola Djukic (2527) IM Luka Draskovic (2484) GM Dragisa Blagojevic (2501) FM Andrej Sukovic []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/team-montenegro-set-for-the-44th-chess-olympiad-2022/",
+         "pubDate" : "Sun, 29 May 2022 08:44:44 +0000",
+         "title" : "Team Montenegro set for the 44th Chess Olympiad 2022"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg\" data-image-dimensions=\"1713x805\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6292d780000e1722c23bd3ae\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg?format=1000w\" /> </figure> <p class=\"\">After a one month hiatus, Chess Books Recaptured returns to discuss another classic chess book- GM Alexei Shirov's <a href=\"https://www.amazon.com/Fire-B",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -234,14 +282,6 @@ news_feed (
          "title" : "BREAKING: Richard Rapport changes federation to Romania"
       },
       {
-         "description" : "Norway Chess 2022&#xA0;is going to take place May 31st to June 10th in Stavanger. It is going to be a 10 player round robin with Magnus Carlsen (who recently won&#xA0;Airthings Masters&#xA0;and&#xA0;Charity Chess Cup), Wesley So (recent&#xA0;winner&#xA0;of Grand Prix Berlin), Shakhriyar Mammedyarov (semifinalist&#xA0;of the Grand Prix Berlin), Maxime-Vachier Lagrave (the winner of Grand Chess Tour Romania []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-2022-final-participants-list-with-replacement-for-rapport/",
-         "pubDate" : "Fri, 27 May 2022 13:42:00 +0000",
-         "title" : "Norway Chess 2022 - Final participants list with replacement for Rapport"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ding Liren</strong> confirms his shape for the Candidates Tournament <a href=\"https://chess24.com/tour/\">by winning</a> the <strong>Chessable Masters</strong>, the fourth event of the <strong>Meltwater Champions Chess Tour</strong>. The surprise of the tournament was 16-year-old <strong>Pragnanandhaa</strong> who reached the final, which he lost only narrowly in spite of school examinations on the same days. <strong>Indian Oil</strong> was <a href=\"https://twitter.com/Rameshchess/status/1529773904352649222\">announced as his new sponsor</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ksimdzanov-top-choice-french-defence-a-review",
          "pubDate" : "Fri, 27 May 2022 13:00:00 +0100",
          "title" : "Top choice: Kasimdzhanov's French Defence - a review"
-      },
-      {
-         "description" : "Indomitable engine Stockfish, having already won the TCEC Season 22, won the TCEC Cup 10 by defeating Komodo Dragon in the finals. After Stockfish's dominant performance in Premier Division and&#xA0;record-setting victory&#xA0;against Komodo Dragon in the Superfinal, few people would bet against Stockfish winning the Cup. The short matches of the Cup meant that small sample []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-the-jubilee-edition-of-the-tcec-cup/",
-         "pubDate" : "Fri, 27 May 2022 11:42:29 +0000",
-         "title" : "Stockfish wins the jubilee edition of the TCEC Cup"
       },
       {
          "description" : "Ding Liren won the Chessable Masters after beating 16-year-old Praggnanandhaa in the final match's tiebreaks. The Chinese had won the first set on Wednesday, but saw his opponent bouncing back in the second 4-game mini-match. A clear rating favourite, Ding defeated his prodigious rival in the deciding blitz tiebreaker.",
@@ -600,14 +632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1788",
          "pubDate" : "Wed, 25 May 2022 09:18:50 +0000",
          "title" : "FIDE Chess.com Women's Speed Chess Championship gets underway"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Uppsala Chess Academy</strong> and <strong>Offerspill Chess Club</strong> Oslo have signed a <a href=\"https://usss.se/wp/wp-content/uploads/2022/05/Press-Release-Uppsala-Chess-Academy-and-Offerspill-Sjakklubb-initiates-formal-cooperation.pdf\">cooperation agreement</a> that includes joint competitions, training camps and <strong>Jesper Hall Bergmark</strong> supervising the training of the Norwegian top players. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nordic-cooperation/",
-         "pubDate" : "Wed, 25 May 2022 10:10:44 +0100",
-         "title" : "Nordic cooperation"
       },
       {
          "description" : "",
@@ -1914,14 +1938,6 @@ news_feed (
          "title" : "Yuri Averbakh, 1922-2022"
       },
       {
-         "description" : "In the diagram position White just played 12.Rd1 to attack Black's knight on d5 and to force Black to make a difficult choice: should Black play 12...Qa5 or 12...Be6 - which move gets your okay?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/back-rank-tricks-in-the-catalan",
-         "pubDate" : "Sat, 14 May 2022 09:00:00 +0100",
-         "title" : "Back rank tricks in the Catalan"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2138,14 +2154,6 @@ news_feed (
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
       },
       {
-         "description" : " \"Choices are the hinges of destiny\" Pythagoras Last week we saw how a bad opening setup has put White in a lost position. Black obliged but his attack came with hesitation and missed a couple of clear wins. Have another look at the position we stopped at with Black up an exchange. This should also <a href=\"https://chessimprover.com/quick-decisions-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-9/\">Quick Decisions (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/quick-decisions-9/",
-         "pubDate" : "Tue, 10 May 2022 15:23:32 +0000",
-         "title" : "Quick Decisions (9)"
-      },
-      {
          "description" : " The position below is from a game I played tonight, and is just before a draw was agreed. Weirdly Deep Fritz thinks that Black is clearly better in this position. Sure Black is a piece up, but the knight cannot jump across the board to engineer a very unlikely mate. I guess this shows that there is still some differences between humans and chess engines. <br /> <script>new PgnViewer( { boardName: \"game1327\", movesFormat: \"default\", pgnString:'[FEN \"7n/7P/8/8/2k5/p7/8/1K6 w - - 0 52\"]', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1327-container\"></div><div id=\"game1327-moves\"></div><br />",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/08/brewington-hardaway-wins-k8/",
          "pubDate" : "Sun, 08 May 2022 12:44:50 +0000",
          "title" : "Brewington Hardaway wins K8!"
-      },
-      {
-         "description" : "Only Grandmaster, who reached 100 years passed away in Moscow. When I was twelve &#160;I was lucky to buy one of the best endgame books! It was Yuri Averbakh three volumes endgame manual. I studied every position from the books! It was his main endgame evergreen work. I could never imagine in that moment ., that after 10&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/100-years-old-legendary-grandmaster-yuri-averbakh-passed-away/",
-         "pubDate" : "Sun, 08 May 2022 08:01:03 +0000",
-         "title" : "100 years old Legendary Grandmaster Yuri Averbakh passed away"
       }
    ]
 }
