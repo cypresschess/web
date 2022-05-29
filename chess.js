@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Vishy Anand will lock horns again as the 10th editor of Norway Chess starts in Stavanger this Monday with a blitz tournament. In the run-up to the event the organisers explained why they decided to invite a number of semi-retired and inactive players, including a surprise return to top-level action for China's Wang Hao.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-and-anand-feature-in-surprising-norway-chess-line-up",
+         "pubDate" : "Sun, 29 May 2022 19:26:42 +0000",
+         "title" : "Carlsen and Anand feature in surprising Norway Chess line-up"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 81st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1362,14 +1370,6 @@ news_feed (
          "title" : "Superbet Rapid Chess: Indian GM Anand continues to lead the field"
       },
       {
-         "description" : "Chinese star Ding Liren has revealed he's booked his ticket and is hoping to get a visa approved so he can travel to the Candidates. Speaking publicly for the first time about his epic race against time to be eligible, the newly-installed world No.2 said the experience has spurred him on to play the best chess of his life.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-liren-i-m-buying-my-ticket-to-the-candidates",
-         "pubDate" : "Fri, 20 May 2022 16:01:00 +0000",
-         "title" : "Ding Liren: I'm buying my ticket to the Candidates!"
-      },
-      {
          "description" : "In the first day of the Champions Chess Tour, Gawain Jones played the Kings Indian against Vidit Gujrathi because it is a very legit weapon. One of Svitlana's favourite openings deserves a second part, to get into some deeper strategic territory. What if White is castling on the queen side? We adjust our plans, and build up some important decisions. Svitlana analyses an interesting King's Indian game between Ivan Cheparinov, and Wang Yue!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.europechess.org/circular-letter-no-2-2022/",
          "pubDate" : "Mon, 09 May 2022 06:03:40 +0000",
          "title" : "Circular Letter No.2/2022"
-      },
-      {
-         "description" : "The 2022 Mitropa Chess Cup took place from 27th April 8th May in Corti, Corsica France. The traditional event for teams from Central Europe was played in 9 round-robin rounds within Open and Women's sections. French teams won the historical double gold , winning both Mitropa Cup events. French team in the Open section scored convincing 16&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/france-wins-historical-double-gold-at-mitropa-cup-2022/",
-         "pubDate" : "Sun, 08 May 2022 16:12:48 +0000",
-         "title" : "France wins historical double gold at Mitropa Cup 2022"
       }
    ]
 }
