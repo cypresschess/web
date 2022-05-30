@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #196 Karsten M&uuml;ller and the young Ukrainian talent Tichon Cherniaev look at rook endings, the kind of endings that occur most often in practice. But Karsten and Tichon end the show with an analysis of two amazing endgames, in which bishops fight against knights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-196-with-tichon-cherniaev-endgame-highlights-from-the-chessable-masters",
+         "pubDate" : "Mon, 30 May 2022 17:00:00 +0100",
+         "title" : "Endgame Magic #196 with Tichon Cherniaev: Endgame highlights from the Chessable Masters"
+      },
+      {
+         "description" : "Surprising news from Romania: As the Romanian Chess Federation announced, Richard Rapport and his wife Jovana will join the Romanian Chess Federation. Hungary thus loses its top player. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/richard-rapport-joins-romanian-chess-federation",
+         "pubDate" : "Mon, 30 May 2022 16:34:34 +0100",
+         "title" : "Richard Rapport joins Romanian Chess Federation"
+      },
+      {
+         "description" : "The 5th edition of the Sharjah Chess Masters&#160;international tournament was held from 20th-30th May in Sharjah Cultural &#38; Chess Club. The selected 80 players competed in a 9 round swiss system tournament for the prize fund of 55.000$. 18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov won the event scoring 7/9 points as he had better tiebreak criteria []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-nodirbek-is-the-winner-of-5th-sharjah-chess-masters/",
+         "pubDate" : "Mon, 30 May 2022 14:53:10 +0000",
+         "title" : "Abdusattorov Nodirbek is the Winner of 5th Sharjah Chess Masters"
+      },
+      {
+         "description" : "The Czech Women&#x2019;s Chess Championship 2022&#160;took place from 21-29 May in Jaromerice nad Rokytnou. The event was played as a 10-player round robin tournament and after 9 exciting games, WIM Natasa Richterova clinched the title of Czech Women's National Champion. The last round of the event decided the Winners and medalists as the two top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wim-natasa-richterova-wins-czech-womens-championship-2022/",
+         "pubDate" : "Mon, 30 May 2022 14:15:54 +0000",
+         "title" : "WIM Natasa Richterova wins Czech Women's Championship"
+      },
+      {
+         "description" : " The 2022 ACT Chess Championship ended in a tie for 1st place, between the top two seeds, IM Rishi Sardana and IM Junta Ikeda. Unusually, the two winners did not actually play each other, instead getting to 6 points by beating other players. The morning round saw previous leader Cameron McGowan lost to Fred Litchfield, which threw the tournament wide open. Going into the final round, there were 4 players on 5/6, with Sardana against Litchfield and Ikeda against McGowan. Sardana struck first, beating Litchfield after winning a piece in the middlegame, while Ikeda eventually triumphed after tactics went in his favour. Other results saw a 6 way tie for 3rd, involving most of the top seeds. The ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-title-shared.html",
+         "pubDate" : "Mon, 30 May 2022 13:51:00 +0000",
+         "title" : "2022 ACT Championship - Title shared between Sardana and Ikeda"
+      },
+      {
          "description" : "Nodirbek Abdusattorov (pictured) won the strong 5th Sharjah Masters in the United Arab Emirates. After nine rounds Abdusattorov and local hero Saleh Salem shared first place with 7.0/9, but thanks to his better tiebreak Abdusattorov won the tournament. The best woman player in the 80-player field was Valentina Gunina. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/187-countries-enrolled-for-the-record-breaking-44th-chess-olympiad-2022/",
          "pubDate" : "Sat, 28 May 2022 15:07:08 +0000",
          "title" : "187 countries enrolled for the record-breaking 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "The Chess Federation of Argentina which this year celebrates its 100th anniversary disclosed who will compose Argentine National Teams at the upcoming 44th Chess Olympiad 2022 which starts on 28th July in Chennai. Argentine Team (Open section): GM Sandro Mareco (2653) GM Alan Pichot (2652) GM Fernando Peralta (2600) GM Federico Perez Ponsa (2553) GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/argentina-announces-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Sat, 28 May 2022 14:51:35 +0000",
-         "title" : "Argentina announces teams for 44th Chess Olympiad 2022"
       },
       {
          "description" : " International Master Eugenio Campos is a long-time Olympian from Angola. Recently, he represented the country at the IPCA (International Physically Disabled Chess Association) tournament in Ashdod, Israel and placed a respectable 5/9. It is a tournament that he has participated in for the past decade. He has also represented his country in four Olympiad tournaments The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/\">IM Eugenio Campos at IPCA</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1898,22 +1930,6 @@ news_feed (
          "title" : "Averbakh Variation"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 79th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-79-pawn-majorities-3",
-         "pubDate" : "Sun, 15 May 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 79: Pawn Majorities (3)"
-      },
-      {
-         "description" : "Yuri Averbakh is no more. Tributes are pouring in from all over the world to the late grandmaster, who had only recently turned 100 and chess fans had celebrated the day. Not many are aware that he wrote his autobiography years before. Our columnist had begun a series on this fascinating work and narrated how it all began. Then came the Ukraine war, and he could not bring himself to write anything in the face of this tragedy. Sadly, the war is continuing, and our columnist has reconciled himself to writing. Importantly, this series is a homage to the life and work of a great player. | Photo: Eric Koch / Anefo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-grandmaster-and-candidate",
-         "pubDate" : "Sun, 15 May 2022 14:00:00 +0100",
-         "title" : "Averbakh on Averbakh: Grandmaster and World Championship candidate"
-      },
-      {
          "description" : " I came across an article on decision making, called \"<a href=\"https://bigthink.com/neuropsych/the-37-percent-rule/\">The 37% Rule</a>\". Basically it suggests that you spend the first 37% of the time you take to make a decision to collect and collate information about the decision. Then when you come across an option that exceeds the best option you identified initially, you take that option and stop searching. If you don't find a better choice, then take the best option from your initial research. How does this apply to chess then? On the one hand it probably doesn't, but on the other it may help solve the problem of time management. If you reach a critical phase of the game, and you feel th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2248,14 +2264,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/",
          "pubDate" : "Tue, 10 May 2022 00:10:51 +0000",
          "title" : "110 Instructive Chess Annotations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1743",
-         "pubDate" : "Mon, 09 May 2022 15:07:41 +0000",
-         "title" : "Mariano Ortega wins Cape Verde Open 2022"
       }
    ]
 }
