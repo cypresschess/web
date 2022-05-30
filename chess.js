@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 16th week of the Rapid Chess Championship, presented by Coinbase, concluded today with an inaugural win for GM Alexander Grischuk in the knockout, while GM Raunak Sadhwani won the Swiss on tiebreak ahead of GMs Hikaru Nakamura, Fabiano Caruana...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-16-grischuk-wins",
+         "pubDate" : "Sun, 29 May 2022 19:09:01 -0700",
+         "title" : "Grischuk Wins Knockout: Rapid Chess Championship Week 16"
+      },
+      {
          "description" : "Norway Chess 2022&#xA0;commences today taking place from May 30th to June 10th in Stavanger. The event kicks off with the Blitz tournament which will determine the pairings of the main classical event. The event is played as a 10 player round robin with&#160;Magnus Carlsen as the top seed. The final list of participants after []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kashlinskaya-blitzes-yip-2022-imscc-round-of-16",
          "pubDate" : "Fri, 20 May 2022 01:13:18 -0700",
          "title" : "Kashlinskaya Blitzes Yip: 2022 IMSCC, Round Of 16"
-      },
-      {
-         "description" : "GM Wei Yi took an early lead at the 2022 Meltwater Champion&#39;s Chess Tour&#39;s Chessable Masters on Thursday, scoring a draw and three wins. GM Abhimanyu Mishra, the youngest grandmaster in the world, won twice&#38;mdash;like world champion Magnus Carlsen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-1",
-         "pubDate" : "Fri, 20 May 2022 00:45:00 -0700",
-         "title" : "Wei Yi Leads, Mishra Shines: Chessable Masters, Day 1"
       },
       {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
