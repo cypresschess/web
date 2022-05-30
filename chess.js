@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen has held the No. 1 position in the&#xA0;FIDE world chess rankings&#xA0;since 1 July 2011, and trails only&#xA0;Garry Kasparov&#xA0;in&#xA0;time spent as the highest-rated player in the world. Carlsen's peak&#xA0;rating&#xA0;of 2882 is the&#xA0;highest in history, but can he make it to 2900?! Carlsen is currently playing the Norway Chess 2022 which commenced []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/can-magnus-reach-the-rating-of-2900-tweetoftheday/",
+         "pubDate" : "Mon, 30 May 2022 21:55:37 +0000",
+         "title" : "Can Magnus reach the rating of 2900? #TweetOftheDay"
+      },
+      {
+         "description" : "Wesley So today won the Norway Chess Blitz tournament in Stavanger showing he is fronting the classical tournament in a good shape and mood. So had a slow start losing to&#160;Wang Hao&#160;in the first round with the next two games finishing in a draw and explained that the opening didn't go well against Wang: &#8220;The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-i-felt-like-playing-1-h5-or-1-a5-against-carlsen-video/",
+         "pubDate" : "Mon, 30 May 2022 21:38:19 +0000",
+         "title" : "Wesley So: I felt like playing 1&hellip;h5 or 1&hellip;a5 against Carlsen (VIDEO)"
+      },
+      {
+         "description" : "The Norway Chess 2022 Blitz tournament was played today afternoon deciding the pairings of the main classical event that kicks off tomorrow in Stavanger. Wesley So triumphed in the field of 10 world class players, scoring 6.5/9 points to be the sole Winner of the Blitz tournament. So had a slow start losing to Wang []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-wins-norway-chess-blitz-choosing-number-one-for-classical-event/",
+         "pubDate" : "Mon, 30 May 2022 20:07:09 +0000",
+         "title" : "Wesley So wins Norway Chess Blitz choosing number one for Classical event"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chesskid</strong> is the <a href=\"https://www.chesskid.com/learn/articles/chesskid-enters-new-partnership-with-classlink\">first chess learning platform</a> that is available on <strong>ClassLink</strong>, a provider of single sign-on for students digital learning and analytics for their schools, strengthening its position in the US market. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chesskid-partners-with-classlink/",
+         "pubDate" : "Mon, 30 May 2022 20:38:38 +0100",
+         "title" : "Chesskid partners with ClassLink"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Ukrainian grandmaster <strong>Andrii Baryshpolets</strong> explains why he is running to replace <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> in the 7 August election. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-30-at-19-48.1920.jpeg\" title=\"Andrii Baryshpolets went from Ukraine to Texas on a chess scholarship in 2015. After graduating with a PhD in economics last year, the 31-year-old grandmaster has joined PwC in Los Angeles as a Senior Associate. photo: American-Ukrainian Medical Foundation\" data-title=\"Andrii Baryshpolets went from Ukraine",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/no-more-political-sponsorship-and/",
-         "pubDate" : "Mon, 30 May 2022 19:24:39 +0100",
+         "pubDate" : "Mon, 30 May 2022 19:32:20 +0100",
          "title" : "\"No more political sponsorship and sportswashing\""
       },
       {
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/frederik-svane-2-gm-norms-in-24-hours",
          "pubDate" : "Mon, 30 May 2022 10:44:28 -0700",
          "title" : "Frederik Svane Sets Likely Record, Scoring Final 2 GM Norms In 24 Hours"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chesskid</strong> is the first chess learning platform that is available on <strong>ClassLink</strong>, a provider of single sign-on for students digital learning and analytics for their schools, strengthening its position in the US market. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chesskid-partners-with-classlink/",
-         "pubDate" : "Mon, 30 May 2022 18:21:06 +0100",
-         "title" : "Chesskid partners with ClassLink"
       },
       {
          "description" : "The tenth edition of the Norway Chess Tournament starts with a blitz tournament, which will decide who gets more whites in the main event. It is a single round-robin with a time control of 3 minutes for the game plus 2-second increments per move. The action kicks off at 18.00 CEST (12.00 ET, 21.30 IST).",
@@ -250,14 +274,6 @@ news_feed (
          "title" : "Queen Against Queen"
       },
       {
-         "description" : "Montenegrin Chess Federation determined teams for the 44th Chess Olympiad 2022 which kicks off in two months in Chennai, India. Read more: 187 countries enrolled for the record-breaking 44th Chess Olympiad 2022 Team Montenegro (Open section): GM Denis Kadric (2576) GM Nikola Djukic (2527) IM Luka Draskovic (2484) GM Dragisa Blagojevic (2501) FM Andrej Sukovic []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/team-montenegro-set-for-the-44th-chess-olympiad-2022/",
-         "pubDate" : "Sun, 29 May 2022 08:44:44 +0000",
-         "title" : "Team Montenegro set for the 44th Chess Olympiad 2022"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg\" data-image-dimensions=\"1713x805\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6292d780000e1722c23bd3ae\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg?format=1000w\" /> </figure> <p class=\"\">After a one month hiatus, Chess Books Recaptured returns to discuss another classic chess book- GM Alexei Shirov's <a href=\"https://www.amazon.com/Fire-B",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -274,28 +290,12 @@ news_feed (
          "title" : "Kateryna Dolzhykova gives a simul for charity in Frankfurt"
       },
       {
-         "description" : "18-year-old German International Master Frederik Svane achieved two grandmasters norms in 24 hours to secure his Grandmaster title. Svane finished the Hamburg Chess Club GM Invitational 2022 yesterday and today played the 9th round of Schachbundesliga. Finishing the Hamburg Chess Club GM Invitational with an unbeaten 6.5 points and the rating performance of 2607, Rasmus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/frederik-svane-becomes-gm-after-earning-two-norms-in-24-hours/",
-         "pubDate" : "Sat, 28 May 2022 21:37:35 +0000",
-         "title" : "Frederik Svane becomes GM after earning two norms in 24 hours"
-      },
-      {
          "description" : "Polarchy or Polyarchy is the idea to have the burden of government on the shoulders of multiple people, as opposed to the monarchy that only sees one king or queen with all the burden. In chess, the king remains the sole objective of the game, but in rare cases one might be faced with the constellation that said king is joined not only by one but two queens. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/study-of-the-month-double-trouble-queens",
          "pubDate" : "Sat, 28 May 2022 20:00:00 +0100",
          "title" : "Study of the Month - Double trouble queens"
-      },
-      {
-         "description" : "The breaking news of Richard Rapport's transfer to Romania exploded yesterday, overwhelming social media. The shockwaves of the news went through the chess world and engaged chess players and journalists who reacted to the unhoped transfer that includes also Richard's wife WGM Jovana Rapport. Just a day before confirmation that Rapport changes federation to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-chess-world-reacts-to-rapports-transfer/",
-         "pubDate" : "Sat, 28 May 2022 16:46:58 +0000",
-         "title" : "The chess world reacts to Rapport's transfer"
       },
       {
          "description" : " International Master Eugenio Campos is a long-time Olympian from Angola. Recently, he represented the country at the IPCA (International Physically Disabled Chess Association) tournament in Ashdod, Israel and placed a respectable 5/9. It is a tournament that he has participated in for the past decade. He has also represented his country in four Olympiad tournaments The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/\">IM Eugenio Campos at IPCA</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
