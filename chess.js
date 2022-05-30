@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In the Endgame Magic Show #196 Karsten M&uuml;ller and the young Ukrainian talent Tichon Cherniaev look at rook endings, the kind of endings that occur most often in practice. But Karsten and Tichon end the show with an analysis of two amazing endgames, in which bishops fight against knights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Ukrainian grandmaster <strong>Andrii Baryshpolets</strong> explains why he is running to replace <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> in the 7 August election. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-30-at-19-48.1920.jpeg\" title=\"Andrii Baryshpolets went from Ukraine to Texas on a chess scholarship in 2015. After graduating with a PhD in economics last year, the 31-year-old grandmaster has joined PwC in Los Angeles as a Senior Associate. photo: American-Ukrainian Medical Foundation\" data-title=\"Andrii Baryshpolets went from Ukraine",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/no-more-political-sponsorship-and/",
+         "pubDate" : "Mon, 30 May 2022 19:24:39 +0100",
+         "title" : "\"No more political sponsorship and sportswashing\""
+      },
+      {
+         "description" : "It is probably a record: scoring two norms in a time span of fewer than 24 hours. GM-elect Frederik Svane, the brother of GM Rasmus Svane, managed to do so last weekend in Hamburg, Germany. 17-year-old Svane, the youngest of the two brothers (Ra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/frederik-svane-2-gm-norms-in-24-hours",
+         "pubDate" : "Mon, 30 May 2022 10:44:28 -0700",
+         "title" : "Frederik Svane Sets Likely Record, Scoring Final 2 GM Norms In 24 Hours"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chesskid</strong> is the first chess learning platform that is available on <strong>ClassLink</strong>, a provider of single sign-on for students digital learning and analytics for their schools, strengthening its position in the US market. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chesskid-partners-with-classlink/",
+         "pubDate" : "Mon, 30 May 2022 18:21:06 +0100",
+         "title" : "Chesskid partners with ClassLink"
+      },
+      {
+         "description" : "The tenth edition of the Norway Chess Tournament starts with a blitz tournament, which will decide who gets more whites in the main event. It is a single round-robin with a time control of 3 minutes for the game plus 2-second increments per move. The action kicks off at 18.00 CEST (12.00 ET, 21.30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-blitz",
+         "pubDate" : "Mon, 30 May 2022 17:55:00 +0100",
+         "title" : "Norway Chess Blitz: Live"
+      },
+      {
+         "description" : "In the Endgame Magic Show #196 Karsten M&uuml;ller and the young Ukrainian talent Tykhon Cherniaiev look at rook endings, the kind of endings that occur most often in practice. But Karsten and Tichon end the show with an analysis of two amazing endgames, in which bishops fight against knights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-196-with-tichon-cherniaev-endgame-highlights-from-the-chessable-masters",
          "pubDate" : "Mon, 30 May 2022 17:00:00 +0100",
-         "title" : "Endgame Magic #196 with Tichon Cherniaev: Endgame highlights from the Chessable Masters"
+         "title" : "Endgame Magic #196 with Tykhon Cherniaiev: Endgame highlights from the Chessable Masters"
+      },
+      {
+         "description" : "21-year-old Singapore's best-rated chess player Tin Jingyao will become the nation's fifth and youngest grandmaster as he won the third GM norm at the Hanoi GM Chess Tournament. After great play in the 31st Southeast Asian Games (SEA Games) Tim Jingyao won his second GM norm on the way to the grandmaster crown. With score []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/21-year-old-tin-jingyao-becomes-the-youngest-gm-of-singapore/",
+         "pubDate" : "Mon, 30 May 2022 15:44:05 +0000",
+         "title" : "21-year-old Tin Jingyao becomes the youngest GM of Singapore"
       },
       {
          "description" : "Surprising news from Romania: As the Romanian Chess Federation announced, Richard Rapport and his wife Jovana will join the Romanian Chess Federation. Hungary thus loses its top player. | Photo: Lennart Ootes",
@@ -130,7 +170,7 @@ news_feed (
          "title" : "Nataša Richterova wins Czech Women's Championship"
       },
       {
-         "description" : "Magnus Carlsen and Vishy Anand will lock horns again as the 10th editor of Norway Chess starts in Stavanger this Monday with a blitz tournament. In the run-up to the event the organisers explained why they decided to invite a number of semi-retired and inactive players, including a surprise return to top-level action for China's Wang Hao.",
+         "description" : "Magnus Carlsen and Vishy Anand will lock horns again as the 10th edition of Norway Chess starts in Stavanger this Monday with a blitz tournament. In the run-up to the event the organisers explained why they decided to invite a number of semi-retired and inactive players, including a surprise return to top-level action for China's Wang Hao.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-and-anand-feature-in-surprising-norway-chess-line-up",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-chess-world-reacts-to-rapports-transfer/",
          "pubDate" : "Sat, 28 May 2022 16:46:58 +0000",
          "title" : "The chess world reacts to Rapport's transfer"
-      },
-      {
-         "description" : "Exactly two months left before the start of the 44th Chess Olympiad 2022 and 187 countries with 343 teams (189 in the Open section and 154 in the Women's section) enrolled for the competition. In the previous Chess Olympiad held in Baku in 2018, the participation record of team numbers was set with 176 countries, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/187-countries-enrolled-for-the-record-breaking-44th-chess-olympiad-2022/",
-         "pubDate" : "Sat, 28 May 2022 15:07:08 +0000",
-         "title" : "187 countries enrolled for the record-breaking 44th Chess Olympiad 2022"
       },
       {
          "description" : " International Master Eugenio Campos is a long-time Olympian from Angola. Recently, he represented the country at the IPCA (International Physically Disabled Chess Association) tournament in Ashdod, Israel and placed a respectable 5/9. It is a tournament that he has participated in for the past decade. He has also represented his country in four Olympiad tournaments The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/\">IM Eugenio Campos at IPCA</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "Chessable Masters Finals: Ding wins first set"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Peter Heine Nielsen</strong>, Danish grandmaster and coach of Magnus Carlsen, <a href=\"https://twitter.com/PHChess/status/1529722379416526850\">runs for</a> <strong>FIDE Deputy President</strong> on the ticket of fellow grandmaster <strong>Andrii Baryshpolets</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nielsen-joins-baryshpolets/",
-         "pubDate" : "Thu, 26 May 2022 16:52:02 +0100",
-         "title" : "Nielsen joins Baryshpolets"
-      },
-      {
          "description" : " The 2022 ACT Chess Championship begins tomorrow, and it is already looking to be the strongest (and maybe largest) edition in a number of years. The top seed is IM Rishi Sardana, who has moved back to the city of his birth, for work. IM Junta Ikeda is 2nd seed, ahead of a field of young challengers including Cameron McCowan, FM Michael Kethro, Fred Litchfield and Harry Press. The tournament has been bolstered by the entry of a number of players from NSW, who are eligible for the prize money, but not the championship title/ The tournament begins tomorrow evening at Campbell High School (next to the War Memorial). There is one round on Friday, with 2 rounds on Saturday, Sunday and Monday. Ful",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-qualifier-1-agrawal-wins",
          "pubDate" : "Wed, 25 May 2022 15:11:39 -0700",
          "title" : "Agrawal Wins Knockout: 2022 FIDE Chess.com WSCC, Qualifier 1"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Igor Dodon</strong>, President of the <strong>Moldovan Chess Federation</strong> and President of Moldova in 2016-2020, has been detained on charges of corruption. The pro-Russian politician is leader of the Socialist party, to whom FIDE Executive Director, member of the Moldovan parliament and Vice President of the Moldovan Chess Federation <strong>Victor Bologan</strong> belongs. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/dodon-detained/",
-         "pubDate" : "Wed, 25 May 2022 20:35:23 +0100",
-         "title" : "Dodon detained"
       },
       {
          "description" : "Anatoly Karpov, born 23 May, 1951, is one of the strongest players in the history of chess. He was World Champion from 1975 to 1985, finished first in 160 strong tournaments, and was the world's number one for 102 months. However, he seemed to win many of his games without much effort, without striking moves or crushing attacks. But he had a secret weapon - which Jan Markos analyses in more detail. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "Ukraine GM Ponomariov applies for visa again, Maharashtra Open organisers knock on MEA doors"
       },
       {
-         "description" : "The 2022 IM Not A GM Speed Chess Championship continued on Thursday with the round of 16 matchup between IMs Alina Kashlinskaya and Carissa Yip. Kashlinskaya was a class above and showed her experience in time pressure, winning by a score of 16-7....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kashlinskaya-blitzes-yip-2022-imscc-round-of-16",
-         "pubDate" : "Fri, 20 May 2022 01:13:18 -0700",
-         "title" : "Kashlinskaya Blitzes Yip: 2022 IMSCC, Round Of 16"
-      },
-      {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cooks-and-finds-with-8-piece-tablebases",
          "pubDate" : "Mon, 16 May 2022 08:00:00 +0100",
          "title" : "Cooks and finds with 8-piece tablebases"
-      },
-      {
-         "description" : "Unashamed ultra-violence. Jon Speelman continues to share findings from his bookshelf, and today explores Irving Chernev's \"The 1000 best short games of chess\", a collection of miniatures first published in 1957. Speelman adds notes to selected games from the collection of thud and blunder.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-170",
-         "pubDate" : "Sun, 15 May 2022 21:30:00 +0100",
-         "title" : "A few chestnuts more"
       },
       {
          "description" : " Grandmasters are not especially noted for their longevity, but Yuri Averbakh, whose death at the age of 100 was announced the other day, was a notable exception. He will be remembered for his work on endings, but also for various opening variations bearing his name, most notably the Averbakh Variation against the King's Indian Defence. <a href=\"https://chessimprover.com/averbakh-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Averbakh Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/averbakh-variation/\">Averbakh Variation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
