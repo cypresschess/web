@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 10th edition of the Norway Chess kicks of today with the Blitz tournament. The event takes place from 30 May 10 June in Stavanger with participation of 10 world class players. The field is headlined by reigning World Chess Champion Magnus Carlsen and includes: Wesley So, Shakhriyar Mammedyarov, Anish Giri, Teimour Radjabov, Viswanathan Anand, Maxime Vachier-Lagrave,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/norway-chess-2022-kicks-off/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/norway-chess-2022-kicks-off/",
+         "pubDate" : "Mon, 30 May 2022 05:42:17 +0000",
+         "title" : "Norway Chess 2022 kicks off"
+      },
+      {
          "description" : "The 16th week of the Rapid Chess Championship, presented by Coinbase, concluded today with an inaugural win for GM Alexander Grischuk in the knockout, while GM Raunak Sadhwani won the Swiss on tiebreak ahead of GMs Hikaru Nakamura, Fabiano Caruana...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.espn.com/blog/baltimore-ravens/post/_/id/55962/trusting-film-not-stopwatch-why-the-baltimore-ravens-believe-kyle-hamilton-is-a-steal?device=featurephone",
          "pubDate" : "Mon, 9 May 2022 06:00:51 -0500",
          "title" : "Trusting film, not stopwatch: Why the Baltimore Ravens believe Kyle Hamilton is a steal"
-      },
-      {
-         "description" : "Dear Chess Friends, The following valid nominations have been received within the deadline of the 6th May 2022, for the ECU Board elections 2022. . A Ticket of &#160;Mr. Zurab Azmaiparashvili: President: Mr. Zurab Azmaiparashvili (GEO) Deputy President:&#160;Mrs. Dana Reizniece-Ozola&#160;(LAT) Vice President: Mr. Malcolm Pein. (ENG) Vice President: Mr. Gunnar Bjornsson (ISL) Secretary General:&#160;Mr. Theodoros Tsorbatzoglou (GRE)&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/circular-letter-no-2-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/circular-letter-no-2-2022/",
-         "pubDate" : "Mon, 09 May 2022 06:03:40 +0000",
-         "title" : "Circular Letter No.2/2022"
       }
    ]
 }
