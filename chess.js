@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov (pictured) won the strong 5th Sharjah Masters in the United Arab Emirates. After nine rounds Abdusattorov and local hero Saleh Salem shared first place with 7.0/9, but thanks to his better tiebreak Abdusattorov won the tournament. The best woman player in the 80-player field was Valentina Gunina. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nodirbek-abdusattorov-wins-sharjah-masters",
+         "pubDate" : "Mon, 30 May 2022 13:13:35 +0100",
+         "title" : "Nodirbek Abdusattorov wins Sharjah Masters"
+      },
+      {
+         "description" : "This article, which appeared in the June issue of the British Magazine CHESS, is about two Grandmasters of Chess Composition - Oleg Pervakov and Christopher Jones - and about books they have produced containing selections of their output. You can try to solve them yourself on our live diagrams, with or without engine assistance, and then look at the annotated solutions on our live replay boards. A good way to study chess, don't you think?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/studies-with-stephenson",
+         "pubDate" : "Mon, 30 May 2022 13:00:00 +0100",
+         "title" : "Studies with Stephenson"
+      },
+      {
+         "description" : "On May 17th almost all products were 25% off due to our ChessBase discount day. This year we tried something new in addition - The ChessBase Live stream! Daniel King, Robert Ris, Sipke Ernst, Elisabeth Paehtz, Nick Pert, Svitlana Demchenko, Lawrence Trent, Karsten Mueller, Markus Ragger, and Andrew Martin, Larry Kaufman, and Mark Lefler joined the host, Arne Kaehler. Every half hour, all viewers could win a €25 Voucher! The winners were drawn.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-25-discount-stream-winners",
+         "pubDate" : "Mon, 30 May 2022 11:30:00 +0100",
+         "title" : "The 25% Discount stream winners!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91890092.cms\" />Awake till 2:40 am. Tossing and turning in bed post that. Sleeping at 4 am finally. Waking up at 7 again. Going to school. Writing an exam. This is not the routine of teens. But for the 16-year-old R Praggnandhaaa, the mind-work and legwork involved is the kind of life he loves living.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-have-surprised-myself-says-indias-giant-slaying-chess-genius-praggnanandhaa/articleshow/91890092.cms",
+         "pubDate" : "Mon, 30 May 2022 10:23:31 +0000",
+         "title" : "Exclusive: 'I have surprised myself', says India's giant-slaying chess genius Praggnanandhaa"
+      },
+      {
+         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari (in to replace Richard Rapport who since qualified for the Candidates and is now prioritizing that - I'd earlier said that Tari should have been invited in the first place as part of the function of hosting a premier event is to help develop your most talented up and coming players - if you don't, who will?). This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weake",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
+         "pubDate" : "Mon, 30 May 2022 10:52:00 +0400",
+         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
+      },
+      {
          "description" : "The 10th edition of the Norway Chess kicks of today with the Blitz tournament. The event takes place from 30 May 10 June in Stavanger with participation of 10 world class players. The field is headlined by reigning World Chess Champion Magnus Carlsen and includes: Wesley So, Shakhriyar Mammedyarov, Anish Giri, Teimour Radjabov, Viswanathan Anand, Maxime Vachier-Lagrave,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/norway-chess-2022-kicks-off/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -14,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-16-grischuk-wins",
-         "pubDate" : "Sun, 29 May 2022 19:09:01 -0700",
+         "pubDate" : "Sun, 29 May 2022 19:09:00 -0700",
          "title" : "Grischuk Wins Knockout: Rapid Chess Championship Week 16"
       },
       {
@@ -1578,14 +1618,6 @@ news_feed (
          "title" : "Game of the Week #516: A fine attack by Nico Zwirs"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91648093.cms\" />'Team bonding' and 'intensity' were the buzz words for everyone as the Indian chess Olympiad teams' first camp concluded in Chennai on Tuesday. The players couldn't have asked for better mentors to train with than the five-time former World champion Viswanathan Anand and the legendary Boris Gelfand.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-players-learn-a-lot-in-camp-under-viswanathan-anand-boris-gelfand/articleshow/91648093.cms",
-         "pubDate" : "Wed, 18 May 2022 16:56:52 +0000",
-         "title" : "Indian players 'learn a lot' in camp under Viswanathan Anand, Gelfand"
-      },
-      {
          "description" : "The world's top two chess stars go head-to-head starting Thursday at the Chessable Masters, the fourth leg of the Meltwater Champions Chess Tour. Norway's world champion Magnus Carlsen will face Ding Liren, who returns having regained his second spot in the world ranking. The field also includes two of the most promising rising stars in the chess world, Praggnanandhaa and Abhimanyu Mishra.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1914,36 +1946,12 @@ news_feed (
          "title" : "MVL wins Superbet Chess Classic 2022"
       },
       {
-         "description" : "Maxime Vachier-Lagrave won the Superbet Chess Classic after outscoring Wesley So and Levon Aronian in rapid playoffs. MVL had caught up with the co-leaders after beating Alireza Firouzja with black in their classical, round-9 encounter. The Frenchman beat both US grandmasters in the rapid-chess single round-robin that followed to claim the title. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2022-r9",
-         "pubDate" : "Sun, 15 May 2022 05:10:00 +0100",
-         "title" : "Vachier-Lagrave has a brilliant day, wins Superbet Chess Classic"
-      },
-      {
-         "description" : "The 2022 International Computer Games Association events are fast approaching: the World Computer Chess Championships (Vienna, July 23-29), the 2022 Computer Olympiad (online, July 23-29), and the 2022 Computers and Games conference (online, November 22-24). The ICGA has distributed full information on all upcoming events.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/icga-world-computer-chess-championship-olympiad-conference",
-         "pubDate" : "Sat, 14 May 2022 21:25:00 +0100",
-         "title" : "ICGA: World Computer Chess Championship, Olympiad, Conference"
-      },
-      {
          "description" : " The Superbet Chess Classic took place in Bucharest Thu 5th May to Sat 14th May 2022. It was the first event in the 2022 Grand Chess Tour which has three rapid and blitz events and one further classical event, the Sinquefield Cup. Players: Alireza Firouzja, Levon Aronian, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, Ian Nepomniachtchi, Richard Rapport, Maxime Vachier-Lagrave, Leinier Dominguez and Bogdan-Daniel Deac. There was a three way tie for first and that resulted in a tie-break MVL beat both Wesley So and Levon Aronian to take first place, So finished second and Aronian 3rd.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/superbet-chess-classic-2022",
          "pubDate" : "Sat, 14 May 2022 22:36:00 +0400",
          "title" : "Superbet Chess Classic 2022 - Games and Results"
-      },
-      {
-         "description" : "This week Robert Ris focuses on the Bayonet Attack in the King's Indian Defence. He uses model games from elite players to illustrate the potential problems Black faces when White plays 11.a4 and 12.a5. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-new-ideas-bayonet-attack",
-         "pubDate" : "Sat, 14 May 2022 18:15:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: New ideas in the Bayonet Attack"
       },
       {
          "description" : " Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1742",
          "pubDate" : "Mon, 09 May 2022 14:26:13 +0000",
          "title" : "FIDE World Rapid & Blitz Championships 2023 - Call for bids"
-      },
-      {
-         "description" : "Hamilton's slower-than-expected 40-yard dash time made him fall in the draft, and the Ravens couldn't be happier.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/blog/baltimore-ravens/post/_/id/55962/trusting-film-not-stopwatch-why-the-baltimore-ravens-believe-kyle-hamilton-is-a-steal?device=featurephone",
-         "pubDate" : "Mon, 9 May 2022 06:00:51 -0500",
-         "title" : "Trusting film, not stopwatch: Why the Baltimore Ravens believe Kyle Hamilton is a steal"
       }
    ]
 }
