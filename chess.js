@@ -18,6 +18,14 @@ news_feed (
          "title" : "Studies with Stephenson"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1797",
+         "pubDate" : "Mon, 30 May 2022 10:37:31 +0000",
+         "title" : "Nodiberk Abdusattorov wins 5th Sharjah Masters International Championship 2022"
+      },
+      {
          "description" : "On May 17th almost all products were 25% off due to our ChessBase discount day. This year we tried something new in addition - The ChessBase Live stream! Daniel King, Robert Ris, Sipke Ernst, Elisabeth Paehtz, Nick Pert, Svitlana Demchenko, Lawrence Trent, Karsten Mueller, Markus Ragger, and Andrew Martin, Larry Kaufman, and Mark Lefler joined the host, Arne Kaehler. Every half hour, all viewers could win a €25 Voucher! The winners were drawn.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1743",
          "pubDate" : "Mon, 09 May 2022 15:07:41 +0000",
          "title" : "Mariano Ortega wins Cape Verde Open 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1742",
-         "pubDate" : "Mon, 09 May 2022 14:26:13 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2023 - Call for bids"
       }
    ]
 }
