@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Colombian grandmaster Joshua Daniel Ruiz Castillo triumphed at the 9th edition of the Cherry Blossom Classic open tournament which took place from 26-30 May at Washington Dulles Airport Marriott in Virginia. Ruiz Castillo was number three on the starting rank list of the event and scored impressive 8/9 points to earn 22.1 rating points showing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/joshua-daniel-ruiz-castillo-wins-9th-cherry-blossom-classic/",
+         "pubDate" : "Tue, 31 May 2022 10:39:12 +0000",
+         "title" : "Joshua Daniel Ruiz Castillo wins 9th Cherry Blossom Classic"
+      },
+      {
+         "description" : "IM Herman Grooten will offer rules-of-thumb and concepts to give clubchess players the necessary guidance to try and find the right paths in their own games. In this two-part course the emphasis will be on typical pawn-structures, ones that appear quite often in games and that will be very recognisable to club-chess players. Now, you also have the option to watch all of your favourite Fritztrainers in our \"Video-Section\" as a stream!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-herman-grooten-key-concepts-of-chess-pawn-structures-vol-1-2",
+         "pubDate" : "Tue, 31 May 2022 11:26:14 +0100",
+         "title" : "New: Herman Grooten: Key Concepts of Chess - Pawn Structures Vol. 1 + 2"
+      },
+      {
+         "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup will simultaneously take place from 2nd 10th October in Mayrhofen, Austria. Both events will be played in 7 rounds, swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2022-official-invitation/",
+         "pubDate" : "Tue, 31 May 2022 09:17:39 +0000",
+         "title" : "European Chess Club Cup 2022 - Official invitation"
+      },
+      {
          "description" : "Pawn endings require precise calculation. In the diagrammed position it is Black to move and win. But how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-tricky-king",
          "pubDate" : "Tue, 31 May 2022 09:00:00 +0100",
          "title" : "A tricky king"
+      },
+      {
+         "description" : "Wesley So went on a run of five wins in a row, including beating Magnus Carlsen's 1.a4, to win the Norway Chess blitz opener by a full point and become the top seed for the main event. Magnus took second place despite also losing to Vishy Anand, with Vishy, Anish Giri and Shakhriyar Mamedyarov the other players to finish in the top half and get the advantage of five Whites in the classical tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/so-beats-carlsen-to-win-norway-chess-blitz",
+         "pubDate" : "Tue, 31 May 2022 07:36:07 +0000",
+         "title" : "So beats Carlsen to win Norway Chess Blitz"
       },
       {
          "description" : "Anand's win over Carlsen comes close on the heels of compatriot and teen sensation R Praggnandhaa defeating the Norwegian world champion in an online blitz tournament recently.",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://www.thearticle.com/lost-empires/",
          "pubDate" : "Sun, 29 May 2022 09:11:10 +0000",
          "title" : "Lost Empires"
-      },
-      {
-         "description" : "The 47th Lebanese National Chess Championship was played from 18-27 May in Keshmat Chess Center. The event attracted more than 50 entries who competed for the title of National Champion in 9 swiss system rounds. The top seed of the event FM Amro El Jawich won the event scoring 7.5 points. El Jawich did not []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/amro-el-jawich-wins-47th-lebanese-chess-championship/",
-         "pubDate" : "Sun, 29 May 2022 09:10:22 +0000",
-         "title" : "Amro El Jawich wins 47th Lebanese Chess Championship"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> announced that he might not defend the classical world champion title again. Is it unfair to his colleagues who compete at the forthcoming <strong>Candidates Tournament?</strong> </div> <div class='articletext'> <div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/lon03886.1920.jpeg\" title=\"Will he play another match? Magnus Carlsen wants to see the Candidates first and decide after. Lennart Ootes / Altibox Norway Chess\" data-title=\"Will he play another match? Magnus Carlsen wants to see the Candidates first and decide after. (Lennart Ootes / Altibox Norway Chess)\" class=\"js-img\"> <img itempro",
@@ -824,6 +848,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-semifinals",
          "pubDate" : "Wed, 25 May 2022 00:31:00 -0700",
          "title" : "Ding, Praggnanandhaa Reach Final: Chessable Masters, Day 6"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91778163.cms\" />R Praggnanandhaa made it to his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old displayed tremendous skillset and tenacity to defeat Anish Giri in the Chessable Masters semifinal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-makes-chessable-masters-final/articleshow/91778163.cms",
+         "pubDate" : "Wed, 25 May 2022 02:46:23 +0000",
+         "title" : "Praggnanandhaa makes Chessable Masters final"
       },
       {
          "description" : "Rating underdogs Ding Liren and Praggnanandhaa moved on to the finals of the Chessable Masters after knocking out Magnus Carlsen and Anish Giri respectively. After drawing their first three encounters, Ding defeated Carlsen in game 4 to clinch match victory. Meanwhile, Pragg and Giri traded blows to take their match to tiebreaks. The 16-year-old Indian prodigy was stronger in blitz, and thus knocked out his famed opponent.",
@@ -1498,14 +1530,6 @@ news_feed (
          "title" : "Anand Leads, Rapport Close Behind: 2022 Superbet Rapid & Blitz Poland, Day 2"
       },
       {
-         "description" : "52-year-old chess legend Vishy Anand continued to dominate in Warsaw on Day 2 of the Superbet Rapid and Blitz as he raced to a perfect 10/10 start with thumping wins over Kirill Shevchenko and Levon Aronian. Only local hero Jan-Krzysztof Duda managed to hold the 5-time World Champion to a draw, leaving Vishy two points clear of Richard Rapport, who won all three games on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-vishy-anand-rampage-continues",
-         "pubDate" : "Fri, 20 May 2022 16:59:51 +0000",
-         "title" : "The Vishy Anand rampage continues"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91694704.cms\" />Indian chess legend Viswanathan Anand continued his superb form on the second day of the rapid event of the Superbet Rapid and Blitz Poland tournament on Friday, posting victories in rounds four and five before local hero Jan-Kryzstof Duda halted the winning streak in the sixth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1882,14 +1906,6 @@ news_feed (
          "title" : "Queens' Online Chess Festival 2022: Your chance to see Chennai!"
       },
       {
-         "description" : "Midsummer is traditionally the time of the Dortmund Chess Days. After last year's relaunch, the festival will be expanded this year with, among other things, a large international open. At the weekend, the pairings have been drawn, which also means that the schedule is fixed. It all starts on 17 July. | Photos: Dortmunder Schachtage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/49th-international-chess-days-in-dortmund-schedule-and-pairings",
-         "pubDate" : "Mon, 16 May 2022 13:38:11 +0100",
-         "title" : "49th International Chess Days in Dortmund: Schedule and Pairings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2240,22 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1745",
          "pubDate" : "Tue, 10 May 2022 11:37:41 +0000",
          "title" : "Chess in Education online conference announced"
-      },
-      {
-         "description" : "(picture Chris Ross at Sheffield Hallam University, where he holds a senior administrative role) Chris Ross, the UK's strongest ever fully blind chess player,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/blind-faith/",
-         "pubDate" : "Tue, 10 May 2022 11:26:14 +0000",
-         "title" : "Blind Faith"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1744",
-         "pubDate" : "Tue, 10 May 2022 10:21:36 +0000",
-         "title" : "2022 GCT Superbet Chess Classic Romania: Day 5 Recap"
       }
    ]
 }
