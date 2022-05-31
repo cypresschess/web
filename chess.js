@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Tue, 31 May 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "Rather than having a traditional drawing of start numbers, Norway Chess has made a tradition of starting out with a blitz tournament to decide the start numbers for each player in the main event. American GM Wesley So took a decisive lead by bea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-norway-chess-blitz-wesley-so-wins",
+         "pubDate" : "Tue, 31 May 2022 07:58:00 -0700",
+         "title" : "Wesley So Wins Blitz Event: Norway Chess 2022"
+      },
+      {
+         "description" : "The new Extra #207 offers, among other things, over an hour of video training with Elisabeth P&auml;htz and Ivan Sokolov. Germany's best female chess player presents one of her favourite weapons against the Gruenfeld Defence in a short video series. And Sokolov's contribution deals with a topic that should be interesting for many 1.d4 players, especially at club level: The GM from the Netherlands shows a method with which a nice advantage can be comfortably achieved against the Budapest Gambit. This issue's \"Brilliancy\" comes from Jorden van Foreest, who takes a critical look at his Sicilian experiment (3.Bc4) from the Tata Steel Masters 2022 against Praggnanandhaa. In addition, the \"Lucky b",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-207",
+         "pubDate" : "Tue, 31 May 2022 15:00:00 +0100",
+         "title" : "New: CBM Extra #207"
+      },
+      {
+         "description" : " <p class=\"lead\">The tenth edition of the Norway Chess Tournament started yesterday with a blitz tournament to decide who will get more whites in the main event. GM Wesley So won this first blitz tournament with 6.5 points, followed by Magnus Carlsen with 5.5 points. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-2.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> Norway Chess is one of the world's most prestigious chess tournaments held in Stavanger, Norway. There are 10 players participating including the World Champion Magnus Carlsen, GMs Wesley So, Shakhriyar Mamedyarov, Anish Giri, Vishy Anand, Veselin Topalov, and Aryan Tari who replaced",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/wesley-so-wins-the-norway-chess-blitz-tournament/",
+         "pubDate" : "Tue, 31 May 2022 13:38:28 +0000",
+         "title" : "Wesley So wins the Norway Chess Blitz Tournament"
+      },
+      {
+         "description" : " &#8220;Dad, why is my sister named Rose? Because your mother loves roses. Thanks Dad. No problem, Slav Defense Wiesbaden Variation&#8221; r/AnarchyChess I can compare the Slav Defense with a mined field. You look around in front of you and nothing seems out of the ordinary. However, you can feel the danger lingering in the air, <a href=\"https://chessimprover.com/need-sure-points-slav-defense-wiesbaden-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Slav Defense, Wiesbaden Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-slav-defense-wiesbaden-variation-edition/\">Need sure poin",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-slav-defense-wiesbaden-variation-edition/",
+         "pubDate" : "Tue, 31 May 2022 13:34:59 +0000",
+         "title" : "Need sure points? Slav Defense, Wiesbaden Variation Edition"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4ed4ad63-e105-42f7-9124-02e23b522ed0/photo+1.JPG\" data-image-dimensions=\"2592x1936\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62960df185fa1c63e95ae7ab\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4ed4ad63-e105-42f7-9124-02e23b522ed0/photo+1.JPG?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of Dr. Stuart Margulies </figcaption> </figure> <p class=\"\">This week on Perpetual Chess we are joined by Dr. Stuart Margulies",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/31/ep-281-dr-stuart-margulies-tells-the-story-behind-the-classic-best-selling-book-bobby-fischer-teacher-chess",
+         "pubDate" : "Tue, 31 May 2022 12:47:36 +0000",
+         "title" : "EP 281- Dr. Stuart Margulies tells the story behind the classic, best-selling book, Bobby Fischer Teacher Chess"
+      },
+      {
          "description" : "This year's Norway Chess Tournament in Stavanger started on Monday evening with a blitz tournament. After five rounds Magnus Carlsen led the field but then lost against Wesley So - after trying 1.a4 - and Vishy Anand. So, who had started the tournament with a loss against Wang Hao, used his chance and won the tournament with 6.5/9, one full point ahead of Carlsen who finished second with 5.5/9. | Photos: Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-jeffery-xiong-is-the-winner-of-31st-chicago-open/",
          "pubDate" : "Tue, 31 May 2022 11:39:59 +0000",
          "title" : "GM Jeffery Xiong is the Winner of 31st Chicago Open"
+      },
+      {
+         "description" : "The Rwanda Open Olympiad Team has been named for the 44th Chess Olympiad 2022, which takes place from July 28th to August 10th in Chennai, India. The team members were selected at the end of the second and final qualification phase, which took place at&#xA0;Hilltop Hotel&#xA0;in Kigali, Rwanda from 23-27 May. The event was played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rwanda-determines-open-team-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Tue, 31 May 2022 11:37:00 +0000",
+         "title" : "Rwanda determines Open Team for 44th Chess Olympiad 2022"
       },
       {
          "description" : "Colombian grandmaster Joshua Daniel Ruiz Castillo triumphed at the 9th edition of the Cherry Blossom Classic open tournament which took place from 26-30 May at Washington Dulles Airport Marriott in Virginia. Ruiz Castillo was number three on the starting rank list of the event and scored impressive 8/9 points to earn 22.1 rating points showing []",
@@ -248,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-16-grischuk-wins",
          "pubDate" : "Sun, 29 May 2022 19:09:00 -0700",
          "title" : "Grischuk Wins Knockout: Rapid Chess Championship Week 16"
-      },
-      {
-         "description" : "Norway Chess 2022&#xA0;commences today taking place from May 30th to June 10th in Stavanger. The event kicks off with the Blitz tournament which will determine the pairings of the main classical event. The event is played as a 10 player round robin with&#160;Magnus Carlsen as the top seed. The final list of participants after []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-2022-live/",
-         "pubDate" : "Sun, 29 May 2022 21:47:27 +0000",
-         "title" : "Norway Chess 2022 LIVE"
       },
       {
          "description" : "The tenth edition of the Norway Chess Tournament is set to kick off on Monday, with a blitz tournament which will decide who gets more whites in the main event. An impressive lineup, including Magnus Carlsen, Vishy Anand and Veselin Topalov, will fight in a 9-round all-play-all with a unique format - in case of a draw, an Armageddon follows. Richad Rapport, who will play the Candidates in a few weeks, withdrew from the tournament; Aryan Tari stepped in (pictured). | Photo: Lennart Ootes",
@@ -1530,14 +1578,6 @@ news_feed (
          "title" : "Spike Lee celebrates NIKE's 50th with chess"
       },
       {
-         "description" : "The second day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, continued today with outstanding results by GM Viswanathan Anand and GM Richard Rapport. The pair surged ahead of the field after they scored 2...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-2",
-         "pubDate" : "Fri, 20 May 2022 12:09:00 -0700",
-         "title" : "Anand Leads, Rapport Close Behind: 2022 Superbet Rapid & Blitz Poland, Day 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91694704.cms\" />Indian chess legend Viswanathan Anand continued his superb form on the second day of the rapid event of the Superbet Rapid and Blitz Poland tournament on Friday, posting victories in rounds four and five before local hero Jan-Kryzstof Duda halted the winning streak in the sixth.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1842,14 +1882,6 @@ news_feed (
          "title" : "Check, Mate, Donate! Online Charity Tournament for Ukraine"
       },
       {
-         "description" : "Passed pawns can be very powerful and they are even more dangerous if they have help from their king. In the diagrammed position it is White to move, and what did he do with his king to support his passed pawns to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-king-is-a-strong-piece-2",
-         "pubDate" : "Tue, 17 May 2022 09:00:00 +0100",
-         "title" : "The king is a strong piece"
-      },
-      {
          "description" : "As we have already informed by the CL -2/2022 following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. Venue:&#160; Porto Palace, Hotel Thessaloniki. https://www.portopalace.gr Schedule: Friday,&#160;&#160;&#160;&#160;&#160;&#160;&#160;22&#160;&#160;July: Arrival of Delegates - Welcome Reception&#160; Saturday,&#160;&#160;&#160;23&#160;&#160;July : ECU General Assembly 2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/\">Read M",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1872,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1766",
          "pubDate" : "Mon, 16 May 2022 17:25:35 +0000",
          "title" : "Gligoric Trophy 2021: Call for nominations"
-      },
-      {
-         "description" : "In his Endgame Magic Show #194 Karsten M&uuml;ller is joined by Arne Kaehler, and they look at endgames from the Magnus Carlsen Chess Tour Oslo Esports Cup, which was won by Jan-Krzysztof Duda. But in one of their individual games tournament favourite Carlsen defeated Duda in an interesting endgame. Take a look! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-show-194-with-arne-kaehler",
-         "pubDate" : "Mon, 16 May 2022 18:00:00 +0100",
-         "title" : "Endgame Magic Show #194 with Arne Kaehler"
       },
       {
          "description" : " <p class=\"lead\">After Karjakin's <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/\">6-months ban</a> from competitive chess left an open spot for the 2022 Candidates Tournament, the Chinese GM Ding Liren started a successful marathon of rated games in order to be eligible for the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51132737892_420ff3984c_k.jpg\" width=\"2047\" height=\"1260\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE / Lennart Ootes</div> </div> Invitation of Ding Liren, while officially issued by FIDE, is contingent on Sergey Karjakin's appeal to CAS, the highest court for sports disputes. A",
@@ -2146,14 +2170,6 @@ news_feed (
          "title" : "SEA Games"
       },
       {
-         "description" : " This week's edition of the Master Chess Web Show featured a return of special guest, GM Ray Keene, who gave us some fascinating insights into the 1978 World Championship match in Baguio City. This was the match in which Victor Korchnoi, who had recently defected from the USSR, faced the then Soviet World Champion, Anatoly <a href=\"https://chessimprover.com/master-chess-web-show-13/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (13)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-13/\">Master Chess Web Show (13)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver<",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-13/",
-         "pubDate" : "Wed, 11 May 2022 13:10:18 +0000",
-         "title" : "Master Chess Web Show (13)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2224,30 +2240,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
          "pubDate" : "Wed, 11 May 2022 10:00:00 +0400",
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : " The position below is from a game I played tonight, and is just before a draw was agreed. Weirdly Deep Fritz thinks that Black is clearly better in this position. Sure Black is a piece up, but the knight cannot jump across the board to engineer a very unlikely mate. I guess this shows that there is still some differences between humans and chess engines. <br /> <script>new PgnViewer( { boardName: \"game1327\", movesFormat: \"default\", pgnString:'[FEN \"7n/7P/8/8/2k5/p7/8/1K6 w - - 0 52\"]', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1327-container\"></div><div id=\"game1327-moves\"></div><br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/clearly-better-for-black.html",
-         "pubDate" : "Tue, 10 May 2022 13:30:00 +0000",
-         "title" : "Clearly better for black?"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7d159203-a6db-4d9f-b968-154eaf8f6ff3/JanG2022.jpg\" data-image-dimensions=\"1142x574\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"627a644f1f1d0e79a7b65678\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7d159203-a6db-4d9f-b968-154eaf8f6ff3/JanG2022.jpg?format=1000w\" /> </figure> <p class=\"\">GM Jan Gustafsson is a popular and entertaining commentator for Chess24.com, a noted opening theoretician, a Chessable author, and 3 time member of GM Magnus Carlsen's World",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/10/ep-278-gm-jan-gustafsson-the-popular-chess24-commentator-discusses-the-world-championships-chess-openings-the-state-of-his-chess-game-and-his-new-chess-podcast",
-         "pubDate" : "Tue, 10 May 2022 13:16:20 +0000",
-         "title" : "Ep 278- GM Jan Gustafsson- The Popular Chess24 Commentator discusses the World Championships, Chess Openings, The State of his Chess Game, and his new Chess Podcast "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1746",
-         "pubDate" : "Tue, 10 May 2022 12:46:42 +0000",
-         "title" : "Batumi to host FIDE World Cadets Chess Championships 2022"
       }
    ]
 }
