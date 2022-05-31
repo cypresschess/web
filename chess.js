@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hamburg Chess Club hosted a GM tournament and an IM tournament last week. Leon Mendonca from India won the GM tournament. Frederick Svane scored a GM norm - 24 hours later Svane's third and last GM norm in the Bundesliga was also official. In the IM tournament, Brandon Clarke was the clear winner. | Photo: Hugo Schulz, Vasilios Kotronias, Leon Mendonca, Frederik Svane and Frank Bracker (Frank Bracker)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mendonca-wins-hamburg-gm-tournament-2022",
+         "pubDate" : "Tue, 31 May 2022 22:00:33 +0100",
+         "title" : "Mendonca clear winner at the Hamburg GM tournament"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1458,7 +1466,7 @@ news_feed (
          "title" : "Superbet tourney: Viswanathan Anand wins Rapid event with a round to spare"
       },
       {
-         "description" : " Early this month, the Presidential election (FIDE 2022) opened and there are already four candidates for President. This point was noted by current FIDE Vice President Nigel Short. It appears that the FIDE Presidential Election will be a crowded field. &#8212; Nigel Short (@nigelshortchess) May 20, 2022 Crowded indeed. After the announcement of Enyonam Sewa The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/\">FIDE 2022 election campaigns heat up!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Early this month, the Presidential election (FIDE 2022) opened and there are already four candidates for President. This point was noted by current FIDE Vice President Nigel Short. It appears that the FIDE Presidential Election will be a crowded field. - Nigel Short (@nigelshortchess) May 20, 2022 Crowded indeed. After the announcement of Enyonam Sewa The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/\">FIDE 2022 election campaigns heat up!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-komodo-dragon-3",
          "pubDate" : "Tue, 17 May 2022 11:45:00 +0100",
          "title" : "New: Komodo Dragon 3"
-      },
-      {
-         "description" : "Under the motto \"Check, Mate, Donate\", the two Swiss juniors Oliver Angst (photo, left) and Vincent Lou have organised an online tournament for the benefit of Ukraine Aid and are calling for people to join in. For 5 Swiss francs, you can join in, play and help. Thursday, 29 May from 20:00 CEST ( 14:00 ET, 18:00 UTC).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/check-mate-donate-online-charity-tournament-for-ukraine",
-         "pubDate" : "Tue, 17 May 2022 11:30:18 +0100",
-         "title" : "Check, Mate, Donate! Online Charity Tournament for Ukraine"
       },
       {
          "description" : "As we have already informed by the CL -2/2022 following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. Venue:&#160; Porto Palace, Hotel Thessaloniki. https://www.portopalace.gr Schedule: Friday,&#160;&#160;&#160;&#160;&#160;&#160;&#160;22&#160;&#160;July: Arrival of Delegates - Welcome Reception&#160; Saturday,&#160;&#160;&#160;23&#160;&#160;July : ECU General Assembly 2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/\">Read M",
