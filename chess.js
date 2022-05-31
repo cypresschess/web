@@ -114,7 +114,7 @@ news_feed (
          "title" : "A tricky king"
       },
       {
-         "description" : "Wesley So went on a run of five wins in a row, including beating Magnus Carlsen's 1.a4, to win the Norway Chess blitz opener by a full point and become the top seed for the main event. Magnus took second place despite also losing to Vishy Anand, with Vishy, Anish Giri and Shakhriyar Mamedyarov the other players to finish in the top half and get the advantage of five Whites in the classical tournament.",
+         "description" : "Wesley So went on a run of five wins in a row, including beating Magnus Carlsen's 1.a4, to win the Norway Chess blitz opener by a full point and get the top seeding number for the main event. Magnus took second place despite also losing to Vishy Anand, with Vishy, Anish Giri and Shakhriyar Mamedyarov the other players to finish in the top half and get the advantage of five Whites in the classical tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/so-beats-carlsen-to-win-norway-chess-blitz",
