@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.02<br /> USChessChamps.com Group A<br /> Group B </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/bl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-1-lichessorg",
+         "pubDate" : "Tue, 31 May 2022 23:04:38 +0000",
+         "title" : "2022 Summer Chess Classic: Round 1 | lichess.org"
+      },
+      {
+         "description" : "Norway Chess 2022 commenced today in Stavanger with the main classical event after yesterday's Norway Chess Blitz decided the schedule of the next 11 days' encounters. The 2022 Norway Chess brings not only interesting games but all decisive results in the matches of each round. According to the general rules, if the classical game concludes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/so-and-anand-in-the-early-lead-of-norway-chess-2022/",
+         "pubDate" : "Tue, 31 May 2022 21:09:19 +0000",
+         "title" : "So and Anand in the early lead of Norway Chess 2022"
+      },
+      {
          "description" : "The Hamburg Chess Club hosted a GM tournament and an IM tournament last week. Leon Mendonca from India won the GM tournament. Frederick Svane scored a GM norm - 24 hours later Svane's third and last GM norm in the Bundesliga was also official. In the IM tournament, Brandon Clarke was the clear winner. | Photo: Hugo Schulz, Vasilios Kotronias, Leon Mendonca, Frederik Svane and Frank Bracker (Frank Bracker)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/abdusattorov-nodirbek-is-the-winner-of-5th-sharjah-chess-masters/",
          "pubDate" : "Mon, 30 May 2022 14:53:10 +0000",
          "title" : "Abdusattorov Nodirbek is the Winner of 5th Sharjah Chess Masters"
-      },
-      {
-         "description" : "The Czech Women&#x2019;s Chess Championship 2022&#160;took place from 21-29 May in Jaromerice nad Rokytnou. The event was played as a 10-player round robin tournament and after 9 exciting games, WIM Natasa Richterova clinched the title of Czech Women's National Champion. The last round of the event decided the Winners and medalists as the two top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wim-natasa-richterova-wins-czech-womens-championship-2022/",
-         "pubDate" : "Mon, 30 May 2022 14:15:54 +0000",
-         "title" : "WIM Natasa Richterova wins Czech Women's Championship"
       },
       {
          "description" : " The 2022 ACT Chess Championship ended in a tie for 1st place, between the top two seeds, IM Rishi Sardana and IM Junta Ikeda. Unusually, the two winners did not actually play each other, instead getting to 6 points by beating other players. The morning round saw previous leader Cameron McGowan lost to Fred Litchfield, which threw the tournament wide open. Going into the final round, there were 4 players on 5/6, with Sardana against Litchfield and Ikeda against McGowan. Sardana struck first, beating Litchfield after winning a piece in the middlegame, while Ikeda eventually triumphed after tactics went in his favour. Other results saw a 6 way tie for 3rd, involving most of the top seeds. The ",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1776",
          "pubDate" : "Sat, 21 May 2022 20:40:46 +0000",
          "title" : "Superbet Rapid & Blitz: Day 3 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Richard Rapport after his win over Vishy Anand in Rapid Round 9 of the Superbet Rapid &amp; Blitz Poland. 2022.05.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ef0tIjraeVg.jpg",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-richard-rapport-interview-day-3",
-         "pubDate" : "Sat, 21 May 2022 19:56:07 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Richard Rapport Interview | Day 3"
       },
       {
          "description" : " I've recently set up three new websites, which are about to be released to the general public. The first is chesswithrichard.uk. This is a personal site advertising my tuition services. Regular readers will be aware that I don't teach like other chess tutors. Nor do I teach for the same reasons as other chess tutors. <a href=\"https://chessimprover.com/chess-with-richard/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess With Richard\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-with-richard/\">Chess With Richard</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
