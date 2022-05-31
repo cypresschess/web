@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1744",
          "pubDate" : "Tue, 10 May 2022 10:21:36 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 5 Recap"
-      },
-      {
-         "description" : " From the back cover: Senior International Master Mike Read competed 115 times for the England and Great Britain teams at correspondence chess, including playing on board one for England in the 13th Olympiad. In this, his fourth book, he aims to instruct his readers by dissecting 110 games played by local players at all levels <a href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">110 Instructive Chess Annotations</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/\">110 Instructive Chess Annota",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/05/10/110-instructive-chess-annotations/",
-         "pubDate" : "Tue, 10 May 2022 00:10:51 +0000",
-         "title" : "110 Instructive Chess Annotations"
       }
    ]
 }
