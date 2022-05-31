@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year's Norway Chess Tournament in Stavanger started on Monday evening with a blitz tournament. After five rounds Magnus Carlsen led the field but then lost against Wesley So - after trying 1.a4 - and Vishy Anand. So, who had started the tournament with a loss against Wang Hao, used his chance and won the tournament with 6.5/9, one full point ahead of Carlsen who finished second with 5.5/9. | Photos: Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-wesley-so-is-best-in-blitz",
+         "pubDate" : "Tue, 31 May 2022 13:47:00 +0100",
+         "title" : "Norway Chess: Wesley So wins the blitz tournament"
+      },
+      {
+         "description" : "The 37th European Chess Club Cup and the 26th European Women&#x2019;s Chess Club Cup will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria. Both events will be played in 7 rounds, swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022/",
+         "pubDate" : "Tue, 31 May 2022 11:52:50 +0000",
+         "title" : "European Chess Club Cup 2022"
+      },
+      {
+         "description" : "The 31st edition of the annual Chicago open&#160;took place from 26-30 May in Westin Chicago North Shore Hotel. The event featured 8 tournaments being played in different rating categories: Open (for players rated 2200+ UCF), U2300, U2100, U1900, U1700, U1500, U1300 and U1000 and gathered more than 600 entries who fought for the total prize []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-jeffery-xiong-is-the-winner-of-31st-chicago-open/",
+         "pubDate" : "Tue, 31 May 2022 11:39:59 +0000",
+         "title" : "GM Jeffery Xiong is the Winner of 31st Chicago Open"
+      },
+      {
          "description" : "Colombian grandmaster Joshua Daniel Ruiz Castillo triumphed at the 9th edition of the Cherry Blossom Classic open tournament which took place from 26-30 May at Washington Dulles Airport Marriott in Virginia. Ruiz Castillo was number three on the starting rank list of the event and scored impressive 8/9 points to earn 22.1 rating points showing []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -266,28 +290,12 @@ news_feed (
          "title" : "Understanding before Moving 81: Pawn Majorities (5)"
       },
       {
-         "description" : "The Angola National Chess Championships 2022 in Open and Women's sections for classical, rapid and blitz time controls took place from 22-28 May. The main classical event was played from 22-27 May with 35 competitors in the Open event. After 9 rounds played in swiss system, IM David Silva won the Championship scoring unbeaten 7/9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/angola-crowns-national-chess-champions/",
-         "pubDate" : "Sun, 29 May 2022 13:43:31 +0000",
-         "title" : "Angola crowns National Chess Champions"
-      },
-      {
          "description" : " Cameron McGowan has continued his good start to the 2022 ACT Championship, winning both his games today to lead on 5/5. After beating top seed IM Rishi Sardana in a complicated game, he backed up to beat FM Michael Kethro in round 5. This puts him ahead of Sardana, IM Junta Ikeda, Fred Litchfield and CM Hui Li, who are all on 4 points. Kethro had a particularly tough day, playing 100 moves against Ikeda, the last 50 being a RvB ending (no pawns!), before starting his round 5 game on a short break. While McGowan leads the tournament, the destination of the championship title is less clear (as it is restricted to ACT residents). Ikeda has the easier start in the morning round, but is likely t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-4-and-5.html",
          "pubDate" : "Sun, 29 May 2022 13:34:00 +0000",
          "title" : "2022 ACT Championship - Rounds 4 and 5"
-      },
-      {
-         "description" : "One of the best Grandmasters in the World, number 9 on the World's rankings list, Levon Aronian was spotted today playing street chess in Barcelona. Read more: More than 500 kids crowd the central street of Berga to play Chess The Chessable company, part of the Play Magnus Group, last month started filming the street []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-playing-chess-on-barcelonas-streets-tweetoftheday/",
-         "pubDate" : "Sun, 29 May 2022 13:16:22 +0000",
-         "title" : "Levon Aronian playing chess on Barcelona's streets #TweetOftheDay"
       },
       {
          "description" : "It is a little known fact that Queen Victoria, by virtue of her being declared Empress of India in 1876, was the ruler of the world's third largest Muslim population, behind only the Islamic Sultan of Turkey and the Orthodox Christian Czar of Russia. Indeed, the very word Czar (cognate with Kaiser) is derived from Caesar, the name []",
@@ -1874,14 +1882,6 @@ news_feed (
          "title" : "Endgame Magic Show #194 with Arne Kaehler"
       },
       {
-         "description" : "Four-time Indian women's champion IM Padmini Rout reflects on 'The 4 Player Types standard model', a FritzTrainer authored by GMs Karsten M&uuml;ller and Luis Engel. She writes, \"This has been one of the most useful DVDs I have come across, and I recommend everyone to watch it. Know more about your strengths and weakness [and] what areas to work on\". | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/four-player-types-model-review",
-         "pubDate" : "Mon, 16 May 2022 17:00:00 +0100",
-         "title" : "The 4 player types standard model - a review"
-      },
-      {
          "description" : " <p class=\"lead\">After Karjakin's <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/\">6-months ban</a> from competitive chess left an open spot for the 2022 Candidates Tournament, the Chinese GM Ding Liren started a successful marathon of rated games in order to be eligible for the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51132737892_420ff3984c_k.jpg\" width=\"2047\" height=\"1260\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE / Lennart Ootes</div> </div> Invitation of Ding Liren, while officially issued by FIDE, is contingent on Sergey Karjakin's appeal to CAS, the highest court for sports disputes. A",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1746",
          "pubDate" : "Tue, 10 May 2022 12:46:42 +0000",
          "title" : "Batumi to host FIDE World Cadets Chess Championships 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1745",
-         "pubDate" : "Tue, 10 May 2022 11:37:41 +0000",
-         "title" : "Chess in Education online conference announced"
       }
    ]
 }
