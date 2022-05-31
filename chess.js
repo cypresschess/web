@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn endings require precise calculation. In the diagrammed position it is Black to move and win. But how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-tricky-king",
+         "pubDate" : "Tue, 31 May 2022 09:00:00 +0100",
+         "title" : "A tricky king"
+      },
+      {
+         "description" : "Anand's win over Carlsen comes close on the heels of compatriot and teen sensation R Praggnandhaa defeating the Norwegian world champion in an online blitz tournament recently.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34012429/viswanathan-anand-beats-magnus-carlsen-blitz-norway-chess?device=featurephone",
+         "pubDate" : "Tue, 31 May 2022 01:03:25 -0500",
+         "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91906351.cms\" />Indian chess ace Viswanathan Anand defeated world champion Magnus Carlsen in round seven of the blitz event of the Norway Chess on way to a fourth-place finish.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-magnus-carlsen-in-blitz-event-of-norway-chess-finishes-fourth/articleshow/91906351.cms",
+         "pubDate" : "Tue, 31 May 2022 04:33:00 +0000",
+         "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen has held the No. 1 position in the&#xA0;FIDE world chess rankings&#xA0;since 1 July 2011, and trails only&#xA0;Garry Kasparov&#xA0;in&#xA0;time spent as the highest-rated player in the world. Carlsen's peak&#xA0;rating&#xA0;of 2882 is the&#xA0;highest in history, but can he make it to 2900?! Carlsen is currently playing the Norway Chess 2022 which commenced []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "Ding, Praggnanandhaa Reach Final: Chessable Masters, Day 6"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91778163.cms\" />R Praggnanandhaa made it to his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old displayed tremendous skillset and tenacity to defeat Anish Giri in the Chessable Masters semifinal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-makes-chessable-masters-final/articleshow/91778163.cms",
-         "pubDate" : "Wed, 25 May 2022 02:46:23 +0000",
-         "title" : "Praggnanandhaa makes Chessable Masters final"
-      },
-      {
          "description" : "Rating underdogs Ding Liren and Praggnanandhaa moved on to the finals of the Chessable Masters after knocking out Magnus Carlsen and Anish Giri respectively. After drawing their first three encounters, Ding defeated Carlsen in game 4 to clinch match victory. Meanwhile, Pragg and Giri traded blows to take their match to tiebreaks. The 16-year-old Indian prodigy was stronger in blitz, and thus knocked out his famed opponent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Playing against 3...a6 in the Queens Gambit Declined"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91671475.cms\" /> Former world champion and Grandmaster Viswanathan Anand got off to a flying start in the Rapid section of the Superbet Rapid and Blitz Poland chess tournament on Thursday, registering wins in the first three rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-off-to-winning-start-in-superbet-rapid-chess-event/articleshow/91671475.cms",
-         "pubDate" : "Thu, 19 May 2022 16:47:09 +0000",
-         "title" : "Viswanathan Anand off to winning start in Superbet Rapid chess event"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-34th-national-under-14-open-and-girls-chess-championship-2022john-veny-akkarakaran-of-kerala-in-open-mrittika-mallick-of-west-bengal-in-girls-wins/",
          "pubDate" : "Mon, 16 May 2022 07:24:34 +0000",
          "title" : "MPL 34th National Under- 14 Open and Girls Chess Championship 2022,John Veny Akkarakaran of Kerala in Open & Mrittika Mallick of West Bengal in Girls Wins"
-      },
-      {
-         "description" : "One of the fascinating aspects of new iterations of tablebases is submitting known positions to their 'divine' evaluation. The words \"better\" or \"worse\" cease to have any meaning and not only are all evaluations perfect and absolute, but so are the solutions. In the following article a share of cooks of studies as well as famous endgames and analyses are placed under the spotlight of the 8-piece tablebases.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cooks-and-finds-with-8-piece-tablebases",
-         "pubDate" : "Mon, 16 May 2022 08:00:00 +0100",
-         "title" : "Cooks and finds with 8-piece tablebases"
       },
       {
          "description" : " Grandmasters are not especially noted for their longevity, but Yuri Averbakh, whose death at the age of 100 was announced the other day, was a notable exception. He will be remembered for his work on endings, but also for various opening variations bearing his name, most notably the Averbakh Variation against the King's Indian Defence. <a href=\"https://chessimprover.com/averbakh-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Averbakh Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/averbakh-variation/\">Averbakh Variation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
