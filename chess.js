@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmasters Maxime Lagarde (pictured) and Laurent Fressinet won the Internationaux de France blitz and rapid championships that were played over the weekend at Port-Marly near Paris. Lagarde won the blitz tournament with 11.0/13, and Fressinet won the rapid tournament with 8.0/9. | Photo: Lennart Ootes (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/maxime-lagarde-and-laurent-fressinet-triumph-in-french-blitz-and-rapid-championships",
+         "pubDate" : "Wed, 01 Jun 2022 12:00:00 +0100",
+         "title" : "Maxime Lagarde and Laurent Fressinet triumph in French blitz and rapid championships"
+      },
+      {
+         "description" : "The second leg of the MPL Indian Chess Tour 2022 will be played from 2-5 June on chess24.com. 18-year-old Arjun Erigaisi won the 1st leg of the tour and tops the second event together with Gukesh D and Nihal Sarin. The winner of each MPL tournament will receive an invitation to the Meltwater Champions Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022-leg-2/",
+         "pubDate" : "Wed, 01 Jun 2022 10:57:06 +0000",
+         "title" : "MPL Indian Chess Tour 2022 - Leg 2"
+      },
+      {
+         "description" : "52-year-old Vishy Anand continues to dazzle as he won a powerful game against Maxime Vachier-Lagrave to earn a full 3 points in Round 1 of Norway Chess and move back to the brink of the world Top 10. Wesley So was the only player to keep pace, defeating Teimour Radjabov in classical chess, while Magnus Carlsen, Anish Giri and Shakhriyar Mamedyarov were all only able to overcome their lower-rated opponents in Armageddon, picking up 1.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-1-anand-and-so-take-the-lead",
+         "pubDate" : "Wed, 01 Jun 2022 09:45:41 +0000",
+         "title" : "Norway Chess 1: Anand and So take the lead"
+      },
+      {
+         "description" : "The England teams for the Open and Women's Olympiad at Chennai are &#8212; Women's team WGM/IM Jovanka Houska, WGM Katarzyna Toma, FM Akshaya Kalaiyalahan,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-teams-announced-for-the-2022-olympiad/",
+         "pubDate" : "Wed, 01 Jun 2022 09:03:28 +0000",
+         "title" : "England teams announced for the 2022 Olympiad"
+      },
+      {
+         "description" : "The claim to be the best ever in chess, in any category, is usually backed up by either hard numbers (Karpov's number of grandmaster tournament wins is not open to debate), or strong opinions such as the best absolute player. But the debate on the greatest prodigy seems to lie somewhere in between, depending on your criteria. Read this article and see if you agree. (photo: Capablanca at age four)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-greatest-prodigy-of-all-time",
+         "pubDate" : "Wed, 01 Jun 2022 09:33:43 +0100",
+         "title" : "The greatest prodigy of all time"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91931630.cms\" />Indian chess ace Viswanathan Anand defeated Maxime Vachier-Lagrave in 40 moves in the first round of the classical section of the Norway Chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/richard-rapport-joins-romanian-chess-federation",
          "pubDate" : "Mon, 30 May 2022 16:34:34 +0100",
          "title" : "Richard Rapport joins Romanian Chess Federation"
-      },
-      {
-         "description" : "The 5th edition of the Sharjah Chess Masters&#160;international tournament was held from 20th-30th May in Sharjah Cultural &#38; Chess Club. The selected 80 players competed in a 9 round swiss system tournament for the prize fund of 55.000$. 18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov won the event scoring 7/9 points as he had better tiebreak criteria []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-nodirbek-is-the-winner-of-5th-sharjah-chess-masters/",
-         "pubDate" : "Mon, 30 May 2022 14:53:10 +0000",
-         "title" : "Abdusattorov Nodirbek is the Winner of 5th Sharjah Chess Masters"
       },
       {
          "description" : " The 2022 ACT Chess Championship ended in a tie for 1st place, between the top two seeds, IM Rishi Sardana and IM Junta Ikeda. Unusually, the two winners did not actually play each other, instead getting to 6 points by beating other players. The morning round saw previous leader Cameron McGowan lost to Fred Litchfield, which threw the tournament wide open. Going into the final round, there were 4 players on 5/6, with Sardana against Litchfield and Ikeda against McGowan. Sardana struck first, beating Litchfield after winning a piece in the middlegame, while Ikeda eventually triumphed after tactics went in his favour. Other results saw a 6 way tie for 3rd, involving most of the top seeds. The ",
@@ -1506,14 +1538,6 @@ news_feed (
          "title" : "Magnus Carlsen set to be part of Chess Olympiad"
       },
       {
-         "description" : "16-year-old Praggnanandhaa beat Magnus Carlsen on Day 2 of the Chessable Masters, though the Indian prodigy said he didn't want to win by a one-move blunder. Magnus shrugged off that loss with two wins (one with 1.c3) that put him in second place, alongside David Anton, while Wei Yi remains out in front on an unbeaten +5. His final win of the day ended a 3-game winning streak that made Jorden van Foreest, who started in last place, the day's top scorer.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-2-pragg-beats-magnus-again",
-         "pubDate" : "Sat, 21 May 2022 10:01:18 +0000",
-         "title" : "Chessable Masters 2: Pragg beats Magnus again"
-      },
-      {
          "description" : "In 1978 I became involved in perhaps the weirdest world chess championship of all time, including parapsychology, the Great Yoghurt controversy, terrorists, mystic gurus levitating for victory, long range hypnosis and an attempt to abort the entire contest, just as it was reaching its maximum sporting climax. I experienced this panoply of outlandish occurrences when []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1834,14 +1858,6 @@ news_feed (
          "title" : "The Weekly Show: A clutch victory by Maxime Vachier-Lagrave"
       },
       {
-         "description" : "Wilhelm Steinitz looms as one of the largest figures in chess. Earning the distinction of being the first ever World Champion in 1886, he was a successful competitive player and chess journalist whose theoretical teachings revolutionized chess and laid the foundations of the modern game. He is, arguably, chess' greatest thinker.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wilhelm-steinitz-and-the-dawning-of-chess-classical-age",
-         "pubDate" : "Tue, 17 May 2022 18:00:00 +0100",
-         "title" : "Wilhelm Steinitz, the thinker, and the dawning of chess' classical age"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg\" data-image-dimensions=\"2048x1536\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62839325e1583034f3e1aa99\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg?format=1000w\" /> </figure> <p class=\"\"><br>Photo by Nathan Kelly of the <a href=\"https://www.facebook.com/NationalBlitzLeague/\">National Blitz League</a> <p class=\"\"><strong>This week's</strong><a href=\"https://www.pe",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1768",
          "pubDate" : "Tue, 17 May 2022 10:59:35 +0000",
          "title" : "Radoslaw Wojtaszek and Michalina Rudzinska win Polish Championship"
-      },
-      {
-         "description" : "It is a vastly improved and 100-130 Elo stronger version of this classical program. The gain in playing strength offers real practical advantages: Komodo Dragon 3 takes only about a quarter of the time to play or analyze at the same level as Dragon 2! The large Elo increase is due to a new net structure for NNUE with a corresponding new net, as well as various optimizations and improvements in the search. Order it today - at a special Discount Day price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-komodo-dragon-3",
-         "pubDate" : "Tue, 17 May 2022 11:45:00 +0100",
-         "title" : "New: Komodo Dragon 3"
       },
       {
          "description" : "As we have already informed by the CL -2/2022 following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. Venue:&#160; Porto Palace, Hotel Thessaloniki. https://www.portopalace.gr Schedule: Friday,&#160;&#160;&#160;&#160;&#160;&#160;&#160;22&#160;&#160;July: Arrival of Delegates - Welcome Reception&#160; Saturday,&#160;&#160;&#160;23&#160;&#160;July : ECU General Assembly 2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/\">Read M",
@@ -2192,46 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1747",
          "pubDate" : "Wed, 11 May 2022 11:30:59 +0000",
          "title" : "Jimma and Mongeli win 2022 Zone 4.4 Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1749",
-         "pubDate" : "Wed, 11 May 2022 11:10:30 +0000",
-         "title" : "Southeast Asian Games kick off in Ha Long, Vietnam"
-      },
-      {
-         "description" : "National U-18(18-23 April, 2022) Certificates are out to Download Links: Female https://aicf.online/Under-18-Female.html Male https://aicf.online/U-18-Male.html Any Correction Mail at- Aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-18-certificates-out-to-download/",
-         "pubDate" : "Wed, 11 May 2022 10:22:15 +0000",
-         "title" : "National U-18 Certificates Out to Download"
-      },
-      {
-         "description" : " <p class=\"lead\">Communist Party chess team, represented by GMs Alexander Grischuk, Vladimir Potkin, Alexey Dreev et al. took part in the <a href=\"https://chess-results.com/tnr633431.aspx?lan=11&art=8\">Russian team championship</a> in Sochi and came third. The team's name, besides ensuring a perfect clickbait title for this article, outlines the hysterical landscape of Russian chess club sponsorship, where various entities for little money enshrine their (often) unsavory brands with a chess sanctity. Case in point: the Communist Party chess team. The Russian chess club championship, less prestigious than the individual championship, gives grandmasters a good opportunity to spend time in Soch",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/communist-party-team-almost-wins-russian-chess-championship-sadl/",
-         "pubDate" : "Wed, 11 May 2022 10:12:46 +0000",
-         "title" : "Communist Party Team Almost Wins Russian Chess Championship, Sadly"
-      },
-      {
-         "description" : "To All Concerned. In case situation arise of fielding an additional team based on odd number of entries for the 44th FIDE Chess Olympiad, the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/selection-of-additional-indian-team-for-chess-olympiad-2022/",
-         "pubDate" : "Wed, 11 May 2022 09:11:52 +0000",
-         "title" : "SELECTION OF ADDITIONAL INDIAN TEAM FOR CHESS OLYMPIAD 2022"
-      },
-      {
-         "description" : "The ECU E-Magazine April 2022 is out! The May 2022 edition of the ECU Magazine can be read online together with interactive links on the following link, or it can be downloaded in PDF format down bellow. In this edition of the ECU E-Magazine you may read about: European School Chess Championship 2022 Mitropa Chess Cup 2022 ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-april-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-april-2022/",
-         "pubDate" : "Wed, 11 May 2022 08:18:40 +0000",
-         "title" : "ECU E-Magazine April 2022"
       }
    ]
 }
