@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91931630.cms\" />Indian chess ace Viswanathan Anand defeated Maxime Vachier-Lagrave in 40 moves in the first round of the classical section of the Norway Chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-vachier-lagrave-in-norway-chess-tourney/articleshow/91931630.cms",
+         "pubDate" : "Wed, 01 Jun 2022 04:08:07 +0000",
+         "title" : "Anand beats Vachier-Lagrave in Norway Chess tourney"
+      },
+      {
          "description" : " Jeffrey Xiong won his second Chicago Open title after his 2015 breakthrough. At the 2022 Chicago Open, he finished on 7/9 along with three others but won the tiebreak battle. Xiong has made steady progress since then and had previously made the national team. With the addition of Levon Aronian and Leinier Dominguez, he will The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/\">Jeffery Xiong nets another Chicago title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -214,7 +222,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/frederik-svane-2-gm-norms-in-24-hours",
-         "pubDate" : "Mon, 30 May 2022 10:44:28 -0700",
+         "pubDate" : "Mon, 30 May 2022 10:44:00 -0700",
          "title" : "Frederik Svane Sets Likely Record, Scoring Final 2 GM Norms In 24 Hours"
       },
       {
@@ -1626,14 +1634,6 @@ news_feed (
          "title" : "Chessable Masters: Wei Yi leads"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91685191.cms\" />According to Organising Secretary Niranjan Godbole, the Ukrainian GM has applied for the visa again so that he can compete in the tournament, set to be held in Pune from May 31 to June 8.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-ukraine-gm-ponomariov-applies-for-visa-again-maharashtra-open-organisers-knock-on-mea-doors/articleshow/91685191.cms",
-         "pubDate" : "Fri, 20 May 2022 09:09:52 +0000",
-         "title" : "Ukraine GM Ponomariov applies for visa again, Maharashtra Open organisers knock on MEA doors"
-      },
-      {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2232,22 +2232,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-april-2022/",
          "pubDate" : "Wed, 11 May 2022 08:18:40 +0000",
          "title" : "ECU E-Magazine April 2022"
-      },
-      {
-         "description" : "Chess in School conference and Erasmus+ meetings will take place from 11th-14th May 2022 in Zurich, Switzerland. The Chess in school conference under the &#8220;Chess: a Game to be spread in Schools&#8221; (CGS) will be held on 14th of May, in Dorint Airport Hotel. The Conference will be held in the English language and it will be open&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-school-conference/",
-         "pubDate" : "Wed, 11 May 2022 06:42:13 +0000",
-         "title" : "\"Chess: a Game to be Spread in Schools\"Conference"
-      },
-      {
-         "description" : " The FIDE Candidates Tournament takes place Thu 16th June to Tue 5th Jul 2022 in Madrid, Spain. This is an 8 player 14 round event. For the first time since the Candidates tournaments returned there will be rapid and tie-breaks among players tied for first. Tie-break coefficients were used in the past - although there were provisions for a tie-break match the conditions needed for them to happen meant they were all but impossible. Players: Ian Nepomniachtchi, Teimour Radjabov, Jan-Krzysztof Duda, Alireza Firouzja, Fabiano Caruana, Hikaru Nakamura, Richard Rapport, and Ding Liren. Sergey Karjakin is serving a 6 months ban for his enthusiastic support of the Russian invasion of Ukraine which w",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
-         "pubDate" : "Wed, 11 May 2022 10:00:00 +0400",
-         "title" : "FIDE Candidates Tournament 2022 - Games and Results"
       }
    ]
 }
