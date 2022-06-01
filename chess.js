@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his final 'Weekly Show' Lawrence Trent focuses on the Norway Chess Tournament and the game of the day is the smooth and effortless victory by Vishy Anand over Maxime Vachier-Lagrave in round 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-final-weekly-show-round-1-of-norway-chess",
+         "pubDate" : "Wed, 01 Jun 2022 21:12:07 +0100",
+         "title" : "The (final) Weekly Show: Round 1 of Norway Chess"
+      },
+      {
+         "description" : "After Monday&#39;s fun and exciting blitz tournament, the real play started in this year&#39;s edition of Norway Chess on Tuesday. With victories with the white pieces, GMs Viswanathan Anand and Wesley So won their respective games against GMs Maxime Va...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-1",
+         "pubDate" : "Wed, 01 Jun 2022 09:57:00 -0700",
+         "title" : "Anand, Wesley So Take Lead: 2022 Norway Chess, Day 1"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
          "pubDate" : "Wed, 01 Jun 2022 16:55:00 +0100",
          "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won his second straight late Titled Tuesday event after GM Hans Niemann claimed the early tournament on May 31. Niemann was also a Titled Tuesday victor back on February 15. This week, one player also placed top five in both e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-nakamura-win-titled-tuesday-may-31-2022",
+         "pubDate" : "Wed, 01 Jun 2022 08:41:23 -0700",
+         "title" : "Nakamura, Niemann Nab Titled Tuesday Triumphs"
       },
       {
          "description" : "The German Chess Federation decided to show its logo in rainbow colors during June, aiming to set a sign of acceptance of queer chess players. Lesbian, Gay, Bisexual and Transgender Pride Month (LGBTQ+ Pride Month) is celebrated annually in June to honor the 1969 Stonewall riots, and works to achieve equal justice and equal opportunity []",
@@ -1530,14 +1554,6 @@ news_feed (
          "title" : "Superbet Poland: Rapport inflicts a first loss on Anand"
       },
       {
-         "description" : "The Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, continued on Saturday. GM Viswanathan Anand was confirmed as the tournament leader after scoring six wins, two draws, and one loss and winning the rapid section....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-3-anand-wins",
-         "pubDate" : "Sat, 21 May 2022 17:44:00 -0700",
-         "title" : "Anand Wins Rapid Portion: 2022 Superbet Rapid & Blitz Poland, Day 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2022-d2",
          "pubDate" : "Sat, 21 May 2022 07:55:00 +0100",
          "title" : "Chessable Masters: Pragg beats Carlsen as Wei leads"
-      },
-      {
-         "description" : "GM Wei Yi continues to lead the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Chinese GM is three points ahead of the pack. World Champion Magnus Carlsen again lost to GM Praggnanandhaa R. as he blundered a knight in a drawn endgame...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-2",
-         "pubDate" : "Fri, 20 May 2022 23:08:00 -0700",
-         "title" : "Carlsen Blunders Piece vs. Pragg: Chessable Masters, Day 2"
       },
       {
          "description" : "Vishy Anand continued his winning streak at the Superbet Rapid & Blitz tournament in Warsaw, as he kicked off day 2 with two straight wins before signing his first draw of the event in round 6. Anand has a 2-point lead over Richard Rapport, who collected full points in all three rounds on Friday. | Photo: Bryan Adams",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2022-preview",
          "pubDate" : "Wed, 18 May 2022 15:00:00 +0100",
          "title" : "Carlsen and Ding head the field at the Chessable Masters"
-      },
-      {
-         "description" : "On 17 May, the Polish National Championships ended in Kruszwica. In the open tournament, played in knockout format, defending champion Radoslaw Wojtaszek won his fifth title. But the women's tournament ended with a big surprise. | Photos: Polish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wojtaszek-and-rudzinska-win-polish-championships-2022",
-         "pubDate" : "Wed, 18 May 2022 12:17:09 +0100",
-         "title" : "Wojtaszek and Rudzinska win Polish Championships 2022"
       },
       {
          "description" : "",
@@ -2192,22 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1751",
          "pubDate" : "Thu, 12 May 2022 09:56:01 +0000",
          "title" : "Argentinean Women's Championship: Fernandez clinches fifth title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1750",
-         "pubDate" : "Wed, 11 May 2022 16:31:39 +0000",
-         "title" : "FIDE awards grants to Ukrainian seniors and disabled players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1740",
-         "pubDate" : "Wed, 11 May 2022 15:46:56 +0000",
-         "title" : "FIDE elections: Call to Candidates"
       }
    ]
 }
