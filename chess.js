@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Jeffrey Xiong won his second Chicago Open title after his 2015 breakthrough. At the 2022 Chicago Open, he finished on 7/9 along with three others but won the tiebreak battle. Xiong has made steady progress since then and had previously made the national team. With the addition of Levon Aronian and Leinier Dominguez, he will The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/\">Jeffery Xiong nets another Chicago title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/",
+         "pubDate" : "Wed, 01 Jun 2022 03:14:26 +0000",
+         "title" : "Jeffery Xiong nets another Chicago title!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.02<br /> USChessChamps.com Group A<br /> Group B </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/bl",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
