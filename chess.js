@@ -2,6 +2,118 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Wed, 01 Jun 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "The German Chess Federation decided to show its logo in rainbow colors during June, aiming to set a sign of acceptance of queer chess players. Lesbian, Gay, Bisexual and Transgender Pride Month (LGBTQ+ Pride Month) is celebrated annually in June to honor the 1969 Stonewall riots, and works to achieve equal justice and equal opportunity []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/german-chess-federation-takes-part-in-pride-month-aiming-to-support-queer-chess-players-tweetoftheday/",
+         "pubDate" : "Wed, 01 Jun 2022 15:04:21 +0000",
+         "title" : "German Chess Federation takes part in Pride Month aiming to support queer chess players #TweetOftheDay"
+      },
+      {
+         "description" : "The 1st Maharashtra International Open Grandmaster Chess Tournament 2022 kicked off yesterday in Pune, India, simultaneously with the 1st Pune Open. The tournament is played in 11 rounds, swiss system, with participation of more than 140 players from 13 countries. The event gathers 20 grandmasters with: GM Farrukh Amonatov, GM Luka Paichadze and GM Babu []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-maharashtra-international-open-gm-chess-tournament-2022/",
+         "pubDate" : "Wed, 01 Jun 2022 14:34:09 +0000",
+         "title" : "1st Maharashtra International Open GM Chess Tournament 2022"
+      },
+      {
+         "description" : "Wesley So and Vishy Anand grabbed an early lead at the Norway Chess super-tournament in Stavanger. So beat Teimour Radjabov, while Anand got the better of Maxime Vachier-Lagrave. Magnus Carlsen, Anish Giri and Shakhriyar Mamedyarov drew their classical encounters and went on to win the Armageddon. All five decisive games seen on Tuesday favoured the player with the white pieces. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r1",
+         "pubDate" : "Wed, 01 Jun 2022 14:50:00 +0100",
+         "title" : "Norway Chess: So, Anand score three-pointers"
+      },
+      {
+         "description" : "At the beginning of the month, FIDE published the new world ranking list. Since there have been more FIDE-rated tournaments recently there has been some movement on the list but Magnus Carlsen, Hou Yifan, Alireza Firouzja and Zhou Jiner are still the best players in the various categories.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-june-2022",
+         "pubDate" : "Wed, 01 Jun 2022 14:47:41 +0100",
+         "title" : "FIDE ratings June 2022"
+      },
+      {
+         "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/after-action-report.html",
+         "pubDate" : "Wed, 01 Jun 2022 13:22:00 +0000",
+         "title" : "After action report"
+      },
+      {
+         "description" : "The English Chess Federation today announced the Teams for the upcoming 44th Chess Olympiad 2022 which starts in less than two months in Chennai, India. England Team (Open section): GM Michael Adams (2690) GM Jones Gawain (2665) GM David Howell (2650) GM Luke McShane (2649) GM Ravi Haria (2504) The Team with an average rating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/england-announces-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Wed, 01 Jun 2022 13:07:07 +0000",
+         "title" : "England announces Teams for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "Municipality Veliko Gradi&#x161;te, Chess Club VGSK, Chess Federation of Central Serbia and Danubia Hotels are warmly welcoming all participants and guests to the Chess Festival &#x201C;Silver Lake 2022&#x2033;. The Chess Festival will take place from 19-26th June, 2022, at the Silver Lake &#x201C;Sports hall&#x201D; and &#x201C;Great hall&#x201D; of Danubia Park Hotel. The Organizing Committee is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/silver-lake-chess-festival-2022/",
+         "pubDate" : "Wed, 01 Jun 2022 12:37:11 +0000",
+         "title" : "Silver Lake Chess Festival 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1798",
+         "pubDate" : "Wed, 01 Jun 2022 12:30:13 +0000",
+         "title" : "June 2022 rating list: Youngsters keep moving up"
+      },
+      {
+         "description" : "GM Richard Rapport no longer plans to play for Hungary but will represent Romania instead. His wife Jovana will join him, making the switch from Serbia to Romania. This news was announced by the Romanian Chess Federation. Meanwhile, the Hungarian ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/richard-rapport-switch-federations-hungary-romania",
+         "pubDate" : "Wed, 01 Jun 2022 05:27:00 -0700",
+         "title" : "Rapport To Switch Federations To Romania; Hungarian Federation 'Protesting'"
+      },
+      {
+         "description" : "MPL 41st National Team &#38; 19th National Team Women Chess Championship 2022 Certificates are out to Download. Links: Women : https://aicf.online/National-Team-Women.html Open : https://aicf.online/National-Team-Open.html Any Correction Mail",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-open-girls-chess-championship/",
+         "pubDate" : "Wed, 01 Jun 2022 12:23:59 +0000",
+         "title" : "National Team Open & Women Chess Championship Certificates"
+      },
+      {
+         "description" : " With Andrew on jury service and undergoing a house move, this week's show was pre-recorded. It was a presentation of three great wins by British players: Hopefully we will soon by back to our live Twitch shows! Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-16/\">Master Chess Web Show (16)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-16/",
+         "pubDate" : "Wed, 01 Jun 2022 12:16:34 +0000",
+         "title" : "Master Chess Web Show (16)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1795",
+         "pubDate" : "Wed, 01 Jun 2022 12:00:27 +0000",
+         "title" : "Tech Mahindra onboarded as digital partner for the Chess Olympiad"
+      },
+      {
+         "description" : "The&#160;FIDE Candidates Chess 2022&#160;will take place in Madrid, from June 16 to July 7. It will be an 8-player double-round robin with some of the world&#x2019;s top Grandmasters. The winner of the FIDE 2022 Candidates Chess Tournament will qualify for the World Championship match later this year, competing in 14 rounds against the reigning World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-live/",
+         "pubDate" : "Wed, 01 Jun 2022 11:34:10 +0000",
+         "title" : "FIDE Candidates Chess 2022 LIVE"
+      },
+      {
          "description" : "Grandmasters Maxime Lagarde (pictured) and Laurent Fressinet won the Internationaux de France blitz and rapid championships that were played over the weekend at Port-Marly near Paris. Lagarde won the blitz tournament with 11.0/13, and Fressinet won the rapid tournament with 8.0/9. | Photo: Lennart Ootes (Archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,14 +194,6 @@ news_feed (
          "title" : "Mendonca clear winner at the Hamburg GM tournament"
       },
       {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Tue, 31 May 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
-      },
-      {
          "description" : "Rather than having a traditional drawing of start numbers, Norway Chess has made a tradition of starting out with a blitz tournament to decide the start numbers for each player in the main event. American GM Wesley So took a decisive lead by bea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,14 +266,6 @@ news_feed (
          "title" : "Rwanda determines Open Team for 44th Chess Olympiad 2022"
       },
       {
-         "description" : "Colombian grandmaster Joshua Daniel Ruiz Castillo triumphed at the 9th edition of the Cherry Blossom Classic open tournament which took place from 26-30 May at Washington Dulles Airport Marriott in Virginia. Ruiz Castillo was number three on the starting rank list of the event and scored impressive 8/9 points to earn 22.1 rating points showing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/joshua-daniel-ruiz-castillo-wins-9th-cherry-blossom-classic/",
-         "pubDate" : "Tue, 31 May 2022 10:39:12 +0000",
-         "title" : "Joshua Daniel Ruiz Castillo wins 9th Cherry Blossom Classic"
-      },
-      {
          "description" : "IM Herman Grooten will offer rules-of-thumb and concepts to give clubchess players the necessary guidance to try and find the right paths in their own games. In this two-part course the emphasis will be on typical pawn-structures, ones that appear quite often in games and that will be very recognisable to club-chess players. Now, you also have the option to watch all of your favourite Fritztrainers in our \"Video-Section\" as a stream!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,30 +314,6 @@ news_feed (
          "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen has held the No. 1 position in the&#xA0;FIDE world chess rankings&#xA0;since 1 July 2011, and trails only&#xA0;Garry Kasparov&#xA0;in&#xA0;time spent as the highest-rated player in the world. Carlsen's peak&#xA0;rating&#xA0;of 2882 is the&#xA0;highest in history, but can he make it to 2900?! Carlsen is currently playing the Norway Chess 2022 which commenced []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/can-magnus-reach-the-rating-of-2900-tweetoftheday/",
-         "pubDate" : "Mon, 30 May 2022 21:55:37 +0000",
-         "title" : "Can Magnus reach the rating of 2900? #TweetOftheDay"
-      },
-      {
-         "description" : "Wesley So today won the Norway Chess Blitz tournament in Stavanger showing he is fronting the classical tournament in a good shape and mood. So had a slow start losing to&#160;Wang Hao&#160;in the first round with the next two games finishing in a draw and explained that the opening didn't go well against Wang: &#8220;The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-i-felt-like-playing-1-h5-or-1-a5-against-carlsen-video/",
-         "pubDate" : "Mon, 30 May 2022 21:38:19 +0000",
-         "title" : "Wesley So: I felt like playing 1&hellip;h5 or 1&hellip;a5 against Carlsen (VIDEO)"
-      },
-      {
-         "description" : "The Norway Chess 2022 Blitz tournament was played today afternoon deciding the pairings of the main classical event that kicks off tomorrow in Stavanger. Wesley So triumphed in the field of 10 world class players, scoring 6.5/9 points to be the sole Winner of the Blitz tournament. So had a slow start losing to Wang []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-wins-norway-chess-blitz-choosing-number-one-for-classical-event/",
-         "pubDate" : "Mon, 30 May 2022 20:07:09 +0000",
-         "title" : "Wesley So wins Norway Chess Blitz choosing number one for Classical event"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chesskid</strong> is the <a href=\"https://www.chesskid.com/learn/articles/chesskid-enters-new-partnership-with-classlink\">first chess learning platform</a> that is available on <strong>ClassLink</strong>, a provider of single sign-on for students digital learning and analytics for their schools, strengthening its position in the US market. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -258,7 +330,7 @@ news_feed (
          "title" : "\"No more political sponsorship and sportswashing\""
       },
       {
-         "description" : "It is probably a record: scoring two norms in a time span of fewer than 24 hours. GM-elect Frederik Svane, the brother of GM Rasmus Svane, managed to do so last weekend in Hamburg, Germany. 17-year-old Svane, the youngest of the two brothers (Ra...",
+         "description" : "It is probably a record: scoring two norms in a time span of fewer than 24 hours. GM-elect Frederik Svane, the brother of GM Rasmus Svane, managed to do so last weekend in Hamburg, Germany. 17-year-old Svane, the younger of two brothers (Rasmus ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/frederik-svane-2-gm-norms-in-24-hours",
@@ -280,14 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-196-with-tichon-cherniaev-endgame-highlights-from-the-chessable-masters",
          "pubDate" : "Mon, 30 May 2022 17:00:00 +0100",
          "title" : "Endgame Magic #196 with Tykhon Cherniaiev: Endgame highlights from the Chessable Masters"
-      },
-      {
-         "description" : "21-year-old Singapore's best-rated chess player Tin Jingyao will become the nation's fifth and youngest grandmaster as he won the third GM norm at the Hanoi GM Chess Tournament. After great play in the 31st Southeast Asian Games (SEA Games) Tim Jingyao won his second GM norm on the way to the grandmaster crown. With score []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/21-year-old-tin-jingyao-becomes-the-youngest-gm-of-singapore/",
-         "pubDate" : "Mon, 30 May 2022 15:44:05 +0000",
-         "title" : "21-year-old Tin Jingyao becomes the youngest GM of Singapore"
       },
       {
          "description" : "Surprising news from Romania: As the Romanian Chess Federation announced, Richard Rapport and his wife Jovana will join the Romanian Chess Federation. Hungary thus loses its top player. | Photo: Lennart Ootes",
@@ -1610,14 +1674,6 @@ news_feed (
          "title" : "Daniel Cawdery wins South African Championship"
       },
       {
-         "description" : "Last weekend, the semifinals concluded with two of the most thrilling matches we have ever seen in Collegiate Chess League history. Both matches came down to the very last game of the match with thousands of dollars on the line and a spot in the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-4-semifinals",
-         "pubDate" : "Fri, 20 May 2022 15:44:00 -0700",
-         "title" : "Collegiate Chess League Season 4 Semifinals: UTRGV, UChicago Advance To Finals"
-      },
-      {
          "description" : " Spike Lee filming &#8220;Seen It All&#8221; Photo by NIKE Spike Lee Joint helps to celebrate Nike's 50th with a montage of videos of famous athletes and events spanning history since 1988. Spike Lee does it as an all-seeing witness at the chessboard. Set in the chess battleground in a New York park, Lee reprises Mars The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/\">Spike Lee celebrates NIKE's 50th with chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1826,14 +1882,6 @@ news_feed (
          "title" : "National Rapid and Blitz Certificates out to download"
       },
       {
-         "description" : "The Superbet Rapid & Blitz Poland will be held at the Museum of the History of Polish Jews in Warsaw on May 17-23. It will feature four full tour players and six wildcard players. The field will be headed by Fabiano Caruana, Wesley So and Levon Aronian. Vishy Anand and Jan-Krzysztof Duda are the highest-rated wildcards included in the mix. The first round of the Rapid Tournament starts 19 May, 14.00 CEST (8.00 EST, 12.00 UTC). | Photo: Lennart Ootes (Croatia GCT, 2019)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2022-preview",
-         "pubDate" : "Wed, 18 May 2022 10:04:55 +0100",
-         "title" : "Anand among wildcards at the Superbet Rapid & Blitz in Poland"
-      },
-      {
          "description" : "MPL 31st National U-18 (Open &#38; Girls) Chess Championship 2022 held at Dr. Mahalingam College of Engineering &#38; Technology, Pollachi, Tamilnadu from 18-23 April 2022",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1848,14 +1896,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-state-schools-chess-tournament/",
          "pubDate" : "Wed, 18 May 2022 04:35:12 +0000",
          "title" : "AICF State Schools Chess Tournament"
-      },
-      {
-         "description" : "In his 'Weekly Show' Lawrence Trent focuses on the Superbet chess classic. The game of the day is the clutch victory by Maxime Vachier-Lagrave in the tiebreak vs Levon Aronian which secured him the tournament win. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-a-nice-squeeze-by-caruana-2",
-         "pubDate" : "Tue, 17 May 2022 23:00:00 +0100",
-         "title" : "The Weekly Show: A clutch victory by Maxime Vachier-Lagrave"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg\" data-image-dimensions=\"2048x1536\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62839325e1583034f3e1aa99\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg?format=1000w\" /> </figure> <p class=\"\"><br>Photo by Nathan Kelly of the <a href=\"https://www.facebook.com/NationalBlitzLeague/\">National Blitz League</a> <p class=\"\"><strong>This week's</strong><a href=\"https://www.pe",
@@ -2082,14 +2122,6 @@ news_feed (
          "title" : "FIDE delegation pays visit to Montenegro"
       },
       {
-         "description" : " \"There's a lot of tension in that position dude!\" I said that to two of my students upon viewing their middle-game. Tension and stress are a killer, both on the chessboard and off the chessboard. In life, if you want to live to a ripe old age, your doctor will tell you to reduce the <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-one/\">A Foundation for Beginners Sixty One</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impro",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-one/",
-         "pubDate" : "Fri, 13 May 2022 17:04:26 +0000",
-         "title" : "A Foundation for Beginners Sixty One"
-      },
-      {
          "description" : " Six weeks ago on April 1st, Arkady Dvorkovich announced a commitment from 5-time world champion Viswanathan Anand to stand with him on the ticket for reelection. The incumbent FIDE President needs to gain some appeal after his former ties with Russian President Vladimir Putin have put him in a serious bind. FIDE President Arkady Dvorkovich The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/\">Dvorkovich-Anand 2022 campaign for FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2176,30 +2208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1740",
          "pubDate" : "Wed, 11 May 2022 15:46:56 +0000",
          "title" : "FIDE elections: Call to Candidates"
-      },
-      {
-         "description" : " While I was in Thailand, there were a number of news stories about the South East Asia Games, which were about to start in Vietnam. It seemed to be a pretty big deal in Thailand, and probably in other countries as well. One sport that is part of the program (and is a full medal sport) is Chess. Medals are being awarded for standard chess, as well as rapidplay and blitz, for both Men and Women (I'm assuming that there is no Open section). Although both events are small, they are very strong, with every participant holding a title. The homepage for the Games is <a href=\"https://seagames2021.com/?lang=en-US\">https://seagames2021.com/?lang=en-US</a> although following the chess results is a lit",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/sea-games.html",
-         "pubDate" : "Wed, 11 May 2022 13:41:00 +0000",
-         "title" : "SEA Games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1748",
-         "pubDate" : "Wed, 11 May 2022 12:00:11 +0000",
-         "title" : "Timur Gareyev wins XV Americas Individual Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1747",
-         "pubDate" : "Wed, 11 May 2022 11:30:59 +0000",
-         "title" : "Jimma and Mongeli win 2022 Zone 4.4 Championship"
       }
    ]
 }
