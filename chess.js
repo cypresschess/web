@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, June 2nd, 2022, the President of the Russian Federation Vladimir Putin granted Sergey Karjakin a state award of the order &#8220;For Merit to the Fatherland&#8221;. There are two types of medals one for civilians and one for the military division. The civilian awards recognize Russians with outstanding contributions to the state and it []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladimir-putin-grants-sergey-karjakin-medal-for-merit-to-the-fatherland/",
+         "pubDate" : "Thu, 02 Jun 2022 18:25:00 +0000",
+         "title" : "Vladimir Putin grants Sergey Karjakin medal \"For Merit to the Fatherland\""
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-52-back-in-top-10-after-32-months-in-world-chess-rankings/articleshow/91969964.cms",
+         "pubDate" : "Thu, 02 Jun 2022 17:04:37 +0000",
+         "title" : "Viswanathan Anand, 52, back in top-10 after 32 months in world chess rankings"
+      },
+      {
+         "description" : "This week Robert Ris looks at the game Wang Hao vs Anish Giri from the Norway Chess Tournament. Both sides were ready for a Najdorf, both sides were well prepared and both sides were willing to enter sharp and complicated lines. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-najdorf",
+         "pubDate" : "Thu, 02 Jun 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A fascinating Najdorf"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-1-lichessorg",
          "pubDate" : "Tue, 31 May 2022 23:04:38 +0000",
          "title" : "2022 Summer Chess Classic: Round 1 | lichess.org"
-      },
-      {
-         "description" : "Norway Chess 2022 commenced today in Stavanger with the main classical event after yesterday's Norway Chess Blitz decided the schedule of the next 11 days' encounters. The 2022 Norway Chess brings not only interesting games but all decisive results in the matches of each round. According to the general rules, if the classical game concludes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/so-and-anand-in-the-early-lead-of-norway-chess-2022/",
-         "pubDate" : "Tue, 31 May 2022 21:09:19 +0000",
-         "title" : "So and Anand in the early lead of Norway Chess 2022"
       },
       {
          "description" : "The Hamburg Chess Club hosted a GM tournament and an IM tournament last week. Leon Mendonca from India won the GM tournament. Frederick Svane scored a GM norm - 24 hours later Svane's third and last GM norm in the Bundesliga was also official. In the IM tournament, Brandon Clarke was the clear winner. | Photo: Hugo Schulz, Vasilios Kotronias, Leon Mendonca, Frederik Svane and Frank Bracker (Frank Bracker)",
@@ -1666,14 +1682,6 @@ news_feed (
          "title" : "Superbet Rapid & Blitz: Day 2 Recap"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91705044.cms\" /> Indian Grandmaster Praggnanandhaa Rameshbabu notched up his second win of the season over Magnus Carlsen in the fifth round of the Chessable Masters online rapid chess tournament, exactly three months after stunning the world champion for the first time.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teen-praggnanandhaa-stuns-magnus-carlsen-again-to-take-win-at-chessable-masters/articleshow/91705044.cms",
-         "pubDate" : "Sat, 21 May 2022 07:52:49 +0000",
-         "title" : "Indian teen Praggnanandhaa stuns world champion Carlsen again"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/munich-to-host-a-leg-of-women-s-grand-prix-2022-23",
          "pubDate" : "Thu, 19 May 2022 11:10:52 +0100",
          "title" : "Munich to host a leg of Women's Grand Prix 2022-23"
-      },
-      {
-         "description" : "Users of ChessBase are undoubtedly familiar with the Player Encyclopedia that comes with Mega Database, a massive archive of players and photos that allow you to view games with a picture of that player instead of just their name. There is an online version with ChessBase Account, but offers much more. Read the tutorial or watch the video to find out why.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/online-player-encyclopedia-players-profiles-and-pictures",
-         "pubDate" : "Thu, 19 May 2022 09:48:25 +0100",
-         "title" : "Online Player Encyclopedia - Players, profiles, and pictures (with video!)"
       },
       {
          "description" : "",
