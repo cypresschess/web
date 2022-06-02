@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Dutch Open National team is set for the upcoming 44th Chess Olympiad in Chennai. The team with an average rating of 2665 will be led by world number nine Anish Giri, who has represented the Netherlands in five Chess Olympiads (2010, 2012, 2014, 2016, 2018). Netherlands Team (Open section): GM Anish Giri (2761) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/team-netherlands-set-for-44th-chess-olympiad/",
+         "pubDate" : "Thu, 02 Jun 2022 22:44:32 +0000",
+         "title" : "Team Netherlands set for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "The Indian chess legend Vishy Anand continues with amazing play in the 2022 Norway Chess. After two straight-forward victories in the first two rounds, Anand today defeated Wang Hao in Armaggedon to maintain the sole leadership with 7.5 points. With a plus of 9.6 rating points, Vishy came back in the top 10 of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anand-maintains-sole-leadership-at-norway-chess-2022/",
+         "pubDate" : "Thu, 02 Jun 2022 22:08:34 +0000",
+         "title" : "Anand maintains sole leadership at Norway Chess 2022"
+      },
+      {
          "description" : "Today, June 2nd, 2022, the President of the Russian Federation Vladimir Putin granted Sergey Karjakin a state award of the order &#8220;For Merit to the Fatherland&#8221;. There are two types of medals one for civilians and one for the military division. The civilian awards recognize Russians with outstanding contributions to the state and it []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -226,28 +242,12 @@ news_feed (
          "title" : "Tech Mahindra onboarded as digital partner for the Chess Olympiad"
       },
       {
-         "description" : "The&#160;FIDE Candidates Chess 2022&#160;will take place in Madrid, from June 16 to July 7. It will be an 8-player double-round robin with some of the world&#x2019;s top Grandmasters. The winner of the FIDE 2022 Candidates Chess Tournament will qualify for the World Championship match later this year, competing in 14 rounds against the reigning World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-live/",
-         "pubDate" : "Wed, 01 Jun 2022 11:34:10 +0000",
-         "title" : "FIDE Candidates Chess 2022 LIVE"
-      },
-      {
          "description" : "Grandmasters Maxime Lagarde (pictured) and Laurent Fressinet won the Internationaux de France blitz and rapid championships that were played over the weekend at Port-Marly near Paris. Lagarde won the blitz tournament with 11.0/13, and Fressinet won the rapid tournament with 8.0/9. | Photo: Lennart Ootes (Archive)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/maxime-lagarde-and-laurent-fressinet-triumph-in-french-blitz-and-rapid-championships",
          "pubDate" : "Wed, 01 Jun 2022 12:00:00 +0100",
          "title" : "Maxime Lagarde and Laurent Fressinet triumph in French blitz and rapid championships"
-      },
-      {
-         "description" : "The second leg of the MPL Indian Chess Tour 2022 will be played from 2-5 June on chess24.com. 18-year-old Arjun Erigaisi won the 1st leg of the tour and tops the second event together with Gukesh D and Nihal Sarin. The winner of each MPL tournament will receive an invitation to the Meltwater Champions Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022-leg-2/",
-         "pubDate" : "Wed, 01 Jun 2022 10:57:06 +0000",
-         "title" : "MPL Indian Chess Tour 2022 - Leg 2"
       },
       {
          "description" : "52-year-old Vishy Anand continues to dazzle as he won a powerful game against Maxime Vachier-Lagrave to earn a full 3 points in Round 1 of Norway Chess and move back to the brink of the world Top 10. Wesley So was the only player to keep pace, defeating Teimour Radjabov in classical chess, while Magnus Carlsen, Anish Giri and Shakhriyar Mamedyarov were all only able to overcome their lower-rated opponents in Armageddon, picking up 1.5 points.",
@@ -290,7 +290,7 @@ news_feed (
          "title" : "Jeffery Xiong nets another Chicago title!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.02<br /> USChessChamps.com Group A<br /> Group B </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/bl",
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-1-lichessorg",
@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1754",
          "pubDate" : "Thu, 12 May 2022 23:46:13 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 7 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1753",
-         "pubDate" : "Thu, 12 May 2022 23:13:59 +0000",
-         "title" : "Call for interest: Fair Play Experts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1752",
-         "pubDate" : "Thu, 12 May 2022 20:46:12 +0000",
-         "title" : "FIDE Trainer Online Seminar for North and Central America announced"
       }
    ]
 }
