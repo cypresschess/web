@@ -74,14 +74,6 @@ news_feed (
          "title" : "Anand, Wesley So Take Lead: 2022 Norway Chess, Day 1"
       },
       {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Wed, 01 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
-      },
-      {
          "description" : "GM Hikaru Nakamura won his second straight late Titled Tuesday event after GM Hans Niemann claimed the early tournament on May 31. Niemann was also a Titled Tuesday victor back on February 15. This week, one player also placed top five in both e...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1856,6 +1848,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2022",
          "pubDate" : "Wed, 18 May 2022 23:19:00 +0400",
          "title" : "Chessable Masters 2022 - "
+      },
+      {
+         "description" : "As expected, Ding Liren is the eighth participant in the Candidates Tournament 2022. The Chinese top GM replaces the suspended Sergey Karjakin as the highest-rated player after World Champion Carlsen. The Candidates Tournament begins on 17 June in Madrid and the winner will play Magnus Carlsen for the World Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-confirmed-to-play-in-the-candidates",
+         "pubDate" : "Wed, 18 May 2022 19:00:00 +0100",
+         "title" : "Ding Liren confirmed to play in the Candidates"
       },
       {
          "description" : "",
