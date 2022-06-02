@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 15th World Chess Champion Vishy Anand shines in the 2022 Norway Chess as he is the only player who managed to score in both classical games, choosing not to test himself in the Armageddon yet. Anand defeated Veselin Topalov in the second round and emerged as the event's sole leader, achieving the maximum of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anand-emerges-as-the-sole-leader-of-norway-chess-2022/",
+         "pubDate" : "Wed, 01 Jun 2022 23:59:36 +0000",
+         "title" : "Anand emerges as the sole leader of Norway Chess 2022"
+      },
+      {
          "description" : "In his final 'Weekly Show' Lawrence Trent focuses on the Norway Chess Tournament and the game of the day is the smooth and effortless victory by Vishy Anand over Maxime Vachier-Lagrave in round 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-jeffery-xiong-is-the-winner-of-31st-chicago-open/",
          "pubDate" : "Tue, 31 May 2022 11:39:59 +0000",
          "title" : "GM Jeffery Xiong is the Winner of 31st Chicago Open"
-      },
-      {
-         "description" : "The Rwanda Open Olympiad Team has been named for the 44th Chess Olympiad 2022, which takes place from July 28th to August 10th in Chennai, India. The team members were selected at the end of the second and final qualification phase, which took place at&#xA0;Hilltop Hotel&#xA0;in Kigali, Rwanda from 23-27 May. The event was played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rwanda-determines-open-team-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Tue, 31 May 2022 11:37:00 +0000",
-         "title" : "Rwanda determines Open Team for 44th Chess Olympiad 2022"
       },
       {
          "description" : "IM Herman Grooten will offer rules-of-thumb and concepts to give clubchess players the necessary guidance to try and find the right paths in their own games. In this two-part course the emphasis will be on typical pawn-structures, ones that appear quite often in games and that will be very recognisable to club-chess players. Now, you also have the option to watch all of your favourite Fritztrainers in our \"Video-Section\" as a stream!",
