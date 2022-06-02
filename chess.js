@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Viswananathan Anand is the man of the hour. He got his second three-point win at the Norway Chess tournament on Wednesday, as he beat Veselin Topalov and now leads the standings table with 6 points. Wesley So won in Armageddon after drawing his classical encounter against Magnus Carlsen. | Photos: Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r2",
+         "pubDate" : "Thu, 02 Jun 2022 13:20:00 +0100",
+         "title" : "Norway Chess: So beats Carlsen in Armageddon, Anand leads"
+      },
+      {
+         "description" : "Anatoly Karpov and Tigran Petrosian are two Gemini world champions with outstanding positional and defensive skills. Alireza Firouzja and Hans Moke Niemann are also Gemini but will they be able to follow the path of Karpov and Petrosian and become world champion? Gemini are sometimes the fastest thinkers of all the signs of the zodiac, but they sometimes also have to deal with lapses of concentration. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gemini-and-their-strategy",
+         "pubDate" : "Thu, 02 Jun 2022 13:12:41 +0100",
+         "title" : "Gemini and their strategy"
+      },
+      {
+         "description" : "52-year-old Vishy Anand heard Anish Giri's tweet that he'd \"retigered\" once or twice two often on Wednesday, but Vishy's killer instincts were in evidence as he maintained the tension just long enough to let Veselin Topalov lose their Round 2 Norway Chess game on time. That was the only classical win of the day and saw Vishy take the sole lead, while in Armageddon the biggest result was Wesley So defeating Magnus Carlsen to put himself in clear second place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-2-vishy-anand-re-enters-top-10",
+         "pubDate" : "Thu, 02 Jun 2022 11:14:22 +0000",
+         "title" : "Norway Chess 2: Vishy Anand re-enters Top 10"
+      },
+      {
+         "description" : "Wesley So is currently playing the 2022 Norway Chess in Stavanger where he scores 4.5/6 points holding the clear second place. In the Round 2 post-game interview Wesley analyzed his victory against Carlsen and disclosed that one of his next tournaments will be the 44th Chess Olympiad 2022. Being asked about the US squad for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-reveals-the-us-squad-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Thu, 02 Jun 2022 09:55:16 +0000",
+         "title" : "Wesley So reveals the US squad for 44th Chess Olympiad 2022"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #518, Merijn van Delft takes a look how the 16-year old Indian talent Praggnanandhaa convincingly smashed Anish Giri's Grunfeld at the Chessable Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,14 +328,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-chess-club-cup-2022/",
          "pubDate" : "Tue, 31 May 2022 11:52:50 +0000",
          "title" : "European Chess Club Cup 2022"
-      },
-      {
-         "description" : "The 31st edition of the annual Chicago open&#160;took place from 26-30 May in Westin Chicago North Shore Hotel. The event featured 8 tournaments being played in different rating categories: Open (for players rated 2200+ UCF), U2300, U2100, U1900, U1700, U1500, U1300 and U1000 and gathered more than 600 entries who fought for the total prize []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-jeffery-xiong-is-the-winner-of-31st-chicago-open/",
-         "pubDate" : "Tue, 31 May 2022 11:39:59 +0000",
-         "title" : "GM Jeffery Xiong is the Winner of 31st Chicago Open"
       },
       {
          "description" : "IM Herman Grooten will offer rules-of-thumb and concepts to give clubchess players the necessary guidance to try and find the right paths in their own games. In this two-part course the emphasis will be on typical pawn-structures, ones that appear quite often in games and that will be very recognisable to club-chess players. Now, you also have the option to watch all of your favourite Fritztrainers in our \"Video-Section\" as a stream!",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "Chess With Richard"
       },
       {
-         "description" : "Vishy Anand rolled back the years as he clinched victory in the rapid section of the Superbet Rapid & Blitz in Warsaw with a round to spare. He began the final day of rapid chess by outplaying David Gavrilescu with the black pieces for a 6th win in 7 games. A draw against Fabiano Caruana was then enough for Vishy to top the table after his key rival Richard Rapport went astray and lost a winning position to Wesley So. Richard won their individual clash in the final round, however, narrowing the gap to just 1 point before the blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/vishy-anand-wins-superbet-rapid-with-round-to-spare",
-         "pubDate" : "Sat, 21 May 2022 16:28:12 +0000",
-         "title" : "Vishy Anand wins Superbet Rapid with round to spare"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91713601.cms\" />Former world champion Viswanathan Anand won the rapid event of the Superbet Rapid and Blitz Poland chess tournament on Saturday with a round to spare.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1840,22 +1856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2022",
          "pubDate" : "Wed, 18 May 2022 23:19:00 +0400",
          "title" : "Chessable Masters 2022 - "
-      },
-      {
-         "description" : "As expected, Ding Liren is the eighth participant in the Candidates Tournament 2022. The Chinese top GM replaces the suspended Sergey Karjakin as the highest-rated player after World Champion Carlsen. The Candidates Tournament begins on 17 June in Madrid and the winner will play Magnus Carlsen for the World Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-confirmed-to-play-in-the-candidates",
-         "pubDate" : "Wed, 18 May 2022 19:00:00 +0100",
-         "title" : "Ding Liren confirmed to play in the Candidates"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #516, Merijn van Delft takes a look at a fine attacking win by Dutch IM and ChessBase author Nico Zwirs. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-516-a-fine-attack-by-nico-zwirs",
-         "pubDate" : "Wed, 18 May 2022 18:10:56 +0100",
-         "title" : "Game of the Week #516: A fine attack by Nico Zwirs"
       },
       {
          "description" : "",
@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1752",
          "pubDate" : "Thu, 12 May 2022 20:46:12 +0000",
          "title" : "FIDE Trainer Online Seminar for North and Central America announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1751",
-         "pubDate" : "Thu, 12 May 2022 09:56:01 +0000",
-         "title" : "Argentinean Women's Championship: Fernandez clinches fifth title"
       }
    ]
 }
