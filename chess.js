@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #518, Merijn van Delft takes a look how the 16-year old Indian talent Praggnanandhaa convincingly smashed Anish Giri's Grunfeld at the Chessable Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-518-pragg-vs-giri",
+         "pubDate" : "Thu, 02 Jun 2022 07:15:43 +0100",
+         "title" : "Game of the Week #518: Pragg vs Giri"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91954737.cms\" />The 52-year-old Anand trumped his opponent, Bulgarian Veselin Topalov, in 36 moves in the battle of the veterans to make it two out of two after the second round late on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-posts-second-straight-win-in-classical-event-takes-lead/articleshow/91954737.cms",
+         "pubDate" : "Thu, 02 Jun 2022 04:59:32 +0000",
+         "title" : "Anand posts 2nd straight win in Classical event in Norway, takes lead"
+      },
+      {
          "description" : "The 15th World Chess Champion Vishy Anand shines in the 2022 Norway Chess as he is the only player who managed to score in both classical games, choosing not to test himself in the Armageddon yet. Anand defeated Veselin Topalov in the second round and emerged as the event's sole leader, achieving the maximum of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Spike Lee celebrates NIKE's 50th with chess"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91694704.cms\" />Indian chess legend Viswanathan Anand continued his superb form on the second day of the rapid event of the Superbet Rapid and Blitz Poland tournament on Friday, posting victories in rounds four and five before local hero Jan-Kryzstof Duda halted the winning streak in the sixth.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-rapid-chess-indian-gm-viswanathan-anand-continues-to-lead-the-field/articleshow/91694704.cms",
-         "pubDate" : "Fri, 20 May 2022 16:37:10 +0000",
-         "title" : "Superbet Rapid Chess: Indian GM Anand continues to lead the field"
-      },
-      {
          "description" : "In the first day of the Champions Chess Tour, Gawain Jones played the Kings Indian against Vidit Gujrathi because it is a very legit weapon. One of Svitlana's favourite openings deserves a second part, to get into some deeper strategic territory. What if White is castling on the queen side? We adjust our plans, and build up some important decisions. Svitlana analyses an interesting King's Indian game between Ivan Cheparinov, and Wang Yue!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-516-a-fine-attack-by-nico-zwirs",
          "pubDate" : "Wed, 18 May 2022 18:10:56 +0100",
          "title" : "Game of the Week #516: A fine attack by Nico Zwirs"
-      },
-      {
-         "description" : "The world's top two chess stars go head-to-head starting Thursday at the Chessable Masters, the fourth leg of the Meltwater Champions Chess Tour. Norway's world champion Magnus Carlsen will face Ding Liren, who returns having regained his second spot in the world ranking. The field also includes two of the most promising rising stars in the chess world, Praggnanandhaa and Abhimanyu Mishra.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-preview",
-         "pubDate" : "Wed, 18 May 2022 15:00:00 +0100",
-         "title" : "Carlsen and Ding head the field at the Chessable Masters"
       },
       {
          "description" : "",
