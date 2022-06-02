@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Thu, 02 Jun 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "The French Rapid&#38;Blitz National Chess Championships 2022 took place in Port-Marly near Paris, being played over the last weekend of May with participation of more than 400 players. Laurent Fressinet won the French Rapid Chess Championship 2022 as he had the best tiebreaks in the group of five players who shared the top with 8/9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/france-crowns-rapid-blitz-chess-champions-2022/",
+         "pubDate" : "Thu, 02 Jun 2022 15:16:54 +0000",
+         "title" : "France crowns Rapid & Blitz Chess Champions 2022"
+      },
+      {
+         "description" : "Dull or exciting? That was the question in round two of Norway Chess on Wednesday. When GM Veselin Topalov exceeded the time limit against GM Viswanathan Anand, the Indian became the sole victor in the classical games of the second round. GM Wes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-2",
+         "pubDate" : "Thu, 02 Jun 2022 07:19:00 -0700",
+         "title" : "Anand Wins Again, Takes Sole Lead: Norway Chess, Day 2"
+      },
+      {
          "description" : "Viswananathan Anand is the man of the hour. He got his second three-point win at the Norway Chess tournament on Wednesday, as he beat Veselin Topalov and now leads the standings table with 6 points. Wesley So won in Armageddon after drawing his classical encounter against Magnus Carlsen. | Photos: Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-wesley-so-is-best-in-blitz",
          "pubDate" : "Tue, 31 May 2022 13:47:00 +0100",
          "title" : "Norway Chess: Wesley So wins the blitz tournament"
-      },
-      {
-         "description" : "The 37th European Chess Club Cup and the 26th European Women&#x2019;s Chess Club Cup will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria. Both events will be played in 7 rounds, swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022/",
-         "pubDate" : "Tue, 31 May 2022 11:52:50 +0000",
-         "title" : "European Chess Club Cup 2022"
       },
       {
          "description" : "IM Herman Grooten will offer rules-of-thumb and concepts to give clubchess players the necessary guidance to try and find the right paths in their own games. In this two-part course the emphasis will be on typical pawn-structures, ones that appear quite often in games and that will be very recognisable to club-chess players. Now, you also have the option to watch all of your favourite Fritztrainers in our \"Video-Section\" as a stream!",
@@ -1554,14 +1570,6 @@ news_feed (
          "title" : "Chessable Masters: Giri grabs the lead"
       },
       {
-         "description" : "GM Fabiano Caruana was the standout performer on the fourth day of the Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, that took place on Sunday. The American superstar, scoring 8/9 to commence the blitz section, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-4",
-         "pubDate" : "Sun, 22 May 2022 05:18:00 -0700",
-         "title" : "Caruana Wins 7, Draws 2: 2022 Superbet Rapid & Blitz Poland, Day 4"
-      },
-      {
          "description" : " If you are turning 50 years old (or more) this year, then the 2022 Asian Seniors Championship may be of interest to you. It is being held from the 14th to the 22nd of October, in Auckland, New Zealand. It will be a 9 round swiss and apart from an enjoyable week of chess, title and title norms are on offer. I played in 2017 and I highly recommend this event to those who are able to take part. Brief details are available at <a href=\"https://www.newzealandchess.co.nz/calendar.html\">https://www.newzealandchess.co.nz/calendar.html</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2022",
          "pubDate" : "Wed, 18 May 2022 23:19:00 +0400",
          "title" : "Chessable Masters 2022 - "
-      },
-      {
-         "description" : "As expected, Ding Liren is the eighth participant in the Candidates Tournament 2022. The Chinese top GM replaces the suspended Sergey Karjakin as the highest-rated player after World Champion Carlsen. The Candidates Tournament begins on 17 June in Madrid and the winner will play Magnus Carlsen for the World Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-confirmed-to-play-in-the-candidates",
-         "pubDate" : "Wed, 18 May 2022 19:00:00 +0100",
-         "title" : "Ding Liren confirmed to play in the Candidates"
       },
       {
          "description" : "",
