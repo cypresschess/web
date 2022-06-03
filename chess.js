@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand is still the sole leader at the Norway Chess tournament in Stavanger. The Indian beat Wang Hao in Armageddon, while his closest chaser, Wesley So, also won in the sudden-death decider against Anish Giri. Magnus Carlsen and Maxime Vachier-Lagrave won their classical encounters to grab three points in Thursday's round. | Photos: Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r3",
+         "pubDate" : "Fri, 03 Jun 2022 01:30:00 +0100",
+         "title" : "Norway Chess: Carlsen and MVL score, Anand still leads"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-2-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 2 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-3-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 3 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-4-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 4 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-5-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 5 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-6-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 6 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-7-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 7 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-8-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 8 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-9-lichessorg",
+         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
+         "title" : "2022 Summer Chess Classic: Round 9 | lichess.org"
+      },
+      {
          "description" : "The Dutch Open National team is set for the upcoming 44th Chess Olympiad in Chennai. The team with an average rating of 2665 will be led by world number nine Anish Giri, who has represented the Netherlands in five Chess Olympiads (2010, 2012, 2014, 2016, 2018). Netherlands Team (Open section): GM Anish Giri (2761) []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -42,14 +114,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A fascinating Najdorf"
       },
       {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Thu, 02 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
-      },
-      {
          "description" : "The French Rapid&#38;Blitz National Chess Championships 2022 took place in Port-Marly near Paris, being played over the last weekend of May with participation of more than 400 players. Laurent Fressinet won the French Rapid Chess Championship 2022 as he had the best tiebreaks in the group of five players who shared the top with 8/9 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-norway-chess-day-2",
          "pubDate" : "Thu, 02 Jun 2022 07:19:00 -0700",
          "title" : "Anand Wins Again, Takes Sole Lead: Norway Chess, Day 2"
-      },
-      {
-         "description" : "Viswananathan Anand is the man of the hour. He got his second three-point win at the Norway Chess tournament on Wednesday, as he beat Veselin Topalov and now leads the standings table with 6 points. Wesley So won in Armageddon after drawing his classical encounter against Magnus Carlsen. | Photos: Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r2",
-         "pubDate" : "Thu, 02 Jun 2022 13:20:00 +0100",
-         "title" : "Norway Chess: So beats Carlsen in Armageddon, Anand leads"
       },
       {
          "description" : "Anatoly Karpov and Tigran Petrosian are two Gemini world champions with outstanding positional and defensive skills. Alireza Firouzja and Hans Moke Niemann are also Gemini but will they be able to follow the path of Karpov and Petrosian and become world champion? Gemini are sometimes the fastest thinkers of all the signs of the zodiac, but they sometimes also have to deal with lapses of concentration. | Photo: Pixabay",
@@ -102,8 +158,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-518-pragg-vs-giri",
-         "pubDate" : "Thu, 02 Jun 2022 07:15:43 +0100",
+         "pubDate" : "Thu, 02 Jun 2022 08:15:00 +0100",
          "title" : "Game of the Week #518: Pragg vs Giri"
+      },
+      {
+         "description" : "Viswananathan Anand is the man of the hour. He got his second three-point win at the Norway Chess tournament on Wednesday, as he beat Veselin Topalov and now leads the standings table with 6 points. Wesley So won in Armageddon after drawing his classical encounter against Magnus Carlsen. | Photos: Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r2",
+         "pubDate" : "Thu, 02 Jun 2022 08:00:00 +0100",
+         "title" : "Norway Chess: So beats Carlsen in Armageddon, Anand leads"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91954737.cms\" />The 52-year-old Anand trumped his opponent, Bulgarian Veselin Topalov, in 36 moves in the battle of the veterans to make it two out of two after the second round late on Wednesday.",
@@ -866,14 +930,6 @@ news_feed (
          "title" : "2022 U.S. Junior & U.S. Senior Championships: Round 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs TBA for the move-by-move. 2022.06.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-classic-round-1\"><img src=\"https://s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-1",
-         "pubDate" : "Thu, 26 May 2022 19:59:55 +0000",
-         "title" : "2022 Summer Chess Classic: Round 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1354,14 +1410,6 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #195 - with Arne Kaehler"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila, Tour Spokesman Michael Khodarkovsky, and Superbet Poland CEO Adam Lamentowicz present Jan-Krzysztof Duda with the Superbet Rapid &amp; Blitz Poland trophy. 2022.05.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jan-krzysztof-duda-crowned-rapid-blitz-king-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnail",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jan-krzysztof-duda-crowned-rapid-blitz-king-day-5",
-         "pubDate" : "Mon, 23 May 2022 16:56:49 +0000",
-         "title" : "Jan-Krzysztof Duda Crowned as Rapid & Blitz King! | Day 5"
-      },
-      {
          "description" : "In his \"Power Play Show\" Daniel King takes a look at the book \"From Ukraine With Love For Chess\", that was just published by \"New in Chess\". The book celebrates the chess of notable Ukrainian players from the past and present, and all profits will go to charities in Ukraine. To quote Daniel: \"A worthy project and a superb book with tremendous material.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1384,14 +1432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-5-duda-wins",
          "pubDate" : "Mon, 23 May 2022 07:03:00 -0700",
          "title" : "Duda Wins 2022 Superbet Rapid & Blitz Poland"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Tour Spokesman Michael Khodarkovsky during the last blitz round robin of the Superbet Rapid &amp; Blitz Poland. 2022.05.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khodarkovsky-magnus-will-play-sinquefield-cup-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zhvmwnO8Bd0.jpg?itok=w",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khodarkovsky-magnus-will-play-sinquefield-cup-day-5",
-         "pubDate" : "Mon, 23 May 2022 13:56:49 +0000",
-         "title" : "Khodarkovsky: Magnus Will Play Sinquefield Cup | Day 5"
       },
       {
          "description" : "The second tournament of the Grand Chess Tour 2022 took place in Warsaw from May 17-23, and consisted of a rapid and a blitz tournament. Jan-Krzysztof Duda won the event after collecting 6&frac12;/9 points on the final day of action to overcome long-time sole leader Vishy Anand in the standings table. Anand and Levon Aronian finished in shared second place.",
@@ -1498,14 +1538,6 @@ news_feed (
          "title" : "Giri tops leaderboard as Chessable Masters heads into KO stage"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Restream helps you multistream &amp; reach your audience, wherever they are. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-norm-congress-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z1ZvHyC6eQU.jpg?itok=WnW-M280\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-norm-congress-lichessorg",
-         "pubDate" : "Sun, 22 May 2022 19:56:45 +0000",
-         "title" : "2022 Saint Louis Norm Congress | lichess.org"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91728691.cms\" />Veteran Indian Grandmaster Viswanathan Anand had a mixed outing in the blitz section of the Superbet Rapid and Blitz Poland chess tournament on Sunday, winning three matches while drawing four and losing two.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1522,22 +1554,6 @@ news_feed (
          "title" : "Mr. Sheripov announces his candidacy for FIDE President"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The players express their goals and expectations going into the first Grand Chess Tour event in Poland. 2022.05.18<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-player-expectations\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Jfm2SI2U2iA.jpg?itok=x8N1Ug1o\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-player-expectations",
-         "pubDate" : "Sun, 22 May 2022 16:56:46 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Player Expectations"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Fabiano Caruana after his tremendous performance in the first blitz round robin of the Superbet Rapid &amp; Blitz Poland. 2022.05.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-fabiano-caruana-interview-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-fabiano-caruana-interview-day-4",
-         "pubDate" : "Sun, 22 May 2022 16:56:46 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Fabiano Caruana Interview | Day 4"
-      },
-      {
          "description" : "Scoring 3.5/4 on Saturday, GM Anish Giri is the new leader at the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Second-ranked GM Magnus Carlsen tried the remarkable 1.h4 and drew his game with&#38;nbsp;GM Wei Yi, who is now in third positio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1552,22 +1568,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-80-pawn-majorities-4",
          "pubDate" : "Sun, 22 May 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 80: Pawn Majorities (4)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila interviews Wesley So after his win over Richard Rapport in Rapid Round 8 of the Superbet Rapid &amp; Blitz Poland. 2022.05.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-wesley-so-interview-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ouaBtlrEgD0.jpg?itok=mO",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-wesley-so-interview-day-3",
-         "pubDate" : "Sun, 22 May 2022 13:56:45 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Wesley So Interview | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk about competing in Warsaw at the first Grand Chess Tour event in Poland. 2022.05.18<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superbet-rapid-blitz-poland-playing-poland\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nIWlq6ndT-A.jpg?itok=pMBAWeKe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superbet-rapid-blitz-poland-playing-poland",
-         "pubDate" : "Sun, 22 May 2022 13:56:45 +0000",
-         "title" : "2022 Superbet Rapid & Blitz Poland: Playing in Poland"
       },
       {
          "description" : "Another fantastic chess player, who was able to play defensive, aggressive, tactical, strategical, and creative. Boris Spassky has solved some juicy tactics in his games. Also, this is the very first time, that Lawrence and Arne have to face the so-called \"nightmare\" of the ChessBase tactics section. With limited amount of time, they have to solve this beast. Can you solve it?",
@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/cayman-islands-chess-jubilee/",
          "pubDate" : "Fri, 13 May 2022 05:15:19 +0000",
          "title" : "Cayman Islands' Chess Jubilee!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1754",
-         "pubDate" : "Thu, 12 May 2022 23:46:13 +0000",
-         "title" : "2022 GCT Superbet Chess Classic Romania: Day 7 Recap"
       }
    ]
 }
