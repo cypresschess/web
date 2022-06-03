@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " World champion is struggling to score a fourth successive victory in his home tournament, while a London schoolboy has a chance to qualify as the youngest 2000-rated Expert Magnus Carlsen has made a poor start this week with two lacklustre draws at Stavanger, the Norway tournament which the world champion has won on its last three renewals. The No 1's games are screened live and free daily from 4pm BST to a global internet audience, with grandmaster commentaries and a board sidebar which enables non-chess players to see who is winning. Draws are immediately replayed as Armageddons, where White has 10 minutes to Black's seven but a halved result on the board counts as a black win for the sco",
+         "description" : "The 2021 Azerbaijan Chess Champion GM Vasif Durarbayli made it to the Azerbaijan National Team after 16 years of a &#8220;short break&#8221;. Durarbayli debuted at the 37th Chess Olympiad which took place in 2006 in Turin, Italy. He was the reserve player (6th board) and scored 1 point in three games. The Azerbaijan Chess Federation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-vasif-durarbayli-joins-azerbaijan-olympic-team-after-16-years-tweetoftheday/",
+         "pubDate" : "Fri, 03 Jun 2022 11:28:12 +0000",
+         "title" : "GM Vasif Durarbayli joins Azerbaijan Olympic Team after 16 years #TweetOftheDay"
+      },
+      {
+         "description" : " This week, We will look at the some further concepts to consider before engaging in an exchange of material. We've looked at removing positional tension and using the relative value of the pawns and pieces to guide you in making good trades or exchanges. This week, we are going to do a deeper dive into <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-three/\">A Foundation for Beginners Sixty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-three/",
+         "pubDate" : "Fri, 03 Jun 2022 11:13:24 +0000",
+         "title" : "A Foundation for Beginners Sixty Three"
+      },
+      {
+         "description" : "The Azerbaijan Chess Federation revealed the National Teams that will represent Azerbaijan at the upcoming 44th Chess Olympiad 2022 in Chennai. Azerbaijan Team (Open section): GM Shakhriyar Mamedyarov (2751) GM Teimour Radjabov (2753) GM Gadir Guseinov (2668) GM Rauf Mamedov (2656) GM Vasif Durarbayli (2638) The team with an average FIDE rating of 2683 will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/azerbaijan-announces-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Fri, 03 Jun 2022 11:11:40 +0000",
+         "title" : "Azerbaijan announces Teams for 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "The International Chess Festival Prague will start on 7 June and promises to be a highlight in this year's chess calendar. The event includes three invitational tournaments, the Masters, the Challengers and the Futures and several Opens, and the line-ups of these tournaments are exciting. | Photo: Vincent Keymer | Photo: Grenke Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-highlight-the-international-chess-festival-prague",
+         "pubDate" : "Fri, 03 Jun 2022 12:07:10 +0100",
+         "title" : "A highlight: The International Chess Festival Prague"
+      },
+      {
+         "description" : "Magnus Carlsen described himself as \"very, very happy\" as he picked up a first classical win of Norway Chess 2022 by defeating Teimour Radjabov in Round 3. Magnus moved up to 3rd place, while the only other player to score the full 3 points was Maxime Vachier-Lagrave, who beat Arjan Tari and moved up to 4th. The leaders were unchanged, with Vishy Anand and Wesley So defeating Wang Hao and Anish Giri in Armageddon to keep up a record of winning all their mini-matches so far.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-3-carlsen-and-mvl-move-up",
+         "pubDate" : "Fri, 03 Jun 2022 10:36:08 +0000",
+         "title" : "Norway Chess 3: Carlsen and MVL move up"
+      },
+      {
+         "description" : " World champion is aiming to score a fourth successive victory in his home tournament, while a London schoolboy has a chance to qualify as the youngest 2000-rated Expert Magnus Carlsen recovered from a slow start to score a third round win following two lacklustre draws this week at Stavanger, the Norway tournament which the world champion has won on its last three renewals. The world No 1's games are screened live and free daily from 4pm BST to a global internet audience, with grandmaster commentaries and a board sidebar which enables non-chess players to see who is winning. Draws are immediately replayed as Armageddons, where White has 10 minutes to Black's seven but a halved result on the",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jun/03/chess-magnus-carlsen-starts-stavanger-while-seven-year-old-kushal-jakhria-eyes-expert-record",
-         "pubDate" : "Fri, 03 Jun 2022 07:00:02 +0000",
-         "title" : "Chess: Carlsen starts badly in Stavanger while seven-year-old eyes Expert record"
+         "pubDate" : "Fri, 03 Jun 2022 10:28:20 +0000",
+         "title" : "Chess: Carlsen recovers in Stavanger while seven-year-old eyes Expert record"
+      },
+      {
+         "description" : "The US Chess Federation confirmed the composition of the National Open team a day after Wesley So revealed the squad in the interview at the Norway Chess 2022 and announced who will compose the Women's Team in the upcoming 44th Chess Olympiad 2022 in Chennai. The US Women's Team: GM Irina Krush (2430) IM Carissa []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-us-womens-team-for-44th-chess-olympiad-2022-announced/",
+         "pubDate" : "Fri, 03 Jun 2022 10:09:08 +0000",
+         "title" : "The US Women's Team for 44th Chess Olympiad 2022 announced"
+      },
+      {
+         "description" : "To All Concerned Please find the necessary link to get the details for Appointment of interim Secretary of AICF For your information please . Appointment",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/appointment-of-interim-secretary-of-aicf-all-concerned-to-note/",
+         "pubDate" : "Fri, 03 Jun 2022 09:16:19 +0000",
+         "title" : "Appointment of Interim Secretary of AICF"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91976483.cms\" />The Armageddon saw the former world champion pip Hao in 44 moves to take his points tally to 7.5. He is followed by American Wesley So, who is on 6 points, and world No. 1 Magnus Carlsen (5.5).",
@@ -234,14 +290,6 @@ news_feed (
          "title" : "German Chess Federation takes part in Pride Month aiming to support queer chess players #TweetOftheDay"
       },
       {
-         "description" : "The 1st Maharashtra International Open Grandmaster Chess Tournament 2022 kicked off yesterday in Pune, India, simultaneously with the 1st Pune Open. The tournament is played in 11 rounds, swiss system, with participation of more than 140 players from 13 countries. The event gathers 20 grandmasters with: GM Farrukh Amonatov, GM Luka Paichadze and GM Babu []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-maharashtra-international-open-gm-chess-tournament-2022/",
-         "pubDate" : "Wed, 01 Jun 2022 14:34:09 +0000",
-         "title" : "1st Maharashtra International Open GM Chess Tournament 2022"
-      },
-      {
          "description" : "Wesley So and Vishy Anand grabbed an early lead at the Norway Chess super-tournament in Stavanger. So beat Teimour Radjabov, while Anand got the better of Maxime Vachier-Lagrave. Magnus Carlsen, Anish Giri and Shakhriyar Mamedyarov drew their classical encounters and went on to win the Armageddon. All five decisive games seen on Tuesday favoured the player with the white pieces. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,22 +312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/after-action-report.html",
          "pubDate" : "Wed, 01 Jun 2022 13:22:00 +0000",
          "title" : "After action report"
-      },
-      {
-         "description" : "The English Chess Federation today announced the Teams for the upcoming 44th Chess Olympiad 2022 which starts in less than two months in Chennai, India. England Team (Open section): GM Michael Adams (2690) GM Jones Gawain (2665) GM David Howell (2650) GM Luke McShane (2649) GM Ravi Haria (2504) The Team with an average rating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/england-announces-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Wed, 01 Jun 2022 13:07:07 +0000",
-         "title" : "England announces Teams for 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "Municipality Veliko Gradi&#x161;te, Chess Club VGSK, Chess Federation of Central Serbia and Danubia Hotels are warmly welcoming all participants and guests to the Chess Festival &#x201C;Silver Lake 2022&#x2033;. The Chess Festival will take place from 19-26th June, 2022, at the Silver Lake &#x201C;Sports hall&#x201D; and &#x201C;Great hall&#x201D; of Danubia Park Hotel. The Organizing Committee is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/silver-lake-chess-festival-2022/",
-         "pubDate" : "Wed, 01 Jun 2022 12:37:11 +0000",
-         "title" : "Silver Lake Chess Festival 2022"
       },
       {
          "description" : "",
@@ -1610,14 +1642,6 @@ news_feed (
          "title" : "2022 Asian Seniors Championship"
       },
       {
-         "description" : "Anish Giri stormed into the lead with three wins and a draw on Day 3 of the Chessable Masters, while Magnus Carlsen is 2nd after beating Vidit with 1.d3 and almost taking down Wei Yi with 1.h4. It was a day of reversals, with Jorden van Foreest going from top scorer on Day 2 to losing all four games on Day 3. Wei Yi also suffered, while winless Arjan Tari suddenly won three games in a row as the race to finish in the Top 8 heated up.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-3-giri-leads-as-magnus-plays-1-d3-1-h4",
-         "pubDate" : "Sun, 22 May 2022 10:38:11 +0000",
-         "title" : "Chessable Masters 3: Giri leads as Magnus plays 1.d3, 1.h4"
-      },
-      {
          "description" : "Vishy Anand won the rapid section of the Superbet tournament in Warsaw, despite losing his round-9 encounter against Richard Rapport. The latter goes into the 18 rounds of blitz in sole second place, after winning twice and losing once on Saturday. Jan-Krzysztof Duda stands in third place, a point further back. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1826,14 +1850,6 @@ news_feed (
          "title" : "\"Chess a Game to be Spread in Schools\" Conference successfully concluded in Zurich"
       },
       {
-         "description" : "Munich will host the third leg of the FIDE Women's Grand Prix 2022-23, to be held from February 1-14, 2023. The venues, dates, and details for the other three legs in the WGP Series will be announced at the end of May. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/munich-to-host-a-leg-of-women-s-grand-prix-2022-23",
-         "pubDate" : "Thu, 19 May 2022 11:10:52 +0100",
-         "title" : "Munich to host a leg of Women's Grand Prix 2022-23"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2024,14 +2040,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-34th-national-under-14-open-and-girls-chess-championship-2022john-veny-akkarakaran-of-kerala-in-open-mrittika-mallick-of-west-bengal-in-girls-wins/",
          "pubDate" : "Mon, 16 May 2022 07:24:34 +0000",
          "title" : "MPL 34th National Under- 14 Open and Girls Chess Championship 2022,John Veny Akkarakaran of Kerala in Open & Mrittika Mallick of West Bengal in Girls Wins"
-      },
-      {
-         "description" : " Grandmasters are not especially noted for their longevity, but Yuri Averbakh, whose death at the age of 100 was announced the other day, was a notable exception. He will be remembered for his work on endings, but also for various opening variations bearing his name, most notably the Averbakh Variation against the King's Indian Defence. <a href=\"https://chessimprover.com/averbakh-variation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Averbakh Variation\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/averbakh-variation/\">Averbakh Variation</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/averbakh-variation/",
-         "pubDate" : "Sun, 15 May 2022 16:13:05 +0000",
-         "title" : "Averbakh Variation"
       },
       {
          "description" : " I came across an article on decision making, called \"<a href=\"https://bigthink.com/neuropsych/the-37-percent-rule/\">The 37% Rule</a>\". Basically it suggests that you spend the first 37% of the time you take to make a decision to collect and collate information about the decision. Then when you come across an option that exceeds the best option you identified initially, you take that option and stop searching. If you don't find a better choice, then take the best option from your initial research. How does this apply to chess then? On the one hand it probably doesn't, but on the other it may help solve the problem of time management. If you reach a critical phase of the game, and you feel th",
