@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Fri, 03 Jun 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "Leon Mendonca recently won the HSK GM Invitational tournament, with 7 out of 9. Lawrence Trent played in the very same tournament, and reached the 50% mark, with 4.5 out of 9. Their game ended in a draw. Since Leon was still in Hamburg, we managed to have a Trent's Tactics show together. Maybe Lawrence, and Arne, thanks to Leon, finally went beyond the ChessBase tactics training rating of 2500? But, perhaps it was actually a huge challenge? Watch the video to find out how it went.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-24",
+         "pubDate" : "Fri, 03 Jun 2022 16:39:26 +0100",
+         "title" : "Trent's Tactics - Solving master level tactics with Leon Mendonca"
+      },
+      {
+         "description" : "Chess.com is excited to announce the return of Chess Played Quick, our event series where streamers speed through challenges to collect prizes and bounties! This month&#39;s CPQ Bot Battles Bingo Edition happens on June 13 at 10 a.m. PT/19:00 CET and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chess-played-quick-bot-battles-bingo-edition",
+         "pubDate" : "Fri, 03 Jun 2022 07:57:00 -0700",
+         "title" : "Announcing Chess Played Quick Bot Battles Bingo Edition"
+      },
+      {
+         "description" : "Kazakhstan Chess Federation will undertake the organization of the first leg of the FIDE Women&#x2019;s Grand Prix. Its capital, Nursultan, formerly known as Astana, will host the event from September 21 to October 4. While the exact line-up for Nursultan is yet to be defined, the WGP Series 2022-23 will feature a total of 16 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-first-leg-of-fide-womens-grand-prix-to-be-held-in-nursultan/",
+         "pubDate" : "Fri, 03 Jun 2022 14:11:27 +0000",
+         "title" : "The first leg of FIDE Women's Grand Prix to be held in Nursultan"
+      },
+      {
          "description" : "In his \"Power Play Show\" Daniel King looks at games from Norway Chess including Anand's win over Vachier-Lagrave where he shows brilliant technique. Daniel goes into some detail in the 3.Bb5+ Sicilian, and looks at alternatives to Black's play in the game. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-nakamura-win-titled-tuesday-may-31-2022",
          "pubDate" : "Wed, 01 Jun 2022 08:41:23 -0700",
          "title" : "Nakamura, Niemann Nab Titled Tuesday Triumphs"
-      },
-      {
-         "description" : "The German Chess Federation decided to show its logo in rainbow colors during June, aiming to set a sign of acceptance of queer chess players. Lesbian, Gay, Bisexual and Transgender Pride Month (LGBTQ+ Pride Month) is celebrated annually in June to honor the 1969 Stonewall riots, and works to achieve equal justice and equal opportunity []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/german-chess-federation-takes-part-in-pride-month-aiming-to-support-queer-chess-players-tweetoftheday/",
-         "pubDate" : "Wed, 01 Jun 2022 15:04:21 +0000",
-         "title" : "German Chess Federation takes part in Pride Month aiming to support queer chess players #TweetOftheDay"
       },
       {
          "description" : "Wesley So and Vishy Anand grabbed an early lead at the Norway Chess super-tournament in Stavanger. So beat Teimour Radjabov, while Anand got the better of Maxime Vachier-Lagrave. Magnus Carlsen, Anish Giri and Shakhriyar Mamedyarov drew their classical encounters and went on to win the Armageddon. All five decisive games seen on Tuesday favoured the player with the white pieces. | Photos: Official site",
@@ -1626,14 +1650,6 @@ news_feed (
          "title" : "Mr. Sheripov announces his candidacy for FIDE President"
       },
       {
-         "description" : "Scoring 3.5/4 on Saturday, GM Anish Giri is the new leader at the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Second-ranked GM Magnus Carlsen tried the remarkable 1.h4 and drew his game with&#38;nbsp;GM Wei Yi, who is now in third positio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-3",
-         "pubDate" : "Sun, 22 May 2022 07:00:00 -0700",
-         "title" : "Giri Grabs Lead; Carlsen Tries 1.h4: Chessable Masters, Day 3"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 80th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "More Vintage Chess Programs"
       },
       {
-         "description" : "After four rounds at the preliminaries of the Chessable Masters, 22-year-old Wei Yi is leading the standings table on 10/12 points. Three of the favourites stand two points behind - Magnus Carlsen, Ding Liren and Anish Giri. The 16-player online tournament is played with a football scoring system. Half the players will move on to the knockout stage from the single round-robin set to run until Sunday. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d1",
-         "pubDate" : "Fri, 20 May 2022 13:10:00 +0100",
-         "title" : "Chessable Masters: Wei Yi leads"
-      },
-      {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1832,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1770",
          "pubDate" : "Thu, 19 May 2022 21:30:34 +0000",
          "title" : "Fast-start to the Chessable Masters as youngsters impress"
-      },
-      {
-         "description" : "Vishy Anand scored three wins in as many games to take the lead at the rapid section of the Superbet Poland Rapid & Blitz Tournament. With six rounds of rapid left to go, the former world champion has a 2-point lead over a chasing pack consisting of Fabiano Caruana, Levon Aronian and Jan-Krzysztof Duda - players receive 2 points for a win and 1 point for a draw in the rapid. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d1",
-         "pubDate" : "Thu, 19 May 2022 20:05:00 +0100",
-         "title" : "Superbet Poland: Anand's perfect day"
       },
       {
          "description" : "",
@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1759",
          "pubDate" : "Fri, 13 May 2022 21:46:14 +0000",
          "title" : "FIDE delegation pays visit to Montenegro"
-      },
-      {
-         "description" : " Six weeks ago on April 1st, Arkady Dvorkovich announced a commitment from 5-time world champion Viswanathan Anand to stand with him on the ticket for reelection. The incumbent FIDE President needs to gain some appeal after his former ties with Russian President Vladimir Putin have put him in a serious bind. FIDE President Arkady Dvorkovich The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/\">Dvorkovich-Anand 2022 campaign for FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/",
-         "pubDate" : "Fri, 13 May 2022 15:15:56 +0000",
-         "title" : "Dvorkovich-Anand 2022 campaign for FIDE"
       }
    ]
 }
