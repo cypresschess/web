@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " World champion is struggling to score a fourth successive victory in his home tournament, while a London schoolboy has a chance to qualify as the youngest 2000-rated Expert Magnus Carlsen has made a poor start this week with two lacklustre draws at Stavanger, the Norway tournament which the world champion has won on its last three renewals. The No 1's games are screened live and free daily from 4pm BST to a global internet audience, with grandmaster commentaries and a board sidebar which enables non-chess players to see who is winning. Draws are immediately replayed as Armageddons, where White has 10 minutes to Black's seven but a halved result on the board counts as a black win for the sco",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jun/03/chess-magnus-carlsen-starts-stavanger-while-seven-year-old-kushal-jakhria-eyes-expert-record",
+         "pubDate" : "Fri, 03 Jun 2022 07:00:02 +0000",
+         "title" : "Chess: Carlsen starts badly in Stavanger while seven-year-old eyes Expert record"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91976483.cms\" />The Armageddon saw the former world champion pip Hao in 44 moves to take his points tally to 7.5. He is followed by American Wesley So, who is on 6 points, and world No. 1 Magnus Carlsen (5.5).",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-no-stopping-viswanathan-anand-defeats-wang-hao-for-third-straight-win-to-remain-on-top/articleshow/91976483.cms",
+         "pubDate" : "Fri, 03 Jun 2022 04:57:02 +0000",
+         "title" : "Anand defeats Wang Hao to remain on top in Norway"
+      },
+      {
          "description" : "Vishy Anand is still the sole leader at the Norway Chess tournament in Stavanger. The Indian beat Wang Hao in Armageddon, while his closest chaser, Wesley So, also won in the sudden-death decider against Anish Giri. Magnus Carlsen and Maxime Vachier-Lagrave won their classical encounters to grab three points in Thursday's round. | Photos: Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1658,14 +1674,6 @@ news_feed (
          "title" : "Speaking of elections ...."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91710288.cms\" />Almost 9 years after winning his maiden World championship in Chennai back in 2013, Magnus Carlsen will be revisiting the city to be part of the 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-set-to-be-part-of-chess-olympiad/articleshow/91710288.cms",
-         "pubDate" : "Sat, 21 May 2022 12:22:02 +0000",
-         "title" : "Magnus Carlsen set to be part of Chess Olympiad"
-      },
-      {
          "description" : "In 1978 I became involved in perhaps the weirdest world chess championship of all time, including parapsychology, the Great Yoghurt controversy, terrorists, mystic gurus levitating for victory, long range hypnosis and an attempt to abort the entire contest, just as it was reaching its maximum sporting climax. I experienced this panoply of outlandish occurrences when []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2144,22 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1756",
          "pubDate" : "Fri, 13 May 2022 11:52:21 +0000",
          "title" : "Arkady Dvorkovich announces his team on the way to 2022 FIDE elections"
-      },
-      {
-         "description" : " The world champion scored 10/11 online in Chess.com's weekly masters open, using 1 b2-b3 as White and 1...b7-b6 as Black in all games, while the 18-year-old talent has been uneven against the elite at Bucharest Magnus Carlsen has not competed on <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> for more than a year, since the website is in direct competition with <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a>, which is owned by the Play Magnus Group. So it was a shock when the world champion appeared unannounced on the starting line for this week's Titled Tuesday, an 11-round blitz event with free entry to all internationally titled players. The Norwegian used 1 b3 and 2 Bb",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/may/13/chess-carlsen-wins-titled-tuesday-while-alireza-firouzja-is-subdued",
-         "pubDate" : "Fri, 13 May 2022 07:00:26 +0000",
-         "title" : "Chess: Carlsen wins Titled Tuesday while Alireza Firouzja is erratic"
-      },
-      {
-         "description" : " The Cayman Islands Chess Federation was formed in 2018 with a grand plan to build a chess community as many of their neighbors had done. Only two years later, the federation became a member of FIDE, the world's chess body. Carlo Lee speaks about chess in the Cayman Islands at the 90th FIDE Congress in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/cayman-islands-chess-jubilee/\">Cayman Islands' Chess Jubilee!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/13/cayman-islands-chess-jubilee/",
-         "pubDate" : "Fri, 13 May 2022 05:15:19 +0000",
-         "title" : "Cayman Islands' Chess Jubilee!"
       }
    ]
 }
