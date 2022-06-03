@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Lawrence Trent overcame the match favorite and fifth seed, IM Alina Kashlinskaya, in the&#38;nbsp;2022 IM Not A GM Speed Chess Championship&#38;nbsp;on Friday. The players traded victories for much of the match until the finish of the bullet segment wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-trent-kashlinskaya",
+         "pubDate" : "Fri, 03 Jun 2022 14:35:03 -0700",
+         "title" : "Trent Overcomes Kashlinskaya"
+      },
+      {
+         "description" : "Reigning World Chess Champion Magnus Carlsen started slowly at the 2022 Norway Chess, but made a full comeback with two consecutive classical victories. Vishy today lost in Armageddon game against Wesley So to reach 7.5 points and go to the resting day sharing the leadership with Magnus Carlsen. Standings after 4 rounds: 1 &#160;Anand, Viswanathan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-joins-anand-in-the-lead-of-norway-chess-2022/",
+         "pubDate" : "Fri, 03 Jun 2022 21:34:04 +0000",
+         "title" : "Magnus joins Anand in the lead of Norway Chess 2022"
+      },
+      {
+         "description" : "The Norway Chess Open 2022 kicked off today in Stavanger, taking place from 3-10 June in SR-bank&#x2019;s old building, located between Stavanger Concert Hall and Finansparken, where the Norway Chess super-tournament is being played simultaneously. The event is divided into two groups, master class and ELO class, with the Indian prodigy Praggnanandhaa R. heading the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norway-chess-open-2022-kicked-off-in-stavanger/",
+         "pubDate" : "Fri, 03 Jun 2022 21:22:44 +0000",
+         "title" : "Norway Chess Open 2022 kicked off in Stavanger"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,14 +306,6 @@ news_feed (
          "title" : "Norway Chess 2: Vishy Anand re-enters Top 10"
       },
       {
-         "description" : "Wesley So is currently playing the 2022 Norway Chess in Stavanger where he scores 4.5/6 points holding the clear second place. In the Round 2 post-game interview Wesley analyzed his victory against Carlsen and disclosed that one of his next tournaments will be the 44th Chess Olympiad 2022. Being asked about the US squad for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-reveals-the-us-squad-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Thu, 02 Jun 2022 09:55:16 +0000",
-         "title" : "Wesley So reveals the US squad for 44th Chess Olympiad 2022"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #518, Merijn van Delft takes a look how the 16-year old Indian talent Praggnanandhaa convincingly smashed Anish Giri's Grunfeld at the Chessable Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-posts-second-straight-win-in-classical-event-takes-lead/articleshow/91954737.cms",
          "pubDate" : "Thu, 02 Jun 2022 04:59:32 +0000",
          "title" : "Anand posts 2nd straight win in Classical event in Norway, takes lead"
-      },
-      {
-         "description" : "The 15th World Chess Champion Vishy Anand shines in the 2022 Norway Chess as he is the only player who managed to score in both classical games, choosing not to test himself in the Armageddon yet. Anand defeated Veselin Topalov in the second round and emerged as the event's sole leader, achieving the maximum of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anand-emerges-as-the-sole-leader-of-norway-chess-2022/",
-         "pubDate" : "Wed, 01 Jun 2022 23:59:36 +0000",
-         "title" : "Anand emerges as the sole leader of Norway Chess 2022"
       },
       {
          "description" : "In his final 'Weekly Show' Lawrence Trent focuses on the Norway Chess Tournament and the game of the day is the smooth and effortless victory by Vishy Anand over Maxime Vachier-Lagrave in round 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1570,14 +1578,6 @@ news_feed (
          "title" : "Giri: \"The purpose of my chess career is to become the best player in the world\""
       },
       {
-         "description" : "Scoring 29 out of a possible 45 points, GM Anish Giri finished first while remaining undefeated in the preliminaries of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. Also qualifying for the knockout phase were GMs Magnus Carlsen, Di...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-4",
-         "pubDate" : "Mon, 23 May 2022 00:20:00 -0700",
-         "title" : "Giri Undefeated Entering Knockout: Chessable Masters, Day 4"
-      },
-      {
          "description" : "The preliminary stage of the Chessable Masters came to an end on Sunday. Anish Giri scored a win and two draws to keep the lead and win the single round-robin. Magnus Carlsen finished in second place, and was followed by Ding Liren and Praggnanandhaa. Wei Yi, Shakhriyar Mamedyarov, David Anton and Aryan Tari also made it to the knockout stage.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1760",
          "pubDate" : "Fri, 13 May 2022 22:12:27 +0000",
          "title" : "2022 GCT Superbet Chess Classic Romania: Day 8 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1759",
-         "pubDate" : "Fri, 13 May 2022 21:46:14 +0000",
-         "title" : "FIDE delegation pays visit to Montenegro"
       }
    ]
 }
