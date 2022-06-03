@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Power Play Show\" Daniel King looks at games from Norway Chess including Anand's win over Vachier-Lagrave where he shows brilliant technique. Daniel goes into some detail in the 3.Bb5+ Sicilian, and looks at alternatives to Black's play in the game. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-highlights-from-norway-chess",
+         "pubDate" : "Fri, 03 Jun 2022 14:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Highlights from Norway Chess"
+      },
+      {
+         "description" : " I'm just in the process of applying for a visa to travel to the 2022 Chess Olympiad in Chennai. I've already spent a couple of hours on the process (Fathers place of birth, really?), and am still a long way off completion (Passport as PDF, oh wait, PDF document is too large). I fear that this may be the smallest chess olympiad in years, simply because people won't have finished the process in time to catch their flight. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/travel-good-paperwork-bad.html",
+         "pubDate" : "Fri, 03 Jun 2022 12:58:00 +0000",
+         "title" : "Travel good, paperwork bad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1799",
+         "pubDate" : "Fri, 03 Jun 2022 12:38:28 +0000",
+         "title" : "Nursultan to host the first leg of FIDE Women's Grand Prix"
+      },
+      {
          "description" : "The 2021 Azerbaijan Chess Champion GM Vasif Durarbayli made it to the Azerbaijan National Team after 16 years of a &#8220;short break&#8221;. Durarbayli debuted at the 37th Chess Olympiad which took place in 2006 in Turin, Italy. He was the reserve player (6th board) and scored 1 point in three games. The Azerbaijan Chess Federation []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1818,14 +1842,6 @@ news_feed (
          "title" : "Superbet Poland: Anand's perfect day"
       },
       {
-         "description" : "This week Robert Ris shows how David Navara managed to beat the currently popular line with 3...a6 against the Queens Gambit Declined in a fine and instructive game played in the Czech Championship 2022. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-playing-against-3-a6-in-the-queens-gambit-declined",
-         "pubDate" : "Thu, 19 May 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Playing against 3...a6 in the Queens Gambit Declined"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2144,22 +2160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/13/dvorkovich-anand-2022-campaign-for-fide/",
          "pubDate" : "Fri, 13 May 2022 15:15:56 +0000",
          "title" : "Dvorkovich-Anand 2022 campaign for FIDE"
-      },
-      {
-         "description" : " Reti's quick win over Tartarkower in 1910 is quire well known, but there was another game between the two player, from the same tournament (or at least the same cafe), which finished even more quickly. Assuming I have the complete game score, the game only went for 9 moves. Alas, it wasn't as spectacular, with a draw being agreed between the two players, rather than a move like Qd8+ hitting the board! <br /> <b>Reti,Richard - Tartakower,Saviely [C36]</b><br />Wien Vienna, 1910 <script>new PgnViewer( { boardName: \"game1328\", movesFormat: \"default\", pgnString:'1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.c4 c6 6.d4 cxd5 7.Bxf4 Bb4+ 8.Nc3 O-O 9.Be2 1/2-1/2', pauseBetweenMoves: 500, pieceSize: 29 } ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/retis-lesser-know-miniature.html",
-         "pubDate" : "Fri, 13 May 2022 13:31:00 +0000",
-         "title" : "Reti's lesser know miniature"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1756",
-         "pubDate" : "Fri, 13 May 2022 11:52:21 +0000",
-         "title" : "Arkady Dvorkovich announces his team on the way to 2022 FIDE elections"
       }
    ]
 }
