@@ -18,6 +18,14 @@ news_feed (
          "title" : "Trent's Tactics - Solving master level tactics with Leon Mendonca"
       },
       {
+         "description" : "Has GM Viswanathan Anand been retigered?&#38;nbsp; As the events unfold this week at 2022 Norway Chess in Stavanger, the 52-year-old is certainly beginning to make it look like it. The former world champion continued to demonstrate that he is still ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-3",
+         "pubDate" : "Fri, 03 Jun 2022 08:23:08 -0700",
+         "title" : "Tiger Of Madras Returns - Vintage Anand Leads"
+      },
+      {
          "description" : "Chess.com is excited to announce the return of Chess Played Quick, our event series where streamers speed through challenges to collect prizes and bounties! This month&#39;s CPQ Bot Battles Bingo Edition happens on June 13 at 10 a.m. PT/19:00 CET and ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chessable-masters-day-4",
          "pubDate" : "Mon, 23 May 2022 00:20:00 -0700",
          "title" : "Giri Undefeated Entering Knockout: Chessable Masters, Day 4"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won week 15 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He gained a victory from a losing position against GM Dmitry Andreikin, winner of the Swiss in the knockout final. GMs David Paravyan and Jose Martin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-15-nakamura-wins",
-         "pubDate" : "Sun, 22 May 2022 23:22:00 -0700",
-         "title" : "Nakamura Wins 5th Knockout: Rapid Chess Championship Week 15"
       },
       {
          "description" : "The preliminary stage of the Chessable Masters came to an end on Sunday. Anish Giri scored a win and two draws to keep the lead and win the single round-robin. Magnus Carlsen finished in second place, and was followed by Ding Liren and Praggnanandhaa. Wei Yi, Shakhriyar Mamedyarov, David Anton and Aryan Tari also made it to the knockout stage.",
