@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-3",
+         "pubDate" : "Sat, 04 Jun 2022 23:07:31 +0000",
+         "title" : "2022 Summer Chess Classic: Round 3"
+      },
+      {
+         "description" : "Round 4 of the Norway Chess tournament was played on Friday. Magnus Carlsen won his classical against Anish Giri, and was awarded three points for his victory. Previously in the sole lead, Viswanathan Anand, playing with Black, had to settle for a draw against Wesley So before losing the Armageddon game. Anand received only one point in this round and is now sharing the lead with Anand. Round 5 will be played on Sunday after a rest day. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r4",
+         "pubDate" : "Sat, 04 Jun 2022 21:20:00 +0100",
+         "title" : "Norway Chess: Carlsen climbs to the shared lead"
+      },
+      {
          "description" : "Serbian Chess Federation organizes the International Open Chess Championship of Serbia, called &#8220;Serbia OPEN 2022&#8221; from June 28th &#x2013; July 6th. The event will take place in Novi Sad, Master Centre.Read more: Silver Lake Chess Festival 2022 The 2022 Serbia Chess Open features two events: Masters (for players rated 2100+) and Amateurs (for players rated []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/norway-chess-open-2022-kicked-off-in-stavanger/",
          "pubDate" : "Fri, 03 Jun 2022 21:22:44 +0000",
          "title" : "Norway Chess Open 2022 kicked off in Stavanger"
-      },
-      {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Fri, 03 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
       },
       {
          "description" : "Leon Mendonca recently won the HSK GM Invitational tournament, with 7 out of 9. Lawrence Trent played in the very same tournament, and reached the 50% mark, with 4.5 out of 9. Their game ended in a draw. Since Leon was still in Hamburg, we managed to have a Trent's Tactics show together. Maybe Lawrence, and Arne, thanks to Leon, finally went beyond the ChessBase tactics training rating of 2500? But, perhaps it was actually a huge challenge? Watch the video to find out how it went.",
@@ -528,14 +536,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/",
          "pubDate" : "Wed, 01 Jun 2022 03:14:26 +0000",
          "title" : "Jeffery Xiong nets another Chicago title!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-1-lichessorg",
-         "pubDate" : "Tue, 31 May 2022 23:04:38 +0000",
-         "title" : "2022 Summer Chess Classic: Round 1 | lichess.org"
       },
       {
          "description" : "The Hamburg Chess Club hosted a GM tournament and an IM tournament last week. Leon Mendonca from India won the GM tournament. Frederick Svane scored a GM norm - 24 hours later Svane's third and last GM norm in the Bundesliga was also official. In the IM tournament, Brandon Clarke was the clear winner. | Photo: Hugo Schulz, Vasilios Kotronias, Leon Mendonca, Frederik Svane and Frank Bracker (Frank Bracker)",
