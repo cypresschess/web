@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-2",
+         "pubDate" : "Fri, 03 Jun 2022 23:06:59 +0000",
+         "title" : "2022 Summer Chess Classic: Round 2"
+      },
+      {
          "description" : "IM Lawrence Trent overcame the match favorite and fifth seed, IM Alina Kashlinskaya, in the&#38;nbsp;2022 IM Not A GM Speed Chess Championship&#38;nbsp;on Friday. The players traded victories for much of the match until the finish of the bullet segment wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-rosen-rozman",
          "pubDate" : "Thu, 26 May 2022 18:00:05 -0700",
          "title" : "Rosen Takes Revenge Vs Rozman: 2022 IMSCC, Quarterfinal"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BU6VDRwLLS0.jpg?itok=lp9uou4r\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-junior-us-senior-championships-round-1",
-         "pubDate" : "Thu, 26 May 2022 19:59:55 +0000",
-         "title" : "2022 U.S. Junior & U.S. Senior Championships: Round 1"
       },
       {
          "description" : "",
@@ -2128,22 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1758",
          "pubDate" : "Sat, 14 May 2022 03:04:26 +0000",
          "title" : "FIDE extends simplified procedure for playing under FIDE flag"
-      },
-      {
-         "description" : " For the past couple of years Michael Abron has been working on his memoirs to tell his story of playing in a tournament in all 50 U.S. states. in March released The Chess Traveler and Pioneer. Abron was featured on The Chess Drum after completing the journey. He finished at the onset of the COVID The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/\">Michael Abron releases book on Chess Journey</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/13/michael-abron-releases-book-on-chess-journey/",
-         "pubDate" : "Fri, 13 May 2022 23:03:39 +0000",
-         "title" : "Michael Abron releases book on Chess Journey"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1760",
-         "pubDate" : "Fri, 13 May 2022 22:12:27 +0000",
-         "title" : "2022 GCT Superbet Chess Classic Romania: Day 8 Recap"
       }
    ]
 }
