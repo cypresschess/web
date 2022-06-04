@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/",
+         "pubDate" : "Sat, 04 Jun 2022 11:13:24 +0000",
+         "title" : "Andorra Chess Grand Prix & Andorra Chess Open 2022"
+      },
+      {
+         "description" : "It is said that \"Vishy\" Anand only needed seconds to find White's winning continuation in the diagram position - whereas you have all the time in the world!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indian-whirlwind-ii",
+         "pubDate" : "Sat, 04 Jun 2022 09:00:00 +0100",
+         "title" : "Indian whirlwind II"
+      },
+      {
+         "description" : "With Russian aggression against Ukraine continuing unabated, this week's column recalls earlier Soviet atrocities perpetrated against its own citizens and those of neighbouring countries, notably Latvia. This year's Olympiad, or world tournament for national teams, has not only been relocated from Moscow, for obvious reasons, but has attracted a record breaking 187 federations, coming to []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-last-olympiad-chess-on-the-eve-of-war/",
+         "pubDate" : "Sat, 04 Jun 2022 07:45:48 +0000",
+         "title" : "The last Olympiad: chess on the eve of war"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91998676.cms\" />India legend Viswanathan Anand's winning run in the Classical event of the Norway Chess tournament came to an end after suffering a loss against American Wesley So in the fourth round here on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anands-winning-run-ends-but-still-in-joint-lead-with-carlsen/articleshow/91998676.cms",
+         "pubDate" : "Sat, 04 Jun 2022 05:06:18 +0000",
+         "title" : "Norway Chess: Anand's winning run ends, but still in joint lead with Carlsen"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "Trent Overcomes Kashlinskaya"
       },
       {
-         "description" : "Reigning World Chess Champion Magnus Carlsen started slowly at the 2022 Norway Chess, but made a full comeback with two consecutive classical victories. Vishy today lost in Armageddon game against Wesley So to reach 7.5 points and go to the resting day sharing the leadership with Magnus Carlsen. Standings after 4 rounds: 1 &#160;Anand, Viswanathan []",
+         "description" : "Reigning World Chess Champion Magnus Carlsen started slowly at the 2022 Norway Chess, but made a full comeback with two consecutive classical victories. Vishy today lost in Armageddon game against Wesley So to reach 8.5 points and go to the resting day sharing the leadership with Magnus Carlsen. Standings after 4 rounds: 1 &#160;Anand, Viswanathan []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-joins-anand-in-the-lead-of-norway-chess-2022/",
@@ -1714,14 +1746,6 @@ news_feed (
          "title" : "Chess With Richard"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91713601.cms\" />Former world champion Viswanathan Anand won the rapid event of the Superbet Rapid and Blitz Poland chess tournament on Saturday with a round to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-tourney-viswanathan-anand-wins-rapid-event-with-a-round-to-spare/articleshow/91713601.cms",
-         "pubDate" : "Sat, 21 May 2022 16:21:14 +0000",
-         "title" : "Superbet tourney: Viswanathan Anand wins Rapid event with a round to spare"
-      },
-      {
          "description" : " Early this month, the Presidential election (FIDE 2022) opened and there are already four candidates for President. This point was noted by current FIDE Vice President Nigel Short. It appears that the FIDE Presidential Election will be a crowded field. - Nigel Short (@nigelshortchess) May 20, 2022 Crowded indeed. After the announcement of Enyonam Sewa The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/\">FIDE 2022 election campaigns heat up!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1800,14 +1824,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/",
          "pubDate" : "Fri, 20 May 2022 20:41:05 +0000",
          "title" : "Spike Lee celebrates NIKE's 50th with chess"
-      },
-      {
-         "description" : "In the first day of the Champions Chess Tour, Gawain Jones played the Kings Indian against Vidit Gujrathi because it is a very legit weapon. One of Svitlana's favourite openings deserves a second part, to get into some deeper strategic territory. What if White is castling on the queen side? We adjust our plans, and build up some important decisions. Svitlana analyses an interesting King's Indian game between Ivan Cheparinov, and Wang Yue!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-41",
-         "pubDate" : "Fri, 20 May 2022 16:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - The King's Indian Part 2"
       },
       {
          "description" : " While following up my research into Zork, I cam across a website that lets you play vintage chess games (and other games) in your browser. <a href=\"https://playclassic.games/games/chess-dos-games-online/\">https://playclassic.games/games/chess-dos-games-online/</a> has a set of old Dos chess programs which look to be fully playable. I played one game against Sargon V, which I won, although the user interface lead me to play 1.e3 by accident. I did play it on Level 1, which was good enough not to hang pieces, but not strong enough to spot a mate in 2 (albeit one I also missed for one move) <br /> ",
@@ -2112,14 +2128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/",
          "pubDate" : "Sat, 14 May 2022 16:33:05 +0000",
          "title" : "Jamaica's Christie wins Heroes Cup 2022!"
-      },
-      {
-         "description" : "Just over a year ago I celebrated the 99th birthday of the Russian Grandmaster, world championship candidate and former Soviet champion, Yuri Averbakh. Sadly, having passed his 100th birthday in February, Averbakh finally succumbed to the ravages of time on May 7th (last Saturday). I cannot avoid the suspicion that the complications in Russian life []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/yuri-averbakh-1922-2022/",
-         "pubDate" : "Sat, 14 May 2022 08:29:09 +0000",
-         "title" : "Yuri Averbakh, 1922-2022"
       }
    ]
 }
