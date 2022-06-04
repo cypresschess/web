@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Serbian Chess Federation organizes the International Open Chess Championship of Serbia, called &#8220;Serbia OPEN 2022&#8221; from June 28th &#x2013; July 6th. The event will take place in Novi Sad, Master Centre.Read more: Silver Lake Chess Festival 2022 The 2022 Serbia Chess Open features two events: Masters (for players rated 2100+) and Amateurs (for players rated []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbia-chess-open-2022/",
+         "pubDate" : "Sat, 04 Jun 2022 18:41:55 +0000",
+         "title" : "Serbia Chess Open 2022"
+      },
+      {
+         "description" : "At the Tata Steel Masters 2022 Jorden van Foreest got the opportunity to conduct a long-planned opening experiment: In the Sicilian with 2.Nc6 he surprised his opponent Praggnanandhaa with 3.Bc4?! \"Finally, here it was. There aren't all that many good reasons for why I like the move, the main probably being the fact that it looks so stupid :-)\", writes the young Dutchman at the beginning of his analysis in the new CBM Extra #207. And the game continued no less exceptionally: after 3...e6 4.0-0 d5 5.Bb5! dxe4 6.Ne5 Qc7 7.Nxc6 bxc6 8.Bc4! White hast lost a pawn and moved his bishop three times in the opening! In the end, with a bit of luck, Van Foreest still won the game. It's \"The brillancy\" ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sicilian-experiment-1-e4-c5-2-nf3-nc6-3-bc4",
+         "pubDate" : "Sat, 04 Jun 2022 18:00:00 +0100",
+         "title" : "Sicilian experiment: 1.e4 c5 2.Nf3 Nc6 3.Bc4?!"
+      },
+      {
+         "description" : "The situation at the top of the leaderboard is beginning to sharpen at the 2022 Norway Chess in Stavanger. The current world champion, GM Magnus Carlsen, announced his intentions to play for the tournament title by winning the second classical g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-day-4",
+         "pubDate" : "Sat, 04 Jun 2022 08:34:00 -0700",
+         "title" : "Welcome To Valhalla: Carlsen Crushes Giri"
+      },
+      {
          "description" : "Magnus Carlsen goes into the 1st rest day of Norway Chess as the co-leader after beating Anish Giri to make his lifetime score against his Dutch rival 6 wins to 1. Wesley So is the only player to have won all four mini-matches, after surviving a lost position to defeat Vishy Anand in Armageddon, but Vishy, with two wins in classical chess, is a point clear of Wesley. Shakhriyar Mamedyarov picked up the only other classical win, beating Wang Hao to move up to 4th place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -304,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-9-lichessorg",
          "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
          "title" : "2022 Summer Chess Classic: Round 9 | lichess.org"
-      },
-      {
-         "description" : "The Dutch Open National team is set for the upcoming 44th Chess Olympiad in Chennai. The team with an average rating of 2665 will be led by world number nine Anish Giri, who has represented the Netherlands in five Chess Olympiads (2010, 2012, 2014, 2016, 2018). Netherlands Team (Open section): GM Anish Giri (2761) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/team-netherlands-set-for-44th-chess-olympiad/",
-         "pubDate" : "Thu, 02 Jun 2022 22:44:32 +0000",
-         "title" : "Team Netherlands set for 44th Chess Olympiad 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
@@ -1578,14 +1594,6 @@ news_feed (
          "title" : "Ukrainian GM Andrii Baryshpolets is running for FIDE President"
       },
       {
-         "description" : "The Superbet Rapid &#38;amp; Blitz Poland, the second event of the 2022 Grand Chess Tour, concluded today with the crowning of GM Jan Krzysztof Duda, who won his final game in a nail-biting finish where any one of four contenders could have taken the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-superbet-rapid-blitz-poland-day-5-duda-wins",
-         "pubDate" : "Mon, 23 May 2022 07:03:00 -0700",
-         "title" : "Duda Wins 2022 Superbet Rapid & Blitz Poland"
-      },
-      {
          "description" : "The second tournament of the Grand Chess Tour 2022 took place in Warsaw from May 17-23, and consisted of a rapid and a blitz tournament. Jan-Krzysztof Duda won the event after collecting 6&frac12;/9 points on the final day of action to overcome long-time sole leader Vishy Anand in the standings table. Anand and Levon Aronian finished in shared second place.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2022-d2",
          "pubDate" : "Sat, 21 May 2022 07:55:00 +0100",
          "title" : "Chessable Masters: Pragg beats Carlsen as Wei leads"
-      },
-      {
-         "description" : "Vishy Anand continued his winning streak at the Superbet Rapid & Blitz tournament in Warsaw, as he kicked off day 2 with two straight wins before signing his first draw of the event in round 6. Anand has a 2-point lead over Richard Rapport, who collected full points in all three rounds on Friday. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d2",
-         "pubDate" : "Sat, 21 May 2022 03:50:00 +0100",
-         "title" : "Superbet Poland: Anand keeps the lead, Rapport wins three in a row"
       },
       {
          "description" : " IM Daniel Cawdery won his second national title by edging out the field of contemporaries including former national champions and the country's lone Grandmaster. The tournament took place May 7-14, 2022 in the Newlands Cricket Stadium in Cape Town, South Africa. GM Kenny Solomon and IM Daniel Cawdery with a nice backdrop of the cricket The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/daniel-cawdery-wins-south-african-championship/\">Daniel Cawdery wins South African Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2112,22 +2112,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/mvl-wins-superbet-chess-classic-2022/",
          "pubDate" : "Sun, 15 May 2022 07:57:46 +0000",
          "title" : "MVL wins Superbet Chess Classic 2022"
-      },
-      {
-         "description" : " The Superbet Chess Classic took place in Bucharest Thu 5th May to Sat 14th May 2022. It was the first event in the 2022 Grand Chess Tour which has three rapid and blitz events and one further classical event, the Sinquefield Cup. Players: Alireza Firouzja, Levon Aronian, Fabiano Caruana, Wesley So, Shakhriyar Mamedyarov, Ian Nepomniachtchi, Richard Rapport, Maxime Vachier-Lagrave, Leinier Dominguez and Bogdan-Daniel Deac. There was a three way tie for first and that resulted in a tie-break MVL beat both Wesley So and Levon Aronian to take first place, So finished second and Aronian 3rd.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-chess-classic-2022",
-         "pubDate" : "Sat, 14 May 2022 22:36:00 +0400",
-         "title" : "Superbet Chess Classic 2022 - Games and Results"
-      },
-      {
-         "description" : " Barbados Chess Federation, &#8220;Jamaican Christie takes spot in Heroes Day Cup, Wilson wins Challengers section,&#8221; barbadoschess.org, 29 April 2022. Leading local chess players Orlando Husbands and Justin Blackman missed out on top honours as Jamaican Joshua Christie captured the Masters section in the Barbados Chess Federation's Heroes Day Cup. FM Joshua Christie Newly-crowned ladies national The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/\">Jamaica's Christie wins Heroes Cup 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/14/jamaicas-christie-wins-heroes-cup-2022/",
-         "pubDate" : "Sat, 14 May 2022 16:33:05 +0000",
-         "title" : "Jamaica's Christie wins Heroes Cup 2022!"
       }
    ]
 }
