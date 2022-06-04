@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://www.thearticle.com/yuri-averbakh-1922-2022/",
          "pubDate" : "Sat, 14 May 2022 08:29:09 +0000",
          "title" : "Yuri Averbakh, 1922-2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1758",
-         "pubDate" : "Sat, 14 May 2022 03:04:26 +0000",
-         "title" : "FIDE extends simplified procedure for playing under FIDE flag"
       }
    ]
 }
