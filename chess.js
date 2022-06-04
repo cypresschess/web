@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen goes into the 1st rest day of Norway Chess as the co-leader after beating Anish Giri to make his lifetime score against his Dutch rival 6 wins to 1. Wesley So is the only player to have won all four mini-matches, after surviving a lost position to defeat Vishy Anand in Armageddon, but Vishy, with two wins in classical chess, is a point clear of Wesley. Shakhriyar Mamedyarov picked up the only other classical win, beating Wang Hao to move up to 4th place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-4-carlsen-beats-giri-catches-anand",
+         "pubDate" : "Sat, 04 Jun 2022 14:56:04 +0000",
+         "title" : "Norway Chess 4: Carlsen beats Giri, catches Anand"
+      },
+      {
+         "description" : "The MegaChess set&#160;from RMD Recuperacion Materiales Diversos built from 800 recycled tires was unveiled today in Stavanger's Bjergsted Parken, Norway. The chess pieces are made from recycled car tires, weighing up to 240kg, and sit on the&#160;144 squared meter board &#x2013; the largest chess board in the World. The first move with the giant pieces []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-largest-chess-board-in-the-world-set-in-norway/",
+         "pubDate" : "Sat, 04 Jun 2022 14:37:50 +0000",
+         "title" : "The largest chess board in the World set in Norway"
+      },
+      {
+         "description" : "The 13th KIIT International Chess Festival 2022&#160;took place from 22nd to 29th May 2022 at KIIT University, Bhubaneswar, Odisha, India. The event was played in 3 categories: A, B (U1900) and C (U1600), with more than 900 participants and the total prize fund of&#160;&#x20B9;2500000 (~30.000 euros). GM Farrukh Amonatov won the strongest A event scoring []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/farrukh-amonatov-convincing-at-the-13th-kiit-chess-festival/",
+         "pubDate" : "Sat, 04 Jun 2022 13:52:06 +0000",
+         "title" : "Farrukh Amonatov convincing at the 13th KIIT Chess Festival"
+      },
+      {
+         "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in&#xA0;Centre de Congressos d&#x2019;Andorra la Vella.&#xA0; The Andorra Open 2022 will be played in 9 rounds, swiss system, with a total prize fund of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andorra-grand-prix-and-andorra-open-2022/",
+         "pubDate" : "Sat, 04 Jun 2022 13:16:02 +0000",
+         "title" : "Andorra Grand Prix and Andorra Open 2022"
+      },
+      {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -282,22 +314,6 @@ news_feed (
          "title" : "Team Netherlands set for 44th Chess Olympiad 2022"
       },
       {
-         "description" : "The Indian chess legend Vishy Anand continues with amazing play in the 2022 Norway Chess. After two straight-forward victories in the first two rounds, Anand today defeated Wang Hao in Armaggedon to maintain the sole leadership with 7.5 points. With a plus of 9.6 rating points, Vishy came back in the top 10 of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anand-maintains-sole-leadership-at-norway-chess-2022/",
-         "pubDate" : "Thu, 02 Jun 2022 22:08:34 +0000",
-         "title" : "Anand maintains sole leadership at Norway Chess 2022"
-      },
-      {
-         "description" : "Today, June 2nd, 2022, the President of the Russian Federation Vladimir Putin granted Sergey Karjakin a state award of the order &#8220;For Merit to the Fatherland&#8221;. There are two types of medals one for civilians and one for the military division. The civilian awards recognize Russians with outstanding contributions to the state and it []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladimir-putin-grants-sergey-karjakin-medal-for-merit-to-the-fatherland/",
-         "pubDate" : "Thu, 02 Jun 2022 18:25:00 +0000",
-         "title" : "Vladimir Putin grants Sergey Karjakin medal \"For Merit to the Fatherland\""
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-najdorf",
          "pubDate" : "Thu, 02 Jun 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A fascinating Najdorf"
-      },
-      {
-         "description" : "The French Rapid&#38;Blitz National Chess Championships 2022 took place in Port-Marly near Paris, being played over the last weekend of May with participation of more than 400 players. Laurent Fressinet won the French Rapid Chess Championship 2022 as he had the best tiebreaks in the group of five players who shared the top with 8/9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/france-crowns-rapid-blitz-chess-champions-2022/",
-         "pubDate" : "Thu, 02 Jun 2022 15:16:54 +0000",
-         "title" : "France crowns Rapid & Blitz Chess Champions 2022"
       },
       {
          "description" : "Dull or exciting? That was the question in round two of Norway Chess on Wednesday. When GM Veselin Topalov exceeded the time limit against GM Viswanathan Anand, the Indian became the sole victor in the classical games of the second round. GM Wes...",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1780",
          "pubDate" : "Mon, 23 May 2022 00:29:24 +0000",
          "title" : "Czech Championship: David Navara clinches national 11th title"
-      },
-      {
-         "description" : "Anish Giri won a spectacular game against Wei Yi and made draws against Magnus Carlsen and Aryan Tari to finish the Chessable Masters Prelims a point ahead of Magnus, who described himself as \"not too thrilled\" with his play. Giri now faces Tari in the quarterfinals and, after some huge swings in the final round, we also have Carlsen-Anton, Ding Liren-Mamedyarov and Praggnanandhaa-Wei Yi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-4-giri-wins-prelims-after-wild-final-day",
-         "pubDate" : "Sun, 22 May 2022 22:52:35 +0000",
-         "title" : "Chessable Masters 4: Giri wins Prelims after wild final day"
       },
       {
          "description" : "",
