@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2022-06-03","24","<a href=http://www.uschess.org/msa/XtblMain.php?202206039992 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2022-06-03","26","<a href=http://www.uschess.org/msa/XtblMain.php?202206030072 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-06-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202206030032 target='_blank'>FBCC06032022</a>",
 "HOUSTON","2022-05-29","11","<a href=http://www.uschess.org/msa/XtblMain.php?202205298412 target='_blank'>MAY 29 SUNDAY SWISS</a>",
 "HOUSTON","2022-05-28","38","<a href=http://www.uschess.org/msa/XtblMain.php?202205288452 target='_blank'>F7MAYSCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2021-07-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107189492 target='_blank'>SUNSWISSJULY18</a>",
 "SPRING","2021-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202107179032 target='_blank'>DER SPRINGERS</a>",
 "CYPRESS","2021-07-16","15","<a href=http://www.uschess.org/msa/XtblMain.php?202107169132 target='_blank'>05212021KOFC</a>",
-"SPRING","2021-07-16","21","<a href=http://www.uschess.org/msa/XtblMain.php?202107168592 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"PEARLAND","2021-07-15  - 07-16","16","<a href=http://www.uschess.org/msa/XtblMain.php?202107165912 target='_blank'>JULY PEARLAND MARRIOTT CHESS CAMP 2</a>",
 ]);
