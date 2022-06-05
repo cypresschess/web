@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Sun, 05 Jun 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "The Chess Festival of the Serbian Chess Federation took place from 31 May 5 June in Paracin, featuring the 8th Svetozar Gligoric Teams Cup and Serbian Rapid&#38;Blitz Chess Championships 2022.Read more: France crowns Rapid &#38; Blitz Chess Champions 2022 The 8th edition of the Svetozar Gligoric Cup was the first event on the Festival's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-chess-federation-chess-festival-concluded-with-national-rapidblitz-chess-championships-2022/",
+         "pubDate" : "Sun, 05 Jun 2022 15:01:31 +0000",
+         "title" : "Serbian Chess Federation Chess Festival concluded with National Rapid&Blitz Chess Championships"
+      },
+      {
+         "description" : " Janell Warner posted pictures on social media about her graduation from Brandeis University and stated, &#8220;so happy to be surrounded by so much love and support.&#8221; Certainly, family and friends were on hand to celebrate the event, but the chess community can also celebrate. This is yet another example of how chess continues to help The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/05/aspiring-chess-master-janell-warner-ready-to-shine/\">Aspiring chess master Janell Warner ready to shine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/05/aspiring-chess-master-janell-warner-ready-to-shine/",
+         "pubDate" : "Sun, 05 Jun 2022 14:55:13 +0000",
+         "title" : "Aspiring chess master Janell Warner ready to shine"
+      },
+      {
+         "description" : " One form of chess that seems to still exists mainly on paper rather than online is the Mate in 2 (or more) problems. And by that I mean proper Mate in 2 problems, rather than easy tactics which result in a fairly obvious checkmate after 2 moves. While lots of players find such problems weird, they serve as an excellent training tool. Accurately calculating the first 3 moves of any sequence of moves reduces your chances of making a blunder significantly. And if you can spot the likely move quickly, then how you sort your candidate moves will also improve. But as the title says, finding an online (rather than a printed) source is proving difficult. Suggestions accepted with thanks. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/looking-for-mate-in-2s.html",
+         "pubDate" : "Sun, 05 Jun 2022 14:05:00 +0000",
+         "title" : "Looking for Mate in 2's"
+      },
+      {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Vladimir Fedoseev won week 17 of the Rapid Chess Championship, presented by Coinbase, tying with and edging out GM Levon Aronian by tiebreaks.&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-17-swiss",
+         "pubDate" : "Sun, 05 Jun 2022 07:04:01 -0700",
+         "title" : "Fedoseev Wins Week 17 Swiss Heading into Knockout: Summary Report"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 82nd instalment of his ChessBase show \"Understanding before Moving\", Herman explains why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-82-basics-of-the-benko-gambit",
+         "pubDate" : "Sun, 05 Jun 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 82: Basics of the Benko Gambit"
+      },
+      {
+         "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 will be held from 24th September 2nd October 2022 in the Principality of Liechtenstein with the support of European Chess Union. Federations participating in the event are as follows (alphabetical order): Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino. Each federation shall&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship/",
+         "pubDate" : "Sun, 05 Jun 2022 13:42:51 +0000",
+         "title" : "4th ESNA European Small Nations Individual Chess Championship"
+      },
+      {
+         "description" : "The second leg of the MPL Indian Chess Tour 2022&#160;was played from 2-5 June on chess24.com. 16 players battled over 15 round-robin rounds for the spot in one of the Meltwater Champions Chess Tour events. Aravindh Chithambaram won the event scoring 32/42 points and secured his seat in one of the world-renowned&#160;events of the Champions []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aravindh-chithambaram-wins-2nd-leg-of-mpl-indian-chess-tour-2022/",
+         "pubDate" : "Sun, 05 Jun 2022 13:40:15 +0000",
+         "title" : "Aravindh Chithambaram wins 2nd leg of MPL Indian Chess Tour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1800",
+         "pubDate" : "Sun, 05 Jun 2022 11:41:36 +0000",
+         "title" : "Alexander Nikitin (1935-2022)"
+      },
+      {
          "description" : "Magnus Carlsen's potential decision to give up his title and drop out of the World Championship could lead to huge implications for the chess world. Reactions have been mixed, with some top players expressing doubts over whether the Norwegian is serious or not, while others have gone further and criticised the World Champion's statements.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -42,7 +114,7 @@ news_feed (
          "title" : "2022 Summer Chess Classic: Round 3"
       },
       {
-         "description" : "Round 4 of the Norway Chess tournament was played on Friday. Magnus Carlsen won his classical against Anish Giri, and was awarded three points for his victory. Previously in the sole lead, Viswanathan Anand, playing with Black, had to settle for a draw against Wesley So before losing the Armageddon game. Anand received only one point in this round and is now sharing the lead with Anand. Round 5 will be played on Sunday after a rest day. | Photos: Lennart Ootes",
+         "description" : "Round 4 of the Norway Chess tournament was played on Friday. Magnus Carlsen won his classical against Anish Giri, and was awarded three points for his victory. Previously in the sole lead, Viswanathan Anand, playing with Black, had to settle for a draw against Wesley So before losing the Armageddon game. Anand received only one point in this round and is now sharing the lead with Carlsen. Round 5 will be played on Sunday after a rest day. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2022-r4",
@@ -242,14 +314,6 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty Three"
       },
       {
-         "description" : "The Azerbaijan Chess Federation revealed the National Teams that will represent Azerbaijan at the upcoming 44th Chess Olympiad 2022 in Chennai. Azerbaijan Team (Open section): GM Shakhriyar Mamedyarov (2751) GM Teimour Radjabov (2753) GM Gadir Guseinov (2668) GM Rauf Mamedov (2656) GM Vasif Durarbayli (2638) The team with an average FIDE rating of 2683 will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-announces-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Fri, 03 Jun 2022 11:11:40 +0000",
-         "title" : "Azerbaijan announces Teams for 44th Chess Olympiad 2022"
-      },
-      {
          "description" : "The International Chess Festival Prague will start on 7 June and promises to be a highlight in this year's chess calendar. The event includes three invitational tournaments, the Masters, the Challengers and the Futures and several Opens, and the line-ups of these tournaments are exciting. | Photo: Vincent Keymer | Photo: Grenke Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +336,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jun/03/chess-magnus-carlsen-starts-stavanger-while-seven-year-old-kushal-jakhria-eyes-expert-record",
          "pubDate" : "Fri, 03 Jun 2022 10:28:20 +0000",
          "title" : "Chess: Carlsen recovers in Stavanger while seven-year-old eyes Expert record"
-      },
-      {
-         "description" : "The US Chess Federation confirmed the composition of the National Open team a day after Wesley So revealed the squad in the interview at the Norway Chess 2022 and announced who will compose the Women's Team in the upcoming 44th Chess Olympiad 2022 in Chennai. The US Women's Team: GM Irina Krush (2430) IM Carissa []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-us-womens-team-for-44th-chess-olympiad-2022-announced/",
-         "pubDate" : "Fri, 03 Jun 2022 10:09:08 +0000",
-         "title" : "The US Women's Team for 44th Chess Olympiad 2022 announced"
       },
       {
          "description" : "To All Concerned Please find the necessary link to get the details for Appointment of interim Secretary of AICF For your information please . Appointment",
@@ -1554,14 +1610,6 @@ news_feed (
          "title" : "Rensch Triumphant In Armageddon Tiebreak: 2022 IMSCC, Round Of 16"
       },
       {
-         "description" : "The semifinals of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters will see the matches GM Magnus Carlsen vs. GM Ding Liren and&#38;nbsp;GM Anish Giri vs.&#38;nbsp;Praggnanandhaa R. played on Tuesday. The winners will qualify for the final that...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chessable-masters-quarterfinals",
-         "pubDate" : "Tue, 24 May 2022 02:01:00 -0700",
-         "title" : "Carlsen-Ding, Giri-Pragg In Semifinals: Chessable Masters, Day 5"
-      },
-      {
          "description" : "Stalemate motifs often play a role in endgames. In the diagrammed position it is White to move. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1818,22 +1866,6 @@ news_feed (
          "title" : "FIDE sponsors participation of African chess talents in Sharjah Championships 2022"
       },
       {
-         "description" : "By hindsight, it's easy to say that in the diagram position White must play 29.Rxd3! - but is it just as easy to refute the game continuation 29.f3?? Your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/duo-infernale",
-         "pubDate" : "Sat, 21 May 2022 08:00:00 +0100",
-         "title" : "Duo infernale"
-      },
-      {
-         "description" : "Wei Yi continues to lead the standings in the preliminary stage of the Chessable Masters, as he collected two wins and two draws in Friday's rounds. David Anton and Magnus Carlsen are sharing second place three points back. Carlsen kicked off the day with a loss - for a second time in the tour, the world champion was defeated by 16-year-old Indian prodigy Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d2",
-         "pubDate" : "Sat, 21 May 2022 07:55:00 +0100",
-         "title" : "Chessable Masters: Pragg beats Carlsen as Wei leads"
-      },
-      {
          "description" : " IM Daniel Cawdery won his second national title by edging out the field of contemporaries including former national champions and the country's lone Grandmaster. The tournament took place May 7-14, 2022 in the Newlands Cricket Stadium in Cape Town, South Africa. GM Kenny Solomon and IM Daniel Cawdery with a nice backdrop of the cricket The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/daniel-cawdery-wins-south-african-championship/\">Daniel Cawdery wins South African Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2080,22 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1757",
          "pubDate" : "Mon, 16 May 2022 10:00:07 +0000",
          "title" : "2022 1st FIDE Council meeting - decisions for FC"
-      },
-      {
-         "description" : " I came across an article on decision making, called \"<a href=\"https://bigthink.com/neuropsych/the-37-percent-rule/\">The 37% Rule</a>\". Basically it suggests that you spend the first 37% of the time you take to make a decision to collect and collate information about the decision. Then when you come across an option that exceeds the best option you identified initially, you take that option and stop searching. If you don't find a better choice, then take the best option from your initial research. How does this apply to chess then? On the one hand it probably doesn't, but on the other it may help solve the problem of time management. If you reach a critical phase of the game, and you feel th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/the-37-rule.html",
-         "pubDate" : "Sun, 15 May 2022 12:39:00 +0000",
-         "title" : "The 37% rule"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1762",
-         "pubDate" : "Sun, 15 May 2022 12:38:33 +0000",
-         "title" : "Nguyen and Citra win gold medals at the Southeast Asian Games"
       }
    ]
 }
