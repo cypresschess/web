@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a well deserved resting day where players enjoyed a chess game played on the World's largest chess board, the 6th day of Norway Chess 2022 saw interesting encounters and exciting games. All the eyes were on the match between the reigning World Chess Champion Magnus Carlsen and the 15th World Chess Champion Viswanathan Anand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anand-defeats-carlsen-taking-back-the-sole-lead-in-norway-chess-2022/",
+         "pubDate" : "Sun, 05 Jun 2022 22:43:01 +0000",
+         "title" : "Anand defeats Carlsen taking back the sole lead in Norway Chess 2022"
+      },
+      {
+         "description" : "The 5th edition of the Vera Menchik Memorial took place today in the Museum of the Public Transport in Prague. The event was a part of the Czech Grand Prix Tour 2021/2022. The event gathered more than 250 players who competed over 7 swiss rounds played in rapid time control. With a convincing score of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-petr-neuman-wins-vera-menchik-memorial-2022/",
+         "pubDate" : "Sun, 05 Jun 2022 22:08:00 +0000",
+         "title" : "GM Petr Neuman wins Vera Menchik Memorial 2022"
+      },
+      {
          "description" : "One of the prerequisites for playing chess well is to have a decent feel for the geometry of the board. In today's column, GM Jon Speelman explores this theme through a couple of somewhat unusual patterns - the staircase and the stairwell. He also looks at a game by Will Watson, a player once described by Boris Spassky as \"a drunk with a machine gun\". | Pictured: 'Relativity' by M. C. Escher",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,14 +290,6 @@ news_feed (
          "title" : "Announcing Chess Played Quick Bot Battles Bingo Edition"
       },
       {
-         "description" : "Kazakhstan Chess Federation will undertake the organization of the first leg of the FIDE Women&#x2019;s Grand Prix. Its capital, Nursultan, formerly known as Astana, will host the event from September 21 to October 4. While the exact line-up for Nursultan is yet to be defined, the WGP Series 2022-23 will feature a total of 16 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-first-leg-of-fide-womens-grand-prix-to-be-held-in-nursultan/",
-         "pubDate" : "Fri, 03 Jun 2022 14:11:27 +0000",
-         "title" : "The first leg of FIDE Women's Grand Prix to be held in Nursultan"
-      },
-      {
          "description" : "In his \"Power Play Show\" Daniel King looks at games from Norway Chess including Anand's win over Vachier-Lagrave where he shows brilliant technique. Daniel goes into some detail in the 3.Bb5+ Sicilian, and looks at alternatives to Black's play in the game. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1799",
          "pubDate" : "Fri, 03 Jun 2022 12:38:28 +0000",
          "title" : "Nursultan to host the first leg of FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The 2021 Azerbaijan Chess Champion GM Vasif Durarbayli made it to the Azerbaijan National Team after 16 years of a &#8220;short break&#8221;. Durarbayli debuted at the 37th Chess Olympiad which took place in 2006 in Turin, Italy. He was the reserve player (6th board) and scored 1 point in three games. The Azerbaijan Chess Federation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-vasif-durarbayli-joins-azerbaijan-olympic-team-after-16-years-tweetoftheday/",
-         "pubDate" : "Fri, 03 Jun 2022 11:28:12 +0000",
-         "title" : "GM Vasif Durarbayli joins Azerbaijan Olympic Team after 16 years #TweetOftheDay"
       },
       {
          "description" : " This week, We will look at the some further concepts to consider before engaging in an exchange of material. We've looked at removing positional tension and using the relative value of the pawns and pieces to guide you in making good trades or exchanges. This week, we are going to do a deeper dive into <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-three/\">A Foundation for Beginners Sixty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
