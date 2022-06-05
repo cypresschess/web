@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE World Youth Chess Championships (U14, U16 &#38; 18 Open &#38; Girls) will be held at Mamaia, City of Constanta, Romania from 05-17 September 2022",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-youth-chess-championships-2022-under-18-16-14-open-girls/",
+         "pubDate" : "Sun, 05 Jun 2022 06:49:12 +0000",
+         "title" : "FIDE World Youth Chess Championships-2022 (Under-18, 16 & 14 Open & Girls)"
+      },
+      {
+         "description" : " The second of my new chess sites is spectrumchess.uk. This site proposes a different sort of chess club for children, although the idea could be used for clubs for players of all ages. My good friend Marie Gallagher (sister of GM Joe Gallagher) and I had both had the same idea, and had, totally independently, <a href=\"https://chessimprover.com/spectrum-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Spectrum Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/spectrum-chess/\">Spectrum Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/spectrum-chess/",
+         "pubDate" : "Sun, 05 Jun 2022 06:00:42 +0000",
+         "title" : "Spectrum Chess"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1978,14 +1994,6 @@ news_feed (
          "title" : "Zork!"
       },
       {
-         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ A month ago I presented a couple of exotic puzzles from the &#8220;Chess 2022 Day-to-Day Calendar: A Year of Chess Puzzles&#8221; <a href=\"https://chessimprover.com/chess-2022-february-top-picks/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 February Top Picks\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-february-top-picks/\">Chess 2022 February Top Picks</a> appeared first on <a rel=\"nofol",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-2022-february-top-picks/",
-         "pubDate" : "Tue, 17 May 2022 12:34:28 +0000",
-         "title" : "Chess 2022 - February Top Picks"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1762",
          "pubDate" : "Sun, 15 May 2022 12:38:33 +0000",
          "title" : "Nguyen and Citra win gold medals at the Southeast Asian Games"
-      },
-      {
-         "description" : "MPL 34th National Under 8 Open and Girls Chess Championship 2002 organised by Andhra Chess Association under the aegis of All India Chess federation from",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-34th-national-under-8-open-girls-chess-championship-2022-event-codes-282560-ap-2022-282561-ap-2022-charvi-and-avirat-champions/",
-         "pubDate" : "Sun, 15 May 2022 11:15:22 +0000",
-         "title" : "MPL 34th National Under-8 Open & Girls Chess Championship-2022 (Event Codes: 282560/AP/2022 &: 282561/AP/2022) Charvi and Avirat Champions"
       },
       {
          "description" : "",
