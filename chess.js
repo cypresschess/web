@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen's potential decision to give up his title and drop out of the World Championship could lead to huge implications for the chess world. Reactions have been mixed, with some top players expressing doubts over whether the Norwegian is serious or not, while others have gone further and criticised the World Champion's statements.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/trent-on-carlsen-possibly-quitting-not-a-great-thing-to-do",
+         "pubDate" : "Sun, 05 Jun 2022 08:17:29 +0000",
+         "title" : "Trent on Carlsen possibly quitting: \"Not a great thing to do!\""
+      },
+      {
+         "description" : "FIDE World Cadet Chess Championships (U8, U10 &#38; 12 Open &#38; Girls) will be held at Batumi, Georgia from 15-28 September 2022 and players participated",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cadet-chess-championships-u8-u10-12-open-girls/",
+         "pubDate" : "Sun, 05 Jun 2022 07:30:51 +0000",
+         "title" : "FIDE World Cadet Chess Championships (U8, U10 & 12 Open & Girls)"
+      },
+      {
          "description" : "FIDE World Youth Chess Championships (U14, U16 &#38; 18 Open &#38; Girls) will be held at Mamaia, City of Constanta, Romania from 05-17 September 2022",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1634,14 +1650,6 @@ news_feed (
          "title" : "Stream FritzTrainers in the video portal!"
       },
       {
-         "description" : "Last month Dutch no. 1 Anish Giri joined The Late Knight Show studio in Oslo for a fascinating two-hour interview. The candid 27-year-old Grandmaster opened up about a variety of topics ranging from the Meltwater Champions Chess Tour to his ambitions to become World Champion and missing out on the Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anish-giri-on-the-twitter-hack-grand-prix-and-missing-out-on-the-candidates",
-         "pubDate" : "Mon, 23 May 2022 08:02:10 +0000",
-         "title" : "Giri: \"The purpose of my chess career is to become the best player in the world\""
-      },
-      {
          "description" : "The preliminary stage of the Chessable Masters came to an end on Sunday. Anish Giri scored a win and two draws to keep the lead and win the single round-robin. Magnus Carlsen finished in second place, and was followed by Ding Liren and Praggnanandhaa. Wei Yi, Shakhriyar Mamedyarov, David Anton and Aryan Tari also made it to the knockout stage.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2074,14 +2082,6 @@ news_feed (
          "title" : "2022 1st FIDE Council meeting - decisions for FC"
       },
       {
-         "description" : "Gujarat State Chess Association in association with Sports Authority of Gujarat is all set to host the &#8220;MPL 34th National U-14 Open &#38; Girls Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-34th-national-under-14-open-and-girls-chess-championship-2022john-veny-akkarakaran-of-kerala-in-open-mrittika-mallick-of-west-bengal-in-girls-wins/",
-         "pubDate" : "Mon, 16 May 2022 07:24:34 +0000",
-         "title" : "MPL 34th National Under- 14 Open and Girls Chess Championship 2022,John Veny Akkarakaran of Kerala in Open & Mrittika Mallick of West Bengal in Girls Wins"
-      },
-      {
          "description" : " I came across an article on decision making, called \"<a href=\"https://bigthink.com/neuropsych/the-37-percent-rule/\">The 37% Rule</a>\". Basically it suggests that you spend the first 37% of the time you take to make a decision to collect and collate information about the decision. Then when you come across an option that exceeds the best option you identified initially, you take that option and stop searching. If you don't find a better choice, then take the best option from your initial research. How does this apply to chess then? On the one hand it probably doesn't, but on the other it may help solve the problem of time management. If you reach a critical phase of the game, and you feel th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2096,22 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1762",
          "pubDate" : "Sun, 15 May 2022 12:38:33 +0000",
          "title" : "Nguyen and Citra win gold medals at the Southeast Asian Games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1761",
-         "pubDate" : "Sun, 15 May 2022 08:28:33 +0000",
-         "title" : "Maxime Vachier-Lagrave wins Superbet Chess Classic Bucharest"
-      },
-      {
-         "description" : " <p class=\"lead\">Maxime Vachier-Lagrave wins the <a href=\"https://worldchess.com/news/all/2022-superbet-chess-classic-romania/\">2022 Superbet Chess Classic</a> in Romania after an impressive 3/3 score on the last day against Alireza, So, and Aronian. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20220323150903_IMG_4210-1.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The French GM did not make the cut for the 2022 Candidates, but as he said last year after winning the Sinquefield Cup: \"I have absolutely no doubt that I am part of the chess elite. I want to prove it tournament after tournament.\" He is clear",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/mvl-wins-superbet-chess-classic-2022/",
-         "pubDate" : "Sun, 15 May 2022 07:57:46 +0000",
-         "title" : "MVL wins Superbet Chess Classic 2022"
       }
    ]
 }
