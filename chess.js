@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the prerequisites for playing chess well is to have a decent feel for the geometry of the board. In today's column, GM Jon Speelman explores this theme through a couple of somewhat unusual patterns - the staircase and the stairwell. He also looks at a game by Will Watson, a player once described by Boris Spassky as \"a drunk with a machine gun\". | Pictured: 'Relativity' by M. C. Escher",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-171",
+         "pubDate" : "Sun, 05 Jun 2022 18:20:00 +0100",
+         "title" : "Eight staircases, two stairwells and a drunken soldier"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-asian-seniors-championship.html",
          "pubDate" : "Sun, 22 May 2022 11:55:00 +0000",
          "title" : "2022 Asian Seniors Championship"
-      },
-      {
-         "description" : "Vishy Anand won the rapid section of the Superbet tournament in Warsaw, despite losing his round-9 encounter against Richard Rapport. The latter goes into the 18 rounds of blitz in sole second place, after winning twice and losing once on Saturday. Jan-Krzysztof Duda stands in third place, a point further back. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d3",
-         "pubDate" : "Sun, 22 May 2022 03:40:00 +0100",
-         "title" : "Superbet Poland: Rapport inflicts a first loss on Anand"
       },
       {
          "description" : "",
