@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Mon, 06 Jun 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "Famous business magnate and investor Elon Musk quite often uses his Twitter account to post about chess. This time, he shared a meme explaining how would chess look if it was released as a video game. Read more: Elon Musk &#x2013; now we have computers in chess The post went viral and launched a number []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elon-musk-explains-how-would-chess-look-if-it-was-released-as-a-video-game-tweetoftheday/",
+         "pubDate" : "Mon, 06 Jun 2022 14:52:26 +0000",
+         "title" : "Elon Musk explains how would chess look if it was released as a video game #TweetOftheDay"
+      },
+      {
+         "description" : "The 52nd Cotswold Chess Congress was held at The Kings School, Gloucester Friday 3rd to Sunday 5th June. The organizers are grateful to Karen Gulley...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2022-cotswold-chess-congress/",
+         "pubDate" : "Mon, 06 Jun 2022 13:56:54 +0000",
+         "title" : "2022 Cotswold Chess Congress"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1801",
+         "pubDate" : "Mon, 06 Jun 2022 13:48:41 +0000",
+         "title" : "Selection of arbiters for FIDE events"
+      },
+      {
+         "description" : " I think I recently mentioned that to me, losses hurt immediately, by victories are more enjoyable over time. To test this theory, here is a loss from a club game last week. The immediate cause of the loss was flag fall, but I was in time trouble because I had lost control of the position earlier on (despite being a piece up). Good defence from my opponent btw, which definitely contributed to my shortage of time. <br /> <b>Press,Shaun - Forace,Lee [A55]</b><br />Belconnen Cup, 01.06.2022 <script>new PgnViewer( { boardName: \"game1331\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 d6 3.g3 c6 4.Bg2 Nbd7 5.c4 Qc7 6.Nc3 e5 7.O-O Be7 8.e4 O-O 9.Bg5 a5 10.Rc1 exd4 11.Nxd4 Nc5 12.Nb3 Ne6 13.Be3",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/winning-losing.html",
+         "pubDate" : "Mon, 06 Jun 2022 13:35:00 +0000",
+         "title" : "Winning > Losing"
+      },
+      {
+         "description" : "With the top four players in the tournament standings playing each other in round five, the situation at the top of the leaderboard is sharpening further at the 2022 Norway Chess in Stavanger. The current world champion, GM Magnus Carlsen, said ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-day-5",
+         "pubDate" : "Mon, 06 Jun 2022 06:34:00 -0700",
+         "title" : "Anand's Norwegian Adventure Continues, Takes Down Carlsen"
+      },
+      {
+         "description" : "The 79th Georgian Women&#x2019;s Chess Championship&#xA0;takes place from 6-15 June in the Georgian Chess Palace in Tbilisi. LIVE broadcast of the games is available on the Georgian Chess Federation Facebook page, together with commentaries by GM Davit Jojua. The transmission of the live broadcast will be daily on Chessdom.com. (scroll down for pairings and results) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/79th-georgian-womens-chess-championship-live/",
+         "pubDate" : "Mon, 06 Jun 2022 13:22:36 +0000",
+         "title" : "79th Georgian Women's Chess Championship LIVE"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92039760.cms\" />The All India Chess Federation (AICF) on Monday said it supports the candidature of Viswanathan Anand for the post of FIDE deputy president, clarifying its stand after anonymous emails claimed that former AICF secretary Bharat Singh Chauhan was the right candidate for the job.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/after-email-trail-aicf-says-it-supports-viswanathan-anands-candidature-for-fide-deputy-president/articleshow/92039760.cms",
+         "pubDate" : "Mon, 06 Jun 2022 12:03:01 +0000",
+         "title" : "AICF says it supports Anand's candidature for FIDE deputy president"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92039256.cms\" />Grandmaster Arjun Erigaisi, who has seen his stock rise in the past few months, is upbeat about India's chances in the upcoming chess Olympiad. The 18-year-old chess player from Telangana has won a handful of tournaments so far this year and has become the highest-rated Indian in the world blitz rankings at 13th.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-upbeat-about-indias-chances-in-chess-olympiad/articleshow/92039256.cms",
+         "pubDate" : "Mon, 06 Jun 2022 11:39:19 +0000",
+         "title" : "Arjun Erigaisi upbeat about India's chances in Chess Olympiad"
+      },
+      {
+         "description" : "GM Dmitry Andreikin won week 17 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, overcoming GM Jules Moussard, who made it to the final in his first-ever knockout. GMs Vladimir Fedoseev and Nodirbek Abdusattorov made it to the se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/battle-of-escape-artists-andreikin-wins-2nd-knockout",
+         "pubDate" : "Mon, 06 Jun 2022 04:36:00 -0700",
+         "title" : "Battle Of Escape Artists: Andreikin Wins 2nd Knockout"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92038186.cms\" />Top-seed Farrukh Amonatov of Tajikistan posted a 43-move win over Russian Boris Savchenko to take his tally to 7.5 points and shoot into the lead after the ninth round of the inaugural Maharashtra International Open Grandmaster chess tournament on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -240,22 +320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-largest-chess-board-in-the-world-set-in-norway/",
          "pubDate" : "Sat, 04 Jun 2022 14:37:50 +0000",
          "title" : "The largest chess board in the World set in Norway"
-      },
-      {
-         "description" : "The 13th KIIT International Chess Festival 2022&#160;took place from 22nd to 29th May 2022 at KIIT University, Bhubaneswar, Odisha, India. The event was played in 3 categories: A, B (U1900) and C (U1600), with more than 900 participants and the total prize fund of&#160;&#x20B9;2500000 (~30.000 euros). GM Farrukh Amonatov won the strongest A event scoring []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/farrukh-amonatov-convincing-at-the-13th-kiit-chess-festival/",
-         "pubDate" : "Sat, 04 Jun 2022 13:52:06 +0000",
-         "title" : "Farrukh Amonatov convincing at the 13th KIIT Chess Festival"
-      },
-      {
-         "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in&#xA0;Centre de Congressos d&#x2019;Andorra la Vella.&#xA0; The Andorra Open 2022 will be played in 9 rounds, swiss system, with a total prize fund of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andorra-grand-prix-and-andorra-open-2022/",
-         "pubDate" : "Sat, 04 Jun 2022 13:16:02 +0000",
-         "title" : "Andorra Grand Prix and Andorra Open 2022"
       },
       {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
@@ -1498,14 +1562,6 @@ news_feed (
          "title" : "Rosen Beats Sachdev With 11-Game Streak: 2022 IMSCC, Round Of 16"
       },
       {
-         "description" : "Last Friday, Russia&#39;s Ministry of Justice added GM Garry Kasparov to the list of individuals acting as &#34;foreign agents&#34; for receiving donations or funding from outside Russia and carrying out political activities. For Kasparov, who is living abroa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kasparov-added-to-russian-foreign-agents-list",
-         "pubDate" : "Tue, 24 May 2022 12:16:00 -0700",
-         "title" : "Kasparov Added To Russian 'Foreign Agents' List"
-      },
-      {
          "description" : "Magnus Carlsen will return to Chennai, the city where he was first crowned World Champion in 2013, to be part of the 44th Chess Olympiad from July 28 to August 10. The 31-year-old will make his first appearance in a team event for Norway in six years.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1642,14 +1698,6 @@ news_feed (
          "title" : "Duda is the 2022 Superbet Rapid & Blitz Poland King"
       },
       {
-         "description" : "Chess.com&#39;s very own IM Danny Rensch was the winner by the slightest of margins in the 2022 IM Not A GM Speed Chess Championship on Monday, needing tiebreaks and an armageddon game to claim a 14.5-13.5 victory over IM Justus Williams in their roun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rensch-williams",
-         "pubDate" : "Tue, 24 May 2022 02:16:00 -0700",
-         "title" : "Rensch Triumphant In Armageddon Tiebreak: 2022 IMSCC, Round Of 16"
-      },
-      {
          "description" : "Stalemate motifs often play a role in endgames. In the diagrammed position it is White to move. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1664,22 +1712,6 @@ news_feed (
          "link" : "https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/",
          "pubDate" : "Tue, 24 May 2022 05:20:10 +0000",
          "title" : "20th European Union Youth Chess Championship U8-U14"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91756992.cms\" />The 16-year-old Praggnanandhaa will take on Anish Giri (the Netherlands) in the semifinals. World No. 1 Magnus Carlsen will take on China's Ding Liren in the other semifinal clash.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-sails-into-semifinals-of-chessable-masters/articleshow/91756992.cms",
-         "pubDate" : "Tue, 24 May 2022 04:25:20 +0000",
-         "title" : "India's Praggnanandhaa sails into semis of Chessable Masters"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91750353.cms\" />Former world champion Viswanathan Anand had a moderate run on the second day of the Blitz section to finish overall joint second in the Superbet Rapid and Blitz Poland chess tournament on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-poland-chess-viswanathan-anand-finishes-overall-joint-second/articleshow/91750353.cms",
-         "pubDate" : "Mon, 23 May 2022 17:12:41 +0000",
-         "title" : "Superbet Poland chess: Viswanathan Anand finishes overall joint second"
       },
       {
          "description" : "In his Endgame Magic Show #195 Karsten and Arne look at endgame highlights and take a particularly close look at the strengths and weaknesses of knights and \"zugzwang\", a sharp weapon in the endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1800,14 +1832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-23",
          "pubDate" : "Sun, 22 May 2022 14:55:00 +0100",
          "title" : "Trent's Tactics - Boris Spassky, and a nightmare"
-      },
-      {
-         "description" : "On the third day of the Chessable Masters, Anish Giri took the lead in the standings table after scoring three wins and a draw. Wei Yi, who had been leading until Friday, only managed two draws and dropped to fourth place. Magnus Carlsen is one point behind Giri in second place; Ding Liren is third. Sunday's final three rounds of the preliminaries will decide which eight players move on to the knockout.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d3",
-         "pubDate" : "Sun, 22 May 2022 14:50:00 +0100",
-         "title" : "Chessable Masters: Giri grabs the lead"
       },
       {
          "description" : " If you are turning 50 years old (or more) this year, then the 2022 Asian Seniors Championship may be of interest to you. It is being held from the 14th to the 22nd of October, in Auckland, New Zealand. It will be a 9 round swiss and apart from an enjoyable week of chess, title and title norms are on offer. I played in 2017 and I highly recommend this event to those who are able to take part. Brief details are available at <a href=\"https://www.newzealandchess.co.nz/calendar.html\">https://www.newzealandchess.co.nz/calendar.html</a> ",
@@ -2088,38 +2112,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ding-liren-makes-it-to-the-2022-candidates/",
          "pubDate" : "Mon, 16 May 2022 15:31:45 +0000",
          "title" : "Ding Liren Will Play In 2022 Candidates"
-      },
-      {
-         "description" : " In the lead up to his match against Bobby Fischer, Mark Taimanov played a training match against a couple of Soviet GM's. To make the match harder for Tamainov, his opponents were allowed to consult with books (no engines in those days), or move the pieces on the board while analysing (they had a separate board and room for this). While Taimanov didn't win the training matches he felt it helped him, that was until he lost 6-0. So my question is - If you add either the ability to reference books, or be allowed to move pieces while analysing, how much stronger would you be? 100 points, 200 points or more ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/extra-help.html",
-         "pubDate" : "Mon, 16 May 2022 13:34:00 +0000",
-         "title" : "Extra Help"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1764",
-         "pubDate" : "Mon, 16 May 2022 13:10:50 +0000",
-         "title" : "Queens' Online Chess Festival 2022: Your chance to see Chennai!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1763",
-         "pubDate" : "Mon, 16 May 2022 12:05:30 +0000",
-         "title" : "Winners crowned at South African Championship 2022"
-      },
-      {
-         "description" : "The English Chess Federation and Chess in Schools and Communities Charity are delighted to announce an agreement about work with chess in prisons between the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-in-prisons-update-from-carl-portman/",
-         "pubDate" : "Mon, 16 May 2022 11:33:57 +0000",
-         "title" : "Chess in prisons update - from Carl Portman"
       }
    ]
 }
