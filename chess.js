@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">In an <a href=\"https://www.youtube.com/watch?v=wKwWbFFxYJc&ab_channel=WorldChess\">exclusive interview</a> with World Chess, IM and WGM Elisabeth Paehtz talked about her positive experience as a female professional player in Germany over the past 4 years and acknowledged that everything is pointing in the direction that things are going to improve even more for women in chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/68818744_1277763945754649_8886703809812758528_n.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anastasiya Karlovych</div> </div> Being a national player since 1998, Elisabeth Paehtz has witnessed",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/elisabeth-paehtz-on-women-in-chess/",
+         "pubDate" : "Mon, 06 Jun 2022 07:09:41 +0000",
+         "title" : "Elisabeth Paehtz on women in chess"
+      },
+      {
+         "description" : "Vishy Anand regained the sole lead at the Norway Chess Tournament thanks to a victory in Armageddon over former co-leader Magnus Carlsen. The Indian missed a huge chance to defeat the world number one in their classical encounter, but quickly managed to recover from the setback to get an all-important win in the sudden-death decider. Anish Giri and Aryan Tari scored three points by winning their classical games with the white pieces. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r5",
+         "pubDate" : "Mon, 06 Jun 2022 08:00:00 +0100",
+         "title" : "Norway Chess: Anand takes down Carlsen in Armageddon"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-171",
          "pubDate" : "Sun, 05 Jun 2022 18:20:00 +0100",
          "title" : "Eight staircases, two stairwells and a drunken soldier"
-      },
-      {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Sun, 05 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
       },
       {
          "description" : "The Chess Festival of the Serbian Chess Federation took place from 31 May 5 June in Paracin, featuring the 8th Svetozar Gligoric Teams Cup and Serbian Rapid&#38;Blitz Chess Championships 2022.Read more: France crowns Rapid &#38; Blitz Chess Champions 2022 The 8th edition of the Svetozar Gligoric Cup was the first event on the Festival's []",
@@ -146,14 +154,6 @@ news_feed (
          "title" : "2022 Summer Chess Classic: Round 3"
       },
       {
-         "description" : "Round 4 of the Norway Chess tournament was played on Friday. Magnus Carlsen won his classical against Anish Giri, and was awarded three points for his victory. Previously in the sole lead, Viswanathan Anand, playing with Black, had to settle for a draw against Wesley So before losing the Armageddon game. Anand received only one point in this round and is now sharing the lead with Carlsen. Round 5 will be played on Sunday after a rest day. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r4",
-         "pubDate" : "Sat, 04 Jun 2022 21:20:00 +0100",
-         "title" : "Norway Chess: Carlsen climbs to the shared lead"
-      },
-      {
          "description" : "Serbian Chess Federation organizes the International Open Chess Championship of Serbia, called &#8220;Serbia OPEN 2022&#8221; from June 28th &#x2013; July 6th. The event will take place in Novi Sad, Master Centre.Read more: Silver Lake Chess Festival 2022 The 2022 Serbia Chess Open features two events: Masters (for players rated 2100+) and Amateurs (for players rated []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -168,6 +168,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sicilian-experiment-1-e4-c5-2-nf3-nc6-3-bc4",
          "pubDate" : "Sat, 04 Jun 2022 18:00:00 +0100",
          "title" : "Sicilian experiment: 1.e4 c5 2.Nf3 Nc6 3.Bc4?!"
+      },
+      {
+         "description" : "Round 4 of the Norway Chess tournament was played on Friday. Magnus Carlsen won his classical against Anish Giri, and was awarded three points for his victory. Previously in the sole lead, Viswanathan Anand, playing with Black, had to settle for a draw against Wesley So before losing the Armageddon game. Anand received only one point in this round and is now sharing the lead with Carlsen. Round 5 will be played on Sunday after a rest day. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r4",
+         "pubDate" : "Sat, 04 Jun 2022 17:55:00 +0100",
+         "title" : "Norway Chess: Carlsen climbs to the shared lead"
       },
       {
          "description" : "The situation at the top of the leaderboard is beginning to sharpen at the 2022 Norway Chess in Stavanger. The current world champion, GM Magnus Carlsen, announced his intentions to play for the tournament title by winning the second classical g...",
