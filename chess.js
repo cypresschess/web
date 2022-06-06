@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Federation has announced a powerhouse line-up for the 44th Chess Olympiad, which takes place in Chennai, India this summer. The 2016 gold medal winners look set to be the huge favourites to win with their biggest contenders Russia, and possibly China, absent.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/breathtaking-us-team-expected-to-be-favourites-in-chennai",
+         "pubDate" : "Mon, 06 Jun 2022 17:42:41 +0000",
+         "title" : "\"Breathtaking\" US team expected to be favourites in Chennai"
+      },
+      {
+         "description" : "In the Endgame Magic Show #197 Karsten M&uuml;ller is joined by Harald Schneider Zinner. Harald and Karsten look at endgames from the recent round of the German Bundesliga. They start with rook endings and continue with the fight of two minor pieces against a rook. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-197-with-harald-schneider-zinner",
+         "pubDate" : "Mon, 06 Jun 2022 18:30:00 +0100",
+         "title" : "Endgame Magic #197 with Harald Schneider Zinner"
+      },
+      {
+         "description" : "The main event of this year&#39;s Women&#39;s Speed Chess Championship begins on June 13. That means it&#39;s time for another bracket contest! Still free-to-play and featuring cash prizes, we&#39;ve streamlined the prediction system, so keep reading! The prize p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fantasy-bracket-contest-2022-womens-speed-chess-championship",
+         "pubDate" : "Mon, 06 Jun 2022 09:00:00 -0700",
+         "title" : "Your Chance To Predict the 2022 Women's Speed Chess Championship Is Here!"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -366,7 +390,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-trent-kashlinskaya",
-         "pubDate" : "Fri, 03 Jun 2022 14:35:03 -0700",
+         "pubDate" : "Fri, 03 Jun 2022 14:35:00 -0700",
          "title" : "Trent Overcomes Kashlinskaya"
       },
       {
@@ -1554,14 +1578,6 @@ news_feed (
          "title" : "Chessable Masters: Ding knocks out Carlsen, Pragg stuns Giri"
       },
       {
-         "description" : "IM Eric Rosen defeated IM Tania Sachdev in their round of 16 match in the 2022 I&#39;M Not A GM Speed Chess Championship. Suffering only two losses in the entire match, the American streamer flourished in the 3+1 and 1+1 segments especially, with an 1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-rosen-sachdev",
-         "pubDate" : "Tue, 24 May 2022 14:14:15 -0700",
-         "title" : "Rosen Beats Sachdev With 11-Game Streak: 2022 IMSCC, Round Of 16"
-      },
-      {
          "description" : "Magnus Carlsen will return to Chennai, the city where he was first crowned World Champion in 2013, to be part of the 44th Chess Olympiad from July 28 to August 10. The 31-year-old will make his first appearance in a team event for Norway in six years.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/queens-online-chess-festival-2022/",
          "pubDate" : "Tue, 24 May 2022 11:40:21 +0000",
          "title" : "Queens Online Chess Festival 2022"
-      },
-      {
-         "description" : "Anish Giri continued to cruise through the Chessable Masters as he eased past Aryan Tari 2.5:0.5 in the quarterfinals. Magnus Carlsen achieved the same scoreline, but admitted what he did after his 1.f4 in the 3rd game was \"silly\" and could have let David Anton back into the match. Ding Liren (vs. Shakhriyar Mamedyarov) and Praggnanandhaa (vs. Wei Yi) both powered to a 2:0 lead, but then lost Game 3 before drawing Game 4, with Praggnanandhaa surviving some nail-biting moments. We've now got Carlsen-Ding and Giri-Pragg in the semi-finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-5-giri-carlsen-ding-pragg-advance",
-         "pubDate" : "Tue, 24 May 2022 11:07:17 +0000",
-         "title" : "Chessable Masters 5: Giri, Carlsen, Ding & Pragg advance"
       },
       {
          "description" : "The Hamburger Schachklub von 1830 (HSK) is the largest and second oldest German chess club. It is also very active and currently organises two invitational tournaments in Hamburg: a GM tournament and an IM tournament, both featuring promising young players (pictured: Leon Mendonca) and experienced masters. With 3.0/3 GM Vasilios Kotronias from Greece (in the GM tournament) and IM Brandon Clarke from England (in the IM tournament) had the best start. | Photos: Frank Bracker",
@@ -1824,14 +1832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-80-pawn-majorities-4",
          "pubDate" : "Sun, 22 May 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 80: Pawn Majorities (4)"
-      },
-      {
-         "description" : "Another fantastic chess player, who was able to play defensive, aggressive, tactical, strategical, and creative. Boris Spassky has solved some juicy tactics in his games. Also, this is the very first time, that Lawrence and Arne have to face the so-called \"nightmare\" of the ChessBase tactics section. With limited amount of time, they have to solve this beast. Can you solve it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-23",
-         "pubDate" : "Sun, 22 May 2022 14:55:00 +0100",
-         "title" : "Trent's Tactics - Boris Spassky, and a nightmare"
       },
       {
          "description" : " If you are turning 50 years old (or more) this year, then the 2022 Asian Seniors Championship may be of interest to you. It is being held from the 14th to the 22nd of October, in Auckland, New Zealand. It will be a 9 round swiss and apart from an enjoyable week of chess, title and title norms are on offer. I played in 2017 and I highly recommend this event to those who are able to take part. Brief details are available at <a href=\"https://www.newzealandchess.co.nz/calendar.html\">https://www.newzealandchess.co.nz/calendar.html</a> ",
@@ -2096,22 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1767",
          "pubDate" : "Mon, 16 May 2022 21:07:21 +0000",
          "title" : "21st IPCA World Championship 2022: Andrei Obodchuk clinches title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1766",
-         "pubDate" : "Mon, 16 May 2022 17:25:35 +0000",
-         "title" : "Gligoric Trophy 2021: Call for nominations"
-      },
-      {
-         "description" : " <p class=\"lead\">After Karjakin's <a href=\"https://worldchess.com/news/all/gm-sergey-karjakin-is-banned-for-6-months-for-real/\">6-months ban</a> from competitive chess left an open spot for the 2022 Candidates Tournament, the Chinese GM Ding Liren started a successful marathon of rated games in order to be eligible for the tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51132737892_420ff3984c_k.jpg\" width=\"2047\" height=\"1260\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE / Lennart Ootes</div> </div> Invitation of Ding Liren, while officially issued by FIDE, is contingent on Sergey Karjakin's appeal to CAS, the highest court for sports disputes. A",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/ding-liren-makes-it-to-the-2022-candidates/",
-         "pubDate" : "Mon, 16 May 2022 15:31:45 +0000",
-         "title" : "Ding Liren Will Play In 2022 Candidates"
       }
    ]
 }
