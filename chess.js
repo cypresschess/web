@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Football fans, rejoice! If you&#39;ve ever caught yourself squeezing some bullet games in between Super Bowl commercials, we have good news. Chess.com is excited to announce BlitzChamps, an event where NFL stars will compete in a series of rapid games...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-blitzchamps",
+         "pubDate" : "Mon, 06 Jun 2022 11:51:00 -0700",
+         "title" : "Announcing BlitzChamps With NFL Stars Fitzgerald, Thibodeaux, Parsons, And More!"
+      },
+      {
+         "description" : "48 participants of 3100+ ELO are competing in the 3rd edition of the TCEC Swiss. After only the second round, the winner of the League and Cup Stockfish is sole leader. Stockfish has collected 3,5/4, half a point ahead of Berserk, Tucano, Arasan, Stoovflees, KomodoDragon, Minic, Velvet, and Lc0. Round 3 will put []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-takes-the-sole-lead-in-tcec-swiss-after-only-two-rounds/",
+         "pubDate" : "Mon, 06 Jun 2022 18:40:35 +0000",
+         "title" : "Stockfish takes the sole lead in TCEC Swiss after only two rounds"
+      },
+      {
          "description" : "The US Chess Federation has announced a powerhouse line-up for the 44th Chess Olympiad, which takes place in Chennai, India this summer. The 2016 gold medal winners look set to be the huge favourites to win with their biggest contenders Russia, and possibly China, absent.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -336,14 +352,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/norway-chess-4-carlsen-beats-giri-catches-anand",
          "pubDate" : "Sat, 04 Jun 2022 14:56:04 +0000",
          "title" : "Norway Chess 4: Carlsen beats Giri, catches Anand"
-      },
-      {
-         "description" : "The MegaChess set&#160;from RMD Recuperacion Materiales Diversos built from 800 recycled tires was unveiled today in Stavanger's Bjergsted Parken, Norway. The chess pieces are made from recycled car tires, weighing up to 240kg, and sit on the&#160;144 squared meter board &#x2013; the largest chess board in the World. The first move with the giant pieces []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-largest-chess-board-in-the-world-set-in-norway/",
-         "pubDate" : "Sat, 04 Jun 2022 14:37:50 +0000",
-         "title" : "The largest chess board in the World set in Norway"
       },
       {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
@@ -1552,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1787",
          "pubDate" : "Wed, 25 May 2022 08:27:43 +0000",
          "title" : "FIDE World Championship Match 2023 Qualification Rules"
-      },
-      {
-         "description" : "The two-day final of the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters will be played between GMs Ding Liren and&#38;nbsp;Praggnanandhaa R. Both scored upset victories in the semifinals. Ding ousted World Champion GM Magnus Carlsen, and Prag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chessable-masters-semifinals",
-         "pubDate" : "Wed, 25 May 2022 00:31:00 -0700",
-         "title" : "Ding, Praggnanandhaa Reach Final: Chessable Masters, Day 6"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91778163.cms\" />R Praggnanandhaa made it to his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old displayed tremendous skillset and tenacity to defeat Anish Giri in the Chessable Masters semifinal.",
