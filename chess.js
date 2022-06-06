@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-5",
+         "pubDate" : "Mon, 06 Jun 2022 23:09:39 +0000",
+         "title" : "2022 Summer Chess Classic: Round 5"
+      },
+      {
+         "description" : "GM Arjun Erigaisi bested the two-time Junior Speed Chess Champion, GM Nihal Sarin, in the final of the 2022 Junior Speed Chess Championship on Monday. Down two points after the 3|1 blitz, Erigaisi clinched the title with a five-game winning stre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-final-erigaisi-wins",
+         "pubDate" : "Mon, 06 Jun 2022 16:02:20 -0700",
+         "title" : "Erigaisi Dethrones Nihal, Clinches JSCC Crown"
+      },
+      {
+         "description" : "The 6th round of Norway Chess 2022 saw only one classical win today and it was the reigning World Chess Champion Magnus Carlsen who took over Shakhriyar Mamedyarov. Carlsen leaped on the top as the sole leader of the event with 12.5 points, being followed by Anand who scores 11.5 points. The encounter between Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-grabs-the-sole-lead-with-3-rounds-to-go-at-norway-chess-2022/",
+         "pubDate" : "Mon, 06 Jun 2022 22:59:39 +0000",
+         "title" : "Carlsen grabs the sole lead with 3 rounds to go at Norway Chess"
+      },
+      {
+         "description" : "The second leg of the MPL Indian Chess Tour, sponsored by the Play Magnus Group, took place on June 2-6 as a 16-player single round-robin. Aravindh Chithambaram and Nihal Sarin finished in shared first place on 32/45 points - the football scoring system was in place - but Aravindh scored a higher number of wins, which granted him tournament victory. This win earned Aravindh a spot in the next event of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aravindh-wins-mpl-indian-tour-leg-2",
+         "pubDate" : "Mon, 06 Jun 2022 23:30:00 +0100",
+         "title" : "Aravindh Chithambaram wins second leg of the MPL Indian Tour"
+      },
+      {
+         "description" : "The reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, defeated IM Irene Sukandar&#38;nbsp;in the&#38;nbsp;2022 IM Not A GM Speed Chess Championship on Monday. Though the players scored evenly in the first blitz segment, as the time controls ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-assaubayeva-sukandar",
+         "pubDate" : "Mon, 06 Jun 2022 14:03:25 -0700",
+         "title" : "Assaubayeva's Bullet Clarity Prevails Over Sukandar"
+      },
+      {
          "description" : "Football fans, rejoice! If you&#39;ve ever caught yourself squeezing some bullet games in between Super Bowl commercials, we have good news. Chess.com is excited to announce BlitzChamps, an event where NFL stars will compete in a series of rapid games...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,6 +202,14 @@ news_feed (
          "title" : "Bloxwich Juniors return"
       },
       {
+         "description" : "One of the prerequisites for playing chess well is to have a decent feel for the geometry of the board. In today's column, GM Jon Speelman explores this theme through a couple of somewhat unusual patterns - the staircase and the stairwell. He also looks at a game by Will Watson, a player once described by Boris Spassky as \"a drunk with a machine gun\". | Pictured: 'Relativity' by M. C. Escher",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-171",
+         "pubDate" : "Mon, 06 Jun 2022 08:20:00 +0100",
+         "title" : "Eight staircases, two stairwells and a drunken soldier"
+      },
+      {
          "description" : " <p class=\"lead\">In an <a href=\"https://www.youtube.com/watch?v=wKwWbFFxYJc&ab_channel=WorldChess\">exclusive interview</a> with World Chess, IM and WGM Elisabeth Paehtz talked about her positive experience as a female professional player in Germany over the past 4 years and acknowledged that everything is pointing in the direction that things are going to improve even more for women in chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/68818744_1277763945754649_8886703809812758528_n.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anastasiya Karlovych</div> </div> Being a national player since 1998, Elisabeth Paehtz has witnessed",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -200,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-petr-neuman-wins-vera-menchik-memorial-2022/",
          "pubDate" : "Sun, 05 Jun 2022 22:08:00 +0000",
          "title" : "GM Petr Neuman wins Vera Menchik Memorial 2022"
-      },
-      {
-         "description" : "One of the prerequisites for playing chess well is to have a decent feel for the geometry of the board. In today's column, GM Jon Speelman explores this theme through a couple of somewhat unusual patterns - the staircase and the stairwell. He also looks at a game by Will Watson, a player once described by Boris Spassky as \"a drunk with a machine gun\". | Pictured: 'Relativity' by M. C. Escher",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-171",
-         "pubDate" : "Sun, 05 Jun 2022 18:20:00 +0100",
-         "title" : "Eight staircases, two stairwells and a drunken soldier"
       },
       {
          "description" : "The Chess Festival of the Serbian Chess Federation took place from 31 May 5 June in Paracin, featuring the 8th Svetozar Gligoric Teams Cup and Serbian Rapid&#38;Blitz Chess Championships 2022.Read more: France crowns Rapid &#38; Blitz Chess Champions 2022 The 8th edition of the Svetozar Gligoric Cup was the first event on the Festival's []",
@@ -312,14 +352,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-3",
          "pubDate" : "Sat, 04 Jun 2022 23:07:31 +0000",
          "title" : "2022 Summer Chess Classic: Round 3"
-      },
-      {
-         "description" : "Serbian Chess Federation organizes the International Open Chess Championship of Serbia, called &#8220;Serbia OPEN 2022&#8221; from June 28th &#x2013; July 6th. The event will take place in Novi Sad, Master Centre.Read more: Silver Lake Chess Festival 2022 The 2022 Serbia Chess Open features two events: Masters (for players rated 2100+) and Amateurs (for players rated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbia-chess-open-2022/",
-         "pubDate" : "Sat, 04 Jun 2022 18:41:55 +0000",
-         "title" : "Serbia Chess Open 2022"
       },
       {
          "description" : "At the Tata Steel Masters 2022 Jorden van Foreest got the opportunity to conduct a long-planned opening experiment: In the Sicilian with 2.Nc6 he surprised his opponent Praggnanandhaa with 3.Bc4?! \"Finally, here it was. There aren't all that many good reasons for why I like the move, the main probably being the fact that it looks so stupid :-)\", writes the young Dutchman at the beginning of his analysis in the new CBM Extra #207. And the game continued no less exceptionally: after 3...e6 4.0-0 d5 5.Bb5! dxe4 6.Ne5 Qc7 7.Nxc6 bxc6 8.Bc4! White hast lost a pawn and moved his bishop three times in the opening! In the end, with a bit of luck, Van Foreest still won the game. It's \"The brillancy\" ",
@@ -552,14 +584,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-7-lichessorg",
          "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
          "title" : "2022 Summer Chess Classic: Round 7 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-8-lichessorg",
-         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
-         "title" : "2022 Summer Chess Classic: Round 8 | lichess.org"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "Unbeatable!: The Art of Defense"
       },
       {
-         "description" : "&#38;nbsp;WGM Vantika Agrawal won the first qualifier of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship. She defeated WGM Annamaria Marjanovic in a thrilling final bullet tiebreaker. IM Gulnar Mammadova won the Swiss tournament on the previo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-qualifier-1-agrawal-wins",
-         "pubDate" : "Wed, 25 May 2022 15:11:39 -0700",
-         "title" : "Agrawal Wins Knockout: 2022 FIDE Chess.com WSCC, Qualifier 1"
-      },
-      {
          "description" : "Anatoly Karpov, born 23 May, 1951, is one of the strongest players in the history of chess. He was World Champion from 1975 to 1985, finished first in 160 strong tournaments, and was the world's number one for 102 months. However, he seemed to win many of his games without much effort, without striking moves or crushing attacks. But he had a secret weapon - which Jan Markos analyses in more detail. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-517-levon-aronian-vs-vishy-anand",
          "pubDate" : "Wed, 25 May 2022 18:00:00 +0100",
          "title" : "Game of the Week #517: Levon Aronian vs Vishy Anand"
-      },
-      {
-         "description" : "Titled Tuesday belonged to the Americans on May 24, the early edition won by GM Dariusz Swiercz and the late tournament by GM Hikaru Nakamura. It was Swiercz&#39;s first-ever win in the event and Nakamura&#39;s first since May 3. Nakamura was the only pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/swiercz-nakamura-win-titled-tuesday-may-24-2022",
-         "pubDate" : "Wed, 25 May 2022 09:21:03 -0700",
-         "title" : "Swiercz, Nakamura Win May 24 Titled Tuesday"
       },
       {
          "description" : " <p class=\"lead\">On May 30, the Indian superstar and FIDE Online Arena Ambassador Vidit Gujrathi will play and stream the <a href=\"https://chessarena.com/tournaments/18066\">2nd Open Arena Tournament</a> on Arena, and the winner will receive a pocket chess set signed by Vidit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-139.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> The <a href=\"https://chessarena.com/tournaments/17311?fbclid=IwAR27RvkM9QeJdUIMrF4PbYen2F1yU23CkOOcG3lTEq0agEL6rnmz5ibpf3Q\">first Open Arena Tournament</a> with GM Vidit Gujrathi attracted 1520 players from 90 countries. The Indian GM not only played but made sure to entertnain his audie",
@@ -1826,14 +1834,6 @@ news_feed (
          "title" : "Mr. Sheripov announces his candidacy for FIDE President"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 80th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-80-pawn-majorities-4",
-         "pubDate" : "Sun, 22 May 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 80: Pawn Majorities (4)"
-      },
-      {
          "description" : " If you are turning 50 years old (or more) this year, then the 2022 Asian Seniors Championship may be of interest to you. It is being held from the 14th to the 22nd of October, in Auckland, New Zealand. It will be a 9 round swiss and apart from an enjoyable week of chess, title and title norms are on offer. I played in 2017 and I highly recommend this event to those who are able to take part. Brief details are available at <a href=\"https://www.newzealandchess.co.nz/calendar.html\">https://www.newzealandchess.co.nz/calendar.html</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/",
          "pubDate" : "Tue, 17 May 2022 07:25:31 +0000",
          "title" : "ECU General Assembly 2022 - Thessaloniki, Greece 23 July"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1767",
-         "pubDate" : "Mon, 16 May 2022 21:07:21 +0000",
-         "title" : "21st IPCA World Championship 2022: Andrei Obodchuk clinches title"
       }
    ]
 }
