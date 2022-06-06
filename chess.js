@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92038186.cms\" />Top-seed Farrukh Amonatov of Tajikistan posted a 43-move win over Russian Boris Savchenko to take his tally to 7.5 points and shoot into the lead after the ninth round of the inaugural Maharashtra International Open Grandmaster chess tournament on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/maharashtra-open-chess-top-seed-amonatov-jumps-into-lead/articleshow/92038186.cms",
+         "pubDate" : "Mon, 06 Jun 2022 11:03:47 +0000",
+         "title" : "Maharashtra Open chess: Top-seed Amonatov jumps into lead"
+      },
+      {
+         "description" : "The 79th Georgian Women's Chess Championship takes place from 6-15 June in the Georgian Chess Palace in Tbilisi.Read more: Chess will be a compulsory subject in 2200 Georgian schools The event will be played as a 10-players round-robin tournament with time control: 90 minutes for 40 moves + 30 minutes till the end of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/79th-georgian-womens-chess-championship/",
+         "pubDate" : "Mon, 06 Jun 2022 10:30:43 +0000",
+         "title" : "79th Georgian Women's Chess Championship"
+      },
+      {
+         "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 will be held from 24th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. Federations participating in the event are as follows (alphabetical order): Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/4th-esna-european-small-nations-individual-chess-championship-2022/",
+         "pubDate" : "Mon, 06 Jun 2022 10:00:47 +0000",
+         "title" : "4th ESNA European Small Nations Individual Chess Championship 2022"
+      },
+      {
+         "description" : "Vishy Anand took the sole lead in Norway Chess after beating Magnus Carlsen in Armageddon, but the 52-year-old was upset that he'd outplayed the current World Champion in classical chess only to let a winning position slip. Vishy leads Magnus by half a point, with Wesley So and Shakhriyar Mamedyarov a further point back after Shakh won a spectacular Armageddon. Anish Giri and Aryan Tari scored the day's only classical wins to boost their tournament standings.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-5-anand-says-beating-carlsen-in-armageddon-feels-like-a-defeat",
+         "pubDate" : "Mon, 06 Jun 2022 09:59:40 +0000",
+         "title" : "Norway Chess 5: Anand says beating Carlsen in Armageddon \"feels like a defeat\""
+      },
+      {
+         "description" : "Bloxwich Junior Chess Academy and Club return on Saturday 11th June 2022 at 9.45am to celebrate their 12th Birthday with a chess match from 10.00am...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bloxwich-juniors-return/",
+         "pubDate" : "Mon, 06 Jun 2022 08:25:32 +0000",
+         "title" : "Bloxwich Juniors return"
+      },
+      {
          "description" : " <p class=\"lead\">In an <a href=\"https://www.youtube.com/watch?v=wKwWbFFxYJc&ab_channel=WorldChess\">exclusive interview</a> with World Chess, IM and WGM Elisabeth Paehtz talked about her positive experience as a female professional player in Germany over the past 4 years and acknowledged that everything is pointing in the direction that things are going to improve even more for women in chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/68818744_1277763945754649_8886703809812758528_n.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anastasiya Karlovych</div> </div> Being a national player since 1998, Elisabeth Paehtz has witnessed",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -264,22 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-trent-kashlinskaya",
          "pubDate" : "Fri, 03 Jun 2022 14:35:03 -0700",
          "title" : "Trent Overcomes Kashlinskaya"
-      },
-      {
-         "description" : "Reigning World Chess Champion Magnus Carlsen started slowly at the 2022 Norway Chess, but made a full comeback with two consecutive classical victories. Vishy today lost in Armageddon game against Wesley So to reach 8.5 points and go to the resting day sharing the leadership with Magnus Carlsen. Standings after 4 rounds: 1 &#160;Anand, Viswanathan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-joins-anand-in-the-lead-of-norway-chess-2022/",
-         "pubDate" : "Fri, 03 Jun 2022 21:34:04 +0000",
-         "title" : "Magnus joins Anand in the lead of Norway Chess 2022"
-      },
-      {
-         "description" : "The Norway Chess Open 2022 kicked off today in Stavanger, taking place from 3-10 June in SR-bank&#x2019;s old building, located between Stavanger Concert Hall and Finansparken, where the Norway Chess super-tournament is being played simultaneously. The event is divided into two groups, master class and ELO class, with the Indian prodigy Praggnanandhaa R. heading the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norway-chess-open-2022-kicked-off-in-stavanger/",
-         "pubDate" : "Fri, 03 Jun 2022 21:22:44 +0000",
-         "title" : "Norway Chess Open 2022 kicked off in Stavanger"
       },
       {
          "description" : "Leon Mendonca recently won the HSK GM Invitational tournament, with 7 out of 9. Lawrence Trent played in the very same tournament, and reached the 50% mark, with 4.5 out of 9. Their game ended in a draw. Since Leon was still in Hamburg, we managed to have a Trent's Tactics show together. Maybe Lawrence, and Arne, thanks to Leon, finally went beyond the ChessBase tactics training rating of 2500? But, perhaps it was actually a huge challenge? Watch the video to find out how it went.",
@@ -1650,14 +1674,6 @@ news_feed (
          "title" : "India's Praggnanandhaa sails into semis of Chessable Masters"
       },
       {
-         "description" : "Jan-Krzysztof Duda won a last-round thriller to end the Superbet Rapid &amp; Blitz just half a point ahead of Levon Aronian and Vishy Anand. The Polish no. 1 said it had \"special value\" to win on his home turf, and was the most consistent player across both the rapid and blitz. Vishy faded in blitz but still almost tied for first after winning his last two games, while Fabiano Caruana (+10!) and Levon Aronian (an unbeaten +9) had amazing blitz performances, with Levon set to be the blitz no. 1 on the June FIDE rating list.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/duda-wins-superbet-rapid-blitz-in-warsaw",
-         "pubDate" : "Mon, 23 May 2022 23:05:18 +0000",
-         "title" : "Duda wins Superbet Rapid & Blitz in Warsaw"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91750353.cms\" />Former world champion Viswanathan Anand had a moderate run on the second day of the Blitz section to finish overall joint second in the Superbet Rapid and Blitz Poland chess tournament on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1760,14 +1776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1781",
          "pubDate" : "Sun, 22 May 2022 20:58:44 +0000",
          "title" : "Giri tops leaderboard as Chessable Masters heads into KO stage"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91728691.cms\" />Veteran Indian Grandmaster Viswanathan Anand had a mixed outing in the blitz section of the Superbet Rapid and Blitz Poland chess tournament on Sunday, winning three matches while drawing four and losing two.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-poland-chess-tournament-mixed-result-for-anand-on-day-1-of-blitz/articleshow/91728691.cms",
-         "pubDate" : "Sun, 22 May 2022 18:01:11 +0000",
-         "title" : "Superbet Poland chess tournament: Mixed result for Anand on Day 1 of Blitz"
       },
       {
          "description" : "",
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-in-prisons-update-from-carl-portman/",
          "pubDate" : "Mon, 16 May 2022 11:33:57 +0000",
          "title" : "Chess in prisons update - from Carl Portman"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1757",
-         "pubDate" : "Mon, 16 May 2022 10:00:07 +0000",
-         "title" : "2022 1st FIDE Council meeting - decisions for FC"
       }
    ]
 }
