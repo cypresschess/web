@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Togo is a country of some eight million with a growing chess-playing segment. With its Founder and President on hand to welcome the players and guests, the Togo Chess Federation also had Dr. Lieutenant-Colonel Lidi Bessi-Kama bless the event. FIDE Presidential candidate Noel Enyonam Fumey was also in the building and welcomed the participants to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/\">Togolese Chess on fire at Rapid/Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/",
+         "pubDate" : "Tue, 07 Jun 2022 19:37:27 +0000",
+         "title" : "Togolese Chess on fire at Rapid/Blitz!"
+      },
+      {
+         "description" : "The FIDE Congress will be held in Chennai, India between&#xA0;31 July 2022 and 09 August 2022 as part of the Chess Olympiad 2022 (see all Olympiad news here).&#xA0;Part of it is the FIDE General Assembly, where on the agenda are the FIDE elections. A total of five presidential candidates tried to complete the requirements for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ukraine-vs-russia-in-fide-chess-elections-2022/",
+         "pubDate" : "Tue, 07 Jun 2022 18:27:08 +0000",
+         "title" : "Ukraine vs Russia in FIDE Chess Elections 2022 (updated)"
+      },
+      {
+         "description" : "Alexander Nikitin passed away on June 5, at the age of 87. A strong International Master himself, Nikitin was one of the most distinguished chess coaches in history. Among others, he trained Dmitry Jakovenko, Etienne Bacrot and 13th world champion Garry Kasparov. GM Emil Sutovsky wrote an obituary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alexander-nikitin-obituary",
+         "pubDate" : "Tue, 07 Jun 2022 19:00:00 +0100",
+         "title" : "Alexander Nikitin (1935-2022)"
+      },
+      {
+         "description" : "The first-ever Chess Olympiad Torch Relay will be carried out at the 44th Chess Olympiad 2022 in Chennai, India as FIDE today announced a new tradition of institutionalizing the Chess Olympiad Torch Relay. With 50 days to go, the Olympiad in Chennai broke participants records with&#160;187 countries already enrolled.&#160; &#8220;Starting from the 44th Chess Olympiad []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/torch-relay-for-the-first-time-ever-in-chess-olympiad/",
+         "pubDate" : "Tue, 07 Jun 2022 17:58:48 +0000",
+         "title" : "Torch Relay for the first time ever in Chess Olympiad"
+      },
+      {
+         "description" : " <p class=\"lead\">In the first six rounds of the super tournament in Stavanger, Magnus Carlsen scored 4.5 points. He once again hit the 2,870-point rating mark. The highest rating the World Chess Champion had was back in August 2019, when he was at 2882. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-06-07_15-55-56.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> The world champion maintains the impressive 39 games streak undefeated in classical time control, with 19 wins and 19 draws. <a href=\"https://chessarena.com/broadcasts/17645?utm_source=news&utm_medium=website&utm_campaign=Norway&utm_content=watch\" class=\"wchess_button\">Watch the broadcast!</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-scores-2-870-points-again/",
+         "pubDate" : "Tue, 07 Jun 2022 16:37:21 +0000",
+         "title" : "Magnus Carlsen Hits 2870 ELO Rating Again"
+      },
+      {
          "description" : "Entries have re-opened for the ECF Girls' National Schools semi-finals on October 9th in the South and November 20th in the North. Entries may be...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -200,22 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-bodycheck",
          "pubDate" : "Tue, 07 Jun 2022 09:00:00 +0100",
          "title" : "The bodycheck"
-      },
-      {
-         "description" : "Las Vegas Chess Festival 2022&#xA0;is taking place 8-12 June. It includes the National Open, the US Women&#x2019;s Open, International Youth Championship and many side events. Live games will be daily on Chessdom.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/las-vegas-chess-2022-live/",
-         "pubDate" : "Tue, 07 Jun 2022 07:59:21 +0000",
-         "title" : "Las Vegas Chess 2022 LIVE"
-      },
-      {
-         "description" : "Las Vegas Chess Festival 2022 is taking place 8-12 June. It includes the National Open, the US Women's Open, International Youth Championship and many side events. Live games from Las Vegas Chess 2022 here The National Open The National Open is a 7 round (9 rounds for the Open Section) Swiss System tournament, and you []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/las-vegas-chess-festival-2022/",
-         "pubDate" : "Tue, 07 Jun 2022 07:46:20 +0000",
-         "title" : "Las Vegas Chess Festival 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92051165.cms\" />The classical match ended in a draw after which the Armageddon ended in stalemate early on Tuesday to leave Anand on 11.5 points and in second place. World champion Magnus Carlsen (12.5 points) roared to the top spot with a victory over Shakhriyar Mamedyarov.",
@@ -1840,14 +1864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-pragg-gukesh-2",
          "pubDate" : "Mon, 23 May 2022 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: \"From Ukraine With Love For Chess\""
-      },
-      {
-         "description" : "At the FIDE Congress during the upcoming Chess Olympiad in Chennai, the elections for the FIDE Presidium are on the agenda. Arkady Dvorkovich is standing for re-election and is supported by Viswanathan Anand. In view of the candidacy of the Russian President, the election has a strong political colour. Now a Ukrainian, GM Andrii Baryshpolets, has announced his candidacy. | Photo: US Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ukrainian-gm-andrii-baryshpolets-is-running-for-fide-president",
-         "pubDate" : "Mon, 23 May 2022 16:00:00 +0100",
-         "title" : "Ukrainian GM Andrii Baryshpolets is running for FIDE President"
       },
       {
          "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
