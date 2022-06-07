@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 7th round of Norway Chess 2022 brought interesting matches that finished with two decisive games with classical time control and three Armageddons. Magnus Carlsen maintained the sole lead in the event despite a loss he suffered against his compatriot Aryan Tari. There are only two rounds left to be played and the players will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-loses-to-tari-but-maintains-the-sole-lead-in-norway-chess-2022/",
+         "pubDate" : "Tue, 07 Jun 2022 21:45:46 +0000",
+         "title" : "Carlsen loses to Tari but maintains the sole lead in Norway Chess 2022"
+      },
+      {
          "description" : " Togo is a country of some eight million with a growing chess-playing segment. With its Founder and President on hand to welcome the players and guests, the Togo Chess Federation also had Dr. Lieutenant-Colonel Lidi Bessi-Kama bless the event. FIDE Presidential candidate Noel Enyonam Fumey was also in the building and welcomed the participants to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/\">Togolese Chess on fire at Rapid/Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -138,7 +146,7 @@ news_feed (
          "title" : "Carlsen Wins, Leads, Hits A 2870 Live Rating"
       },
       {
-         "description" : "World Champion Magnus Carlsen scores a #TweetOftheDay with a direct call for support for Andrii Baryshpolets and his deputy Peter Heine Nielsen. More on the Baryshpolets campaign:&#xA0;Interview with Andrii Baryshpolets&#xA0;/&#xA0;Andrii Baryshpolets announces his candidacy&#xA0;/&#xA0;Andrii Baryshpolets on Twitter&#xA0;/&#xA0;All articles on Andrii Baryshpolets here&#xA0;More on the Dvorkovich campaign:&#xA0;Dvorkovich announces his team with Anand on board&#xA0;/&#xA0;Dvorkovich #SayChess hashtag []",
+         "description" : "World Champion Magnus Carlsen scores a #TweetOftheDay with a direct call for support for Andrii Baryshpolets and his deputy Peter Heine Nielsen. More on the Baryshpolets campaign:&#160;Interview with Andrii Baryshpolets&#160;/&#160;Andrii Baryshpolets announces his candidacy&#160;/&#160;Andrii Baryshpolets on Twitter&#160;/&#160;All articles on Andrii Baryshpolets here&#160;More on the Dvorkovich campaign:&#160;Dvorkovich announces his team with Anand on board&#160;/&#160;Dvorkovich #SayChess hashtag []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carlsen-call-to-action-for-the-baryshpolets-nielsen-fide-election-bid-tweetoftheday/",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/prague-chess-2022-opening-ceremony-and-information/",
          "pubDate" : "Tue, 07 Jun 2022 08:12:33 +0000",
          "title" : "Prague Chess 2022 opening ceremony and information"
-      },
-      {
-         "description" : "After a one-year break, the closed tournament Challengers is coming back. The winner shall receive not only a trophy and a cash prize but also the right to attend the prestigious Masters tournament in the following year. The fight of currently eight participants for the valuable prizes will be joined by the current Dutch champion []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-chess-2022-challengers-live/",
-         "pubDate" : "Tue, 07 Jun 2022 08:08:40 +0000",
-         "title" : "Prague Chess 2022 Challengers LIVE"
       },
       {
          "description" : "The bodycheck is the most important motif in the endgame rook against pawn, which will sooner or later arise from the position shown in the diagram. In the actual game White did not find the correct defense and lost. Can you do better? White to move and draw!",
