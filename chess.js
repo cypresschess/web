@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With an impressive win in the classical game against Shakhriyar Mamedyarov, Magnus Carlsen grabbed the sole lead at the Norway Chess Tournament. After six rounds, Carlsen has collected 12&frac12; points, one more than second-placed Vishy Anand, who on Monday won with black in Armageddon against Anish Giri. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r6",
+         "pubDate" : "Tue, 07 Jun 2022 13:00:00 +0100",
+         "title" : "Norway Chess: Carlsen grabs the lead"
+      },
+      {
+         "description" : "A host city of two Chess Olympiads, Thessaloniki will now be the center of European chess attention this summer. Between July 11 and July 23 after the Candidates Chess 2022 and right before the Chess Olympiad 2022 the biggest northern Greek city is going to host three events the European Youth Team []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/thessaloniki-will-be-the-center-of-european-chess-this-summer/",
+         "pubDate" : "Tue, 07 Jun 2022 11:09:19 +0000",
+         "title" : "Thessaloniki will be the center of European chess this summer"
+      },
+      {
+         "description" : "Magnus Carlsen played a game packed with pawn sacrifices to defeat Shakhriyar Mamedyarov in classical chess and take the sole lead with three rounds of Norway Chess 2022 to go. All the other matches went to Armageddon, with Anish Giri quipping \"I'm too old for these quick Armageddon games\" as he lost to 52-year-old Vishy Anand, who is just one point behind Magnus. There were also wins for Wesley So, Maxime Vachier-Lagrave and Veselin Topalov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-6-magnus-hits-the-front-crosses-2870",
+         "pubDate" : "Tue, 07 Jun 2022 09:54:32 +0000",
+         "title" : "Norway Chess 6: Magnus hits the front, crosses 2870"
+      },
+      {
+         "description" : "The arbiter appointments for the Chennai Olympiad have been announced at&#160;https://arbiters.fide.com/news/7464. There is a relevant article at&#160;https://www.fide.com/news/1801. There are 22 International and FIDE Arbiters, and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/arbiter-appointments-for-the-chennai-olympiad/",
+         "pubDate" : "Tue, 07 Jun 2022 08:56:26 +0000",
+         "title" : "Arbiter appointments for the Chennai Olympiad"
+      },
+      {
+         "description" : " <p class=\"lead\">Post-game express analysis and key moments feature is now available for all games on FIDE Online Arena FIDE Online Arena, the Official FIDE Gaming platform, has released the express analysis and key moments feature. The new feature allows chess players to view a professional analysis immediately after their game. The analysis feature, which is free, includes a per-move scale with indication of dynamic advantage, giving players an opportunity to go through their game move by move and see where they made a blunder or an excellent move. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/8SIdaTyx-Nk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscr",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-online-arena-unveils-free-analysis-and-key-moments-feature/",
+         "pubDate" : "Tue, 07 Jun 2022 08:48:53 +0000",
+         "title" : "FIDE Online Arena Unveils Free Analysis and Key Moments Feature"
+      },
+      {
+         "description" : "In&#xA0;an&#xA0;exclusive interview&#xA0;with World Chess, IM and&#xA0;WGM Elisabeth Paehtz talked about her positive experience as&#xA0;a&#xA0;female professional player in&#xA0;Germany over the&#xA0;past 4 years and&#xA0;acknowledged that everything is pointing in&#xA0;the&#xA0;direction that things are going to&#xA0;improve even more for&#xA0;women in&#xA0;chess. Elisabeth Paehtz is heading the German National team for the Chess Olympiad 2022",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elisabeth-paehtz-i-want-to-qualify-for-the-candidates-chess/",
+         "pubDate" : "Tue, 07 Jun 2022 08:43:55 +0000",
+         "title" : "Elisabeth Paehtz, \"I want to qualify for the Candidates Chess\""
+      },
+      {
+         "description" : "Now: Prague Chess Festival 2022 Live:&#xA0;Prague Chess 2022 Masters&#xA0;and&#xA0;Prague Chess 2022 Challengers Intense human stories related to Ukraine can be heard also at the Prague International Chess Festival. For example,&#xA0;Timofey Bokhnak&#xA0;who lives and plays chess in P&#x159;erov is looking forward to attending the tournament held from 7th to 17th June 2022 in Hotel Don Giovanni []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/timofey-bokhnak-has-a-future-in-chess/",
+         "pubDate" : "Tue, 07 Jun 2022 08:31:58 +0000",
+         "title" : "Timofey Bokhnak has a future in chess"
+      },
+      {
+         "description" : "The&#xA0;Prague Chess Festival 2022&#xA0;will take place 7-17 June. It will consist of a Masters 10 player round robin event, Challengers and Futures tournaments. The tournament will be live daily on Chessdom.com with detailed coverage and reports. Live: Prague Chess 2022 Masters and Prague Chess 2022 Challengers",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-chess-2022-live/",
+         "pubDate" : "Tue, 07 Jun 2022 08:15:36 +0000",
+         "title" : "Prague Chess 2022 LIVE"
+      },
+      {
+         "description" : "The starter problem is attached below. White, playing up the board, is to play and force mate in two moves against any Black defence. There...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championships-2022-2023/",
+         "pubDate" : "Tue, 07 Jun 2022 08:13:24 +0000",
+         "title" : "Winton British Chess Solving Championships 2022-2023"
+      },
+      {
+         "description" : "The&#xA0;Prague Chess Festival 2022&#xA0;will take place 7-17 June. It will consist of a Masters 10 player round robin event, Challengers and Futures tournaments. Live: Prague Chess 2022 Masters and Prague Chess 2022 Challengers The opening ceremony of the 4th year of the Prague International Chess Festival is going to be held in a Prague four-star []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-chess-2022-opening-ceremony-and-information/",
+         "pubDate" : "Tue, 07 Jun 2022 08:12:33 +0000",
+         "title" : "Prague Chess 2022 opening ceremony and information"
+      },
+      {
+         "description" : "After a one-year break, the closed tournament Challengers is coming back. The winner shall receive not only a trophy and a cash prize but also the right to attend the prestigious Masters tournament in the following year. The fight of currently eight participants for the valuable prizes will be joined by the current Dutch champion []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-chess-2022-challengers-live/",
+         "pubDate" : "Tue, 07 Jun 2022 08:08:40 +0000",
+         "title" : "Prague Chess 2022 Challengers LIVE"
+      },
+      {
          "description" : "The bodycheck is the most important motif in the endgame rook against pawn, which will sooner or later arise from the position shown in the diagram. In the actual game White did not find the correct defense and lost. Can you do better? White to move and draw!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,36 +98,36 @@ news_feed (
          "title" : "The bodycheck"
       },
       {
+         "description" : "Las Vegas Chess Festival 2022&#xA0;is taking place 8-12 June. It includes the National Open, the US Women&#x2019;s Open, International Youth Championship and many side events. Live games will be daily on Chessdom.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/las-vegas-chess-2022-live/",
+         "pubDate" : "Tue, 07 Jun 2022 07:59:21 +0000",
+         "title" : "Las Vegas Chess 2022 LIVE"
+      },
+      {
+         "description" : "Las Vegas Chess Festival 2022 is taking place 8-12 June. It includes the National Open, the US Women's Open, International Youth Championship and many side events. Live games from Las Vegas Chess 2022 here The National Open The National Open is a 7 round (9 rounds for the Open Section) Swiss System tournament, and you []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/las-vegas-chess-festival-2022/",
+         "pubDate" : "Tue, 07 Jun 2022 07:46:20 +0000",
+         "title" : "Las Vegas Chess Festival 2022"
+      },
+      {
+         "description" : "To eat the opponent's piece has a whole new meaning on this delicious chess cake board!",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-cake-delicious-tweetoftheday/",
+         "pubDate" : "Tue, 07 Jun 2022 07:34:01 +0000",
+         "title" : "Chess cake! Delicious! #TweetOftheDay"
+      },
+      {
          "description" : "I Torneio de Xadrez de Sales Oliveira Memorial J&#xFA;lia Graton Squarizi is going to take place 7-12 June in Brazil. The tournament is a ten player round robin with GM Neuris Ramirez Delgado, GM Luis Paulo Supi, GM Alexandr Fier, GM Andre Diamant, GM Darcy Lima, IM Lucas Coro, IM Jose Daniel Gemy, IM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/memorial-julia-graton-squarizi/",
          "pubDate" : "Tue, 07 Jun 2022 07:21:01 +0000",
          "title" : "Memorial J&uacute;lia Graton Squarizi"
-      },
-      {
-         "description" : "50 days remain to the start of the&#xA0;Chess Olympiad 2022. A week ago the Olympiad in Chennai broke records with&#xA0;187 countries already enrolled.&#xA0;The Arbiters&#x2019; Team that will officiate in the 44th Chess Olympiad in Chennai, India 2022, has been selected. Arbiters below have been invited and accepted their nomination. The list is mostly reusing the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arbiters-for-the-chess-olympiad-2022/",
-         "pubDate" : "Tue, 07 Jun 2022 06:42:37 +0000",
-         "title" : "Arbiters for the Chess Olympiad 2022"
-      },
-      {
-         "description" : "Officiating in a FIDE event is a milestone in an Arbiter&#x2019;s life. It takes many steps to gain experience from the very beginning of one&#x2019;s career until the&#160;FIDE Arbiter&#160;(FA) and&#160;International Arbiter&#160;(IA) titles which make colleagues eligible for selection in world competitions. No more than 20 official FIDE events are organized each year, while there are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/selection-of-fide-chess-arbiters/",
-         "pubDate" : "Tue, 07 Jun 2022 06:38:27 +0000",
-         "title" : "Selection of FIDE Chess Arbiters"
-      },
-      {
-         "description" : "50 days remain to the start of the Chess Olympiad 2022. A week ago the Olympiad in Chennai broke records with 187 countries already enrolled. There is a solid buildup to the event, which will be the 16th Olympiad for Zhaoqin Peng, the first in 16 years for Vasif Durarbayli, and a pure delight for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50-days-to-the-chess-olympiad-in-chennai/",
-         "pubDate" : "Tue, 07 Jun 2022 06:33:58 +0000",
-         "title" : "50 days to the Chess Olympiad in Chennai"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92051165.cms\" />The classical match ended in a draw after which the Armageddon ended in stalemate early on Tuesday to leave Anand on 11.5 points and in second place. World champion Magnus Carlsen (12.5 points) roared to the top spot with a victory over Shakhriyar Mamedyarov.",
@@ -66,14 +154,6 @@ news_feed (
          "title" : "Erigaisi Dethrones Nihal, Clinches JSCC Crown"
       },
       {
-         "description" : "The 6th round of Norway Chess 2022 saw only one classical win today and it was the reigning World Chess Champion Magnus Carlsen who took over Shakhriyar Mamedyarov. Carlsen leaped on the top as the sole leader of the event with 12.5 points, being followed by Anand who scores 11.5 points. The encounter between Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-grabs-the-sole-lead-with-3-rounds-to-go-at-norway-chess-2022/",
-         "pubDate" : "Mon, 06 Jun 2022 22:59:39 +0000",
-         "title" : "Carlsen grabs the sole lead with 3 rounds to go at Norway Chess"
-      },
-      {
          "description" : "The second leg of the MPL Indian Chess Tour, sponsored by the Play Magnus Group, took place on June 2-6 as a 16-player single round-robin. Aravindh Chithambaram and Nihal Sarin finished in shared first place on 32/45 points - the football scoring system was in place - but Aravindh scored a higher number of wins, which granted him tournament victory. This win earned Aravindh a spot in the next event of the Meltwater Champions Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +178,6 @@ news_feed (
          "title" : "Announcing BlitzChamps With NFL Stars Fitzgerald, Thibodeaux, Parsons, And More!"
       },
       {
-         "description" : "48 participants of 3100+ ELO are competing in the 3rd edition of the TCEC Swiss. After only the second round, the winner of the League and Cup Stockfish is sole leader. Stockfish has collected 3,5/4, half a point ahead of Berserk, Tucano, Arasan, Stoovflees, KomodoDragon, Minic, Velvet, and Lc0. Round 3 will put []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-takes-the-sole-lead-in-tcec-swiss-after-only-two-rounds/",
-         "pubDate" : "Mon, 06 Jun 2022 18:40:35 +0000",
-         "title" : "Stockfish takes the sole lead in TCEC Swiss after only two rounds"
-      },
-      {
          "description" : "The US Chess Federation has announced a powerhouse line-up for the 44th Chess Olympiad, which takes place in Chennai, India this summer. The 2016 gold medal winners look set to be the huge favourites to win with their biggest contenders Russia, and possibly China, absent.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -128,22 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fantasy-bracket-contest-2022-womens-speed-chess-championship",
          "pubDate" : "Mon, 06 Jun 2022 09:00:00 -0700",
          "title" : "Your Chance To Predict the 2022 Women's Speed Chess Championship Is Here!"
-      },
-      {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Mon, 06 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
-      },
-      {
-         "description" : "Famous business magnate and investor Elon Musk quite often uses his Twitter account to post about chess. This time, he shared a meme explaining how would chess look if it was released as a video game. Read more: Elon Musk &#x2013; now we have computers in chess The post went viral and launched a number []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elon-musk-explains-how-would-chess-look-if-it-was-released-as-a-video-game-tweetoftheday/",
-         "pubDate" : "Mon, 06 Jun 2022 14:52:26 +0000",
-         "title" : "Elon Musk explains how would chess look if it was released as a video game #TweetOftheDay"
       },
       {
          "description" : "The 52nd Cotswold Chess Congress was held at The Kings School, Gloucester Friday 3rd to Sunday 5th June. The organizers are grateful to Karen Gulley...",
@@ -178,14 +234,6 @@ news_feed (
          "title" : "Anand's Norwegian Adventure Continues, Takes Down Carlsen"
       },
       {
-         "description" : "The 79th Georgian Women&#x2019;s Chess Championship&#xA0;takes place from 6-15 June in the Georgian Chess Palace in Tbilisi. LIVE broadcast of the games is available on the Georgian Chess Federation Facebook page, together with commentaries by GM Davit Jojua. The transmission of the live broadcast will be daily on Chessdom.com. (scroll down for pairings and results) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/79th-georgian-womens-chess-championship-live/",
-         "pubDate" : "Mon, 06 Jun 2022 13:22:36 +0000",
-         "title" : "79th Georgian Women's Chess Championship LIVE"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92039760.cms\" />The All India Chess Federation (AICF) on Monday said it supports the candidature of Viswanathan Anand for the post of FIDE deputy president, clarifying its stand after anonymous emails claimed that former AICF secretary Bharat Singh Chauhan was the right candidate for the job.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -216,22 +264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/maharashtra-open-chess-top-seed-amonatov-jumps-into-lead/articleshow/92038186.cms",
          "pubDate" : "Mon, 06 Jun 2022 11:03:47 +0000",
          "title" : "Maharashtra Open chess: Top-seed Amonatov jumps into lead"
-      },
-      {
-         "description" : "The 79th Georgian Women's Chess Championship takes place from 6-15 June in the Georgian Chess Palace in Tbilisi.Read more: Chess will be a compulsory subject in 2200 Georgian schools The event will be played as a 10-players round-robin tournament with time control: 90 minutes for 40 moves + 30 minutes till the end of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/79th-georgian-womens-chess-championship/",
-         "pubDate" : "Mon, 06 Jun 2022 10:30:43 +0000",
-         "title" : "79th Georgian Women's Chess Championship"
-      },
-      {
-         "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 will be held from 24th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. Federations participating in the event are as follows (alphabetical order): Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/4th-esna-european-small-nations-individual-chess-championship-2022/",
-         "pubDate" : "Mon, 06 Jun 2022 10:00:47 +0000",
-         "title" : "4th ESNA European Small Nations Individual Chess Championship 2022"
       },
       {
          "description" : "Vishy Anand took the sole lead in Norway Chess after beating Magnus Carlsen in Armageddon, but the 52-year-old was upset that he'd outplayed the current World Champion in classical chess only to let a winning position slip. Vishy leads Magnus by half a point, with Wesley So and Shakhriyar Mamedyarov a further point back after Shakh won a spectacular Armageddon. Anish Giri and Aryan Tari scored the day's only classical wins to boost their tournament standings.",
@@ -1602,14 +1634,6 @@ news_feed (
          "title" : "Chessable Masters: Ding knocks out Carlsen, Pragg stuns Giri"
       },
       {
-         "description" : "Magnus Carlsen will return to Chennai, the city where he was first crowned World Champion in 2013, to be part of the 44th Chess Olympiad from July 28 to August 10. The 31-year-old will make his first appearance in a team event for Norway in six years.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-heads-norwegian-team-in-chennai-olympiad",
-         "pubDate" : "Tue, 24 May 2022 17:56:17 +0000",
-         "title" : "Carlsen heads Norwegian team in Chennai Olympiad"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart For the past couple of months at the club we have been solving puzzles where the position of certain pieces was the difference maker. This is <a href=\"https://chessimprover.com/students-analysis-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-7/\">Students Analysis (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1930,6 +1954,14 @@ news_feed (
          "title" : "More Vintage Chess Programs"
       },
       {
+         "description" : "This event will take place at Salesian College, 119 Reading Road, Farnborough, GU14 6PA on the 2nd July from 10.00am to 12.00pm. There will be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/gm-nick-pert-simultaneous/",
+         "pubDate" : "Fri, 20 May 2022 08:00:27 +0000",
+         "title" : "GM Nick Pert simultaneous"
+      },
+      {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2072,14 +2104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/zork.html",
          "pubDate" : "Tue, 17 May 2022 13:00:00 +0000",
          "title" : "Zork!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1768",
-         "pubDate" : "Tue, 17 May 2022 10:59:35 +0000",
-         "title" : "Radoslaw Wojtaszek and Michalina Rudzinska win Polish Championship"
       }
    ]
 }
