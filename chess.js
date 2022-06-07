@@ -2,12 +2,108 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Tue, 07 Jun 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World History repeats itself with new actors if its lessons are not learned. Lately we have been going over the Greek gift sacrifice with the purpose to know <a href=\"https://chessimprover.com/self-inflicted-wounds-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-3/\">Self Inflicted Wounds (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/self-inflicted-wounds-3/",
+         "pubDate" : "Tue, 07 Jun 2022 14:16:47 +0000",
+         "title" : "Self Inflicted Wounds (3)"
+      },
+      {
+         "description" : "What is he up to these days? He is difficult to reach - his almost daily appearance on international news report, meetings with influential figures, his copious writing in the media, those are the explanation. We share with you his latest newsletter, which links to the different activities, mainly connected with the war on Ukraine. And describing developments that can lead to President Putin's fall. In addition: you may want to visit his Kasparov Chess platform, where you can learn, play, watch and read about chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-on-the-13th",
+         "pubDate" : "Tue, 07 Jun 2022 14:57:04 +0100",
+         "title" : "Garry Kasparov on the 13th"
+      },
+      {
+         "description" : " I witnessed a very nice tactical idea at the Gungahlin Chess Club this evening. However it did look familiar, so I decided to find out where it had been played before. The problem was that I could remember the position, but not the moves, and for some crazy reason, thought it had started as an Exchange French (it had not). Luckily my copy of Chessbase had the game, which was played David Janowski and Emil Schallop in 1896. 126 years later Masaki Horikawa was able to find the same winning idea. <br /> <b>Horikawa, Masaki - Yu, Leiming [D21]</b><br />Belconnen Open 7.6.2022 <script>new PgnViewer( { boardName: \"game1332\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 dxc4 3.Nf3 c5 4.e3 cxd4 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/nice-tactic-rediscovered.html",
+         "pubDate" : "Tue, 07 Jun 2022 13:42:00 +0000",
+         "title" : "Nice tactic - rediscovered"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/970834d9-79dc-49d9-9069-8bebddb9d462/Hess2.jpg\" data-image-dimensions=\"1737x887\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"629f4cec9ee37248c90d84be\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/970834d9-79dc-49d9-9069-8bebddb9d462/Hess2.jpg?format=1000w\" /> </figure> <p class=\"\">The wait is almost over! With the<a href=\"https://en.wikipedia.org/wiki/Candidates_Tournament_2022\"> <span>2022 FIDE Candidates Tournament</span></a> beginning June 17, we present",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/7/ep-282-2022-fide-candidates-preview-double-episode-with-gm-robert-hess-and-tai-pruce-zimmerman-of-the-chess-by-the-numbers-blog",
+         "pubDate" : "Tue, 07 Jun 2022 13:09:50 +0000",
+         "title" : "EP 282- 2022 FIDE Candidates Preview Double Episode with GM Robert Hess and Tai Pruce Zimmerman of the Chess by the Numbers Blog "
+      },
+      {
+         "description" : "National U-10 Boys &#38; Girls Certificates are out to download (26-04-22 t0 01-05-22) Download it using the link given below Links: Girls : https://aicf.online/Under-10-Girls.html Boys : https://aicf.online/Under-10-Boys.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-10-certificates-are-out-to-download/",
+         "pubDate" : "Tue, 07 Jun 2022 12:52:13 +0000",
+         "title" : "National Under-10 Certificates are out to download"
+      },
+      {
+         "description" : "German WGM Jana Schneider is conducting an experiment on cognitive perception for her bachelor's thesis at the University of W&uuml;rzburg. The question is whether one can process chess positions faster in 2D or 3D. If you would like to take part, you can find out more here! | Photo: Frank Hoppe",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/join-jana-schneider-experiment",
+         "pubDate" : "Tue, 07 Jun 2022 13:45:00 +0100",
+         "title" : "Can we process chess positions faster in 2D or in 3D? - An experiment"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92062773.cms\" />Grandmaster Aleksej Aleksandrov outlasted Indian GM Deep Sengupta to join top-seed Farrukh Amonatov of Tajikistan in the lead of the first Maharashtra International Open Grandmaster chess tournament on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/maharashtra-open-chess-aleksandrov-beats-sengupta-enjoys-joint-lead-with-amonatov/articleshow/92062773.cms",
+         "pubDate" : "Tue, 07 Jun 2022 12:29:46 +0000",
+         "title" : "Maharashtra Open chess: Aleksandrov beats Sengupta, enjoys joint lead with Amonatov"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92062102.cms\" />The 44th Chess Olympiad to be held in July-August near here will mark the introduction of Olympic-style torch relay which will be run ahead of the showpiece every edition, the world governing body of the sport announced on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/olympic-style-torch-relay-to-be-introduced-ahead-of-44th-chess-olympiad-every-relay-to-start-from-india/articleshow/92062102.cms",
+         "pubDate" : "Tue, 07 Jun 2022 12:06:40 +0000",
+         "title" : "Olympic-style torch relay to be introduced ahead of 44th Chess Olympiad, every relay to start from India"
+      },
+      {
          "description" : "With an impressive win in the classical game against Shakhriyar Mamedyarov, Magnus Carlsen grabbed the sole lead at the Norway Chess Tournament. After six rounds, Carlsen has collected 12&frac12; points, one more than second-placed Vishy Anand, who on Monday won with black in Armageddon against Anish Giri. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2022-r6",
          "pubDate" : "Tue, 07 Jun 2022 13:00:00 +0100",
          "title" : "Norway Chess: Carlsen grabs the lead"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen on Monday picked up another one of those victories he has become famous for, squeezing blood from stones vs. GM Shakhriyar Mamedyarov. Carlsen now leads the 2022 Norway Chess in Stavanger alone after six rounds and go...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-6",
+         "pubDate" : "Tue, 07 Jun 2022 04:55:00 -0700",
+         "title" : "Carlsen Wins, Leads, Hits A 2870 Live Rating"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen scores a #TweetOftheDay with a direct call for support for Andrii Baryshpolets and his deputy Peter Heine Nielsen. More on the Baryshpolets campaign:&#xA0;Interview with Andrii Baryshpolets&#xA0;/&#xA0;Andrii Baryshpolets announces his candidacy&#xA0;/&#xA0;Andrii Baryshpolets on Twitter&#xA0;/&#xA0;All articles on Andrii Baryshpolets here&#xA0;More on the Dvorkovich campaign:&#xA0;Dvorkovich announces his team with Anand on board&#xA0;/&#xA0;Dvorkovich #SayChess hashtag []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-call-to-action-for-the-baryshpolets-nielsen-fide-election-bid-tweetoftheday/",
+         "pubDate" : "Tue, 07 Jun 2022 11:52:33 +0000",
+         "title" : "Carlsen call to action for the Baryshpolets / Nielsen FIDE election bid #TweetOftheDay"
+      },
+      {
+         "description" : "Hikaru Nakamura is gunning for the title at Candidates Chess 2022, entering as winner of the Grand Prix and is one of the rating favorites. However, this will not be the only feat that we can expect from Nakamura. He comments, &#8220;Not only am I in Spain preparing for the Candidates, Team Hikaru is prepping []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-live-stream-from-candidates-chess-2022/",
+         "pubDate" : "Tue, 07 Jun 2022 11:30:33 +0000",
+         "title" : "Hikaru Nakamura live stream from Candidates Chess 2022"
       },
       {
          "description" : "A host city of two Chess Olympiads, Thessaloniki will now be the center of European chess attention this summer. Between July 11 and July 23 after the Candidates Chess 2022 and right before the Chess Olympiad 2022 the biggest northern Greek city is going to host three events the European Youth Team []",
@@ -26,7 +122,7 @@ news_feed (
          "title" : "Norway Chess 6: Magnus hits the front, crosses 2870"
       },
       {
-         "description" : "The arbiter appointments for the Chennai Olympiad have been announced at&#160;https://arbiters.fide.com/news/7464. There is a relevant article at&#160;https://www.fide.com/news/1801. There are 22 International and FIDE Arbiters, and...",
+         "description" : "The arbiter appointments for the Chennai Olympiad have been announced at&#160;https://arbiters.fide.com/news/7464. There is a relevant article at&#160;https://www.fide.com/news/1801. There are 22 senior roles and the arbiters...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/arbiter-appointments-for-the-chennai-olympiad/",
@@ -112,22 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/las-vegas-chess-festival-2022/",
          "pubDate" : "Tue, 07 Jun 2022 07:46:20 +0000",
          "title" : "Las Vegas Chess Festival 2022"
-      },
-      {
-         "description" : "To eat the opponent's piece has a whole new meaning on this delicious chess cake board!",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-cake-delicious-tweetoftheday/",
-         "pubDate" : "Tue, 07 Jun 2022 07:34:01 +0000",
-         "title" : "Chess cake! Delicious! #TweetOftheDay"
-      },
-      {
-         "description" : "I Torneio de Xadrez de Sales Oliveira Memorial J&#xFA;lia Graton Squarizi is going to take place 7-12 June in Brazil. The tournament is a ten player round robin with GM Neuris Ramirez Delgado, GM Luis Paulo Supi, GM Alexandr Fier, GM Andre Diamant, GM Darcy Lima, IM Lucas Coro, IM Jose Daniel Gemy, IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/memorial-julia-graton-squarizi/",
-         "pubDate" : "Tue, 07 Jun 2022 07:21:01 +0000",
-         "title" : "Memorial J&uacute;lia Graton Squarizi"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92051165.cms\" />The classical match ended in a draw after which the Armageddon ended in stalemate early on Tuesday to leave Anand on 11.5 points and in second place. World champion Magnus Carlsen (12.5 points) roared to the top spot with a victory over Shakhriyar Mamedyarov.",
@@ -1522,14 +1602,6 @@ news_feed (
          "title" : "Chessable Masters final: Praggnanandhaa falters at opening hurdle"
       },
       {
-         "description" : "The 2022 IM Not A GM Speed Chess Championship resumed on Wednesday with a gripping round of 16 match between IM Polina Shuvalova and IM David Pruess, in which Shuvalova won with a convincing 16.5-6.5 score. The match was a tactical slugfest that...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-shuvalova-pruess",
-         "pubDate" : "Wed, 25 May 2022 17:25:00 -0700",
-         "title" : "Shuvalova Eliminates Pruess: 2022 IMSCC, Round Of 16"
-      },
-      {
          "description" : " From the publishers' blurb: &#8220;GM Jan Werle is a professional chess trainer, coach and author. In 2008 he became EU Champion in Liverpool and reached his peak rating of 2607. Afterwards he finished his law studies, obtaining Master's degrees in Civil and Commercial Law, and embarked on a career as a lawyer. However his main <a href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Unbeatable!: The Art of Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\">Unbeatable!: The Art of Defense</a> ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1570,14 +1642,6 @@ news_feed (
          "title" : "Join Vidit's 2nd Open Arena Tournament"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91792371.cms\" />Grandmaster R Praggnanandhaa is making it a habit of beating the top players in the circuit. Days after defeating world champion Magnus Carlsen during a preliminary stage clash of the ongoing Chessable Masters, an online tournament, Praggu beat Anish Giri to make the final of the competition on Tuesday night. The Anish-Praggu match ended 2-2 after the 4-game rapid match and the 16-year-old won the tie-breaker 1.5-0.5 to book his place in the summit clash. Praggu faces World no. 2 Ding Liren who defeated Magnus 2.5-1.5 in the other semifinal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/making-the-chessable-masters-final-was-unexpected-praggnanandhaa/articleshow/91792371.cms",
-         "pubDate" : "Wed, 25 May 2022 12:58:02 +0000",
-         "title" : "Making Chessable Masters final was unexpected: Praggnanandhaa"
-      },
-      {
          "description" : "16-year-old Praggnanandhaa will play world no. 2 Ding Liren in the Chessable Masters final just hours after he sits school exams at home in Chennai, India. The prodigy played some brilliant chess to overcome heroic resistance from Anish Giri, while Ding Liren called it \"a little unbelievable\" that he finally beat World Champion Magnus Carlsen in an online tour knockout match. An extremely high-level clash featured chances for both players before Ding finally broke through in the 4th game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1616,14 +1680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1787",
          "pubDate" : "Wed, 25 May 2022 08:27:43 +0000",
          "title" : "FIDE World Championship Match 2023 Qualification Rules"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91778163.cms\" />R Praggnanandhaa made it to his first Meltwater Champions Chess Tour final in sensational style. The 16-year-old displayed tremendous skillset and tenacity to defeat Anish Giri in the Chessable Masters semifinal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-makes-chessable-masters-final/articleshow/91778163.cms",
-         "pubDate" : "Wed, 25 May 2022 02:46:23 +0000",
-         "title" : "Praggnanandhaa makes Chessable Masters final"
       },
       {
          "description" : "Rating underdogs Ding Liren and Praggnanandhaa moved on to the finals of the Chessable Masters after knocking out Magnus Carlsen and Anish Giri respectively. After drawing their first three encounters, Ding defeated Carlsen in game 4 to clinch match victory. Meanwhile, Pragg and Giri traded blows to take their match to tiebreaks. The 16-year-old Indian prodigy was stronger in blitz, and thus knocked out his famed opponent.",
@@ -1786,36 +1842,12 @@ news_feed (
          "title" : "Ukrainian GM Andrii Baryshpolets is running for FIDE President"
       },
       {
-         "description" : "The second tournament of the Grand Chess Tour 2022 took place in Warsaw from May 17-23, and consisted of a rapid and a blitz tournament. Jan-Krzysztof Duda won the event after collecting 6&frac12;/9 points on the final day of action to overcome long-time sole leader Vishy Anand in the standings table. Anand and Levon Aronian finished in shared second place.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-superbet-tournament-warsaw-live",
-         "pubDate" : "Mon, 23 May 2022 13:55:00 +0100",
-         "title" : "Superbet Tournament Warsaw: Games and standings"
-      },
-      {
          "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/last-call-for-volunteers-for-olympiad-2022-once-in-a-lifetime-opportunity/",
          "pubDate" : "Mon, 23 May 2022 11:48:23 +0000",
          "title" : "Last Call for Volunteers for Olympiad 2022 - Once in a Lifetime opportunity"
-      },
-      {
-         "description" : "The ChessBase video portal contains a wealth of videos on various topics (opening, middlegame and endgame). A helpful function for owners of the newer FritzTrainer courses is the possibility to view the contents of the purchased courses directly with the browser in the video portal. This makes it easier to access the courses as it is not necessary to view the contents of the courses with the ChessBase Reader, ChessBase or one of the chess programmes on the desktop.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stream-fritztrainers-in-the-video-portal",
-         "pubDate" : "Mon, 23 May 2022 11:58:57 +0100",
-         "title" : "Stream FritzTrainers in the video portal!"
-      },
-      {
-         "description" : "The preliminary stage of the Chessable Masters came to an end on Sunday. Anish Giri scored a win and two draws to keep the lead and win the single round-robin. Magnus Carlsen finished in second place, and was followed by Ding Liren and Praggnanandhaa. Wei Yi, Shakhriyar Mamedyarov, David Anton and Aryan Tari also made it to the knockout stage.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d4",
-         "pubDate" : "Mon, 23 May 2022 07:15:00 +0100",
-         "title" : "Chessable Masters: Giri wins prelims, Tari makes it to the KO"
       },
       {
          "description" : "Please find the live game link for 13th KIIT International Chess Festival 2022 https://view.livechesscloud.com/#48c62a8e-74bf-472d-8a9f-5cb971e1f546",
@@ -2018,14 +2050,6 @@ news_feed (
          "title" : "Chessable English and English Women's Championships - results"
       },
       {
-         "description" : " This week's guest on the Master Chess Web Show was GM Keith Arkell. In one of the most illuminating shows yet, Keith explained much about his view of strategy and gave insights into the life of a chess professional: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-14/\">Master Chess Web Show (14)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-14/",
-         "pubDate" : "Wed, 18 May 2022 20:16:55 +0000",
-         "title" : "Master Chess Web Show (14)"
-      },
-      {
          "description" : " The Superbet Rapid & Blitz took place in Warsaw 17th to 24th May 2022. Players: Fabiano Caruana, Richard Rapport, Wesley So, Levon Aronian, Viswanathan Anand, Jan-Krzysztof Duda, Radoslaw Wojtaszek, Anton Korobov, Kirill Shevchenko and David Gavrilescu. Viswanthan Anand dominated the Rapid starting with 5.5/6 and finishing with 7/9 but an inconsistent performance in the blitz allowed Duda to pip him by half a point in the combined standings at the end. <table class=\"results-table\" summary=\"Event 2013 Crosstable\"> <tr class=\"tabhead2\"><th>Rk</th><th>Name</th><th>Rapid</th><th>Blitz</th><th>Total</th></tr> <tr><td>1</td><td>Duda</td><td>12</td><td>12</td><td>24</td></tr> <tr><td>2</td><td>Aro",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2074,36 +2098,12 @@ news_feed (
          "title" : "MPL 31st National Under-18 (Open & Girls) CHESS CHAMPIONSHIPS - 2022"
       },
       {
-         "description" : "RE: AICF STATE SCHOOLS CHESS SELECTION TOURNAMENT 2022 It is a matter of great pride that the 44th Chess Olympiad will be hosted by India at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-state-schools-chess-tournament/",
-         "pubDate" : "Wed, 18 May 2022 04:35:12 +0000",
-         "title" : "AICF State Schools Chess Tournament"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg\" data-image-dimensions=\"2048x1536\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62839325e1583034f3e1aa99\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg?format=1000w\" /> </figure> <p class=\"\"><br>Photo by Nathan Kelly of the <a href=\"https://www.facebook.com/NationalBlitzLeague/\">National Blitz League</a> <p class=\"\"><strong>This week's</strong><a href=\"https://www.pe",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/17/ep-279-derek-wilder-adult-improver-series-derek-wilder-on-the-key-lessons-that-helped-him-break-through-a-multi-year-plateau-and-ascend-to-a-uscf-2000-rating",
          "pubDate" : "Tue, 17 May 2022 16:07:35 +0000",
          "title" : "EP 279- Derek Wilder (Adult Improver Series)- The key lessons that helped an 1800 break through to a USCF 2000 rating. "
-      },
-      {
-         "description" : "The series of the Grand Chess Tour 2022 events continues from 17th -23th May with the Superbet Rapid&#38;Blitz in Warsaw, Poland. The event opens tomorrow and kicks off with the Round 1 on Thursday, 19th May. Ten players will compete for the total prize fund of 175.000$, playing 9 Rapid games (round robin system) and 18 Blitz games (double round robin system).&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/superbet-rapidblitz-warsaw-2022-opens-tomorrow/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/superbet-rapidblitz-warsaw-2022-opens-tomorrow/",
-         "pubDate" : "Tue, 17 May 2022 14:47:44 +0000",
-         "title" : "Superbet Rapid&Blitz Warsaw 2022 opens tomorrow"
-      },
-      {
-         "description" : " For those of a certain generation, <a href=\"https://en.wikipedia.org/wiki/Zork\">Zork</a> was one of the great computer games. While it wasn't the first \"Adventure Game\" it was probably the first great adventure game. A few years ago I came across a link to the source code for the program, which on one level is fantastic. The slight drawback is that is written in <a href=\"https://en.wikipedia.org/wiki/MDL_(programming_language)\">MDL</a> which is a long obsolete modelling language. Nonetheless, if you want to see how the original Zork was written, you can do so <a href=\"https://github.com/MITDDC/zork\">here</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/zork.html",
-         "pubDate" : "Tue, 17 May 2022 13:00:00 +0000",
-         "title" : "Zork!"
       }
    ]
 }
