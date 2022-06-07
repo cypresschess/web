@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The bodycheck is the most important motif in the endgame rook against pawn, which will sooner or later arise from the position shown in the diagram. In the actual game White did not find the correct defense and lost. Can you do better? White to move and draw!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-bodycheck",
+         "pubDate" : "Tue, 07 Jun 2022 09:00:00 +0100",
+         "title" : "The bodycheck"
+      },
+      {
+         "description" : "I Torneio de Xadrez de Sales Oliveira Memorial J&#xFA;lia Graton Squarizi is going to take place 7-12 June in Brazil. The tournament is a ten player round robin with GM Neuris Ramirez Delgado, GM Luis Paulo Supi, GM Alexandr Fier, GM Andre Diamant, GM Darcy Lima, IM Lucas Coro, IM Jose Daniel Gemy, IM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/memorial-julia-graton-squarizi/",
+         "pubDate" : "Tue, 07 Jun 2022 07:21:01 +0000",
+         "title" : "Memorial J&uacute;lia Graton Squarizi"
+      },
+      {
+         "description" : "50 days remain to the start of the&#xA0;Chess Olympiad 2022. A week ago the Olympiad in Chennai broke records with&#xA0;187 countries already enrolled.&#xA0;The Arbiters&#x2019; Team that will officiate in the 44th Chess Olympiad in Chennai, India 2022, has been selected. Arbiters below have been invited and accepted their nomination. The list is mostly reusing the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arbiters-for-the-chess-olympiad-2022/",
+         "pubDate" : "Tue, 07 Jun 2022 06:42:37 +0000",
+         "title" : "Arbiters for the Chess Olympiad 2022"
+      },
+      {
+         "description" : "Officiating in a FIDE event is a milestone in an Arbiter&#x2019;s life. It takes many steps to gain experience from the very beginning of one&#x2019;s career until the&#160;FIDE Arbiter&#160;(FA) and&#160;International Arbiter&#160;(IA) titles which make colleagues eligible for selection in world competitions. No more than 20 official FIDE events are organized each year, while there are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/selection-of-fide-chess-arbiters/",
+         "pubDate" : "Tue, 07 Jun 2022 06:38:27 +0000",
+         "title" : "Selection of FIDE Chess Arbiters"
+      },
+      {
+         "description" : "50 days remain to the start of the Chess Olympiad 2022. A week ago the Olympiad in Chennai broke records with 187 countries already enrolled. There is a solid buildup to the event, which will be the 16th Olympiad for Zhaoqin Peng, the first in 16 years for Vasif Durarbayli, and a pure delight for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50-days-to-the-chess-olympiad-in-chennai/",
+         "pubDate" : "Tue, 07 Jun 2022 06:33:58 +0000",
+         "title" : "50 days to the Chess Olympiad in Chennai"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92051165.cms\" />The classical match ended in a draw after which the Armageddon ended in stalemate early on Tuesday to leave Anand on 11.5 points and in second place. World champion Magnus Carlsen (12.5 points) roared to the top spot with a victory over Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-viswanathan-anand-anish-giri-share-honours-in-round-six-magnus-carlsen-moves-into-lead/articleshow/92051165.cms",
+         "pubDate" : "Tue, 07 Jun 2022 04:33:34 +0000",
+         "title" : "Anand, Giri share honours in Rd 6; Carlsen moves into lead in Norway"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -234,30 +282,6 @@ news_feed (
          "title" : "2022 Summer Chess Classic: Round 4"
       },
       {
-         "description" : "After a well deserved resting day where players enjoyed a chess game played on the World's largest chess board, the 6th day of Norway Chess 2022 saw interesting encounters and exciting games. All the eyes were on the match between the reigning World Chess Champion Magnus Carlsen and the 15th World Chess Champion Viswanathan Anand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anand-defeats-carlsen-taking-back-the-sole-lead-in-norway-chess-2022/",
-         "pubDate" : "Sun, 05 Jun 2022 22:43:01 +0000",
-         "title" : "Anand defeats Carlsen taking back the sole lead in Norway Chess 2022"
-      },
-      {
-         "description" : "The 5th edition of the Vera Menchik Memorial took place today in the Museum of the Public Transport in Prague. The event was a part of the Czech Grand Prix Tour 2021/2022. The event gathered more than 250 players who competed over 7 swiss rounds played in rapid time control. With a convincing score of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-petr-neuman-wins-vera-menchik-memorial-2022/",
-         "pubDate" : "Sun, 05 Jun 2022 22:08:00 +0000",
-         "title" : "GM Petr Neuman wins Vera Menchik Memorial 2022"
-      },
-      {
-         "description" : "The Chess Festival of the Serbian Chess Federation took place from 31 May 5 June in Paracin, featuring the 8th Svetozar Gligoric Teams Cup and Serbian Rapid&#38;Blitz Chess Championships 2022.Read more: France crowns Rapid &#38; Blitz Chess Champions 2022 The 8th edition of the Svetozar Gligoric Cup was the first event on the Festival's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-chess-federation-chess-festival-concluded-with-national-rapidblitz-chess-championships-2022/",
-         "pubDate" : "Sun, 05 Jun 2022 15:01:31 +0000",
-         "title" : "Serbian Chess Federation Chess Festival concluded with National Rapid&Blitz Chess Championships"
-      },
-      {
          "description" : " Janell Warner posted pictures on social media about her graduation from Brandeis University and stated, &#8220;so happy to be surrounded by so much love and support.&#8221; Certainly, family and friends were on hand to celebrate the event, but the chess community can also celebrate. This is yet another example of how chess continues to help The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/05/aspiring-chess-master-janell-warner-ready-to-shine/\">Aspiring chess master Janell Warner ready to shine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship/",
          "pubDate" : "Sun, 05 Jun 2022 13:42:51 +0000",
          "title" : "4th ESNA European Small Nations Individual Chess Championship"
-      },
-      {
-         "description" : "The second leg of the MPL Indian Chess Tour 2022&#160;was played from 2-5 June on chess24.com. 16 players battled over 15 round-robin rounds for the spot in one of the Meltwater Champions Chess Tour events. Aravindh Chithambaram won the event scoring 32/42 points and secured his seat in one of the world-renowned&#160;events of the Champions []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aravindh-chithambaram-wins-2nd-leg-of-mpl-indian-chess-tour-2022/",
-         "pubDate" : "Sun, 05 Jun 2022 13:40:15 +0000",
-         "title" : "Aravindh Chithambaram wins 2nd leg of MPL Indian Chess Tour"
       },
       {
          "description" : "",
@@ -1602,14 +1618,6 @@ news_feed (
          "title" : "Students Analysis (7)"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91772225.cms\" />The Superbet Rapid and Blitz event, part of the Grand Chess Tour, which concluded in Warsaw on Monday saw Viswanathan Anand in splendid form. Anand won the rapid portion and eventually shared the second spot with Levon Aronian while Jan-Krzysztof Duda clinched the overall tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-hopes-to-make-a-difference-as-an-administrator/articleshow/91772225.cms",
-         "pubDate" : "Tue, 24 May 2022 15:59:43 +0000",
-         "title" : "Viswanathan Anand hopes to make a difference as an administrator"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-link-update-13th-kiit-international-chess-festival-2022/",
          "pubDate" : "Mon, 23 May 2022 04:36:39 +0000",
          "title" : "Live Game Link Update : 13th KIIT International Chess Festival 2022"
-      },
-      {
-         "description" : "Vishy Anand kept the sole lead at the Superbet tournament in Warsaw after scoring 5 points in the first nine rounds of blitz, which were played on Sunday. The Indian has a 1&frac12;-point lead over Jan-Krzysztof Duda, who finished the day with three wins in a row. A half point back stand Fabiano Caruana and Levon Aronian, the day's top scorers - Caruana collected 8 points, while Aronian added 7 points to his tally. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d4",
-         "pubDate" : "Mon, 23 May 2022 03:35:00 +0100",
-         "title" : "Superbet Poland: Anand leads, Caruana scores 8 out of 9"
       },
       {
          "description" : "",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1768",
          "pubDate" : "Tue, 17 May 2022 10:59:35 +0000",
          "title" : "Radoslaw Wojtaszek and Michalina Rudzinska win Polish Championship"
-      },
-      {
-         "description" : "As we have already informed by the CL -2/2022 following the decision- CM1-2022/44 ofFIDE Council on April 28, ECU Board taking in account the special circumstances, has finalised the place and the dates of the ECU General Assembly and elections 2022 in Thessaloniki, Greece on Saturday July 23. Venue:&#160; Porto Palace, Hotel Thessaloniki. https://www.portopalace.gr Schedule: Friday,&#160;&#160;&#160;&#160;&#160;&#160;&#160;22&#160;&#160;July: Arrival of Delegates - Welcome Reception&#160; Saturday,&#160;&#160;&#160;23&#160;&#160;July : ECU General Assembly 2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/\">Read M",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2022-thessaloniki-greece-23-july/",
-         "pubDate" : "Tue, 17 May 2022 07:25:31 +0000",
-         "title" : "ECU General Assembly 2022 - Thessaloniki, Greece 23 July"
       }
    ]
 }
