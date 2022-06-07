@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Entries have re-opened for the ECF Girls' National Schools semi-finals on October 9th in the South and November 20th in the North. Entries may be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/girls-national-schools-championships-semi-finals/",
+         "pubDate" : "Tue, 07 Jun 2022 15:59:41 +0000",
+         "title" : "Girls National Schools Championships - semi-finals"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-31st-national-under-18-open-girls-chess-championships-2022/",
          "pubDate" : "Wed, 18 May 2022 05:18:03 +0000",
          "title" : "MPL 31st National Under-18 (Open & Girls) CHESS CHAMPIONSHIPS - 2022"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg\" data-image-dimensions=\"2048x1536\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62839325e1583034f3e1aa99\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/7e681300-5c2e-4bda-aafb-4cf7a412f6dd/Dwild.jpg?format=1000w\" /> </figure> <p class=\"\"><br>Photo by Nathan Kelly of the <a href=\"https://www.facebook.com/NationalBlitzLeague/\">National Blitz League</a> <p class=\"\"><strong>This week's</strong><a href=\"https://www.pe",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/17/ep-279-derek-wilder-adult-improver-series-derek-wilder-on-the-key-lessons-that-helped-him-break-through-a-multi-year-plateau-and-ascend-to-a-uscf-2000-rating",
-         "pubDate" : "Tue, 17 May 2022 16:07:35 +0000",
-         "title" : "EP 279- Derek Wilder (Adult Improver Series)- The key lessons that helped an 1800 break through to a USCF 2000 rating. "
       }
    ]
 }
