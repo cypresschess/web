@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Direct Members are invited to apply to be Direct Members' Representatives. The term of office of current holders expires on 31 July 2022 but current...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-representative-elections/",
+         "pubDate" : "Wed, 08 Jun 2022 14:35:14 +0000",
+         "title" : "Direct Members' Representative elections 2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>ECU</strong> and <strong>FIDE</strong> sponsor a <strong>Women Chess Conference</strong> <a href=\"https://www.ewcc2022.net/uploads/downloads/women-chess-conference-prague-2022.pdf\">on 26 and 27 August</a> alongside the <strong>European Women Championship</strong> in Prague. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/women-chess-conference-in-prague/",
+         "pubDate" : "Wed, 08 Jun 2022 15:18:21 +0100",
+         "title" : "Women chess conference in Prague"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, Hans Niemann and Vincent Keymer (pictured) are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST), follow the games with live commentary. | Photo: Lars OA Hedlund (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
+         "pubDate" : "Wed, 08 Jun 2022 14:51:38 +0100",
+         "title" : "Prague Chess Festival: Live"
+      },
+      {
+         "description" : "As the World Champion Magnus Carlsen on Tuesday struggled in yet another armageddon duel, losing his fourth of the kind, the situation at the top of the leaderboard is making us eager to see the players return from their day off to finish the tour...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-7",
+         "pubDate" : "Wed, 08 Jun 2022 06:37:00 -0700",
+         "title" : "Highpoints & Heartbreaks In Stavanger"
+      },
+      {
+         "description" : "Hikaru Nakamura won the FIDE Grand Prix series of events and therefore qualified for the FIDE Candidates Tournament 2022 which kicks off in less than 10 days in Madrid. Before taking part in the FIDE Grand Prix, Nakamura played no classical OTB games for more than two years and the triumph in the FIDE Grand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-shares-his-thoughts-on-candidates-streaming-and-the-future-of-american-chess-interview/",
+         "pubDate" : "Wed, 08 Jun 2022 12:53:35 +0000",
+         "title" : "Hikaru Nakamura shares his thoughts on Candidates, Streaming, and the Future of American Chess (INTERVIEW)"
+      },
+      {
+         "description" : " In the latest episode of the Master Chess Web Show, Andrew Martin and I suggested that a good approach to playing Black was to adopt solid openings where Black adopts a small centre. White can claim to have a slight space advantage, but it is very hard to use; meanwhile Black can have excellent counterattacking <a href=\"https://chessimprover.com/master-chess-web-show-17/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (17)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-17/\">Master Chess Web Show (17)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-17/",
+         "pubDate" : "Wed, 08 Jun 2022 12:45:05 +0000",
+         "title" : "Master Chess Web Show (17)"
+      },
+      {
+         "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at aged 21 and defending...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/1st-caplin-menchik-memorial/",
+         "pubDate" : "Wed, 08 Jun 2022 12:37:26 +0000",
+         "title" : "1st Caplin Menchik Memorial"
+      },
+      {
+         "description" : " The Prague International Chess Festival takes place 8th to 17th June 2022. The Masters is a Category 18 tournament with Vidit, Shankland, Maghsoodloo, Le Quang Liem, Vallejo, Harikrishna, David Anton, Navara, Salem Saleh and Nguyen Thai Dai Van. Vincent Keymer is the top seed in the Challengers tournament, there are also various other tournaments including a Futures and an Open.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/prague-international-chess-festival-2022",
+         "pubDate" : "Wed, 8 Jun 2022 16:06:00 +0400",
+         "title" : "Prague International Chess Festival 2022 - Games and Results"
+      },
+      {
+         "description" : "Aryan Tari defeated Magnus Carlsen in the 7th round of Norway Chess. Tari chose to play a solid line as White in the game with classical time control, then winning an Armageddon to score a victory against the reigning World Chess Champion. In a post-match interview, Tari said he was afraid Magnus won't be his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aryan-tari-i-was-afraid-magnus-wont-be-my-friend-after-i-played-this-line/",
+         "pubDate" : "Wed, 08 Jun 2022 11:32:37 +0000",
+         "title" : "Aryan Tari: I was afraid Magnus won't be my friend after I played this line"
+      },
+      {
          "description" : "In the past the ECF membership year has run from 1st September to 31st of the following August, and each year during July we open...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -272,30 +344,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-online-arena-unveils-free-analysis-and-key-moments-feature/",
          "pubDate" : "Tue, 07 Jun 2022 08:48:53 +0000",
          "title" : "FIDE Online Arena Unveils Free Analysis and Key Moments Feature"
-      },
-      {
-         "description" : "In&#xA0;an&#xA0;exclusive interview&#xA0;with World Chess, IM and&#xA0;WGM Elisabeth Paehtz talked about her positive experience as&#xA0;a&#xA0;female professional player in&#xA0;Germany over the&#xA0;past 4 years and&#xA0;acknowledged that everything is pointing in&#xA0;the&#xA0;direction that things are going to&#xA0;improve even more for&#xA0;women in&#xA0;chess. Elisabeth Paehtz is heading the German National team for the Chess Olympiad 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elisabeth-paehtz-i-want-to-qualify-for-the-candidates-chess/",
-         "pubDate" : "Tue, 07 Jun 2022 08:43:55 +0000",
-         "title" : "Elisabeth Paehtz, \"I want to qualify for the Candidates Chess\""
-      },
-      {
-         "description" : "Now: Prague Chess Festival 2022 Live:&#xA0;Prague Chess 2022 Masters&#xA0;and&#xA0;Prague Chess 2022 Challengers Intense human stories related to Ukraine can be heard also at the Prague International Chess Festival. For example,&#xA0;Timofey Bokhnak&#xA0;who lives and plays chess in P&#x159;erov is looking forward to attending the tournament held from 7th to 17th June 2022 in Hotel Don Giovanni []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/timofey-bokhnak-has-a-future-in-chess/",
-         "pubDate" : "Tue, 07 Jun 2022 08:31:58 +0000",
-         "title" : "Timofey Bokhnak has a future in chess"
-      },
-      {
-         "description" : "The starter problem is attached below. White, playing up the board, is to play and force mate in two moves against any Black defence. There...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championships-2022-2023/",
-         "pubDate" : "Tue, 07 Jun 2022 08:13:24 +0000",
-         "title" : "Winton British Chess Solving Championships 2022-2023"
       },
       {
          "description" : "The bodycheck is the most important motif in the endgame rook against pawn, which will sooner or later arise from the position shown in the diagram. In the actual game White did not find the correct defense and lost. Can you do better? White to move and draw!",
@@ -986,6 +1034,14 @@ news_feed (
          "title" : "The greatest prodigy of all time"
       },
       {
+         "description" : "The starter problem is attached below. White, playing up the board, is to play and force mate in two moves against any Black defence. There...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championships-2022-2023/",
+         "pubDate" : "Wed, 01 Jun 2022 08:00:24 +0000",
+         "title" : "Winton British Chess Solving Championships 2022-2023"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91931630.cms\" />Indian chess ace Viswanathan Anand defeated Maxime Vachier-Lagrave in 40 moves in the first round of the classical section of the Norway Chess tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1474,14 +1530,6 @@ news_feed (
          "title" : "2022 ACT Championship - Round 1"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ding Liren</strong> confirms his shape for the Candidates Tournament <a href=\"https://chess24.com/tour/\">by winning</a> the <strong>Chessable Masters</strong>, the fourth event of the <strong>Meltwater Champions Chess Tour</strong>. The surprise of the tournament was 16-year-old <strong>Pragnanandhaa</strong> who reached the final, which he lost only narrowly in spite of school examinations on the same days. <strong>Indian Oil</strong> was <a href=\"https://twitter.com/Rameshchess/status/1529773904352649222\">announced as his new sponsor</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ding-wins-chessable-masters/",
-         "pubDate" : "Fri, 27 May 2022 13:13:59 +0100",
-         "title" : "Ding wins Chessable Masters"
-      },
-      {
          "description" : "Rustam Kasimdzhanov is considered one of the world's leading opening experts; he has worked as a second for Vishy Anand, Fabiano Caruana and the German national team. In his new Fritztrainer on the French Defence, he passes on his knowledge. Christian H&ouml;the has taken a look at the course and concludes, \"The French is a wonderful opening, especially after studying this Fritztrainer!\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1568,14 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1792",
          "pubDate" : "Thu, 26 May 2022 18:50:28 +0000",
          "title" : "Casablanca Chess Week kicks off on May 30"
-      },
-      {
-         "description" : "You probably know that the biggest online rapid event for elite players, the Rapid Chess Championship, is happening right now, don&#39;t you? But have you ever wondered how you&#39;d stack up against some of the grandmasters playing in the event? Well, no...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-rcc-bots",
-         "pubDate" : "Thu, 26 May 2022 10:08:00 -0700",
-         "title" : "Rapid Chess Championship Bots Are Here"
       },
       {
          "description" : "In his 'Weekly Show' Lawrence Trent reviews what went on at the Superbet Rapid & Blitz and the Chessable Masters. He focuses, however, on one of his own game from the GM Invitational in Hamburg - a very tense affair which he eventually managed to win! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
@@ -1882,14 +1922,6 @@ news_feed (
          "title" : "Karsten M&uuml;ller's Endgame Magic Show #195 - with Arne Kaehler"
       },
       {
-         "description" : "In his \"Power Play Show\" Daniel King takes a look at the book \"From Ukraine With Love For Chess\", that was just published by \"New in Chess\". The book celebrates the chess of notable Ukrainian players from the past and present, and all profits will go to charities in Ukraine. To quote Daniel: \"A worthy project and a superb book with tremendous material.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-pragg-gukesh-2",
-         "pubDate" : "Mon, 23 May 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: \"From Ukraine With Love For Chess\""
-      },
-      {
          "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1962,14 +1994,6 @@ news_feed (
          "title" : "Superbet Rapid & Blitz: Day 3 Recap"
       },
       {
-         "description" : " I've recently set up three new websites, which are about to be released to the general public. The first is chesswithrichard.uk. This is a personal site advertising my tuition services. Regular readers will be aware that I don't teach like other chess tutors. Nor do I teach for the same reasons as other chess tutors. <a href=\"https://chessimprover.com/chess-with-richard/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess With Richard\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-with-richard/\">Chess With Richard</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-with-richard/",
-         "pubDate" : "Sat, 21 May 2022 18:11:34 +0000",
-         "title" : "Chess With Richard"
-      },
-      {
          "description" : " Early this month, the Presidential election (FIDE 2022) opened and there are already four candidates for President. This point was noted by current FIDE Vice President Nigel Short. It appears that the FIDE Presidential Election will be a crowded field. - Nigel Short (@nigelshortchess) May 20, 2022 Crowded indeed. After the announcement of Enyonam Sewa The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/\">FIDE 2022 election campaigns heat up!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2034,14 +2058,6 @@ news_feed (
          "title" : "More Vintage Chess Programs"
       },
       {
-         "description" : "This event will take place at Salesian College, 119 Reading Road, Farnborough, GU14 6PA on the 2nd July from 10.00am to 12.00pm. There will be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/gm-nick-pert-simultaneous/",
-         "pubDate" : "Fri, 20 May 2022 08:00:27 +0000",
-         "title" : "GM Nick Pert simultaneous"
-      },
-      {
          "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-schools-conference-successfully-concluded-in-zurich/",
          "pubDate" : "Thu, 19 May 2022 11:04:27 +0000",
          "title" : "\"Chess a Game to be Spread in Schools\" Conference successfully concluded in Zurich"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2022/",
-         "pubDate" : "Thu, 19 May 2022 05:28:29 +0000",
-         "title" : "Chessable English and English Women's Championships - results"
       },
       {
          "description" : " The Superbet Rapid & Blitz took place in Warsaw 17th to 24th May 2022. Players: Fabiano Caruana, Richard Rapport, Wesley So, Levon Aronian, Viswanathan Anand, Jan-Krzysztof Duda, Radoslaw Wojtaszek, Anton Korobov, Kirill Shevchenko and David Gavrilescu. Viswanthan Anand dominated the Rapid starting with 5.5/6 and finishing with 7/9 but an inconsistent performance in the blitz allowed Duda to pip him by half a point in the combined standings at the end. <table class=\"results-table\" summary=\"Event 2013 Crosstable\"> <tr class=\"tabhead2\"><th>Rk</th><th>Name</th><th>Rapid</th><th>Blitz</th><th>Total</th></tr> <tr><td>1</td><td>Duda</td><td>12</td><td>12</td><td>24</td></tr> <tr><td>2</td><td>Aro",
