@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Thursday, May 19, the National Scholastic Chess Foundation based in New York, held its&#xA0;first-ever awards dinner&#xA0;at the Marriott Brooklyn Bridge. Presented in partnership with ICC, the 2022 Chess Service Awards honored four women who have made a lifetime contribution to growing scholastic chess. Keeping with the FIDE Year of the Woman in Chess theme []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nscf-icc-present-chess-service-awards/",
+         "pubDate" : "Wed, 08 Jun 2022 18:52:40 +0000",
+         "title" : "NSCF/ICC present Chess Service Awards"
+      },
+      {
+         "description" : "England's National Chess Library is made up of around 7,000 books from a number of collections left to the BCF, including Harry Golombek&#x2019; s personal collection, which forms the core of the library. The library was housed in Hastings, then the ECF Offices in Battle and was recently transferred to safe keeping within the Kimberlin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/englands-national-chess-library-with-7000-books-settled-in-leicester/",
+         "pubDate" : "Wed, 08 Jun 2022 18:36:03 +0000",
+         "title" : "England's National Chess Library with 7000 Books settled in Leicester"
+      },
+      {
+         "description" : "The Las Vegas Chess Festival 2022 commences today and includes the National Open, the US Women&#x2019;s Open, International Youth Championship and many side events. The famous chess streamer and the women&#x2019;s grandmaster Qiyu Zhou (AkaNemsko)&#160;announced she has just arrived in Las Vegas to compete in the National Open. This will be Nemo's first OTB tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/akanemsko-will-stream-her-games-from-las-vegas-chess-festival-2022/",
+         "pubDate" : "Wed, 08 Jun 2022 18:19:38 +0000",
+         "title" : "AkaNemsko will stream her games from Las Vegas Chess Festival 2022"
+      },
+      {
+         "description" : "Team AICF and chess enthusiasts given a grand welcome to Shri Bharat Singh Chauhan at Chennai Airport after supreme court of India reinstates him as",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/grand-welcome-to-shri-bharat-singh-at-chennai-airport/",
+         "pubDate" : "Wed, 08 Jun 2022 17:35:18 +0000",
+         "title" : "Grand welcome to Shri Bharat Singh at Chennai Airport"
+      },
+      {
+         "description" : "The ECF is delighted to report that Chess in Schools and Communities will be holding another ChessFest this summer on Sunday 17th July in Trafalgar...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-2022/",
+         "pubDate" : "Wed, 08 Jun 2022 15:52:36 +0000",
+         "title" : "ChessFest 2022"
+      },
+      {
          "description" : "GM Hikaru Nakamura dominated Titled Tuesday on June 7, winning both the early and late tournaments by a full point. He scored nine wins and two draws in both events for a 10/11 score in each.&#38;nbsp; Nakamura is still the only player to sweep both...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-june-7-2022",
-         "pubDate" : "Wed, 08 Jun 2022 08:27:40 -0700",
+         "pubDate" : "Wed, 08 Jun 2022 08:27:00 -0700",
          "title" : "Undefeated Nakamura Sweeps Another Double Tournament"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> has lined up <a href=\"https://twitter.com/GMHikaru/status/1533875961602756608\">eight fellow streamers</a>, no less, to rumble his <strong>Twitch</strong> and <strong>Youtube</strong> channels during his second run to win the <strong>Candidates Tournament</strong>. <strong>ChessLife</strong> published <a href=\"https://new.uschess.org/news/i-do-feel-big-responsibility\">an exclusive interview</a> with the 35-year old American. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
+         "pubDate" : "Wed, 08 Jun 2022 16:11:43 +0100",
+         "title" : "Nakamura and the eight streamers"
       },
       {
          "description" : "Direct Members are invited to apply to be Direct Members' Representatives. The term of office of current holders expires on 31 July 2022 but current...",
@@ -304,30 +352,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-norway-chess-day-6",
          "pubDate" : "Tue, 07 Jun 2022 04:55:00 -0700",
          "title" : "Carlsen Wins, Leads, Hits A 2870 Live Rating"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen scores a #TweetOftheDay with a direct call for support for Andrii Baryshpolets and his deputy Peter Heine Nielsen. More on the Baryshpolets campaign:&#160;Interview with Andrii Baryshpolets&#160;/&#160;Andrii Baryshpolets announces his candidacy&#160;/&#160;Andrii Baryshpolets on Twitter&#160;/&#160;All articles on Andrii Baryshpolets here&#160;More on the Dvorkovich campaign:&#160;Dvorkovich announces his team with Anand on board&#160;/&#160;Dvorkovich #SayChess hashtag []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-call-to-action-for-the-baryshpolets-nielsen-fide-election-bid-tweetoftheday/",
-         "pubDate" : "Tue, 07 Jun 2022 11:52:33 +0000",
-         "title" : "Carlsen call to action for the Baryshpolets / Nielsen FIDE election bid #TweetOftheDay"
-      },
-      {
-         "description" : "Hikaru Nakamura is gunning for the title at Candidates Chess 2022, entering as winner of the Grand Prix and is one of the rating favorites. However, this will not be the only feat that we can expect from Nakamura. He comments, &#8220;Not only am I in Spain preparing for the Candidates, Team Hikaru is prepping []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-live-stream-from-candidates-chess-2022/",
-         "pubDate" : "Tue, 07 Jun 2022 11:30:33 +0000",
-         "title" : "Hikaru Nakamura live stream from Candidates Chess 2022"
-      },
-      {
-         "description" : "A host city of two Chess Olympiads, Thessaloniki will now be the center of European chess attention this summer. Between July 11 and July 23 after the Candidates Chess 2022 and right before the Chess Olympiad 2022 the biggest northern Greek city is going to host three events the European Youth Team []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/thessaloniki-will-be-the-center-of-european-chess-this-summer/",
-         "pubDate" : "Tue, 07 Jun 2022 11:09:19 +0000",
-         "title" : "Thessaloniki will be the center of European chess this summer"
       },
       {
          "description" : "Magnus Carlsen played a game packed with pawn sacrifices to defeat Shakhriyar Mamedyarov in classical chess and take the sole lead with three rounds of Norway Chess 2022 to go. All the other matches went to Armageddon, with Anish Giri quipping \"I'm too old for these quick Armageddon games\" as he lost to 52-year-old Vishy Anand, who is just one point behind Magnus. There were also wins for Wesley So, Maxime Vachier-Lagrave and Veselin Topalov.",
@@ -1506,14 +1530,6 @@ news_feed (
          "title" : "It's about staying grounded for teen chess sensation Praggnanandhaa"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Romanian Chess Federation</strong> <a href=\"https://twitter.com/FrsahRo/status/1530180985047994369\">announced</a> that <strong>Rich&aacute;rd Rapport</strong> will join. The 26-year-old world championship candidate had very little support in Hungary and moved to Serbia six years ago. Behind his and is wife <strong>Jovana Rapport</strong>'s move to Romania is the owner of <strong>Superbet</strong> <strong>Sasha Dragic</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/rapport-to-represent-romania/",
-         "pubDate" : "Fri, 27 May 2022 16:57:40 +0100",
-         "title" : "Rapport to represent Romania"
-      },
-      {
          "description" : "The fourth season of the Collegiate Chess League came to a dramatic finish this weekend with the University of Texas Rio Grande Valley completing their perfect season 10-0 to win the championship title along with $5,000. They took down last season...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1858,14 +1874,6 @@ news_feed (
          "title" : "Jan-Krzysztof Duda wins Superbet Rapid & Blitz"
       },
       {
-         "description" : "The Queens Online Chess Festival 2022, a series of continental women's online blitz tournaments, starts on June 5th 2022. Female players from Africa, Asia, Europe...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/queens-online-chess-festival-2022/",
-         "pubDate" : "Tue, 24 May 2022 11:40:21 +0000",
-         "title" : "Queens Online Chess Festival 2022"
-      },
-      {
          "description" : "The Hamburger Schachklub von 1830 (HSK) is the largest and second oldest German chess club. It is also very active and currently organises two invitational tournaments in Hamburg: a GM tournament and an IM tournament, both featuring promising young players (pictured: Leon Mendonca) and experienced masters. With 3.0/3 GM Vasilios Kotronias from Greece (in the GM tournament) and IM Brandon Clarke from England (in the IM tournament) had the best start. | Photos: Frank Bracker",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2104,22 +2112,6 @@ news_feed (
          "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-schools-conference-successfully-concluded-in-zurich/",
          "pubDate" : "Thu, 19 May 2022 11:04:27 +0000",
          "title" : "\"Chess a Game to be Spread in Schools\" Conference successfully concluded in Zurich"
-      },
-      {
-         "description" : " The Superbet Rapid & Blitz took place in Warsaw 17th to 24th May 2022. Players: Fabiano Caruana, Richard Rapport, Wesley So, Levon Aronian, Viswanathan Anand, Jan-Krzysztof Duda, Radoslaw Wojtaszek, Anton Korobov, Kirill Shevchenko and David Gavrilescu. Viswanthan Anand dominated the Rapid starting with 5.5/6 and finishing with 7/9 but an inconsistent performance in the blitz allowed Duda to pip him by half a point in the combined standings at the end. <table class=\"results-table\" summary=\"Event 2013 Crosstable\"> <tr class=\"tabhead2\"><th>Rk</th><th>Name</th><th>Rapid</th><th>Blitz</th><th>Total</th></tr> <tr><td>1</td><td>Duda</td><td>12</td><td>12</td><td>24</td></tr> <tr><td>2</td><td>Aro",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-rapid-blitz-2022",
-         "pubDate" : "Wed, 18 May 2022 23:24:00 +0400",
-         "title" : "Superbet Rapid & Blitz 2022 - "
-      },
-      {
-         "description" : " The Chessable Masters take place Thu 19th May to Thu 26th May 2022 on chess24. This is an online event and part of the Meltwater Champions Chess Tour. Players: Magnus Carlsen, Ding Liren, Shakhriyar Mamedyarov, Jorden Van Foreest, Anish Giri, Wei Yi, David Anton Guijarro, Santosh Vidit, Sam Shankland, R Praggnanandhaa, Pentala Harikrishna, Nils Grandelius, Aryan Tari, Eric Hansen, Gawain C B Jones and Abhimanyu Mishra. Play starts at 17:00 BST each day.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2022",
-         "pubDate" : "Wed, 18 May 2022 23:19:00 +0400",
-         "title" : "Chessable Masters 2022 - "
       }
    ]
 }
