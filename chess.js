@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> has lined up <a href=\"https://twitter.com/GMHikaru/status/1533875961602756608\">eight fellow streamers</a>, no less, to rumble his <strong>Twitch</strong> and <strong>Youtube</strong> channels during his second attempt to win the <strong>Candidates Tournament</strong>. <strong>ChessLife</strong> published <a href=\"https://new.uschess.org/news/i-do-feel-big-responsibility\">an exclusive interview</a> with the 35-year old American. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
+         "pubDate" : "Wed, 08 Jun 2022 21:22:28 +0100",
+         "title" : "Nakamura and the eight streamers"
+      },
+      {
          "description" : "On Thursday, May 19, the National Scholastic Chess Foundation based in New York, held its&#xA0;first-ever awards dinner&#xA0;at the Marriott Brooklyn Bridge. Presented in partnership with ICC, the 2022 Chess Service Awards honored four women who have made a lifetime contribution to growing scholastic chess. Keeping with the FIDE Year of the Woman in Chess theme []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-june-7-2022",
          "pubDate" : "Wed, 08 Jun 2022 08:27:00 -0700",
          "title" : "Undefeated Nakamura Sweeps Another Double Tournament"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> has lined up <a href=\"https://twitter.com/GMHikaru/status/1533875961602756608\">eight fellow streamers</a>, no less, to rumble his <strong>Twitch</strong> and <strong>Youtube</strong> channels during his second run to win the <strong>Candidates Tournament</strong>. <strong>ChessLife</strong> published <a href=\"https://new.uschess.org/news/i-do-feel-big-responsibility\">an exclusive interview</a> with the 35-year old American. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
-         "pubDate" : "Wed, 08 Jun 2022 16:11:43 +0100",
-         "title" : "Nakamura and the eight streamers"
       },
       {
          "description" : "Direct Members are invited to apply to be Direct Members' Representatives. The term of office of current holders expires on 31 July 2022 but current...",
