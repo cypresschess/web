@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92073497.cms\" />Indian maestro Viswanathan Anand defeated Azerbaijan's Teimour Radjabov in the Armageddon in the seventh round of the Norway Chess tournament to remain in the second spot behind world number one Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-viswanathan-anand-beats-teimour-radjabov-magnus-carlsen-loses-to-aryan-tari/articleshow/92073497.cms",
+         "pubDate" : "Wed, 08 Jun 2022 04:58:53 +0000",
+         "title" : "Norway chess: Viswanathan Anand beats Teimour Radjabov"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1626,14 +1634,6 @@ news_feed (
          "title" : "Olympiad Curtain Raiser Rapid Chess Tournament 2022"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91801243.cms\" />The final of the Chessable Masters started with Ding Liren giving 16-year-old R Praggnanandhaa a tough test just hours after the talented youngster sat a real-life school exam.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-final-praggnanandhaa-falters-at-opening-hurdle/articleshow/91801243.cms",
-         "pubDate" : "Thu, 26 May 2022 02:44:07 +0000",
-         "title" : "Chessable Masters final: Praggnanandhaa falters at opening hurdle"
-      },
-      {
          "description" : " From the publishers' blurb: &#8220;GM Jan Werle is a professional chess trainer, coach and author. In 2008 he became EU Champion in Liverpool and reached his peak rating of 2607. Afterwards he finished his law studies, obtaining Master's degrees in Civil and Commercial Law, and embarked on a career as a lawyer. However his main <a href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Unbeatable!: The Art of Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\">Unbeatable!: The Art of Defense</a> ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-and-blitz-certificates-out-to-download/",
          "pubDate" : "Wed, 18 May 2022 09:51:04 +0000",
          "title" : "National Rapid and Blitz Certificates out to download"
-      },
-      {
-         "description" : "MPL 31st National U-18 (Open &#38; Girls) Chess Championship 2022 held at Dr. Mahalingam College of Engineering &#38; Technology, Pollachi, Tamilnadu from 18-23 April 2022",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-31st-national-under-18-open-girls-chess-championships-2022/",
-         "pubDate" : "Wed, 18 May 2022 05:18:03 +0000",
-         "title" : "MPL 31st National Under-18 (Open & Girls) CHESS CHAMPIONSHIPS - 2022"
       }
    ]
 }
