@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura dominated Titled Tuesday on June 7, winning both the early and late tournaments by a full point. He scored nine wins and two draws in both events for a 10/11 score in each.&#38;nbsp; Nakamura is still the only player to sweep both...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-june-7-2022",
+         "pubDate" : "Wed, 08 Jun 2022 08:27:40 -0700",
+         "title" : "Undefeated Nakamura Sweeps Another Double Tournament"
+      },
+      {
          "description" : "Direct Members are invited to apply to be Direct Members' Representatives. The term of office of current holders expires on 31 July 2022 but current...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-final-indias-praggnanandhaa-loses-to-ding-liren-in-tie-break/articleshow/91826864.cms",
          "pubDate" : "Fri, 27 May 2022 04:56:45 +0000",
          "title" : "Chessable Masters final: Praggnanandhaa loses to Ding Liren in tie-break"
-      },
-      {
-         "description" : "The 2022 IM Not A GM Speed Chess Championship continued on Thursday with the one of the event&#39;s most anticipated clashes, IM Eric Rosen vs. Levy Rozman. The two world-class content creators met in the quarterfinals for a rematch of last year&#39;s sho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-rosen-rozman",
-         "pubDate" : "Thu, 26 May 2022 18:00:05 -0700",
-         "title" : "Rosen Takes Revenge Vs Rozman: 2022 IMSCC, Quarterfinal"
       },
       {
          "description" : "",
