@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the past the ECF membership year has run from 1st September to 31st of the following August, and each year during July we open...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-memberships-2022-23/",
+         "pubDate" : "Wed, 08 Jun 2022 11:13:44 +0000",
+         "title" : "ECF memberships 2022/23"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave took his lifetime record against Wesley So to an incredible 6 wins to 1, Shakhriyar Mamedyarov beat Anish Giri, and Arjan Tari scored his first ever win over Magnus Carlsen in a dramatic Round 7 of Norway Chess. Vishy Anand's Armageddon win over Teimour Radjabov left him just half a point behind Magnus with two rounds to go in Stavanger, while Wang Hao picked up his first win after a miracle save against Veselin Topalov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-7-carlsen-giri-so-all-beaten",
+         "pubDate" : "Wed, 08 Jun 2022 10:49:35 +0000",
+         "title" : "Norway Chess 7: Carlsen, Giri & So all beaten"
+      },
+      {
+         "description" : "The Indian chess star Arjun Erigaisi attracted lots of attention after showing impressive results on the international chess scene. He recently won&#160;Delhi Chess 2022&#160;and the&#160;MPL Indian Chess Tour&#160;first leg,&#160;performing as the top seed in Menorca Chess Open 2022. With the current live rating of 2687.8, Erigaisi holds the 48th position on the world live rating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaisi-drops-out-of-college-to-focus-on-chess/",
+         "pubDate" : "Wed, 08 Jun 2022 10:24:37 +0000",
+         "title" : "Arjun Erigaisi drops out of college to focus on Chess"
+      },
+      {
+         "description" : "The Women Chess Conference Prague 2022 will be held from 25th-27th August in Prague's Hotel Don Giovanni, during the European Women's Chess Championship 2022. The Conference is open to all ECU federations (representatives, players, officials, etc) wishing to support and promote women and girls in chess on a national and international level. Some of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-chess-conference-prague-2022/",
+         "pubDate" : "Wed, 08 Jun 2022 09:55:28 +0000",
+         "title" : "Women Chess Conference Prague 2022"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave and Shakhriyar Mamedyarov won their round-7 classical encounters to climb to shared third place at the Norway Chess Tournament. Magnus Carlsen lost in Armageddon against Aryan Tari, but is still leading the standings table, albeit only by a half point - second-placed Vishy Anand won the sudden-death decider against Teimour Radjabov on Tuesday. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r7",
+         "pubDate" : "Wed, 08 Jun 2022 10:35:00 +0100",
+         "title" : "Norway Chess: Three-pointers for Shakh and MVL"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92079634.cms\" />The Delhi High Court, in a recent interim order on a plea of defeated candidate Ravindra Dongre, had injuncted Chauhan from acting as the secretary of the AICF on allegations ranging from electoral malpractice to violation of the national sports code.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sc-permits-aicf-secretary-to-continue-at-helm-for-chess-olympiad-in-india/articleshow/92079634.cms",
+         "pubDate" : "Wed, 08 Jun 2022 09:06:01 +0000",
+         "title" : "SC permits AICF secretary to continue at helm for Chess Olympiad"
+      },
+      {
+         "description" : "The ECU E-Magazine May 2022 is out! In this edition of the ECU E-Magazine you may read about: FIDE Candidates Chess Tournament 2022 Grand Chess Tour events in Romania and Poland Norway Chess 2022 ECU General Assembly 2022 &#8220;Chess: a Game to be Spread in Schools&#8221; Conference ECU EDU Working visit to Slovenia ECU101 The SMART&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-may-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-may-2022/",
+         "pubDate" : "Wed, 08 Jun 2022 09:00:42 +0000",
+         "title" : "ECU E-MAGAZINE MAY 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1802",
+         "pubDate" : "Wed, 08 Jun 2022 08:44:56 +0000",
+         "title" : "Pooja Lam wins Guyana Women's Championship"
+      },
+      {
+         "description" : "IM Danny Rensch eliminated the reigning Women&#39;s World Blitz Champion IM Bibisara Assaubayeva in the quarterfinals of the 2022 IM Not A GM Speed Chess Championship on Tuesday. Chess.com&#39;s Chief Chess Officer Rensch was leading after the 5+1 and 3+1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-im-not-a-gm-assaubayeva-rensch",
+         "pubDate" : "Wed, 08 Jun 2022 00:32:00 -0700",
+         "title" : "IMSCC: 'Local CrossFit Dad Beats Youngest World Blitz Champ'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92073497.cms\" />Indian maestro Viswanathan Anand defeated Azerbaijan's Teimour Radjabov in the Armageddon in the seventh round of the Norway Chess tournament to remain in the second spot behind world number one Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -72,14 +144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/girls-national-schools-championships-semi-finals/",
          "pubDate" : "Tue, 07 Jun 2022 15:59:41 +0000",
          "title" : "Girls National Schools Championships - semi-finals"
-      },
-      {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Tue, 07 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
       },
       {
          "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World History repeats itself with new actors if its lessons are not learned. Lately we have been going over the Greek gift sacrifice with the purpose to know <a href=\"https://chessimprover.com/self-inflicted-wounds-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-3/\">Self Inflicted Wounds (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -226,28 +290,12 @@ news_feed (
          "title" : "Timofey Bokhnak has a future in chess"
       },
       {
-         "description" : "The&#xA0;Prague Chess Festival 2022&#xA0;will take place 7-17 June. It will consist of a Masters 10 player round robin event, Challengers and Futures tournaments. The tournament will be live daily on Chessdom.com with detailed coverage and reports. Live: Prague Chess 2022 Masters and Prague Chess 2022 Challengers",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-chess-2022-live/",
-         "pubDate" : "Tue, 07 Jun 2022 08:15:36 +0000",
-         "title" : "Prague Chess 2022 LIVE"
-      },
-      {
          "description" : "The starter problem is attached below. White, playing up the board, is to play and force mate in two moves against any Black defence. There...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championships-2022-2023/",
          "pubDate" : "Tue, 07 Jun 2022 08:13:24 +0000",
          "title" : "Winton British Chess Solving Championships 2022-2023"
-      },
-      {
-         "description" : "The&#xA0;Prague Chess Festival 2022&#xA0;will take place 7-17 June. It will consist of a Masters 10 player round robin event, Challengers and Futures tournaments. Live: Prague Chess 2022 Masters and Prague Chess 2022 Challengers The opening ceremony of the 4th year of the Prague International Chess Festival is going to be held in a Prague four-star []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-chess-2022-opening-ceremony-and-information/",
-         "pubDate" : "Tue, 07 Jun 2022 08:12:33 +0000",
-         "title" : "Prague Chess 2022 opening ceremony and information"
       },
       {
          "description" : "The bodycheck is the most important motif in the endgame rook against pawn, which will sooner or later arise from the position shown in the diagram. In the actual game White did not find the correct defense and lost. Can you do better? White to move and draw!",
@@ -1602,22 +1650,6 @@ news_feed (
          "title" : "Peruvian Championship: Jorge Cori and Mitzy Caballero win titles"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91808659.cms\" />Indian teenage chess sensation Rameshbabu Praggnanandhaa is currently playing the final of the Chessable Masters online tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-all-you-need-to-know-about-the-tournament-where-indias-praggnanandhaa-is-playing-the-final/articleshow/91808659.cms",
-         "pubDate" : "Thu, 26 May 2022 08:10:12 +0000",
-         "title" : "Chessable Masters: All you need to know about the tournament"
-      },
-      {
-         "description" : "GM Ding Liren took a first step to winning the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters. The Chinese grandmaster beat GM Praggnanandhaa R in their first mini-match on Wednesday and needs only a tie on Thursday to win the $25,000 fir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chessable-masters-final-ding-praggnanandhaa",
-         "pubDate" : "Thu, 26 May 2022 00:22:00 -0700",
-         "title" : "Ding Leads Final: Chessable Masters, Day 7"
-      },
-      {
          "description" : "Chinese world no. 2 Ding Liren said his plan \"to avoid any complicated line\" paid off as he won both games with the black pieces on Day 1 of the Chessable Masters final. 16-year-old Indian prodigy Praggnanandhaa managed to hit back in Game 2 but was held to a draw in Game 4 as Ding Liren won the first mini-match 2.5:1.5. That means Pragg must now win Thursday's second match to force tiebreaks, or Ding Liren will have won his first Meltwater Champions Chess Tour title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1672,14 +1704,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/vidits-open-arena-2/",
          "pubDate" : "Wed, 25 May 2022 16:07:12 +0000",
          "title" : "Join Vidit's 2nd Open Arena Tournament"
-      },
-      {
-         "description" : "16-year-old Praggnanandhaa will play world no. 2 Ding Liren in the Chessable Masters final just hours after he sits school exams at home in Chennai, India. The prodigy played some brilliant chess to overcome heroic resistance from Anish Giri, while Ding Liren called it \"a little unbelievable\" that he finally beat World Champion Magnus Carlsen in an online tour knockout match. An extremely high-level clash featured chances for both players before Ding finally broke through in the 4th game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-6-pragg-ding-in-the-final-as-carlsen-giri-knocked-out",
-         "pubDate" : "Wed, 25 May 2022 11:16:26 +0000",
-         "title" : "Chessable Masters 6: Pragg-Ding in the final as Carlsen & Giri knocked out"
       },
       {
          "description" : " This week's Master Chess Web Show featured another special guest in FIDE Master Tim Wall. Tim told us how he got into chess, describes the chess scene in the North East and how he ended up in Russia as the editor of an English language newspaper: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-15/\">Master Chess Web Show (15)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2088,30 +2112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2022",
          "pubDate" : "Wed, 18 May 2022 23:19:00 +0400",
          "title" : "Chessable Masters 2022 - "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1765",
-         "pubDate" : "Wed, 18 May 2022 10:45:25 +0000",
-         "title" : "Munich will host a leg of Women's Grand Prix 2022-23"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1755",
-         "pubDate" : "Wed, 18 May 2022 10:26:36 +0000",
-         "title" : "Chess and brain ageing"
-      },
-      {
-         "description" : "National Rapid and Blitz, Nasik Certificates are out to download Links : Blitz https://aicf.online/National-Blitz.html Rapid https://aicf.online/National-Rapid.html Any Correction Mail at Aicfwebmaster2021@gmail.com &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-rapid-and-blitz-certificates-out-to-download/",
-         "pubDate" : "Wed, 18 May 2022 09:51:04 +0000",
-         "title" : "National Rapid and Blitz Certificates out to download"
       }
    ]
 }
