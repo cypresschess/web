@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2018 Candidate for FIDE President Georgios Makropoulos returns to chess politics, this time as a candidate for the FIDE Vice President. The Greek Chess Federation Board met on Saturday, 4th of June, and among other decisions related to the work of the Federation, announced the support of Makroupoulos's candidacy for the position of FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/georgios-makropoulos-returning-to-chess-politics-as-a-candidate-for-fide-vice-president/",
+         "pubDate" : "Thu, 09 Jun 2022 10:20:43 +0000",
+         "title" : "Georgios Makropoulos returning to chess politics as a candidate for FIDE Vice President"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> has lined up <a href=\"https://twitter.com/GMHikaru/status/1533875961602756608\">eight fellow streamers</a>, no less, to rumble his <strong>Twitch</strong> and <strong>Youtube</strong> channels during his second attempt to win the <strong>Candidates Tournament</strong>. <strong>ChessLife</strong> published <a href=\"https://new.uschess.org/news/i-do-feel-big-responsibility\">an exclusive interview</a> with the 35-year old American who is <a href=\"https://www.hollywoodreporter.com/business/digital/chess-streamer-hikaru-nakamura-signs-with-wme-1235160628/\">now represented by</a> the expanding, publicly listed agency <stron",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
+         "pubDate" : "Thu, 09 Jun 2022 11:11:56 +0100",
+         "title" : "Nakamura and the eight streamers"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>French Chess Federation</strong> is hesitating to accept the gender change of Yosha Igl&eacute;sias. Is affirmative action for female professionals at risk? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-06-09-at-10-29.1920.jpeg\" title=\"Yosha Igl&eacute;sias is a Paris-based chess teacher, youtuber and community manager at chess24. photo: private\" data-title=\"Yosha Igl&eacute;sias is a Paris-based chess teacher, [youtuber][1] and community manager at chess24. [1]: https://www.youtube.com/channel/UCzg9wQOjSliZnuNdlPqsxZg (photo: private)\" class=\"js-img\"> <img item",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/can-yosha-compete-as-a-woman/",
+         "pubDate" : "Thu, 09 Jun 2022 10:43:00 +0100",
+         "title" : "Can Yosha compete as a woman?"
+      },
+      {
+         "description" : "The 3rd stage of the Romanian Grand Prix will take place from 20-28 August in Miercurea Ciuc. Simultaneously with the Grand Prix event (open to players rated 2200+), the 25th jubilee classic chess tournament Caissa (for players rated U2200), and the youth 9th Balogh Janos Memorial (for children U12, U10, U8) will be held in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-grand-prix-stage-3-in-miercurea-ciuc/",
+         "pubDate" : "Thu, 09 Jun 2022 09:35:50 +0000",
+         "title" : "Romanian Grand Prix - Stage 3 in Miercurea Ciuc"
+      },
+      {
+         "description" : "The 1st Maharashtra International Open Grandmaster Chess Tournament 2022&#160;took place from 31 May to 8 June in Pune, India. More than 140 players from 13 countries participated in the event which was played in 11 swiss system rounds. Three players tied for the top scoring 8.5 points each and the tiebreak criteria determined the distribution []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/farrukh-amonatov-is-the-winner-of-1st-maharashtra-gm-open/",
+         "pubDate" : "Thu, 09 Jun 2022 08:54:05 +0000",
+         "title" : "Farrukh Amonatov is the Winner of 1st Maharashtra GM Open"
+      },
+      {
          "description" : "An extremely entertaining first round in the Masters section of the Prague Chess Festival saw Le Quang Liem, David Navara and Pentala Harikrishna scoring the first victories of the event to grab an early lead. Coincidentally, three players also won their first games in the Challengers. All six full points were collected by the player marshalling the white pieces. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-7",
          "pubDate" : "Wed, 08 Jun 2022 23:11:36 +0000",
          "title" : "2022 Summer Chess Classic: Round 7"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> has lined up <a href=\"https://twitter.com/GMHikaru/status/1533875961602756608\">eight fellow streamers</a>, no less, to rumble his <strong>Twitch</strong> and <strong>Youtube</strong> channels during his second attempt to win the <strong>Candidates Tournament</strong>. <strong>ChessLife</strong> published <a href=\"https://new.uschess.org/news/i-do-feel-big-responsibility\">an exclusive interview</a> with the 35-year old American. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
-         "pubDate" : "Wed, 08 Jun 2022 21:22:28 +0100",
-         "title" : "Nakamura and the eight streamers"
       },
       {
          "description" : "On Thursday, May 19, the National Scholastic Chess Foundation based in New York, held its&#xA0;first-ever awards dinner&#xA0;at the Marriott Brooklyn Bridge. Presented in partnership with ICC, the 2022 Chess Service Awards honored four women who have made a lifetime contribution to growing scholastic chess. Keeping with the FIDE Year of the Woman in Chess theme []",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-norway-chess-day-7",
          "pubDate" : "Wed, 08 Jun 2022 06:37:00 -0700",
          "title" : "Highpoints & Heartbreaks In Stavanger"
-      },
-      {
-         "description" : "Hikaru Nakamura won the FIDE Grand Prix series of events and therefore qualified for the FIDE Candidates Tournament 2022 which kicks off in less than 10 days in Madrid. Before taking part in the FIDE Grand Prix, Nakamura played no classical OTB games for more than two years and the triumph in the FIDE Grand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-shares-his-thoughts-on-candidates-streaming-and-the-future-of-american-chess-interview/",
-         "pubDate" : "Wed, 08 Jun 2022 12:53:35 +0000",
-         "title" : "Hikaru Nakamura shares his thoughts on Candidates, Streaming, and the Future of American Chess (INTERVIEW)"
       },
       {
          "description" : " In the latest episode of the Master Chess Web Show, Andrew Martin and I suggested that a good approach to playing Black was to adopt solid openings where Black adopts a small centre. White can claim to have a slight space advantage, but it is very hard to use; meanwhile Black can have excellent counterattacking <a href=\"https://chessimprover.com/master-chess-web-show-17/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (17)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-17/\">Master Chess Web Show (17)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -242,28 +266,12 @@ news_feed (
          "title" : "Togolese Chess on fire at Rapid/Blitz!"
       },
       {
-         "description" : "The FIDE Congress will be held in Chennai, India between&#xA0;31 July 2022 and 09 August 2022 as part of the Chess Olympiad 2022 (see all Olympiad news here).&#xA0;Part of it is the FIDE General Assembly, where on the agenda are the FIDE elections. A total of five presidential candidates tried to complete the requirements for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ukraine-vs-russia-in-fide-chess-elections-2022/",
-         "pubDate" : "Tue, 07 Jun 2022 18:27:08 +0000",
-         "title" : "Ukraine vs Russia in FIDE Chess Elections 2022 (updated)"
-      },
-      {
          "description" : "Alexander Nikitin passed away on June 5, at the age of 87. A strong International Master himself, Nikitin was one of the most distinguished chess coaches in history. Among others, he trained Dmitry Jakovenko, Etienne Bacrot and 13th world champion Garry Kasparov. GM Emil Sutovsky wrote an obituary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/alexander-nikitin-obituary",
          "pubDate" : "Tue, 07 Jun 2022 19:00:00 +0100",
          "title" : "Alexander Nikitin (1935-2022)"
-      },
-      {
-         "description" : "The first-ever Chess Olympiad Torch Relay will be carried out at the 44th Chess Olympiad 2022 in Chennai, India as FIDE today announced a new tradition of institutionalizing the Chess Olympiad Torch Relay. With 50 days to go, the Olympiad in Chennai broke participants records with&#160;187 countries already enrolled.&#160; &#8220;Starting from the 44th Chess Olympiad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/torch-relay-for-the-first-time-ever-in-chess-olympiad/",
-         "pubDate" : "Tue, 07 Jun 2022 17:58:48 +0000",
-         "title" : "Torch Relay for the first time ever in Chess Olympiad"
       },
       {
          "description" : " <p class=\"lead\">In the first six rounds of the super tournament in Stavanger, Magnus Carlsen scored 4.5 points. He once again hit the 2,870-point rating mark. The highest rating the World Chess Champion had was back in August 2019, when he was at 2882. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-06-07_15-55-56.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> The world champion maintains the impressive 39 games streak undefeated in classical time control, with 19 wins and 19 draws. <a href=\"https://chessarena.com/broadcasts/17645?utm_source=news&utm_medium=website&utm_campaign=Norway&utm_content=watch\" class=\"wchess_button\">Watch the broadcast!</a> ",
@@ -1362,14 +1370,6 @@ news_feed (
          "title" : "Lost Empires"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> announced that he might not defend the classical world champion title again. Is it unfair to his colleagues who compete at the forthcoming <strong>Candidates Tournament?</strong> </div> <div class='articletext'> <div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/lon03886.1920.jpeg\" title=\"Will he play another match? Magnus Carlsen wants to see the Candidates first and decide after. Lennart Ootes / Altibox Norway Chess\" data-title=\"Will he play another match? Magnus Carlsen wants to see the Candidates first and decide after. (Lennart Ootes / Altibox Norway Chess)\" class=\"js-img\"> <img itempro",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/should-carlsen-decide-now/",
-         "pubDate" : "Sun, 29 May 2022 10:03:52 +0100",
-         "title" : "Should Carlsen decide now?"
-      },
-      {
          "description" : "Machgielis \"Max\" Euwe is one of the most esteemed figures in chess history. A teacher and a professed chess amateur, he did the unthinkable when he became world champion in 1935, defeating an all-time great in Alexander Alekhine. On top of that, he was a perennial top player from the late 1920s to the 1950s, an outstanding writer, and F&eacute;d&eacute;ration Internationale des Échecs (FIDE) President in the latter part of his life. On the recent occasion of Euwe's 121st birth anniversary, Eugene Manlapao explores the life and times of chess' 5th world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/fide-elections.html",
          "pubDate" : "Thu, 19 May 2022 13:48:00 +0000",
          "title" : "FIDE Elections"
-      },
-      {
-         "description" : "The Chess in School conference &#8220;Chess a Game to be Spread in Schools&#8221; a took place on 14th May 2022 in Dorint Airport Hotel, Zurich. On behalf of Swiss Chess Federation Secretary General Mr. Oliver Marti welcomed all participants in Zurich. Main items in the program: CGS project overall presentation Psychomotricity on giant chessboard - CASTLE/ERASMUS+ project Report&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-a-game-to-be-spread-in-schools-conference-successfully-concluded-in-zurich/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/chess-a-game-to-be-spread-in-schools-conference-successfully-concluded-in-zurich/",
-         "pubDate" : "Thu, 19 May 2022 11:04:27 +0000",
-         "title" : "\"Chess a Game to be Spread in Schools\" Conference successfully concluded in Zurich"
       }
    ]
 }
