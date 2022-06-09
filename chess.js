@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92112811.cms\" />Tamil Nadu Chief Minister MK Stalin on Thursday launched the official logo and mascot of the 44th Chess Olympiad, slated near here next month, and said hosting the sporting event is an \"absolute honour\" for this capital city.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tamil-nadu-cm-launches-logo-mascot-of-44th-chess-olympiad/articleshow/92112811.cms",
+         "pubDate" : "Thu, 09 Jun 2022 17:30:00 +0000",
+         "title" : "Tamil Nadu CM launches logo, mascot of 44th Chess Olympiad"
+      },
+      {
+         "description" : "The French Chess Federation announced the National Open and Women's teams for the upcoming 44th Chess Olympiad 2022. French Team (Open section): GM Jules Moussard (2668) GM Maxime Lagarde (2628) GM Laurent Fressinet (2624) GM Matthieu Cornette (2563) GM Marc'Andria Maurizzi (2490) GM Sebastian Maze will captain the team which will compete with an average []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/france-announces-teams-for-the-44th-chess-olympiad-2022/",
+         "pubDate" : "Thu, 09 Jun 2022 16:37:11 +0000",
+         "title" : "France announces teams for the 44th Chess Olympiad 2022"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #518, Merijn van Delft analyses Magnus Carlsen's win over Shakhriyar Mamedyarov from the sixth round of the Norway Chess Tournament - a trademark victory by the world champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +34,22 @@ news_feed (
          "title" : "Norway Chess: Live"
       },
       {
+         "description" : "The All India Chess Federation presents the Official Logo of the 44th Chess Olympiad 2022 which kicks off in less than 50 days in Chennai. The participation record-breaking Olympiad in Chennai will feature the first-ever Chess Olympiad Torch Relay.187 countries enrolled for the event, and multiple teams have already announced their composition. Click on each []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/official-logo-of-the-44th-chess-olympiad-tweetoftheday/",
+         "pubDate" : "Thu, 09 Jun 2022 15:48:05 +0000",
+         "title" : "Official Logo of the 44th Chess Olympiad #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1803",
+         "pubDate" : "Thu, 09 Jun 2022 15:30:55 +0000",
+         "title" : "Presidential ticket candidacies announced"
+      },
+      {
          "description" : "The Women Chess Conference Prague 2022 will be held from 25th-27th August in Hotel Don Giovanni, during the European Women's Chess Championship. The Conference is open to all ECU federations (representatives, players, officials, etc) aiming to support and promote women and girls in chess on a national and international level. Some of the Invited Guests and Speakers are:&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/women-chess-conference-prague-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -29,9 +61,9 @@ news_feed (
          "description" : "All good things must come to an end, and Chess.com Chief Chess Officer IM Danny Rensch saw his amazing run into the semifinals of the 2022 IM Not A GM Speed Chess Championship conclude on Wednesday, as IM Eric Rosen became the first finalist of th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-im-not-a-gm-rosen-rensch",
-         "pubDate" : "Thu, 09 Jun 2022 07:33:18 -0700",
-         "title" : "Oh No, His Tournament: Rosen Defeats Rensch"
+         "link" : "https://www.chess.com/news/view/2022-imscc-rosen-rensch",
+         "pubDate" : "Thu, 09 Jun 2022 07:33:00 -0700",
+         "title" : "Rosen Runs Away In Bullet, Advances To Final"
       },
       {
          "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of active defence with a pair of rooks, the strength of a bishop pair in an open position and the advantage of having outside passed pawns in an endgame. | Photo: Lennart Ootes / Norway Chess",
@@ -168,22 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-7",
          "pubDate" : "Wed, 08 Jun 2022 23:11:36 +0000",
          "title" : "2022 Summer Chess Classic: Round 7"
-      },
-      {
-         "description" : "On Thursday, May 19, the National Scholastic Chess Foundation based in New York, held its&#xA0;first-ever awards dinner&#xA0;at the Marriott Brooklyn Bridge. Presented in partnership with ICC, the 2022 Chess Service Awards honored four women who have made a lifetime contribution to growing scholastic chess. Keeping with the FIDE Year of the Woman in Chess theme []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nscf-icc-present-chess-service-awards/",
-         "pubDate" : "Wed, 08 Jun 2022 18:52:40 +0000",
-         "title" : "NSCF/ICC present Chess Service Awards"
-      },
-      {
-         "description" : "England's National Chess Library is made up of around 7,000 books from a number of collections left to the BCF, including Harry Golombek&#x2019; s personal collection, which forms the core of the library. The library was housed in Hastings, then the ECF Offices in Battle and was recently transferred to safe keeping within the Kimberlin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/englands-national-chess-library-with-7000-books-settled-in-leicester/",
-         "pubDate" : "Wed, 08 Jun 2022 18:36:03 +0000",
-         "title" : "England's National Chess Library with 7000 Books settled in Leicester"
       },
       {
          "description" : "Team AICF and chess enthusiasts given a grand welcome to Shri Bharat Singh Chauhan at Chennai Airport after supreme court of India reinstates him as",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ding-survives-pragg-comeback-to-win-chessable-masters",
          "pubDate" : "Fri, 27 May 2022 07:33:45 +0000",
          "title" : "Ding survives Pragg comeback to win Chessable Masters"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91826864.cms\" />The 16-year-old Praggnanandhaa from Chennai fought back to win the second set after having lost the opener, but then lost the two-game blitz tie-breaker against Liren. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chessable-masters-final-indias-praggnanandhaa-loses-to-ding-liren-in-tie-break/articleshow/91826864.cms",
-         "pubDate" : "Fri, 27 May 2022 04:56:45 +0000",
-         "title" : "Chessable Masters final: Praggnanandhaa loses to Ding Liren in tie-break"
       },
       {
          "description" : "",
