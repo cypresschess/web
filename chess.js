@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The penultimate 8th round of Norway Chess 2022 saw two classical decisive games and three Armageddons. Magnus Carlsen kept the sole leadership in the event but heads into the last round with only 0.5 point advantage over Shakhriyar Mameydarov. Magnus Carlsen and Maxime Vachier-Lagrave went for the always interesting Grunfeld defense. MVL came out of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-remains-in-sole-lead-of-norway-chess-2022-with-one-round-to-go/",
+         "pubDate" : "Thu, 09 Jun 2022 22:59:35 +0000",
+         "title" : "Carlsen remains in sole lead of Norway Chess 2022 with one round to go"
+      },
+      {
+         "description" : "Defending champion Sam Shankland bounced back from his first-round loss against Le Quang Liem by beating Saleh Salem with the white pieces in the Masters section of the Prague Chess Festival. This was the only decisive game of the day. A more eventful second round in the Challengers saw four players scoring wins with white - one of the winners was Vincent Keymer, who grabbed the sole lead as the only participant who scored back-to-back victories in the first two rounds. | Photos: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r2",
+         "pubDate" : "Thu, 09 Jun 2022 23:50:00 +0100",
+         "title" : "Prague: Shankland beats Salem"
+      },
+      {
          "description" : "This week Robert Ris looks at a fine victory by Alexei Shirov, who recently defeated Jorden van Foreest in a 4-game mini match that took place in Limburg. Fire on board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,28 +90,12 @@ news_feed (
          "title" : "Rosen Runs Away In Bullet, Advances To Final"
       },
       {
-         "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of active defence with a pair of rooks, the strength of a bishop pair in an open position and the advantage of having outside passed pawns in an endgame. | Photo: Lennart Ootes / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgames-from-stavanger",
-         "pubDate" : "Thu, 09 Jun 2022 15:20:00 +0100",
-         "title" : "Endgames from Stavanger"
-      },
-      {
          "description" : " Nominations have closed for the upcoming FIDE Presidential elections and although 5 tickets were lodged, only 4 met the eligibility criteria. The one that missed out was actually the first to go public, the Fumey/Fancy ticket. Part of their motivation was to show that international chess shouldn't just be about European federations, which was ironically their undoing, as no European federation would nominate them. The 4 eligible tickets are - Mr. Andrii Baryshpolets and Mr. Peter-Heine Nielsen; - Mr. Inalbek Cheripov and Mr. Lewis Ncube; - Mr. Arkady Dvorkovich and Mr. Anand Viswanathan; - Mr. Bachar Kouatly and Mr. Ian Wilkinson. Each ticket required a minimum of 5 federations to support t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/06/a-4-way-election-for-fide-president.html",
          "pubDate" : "Thu, 09 Jun 2022 14:12:00 +0000",
          "title" : "A 4 way election for FIDE President"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Thu, 09 Jun 2022 14:55:00 +0100",
-         "title" : "Prague Chess Festival: Live"
       },
       {
          "description" : "The FIDE Congress will be held in Chennai, India between&#160;31 July 2022 and 09 August 2022&#160;as part of the&#160;Chess Olympiad 2022&#160;(see all Olympiad news&#160;here).&#160;Part of it is the FIDE General Assembly, where on the agenda are the&#160;FIDE elections. A total of five presidential candidates&#xA0;tried to complete the requirements for a valid presidential ticket. According to []",
@@ -136,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/matthew-sadler-thinks-the-4-player-types-model-is-worth-a-serious-look",
          "pubDate" : "Thu, 09 Jun 2022 14:06:56 +0100",
          "title" : "Matthew Sadler thinks the \"4 Player Types Model\" is worth a look"
+      },
+      {
+         "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of active defence with a pair of rooks, the strength of a bishop pair in an open position and the advantage of having outside passed pawns in an endgame. | Photo: Lennart Ootes / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgames-from-stavanger",
+         "pubDate" : "Thu, 09 Jun 2022 14:00:00 +0100",
+         "title" : "Endgames from Stavanger"
       },
       {
          "description" : "19-year-old Alireza Firouzja is an Iranian-French&#160;grandmaster who holds the No3 position in the FIDE world chess rankings since May this year. With a peak rating of 2804, Firouzja was the youngest chess player ever to cross 2800, beating the previous record set by Magnus Carlsen. Read more: FIDE&#x2019;s top dominated by youth Alireza Firouzja became []",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/farrukh-amonatov-is-the-winner-of-1st-maharashtra-gm-open/",
          "pubDate" : "Thu, 09 Jun 2022 08:54:05 +0000",
          "title" : "Farrukh Amonatov is the Winner of 1st Maharashtra GM Open"
-      },
-      {
-         "description" : "Zimbabwe Chess Federation announced the composition of Open and Women's National Teams for the 44th Chess Olympiad 2022 which starts in less than 50 days in Chennai. Zimbabwe Team (Open section): IM Rodwell Makoto Spencer Masango Jemusse Zhemba Emarald Takudzwa Mushore Roy Mwadzura Zimbabwe Team (Women's Section): WCM Kudzanayi Charinda Linda Dalitso Shaba Christine Makwena []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zimbabwe-announces-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Thu, 09 Jun 2022 08:44:00 +0000",
-         "title" : "Zimbabwe announces Teams for 44th Chess Olympiad 2022"
       },
       {
          "description" : "An extremely entertaining first round in the Masters section of the Prague Chess Festival saw Le Quang Liem, David Navara and Pentala Harikrishna scoring the first victories of the event to grab an early lead. Coincidentally, three players also won their first games in the Challengers. All six full points were collected by the player marshalling the white pieces. | Photo: Petr Vrabec",
@@ -2104,22 +2104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/may/20/chess-carlsen-goes-head-to-head-with-ding-liren-as-world-top-two-meet",
          "pubDate" : "Fri, 20 May 2022 07:00:44 +0000",
          "title" : "Chess: Carlsen goes head to head with Ding Liren as world top two meet"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1771",
-         "pubDate" : "Thu, 19 May 2022 22:11:40 +0000",
-         "title" : "Superbet Rapid & Blitz: Day 1 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1770",
-         "pubDate" : "Thu, 19 May 2022 21:30:34 +0000",
-         "title" : "Fast-start to the Chessable Masters as youngsters impress"
       }
    ]
 }
