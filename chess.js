@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #518, Merijn van Delft analyses Magnus Carlsen's win over Shakhriyar Mamedyarov from the sixth round of the Norway Chess Tournament - a trademark victory by the world champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-518-carlsen-vs-mamedyarov",
+         "pubDate" : "Thu, 09 Jun 2022 17:00:00 +0100",
+         "title" : "Game of the Week #519: Carlsen vs Mamedyarov"
+      },
+      {
+         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
+         "pubDate" : "Thu, 09 Jun 2022 16:55:00 +0100",
+         "title" : "Norway Chess: Live"
+      },
+      {
+         "description" : "The Women Chess Conference Prague 2022 will be held from 25th-27th August in Hotel Don Giovanni, during the European Women's Chess Championship. The Conference is open to all ECU federations (representatives, players, officials, etc) aiming to support and promote women and girls in chess on a national and international level. Some of the Invited Guests and Speakers are:&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/women-chess-conference-prague-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/women-chess-conference-prague-2022/",
+         "pubDate" : "Thu, 09 Jun 2022 15:25:03 +0000",
+         "title" : "Women Chess Conference Prague 2022"
+      },
+      {
+         "description" : "All good things must come to an end, and Chess.com Chief Chess Officer IM Danny Rensch saw his amazing run into the semifinals of the 2022 IM Not A GM Speed Chess Championship conclude on Wednesday, as IM Eric Rosen became the first finalist of th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-im-not-a-gm-rosen-rensch",
+         "pubDate" : "Thu, 09 Jun 2022 07:33:18 -0700",
+         "title" : "Oh No, His Tournament: Rosen Defeats Rensch"
+      },
+      {
+         "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of active defence with a pair of rooks, the strength of a bishop pair in an open position and the advantage of having outside passed pawns in an endgame. | Photo: Lennart Ootes / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgames-from-stavanger",
+         "pubDate" : "Thu, 09 Jun 2022 15:20:00 +0100",
+         "title" : "Endgames from Stavanger"
+      },
+      {
+         "description" : " Nominations have closed for the upcoming FIDE Presidential elections and although 5 tickets were lodged, only 4 met the eligibility criteria. The one that missed out was actually the first to go public, the Fumey/Fancy ticket. Part of their motivation was to show that international chess shouldn't just be about European federations, which was ironically their undoing, as no European federation would nominate them. The 4 eligible tickets are - Mr. Andrii Baryshpolets and Mr. Peter-Heine Nielsen; - Mr. Inalbek Cheripov and Mr. Lewis Ncube; - Mr. Arkady Dvorkovich and Mr. Anand Viswanathan; - Mr. Bachar Kouatly and Mr. Ian Wilkinson. Each ticket required a minimum of 5 federations to support t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/a-4-way-election-for-fide-president.html",
+         "pubDate" : "Thu, 09 Jun 2022 14:12:00 +0000",
+         "title" : "A 4 way election for FIDE President"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
+         "pubDate" : "Thu, 09 Jun 2022 14:55:00 +0100",
+         "title" : "Prague Chess Festival: Live"
+      },
+      {
+         "description" : "The FIDE Congress will be held in Chennai, India between&#160;31 July 2022 and 09 August 2022&#160;as part of the&#160;Chess Olympiad 2022&#160;(see all Olympiad news&#160;here).&#160;Part of it is the FIDE General Assembly, where on the agenda are the&#160;FIDE elections. A total of five presidential candidates&#xA0;tried to complete the requirements for a valid presidential ticket. According to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-electoral-commission-confirms-four-valid-presidential-ticket-candidacies/",
+         "pubDate" : "Thu, 09 Jun 2022 13:40:33 +0000",
+         "title" : "FIDE Electoral Commission confirms four valid Presidential ticket candidacies"
+      },
+      {
+         "description" : " <p class=\"lead\">An exclusive by <a href=\"https://www.hollywoodreporter.com/business/digital/chess-streamer-hikaru-nakamura-signs-with-wme-1235160628/\">The Hollywood reporter</a> reveals that GM and Professional streamer Hikaru Nakamura changed agency a week before the 2022 Candidates. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-06-09_16-22-33.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> Chess superstar Hikaru Nakamura has been signed by WME for worldwide representation in all areas. The agency will expand Nakamura's business across digital, literary, brand partnerships, non-scripted televisi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hikaru-nakamura-signs-with-wme/",
+         "pubDate" : "Thu, 09 Jun 2022 13:23:24 +0000",
+         "title" : "Hikaru Nakamura Signs With WME"
+      },
+      {
+         "description" : "Breaking: The Deputy and the Vice President of current FIDE President Arkady Dvorkovich are running against him in the upcoming FIDE Elections that will take place during the Chess Olympiad 2022. The French Grandmaster and current FIDE Deputy President Bachar Kouatly is running for FIDE President, with current FIDE Vice Ian Wilkinson as his candidate []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bachar-kouatly-is-running-for-fide-president/",
+         "pubDate" : "Thu, 09 Jun 2022 13:22:57 +0000",
+         "title" : "Bachar Kouatly is running for FIDE President"
+      },
+      {
+         "description" : "The FIDE Congress will be held in Chennai, India between&#xA0;31 July 2022 and 09 August 2022&#xA0;as part of the&#xA0;Chess Olympiad 2022&#xA0;(see all Olympiad news&#xA0;here).&#xA0;Part of it is the FIDE General Assembly, where on the agenda are the&#xA0;FIDE elections. A total of five presidential candidates tried to complete the requirements for a valid presidential ticket. According []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-elections-list-of-federations-with-voting-powers-electoral-commission-report/",
+         "pubDate" : "Thu, 09 Jun 2022 13:13:59 +0000",
+         "title" : "FIDE Elections - List of Federations with voting powers & Electoral Commission Report"
+      },
+      {
+         "description" : "Are you an 'Activist', a 'Theorist', a 'Reflector' or a 'Pragmatist', the four types of players identified by Karsten M&uuml;ller and Luis Engel in their ChessBase course about player types? It might help to know, and in a review in the \"New in Chess Magazine\" English Grandmaster Matthew Sadler talks about the pros and cons of such a model and argues that it is useful to identify your strengths and weaknesses if you want to improve your game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/matthew-sadler-thinks-the-4-player-types-model-is-worth-a-serious-look",
+         "pubDate" : "Thu, 09 Jun 2022 14:06:56 +0100",
+         "title" : "Matthew Sadler thinks the \"4 Player Types Model\" is worth a look"
+      },
+      {
+         "description" : "19-year-old Alireza Firouzja is an Iranian-French&#160;grandmaster who holds the No3 position in the FIDE world chess rankings since May this year. With a peak rating of 2804, Firouzja was the youngest chess player ever to cross 2800, beating the previous record set by Magnus Carlsen. Read more: FIDE&#x2019;s top dominated by youth Alireza Firouzja became []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-the-futures-best/",
+         "pubDate" : "Thu, 09 Jun 2022 12:47:16 +0000",
+         "title" : "Alireza Firouzja - The Future's Best?"
+      },
+      {
          "description" : "The 2018 Candidate for FIDE President Georgios Makropoulos returns to chess politics, this time as a candidate for the FIDE Vice President. The Greek Chess Federation Board met on Saturday, 4th of June, and among other decisions related to the work of the Federation, announced the support of Makroupoulos's candidacy for the position of FIDE []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -42,6 +146,14 @@ news_feed (
          "title" : "Farrukh Amonatov is the Winner of 1st Maharashtra GM Open"
       },
       {
+         "description" : "Zimbabwe Chess Federation announced the composition of Open and Women's National Teams for the 44th Chess Olympiad 2022 which starts in less than 50 days in Chennai. Zimbabwe Team (Open section): IM Rodwell Makoto Spencer Masango Jemusse Zhemba Emarald Takudzwa Mushore Roy Mwadzura Zimbabwe Team (Women's Section): WCM Kudzanayi Charinda Linda Dalitso Shaba Christine Makwena []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zimbabwe-announces-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Thu, 09 Jun 2022 08:44:00 +0000",
+         "title" : "Zimbabwe announces Teams for 44th Chess Olympiad 2022"
+      },
+      {
          "description" : "An extremely entertaining first round in the Masters section of the Prague Chess Festival saw Le Quang Liem, David Navara and Pentala Harikrishna scoring the first victories of the event to grab an early lead. Coincidentally, three players also won their first games in the Challengers. All six full points were collected by the player marshalling the white pieces. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/englands-national-chess-library-with-7000-books-settled-in-leicester/",
          "pubDate" : "Wed, 08 Jun 2022 18:36:03 +0000",
          "title" : "England's National Chess Library with 7000 Books settled in Leicester"
-      },
-      {
-         "description" : "The Las Vegas Chess Festival 2022 commences today and includes the National Open, the US Women&#x2019;s Open, International Youth Championship and many side events. The famous chess streamer and the women&#x2019;s grandmaster Qiyu Zhou (AkaNemsko)&#160;announced she has just arrived in Las Vegas to compete in the National Open. This will be Nemo's first OTB tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/akanemsko-will-stream-her-games-from-las-vegas-chess-festival-2022/",
-         "pubDate" : "Wed, 08 Jun 2022 18:19:38 +0000",
-         "title" : "AkaNemsko will stream her games from Las Vegas Chess Festival 2022"
       },
       {
          "description" : "Team AICF and chess enthusiasts given a grand welcome to Shri Bharat Singh Chauhan at Chennai Airport after supreme court of India reinstates him as",
@@ -154,14 +258,6 @@ news_feed (
          "title" : "Prague International Chess Festival 2022 - Games and Results"
       },
       {
-         "description" : "Aryan Tari defeated Magnus Carlsen in the 7th round of Norway Chess. Tari chose to play a solid line as White in the game with classical time control, then winning an Armageddon to score a victory against the reigning World Chess Champion. In a post-match interview, Tari said he was afraid Magnus won't be his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aryan-tari-i-was-afraid-magnus-wont-be-my-friend-after-i-played-this-line/",
-         "pubDate" : "Wed, 08 Jun 2022 11:32:37 +0000",
-         "title" : "Aryan Tari: I was afraid Magnus won't be my friend after I played this line"
-      },
-      {
          "description" : "In the past the ECF membership year has run from 1st September to 31st of the following August, and each year during July we open...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -176,22 +272,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/norway-chess-7-carlsen-giri-so-all-beaten",
          "pubDate" : "Wed, 08 Jun 2022 10:49:35 +0000",
          "title" : "Norway Chess 7: Carlsen, Giri & So all beaten"
-      },
-      {
-         "description" : "The Indian chess star Arjun Erigaisi attracted lots of attention after showing impressive results on the international chess scene. He recently won&#160;Delhi Chess 2022&#160;and the&#160;MPL Indian Chess Tour&#160;first leg,&#160;performing as the top seed in Menorca Chess Open 2022. With the current live rating of 2687.8, Erigaisi holds the 48th position on the world live rating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-drops-out-of-college-to-focus-on-chess/",
-         "pubDate" : "Wed, 08 Jun 2022 10:24:37 +0000",
-         "title" : "Arjun Erigaisi drops out of college to focus on Chess"
-      },
-      {
-         "description" : "The Women Chess Conference Prague 2022 will be held from 25th-27th August in Prague's Hotel Don Giovanni, during the European Women's Chess Championship 2022. The Conference is open to all ECU federations (representatives, players, officials, etc) wishing to support and promote women and girls in chess on a national and international level. Some of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-chess-conference-prague-2022/",
-         "pubDate" : "Wed, 08 Jun 2022 09:55:28 +0000",
-         "title" : "Women Chess Conference Prague 2022"
       },
       {
          "description" : "Maxime Vachier-Lagrave and Shakhriyar Mamedyarov won their round-7 classical encounters to climb to shared third place at the Norway Chess Tournament. Magnus Carlsen lost in Armageddon against Aryan Tari, but is still leading the standings table, albeit only by a half point - second-placed Vishy Anand won the sudden-death decider against Teimour Radjabov on Tuesday. | Photo: Lennart Ootes",
@@ -248,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-6",
          "pubDate" : "Wed, 08 Jun 2022 02:10:47 +0000",
          "title" : "2022 Summer Chess Classic: Round 6"
-      },
-      {
-         "description" : "The 7th round of Norway Chess 2022 brought interesting matches that finished with two decisive games with classical time control and three Armageddons. Magnus Carlsen maintained the sole lead in the event despite a loss he suffered against his compatriot Aryan Tari. There are only two rounds left to be played and the players will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-loses-to-tari-but-maintains-the-sole-lead-in-norway-chess-2022/",
-         "pubDate" : "Tue, 07 Jun 2022 21:45:46 +0000",
-         "title" : "Carlsen loses to Tari but maintains the sole lead in Norway Chess 2022"
       },
       {
          "description" : " Togo is a country of some eight million with a growing chess-playing segment. With its Founder and President on hand to welcome the players and guests, the Togo Chess Federation also had Dr. Lieutenant-Colonel Lidi Bessi-Kama bless the event. FIDE Presidential candidate Noel Enyonam Fumey was also in the building and welcomed the participants to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/\">Togolese Chess on fire at Rapid/Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1610,14 +1682,6 @@ news_feed (
          "title" : "Ding survives Pragg comeback to win Chessable Masters"
       },
       {
-         "description" : "GM Ding Liren won the 2022 Meltwater Champions Chess Tour&#39;s Chessable Masters despite a comeback by GM Praggnanandhaa R, who won Thursday&#39;s second mini-match. It was Ding who clinched the title and the $25,000 first prize by winning a two-game pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-liren-wins-2022-chessable-masters",
-         "pubDate" : "Fri, 27 May 2022 00:14:00 -0700",
-         "title" : "Ding Liren Wins 2022 Chessable Masters"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91826864.cms\" />The 16-year-old Praggnanandhaa from Chennai fought back to win the second set after having lost the opener, but then lost the two-game blitz tie-breaker against Liren. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1874,30 +1938,6 @@ news_feed (
          "title" : "Jan-Krzysztof Duda wins Superbet Rapid & Blitz"
       },
       {
-         "description" : "The Hamburger Schachklub von 1830 (HSK) is the largest and second oldest German chess club. It is also very active and currently organises two invitational tournaments in Hamburg: a GM tournament and an IM tournament, both featuring promising young players (pictured: Leon Mendonca) and experienced masters. With 3.0/3 GM Vasilios Kotronias from Greece (in the GM tournament) and IM Brandon Clarke from England (in the IM tournament) had the best start. | Photos: Frank Bracker",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-invitational-tournaments-in-hamburg",
-         "pubDate" : "Tue, 24 May 2022 11:52:26 +0100",
-         "title" : "Two invitational tournaments in Hamburg"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda won the Superbet Rapid & Blitz tournament in Warsaw. The Polish star collected 6&frac12;/9 points on the final day of action to overcome long-time sole leader Vishy Anand in the standings table. Anand tied in second place with Levon Aronian, who scored 13&frac12;/18 points in the blitz section and thus climbed to first place in the blitz world ranking. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2022-d5",
-         "pubDate" : "Tue, 24 May 2022 11:15:00 +0100",
-         "title" : "Duda comes from behind, wins Superbet Rapid & Blitz Poland"
-      },
-      {
-         "description" : "In the quarterfinals of the Chessable Masters, Magnus Carlsen, Ding Liren and Anish Giri beat their opponents quite confidently. In the duel of talents, Praggnanandhaa won 2.5-1.5 against Wei Yi. | Photos and pictures: Play Magnus Group",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-carlsen-ding-praggnanandhaa-and-giri-qualify-for-the-semifinals",
-         "pubDate" : "Tue, 24 May 2022 11:00:00 +0100",
-         "title" : "Chessable Masters: Carlsen, Ding, Praggnanandhaa and Giri qualify for the semifinals"
-      },
-      {
          "description" : " <p class=\"lead\">The Polish GM Jan-Krzysztof Duda won the 2022 Superbet Rapid & Blitz Poland half a point ahead of Vishy Anand and Levon Aronian. But Duda was not the only \"winner\" as Fabiano Caruana (+10) and Levon Aronian (+9) climbed the blitz rating list after their remarkable performance, surpassing Carlsen who is now downgraded to 4th place! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-1.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The former World Champion Vishy Anand had a stunning performance in the rapid chess but unfortunately faded in blitz. Nevertheless, the 52-year-old GM still tied for first after losing his last two game",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1906,28 +1946,12 @@ news_feed (
          "title" : "Duda is the 2022 Superbet Rapid & Blitz Poland King"
       },
       {
-         "description" : "Stalemate motifs often play a role in endgames. In the diagrammed position it is White to move. What would you do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-desperado-rook-2",
-         "pubDate" : "Tue, 24 May 2022 09:00:00 +0100",
-         "title" : "The desperado rook"
-      },
-      {
          "description" : "The 20th edition of the European Union Youth Chess Championship U8-U14 will take place from 21st 30th August 2022 in Prague, Hotel STEP. The event is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/",
          "pubDate" : "Tue, 24 May 2022 05:20:10 +0000",
          "title" : "20th European Union Youth Chess Championship U8-U14"
-      },
-      {
-         "description" : "In his Endgame Magic Show #195 Karsten and Arne look at endgame highlights and take a particularly close look at the strengths and weaknesses of knights and \"zugzwang\", a sharp weapon in the endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-s-endgame-magic-show-195-with-arne-kaehler",
-         "pubDate" : "Mon, 23 May 2022 18:00:00 +0100",
-         "title" : "Karsten M&uuml;ller's Endgame Magic Show #195 - with Arne Kaehler"
       },
       {
          "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
@@ -2088,22 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1770",
          "pubDate" : "Thu, 19 May 2022 21:30:34 +0000",
          "title" : "Fast-start to the Chessable Masters as youngsters impress"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1769",
-         "pubDate" : "Thu, 19 May 2022 15:29:38 +0000",
-         "title" : "Chess will be compulsory in Georgian schools"
-      },
-      {
-         "description" : " For a while it looked like Arkady Dvorkovich was going to be re-elected as FIDE President without a challenger. Then the Russian invasion of Ukraine upended that calculation, although it still seemed like a number of potential challengers were still laying low. First out of the blocks was Enyonam Fumey (Former FIDE Secretary) with Stuart Fancy as his running mate. Then Dvorkovich officially announced he was running, with former World Champion Viswanathan Anand as his Deputy. And just today Andrii Baryshpolets, a US based Ukrainian GM has announced he also plans to run. The Fumey camp has released an early set of policies and positions, while Baryshpolets is campaigning on the promise to bri",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/fide-elections.html",
-         "pubDate" : "Thu, 19 May 2022 13:48:00 +0000",
-         "title" : "FIDE Elections"
       }
    ]
 }
