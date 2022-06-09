@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An extremely entertaining first round in the Masters section of the Prague Chess Festival saw Le Quang Liem, David Navara and Pentala Harikrishna scoring the first victories of the event to grab an early lead. Coincidentally, three players also won their first games in the Challengers. All six full points were collected by the player marshalling the white pieces. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r1",
+         "pubDate" : "Thu, 09 Jun 2022 08:25:00 +0100",
+         "title" : "Prague: Sharp chess, three winners"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/women-chess-conference-in-prague/",
          "pubDate" : "Wed, 08 Jun 2022 15:18:21 +0100",
          "title" : "Women chess conference in Prague"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, Hans Niemann and Vincent Keymer (pictured) are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST), follow the games with live commentary. | Photo: Lars OA Hedlund (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Wed, 08 Jun 2022 14:51:38 +0100",
-         "title" : "Prague Chess Festival: Live"
       },
       {
          "description" : "As the World Champion Magnus Carlsen on Tuesday struggled in yet another armageddon duel, losing his fourth of the kind, the situation at the top of the leaderboard is making us eager to see the players return from their day off to finish the tour...",
