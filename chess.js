@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris looks at a fine victory by Alexei Shirov, who recently defeated Jorden van Foreest in a 4-game mini match that took place in Limburg. Fire on board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-shirov-anti-moscow",
+         "pubDate" : "Thu, 09 Jun 2022 21:30:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Shirov impresses in Limburg"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French GM and FIDE Deputy President <strong>Bachar Kouatly</strong> has joined the <a href=\"https://fide.com/elections\">race for the <strong>FIDE</strong> presidency</a> with <strong>Ian Wilkinson</strong> from Jamaica as running mate. The other candidates are Dvorkovich, Baryshpolets and Sheripov. Fumey failed to get an endorsement from a federation in Europe and was therefore disqualified by the <strong>Electoral Commission</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/kouatly-joins-race-while-fumey-is/",
+         "pubDate" : "Thu, 09 Jun 2022 19:42:14 +0100",
+         "title" : "Kouatly joins race, while Fumey is out"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92112811.cms\" />Tamil Nadu Chief Minister MK Stalin on Thursday launched the official logo and mascot of the 44th Chess Olympiad, slated near here next month, and said hosting the sporting event is an \"absolute honour\" for this capital city.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.chessdom.com/france-announces-teams-for-the-44th-chess-olympiad-2022/",
          "pubDate" : "Thu, 09 Jun 2022 16:37:11 +0000",
          "title" : "France announces teams for the 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #518, Merijn van Delft analyses Magnus Carlsen's win over Shakhriyar Mamedyarov from the sixth round of the Norway Chess Tournament - a trademark victory by the world champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-518-carlsen-vs-mamedyarov",
-         "pubDate" : "Thu, 09 Jun 2022 17:00:00 +0100",
-         "title" : "Game of the Week #519: Carlsen vs Mamedyarov"
       },
       {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
@@ -136,6 +144,14 @@ news_feed (
          "link" : "https://www.chessdom.com/alireza-firouzja-the-futures-best/",
          "pubDate" : "Thu, 09 Jun 2022 12:47:16 +0000",
          "title" : "Alireza Firouzja - The Future's Best?"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #518, Merijn van Delft analyses Magnus Carlsen's win over Shakhriyar Mamedyarov from the sixth round of the Norway Chess Tournament - a trademark victory by the world champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-518-carlsen-vs-mamedyarov",
+         "pubDate" : "Thu, 09 Jun 2022 12:00:00 +0100",
+         "title" : "Game of the Week #519: Carlsen vs Mamedyarov"
       },
       {
          "description" : "The 2018 Candidate for FIDE President Georgios Makropoulos returns to chess politics, this time as a candidate for the FIDE Vice President. The Greek Chess Federation Board met on Saturday, 4th of June, and among other decisions related to the work of the Federation, announced the support of Makroupoulos's candidacy for the position of FIDE []",
@@ -1290,14 +1306,6 @@ news_feed (
          "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chesskid</strong> is the <a href=\"https://www.chesskid.com/learn/articles/chesskid-enters-new-partnership-with-classlink\">first chess learning platform</a> that is available on <strong>ClassLink</strong>, a provider of single sign-on for students digital learning and analytics for their schools, strengthening its position in the US market. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chesskid-partners-with-classlink/",
-         "pubDate" : "Mon, 30 May 2022 20:38:38 +0100",
-         "title" : "Chesskid partners with ClassLink"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Ukrainian grandmaster <strong>Andrii Baryshpolets</strong> explains why he is running to replace <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> in the 7 August election. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-30-at-19-48.1920.jpeg\" title=\"Andrii Baryshpolets went from Ukraine to Texas on a chess scholarship in 2015. After graduating with a PhD in economics last year, the 31-year-old grandmaster has joined PwC in Los Angeles as a Senior Associate. photo: American-Ukrainian Medical Foundation\" data-title=\"Andrii Baryshpolets went from Ukraine",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/24/somalia-finalizes-team-for-2022-olympiad/",
          "pubDate" : "Tue, 24 May 2022 13:07:22 +0000",
          "title" : "Somalia finalizes team for 2022 Olympiad"
-      },
-      {
-         "description" : "On May 19, Inal Sheripov (Belgium) announced his intention to run for FIDE President. His ticket has already been officially submitted to the FIDE office, with supporting letters from the federations of Ukraine, Zambia, Sierra-Leone, Barbados, and Timor Leste. The ticket includes Lewis Ncube (Zambia), current President of the African Chess Confederation, as a Candidate for the position of FIDE Deputy President.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sheripov-announces-his-candidacy-for-fide-president",
-         "pubDate" : "Tue, 24 May 2022 14:00:00 +0100",
-         "title" : "Sheripov announces his candidacy for FIDE President"
       },
       {
          "description" : " <p class=\"lead\">IM and WGM Elisabeth Paehtz gives an exclusive interview to World Chess about her experience in the army, women's chess in Germany, recent successes in chess tournaments and much more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wKwWbFFxYJc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
