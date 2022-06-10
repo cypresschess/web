@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shakhriyar Mamedyarov defeated Vishy Anand to climb to sole second place with a round to go at the Norway Chess Tournament. The Indian star, who was having a great run in Stavanger, made a one-move blunder and immediately resigned the game on move 22. Meanwhile, Magnus Carlsen beat Maxime Vachier-Lagrave in Armageddon to keep the sole lead - the world champion goes into Friday's final round a half point ahead of Mamedyarov. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r8",
+         "pubDate" : "Fri, 10 Jun 2022 08:25:00 +0100",
+         "title" : "Norway Chess: Mamedyarov climbs to second place as Anand blunders"
+      },
+      {
+         "description" : " The world champion took a clear lead going into the final round in Stavanger, with the No 1 held back by poor results in Armageddon tie-breaks until Vishy Anand fell for Shak Mamedyarov's one-move tactic while Carlsen won a drawn position Magnus Carlsen and his predecessor as world champion, India's Vishy Anand, were locked in a close race for first prize at Stavanger as Norway's annual elite tournament approaches Friday's final round. Anand, 52, had rolled back the years and scored several wins in the creative style of his heyday, but fell for a one-move tactic by Shak Mamedyarov in the penultimate round. Then Carlsen won from a drawn position against Maxime Vachier-Lagrave and the race is",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jun/10/chess-carlsen-v-mamedyarov-after-anand-makes-one-move-blunder",
+         "pubDate" : "Fri, 10 Jun 2022 07:00:15 +0000",
+         "title" : "Chess: Carlsen v Mamedyarov after Anand makes one-move blunder"
+      },
+      {
+         "description" : "Date : 19th June 2022 Venue : Indira Gandhi International Stadium, New Delhi Total Prize Money : Rs. 10,00,000/- DOWNLOAD PROSPECTUS",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-run-international-open-rapid-chess-tournament-2022/",
+         "pubDate" : "Fri, 10 Jun 2022 06:02:05 +0000",
+         "title" : "Olympiad Torch Run International Open Rapid Chess Tournament-2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92120244.cms\" />Indian maestro Viswanathan Anand's campaign at the Norway Chess tournament suffered a setback after losing to Azerbaijan's Shakhriyar Mamedyarov in the ninth round even as Norwegian star Magnus Carlsen shot into sole lead with a win over Frenchman Maxime Vachier-Lagrave.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-loses-to-mamedyarov-carlsen-surges-ahead/articleshow/92120244.cms",
+         "pubDate" : "Fri, 10 Jun 2022 05:23:07 +0000",
+         "title" : "Norway Chess: Anand loses to Mamedyarov; Carlsen surges ahead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.chessdom.com/france-announces-teams-for-the-44th-chess-olympiad-2022/",
          "pubDate" : "Thu, 09 Jun 2022 16:37:11 +0000",
          "title" : "France announces teams for the 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
-         "pubDate" : "Thu, 09 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
       },
       {
          "description" : "The All India Chess Federation presents the Official Logo of the 44th Chess Olympiad 2022 which kicks off in less than 50 days in Chennai. The participation record-breaking Olympiad in Chennai will feature the first-ever Chess Olympiad Torch Relay.187 countries enrolled for the event, and multiple teams have already announced their composition. Click on each []",
@@ -1618,14 +1642,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Spot the checkmate"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91841350.cms\" />Indian teen chess sensation Rameshbabu Praggnanandhaa might have achieved some of his best results in the recent past, including upsetting world champion Magnus Carlsen twice, but the 16-year-old believes in keeping his feet firmly grounded.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/its-about-staying-grounded-for-teen-chess-sensation-r-praggnanandhaa/articleshow/91841350.cms",
-         "pubDate" : "Fri, 27 May 2022 16:28:06 +0000",
-         "title" : "It's about staying grounded for teen chess sensation Praggnanandhaa"
-      },
-      {
          "description" : "The fourth season of the Collegiate Chess League came to a dramatic finish this weekend with the University of Texas Rio Grande Valley completing their perfect season 10-0 to win the championship title along with $5,000. They took down last season...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2096,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/more-vintage-chess-programs.html",
          "pubDate" : "Fri, 20 May 2022 12:23:00 +0000",
          "title" : "More Vintage Chess Programs"
-      },
-      {
-         "description" : " China's Ding is the new favourite for next month's Candidates after Alireza Firouzja, 18, failed in Bucharest, and the 29-year-old will play the world No 1 at least once during the Chessable Masters A head to head between the world champion and the leading pretender to the throne can be a game to savour. Magnus Carlsen and Ding Liren are both playing in the online <a href=\"https://chess24.com/en/watch/live-tournaments/meltwater-champions-chess-tour-chessable-masters-2022-prelims/1/1/1\" title=\"\">Chessable Masters</a>, which began on Thursday with an all-play-all of 16, followed next week by a knockout of the top eight. Carlsen and Ding are paired in Sunday evening's 15th and final all-play-a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/may/20/chess-carlsen-goes-head-to-head-with-ding-liren-as-world-top-two-meet",
-         "pubDate" : "Fri, 20 May 2022 07:00:44 +0000",
-         "title" : "Chess: Carlsen goes head to head with Ding Liren as world top two meet"
       }
    ]
 }
