@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Viewers Willing to watch &#8220;GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022&#8221; Can Watch using the link given below. &#160; Link : https://view.livechesscloud.com/#3af36b7f-2576-449e-a61c-2bd53a464552",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gitam-3rd-vizag-international-open-chess-tournament-2022-live-game-link/",
+         "pubDate" : "Fri, 10 Jun 2022 11:16:18 +0000",
+         "title" : "GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022 LIVE GAME LINK"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After two pandemic years the <strong>Catalan Chess Circuit</strong> <a href=\"https://escacs.cat/index.php/en/introduction\">returns with 17 rapid and 13 classical opens</a> and started a few weeks ago with the <strong>Festival Sunway Formentera</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/catalan-circuit-is-back/",
+         "pubDate" : "Fri, 10 Jun 2022 09:52:08 +0100",
+         "title" : "Catalan circuit is back"
+      },
+      {
+         "description" : "Magnus Carlsen leads Shakhriyar Mamedyarov by half a point going into the final day of Norway Chess 2022 after incredible drama in the penultimate round. In a roughly equal position Vishy Anand blundered into mate-in-2 then resigned before Mamedyarov had a chance to spot the blunder. Magnus was dead lost at times in both the classical and Armageddon games against Maxime Vachier-Lagrave, but found a way not only to survive but to win the mini-match.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/norway-chess-8-carlsen-escapes-as-anand-blunders",
+         "pubDate" : "Fri, 10 Jun 2022 08:17:55 +0000",
+         "title" : "Norway Chess 8: Carlsen escapes as Anand blunders"
+      },
+      {
+         "description" : "Are you playing rapid chess? Blitz chess? Bullet chess? How about F1 speed chess! Here we have F1's Mick Schumacher enjoying a chess game with the team of Haas. It is becoming popular for sports stars to keep their mind sharp. A few to mention: Tennis star Carlos Alcaraz is using chess to up his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mick-schumacher-is-an-avid-chess-player-tweetoftheday/",
+         "pubDate" : "Fri, 10 Jun 2022 07:58:50 +0000",
+         "title" : "Mick Schumacher is an avid chess player #TweetOftheDay"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French GM and FIDE Deputy President <strong>Bachar Kouatly</strong> has joined the <a href=\"https://fide.com/elections\">race for the <strong>FIDE</strong> presidency</a> with <strong>Ian Wilkinson</strong> from Jamaica as running mate. The other candidates are Dvorkovich, Baryshpolets and Sheripov. <strong>Enyonam Fumey</strong> failed to get an endorsement from a federation on each continent, in this case from Europe, and was therefore disqualified by the <strong>Electoral Commission</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/kouatly-joins-race-while-fumey-is/",
+         "pubDate" : "Fri, 10 Jun 2022 08:27:34 +0100",
+         "title" : "Kouatly joins race, while Fumey is out"
+      },
+      {
          "description" : "Shakhriyar Mamedyarov defeated Vishy Anand to climb to sole second place with a round to go at the Norway Chess Tournament. The Indian star, who was having a great run in Stavanger, made a one-move blunder and immediately resigned the game on move 22. Meanwhile, Magnus Carlsen beat Maxime Vachier-Lagrave in Armageddon to keep the sole lead - the world champion goes into Friday's final round a half point ahead of Mamedyarov. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +50,7 @@ news_feed (
          "title" : "Norway Chess: Mamedyarov climbs to second place as Anand blunders"
       },
       {
-         "description" : " The world champion took a clear lead going into the final round in Stavanger, with the No 1 held back by poor results in Armageddon tie-breaks until Vishy Anand fell for Shak Mamedyarov's one-move tactic while Carlsen won a drawn position Magnus Carlsen and his predecessor as world champion, India's Vishy Anand, were locked in a close race for first prize at Stavanger as Norway's annual elite tournament approaches Friday's final round. Anand, 52, had rolled back the years and scored several wins in the creative style of his heyday, but fell for a one-move tactic by Shak Mamedyarov in the penultimate round. Then Carlsen won from a drawn position against Maxime Vachier-Lagrave and the race is",
+         "description" : " The world champion had just a half-point lead over Shak Mamedyarov going into the final round at Stavanger while Vishy Anand's challenge faded when he blundered into a one-move tactic Magnus Carlsen held a narrow half-point lead before the start of Friday's final round at Stavanger, Norway's elite tournament which the world champion has won for the past three years. His nearest rival is Shak Mamedyarov, after the Azerbaijani had scored a bizarre penultimate-round victory over Vishy Anand, who till then had been Carlsen's main rival throughout the tournament. In a level position, the Indian blundered into a losing tactic which he noticed too late. Mamedyarov was away from the board, and when",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jun/10/chess-carlsen-v-mamedyarov-after-anand-makes-one-move-blunder",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-shirov-anti-moscow",
          "pubDate" : "Thu, 09 Jun 2022 21:30:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Shirov impresses in Limburg"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French GM and FIDE Deputy President <strong>Bachar Kouatly</strong> has joined the <a href=\"https://fide.com/elections\">race for the <strong>FIDE</strong> presidency</a> with <strong>Ian Wilkinson</strong> from Jamaica as running mate. The other candidates are Dvorkovich, Baryshpolets and Sheripov. Fumey failed to get an endorsement from a federation in Europe and was therefore disqualified by the <strong>Electoral Commission</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/kouatly-joins-race-while-fumey-is/",
-         "pubDate" : "Thu, 09 Jun 2022 19:42:14 +0100",
-         "title" : "Kouatly joins race, while Fumey is out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92112811.cms\" />Tamil Nadu Chief Minister MK Stalin on Thursday launched the official logo and mascot of the 44th Chess Olympiad, slated near here next month, and said hosting the sporting event is an \"absolute honour\" for this capital city.",
@@ -224,14 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/romanian-grand-prix-stage-3-in-miercurea-ciuc/",
          "pubDate" : "Thu, 09 Jun 2022 09:35:50 +0000",
          "title" : "Romanian Grand Prix - Stage 3 in Miercurea Ciuc"
-      },
-      {
-         "description" : "The 1st Maharashtra International Open Grandmaster Chess Tournament 2022&#160;took place from 31 May to 8 June in Pune, India. More than 140 players from 13 countries participated in the event which was played in 11 swiss system rounds. Three players tied for the top scoring 8.5 points each and the tiebreak criteria determined the distribution []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/farrukh-amonatov-is-the-winner-of-1st-maharashtra-gm-open/",
-         "pubDate" : "Thu, 09 Jun 2022 08:54:05 +0000",
-         "title" : "Farrukh Amonatov is the Winner of 1st Maharashtra GM Open"
       },
       {
          "description" : "An extremely entertaining first round in the Masters section of the Prague Chess Festival saw Le Quang Liem, David Navara and Pentala Harikrishna scoring the first victories of the event to grab an early lead. Coincidentally, three players also won their first games in the Challengers. All six full points were collected by the player marshalling the white pieces. | Photo: Petr Vrabec",
@@ -1330,14 +1354,6 @@ news_feed (
          "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Ukrainian grandmaster <strong>Andrii Baryshpolets</strong> explains why he is running to replace <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> in the 7 August election. </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-05-30-at-19-48.1920.jpeg\" title=\"Andrii Baryshpolets went from Ukraine to Texas on a chess scholarship in 2015. After graduating with a PhD in economics last year, the 31-year-old grandmaster has joined PwC in Los Angeles as a Senior Associate. photo: American-Ukrainian Medical Foundation\" data-title=\"Andrii Baryshpolets went from Ukraine",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/no-more-political-sponsorship-and/",
-         "pubDate" : "Mon, 30 May 2022 19:32:20 +0100",
-         "title" : "\"No more political sponsorship and sportswashing\""
-      },
-      {
          "description" : "It is probably a record: scoring two norms in a time span of fewer than 24 hours. GM-elect Frederik Svane, the brother of GM Rasmus Svane, managed to do so last weekend in Hamburg, Germany. 17-year-old Svane, the younger of two brothers (Rasmus ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "Peruvian Championship: Jorge Cori and Mitzy Caballero win titles"
       },
       {
-         "description" : "Chinese world no. 2 Ding Liren said his plan \"to avoid any complicated line\" paid off as he won both games with the black pieces on Day 1 of the Chessable Masters final. 16-year-old Indian prodigy Praggnanandhaa managed to hit back in Game 2 but was held to a draw in Game 4 as Ding Liren won the first mini-match 2.5:1.5. That means Pragg must now win Thursday's second match to force tiebreaks, or Ding Liren will have won his first Meltwater Champions Chess Tour title.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-masters-7-ding-takes-lead-against-pragg",
-         "pubDate" : "Thu, 26 May 2022 07:20:56 +0000",
-         "title" : "Chessable Masters 7: Ding takes lead against Pragg"
-      },
-      {
          "description" : "We are pleased to inform you that All India Chess Federation is going to conduct Olympiad Curtain Raiser Rapid Chess Tournament 2022 on 24 July",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://aicf.in/last-call-for-volunteers-for-olympiad-2022-once-in-a-lifetime-opportunity/",
          "pubDate" : "Mon, 23 May 2022 11:48:23 +0000",
          "title" : "Last Call for Volunteers for Olympiad 2022 - Once in a Lifetime opportunity"
-      },
-      {
-         "description" : "Please find the live game link for 13th KIIT International Chess Festival 2022 https://view.livechesscloud.com/#48c62a8e-74bf-472d-8a9f-5cb971e1f546",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-update-13th-kiit-international-chess-festival-2022/",
-         "pubDate" : "Mon, 23 May 2022 04:36:39 +0000",
-         "title" : "Live Game Link Update : 13th KIIT International Chess Festival 2022"
       },
       {
          "description" : "",
