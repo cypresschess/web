@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-9",
+         "pubDate" : "Fri, 10 Jun 2022 23:13:25 +0000",
+         "title" : "2022 Summer Chess Classic: Round 9"
+      },
+      {
+         "description" : "Magnus Carlsen has now won half of the 10 editions of Norway Chess, and the last four in a row, after a nerve-wracking final day of the 2022 event. The World Champion was held to a draw by Veselin Topalov, so that Shakhriyar Mamedyarov would have won the title if he'd beaten his countryman Teimour Radjabov in classical chess. At one point that looked almost inevitable, but Teimour fought back to survive a bad position with no time on his clock. Vishy Anand took 3rd place ahead of Maxime Vachier-Lagrave in 4th.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-5th-norway-chess-title",
+         "pubDate" : "Fri, 10 Jun 2022 22:47:03 +0000",
+         "title" : "Magnus Carlsen wins 5th Norway Chess title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1805",
+         "pubDate" : "Fri, 10 Jun 2022 22:05:32 +0000",
+         "title" : "Magnus Carlsen wins Norway Chess 2022"
+      },
+      {
+         "description" : "Reigning World Chess Champion Magnus Carlsen won the 10th edition of the Norway Chess 2022, therefore becoming a 5-time Winner of the Norway Chess elite tournament. Magnus defeated Veselin Topalov in a thrilling final round after playing the Armageddon, and won the tournament with 16.5 points. Shakhriyar Mamedyarov was second with 15.5 points, but had []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-claims-his-5th-norway-chess-title/",
+         "pubDate" : "Fri, 10 Jun 2022 21:21:00 +0000",
+         "title" : "Magnus Carlsen claims his 5th Norway Chess title"
+      },
+      {
+         "description" : " The world champion kept his narrow lead over Shak Mamedyarov in the final round at Stavanger, while Vishy Anand's challenge faded when he blundered into a one-move tactic Magnus Carlsen kept his narrow lead over Shak Mamedyarov in Friday evening's final round at Stavanger, the Norwegian elite tournament which the world champion has now won four years running. His Azerbaijani rival had earlier scored a bizarre penultimate round victory over India's former world champion Vishy Anand, who till then had been Carlsen's main contender throughout the tournament. In a level position, Anand blundered into a losing tactic which he noticed too late. Mamedyarov was away from the board, and when he retu",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jun/10/chess-carlsen-v-mamedyarov-after-anand-makes-one-move-blunder",
+         "pubDate" : "Fri, 10 Jun 2022 20:44:51 +0000",
+         "title" : "Chess: Carlsen edges Mamedyarov after Anand makes one-move blunder"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1804",
+         "pubDate" : "Fri, 10 Jun 2022 20:07:16 +0000",
+         "title" : "FIDE Madrid Candidates Chess Conference set for July 2"
+      },
+      {
          "description" : "The 44th Chess Olympiad 2022 will feature the first-ever Torch Relay to be carried in Chess Olympiad. The All India Chess Federation will organize on this occasion the Olympiad Torch Run International Open Rapid Chess Tournament 2022 which will be held on the 19th of June at Indira Gandhi International Stadium in Delhi. 14th World []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -170,12 +218,12 @@ news_feed (
          "title" : "Norway Chess: Mamedyarov climbs to second place as Anand blunders"
       },
       {
-         "description" : " The world champion had just a half-point lead over Shak Mamedyarov going into the final round at Stavanger while Vishy Anand's challenge faded when he blundered into a one-move tactic Magnus Carlsen held a narrow half-point lead before the start of Friday's final round at Stavanger, Norway's elite tournament which the world champion has won for the past three years. His nearest rival is Shak Mamedyarov, after the Azerbaijani had scored a bizarre penultimate-round victory over Vishy Anand, who till then had been Carlsen's main rival throughout the tournament. In a level position, the Indian blundered into a losing tactic which he noticed too late. Mamedyarov was away from the board, and when",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jun/10/chess-carlsen-v-mamedyarov-after-anand-makes-one-move-blunder",
-         "pubDate" : "Fri, 10 Jun 2022 07:00:15 +0000",
-         "title" : "Chess: Carlsen v Mamedyarov after Anand makes one-move blunder"
+         "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of all 10 players were exactly as they would have been with a conventional tournament without the use of the special scoring and Armageddon games. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
+         "pubDate" : "Fri, 10 Jun 2022 10:52:00 +0400",
+         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
       },
       {
          "description" : "Date : 19th June 2022 Venue : Indira Gandhi International Stadium, New Delhi Total Prize Money : Rs. 10,00,000/- DOWNLOAD PROSPECTUS",
@@ -200,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-8",
          "pubDate" : "Thu, 09 Jun 2022 23:12:14 +0000",
          "title" : "2022 Summer Chess Classic: Round 8"
-      },
-      {
-         "description" : "The penultimate 8th round of Norway Chess 2022 saw two classical decisive games and three Armageddons. Magnus Carlsen kept the sole leadership in the event but heads into the last round with only 0.5 point advantage over Shakhriyar Mameydarov. Magnus Carlsen and Maxime Vachier-Lagrave went for the always interesting Grunfeld defense. MVL came out of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-remains-in-sole-lead-of-norway-chess-2022-with-one-round-to-go/",
-         "pubDate" : "Thu, 09 Jun 2022 22:59:35 +0000",
-         "title" : "Carlsen remains in sole lead of Norway Chess 2022 with one round to go"
       },
       {
          "description" : "Defending champion Sam Shankland bounced back from his first-round loss against Le Quang Liem by beating Saleh Salem with the white pieces in the Masters section of the Prague Chess Festival. This was the only decisive game of the day. A more eventful second round in the Challengers saw four players scoring wins with white - one of the winners was Vincent Keymer, who grabbed the sole lead as the only participant who scored back-to-back victories in the first two rounds. | Photos: Petr Vrabec",
@@ -1090,14 +1130,6 @@ news_feed (
          "title" : "2022 Summer Chess Classic: Round 3 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-4-lichessorg",
-         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
-         "title" : "2022 Summer Chess Classic: Round 4 | lichess.org"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1506,14 +1538,6 @@ news_feed (
          "title" : "Exclusive: 'I have surprised myself', says India's giant-slaying chess genius Praggnanandhaa"
       },
       {
-         "description" : " The 10th Norway Chess tournament takes place in Stavanger May 31st to June 10th 2022. The field is: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari (in to replace Richard Rapport who since qualified for the Candidates and is now prioritizing that - I'd earlier said that Tari should have been invited in the first place as part of the function of hosting a premier event is to help develop your most talented up and coming players - if you don't, who will?). This year with other tournaments clashing and the reluctance to invite Russian players means that the field is a little weake",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
-         "pubDate" : "Mon, 30 May 2022 10:52:00 +0400",
-         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
          "description" : "The 10th edition of the Norway Chess kicks of today with the Blitz tournament. The event takes place from 30 May 10 June in Stavanger with participation of 10 world class players. The field is headlined by reigning World Chess Champion Magnus Carlsen and includes: Wesley So, Shakhriyar Mammedyarov, Anish Giri, Teimour Radjabov, Viswanathan Anand, Maxime Vachier-Lagrave,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/norway-chess-2022-kicks-off/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1800,14 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1793",
          "pubDate" : "Fri, 27 May 2022 08:57:57 +0000",
          "title" : "Ding Liren wins Chessable Masters"
-      },
-      {
-         "description" : "Chinese world no. 2 Ding Liren has won the Chessable Masters, the 4th event on the $1.6 million Meltwater Champions Chess Tour, after clinching the title in a dramatic blitz playoff against Praggnanandhaa. The 16-year-old Indian prodigy had earlier done everything right as he won the 2nd rapid match on demand to take the final to blitz, before coming within a whisker of winning the 1st blitz game. The 2nd could have gone either way, but it was Ding, playing until 5am, who claimed his first major online trophy.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-survives-pragg-comeback-to-win-chessable-masters",
-         "pubDate" : "Fri, 27 May 2022 07:33:45 +0000",
-         "title" : "Ding survives Pragg comeback to win Chessable Masters"
       },
       {
          "description" : "",
@@ -2168,14 +2184,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/20/daniel-cawdery-wins-south-african-championship/",
          "pubDate" : "Sat, 21 May 2022 00:57:44 +0000",
          "title" : "Daniel Cawdery wins South African Championship"
-      },
-      {
-         "description" : " Spike Lee filming &#8220;Seen It All&#8221; Photo by NIKE Spike Lee Joint helps to celebrate Nike's 50th with a montage of videos of famous athletes and events spanning history since 1988. Spike Lee does it as an all-seeing witness at the chessboard. Set in the chess battleground in a New York park, Lee reprises Mars The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/\">Spike Lee celebrates NIKE's 50th with chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/20/spike-lee-celebrates-nikes-50th-with-chess/",
-         "pubDate" : "Fri, 20 May 2022 20:41:05 +0000",
-         "title" : "Spike Lee celebrates NIKE's 50th with chess"
       }
    ]
 }
