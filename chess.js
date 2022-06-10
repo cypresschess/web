@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 44th Chess Olympiad 2022 will feature the first-ever Torch Relay to be carried in Chess Olympiad. The All India Chess Federation will organize on this occasion the Olympiad Torch Run International Open Rapid Chess Tournament 2022 which will be held on the 19th of June at Indira Gandhi International Stadium in Delhi. 14th World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/olympiad-torch-run-international-open-rapid-chess-tournament-2022/",
+         "pubDate" : "Fri, 10 Jun 2022 18:49:57 +0000",
+         "title" : "Olympiad Torch Run International Open Rapid Chess Tournament 2022"
+      },
+      {
+         "description" : "This summer, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players.&#xA0; From July 6 16, 2022, Saint Louis, America&#x2019;s Chess Capital, will host the top 10 juniors, girls, and seniors in the invitational 2022 U.S. Junior, U.S. Girls&#x2019; Junior, and U.S. Senior []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-chess-club-to-host-legends-and-rising-stars-of-american-chess/",
+         "pubDate" : "Fri, 10 Jun 2022 17:50:07 +0000",
+         "title" : "Saint Louis Chess Club to Host Legends and Rising Stars of American Chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92134908.cms\" />Grandmaster R Praggnanandhaa won the Norway Chess Group A open tournament on Friday scoring 7.5 points from 9 rounds. The 16-year-old, the top seed, was in great form right through the tournament. In the final round, Praggu got the better of IM V Praneeth.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-wins-norway-chess-open-event/articleshow/92134908.cms",
+         "pubDate" : "Fri, 10 Jun 2022 17:43:52 +0000",
+         "title" : "Praggnanandhaa wins Norway chess open event"
+      },
+      {
+         "description" : "In his \"Power Play Show\" Daniel King focuses on one of Yuri Averbakh's biggest contributions to chess theory: the King's Indian Defence system he developed and pioneered in the 1950s. Still one of the most reliable setups up to this day! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-yuri-averbakh",
+         "pubDate" : "Fri, 10 Jun 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The great Yuri Averbakh"
+      },
+      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +130,7 @@ news_feed (
          "title" : "4 Candidates In FIDE Presidential Elections"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After two pandemic years the <strong>Catalan Chess Circuit</strong> <a href=\"https://escacs.cat/index.php/en/introduction\">returns with 17 rapid and 13 classical opens</a> and started a few weeks ago with the <strong>Festival Sunway Formentera</strong>. </div> ",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/catalan-circuit-is-back/",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "Mick Schumacher is an avid chess player #TweetOftheDay"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French GM and FIDE Deputy President <strong>Bachar Kouatly</strong> has joined the <a href=\"https://fide.com/elections\">race for the <strong>FIDE</strong> presidency</a> with <strong>Ian Wilkinson</strong> from Jamaica as running mate. The other candidates are Dvorkovich, Baryshpolets and Sheripov. <strong>Enyonam Fumey</strong> failed to get an endorsement from a federation on each continent, in this case from Europe, and was therefore disqualified by the <strong>Electoral Commission</strong>. </div> ",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/kouatly-joins-race-while-fumey-is/",
@@ -202,22 +234,6 @@ news_feed (
          "title" : "Tamil Nadu CM launches logo, mascot of 44th Chess Olympiad"
       },
       {
-         "description" : "The French Chess Federation announced the National Open and Women's teams for the upcoming 44th Chess Olympiad 2022. French Team (Open section): GM Jules Moussard (2668) GM Maxime Lagarde (2628) GM Laurent Fressinet (2624) GM Matthieu Cornette (2563) GM Marc'Andria Maurizzi (2490) GM Sebastian Maze will captain the team which will compete with an average []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/france-announces-teams-for-the-44th-chess-olympiad-2022/",
-         "pubDate" : "Thu, 09 Jun 2022 16:37:11 +0000",
-         "title" : "France announces teams for the 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "The All India Chess Federation presents the Official Logo of the 44th Chess Olympiad 2022 which kicks off in less than 50 days in Chennai. The participation record-breaking Olympiad in Chennai will feature the first-ever Chess Olympiad Torch Relay.187 countries enrolled for the event, and multiple teams have already announced their composition. Click on each []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/official-logo-of-the-44th-chess-olympiad-tweetoftheday/",
-         "pubDate" : "Thu, 09 Jun 2022 15:48:05 +0000",
-         "title" : "Official Logo of the 44th Chess Olympiad #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -282,7 +298,7 @@ news_feed (
          "title" : "Game of the Week #519: Carlsen vs Mamedyarov"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> has lined up <a href=\"https://twitter.com/GMHikaru/status/1533875961602756608\">eight fellow streamers</a>, no less, to rumble his <strong>Twitch</strong> and <strong>Youtube</strong> channels during his second attempt to win the <strong>Candidates Tournament</strong>. <strong>ChessLife</strong> published <a href=\"https://new.uschess.org/news/i-do-feel-big-responsibility\">an exclusive interview</a> with the 35-year old American who is <a href=\"https://www.hollywoodreporter.com/business/digital/chess-streamer-hikaru-nakamura-signs-with-wme-1235160628/\">now represented by</a> the expanding, publicly listed agency <stron",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
@@ -290,7 +306,7 @@ news_feed (
          "title" : "Nakamura and the eight streamers"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>French Chess Federation</strong> is hesitating to accept the gender change of Yosha Igl&eacute;sias. Is affirmative action for female professionals at risk? </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-06-09-at-10-29.1920.jpeg\" title=\"Yosha Igl&eacute;sias is a Paris-based chess teacher, youtuber and community manager at chess24. photo: private\" data-title=\"Yosha Igl&eacute;sias is a Paris-based chess teacher, [youtuber][1] and community manager at chess24. [1]: https://www.youtube.com/channel/UCzg9wQOjSliZnuNdlPqsxZg (photo: private)\" class=\"js-img\"> <img item",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/can-yosha-compete-as-a-woman/",
@@ -346,7 +362,7 @@ news_feed (
          "title" : "Direct Members' Representative elections 2022"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>ECU</strong> and <strong>FIDE</strong> sponsor a <strong>Women Chess Conference</strong> <a href=\"https://www.ewcc2022.net/uploads/downloads/women-chess-conference-prague-2022.pdf\">on 26 and 27 August</a> alongside the <strong>European Women Championship</strong> in Prague. </div> ",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/women-chess-conference-in-prague/",
@@ -1394,6 +1410,22 @@ news_feed (
          "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chesskid-partners-with-classlink/",
+         "pubDate" : "Mon, 30 May 2022 20:38:38 +0100",
+         "title" : "Chesskid partners with ClassLink"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/no-more-political-sponsorship-and/",
+         "pubDate" : "Mon, 30 May 2022 19:32:20 +0100",
+         "title" : "\"No more political sponsorship and sportswashing\""
+      },
+      {
          "description" : "It is probably a record: scoring two norms in a time span of fewer than 24 hours. GM-elect Frederik Svane, the brother of GM Rasmus Svane, managed to do so last weekend in Hamburg, Germany. 17-year-old Svane, the younger of two brothers (Rasmus ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1546,6 +1578,14 @@ news_feed (
          "title" : "Lost Empires"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/should-carlsen-decide-now/",
+         "pubDate" : "Sun, 29 May 2022 10:03:52 +0100",
+         "title" : "Should Carlsen decide now?"
+      },
+      {
          "description" : "Machgielis \"Max\" Euwe is one of the most esteemed figures in chess history. A teacher and a professed chess amateur, he did the unthinkable when he became world champion in 1935, defeating an all-time great in Alexander Alekhine. On top of that, he was a perennial top player from the late 1920s to the 1950s, an outstanding writer, and F&eacute;d&eacute;ration Internationale des Échecs (FIDE) President in the latter part of his life. On the recent occasion of Euwe's 121st birth anniversary, Eugene Manlapao explores the life and times of chess' 5th world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1650,14 +1690,6 @@ news_feed (
          "title" : "Praggnanandhaa - Student by day, world-beating chess star by night"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91846453.cms\" />The final, which went down to the wire, ended at around 2:20 am IST on Friday, and by 8:45 am, the 16-year-old had arrived at his school to appear for the Class XI state board exams.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-writes-board-exams-hours-after-close-loss-to-world-no-2-ding-liren-in-chessable-masters-final/articleshow/91846453.cms",
-         "pubDate" : "Sat, 28 May 2022 03:00:20 +0000",
-         "title" : "Praggnanandhaa writes Board exams hours after close loss in Chessable Masters final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1690,6 +1722,14 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Spot the checkmate"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/rapport-to-represent-romania/",
+         "pubDate" : "Fri, 27 May 2022 16:57:40 +0100",
+         "title" : "Rapport to represent Romania"
+      },
+      {
          "description" : " Last week, we looked at reducing tension or pressure within a position. I was going to give you some positional examples this week, but realized that I needed to add two additional components to the mix, relative value and the trading of material. There's more to relative value than meets the eye, especially if you're <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-two/\">A Foundation for Beginners Sixty Two</a> appeared first on <a rel=\"nofollow\" href=\"https:",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1704,6 +1744,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-round-1.html",
          "pubDate" : "Fri, 27 May 2022 14:01:00 +0000",
          "title" : "2022 ACT Championship - Round 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ding-wins-chessable-masters/",
+         "pubDate" : "Fri, 27 May 2022 13:13:59 +0100",
+         "title" : "Ding wins Chessable Masters"
       },
       {
          "description" : "Rustam Kasimdzhanov is considered one of the world's leading opening experts; he has worked as a second for Vishy Anand, Fabiano Caruana and the German national team. In his new Fritztrainer on the French Defence, he passes on his knowledge. Christian H&ouml;the has taken a look at the course and concludes, \"The French is a wonderful opening, especially after studying this Fritztrainer!\"",
@@ -1810,6 +1858,14 @@ news_feed (
          "title" : "Chessable Masters Finals: Ding wins first set"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nielsen-joins-baryshpolets/",
+         "pubDate" : "Thu, 26 May 2022 16:52:02 +0100",
+         "title" : "Nielsen joins Baryshpolets"
+      },
+      {
          "description" : " The 2022 ACT Chess Championship begins tomorrow, and it is already looking to be the strongest (and maybe largest) edition in a number of years. The top seed is IM Rishi Sardana, who has moved back to the city of his birth, for work. IM Junta Ikeda is 2nd seed, ahead of a field of young challengers including Cameron McCowan, FM Michael Kethro, Fred Litchfield and Harry Press. The tournament has been bolstered by the entry of a number of players from NSW, who are eligible for the prize money, but not the championship title/ The tournament begins tomorrow evening at Campbell High School (next to the War Memorial). There is one round on Friday, with 2 rounds on Saturday, Sunday and Monday. Ful",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1858,12 +1914,12 @@ news_feed (
          "title" : "Unbeatable!: The Art of Defense"
       },
       {
-         "description" : "Anatoly Karpov, born 23 May, 1951, is one of the strongest players in the history of chess. He was World Champion from 1975 to 1985, finished first in 160 strong tournaments, and was the world's number one for 102 months. However, he seemed to win many of his games without much effort, without striking moves or crushing attacks. But he had a secret weapon - which Jan Markos analyses in more detail. | Photo: V. Savostianov, Novosti Press (via D. Griffin)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-10-karpov-s-secret-weapon",
-         "pubDate" : "Wed, 25 May 2022 18:30:00 +0100",
-         "title" : "The Winning Academy 10: Karpov's Secret Weapon"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/dodon-detained/",
+         "pubDate" : "Wed, 25 May 2022 20:35:23 +0100",
+         "title" : "Dodon detained"
       },
       {
          "description" : " Hi dear readers, as the title suggests, this is another guest article. This time. I have the honor to publish an article written by Dror Allouche AKA Mr.OTG. Dror is a Nextlevelchess reader, chess fan &#38; blogger himself. You can check out his work here. He also has a weekly Newsletter which I enjoy reading. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/start-learning-chess/\">How To Start Learning Chess As An Adult: From 0 To 700 Rating</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1899,6 +1955,14 @@ news_feed (
       },
       {
          "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nordic-cooperation/",
+         "pubDate" : "Wed, 25 May 2022 10:10:44 +0100",
+         "title" : "Nordic cooperation"
+      },
+      {
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1787",
@@ -1912,6 +1976,14 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-7/",
          "pubDate" : "Tue, 24 May 2022 16:59:13 +0000",
          "title" : "Students Analysis (7)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/french-federation-joins-olympic/",
+         "pubDate" : "Tue, 24 May 2022 17:05:58 +0100",
+         "title" : "French federation joins Olympic Committee"
       },
       {
          "description" : "",
