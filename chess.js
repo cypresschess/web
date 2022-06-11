@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92140753.cms\" />Former world champion Viswanathan Anand scored a win over Aryan Tari in the ninth and final round to finish third in the Norway Chess tournament which was won by world number one Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-beats-tari-in-final-round-settles-for-third-place/articleshow/92140753.cms",
+         "pubDate" : "Sat, 11 Jun 2022 05:06:02 +0000",
+         "title" : "Norway Chess: Anand beats Tari in final round; settles for third place"
+      },
+      {
          "description" : " The 2022 NSW Open has just started in the last hour. Live broadcast of the top 4 boards is at <a href=\"https://view.livechesscloud.com/#71c54aaf-fa1f-4804-88a0-abcc3568843c\">https://view.livechesscloud.com/#71c54aaf-fa1f-4804-88a0-abcc3568843c</a> while the links the results are <a href=\"http://chess-results.com/tnr646116.aspx?lan=1http://chess-results.com/tnr646116.aspx?lan=1\">2022 NSW Open</a> <a href=\"http://chess-results.com/tnr646382.aspx?lan=1\">2022 NSW Minor</a> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/indian-whirlwind-i",
          "pubDate" : "Sat, 28 May 2022 09:00:00 +0100",
          "title" : "Indian whirlwind I"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91849899.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/india/pragg-vishy-a-revolution/articleshow/91841600.cms",
-         "pubDate" : "Sat, 28 May 2022 06:28:42 +0000",
-         "title" : "Anand, Praggnanandhaa and India's chess revolution"
       },
       {
          "description" : "This past week, Praggnanandhaa had been studying for (and appearing in) his 11th standard exams in the mornings and then beating some of the best players in the world in the evenings. Including the best: Magnus Carlsen.",
