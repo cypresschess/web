@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2022-06-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202206103562 target='_blank'>FBCC END OF SPRING OPEN 2022</a>",
 "HOUSTON","2022-06-05","14","<a href=http://www.uschess.org/msa/XtblMain.php?202206051572 target='_blank'>JUNE 5 SUNDAY SWISS</a>",
 "CYPRESS","2022-06-03","24","<a href=http://www.uschess.org/msa/XtblMain.php?202206039992 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-06-03","26","<a href=http://www.uschess.org/msa/XtblMain.php?202206030072 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-07-23","17","<a href=http://www.uschess.org/msa/XtblMain.php?202107231432 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "PEARLAND","2021-07-21  - 07-22","11","<a href=http://www.uschess.org/msa/XtblMain.php?202107226072 target='_blank'>SCS CLUBHOUSE CAMP</a>",
 "HOUSTON","2021-07-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107189492 target='_blank'>SUNSWISSJULY18</a>",
-"SPRING","2021-07-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202107179032 target='_blank'>DER SPRINGERS</a>",
 ]);
