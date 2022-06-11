@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2nd leg of the 2022 Romanian Grand Prix series took place 4-11 June in Targu Mures. German grandmaster Liviu-Dieter Nisipeanu triumphed in the tournament scoring 7/9 points and pocketing the money prize of 25.000 lei (5.000 euros). FM Ihor Samunenkov was second with 6.5 points, while a group of 6 players tied for third []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/liviu-dieter-nisipeanu-wins-the-2nd-leg-of-romanian-grand-prix/",
+         "pubDate" : "Sat, 11 Jun 2022 15:16:06 +0000",
+         "title" : "Liviu-Dieter Nisipeanu wins the 2nd leg of Romanian Grand Prix"
+      },
+      {
+         "description" : "Magnus Carlsen won the Norway Chess Tournament for a fourth time in a row after beating Veselin Topalov in Armageddon on Friday. The world champion would not have grabbed the title had Shakhriyar Mamedyarov defeated Teimour Radjabov in their classical game. Radjabov held the draw despite having almost no time on the clock, allowing Carlsen to once again win his home event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2022-r9",
+         "pubDate" : "Sat, 11 Jun 2022 15:35:00 +0100",
+         "title" : "Magnus Carlsen wins Norway Chess for a fourth straight time"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
+         "pubDate" : "Sat, 11 Jun 2022 14:55:00 +0100",
+         "title" : "Prague Chess Festival: Live"
+      },
+      {
+         "description" : " As with most events, the first day of the 2022 NSW Open hasn't revealed too much. Most of the top seeds reached 2/2, not all the DGT boards were working, and a number of players still don't understand the reasoning behind the mobile phone rules* (or simply think they have a special exemption). So the highlight of the day was in the Minor, when two players left the board to go to the bathroom ( after playing their respective moves), and when they returned, found the board has been set up to start the game. Weirdly they were only 8 moves in, so it was possible to reconstruct the position quickly. *As for the reasoning behind the not having phones in the paying area, if we did allow spectators",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-day-1.html",
+         "pubDate" : "Sat, 11 Jun 2022 13:18:00 +0000",
+         "title" : "2022 NSW Open - Day 1"
+      },
+      {
+         "description" : "The Ripstone Games, the publishers of Chess Ultra &#38; Poker Club, are working on Netflix&#x2019;s The Queen&#x2019;s Gambit Chess Game. The company announced The Queen's Gambit Chess Game will come soon, being available on the Netflix app for IOS and Android. Netflix's Queen's Gambit miniseries released in October 2020, affecting the chess world and causing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/netflix-launches-queens-gambit-game-for-ios-and-android-tweetoftheday/",
+         "pubDate" : "Sat, 11 Jun 2022 12:18:13 +0000",
+         "title" : "Netflix launches Queen's Gambit Game for IOS and Android #TweetOftheDay"
+      },
+      {
+         "description" : "All India Chess Federation congratulate Rahul Srivatshav, the 74th Grandmaster of our country. We are proud of you!! PC : Niklesh Jain &#38; ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-rahul-srivatshav/",
+         "pubDate" : "Sat, 11 Jun 2022 12:17:08 +0000",
+         "title" : "Congratulations Rahul Srivatshav!!"
+      },
+      {
+         "description" : "The FIDE Madrid Candidates Chess Conference will take place on July 2 consisting of two parts: ChessKid.com educational seminars and the Conference on social chess initiatives in FIDE member countries in the afternoon. Scroll down for the detailed program and schedule information. ChessKid Education SeminarJuly 2, 10:00 12:00 Venue:&#160;on-site in Palacio de Santo&#xF1;a, the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-announces-madrid-candidates-chess-conference/",
+         "pubDate" : "Sat, 11 Jun 2022 11:51:28 +0000",
+         "title" : "FIDE announces Madrid Candidates Chess Conference"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92147528.cms\" />Rahul Srivatshav P of Telangana has become India's 74th Grandmaster, achieving the title after breaking the 2500 (Elo points) barrier in live FIDE ratings during the 9th Cattolica Chess Festival 2022 in Italy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/rahul-srivatshav-becomes-indias-74th-grandmaster/articleshow/92147528.cms",
+         "pubDate" : "Sat, 11 Jun 2022 11:41:31 +0000",
+         "title" : "Rahul Srivatshav becomes India's 74th Grandmaster"
+      },
+      {
          "description" : "The Saint Louis Chess Club hosted the second leg of the Classic Series,&#160;the 2022 Summer Chess Classic, from June 1-11. Read more: Saint Louis Chess Club to Host Legends and Rising Stars of American Chess Over the course of 9 days, twenty competitors fought for $36,000 in prize money in two 10-player Round Robin tournaments: []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -175,7 +239,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
          "pubDate" : "Fri, 10 Jun 2022 16:55:00 +0100",
-         "title" : "Norway Chess: Live"
+         "title" : "Norway Chess: Games and standings"
       },
       {
          "description" : "As promised last episode, we wanted to display the beautiful queen sacrifice by Lawrence Trent from the HSK Gm Invitational open. But the main part of today, is the legendary GM Alexander Kotov, which Arne didn't even know about before. The \"Kotov Syndrome\" is named after the Soviet Grandmaster, and it describes a situation, where you think about an important position for too long, not finding the winning move, and with little time left, make a blunder instead. Probably all of us have been there.",
@@ -192,38 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-norway-chess-day-8",
          "pubDate" : "Fri, 10 Jun 2022 07:49:00 -0700",
          "title" : "The Red Wedding Of Norway Chess"
-      },
-      {
-         "description" : "India&#x2019;s boy wonder&#xA0;Rameshbabu Praggnanandhaa is the Winner of the Norway Chess Open 2022. After an outstanding performance in his last event Chessable Masters where Pragg defeated Magnus Carlsen and Anish Giri, the 16-year-old today lifts the trophy of the 2022 Norway Chess Open. Praggnanandhaa scored unbeaten 7.5/9 points to be the sole Winner of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-wins-norway-chess-open-2022/",
-         "pubDate" : "Fri, 10 Jun 2022 14:37:41 +0000",
-         "title" : "Praggnanandhaa wins Norway Chess Open 2022"
-      },
-      {
-         "description" : "The fourth edition of Tata Steel Chess India is announced to take place from 29 November 4 December, 2022.Throwback: The first Tata Steel Chess India 2018-2019 The tournament shall be played in two formats rapid and blitz.&#xA0;The line-up of each of the Rapid and Blitz events as well as the official venue of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-2022-announced/",
-         "pubDate" : "Fri, 10 Jun 2022 14:16:32 +0000",
-         "title" : "Tata Steel Chess India 2022 announced"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Fri, 10 Jun 2022 14:55:00 +0100",
-         "title" : "Prague Chess Festival: Live"
-      },
-      {
-         "description" : "The sixteen best teams in France participate in the&#160;French Team Chess Championship &#124; Top 16&#160;which takes place from 9-19 June in Chartres. The clubs of C&#x2019;Chartres &#xC9;checs, Villejuif, Bischwiller, Grasse &#xC9;checs, Chalons-en-Champagne, Club 608 &#x2013; Paris, Tremblay-en-France, Metz Fischer, Vandoeuvre &#xC9;checs, Agen, THF de Saint-Quentin, Mulhouse Philidor, Lyon Olympique Chess, the Erdre Chessboard, Clichy Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-team-championship-top-16-live/",
-         "pubDate" : "Fri, 10 Jun 2022 13:50:23 +0000",
-         "title" : "French Team Championship | Top 16 LIVE"
       },
       {
          "description" : "Viewers Willing to watch &#8220;GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022&#8221; Can Watch using the link given below. &#160; Link : https://view.livechesscloud.com/#3af36b7f-2576-449e-a61c-2bd53a464552",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "2022 ACT Championship - Rounds 2 and 3"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91855509.cms\" />A record number of 343 teams from 187 countries will take part in the 44th Chess Olympiad to be held here from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/44th-chess-olympiad-189-teams-register-in-open-section-154-in-womens-category/articleshow/91855509.cms",
-         "pubDate" : "Sat, 28 May 2022 11:40:11 +0000",
-         "title" : "44th Chess Olympiad: 189 teams register in Open section, 154 in women's category"
-      },
-      {
          "description" : "‌In a new episode of chess24's Chess Talk with Jovanka, Azerbaijan star Shakhriyar Mamedyarov shares an inspirational story about his career, how he learned chess, growing up in a chess family and what made him break into the world's elite.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1912,14 +1936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
          "pubDate" : "Thu, 26 May 2022 17:25:00 +0100",
          "title" : "Chessable Masters Finals"
-      },
-      {
-         "description" : "The first set of the final match at the online Chessable Masters ended on Wednesday with a 2&frac12;-1&frac12; victory by Ding Liren over Praggnanandhaa. It has been a busy few days for the 16-year-old Pragg: the Indian chess prodigy shuttles between tournament matches and school exams. A second match will be played on Thursday - a draw will then be enough for Ding to win the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d7",
-         "pubDate" : "Thu, 26 May 2022 17:15:00 +0100",
-         "title" : "Chessable Masters Finals: Ding wins first set"
       },
       {
          "description" : "",
@@ -2114,14 +2130,6 @@ news_feed (
          "title" : "20th European Union Youth Chess Championship U8-U14"
       },
       {
-         "description" : "Get a once in a lifetime chance to be a part of the grandest chess event 44th Chess Olympiad 2022, Chennai. For the first",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/last-call-for-volunteers-for-olympiad-2022-once-in-a-lifetime-opportunity/",
-         "pubDate" : "Mon, 23 May 2022 11:48:23 +0000",
-         "title" : "Last Call for Volunteers for Olympiad 2022 - Once in a Lifetime opportunity"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2184,14 +2192,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/",
          "pubDate" : "Sat, 21 May 2022 15:42:11 +0000",
          "title" : "FIDE 2022 election campaigns heat up!"
-      },
-      {
-         "description" : " A change of government in Australia is expected after the results of today's Federal election. While this may not have direct effect on chess in Australia, I do know a couple of chess players are closely connected with the Labor Party, and this maty lead to some small wins over the next three (or more) years! ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/speaking-of-elections.html",
-         "pubDate" : "Sat, 21 May 2022 13:04:00 +0000",
-         "title" : "Speaking of elections ...."
       }
    ]
 }
