@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Chess Club hosted the second leg of the Classic Series,&#160;the 2022 Summer Chess Classic, from June 1-11. Read more: Saint Louis Chess Club to Host Legends and Rising Stars of American Chess Over the course of 9 days, twenty competitors fought for $36,000 in prize money in two 10-player Round Robin tournaments: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/yu-yangyi-convincing-at-the-2022-summer-chess-classic/",
+         "pubDate" : "Sat, 11 Jun 2022 11:14:20 +0000",
+         "title" : "Yu Yangyi convincing at the 2022 Summer Chess Classic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/a-universal-game-teaching-tool/",
+         "pubDate" : "Sat, 11 Jun 2022 11:27:52 +0100",
+         "title" : "A universal game teaching tool"
+      },
+      {
+         "description" : "19-year-old Rahul Srivatshav reached the long-awaited goal and became the 74th India's grandmaster! He participates in the Italian Summer Chess Tour in a hunt for the needed elo points to complete the 2500 task and get the grandmaster title. Srivatshav already has five grandmaster norms earned in 2019 and he was struggling to cross the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rahul-srivatshav-becomes-indias-74th-grandmaster/",
+         "pubDate" : "Sat, 11 Jun 2022 10:12:09 +0000",
+         "title" : "Rahul Srivatshav becomes India's 74th grandmaster"
+      },
+      {
+         "description" : "As we look back in gratitude to the Jubilee of Her Majesty Queen Elizabeth II, I turn my attention to the Queen in chess and her antecedents. When the original version of Muslim chess, Shatranj, underwent its Renaissance transformation, around 1475, the main change was in the powers of the Queen. Formerly known as the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/long-live-the-queen/",
+         "pubDate" : "Sat, 11 Jun 2022 09:57:55 +0000",
+         "title" : "Long live the Queen"
+      },
+      {
+         "description" : "Magnus Carlsen&#xA0;won&#xA0;the 10th edition of the Norway Chess 2022, therefore becoming a 5-time Winner of the Norway Chess elite tournament. Magnus defeated&#xA0;Veselin Topalov&#xA0;in a thrilling final round and in a post-game interview explained it was a tough game: &#8220;It was tough. I mean I had nothing much to offer in my game. I was a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-i-will-be-following-the-candidates-full-time-interview/",
+         "pubDate" : "Sat, 11 Jun 2022 09:42:27 +0000",
+         "title" : "Magnus Carlsen: I will be following the Candidates full time (INTERVIEW)"
+      },
+      {
+         "description" : "16-year-old Indian chess star Rameshbabu Praggnanandhaa&#xA0;convincingly won the 2022 Norway Chess Open, scoring unbeaten 7.5 points. He yesterday joined the Norway Chess 2022 commentary team GM Jan Gustafsson and IM Jovanka Houska. &#8220;I am very happy to win the tournament. It's also very nice to play alongside such a strong field. It also motivates you []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/praggnanandhaa-it-motivates-me-better-when-i-play-alongside-a-strong-field/",
+         "pubDate" : "Sat, 11 Jun 2022 09:06:20 +0000",
+         "title" : "Praggnanandhaa: It motivates me better when I play alongside a strong field"
+      },
+      {
          "description" : "From the diagram position, Black hunted down the exposed white king with some extraordinary moves. Can you find them all?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -13,8 +61,16 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/parent-resource-guide/",
+         "pubDate" : "Sat, 11 Jun 2022 08:07:17 +0100",
+         "title" : "Parent resource guide"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/carlsens-wins-in-stavanger/",
-         "pubDate" : "Sat, 11 Jun 2022 06:32:48 +0100",
+         "pubDate" : "Sat, 11 Jun 2022 07:56:25 +0100",
          "title" : "Carlsens wins in Stavanger"
       },
       {
@@ -170,30 +226,6 @@ news_feed (
          "title" : "French Team Championship | Top 16 LIVE"
       },
       {
-         "description" : "The sixteen best teams in France participate in the French Team Chess Championship &#124; Top 16 which takes place from 9-19 June in Chartres. The clubs of C'Chartres &#xC9;checs, Villejuif, Bischwiller, Grasse &#xC9;checs, Chalons-en-Champagne, Club 608 Paris, Tremblay-en-France, Metz Fischer, Vandoeuvre &#xC9;checs, Agen, THF de Saint-Quentin, Mulhouse Philidor, Lyon Olympique Chess, the Erdre Chessboard, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-team-championship-top-16/",
-         "pubDate" : "Fri, 10 Jun 2022 13:45:33 +0000",
-         "title" : "French Team Championship | Top 16"
-      },
-      {
-         "description" : "The Greek Chess Federation Board met on Saturday, 4th of June, and among decisions related to the work of the Federation, confirmed the composition of National Teams for the upcoming 44th Chess Olympiad 2022. During the same meeting, the Board announced support of Makroupoulos&#x2019;s candidacy for the position of FIDE Vice President. Greek Team (Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/greek-chess-federation-confirms-national-teams-for-44th-chess-olympiad/",
-         "pubDate" : "Fri, 10 Jun 2022 13:31:09 +0000",
-         "title" : "Greek Chess Federation confirms National Teams for 44th Chess Olympiad"
-      },
-      {
-         "description" : "A not occasional situation happened yesterday in the game between Viswanathan Anand and Shakhriyar Mamedyarov in the 8th round of Norway Chess 2022. Anand played 22.Qb5 and resigned out of blue. The Azerbaijani was approaching the table obviously confused with Anand's decision, asking him: &#8220;Why?&#8221; what can be seen from the live camera from the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-i-asked-anand-why-he-resigned-interview/",
-         "pubDate" : "Fri, 10 Jun 2022 12:57:46 +0000",
-         "title" : "Shakhriyar Mamedyarov: I asked Anand why he resigned (INTERVIEW)"
-      },
-      {
          "description" : "Viewers Willing to watch &#8220;GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022&#8221; Can Watch using the link given below. &#160; Link : https://view.livechesscloud.com/#3af36b7f-2576-449e-a61c-2bd53a464552",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -224,14 +256,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/norway-chess-8-carlsen-escapes-as-anand-blunders",
          "pubDate" : "Fri, 10 Jun 2022 08:17:55 +0000",
          "title" : "Norway Chess 8: Carlsen escapes as Anand blunders"
-      },
-      {
-         "description" : "Are you playing rapid chess? Blitz chess? Bullet chess? How about F1 speed chess! Here we have F1's Mick Schumacher enjoying a chess game with the team of Haas. It is becoming popular for sports stars to keep their mind sharp. A few to mention: Tennis star Carlos Alcaraz is using chess to up his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mick-schumacher-is-an-avid-chess-player-tweetoftheday/",
-         "pubDate" : "Fri, 10 Jun 2022 07:58:50 +0000",
-         "title" : "Mick Schumacher is an avid chess player #TweetOftheDay"
       },
       {
          "description" : "",
@@ -2168,30 +2192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/speaking-of-elections.html",
          "pubDate" : "Sat, 21 May 2022 13:04:00 +0000",
          "title" : "Speaking of elections ...."
-      },
-      {
-         "description" : "In 1978 I became involved in perhaps the weirdest world chess championship of all time, including parapsychology, the Great Yoghurt controversy, terrorists, mystic gurus levitating for victory, long range hypnosis and an attempt to abort the entire contest, just as it was reaching its maximum sporting climax. I experienced this panoply of outlandish occurrences when []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/levitation-yoghurt-and-chess/",
-         "pubDate" : "Sat, 21 May 2022 09:27:17 +0000",
-         "title" : "Levitation, yoghurt and chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1775",
-         "pubDate" : "Sat, 21 May 2022 08:35:43 +0000",
-         "title" : "Superbet Rapid & Blitz: Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1774",
-         "pubDate" : "Sat, 21 May 2022 07:42:32 +0000",
-         "title" : "FIDE sponsors participation of African chess talents in Sharjah Championships 2022"
       }
    ]
 }
