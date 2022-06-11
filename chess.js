@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 10th Norway Chess concluded yesterday in Stavanger with Magnus Carlsen conquering the top of the event for the 4th consecutive time (and five times in total). The players today enjoyed the Garden Party having a short break before returning to the usual activities and preparations for the upcoming events: Grand Chess Tour Croatia 2022, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2700-bughouse-chess-in-norway/",
+         "pubDate" : "Sat, 11 Jun 2022 19:14:57 +0000",
+         "title" : "2700+ Bughouse Chess in Norway"
+      },
+      {
+         "description" : "The&#xA0;FIDE World School Chess Championship 2022 kicks off today taking place from June 10-19, 2022, at the Wyndham Panama Albrook Mall Hotel &#38; Convention Center, Panama City, under the auspices of FIDE and the Panama Chess Federation.Read more: European School Chess Champions 2022 crowned / FIDE World Youth and Cadet Rapid &#38; Blitz Champions crowned []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-school-chess-championship-2022/",
+         "pubDate" : "Sat, 11 Jun 2022 18:46:56 +0000",
+         "title" : "FIDE World School Chess Championship 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92152099.cms\" />Nineteen-year-old Peddi Rahul Srivathsav's dream came true on Friday, when he crossed the ELO mark of 2500 to clinch the Grand Master title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hyderabad-lad-rahul-srivathsav-is-indias-74th-gm/articleshow/92152099.cms",
+         "pubDate" : "Sat, 11 Jun 2022 17:39:00 +0000",
+         "title" : "Hyderabad lad Rahul Srivathsav is India's 74th GM"
+      },
+      {
+         "description" : "&#34;If it&#39;s entertaining, it must be entertainment!&#34; said a couple of TV show hosts when I lived in England, and the same can be said about this year&#39;s edition of Norway Chess. The headline, of course, paraphrases the famous Gary Lineker (English f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-day-9",
+         "pubDate" : "Sat, 11 Jun 2022 09:56:10 -0700",
+         "title" : "10 Players Move Pieces; In The End, Magnus Always Wins Norway Chess"
+      },
+      {
+         "description" : "The German Youth Individual Chess Championships 2022&#160;was played from June 4th to June 11th in the Sauerland Stern Hotel in Willingen, the city that hosts the German Youth Championships since 1996. The Winners are: U18 Marius Fromm GU18 Jana Bardorz U16 Artem Lutsko GU16 Maja Buchholz U14 Marius Deuer GU14 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/germany-crowns-youth-chess-champions/",
+         "pubDate" : "Sat, 11 Jun 2022 16:17:10 +0000",
+         "title" : "Germany crowns Youth Chess Champions"
+      },
+      {
          "description" : "The 2nd leg of the 2022 Romanian Grand Prix series took place 4-11 June in Targu Mures. German grandmaster Liviu-Dieter Nisipeanu triumphed in the tournament scoring 7/9 points and pocketing the money prize of 25.000 lei (5.000 euros). FM Ihor Samunenkov was second with 6.5 points, while a group of 6 players tied for third []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-announces-madrid-candidates-chess-conference/",
          "pubDate" : "Sat, 11 Jun 2022 11:51:28 +0000",
          "title" : "FIDE announces Madrid Candidates Chess Conference"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92147528.cms\" />Rahul Srivatshav P of Telangana has become India's 74th Grandmaster, achieving the title after breaking the 2500 (Elo points) barrier in live FIDE ratings during the 9th Cattolica Chess Festival 2022 in Italy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/rahul-srivatshav-becomes-indias-74th-grandmaster/articleshow/92147528.cms",
-         "pubDate" : "Sat, 11 Jun 2022 11:41:31 +0000",
-         "title" : "Rahul Srivatshav becomes India's 74th Grandmaster"
       },
       {
          "description" : "The Saint Louis Chess Club hosted the second leg of the Classic Series,&#160;the 2022 Summer Chess Classic, from June 1-11. Read more: Saint Louis Chess Club to Host Legends and Rising Stars of American Chess Over the course of 9 days, twenty competitors fought for $36,000 in prize money in two 10-player Round Robin tournaments: []",
@@ -178,14 +210,6 @@ news_feed (
          "title" : "Magnus Carlsen wins Norway Chess 2022"
       },
       {
-         "description" : "Reigning World Chess Champion Magnus Carlsen won the 10th edition of the Norway Chess 2022, therefore becoming a 5-time Winner of the Norway Chess elite tournament. Magnus defeated Veselin Topalov in a thrilling final round after playing the Armageddon, and won the tournament with 16.5 points. Shakhriyar Mamedyarov was second with 15.5 points, but had []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-claims-his-5th-norway-chess-title/",
-         "pubDate" : "Fri, 10 Jun 2022 21:21:00 +0000",
-         "title" : "Magnus Carlsen claims his 5th Norway Chess title"
-      },
-      {
          "description" : " The world champion kept his narrow lead over Shak Mamedyarov in the final round at Stavanger, while Vishy Anand's challenge faded when he blundered into a one-move tactic Magnus Carlsen kept his narrow lead over Shak Mamedyarov in Friday evening's final round at Stavanger, the Norwegian elite tournament which the world champion has now won four years running. His Azerbaijani rival had earlier scored a bizarre penultimate round victory over India's former world champion Vishy Anand, who till then had been Carlsen's main contender throughout the tournament. In a level position, Anand blundered into a losing tactic which he noticed too late. Mamedyarov was away from the board, and when he retu",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -200,22 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1804",
          "pubDate" : "Fri, 10 Jun 2022 20:07:16 +0000",
          "title" : "FIDE Madrid Candidates Chess Conference set for July 2"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 will feature the first-ever Torch Relay to be carried in Chess Olympiad. The All India Chess Federation will organize on this occasion the Olympiad Torch Run International Open Rapid Chess Tournament 2022 which will be held on the 19th of June at Indira Gandhi International Stadium in Delhi. 14th World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/olympiad-torch-run-international-open-rapid-chess-tournament-2022/",
-         "pubDate" : "Fri, 10 Jun 2022 18:49:57 +0000",
-         "title" : "Olympiad Torch Run International Open Rapid Chess Tournament 2022"
-      },
-      {
-         "description" : "This summer, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players.&#xA0; From July 6 16, 2022, Saint Louis, America&#x2019;s Chess Capital, will host the top 10 juniors, girls, and seniors in the invitational 2022 U.S. Junior, U.S. Girls&#x2019; Junior, and U.S. Senior []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-chess-club-to-host-legends-and-rising-stars-of-american-chess/",
-         "pubDate" : "Fri, 10 Jun 2022 17:50:07 +0000",
-         "title" : "Saint Louis Chess Club to Host Legends and Rising Stars of American Chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92134908.cms\" />Grandmaster R Praggnanandhaa won the Norway Chess Group A open tournament on Friday scoring 7.5 points from 9 rounds. The 16-year-old, the top seed, was in great form right through the tournament. In the final round, Praggu got the better of IM V Praneeth.",
@@ -1634,14 +1642,6 @@ news_feed (
          "title" : "Norway Chess 2022 kicks off"
       },
       {
-         "description" : "The 16th week of the Rapid Chess Championship, presented by Coinbase, concluded today with an inaugural win for GM Alexander Grischuk in the knockout, while GM Raunak Sadhwani won the Swiss on tiebreak ahead of GMs Hikaru Nakamura, Fabiano Caruana...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-16-grischuk-wins",
-         "pubDate" : "Sun, 29 May 2022 19:09:00 -0700",
-         "title" : "Grischuk Wins Knockout: Rapid Chess Championship Week 16"
-      },
-      {
          "description" : "The tenth edition of the Norway Chess Tournament is set to kick off on Monday, with a blitz tournament which will decide who gets more whites in the main event. An impressive lineup, including Magnus Carlsen, Vishy Anand and Veselin Topalov, will fight in a 9-round all-play-all with a unique format - in case of a draw, an Armageddon follows. Richad Rapport, who will play the Candidates in a few weeks, withdrew from the tournament; Aryan Tari stepped in (pictured). | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1776",
          "pubDate" : "Sat, 21 May 2022 20:40:46 +0000",
          "title" : "Superbet Rapid & Blitz: Day 3 Recap"
-      },
-      {
-         "description" : " Early this month, the Presidential election (FIDE 2022) opened and there are already four candidates for President. This point was noted by current FIDE Vice President Nigel Short. It appears that the FIDE Presidential Election will be a crowded field. - Nigel Short (@nigelshortchess) May 20, 2022 Crowded indeed. After the announcement of Enyonam Sewa The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/\">FIDE 2022 election campaigns heat up!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/21/fide-2022-election-campaigns-heat-up/",
-         "pubDate" : "Sat, 21 May 2022 15:42:11 +0000",
-         "title" : "FIDE 2022 election campaigns heat up!"
       }
    ]
 }
