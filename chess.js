@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Hikaru Nakamura won week 18 of the Rapid Chess Championship, presented by Coinbase, edging out four other grandmasters by tiebreaks.&#38;nbsp;&#38;nbsp; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-swiss",
+         "pubDate" : "Sat, 11 Jun 2022 13:50:44 -0700",
+         "title" : "Nakamura Wins Week 18 Swiss Heading into Knockout: Summary Report"
+      },
+      {
          "description" : "The 10th Norway Chess concluded yesterday in Stavanger with Magnus Carlsen conquering the top of the event for the 4th consecutive time (and five times in total). The players today enjoyed the Garden Party having a short break before returning to the usual activities and preparations for the upcoming events: Grand Chess Tour Croatia 2022, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1554,14 +1562,6 @@ news_feed (
          "title" : "\"No more political sponsorship and sportswashing\""
       },
       {
-         "description" : "It is probably a record: scoring two norms in a time span of fewer than 24 hours. GM-elect Frederik Svane, the brother of GM Rasmus Svane, managed to do so last weekend in Hamburg, Germany. 17-year-old Svane, the younger of two brothers (Rasmus ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/frederik-svane-2-gm-norms-in-24-hours",
-         "pubDate" : "Mon, 30 May 2022 10:44:00 -0700",
-         "title" : "Frederik Svane Sets Likely Record, Scoring Final 2 GM Norms In 24 Hours"
-      },
-      {
          "description" : "The tenth edition of the Norway Chess Tournament starts with a blitz tournament, which will decide who gets more whites in the main event. It is a single round-robin with a time control of 3 minutes for the game plus 2-second increments per move. The action kicks off at 18.00 CEST (12.00 ET, 21.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-asian-seniors-championship.html",
          "pubDate" : "Sun, 22 May 2022 11:55:00 +0000",
          "title" : "2022 Asian Seniors Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1777",
-         "pubDate" : "Sat, 21 May 2022 21:02:25 +0000",
-         "title" : "Chessable Masters: Anish Giri takes the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1776",
-         "pubDate" : "Sat, 21 May 2022 20:40:46 +0000",
-         "title" : "Superbet Rapid & Blitz: Day 3 Recap"
       }
    ]
 }
