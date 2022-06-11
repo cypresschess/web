@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From the diagram position, Black hunted down the exposed white king with some extraordinary moves. Can you find them all?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-art-of-attack",
+         "pubDate" : "Sat, 11 Jun 2022 09:00:00 +0100",
+         "title" : "The art of attack"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsens-wins-in-stavanger/",
+         "pubDate" : "Sat, 11 Jun 2022 06:32:48 +0100",
+         "title" : "Carlsens wins in Stavanger"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92140753.cms\" />Former world champion Viswanathan Anand scored a win over Aryan Tari in the ninth and final round to finish third in the Norway Chess tournament which was won by world number one Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1904,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1791",
          "pubDate" : "Thu, 26 May 2022 11:54:15 +0000",
          "title" : "Prisons of Armenia stage qualifying events for Intercontinental Chess Championship"
-      },
-      {
-         "description" : "Normally, we sacrifice a piece to win material, or even set up a check-mate attack. But occasionally, we can also sacrifice a piece to gain a positional advantage! Svitlana demonstrates how this is working with some very instructional games by Vladimir Kramnik, Garry Kasparov, Mikhail Tal, and Tigran Petrosian - the \"Master\" of positional sacrifices.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-42",
-         "pubDate" : "Thu, 26 May 2022 12:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Positional Sacrifices by Kramnik, Kasparov, Tal and Petrosian"
       },
       {
          "description" : "",
