@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2022 NSW Open has just started in the last hour. Live broadcast of the top 4 boards is at <a href=\"https://view.livechesscloud.com/#71c54aaf-fa1f-4804-88a0-abcc3568843c\">https://view.livechesscloud.com/#71c54aaf-fa1f-4804-88a0-abcc3568843c</a> while the links the results are <a href=\"http://chess-results.com/tnr646116.aspx?lan=1http://chess-results.com/tnr646116.aspx?lan=1\">2022 NSW Open</a> <a href=\"http://chess-results.com/tnr646382.aspx?lan=1\">2022 NSW Minor</a> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-coverage.html",
+         "pubDate" : "Sat, 11 Jun 2022 02:51:00 +0000",
+         "title" : "2022 NSW Open Coverage"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1774",
          "pubDate" : "Sat, 21 May 2022 07:42:32 +0000",
          "title" : "FIDE sponsors participation of African chess talents in Sharjah Championships 2022"
-      },
-      {
-         "description" : " IM Daniel Cawdery won his second national title by edging out the field of contemporaries including former national champions and the country's lone Grandmaster. The tournament took place May 7-14, 2022 in the Newlands Cricket Stadium in Cape Town, South Africa. GM Kenny Solomon and IM Daniel Cawdery with a nice backdrop of the cricket The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/20/daniel-cawdery-wins-south-african-championship/\">Daniel Cawdery wins South African Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/20/daniel-cawdery-wins-south-african-championship/",
-         "pubDate" : "Sat, 21 May 2022 00:57:44 +0000",
-         "title" : "Daniel Cawdery wins South African Championship"
       }
    ]
 }
