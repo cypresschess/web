@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-swiss",
-         "pubDate" : "Sat, 11 Jun 2022 13:50:44 -0700",
+         "pubDate" : "Sat, 11 Jun 2022 13:50:00 -0700",
          "title" : "Nakamura Wins Week 18 Swiss Heading into Knockout: Summary Report"
       },
       {
