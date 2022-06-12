@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Dmitry Andreikin won week 17 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He defeated GM Jeffery Xiong in the final blitz tiebreaker.&#38;nbsp; GMs&#38;nbsp;Levon Aronian and Olexandr Bortnyk made it to the semifinals. GMs Hikaru ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-andreikin-wins",
+         "pubDate" : "Sun, 12 Jun 2022 15:50:20 -0700",
+         "title" : "Fighting Spirit Prevails: Andreikin Wins Third Knockout"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes analyzes a Kasparov game where Garry takes on Josef Pribyl&#039;s Gruenfeld. It was 1980, the year Kasparov became a grandmaster... Originally on Twitch<br /> 2022.04.13<br /> Garry Kasparov vs Josef Pribyl, EUR-chT (Men) 7th (1980): D85 Gruenfeld, modern exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069896\">https://www.chessgames.com/perl/chessgame?gid=1069896</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -394,7 +402,7 @@ news_feed (
          "title" : "Norway Chess: Mamedyarov climbs to second place as Anand blunders"
       },
       {
-         "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of all 10 players were exactly as they would have been with a conventional tournament without the use of the special scoring and Armageddon games. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
+         "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of 8 of the 10 players were as they would have been with a conventional tournament without the use of the special scoring and Armageddon games only the bottom two players switched places. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
@@ -1514,14 +1522,6 @@ news_feed (
          "title" : "Mendonca clear winner at the Hamburg GM tournament"
       },
       {
-         "description" : "Rather than having a traditional drawing of start numbers, Norway Chess has made a tradition of starting out with a blitz tournament to decide the start numbers for each player in the main event. American GM Wesley So took a decisive lead by bea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-norway-chess-blitz-wesley-so-wins",
-         "pubDate" : "Tue, 31 May 2022 07:58:00 -0700",
-         "title" : "Wesley So Wins Blitz Event: Norway Chess 2022"
-      },
-      {
          "description" : "The new Extra #207 offers, among other things, over an hour of video training with Elisabeth P&auml;htz and Ivan Sokolov. Germany's best female chess player presents one of her favourite weapons against the Gruenfeld Defence in a short video series. And Sokolov's contribution deals with a topic that should be interesting for many 1.d4 players, especially at club level: The GM from the Netherlands shows a method with which a nice advantage can be comfortably achieved against the Budapest Gambit. This issue's \"Brilliancy\" comes from Jorden van Foreest, who takes a critical look at his Sicilian experiment (3.Bc4) from the Tata Steel Masters 2022 against Praggnanandhaa. In addition, the \"Lucky b",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1780",
          "pubDate" : "Mon, 23 May 2022 00:29:24 +0000",
          "title" : "Czech Championship: David Navara clinches national 11th title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1782",
-         "pubDate" : "Sun, 22 May 2022 21:23:43 +0000",
-         "title" : "Superbet Rapid & Blitz: Day 4 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1781",
-         "pubDate" : "Sun, 22 May 2022 20:58:44 +0000",
-         "title" : "Giri tops leaderboard as Chessable Masters heads into KO stage"
       }
    ]
 }
