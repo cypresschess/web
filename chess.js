@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Hong Kong National Chess Championships in Men's and Women's sections took place over the weekends from April 1st June 6th at Smithfield Sports Centre. The best three players of each competition secured their spots in the Hong Kong National Teams for the 44th Chess Olympiad in Chennai. Lut Yin Luke Lau won []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hong-kong-national-championship-olympiad-selection-concluded/",
+         "pubDate" : "Sun, 12 Jun 2022 11:24:48 +0000",
+         "title" : "Hong Kong National Championship & Olympiad Selection concluded"
+      },
+      {
+         "description" : " I spent five years on the London weekend tournament circuit between 1972 and 1977 before deciding that running Richmond Junior Club was more enjoyable. One thing I noticed was that my last round games were often rather strange. Either my opponent or I, or sometimes both of us, had lost interest in the tournament, were <a href=\"https://chessimprover.com/the-last-round/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Last Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-last-round/\">The Last Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-last-round/",
+         "pubDate" : "Sun, 12 Jun 2022 10:00:36 +0000",
+         "title" : "The Last Round"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1806",
+         "pubDate" : "Sun, 12 Jun 2022 09:40:15 +0000",
+         "title" : "FIDE PDC launches inaugural Orientation Programme"
+      },
+      {
+         "description" : " <p class=\"lead\">'Just look at his games' says Garry Kasparov, the former World Chess Champion and the ultimate expert on the game. In the interview with Anna Rudolph for the <a href=\"https://kasparovchess.com/home\">eponymous chess channel</a>, Kasparov gave his list of players with the best chances to win the event. Ian Nepomniachtchi, the winner of the previous Candidates Tournament, is not on it. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/7B70A152-F05D-404B-99D5-CF95EEB165CA.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Ding Liren in the 2018 Candidates Tournament</div> </div> <h2>Kasparov's list</h2> <b>Ding Liren</b> - Why? Jus",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/kasparov-says-ding-liren-is-the-favorite-to-win-the-candidates/",
+         "pubDate" : "Sun, 12 Jun 2022 09:15:46 +0000",
+         "title" : "Kasparov Says Ding Liren is the Favorite To Win the Candidates"
+      },
+      {
+         "description" : "Just a few days after the World Economic Forum hosted the world's top leaders from politics, business, and civil society to tackle global issues, a town in the Swiss Alps hosted the Davos Chess Festival 2022 from 3-6 June. The Festival featured two events: Challenge (for players rated 1600+) and Rising (for players rated U1600), []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/li-min-peng-triumphs-at-davos-chess-challenge-open-2022/",
+         "pubDate" : "Sun, 12 Jun 2022 09:13:25 +0000",
+         "title" : "Li Min Peng triumphs at Davos Chess Challenge Open 2022"
+      },
+      {
          "description" : " The FIDE Electoral Commission released its report in certifying the tickets for the August 7th election. Five tickets were submitted and four were certified. The only ticket that was disqualified was Enyonam Sewa Fumey of Togo who failed to secure European support. Four European-led tickets qualified and the lone African ticket did not receive a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/\">FIDE Election tickets certified, African ticket out</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -54,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/norway-chess-day-9",
-         "pubDate" : "Sat, 11 Jun 2022 09:56:10 -0700",
+         "pubDate" : "Sat, 11 Jun 2022 09:56:00 -0700",
          "title" : "10 Players Move Pieces; In The End, Magnus Always Wins Norway Chess"
       },
       {
@@ -144,22 +184,6 @@ news_feed (
          "link" : "https://www.thearticle.com/long-live-the-queen/",
          "pubDate" : "Sat, 11 Jun 2022 09:57:55 +0000",
          "title" : "Long live the Queen"
-      },
-      {
-         "description" : "Magnus Carlsen&#xA0;won&#xA0;the 10th edition of the Norway Chess 2022, therefore becoming a 5-time Winner of the Norway Chess elite tournament. Magnus defeated&#xA0;Veselin Topalov&#xA0;in a thrilling final round and in a post-game interview explained it was a tough game: &#8220;It was tough. I mean I had nothing much to offer in my game. I was a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-i-will-be-following-the-candidates-full-time-interview/",
-         "pubDate" : "Sat, 11 Jun 2022 09:42:27 +0000",
-         "title" : "Magnus Carlsen: I will be following the Candidates full time (INTERVIEW)"
-      },
-      {
-         "description" : "16-year-old Indian chess star Rameshbabu Praggnanandhaa&#xA0;convincingly won the 2022 Norway Chess Open, scoring unbeaten 7.5 points. He yesterday joined the Norway Chess 2022 commentary team GM Jan Gustafsson and IM Jovanka Houska. &#8220;I am very happy to win the tournament. It's also very nice to play alongside such a strong field. It also motivates you []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-it-motivates-me-better-when-i-play-alongside-a-strong-field/",
-         "pubDate" : "Sat, 11 Jun 2022 09:06:20 +0000",
-         "title" : "Praggnanandhaa: It motivates me better when I play alongside a strong field"
       },
       {
          "description" : "From the diagram position, Black hunted down the exposed white king with some extraordinary moves. Can you find them all?",
@@ -2048,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1787",
          "pubDate" : "Wed, 25 May 2022 08:27:43 +0000",
          "title" : "FIDE World Championship Match 2023 Qualification Rules"
-      },
-      {
-         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart For the past couple of months at the club we have been solving puzzles where the position of certain pieces was the difference maker. This is <a href=\"https://chessimprover.com/students-analysis-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-7/\">Students Analysis (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/students-analysis-7/",
-         "pubDate" : "Tue, 24 May 2022 16:59:13 +0000",
-         "title" : "Students Analysis (7)"
       },
       {
          "description" : "",
