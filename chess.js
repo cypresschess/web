@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Electoral Commission released its report in certifying the tickets for the August 7th election. Five tickets were submitted and four were certified. The only ticket that was disqualified was Enyonam Sewa Fumey of Togo who failed to secure European support. Four European-led tickets qualified and the lone African ticket did not receive a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/\">FIDE Election tickets certified, African ticket out</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/",
+         "pubDate" : "Sun, 12 Jun 2022 03:11:05 +0000",
+         "title" : "FIDE Election tickets certified, African ticket out"
+      },
+      {
+         "description" : "Le Quang Liem and Pentala Harikrishna are sharing the lead with 3 points after 4 rounds at the Masters section of the Prague Chess Festival. The two co-leaders have three players standing a half point back going into the event's one rest day. Meanwhile, Vincent Keymer is the sole leader in the Challengers section, also with 3 out of 4. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r4",
+         "pubDate" : "Sun, 12 Jun 2022 02:45:00 +0100",
+         "title" : "Prague: Le and Harikrishna share the lead in the Masters"
+      },
+      {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Hikaru Nakamura won week 18 of the Rapid Chess Championship, presented by Coinbase, edging out four other grandmasters by tiebreaks.&#38;nbsp;&#38;nbsp; ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2022-r9",
          "pubDate" : "Sat, 11 Jun 2022 15:35:00 +0100",
          "title" : "Magnus Carlsen wins Norway Chess for a fourth straight time"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Sat, 11 Jun 2022 14:55:00 +0100",
-         "title" : "Prague Chess Festival: Live"
       },
       {
          "description" : " As with most events, the first day of the 2022 NSW Open hasn't revealed too much. Most of the top seeds reached 2/2, not all the DGT boards were working, and a number of players still don't understand the reasoning behind the mobile phone rules* (or simply think they have a special exemption). So the highlight of the day was in the Minor, when two players left the board to go to the bathroom ( after playing their respective moves), and when they returned, found the board has been set up to start the game. Weirdly they were only 8 moves in, so it was possible to reconstruct the position quickly. *As for the reasoning behind the not having phones in the paying area, if we did allow spectators",
