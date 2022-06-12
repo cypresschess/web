@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes analyzes a Kasparov game where Garry takes on Josef Pribyl&#039;s Gruenfeld. It was 1980, the year Kasparov became a grandmaster... Originally on Twitch<br /> 2022.04.13<br /> Garry Kasparov vs Josef Pribyl, EUR-chT (Men) 7th (1980): D85 Gruenfeld, modern exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069896\">https://www.chessgames.com/perl/chessgame?gid=1069896</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-vs-josef-pribyl-1980-how-become-grandmaster-wgm-thalia-cervantes",
+         "pubDate" : "Sun, 12 Jun 2022 17:15:00 +0000",
+         "title" : "Kasparov vs. Josef Pribyl, 1980 | How To Become a Grandmaster - WGM Thalia Cervantes"
+      },
+      {
+         "description" : "Are you able to play a game of chess without view of the board? Can you solve problems and studies by just looking at a position or a diagram? Well, grandmasters and very strong players can stun us with feats of mental skill that we mortals are scarcely able to comprehend. We start our series with an experiment in which you can try competing with some great chess prodigies.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-all-in-your-mind-1",
+         "pubDate" : "Sun, 12 Jun 2022 18:00:00 +0100",
+         "title" : "It's all in your mind! (1)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1282,14 +1298,6 @@ news_feed (
          "title" : "2022 Summer Chess Classic: Round 2 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-3-lichessorg",
-         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
-         "title" : "2022 Summer Chess Classic: Round 3 | lichess.org"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1970,14 +1978,6 @@ news_feed (
          "title" : "The Weekly Show: A tense victory in Hamburg"
       },
       {
-         "description" : "Among the growing number of apps and functions available with ChessBase Account is the Quiz. Most of the functions in a subscription have an inherent training or educational factor in their usage, and the quiz is no exception, But even more than what it can teach you is the plain old 'fun' factor. Read on to learn more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fun-with-quizzes",
-         "pubDate" : "Thu, 26 May 2022 17:45:00 +0100",
-         "title" : "Fun with quizzes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1781",
          "pubDate" : "Sun, 22 May 2022 20:58:44 +0000",
          "title" : "Giri tops leaderboard as Chessable Masters heads into KO stage"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1778",
-         "pubDate" : "Sun, 22 May 2022 17:13:30 +0000",
-         "title" : "Mr. Sheripov announces his candidacy for FIDE President"
       }
    ]
 }
