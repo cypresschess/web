@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1807",
+         "pubDate" : "Sun, 12 Jun 2022 15:00:10 +0000",
+         "title" : "Muhammad Hanif Qureshi elected the president of Chess Federation of Pakistan"
+      },
+      {
+         "description" : "IM Anna Rudolf and GM Maurice Ashley will today host the live stream of the Chess2Change event and the reigning World Chess Champion Magnus Carlsen will join them as a special guest. Chess2Change is a charity event for talented African Chess players. African kids will team up with business executives, playing together in a Chess2Change []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-rudolf-and-maurice-ashley-to-host-chess2change-live-stream-with-special-appearance-of-magnus-carlsen/",
+         "pubDate" : "Sun, 12 Jun 2022 14:12:48 +0000",
+         "title" : "Anna Rudolf and Maurice Ashley to host Chess2Change live stream with special appearance of Magnus Carlsen"
+      },
+      {
+         "description" : "Magnus Carlsen&#xA0;won&#xA0;the 10th edition of the Norway Chess 2022, therefore becoming a 5-time Winner of the Norway Chess elite tournament. Follow the links below to replay all games of Magnus Carlsen (classical and armageddon) with light analysis provided by Lichess. R1: Magnus Carlsen &#x2013; Wang Hao 1.5-1.0&#xA0; R2: &#xA0;Wesley So &#x2013; Magnus Carlsen 1.5-1.0 R3: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/replay-all-games-of-magnus-carlsen-from-norway-chess-2022-interviews/",
+         "pubDate" : "Sun, 12 Jun 2022 14:06:27 +0000",
+         "title" : "Replay: all games of Magnus Carlsen from Norway Chess 2022 (+ interviews)"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 83rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-83-basics-of-the-benko-gambit-2",
+         "pubDate" : "Sun, 12 Jun 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 83: Basics of the Benko Gambit (2)"
+      },
+      {
+         "description" : "The Finnish Chess Federation celebrated its 100th anniversary on June 10th in Helsinki. The centennial celebration was attended by Gunnar Bjornsson ECU Deputy President, Nigel Short FIDE Vice President, Eetu Tiiva President of the Finnish Chess Federation, and other distinguished guests. The Finnish Chess Federation was founded on June 10, 1922, and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/finnish-chess-federation-celebrates-100th-anniversary/",
+         "pubDate" : "Sun, 12 Jun 2022 13:41:28 +0000",
+         "title" : "Finnish Chess Federation celebrates 100th anniversary"
+      },
+      {
+         "description" : "The 2022 Turkish Youth Team Chess Championship was held at Kocaeli Congress Center on 6-10 June with the contributions of Kocaeli Metropolitan Municipality. Bursa Metropolitan Belediyespor Club became the champion in the Open category U18 and Apayd&#x131;n Chess and Sports Club Association won the Open section U12. Apayd&#x131;n Chess and Sports Club Association also triumphed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/turkish-youth-team-chess-champions-announced/",
+         "pubDate" : "Sun, 12 Jun 2022 13:18:00 +0000",
+         "title" : "Turkish Youth Team Chess Champions announced"
+      },
+      {
+         "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of pawn races with rooks still on the board, the need to find precise roads in pawn endgames and how to keep a king from escaping a sequence of checks with rook and knight. | Photo: Lennart Ootes / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgames-from-stavanger-2",
+         "pubDate" : "Sun, 12 Jun 2022 14:00:00 +0100",
+         "title" : "More endgames from Stavanger"
+      },
+      {
+         "description" : "Just a few weeks ago, Levon Aronian was rocking it on the streets of Barcelona. Now WIM Patricia LLaneza brings us &#8220;More #streetchess in Spain. A tournament played on giant chess boards in front of Le&#xF3;n's Gothic cathedral.&#8221;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/street-chess-in-giant-boards-in-spain-tweetoftheday/",
+         "pubDate" : "Sun, 12 Jun 2022 12:57:55 +0000",
+         "title" : "Street chess on giant boards in Spain #TweetOftheDay"
+      },
+      {
+         "description" : "The invitational chess tournament in memory of Professor Lim Kok Ann is going to take place 13-18 June, 2022. Top seeded is GM Adhiban (IND) in a field of ten players. The other participants are IM Irene Karishma Sukandar (INA), local stars IM Tin Jingyao, IM Jagadeesh Siddharth, WGM Gong Qianyun, as well as GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-ahiban-top-seeded-at-professor-lim-kok-ann-invitational/",
+         "pubDate" : "Sun, 12 Jun 2022 12:37:55 +0000",
+         "title" : "GM Adhiban top seeded at Professor Lim Kok Ann Invitational"
+      },
+      {
+         "description" : "The FIDE Planning and Development Commission launched its inaugural Orientation Programme targeting new federations and new federation administrations on 11 June 2022 during the World School Individual Chess Championship at the Bristol Hotel in Panama. The meeting was the first of its kind to bring together the FIDE President, FIDE Vice Presidents, FIDE Executive Director, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-planning-and-development-commission-launches-inaugural-orientation-programme/",
+         "pubDate" : "Sun, 12 Jun 2022 12:14:31 +0000",
+         "title" : "FIDE Planning and Development Commission launches inaugural Orientation Programme"
+      },
+      {
+         "description" : "The Liberian Chess Federation organized Olympiad Selection Open and Women's tournaments to determine the five players who will represent Liberia at the upcoming 44th Chess Olympiad in Chennai. The event took place from 28 May 5 June in Monrovia. The Men's team was selected after 11 swiss rounds in the Open tournament which attracted []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/liberia-determines-national-teams-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Sun, 12 Jun 2022 12:06:13 +0000",
+         "title" : "Liberia determines National Teams for 44th Chess Olympiad"
+      },
+      {
          "description" : "The 2022 Hong Kong National Chess Championships in Men's and Women's sections took place over the weekends from April 1st June 6th at Smithfield Sports Centre. The best three players of each competition secured their spots in the Hong Kong National Teams for the 44th Chess Olympiad in Chennai. Lut Yin Luke Lau won []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -66,22 +154,6 @@ news_feed (
          "title" : "Nakamura Wins Week 18 Swiss Heading into Knockout: Summary Report"
       },
       {
-         "description" : "The 10th Norway Chess concluded yesterday in Stavanger with Magnus Carlsen conquering the top of the event for the 4th consecutive time (and five times in total). The players today enjoyed the Garden Party having a short break before returning to the usual activities and preparations for the upcoming events: Grand Chess Tour Croatia 2022, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2700-bughouse-chess-in-norway/",
-         "pubDate" : "Sat, 11 Jun 2022 19:14:57 +0000",
-         "title" : "2700+ Bughouse Chess in Norway"
-      },
-      {
-         "description" : "The&#xA0;FIDE World School Chess Championship 2022 kicks off today taking place from June 10-19, 2022, at the Wyndham Panama Albrook Mall Hotel &#38; Convention Center, Panama City, under the auspices of FIDE and the Panama Chess Federation.Read more: European School Chess Champions 2022 crowned / FIDE World Youth and Cadet Rapid &#38; Blitz Champions crowned []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-school-chess-championship-2022/",
-         "pubDate" : "Sat, 11 Jun 2022 18:46:56 +0000",
-         "title" : "FIDE World School Chess Championship 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92152099.cms\" />Nineteen-year-old Peddi Rahul Srivathsav's dream came true on Friday, when he crossed the ELO mark of 2500 to clinch the Grand Master title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -96,22 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/norway-chess-day-9",
          "pubDate" : "Sat, 11 Jun 2022 09:56:00 -0700",
          "title" : "10 Players Move Pieces; In The End, Magnus Always Wins Norway Chess"
-      },
-      {
-         "description" : "The German Youth Individual Chess Championships 2022&#160;was played from June 4th to June 11th in the Sauerland Stern Hotel in Willingen, the city that hosts the German Youth Championships since 1996. The Winners are: U18 Marius Fromm GU18 Jana Bardorz U16 Artem Lutsko GU16 Maja Buchholz U14 Marius Deuer GU14 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/germany-crowns-youth-chess-champions/",
-         "pubDate" : "Sat, 11 Jun 2022 16:17:10 +0000",
-         "title" : "Germany crowns Youth Chess Champions"
-      },
-      {
-         "description" : "The 2nd leg of the 2022 Romanian Grand Prix series took place 4-11 June in Targu Mures. German grandmaster Liviu-Dieter Nisipeanu triumphed in the tournament scoring 7/9 points and pocketing the money prize of 25.000 lei (5.000 euros). FM Ihor Samunenkov was second with 6.5 points, while a group of 6 players tied for third []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/liviu-dieter-nisipeanu-wins-the-2nd-leg-of-romanian-grand-prix/",
-         "pubDate" : "Sat, 11 Jun 2022 15:16:06 +0000",
-         "title" : "Liviu-Dieter Nisipeanu wins the 2nd leg of Romanian Grand Prix"
       },
       {
          "description" : "Magnus Carlsen won the Norway Chess Tournament for a fourth time in a row after beating Veselin Topalov in Armageddon on Friday. The world champion would not have grabbed the title had Shakhriyar Mamedyarov defeated Teimour Radjabov in their classical game. Radjabov held the draw despite having almost no time on the clock, allowing Carlsen to once again win his home event. | Photo: Lennart Ootes",
@@ -130,14 +186,6 @@ news_feed (
          "title" : "2022 NSW Open - Day 1"
       },
       {
-         "description" : "The Ripstone Games, the publishers of Chess Ultra &#38; Poker Club, are working on Netflix&#x2019;s The Queen&#x2019;s Gambit Chess Game. The company announced The Queen's Gambit Chess Game will come soon, being available on the Netflix app for IOS and Android. Netflix's Queen's Gambit miniseries released in October 2020, affecting the chess world and causing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/netflix-launches-queens-gambit-game-for-ios-and-android-tweetoftheday/",
-         "pubDate" : "Sat, 11 Jun 2022 12:18:13 +0000",
-         "title" : "Netflix launches Queen's Gambit Game for IOS and Android #TweetOftheDay"
-      },
-      {
          "description" : "All India Chess Federation congratulate Rahul Srivatshav, the 74th Grandmaster of our country. We are proud of you!! PC : Niklesh Jain &#38; ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -146,36 +194,12 @@ news_feed (
          "title" : "Congratulations Rahul Srivatshav!!"
       },
       {
-         "description" : "The FIDE Madrid Candidates Chess Conference will take place on July 2 consisting of two parts: ChessKid.com educational seminars and the Conference on social chess initiatives in FIDE member countries in the afternoon. Scroll down for the detailed program and schedule information. ChessKid Education SeminarJuly 2, 10:00 12:00 Venue:&#160;on-site in Palacio de Santo&#xF1;a, the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-announces-madrid-candidates-chess-conference/",
-         "pubDate" : "Sat, 11 Jun 2022 11:51:28 +0000",
-         "title" : "FIDE announces Madrid Candidates Chess Conference"
-      },
-      {
-         "description" : "The Saint Louis Chess Club hosted the second leg of the Classic Series,&#160;the 2022 Summer Chess Classic, from June 1-11. Read more: Saint Louis Chess Club to Host Legends and Rising Stars of American Chess Over the course of 9 days, twenty competitors fought for $36,000 in prize money in two 10-player Round Robin tournaments: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yu-yangyi-convincing-at-the-2022-summer-chess-classic/",
-         "pubDate" : "Sat, 11 Jun 2022 11:14:20 +0000",
-         "title" : "Yu Yangyi convincing at the 2022 Summer Chess Classic"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/a-universal-game-teaching-tool/",
          "pubDate" : "Sat, 11 Jun 2022 11:27:52 +0100",
          "title" : "A universal game teaching tool"
-      },
-      {
-         "description" : "19-year-old Rahul Srivatshav reached the long-awaited goal and became the 74th India's grandmaster! He participates in the Italian Summer Chess Tour in a hunt for the needed elo points to complete the 2500 task and get the grandmaster title. Srivatshav already has five grandmaster norms earned in 2019 and he was struggling to cross the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rahul-srivatshav-becomes-indias-74th-grandmaster/",
-         "pubDate" : "Sat, 11 Jun 2022 10:12:09 +0000",
-         "title" : "Rahul Srivatshav becomes India's 74th grandmaster"
       },
       {
          "description" : "As we look back in gratitude to the Jubilee of Her Majesty Queen Elizabeth II, I turn my attention to the Queen in chess and her antecedents. When the original version of Muslim chess, Shatranj, underwent its Renaissance transformation, around 1475, the main change was in the powers of the Queen. Formerly known as the []",
@@ -1954,22 +1978,6 @@ news_feed (
          "title" : "Fun with quizzes"
       },
       {
-         "description" : "At the recently held Malakoff Open near Paris, Woman International Master Anastasiya Rakhmangulova scored 6.5 points in nine rounds to finish in 11th place. While her performance wasn't extraordinary, the mere participation of the 27-year-old Ukrainian at the annual chess tournament was. She was in Kyiv when the Russian invasion of Ukraine began on February 24. | Photo: Anastasiya Rakhmangulova at the Cappelle-la-Grande tournament 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-chess-is-helping-an-ukrainian-player-to-cope-with-the-war",
-         "pubDate" : "Thu, 26 May 2022 17:30:00 +0100",
-         "title" : "How chess is helping a Ukrainian player to cope with the war"
-      },
-      {
-         "description" : "The Chessable Masters is the fourth of nine tournaments of the current Meltwater Champions Chess Tour. In the preliminary 16 players will fight for a place in the knockout phase. Magnus Carlsen will be up against a number of promising talents and a number of strong veterans. Play starts daily at 18.00 CEST (12.00 EST, 16.00 UTC). Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-day-1-live",
-         "pubDate" : "Thu, 26 May 2022 17:25:00 +0100",
-         "title" : "Chessable Masters Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2184,14 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1778",
          "pubDate" : "Sun, 22 May 2022 17:13:30 +0000",
          "title" : "Mr. Sheripov announces his candidacy for FIDE President"
-      },
-      {
-         "description" : " If you are turning 50 years old (or more) this year, then the 2022 Asian Seniors Championship may be of interest to you. It is being held from the 14th to the 22nd of October, in Auckland, New Zealand. It will be a 9 round swiss and apart from an enjoyable week of chess, title and title norms are on offer. I played in 2017 and I highly recommend this event to those who are able to take part. Brief details are available at <a href=\"https://www.newzealandchess.co.nz/calendar.html\">https://www.newzealandchess.co.nz/calendar.html</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/2022-asian-seniors-championship.html",
-         "pubDate" : "Sun, 22 May 2022 11:55:00 +0000",
-         "title" : "2022 Asian Seniors Championship"
       }
    ]
 }
