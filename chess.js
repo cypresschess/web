@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
+         "pubDate" : "Mon, 13 Jun 2022 14:55:00 +0100",
+         "title" : "Prague Chess Festival: Live"
+      },
+      {
+         "description" : "The Malawi Chess Open Championship 2022 took place from 9-12 June in Lilongwe. The event was played in 9 swiss rounds in the Open section, and 7 swiss rounds in the Women's section. George Mwale and Geoffrey Luanja scored 7/9 points each and tied for the first place, but Mwale had a greater number of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/malawi-open-championship-2022-concluded-in-lilongwe/",
+         "pubDate" : "Mon, 13 Jun 2022 12:47:01 +0000",
+         "title" : "Malawi Open Championship 2022 concluded in Lilongwe"
+      },
+      {
+         "description" : " IM Igor Bjelobrk is the winner of the 2022 NSW Open, with an impressive 6.5/7. He won his first 6 rounds, and then played out a tough final round draw against close rival IM Junta Ikeda. Ikeda had drawn with Jack Rodgers back in round 3, and so they avoided playing each other until the last round. The draw left Ikeda tied for 2nd on 6 points with FM Yi Liu, who recovered from a round 4 loss to Sam Asaka to win his remaining games. In the Minor event, Kamal Jain won in a similar way to Bjelobrk, starting with 6 wins before drawing his last round games. There was a 3 way tie for 2nd with Stephen Hemsley, Shane Dibley and Kotaro Inukai all scoring 5.5. The 150 player event ran pretty smoothly,",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-days-2-3.html",
+         "pubDate" : "Mon, 13 Jun 2022 12:38:00 +0000",
+         "title" : "2022 NSW Open - Days 2 & 3"
+      },
+      {
+         "description" : "The 2021 Montenegrin Chess Champion Luka Draskovic yesterday earned the last needed norm to become a Grandmaster. He competed in the Grandmasters tournament in Cetinje, a part of the Montenegro Chess Festival, scoring unbeaten 6.5 points (4 victories and 5 draws) to win the third GM norm. Luka Draskovic is the 8th player in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/montenegro-gets-a-new-grandmaster-after-17-years/",
+         "pubDate" : "Mon, 13 Jun 2022 12:22:23 +0000",
+         "title" : "Montenegro gets a new Grandmaster after 17 years"
+      },
+      {
+         "description" : "Las Vegas Chess Festival 2022&#160;took place 8-12 June and included the US National Open, the US Women&#x2019;s Open, International Youth Championship, and many side events. IM Semen Khanin triumphed in the US National Open Championship, scoring 7.5 points to be the sole Winner of the event. He won a money prize of 8000$ and lifted []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-semen-khanin-wins-the-us-national-open/",
+         "pubDate" : "Mon, 13 Jun 2022 11:54:58 +0000",
+         "title" : "IM Semen Khanin wins the US National Open"
+      },
+      {
          "description" : "Less than 50 days left before the start of the 44th Chess Olympiad 2022 in Chennai. MrDodgy, the CEO of Chefable and Tournament Director of MrDodgy Invitational 2022, informed about MrsDodgy's explanation that the Olympiad is &#8220;like Eurovision but for chess and not just Europe&#8221;. Being asked what's Eurovision, he answered &#8220;it's like the chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,6 +138,14 @@ news_feed (
          "title" : "Fighting Spirit Prevails: Andreikin Wins Third Knockout"
       },
       {
+         "description" : "The&#160;FIDE Candidates Chess 2022&#160;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. As the players are qualifying []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-tournament-pairings/",
+         "pubDate" : "Sun, 12 Jun 2022 18:14:00 +0000",
+         "title" : "FIDE Candidates 2022 Tournament pairings"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes analyzes a Kasparov game where Garry takes on Josef Pribyl&#039;s Gruenfeld. It was 1980, the year Kasparov became a grandmaster... Originally on Twitch<br /> 2022.04.13<br /> Garry Kasparov vs Josef Pribyl, EUR-chT (Men) 7th (1980): D85 Gruenfeld, modern exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069896\">https://www.chessgames.com/perl/chessgame?gid=1069896</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -112,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/it-s-all-in-your-mind-1",
          "pubDate" : "Sun, 12 Jun 2022 18:00:00 +0100",
          "title" : "It's all in your mind! (1)"
+      },
+      {
+         "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-madrid/",
+         "pubDate" : "Sun, 12 Jun 2022 15:24:00 +0000",
+         "title" : "FIDE Candidates Chess 2022 Madrid"
       },
       {
          "description" : "",
@@ -130,14 +186,6 @@ news_feed (
          "title" : "Anna Rudolf and Maurice Ashley to host Chess2Change live stream with special appearance of Magnus Carlsen"
       },
       {
-         "description" : "Magnus Carlsen&#xA0;won&#xA0;the 10th edition of the Norway Chess 2022, therefore becoming a 5-time Winner of the Norway Chess elite tournament. Follow the links below to replay all games of Magnus Carlsen (classical and armageddon) with light analysis provided by Lichess. R1: Magnus Carlsen &#x2013; Wang Hao 1.5-1.0&#xA0; R2: &#xA0;Wesley So &#x2013; Magnus Carlsen 1.5-1.0 R3: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/replay-all-games-of-magnus-carlsen-from-norway-chess-2022-interviews/",
-         "pubDate" : "Sun, 12 Jun 2022 14:06:27 +0000",
-         "title" : "Replay: all games of Magnus Carlsen from Norway Chess 2022 (+ interviews)"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 83rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,44 +194,12 @@ news_feed (
          "title" : "Understanding before Moving 83: Basics of the Benko Gambit (2)"
       },
       {
-         "description" : "The Finnish Chess Federation celebrated its 100th anniversary on June 10th in Helsinki. The centennial celebration was attended by Gunnar Bjornsson ECU Deputy President, Nigel Short FIDE Vice President, Eetu Tiiva President of the Finnish Chess Federation, and other distinguished guests. The Finnish Chess Federation was founded on June 10, 1922, and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/finnish-chess-federation-celebrates-100th-anniversary/",
-         "pubDate" : "Sun, 12 Jun 2022 13:41:28 +0000",
-         "title" : "Finnish Chess Federation celebrates 100th anniversary"
-      },
-      {
-         "description" : "The 2022 Turkish Youth Team Chess Championship was held at Kocaeli Congress Center on 6-10 June with the contributions of Kocaeli Metropolitan Municipality. Bursa Metropolitan Belediyespor Club became the champion in the Open category U18 and Apayd&#x131;n Chess and Sports Club Association won the Open section U12. Apayd&#x131;n Chess and Sports Club Association also triumphed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/turkish-youth-team-chess-champions-announced/",
-         "pubDate" : "Sun, 12 Jun 2022 13:18:00 +0000",
-         "title" : "Turkish Youth Team Chess Champions announced"
-      },
-      {
          "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of pawn races with rooks still on the board, the need to find precise roads in pawn endgames and how to keep a king from escaping a sequence of checks with rook and knight. | Photo: Lennart Ootes / Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgames-from-stavanger-2",
          "pubDate" : "Sun, 12 Jun 2022 14:00:00 +0100",
          "title" : "More endgames from Stavanger"
-      },
-      {
-         "description" : "Just a few weeks ago, Levon Aronian was rocking it on the streets of Barcelona. Now WIM Patricia LLaneza brings us &#8220;More #streetchess in Spain. A tournament played on giant chess boards in front of Le&#xF3;n's Gothic cathedral.&#8221;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/street-chess-in-giant-boards-in-spain-tweetoftheday/",
-         "pubDate" : "Sun, 12 Jun 2022 12:57:55 +0000",
-         "title" : "Street chess on giant boards in Spain #TweetOftheDay"
-      },
-      {
-         "description" : "The invitational chess tournament in memory of Professor Lim Kok Ann is going to take place 13-18 June, 2022. Top seeded is GM Adhiban (IND) in a field of ten players. The other participants are IM Irene Karishma Sukandar (INA), local stars IM Tin Jingyao, IM Jagadeesh Siddharth, WGM Gong Qianyun, as well as GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-ahiban-top-seeded-at-professor-lim-kok-ann-invitational/",
-         "pubDate" : "Sun, 12 Jun 2022 12:37:55 +0000",
-         "title" : "GM Adhiban top seeded at Professor Lim Kok Ann Invitational"
       },
       {
          "description" : " I spent five years on the London weekend tournament circuit between 1972 and 1977 before deciding that running Richmond Junior Club was more enjoyable. One thing I noticed was that my last round games were often rather strange. Either my opponent or I, or sometimes both of us, had lost interest in the tournament, were <a href=\"https://chessimprover.com/the-last-round/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Last Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-last-round/\">The Last Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -402,20 +418,20 @@ news_feed (
          "title" : "The Red Wedding Of Norway Chess"
       },
       {
+         "description" : "The FIDE presidential elections, to be held on August 7, 2022, will be fought among no fewer than four candidates. This became clear after the FIDE Electoral Commission approved the four ticket candidacies on June 7 (in PDF here, which was publish...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/candidates-2022-fide-presidential-elections",
+         "pubDate" : "Fri, 10 Jun 2022 05:50:00 -0700",
+         "title" : "4 Candidates In FIDE Presidential Elections"
+      },
+      {
          "description" : "Viewers Willing to watch &#8220;GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022&#8221; Can Watch using the link given below. &#160; Link : https://view.livechesscloud.com/#3af36b7f-2576-449e-a61c-2bd53a464552",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/gitam-3rd-vizag-international-open-chess-tournament-2022-live-game-link/",
          "pubDate" : "Fri, 10 Jun 2022 11:16:18 +0000",
          "title" : "GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022 LIVE GAME LINK"
-      },
-      {
-         "description" : "The FIDE presidential elections, to be held on August 7, 2022, will be fought among no fewer than four candidates. This became clear after the FIDE Electoral Commission approved the four ticket candidacies on June 7 (in PDF here, which was publish...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/candidates-2022-fide-presidential-elections",
-         "pubDate" : "Fri, 10 Jun 2022 01:57:00 -0700",
-         "title" : "4 Candidates In FIDE Presidential Elections"
       },
       {
          "description" : "",
@@ -1968,14 +1984,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2022-d8",
          "pubDate" : "Fri, 27 May 2022 12:40:00 +0100",
          "title" : "Ding beats Pragg in close match, wins Chessable Masters"
-      },
-      {
-         "description" : "This week Robert Ris looks at a gambit, which Magnus Carlsen tried at the Chessable Masters to counter Nils Grandelius' Sicilian Alapin (1.e4 c5 2.c3). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-gambit-against-the-sicilian-alapin",
-         "pubDate" : "Fri, 27 May 2022 12:36:17 +0100",
-         "title" : "Robert Ris' Fast and Furious: A Gambit against the Sicilian Alapin"
       },
       {
          "description" : " The Indian 16-year-old beat his rivals with bold attacking play before losing in the $150,000 final to Ding Liren, who knocked out Magnus Carlsen in the semis India's 16-year-old Rameshbabu Praggnanandhaa jumped into the world elite this week when the Tamil Nadu teenager reached the final of the online $150,000 Chessable Masters by bold attacking play. It was the latest and most significant success yet for the former prodigy, who became the youngest ever international master at 11 and narrowly missed the youngest grandmaster title at 12. The epic quality of the schoolboy's feat was underlined in his post-match interview after defeating the Netherlands world No 9, Anish Giri, in Tuesday's se",
