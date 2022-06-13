@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/",
          "pubDate" : "Tue, 24 May 2022 05:20:10 +0000",
          "title" : "20th European Union Youth Chess Championship U8-U14"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1780",
-         "pubDate" : "Mon, 23 May 2022 00:29:24 +0000",
-         "title" : "Czech Championship: David Navara clinches national 11th title"
       }
    ]
 }
