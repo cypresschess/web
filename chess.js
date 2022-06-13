@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The 2022 Candidates Tournament runs from June 17th through July 5th, in Madrid, Spain. It's one of the most important events of the year as the world's chess elite will compete for a chance to dethrone the invincible Magnus Carlsen and win the 2023 World Championship title. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/BYFjApBIyD8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Eight players compete in a double round-robin tournament (14 rounds), with 4 rest days, a final tiebreak in case of a draw, and a €500,000 prize pool. <h2><b>Players</b></h2> This year's Candidates Tournament features eight of the best player",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/everything-you-need-to-know-about-the-2022-candidates/",
+         "pubDate" : "Mon, 13 Jun 2022 17:34:59 +0000",
+         "title" : "FIDE Candidates Tournament 2022: Everything you need to know"
+      },
+      {
+         "description" : "In the Endgame Magic Show #198 Karsten takes a look at interesting rook endings played in the first half of the year. Rook endings occur more often than any other ending and the examples Karsten picked contain important theoretical positions and patterns. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-198-rook-endings",
+         "pubDate" : "Mon, 13 Jun 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #198: Rook endings"
+      },
+      {
          "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1970,36 +1986,12 @@ news_feed (
          "title" : "Ding wins Chessable Masters"
       },
       {
-         "description" : "Rustam Kasimdzhanov is considered one of the world's leading opening experts; he has worked as a second for Vishy Anand, Fabiano Caruana and the German national team. In his new Fritztrainer on the French Defence, he passes on his knowledge. Christian H&ouml;the has taken a look at the course and concludes, \"The French is a wonderful opening, especially after studying this Fritztrainer!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ksimdzanov-top-choice-french-defence-a-review",
-         "pubDate" : "Fri, 27 May 2022 13:00:00 +0100",
-         "title" : "Top choice: Kasimdzhanov's French Defence - a review"
-      },
-      {
-         "description" : "Ding Liren won the Chessable Masters after beating 16-year-old Praggnanandhaa in the final match's tiebreaks. The Chinese had won the first set on Wednesday, but saw his opponent bouncing back in the second 4-game mini-match. A clear rating favourite, Ding defeated his prodigious rival in the deciding blitz tiebreaker.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2022-d8",
-         "pubDate" : "Fri, 27 May 2022 12:40:00 +0100",
-         "title" : "Ding beats Pragg in close match, wins Chessable Masters"
-      },
-      {
          "description" : " The Indian 16-year-old beat his rivals with bold attacking play before losing in the $150,000 final to Ding Liren, who knocked out Magnus Carlsen in the semis India's 16-year-old Rameshbabu Praggnanandhaa jumped into the world elite this week when the Tamil Nadu teenager reached the final of the online $150,000 Chessable Masters by bold attacking play. It was the latest and most significant success yet for the former prodigy, who became the youngest ever international master at 11 and narrowly missed the youngest grandmaster title at 12. The epic quality of the schoolboy's feat was underlined in his post-match interview after defeating the Netherlands world No 9, Anish Giri, in Tuesday's se",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/may/27/chess-rameshbabu-praggnanandhaa-reaches-final-at-2am-on-day-of-his-exams",
          "pubDate" : "Fri, 27 May 2022 11:17:58 +0000",
          "title" : "Chess: Rameshbabu Praggnanandhaa reaches final at 2am on day of his exams"
-      },
-      {
-         "description" : "18-year-old Indian Champion Arjun Erigaisi tops the line-up for Leg 2 of the MPL Indian Chess Tour, with the 16-player tournament taking place here on chess24 from Thursday June 2nd at 15:30 IST (12:00 CEST). Arjun won the 1st Leg ahead of Raunak Sadhwani, Gukesh and Surya Ganguly, who all return, while 17-year-old Nihal Sarin and 2-time Indian Champion Aravindh Chithambaram make their debut on the $100,000 tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-tops-line-up-for-leg-2-of-mpl-indian-chess-tour",
-         "pubDate" : "Fri, 27 May 2022 10:00:08 +0000",
-         "title" : "Arjun Erigaisi tops line-up for Leg 2 of MPL Indian Chess Tour"
       },
       {
          "description" : "",
