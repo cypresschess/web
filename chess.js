@@ -2,11 +2,99 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Less than 50 days left before the start of the 44th Chess Olympiad 2022 in Chennai. MrDodgy, the CEO of Chefable and Tournament Director of MrDodgy Invitational 2022, informed about MrsDodgy's explanation that the Olympiad is &#8220;like Eurovision but for chess and not just Europe&#8221;. Being asked what's Eurovision, he answered &#8220;it's like the chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-olympiad-is-like-eurovision-tweetoftheday/",
+         "pubDate" : "Mon, 13 Jun 2022 11:02:16 +0000",
+         "title" : "MrDodgy: Olympiad is like Eurovision #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1808",
+         "pubDate" : "Mon, 13 Jun 2022 10:54:21 +0000",
+         "title" : "Mwale and Nkhoma win Malawi Open Championship 2022"
+      },
+      {
+         "description" : "The 6th Annual Carolinas Classic took place from 10-12 June at Hilton Charlotte University Place. The event featured a prize fund of $12,000 in 9 USCF-rated sections. Four players tied for the top in the main Championship: GM Daniel Naroditsky, GM Elshan Moradiabadi, GM Alexander Shabalov and IM David Brodsky. Each of the players who []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-carolinas-classic-concluded/",
+         "pubDate" : "Mon, 13 Jun 2022 10:38:01 +0000",
+         "title" : "6th Carolinas Classic concluded"
+      },
+      {
+         "description" : "The American grandmaster, author and chess commentator Daniel Naroditsky becomes the chess columnist for the American daily newspaper The New York Times. The NYT was founded in 1851, initially published by Raymond, Jones &#38; Company, and today has a worldwide readership. The New York Times published the extensive article &#8220;Meet The Times&#x2019;s New Chess Columnist&#8221; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-daniel-naroditsky-becomes-the-new-york-times-chess-columnist/",
+         "pubDate" : "Mon, 13 Jun 2022 10:07:43 +0000",
+         "title" : "GM Daniel Naroditsky becomes The New York Times chess columnist"
+      },
+      {
+         "description" : "The 96th edition of the Argentine National Chess Championship&#160;took place from 2-12 June, 2022 in Club Argentino de Ajedrez located in Buenos Aires. The event was organized by the Chess Federation of Argentina which this year celebrates its 100th anniversary. Before the start of the National Championship, Argentine Chess Federation announced team compositions for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/federico-perez-ponsa-is-2022-argentine-chess-champion/",
+         "pubDate" : "Mon, 13 Jun 2022 09:49:00 +0000",
+         "title" : "Federico Perez Ponsa is 2022 Argentine Chess Champion"
+      },
+      {
+         "description" : "34th National Under-08 Certificates are out to download (09-05 to 14-05-22) Please download using the link given below: Open : https://aicf.online/National-Under-8-Open.html Girls : https://aicf.online/National-Under-8-Girls.html Any Correction mail",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-08-certificates-are-out-to-download/",
+         "pubDate" : "Mon, 13 Jun 2022 09:16:01 +0000",
+         "title" : "National Under-08 Certificates are out to download"
+      },
+      {
+         "description" : "The FIDE Candidates Chess 2022 opens on Thursday 16th of June, and will be played from June 17th July 5th in Madrid. The tournament is played in 14 rounds, with participation of eight players. The winner of the event will qualify for the World Championship match later this year. The magnificent Palacio de Santoña, a centrally located&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-candidates-tournament-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-candidates-tournament-2022/",
+         "pubDate" : "Mon, 13 Jun 2022 08:54:18 +0000",
+         "title" : "FIDE Candidates Tournament 2022"
+      },
+      {
+         "description" : "The FIDE Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters will compete for a top spot in this double round-robin event in Madrid, Spain, from 16 June to 5 July 2022. The first place is all that matters, as the winner qualifies to face the reigning World Champion Magnus Carlsen in the match for the chess crown. | Picture: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-preview",
+         "pubDate" : "Mon, 13 Jun 2022 09:00:00 +0100",
+         "title" : "All set for the event of the year: the Candidates Tournament"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teams up with the class to take on NM Julian Proleiko in a training game. 2022.05.10<br /> Caleb Denby vs. Julian PRoleiko, 2022: D02 London System<br /> <a href=\"https://lichess.org/HSeH8EkV\">https://lichess.org/HSeH8EkV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-class-vs-proleiko-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caleb-class-vs-proleiko-road-2000-nm-caleb-denby",
+         "pubDate" : "Mon, 13 Jun 2022 05:15:16 +0000",
+         "title" : "Caleb + Class vs. Proleiko | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/a-universal-game-teaching-tool/",
+         "pubDate" : "Mon, 13 Jun 2022 05:09:45 +0100",
+         "title" : "A universal game teaching tool"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/naroditsky-becomes-nyt-chess/",
+         "pubDate" : "Mon, 13 Jun 2022 04:58:57 +0100",
+         "title" : "Naroditsky becomes NYT chess columnist"
+      },
+      {
          "description" : "GM Dmitry Andreikin won week 17 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He defeated GM Jeffery Xiong in the final blitz tiebreaker.&#38;nbsp; GMs&#38;nbsp;Levon Aronian and Olexandr Bortnyk made it to the semifinals. GMs Hikaru ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-andreikin-wins",
-         "pubDate" : "Sun, 12 Jun 2022 15:50:20 -0700",
+         "pubDate" : "Sun, 12 Jun 2022 15:50:00 -0700",
          "title" : "Fighting Spirit Prevails: Andreikin Wins Third Knockout"
       },
       {
@@ -98,30 +186,6 @@ news_feed (
          "title" : "GM Adhiban top seeded at Professor Lim Kok Ann Invitational"
       },
       {
-         "description" : "The FIDE Planning and Development Commission launched its inaugural Orientation Programme targeting new federations and new federation administrations on 11 June 2022 during the World School Individual Chess Championship at the Bristol Hotel in Panama. The meeting was the first of its kind to bring together the FIDE President, FIDE Vice Presidents, FIDE Executive Director, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-planning-and-development-commission-launches-inaugural-orientation-programme/",
-         "pubDate" : "Sun, 12 Jun 2022 12:14:31 +0000",
-         "title" : "FIDE Planning and Development Commission launches inaugural Orientation Programme"
-      },
-      {
-         "description" : "The Liberian Chess Federation organized Olympiad Selection Open and Women's tournaments to determine the five players who will represent Liberia at the upcoming 44th Chess Olympiad in Chennai. The event took place from 28 May 5 June in Monrovia. The Men's team was selected after 11 swiss rounds in the Open tournament which attracted []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/liberia-determines-national-teams-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Sun, 12 Jun 2022 12:06:13 +0000",
-         "title" : "Liberia determines National Teams for 44th Chess Olympiad"
-      },
-      {
-         "description" : "The 2022 Hong Kong National Chess Championships in Men's and Women's sections took place over the weekends from April 1st June 6th at Smithfield Sports Centre. The best three players of each competition secured their spots in the Hong Kong National Teams for the 44th Chess Olympiad in Chennai. Lut Yin Luke Lau won []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hong-kong-national-championship-olympiad-selection-concluded/",
-         "pubDate" : "Sun, 12 Jun 2022 11:24:48 +0000",
-         "title" : "Hong Kong National Championship & Olympiad Selection concluded"
-      },
-      {
          "description" : " I spent five years on the London weekend tournament circuit between 1972 and 1977 before deciding that running Richmond Junior Club was more enjoyable. One thing I noticed was that my last round games were often rather strange. Either my opponent or I, or sometimes both of us, had lost interest in the tournament, were <a href=\"https://chessimprover.com/the-last-round/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Last Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-last-round/\">The Last Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -144,14 +208,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/kasparov-says-ding-liren-is-the-favorite-to-win-the-candidates/",
          "pubDate" : "Sun, 12 Jun 2022 09:15:46 +0000",
          "title" : "Kasparov Says Ding Liren is the Favorite To Win the Candidates"
-      },
-      {
-         "description" : "Just a few days after the World Economic Forum hosted the world's top leaders from politics, business, and civil society to tackle global issues, a town in the Swiss Alps hosted the Davos Chess Festival 2022 from 3-6 June. The Festival featured two events: Challenge (for players rated 1600+) and Rising (for players rated U1600), []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/li-min-peng-triumphs-at-davos-chess-challenge-open-2022/",
-         "pubDate" : "Sun, 12 Jun 2022 09:13:25 +0000",
-         "title" : "Li Min Peng triumphs at Davos Chess Challenge Open 2022"
       },
       {
          "description" : " The FIDE Electoral Commission released its report in certifying the tickets for the August 7th election. Five tickets were submitted and four were certified. The only ticket that was disqualified was Enyonam Sewa Fumey of Togo who failed to secure European support. Four European-led tickets qualified and the lone African ticket did not receive a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/\">FIDE Election tickets certified, African ticket out</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -216,14 +272,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-rahul-srivatshav/",
          "pubDate" : "Sat, 11 Jun 2022 12:17:08 +0000",
          "title" : "Congratulations Rahul Srivatshav!!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/a-universal-game-teaching-tool/",
-         "pubDate" : "Sat, 11 Jun 2022 11:27:52 +0100",
-         "title" : "A universal game teaching tool"
       },
       {
          "description" : "As we look back in gratitude to the Jubilee of Her Majesty Queen Elizabeth II, I turn my attention to the Queen in chess and her antecedents. When the original version of Muslim chess, Shatranj, underwent its Renaissance transformation, around 1475, the main change was in the powers of the Queen. Formerly known as the []",
@@ -1298,14 +1346,6 @@ news_feed (
          "title" : "Norway Chess: Carlsen and MVL score, Anand still leads"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-2-lichessorg",
-         "pubDate" : "Thu, 02 Jun 2022 23:06:15 +0000",
-         "title" : "2022 Summer Chess Classic: Round 2 | lichess.org"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1970,14 +2010,6 @@ news_feed (
          "title" : "Casablanca Chess Week kicks off on May 30"
       },
       {
-         "description" : "In his 'Weekly Show' Lawrence Trent reviews what went on at the Superbet Rapid & Blitz and the Chessable Masters. He focuses, however, on one of his own game from the GM Invitational in Hamburg - a very tense affair which he eventually managed to win! | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-weekly-show-a-tense-victory",
-         "pubDate" : "Thu, 26 May 2022 18:00:00 +0100",
-         "title" : "The Weekly Show: A tense victory in Hamburg"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2008,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1790",
          "pubDate" : "Thu, 26 May 2022 10:45:59 +0000",
          "title" : "Peruvian Championship: Jorge Cori and Mitzy Caballero win titles"
-      },
-      {
-         "description" : "We are pleased to inform you that All India Chess Federation is going to conduct Olympiad Curtain Raiser Rapid Chess Tournament 2022 on 24 July",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-curtain-raiser-rapid-chess-tournament-2022/",
-         "pubDate" : "Thu, 26 May 2022 04:50:59 +0000",
-         "title" : "Olympiad Curtain Raiser Rapid Chess Tournament 2022"
       },
       {
          "description" : " From the publishers' blurb: &#8220;GM Jan Werle is a professional chess trainer, coach and author. In 2008 he became EU Champion in Liverpool and reached his peak rating of 2607. Afterwards he finished his law studies, obtaining Master's degrees in Civil and Commercial Law, and embarked on a career as a lawyer. However his main <a href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Unbeatable!: The Art of Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\">Unbeatable!: The Art of Defense</a> ",
