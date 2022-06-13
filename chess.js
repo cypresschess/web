@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kenyan candidate master Ben Magana won the 2022 Kisumu Chess Open which took place last weekend, from 4-5 June in Kisumu Kenya's third-largest city. The event was played in 6 swiss rounds and attracted more than 60 entries who fought for a total prize fund of 60.000 KES. Ben Magana and Joseph Muragu Methu []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ben-magana-clinches-kisumu-chess-open-2022/",
+         "pubDate" : "Mon, 13 Jun 2022 22:56:27 +0000",
+         "title" : "Ben Magana clinches Kisumu Chess Open 2022"
+      },
+      {
+         "description" : "IM Vaishali R defeated the reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, in the first round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Vaishali led through the blitz games but had to fight ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-vaishali-assaubayeva",
+         "pubDate" : "Mon, 13 Jun 2022 15:06:52 -0700",
+         "title" : "Vaishali Breaks Assaubayeva's Stunning Streak To Seal Victory in Epic Final Game"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1809",
+         "pubDate" : "Mon, 13 Jun 2022 19:47:26 +0000",
+         "title" : "WSCC 2022: Vaishali advances to quarterfinals"
+      },
+      {
          "description" : " <p class=\"lead\">The 2022 Candidates Tournament runs from June 17th through July 5th, in Madrid, Spain. It's one of the most important events of the year as the world's chess elite will compete for a chance to dethrone the invincible Magnus Carlsen and win the 2023 World Championship title. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/BYFjApBIyD8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Eight players compete in a double round-robin tournament (14 rounds), with 4 rest days, a final tiebreak in case of a draw, and a €500,000 prize pool. <h2><b>Players</b></h2> This year's Candidates Tournament features eight of the best player",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1807",
          "pubDate" : "Sun, 12 Jun 2022 15:00:10 +0000",
          "title" : "Muhammad Hanif Qureshi elected the president of Chess Federation of Pakistan"
-      },
-      {
-         "description" : "IM Anna Rudolf and GM Maurice Ashley will today host the live stream of the Chess2Change event and the reigning World Chess Champion Magnus Carlsen will join them as a special guest. Chess2Change is a charity event for talented African Chess players. African kids will team up with business executives, playing together in a Chess2Change []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-rudolf-and-maurice-ashley-to-host-chess2change-live-stream-with-special-appearance-of-magnus-carlsen/",
-         "pubDate" : "Sun, 12 Jun 2022 14:12:48 +0000",
-         "title" : "Anna Rudolf and Maurice Ashley to host Chess2Change live stream with special appearance of Magnus Carlsen"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 83rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1798",
          "pubDate" : "Wed, 01 Jun 2022 12:30:13 +0000",
          "title" : "June 2022 rating list: Youngsters keep moving up"
-      },
-      {
-         "description" : "GM Richard Rapport no longer plans to play for Hungary but will represent Romania instead. His wife Jovana will join him, making the switch from Serbia to Romania. This news was announced by the Romanian Chess Federation. Meanwhile, the Hungarian ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/richard-rapport-switch-federations-hungary-romania",
-         "pubDate" : "Wed, 01 Jun 2022 05:27:00 -0700",
-         "title" : "Rapport To Switch Federations To Romania; Hungarian Federation 'Protesting'"
       },
       {
          "description" : "MPL 41st National Team &#38; 19th National Team Women Chess Championship 2022 Certificates are out to Download. Links: Women : https://aicf.online/National-Team-Women.html Open : https://aicf.online/National-Team-Open.html Any Correction Mail",
