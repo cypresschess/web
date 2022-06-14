@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1787",
          "pubDate" : "Wed, 25 May 2022 08:27:43 +0000",
          "title" : "FIDE World Championship Match 2023 Qualification Rules"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/french-federation-joins-olympic/",
-         "pubDate" : "Tue, 24 May 2022 17:05:58 +0100",
-         "title" : "French federation joins Olympic Committee"
       }
    ]
 }
