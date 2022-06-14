@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. 2022.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg",
+         "pubDate" : "Tue, 14 Jun 2022 23:17:33 +0000",
+         "title" : "Endgames & Middlegame Exercises | Grandmaster's Choice - GM Yuniesky Quesada | lichess.org"
+      },
+      {
+         "description" : "Le Quang Liem grabbed the sole lead at the Masters section of the Prague Chess Festival after beating Saleh Salem in Tuesday's sixth round. Pentala Harikrishna is in sole second place a half point back. In the Challengers, former sole leader Vincent Keymer was held to a draw by Marcin Krzyzanowski, which allowed Nodirbek Abdusattorov to climb to the shared lead thanks to a win over Max Warmerdam. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r6",
+         "pubDate" : "Tue, 14 Jun 2022 23:45:00 +0100",
+         "title" : "Prague: Le beats Salem to grab the sole lead"
+      },
+      {
+         "description" : "The Charlotte Chess Center holds its 5th annual Elite Chess Camp from 13-17 June, featuring 4 world renowned trainers and many of the nation&#x2019;s top junior players.&#xA0;The camp provides 30+ hours of the highest level lectures with GM Veselin Topalov, GM Daniel Naroditsky, GM Jacob Aagaard and GM Peter Heine Nielsen. The camp features three []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/5th-charlotte-elite-camp-with-topalov-naroditsky-aagaard-and-nielsen/",
+         "pubDate" : "Tue, 14 Jun 2022 22:06:06 +0000",
+         "title" : "5th Charlotte Elite Camp with Topalov, Naroditsky, Aagaard and Nielsen"
+      },
+      {
+         "description" : "The FIDE Candidates Tournament 2022 is starting in just a few days. Jan-Krzysztof Duda has shared his secret Candidates training and it looks like he is ready for a fight! Jan-Krzysztof Duda starts in round 1 against Richard Rapport and you can follow Duda Rapport R1 Candidates 2022 here More on the Candidates:&#xA0;Candidates Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-shares-his-secret-fide-candidates-tournament-2022-training-tweetoftheday/",
+         "pubDate" : "Tue, 14 Jun 2022 21:44:05 +0000",
+         "title" : "Jan-Krzysztof Duda shares his secret FIDE Candidates Tournament 2022 training #TweetOftheDay"
+      },
+      {
+         "description" : "The 15th edition of the Paleochora International Chess Tournament takes place from 17-24 July in Paleochora, a city of the southwest Cretan coast. Paleochora School &#38; Cultural Center of Paleochora will host the event which already has 200 entries from 26 countries, including 19 grandmasters and 15 international masters. Throwback: Paleochora Open 2017 / GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/15th-paleochora-international-chess-tournament/",
+         "pubDate" : "Tue, 14 Jun 2022 21:31:18 +0000",
+         "title" : "15th Paleochora International Chess Tournament"
+      },
+      {
+         "description" : "Teimour Radjabov is already in Madrid, where he will compete in the upcoming FIDE Candidates Tournament 2022. In a short tweet, Radjabov informed his loyal fans of his arrival. The early arrival is definitely a good move by Radjabov. Now it is time for him to accommodate to the heat wave that has hit the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/teimour-radjabov-arrives-in-madrid-for-the-fide-candidates-tournament-2022/",
+         "pubDate" : "Tue, 14 Jun 2022 21:21:54 +0000",
+         "title" : "Teimour Radjabov arrives in Madrid for the FIDE Candidates Tournament 2022"
+      },
+      {
+         "description" : "The Rigo Janos Memorial Chess Open 2022 was held from 26 May 3 June in Balatonlelle a resort town located on the southern shore of Hungary's Balaton Lake. The event commemorated Rigo Janos, International chess master, Arbiter, and Organizer. The event was played in 9 rounds, swiss system, with GM Adam Horvath winning the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/adam-horvath-is-the-winner-of-rigo-janos-memorial-2022/",
+         "pubDate" : "Tue, 14 Jun 2022 21:00:51 +0000",
+         "title" : "Adam Horvath is the Winner of Rigo Janos Memorial 2022"
+      },
+      {
+         "description" : "The 56th edition of the Ilmar Raud Memorial Chess Tournament will take place 3-10 July at the&#160;Viljandi Sports Center&#160;in Viljandi, a town in southern Estonia. This year, the event will include qualifications for Estonian Men's and Women's Individual Chess Championships, Estonian Junior Chess Championships, and Estonian Seniors Chess Championships. Based on the final results, Estonian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/56th-ilmar-raud-memorial-tournament/",
+         "pubDate" : "Tue, 14 Jun 2022 20:45:59 +0000",
+         "title" : "56th Ilmar Raud Memorial Tournament"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1810",
+         "pubDate" : "Tue, 14 Jun 2022 20:35:44 +0000",
+         "title" : "FIDE and ChessKid Unrated GIRLS ONLY tournament to start on July 10 "
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. 2022.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-yuniesky-quesada-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-yuniesky-quesada-lichessorg",
+         "pubDate" : "Tue, 14 Jun 2022 20:17:28 +0000",
+         "title" : "Grandmaster's Choice - GM Yuniesky Quesada | lichess.org"
+      },
+      {
          "description" : "Hikaru Nakamura announced he will have a special announcement today before the start of Titled Tuesday. The announcement was scheduled for 16:55 when exactly 6.000 viewers joined to hear what Hikaru has to say. Showing a short video, Nakamura announced he joins Misfits Gaming as an influencer and content creator. Misfits Gaming is a global []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,28 +106,12 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (57)"
       },
       {
-         "description" : "All five games finished drawn in round 5 of the Masters section at the Prague Chess Festival, which left Le Quang Liem and Pentala Harikrishna sharing the lead on 3&frac12; points. Meanwhile, in the Challengers, Vincent Keymer kept the sole lead after beating Peter Michalik with the black pieces. Nodirbek Abdusattorov (pictured) also won and is now in sole second place, a half point back. | Photo: Vladim&iacute;r Jagr",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-r5",
-         "pubDate" : "Tue, 14 Jun 2022 15:20:00 +0100",
-         "title" : "Prague: Keymer leads Challengers, Abdusattorov close behind"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg\" data-image-dimensions=\"1741x876\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62a892f1b850ad772070aff8\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we talk about chess improvement with one of the premier chess trainers in the world! <a href=\"https://en.wikipedia.org/wiki/Ramachandran_Ramesh\"",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/14/ep-283-top-trainer-gm-rb-ramesh-on-how-to-improve-your-chess-calculation-and-the-keys-to-gm-praggnanandhaas-success",
          "pubDate" : "Tue, 14 Jun 2022 13:56:37 +0000",
          "title" : "EP 283- Top Trainer GM R.B. Ramesh on How to Improve Your Chess Calculation, and the keys to GM Praggnanandhaa''s success"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Tue, 14 Jun 2022 14:55:00 +0100",
-         "title" : "Prague Chess Festival, Round 6: Live"
       },
       {
          "description" : "The 30th edition of the Heart of Finland Chess Open / Nordic Open Chess Championship will be held from 18-24 July 2022 in Jyv&#xE4;skyl&#xE4;. The event marks the 100th anniversary of the Finnish Chess Federation and features three separate competitions: Open (open for all players), Senior 50+ (open for players born in 1972 or earlier []",
@@ -66,36 +130,12 @@ news_feed (
          "title" : "Peter Heine Nielsen on the FIDE Candidates Tournament sponsors"
       },
       {
-         "description" : "Western Asia Youth Chess Championship 2022 will take place from 15-23 June in the Maldives. The event features: Rapid, Blitz, and Classical championships, played in 6 age categories: U8, U10, U12, U14, U16, U18, open and girls sections separately. Around 150 players registered for the event, representing federations belonging to FIDE zones 3.1, 3.2, 3.4 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/western-asia-youth-chess-championship-2022/",
-         "pubDate" : "Tue, 14 Jun 2022 12:24:00 +0000",
-         "title" : "Western Asia Youth Chess Championship 2022"
-      },
-      {
-         "description" : "New South Wales Chess Association organized the 2022 NSW Open from 11-13 June in Strathfield a suburb in the Inner West of Sydney. The event attracted more than 100 entries who competed in 7 swiss rounds for a total prize fund of $8.500. IM Igor Bjelobrk won the event with a convincing score of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/igor-bjelobrk-wins-nsw-open-2022/",
-         "pubDate" : "Tue, 14 Jun 2022 11:14:44 +0000",
-         "title" : "Igor Bjelobrk wins NSW Open 2022"
-      },
-      {
          "description" : "Almost eight years ago, in 2014, it was with deep chagrin that we announced the demise of the decades-old chess column in the venerable New York Times. Its most recent upkeeper at the time was the New York Times journalist, Dylan Loeb McClain, who still writes about chess affairs for the paper. It is with pleasure that we can trumpet its resurrection at the hands of GM Daniel Naroditsky.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-naroditsky-is-new-nyt-chess-columnist",
          "pubDate" : "Tue, 14 Jun 2022 12:00:00 +0100",
          "title" : "Daniel Naroditsky is new NYT chess columnist"
-      },
-      {
-         "description" : "Tremendous heat is expecting the participants in the 2022 Candidates Tournament. Madrid temperatures are expected to stay around 40 degrees Celsius (104 degrees Farenheit) at least through the first week of the event. Chess fans speculate it is exactly the Candidates Tournament tension that rises the temperatures in the city, but Accuweather specifies that the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-candidates-tournament-in-the-middle-of-heat-wave-in-madrid/",
-         "pubDate" : "Tue, 14 Jun 2022 10:56:19 +0000",
-         "title" : "2022 Candidates Tournament in the middle of heat wave in Madrid"
       },
       {
          "description" : "",
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/should-carlsen-decide-now/",
          "pubDate" : "Tue, 14 Jun 2022 09:45:26 +0100",
          "title" : "Should Carlsen decide now?"
-      },
-      {
-         "description" : "The most anticipated event of 2022 the&#160;FIDE Candidates Chess 2022&#160;starts in three days, taking place in Madrid from June 16 &#x2013; July 7. It is an 8 player double round robin qualification event for the World Championship Match later this year. The field with an average rating of 2771.9 is headed by world number []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/candidates-chess-2022-predictions-and-possible-outcomes/",
-         "pubDate" : "Tue, 14 Jun 2022 08:45:15 +0000",
-         "title" : "Candidates Chess 2022 - Predictions and possible outcomes"
       },
       {
          "description" : "",
@@ -170,14 +202,6 @@ news_feed (
          "title" : "\"No more political sponsorship and sportswashing\""
       },
       {
-         "description" : "ChessFest returns to Trafalgar Square this July, bigger and better than before. The UK&#x2019;s largest one-day chess event is aimed at anyone who loves or wants to learn chess, and is completely free of charge. Taking place at London&#x2019;s iconic Trafalgar Square this year&#x2019;s event marks the 50th anniversary of the 1972 World Chess Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessfest-2022-the-biggest-uk-chess-festival/",
-         "pubDate" : "Tue, 14 Jun 2022 08:39:06 +0000",
-         "title" : "ChessFest 2022 - the biggest UK chess festival"
-      },
-      {
          "description" : "Mate ends the game and mating attacks also occur in the endgame. In the diagrammed position it is White to move. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,6 +232,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
          "pubDate" : "Tue, 14 Jun 2022 10:00:00 +0400",
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
+      },
+      {
+         "description" : "All five games finished drawn in round 5 of the Masters section at the Prague Chess Festival, which left Le Quang Liem and Pentala Harikrishna sharing the lead on 3&frac12; points. Meanwhile, in the Challengers, Vincent Keymer kept the sole lead after beating Peter Michalik with the black pieces. Nodirbek Abdusattorov (pictured) also won and is now in sole second place, a half point back. | Photo: Vladim&iacute;r Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r5",
+         "pubDate" : "Tue, 14 Jun 2022 07:00:00 +0100",
+         "title" : "Prague: Keymer leads Challengers, Abdusattorov close behind"
       },
       {
          "description" : "IM Vaishali R defeated the reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, in the first round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Vaishali led through the blitz games but had to fight ...",
@@ -1314,14 +1346,6 @@ news_feed (
          "title" : "Spectrum Chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-3",
-         "pubDate" : "Sat, 04 Jun 2022 23:07:31 +0000",
-         "title" : "2022 Summer Chess Classic: Round 3"
-      },
-      {
          "description" : "At the Tata Steel Masters 2022 Jorden van Foreest got the opportunity to conduct a long-planned opening experiment: In the Sicilian with 2.Nc6 he surprised his opponent Praggnanandhaa with 3.Bc4?! \"Finally, here it was. There aren't all that many good reasons for why I like the move, the main probably being the fact that it looks so stupid :-)\", writes the young Dutchman at the beginning of his analysis in the new CBM Extra #207. And the game continued no less exceptionally: after 3...e6 4.0-0 d5 5.Bb5! dxe4 6.Ne5 Qc7 7.Nxc6 bxc6 8.Bc4! White hast lost a pawn and moved his bishop three times in the opening! In the end, with a bit of luck, Van Foreest still won the game. It's \"The brillancy\" ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anands-winning-run-ends-but-still-in-joint-lead-with-carlsen/articleshow/91998676.cms",
          "pubDate" : "Sat, 04 Jun 2022 05:06:18 +0000",
          "title" : "Norway Chess: Anand's winning run ends, but still in joint lead with Carlsen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-2",
-         "pubDate" : "Fri, 03 Jun 2022 23:06:59 +0000",
-         "title" : "2022 Summer Chess Classic: Round 2"
       },
       {
          "description" : "IM Lawrence Trent overcame the match favorite and fifth seed, IM Alina Kashlinskaya, in the&#38;nbsp;2022 IM Not A GM Speed Chess Championship&#38;nbsp;on Friday. The players traded victories for much of the match until the finish of the bullet segment wh...",
