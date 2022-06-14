@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura announced he will have a special announcement today before the start of Titled Tuesday. The announcement was scheduled for 16:55 when exactly 6.000 viewers joined to hear what Hikaru has to say. Showing a short video, Nakamura announced he joins Misfits Gaming as an influencer and content creator. Misfits Gaming is a global []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/misfits-gaming-website-crashes-as-nakamura-announces-he-joins-them/",
+         "pubDate" : "Tue, 14 Jun 2022 15:17:07 +0000",
+         "title" : "Misfits Gaming website crashes as Nakamura announces he joins them"
+      },
+      {
+         "description" : "Ding Liren is now on his way to Madrid where he will participate in the FIDE Candidates Tournament 2022. Many chess fans were alarmed whether he will be on time for the opening ceremony and round 1, as the current pandemic lockdown could ruin his plans. His departure is late and chances are he will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-is-on-his-way-to-the-fide-candidates-tournament-2022/",
+         "pubDate" : "Tue, 14 Jun 2022 14:42:29 +0000",
+         "title" : "Ding Liren is on his way to the FIDE Candidates Tournament 2022"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (57)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (57)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-57/",
+         "pubDate" : "Tue, 14 Jun 2022 14:34:09 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (57)"
+      },
+      {
+         "description" : "All five games finished drawn in round 5 of the Masters section at the Prague Chess Festival, which left Le Quang Liem and Pentala Harikrishna sharing the lead on 3&frac12; points. Meanwhile, in the Challengers, Vincent Keymer kept the sole lead after beating Peter Michalik with the black pieces. Nodirbek Abdusattorov (pictured) also won and is now in sole second place, a half point back. | Photo: Vladim&iacute;r Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r5",
+         "pubDate" : "Tue, 14 Jun 2022 15:20:00 +0100",
+         "title" : "Prague: Keymer leads Challengers, Abdusattorov close behind"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg\" data-image-dimensions=\"1741x876\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62a892f1b850ad772070aff8\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we talk about chess improvement with one of the premier chess trainers in the world! <a href=\"https://en.wikipedia.org/wiki/Ramachandran_Ramesh\"",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/14/ep-283-top-trainer-gm-rb-ramesh-on-how-to-improve-your-chess-calculation-and-the-keys-to-gm-praggnanandhaas-success",
+         "pubDate" : "Tue, 14 Jun 2022 13:56:37 +0000",
+         "title" : "EP 283- Top Trainer GM R.B. Ramesh on How to Improve Your Chess Calculation, and the keys to GM Praggnanandhaa''s success"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
+         "pubDate" : "Tue, 14 Jun 2022 14:55:00 +0100",
+         "title" : "Prague Chess Festival, Round 6: Live"
+      },
+      {
+         "description" : "The 30th edition of the Heart of Finland Chess Open / Nordic Open Chess Championship will be held from 18-24 July 2022 in Jyv&#xE4;skyl&#xE4;. The event marks the 100th anniversary of the Finnish Chess Federation and features three separate competitions: Open (open for all players), Senior 50+ (open for players born in 1972 or earlier []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/30th-heart-of-finland-chess-open/",
+         "pubDate" : "Tue, 14 Jun 2022 13:32:48 +0000",
+         "title" : "30th Heart of Finland Chess Open"
+      },
+      {
+         "description" : "Peter Heine Nielsen, the Deputy FIDE President candidate of Andrii Baryshpolets, criticizes the sponsor of the FIDE Candidates Tournament 2020/2021 and FIDE Online Olympiad. &#8220;The sponsor of the 2020/2021 Candidates tournament, the FIDE Online Olympiad, sponsor of 2 Russian World Championship challengers, sponsor of the Russian Chess Federation and honorary guest at numerous FIDE events []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-heine-nielsen-on-the-fide-candidates-tournament-sponsors/",
+         "pubDate" : "Tue, 14 Jun 2022 12:35:36 +0000",
+         "title" : "Peter Heine Nielsen on the FIDE Candidates Tournament sponsors"
+      },
+      {
+         "description" : "Western Asia Youth Chess Championship 2022 will take place from 15-23 June in the Maldives. The event features: Rapid, Blitz, and Classical championships, played in 6 age categories: U8, U10, U12, U14, U16, U18, open and girls sections separately. Around 150 players registered for the event, representing federations belonging to FIDE zones 3.1, 3.2, 3.4 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/western-asia-youth-chess-championship-2022/",
+         "pubDate" : "Tue, 14 Jun 2022 12:24:00 +0000",
+         "title" : "Western Asia Youth Chess Championship 2022"
+      },
+      {
          "description" : "New South Wales Chess Association organized the 2022 NSW Open from 11-13 June in Strathfield a suburb in the Inner West of Sydney. The event attracted more than 100 entries who competed in 7 swiss rounds for a total prize fund of $8.500. IM Igor Bjelobrk won the event with a convincing score of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,36 +186,12 @@ news_feed (
          "title" : "A missed chance"
       },
       {
-         "description" : "The famous artist Juga di Prima is going to perform live at the opening ceremony of the Candidates Tournament 2022 in Madrid. FIDE commented, &#8220;We're happy to announce that Juga di Prima will perform live at the Opening Ceremony of the FIDE Candidates Tournament and premiere her new song, &#8220;Open Files&#8221;&#8221; The opening ceremony of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/juga-di-prima-to-sing-live-at-the-opening-ceremony-of-the-candidates-tournament-2022/",
-         "pubDate" : "Tue, 14 Jun 2022 07:37:47 +0000",
-         "title" : "Juga di Prima to sing live at the opening ceremony of the Candidates Tournament 2022"
-      },
-      {
-         "description" : "Chess streamer and Alexandra Botez has all the right moves on and off the board! The famous Twitch streamer, Youtuber and influencer QTCinderella published a video of Botez dancing on a boat to some funky house music. @Akanemsko (Nemo Zhou) commented, &#8220;you&#x2019;re a mood @alexandravbotez!&#8221; Did you know? Alexandra Botez played for Canada in Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-botez-has-all-the-right-moves/",
-         "pubDate" : "Tue, 14 Jun 2022 07:16:54 +0000",
-         "title" : "Alexandra Botez has all the right moves #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/cloud-computing-power-for-french-top/",
          "pubDate" : "Tue, 14 Jun 2022 08:09:23 +0100",
          "title" : "Cloud computing power for French top"
-      },
-      {
-         "description" : "The meteoric rise of Hans Moke Niemann continues. With a solid performance in Sarjah Masters (replay games / all the information / final standings) and currently playing in Prague (follow the live games here), Hans Niemann has added 8,2 ELO points to his rating. Now he is second in the live rating list with 2686,2, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-is-now-the-second-strongest-junior-in-the-world/",
-         "pubDate" : "Tue, 14 Jun 2022 06:24:06 +0000",
-         "title" : "Hans Niemann is now the second strongest junior in the world"
       },
       {
          "description" : "Fritztrainer video courses now run everywhere! They run in a stand-alone app for Windows and Mac; they run in the ChessBase programme; and now, brand new, they are streamable in the ChessBase video portal - for tablets, iPads and smartphones! In fact, regardless of whether you order the download or the DVD: you can watch the Fritztrainer as a stream in the video portal!",
@@ -154,12 +202,12 @@ news_feed (
          "title" : "New: Fritztrainer streaming for tablets, iPads & smartphones"
       },
       {
-         "description" : "Kenyan candidate master Ben Magana won the 2022 Kisumu Chess Open which took place last weekend, from 4-5 June in Kisumu Kenya's third-largest city. The event was played in 6 swiss rounds and attracted more than 60 entries who fought for a total prize fund of 60.000 KES. Ben Magana and Joseph Muragu Methu []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ben-magana-clinches-kisumu-chess-open-2022/",
-         "pubDate" : "Mon, 13 Jun 2022 22:56:27 +0000",
-         "title" : "Ben Magana clinches Kisumu Chess Open 2022"
+         "description" : " The FIDE Candidates Tournament takes place Thu 16th June to Tue 5th Jul 2022 in Madrid, Spain. This is an 8 player 14 round event. For the first time since the Candidates tournaments returned there will be rapid and tie-breaks among players tied for first. Tie-break coefficients were used in the past - although there were provisions for a tie-break match the conditions needed for them to happen meant they were all but impossible. Players: Ian Nepomniachtchi, Teimour Radjabov, Jan-Krzysztof Duda, Alireza Firouzja, Fabiano Caruana, Hikaru Nakamura, Richard Rapport, and Ding Liren. Sergey Karjakin is serving a 6 months ban for his enthusiastic support of the Russian invasion of Ukraine which w",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
+         "pubDate" : "Tue, 14 Jun 2022 10:00:00 +0400",
+         "title" : "FIDE Candidates Tournament 2022 - Games and Results"
       },
       {
          "description" : "IM Vaishali R defeated the reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, in the first round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Vaishali led through the blitz games but had to fight ...",
@@ -202,36 +250,12 @@ news_feed (
          "title" : "Endgame Magic #198: Rook endings"
       },
       {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Mon, 13 Jun 2022 14:55:00 +0100",
-         "title" : "Prague Chess Festival: Live"
-      },
-      {
-         "description" : "The Malawi Chess Open Championship 2022 took place from 9-12 June in Lilongwe. The event was played in 9 swiss rounds in the Open section, and 7 swiss rounds in the Women's section. George Mwale and Geoffrey Luanja scored 7/9 points each and tied for the first place, but Mwale had a greater number of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/malawi-open-championship-2022-concluded-in-lilongwe/",
-         "pubDate" : "Mon, 13 Jun 2022 12:47:01 +0000",
-         "title" : "Malawi Open Championship 2022 concluded in Lilongwe"
-      },
-      {
          "description" : " IM Igor Bjelobrk is the winner of the 2022 NSW Open, with an impressive 6.5/7. He won his first 6 rounds, and then played out a tough final round draw against close rival IM Junta Ikeda. Ikeda had drawn with Jack Rodgers back in round 3, and so they avoided playing each other until the last round. The draw left Ikeda tied for 2nd on 6 points with FM Yi Liu, who recovered from a round 4 loss to Sam Asaka to win his remaining games. In the Minor event, Kamal Jain won in a similar way to Bjelobrk, starting with 6 wins before drawing his last round games. There was a 3 way tie for 2nd with Stephen Hemsley, Shane Dibley and Kotaro Inukai all scoring 5.5. The 150 player event ran pretty smoothly,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-days-2-3.html",
          "pubDate" : "Mon, 13 Jun 2022 12:38:00 +0000",
          "title" : "2022 NSW Open - Days 2 & 3"
-      },
-      {
-         "description" : "The 2021 Montenegrin Chess Champion Luka Draskovic yesterday earned the last needed norm to become a Grandmaster. He competed in the Grandmasters tournament in Cetinje, a part of the Montenegro Chess Festival, scoring unbeaten 6.5 points (4 victories and 5 draws) to win the third GM norm. Luka Draskovic is the 8th player in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/montenegro-gets-a-new-grandmaster-after-17-years/",
-         "pubDate" : "Mon, 13 Jun 2022 12:22:23 +0000",
-         "title" : "Montenegro gets a new Grandmaster after 17 years"
       },
       {
          "description" : "",
@@ -794,7 +818,7 @@ news_feed (
          "title" : "Master Chess Web Show (17)"
       },
       {
-         "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at aged 21 and defending...",
+         "description" : "Vera Menchik (1906-44) was the first Women's World Chess Champion, as well as the longest reigning champion, gaining the title at aged 21 and defending...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/1st-caplin-menchik-memorial/",
@@ -1978,14 +2002,6 @@ news_feed (
          "title" : "Mamedyarov: I was not a big talent"
       },
       {
-         "description" : "75 years ago, on 28 May 1947, the American Grandmaster and renowned writer Andrew \"Andy\" Soltis was born in Hazleton, Pennsylvania. In an extensive interview Soltis talks about his chess and his writing career, chess in New York, the Marshall Chess Club, playing blitz against Bobby Fischer and about Fabiano Caruana and Magnus Carlsen. | Photo: Marcy Soltis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/congratulations-andy-soltis-turns-75-an-interview",
-         "pubDate" : "Sat, 28 May 2022 12:00:00 +0100",
-         "title" : "Congratulations! Andy Soltis turns 75 - an interview"
-      },
-      {
          "description" : "This past week, Praggnanandhaa had been studying for (and appearing in) his 11th standard exams in the mornings and then beating some of the best players in the world in the evenings. Including the best: Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2122,14 +2138,6 @@ news_feed (
          "title" : "Join Vidit's 2nd Open Arena Tournament"
       },
       {
-         "description" : " This week's Master Chess Web Show featured another special guest in FIDE Master Tim Wall. Tim told us how he got into chess, describes the chess scene in the North East and how he ended up in Russia as the editor of an English language newspaper: Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-15/\">Master Chess Web Show (15)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-15/",
-         "pubDate" : "Wed, 25 May 2022 11:14:06 +0000",
-         "title" : "Master Chess Web Show (15)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2160,62 +2168,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/french-federation-joins-olympic/",
          "pubDate" : "Tue, 24 May 2022 17:05:58 +0100",
          "title" : "French federation joins Olympic Committee"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1785",
-         "pubDate" : "Tue, 24 May 2022 15:09:28 +0000",
-         "title" : "French Federation becomes a member of the National Olympic and Sports Committee"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg\" data-image-dimensions=\"1750x693\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"628cedd60bce435664933b98\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6eeec6db-b0c7-4473-b171-3234b9cbcf64/Finegold.2022.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are re-joined by the popular and amusing <a href=\"https://www.twitch.tv/gmbenjaminfinegold\" target=\"_blank\">Twitch streamer</a>, <a href=\"https://www.",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/24/ep-280-gm-ben-finegold-on-the-fide-candidates-recent-declines-in-chess-twitch-viewership-and-why-he-thinks-he-doesnt-play-as-well-as-he-used-to",
-         "pubDate" : "Tue, 24 May 2022 14:40:40 +0000",
-         "title" : "EP 280- GM Ben Finegold on The FIDE Candidates, Recent Declines in Chess Twitch Viewership, and Why he thinks he Doesn't Play as Well as he Used to. "
-      },
-      {
-         "description" : " The Somali Chess Federation had successfully finalized the Olympiad qualifying chess tournament that was held in Mogadishu between 17/05/2022 to 22/05/2022. The event was organized in a professional manner and 10 chess players had participated in the tournament. CM Ali Farah 1st, FM Omar Abdulrahman 2nd, CM Islam Shiekh 3th, and Mohamed Ahmed 4th, finished The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/24/somalia-finalizes-team-for-2022-olympiad/\">Somalia finalizes team for 2022 Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/24/somalia-finalizes-team-for-2022-olympiad/",
-         "pubDate" : "Tue, 24 May 2022 13:07:22 +0000",
-         "title" : "Somalia finalizes team for 2022 Olympiad"
-      },
-      {
-         "description" : " <p class=\"lead\">IM and WGM Elisabeth Paehtz gives an exclusive interview to World Chess about her experience in the army, women's chess in Germany, recent successes in chess tournaments and much more. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/wKwWbFFxYJc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/elisabeth-paehtz-people-either-love-me-or-hate-me/",
-         "pubDate" : "Tue, 24 May 2022 12:54:20 +0000",
-         "title" : "Elisabeth Paehtz: \"People either love me or hate me\""
-      },
-      {
-         "description" : " Every now and then I dig up one of my more dubious openings from my youth. While the Schliemann in and of itself isn't that bad, there are some pretty dubious lines, especially now with chess engines ruining most gambits. I ventured the Mohring variation, which is known to be poor as long ago as the early 1980's, hoping my opponent might miss the best line. When he played 12 moves of theory I began to (a) regret my decision to choose this line and (b) try and remember what I used to know 35 years ago. Luckily he missed the the correct defensive move (13.d4!) and after that his position collapsed very quickly. <br /> <b>Cunningham,Cam - Press,Shaun [C63]</b><br />Belconnen Cup, 24.05.2022 <s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/the-half-forgotten-dreams-of-my-youth.html",
-         "pubDate" : "Tue, 24 May 2022 12:52:00 +0000",
-         "title" : "The half forgotten dreams of my youth"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1784",
-         "pubDate" : "Tue, 24 May 2022 12:35:56 +0000",
-         "title" : "Batsuren and Enkhtuul win Mongolian Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1783",
-         "pubDate" : "Tue, 24 May 2022 12:22:54 +0000",
-         "title" : "Jan-Krzysztof Duda wins Superbet Rapid & Blitz"
       }
    ]
 }
