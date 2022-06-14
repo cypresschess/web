@@ -18,6 +18,14 @@ news_feed (
          "title" : "Vaishali Breaks Assaubayeva's Stunning Streak To Seal Victory in Epic Final Game"
       },
       {
+         "description" : "Vishy Anand played some fantastic chess in the Norway Chess 2022. He finished 3rd in a very strong field, defeating Magnus twice in the event - once in blitz and other at the Armageddon. He very nearly got the better of World Champion in classical as well. In this article, we talk with Vishy about his overall performance, his games in the event, his resignation against Shakh, and a lot more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anand-fantastic-performance-norway-chess",
+         "pubDate" : "Mon, 13 Jun 2022 21:00:00 +0100",
+         "title" : "Anand's fantastic performance in Norway Chess!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
