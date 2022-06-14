@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mate ends the game and mating attacks also occur in the endgame. In the diagrammed position it is White to move. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-missed-chance",
+         "pubDate" : "Tue, 14 Jun 2022 09:00:00 +0100",
+         "title" : "A missed chance"
+      },
+      {
+         "description" : "Chess streamer and Alexandra Botez has all the right moves on and off the board! The famous Twitch streamer, Youtuber and influencer QTCinderella published a video of Botez dancing on a boat to some funky house music. @Akanemsko (Nemo Zhou) commented, &#8220;you&#x2019;re a mood @alexandravbotez!&#8221; Did you know? Alexandra Botez played for Canada in Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-botez-has-all-the-right-moves/",
+         "pubDate" : "Tue, 14 Jun 2022 07:16:54 +0000",
+         "title" : "Alexandra Botez has all the right moves #TweetOftheDay"
+      },
+      {
+         "description" : "The meteoric rise of Hans Moke Niemann continues. With a solid performance in Sarjah Masters (replay games / all the information / final standings) and currently playing in Prague (follow the live games here), Hans Niemann has added 8,2 ELO points to his rating. Now he is second in the live rating list with 2686,2, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-is-now-the-second-strongest-junior-in-the-world/",
+         "pubDate" : "Tue, 14 Jun 2022 06:24:06 +0000",
+         "title" : "Hans Niemann is now the second strongest junior in the world"
+      },
+      {
+         "description" : "Fritztrainer video courses now run everywhere! They run in a stand-alone app for Windows and Mac; they run in the ChessBase programme; and now, brand new, they are streamable in the ChessBase video portal - for tablets, iPads and smartphones! In fact, regardless of whether you order the download or the DVD: you can watch the Fritztrainer as a stream in the video portal!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-fritztrainer-streaming-for-tablets-ipads-smartphones",
+         "pubDate" : "Tue, 14 Jun 2022 07:04:46 +0100",
+         "title" : "New: Fritztrainer streaming for tablets, iPads & smartphones"
+      },
+      {
          "description" : "Kenyan candidate master Ben Magana won the 2022 Kisumu Chess Open which took place last weekend, from 4-5 June in Kisumu Kenya's third-largest city. The event was played in 6 swiss rounds and attracted more than 60 entries who fought for a total prize fund of 60.000 KES. Ben Magana and Joseph Muragu Methu []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -186,14 +218,6 @@ news_feed (
          "title" : "Fighting Spirit Prevails: Andreikin Wins Third Knockout"
       },
       {
-         "description" : "The&#160;FIDE Candidates Chess 2022&#160;was announced in late December last year, with the dates, place and the sponsor. FIDE disclosed the event will take place in Madrid, June 16 July 7 The Candidates Chess 2022 is an 8 player double round robin tournament with some of the world&#x2019;s top Grandmasters. As the players are qualifying []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-tournament-pairings/",
-         "pubDate" : "Sun, 12 Jun 2022 18:14:00 +0000",
-         "title" : "FIDE Candidates 2022 Tournament pairings"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes analyzes a Kasparov game where Garry takes on Josef Pribyl&#039;s Gruenfeld. It was 1980, the year Kasparov became a grandmaster... Originally on Twitch<br /> 2022.04.13<br /> Garry Kasparov vs Josef Pribyl, EUR-chT (Men) 7th (1980): D85 Gruenfeld, modern exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069896\">https://www.chessgames.com/perl/chessgame?gid=1069896</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/it-s-all-in-your-mind-1",
          "pubDate" : "Sun, 12 Jun 2022 18:00:00 +0100",
          "title" : "It's all in your mind! (1)"
-      },
-      {
-         "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-madrid/",
-         "pubDate" : "Sun, 12 Jun 2022 15:24:00 +0000",
-         "title" : "FIDE Candidates Chess 2022 Madrid"
       },
       {
          "description" : "",
@@ -1946,28 +1962,12 @@ news_feed (
          "title" : "WSCC 2022: Agrawal and Stefanova qualify for the main event"
       },
       {
-         "description" : "With the accelerated shift from the written word to video content, some might feel that classic books are noteworthy only as historic footnotes in the evolution of chess. However, to do so is to not only deny yourself a deeper and richer culture, but also to overlook the invaluable lessons of the past. Here is a look at one of the great chess books and what makes it special.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-classics-reti-s-masters-of-the-chessboard",
-         "pubDate" : "Fri, 27 May 2022 19:00:00 +0100",
-         "title" : "Chess Classics - Reti's Masters of the Chessboard"
-      },
-      {
          "description" : " <p class=\"lead\">Grandmaster Richard Rapport, 26, one of the most promising members of the new generation of elite chess players, is changing the federation from Hungary to Romania. The move, unexpected under normal circumstances, appears scandalous because Rapport is set to take part in the Candidates Tournament in June. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/40AD8D6C-A8F1-40EA-A471-5349F7327072.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Richard Rapport taking part in the Grand Prix Series in 2022</div> </div> The move has been reported by the Romanian Chess Federation and chess-news website and independently confirmed by FI",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/richard-rapport-switches-federation-three-weeks-before-candidate/",
          "pubDate" : "Fri, 27 May 2022 16:54:41 +0000",
          "title" : "Richard Rapport Switches Federation Three Weeks Before Candidates"
-      },
-      {
-         "description" : "In his \"Power Play Show\" Daniel King looks at some snapshots from the Chessable Masters, focusing on one game in particular, Giri vs Praggnanandhaa, which was a rollercoaster! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-spot-the-checkmate",
-         "pubDate" : "Fri, 27 May 2022 17:45:00 +0100",
-         "title" : "Daniel King's Power Play Show: Spot the checkmate"
       },
       {
          "description" : "",
@@ -2192,14 +2192,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/duda-is-the-2022-superbet-rapid-blitz-poland-king/",
          "pubDate" : "Tue, 24 May 2022 09:59:06 +0000",
          "title" : "Duda is the 2022 Superbet Rapid & Blitz Poland King"
-      },
-      {
-         "description" : "The 20th edition of the European Union Youth Chess Championship U8-U14 will take place from 21st 30th August 2022 in Prague, Hotel STEP. The event is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/20th-european-union-youth-chess-championship-u8-u14/",
-         "pubDate" : "Tue, 24 May 2022 05:20:10 +0000",
-         "title" : "20th European Union Youth Chess Championship U8-U14"
       }
    ]
 }
