@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "New South Wales Chess Association organized the 2022 NSW Open from 11-13 June in Strathfield a suburb in the Inner West of Sydney. The event attracted more than 100 entries who competed in 7 swiss rounds for a total prize fund of $8.500. IM Igor Bjelobrk won the event with a convincing score of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/igor-bjelobrk-wins-nsw-open-2022/",
+         "pubDate" : "Tue, 14 Jun 2022 11:14:44 +0000",
+         "title" : "Igor Bjelobrk wins NSW Open 2022"
+      },
+      {
+         "description" : "Almost eight years ago, in 2014, it was with deep chagrin that we announced the demise of the decades-old chess column in the venerable New York Times. Its most recent upkeeper at the time was the New York Times journalist, Dylan Loeb McClain, who still writes about chess affairs for the paper. It is with pleasure that we can trumpet its resurrection at the hands of GM Daniel Naroditsky.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-naroditsky-is-new-nyt-chess-columnist",
+         "pubDate" : "Tue, 14 Jun 2022 12:00:00 +0100",
+         "title" : "Daniel Naroditsky is new NYT chess columnist"
+      },
+      {
+         "description" : "Tremendous heat is expecting the participants in the 2022 Candidates Tournament. Madrid temperatures are expected to stay around 40 degrees Celsius (104 degrees Farenheit) at least through the first week of the event. Chess fans speculate it is exactly the Candidates Tournament tension that rises the temperatures in the city, but Accuweather specifies that the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-candidates-tournament-in-the-middle-of-heat-wave-in-madrid/",
+         "pubDate" : "Tue, 14 Jun 2022 10:56:19 +0000",
+         "title" : "2022 Candidates Tournament in the middle of heat wave in Madrid"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/bremen-hosts-bundesliga-final/",
+         "pubDate" : "Tue, 14 Jun 2022 09:48:33 +0100",
+         "title" : "Bremen hosts Bundesliga final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/ding-wins-chessable-masters/",
+         "pubDate" : "Tue, 14 Jun 2022 09:47:23 +0100",
+         "title" : "Ding wins Chessable Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/should-carlsen-decide-now/",
+         "pubDate" : "Tue, 14 Jun 2022 09:45:26 +0100",
+         "title" : "Should Carlsen decide now?"
+      },
+      {
+         "description" : "The most anticipated event of 2022 the&#160;FIDE Candidates Chess 2022&#160;starts in three days, taking place in Madrid from June 16 &#x2013; July 7. It is an 8 player double round robin qualification event for the World Championship Match later this year. The field with an average rating of 2771.9 is headed by world number []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/candidates-chess-2022-predictions-and-possible-outcomes/",
+         "pubDate" : "Tue, 14 Jun 2022 08:45:15 +0000",
+         "title" : "Candidates Chess 2022 - Predictions and possible outcomes"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/its-50-years-folks/",
+         "pubDate" : "Tue, 14 Jun 2022 09:43:57 +0100",
+         "title" : "It's 50 years, folks!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/a-universal-game-teaching-tool/",
+         "pubDate" : "Tue, 14 Jun 2022 09:43:41 +0100",
+         "title" : "A universal game teaching tool"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/can-yosha-compete-as-a-woman/",
+         "pubDate" : "Tue, 14 Jun 2022 09:43:24 +0100",
+         "title" : "Can Yosha compete as a woman?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/four-more-years-with-a-russian/",
+         "pubDate" : "Tue, 14 Jun 2022 09:42:43 +0100",
+         "title" : "Four more years?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/no-more-political-sponsorship-and/",
+         "pubDate" : "Tue, 14 Jun 2022 09:42:29 +0100",
+         "title" : "\"No more political sponsorship and sportswashing\""
+      },
+      {
+         "description" : "ChessFest returns to Trafalgar Square this July, bigger and better than before. The UK&#x2019;s largest one-day chess event is aimed at anyone who loves or wants to learn chess, and is completely free of charge. Taking place at London&#x2019;s iconic Trafalgar Square this year&#x2019;s event marks the 50th anniversary of the 1972 World Chess Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessfest-2022-the-biggest-uk-chess-festival/",
+         "pubDate" : "Tue, 14 Jun 2022 08:39:06 +0000",
+         "title" : "ChessFest 2022 - the biggest UK chess festival"
+      },
+      {
          "description" : "Mate ends the game and mating attacks also occur in the endgame. In the diagrammed position it is White to move. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +114,28 @@ news_feed (
          "title" : "A missed chance"
       },
       {
+         "description" : "The famous artist Juga di Prima is going to perform live at the opening ceremony of the Candidates Tournament 2022 in Madrid. FIDE commented, &#8220;We're happy to announce that Juga di Prima will perform live at the Opening Ceremony of the FIDE Candidates Tournament and premiere her new song, &#8220;Open Files&#8221;&#8221; The opening ceremony of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/juga-di-prima-to-sing-live-at-the-opening-ceremony-of-the-candidates-tournament-2022/",
+         "pubDate" : "Tue, 14 Jun 2022 07:37:47 +0000",
+         "title" : "Juga di Prima to sing live at the opening ceremony of the Candidates Tournament 2022"
+      },
+      {
          "description" : "Chess streamer and Alexandra Botez has all the right moves on and off the board! The famous Twitch streamer, Youtuber and influencer QTCinderella published a video of Botez dancing on a boat to some funky house music. @Akanemsko (Nemo Zhou) commented, &#8220;you&#x2019;re a mood @alexandravbotez!&#8221; Did you know? Alexandra Botez played for Canada in Chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/alexandra-botez-has-all-the-right-moves/",
          "pubDate" : "Tue, 14 Jun 2022 07:16:54 +0000",
          "title" : "Alexandra Botez has all the right moves #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/cloud-computing-power-for-french-top/",
+         "pubDate" : "Tue, 14 Jun 2022 08:09:23 +0100",
+         "title" : "Cloud computing power for French top"
       },
       {
          "description" : "The meteoric rise of Hans Moke Niemann continues. With a solid performance in Sarjah Masters (replay games / all the information / final standings) and currently playing in Prague (follow the live games here), Hans Niemann has added 8,2 ELO points to his rating. Now he is second in the live rating list with 2686,2, []",
@@ -114,52 +234,12 @@ news_feed (
          "title" : "Montenegro gets a new Grandmaster after 17 years"
       },
       {
-         "description" : "Las Vegas Chess Festival 2022&#160;took place 8-12 June and included the US National Open, the US Women&#x2019;s Open, International Youth Championship, and many side events. IM Semen Khanin triumphed in the US National Open Championship, scoring 7.5 points to be the sole Winner of the event. He won a money prize of 8000$ and lifted []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-semen-khanin-wins-the-us-national-open/",
-         "pubDate" : "Mon, 13 Jun 2022 11:54:58 +0000",
-         "title" : "IM Semen Khanin wins the US National Open"
-      },
-      {
-         "description" : "Less than 50 days left before the start of the 44th Chess Olympiad 2022 in Chennai. MrDodgy, the CEO of Chefable and Tournament Director of MrDodgy Invitational 2022, informed about MrsDodgy's explanation that the Olympiad is &#8220;like Eurovision but for chess and not just Europe&#8221;. Being asked what's Eurovision, he answered &#8220;it's like the chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-olympiad-is-like-eurovision-tweetoftheday/",
-         "pubDate" : "Mon, 13 Jun 2022 11:02:16 +0000",
-         "title" : "MrDodgy: Olympiad is like Eurovision #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1808",
          "pubDate" : "Mon, 13 Jun 2022 10:54:21 +0000",
          "title" : "Mwale and Nkhoma win Malawi Open Championship 2022"
-      },
-      {
-         "description" : "The 6th Annual Carolinas Classic took place from 10-12 June at Hilton Charlotte University Place. The event featured a prize fund of $12,000 in 9 USCF-rated sections. Four players tied for the top in the main Championship: GM Daniel Naroditsky, GM Elshan Moradiabadi, GM Alexander Shabalov and IM David Brodsky. Each of the players who []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/6th-carolinas-classic-concluded/",
-         "pubDate" : "Mon, 13 Jun 2022 10:38:01 +0000",
-         "title" : "6th Carolinas Classic concluded"
-      },
-      {
-         "description" : "The American grandmaster, author and chess commentator Daniel Naroditsky becomes the chess columnist for the American daily newspaper The New York Times. The NYT was founded in 1851, initially published by Raymond, Jones &#38; Company, and today has a worldwide readership. The New York Times published the extensive article &#8220;Meet The Times&#x2019;s New Chess Columnist&#8221; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-daniel-naroditsky-becomes-the-new-york-times-chess-columnist/",
-         "pubDate" : "Mon, 13 Jun 2022 10:07:43 +0000",
-         "title" : "GM Daniel Naroditsky becomes The New York Times chess columnist"
-      },
-      {
-         "description" : "The 96th edition of the Argentine National Chess Championship&#160;took place from 2-12 June, 2022 in Club Argentino de Ajedrez located in Buenos Aires. The event was organized by the Chess Federation of Argentina which this year celebrates its 100th anniversary. Before the start of the National Championship, Argentine Chess Federation announced team compositions for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/federico-perez-ponsa-is-2022-argentine-chess-champion/",
-         "pubDate" : "Mon, 13 Jun 2022 09:49:00 +0000",
-         "title" : "Federico Perez Ponsa is 2022 Argentine Chess Champion"
       },
       {
          "description" : "34th National Under-08 Certificates are out to download (09-05 to 14-05-22) Please download using the link given below: Open : https://aicf.online/National-Under-8-Open.html Girls : https://aicf.online/National-Under-8-Girls.html Any Correction mail",
@@ -192,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caleb-class-vs-proleiko-road-2000-nm-caleb-denby",
          "pubDate" : "Mon, 13 Jun 2022 05:15:16 +0000",
          "title" : "Caleb + Class vs. Proleiko | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/a-universal-game-teaching-tool/",
-         "pubDate" : "Mon, 13 Jun 2022 05:09:45 +0100",
-         "title" : "A universal game teaching tool"
       },
       {
          "description" : "",
@@ -648,14 +720,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
          "pubDate" : "Thu, 09 Jun 2022 11:11:56 +0100",
          "title" : "Nakamura and the eight streamers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/can-yosha-compete-as-a-woman/",
-         "pubDate" : "Thu, 09 Jun 2022 10:43:00 +0100",
-         "title" : "Can Yosha compete as a woman?"
       },
       {
          "description" : "An extremely entertaining first round in the Masters section of the Prague Chess Festival saw Le Quang Liem, David Navara and Pentala Harikrishna scoring the first victories of the event to grab an early lead. Coincidentally, three players also won their first games in the Challengers. All six full points were collected by the player marshalling the white pieces. | Photo: Petr Vrabec",
@@ -1722,14 +1786,6 @@ news_feed (
          "title" : "Chesskid partners with ClassLink"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/no-more-political-sponsorship-and/",
-         "pubDate" : "Mon, 30 May 2022 19:32:20 +0100",
-         "title" : "\"No more political sponsorship and sportswashing\""
-      },
-      {
          "description" : "The tenth edition of the Norway Chess Tournament starts with a blitz tournament, which will decide who gets more whites in the main event. It is a single round-robin with a time control of 3 minutes for the game plus 2-second increments per move. The action kicks off at 18.00 CEST (12.00 ET, 21.30 IST).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1858,14 +1914,6 @@ news_feed (
          "title" : "Lost Empires"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/should-carlsen-decide-now/",
-         "pubDate" : "Sun, 29 May 2022 10:03:52 +0100",
-         "title" : "Should Carlsen decide now?"
-      },
-      {
          "description" : "Machgielis \"Max\" Euwe is one of the most esteemed figures in chess history. A teacher and a professed chess amateur, he did the unthinkable when he became world champion in 1935, defeating an all-time great in Alexander Alekhine. On top of that, he was a perennial top player from the late 1920s to the 1950s, an outstanding writer, and F&eacute;d&eacute;ration Internationale des Échecs (FIDE) President in the latter part of his life. On the recent occasion of Euwe's 121st birth anniversary, Eugene Manlapao explores the life and times of chess' 5th world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1938,14 +1986,6 @@ news_feed (
          "title" : "Congratulations! Andy Soltis turns 75 - an interview"
       },
       {
-         "description" : "In the diagrammed position Black wins with 22...Nxf4!, this much is revealed - all the rest will be up to you. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indian-whirlwind-i",
-         "pubDate" : "Sat, 28 May 2022 09:00:00 +0100",
-         "title" : "Indian whirlwind I"
-      },
-      {
          "description" : "This past week, Praggnanandhaa had been studying for (and appearing in) his 11th standard exams in the mornings and then beating some of the best players in the world in the evenings. Including the best: Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1992,14 +2032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-round-1.html",
          "pubDate" : "Fri, 27 May 2022 14:01:00 +0000",
          "title" : "2022 ACT Championship - Round 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ding-wins-chessable-masters/",
-         "pubDate" : "Fri, 27 May 2022 13:13:59 +0100",
-         "title" : "Ding wins Chessable Masters"
       },
       {
          "description" : " The Indian 16-year-old beat his rivals with bold attacking play before losing in the $150,000 final to Ding Liren, who knocked out Magnus Carlsen in the semis India's 16-year-old Rameshbabu Praggnanandhaa jumped into the world elite this week when the Tamil Nadu teenager reached the final of the online $150,000 Chessable Masters by bold attacking play. It was the latest and most significant success yet for the former prodigy, who became the youngest ever international master at 11 and narrowly missed the youngest grandmaster title at 12. The epic quality of the schoolboy's feat was underlined in his post-match interview after defeating the Netherlands world No 9, Anish Giri, in Tuesday's se",
@@ -2184,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1783",
          "pubDate" : "Tue, 24 May 2022 12:22:54 +0000",
          "title" : "Jan-Krzysztof Duda wins Superbet Rapid & Blitz"
-      },
-      {
-         "description" : " <p class=\"lead\">The Polish GM Jan-Krzysztof Duda won the 2022 Superbet Rapid & Blitz Poland half a point ahead of Vishy Anand and Levon Aronian. But Duda was not the only \"winner\" as Fabiano Caruana (+10) and Levon Aronian (+9) climbed the blitz rating list after their remarkable performance, surpassing Carlsen who is now downgraded to 4th place! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-1.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The former World Champion Vishy Anand had a stunning performance in the rapid chess but unfortunately faded in blitz. Nevertheless, the 52-year-old GM still tied for first after losing his last two game",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/duda-is-the-2022-superbet-rapid-blitz-poland-king/",
-         "pubDate" : "Tue, 24 May 2022 09:59:06 +0000",
-         "title" : "Duda is the 2022 Superbet Rapid & Blitz Poland King"
       }
    ]
 }
