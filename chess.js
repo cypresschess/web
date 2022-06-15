@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Individual Chess Championships 2022&#xA0;will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the 95th edition of the French Individual Chess Championship after three years of pause caused by the pandemic of Covid19. The Men's Individual Chess Championship features a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-individual-chess-championships-participants-lists/",
+         "pubDate" : "Wed, 15 Jun 2022 11:10:19 +0000",
+         "title" : "French Individual Chess Championships - Participants lists"
+      },
+      {
          "description" : "The Budapest Gambit (1.d4 Nf6 2.c4 e5 3.dxe5 Ng4) has its most loyal followers in club chess. 1.d4 players who are confronted with the gambit have to reckon with the fact that their opponents are far more familiar with the positions, if only because of the number of games they have played with that system. In the current ChessBase Magazine Extra 207 Ivan Sokolov shows a little-known but very convenient way for White to gain a nice advantage without extensive study of opening theory. You can watch an excerpt from his video analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,36 @@ news_feed (
          "title" : "Easy play against the Budapest Gambit"
       },
       {
+         "description" : "Two days left before the start of the Candidates Chess Tournament 2022. While Ding Liren is on his way to Spain, Teimour Radjabov has arrived in the middle of the heat wave in Madrid, and Duda-Jan Krzysztof completes the final preparations for the most anticipated tournament in 2022. While waiting for the first round encounters []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/throwback-candidates-chess-1953-tweetoftheday/",
+         "pubDate" : "Wed, 15 Jun 2022 09:45:17 +0000",
+         "title" : "Throwback: Candidates Chess 1953 #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1811",
+         "pubDate" : "Wed, 15 Jun 2022 09:22:45 +0000",
+         "title" : "Latvia launches Chess in Prisons programme"
+      },
+      {
          "description" : "The 1st Caplin Menchik Memorial takes place from Saturday 18th to Sunday 26th June 2022 at the MindSports Centre, London. It&#x2019;s a 10-player all-play-all, one game per day, with WIM &#38; WGM norm opportunities. The tournament is taking place thanks to the generous support of Caplin Systems, who also support the Hastings Congress. The tournament []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/1st-caplin-menchik-memorial/",
          "pubDate" : "Wed, 15 Jun 2022 09:18:23 +0000",
          "title" : "1st Caplin Menchik Memorial"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nakamura-left-tsm-joins-misfits/",
+         "pubDate" : "Wed, 15 Jun 2022 09:27:11 +0100",
+         "title" : "Nakamura left TSM, joins Misfits"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
@@ -106,14 +138,6 @@ news_feed (
          "title" : "Adam Horvath is the Winner of Rigo Janos Memorial 2022"
       },
       {
-         "description" : "The 56th edition of the Ilmar Raud Memorial Chess Tournament will take place 3-10 July at the&#160;Viljandi Sports Center&#160;in Viljandi, a town in southern Estonia. This year, the event will include qualifications for Estonian Men's and Women's Individual Chess Championships, Estonian Junior Chess Championships, and Estonian Seniors Chess Championships. Based on the final results, Estonian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/56th-ilmar-raud-memorial-tournament/",
-         "pubDate" : "Tue, 14 Jun 2022 20:45:59 +0000",
-         "title" : "56th Ilmar Raud Memorial Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-yuniesky-quesada-lichessorg",
          "pubDate" : "Tue, 14 Jun 2022 20:17:28 +0000",
          "title" : "Grandmaster's Choice - GM Yuniesky Quesada | lichess.org"
-      },
-      {
-         "description" : "Hikaru Nakamura announced he will have a special announcement today before the start of Titled Tuesday. The announcement was scheduled for 16:55 when exactly 6.000 viewers joined to hear what Hikaru has to say. Showing a short video, Nakamura announced he joins Misfits Gaming as an influencer and content creator. Misfits Gaming is a global []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/misfits-gaming-website-crashes-as-nakamura-announces-he-joins-them/",
-         "pubDate" : "Tue, 14 Jun 2022 15:17:07 +0000",
-         "title" : "Misfits Gaming website crashes as Nakamura announces he joins them"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (57)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (57)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
