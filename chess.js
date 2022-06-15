@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Budapest Gambit (1.d4 Nf6 2.c4 e5 3.dxe5 Ng4) has its most loyal followers in club chess. 1.d4 players who are confronted with the gambit have to reckon with the fact that their opponents are far more familiar with the positions, if only because of the number of games they have played with that system. In the current ChessBase Magazine Extra 207 Ivan Sokolov shows a little-known but very convenient way for White to gain a nice advantage without extensive study of opening theory. You can watch an excerpt from his video analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/easy-play-against-the-budapest-gambit",
+         "pubDate" : "Wed, 15 Jun 2022 11:00:00 +0100",
+         "title" : "Easy play against the Budapest Gambit"
+      },
+      {
+         "description" : "The 1st Caplin Menchik Memorial takes place from Saturday 18th to Sunday 26th June 2022 at the MindSports Centre, London. It&#x2019;s a 10-player all-play-all, one game per day, with WIM &#38; WGM norm opportunities. The tournament is taking place thanks to the generous support of Caplin Systems, who also support the Hastings Congress. The tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-caplin-menchik-memorial/",
+         "pubDate" : "Wed, 15 Jun 2022 09:18:23 +0000",
+         "title" : "1st Caplin Menchik Memorial"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada",
+         "pubDate" : "Wed, 15 Jun 2022 08:18:12 +0000",
+         "title" : "Endgames & Middlegame Exercises | Grandmaster's Choice - GM Yuniesky Quesada"
+      },
+      {
+         "description" : "The chess world continues to enjoy a domination by young players in the rating list. Today's hype deservedly goes to the Uzbek Grandmaster Nodirbek Abdusattorov. With a solid performance in Sarjah Masters (replay games&#xA0;/&#xA0;all the information&#xA0;/&#xA0;final standings) and currently playing in Prague (follow the live games here) Nodirbek Abdusattorov has added 27,9 ELO points to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-is-now-the-second-strongest-junior-in-the-world/",
+         "pubDate" : "Wed, 15 Jun 2022 06:16:17 +0000",
+         "title" : "Nodirbek Abdusattorov is now the second strongest junior in the world"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby relives one of his games from the 2022 Premier &amp; Amateur, a popular annual event in Saint Louis. See how Caleb won the Premier (open) section. 2022.06.14<br /> Prateek Nemmali vs. Caleb Denby, 2022: B13 Caro-Kann, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/omg-i-won-premier-amateur-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,14 +138,6 @@ news_feed (
          "title" : "Misfits Gaming website crashes as Nakamura announces he joins them"
       },
       {
-         "description" : "Ding Liren is now on his way to Madrid where he will participate in the FIDE Candidates Tournament 2022. Many chess fans were alarmed whether he will be on time for the opening ceremony and round 1, as the current pandemic lockdown could ruin his plans. His departure is late and chances are he will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-is-on-his-way-to-the-fide-candidates-tournament-2022/",
-         "pubDate" : "Tue, 14 Jun 2022 14:42:29 +0000",
-         "title" : "Ding Liren is on his way to the FIDE Candidates Tournament 2022"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (57)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (57)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/14/ep-283-top-trainer-gm-rb-ramesh-on-how-to-improve-your-chess-calculation-and-the-keys-to-gm-praggnanandhaas-success",
          "pubDate" : "Tue, 14 Jun 2022 13:56:37 +0000",
          "title" : "EP 283- Top Trainer GM R.B. Ramesh on How to Improve Your Chess Calculation, and the keys to GM Praggnanandhaa''s success"
-      },
-      {
-         "description" : "The 30th edition of the Heart of Finland Chess Open / Nordic Open Chess Championship will be held from 18-24 July 2022 in Jyv&#xE4;skyl&#xE4;. The event marks the 100th anniversary of the Finnish Chess Federation and features three separate competitions: Open (open for all players), Senior 50+ (open for players born in 1972 or earlier []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/30th-heart-of-finland-chess-open/",
-         "pubDate" : "Tue, 14 Jun 2022 13:32:48 +0000",
-         "title" : "30th Heart of Finland Chess Open"
       },
       {
          "description" : "Almost eight years ago, in 2014, it was with deep chagrin that we announced the demise of the decades-old chess column in the venerable New York Times. Its most recent upkeeper at the time was the New York Times journalist, Dylan Loeb McClain, who still writes about chess affairs for the paper. It is with pleasure that we can trumpet its resurrection at the hands of GM Daniel Naroditsky.",
@@ -1098,14 +1114,6 @@ news_feed (
          "title" : "Anand, Giri share honours in Rd 6; Carlsen moves into lead in Norway"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-5",
-         "pubDate" : "Mon, 06 Jun 2022 23:09:39 +0000",
-         "title" : "2022 Summer Chess Classic: Round 5"
-      },
-      {
          "description" : "GM Arjun Erigaisi bested the two-time Junior Speed Chess Champion, GM Nihal Sarin, in the final of the 2022 Junior Speed Chess Championship on Monday. Down two points after the 3|1 blitz, Erigaisi clinched the title with a five-game winning stre...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1986,14 +1994,6 @@ news_feed (
          "title" : "Kateryna Dolzhykova gives a simul for charity in Frankfurt"
       },
       {
-         "description" : "Polarchy or Polyarchy is the idea to have the burden of government on the shoulders of multiple people, as opposed to the monarchy that only sees one king or queen with all the burden. In chess, the king remains the sole objective of the game, but in rare cases one might be faced with the constellation that said king is joined not only by one but two queens. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-double-trouble-queens",
-         "pubDate" : "Sat, 28 May 2022 20:00:00 +0100",
-         "title" : "Study of the Month - Double trouble queens"
-      },
-      {
          "description" : " International Master Eugenio Campos is a long-time Olympian from Angola. Recently, he represented the country at the IPCA (International Physically Disabled Chess Association) tournament in Ashdod, Israel and placed a respectable 5/9. It is a tournament that he has participated in for the past decade. He has also represented his country in four Olympiad tournaments The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/\">IM Eugenio Campos at IPCA</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2152,30 +2152,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/vidits-open-arena-2/",
          "pubDate" : "Wed, 25 May 2022 16:07:12 +0000",
          "title" : "Join Vidit's 2nd Open Arena Tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1788",
-         "pubDate" : "Wed, 25 May 2022 09:18:50 +0000",
-         "title" : "FIDE Chess.com Women's Speed Chess Championship gets underway"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nordic-cooperation/",
-         "pubDate" : "Wed, 25 May 2022 10:10:44 +0100",
-         "title" : "Nordic cooperation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1787",
-         "pubDate" : "Wed, 25 May 2022 08:27:43 +0000",
-         "title" : "FIDE World Championship Match 2023 Qualification Rules"
       }
    ]
 }
