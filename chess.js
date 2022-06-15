@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "in the end, rating favourite Liviu Dieter Nisipeanu (pictured, on the left) won the Targu Mures Open, a tournament that is part of the Romanian Grand Prix, a series of strong open events in Romania. In round 1 Nisipeanu lost against WGM Mihaela Sandu but he recovered and finished sole first with 7.0/9, ahead of the 13-year old Ukrainian IM Ihor Samunenkov who was sole second with 6.5/9. Irina Bulmaga (pictured, on the right) won the women's prize and sent a report. | Photos: CS Juvenes | Facebook",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/targu-meres-nisipeanu-wins-ahead-of-13-year-old-ukrainian-im",
+         "pubDate" : "Wed, 15 Jun 2022 21:00:00 +0100",
+         "title" : "Targu Meres: Nisipeanu wins ahead of 13-year old Ukrainian IM"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92237710.cms\" />Grandmaster Dronavalli Harika, one of the senior members of the Indian women's team for the upcoming Olympiad, is ready to embrace a new chapter in her life. The 31-year-old is pregnant with her first child. However, the World No. 10 is making sure that she not only manages her health but also gives ample time to training for the big-ticket event from her home in Hyderabad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-takes-pregnancy-in-her-stride-as-she-prepares-for-chess-olympiad/articleshow/92237710.cms",
+         "pubDate" : "Wed, 15 Jun 2022 17:33:25 +0000",
+         "title" : "Harika takes pregnancy in her stride as she prepares for chess Olympiad"
+      },
+      {
+         "description" : "The famous artist Juga di Prima today met GM Alireza Firouzja and GM Fabiano Caruana at the venue of the FIDE Candidates Chess Tournament 2022. Juga is going to perform live at the opening ceremony of the Candidates Tournament 2022 in Madrid, premiering her new song &#x201C;Open Files&#x201D; which will go public today on YouTube.Latest []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/juga-di-prima-meets-firouzja-and-caruana/",
+         "pubDate" : "Wed, 15 Jun 2022 17:22:28 +0000",
+         "title" : "Juga di Prima meets Firouzja and Caruana"
+      },
+      {
+         "description" : "The 79th edition of Georgian Women's National Chess Championship took place from 6-15 June in the Georgian Chess Palace in Tbilisi. The event was played as a 10-player round robin tournament, gathering one Grandmaster, five International Masters, one Woman International Master, and two Woman FIDE Masters. GM Nino Batsiashvili won the event with impressive 8/9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-nino-batsiashvili-wins-79th-georgian-womens-chess-championship/",
+         "pubDate" : "Wed, 15 Jun 2022 17:03:52 +0000",
+         "title" : "GM Nino Batsiashvili wins 79th Georgian Women's Chess Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92236013.cms\" />Prime Minister Narendra Modi will launch the first-ever torch relay for the 44th Chess Olympiad, to be held near here in July-August, on June 19 in New Delhi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-narendra-modi-to-launch-torch-relay-for-chess-olympiad-on-june-19/articleshow/92236013.cms",
+         "pubDate" : "Wed, 15 Jun 2022 15:31:59 +0000",
+         "title" : "PM Modi to launch torch relay for Chess Olympiad on June 19"
+      },
+      {
          "description" : "The magnificent&#xA0;Palacio de Santo&#xF1;a, a centrally located historic building in Madrid, will become the venue of the most anticipated chess tournament of 2022. Built in 1730, this mansion boasts of distinguished carved granite baroque fa&#xE7;ade and is home to one of the most refined eclectic interiors in the Spanish capital. It is currently one of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -130,28 +170,12 @@ news_feed (
          "title" : "Easy play against the Budapest Gambit"
       },
       {
-         "description" : "Two days left before the start of the Candidates Chess Tournament 2022. While Ding Liren is on his way to Spain, Teimour Radjabov has arrived in the middle of the heat wave in Madrid, and Duda-Jan Krzysztof completes the final preparations for the most anticipated tournament in 2022. While waiting for the first round encounters []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/throwback-candidates-chess-1953-tweetoftheday/",
-         "pubDate" : "Wed, 15 Jun 2022 09:45:17 +0000",
-         "title" : "Throwback: Candidates Chess 1953 #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1811",
          "pubDate" : "Wed, 15 Jun 2022 09:22:45 +0000",
          "title" : "Latvia launches Chess in Prisons programme"
-      },
-      {
-         "description" : "The 1st Caplin Menchik Memorial takes place from Saturday 18th to Sunday 26th June 2022 at the MindSports Centre, London. It&#x2019;s a 10-player all-play-all, one game per day, with WIM &#38; WGM norm opportunities. The tournament is taking place thanks to the generous support of Caplin Systems, who also support the Hastings Congress. The tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-caplin-menchik-memorial/",
-         "pubDate" : "Wed, 15 Jun 2022 09:18:23 +0000",
-         "title" : "1st Caplin Menchik Memorial"
       },
       {
          "description" : "",
@@ -1882,14 +1906,6 @@ news_feed (
          "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91906351.cms\" />Indian chess ace Viswanathan Anand defeated world champion Magnus Carlsen in round seven of the blitz event of the Norway Chess on way to a fourth-place finish.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-magnus-carlsen-in-blitz-event-of-norway-chess-finishes-fourth/articleshow/91906351.cms",
-         "pubDate" : "Tue, 31 May 2022 04:33:00 +0000",
-         "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1962,14 +1978,6 @@ news_feed (
          "title" : "The 25% Discount stream winners!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91890092.cms\" />Awake till 2:40 am. Tossing and turning in bed post that. Sleeping at 4 am finally. Waking up at 7 again. Going to school. Writing an exam. This is not the routine of teens. But for the 16-year-old R Praggnandhaaa, the mind-work and legwork involved is the kind of life he loves living.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/exclusive-i-have-surprised-myself-says-indias-giant-slaying-chess-genius-praggnanandhaa/articleshow/91890092.cms",
-         "pubDate" : "Mon, 30 May 2022 10:23:31 +0000",
-         "title" : "Exclusive: 'I have surprised myself', says India's giant-slaying chess genius Praggnanandhaa"
-      },
-      {
          "description" : "The 10th edition of the Norway Chess kicks of today with the Blitz tournament. The event takes place from 30 May 10 June in Stavanger with participation of 10 world class players. The field is headlined by reigning World Chess Champion Magnus Carlsen and includes: Wesley So, Shakhriyar Mammedyarov, Anish Giri, Teimour Radjabov, Viswanathan Anand, Maxime Vachier-Lagrave,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/norway-chess-2022-kicks-off/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-and-anand-feature-in-surprising-norway-chess-line-up",
          "pubDate" : "Sun, 29 May 2022 19:26:42 +0000",
          "title" : "Carlsen and Anand feature in surprising Norway Chess line-up"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 81st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to talk about pawn majorities. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-81-pawn-majorities-5",
-         "pubDate" : "Sun, 29 May 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 81: Pawn Majorities (5)"
       },
       {
          "description" : " Cameron McGowan has continued his good start to the 2022 ACT Championship, winning both his games today to lead on 5/5. After beating top seed IM Rishi Sardana in a complicated game, he backed up to beat FM Michael Kethro in round 5. This puts him ahead of Sardana, IM Junta Ikeda, Fred Litchfield and CM Hui Li, who are all on 4 points. Kethro had a particularly tough day, playing 100 moves against Ikeda, the last 50 being a RvB ending (no pawns!), before starting his round 5 game on a short break. While McGowan leads the tournament, the destination of the championship title is less clear (as it is restricted to ACT residents). Ikeda has the easier start in the morning round, but is likely t",
@@ -2176,22 +2176,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/dodon-detained/",
          "pubDate" : "Wed, 25 May 2022 20:35:23 +0100",
          "title" : "Dodon detained"
-      },
-      {
-         "description" : " Hi dear readers, as the title suggests, this is another guest article. This time. I have the honor to publish an article written by Dror Allouche AKA Mr.OTG. Dror is a Nextlevelchess reader, chess fan &#38; blogger himself. You can check out his work here. He also has a weekly Newsletter which I enjoy reading. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/start-learning-chess/\">How To Start Learning Chess As An Adult: From 0 To 700 Rating</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/start-learning-chess/",
-         "pubDate" : "Wed, 25 May 2022 17:14:28 +0000",
-         "title" : "How To Start Learning Chess As An Adult: From 0 To 700 Rating"
-      },
-      {
-         "description" : " <p class=\"lead\">On May 30, the Indian superstar and FIDE Online Arena Ambassador Vidit Gujrathi will play and stream the <a href=\"https://chessarena.com/tournaments/18066\">2nd Open Arena Tournament</a> on Arena, and the winner will receive a pocket chess set signed by Vidit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-139.png\" width=\"1600\" height=\"800\" alt=\"\" /> </div> The <a href=\"https://chessarena.com/tournaments/17311?fbclid=IwAR27RvkM9QeJdUIMrF4PbYen2F1yU23CkOOcG3lTEq0agEL6rnmz5ibpf3Q\">first Open Arena Tournament</a> with GM Vidit Gujrathi attracted 1520 players from 90 countries. The Indian GM not only played but made sure to entertnain his audie",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/vidits-open-arena-2/",
-         "pubDate" : "Wed, 25 May 2022 16:07:12 +0000",
-         "title" : "Join Vidit's 2nd Open Arena Tournament"
       }
    ]
 }
