@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "in the end, rating favourite Liviu Dieter Nisipeanu (pictured, on the left) won the Targu Mures Open, a tournament that is part of the Romanian Grand Prix, a series of strong open events in Romania. In round 1 Nisipeanu lost against WGM Mihaela Sandu but he recovered and finished sole first with 7.0/9, ahead of the 13-year old Ukrainian IM Ihor Samunenkov who was sole second with 6.5/9. Irina Bulmaga (pictured, on the right) won the women's prize and sent a report. | Photos: CS Juvenes | Facebook",
+         "description" : "The Opening Press Conference of the FIDE Candidates Tournament 2022 took place today in the venue of the event with presence of Deputy Minister of Sports for the regional government at Comunidad de Madrid Alberto Tome Gonzalez, FIDE Managing Director Dana Reizniece-Ozola and&#xA0;GM Fabiano Caruana. All the eyes were on Fabiano Caruana who answered journalists' []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caruana-firouzjas-world-no-2-position-was-a-little-bit-of-momentum/",
+         "pubDate" : "Wed, 15 Jun 2022 23:29:03 +0000",
+         "title" : "Caruana: Firouzja's World No 2 position was a little bit of momentum"
+      },
+      {
+         "description" : " In two days, the 2022 Candidates tournament will begin with a very interesting field of new faces and some returnees from the 2020 edition. Ian Nepomniachtchi won the tournament and went on to face defending champion Magnus Carlsen for the crown. The champion got a crushing 7&frac12;-3&frac12; win, a total disaster for the Russian player. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/15/2022-candidates-tournament-is-here/\">2022 Candidates Tournament is here!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/15/2022-candidates-tournament-is-here/",
+         "pubDate" : "Wed, 15 Jun 2022 23:10:46 +0000",
+         "title" : "2022 Candidates Tournament is here!"
+      },
+      {
+         "description" : "German grandmaster Alexander Donchenko scored incredible 7/7 points playing the first table for Vandoeuvre-Echecs team at the French Top 16 Team Championship. The team finished in 4th place after the pool stage of the event, but attracted lots of attention thanks to the Board 1 team's leader. Donchenko won seven games playing against five grandmasters []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-alexander-donchenko-scores-outstanding-7-7-at-french-top-16/",
+         "pubDate" : "Wed, 15 Jun 2022 22:21:28 +0000",
+         "title" : "GM Alexander Donchenko scores outstanding 7/7 at French Top 16"
+      },
+      {
+         "description" : "Young chess players dominated the 13th edition of the Karen Asrian Memorial which took place from 6th-16th June in Yerevan. 20-year-old Armenian grandmaster Shant Sargsyan won the event, scoring unbeaten 7.5/9 points for the sole first place. Two other youngsters, 20-year-old IM Artur Davtyan and 21-year-old GM Amin Tabatabaei tied for silver with 7/9 points, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-shant-sargsyan-is-the-winner-of-13th-karen-asrian-memorial/",
+         "pubDate" : "Wed, 15 Jun 2022 21:51:55 +0000",
+         "title" : "GM Shant Sargsyan is the Winner of 13th Karen Asrian Memorial"
+      },
+      {
+         "description" : "The 34th edition of the International Chess Tournament &#8220;Open Pula 2022&#8221; will take place from 18-26 June at Park Plaza Histria Hotel in Pula, Croatia. Almost 200 players from 28 countries registered for the event which will be played in 9 rounds, swiss system, featuring the prize fund of 6.250 euros with 1.000 euros reserved []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/34th-international-open-tournament-pula-2022/",
+         "pubDate" : "Wed, 15 Jun 2022 21:31:56 +0000",
+         "title" : "34th International Open Tournament Pula 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1813",
+         "pubDate" : "Wed, 15 Jun 2022 21:30:19 +0000",
+         "title" : "FIDE announces the beginning of the 2022 Candidates Tournament"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1812",
+         "pubDate" : "Wed, 15 Jun 2022 20:16:09 +0000",
+         "title" : "Georgian Women's Championship: Nino Batsiashvili wins fourth title"
+      },
+      {
+         "description" : "Rating favourite Liviu Dieter Nisipeanu (pictured, on the left) won the Targu Mures Open, a tournament that is part of the Romanian Grand Prix, a series of strong open events in Romania. In round 1 Nisipeanu lost against WGM Mihaela Sandu but he recovered and finished sole first with 7.0/9, ahead of the 13-year old Ukrainian IM Ihor Samunenkov who was sole second with 6.5/9. Irina Bulmaga (pictured, on the right) won the women's prize and sent a report. | Photos: CS Juvenes | Facebook",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/targu-meres-nisipeanu-wins-ahead-of-13-year-old-ukrainian-im",
          "pubDate" : "Wed, 15 Jun 2022 21:00:00 +0100",
-         "title" : "Targu Meres: Nisipeanu wins ahead of 13-year old Ukrainian IM"
+         "title" : "Targu Mures: Nisipeanu wins ahead of 13-year old Ukrainian IM"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92237710.cms\" />Grandmaster Dronavalli Harika, one of the senior members of the Indian women's team for the upcoming Olympiad, is ready to embrace a new chapter in her life. The 31-year-old is pregnant with her first child. However, the World No. 10 is making sure that she not only manages her health but also gives ample time to training for the big-ticket event from her home in Hyderabad.",
@@ -122,44 +178,12 @@ news_feed (
          "title" : "FIDE and ChessKid GIRLS ONLY tournament"
       },
       {
-         "description" : "The most anticipated chess tournament of 2022 FIDE Candidates Chess kicks off in two days with the 1st round following encounters:&#160;Duda &#x2013; Rapport,&#160;Ding Liren &#x2013; Nepomniachtchi,&#160;Caruana &#x2013; Nakamura,&#160;Radjabov &#x2013; Firouzja.&#160;Alireza Firouzja checked where he'll meet with Radjabov in two days, and made a little inspection of the 2022 Candidates Chess venue, Palacio de Santo&#xF1;a. Fabiano []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/firouzja-alireza-inspects-the-2022-candidates-chess-venue/",
-         "pubDate" : "Wed, 15 Jun 2022 12:44:22 +0000",
-         "title" : "Alireza Firouzja inspects the 2022 Candidates Chess venue"
-      },
-      {
-         "description" : "FIDE Candidates Chess 2022 opens tomorrow in Madrid and the Round 1 kicks off in two days with the following encounters: Duda &#x2013; Rapport, Ding Liren &#x2013; Nepomniachtchi, Caruana &#x2013; Nakamura, Radjabov &#x2013; Firouzja. Deputy Minister of Sports for the regional government at Comunidad de Madrid Alberto Tome Gonzalez, FIDE Managing Director Dana Reizniece-Ozola and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-press-conference/",
-         "pubDate" : "Wed, 15 Jun 2022 12:30:29 +0000",
-         "title" : "FIDE Candidates Chess 2022 - Press Conference"
-      },
-      {
-         "description" : "The Chessable company, part of the Play Magnus Group, last month started filming the street chess games played by some of the world&#x2019;s top players.&#160;Anish Giri&#160;was first who joined the action and played chess against fans with Levon Aronian going for the same action some weeks after. Giri today published a video where he analyzes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-analyzes-his-game-against-chess-hustler-in-barcelona-video/",
-         "pubDate" : "Wed, 15 Jun 2022 12:10:19 +0000",
-         "title" : "Anish Giri analyzes his game against Chess Hustler in Barcelona (VIDEO)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/kristin-marie-ganz-runs-norwegian/",
          "pubDate" : "Wed, 15 Jun 2022 12:19:37 +0100",
          "title" : "Kristine Marie Ganz runs Norwegian federations"
-      },
-      {
-         "description" : "The French Individual Chess Championships 2022&#xA0;will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the 95th edition of the French Individual Chess Championship after three years of pause caused by the pandemic of Covid19. The Men's Individual Chess Championship features a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-individual-chess-championships-participants-lists/",
-         "pubDate" : "Wed, 15 Jun 2022 11:10:19 +0000",
-         "title" : "French Individual Chess Championships - Participants lists"
       },
       {
          "description" : "The Budapest Gambit (1.d4 Nf6 2.c4 e5 3.dxe5 Ng4) has its most loyal followers in club chess. 1.d4 players who are confronted with the gambit have to reckon with the fact that their opponents are far more familiar with the positions, if only because of the number of games they have played with that system. In the current ChessBase Magazine Extra 207 Ivan Sokolov shows a little-known but very convenient way for White to gain a nice advantage without extensive study of opening theory. You can watch an excerpt from his video analysis here!",
@@ -2168,14 +2192,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/",
          "pubDate" : "Thu, 26 May 2022 00:10:37 +0000",
          "title" : "Unbeatable!: The Art of Defense"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/dodon-detained/",
-         "pubDate" : "Wed, 25 May 2022 20:35:23 +0100",
-         "title" : "Dodon detained"
       }
    ]
 }
