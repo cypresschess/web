@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. 2022.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby relives one of his games from the 2022 Premier &amp; Amateur, a popular annual event in Saint Louis. See how Caleb won the Premier (open) section. 2022.06.14<br /> Prateek Nemmali vs. Caleb Denby, 2022: B13 Caro-Kann, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/omg-i-won-premier-amateur-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/omg-i-won-premier-amateur-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 15 Jun 2022 02:17:53 +0000",
+         "title" : "OMG! I Won the Premier & Amateur! | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "Chessbase is one of the top websites that will follow in detail the Candidates Tournament 2022. &#8220;The FIDE Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters will compete for a top spot in this double round-robin (all play all) event in Madrid, Spain, from 16 June to 5 July []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessbase-candidates-tournament-2022-preview/",
+         "pubDate" : "Tue, 14 Jun 2022 23:45:00 +0000",
+         "title" : "Chessbase Candidates Tournament 2022 preview"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/30th-heart-of-finland-chess-open/",
          "pubDate" : "Tue, 14 Jun 2022 13:32:48 +0000",
          "title" : "30th Heart of Finland Chess Open"
-      },
-      {
-         "description" : "Peter Heine Nielsen, the Deputy FIDE President candidate of Andrii Baryshpolets, criticizes the sponsor of the FIDE Candidates Tournament 2020/2021 and FIDE Online Olympiad. &#8220;The sponsor of the 2020/2021 Candidates tournament, the FIDE Online Olympiad, sponsor of 2 Russian World Championship challengers, sponsor of the Russian Chess Federation and honorary guest at numerous FIDE events []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-heine-nielsen-on-the-fide-candidates-tournament-sponsors/",
-         "pubDate" : "Tue, 14 Jun 2022 12:35:36 +0000",
-         "title" : "Peter Heine Nielsen on the FIDE Candidates Tournament sponsors"
       },
       {
          "description" : "Almost eight years ago, in 2014, it was with deep chagrin that we announced the demise of the decades-old chess column in the venerable New York Times. Its most recent upkeeper at the time was the New York Times journalist, Dylan Loeb McClain, who still writes about chess affairs for the paper. It is with pleasure that we can trumpet its resurrection at the hands of GM Daniel Naroditsky.",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2022-r5",
          "pubDate" : "Mon, 06 Jun 2022 08:00:00 +0100",
          "title" : "Norway Chess: Anand takes down Carlsen in Armageddon"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-4",
-         "pubDate" : "Sun, 05 Jun 2022 23:08:53 +0000",
-         "title" : "2022 Summer Chess Classic: Round 4"
       },
       {
          "description" : " Janell Warner posted pictures on social media about her graduation from Brandeis University and stated, &#8220;so happy to be surrounded by so much love and support.&#8221; Certainly, family and friends were on hand to celebrate the event, but the chess community can also celebrate. This is yet another example of how chess continues to help The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/05/aspiring-chess-master-janell-warner-ready-to-shine/\">Aspiring chess master Janell Warner ready to shine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
