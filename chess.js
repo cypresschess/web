@@ -2,6 +2,118 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The magnificent&#xA0;Palacio de Santo&#xF1;a, a centrally located historic building in Madrid, will become the venue of the most anticipated chess tournament of 2022. Built in 1730, this mansion boasts of distinguished carved granite baroque fa&#xE7;ade and is home to one of the most refined eclectic interiors in the Spanish capital. It is currently one of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-playing-venue-video/",
+         "pubDate" : "Wed, 15 Jun 2022 15:26:44 +0000",
+         "title" : "FIDE Candidates Chess 2022 - Playing venue (VIDEO)"
+      },
+      {
+         "description" : "The Prime Minister of India Shri Narendra Modi will launch the first-ever Chess Olympiad Torch Relay, announced All India Chess Federation today. The ceremony will take place on the 19th of June at Indira Gandhi Stadium in New Delhi. With less than 50 days to go, the Olympiad in Chennai broke participants' records with&#xA0;187 countries []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prime-minister-of-india-to-launch-first-ever-chess-olympiad-torch-relay/",
+         "pubDate" : "Wed, 15 Jun 2022 15:16:39 +0000",
+         "title" : "Prime Minister of India to launch first-ever Chess Olympiad Torch Relay"
+      },
+      {
+         "description" : " Richard Rapport revealed one of his second for the 2022 Tournament in a <a href=\"https://twitter.com/rjrapport/status/1537052990149885955?t=JuDpoYYaugZ3C3dA5SJPhw&s=19\">tweet</a>: It's Ljubomir Ljubojevi&#263, elite Serbian Grandmaster with a lot of experience. Ljubojević is from the generation of Karpov and other chess heroes from the 70s. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6303D549-C7F5-468E-9729-CB32F0404959.jpeg\" width=\"1280\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Rapport's Twitter</div> </div> Richard Rapport is all smiles on his way to Madrid, accompanied by Ljubojević. The Hungarian GM recently announced that he is switching f",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/richard-rapport-reveals-his-second-for-the-candidates/",
+         "pubDate" : "Wed, 15 Jun 2022 15:01:42 +0000",
+         "title" : "Richard Rapport Reveals His Second for the Candidates"
+      },
+      {
+         "description" : "Titled Tuesday on June 14 was won by American GM Jeffery Xiong in the early tournament and Ukrainian GM Vitaliy Bernadskiy in the late tournament. Both players won outright with scores of 9.5/11. Bernadskiy, seeded 51st in the late field, defeated...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-bernadskiy-win-titled-tuesday-june-14-2022",
+         "pubDate" : "Wed, 15 Jun 2022 07:52:43 -0700",
+         "title" : "Ukrainian Bernadskiy Scores Big Upset Following Xiong Win"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
+         "pubDate" : "Wed, 15 Jun 2022 14:55:00 +0100",
+         "title" : "Prague Chess Festival, Round 7: Live"
+      },
+      {
+         "description" : "In 2019, the Prague Chess Festival took place for the first time and currently, the 4th Prague Chess Festival is played - with two interesting grandmaster tournaments, the Masters and the Challengers, an Open, the Futures, a tournament for young players, and a number of side events. In an interview, Petr Boleslav, organiser and tournament director of the Prague Chess Festival, talks about the background of the tournament and reveals why he decided to become a chess organiser. | Photo: Petr Boleslav at the opening of the Chess Festival | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/i-like-chess-and-all-the-things-connected-to-it-an-interview-with-petr-boleslav",
+         "pubDate" : "Wed, 15 Jun 2022 14:13:53 +0100",
+         "title" : "\"I like chess and all the things connected to it\": An interview with Petr Boleslav"
+      },
+      {
+         "description" : "Richard Rapport is now on his way to Madrid where he will participate in the FIDE Candidates Tournament 2022. He posted the traveling photo with famous Serbian grandmaster Ljubomir Ljubojevic, who successfully competed against World Champions Garry Kasparov,&#xA0;Anatoly Karpov, and&#xA0;Viswanathan Anand, but never succeeded in reaching the&#xA0;Candidates Tournament&#xA0;stage of the World Championship cycle. Fabiano Caruana, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-is-off-to-madrid-for-candidates-chess-2022/",
+         "pubDate" : "Wed, 15 Jun 2022 13:09:35 +0000",
+         "title" : "Richard Rapport is off to Madrid for Candidates Chess 2022"
+      },
+      {
+         "description" : "Magnus Carlsen seconds Jan Gustafsson, Laurent Fressinet and Peter Heine Nielsen made their FIDE Candidates Tournament predictions in a one-and-a-half-hour podcast earlier this week. They assessed Ding Liren, Fabiano Caruana, Alireza Firouzja and co. on current form, motivation, chances to win and openings, and also looked at the big questions: which winner would Magnus agree to play in a match, and who's the biggest chicken?",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-chicken-chess-club-verdict-on-the-candidates",
+         "pubDate" : "Wed, 15 Jun 2022 12:59:46 +0000",
+         "title" : "The Chicken Chess Club verdict on the Candidates"
+      },
+      {
+         "description" : " Congratulations to Brian Jones, who has been appointed as a Member of the Order of Australia. The rather brief citation was for \"For significant service to chess at the elite level.\", although those that know Brian recognise that his achievements were far more significant than that. Fortunately the expanded details can be <a href=\"https://honours.pmc.gov.au/honours/awards/2011555\">found here</a>, which list the many roles he has filled in Australian and international chess. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/brian-jones-am.html",
+         "pubDate" : "Wed, 15 Jun 2022 12:57:00 +0000",
+         "title" : "Brian Jones AM"
+      },
+      {
+         "description" : "FIDE announced the first-ever FIDE and ChessKid Unrated Girls Only Tournament, which will take place on July 10, 2022, as a part of the FIDE Queens' Festival. This free-to-attend event will consist of Eastern Edition and Western Edition. Both editions will be played in two different age groups &#x2013; Ages 9 and under and Ages []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-and-chesskid-girls-only-tournament/",
+         "pubDate" : "Wed, 15 Jun 2022 12:51:01 +0000",
+         "title" : "FIDE and ChessKid GIRLS ONLY tournament"
+      },
+      {
+         "description" : "The most anticipated chess tournament of 2022 FIDE Candidates Chess kicks off in two days with the 1st round following encounters:&#160;Duda &#x2013; Rapport,&#160;Ding Liren &#x2013; Nepomniachtchi,&#160;Caruana &#x2013; Nakamura,&#160;Radjabov &#x2013; Firouzja.&#160;Alireza Firouzja checked where he'll meet with Radjabov in two days, and made a little inspection of the 2022 Candidates Chess venue, Palacio de Santo&#xF1;a. Fabiano []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/firouzja-alireza-inspects-the-2022-candidates-chess-venue/",
+         "pubDate" : "Wed, 15 Jun 2022 12:44:22 +0000",
+         "title" : "Alireza Firouzja inspects the 2022 Candidates Chess venue"
+      },
+      {
+         "description" : "FIDE Candidates Chess 2022 opens tomorrow in Madrid and the Round 1 kicks off in two days with the following encounters: Duda &#x2013; Rapport, Ding Liren &#x2013; Nepomniachtchi, Caruana &#x2013; Nakamura, Radjabov &#x2013; Firouzja. Deputy Minister of Sports for the regional government at Comunidad de Madrid Alberto Tome Gonzalez, FIDE Managing Director Dana Reizniece-Ozola and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-press-conference/",
+         "pubDate" : "Wed, 15 Jun 2022 12:30:29 +0000",
+         "title" : "FIDE Candidates Chess 2022 - Press Conference"
+      },
+      {
+         "description" : "The Chessable company, part of the Play Magnus Group, last month started filming the street chess games played by some of the world&#x2019;s top players.&#160;Anish Giri&#160;was first who joined the action and played chess against fans with Levon Aronian going for the same action some weeks after. Giri today published a video where he analyzes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-analyzes-his-game-against-chess-hustler-in-barcelona-video/",
+         "pubDate" : "Wed, 15 Jun 2022 12:10:19 +0000",
+         "title" : "Anish Giri analyzes his game against Chess Hustler in Barcelona (VIDEO)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/kristin-marie-ganz-runs-norwegian/",
+         "pubDate" : "Wed, 15 Jun 2022 12:19:37 +0100",
+         "title" : "Kristine Marie Ganz runs Norwegian federations"
+      },
+      {
          "description" : "The French Individual Chess Championships 2022&#xA0;will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the 95th edition of the French Individual Chess Championship after three years of pause caused by the pandemic of Covid19. The Men's Individual Chess Championship features a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -58,28 +170,12 @@ news_feed (
          "title" : "Endgames & Middlegame Exercises | Grandmaster's Choice - GM Yuniesky Quesada"
       },
       {
-         "description" : "The chess world continues to enjoy a domination by young players in the rating list. Today's hype deservedly goes to the Uzbek Grandmaster Nodirbek Abdusattorov. With a solid performance in Sarjah Masters (replay games&#xA0;/&#xA0;all the information&#xA0;/&#xA0;final standings) and currently playing in Prague (follow the live games here) Nodirbek Abdusattorov has added 27,9 ELO points to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-is-now-the-second-strongest-junior-in-the-world/",
-         "pubDate" : "Wed, 15 Jun 2022 06:16:17 +0000",
-         "title" : "Nodirbek Abdusattorov is now the second strongest junior in the world"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby relives one of his games from the 2022 Premier &amp; Amateur, a popular annual event in Saint Louis. See how Caleb won the Premier (open) section. 2022.06.14<br /> Prateek Nemmali vs. Caleb Denby, 2022: B13 Caro-Kann, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/omg-i-won-premier-amateur-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/omg-i-won-premier-amateur-road-2000-nm-caleb-denby",
          "pubDate" : "Wed, 15 Jun 2022 02:17:53 +0000",
          "title" : "OMG! I Won the Premier & Amateur! | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "Chessbase is one of the top websites that will follow in detail the Candidates Tournament 2022. &#8220;The FIDE Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters will compete for a top spot in this double round-robin (all play all) event in Madrid, Spain, from 16 June to 5 July []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessbase-candidates-tournament-2022-preview/",
-         "pubDate" : "Tue, 14 Jun 2022 23:45:00 +0000",
-         "title" : "Chessbase Candidates Tournament 2022 preview"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
@@ -96,46 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2022-r6",
          "pubDate" : "Tue, 14 Jun 2022 23:45:00 +0100",
          "title" : "Prague: Le beats Salem to grab the sole lead"
-      },
-      {
-         "description" : "The Charlotte Chess Center holds its 5th annual Elite Chess Camp from 13-17 June, featuring 4 world renowned trainers and many of the nation&#x2019;s top junior players.&#xA0;The camp provides 30+ hours of the highest level lectures with GM Veselin Topalov, GM Daniel Naroditsky, GM Jacob Aagaard and GM Peter Heine Nielsen. The camp features three []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/5th-charlotte-elite-camp-with-topalov-naroditsky-aagaard-and-nielsen/",
-         "pubDate" : "Tue, 14 Jun 2022 22:06:06 +0000",
-         "title" : "5th Charlotte Elite Camp with Topalov, Naroditsky, Aagaard and Nielsen"
-      },
-      {
-         "description" : "The FIDE Candidates Tournament 2022 is starting in just a few days. Jan-Krzysztof Duda has shared his secret Candidates training and it looks like he is ready for a fight! Jan-Krzysztof Duda starts in round 1 against Richard Rapport and you can follow Duda Rapport R1 Candidates 2022 here More on the Candidates:&#xA0;Candidates Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-shares-his-secret-fide-candidates-tournament-2022-training-tweetoftheday/",
-         "pubDate" : "Tue, 14 Jun 2022 21:44:05 +0000",
-         "title" : "Jan-Krzysztof Duda shares his secret FIDE Candidates Tournament 2022 training #TweetOftheDay"
-      },
-      {
-         "description" : "The 15th edition of the Paleochora International Chess Tournament takes place from 17-24 July in Paleochora, a city of the southwest Cretan coast. Paleochora School &#38; Cultural Center of Paleochora will host the event which already has 200 entries from 26 countries, including 19 grandmasters and 15 international masters. Throwback: Paleochora Open 2017 / GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/15th-paleochora-international-chess-tournament/",
-         "pubDate" : "Tue, 14 Jun 2022 21:31:18 +0000",
-         "title" : "15th Paleochora International Chess Tournament"
-      },
-      {
-         "description" : "Teimour Radjabov is already in Madrid, where he will compete in the upcoming FIDE Candidates Tournament 2022. In a short tweet, Radjabov informed his loyal fans of his arrival. The early arrival is definitely a good move by Radjabov. Now it is time for him to accommodate to the heat wave that has hit the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/teimour-radjabov-arrives-in-madrid-for-the-fide-candidates-tournament-2022/",
-         "pubDate" : "Tue, 14 Jun 2022 21:21:54 +0000",
-         "title" : "Teimour Radjabov arrives in Madrid for the FIDE Candidates Tournament 2022"
-      },
-      {
-         "description" : "The Rigo Janos Memorial Chess Open 2022 was held from 26 May 3 June in Balatonlelle a resort town located on the southern shore of Hungary's Balaton Lake. The event commemorated Rigo Janos, International chess master, Arbiter, and Organizer. The event was played in 9 rounds, swiss system, with GM Adam Horvath winning the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/adam-horvath-is-the-winner-of-rigo-janos-memorial-2022/",
-         "pubDate" : "Tue, 14 Jun 2022 21:00:51 +0000",
-         "title" : "Adam Horvath is the Winner of Rigo Janos Memorial 2022"
       },
       {
          "description" : "",
@@ -890,12 +946,12 @@ news_feed (
          "title" : "Master Chess Web Show (17)"
       },
       {
-         "description" : "Vera Menchik (1906-44) was the first Women's World Chess Champion, as well as the longest reigning champion, gaining the title at aged 21 and defending...",
+         "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at the age of 21...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/1st-caplin-menchik-memorial/",
+         "link" : "https://www.englishchess.org.uk/caplin-menchik-memorial/",
          "pubDate" : "Wed, 08 Jun 2022 12:37:26 +0000",
-         "title" : "1st Caplin Menchik Memorial"
+         "title" : "Caplin Menchik Memorial"
       },
       {
          "description" : " The Prague International Chess Festival takes place 8th to 17th June 2022. The Masters is a Category 18 tournament with Vidit, Shankland, Maghsoodloo, Le Quang Liem, Vallejo, Harikrishna, David Anton, Navara, Salem Saleh and Nguyen Thai Dai Van. Vincent Keymer is the top seed in the Challengers tournament, there are also various other tournaments including a Futures and an Open.",
@@ -959,7 +1015,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-im-not-a-gm-assaubayeva-rensch",
          "pubDate" : "Wed, 08 Jun 2022 00:32:00 -0700",
-         "title" : "IMSCC: 'Local CrossFit Dad Beats Youngest World Blitz Champ'"
+         "title" : "'Local CrossFit Dad Beats Youngest World Blitz Champ'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92073497.cms\" />Indian maestro Viswanathan Anand defeated Azerbaijan's Teimour Radjabov in the Armageddon in the seventh round of the Norway Chess tournament to remain in the second spot behind world number one Magnus Carlsen.",
@@ -1626,14 +1682,6 @@ news_feed (
          "title" : "Anand, Wesley So Take Lead: 2022 Norway Chess, Day 1"
       },
       {
-         "description" : "GM Hikaru Nakamura won his second straight late Titled Tuesday event after GM Hans Niemann claimed the early tournament on May 31. Niemann was also a Titled Tuesday victor back on February 15. This week, one player also placed top five in both e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-nakamura-win-titled-tuesday-may-31-2022",
-         "pubDate" : "Wed, 01 Jun 2022 08:41:23 -0700",
-         "title" : "Nakamura, Niemann Nab Titled Tuesday Triumphs"
-      },
-      {
          "description" : "Wesley So and Vishy Anand grabbed an early lead at the Norway Chess super-tournament in Stavanger. So beat Teimour Radjabov, while Anand got the better of Maxime Vachier-Lagrave. Magnus Carlsen, Anish Giri and Shakhriyar Mamedyarov drew their classical encounters and went on to win the Armageddon. All five decisive games seen on Tuesday favoured the player with the white pieces. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1978,14 +2026,6 @@ news_feed (
          "title" : "Lost Empires"
       },
       {
-         "description" : "Machgielis \"Max\" Euwe is one of the most esteemed figures in chess history. A teacher and a professed chess amateur, he did the unthinkable when he became world champion in 1935, defeating an all-time great in Alexander Alekhine. On top of that, he was a perennial top player from the late 1920s to the 1950s, an outstanding writer, and F&eacute;d&eacute;ration Internationale des Échecs (FIDE) President in the latter part of his life. On the recent occasion of Euwe's 121st birth anniversary, Eugene Manlapao explores the life and times of chess' 5th world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-max-euwe-121-birth-anniversary",
-         "pubDate" : "Sun, 29 May 2022 10:00:00 +0100",
-         "title" : "Remembering Machgielis \"Max\" Euwe on his 121st birth anniversary"
-      },
-      {
          "description" : " You reach an ending with king and pawn against king and pawn. Both players promote: king and queen against king and queen. Time to agree a draw, shake hands and adjourn to the bar? Not always. There are one or two positions where you can win: it's well worth knowing them just in case one <a href=\"https://chessimprover.com/queen-against-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen Against Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-against-queen/\">Queen Against Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2002,14 +2042,6 @@ news_feed (
          "title" : "Book Recap #26- Discussing Alexei Shirov's Fire on Board with Mitchell Fabian "
       },
       {
-         "description" : "DZ-BANK and the chess club of the Cultural and Sports Association of the Deutsche Bundesbank organized a charity simultaneous exhibition with the Ukrainian national champion WIM Kateryna Dolzhykova at the premises of the bank in Frankfurt.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kateryna-dolzhykova-simul-for-charity",
-         "pubDate" : "Sun, 29 May 2022 03:00:00 +0100",
-         "title" : "Kateryna Dolzhykova gives a simul for charity in Frankfurt"
-      },
-      {
          "description" : " International Master Eugenio Campos is a long-time Olympian from Angola. Recently, he represented the country at the IPCA (International Physically Disabled Chess Association) tournament in Ashdod, Israel and placed a respectable 5/9. It is a tournament that he has participated in for the past decade. He has also represented his country in four Olympiad tournaments The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/\">IM Eugenio Campos at IPCA</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2024,14 +2056,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-2-and-3.html",
          "pubDate" : "Sat, 28 May 2022 14:35:00 +0000",
          "title" : "2022 ACT Championship - Rounds 2 and 3"
-      },
-      {
-         "description" : "‌In a new episode of chess24's Chess Talk with Jovanka, Azerbaijan star Shakhriyar Mamedyarov shares an inspirational story about his career, how he learned chess, growing up in a chess family and what made him break into the world's elite.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mamedyarov-i-was-not-a-big-talent",
-         "pubDate" : "Sat, 28 May 2022 11:17:50 +0000",
-         "title" : "Mamedyarov: I was not a big talent"
       },
       {
          "description" : "This past week, Praggnanandhaa had been studying for (and appearing in) his 11th standard exams in the mornings and then beating some of the best players in the world in the evenings. Including the best: Magnus Carlsen.",
