@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The magnificent&#xA0;Palacio de Santo&#xF1;a hosts the Opening ceremony of the FIDE Candidates Chess Tournament 2022 in Madrid. The ceremony features speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premieres her new song &#x201C;Open Files&#x201D;. FIDE presented the official promo video for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-opening-ceremony/",
+         "pubDate" : "Thu, 16 Jun 2022 17:34:06 +0000",
+         "title" : "FIDE Candidates Chess 2022 - Opening ceremony (LIVE)"
+      },
+      {
+         "description" : "This week Robert Ris looks at a game between the two young Indian Grandmasters Aravindh and Erigaisi, which was played at the MPL Indian Chess Tour and is a good example of Aravindh's attacking skills. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-theoretical-duels-and-a-fine-attack",
+         "pubDate" : "Thu, 16 Jun 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Theoretical duels and a fine attack"
+      },
+      {
+         "description" : "The FIDE Candidates Chess Tournament 2022 starts tomorrow in Madrid and everyone is wondering who has the most chances to win it. ln the interview for Chesscom India, 15th World Chess Champion Viswanathan Anand commented on the Candidates line-up saying it's impossible to predict the Winner now: &#8220;Obviously these are the best chess players on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vishy-anand-shares-his-thoughts-on-who-will-win-the-candidates/",
+         "pubDate" : "Thu, 16 Jun 2022 16:59:47 +0000",
+         "title" : "Vishy Anand shares his thoughts on who will win the Candidates"
+      },
+      {
+         "description" : "The 2022 FIDE Candidates Tournament will be broadcast by CCTV-5, the Chinese Sports channel. CCTV-5 is part of the China Central Television family of networks, and it is the main sports broadcaster in the People's Republic of China. &#8220;We just got confirmation that the video feed from Palacio Santo&#xF1;a is reaching China&#8221; reported FIDE. Read []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-will-be-live-on-chinese-sports-channel/",
+         "pubDate" : "Thu, 16 Jun 2022 16:29:02 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 will be live on Chinese Sports Channel"
+      },
+      {
+         "description" : "The Technical meeting of the FIDE Candidates Chess Tournament 2022 took place today in the official venue of the event Palacio de Santo&#xF1;a. Chief Arbiter Anastasia Sorokina, Fair Play Officer Vincent Geeraets, Medical Officer Maria Rubio Yuste, and Technical Tournament Director and FIDE Managing Director Dana Reizniece-Ozola discussed the health protocol, Fair Play policy, anti-cheating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-technical-meeting/",
+         "pubDate" : "Thu, 16 Jun 2022 16:24:57 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - Technical meeting"
+      },
+      {
+         "description" : " This week's show was an interview with our old friend, IM Vaidyanathan Ravikumar. Ravi was one of the early globetrotting Indian chess professionals and has spent a lot of time in the UK. He tells us more about the early days of the Indian chess explosion and gives us some insights into the upcoming Chennai <a href=\"https://chessimprover.com/master-chess-web-show-18/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (18)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-18/\">Master Chess Web Show (18)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-18/",
+         "pubDate" : "Thu, 16 Jun 2022 16:23:32 +0000",
+         "title" : "Master Chess Web Show (18)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/the-party-is-over/",
+         "pubDate" : "Thu, 16 Jun 2022 16:51:47 +0100",
+         "title" : "The party is over"
+      },
+      {
          "description" : "Diego Rasskin Gutman @drasskin provides us with useful tips on where to go while staying in Madrid for the FIDE Candidates Chess Tournament 2022. Only chess nut locals know about the hidden place in El Retiro Madrid's park where you can play chess in the shade of amazing pine trees. Candidates Chess Round 1, June []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,14 +138,6 @@ news_feed (
          "title" : "\"Madrid is already breathing chess\" #TweetOftheDay"
       },
       {
-         "description" : "The 2022 European Corporate Chess Championship takes place over the weekend 18-19 June in Rotterdam, Netherlands. The tournament is played on&#160;a luxury cruise ship of Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour. 17 teams will participate in the event which will be played in 9 rounds, Swiss system, with time control: 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-corporate-chess-championship-2022-starts-in-rotterdam/",
-         "pubDate" : "Thu, 16 Jun 2022 09:52:29 +0000",
-         "title" : "European Corporate Chess Championship 2022 starts in Rotterdam"
-      },
-      {
          "description" : " The <a href=\"https://www.youtube.com/watch?v=F09FNTmepPk&ab_channel=FIDEchess\">Opening press conference</a> was held this morning at the monumental Palacio de Santona in Madrid. The only player participating in the Candidates to take part in the opening press conference was Fabiano Caruana, for whom this will be the fourth time to play in this event. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/1-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/N_R02050.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/N_R05438",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -104,22 +152,6 @@ news_feed (
          "link" : "https://aicf.in/olympiad-torch-run-international-open-rapid-chess-tournament-2022-2/",
          "pubDate" : "Thu, 16 Jun 2022 09:29:37 +0000",
          "title" : "Olympiad Torch Run International Open Rapid Chess Tournament-2022"
-      },
-      {
-         "description" : "The FIDE Candidates Chess 2022 will take place in Madrid, June 16 July 7. It will be an 8 player double round robin with some of the world's top Grandmasters. The winner will qualify for the World Championship match later this year. The World Championship Match between the reigning World Champion and the Challenger, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-madrid/",
-         "pubDate" : "Thu, 16 Jun 2022 09:24:00 +0000",
-         "title" : "FIDE Candidates Chess 2022 Madrid"
-      },
-      {
-         "description" : "The tickets for the FIDE Candidates Chess Tournament 2022 are sold, and many fans were not able to fulfill their dream of visiting the tournament. Therefore it was decided to open the Fan Zone space at the ARGO Club (Asociacion Racional de Gastronomia y Ocia), offering an entire floor for chess fans who will be []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fan-zone-at-fide-candidates-chess-tournament-2022/",
-         "pubDate" : "Thu, 16 Jun 2022 09:19:09 +0000",
-         "title" : "Fan Zone at FIDE Candidates Chess Tournament 2022"
       },
       {
          "description" : "More than any other chess event, the FIDE Candidates Tournament, which starts on Friday in Madrid is a winner-takes-all tournament. Finishing first, and only first, means facing World Champion Magnus Carlsen in a match. GM Fabiano Caruana, who att...",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/",
          "pubDate" : "Thu, 16 Jun 2022 06:03:41 +0000",
          "title" : "European Corporate Chess Championship 2022 starts in Rotterdam"
-      },
-      {
-         "description" : "The Opening Press Conference of the FIDE Candidates Tournament 2022 took place today in the venue of the event with presence of Deputy Minister of Sports for the regional government at Comunidad de Madrid Alberto Tome Gonzalez, FIDE Managing Director Dana Reizniece-Ozola and&#xA0;GM Fabiano Caruana. All the eyes were on Fabiano Caruana who answered journalists' []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-firouzjas-world-no-2-position-was-a-little-bit-of-momentum/",
-         "pubDate" : "Wed, 15 Jun 2022 23:29:03 +0000",
-         "title" : "Caruana: Firouzja's World No 2 position was a little bit of momentum"
       },
       {
          "description" : " In two days, the 2022 Candidates tournament will begin with a very interesting field of new faces and some returnees from the 2020 edition. Ian Nepomniachtchi won the tournament and went on to face defending champion Magnus Carlsen for the crown. The champion got a crushing 7&frac12;-3&frac12; win, a total disaster for the Russian player. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/15/2022-candidates-tournament-is-here/\">2022 Candidates Tournament is here!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2010,14 +2034,6 @@ news_feed (
          "title" : "Endgame Magic #196 with Tykhon Cherniaiev: Endgame highlights from the Chessable Masters"
       },
       {
-         "description" : "Surprising news from Romania: As the Romanian Chess Federation announced, Richard Rapport and his wife Jovana will join the Romanian Chess Federation. Hungary thus loses its top player. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/richard-rapport-joins-romanian-chess-federation",
-         "pubDate" : "Mon, 30 May 2022 16:34:34 +0100",
-         "title" : "Richard Rapport joins Romanian Chess Federation"
-      },
-      {
          "description" : " The 2022 ACT Chess Championship ended in a tie for 1st place, between the top two seeds, IM Rishi Sardana and IM Junta Ikeda. Unusually, the two winners did not actually play each other, instead getting to 6 points by beating other players. The morning round saw previous leader Cameron McGowan lost to Fred Litchfield, which threw the tournament wide open. Going into the final round, there were 4 players on 5/6, with Sardana against Litchfield and Ikeda against McGowan. Sardana struck first, beating Litchfield after winning a piece in the middlegame, while Ikeda eventually triumphed after tactics went in his favour. Other results saw a 6 way tie for 3rd, involving most of the top seeds. The ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2138,14 +2154,6 @@ news_feed (
          "title" : "Rapport to represent Romania"
       },
       {
-         "description" : " Last week, we looked at reducing tension or pressure within a position. I was going to give you some positional examples this week, but realized that I needed to add two additional components to the mix, relative value and the trading of material. There's more to relative value than meets the eye, especially if you're <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-two/\">A Foundation for Beginners Sixty Two</a> appeared first on <a rel=\"nofollow\" href=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-two/",
-         "pubDate" : "Fri, 27 May 2022 15:08:34 +0000",
-         "title" : "A Foundation for Beginners Sixty Two"
-      },
-      {
          "description" : " The 2022 ACT Championship began this evening, with almost all games going to the ratings favourite. The only upset was a win by unrated Muhammad Yunus over veteran player Thomas Mautner. On the top boards, some players had to work a little harder to secure the point, but all eventually did so. Tomorrow mornings second round will see some closer contests on all boards. The top seeds are likely to face experienced Canberra club stalwarts, while the middle group of players on half a point will be looking to kick start their campaign with a win. The top 4 boards for this event are being broadcast live. You can find the link to the broadcast, as well as the tournament results and pairings at <a ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1792",
          "pubDate" : "Thu, 26 May 2022 18:50:28 +0000",
          "title" : "Casablanca Chess Week kicks off on May 30"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nielsen-joins-baryshpolets/",
-         "pubDate" : "Thu, 26 May 2022 16:52:02 +0100",
-         "title" : "Nielsen joins Baryshpolets"
       }
    ]
 }
