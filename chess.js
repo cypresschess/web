@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Chess Tournament 2022 decides the qualifier for the FIDE World Chess Championship Match and kicks off on Saturday, June 17th, with the first round. The 1st round is scheduled to start at 15:00 CET and brings the following encounters: Duda &#x2013; Rapport / Ding Liren &#x2013; Nepomniachtchi / Caruana &#x2013; Nakamura / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r1-preview/",
+         "pubDate" : "Thu, 16 Jun 2022 22:10:55 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R1 preview"
+      },
+      {
+         "description" : " Grandmaster Maurice Ashley was one of the esteemed honorees that also included championship boxer Mike Tyson, actress Bern Nadette Stanis (Thelma of &#8220;Good Times&#8221;) and legendary football player Otis Wilson (Chicago Bears). Christian Whitted posted on social media platforms an event honoring the sons and daughters of the Brownsville Brooklyn area. The event took place The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/16/maurice-ashley-honored-by-brownsville/\">Maurice Ashley honored by Brownsville!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/16/maurice-ashley-honored-by-brownsville/",
+         "pubDate" : "Thu, 16 Jun 2022 21:54:45 +0000",
+         "title" : "Maurice Ashley honored by Brownsville!"
+      },
+      {
+         "description" : "Not only that Hikaru Nakamura is in Madrid to compete in the FIDE Candidates Chess Tournament 2022, but he also prepared the live broadcast of the event with Team Hikaru and Benjamin Bok, Irina Krush, Fiona Steil-Antoni, Levy Rozman, Anna Rudolf, James Canty, Jennifer Shahade and Maria Emelianova, as well as other special guests on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/team-hikaru-will-do-massive-giveaways-during-the-candidates-stream/",
+         "pubDate" : "Thu, 16 Jun 2022 21:37:50 +0000",
+         "title" : "Team Hikaru will do massive Giveaways during the Candidates stream"
+      },
+      {
+         "description" : "FIDE Candidates Chess Tournament 2022 opened today in the magnificent&#xA0;venue of Palacio de Santo&#xF1;a in Madrid. During the opening ceremony, FIDE presented the Candidates Teaser (video below). The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists&#x2019; performances. The famous Chilean singer and songwriter Juga di Prima premiered her new []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-teaser/",
+         "pubDate" : "Thu, 16 Jun 2022 21:17:33 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - Teaser"
+      },
+      {
+         "description" : "World No 9, GM Anish Giri announced today that he will do daily recaps on the 2022 FIDE Candidates Tournament. Giri was one of the favorites to qualify for the Candidates, but didn't make it after the series of qualification events. He yesterday published the video analyzing the game he played against a chess hustler []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-will-do-daily-candidates-recap/",
+         "pubDate" : "Thu, 16 Jun 2022 21:11:46 +0000",
+         "title" : "Anish Giri will do daily Candidates recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into what makes the world chess champion Magnus Carlsen so damn good in his preparation. 2022.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6hhy7bsZPG8.jpg?itok=VKmwrhPh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg",
+         "pubDate" : "Thu, 16 Jun 2022 20:20:27 +0000",
+         "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "The first round of the 2022 Candidates Tournament begins at 6 a.m. Pacific/15:00 Central Europe. The eyes of the chess world are fixed on Madrid as the eight candidates are about to show what they have prepared for the most important tournament of...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
+         "pubDate" : "Thu, 16 Jun 2022 13:02:00 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 1"
+      },
+      {
          "description" : "The magnificent&#160;Palacio de Santo&#xF1;a hosts the Opening ceremony of the FIDE Candidates Chess Tournament 2022 in Madrid. The ceremony features speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premieres her new song &#x201C;Open Files&#x201D;. FIDE presented the official promo video for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,14 +138,6 @@ news_feed (
          "title" : "Prague Chess Festival, Round 8: Live"
       },
       {
-         "description" : "FIDE Candidates Chess Tournament 2022 is breaking interest records before it actually started. A massive interest is building up in the audience in what can be the most unpredictable Candidates of recent years. We feel the heat here at Chessdom as one day before the start of the event 186 and news articles and 56 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-is-breaking-interest-records-before-it-starts/",
-         "pubDate" : "Thu, 16 Jun 2022 13:33:57 +0000",
-         "title" : "FIDE Candidates 2022 is breaking interest records before it starts"
-      },
-      {
          "description" : "The French Defence is an opening with a marked strategic character, but it also offers rich tactical possibilities to both sides. This video course is aimed as a tactical guide for Black, featuring the most typical combinations for the French structures. The reader is also invited to find combinations delivered by White, in order to become aware of the possible dangers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,30 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-presidential-tickets-announced-2022",
          "pubDate" : "Thu, 16 Jun 2022 12:00:00 +0100",
          "title" : "FIDE Presidential ticket candidacies announced"
-      },
-      {
-         "description" : "Skolkovo foundation published news back in April 2021 that Ian Nepomniachtchi uses Zhores Supercomputer to prepare for FIDE Candidates Tournament and FIDE World Championship Match against Magnus Carlsen. Peter Heine Nielsen wrote about the case which could be problematic as FIDE President Arkady Dvorkovich heads the Skolkovo Foundation. &#8220;If any from the FIDE leadership is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-used-a-super-computer-to-prepare-for-candidates/",
-         "pubDate" : "Thu, 16 Jun 2022 10:45:25 +0000",
-         "title" : "Nepo used a super-computer to prepare for Candidates?!"
-      },
-      {
-         "description" : "The final preparations for the live broadcast of the most anticipated tournament of 2022 &#x2013;&#xA0;the FIDE Candidates Chess are being done in Madrid. FIDE posted the Backstage photo of the @chesscom team getting ready for the action (see below).&#xA0;The Opening Press Conference&#xA0;yesterday announced the start of the competition which will be&#xA0;officially opened tonight at 19:00 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/backstage-of-the-fide-candidates-chess-tournament-2022/",
-         "pubDate" : "Thu, 16 Jun 2022 10:37:00 +0000",
-         "title" : "Backstage of the FIDE Candidates Chess Tournament 2022"
-      },
-      {
-         "description" : "Everything is ready for the start of the most anticipated tournament of 2022 the FIDE Candidates Chess. The Opening Press Conference announced the start of the competition which will be officially opened tonight at 19:00 CET. &#8220;Madrid is already breathing chess&#8221; explained the Chief Marketing and Communications Officer of FIDE David Llada seeing chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/madrid-is-already-breathing-chess-tweetoftheday/",
-         "pubDate" : "Thu, 16 Jun 2022 10:14:17 +0000",
-         "title" : "\"Madrid is already breathing chess\" #TweetOftheDay"
       },
       {
          "description" : " The <a href=\"https://www.youtube.com/watch?v=F09FNTmepPk&ab_channel=FIDEchess\">Opening press conference</a> was held this morning at the monumental Palacio de Santona in Madrid. The only player participating in the Candidates to take part in the opening press conference was Fabiano Caruana, for whom this will be the fourth time to play in this event. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/1-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/N_R02050.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/N_R05438",
@@ -306,7 +330,7 @@ news_feed (
          "title" : "Nakamura left TSM, joins Misfits"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows a mix of practical rook endgames and middlegames from real historical games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Norway chess: Viswanathan Anand beats Teimour Radjabov"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-6",
-         "pubDate" : "Wed, 08 Jun 2022 02:10:47 +0000",
-         "title" : "2022 Summer Chess Classic: Round 6"
-      },
-      {
          "description" : " Togo is a country of some eight million with a growing chess-playing segment. With its Founder and President on hand to welcome the players and guests, the Togo Chess Federation also had Dr. Lieutenant-Colonel Lidi Bessi-Kama bless the event. FIDE Presidential candidate Noel Enyonam Fumey was also in the building and welcomed the participants to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/\">Togolese Chess on fire at Rapid/Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1760,14 +1776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-najdorf",
          "pubDate" : "Thu, 02 Jun 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A fascinating Najdorf"
-      },
-      {
-         "description" : "Dull or exciting? That was the question in round two of Norway Chess on Wednesday. When GM Veselin Topalov exceeded the time limit against GM Viswanathan Anand, the Indian became the sole victor in the classical games of the second round. GM Wes...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-2",
-         "pubDate" : "Thu, 02 Jun 2022 07:19:00 -0700",
-         "title" : "Anand Wins Again, Takes Sole Lead: Norway Chess, Day 2"
       },
       {
          "description" : "Anatoly Karpov and Tigran Petrosian are two Gemini world champions with outstanding positional and defensive skills. Alireza Firouzja and Hans Moke Niemann are also Gemini but will they be able to follow the path of Karpov and Petrosian and become world champion? Gemini are sometimes the fastest thinkers of all the signs of the zodiac, but they sometimes also have to deal with lapses of concentration. | Photo: Pixabay",
