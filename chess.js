@@ -482,7 +482,7 @@ news_feed (
          "title" : "Naroditsky becomes NYT chess columnist"
       },
       {
-         "description" : "GM Dmitry Andreikin won week 17 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He defeated GM Jeffery Xiong in the final blitz tiebreaker.&#38;nbsp; GMs&#38;nbsp;Levon Aronian and Olexandr Bortnyk made it to the semifinals. GMs Hikaru ...",
+         "description" : "GM Dmitry Andreikin won week 18 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He defeated GM Jeffery Xiong in the final blitz tiebreaker.&#38;nbsp; GMs&#38;nbsp;Levon Aronian and Olexandr Bortnyk made it to the semifinals. GMs Hikaru ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-andreikin-wins",
@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1790",
          "pubDate" : "Thu, 26 May 2022 10:45:59 +0000",
          "title" : "Peruvian Championship: Jorge Cori and Mitzy Caballero win titles"
-      },
-      {
-         "description" : " From the publishers' blurb: &#8220;GM Jan Werle is a professional chess trainer, coach and author. In 2008 he became EU Champion in Liverpool and reached his peak rating of 2607. Afterwards he finished his law studies, obtaining Master's degrees in Civil and Commercial Law, and embarked on a career as a lawyer. However his main <a href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Unbeatable!: The Art of Defense</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/\">Unbeatable!: The Art of Defense</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/05/26/unbeatable-the-art-of-defense/",
-         "pubDate" : "Thu, 26 May 2022 00:10:37 +0000",
-         "title" : "Unbeatable!: The Art of Defense"
       }
    ]
 }
