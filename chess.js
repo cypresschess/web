@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Le Quang Liem continues to lead the Masters tournament at the Prague Chess Festival, as wins for Saleh Salem and Sam Shankland in round 7 did not affect the status of the fight at the top of the standings table. Meanwhile, in the Challengers, co-leaders Nodirbek Abdusattorov and Vincent Keymer drew their direct encounter. Top seed Hans Niemann scored a full point, and is now in sole third place, a half point behind the leaders. | Pictured: Kamil Warchol, co-leader in the Futures tournament. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r7",
+         "pubDate" : "Thu, 16 Jun 2022 08:10:00 +0100",
+         "title" : "Prague: Niemann in the hunt"
+      },
+      {
+         "description" : "The 2022 European Corporate Chess Championship takes place on weekend 18-19 June in Rotterdam, Netherlands. The tournament is played on a luxury cruise ship of Royal Spido (named James Cook), while sailing in the Rotterdam harbour. 17 teams will participate in the event which will be played in 9 rounds, Swiss system, with time control: 15 minutes for the whole&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/",
+         "pubDate" : "Thu, 16 Jun 2022 06:03:41 +0000",
+         "title" : "European Corporate Chess Championship 2022 starts in Rotterdam"
+      },
+      {
          "description" : "The Opening Press Conference of the FIDE Candidates Tournament 2022 took place today in the venue of the event with presence of Deputy Minister of Sports for the regional government at Comunidad de Madrid Alberto Tome Gonzalez, FIDE Managing Director Dana Reizniece-Ozola and&#xA0;GM Fabiano Caruana. All the eyes were on Fabiano Caruana who answered journalists' []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/xiong-bernadskiy-win-titled-tuesday-june-14-2022",
          "pubDate" : "Wed, 15 Jun 2022 07:52:43 -0700",
          "title" : "Ukrainian Bernadskiy Scores Big Upset Following Xiong Win"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Wed, 15 Jun 2022 14:55:00 +0100",
-         "title" : "Prague Chess Festival, Round 7: Live"
       },
       {
          "description" : "In 2019, the Prague Chess Festival took place for the first time and currently, the 4th Prague Chess Festival is played - with two interesting grandmaster tournaments, the Masters and the Challengers, an Open, the Futures, a tournament for young players, and a number of side events. In an interview, Petr Boleslav, organiser and tournament director of the Prague Chess Festival, talks about the background of the tournament and reveals why he decided to become a chess organiser. | Photo: Petr Boleslav at the opening of the Chess Festival | Photo: Petr Vrabec",
