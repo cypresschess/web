@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The magnificent&#xA0;Palacio de Santo&#xF1;a hosts the Opening ceremony of the FIDE Candidates Chess Tournament 2022 in Madrid. The ceremony features speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premieres her new song &#x201C;Open Files&#x201D;. FIDE presented the official promo video for []",
+         "description" : "The magnificent&#160;Palacio de Santo&#xF1;a hosts the Opening ceremony of the FIDE Candidates Chess Tournament 2022 in Madrid. The ceremony features speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premieres her new song &#x201C;Open Files&#x201D;. FIDE presented the official promo video for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-chess-2022-opening-ceremony/",
@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1793",
          "pubDate" : "Fri, 27 May 2022 08:57:57 +0000",
          "title" : "Ding Liren wins Chessable Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1792",
-         "pubDate" : "Thu, 26 May 2022 18:50:28 +0000",
-         "title" : "Casablanca Chess Week kicks off on May 30"
       }
    ]
 }
