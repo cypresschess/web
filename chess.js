@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Chess Tournament 2022 decides the qualifier for the FIDE World Chess Championship Match and kicks off on Saturday, June 17th, with the first round. The 1st round is scheduled to start at 15:00 CET and brings the following encounters: Duda &#x2013; Rapport / Ding Liren &#x2013; Nepomniachtchi / Caruana &#x2013; Nakamura / []",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into what makes the world chess champion Magnus Carlsen so damn good in his preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6hhy7bsZPG8.jpg?itok=VKmwrhPh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros",
+         "pubDate" : "Fri, 17 Jun 2022 02:20:31 +0000",
+         "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
+         "description" : "Pentala Harikrishna beat Saleh Salem in the penultimate round of the Masters tournament in Prague, thus climbing to the shared lead going into the final day of action. Similarly, in the Challengers, Hans Niemann collected a second win in a row to catch Vincent Keymer and Nodirbek Abdusattorov in the lead. Friday's final round kicks off four hours earlier than usual, at 11.00 CEST. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r8",
+         "pubDate" : "Fri, 17 Jun 2022 02:50:00 +0100",
+         "title" : "Prague: Harikrishna and Niemann score crucial wins"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1814",
+         "pubDate" : "Fri, 17 Jun 2022 01:27:16 +0000",
+         "title" : "Flamenco and fanfare: The 2022 Candidates opening ceremony highlights"
+      },
+      {
+         "description" : "The FIDE Candidates Chess Tournament 2022 decides the qualifier for the FIDE World Chess Championship Match and kicks off on Friday, June 17th, with the first round. The 1st round is scheduled to start at 15:00 CET and brings the following encounters: Duda &#x2013; Rapport / Ding Liren &#x2013; Nepomniachtchi / Caruana &#x2013; Nakamura / []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r1-preview/",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Team Hikaru will do massive Giveaways during the Candidates stream"
       },
       {
-         "description" : "FIDE Candidates Chess Tournament 2022 opened today in the magnificent&#xA0;venue of Palacio de Santo&#xF1;a in Madrid. During the opening ceremony, FIDE presented the Candidates Teaser (video below). The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists&#x2019; performances. The famous Chilean singer and songwriter Juga di Prima premiered her new []",
+         "description" : "FIDE Candidates Chess Tournament 2022 opened today in the magnificent&#xA0;venue of Four Seasons Hotel in Madrid. During the opening ceremony, FIDE presented the Candidates Teaser (video below). The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists&#x2019; performances. The famous Chilean singer and songwriter Juga di Prima premiered her new []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-teaser/",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "How To Watch FIDE Candidates Tournament Round 1"
       },
       {
-         "description" : "The magnificent&#160;Palacio de Santo&#xF1;a hosts the Opening ceremony of the FIDE Candidates Chess Tournament 2022 in Madrid. The ceremony features speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premieres her new song &#x201C;Open Files&#x201D;. FIDE presented the official promo video for []",
+         "description" : "The Four Seasons Hotel in Madrid hosts the Opening ceremony of the FIDE Candidates Chess Tournament 2022. The ceremony features speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premieres her new song &#x201C;Open Files&#x201D;. FIDE presented the official promo video for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-chess-2022-opening-ceremony/",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/who-chooses-rapports-rockstar-outfits/",
          "pubDate" : "Thu, 16 Jun 2022 14:07:22 +0000",
          "title" : "Who chooses Rapport's rockstar outfits?"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The action kicks off at 15.00 CEST (09.00 EDT, 18.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Thu, 16 Jun 2022 14:55:00 +0100",
-         "title" : "Prague Chess Festival, Round 8: Live"
       },
       {
          "description" : "The French Defence is an opening with a marked strategic character, but it also offers rich tactical possibilities to both sides. This video course is aimed as a tactical guide for Black, featuring the most typical combinations for the French structures. The reader is also invited to find combinations delivered by White, in order to become aware of the possible dangers.",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2022-r1",
          "pubDate" : "Thu, 09 Jun 2022 08:25:00 +0100",
          "title" : "Prague: Sharp chess, three winners"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-7",
-         "pubDate" : "Wed, 08 Jun 2022 23:11:36 +0000",
-         "title" : "2022 Summer Chess Classic: Round 7"
       },
       {
          "description" : "Team AICF and chess enthusiasts given a grand welcome to Shri Bharat Singh Chauhan at Chennai Airport after supreme court of India reinstates him as",
