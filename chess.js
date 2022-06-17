@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of the Candidates will start today at 15.00 CEST (09.00 ET, 18.30 IST) in Madrid, Spain. At the press conference that started the Candidates officially, Fabiano Caruana, who has already played in three Candidates Tournaments, and who was the only player participating in the press conference, explained which tournament strategy promises success. Report and video...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/press-conference-opens-candidates-tournament",
+         "pubDate" : "Fri, 17 Jun 2022 09:03:40 +0100",
+         "title" : "Press conference opens Candidates Tournament"
+      },
+      {
+         "description" : "Good morning everyone and welcome to the live blog from day 1 of the Candidates! We will cover all day long the events from Madrid, where the battles start today at 15:00 CET. The news will appear here on this live blog, time stamped at reverse chronological order. Scroll down to the first news of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/live-blog-candidates-chess-2022-day-1/",
+         "pubDate" : "Fri, 17 Jun 2022 07:15:33 +0000",
+         "title" : "Live blog - Candidates Chess 2022 day 1"
+      },
+      {
+         "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2023 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <a href=\"https://www.theguardian.com/sport/2022/jun/17/chess-national-solving-championship-open-for-entries-from-britain\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jun/17/chess-national-solving-championship-open-for-entries-from-britain",
+         "pubDate" : "Fri, 17 Jun 2022 07:00:04 +0000",
+         "title" : "Chess: national solving championship open for entries from Britain"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into what makes the world chess champion Magnus Carlsen so damn good in his preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6hhy7bsZPG8.jpg?itok=VKmwrhPh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,12 +106,12 @@ news_feed (
          "title" : "How To Watch FIDE Candidates Tournament Round 1"
       },
       {
-         "description" : "The Four Seasons Hotel in Madrid hosts the Opening ceremony of the FIDE Candidates Chess Tournament 2022. The ceremony features speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premieres her new song &#x201C;Open Files&#x201D;. FIDE presented the official promo video for []",
+         "description" : "The Four Seasons Hotel in Madrid hosted the Opening ceremony of the FIDE Candidates Chess Tournament 2022. The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premiered her new song &#x201C;Open Files&#x201D;. The host of the night was the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-chess-2022-opening-ceremony/",
          "pubDate" : "Thu, 16 Jun 2022 17:34:06 +0000",
-         "title" : "FIDE Candidates Chess 2022 - Opening ceremony (LIVE)"
+         "title" : "FIDE Candidates Chess 2022 - Opening ceremony (updated)"
       },
       {
          "description" : "This week Robert Ris looks at a game between the two young Indian Grandmasters Aravindh and Erigaisi, which was played at the MPL Indian Chess Tour and is a good example of Aravindh's attacking skills. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -144,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/best-place-to-play-chess-in-madrid-if-you-are-not-playing-in-candidates/",
          "pubDate" : "Thu, 16 Jun 2022 14:17:09 +0000",
          "title" : "Best place to play chess in Madrid if you are not playing in Candidates"
-      },
-      {
-         "description" : "It is not unknown that Richard Rapport likes to show the last fashion outfits at the elite chess tournaments. But who chooses his outfits? Answering @nigarhan questions, Rapport disclosed he is very much into fashion and that his wife WGM Jovana Rapport helps him choose what to wear. Candidates Chess Round 1, June 17:&#xA0;Duda &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/who-chooses-rapports-rockstar-outfits/",
-         "pubDate" : "Thu, 16 Jun 2022 14:07:22 +0000",
-         "title" : "Who chooses Rapport's rockstar outfits?"
       },
       {
          "description" : "The French Defence is an opening with a marked strategic character, but it also offers rich tactical possibilities to both sides. This video course is aimed as a tactical guide for Black, featuring the most typical combinations for the French structures. The reader is also invited to find combinations delivered by White, in order to become aware of the possible dangers.",
@@ -2010,14 +2026,6 @@ news_feed (
          "title" : "A tricky king"
       },
       {
-         "description" : "Wesley So went on a run of five wins in a row, including beating Magnus Carlsen's 1.a4, to win the Norway Chess blitz opener by a full point and get the top seeding number for the main event. Magnus took second place despite also losing to Vishy Anand, with Vishy, Anish Giri and Shakhriyar Mamedyarov the other players to finish in the top half and get the advantage of five Whites in the classical tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/so-beats-carlsen-to-win-norway-chess-blitz",
-         "pubDate" : "Tue, 31 May 2022 07:36:07 +0000",
-         "title" : "So beats Carlsen to win Norway Chess Blitz"
-      },
-      {
          "description" : "Anand's win over Carlsen comes close on the heels of compatriot and teen sensation R Praggnandhaa defeating the Norwegian world champion in an online blitz tournament recently.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2040,14 +2048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2022-blitz",
          "pubDate" : "Mon, 30 May 2022 17:55:00 +0100",
          "title" : "Norway Chess Blitz: Live"
-      },
-      {
-         "description" : "In the Endgame Magic Show #196 Karsten M&uuml;ller and the young Ukrainian talent Tykhon Cherniaiev look at rook endings, the kind of endings that occur most often in practice. But Karsten and Tichon end the show with an analysis of two amazing endgames, in which bishops fight against knights. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-196-with-tichon-cherniaev-endgame-highlights-from-the-chessable-masters",
-         "pubDate" : "Mon, 30 May 2022 17:00:00 +0100",
-         "title" : "Endgame Magic #196 with Tykhon Cherniaiev: Endgame highlights from the Chessable Masters"
       },
       {
          "description" : " The 2022 ACT Chess Championship ended in a tie for 1st place, between the top two seeds, IM Rishi Sardana and IM Junta Ikeda. Unusually, the two winners did not actually play each other, instead getting to 6 points by beating other players. The morning round saw previous leader Cameron McGowan lost to Fred Litchfield, which threw the tournament wide open. Going into the final round, there were 4 players on 5/6, with Sardana against Litchfield and Ikeda against McGowan. Sardana struck first, beating Litchfield after winning a piece in the middlegame, while Ikeda eventually triumphed after tactics went in his favour. Other results saw a 6 way tie for 3rd, involving most of the top seeds. The ",
