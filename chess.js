@@ -10,6 +10,62 @@ news_feed (
          "title" : "Tata Steel Chess Tournament 2021"
       },
       {
+         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, beginning today with the top seed, Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-1",
+         "pubDate" : "Fri, 17 Jun 2022 21:00:00 +0100",
+         "title" : "Cracking the Candidate Code (1)"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 1 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Ian Nepomniachtchi and Fabiano Caruana winning against Ding Liren and Hikaru Nakamura respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1600\" data-ratio=\"1.5594541910331\"> <img src=\"https://worldchess.com/news/pictures/1-3.jpg\" width=\"1600\" height=\"1026\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52152166307_5c77a43df9_h.jpg\" width=\"1587\" height=\"1080\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52153181488_619fd01cc8_h.jpg\" width=\"1600\" height=\"997\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/521534153",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepomniachtchi-and-caruana-start-the-2022-candidates-with-a-win/",
+         "pubDate" : "Fri, 17 Jun 2022 19:03:01 +0000",
+         "title" : "Nepomniachtchi and Caruana start the 2022 Candidates with a win"
+      },
+      {
+         "description" : "The first round of the 2022 Candidates Tournament is in the books, with GMs Fabiano Caruana and Ian Nepomniachtchi taking the lead. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-2",
+         "pubDate" : "Fri, 17 Jun 2022 11:50:00 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92288793.cms\" />Brushing aside all the speculations about his retirement from the sport, Indian Grandmaster (GM) Viswanathan Anand said that he will continue to play chess even if he wins the vice-president's post in the World Chess Federation (FIDE) elections.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-will-continue-to-play-even-after-winning-the-fide-election-says-viswanathan-anand/articleshow/92288793.cms",
+         "pubDate" : "Fri, 17 Jun 2022 17:42:29 +0000",
+         "title" : "I will continue to play even after winning the FIDE election: Anand"
+      },
+      {
+         "description" : "In his \"Power Play Show\" Daniel King continues his tribute to Yuri Averbakh by looking at a game King played against Averbakh in 1990. To quote King: \"He might have been past his prime, but he still gave me a lesson. It was a fascinating game and a privilege to play against a legend.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-more-from-the-great-yuri-averbakh",
+         "pubDate" : "Fri, 17 Jun 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: More from the great Yuri Averbakh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92287708.cms\" />Legendary Viswanathan Anand is \"immensely proud\" of the fact that the 44th Chess Olympiad starting in Mahabalipuram from July 28, will have its own Torch Relay, which is in similar lines to the Olympics.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/immensely-proud-that-we-now-have-chess-olympiad-torch-relay-viswanathan-anand/articleshow/92287708.cms",
+         "pubDate" : "Fri, 17 Jun 2022 16:22:24 +0000",
+         "title" : "Immensely proud that we now have Chess Olympiad Torch Relay: Anand"
+      },
+      {
+         "description" : " <p class=\"lead\">Nepo, the unlikely winner of the previous Candidates Tournament, won his first game as black against the most formidable opponent, Ding , and got an early lead. <a href=\"https://chessarena.com/broadcast/17306/4c54c7f5-84a5-463a-a1ae-70a36d4a587b\">With Black</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/514D4B43-413B-4C3E-9D9A-C01CB7D1DDEC.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> <div style=\"position: relative; width: 600px; max-width: 100%; padding-bottom: min(calc(100% + 210px), 810px);\"><iframe src=\"https://widget.k8stage.worldchess.com/?theme=dark&cb-theme=worldchess&game-data-url=https://worldchess.com/api/online/gaming/4c54c7",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-appears-to-be-winning-against-ding-with-black/",
+         "pubDate" : "Fri, 17 Jun 2022 16:07:41 +0000",
+         "title" : "Nepo Wins Against Ding with Black"
+      },
+      {
          "description" : "In the current ChessBase Magazine Extra #207 Elisabeth P&auml;htz presents a setup against the Gr&uuml;nfeld Defence that served her well in the FIDE Grand Swiss in Riga 2021: White fianchettos the light-squared bishop and restricts the possibilities of Black's bishop on c8 with 10.h3. Our author has divided her video analysis into four different clips. As harmless as the move 10.h3 may seem at first glance, Black must react precisely to avoid getting into huge trouble. Check it out!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +82,12 @@ news_feed (
          "title" : "Game of the Week #520: Pechac vs Keymer"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> started today with eight elite players fighting for their chance to face Magnus Carlsen for the World Title. In a <a href=\"https://svw.no/en/chess-blog/1h-2022-candidates-update/\">blog post</a> published right before the start of the tournament Magnus Carlsen gave his predictions. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-06-17-17.16.27.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen, Photo: World Chess</div> </div> \"I am always looking forward to the Candidates, both in terms of sporting excitement and also ",
+         "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> started today with eight elite players fighting for their chance to face Magnus Carlsen for the World Title. In a <a href=\"https://svw.no/en/chess-blog/1h-2022-candidates-update/\">blog post</a> published right before the start of the tournament Magnus Carlsen gave a carefully-worded prediction on the event's outcome. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-06-17-17.16.27.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen, Photo: World Chess</div> </div> \"I am always looking forward to the Candidates, both in t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsens-predictions-on-the-candidates-2022/",
          "pubDate" : "Fri, 17 Jun 2022 14:25:57 +0000",
-         "title" : "Carlsen's predictions on the Candidates 2022"
+         "title" : "Carlsen Says Caruana or Ding Are Likely To Win the Candidates"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-1-lichessorg\"><img src=\"h",
@@ -154,7 +210,7 @@ news_feed (
          "title" : "Live blog - Candidates Chess 2022 day 1"
       },
       {
-         "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2023 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. <a href=\"https://www.theguardian.com/sport/2022/jun/17/chess-national-solving-championship-open-for-entries-from-britain\">Continue reading...</a>",
+         "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2023 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. The competition is open to British residents only and entry is free. Its prize fund is expected to be at least &pound;1,200, plus awards to juniors. <a href=\"https://www.theguardian.",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jun/17/chess-national-solving-championship-open-for-entries-from-britain",
@@ -242,12 +298,12 @@ news_feed (
          "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros | lichess.org"
       },
       {
-         "description" : "The first round of the 2022 Candidates Tournament is underway. The eyes of the chess world are fixed on Madrid as the eight candidates are about to show what they have prepared for the most important tournament of the year.&#38;nbsp; Who will win th...",
+         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other tomorrow in round two. How t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
          "pubDate" : "Thu, 16 Jun 2022 13:02:00 -0700",
-         "title" : "Watch LIVE: FIDE Candidates Tournament Round 1"
+         "title" : "Caruana, Nepomniachtchi Win To Set Up Clash Of Leaders"
       },
       {
          "description" : "The Four Seasons Hotel in Madrid hosted the Opening ceremony of the FIDE Candidates Chess Tournament 2022. The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premiered her new song &#x201C;Open Files&#x201D;. The host of the night was the []",
@@ -1802,14 +1858,6 @@ news_feed (
          "title" : "Tiger Of Madras Returns - Vintage Anand Leads"
       },
       {
-         "description" : "Chess.com is excited to announce the return of Chess Played Quick, our event series where streamers speed through challenges to collect prizes and bounties! This month&#39;s CPQ Bot Battles Bingo Edition happens on June 13 at 10 a.m. PT/19:00 CET and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chess-played-quick-bot-battles-bingo-edition",
-         "pubDate" : "Fri, 03 Jun 2022 07:57:00 -0700",
-         "title" : "Announcing Chess Played Quick Bot Battles Bingo Edition"
-      },
-      {
          "description" : "In his \"Power Play Show\" Daniel King looks at games from Norway Chess including Anand's win over Vachier-Lagrave where he shows brilliant technique. Daniel goes into some detail in the 3.Bb5+ Sicilian, and looks at alternatives to Black's play in the game. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1930,14 +1978,6 @@ news_feed (
          "title" : "Norway Chess: So beats Carlsen in Armageddon, Anand leads"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91954737.cms\" />The 52-year-old Anand trumped his opponent, Bulgarian Veselin Topalov, in 36 moves in the battle of the veterans to make it two out of two after the second round late on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-posts-second-straight-win-in-classical-event-takes-lead/articleshow/91954737.cms",
-         "pubDate" : "Thu, 02 Jun 2022 04:59:32 +0000",
-         "title" : "Anand posts 2nd straight win in Classical event in Norway, takes lead"
-      },
-      {
          "description" : "In his final 'Weekly Show' Lawrence Trent focuses on the Norway Chess Tournament and the game of the day is the smooth and effortless victory by Vishy Anand over Maxime Vachier-Lagrave in round 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1994,14 +2034,6 @@ news_feed (
          "title" : "Tech Mahindra onboarded as digital partner for the Chess Olympiad"
       },
       {
-         "description" : "Grandmasters Maxime Lagarde (pictured) and Laurent Fressinet won the Internationaux de France blitz and rapid championships that were played over the weekend at Port-Marly near Paris. Lagarde won the blitz tournament with 11.0/13, and Fressinet won the rapid tournament with 8.0/9. | Photo: Lennart Ootes (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maxime-lagarde-and-laurent-fressinet-triumph-in-french-blitz-and-rapid-championships",
-         "pubDate" : "Wed, 01 Jun 2022 12:00:00 +0100",
-         "title" : "Maxime Lagarde and Laurent Fressinet triumph in French blitz and rapid championships"
-      },
-      {
          "description" : "The England teams for the Open and Women's Olympiad at Chennai are &#8212; Women's team WGM/IM Jovanka Houska, WGM Katarzyna Toma, FM Akshaya Kalaiyalahan,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2010,28 +2042,12 @@ news_feed (
          "title" : "England teams announced for the 2022 Olympiad"
       },
       {
-         "description" : "The claim to be the best ever in chess, in any category, is usually backed up by either hard numbers (Karpov's number of grandmaster tournament wins is not open to debate), or strong opinions such as the best absolute player. But the debate on the greatest prodigy seems to lie somewhere in between, depending on your criteria. Read this article and see if you agree. (photo: Capablanca at age four)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-greatest-prodigy-of-all-time",
-         "pubDate" : "Wed, 01 Jun 2022 09:33:43 +0100",
-         "title" : "The greatest prodigy of all time"
-      },
-      {
          "description" : "The starter problem is attached below. White, playing up the board, is to play and force mate in two moves against any Black defence. There...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championships-2022-2023/",
          "pubDate" : "Wed, 01 Jun 2022 08:00:24 +0000",
          "title" : "Winton British Chess Solving Championships 2022-2023"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91931630.cms\" />Indian chess ace Viswanathan Anand defeated Maxime Vachier-Lagrave in 40 moves in the first round of the classical section of the Norway Chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-beats-vachier-lagrave-in-norway-chess-tourney/articleshow/91931630.cms",
-         "pubDate" : "Wed, 01 Jun 2022 04:08:07 +0000",
-         "title" : "Anand beats Vachier-Lagrave in Norway Chess tourney"
       },
       {
          "description" : " Jeffrey Xiong won his second Chicago Open title after his 2015 breakthrough. At the 2022 Chicago Open, he finished on 7/9 along with three others but won the tiebreak battle. Xiong has made steady progress since then and had previously made the national team. With the addition of Levon Aronian and Leinier Dominguez, he will The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/\">Jeffery Xiong nets another Chicago title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2184,22 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1794",
          "pubDate" : "Fri, 27 May 2022 22:28:41 +0000",
          "title" : "WSCC 2022: Agrawal and Stefanova qualify for the main event"
-      },
-      {
-         "description" : " <p class=\"lead\">Grandmaster Richard Rapport, 26, one of the most promising members of the new generation of elite chess players, is changing the federation from Hungary to Romania. The move, unexpected under normal circumstances, appears scandalous because Rapport is set to take part in the Candidates Tournament in June. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/40AD8D6C-A8F1-40EA-A471-5349F7327072.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> <div class=\"e2-text-caption\">Richard Rapport taking part in the Grand Prix Series in 2022</div> </div> The move has been reported by the Romanian Chess Federation and chess-news website and independently confirmed by FI",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/richard-rapport-switches-federation-three-weeks-before-candidate/",
-         "pubDate" : "Fri, 27 May 2022 16:54:41 +0000",
-         "title" : "Richard Rapport Switches Federation Three Weeks Before Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/rapport-to-represent-romania/",
-         "pubDate" : "Fri, 27 May 2022 16:57:40 +0100",
-         "title" : "Rapport to represent Romania"
       }
    ]
 }
