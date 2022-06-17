@@ -10,6 +10,30 @@ news_feed (
          "title" : "Tata Steel Chess Tournament 2021"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1815",
+         "pubDate" : "Fri, 17 Jun 2022 22:14:52 +0000",
+         "title" : "2022 Candidates Round 1: A confident start for Nepomniachtchi and Caruana"
+      },
+      {
+         "description" : "An exciting first round in the Candidates Tournament left Ian Nepomniachtchi and Fabiano Caruana - the winners of the event's two previous editions - in the shared lead. Nepomniachtchi beat rating favourite Ding Liren with the black pieces, while Caruana got the better of compatriot Hikaru Nakamura. At some point, it seemed likely that all four games would finish decisively at the Palace of Santoña in Madrid. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r1",
+         "pubDate" : "Fri, 17 Jun 2022 21:30:00 +0100",
+         "title" : "Candidates R1: Fighting chess, Nepo and Caruana score"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-1\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-1",
+         "pubDate" : "Fri, 17 Jun 2022 20:21:06 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 1"
+      },
+      {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, beginning today with the top seed, Ding Liren.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-will-continue-to-play-even-after-winning-the-fide-election-says-viswanathan-anand/articleshow/92288793.cms",
          "pubDate" : "Fri, 17 Jun 2022 17:42:29 +0000",
          "title" : "I will continue to play even after winning the FIDE election: Anand"
+      },
+      {
+         "description" : " The FIDE Candidates got under way in Madrid on June 17th. The winner of the tournament will earn the right to fight for the World Chess Championship in early 2023. Current World Chess Champion Magnus Carlsen has called into question whether he can find the motivation to defend his title again, and while many find this rather difficult to believe (in the same way we don't believe the boxer Tyson Fury has retired) it's nevertheless been confirmed by some of Carlsen's seconds that they understood his defence against Nepomniachtchi could easily be his last and I'm starting to believe that Carlsen has already decided to retire from World Championship play. If so Carlsen will be replaced by the s",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-caruana-off-to-winning-starts-in-the-fide-candidates-2022",
+         "pubDate" : "Fri, 17 Jun 2022 21:23:00 +0400",
+         "title" : "Nepomniachtchi and Caruana off to winning starts in the FIDE Candidates 2022 - 1"
       },
       {
          "description" : "In his \"Power Play Show\" Daniel King continues his tribute to Yuri Averbakh by looking at a game King played against Averbakh in 1990. To quote King: \"He might have been past his prime, but he still gave me a lesson. It was a fascinating game and a privilege to play against a legend.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-four/",
          "pubDate" : "Fri, 17 Jun 2022 14:00:52 +0000",
          "title" : "A Foundation for Beginners Sixty Four"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). | Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Fri, 17 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 1: Live"
       },
       {
          "description" : " Today saw the first ACT Interschool event of the year. It was the South Canberra Secondary Championship, and saw a number of strong players take part. Canberra Grammar School took out the top two places (based on the sum of the best 4 scores, then the next 4 etc), which wasn't really a surprise. However the third placing of Alfred Deakin High, just a half point behind the 2nd grammar team, was. This group of players has flown under the radar, although they did play in last years event. In talking to their teacher, he said that the improvement came mainly from playing online, rather than face to face. I have seen this in a few schools in the ACT, and wonder if we may be seeing a generation o",
@@ -250,6 +274,14 @@ news_feed (
          "title" : "Flamenco and fanfare: The 2022 Candidates opening ceremony highlights"
       },
       {
+         "description" : "The Chess.com College Ambassador Program (CAP) was announced in early April, and the Summer Season has only just begun! Our Summer Season is a fun and rewarding way to keep college chess clubs active over the summer and give chess-loving college s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-college-ambaassador-summer-season-2022",
+         "pubDate" : "Thu, 16 Jun 2022 15:14:00 -0700",
+         "title" : "Announcing the Chess.com College Ambassador Summer Season"
+      },
+      {
          "description" : "The FIDE Candidates Chess Tournament 2022 decides the qualifier for the FIDE World Chess Championship Match and kicks off on Friday, June 17th, with the first round. The 1st round is scheduled to start at 15:00 CET and brings the following encounters: Duda &#x2013; Rapport / Ding Liren &#x2013; Nepomniachtchi / Caruana &#x2013; Nakamura / []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -298,7 +330,7 @@ news_feed (
          "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros | lichess.org"
       },
       {
-         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other tomorrow in round two. How t...",
+         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other on Saturday in round two. Ho...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
@@ -808,14 +840,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-andreikin-wins",
          "pubDate" : "Sun, 12 Jun 2022 15:50:00 -0700",
          "title" : "Fighting Spirit Prevails: Andreikin Wins Third Knockout"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes analyzes a Kasparov game where Garry takes on Josef Pribyl&#039;s Gruenfeld. It was 1980, the year Kasparov became a grandmaster... Originally on Twitch<br /> 2022.04.13<br /> Garry Kasparov vs Josef Pribyl, EUR-chT (Men) 7th (1980): D85 Gruenfeld, modern exchange variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1069896\">https://www.chessgames.com/perl/chessgame?gid=1069896</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-vs-josef-pribyl-1980-how-become-grandmaster-wgm-thalia-cervantes",
-         "pubDate" : "Sun, 12 Jun 2022 17:15:00 +0000",
-         "title" : "Kasparov vs. Josef Pribyl, 1980 | How To Become a Grandmaster - WGM Thalia Cervantes"
       },
       {
          "description" : "Are you able to play a game of chess without view of the board? Can you solve problems and studies by just looking at a position or a diagram? Well, grandmasters and very strong players can stun us with feats of mental skill that we mortals are scarcely able to comprehend. We start our series with an experiment in which you can try competing with some great chess prodigies.",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "Trent's Tactics - Solving master level tactics with Leon Mendonca"
       },
       {
-         "description" : "Has GM Viswanathan Anand been retigered?&#38;nbsp; As the events unfold this week at 2022 Norway Chess in Stavanger, the 52-year-old is certainly beginning to make it look like it. The former world champion continued to demonstrate that he is still ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-3",
-         "pubDate" : "Fri, 03 Jun 2022 08:23:08 -0700",
-         "title" : "Tiger Of Madras Returns - Vintage Anand Leads"
-      },
-      {
          "description" : "In his \"Power Play Show\" Daniel King looks at games from Norway Chess including Anand's win over Vachier-Lagrave where he shows brilliant technique. Daniel goes into some detail in the 3.Bb5+ Sicilian, and looks at alternatives to Black's play in the game. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2192,14 +2208,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/33996474/r-praggnanandhaa-2022-chessable-masters-rb-ramesh-magnus-carlsen-chess?device=featurephone",
          "pubDate" : "Sat, 28 May 2022 01:19:23 -0500",
          "title" : "Praggnanandhaa - Student by day, world-beating chess star by night"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1794",
-         "pubDate" : "Fri, 27 May 2022 22:28:41 +0000",
-         "title" : "WSCC 2022: Agrawal and Stefanova qualify for the main event"
       }
    ]
 }
