@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " From the publishers' blurb: &#8220;That such a fine achievement should be immortalized, is beyond dispute. But who will pick up the gauntlet? We live in a volatile world where the Internet is dominant and when a tournament is over, the next one is already at the door. No time for reflection and historical awareness? Yet <a href=\"http://britishchessnews.com/2022/06/21/tata-steel-chess-tournament-2021/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Tata Steel Chess Tournament 2021</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/06/21/tata-steel-chess-tournament-2021/\">Tata Steel Chess Tournament 2021</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/06/21/tata-steel-chess-tournament-2021/",
+         "pubDate" : "Tue, 21 Jun 2022 00:00:14 +0000",
+         "title" : "Tata Steel Chess Tournament 2021"
+      },
+      {
+         "description" : "In the current ChessBase Magazine Extra #207 Elisabeth P&auml;htz presents a setup against the Gr&uuml;nfeld Defence that served her well in the FIDE Grand Swiss in Riga 2021: White fianchettos the light-squared bishop and restricts the possibilities of Black's bishop on c8 with 10.h3. Our author has divided her video analysis into four different clips. As harmless as the move 10.h3 may seem at first glance, Black must react precisely to avoid getting into huge trouble. Check it out!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/one-of-my-favourite-lines-against-the-gruenfeld-defence",
+         "pubDate" : "Fri, 17 Jun 2022 17:00:00 +0100",
+         "title" : "\"One of my favourite lines against the Gr&uuml;nfeld Defence\""
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #520, Merijn van Delft takes a look at a game played between Jergus Pechac and Vincent Keymer, in which Pechac came up with an interesting concept in the opening and was close to winning but failed to overcome Keymer's stubborn defense. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-520-pechac-vs-keymer",
+         "pubDate" : "Fri, 17 Jun 2022 15:57:04 +0100",
+         "title" : "Game of the Week #520: Pechac vs Keymer"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> started today with eight elite players fighting for their chance to face Magnus Carlsen for the World Title. In a <a href=\"https://svw.no/en/chess-blog/1h-2022-candidates-update/\">blog post</a> published right before the start of the tournament Magnus Carlsen gave his predictions. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-06-17-17.16.27.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen, Photo: World Chess</div> </div> \"I am always looking forward to the Candidates, both in terms of sporting excitement and also ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsens-predictions-on-the-candidates-2022/",
+         "pubDate" : "Fri, 17 Jun 2022 14:25:57 +0000",
+         "title" : "Carlsen's predictions on the Candidates 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-1-lichessorg\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-1-lichessorg",
+         "pubDate" : "Fri, 17 Jun 2022 14:20:50 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 1 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-2-lichessorg\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-2-lichessorg",
+         "pubDate" : "Fri, 17 Jun 2022 14:20:50 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 2 | lichess.org"
+      },
+      {
+         "description" : " Any of the principles you've learned through this series of articles can be, and should be, used to analyze games. I've gone over these concepts in terms of applying them to your own games. However, learning to play better chess also includes studying the game of stronger players, figuring out what worked and what didn't! <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\">A Foundation for Beginners Sixty Four</a> appeared first on <a rel=\"nofollow\" href",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-four/",
+         "pubDate" : "Fri, 17 Jun 2022 14:00:52 +0000",
+         "title" : "A Foundation for Beginners Sixty Four"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). | Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Fri, 17 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 1: Live"
+      },
+      {
+         "description" : " Today saw the first ACT Interschool event of the year. It was the South Canberra Secondary Championship, and saw a number of strong players take part. Canberra Grammar School took out the top two places (based on the sum of the best 4 scores, then the next 4 etc), which wasn't really a surprise. However the third placing of Alfred Deakin High, just a half point behind the 2nd grammar team, was. This group of players has flown under the radar, although they did play in last years event. In talking to their teacher, he said that the improvement came mainly from playing online, rather than face to face. I have seen this in a few schools in the ACT, and wonder if we may be seeing a generation o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/hidden-talent.html",
+         "pubDate" : "Fri, 17 Jun 2022 13:35:00 +0000",
+         "title" : "Hidden talent"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/BYFjApBIyD8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-1/",
+         "pubDate" : "Fri, 17 Jun 2022 12:18:52 +0000",
+         "title" : "FIDE Candidates Tournament 2022: Round 1"
+      },
+      {
          "description" : "As the FIDE Candidates gets under way, who does Magnus Carlsen think is likely to win? Not long-time rival Hikaru Nakamura, the World Chess Champion revealed today. In a blog post written on the eve of the event for his law firm sponsors Simonsen Vogt Wiig, Norway's five-time champ outlined who his tips are for the race to face him in next year's world title match.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -162,12 +242,12 @@ news_feed (
          "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros | lichess.org"
       },
       {
-         "description" : "The first round of the 2022 Candidates Tournament begins at 6 a.m. Pacific/15:00 Central Europe. The eyes of the chess world are fixed on Madrid as the eight candidates are about to show what they have prepared for the most important tournament of...",
+         "description" : "The first round of the 2022 Candidates Tournament is underway. The eyes of the chess world are fixed on Madrid as the eight candidates are about to show what they have prepared for the most important tournament of the year.&#38;nbsp; Who will win th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
          "pubDate" : "Thu, 16 Jun 2022 13:02:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 1"
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 1"
       },
       {
          "description" : "The Four Seasons Hotel in Madrid hosted the Opening ceremony of the FIDE Candidates Chess Tournament 2022. The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premiered her new song &#x201C;Open Files&#x201D;. The host of the night was the []",
@@ -850,14 +930,6 @@ news_feed (
          "title" : "2022 NSW Open Coverage"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-9",
-         "pubDate" : "Fri, 10 Jun 2022 23:13:25 +0000",
-         "title" : "2022 Summer Chess Classic: Round 9"
-      },
-      {
          "description" : "Magnus Carlsen has now won half of the 10 editions of Norway Chess, and the last four in a row, after a nerve-wracking final day of the 2022 event. The World Champion was held to a draw by Veselin Topalov, so that Shakhriyar Mamedyarov would have won the title if he'd beaten his countryman Teimour Radjabov in classical chess. At one point that looked almost inevitable, but Teimour fought back to survive a bad position with no time on his clock. Vishy Anand took 3rd place ahead of Maxime Vachier-Lagrave in 4th.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1002,12 +1074,12 @@ news_feed (
          "title" : "Norway Chess: Anand loses to Mamedyarov; Carlsen surges ahead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the third Summer Chess Classic is comprised of two 10-player Round Robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GMs Cristian Chirila and Alejandro Ramirez for the move-by-move. 2022.06.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-summer-chess-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-summer-chess-classic-round-8",
-         "pubDate" : "Thu, 09 Jun 2022 23:12:14 +0000",
-         "title" : "2022 Summer Chess Classic: Round 8"
+         "description" : " From the publisher: &#8220;Attacking your opponent's king is not just a shortcut to victory, it's also one of the most enjoyable and gratifying experiences in chess. If you want to win more games you should become a better attacker. Studying typical attacking motifs and ideas easily brings dividends while you are having a good time. <a href=\"http://britishchessnews.com/2022/06/10/attacking-strategies-for-club-players-how-to-create-a-deadly-attack-on-the-enemy-king-2/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Attacking Strategies for Club Players: How to Create a Deadly Attack on the Enemy King</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofol",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/06/10/attacking-strategies-for-club-players-how-to-create-a-deadly-attack-on-the-enemy-king-2/",
+         "pubDate" : "Fri, 10 Jun 2022 00:10:50 +0000",
+         "title" : "Attacking Strategies for Club Players: How to Create a Deadly Attack on the Enemy King"
       },
       {
          "description" : "Defending champion Sam Shankland bounced back from his first-round loss against Le Quang Liem by beating Saleh Salem with the white pieces in the Masters section of the Prague Chess Festival. This was the only decisive game of the day. A more eventful second round in the Challengers saw four players scoring wins with white - one of the winners was Vincent Keymer, who grabbed the sole lead as the only participant who scored back-to-back victories in the first two rounds. | Photos: Petr Vrabec",
@@ -1970,22 +2042,6 @@ news_feed (
          "title" : "Jeffery Xiong nets another Chicago title!"
       },
       {
-         "description" : "The Hamburg Chess Club hosted a GM tournament and an IM tournament last week. Leon Mendonca from India won the GM tournament. Frederick Svane scored a GM norm - 24 hours later Svane's third and last GM norm in the Bundesliga was also official. In the IM tournament, Brandon Clarke was the clear winner. | Photo: Hugo Schulz, Vasilios Kotronias, Leon Mendonca, Frederik Svane and Frank Bracker (Frank Bracker)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mendonca-wins-hamburg-gm-tournament-2022",
-         "pubDate" : "Tue, 31 May 2022 22:00:33 +0100",
-         "title" : "Mendonca clear winner at the Hamburg GM tournament"
-      },
-      {
-         "description" : "The new Extra #207 offers, among other things, over an hour of video training with Elisabeth P&auml;htz and Ivan Sokolov. Germany's best female chess player presents one of her favourite weapons against the Gruenfeld Defence in a short video series. And Sokolov's contribution deals with a topic that should be interesting for many 1.d4 players, especially at club level: The GM from the Netherlands shows a method with which a nice advantage can be comfortably achieved against the Budapest Gambit. This issue's \"Brilliancy\" comes from Jorden van Foreest, who takes a critical look at his Sicilian experiment (3.Bc4) from the Tata Steel Masters 2022 against Praggnanandhaa. In addition, the \"Lucky b",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-207",
-         "pubDate" : "Tue, 31 May 2022 15:00:00 +0100",
-         "title" : "New: CBM Extra #207"
-      },
-      {
          "description" : " <p class=\"lead\">The tenth edition of the Norway Chess Tournament started yesterday with a blitz tournament to decide who will get more whites in the main event. GM Wesley So won this first blitz tournament with 6.5 points, followed by Magnus Carlsen with 5.5 points. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-2.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> Norway Chess is one of the world's most prestigious chess tournaments held in Stavanger, Norway. There are 10 players participating including the World Champion Magnus Carlsen, GMs Wesley So, Shakhriyar Mamedyarov, Anish Giri, Vishy Anand, Veselin Topalov, and Aryan Tari who replaced",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2008,14 +2064,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/31/ep-281-dr-stuart-margulies-tells-the-story-behind-the-classic-best-selling-book-bobby-fischer-teacher-chess",
          "pubDate" : "Tue, 31 May 2022 12:47:36 +0000",
          "title" : "EP 281- Dr. Stuart Margulies tells the story behind the classic, best-selling book, Bobby Fischer Teacher Chess"
-      },
-      {
-         "description" : "This year's Norway Chess Tournament in Stavanger started on Monday evening with a blitz tournament. After five rounds Magnus Carlsen led the field but then lost against Wesley So - after trying 1.a4 - and Vishy Anand. So, who had started the tournament with a loss against Wang Hao, used his chance and won the tournament with 6.5/9, one full point ahead of Carlsen who finished second with 5.5/9. | Photos: Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-wesley-so-is-best-in-blitz",
-         "pubDate" : "Tue, 31 May 2022 13:47:00 +0100",
-         "title" : "Norway Chess: Wesley So wins the blitz tournament"
       },
       {
          "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup will simultaneously take place from 2nd 10th October in Mayrhofen, Austria. Both events will be played in 7 rounds, swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-official-invitation/\">Read More &#187;</a></span>",
@@ -2098,14 +2146,6 @@ news_feed (
          "title" : "Lost Empires"
       },
       {
-         "description" : " You reach an ending with king and pawn against king and pawn. Both players promote: king and queen against king and queen. Time to agree a draw, shake hands and adjourn to the bar? Not always. There are one or two positions where you can win: it's well worth knowing them just in case one <a href=\"https://chessimprover.com/queen-against-queen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Queen Against Queen\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/queen-against-queen/\">Queen Against Queen</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/queen-against-queen/",
-         "pubDate" : "Sun, 29 May 2022 08:54:19 +0000",
-         "title" : "Queen Against Queen"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg\" data-image-dimensions=\"1713x805\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6292d780000e1722c23bd3ae\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg?format=1000w\" /> </figure> <p class=\"\">After a one month hiatus, Chess Books Recaptured returns to discuss another classic chess book- GM Alexei Shirov's <a href=\"https://www.amazon.com/Fire-B",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2160,14 +2200,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/rapport-to-represent-romania/",
          "pubDate" : "Fri, 27 May 2022 16:57:40 +0100",
          "title" : "Rapport to represent Romania"
-      },
-      {
-         "description" : " The 2022 ACT Championship began this evening, with almost all games going to the ratings favourite. The only upset was a win by unrated Muhammad Yunus over veteran player Thomas Mautner. On the top boards, some players had to work a little harder to secure the point, but all eventually did so. Tomorrow mornings second round will see some closer contests on all boards. The top seeds are likely to face experienced Canberra club stalwarts, while the middle group of players on half a point will be looking to kick start their campaign with a win. The top 4 boards for this event are being broadcast live. You can find the link to the broadcast, as well as the tournament results and pairings at <a ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-round-1.html",
-         "pubDate" : "Fri, 27 May 2022 14:01:00 +0000",
-         "title" : "2022 ACT Championship - Round 1"
       }
    ]
 }
