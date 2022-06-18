@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92293433.cms\" />Five-time world chess champion Viswanathan Anand is quite excited about India hosting the Chess Olympiad for the first time since its inception in 1927. On Sunday, Prime Minister Narendra Modi will launch the first-ever torch relay for the Olympiad, at the Indira Gandhi Stadium in New Delhi, to kick off the flame's journey to 75 cities over the course of 40 days. The journey will culminate at Mahabalipuram, near Chennai - the venue for the July 28 to August 10 event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/need-to-get-more-youngsters-involved-with-chess-viswanathan-anand/articleshow/92293433.cms",
+         "pubDate" : "Sat, 18 Jun 2022 03:17:56 +0000",
+         "title" : "Need to get more youngsters involved with chess: Viswanathan Anand"
+      },
+      {
+         "description" : "Pentala Harikrishna beat David Anton in the final round of the Prague Masters to clinch clear first place with 6&frac12; out of 9 points. In the Challengers, two of the former co-leaders, Hans Niemann and Vincent Keymer won in round 9 and finished tied for first place. Curiously, they were also tied in all the tiebreak criteria. The organizers decided to stage a 2-game blitz match, which Keymer won by a 2-0 score. | Pictured: Le Quang Liem (2nd), Pentala Harikrishna (1st) and Thai Dai Van Nguyen (3rd) | Photo: Vladim&iacute;r Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2022-r9",
+         "pubDate" : "Sat, 18 Jun 2022 04:05:00 +0100",
+         "title" : "Harikrishna and Keymer clinch Prague Festival titles"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Chess instructor Alex Moellering looks at the &quot;beginning&quot; of the endgame, known positions, and more. Originally on Twitch<br /> 2022.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YWh0XubB2aY.jpg?itok=5dWCjsjk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -207,7 +223,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
          "pubDate" : "Fri, 17 Jun 2022 09:55:00 +0100",
-         "title" : "Prague Chess Festival, Round 9: Live"
+         "title" : "Prague Chess Festival: Games and standings"
       },
       {
          "description" : "The first round of the Candidates will start today at 15.00 CEST (09.00 ET, 18.30 IST) in Madrid, Spain. At the press conference that started the Candidates officially, Fabiano Caruana, who has already played in three Candidates Tournaments, and who was the only player participating in the press conference, explained which tournament strategy promises success. Report and video...",
@@ -272,14 +288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1814",
          "pubDate" : "Fri, 17 Jun 2022 01:27:16 +0000",
          "title" : "Flamenco and fanfare: The 2022 Candidates opening ceremony highlights"
-      },
-      {
-         "description" : "The Chess.com College Ambassador Program (CAP) was announced in early April, and the Summer Season has only just begun! Our Summer Season is a fun and rewarding way to keep college chess clubs active over the summer and give chess-loving college s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-college-ambaassador-summer-season-2022",
-         "pubDate" : "Thu, 16 Jun 2022 15:14:00 -0700",
-         "title" : "Announcing the Chess.com College Ambassador Summer Season"
       },
       {
          "description" : "The FIDE Candidates Chess Tournament 2022 decides the qualifier for the FIDE World Chess Championship Match and kicks off on Friday, June 17th, with the first round. The 1st round is scheduled to start at 15:00 CET and brings the following encounters: Duda &#x2013; Rapport / Ding Liren &#x2013; Nepomniachtchi / Caruana &#x2013; Nakamura / []",
@@ -592,6 +600,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2022-r6",
          "pubDate" : "Tue, 14 Jun 2022 23:45:00 +0100",
          "title" : "Prague: Le beats Salem to grab the sole lead"
+      },
+      {
+         "description" : "The Chess.com College Ambassador Program (CAP) was announced in early April, and the Summer Season has only just begun! Our Summer Season is a fun and rewarding way to keep college chess clubs active over the summer and give chess-loving college s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-college-ambaassador-summer-season-2022",
+         "pubDate" : "Tue, 14 Jun 2022 15:14:00 -0700",
+         "title" : "Announcing the Chess.com College Ambassador Summer Season"
       },
       {
          "description" : "",
@@ -1946,14 +1962,6 @@ news_feed (
          "title" : "Norway Chess: Carlsen and MVL score, Anand still leads"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91969964.cms\" />Indian chess legend Viswanathan Anand has regained his form and how! Four days after beating Magnus Carlsen at the world champion's home in the fastest format, 52-year-old Anand became one of the oldest to re-enter the world's top-10 rankings - the elite club he once ruled for almost 25 years since 1991.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-52-back-in-top-10-after-32-months-in-world-chess-rankings/articleshow/91969964.cms",
-         "pubDate" : "Thu, 02 Jun 2022 17:04:37 +0000",
-         "title" : "Viswanathan Anand, 52, back in top-10 after 32 months in world chess rankings"
-      },
-      {
          "description" : "This week Robert Ris looks at the game Wang Hao vs Anish Giri from the Norway Chess Tournament. Both sides were ready for a Najdorf, both sides were well prepared and both sides were willing to enter sharp and complicated lines. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2022-r1",
          "pubDate" : "Wed, 01 Jun 2022 14:50:00 +0100",
          "title" : "Norway Chess: So, Anand score three-pointers"
-      },
-      {
-         "description" : "At the beginning of the month, FIDE published the new world ranking list. Since there have been more FIDE-rated tournaments recently there has been some movement on the list but Magnus Carlsen, Hou Yifan, Alireza Firouzja and Zhou Jiner are still the best players in the various categories.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-june-2022",
-         "pubDate" : "Wed, 01 Jun 2022 14:47:41 +0100",
-         "title" : "FIDE ratings June 2022"
       },
       {
          "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
