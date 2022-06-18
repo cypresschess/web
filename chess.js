@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One effect of the Covid Pandemic has been less international coverage on this blog. At first it was due to the lack of any events in early 2020, but even when online events began, it did not feel like 'real' chess to me. An oddly enough, when face to face events began, there seemed to be a confusing mess of them, with mixed rapid and classical formats. So I tended yo avoid them, both as a blogger and a spectator. So I am pleased to see the Candidates kick off, with a quite exciting round 1. Two decisive games, and two tough draws, were enjoyable to look at. Two of the favourites (Nakamura and Ding) went down, while Duda might be kicking himself after failing to convert a huge opening advant",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/2022-candidates.html",
+         "pubDate" : "Sat, 18 Jun 2022 14:50:00 +0000",
+         "title" : "2022 Candidates"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Sat, 18 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 2: Live"
+      },
+      {
+         "description" : "Rey Enigma continues to make history. Exactly 7 months after his TV match vs Karpov was watched by 2,5 million people, the mysterious masked chess player met on the board with Garry Kasparov. &#8220;To play &#8216;face to face' with a legend like Garry Kasparov has always been my dream,&#8221; says Rey Enigma. Stay tuned for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rey-enigma-vs-kasparov-cara-a-cara-tweetoftheday/",
+         "pubDate" : "Sat, 18 Jun 2022 13:38:53 +0000",
+         "title" : "Rey Enigma vs Kasparov \"cara a cara\" #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1816",
+         "pubDate" : "Sat, 18 Jun 2022 12:23:09 +0000",
+         "title" : "Winners crowned at Prague Chess Festival 2022"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/yIhPpeFBM_o?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-2/",
+         "pubDate" : "Sat, 18 Jun 2022 12:00:00 +0000",
+         "title" : "FIDE Candidates Tournament 2022: Round 2"
+      },
+      {
+         "description" : "The&#160;FIDE Candidates Chess 2022&#160;will take place in Madrid, from June 16 to July 7. It will be an 8-player double-round robin with some of the world&#x2019;s top Grandmasters. The winner of the FIDE 2022 Candidates Chess Tournament will qualify for the World Championship match later this year, competing in 14 rounds against the reigning World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-live/",
+         "pubDate" : "Sat, 18 Jun 2022 11:31:00 +0000",
+         "title" : "FIDE Candidates Chess 2022 LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-3-lichessorg\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-3-lichessorg",
+         "pubDate" : "Sat, 18 Jun 2022 11:21:24 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 3 | lichess.org"
+      },
+      {
          "description" : "A new book brings to mind two quotations from great minds, one a chess Grandmaster, the other one of the greatest of satirists. Aron Nimzowitsch once wrote: \"Ridicule can do much, for instance embitter the existence of young talents; but one thing is not given to it, to put a stop permanently to the incursion of new []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -23,7 +79,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/the-alireza-of-alirezas/",
          "pubDate" : "Sat, 18 Jun 2022 08:26:08 +0000",
-         "title" : "The Alireza of Alirezas!"
+         "title" : "Alireza Firouzja Turns 19 During the Dramatic Tournament"
       },
       {
          "description" : "Ex-World Championship challengers Ian Nepomniachtchi and Fabiano Caruana got off to a perfect start in a blistering Round 1 of the FIDE Candidates Tournament in Madrid. Nepo overwhelmed top seed Ding Liren, while Fabi punished Hikaru Nakamura for castling into trouble. The remaining games were drawn, but only after huge fights. Jan-Krzysztof Duda was almost winning in 10 moves against Richard Rapport, while Alireza Firouzja lived dangerously against Teimour Radjabov.",
@@ -135,7 +191,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-2",
          "pubDate" : "Fri, 17 Jun 2022 11:50:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 2"
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92288793.cms\" />Brushing aside all the speculations about his retirement from the sport, Indian Grandmaster (GM) Viswanathan Anand said that he will continue to play chess even if he wins the vice-president's post in the World Chess Federation (FIDE) elections.",
@@ -256,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/who-will-win-the-candidates-tournament-a-prediction",
          "pubDate" : "Fri, 17 Jun 2022 12:00:00 +0100",
          "title" : "Who will win the Candidates Tournament? A prediction"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 1 pairings (follow the links for each game)&#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R1&#xA0;/&#xA0;Candidates pairings all rounds Live blog: Live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-live-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Fri, 17 Jun 2022 10:09:37 +0000",
-         "title" : "FIDE Candidates 2022 live Sagar Shah and Amruta Mokal"
       },
       {
          "description" : "In middlegames, pieces often are scrambled all over the place. Svitlana shows us how to find out, which piece to move next, and where to move it to. Pawn structures start from an opening, and moving the correct piece in the middlegame has to start with an understanding of what you want to achieve with your position.",
@@ -616,14 +664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1810",
          "pubDate" : "Tue, 14 Jun 2022 20:35:44 +0000",
          "title" : "FIDE and ChessKid Unrated GIRLS ONLY tournament to start on July 10 "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. 2022.06.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-yuniesky-quesada-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-yuniesky-quesada-lichessorg",
-         "pubDate" : "Tue, 14 Jun 2022 20:17:28 +0000",
-         "title" : "Grandmaster's Choice - GM Yuniesky Quesada | lichess.org"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (57)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (57)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1986,14 +2026,6 @@ news_feed (
          "title" : "Norway Chess: So beats Carlsen in Armageddon, Anand leads"
       },
       {
-         "description" : "In his final 'Weekly Show' Lawrence Trent focuses on the Norway Chess Tournament and the game of the day is the smooth and effortless victory by Vishy Anand over Maxime Vachier-Lagrave in round 1. | Lawrence's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-final-weekly-show-round-1-of-norway-chess",
-         "pubDate" : "Wed, 01 Jun 2022 21:12:07 +0100",
-         "title" : "The (final) Weekly Show: Round 1 of Norway Chess"
-      },
-      {
          "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2160,22 +2192,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/28/book-recap-26-discussing-alexei-shirovs-fire-on-board-with-mitchell-fabian",
          "pubDate" : "Sun, 29 May 2022 02:18:52 +0000",
          "title" : "Book Recap #26- Discussing Alexei Shirov's Fire on Board with Mitchell Fabian "
-      },
-      {
-         "description" : " International Master Eugenio Campos is a long-time Olympian from Angola. Recently, he represented the country at the IPCA (International Physically Disabled Chess Association) tournament in Ashdod, Israel and placed a respectable 5/9. It is a tournament that he has participated in for the past decade. He has also represented his country in four Olympiad tournaments The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/\">IM Eugenio Campos at IPCA</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/28/eugenio-campos-at-ipca/",
-         "pubDate" : "Sat, 28 May 2022 14:43:05 +0000",
-         "title" : "IM Eugenio Campos at IPCA"
-      },
-      {
-         "description" : " The 2nd day of the 2022 ACT Championship was a lot tougher for the top seeds, with not everyone escaping unscathed. 2nd seed Junta Ikeda drew his third round game with Willis Lo, while 4th seed Fred Litchfield had a similar result in round 2 against James Phan. On the other hand IM Rishi Sardana reached 3 from 3 with a win over Harry Press in the afternoon round, joined by Cameron McGowan and Michael Kethro. Kethro showed good technique to convert a rook and pawn ending against CM Hui Li, from a position he thought might have been drawn. With 8 players within half a point of each other at the top, it is too early to pick a likely winner. McGowan and Sardana are on the top board for tomorrow",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-2-and-3.html",
-         "pubDate" : "Sat, 28 May 2022 14:35:00 +0000",
-         "title" : "2022 ACT Championship - Rounds 2 and 3"
       }
    ]
 }
