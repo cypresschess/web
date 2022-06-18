@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Candidates R1 recap by WGM Anastasiya Karlovich Replay games, analysis: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja Round 2 live: Rapport &#x2013; Firouzja / Nakamura &#x2013; Radjabov / Nepomniachtchi &#x2013; Caruana / Duda &#x2013; Ding Liren More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R1&#xA0;/&#xA0;Candidates pairings all rounds []",
+         "description" : "White's big trump in the diagram position is his active rook on h7, and with White's last move 23.Kb1! he also has prevented Black from bringing his king to safety by castling queenside. How would you punish 23...0-0-0?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-on-the-seventh",
+         "pubDate" : "Sat, 18 Jun 2022 09:00:00 +0100",
+         "title" : "Rook on the seventh"
+      },
+      {
+         "description" : "Happy birthday to Alireza Firouzja! We wish him a bright future and beautiful games on the chess board! 19-year-old&#xA0;Firouzja&#xA0;is an Iranian-French&#xA0;grandmaster who holds the No3 position in the FIDE world chess rankings since May this year. With a peak rating of 2804, Firouzja was the youngest chess player ever to cross 2800, beating the previous []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/happy-19th-birthday-to-alireza-firouzja/",
+         "pubDate" : "Sat, 18 Jun 2022 07:05:18 +0000",
+         "title" : "Happy 19th birthday to Alireza Firouzja!"
+      },
+      {
+         "description" : "Candidates R1 recap by WGM Anastasiya Karlovich Replay games, analysis: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja Video: Nakamura analyses his game against Caruana / A miniature in Ding Nepomniachtchi Round 2 live: Rapport &#x2013; Firouzja / Nakamura &#x2013; Radjabov / Nepomniachtchi &#x2013; Caruana []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/caruana-and-nepomniachtchi-shine-in-r1-of-the-fide-candidates-tournament/",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-1",
          "pubDate" : "Fri, 17 Jun 2022 20:21:06 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 1"
-      },
-      {
-         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other on Saturday in round two. Ho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
-         "pubDate" : "Fri, 17 Jun 2022 13:02:00 -0700",
-         "title" : "Caruana, Nepomniachtchi Win To Set Up Clash Of Leaders"
       },
       {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, beginning today with the top seed, Ding Liren.",
@@ -266,14 +274,6 @@ news_feed (
          "title" : "How does it feel to win the Candidates? #TweetOftheDay"
       },
       {
-         "description" : "Good morning everyone and welcome to the live blog from day 1 of the Candidates! We will cover all day long the events from Madrid, where the battles start today at 15:00 CET. The news will appear here on this live blog, time stamped at reverse chronological order. Scroll down to the first news of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/live-blog-candidates-chess-2022-day-1/",
-         "pubDate" : "Fri, 17 Jun 2022 07:15:33 +0000",
-         "title" : "Live blog - Candidates Chess 2022 day 1"
-      },
-      {
          "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2023 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. The competition is open to British residents only and entry is free. Its prize fund is expected to be at least &pound;1,200, plus awards to juniors. <a href=\"https://www.theguardian.",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -314,14 +314,6 @@ news_feed (
          "title" : "Flamenco and fanfare: The 2022 Candidates opening ceremony highlights"
       },
       {
-         "description" : "The FIDE Candidates Chess Tournament 2022 decides the qualifier for the FIDE World Chess Championship Match and kicks off on Friday, June 17th, with the first round. The 1st round is scheduled to start at 15:00 CET and brings the following encounters: Duda &#x2013; Rapport / Ding Liren &#x2013; Nepomniachtchi / Caruana &#x2013; Nakamura / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r1-preview/",
-         "pubDate" : "Thu, 16 Jun 2022 22:10:55 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R1 preview"
-      },
-      {
          "description" : " Grandmaster Maurice Ashley was one of the esteemed honorees that also included championship boxer Mike Tyson, actress Bern Nadette Stanis (Thelma of &#8220;Good Times&#8221;) and legendary football player Otis Wilson (Chicago Bears). Christian Whitted posted on social media platforms an event honoring the sons and daughters of the Brownsville Brooklyn area. The event took place The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/16/maurice-ashley-honored-by-brownsville/\">Maurice Ashley honored by Brownsville!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -330,28 +322,20 @@ news_feed (
          "title" : "Maurice Ashley honored by Brownsville!"
       },
       {
-         "description" : "Not only that Hikaru Nakamura is in Madrid to compete in the FIDE Candidates Chess Tournament 2022, but he also prepared the live broadcast of the event with Team Hikaru and Benjamin Bok, Irina Krush, Fiona Steil-Antoni, Levy Rozman, Anna Rudolf, James Canty, Jennifer Shahade and Maria Emelianova, as well as other special guests on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/team-hikaru-will-do-massive-giveaways-during-the-candidates-stream/",
-         "pubDate" : "Thu, 16 Jun 2022 21:37:50 +0000",
-         "title" : "Team Hikaru will do massive Giveaways during the Candidates stream"
-      },
-      {
-         "description" : "FIDE Candidates Chess Tournament 2022 opened today in the magnificent&#xA0;venue of Four Seasons Hotel in Madrid. During the opening ceremony, FIDE presented the Candidates Teaser (video below). The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists&#x2019; performances. The famous Chilean singer and songwriter Juga di Prima premiered her new []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-teaser/",
-         "pubDate" : "Thu, 16 Jun 2022 21:17:33 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - Teaser"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into what makes the world chess champion Magnus Carlsen so damn good in his preparation. 2022.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6hhy7bsZPG8.jpg?itok=VKmwrhPh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg",
          "pubDate" : "Thu, 16 Jun 2022 20:20:27 +0000",
          "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros | lichess.org"
+      },
+      {
+         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other on Saturday in round two. Ho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
+         "pubDate" : "Thu, 16 Jun 2022 13:02:00 -0700",
+         "title" : "Caruana, Nepomniachtchi Win To Set Up Clash Of Leaders"
       },
       {
          "description" : "This week Robert Ris looks at a game between the two young Indian Grandmasters Aravindh and Erigaisi, which was played at the MPL Indian Chess Tour and is a good example of Aravindh's attacking skills. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2002,14 +1986,6 @@ news_feed (
          "title" : "The (final) Weekly Show: Round 1 of Norway Chess"
       },
       {
-         "description" : "Wesley So and Vishy Anand grabbed an early lead at the Norway Chess super-tournament in Stavanger. So beat Teimour Radjabov, while Anand got the better of Maxime Vachier-Lagrave. Magnus Carlsen, Anish Giri and Shakhriyar Mamedyarov drew their classical encounters and went on to win the Armageddon. All five decisive games seen on Tuesday favoured the player with the white pieces. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r1",
-         "pubDate" : "Wed, 01 Jun 2022 14:50:00 +0100",
-         "title" : "Norway Chess: So, Anand score three-pointers"
-      },
-      {
          "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2192,14 +2168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-2-and-3.html",
          "pubDate" : "Sat, 28 May 2022 14:35:00 +0000",
          "title" : "2022 ACT Championship - Rounds 2 and 3"
-      },
-      {
-         "description" : "This past week, Praggnanandhaa had been studying for (and appearing in) his 11th standard exams in the mornings and then beating some of the best players in the world in the evenings. Including the best: Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/33996474/r-praggnanandhaa-2022-chessable-masters-rb-ramesh-magnus-carlsen-chess?device=featurephone",
-         "pubDate" : "Sat, 28 May 2022 01:19:23 -0500",
-         "title" : "Praggnanandhaa - Student by day, world-beating chess star by night"
       }
    ]
 }
