@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Candidates R1 recap by WGM Anastasiya Karlovich Replay games, analysis: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja Round 2 live: Rapport &#x2013; Firouzja / Nakamura &#x2013; Radjabov / Nepomniachtchi &#x2013; Caruana / Duda &#x2013; Ding Liren More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R1&#xA0;/&#xA0;Candidates pairings all rounds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caruana-and-nepomniachtchi-shine-in-r1-of-the-fide-candidates-tournament/",
+         "pubDate" : "Sat, 18 Jun 2022 05:37:42 +0000",
+         "title" : "Caruana and Nepomniachtchi shine in R1 of the FIDE Candidates Tournament"
+      },
+      {
+         "description" : "The&#160;Prague Chess Festival 2022&#160;took place 7-17 June, featuring a Masters 10 player round robin event, Challengers, and Futures tournaments.&#160; GM Pentala Harikrishna won the Masters as he won the last round against Anton Guijarro David to emerge as the sole Winner of the event with 6.5/9 points. GM Le Quang Liem was all the time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pentala-harikrishna-wins-prague-chess-masters-2022/",
+         "pubDate" : "Sat, 18 Jun 2022 05:09:29 +0000",
+         "title" : "Pentala Harikrishna wins Prague Chess Masters 2022"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92293433.cms\" />Five-time world chess champion Viswanathan Anand is quite excited about India hosting the Chess Olympiad for the first time since its inception in 1927. On Sunday, Prime Minister Narendra Modi will launch the first-ever torch relay for the Olympiad, at the Indira Gandhi Stadium in New Delhi, to kick off the flame's journey to 75 cities over the course of 40 days. The journey will culminate at Mahabalipuram, near Chennai - the venue for the July 28 to August 10 event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-1",
          "pubDate" : "Fri, 17 Jun 2022 20:21:06 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 1"
+      },
+      {
+         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other on Saturday in round two. Ho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
+         "pubDate" : "Fri, 17 Jun 2022 13:02:00 -0700",
+         "title" : "Caruana, Nepomniachtchi Win To Set Up Clash Of Leaders"
       },
       {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, beginning today with the top seed, Ding Liren.",
@@ -106,7 +130,7 @@ news_feed (
          "title" : "Immensely proud that we now have Chess Olympiad Torch Relay: Anand"
       },
       {
-         "description" : " <p class=\"lead\">Nepo, the unlikely winner of the previous Candidates Tournament, won his first game as black against the most formidable opponent, Ding , and got an early lead. <a href=\"https://chessarena.com/broadcast/17306/4c54c7f5-84a5-463a-a1ae-70a36d4a587b\">With Black</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/514D4B43-413B-4C3E-9D9A-C01CB7D1DDEC.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> <div style=\"position: relative; width: 600px; max-width: 100%; padding-bottom: min(calc(100% + 210px), 810px);\"><iframe src=\"https://widget.k8stage.worldchess.com/?theme=dark&cb-theme=worldchess&game-data-url=https://worldchess.com/api/online/gaming/4c54c7",
+         "description" : " <p class=\"lead\">Nepo, the unlikely winner of the previous Candidates Tournament, won his first game as black against the most formidable opponent, Ding, and got an early lead <a href=\"https://chessarena.com/broadcast/17306/4c54c7f5-84a5-463a-a1ae-70a36d4a587b\">With Black</a>. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/514D4B43-413B-4C3E-9D9A-C01CB7D1DDEC.jpeg\" width=\"1600\" height=\"1067\" alt=\"\" /> </div> <div style=\"position: relative; width: 600px; max-width: 100%; padding-bottom: min(calc(100% + 210px), 810px);\"><iframe src=\"https://widget.k8stage.worldchess.com/?theme=dark&cb-theme=worldchess&game-data-url=https://worldchess.com/api/online/gaming/4c54c7f5",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nepo-appears-to-be-winning-against-ding-with-black/",
@@ -322,36 +346,12 @@ news_feed (
          "title" : "FIDE Candidates Chess Tournament 2022 - Teaser"
       },
       {
-         "description" : "World No 9, GM Anish Giri announced today that he will do daily recaps on the 2022 FIDE Candidates Tournament. Giri was one of the favorites to qualify for the Candidates, but didn't make it after the series of qualification events. He yesterday published the video analyzing the game he played against a chess hustler []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-will-do-daily-candidates-recap/",
-         "pubDate" : "Thu, 16 Jun 2022 21:11:46 +0000",
-         "title" : "Anish Giri will do daily Candidates recap"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into what makes the world chess champion Magnus Carlsen so damn good in his preparation. 2022.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6hhy7bsZPG8.jpg?itok=VKmwrhPh\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg",
          "pubDate" : "Thu, 16 Jun 2022 20:20:27 +0000",
          "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros | lichess.org"
-      },
-      {
-         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other on Saturday in round two. Ho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
-         "pubDate" : "Thu, 16 Jun 2022 13:02:00 -0700",
-         "title" : "Caruana, Nepomniachtchi Win To Set Up Clash Of Leaders"
-      },
-      {
-         "description" : "The Four Seasons Hotel in Madrid hosted the Opening ceremony of the FIDE Candidates Chess Tournament 2022. The ceremony featured speeches of distinguished guests and FIDE representatives, as well as the artists' performances. The famous Chilean singer and songwriter Juga di Prima premiered her new song &#x201C;Open Files&#x201D;. The host of the night was the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-opening-ceremony/",
-         "pubDate" : "Thu, 16 Jun 2022 17:34:06 +0000",
-         "title" : "FIDE Candidates Chess 2022 - Opening ceremony (updated)"
       },
       {
          "description" : "This week Robert Ris looks at a game between the two young Indian Grandmasters Aravindh and Erigaisi, which was played at the MPL Indian Chess Tour and is a good example of Aravindh's attacking skills. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
