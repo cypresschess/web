@@ -10,6 +10,14 @@ news_feed (
          "title" : "Tata Steel Chess Tournament 2021"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Chess instructor Alex Moellering looks at the &quot;beginning&quot; of the endgame, known positions, and more. Originally on Twitch<br /> 2022.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YWh0XubB2aY.jpg?itok=5dWCjsjk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgame-beginner-breakdown",
+         "pubDate" : "Fri, 17 Jun 2022 23:21:03 +0000",
+         "title" : "The Endgame | Beginner Breakdown"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-preview",
          "pubDate" : "Mon, 13 Jun 2022 09:00:00 +0100",
          "title" : "All set for the event of the year: the Candidates Tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby teams up with the class to take on NM Julian Proleiko in a training game. 2022.05.10<br /> Caleb Denby vs. Julian PRoleiko, 2022: D02 London System<br /> <a href=\"https://lichess.org/HSeH8EkV\">https://lichess.org/HSeH8EkV</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caleb-class-vs-proleiko-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caleb-class-vs-proleiko-road-2000-nm-caleb-denby",
-         "pubDate" : "Mon, 13 Jun 2022 05:15:16 +0000",
-         "title" : "Caleb + Class vs. Proleiko | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "",
