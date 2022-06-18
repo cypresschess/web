@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2022-06-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206176742 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2022-06-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202206176732 target='_blank'>FBCC06172022</a>",
 "HOUSTON","2022-06-10  - 06-12","181","<a href=http://www.uschess.org/msa/XtblMain.php?202206124722 target='_blank'>TCR: SPACE CITY OPEN 2022</a>",
 "SPRING","2022-06-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202206103582 target='_blank'>FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-06-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202206103562 target='_blank'>FBCC END OF SPRING OPEN 2022</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2021-07-23  - 07-25","371","<a href=http://www.uschess.org/msa/XtblMain.php?202107252332 target='_blank'>U.S. CLASS CHESS CHAMPIONSHIPS</a>",
 "HOUSTON","2021-07-03  - 07-24","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107240682 target='_blank'>WEEKLYSATSWISSG90D30</a>",
 "PEARLAND","2021-07-22  - 07-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202107236092 target='_blank'>SCS CLUBHOUSE CAMP II</a>",
-"HOUSTON","2021-07-23","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107232932 target='_blank'>JULYFRIDAYFLEX723</a>",
-"CYPRESS","2021-07-23","14","<a href=http://www.uschess.org/msa/XtblMain.php?202107231442 target='_blank'>07232021KOFC</a>",
 ]);
