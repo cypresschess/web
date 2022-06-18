@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana and Ian Nepomniachtchi maintain their lead in the 2022 Candidates Tournament with 1.5/2. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbsp;Round three begins at...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-3",
+         "pubDate" : "Sat, 18 Jun 2022 11:38:00 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 3"
+      },
+      {
          "description" : " One effect of the Covid Pandemic has been less international coverage on this blog. At first it was due to the lack of any events in early 2020, but even when online events began, it did not feel like 'real' chess to me. An oddly enough, when face to face events began, there seemed to be a confusing mess of them, with mixed rapid and classical formats. So I tended yo avoid them, both as a blogger and a spectator. So I am pleased to see the Candidates kick off, with a quite exciting round 1. Two decisive games, and two tough draws, were enjoyable to look at. Two of the favourites (Nakamura and Ding) went down, while Duda might be kicking himself after failing to convert a huge opening advant",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anands-winning-run-ends-but-still-in-joint-lead-with-carlsen/articleshow/91998676.cms",
          "pubDate" : "Sat, 04 Jun 2022 05:06:18 +0000",
          "title" : "Norway Chess: Anand's winning run ends, but still in joint lead with Carlsen"
-      },
-      {
-         "description" : "IM Lawrence Trent overcame the match favorite and fifth seed, IM Alina Kashlinskaya, in the&#38;nbsp;2022 IM Not A GM Speed Chess Championship&#38;nbsp;on Friday. The players traded victories for much of the match until the finish of the bullet segment wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-trent-kashlinskaya",
-         "pubDate" : "Fri, 03 Jun 2022 14:35:00 -0700",
-         "title" : "Trent Overcomes Kashlinskaya"
       },
       {
          "description" : "Leon Mendonca recently won the HSK GM Invitational tournament, with 7 out of 9. Lawrence Trent played in the very same tournament, and reached the 50% mark, with 4.5 out of 9. Their game ended in a draw. Since Leon was still in Hamburg, we managed to have a Trent's Tactics show together. Maybe Lawrence, and Arne, thanks to Leon, finally went beyond the ChessBase tactics training rating of 2500? But, perhaps it was actually a huge challenge? Watch the video to find out how it went.",
