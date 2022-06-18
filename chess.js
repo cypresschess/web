@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new book brings to mind two quotations from great minds, one a chess Grandmaster, the other one of the greatest of satirists. Aron Nimzowitsch once wrote: \"Ridicule can do much, for instance embitter the existence of young talents; but one thing is not given to it, to put a stop permanently to the incursion of new []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/was-basman-right-iconoclasm-ridicule-and-chess/",
+         "pubDate" : "Sat, 18 Jun 2022 10:37:12 +0000",
+         "title" : "Was Basman right? Iconoclasm, ridicule and chess"
+      },
+      {
+         "description" : "The Canadian Grandmaster Eric Hansen openly called for transparency in charity streams. &#8220;Chess streamers get paid extremely well to do charity streams like Hikaru Nakamura. Am I the only one who thinks this should be disclosed? I am OK with streamers making $ because of the net positive, but the lack of transparency bothers me.&#8221; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/eric-hansen-calls-for-transparency-in-charity-streams-tweetoftheday/",
+         "pubDate" : "Sat, 18 Jun 2022 08:49:05 +0000",
+         "title" : "Eric Hansen calls for transparency in charity streams #TweetOftheDay"
+      },
+      {
+         "description" : " <p class=\"lead\">Today, GM Alireza Firouzja turns 19 and his birthday finds him at the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament!</a> The young GM - the youngest to participate in this year's Candidates - is <a href=\"https://worldchess.com/news/all/what-happens-if-carlsen-quits-the-championship-cycle/\">Carlsen's favorite</a> to win the tournament as he might not even defend his title otherwise. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52153415364_da82c7eb9a_h-1.jpg\" width=\"1533\" height=\"1080\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Maria Emelianova</div> </div> \"He's the French favourite, he's the fan favourite, and",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-alireza-of-alirezas/",
+         "pubDate" : "Sat, 18 Jun 2022 08:26:08 +0000",
+         "title" : "The Alireza of Alirezas!"
+      },
+      {
+         "description" : "Ex-World Championship challengers Ian Nepomniachtchi and Fabiano Caruana got off to a perfect start in a blistering Round 1 of the FIDE Candidates Tournament in Madrid. Nepo overwhelmed top seed Ding Liren, while Fabi punished Hikaru Nakamura for castling into trouble. The remaining games were drawn, but only after huge fights. Jan-Krzysztof Duda was almost winning in 10 moves against Richard Rapport, while Alireza Firouzja lived dangerously against Teimour Radjabov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-1-nepo-and-caruana-start-fast",
+         "pubDate" : "Sat, 18 Jun 2022 08:15:36 +0000",
+         "title" : "Madrid Candidates 1: Nepo and Caruana start fast"
+      },
+      {
          "description" : "White's big trump in the diagram position is his active rook on h7, and with White's last move 23.Kb1! he also has prevented Black from bringing his king to safety by castling queenside. How would you punish 23...0-0-0?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,14 +266,6 @@ news_feed (
          "title" : "FIDE Candidates 2022 live Sagar Shah and Amruta Mokal"
       },
       {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Fiona Steil-Antoni, in collaboration with Worldchess.com. Round 1 pairings(follow the links for each game)&#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R1&#xA0;/&#xA0;Candidates pairings all rounds Live blog: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-live-with-gm-daniil-yuffa-and-wim-fiona-steil-antoni/",
-         "pubDate" : "Fri, 17 Jun 2022 09:55:15 +0000",
-         "title" : "FIDE Candidates 2022 live with GM Daniil Yuffa and WIM Fiona Steil-Antoni"
-      },
-      {
          "description" : "In middlegames, pieces often are scrambled all over the place. Svitlana shows us how to find out, which piece to move next, and where to move it to. Pawn structures start from an opening, and moving the correct piece in the middlegame has to start with an understanding of what you want to achieve with your position.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/press-conference-opens-candidates-tournament",
          "pubDate" : "Fri, 17 Jun 2022 09:03:40 +0100",
          "title" : "Press conference opens Candidates Tournament"
-      },
-      {
-         "description" : "FIDE Candidates Chess 2022 kicks off today in Madrid and the tension among players and spectators grow. Fabiano Caruana explained at the Opening Press Conference: &#8220;The tension of this tournament is only surpassed by the world championship match&#8221;. And how does it feel to win the Candidates Tournament? Everything is explained in one photo shared []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/how-does-it-feel-to-win-the-candidates-tweetoftheday/",
-         "pubDate" : "Fri, 17 Jun 2022 07:31:40 +0000",
-         "title" : "How does it feel to win the Candidates? #TweetOftheDay"
       },
       {
          "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2023 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. The competition is open to British residents only and entry is free. Its prize fund is expected to be at least &pound;1,200, plus awards to juniors. <a href=\"https://www.theguardian.",
@@ -1904,14 +1920,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-highlight-the-international-chess-festival-prague",
          "pubDate" : "Fri, 03 Jun 2022 12:07:10 +0100",
          "title" : "A highlight: The International Chess Festival Prague"
-      },
-      {
-         "description" : "Magnus Carlsen described himself as \"very, very happy\" as he picked up a first classical win of Norway Chess 2022 by defeating Teimour Radjabov in Round 3. Magnus moved up to 3rd place, while the only other player to score the full 3 points was Maxime Vachier-Lagrave, who beat Arjan Tari and moved up to 4th. The leaders were unchanged, with Vishy Anand and Wesley So defeating Wang Hao and Anish Giri in Armageddon to keep up a record of winning all their mini-matches so far.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-3-carlsen-and-mvl-move-up",
-         "pubDate" : "Fri, 03 Jun 2022 10:36:08 +0000",
-         "title" : "Norway Chess 3: Carlsen and MVL move up"
       },
       {
          "description" : " World champion is aiming to score a fourth successive victory in his home tournament, while a London schoolboy has a chance to qualify as the youngest 2000-rated Expert Magnus Carlsen recovered from a slow start to score a third round win following two lacklustre draws this week at Stavanger, the Norway tournament which the world champion has won on its last three renewals. The world No 1's games are screened live and free daily from 4pm BST to a global internet audience, with grandmaster commentaries and a board sidebar which enables non-chess players to see who is winning. Draws are immediately replayed as Armageddons, where White has 10 minutes to Black's seven but a halved result on the",
