@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GMs Fabiano Caruana and Ian Nepomniachtchi maintain their lead in the 2022 Candidates Tournament with 1.5/2. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbsp;Round three begins at...",
+         "description" : "<div class=\"body text-secondary\"> Chess instructor Alex Moellering shows how analyzing games is valuable, whether it&#039;s your own chess or a stranger&#039;s. 2022.05.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/game-analysis-101-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eVr3zhjpAi8.jpg?itok=hd5_6Q0q\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/game-analysis-101-beginner-breakdown",
+         "pubDate" : "Sat, 18 Jun 2022 23:22:01 +0000",
+         "title" : "Game Analysis 101 | Beginner Breakdown"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1817",
+         "pubDate" : "Sat, 18 Jun 2022 22:46:33 +0000",
+         "title" : "2022 Candidates, Round 2: A day of missed chances"
+      },
+      {
+         "description" : "The second day of the 2022 Candidates saw just one game ending with a victory and three ending in draws. Replay R2:&#160;Richard Rapport &#x2013; Alireza Firouzja&#160;/&#160;Hikaru Nakamura &#x2013; Teimour Radjabov&#160;/&#160;Ian Nepomniachtchi &#x2013; Fabiano Caruana&#160;/&#160;Jan-Krzysztof Duda &#x2013; Ding Liren Replay R1: &#160;Jan-Krzysztof Duda &#x2013; Richard Rapport&#160;/&#160;Ding Liren &#x2013; Ian Nepomniachtchi&#160;/&#160;Fabiano Caruana &#x2013; Hikaru Nakamura&#160;/&#160;Teimour Radjabov &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-steals-the-day-in-r2-of-the-fide-candidates-2022/",
+         "pubDate" : "Sat, 18 Jun 2022 22:22:23 +0000",
+         "title" : "Nakamura steals the show in R2 of the FIDE Candidates 2022"
+      },
+      {
+         "description" : "Agadmator is sincere on Nepo Caruana game from FIDE Candidates 2022. He says, &#8220;Good luck following this game&#8221; Replay R1: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja&#xA0;Replay R2:&#xA0;Richard Rapport &#x2013; Alireza Firouzja&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Teimour Radjabov&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Fabiano Caruana&#xA0;/&#xA0;Jan-Krzysztof Duda &#x2013; Ding Liren []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/agadmator-nepo-caruana-2022/",
+         "pubDate" : "Sat, 18 Jun 2022 21:58:29 +0000",
+         "title" : "Agadmator: Nepo - Caruana 2022"
+      },
+      {
+         "description" : "In depth analysis of the Candidates Round 1 with Anna Cramling and her mom GM Pia Cramling. This was all filmed in 1 take! Replay R1: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja Preview R2:&#xA0;Richard Rapport &#x2013; Alireza Firouzja&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Teimour Radjabov&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-cramling-and-pia-cramling-candidates-r1-recap-in-one-take/",
+         "pubDate" : "Sat, 18 Jun 2022 21:42:59 +0000",
+         "title" : "Anna Cramling and Pia Cramling - Candidates R1 recap in one take"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-2\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-2",
+         "pubDate" : "Sat, 18 Jun 2022 20:21:45 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 2"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nakamura winning against Radjabov - the only decisive game of the day -, while Rapport missed a huge chance with Firouzja. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52155659259_472b84ef82_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52155501209_4b7c703127_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52155501049_48b78d254a_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/r2-candidates-nakamura-beat-radjabov-rapport-missed-his-chance-w/",
+         "pubDate" : "Sat, 18 Jun 2022 19:34:05 +0000",
+         "title" : "R2 Candidates: Nakamura beat Radjabov, Rapport missed his chance with Firouzja"
+      },
+      {
+         "description" : " Hikaru Nakamura won the only decisive game of the day when he beat Teimour Radjabov in 75 moves and six and a half hours play of Round 2 of the FIDE Candidates tournament in Madrid. Nakamura didn't get much out of the opening and the game turned into a very long grind. It seems about move 35 Radjabov started to get into trouble but the whole endgame was very hard to understand for anyone. Nakamura returns to 50% after his loss against Caruana yesterday. This endgame was far too difficult for me to annotate well. The leaders Ian Nepomniachtchi and Fabiano Caruana drew a very complicated Giuoco Piano by repetition in 41 moves. Caruana was well prepared and played bold pawn pushes on the kind ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nakamura-beats-radjabov-in-round-2-of-the-candidates",
+         "pubDate" : "Sat, 18 Jun 2022 22:53:00 +0400",
+         "title" : "Nakamura beats Radjabov in Round 2 of the Candidates - 2"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Ian Nepomniachtchi maintain their lead in the 2022 Candidates Tournament with 1.5/2. GM Hikaru Nakamura defeated GM Teimour Radjabov in the second round, bouncing back from round one with a resounding victory. The eight can...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-3",
          "pubDate" : "Sat, 18 Jun 2022 11:38:00 -0700",
          "title" : "How To Watch FIDE Candidates Tournament Round 3"
+      },
+      {
+         "description" : "Hikaru Nakamura recaps his game against Radjabov in FIDE Candidates 2022. Going for the Berlin, Hikaru used a blitz chess idea from a game between Nepomniachtchi&#160;and Aronian. Replay R1: &#160;Jan-Krzysztof Duda &#x2013; Richard Rapport&#160;/&#160;Ding Liren &#x2013; Ian Nepomniachtchi&#160;/&#160;Fabiano Caruana &#x2013; Hikaru Nakamura&#160;/&#160;Teimour Radjabov &#x2013; Alireza Firouzja&#160;Replay R2:&#160;Richard Rapport &#x2013; Alireza Firouzja&#160;/&#160;Hikaru Nakamura &#x2013; Teimour Radjabov&#160;/&#160;Ian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-recaps-his-game-against-radjabov-in-fide-candidates-2022/",
+         "pubDate" : "Sat, 18 Jun 2022 17:45:00 +0000",
+         "title" : "Hikaru Nakamura recaps his game against Radjabov in FIDE Candidates 2022"
       },
       {
          "description" : " One effect of the Covid Pandemic has been less international coverage on this blog. At first it was due to the lack of any events in early 2020, but even when online events began, it did not feel like 'real' chess to me. An oddly enough, when face to face events began, there seemed to be a confusing mess of them, with mixed rapid and classical formats. So I tended yo avoid them, both as a blogger and a spectator. So I am pleased to see the Candidates kick off, with a quite exciting round 1. Two decisive games, and two tough draws, were enjoyable to look at. Two of the favourites (Nakamura and Ding) went down, while Duda might be kicking himself after failing to convert a huge opening advant",
@@ -114,22 +186,6 @@ news_feed (
          "title" : "Happy 19th birthday to Alireza Firouzja!"
       },
       {
-         "description" : "Candidates R1 recap by WGM Anastasiya Karlovich Replay games, analysis: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja Video: Nakamura analyses his game against Caruana / A miniature in Ding Nepomniachtchi Round 2 live: Rapport &#x2013; Firouzja / Nakamura &#x2013; Radjabov / Nepomniachtchi &#x2013; Caruana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-and-nepomniachtchi-shine-in-r1-of-the-fide-candidates-tournament/",
-         "pubDate" : "Sat, 18 Jun 2022 05:37:42 +0000",
-         "title" : "Caruana and Nepomniachtchi shine in R1 of the FIDE Candidates Tournament"
-      },
-      {
-         "description" : "The&#160;Prague Chess Festival 2022&#160;took place 7-17 June, featuring a Masters 10 player round robin event, Challengers, and Futures tournaments.&#160; GM Pentala Harikrishna won the Masters as he won the last round against Anton Guijarro David to emerge as the sole Winner of the event with 6.5/9 points. GM Le Quang Liem was all the time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pentala-harikrishna-wins-prague-chess-masters-2022/",
-         "pubDate" : "Sat, 18 Jun 2022 05:09:29 +0000",
-         "title" : "Pentala Harikrishna wins Prague Chess Masters 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92293433.cms\" />Five-time world chess champion Viswanathan Anand is quite excited about India hosting the Chess Olympiad for the first time since its inception in 1927. On Sunday, Prime Minister Narendra Modi will launch the first-ever torch relay for the Olympiad, at the Indira Gandhi Stadium in New Delhi, to kick off the flame's journey to 75 cities over the course of 40 days. The journey will culminate at Mahabalipuram, near Chennai - the venue for the July 28 to August 10 event.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -194,12 +250,12 @@ news_feed (
          "title" : "Nepomniachtchi and Caruana start the 2022 Candidates with a win"
       },
       {
-         "description" : "The first round of the 2022 Candidates Tournament is in the books, with GMs Fabiano Caruana and Ian Nepomniachtchi taking the lead. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbs...",
+         "description" : "GM Hikaru Nakamura came back strongly in the second round of the&#38;nbsp;2022 Candidates Tournament. The American grandmaster ground down GM Teimour Radjabov in an endgame to score the full point, with the other three games ending in draws. How t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-2",
          "pubDate" : "Fri, 17 Jun 2022 11:50:00 -0700",
-         "title" : "Watch LIVE: FIDE Candidates Tournament Round 2"
+         "title" : "Nakamura Bounces Back, Grinds Down Radjabov As Rivals Draw"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92288793.cms\" />Brushing aside all the speculations about his retirement from the sport, Indian Grandmaster (GM) Viswanathan Anand said that he will continue to play chess even if he wins the vice-president's post in the World Chess Federation (FIDE) elections.",
@@ -632,22 +688,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada",
          "pubDate" : "Wed, 15 Jun 2022 08:18:12 +0000",
          "title" : "Endgames & Middlegame Exercises | Grandmaster's Choice - GM Yuniesky Quesada"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby relives one of his games from the 2022 Premier &amp; Amateur, a popular annual event in Saint Louis. See how Caleb won the Premier (open) section. 2022.06.14<br /> Prateek Nemmali vs. Caleb Denby, 2022: B13 Caro-Kann, exchange variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/omg-i-won-premier-amateur-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_e",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/omg-i-won-premier-amateur-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 15 Jun 2022 02:17:53 +0000",
-         "title" : "OMG! I Won the Premier & Amateur! | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada-lichessorg",
-         "pubDate" : "Tue, 14 Jun 2022 23:17:33 +0000",
-         "title" : "Endgames & Middlegame Exercises | Grandmaster's Choice - GM Yuniesky Quesada | lichess.org"
       },
       {
          "description" : "Le Quang Liem grabbed the sole lead at the Masters section of the Prague Chess Festival after beating Saleh Salem in Tuesday's sixth round. Pentala Harikrishna is in sole second place a half point back. In the Challengers, former sole leader Vincent Keymer was held to a draw by Marcin Krzyzanowski, which allowed Nodirbek Abdusattorov to climb to the shared lead thanks to a win over Max Warmerdam. | Photo: Petr Vrabec",
