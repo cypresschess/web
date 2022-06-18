@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " From the publishers' blurb: &#8220;That such a fine achievement should be immortalized, is beyond dispute. But who will pick up the gauntlet? We live in a volatile world where the Internet is dominant and when a tournament is over, the next one is already at the door. No time for reflection and historical awareness? Yet <a href=\"http://britishchessnews.com/2022/06/21/tata-steel-chess-tournament-2021/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Tata Steel Chess Tournament 2021</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/06/21/tata-steel-chess-tournament-2021/\">Tata Steel Chess Tournament 2021</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/06/21/tata-steel-chess-tournament-2021/",
-         "pubDate" : "Tue, 21 Jun 2022 00:00:14 +0000",
-         "title" : "Tata Steel Chess Tournament 2021"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Chess instructor Alex Moellering looks at the &quot;beginning&quot; of the endgame, known positions, and more. Originally on Twitch<br /> 2022.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YWh0XubB2aY.jpg?itok=5dWCjsjk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
