@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Although chess is a total-information game in which everything is laid bare on the board, in practice we can see only part of the picture. Feelings do play a crucial role, at least in games between humans. One necessary evil is the ability, when the need arises, to bluff - or at the very least to keep a reasonably straight face! | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-172",
+         "pubDate" : "Sun, 19 Jun 2022 11:00:00 +0100",
+         "title" : "Bluff and thunder"
+      },
+      {
+         "description" : "Hikaru Nakamura bounced straight back from his loss to Fabiano Caruana to defeat Teimour Radjabov in Round 2 of the FIDE Candidates Tournament in Madrid. The other games were drawn, but only after Richard Rapport missed wins against birthday boy Alireza Firouzja, while the Nepo-Caruana clash of the leaders was a thriller after Fabi unleashed some dangerous home preparation. Duda-Ding was the quietest draw, but even there both sides got chances.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-2-nakamura-strikes-back",
+         "pubDate" : "Sun, 19 Jun 2022 09:24:28 +0000",
+         "title" : "Madrid Candidates 2: Nakamura strikes back"
+      },
+      {
+         "description" : "The third round of the FIDE Candidates Chess Tournament 2022 is the last one to be played before the players go on the first resting day of the event. Round 3 features the following encounters: Ding Liren &#x2013; Richard Rapport / Fabiano Caruana &#x2013; Jan-Krzysztof Duda / Teimour Radjabov &#x2013; Ian Nepomniachtchi / Alireza Firouzja []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-r3-preview/",
+         "pubDate" : "Sun, 19 Jun 2022 09:23:39 +0000",
+         "title" : "FIDE Candidates Chess Tournament - R3 preview"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92311227.cms\" />Viswanathan Anand joined sports minister Anurag Thakur during an interaction with TOI in the Capital on Saturday. The two Guest Sports Editors talked about the way ahead for chess, plans to popularise the sport at the grassroots level and stage more international tournaments to give aspiring youngsters exposure to top-quality chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rook-on-the-seventh",
          "pubDate" : "Sat, 18 Jun 2022 09:00:00 +0100",
          "title" : "Rook on the seventh"
-      },
-      {
-         "description" : "Happy birthday to Alireza Firouzja! We wish him a bright future and beautiful games on the chess board! 19-year-old&#xA0;Firouzja&#xA0;is an Iranian-French&#xA0;grandmaster who holds the No3 position in the FIDE world chess rankings since May this year. With a peak rating of 2804, Firouzja was the youngest chess player ever to cross 2800, beating the previous []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-19th-birthday-to-alireza-firouzja/",
-         "pubDate" : "Sat, 18 Jun 2022 07:05:18 +0000",
-         "title" : "Happy 19th birthday to Alireza Firouzja!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92293433.cms\" />Five-time world chess champion Viswanathan Anand is quite excited about India hosting the Chess Olympiad for the first time since its inception in 1927. On Sunday, Prime Minister Narendra Modi will launch the first-ever torch relay for the Olympiad, at the Indira Gandhi Stadium in New Delhi, to kick off the flame's journey to 75 cities over the course of 40 days. The journey will culminate at Mahabalipuram, near Chennai - the venue for the July 28 to August 10 event.",
@@ -1922,14 +1938,6 @@ news_feed (
          "title" : "Welcome To Valhalla: Carlsen Crushes Giri"
       },
       {
-         "description" : "Magnus Carlsen goes into the 1st rest day of Norway Chess as the co-leader after beating Anish Giri to make his lifetime score against his Dutch rival 6 wins to 1. Wesley So is the only player to have won all four mini-matches, after surviving a lost position to defeat Vishy Anand in Armageddon, but Vishy, with two wins in classical chess, is a point clear of Wesley. Shakhriyar Mamedyarov picked up the only other classical win, beating Wang Hao to move up to 4th place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-4-carlsen-beats-giri-catches-anand",
-         "pubDate" : "Sat, 04 Jun 2022 14:56:04 +0000",
-         "title" : "Norway Chess 4: Carlsen beats Giri, catches Anand"
-      },
-      {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2056,14 +2064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-518-pragg-vs-giri",
          "pubDate" : "Thu, 02 Jun 2022 08:15:00 +0100",
          "title" : "Game of the Week #518: Pragg vs Giri"
-      },
-      {
-         "description" : "Viswananathan Anand is the man of the hour. He got his second three-point win at the Norway Chess tournament on Wednesday, as he beat Veselin Topalov and now leads the standings table with 6 points. Wesley So won in Armageddon after drawing his classical encounter against Magnus Carlsen. | Photos: Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r2",
-         "pubDate" : "Thu, 02 Jun 2022 08:00:00 +0100",
-         "title" : "Norway Chess: So beats Carlsen in Armageddon, Anand leads"
       },
       {
          "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
@@ -2216,14 +2216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-4-and-5.html",
          "pubDate" : "Sun, 29 May 2022 13:34:00 +0000",
          "title" : "2022 ACT Championship - Rounds 4 and 5"
-      },
-      {
-         "description" : "It is a little known fact that Queen Victoria, by virtue of her being declared Empress of India in 1876, was the ruler of the world's third largest Muslim population, behind only the Islamic Sultan of Turkey and the Orthodox Christian Czar of Russia. Indeed, the very word Czar (cognate with Kaiser) is derived from Caesar, the name []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/lost-empires/",
-         "pubDate" : "Sun, 29 May 2022 09:11:10 +0000",
-         "title" : "Lost Empires"
       }
    ]
 }
