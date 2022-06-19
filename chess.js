@@ -2,6 +2,158 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first three rounds of the 2022 Candidates Tournament are complete and GMs Fabiano Caruana and Ian Nepomniachtchi maintain the lead with 2/3 heading into the rest day. The eight candidates are fighting for the right to challenge GM Magnus Carls...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-4",
+         "pubDate" : "Sun, 19 Jun 2022 11:41:00 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 4"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 3 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with no decisive game. All four games ended in a draw with Firouzja - Nakamura gaining the most interest. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52158144255_2f7740a5bf_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52158019451_9509ed30a9_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52158000049_0d8e8ace06_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/four-draws-for-round-3-of-the-2022-candidates/",
+         "pubDate" : "Sun, 19 Jun 2022 18:00:28 +0000",
+         "title" : "Four draws for Round 3 of the 2022 Candidates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92322229.cms\" />Top-seeded Russian Grandmaster Savchenko Boris, playing under the FIDE banner, started his campaign at the 13th Chennai Open international Grandmaster tournament here on Sunday with an easy win over Thapa Ganesh Bahadur. Boris arrived into the tournament in good form having won the GITAM University GM chess tournament in Visakhapatnam on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/russias-savchenko-starts-chennai-event-with-easy-win/articleshow/92322229.cms",
+         "pubDate" : "Sun, 19 Jun 2022 17:03:58 +0000",
+         "title" : "Russia's Savchenko starts Chennai event with easy win"
+      },
+      {
+         "description" : "The FIDE Candidates Chess Tournament 2022 broke interesting records even before it started and now we can see chess is booming in Madrid. Isabel Garcia de la Cruz @IsaGeller shared photos of people waiting in line to see their chess idols. &#x201C;Madrid is already breathing chess&#x201D; explained the Chief Marketing and Communications Officer of FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-is-booming-in-madrid-tweetoftheday/",
+         "pubDate" : "Sun, 19 Jun 2022 16:58:51 +0000",
+         "title" : "Chess is booming in Madrid #TweetOftheDay"
+      },
+      {
+         "description" : " The third round of the FIDE Candidates in Madrid saw it's first day without a result. The intensity so far has been tremendous but today's round was shorter and of slightly less interest than the first two. The first rest day is on Monday. Ding Liren had the best chance to win, he had Richard Rapport on the ropes after winning the opening battle. 17...Rfd8 was still following known theory but 18.Bg5N seems to come close to refuting it, 20...Be5?! (20...Bf6) was another inaccuracy, and 21...Kg7? should have lost, firstly through the computer line 23.Qxd8! but more realistically 27.Qe2! should have brought the full point home. After that Rapport held the draw reasonably easily. Alireza Firouz",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/all-four-games-drawn-in-round-3-of-the-fide-candidates",
+         "pubDate" : "Sun, 19 Jun 2022 20:18:00 +0400",
+         "title" : "All four games drawn in Round 3 of the FIDE Candidates - 3"
+      },
+      {
+         "description" : " It's Black to play in this minor piece ending. What I'd like you to do is assess this position. What are the plans for both sides? Who do think stands better? What do you think the result should be with best play? What would you play in this position if you were Black? Stop and <a href=\"https://chessimprover.com/minor-piece-ending/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Minor Piece Ending\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/minor-piece-ending/\">Minor Piece Ending</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/minor-piece-ending/",
+         "pubDate" : "Sun, 19 Jun 2022 15:48:24 +0000",
+         "title" : "Minor Piece Ending"
+      },
+      {
+         "description" : " <p class=\"lead\">The 44th edition of the Chess Olympiad will be held in Mahabalipuram, near Chennai, from July 28 to August 10. Today India's Prime Minister Narendra Modi flagged off the first-ever torch relay for the Chess Olympiad! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-3.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: PTI</div> </div> With an impressive ceremony at the IG Stadium in New Delhi, India welcomed chess players and the chess fraternity from around the world to celebrate the very first torch relay in a Chess Olympiad. According to <a href=\"https://www.news9live.com/sports/pm-narendra-modi-fla",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-first-ever-torch-relay-for-the-chess-olympiad/",
+         "pubDate" : "Sun, 19 Jun 2022 15:01:47 +0000",
+         "title" : "The first-ever torch relay for the Chess Olympiad"
+      },
+      {
+         "description" : "The&#xA0;FIDE World School Chess Championship 2022 takes place from June 10-19, 2022, at the Wyndham Panama Albrook Mall Hotel &#38; Convention Center, Panama City, under the auspices of FIDE and the Panama Chess Federation. The First Lady of Panama Yazmin de Cortizo paid a visit to the event which gathered around 600 children from more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-first-lady-of-panama-visits-fide-world-school-chess-championships/",
+         "pubDate" : "Sun, 19 Jun 2022 14:52:16 +0000",
+         "title" : "The First Lady of Panama visits FIDE World School Chess Championships"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 84th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-84-basics-of-the-benko-gambit-3",
+         "pubDate" : "Sun, 19 Jun 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 84: Basics of the Benko Gambit (3)"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Sun, 19 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 3: Live"
+      },
+      {
+         "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-1",
+         "pubDate" : "Sun, 19 Jun 2022 14:30:00 +0100",
+         "title" : "Endgames from Madrid (1)"
+      },
+      {
+         "description" : "Prime Minister Narendra Modi on Sunday flagged off the first-ever torch relay for the Chess Olympiad ahead of the 44th edition of the event, which is to be held in Mahabalipuram from July 28 to August 10. The international chess body, FIDE, for the very first time has instituted the torch relay, which is part of the Olympic tradition, but was never done in the Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/torch-relay-an-honour-for-the-glorious-heritage-of-chess-pm-narendra-modi/articleshow/92319698.cms",
+         "pubDate" : "Sun, 19 Jun 2022 13:25:34 +0000",
+         "title" : "PM Narendra Modi flags off first-ever torch relay for Chess Olympiad"
+      },
+      {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UWTAJ_9GEvp6E3CTd2oKAptXS2Z6ptirrXNsdfS3WkgQKXvFyHPP1yNS4H73ywUQZ7QJlmPAS-jj1OF1FEbkxQ__RG2v5aa57VIWWTgcQQIleNQ6hfxLrl3G-IMeYj24Ss3JbuhKcDu7Xb66ZIlxwbpCwbMalsDM_itNbcj6lgQd6xqj0Wt0Pmey/s681/actsch.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"679\" data-original-width=\"681\" height=\"199\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UWTAJ_9GEvp6E3CTd2oKAptXS2Z6ptirrXNsdfS3WkgQKXvFyHPP1yNS4H73ywUQZ7QJlmPAS-jj1OF1FEbkxQ__RG2v5aa57VIWWTgcQQIleNQ6hfxLrl3G-IMeYj24Ss3JbuhKcDu7X",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/stalemate-tricks-to-know.html",
+         "pubDate" : "Sun, 19 Jun 2022 13:14:00 +0000",
+         "title" : "Stalemate tricks to know"
+      },
+      {
+         "description" : "The second Global Exchange Forum, organized by FIDE Commission for Women&#x2019;s Chess and Chess24, took place on June 18th, focusing on the topic &#8220;How is harassment defined, guidelines and support to report cases&#8221;. Kristine Marie Ganz, Secretary-General from the Norwegian Chess Federation hosted the event and Marco Biagioli, a lawyer and FIDE legal expert, was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-in-chess-global-exchange-forum/",
+         "pubDate" : "Sun, 19 Jun 2022 12:01:25 +0000",
+         "title" : "Women in Chess - Global Exchange Forum"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/XYXL0lWQ_-8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-3/",
+         "pubDate" : "Sun, 19 Jun 2022 12:00:00 +0000",
+         "title" : "FIDE Candidates Tournament 2022: Round 3"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and IM/WGM Elisabeth Paehtz, in collaboration with Worldchess.com. Round 3 pairings (follow the links for each game)Ding Liren &#x2013; Richard Rapport&#xA0;/&#xA0;Fabiano Caruana &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Teimour Radjabov &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Alireza Firouzja &#x2013; Hikaru Nakamura More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R3&#xA0;/&#xA0;Candidates pairings all rounds&#xA0;/&#xA0;Candidates LIVE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-live-with-gm-daniil-yuffa-and-im-elisabeth-paehtz/",
+         "pubDate" : "Sun, 19 Jun 2022 11:40:03 +0000",
+         "title" : "FIDE Candidates 2022 live with GM Daniil Yuffa and IM Elisabeth Paehtz"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with Sagar Shah and Amruta Mokal, in collaboration with Chessbase.&#xA0;Round 3 pairings (follow the links for each game)&#xA0;Ding Liren &#x2013; Richard Rapport&#xA0;/&#xA0;Fabiano Caruana &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Teimour Radjabov &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Alireza Firouzja &#x2013; Hikaru Nakamura More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R3&#xA0;/&#xA0;Candidates pairings all rounds&#xA0;/ Candidates LIVE All Candidates []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r3-live-sagar-shah-and-amruta-mokal/",
+         "pubDate" : "Sun, 19 Jun 2022 11:34:37 +0000",
+         "title" : "FIDE Candidates 2022 R3 live Sagar Shah and Amruta Mokal"
+      },
+      {
+         "description" : "The&#xA0;FIDE Candidates Chess 2022&#xA0;will take place in Madrid, from June 16 to July 7. It will be an 8-player double-round robin with some of the world&#x2019;s top Grandmasters. The winner of the FIDE 2022 Candidates Chess Tournament will qualify for the World Championship match later this year, competing in 14 rounds against the reigning World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-live/",
+         "pubDate" : "Sun, 19 Jun 2022 11:31:00 +0000",
+         "title" : "FIDE Candidates Chess 2022 LIVE"
+      },
+      {
+         "description" : "The first-ever Chess Olympiad Torch Relay took place today at Indira Gandhi Stadium in New Delhi. Prime Minister of India Shri Narendra Modi lit the Flame and handed it over to 15th World Chess Champion Viswanathan Anand. With less than 50 days to go, the Olympiad in Chennai broke participants&#x2019; records with&#xA0;187 countries already enrolled.&#xA0; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/first-ever-chess-olympic-flame-lit-in-india/",
+         "pubDate" : "Sun, 19 Jun 2022 10:32:00 +0000",
+         "title" : "First-ever Chess Olympic Flame lit in India"
+      },
+      {
          "description" : "Although chess is a total-information game in which everything is laid bare on the board, in practice we can see only part of the picture. Feelings do play a crucial role, at least in games between humans. One necessary evil is the ability, when the need arises, to bluff - or at the very least to keep a reasonably straight face! | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,22 +218,6 @@ news_feed (
          "title" : "Nakamura steals the show in R2 of the FIDE Candidates 2022"
       },
       {
-         "description" : "Agadmator is sincere on Nepo Caruana game from FIDE Candidates 2022. He says, &#8220;Good luck following this game&#8221; Replay R1: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja&#xA0;Replay R2:&#xA0;Richard Rapport &#x2013; Alireza Firouzja&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Teimour Radjabov&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Fabiano Caruana&#xA0;/&#xA0;Jan-Krzysztof Duda &#x2013; Ding Liren []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/agadmator-nepo-caruana-2022/",
-         "pubDate" : "Sat, 18 Jun 2022 21:58:29 +0000",
-         "title" : "Agadmator: Nepo - Caruana 2022"
-      },
-      {
-         "description" : "In depth analysis of the Candidates Round 1 with Anna Cramling and her mom GM Pia Cramling. This was all filmed in 1 take! Replay R1: &#xA0;Jan-Krzysztof Duda &#x2013; Richard Rapport&#xA0;/&#xA0;Ding Liren &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Teimour Radjabov &#x2013; Alireza Firouzja Preview R2:&#xA0;Richard Rapport &#x2013; Alireza Firouzja&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Teimour Radjabov&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-cramling-and-pia-cramling-candidates-r1-recap-in-one-take/",
-         "pubDate" : "Sat, 18 Jun 2022 21:42:59 +0000",
-         "title" : "Anna Cramling and Pia Cramling - Candidates R1 recap in one take"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-2\"><img src=\"https://sain",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,20 +242,12 @@ news_feed (
          "title" : "Nakamura beats Radjabov in Round 2 of the Candidates - 2"
       },
       {
-         "description" : "GMs Fabiano Caruana and Ian Nepomniachtchi maintain their lead in the 2022 Candidates Tournament with 1.5/2. GM Hikaru Nakamura defeated GM Teimour Radjabov in the second round, bouncing back from round one with a resounding victory. The eight can...",
+         "description" : "GM Hikaru Nakamura defended brilliantly in his first-ever classical game against GM Alireza Firouzja to hold the draw after 51 moves. It was the fourth draw of the day, meaning that&#38;nbsp;GMs Fabiano Caruana and Ian Nepomniachtchi continue to lead ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-3",
          "pubDate" : "Sat, 18 Jun 2022 11:38:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 3"
-      },
-      {
-         "description" : "Hikaru Nakamura recaps his game against Radjabov in FIDE Candidates 2022. Going for the Berlin, Hikaru used a blitz chess idea from a game between Nepomniachtchi&#160;and Aronian. Replay R1: &#160;Jan-Krzysztof Duda &#x2013; Richard Rapport&#160;/&#160;Ding Liren &#x2013; Ian Nepomniachtchi&#160;/&#160;Fabiano Caruana &#x2013; Hikaru Nakamura&#160;/&#160;Teimour Radjabov &#x2013; Alireza Firouzja&#160;Replay R2:&#160;Richard Rapport &#x2013; Alireza Firouzja&#160;/&#160;Hikaru Nakamura &#x2013; Teimour Radjabov&#160;/&#160;Ian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-recaps-his-game-against-radjabov-in-fide-candidates-2022/",
-         "pubDate" : "Sat, 18 Jun 2022 17:45:00 +0000",
-         "title" : "Hikaru Nakamura recaps his game against Radjabov in FIDE Candidates 2022"
+         "title" : "Impressive Defense By Nakamura On Day Of Draws"
       },
       {
          "description" : " One effect of the Covid Pandemic has been less international coverage on this blog. At first it was due to the lack of any events in early 2020, but even when online events began, it did not feel like 'real' chess to me. An oddly enough, when face to face events began, there seemed to be a confusing mess of them, with mixed rapid and classical formats. So I tended yo avoid them, both as a blogger and a spectator. So I am pleased to see the Candidates kick off, with a quite exciting round 1. Two decisive games, and two tough draws, were enjoyable to look at. Two of the favourites (Nakamura and Ding) went down, while Duda might be kicking himself after failing to convert a huge opening advant",
@@ -128,14 +256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-candidates.html",
          "pubDate" : "Sat, 18 Jun 2022 14:50:00 +0000",
          "title" : "2022 Candidates"
-      },
-      {
-         "description" : "Rey Enigma continues to make history. Exactly 7 months after his TV match vs Karpov was watched by 2,5 million people, the mysterious masked chess player met on the board with Garry Kasparov. &#8220;To play &#8216;face to face' with a legend like Garry Kasparov has always been my dream,&#8221; says Rey Enigma. Stay tuned for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rey-enigma-vs-kasparov-cara-a-cara-tweetoftheday/",
-         "pubDate" : "Sat, 18 Jun 2022 13:38:53 +0000",
-         "title" : "Rey Enigma vs Kasparov \"cara a cara\" #TweetOftheDay"
       },
       {
          "description" : "",
@@ -154,14 +274,6 @@ news_feed (
          "title" : "FIDE Candidates Tournament 2022: Round 2"
       },
       {
-         "description" : "The&#160;FIDE Candidates Chess 2022&#160;will take place in Madrid, from June 16 to July 7. It will be an 8-player double-round robin with some of the world&#x2019;s top Grandmasters. The winner of the FIDE 2022 Candidates Chess Tournament will qualify for the World Championship match later this year, competing in 14 rounds against the reigning World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-live/",
-         "pubDate" : "Sat, 18 Jun 2022 11:31:00 +0000",
-         "title" : "FIDE Candidates Chess 2022 LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-3-lichessorg\"><img src=\"h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -176,14 +288,6 @@ news_feed (
          "link" : "https://www.thearticle.com/was-basman-right-iconoclasm-ridicule-and-chess/",
          "pubDate" : "Sat, 18 Jun 2022 10:37:12 +0000",
          "title" : "Was Basman right? Iconoclasm, ridicule and chess"
-      },
-      {
-         "description" : "The Canadian Grandmaster Eric Hansen openly called for transparency in charity streams. &#8220;Chess streamers get paid extremely well to do charity streams like Hikaru Nakamura. Am I the only one who thinks this should be disclosed? I am OK with streamers making $ because of the net positive, but the lack of transparency bothers me.&#8221; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/eric-hansen-calls-for-transparency-in-charity-streams-tweetoftheday/",
-         "pubDate" : "Sat, 18 Jun 2022 08:49:05 +0000",
-         "title" : "Eric Hansen calls for transparency in charity streams #TweetOftheDay"
       },
       {
          "description" : " <p class=\"lead\">Today, GM Alireza Firouzja turns 19 and his birthday finds him at the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament!</a> The young GM - the youngest to participate in this year's Candidates - is <a href=\"https://worldchess.com/news/all/what-happens-if-carlsen-quits-the-championship-cycle/\">Carlsen's favorite</a> to win the tournament as he might not even defend his title otherwise. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52153415364_da82c7eb9a_h-1.jpg\" width=\"1533\" height=\"1080\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Maria Emelianova</div> </div> \"He's the French favourite, he's the fan favourite, and",
@@ -1786,14 +1890,6 @@ news_feed (
          "title" : "Battle Of Escape Artists: Andreikin Wins 2nd Knockout"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92038186.cms\" />Top-seed Farrukh Amonatov of Tajikistan posted a 43-move win over Russian Boris Savchenko to take his tally to 7.5 points and shoot into the lead after the ninth round of the inaugural Maharashtra International Open Grandmaster chess tournament on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/maharashtra-open-chess-top-seed-amonatov-jumps-into-lead/articleshow/92038186.cms",
-         "pubDate" : "Mon, 06 Jun 2022 11:03:47 +0000",
-         "title" : "Maharashtra Open chess: Top-seed Amonatov jumps into lead"
-      },
-      {
          "description" : "Vishy Anand took the sole lead in Norway Chess after beating Magnus Carlsen in Armageddon, but the 52-year-old was upset that he'd outplayed the current World Champion in classical chess only to let a winning position slip. Vishy leads Magnus by half a point, with Wesley So and Shakhriyar Mamedyarov a further point back after Shakh won a spectacular Armageddon. Anish Giri and Aryan Tari scored the day's only classical wins to boost their tournament standings.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1930,14 +2026,6 @@ news_feed (
          "title" : "Norway Chess: Carlsen climbs to the shared lead"
       },
       {
-         "description" : "The situation at the top of the leaderboard is beginning to sharpen at the 2022 Norway Chess in Stavanger. The current world champion, GM Magnus Carlsen, announced his intentions to play for the tournament title by winning the second classical g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-day-4",
-         "pubDate" : "Sat, 04 Jun 2022 08:34:00 -0700",
-         "title" : "Welcome To Valhalla: Carlsen Crushes Giri"
-      },
-      {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1960,14 +2048,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-last-olympiad-chess-on-the-eve-of-war/",
          "pubDate" : "Sat, 04 Jun 2022 07:45:48 +0000",
          "title" : "The last Olympiad: chess on the eve of war"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91998676.cms\" />India legend Viswanathan Anand's winning run in the Classical event of the Norway Chess tournament came to an end after suffering a loss against American Wesley So in the fourth round here on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anands-winning-run-ends-but-still-in-joint-lead-with-carlsen/articleshow/91998676.cms",
-         "pubDate" : "Sat, 04 Jun 2022 05:06:18 +0000",
-         "title" : "Norway Chess: Anand's winning run ends, but still in joint lead with Carlsen"
       },
       {
          "description" : "Leon Mendonca recently won the HSK GM Invitational tournament, with 7 out of 9. Lawrence Trent played in the very same tournament, and reached the 50% mark, with 4.5 out of 9. Their game ended in a draw. Since Leon was still in Hamburg, we managed to have a Trent's Tactics show together. Maybe Lawrence, and Arne, thanks to Leon, finally went beyond the ChessBase tactics training rating of 2500? But, perhaps it was actually a huge challenge? Watch the video to find out how it went.",
@@ -2042,30 +2122,6 @@ news_feed (
          "title" : "Norway Chess: Carlsen and MVL score, Anand still leads"
       },
       {
-         "description" : "This week Robert Ris looks at the game Wang Hao vs Anish Giri from the Norway Chess Tournament. Both sides were ready for a Najdorf, both sides were well prepared and both sides were willing to enter sharp and complicated lines. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-najdorf",
-         "pubDate" : "Thu, 02 Jun 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A fascinating Najdorf"
-      },
-      {
-         "description" : "Anatoly Karpov and Tigran Petrosian are two Gemini world champions with outstanding positional and defensive skills. Alireza Firouzja and Hans Moke Niemann are also Gemini but will they be able to follow the path of Karpov and Petrosian and become world champion? Gemini are sometimes the fastest thinkers of all the signs of the zodiac, but they sometimes also have to deal with lapses of concentration. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gemini-and-their-strategy",
-         "pubDate" : "Thu, 02 Jun 2022 13:12:41 +0100",
-         "title" : "Gemini and their strategy"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #518, Merijn van Delft takes a look how the 16-year old Indian talent Praggnanandhaa convincingly smashed Anish Giri's Grunfeld at the Chessable Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-518-pragg-vs-giri",
-         "pubDate" : "Thu, 02 Jun 2022 08:15:00 +0100",
-         "title" : "Game of the Week #518: Pragg vs Giri"
-      },
-      {
          "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2120,22 +2176,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/",
          "pubDate" : "Wed, 01 Jun 2022 03:14:26 +0000",
          "title" : "Jeffery Xiong nets another Chicago title!"
-      },
-      {
-         "description" : " <p class=\"lead\">The tenth edition of the Norway Chess Tournament started yesterday with a blitz tournament to decide who will get more whites in the main event. GM Wesley So won this first blitz tournament with 6.5 points, followed by Magnus Carlsen with 5.5 points. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-2.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> Norway Chess is one of the world's most prestigious chess tournaments held in Stavanger, Norway. There are 10 players participating including the World Champion Magnus Carlsen, GMs Wesley So, Shakhriyar Mamedyarov, Anish Giri, Vishy Anand, Veselin Topalov, and Aryan Tari who replaced",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/wesley-so-wins-the-norway-chess-blitz-tournament/",
-         "pubDate" : "Tue, 31 May 2022 13:38:28 +0000",
-         "title" : "Wesley So wins the Norway Chess Blitz Tournament"
-      },
-      {
-         "description" : " &#8220;Dad, why is my sister named Rose? Because your mother loves roses. Thanks Dad. No problem, Slav Defense Wiesbaden Variation&#8221; r/AnarchyChess I can compare the Slav Defense with a mined field. You look around in front of you and nothing seems out of the ordinary. However, you can feel the danger lingering in the air, <a href=\"https://chessimprover.com/need-sure-points-slav-defense-wiesbaden-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Slav Defense, Wiesbaden Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-slav-defense-wiesbaden-variation-edition/\">Need sure poin",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-slav-defense-wiesbaden-variation-edition/",
-         "pubDate" : "Tue, 31 May 2022 13:34:59 +0000",
-         "title" : "Need sure points? Slav Defense, Wiesbaden Variation Edition"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4ed4ad63-e105-42f7-9124-02e23b522ed0/photo+1.JPG\" data-image-dimensions=\"2592x1936\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62960df185fa1c63e95ae7ab\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4ed4ad63-e105-42f7-9124-02e23b522ed0/photo+1.JPG?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of Dr. Stuart Margulies </figcaption> </figure> <p data-rte-preserve-empty=\"true\" class=\"\"> <p class=\"\">This week on Perpetual",
@@ -2208,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1796",
          "pubDate" : "Sun, 29 May 2022 20:39:39 +0000",
          "title" : "Nataša Richterova wins Czech Women's Championship"
-      },
-      {
-         "description" : " Cameron McGowan has continued his good start to the 2022 ACT Championship, winning both his games today to lead on 5/5. After beating top seed IM Rishi Sardana in a complicated game, he backed up to beat FM Michael Kethro in round 5. This puts him ahead of Sardana, IM Junta Ikeda, Fred Litchfield and CM Hui Li, who are all on 4 points. Kethro had a particularly tough day, playing 100 moves against Ikeda, the last 50 being a RvB ending (no pawns!), before starting his round 5 game on a short break. While McGowan leads the tournament, the destination of the championship title is less clear (as it is restricted to ACT residents). Ikeda has the easier start in the morning round, but is likely t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/05/2022-act-championship-rounds-4-and-5.html",
-         "pubDate" : "Sun, 29 May 2022 13:34:00 +0000",
-         "title" : "2022 ACT Championship - Rounds 4 and 5"
       }
    ]
 }
