@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Serbian International Master, a famous youtube chess streamer, chessable author, and captain of the Serbian National Open Team for the 44th Chess Olympiad 2022 Miodrag Perunovic (aka The Butcher) analyzes the game between 19-year-old Alireza Firouzja and Hikaru Nakamura from the FIDE Chess Candidates 2022. Replay Round 3:Ding Liren &#x2013; Richard Rapport 1/2-1/2&#xA0;/&#xA0;Fabiano Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-butcher-firouzjas-insane-prep-almost-blows-nakamura-off-the-board/",
+         "pubDate" : "Sun, 19 Jun 2022 22:29:11 +0000",
+         "title" : "The Butcher: Firouzja's insane prep almost blows Nakamura off the board!!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1819",
+         "pubDate" : "Sun, 19 Jun 2022 22:11:03 +0000",
+         "title" : "2022 Candidates, Round 3: The calm before the storm"
+      },
+      {
+         "description" : "Hikaru Nakamura uploaded his R3 recap of the game against 19-year-old Alireza Firouzja in which he faced a piece sacrifice and the slightly worse endgame. He then explained the video was a tiny bit late as he needed to respond to FIDE on their complaints about the dress code: &#8220;They want us all to look []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-fide-wants-us-all-to-look-like-its-1970s-at-the-ibm-headquarters/",
+         "pubDate" : "Sun, 19 Jun 2022 21:32:00 +0000",
+         "title" : "Nakamura: FIDE wants us all to look like it's 1970's at the IBM headquarters"
+      },
+      {
+         "description" : "The Silver Lake Chess Festival 2022 takes place from 19-26th June, 2022, at the Silver Lake &#x201C;Sports hall&#x201D; and &#x201C;Great hall&#x201D; of Danubia Park Hotel. The Organizing Committee prepared a rich programme for all ages and playing levels:&#x2013;&#xA0;Open &#x201C;A&#x201D; tournament&#xA0;for players rated over 2100 FIDE&#x2013;&#xA0;Open &#x201C;B&#x201D; tournament&#xA0;for players rated under 2200 FIDE&#x2013;&#xA0;Blitz FIDE rated tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/silver-lake-chess-festival-2022-live/",
+         "pubDate" : "Sun, 19 Jun 2022 21:31:16 +0000",
+         "title" : "Silver Lake Chess Festival 2022 LIVE"
+      },
+      {
+         "description" : "Hikaru Nakamura recaps his game against World No 3 Alireza Firouzja who yesterday celebrated his 19th birthday. Nakamura was surprised with Firouzja's 1.d4 as he expected 1.e4 instead. Firouzja sacked a piece and transposed to a slightly better endgame with winning chances, but Hikaru managed to escape with a draw. Replay R3: Ding Liren &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-recaps-his-r3-candidates-game-alireza-sacks-a-piece-against-me/",
+         "pubDate" : "Sun, 19 Jun 2022 21:19:29 +0000",
+         "title" : "Nakamura recaps his R3 Candidates game: Alireza Sacks a Piece Against Me!!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1818",
+         "pubDate" : "Sun, 19 Jun 2022 21:14:47 +0000",
+         "title" : "Torch relay for 44th Chess Olympiad launched in New Delhi "
+      },
+      {
+         "description" : "Candidates R3 recap by WGM Anastasiya Karlovich Replay R3 games:Ding Liren &#x2013; Richard Rapport 1/2-1/2Fabiano Caruana &#x2013; Jan-Krzysztof Duda 1/2-1/2Teimour Radjabov &#x2013; Ian Nepomniachtchi 1/2-1/2Alireza Firouzja &#x2013; Hikaru Nakamura 1/2-1/2 More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R3&#xA0;/&#xA0;Candidates pairings all rounds Going into the first rest day, the tournament situation is not much clearer than it was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-r3-recap-calm-before-the-storm/",
+         "pubDate" : "Sun, 19 Jun 2022 20:56:03 +0000",
+         "title" : "FIDE Candidates R3 Recap - Calm before the storm?!"
+      },
+      {
+         "description" : " <p class=\"lead\">FIDE, chess governing body, apparently questioned Hikaru Nakamura's sense of style by filing a formal complaint against him for violating a dress code of the Candidates Tournament that takes place in Madrid. The incident was first reported by chess-news. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E3239C42-7FC5-4D67-8CE3-9B6840FE9C2E.jpeg\" width=\"1600\" height=\"959\" alt=\"\" /> <div class=\"e2-text-caption\">Hikaru Nakamura in Madrid, photo by FIDE/Chess.com Maria Emilyanova</div> </div> According to the chess-news site, Nakamura, the most popular chess streamer in the world, was late with his daily round recap because he had to respond to the com",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-lodges-complaint-against-nakamura-for-dress-code-violation/",
+         "pubDate" : "Sun, 19 Jun 2022 20:52:22 +0000",
+         "title" : "FIDE Lodges Complaint Against Nakamura for Dress Code Violation"
+      },
+      {
          "description" : "The first three rounds of the 2022 Candidates Tournament are complete and GMs Fabiano Caruana and Ian Nepomniachtchi maintain the lead with 2/3 heading into the rest day. The eight candidates are fighting for the right to challenge GM Magnus Carls...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -130,30 +194,6 @@ news_feed (
          "title" : "FIDE Candidates 2022 live with GM Daniil Yuffa and IM Elisabeth Paehtz"
       },
       {
-         "description" : "This is the FIDE Candidates 2022 live video with Sagar Shah and Amruta Mokal, in collaboration with Chessbase.&#xA0;Round 3 pairings (follow the links for each game)&#xA0;Ding Liren &#x2013; Richard Rapport&#xA0;/&#xA0;Fabiano Caruana &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Teimour Radjabov &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Alireza Firouzja &#x2013; Hikaru Nakamura More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R3&#xA0;/&#xA0;Candidates pairings all rounds&#xA0;/ Candidates LIVE All Candidates []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r3-live-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Sun, 19 Jun 2022 11:34:37 +0000",
-         "title" : "FIDE Candidates 2022 R3 live Sagar Shah and Amruta Mokal"
-      },
-      {
-         "description" : "The&#xA0;FIDE Candidates Chess 2022&#xA0;will take place in Madrid, from June 16 to July 7. It will be an 8-player double-round robin with some of the world&#x2019;s top Grandmasters. The winner of the FIDE 2022 Candidates Chess Tournament will qualify for the World Championship match later this year, competing in 14 rounds against the reigning World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-live/",
-         "pubDate" : "Sun, 19 Jun 2022 11:31:00 +0000",
-         "title" : "FIDE Candidates Chess 2022 LIVE"
-      },
-      {
-         "description" : "The first-ever Chess Olympiad Torch Relay took place today at Indira Gandhi Stadium in New Delhi. Prime Minister of India Shri Narendra Modi lit the Flame and handed it over to 15th World Chess Champion Viswanathan Anand. With less than 50 days to go, the Olympiad in Chennai broke participants&#x2019; records with&#xA0;187 countries already enrolled.&#xA0; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/first-ever-chess-olympic-flame-lit-in-india/",
-         "pubDate" : "Sun, 19 Jun 2022 10:32:00 +0000",
-         "title" : "First-ever Chess Olympic Flame lit in India"
-      },
-      {
          "description" : "Although chess is a total-information game in which everything is laid bare on the board, in practice we can see only part of the picture. Feelings do play a crucial role, at least in games between humans. One necessary evil is the ability, when the need arises, to bluff - or at the very least to keep a reasonably straight face! | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +208,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-2-nakamura-strikes-back",
          "pubDate" : "Sun, 19 Jun 2022 09:24:28 +0000",
          "title" : "Madrid Candidates 2: Nakamura strikes back"
-      },
-      {
-         "description" : "The third round of the FIDE Candidates Chess Tournament 2022 is the last one to be played before the players go on the first resting day of the event. Round 3 features the following encounters: Ding Liren &#x2013; Richard Rapport / Fabiano Caruana &#x2013; Jan-Krzysztof Duda / Teimour Radjabov &#x2013; Ian Nepomniachtchi / Alireza Firouzja []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-r3-preview/",
-         "pubDate" : "Sun, 19 Jun 2022 09:23:39 +0000",
-         "title" : "FIDE Candidates Chess Tournament - R3 preview"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92311227.cms\" />Viswanathan Anand joined sports minister Anurag Thakur during an interaction with TOI in the Capital on Saturday. The two Guest Sports Editors talked about the way ahead for chess, plans to popularise the sport at the grassroots level and stage more international tournaments to give aspiring youngsters exposure to top-quality chess.",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1817",
          "pubDate" : "Sat, 18 Jun 2022 22:46:33 +0000",
          "title" : "2022 Candidates, Round 2: A day of missed chances"
-      },
-      {
-         "description" : "The second day of the 2022 Candidates saw just one game ending with a victory and three ending in draws. Replay R2:&#160;Richard Rapport &#x2013; Alireza Firouzja&#160;/&#160;Hikaru Nakamura &#x2013; Teimour Radjabov&#160;/&#160;Ian Nepomniachtchi &#x2013; Fabiano Caruana&#160;/&#160;Jan-Krzysztof Duda &#x2013; Ding Liren Replay R1: &#160;Jan-Krzysztof Duda &#x2013; Richard Rapport&#160;/&#160;Ding Liren &#x2013; Ian Nepomniachtchi&#160;/&#160;Fabiano Caruana &#x2013; Hikaru Nakamura&#160;/&#160;Teimour Radjabov &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-steals-the-day-in-r2-of-the-fide-candidates-2022/",
-         "pubDate" : "Sat, 18 Jun 2022 22:22:23 +0000",
-         "title" : "Nakamura steals the show in R2 of the FIDE Candidates 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-2\"><img src=\"https://sain",
@@ -1914,14 +1938,6 @@ news_feed (
          "title" : "Eight staircases, two stairwells and a drunken soldier"
       },
       {
-         "description" : " <p class=\"lead\">In an <a href=\"https://www.youtube.com/watch?v=wKwWbFFxYJc&ab_channel=WorldChess\">exclusive interview</a> with World Chess, IM and WGM Elisabeth Paehtz talked about her positive experience as a female professional player in Germany over the past 4 years and acknowledged that everything is pointing in the direction that things are going to improve even more for women in chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/68818744_1277763945754649_8886703809812758528_n.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Anastasiya Karlovych</div> </div> Being a national player since 1998, Elisabeth Paehtz has witnessed",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/elisabeth-paehtz-on-women-in-chess/",
-         "pubDate" : "Mon, 06 Jun 2022 07:09:41 +0000",
-         "title" : "Elisabeth Paehtz on women in chess"
-      },
-      {
          "description" : "Vishy Anand regained the sole lead at the Norway Chess Tournament thanks to a victory in Armageddon over former co-leader Magnus Carlsen. The Indian missed a huge chance to defeat the world number one in their classical encounter, but quickly managed to recover from the setback to get an all-important win in the sudden-death decider. Anish Giri and Aryan Tari scored three points by winning their classical games with the white pieces. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2240,14 +2256,6 @@ news_feed (
          "link" : "https://www.europechess.org/norway-chess-2022-kicks-off/",
          "pubDate" : "Mon, 30 May 2022 05:42:17 +0000",
          "title" : "Norway Chess 2022 kicks off"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1796",
-         "pubDate" : "Sun, 29 May 2022 20:39:39 +0000",
-         "title" : "Nataša Richterova wins Czech Women's Championship"
       }
    ]
 }
