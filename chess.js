@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92311227.cms\" />Viswanathan Anand joined sports minister Anurag Thakur during an interaction with TOI in the Capital on Saturday. The two Guest Sports Editors talked about the way ahead for chess, plans to popularise the sport at the grassroots level and stage more international tournaments to give aspiring youngsters exposure to top-quality chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/artificial-intelligence-is-rewriting-the-game/articleshow/92311227.cms",
+         "pubDate" : "Sun, 19 Jun 2022 02:43:58 +0000",
+         "title" : "'Artificial Intelligence is rewriting the game'"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Chess instructor Alex Moellering shows how analyzing games is valuable, whether it&#039;s your own chess or a stranger&#039;s. 2022.05.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/game-analysis-101-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eVr3zhjpAi8.jpg?itok=hd5_6Q0q\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/game-analysis-101-beginner-breakdown",
          "pubDate" : "Sat, 18 Jun 2022 23:22:01 +0000",
          "title" : "Game Analysis 101 | Beginner Breakdown"
+      },
+      {
+         "description" : "After six and a half hours of play, Teimour Radjabov resigned against Hikaru Nakamura in the one decisive game of round 2 at the Candidates Tournament. Fighting draws were seen on all three remaining boards, with Richard Rapport missing winning chances against Alireza Firouzja and Fabiano Caruana surprising Ian Nepomniachtchi in the confrontation between co-leaders. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r2",
+         "pubDate" : "Sun, 19 Jun 2022 00:10:00 +0100",
+         "title" : "Candidates R2: Nakamura bounces back"
       },
       {
          "description" : "",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-candidates.html",
          "pubDate" : "Sat, 18 Jun 2022 14:50:00 +0000",
          "title" : "2022 Candidates"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Sat, 18 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 2: Live"
       },
       {
          "description" : "Rey Enigma continues to make history. Exactly 7 months after his TV match vs Karpov was watched by 2,5 million people, the mysterious masked chess player met on the board with Garry Kasparov. &#8220;To play &#8216;face to face' with a legend like Garry Kasparov has always been my dream,&#8221; says Rey Enigma. Stay tuned for []",
@@ -2018,14 +2026,6 @@ news_feed (
          "title" : "Appointment of Interim Secretary of AICF"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/91976483.cms\" />The Armageddon saw the former world champion pip Hao in 44 moves to take his points tally to 7.5. He is followed by American Wesley So, who is on 6 points, and world No. 1 Magnus Carlsen (5.5).",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-no-stopping-viswanathan-anand-defeats-wang-hao-for-third-straight-win-to-remain-on-top/articleshow/91976483.cms",
-         "pubDate" : "Fri, 03 Jun 2022 04:57:02 +0000",
-         "title" : "Anand defeats Wang Hao to remain on top in Norway"
-      },
-      {
          "description" : "Vishy Anand is still the sole leader at the Norway Chess tournament in Stavanger. The Indian beat Wang Hao in Armageddon, while his closest chaser, Wesley So, also won in the sudden-death decider against Anish Giri. Magnus Carlsen and Maxime Vachier-Lagrave won their classical encounters to grab three points in Thursday's round. | Photos: Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://www.thearticle.com/lost-empires/",
          "pubDate" : "Sun, 29 May 2022 09:11:10 +0000",
          "title" : "Lost Empires"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg\" data-image-dimensions=\"1713x805\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6292d780000e1722c23bd3ae\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0810f1cb-2d30-4819-ace3-97d6c1a14c7f/P0v_cYkB.jpg+large.jpg?format=1000w\" /> </figure> <p class=\"\">After a one month hiatus, Chess Books Recaptured returns to discuss another classic chess book- GM Alexei Shirov's <a href=\"https://www.amazon.com/Fire-B",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/28/book-recap-26-discussing-alexei-shirovs-fire-on-board-with-mitchell-fabian",
-         "pubDate" : "Sun, 29 May 2022 02:18:52 +0000",
-         "title" : "Book Recap #26- Discussing Alexei Shirov's Fire on Board with Mitchell Fabian "
       }
    ]
 }
