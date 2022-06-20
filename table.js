@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-06-17  - 06-19","40","<a href=http://www.uschess.org/msa/XtblMain.php?202206197882 target='_blank'>$3,000 HOUSTON CHESS STUDIO SUMMER</a>",
 "SPRING","2022-06-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206176742 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-06-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202206176732 target='_blank'>FBCC06172022</a>",
 "CYPRESS","2022-06-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206176672 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-07-06  - 07-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202107274352 target='_blank'>JULY TUES NIGHT SWISS SPECIAL</a>",
 "HOUSTON","2021-07-25","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107252492 target='_blank'>SUNSWISSJULY25</a>",
 "HOUSTON","2021-07-23  - 07-25","371","<a href=http://www.uschess.org/msa/XtblMain.php?202107252332 target='_blank'>U.S. CLASS CHESS CHAMPIONSHIPS</a>",
-"HOUSTON","2021-07-03  - 07-24","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107240682 target='_blank'>WEEKLYSATSWISSG90D30</a>",
 ]);
