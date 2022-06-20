@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Serbian International Master, a famous youtube chess streamer, chessable author, and captain of the Serbian National Open Team for the 44th Chess Olympiad 2022 Miodrag Perunovic (aka The Butcher) analyzes the game between 19-year-old Alireza Firouzja and Hikaru Nakamura from the FIDE Chess Candidates 2022. Replay Round 3:Ding Liren &#x2013; Richard Rapport 1/2-1/2&#xA0;/&#xA0;Fabiano Caruana []",
+         "description" : "<div class=\"body text-secondary\"> Today we examine a study from 1914 by L.B. Zalkind. It seems like White is completely lost. How can White pull out a win? Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ho",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-does-white-win-endgame",
+         "pubDate" : "Sun, 19 Jun 2022 23:22:59 +0000",
+         "title" : "How Does White WIN This Endgame?!"
+      },
+      {
+         "description" : "Serbian International Master, a famous youtube chess streamer, chessable author, and captain of the Serbian National Open Team for the 44th Chess Olympiad 2022 Miodrag Perunovic (aka The Butcher) analyzes the game between 19-year-old Alireza Firouzja and Hikaru Nakamura from the FIDE Chess Candidates 2022. Replay Round 3:Ding Liren &#x2013; Richard Rapport 1/2-1/2&#160;/&#160;Fabiano Caruana []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/the-butcher-firouzjas-insane-prep-almost-blows-nakamura-off-the-board/",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nakamura-left-tsm-joins-misfits/",
          "pubDate" : "Wed, 15 Jun 2022 09:27:11 +0100",
          "title" : "Nakamura left TSM, joins Misfits"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows a mix of practical rook endgames and middlegames from real historical games. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jOAOnAirWKI.jpg?itok=KFvMUGLO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgames-middlegame-exercises-grandmasters-choice-gm-yuniesky-quesada",
-         "pubDate" : "Wed, 15 Jun 2022 08:18:12 +0000",
-         "title" : "Endgames & Middlegame Exercises | Grandmaster's Choice - GM Yuniesky Quesada"
       },
       {
          "description" : "Le Quang Liem grabbed the sole lead at the Masters section of the Prague Chess Festival after beating Saleh Salem in Tuesday's sixth round. Pentala Harikrishna is in sole second place a half point back. In the Challengers, former sole leader Vincent Keymer was held to a draw by Marcin Krzyzanowski, which allowed Nodirbek Abdusattorov to climb to the shared lead thanks to a win over Max Warmerdam. | Photo: Petr Vrabec",
