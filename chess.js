@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kindly find attached link for live games of 13th Chennai Open International Grandmaster Chess Tournament 2022 for Sakthi Group Dr. N Mahalingam Trophy going on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-of-13th-chennai-open-international-grandmaster-chess-tournament-2022-for-sakthi-group-dr-n-mahalingam-trophy-reg/",
+         "pubDate" : "Mon, 20 Jun 2022 07:05:50 +0000",
+         "title" : "live games of 13th Chennai Open International Grandmaster Chess Tournament 2022 for Sakthi Group Dr. N Mahalingam Trophy - reg."
+      },
+      {
+         "description" : "Hikaru Nakamura was caught in deep preparation by Alireza Firouzja in Round 3 of the FIDE Candidates Tournament but escaped after setting a trap for his opponent. Alireza thought for over an hour afterwards on a single move, but it was too late. Ding Liren also missed his chance to hit back after his earlier loss when he found some brilliant moves but then missed a clear win against Richard Rapport. Jan-Krzysztof Duda comfortably equalised with Black against Fabiano Caruana, while Radjabov-Nepo was a quick and uneventful draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-3-nakamura-rapport-escape",
+         "pubDate" : "Mon, 20 Jun 2022 06:45:31 +0000",
+         "title" : "Madrid Candidates 3: Nakamura & Rapport escape"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-3\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-3",
+         "pubDate" : "Mon, 20 Jun 2022 05:23:11 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-4-lichessorg\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-4-lichessorg",
+         "pubDate" : "Mon, 20 Jun 2022 05:23:11 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 4 | lichess.org"
+      },
+      {
          "description" : "All four games finished drawn in round 3 of the Candidates Tournament. Richard Rapport survived from an inferior position with black for a second time in the event, as he managed to keep the balance in his encounter against Ding Liren. In the longest game of the day, Hikaru Nakamura showed great calculation skills to split the point with Alireza Firouzja. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,14 +610,6 @@ news_feed (
          "title" : "Playing in a Palace: Inside the 'hidden treasure' hosting the Candidates"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into what makes the world chess champion Magnus Carlsen so damn good in his preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6hhy7bsZPG8.jpg?itok=VKmwrhPh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros",
-         "pubDate" : "Fri, 17 Jun 2022 02:20:31 +0000",
-         "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros"
-      },
-      {
          "description" : "Pentala Harikrishna beat Saleh Salem in the penultimate round of the Masters tournament in Prague, thus climbing to the shared lead going into the final day of action. Similarly, in the Challengers, Hans Niemann collected a second win in a row to catch Vincent Keymer and Nodirbek Abdusattorov in the lead. Friday's final round kicks off four hours earlier than usual, at 11.00 CEST. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +632,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/16/maurice-ashley-honored-by-brownsville/",
          "pubDate" : "Thu, 16 Jun 2022 21:54:45 +0000",
          "title" : "Maurice Ashley honored by Brownsville!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into what makes the world chess champion Magnus Carlsen so damn good in his preparation. 2022.06.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6hhy7bsZPG8.jpg?itok=VKmwrhPh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsens-secret-prep-prepare-pro-gm-denes-boros-lichessorg",
-         "pubDate" : "Thu, 16 Jun 2022 20:20:27 +0000",
-         "title" : "Carlsen's Secret Prep | Prepare Like A Pro - GM Denes Boros | lichess.org"
       },
       {
          "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other on Saturday in round two. Ho...",
@@ -1994,14 +2010,6 @@ news_feed (
          "title" : "Alexander Nikitin (1935-2022)"
       },
       {
-         "description" : "Magnus Carlsen's potential decision to give up his title and drop out of the World Championship could lead to huge implications for the chess world. Reactions have been mixed, with some top players expressing doubts over whether the Norwegian is serious or not, while others have gone further and criticised the World Champion's statements.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/trent-on-carlsen-possibly-quitting-not-a-great-thing-to-do",
-         "pubDate" : "Sun, 05 Jun 2022 08:17:29 +0000",
-         "title" : "Trent on Carlsen possibly quitting: \"Not a great thing to do!\""
-      },
-      {
          "description" : "FIDE World Cadet Chess Championships (U8, U10 &#38; 12 Open &#38; Girls) will be held at Batumi, Georgia from 15-28 September 2022 and players participated",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2122,14 +2130,6 @@ news_feed (
          "title" : "Chess: Carlsen recovers in Stavanger while seven-year-old eyes Expert record"
       },
       {
-         "description" : "To All Concerned Please find the necessary link to get the details for Appointment of interim Secretary of AICF For your information please . Appointment",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/appointment-of-interim-secretary-of-aicf-all-concerned-to-note/",
-         "pubDate" : "Fri, 03 Jun 2022 09:16:19 +0000",
-         "title" : "Appointment of Interim Secretary of AICF"
-      },
-      {
          "description" : "Vishy Anand is still the sole leader at the Norway Chess tournament in Stavanger. The Indian beat Wang Hao in Armageddon, while his closest chaser, Wesley So, also won in the sudden-death decider against Anish Giri. Magnus Carlsen and Maxime Vachier-Lagrave won their classical encounters to grab three points in Thursday's round. | Photos: Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1797",
          "pubDate" : "Mon, 30 May 2022 10:37:31 +0000",
          "title" : "Nodiberk Abdusattorov wins 5th Sharjah Masters International Championship 2022"
-      },
-      {
-         "description" : "The 10th edition of the Norway Chess kicks of today with the Blitz tournament. The event takes place from 30 May 10 June in Stavanger with participation of 10 world class players. The field is headlined by reigning World Chess Champion Magnus Carlsen and includes: Wesley So, Shakhriyar Mammedyarov, Anish Giri, Teimour Radjabov, Viswanathan Anand, Maxime Vachier-Lagrave,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/norway-chess-2022-kicks-off/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/norway-chess-2022-kicks-off/",
-         "pubDate" : "Mon, 30 May 2022 05:42:17 +0000",
-         "title" : "Norway Chess 2022 kicks off"
       }
    ]
 }
