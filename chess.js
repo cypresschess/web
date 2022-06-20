@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All four games finished drawn in round 3 of the Candidates Tournament. Richard Rapport survived from an inferior position with black for a second time in the event, as he managed to keep the balance in his encounter against Ding Liren. In the longest game of the day, Hikaru Nakamura showed great calculation skills to split the point with Alireza Firouzja. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r3",
+         "pubDate" : "Mon, 20 Jun 2022 05:55:00 +0100",
+         "title" : "Candidates R3: Ding's missed chance"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Today we examine a study from 1914 by L.B. Zalkind. It seems like White is completely lost. How can White pull out a win? Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ho",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-84-basics-of-the-benko-gambit-3",
          "pubDate" : "Sun, 19 Jun 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 84: Basics of the Benko Gambit (3)"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Sun, 19 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 3: Live"
       },
       {
          "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
