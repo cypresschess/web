@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#xA0;(named James Cook), while sailing in the Rotterdam harbour.&#xA0; The Closing Ceremony of the event took place yesterday evening with attendance []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/",
+         "pubDate" : "Mon, 20 Jun 2022 11:18:17 +0000",
+         "title" : "Hotels.nl is the Winner of European Corporate Chess Championship 2022"
+      },
+      {
+         "description" : "Are you ready to enjoy playing a classic chess game enhanced with NFTs superpowers and earn rewards? Say no more, Immortal Game is here! It will be open to the general public this June 21, after an event taking place June 20 in Madrid during the FIDE Candidates Tournament 2022 NFTs with Special Powers and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/immortal-games-online-chess-platform-to-be-launched-on-the-21st-of-june/",
+         "pubDate" : "Mon, 20 Jun 2022 11:17:14 +0000",
+         "title" : "Immortal Game's online chess platform to be launched on the 21st of June"
+      },
+      {
          "description" : "The FIDE World Senior Team Chess Championships 2022 start today in Acqui Terme. The event is played in two age categories: 50+ and 65+, taking place from 20-29 June. Both Championships will be played in 9 rounds, swiss system, with time control: 40 moves in 90 minutes, followed by 30 minutes to finish the game, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -162,14 +178,6 @@ news_feed (
          "title" : "Torch relay for 44th Chess Olympiad launched in New Delhi "
       },
       {
-         "description" : "Candidates R3 recap by WGM Anastasiya Karlovich Replay R3 games:Ding Liren &#x2013; Richard Rapport 1/2-1/2Fabiano Caruana &#x2013; Jan-Krzysztof Duda 1/2-1/2Teimour Radjabov &#x2013; Ian Nepomniachtchi 1/2-1/2Alireza Firouzja &#x2013; Hikaru Nakamura 1/2-1/2 More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R3&#xA0;/&#xA0;Candidates pairings all rounds Going into the first rest day, the tournament situation is not much clearer than it was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-r3-recap-calm-before-the-storm/",
-         "pubDate" : "Sun, 19 Jun 2022 20:56:03 +0000",
-         "title" : "FIDE Candidates R3 Recap - Calm before the storm?!"
-      },
-      {
          "description" : " <p class=\"lead\">FIDE, chess governing body, apparently questioned Hikaru Nakamura's sense of style by filing a formal complaint against him for violating a dress code of the Candidates Tournament that takes place in Madrid. The incident was first reported by chess-news. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/E3239C42-7FC5-4D67-8CE3-9B6840FE9C2E.jpeg\" width=\"1600\" height=\"959\" alt=\"\" /> <div class=\"e2-text-caption\">Hikaru Nakamura in Madrid, photo by FIDE/Chess.com Maria Emilyanova</div> </div> According to the chess-news site, Nakamura, the most popular chess streamer in the world, was late with his daily round recap because he had to respond to the com",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -200,14 +208,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/russias-savchenko-starts-chennai-event-with-easy-win/articleshow/92322229.cms",
          "pubDate" : "Sun, 19 Jun 2022 17:03:58 +0000",
          "title" : "Russia's Savchenko starts Chennai event with easy win"
-      },
-      {
-         "description" : "The FIDE Candidates Chess Tournament 2022 broke interesting records even before it started and now we can see chess is booming in Madrid. Isabel Garcia de la Cruz @IsaGeller shared photos of people waiting in line to see their chess idols. &#x201C;Madrid is already breathing chess&#x201D; explained the Chief Marketing and Communications Officer of FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-is-booming-in-madrid-tweetoftheday/",
-         "pubDate" : "Sun, 19 Jun 2022 16:58:51 +0000",
-         "title" : "Chess is booming in Madrid #TweetOftheDay"
       },
       {
          "description" : " The third round of the FIDE Candidates in Madrid saw it's first day without a result. The intensity so far has been tremendous but today's round was shorter and of slightly less interest than the first two. The first rest day is on Monday. Ding Liren had the best chance to win, he had Richard Rapport on the ropes after winning the opening battle. 17...Rfd8 was still following known theory but 18.Bg5N seems to come close to refuting it, 20...Be5?! (20...Bf6) was another inaccuracy, and 21...Kg7? should have lost, firstly through the computer line 23.Qxd8! but more realistically 27.Qe2! should have brought the full point home. After that Rapport held the draw reasonably easily. Alireza Firouz",
