@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Senior Team Chess Championships 2022 start today in Acqui Terme. The event is played in two age categories: 50+ and 65+, taking place from 20-29 June. Both Championships will be played in 9 rounds, swiss system, with time control: 40 moves in 90 minutes, followed by 30 minutes to finish the game, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-senior-team-chess-championships-start-in-acqui-terme/",
+         "pubDate" : "Mon, 20 Jun 2022 10:36:41 +0000",
+         "title" : "FIDE World Senior Team Chess Championships start in Acqui Terme"
+      },
+      {
+         "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/",
+         "pubDate" : "Mon, 20 Jun 2022 10:08:43 +0000",
+         "title" : "Hotels.nl is the Winner of European Corporate Chess Championship 2022"
+      },
+      {
+         "description" : "The biggest Chinese Sports channel CCTV-5 broadcasts the FIDE Candidates Chess Tournament 2022 live, supporting their countryman Ding Liren on the road to World Chess Championship Match. More than a million people daily follow Liren's games from Palacio Santona, Madrid. Replay Round 3: Ding Liren &#x2013; Richard Rapport 1/2-1/2&#160;/&#160;Fabiano Caruana &#x2013; Jan-Krzysztof Duda 1/2-1/2&#160;/&#160;Teimour Radjabov []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/million-people-following-ding-liren-at-fide-candidates/",
+         "pubDate" : "Mon, 20 Jun 2022 10:03:17 +0000",
+         "title" : "Million people following Ding Liren at FIDE Candidates"
+      },
+      {
+         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players. Today we are publishing a part of the evaluation that takes a deeper look at the chances of two players: Fabiano Caruana and Alireza Firouzja. While Caruana (29) is a perennial favourite when it comes to the Candidates ever since 2016, the whole world will probably have their eyes set on Alireza Firouzja, who will turn 19 at the start of the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-2",
+         "pubDate" : "Mon, 20 Jun 2022 11:00:00 +0100",
+         "title" : "Cracking the Candidate Code (2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/big-chess-comes-to-toronto/",
+         "pubDate" : "Mon, 20 Jun 2022 10:10:41 +0100",
+         "title" : "Big chess comes to Toronto"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/three-quarantined-in-madrid/",
+         "pubDate" : "Mon, 20 Jun 2022 10:04:47 +0100",
+         "title" : "Three quarantined in Madrid"
+      },
+      {
+         "description" : "Indian chess legend and 15th World Chess Champion Viswanathan Anand will continue with competitive chess even if gets elected as the FIDE Deputy President, informed The Times of India. &#8220;I'm in the stage where I am playing much less than before. I have my academy as well, which I will continue to dedicate a lot []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anand-will-continue-with-competitive-chess-even-as-fide-deputy/",
+         "pubDate" : "Mon, 20 Jun 2022 09:02:10 +0000",
+         "title" : "Anand will continue with competitive chess even as FIDE Deputy"
+      },
+      {
+         "description" : "FIDE, together with ChessKid and in the frame of the Queens Festival, is organizing very important initiative a Girls Only unrated online tournament! The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/girls-only-unrated-online-tournament/",
+         "pubDate" : "Mon, 20 Jun 2022 08:32:55 +0000",
+         "title" : "Girls Only unrated online tournament"
+      },
+      {
          "description" : "Kindly find attached link for live games of 13th Chennai Open International Grandmaster Chess Tournament 2022 for Sakthi Group Dr. N Mahalingam Trophy going on",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -170,14 +234,6 @@ news_feed (
          "title" : "The first-ever torch relay for the Chess Olympiad"
       },
       {
-         "description" : "The&#xA0;FIDE World School Chess Championship 2022 takes place from June 10-19, 2022, at the Wyndham Panama Albrook Mall Hotel &#38; Convention Center, Panama City, under the auspices of FIDE and the Panama Chess Federation. The First Lady of Panama Yazmin de Cortizo paid a visit to the event which gathered around 600 children from more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-first-lady-of-panama-visits-fide-world-school-chess-championships/",
-         "pubDate" : "Sun, 19 Jun 2022 14:52:16 +0000",
-         "title" : "The First Lady of Panama visits FIDE World School Chess Championships"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 84th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,28 +266,12 @@ news_feed (
          "title" : "Stalemate tricks to know"
       },
       {
-         "description" : "The second Global Exchange Forum, organized by FIDE Commission for Women&#x2019;s Chess and Chess24, took place on June 18th, focusing on the topic &#8220;How is harassment defined, guidelines and support to report cases&#8221;. Kristine Marie Ganz, Secretary-General from the Norwegian Chess Federation hosted the event and Marco Biagioli, a lawyer and FIDE legal expert, was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-in-chess-global-exchange-forum/",
-         "pubDate" : "Sun, 19 Jun 2022 12:01:25 +0000",
-         "title" : "Women in Chess - Global Exchange Forum"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/XYXL0lWQ_-8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-3/",
          "pubDate" : "Sun, 19 Jun 2022 12:00:00 +0000",
          "title" : "FIDE Candidates Tournament 2022: Round 3"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and IM/WGM Elisabeth Paehtz, in collaboration with Worldchess.com. Round 3 pairings (follow the links for each game)Ding Liren &#x2013; Richard Rapport&#xA0;/&#xA0;Fabiano Caruana &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Teimour Radjabov &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Alireza Firouzja &#x2013; Hikaru Nakamura More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R3&#xA0;/&#xA0;Candidates pairings all rounds&#xA0;/&#xA0;Candidates LIVE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-live-with-gm-daniil-yuffa-and-im-elisabeth-paehtz/",
-         "pubDate" : "Sun, 19 Jun 2022 11:40:03 +0000",
-         "title" : "FIDE Candidates 2022 live with GM Daniil Yuffa and IM Elisabeth Paehtz"
       },
       {
          "description" : "Although chess is a total-information game in which everything is laid bare on the board, in practice we can see only part of the picture. Feelings do play a crucial role, at least in games between humans. One necessary evil is the ability, when the need arises, to bluff - or at the very least to keep a reasonably straight face! | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -2130,14 +2170,6 @@ news_feed (
          "title" : "Chess: Carlsen recovers in Stavanger while seven-year-old eyes Expert record"
       },
       {
-         "description" : "Vishy Anand is still the sole leader at the Norway Chess tournament in Stavanger. The Indian beat Wang Hao in Armageddon, while his closest chaser, Wesley So, also won in the sudden-death decider against Anish Giri. Magnus Carlsen and Maxime Vachier-Lagrave won their classical encounters to grab three points in Thursday's round. | Photos: Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r3",
-         "pubDate" : "Fri, 03 Jun 2022 01:30:00 +0100",
-         "title" : "Norway Chess: Carlsen and MVL score, Anand still leads"
-      },
-      {
          "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2176,14 +2208,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-teams-announced-for-the-2022-olympiad/",
          "pubDate" : "Wed, 01 Jun 2022 09:03:28 +0000",
          "title" : "England teams announced for the 2022 Olympiad"
-      },
-      {
-         "description" : "The starter problem is attached below. White, playing up the board, is to play and force mate in two moves against any Black defence. There...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championships-2022-2023/",
-         "pubDate" : "Wed, 01 Jun 2022 08:00:24 +0000",
-         "title" : "Winton British Chess Solving Championships 2022-2023"
       },
       {
          "description" : " Jeffrey Xiong won his second Chicago Open title after his 2015 breakthrough. At the 2022 Chicago Open, he finished on 7/9 along with three others but won the tiebreak battle. Xiong has made steady progress since then and had previously made the national team. With the addition of Levon Aronian and Leinier Dominguez, he will The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/\">Jeffery Xiong nets another Chicago title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2240,14 +2264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/studies-with-stephenson",
          "pubDate" : "Mon, 30 May 2022 13:00:00 +0100",
          "title" : "Studies with Stephenson"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1797",
-         "pubDate" : "Mon, 30 May 2022 10:37:31 +0000",
-         "title" : "Nodiberk Abdusattorov wins 5th Sharjah Masters International Championship 2022"
       }
    ]
 }
