@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the battle of Women&#39;s World Champions, GM Alexandra Kosteniuk prevailed over GM Antoaneta Stefanova in the second round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. While both competitors impressed on the b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-kosteniuk-stefanova",
+         "pubDate" : "Mon, 20 Jun 2022 20:05:08 -0700",
+         "title" : "Kosteniuk Excels in Chaotic Time Scrambles, Blitzes Fellow Women's World Champion"
+      },
+      {
+         "description" : "FM James Canty III upset the top seed, IM Polina Shuvalova, in the quarterfinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Monday. It was a closely-fought match with many double-edged games and the scores hoverin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-canty-shuvalova",
+         "pubDate" : "Mon, 20 Jun 2022 17:06:30 -0700",
+         "title" : "Canty Upsets Shuvalova: 'She's An Absolute Beast'"
+      },
+      {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, continuing with the Richard Rapport. With a deeply annotated game Colovic takes a look at the chances of this intriguing candidate. | Photo FIDE official.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2042,14 +2058,6 @@ news_feed (
          "title" : "AICF says it supports Anand's candidature for FIDE deputy president"
       },
       {
-         "description" : "GM Dmitry Andreikin won week 17 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, overcoming GM Jules Moussard, who made it to the final in his first-ever knockout. GMs Vladimir Fedoseev and Nodirbek Abdusattorov made it to the se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/battle-of-escape-artists-andreikin-wins-2nd-knockout",
-         "pubDate" : "Mon, 06 Jun 2022 04:36:00 -0700",
-         "title" : "Battle Of Escape Artists: Andreikin Wins 2nd Knockout"
-      },
-      {
          "description" : "Vishy Anand took the sole lead in Norway Chess after beating Magnus Carlsen in Armageddon, but the 52-year-old was upset that he'd outplayed the current World Champion in classical chess only to let a winning position slip. Vishy leads Magnus by half a point, with Wesley So and Shakhriyar Mamedyarov a further point back after Shakh won a spectacular Armageddon. Anish Giri and Aryan Tari scored the day's only classical wins to boost their tournament standings.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/looking-for-mate-in-2s.html",
          "pubDate" : "Sun, 05 Jun 2022 14:05:00 +0000",
          "title" : "Looking for Mate in 2's"
-      },
-      {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Vladimir Fedoseev won week 17 of the Rapid Chess Championship, presented by Coinbase, tying with and edging out GM Levon Aronian by tiebreaks.&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-17-swiss",
-         "pubDate" : "Sun, 05 Jun 2022 07:04:01 -0700",
-         "title" : "Fedoseev Wins Week 17 Swiss Heading into Knockout: Summary Report"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 82nd instalment of his ChessBase show \"Understanding before Moving\", Herman explains why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
