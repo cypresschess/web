@@ -4,6 +4,7 @@ jtable([
 "SUGAR LAND","2022-06-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202206176732 target='_blank'>FBCC06172022</a>",
 "CYPRESS","2022-06-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206176672 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-06-10  - 06-12","181","<a href=http://www.uschess.org/msa/XtblMain.php?202206124722 target='_blank'>TCR: SPACE CITY OPEN 2022</a>",
+"HOUSTON","2022-06-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202206103632 target='_blank'>PISD JUNE 2022</a>",
 "SPRING","2022-06-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202206103582 target='_blank'>FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-06-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202206103562 target='_blank'>FBCC END OF SPRING OPEN 2022</a>",
 "CYPRESS","2022-06-10","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206103452 target='_blank'>KOC</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2021-07-30","20","<a href=http://www.uschess.org/msa/XtblMain.php?202107304472 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-07-06  - 07-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202107274352 target='_blank'>JULY TUES NIGHT SWISS SPECIAL</a>",
 "HOUSTON","2021-07-25","5","<a href=http://www.uschess.org/msa/XtblMain.php?202107252492 target='_blank'>SUNSWISSJULY25</a>",
-"HOUSTON","2021-07-23  - 07-25","371","<a href=http://www.uschess.org/msa/XtblMain.php?202107252332 target='_blank'>U.S. CLASS CHESS CHAMPIONSHIPS</a>",
 ]);
