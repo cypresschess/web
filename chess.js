@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nigel Short has announced his resignation as FIDE Vice-President with immediate effect. Since since October 2018, Nigel Short was serving as Vice-president of FIDE in the Arkadij Dvorkovich administration. Developing story, stay tuned for details",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nigel-short-resigns-announces-his-resignation-as-fide-vice-president-with-immediate-effect/",
+         "pubDate" : "Tue, 21 Jun 2022 11:19:21 +0000",
+         "title" : "Nigel Short resigns announces his resignation as FIDE Vice-President with immediate effect"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/T8wO6Fb5QP8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-4/",
+         "pubDate" : "Tue, 21 Jun 2022 11:00:00 +0000",
+         "title" : "FIDE Candidates Tournament 2022: Round 4"
+      },
+      {
+         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase is publishing BCM's evaluation of the chances of the individual players, continuing today with the dark horse from Poland, Jan-Krzysztof Duda (24), and former candidate Ian Nepomniachtchi (31).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-4",
+         "pubDate" : "Tue, 21 Jun 2022 12:00:00 +0100",
+         "title" : "Cracking the Candidate Code (4)"
+      },
+      {
+         "description" : "In 2022 Ding Liren&#xA0;and&#xA0;Fabiano Caruana&#xA0;celebrate their 20-year-long chess rivalry anniversary. Their first encounter happened back in 2002 at the U10 World Youth Chess Championship in Heraklion, Crete. Back then the non-rated Ding Liren defeated Caruana. Today they meet at the event they dreamed about as kids FIDE Candidates Chess Tournament 2022. According to chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-and-fabiano-caruana-celebrate-20-years-of-chess-battles/",
+         "pubDate" : "Tue, 21 Jun 2022 09:40:47 +0000",
+         "title" : "Ding Liren and Fabiano Caruana celebrate 20 years of chess battles"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 4 pairings (follow the links for each game)&#160;Richard Rapport &#x2013; Hikaru Nakamura&#160;/ &#160;Ian Nepomniachtchi &#x2013; Alireza Firouzja&#160;/&#160;Jan-Krzysztof Duda &#x2013; Teimour Radjabov&#160;/&#160;Ding Liren &#x2013; Fabiano Caruana More:&#160;All Candidates news (collection)&#160;/&#160;Preview of R4&#160;/&#160;Candidates pairings all rounds&#160;/&#160;Candidates LIVEDaily []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r4-live-with-im-sagar-shah-and-amruta-mokal/",
+         "pubDate" : "Tue, 21 Jun 2022 09:27:00 +0000",
+         "title" : "FIDE Candidates 2022 R4 live with IM Sagar Shah and Amruta Mokal"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and IM/WGM Elisabeth Paehtz, in collaboration with Worldchess.com.&#160;Round 4 pairings (follow the links for each game) Richard Rapport &#x2013; Hikaru Nakamura&#160;/ &#160;Ian Nepomniachtchi &#x2013; Alireza Firouzja&#160;/&#160;Jan-Krzysztof Duda &#x2013; Teimour Radjabov&#160;/&#160;Ding Liren &#x2013; Fabiano Caruana More:&#160;All Candidates news (collection)&#160;/&#160;Preview of R4&#160;/&#160;Candidates pairings all rounds&#160;/&#160;Candidates []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r4-live-with-gm-daniil-yuffa-and-im-elisabeth-paehtz/",
+         "pubDate" : "Tue, 21 Jun 2022 09:22:00 +0000",
+         "title" : "FIDE Candidates 2022 R4 live with GM Daniil Yuffa and IM Elisabeth Paehtz"
+      },
+      {
+         "description" : "Watching and following live events from one's phone is nothing new, and there are a myriad of ways to do so, including of course the ChessBase News page. Recently however, a great deal of effort has been invested into making the ChessBase experience that extra bit better and more enjoyable, and you now have much more than just the games and moves at your fingertips.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/watching-live-events-on-your-phone",
+         "pubDate" : "Tue, 21 Jun 2022 10:00:00 +0100",
+         "title" : "Watching live events on your phone"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/#new_tab",
+         "pubDate" : "Tue, 21 Jun 2022 08:50:24 +0000",
+         "title" : "WSTCC 2022 - underway"
+      },
+      {
          "description" : "Endgames are often full of tactical possibilities, particularly so if both sides have passed pawns. The diagrammed position occurred in a game between Magnus Carlsen and Anish Giri at the Esports Cup in Oslo. It is White to move, and can you find the move the World Champion played?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +82,7 @@ news_feed (
          "title" : "Stepan Avagyan Chess Memorial 2022 (LIVE)"
       },
       {
-         "description" : "DAY 2 : LEH. Hon'ble Lt. Governor of Ladakh Shri Radha Krishna Mathur receive the Torch from Grandmaster Dibyendu Barua &#160; DAY 2 : DELHI",
+         "description" : "DAY 3 : Sri Nagar Hon'ble Lt Governor of Jammu &#38; Kashmir Shri Manoj Sinha received the Torch at Srinagar and handed over to veteran",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -146,28 +210,12 @@ news_feed (
          "title" : "FIDE goes open source"
       },
       {
-         "description" : "Arjun Erigaisi is now the highest rated 18 year old player in the world! Erigaisi recently played the French team championship Top 16, where he gained +0,7 ELO . The real reason for gaining the highest rating spot in the U18 list is not anyone losing or gaining ELO, rather Hans Niemann turning 19 years []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-is-the-strongest-18-year-old-in-the-world-tweetoftheday/",
-         "pubDate" : "Mon, 20 Jun 2022 14:02:02 +0000",
-         "title" : "Arjun Erigaisi is the strongest 18 year old in the world #TweetOftheDay"
-      },
-      {
          "description" : "The Kasparov Chess Foundation (KCF) and Saint Louis Chess Club have been running the very successful Young Stars - Team USA program for the past six years. The club proved to be perfect training grounds for three of the Young Stars. Garry Kasparov lead the session and was assisted by FIDE Senior Trainer Michael Khodarkovsky.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/young-stars-benefit-from-kasparov-session",
          "pubDate" : "Mon, 20 Jun 2022 15:00:00 +0100",
          "title" : "Young Stars benefit from Kasparov's session"
-      },
-      {
-         "description" : "Happy birthday to Hans Niemann! Chessdom.com wishes him a bright future and beautiful games on the chess board! 19-year-old&#160;American grandmaster is currently the second best-ranked Junior player in the World on the live rating list, just behind Alireza Fioruzja who celebrated his 19th birthday two days ago. This year Hans Niemann won two major chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-19th-birthday-to-hans-niemann/",
-         "pubDate" : "Mon, 20 Jun 2022 13:51:09 +0000",
-         "title" : "Happy 19th birthday to Hans Niemann!"
       },
       {
          "description" : "Indian Oil has been at the forefront of the corporate endeavour towards promulgation of sports across the country. IndianOil has launched Sports Scholarship scheme \"Acers\" The",
@@ -192,30 +240,6 @@ news_feed (
          "link" : "https://aicf.in/five-time-world-champion-and-legendary-grandmaster-viswanathan-anand-visited-the-aicfs-delhi-office/",
          "pubDate" : "Mon, 20 Jun 2022 11:54:55 +0000",
          "title" : "Five time world champion and legendary Grandmaster Viswanathan Anand visited the AICF's Delhi Office"
-      },
-      {
-         "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#xA0;(named James Cook), while sailing in the Rotterdam harbour.&#xA0; The Closing Ceremony of the event took place yesterday evening with attendance []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/",
-         "pubDate" : "Mon, 20 Jun 2022 11:18:17 +0000",
-         "title" : "Hotels.nl is the Winner of European Corporate Chess Championship 2022"
-      },
-      {
-         "description" : "Are you ready to enjoy playing a classic chess game enhanced with NFTs superpowers and earn rewards? Say no more, Immortal Game is here! It will be open to the general public this June 21, after an event taking place June 20 in Madrid during the FIDE Candidates Tournament 2022 NFTs with Special Powers and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/immortal-games-online-chess-platform-to-be-launched-on-the-21st-of-june/",
-         "pubDate" : "Mon, 20 Jun 2022 11:17:14 +0000",
-         "title" : "Immortal Game's online chess platform to be launched on the 21st of June"
-      },
-      {
-         "description" : "Anish Giri provides daily recaps of the FIDE Candidates Chess 2022 games. Today he gave an extensive analysis of the 3rd round, emphasizing the game between Alireza Firouzja and Hikaru Nakamura, as well as the game Ding Liren vs Richard Rapport. Giri's R2 Candidates recap / Giri's R1 Candidates recap Replay Round 3:&#160;Ding Liren &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-recaps-the-3rd-round-of-fide-candidates-chess-2022/",
-         "pubDate" : "Mon, 20 Jun 2022 10:47:00 +0000",
-         "title" : "Anish Giri recaps the 3rd round of FIDE Candidates Chess 2022"
       },
       {
          "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "Alexander Nikitin (1935-2022)"
       },
       {
-         "description" : " <p class=\"lead\">In the first six rounds of the super tournament in Stavanger, Magnus Carlsen scored 4.5 points. He once again hit the 2,870-point rating mark. The highest rating the World Chess Champion had was back in August 2019, when he was at 2882. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-06-07_15-55-56.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> The world champion maintains the impressive 39 games streak undefeated in classical time control, with 19 wins and 19 draws. <a href=\"https://chessarena.com/broadcasts/17645?utm_source=news&utm_medium=website&utm_campaign=Norway&utm_content=watch\" class=\"wchess_button\">Watch the broadcast!</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-scores-2-870-points-again/",
-         "pubDate" : "Tue, 07 Jun 2022 16:37:21 +0000",
-         "title" : "Magnus Carlsen Hits 2870 ELO Rating Again"
-      },
-      {
          "description" : "Entries have re-opened for the ECF Girls' National Schools semi-finals on October 9th in the South and November 20th in the North. Entries may be...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2114,14 +2130,6 @@ news_feed (
          "title" : "Looking for Mate in 2's"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 82nd instalment of his ChessBase show \"Understanding before Moving\", Herman explains why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-82-basics-of-the-benko-gambit",
-         "pubDate" : "Sun, 05 Jun 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 82: Basics of the Benko Gambit"
-      },
-      {
          "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 will be held from 24th September 2nd October 2022 in the Principality of Liechtenstein with the support of European Chess Union. Federations participating in the event are as follows (alphabetical order): Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino. Each federation shall&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2144,14 +2152,6 @@ news_feed (
          "link" : "https://chessimprover.com/spectrum-chess/",
          "pubDate" : "Sun, 05 Jun 2022 06:00:42 +0000",
          "title" : "Spectrum Chess"
-      },
-      {
-         "description" : "At the Tata Steel Masters 2022 Jorden van Foreest got the opportunity to conduct a long-planned opening experiment: In the Sicilian with 2.Nc6 he surprised his opponent Praggnanandhaa with 3.Bc4?! \"Finally, here it was. There aren't all that many good reasons for why I like the move, the main probably being the fact that it looks so stupid :-)\", writes the young Dutchman at the beginning of his analysis in the new CBM Extra #207. And the game continued no less exceptionally: after 3...e6 4.0-0 d5 5.Bb5! dxe4 6.Ne5 Qc7 7.Nxc6 bxc6 8.Bc4! White hast lost a pawn and moved his bishop three times in the opening! In the end, with a bit of luck, Van Foreest still won the game. It's \"The brillancy\" ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-experiment-1-e4-c5-2-nf3-nc6-3-bc4",
-         "pubDate" : "Sat, 04 Jun 2022 18:00:00 +0100",
-         "title" : "Sicilian experiment: 1.e4 c5 2.Nf3 Nc6 3.Bc4?!"
       },
       {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
@@ -2234,14 +2234,6 @@ news_feed (
          "title" : "Tech Mahindra onboarded as digital partner for the Chess Olympiad"
       },
       {
-         "description" : "The England teams for the Open and Women's Olympiad at Chennai are &#8212; Women's team WGM/IM Jovanka Houska, WGM Katarzyna Toma, FM Akshaya Kalaiyalahan,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-teams-announced-for-the-2022-olympiad/",
-         "pubDate" : "Wed, 01 Jun 2022 09:03:28 +0000",
-         "title" : "England teams announced for the 2022 Olympiad"
-      },
-      {
          "description" : " Jeffrey Xiong won his second Chicago Open title after his 2015 breakthrough. At the 2022 Chicago Open, he finished on 7/9 along with three others but won the tiebreak battle. Xiong has made steady progress since then and had previously made the national team. With the addition of Levon Aronian and Leinier Dominguez, he will The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/\">Jeffery Xiong nets another Chicago title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2256,14 +2248,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/5/31/ep-281-dr-stuart-margulies-tells-the-story-behind-the-classic-best-selling-book-bobby-fischer-teacher-chess",
          "pubDate" : "Tue, 31 May 2022 12:47:36 +0000",
          "title" : "EP 281- Dr. Stuart Margulies tells the story behind the classic, best-selling book, Bobby Fischer Teacher Chess"
-      },
-      {
-         "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup will simultaneously take place from 2nd 10th October in Mayrhofen, Austria. Both events will be played in 7 rounds, swiss system, with time control: 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2022-official-invitation/",
-         "pubDate" : "Tue, 31 May 2022 09:17:39 +0000",
-         "title" : "European Chess Club Cup 2022 - Official invitation"
       }
    ]
 }
