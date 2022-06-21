@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Candidates R4 recap by WGM Anastasiya Karlovich Replay R4 games:Richard Rapport &#x2013; Hikaru Nakamura 1/2-1/2&#xA0;Ian Nepomniachtchi &#x2013; Alireza Firouzja 1-0Jan-Krzysztof Duda &#x2013; Teimour Radjabov 1/2-1/2&#xA0;Ding Liren &#x2013; Fabiano Caruana 1/2-1/2 After yesterday&#x2019;s first rest day Ian Nepomniachtchi took the sole lead by defeating Alireza Firouzja in a sharp Najdorf, every other game ended in a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-grabs-the-sole-lead-in-fide-candidates-2022/",
+         "pubDate" : "Tue, 21 Jun 2022 22:31:46 +0000",
+         "title" : "Ian Nepomniachtchi grabs the sole lead in FIDE Candidates 2022"
+      },
+      {
+         "description" : "Ian Nepomniachtchi beat Alireza Firouzja from the white side of a double-edged Sicilian to grab the sole lead at the Candidates Tournament in Madrid. The three remaining games finished drawn, with Ding Liren failing to defeat Fabiano Caruana from a slightly superior position. Thus, former co-leader Caruana is now in sole second place, a half point behind Nepomniachtchi. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r4",
+         "pubDate" : "Tue, 21 Jun 2022 23:25:00 +0100",
+         "title" : "Candidates R4: Nepo beats Firouzja in wild Sicilian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1824",
+         "pubDate" : "Tue, 21 Jun 2022 21:01:24 +0000",
+         "title" : "2022 Candidates, Round 4: Nepomniachtchi alone in the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-4\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-4",
+         "pubDate" : "Tue, 21 Jun 2022 20:25:13 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 4"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/shorts-steps-down/",
+         "pubDate" : "Tue, 21 Jun 2022 21:16:21 +0100",
+         "title" : "Shorts steps down"
+      },
+      {
          "description" : "The Chess Olympiad is the most respected team event in chess, first held in 1928. This year, the 44th Olympiad takes place in Chennai, India from July 28 through August 9, and Chess.com will be here with all the coverage. More than 100 countries w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-coverage-2022-chess-olympiad",
          "pubDate" : "Tue, 21 Jun 2022 12:21:34 -0700",
          "title" : "Announcing Chess.com Coverage Of The 2022 Chess Olympiad"
+      },
+      {
+         "description" : " Ian Nepomniachtchi leads the Candidates on 3/4 after beating Alireza Firouzja. The remaining round 4 games were drawn. Fabiano Caruana is half a point behind the leader. Firouzja has struggled to get into the tournament due to the really quite terrible draw he's got, starting with two blacks and now today black again for the third black in four games. Of course the games with the white pieces will come eventually but this is as trying a start as it's possible to have. Today was a razor sharp Najdorf where Firouzja tried to surprise Nepomniachtchi with the uncommon but also not highly regarded 15...Bc4. We won't really know if Nepomniachtchi knew any detailed lines but although clearly think",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-brushes-aside-firouzja-to-lead-alone-after-four-rounds-of-the-candidates",
+         "pubDate" : "Tue, 21 Jun 2022 22:39:00 +0400",
+         "title" : "Nepomniachtchi brushes aside Firouzja to lead alone after four rounds of the Candidates - 4"
       },
       {
          "description" : "The European Youth Team Chess Championship 2022, scheduled to start on 12th July in Thessaloniki, Greece, is set for a new participation record with 53 teams represented by 196 players in the current lists. The Organizing Committee will accept one more team in categories, O12, G18 and G12 in order to have an even number []",
@@ -112,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-maurice-ashley-talks-about-his-first-candidates-trip-as-a-chess-fan/",
          "pubDate" : "Tue, 21 Jun 2022 13:47:15 +0000",
          "title" : "GM Maurice Ashley talks about his first Candidates trip as a chess fan"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Tue, 21 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 4: Live"
       },
       {
          "description" : " Courtesy of my opponent spotting my Plan A, but not my Plan B, I managed to produce a 'Pinwheel Fork' for probably the first time in my career. Having pushed 16.e4, my opponent Ian Hosking, assumed I was looking for some complicated tactic based on attacking f7 and e6. He decided to deal with it my taking on d4, assuming that my next move would be to capture the bishop on f5. Instead the knight landed on c6, and thanks to the pinned b pawn, I successfully attacked the queen, both rooks and a bishop, all of which were undefended! <br /> <b>Press,Shaun - Hosking,Ian [D11]</b><br />Belconnen Cup (6), 21.06.2022 <script>new PgnViewer( { boardName: \"game1333\", movesFormat: \"default\", pgnString:'",
@@ -490,7 +530,7 @@ news_feed (
          "title" : "FIDE Lodges Complaint Against Nakamura for Dress Code Violation"
       },
       {
-         "description" : "GM Ian Nepomniachtchi stormed to sole lead in the 2022 Candidates Tournament as the Russian grandmaster swiftly beat GM Alireza Firouzja, whose Najdorf preparation backfired as he got both checkmated and flagged. The other three games in Tuesday&#39;s...",
+         "description" : "GM Ian Nepomniachtchi stormed to the sole lead in the 2022 Candidates Tournament as the Russian grandmaster swiftly beat France&#39;s GM Alireza Firouzja, whose Najdorf preparation backfired as he got both checkmated and flagged. The other three games...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-4",
@@ -736,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2022-r9",
          "pubDate" : "Sat, 18 Jun 2022 04:05:00 +0100",
          "title" : "Harikrishna and Keymer clinch Prague Festival titles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess instructor Alex Moellering looks at the &quot;beginning&quot; of the endgame, known positions, and more. Originally on Twitch<br /> 2022.05.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YWh0XubB2aY.jpg?itok=5dWCjsjk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgame-beginner-breakdown",
-         "pubDate" : "Fri, 17 Jun 2022 23:21:03 +0000",
-         "title" : "The Endgame | Beginner Breakdown"
       },
       {
          "description" : "",
