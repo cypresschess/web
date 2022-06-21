@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endgames are often full of tactical possibilities, particularly so if both sides have passed pawns. The diagrammed position occurred in a game between Magnus Carlsen and Anish Giri at the Esports Cup in Oslo. It is White to move, and can you find the move the World Champion played?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-tactics-4",
+         "pubDate" : "Tue, 21 Jun 2022 09:00:00 +0100",
+         "title" : "Endgame tactics"
+      },
+      {
+         "description" : "The Stepan Avagyan Memorial takes place June 20-28, 2022 in Yerevan, Armenia. The format is a round-robin among 10 players and the participants are a very interesting mixture of young starts and local talents. Top seeded is GM Hans Moke Niemann who just turned 19 and is currently the second strongest junior in the world. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stepan-avagyan-chess-memorial-2022-live/",
+         "pubDate" : "Tue, 21 Jun 2022 06:48:44 +0000",
+         "title" : "Stepan Avagyan Chess Memorial 2022 (LIVE)"
+      },
+      {
+         "description" : "DAY 2 : LEH. Hon'ble Lt. Governor of Ladakh Shri Radha Krishna Mathur receive the Torch from Grandmaster Dibyendu Barua &#160; DAY 2 : DELHI",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
+         "pubDate" : "Tue, 21 Jun 2022 06:05:45 +0000",
+         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY"
+      },
+      {
+         "description" : "The 2022 FIDE Candidates Chess Tournament players come back today to the Palacio Santona chess battlefield after yesterday's first free day at the tournament. Fabiano Caruana and Ian Nepomniachtchi had the pleasure to head into the resting day leading the crosstable on plus one. Some players used the day to prepare for Round 4, some []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r4-preview/",
+         "pubDate" : "Tue, 21 Jun 2022 05:38:04 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R4 preview"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley joins the show live from Madrid during Round 3 of the 2022 Candidates Tournament to talk about his first Candidates trip as a chess fan. 2022.06.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurice-ashley-im-going-fabi-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3g07n4GvGPQ.jpg?itok=QJpCQ0sG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/maurice-ashley-im-going-fabi-round-3",
+         "pubDate" : "Tue, 21 Jun 2022 05:24:13 +0000",
+         "title" : "Maurice Ashley: I'm Going with Fabi! | Round 3"
+      },
+      {
          "description" : "In the battle of Women&#39;s World Champions, GM Alexandra Kosteniuk prevailed over GM Antoaneta Stefanova in the second round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. While both competitors impressed on the b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-kosteniuk-stefanova",
-         "pubDate" : "Mon, 20 Jun 2022 20:05:08 -0700",
+         "pubDate" : "Mon, 20 Jun 2022 20:05:00 -0700",
          "title" : "Kosteniuk Excels in Chaotic Time Scrambles, Blitzes Fellow Women's World Champion"
+      },
+      {
+         "description" : "The&#160;FIDE Candidates Chess 2022&#160;will take place in Madrid, from June 16 to July 7. It will be an 8-player double-round robin with some of the world&#x2019;s top Grandmasters. The winner of the FIDE 2022 Candidates Chess Tournament will qualify for the World Championship match later this year, competing in 14 rounds against the reigning World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-live/",
+         "pubDate" : "Tue, 21 Jun 2022 01:33:00 +0000",
+         "title" : "FIDE Candidates Chess 2022 (round 4) LIVE"
       },
       {
          "description" : "FM James Canty III upset the top seed, IM Polina Shuvalova, in the quarterfinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Monday. It was a closely-fought match with many double-edged games and the scores hoverin...",
@@ -114,7 +162,7 @@ news_feed (
          "title" : "Young Stars benefit from Kasparov's session"
       },
       {
-         "description" : "Happy birthday to Hans Niemann! Chessdom.com wishes him a bright future and beautiful games on the chess board! 19-year-old&#xA0;American grandmaster is currently the second best-ranked Junior player in the World on the live rating list, just behind Alireza Fioruzja who celebrated his 19th birthday two days ago. This year Hans Niemann won two major chess []",
+         "description" : "Happy birthday to Hans Niemann! Chessdom.com wishes him a bright future and beautiful games on the chess board! 19-year-old&#160;American grandmaster is currently the second best-ranked Junior player in the World on the live rating list, just behind Alireza Fioruzja who celebrated his 19th birthday two days ago. This year Hans Niemann won two major chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/happy-19th-birthday-to-hans-niemann/",
@@ -170,28 +218,12 @@ news_feed (
          "title" : "Anish Giri recaps the 3rd round of FIDE Candidates Chess 2022"
       },
       {
-         "description" : "The FIDE World Senior Team Chess Championships 2022 start today in Acqui Terme. The event is played in two age categories: 50+ and 65+, taking place from 20-29 June. Both Championships will be played in 9 rounds, swiss system, with time control: 40 moves in 90 minutes, followed by 30 minutes to finish the game, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-senior-team-chess-championships-start-in-acqui-terme/",
-         "pubDate" : "Mon, 20 Jun 2022 10:36:41 +0000",
-         "title" : "FIDE World Senior Team Chess Championships start in Acqui Terme"
-      },
-      {
          "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/",
          "pubDate" : "Mon, 20 Jun 2022 10:08:43 +0000",
          "title" : "Hotels.nl is the Winner of European Corporate Chess Championship 2022"
-      },
-      {
-         "description" : "The biggest Chinese Sports channel CCTV-5 broadcasts the FIDE Candidates Chess Tournament 2022 live, supporting their countryman Ding Liren on the road to World Chess Championship Match. More than a million people daily follow Liren's games from Palacio Santona, Madrid. Replay Round 3: Ding Liren &#x2013; Richard Rapport 1/2-1/2&#160;/&#160;Fabiano Caruana &#x2013; Jan-Krzysztof Duda 1/2-1/2&#160;/&#160;Teimour Radjabov []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/million-people-following-ding-liren-at-fide-candidates/",
-         "pubDate" : "Mon, 20 Jun 2022 10:03:17 +0000",
-         "title" : "Million people following Ding Liren at FIDE Candidates"
       },
       {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players. Today we are publishing a part of the evaluation that takes a deeper look at the chances of two players: Fabiano Caruana and Alireza Firouzja. While Caruana (29) is a perennial favourite when it comes to the Candidates ever since 2016, the whole world will probably have their eyes set on Alireza Firouzja, who will turn 19 at the start of the event.",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/big-chess-comes-to-toronto/",
          "pubDate" : "Mon, 20 Jun 2022 10:10:41 +0100",
          "title" : "Big chess comes to Toronto"
-      },
-      {
-         "description" : "Indian chess legend and 15th World Chess Champion Viswanathan Anand will continue with competitive chess even if gets elected as the FIDE Deputy President, informed The Times of India. &#8220;I'm in the stage where I am playing much less than before. I have my academy as well, which I will continue to dedicate a lot []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anand-will-continue-with-competitive-chess-even-as-fide-deputy/",
-         "pubDate" : "Mon, 20 Jun 2022 09:02:10 +0000",
-         "title" : "Anand will continue with competitive chess even as FIDE Deputy"
       },
       {
          "description" : "FIDE, together with ChessKid and in the frame of the Queens Festival, is organizing very important initiative a Girls Only unrated online tournament! The...",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-1-lichessorg",
          "pubDate" : "Fri, 17 Jun 2022 14:20:50 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 1 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-2-lichessorg\"><img src=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-2-lichessorg",
-         "pubDate" : "Fri, 17 Jun 2022 14:20:50 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 2 | lichess.org"
       },
       {
          "description" : " Any of the principles you've learned through this series of articles can be, and should be, used to analyze games. I've gone over these concepts in terms of applying them to your own games. However, learning to play better chess also includes studying the game of stronger players, figuring out what worked and what didn't! <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\">A Foundation for Beginners Sixty Four</a> appeared first on <a rel=\"nofollow\" href",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Prague: Sharp chess, three winners"
       },
       {
-         "description" : "Team AICF and chess enthusiasts given a grand welcome to Shri Bharat Singh Chauhan at Chennai Airport after supreme court of India reinstates him as",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/grand-welcome-to-shri-bharat-singh-at-chennai-airport/",
-         "pubDate" : "Wed, 08 Jun 2022 17:35:18 +0000",
-         "title" : "Grand welcome to Shri Bharat Singh at Chennai Airport"
-      },
-      {
          "description" : "The ECF is delighted to report that Chess in Schools and Communities will be holding another ChessFest this summer on Sunday 17th July in Trafalgar...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2146,14 +2154,6 @@ news_feed (
          "title" : "Sicilian experiment: 1.e4 c5 2.Nf3 Nc6 3.Bc4?!"
       },
       {
-         "description" : "Round 4 of the Norway Chess tournament was played on Friday. Magnus Carlsen won his classical against Anish Giri, and was awarded three points for his victory. Previously in the sole lead, Viswanathan Anand, playing with Black, had to settle for a draw against Wesley So before losing the Armageddon game. Anand received only one point in this round and is now sharing the lead with Carlsen. Round 5 will be played on Sunday after a rest day. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r4",
-         "pubDate" : "Sat, 04 Jun 2022 17:55:00 +0100",
-         "title" : "Norway Chess: Carlsen climbs to the shared lead"
-      },
-      {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2264,14 +2264,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2022-official-invitation/",
          "pubDate" : "Tue, 31 May 2022 09:17:39 +0000",
          "title" : "European Chess Club Cup 2022 - Official invitation"
-      },
-      {
-         "description" : "Anand's win over Carlsen comes close on the heels of compatriot and teen sensation R Praggnandhaa defeating the Norwegian world champion in an online blitz tournament recently.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34012429/viswanathan-anand-beats-magnus-carlsen-blitz-norway-chess?device=featurephone",
-         "pubDate" : "Tue, 31 May 2022 01:03:25 -0500",
-         "title" : "Anand beats Carlsen in blitz event of Norway Chess, finishes fourth"
       }
    ]
 }
