@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Wed, 22 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 5: Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92390785.cms\" />International Master Nitin Senthilvel of India is in joint lead with Armenian GM Vahe Baghdasaryan with five points after the fifth round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-indian-im-nitin-baghdasaryan-in-joint-lead/articleshow/92390785.cms",
+         "pubDate" : "Wed, 22 Jun 2022 12:36:09 +0000",
+         "title" : "Chennai Open chess: Indian IM Nitin, Baghdasaryan in joint lead"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Sh1IN4jD6fo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-5/",
+         "pubDate" : "Wed, 22 Jun 2022 12:00:00 +0000",
+         "title" : "FIDE Candidates Tournament 2022: Round 5"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ian Nepomniachtchi</strong> has been asked by <strong>FIDE</strong> not to bring a thermos nor wear the jacket with the logo of his sponsor <strong>Nornickel</strong> any more at the <strong>Candidates Tournament</strong>. The mining company was also a <a href=\"https://www.fide.com/news/1194\">FIDE partner</a> until contracts with Russian sponsors were terminated after the start of Russia's invasion in Ukraine. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nornickel-logo-out/",
+         "pubDate" : "Wed, 22 Jun 2022 12:01:19 +0100",
+         "title" : "Nornickel logo out"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. This issue offers games from two major events, FIDE Grand Prix and Ukraine Charity Cup. 353 games (37 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Anish Giri, Wesley So, Andrey Esipenko, Grigoriy Oparin and Nikita Vitiugov among others. The icing on the cake is the Larsen Special, a tribute to the Great Dane. Our columnist Nagesh Havanur takes a look.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +66,7 @@ news_feed (
          "title" : "FIDE Candidates 2022 R5 live with IM Sagar Shah and Amruta Mokal"
       },
       {
-         "description" : "Ian Nepomniachtchi leads Fabiano Caruana by half a point after scoring a crushing win over Alireza Firouzja in Round 4 of the FIDE Candidates Tournament in Madrid. Alireza sprung a surprise in the opening but was punished the moment he forgot or misplayed his home preparation. The remaining games were drawn, with Ding Liren unable to convert an extra pawn against Ian Nepomniachtchi in the clash of the pre-tournament favourites.",
+         "description" : "Ian Nepomniachtchi leads Fabiano Caruana by half a point after scoring a crushing win over Alireza Firouzja in Round 4 of the FIDE Candidates Tournament in Madrid. Alireza sprung a surprise in the opening but was punished the moment he forgot or misplayed his home preparation. The remaining games were drawn, with Ding Liren unable to convert an extra pawn against Fabiano Caruana in the clash of the pre-tournament favourites.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/madrid-candidates-4-nepo-storms-to-firouzja-win",
@@ -106,7 +138,7 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 4"
       },
       {
-         "description" : "",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nigel Short</strong> has stepped down as <strong>FIDE Vice President</strong> after the Ethics Commission has <a href=\"https://ethics.fide.com/wp-content/uploads/2022/06/EDC-Case-10_2021A-Appeal-Chamber-decision.pdf\">suspended him for three months</a> for overstepping his office when trying to clean up the mess between the <strong>US Virgin Islands Chess Federation</strong> and a rival federation. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/shorts-steps-down/",
@@ -118,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-coverage-2022-chess-olympiad",
-         "pubDate" : "Tue, 21 Jun 2022 12:21:34 -0700",
+         "pubDate" : "Tue, 21 Jun 2022 12:21:00 -0700",
          "title" : "Announcing Chess.com Coverage Of The 2022 Chess Olympiad"
       },
       {
@@ -370,14 +402,6 @@ news_feed (
          "title" : "Cracking the Candidate Code (3)"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/three-quarantined-in-madrid/",
-         "pubDate" : "Mon, 20 Jun 2022 18:19:39 +0100",
-         "title" : "Three quarantined in Madrid"
-      },
-      {
          "description" : "In the Endgame Magic Show #199 Karsten takes a look at interesting endgames from the Chess Festival in Prague. Pentala Harikrishna won the Masters, Vincent Keymer won the Challengers and both scored crucial points in the endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,7 +434,7 @@ news_feed (
          "title" : "Chennai Open Chess: Vignesh holds veteran Fedorov in Round 3"
       },
       {
-         "description" : "",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian Prime Minister <strong>Narendra Modi</strong> attended a <a href=\"https://www.fide.com/news/1818\">PR event</a>, where a torch was introduced to be carried from Delhi to Mamallapuram, the venue of the Chess Olympiad. The torch relay, <a href=\"https://en.wikipedia.org/wiki/1936_Summer_Olympics_torch_relay\">introduced by Nazi Germany in 1936</a>, may undermine <strong>FIDE</strong>'s relationship with the <strong>IOC</strong> which may see it as abuse of an Olympic symbol. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/india-introduces-torch-relay/",
@@ -418,7 +442,7 @@ news_feed (
          "title" : "India introduces torch relay"
       },
       {
-         "description" : "",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> is using open source software by <strong>Lichess</strong> and <strong>Stockfish</strong> under a General Public Licence <a href=\"https://candidates.fide.com/live\">for transmitting the games</a> from the <strong>Candidates Tournament</strong>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/fide-goes-open-source/",
@@ -474,7 +498,7 @@ news_feed (
          "title" : "Cracking the Candidate Code (2)"
       },
       {
-         "description" : "",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Isai Scheinberg</strong>, cosponsor of the <strong>Candidates Tournament</strong>, said that his family's <a href=\"https://www.fide.com/news/1694\">engagement in top <strong>FIDE</strong> events until at least 2026</a> is purely philanthropic in memory of his father <a href=\"https://en.wikipedia.org/wiki/Matafia_%C5%A0einbergas\">Matafia Åeinbergas (1909-2003)</a>. He revealed that one of the next events is planned to be held in Toronto. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/big-chess-comes-to-toronto/",
@@ -1042,14 +1066,6 @@ news_feed (
          "title" : "Master Chess Web Show (18)"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/the-party-is-over/",
-         "pubDate" : "Thu, 16 Jun 2022 16:51:47 +0100",
-         "title" : "The party is over"
-      },
-      {
          "description" : "The French Defence is an opening with a marked strategic character, but it also offers rich tactical possibilities to both sides. This video course is aimed as a tactical guide for Black, featuring the most typical combinations for the French structures. The reader is also invited to find combinations delivered by White, in order to become aware of the possible dangers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1210,14 +1226,6 @@ news_feed (
          "title" : "Brian Jones AM"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/kristin-marie-ganz-runs-norwegian/",
-         "pubDate" : "Wed, 15 Jun 2022 12:19:37 +0100",
-         "title" : "Kristine Marie Ganz runs Norwegian federations"
-      },
-      {
          "description" : "The Budapest Gambit (1.d4 Nf6 2.c4 e5 3.dxe5 Ng4) has its most loyal followers in club chess. 1.d4 players who are confronted with the gambit have to reckon with the fact that their opponents are far more familiar with the positions, if only because of the number of games they have played with that system. In the current ChessBase Magazine Extra 207 Ivan Sokolov shows a little-known but very convenient way for White to gain a nice advantage without extensive study of opening theory. You can watch an excerpt from his video analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1232,14 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1811",
          "pubDate" : "Wed, 15 Jun 2022 09:22:45 +0000",
          "title" : "Latvia launches Chess in Prisons programme"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nakamura-left-tsm-joins-misfits/",
-         "pubDate" : "Wed, 15 Jun 2022 09:27:11 +0100",
-         "title" : "Nakamura left TSM, joins Misfits"
       },
       {
          "description" : "Le Quang Liem grabbed the sole lead at the Masters section of the Prague Chess Festival after beating Saleh Salem in Tuesday's sixth round. Pentala Harikrishna is in sole second place a half point back. In the Challengers, former sole leader Vincent Keymer was held to a draw by Marcin Krzyzanowski, which allowed Nodirbek Abdusattorov to climb to the shared lead thanks to a win over Max Warmerdam. | Photo: Petr Vrabec",
@@ -1290,84 +1290,12 @@ news_feed (
          "title" : "Daniel Naroditsky is new NYT chess columnist"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/bremen-hosts-bundesliga-final/",
-         "pubDate" : "Tue, 14 Jun 2022 09:48:33 +0100",
-         "title" : "Bremen hosts Bundesliga final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/ding-wins-chessable-masters/",
-         "pubDate" : "Tue, 14 Jun 2022 09:47:23 +0100",
-         "title" : "Ding wins Chessable Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/should-carlsen-decide-now/",
-         "pubDate" : "Tue, 14 Jun 2022 09:45:26 +0100",
-         "title" : "Should Carlsen decide now?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/its-50-years-folks/",
-         "pubDate" : "Tue, 14 Jun 2022 09:43:57 +0100",
-         "title" : "It's 50 years, folks!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/a-universal-game-teaching-tool/",
-         "pubDate" : "Tue, 14 Jun 2022 09:43:41 +0100",
-         "title" : "A universal game teaching tool"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/can-yosha-compete-as-a-woman/",
-         "pubDate" : "Tue, 14 Jun 2022 09:43:24 +0100",
-         "title" : "Can Yosha compete as a woman?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/four-more-years-with-a-russian/",
-         "pubDate" : "Tue, 14 Jun 2022 09:42:43 +0100",
-         "title" : "Four more years?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/no-more-political-sponsorship-and/",
-         "pubDate" : "Tue, 14 Jun 2022 09:42:29 +0100",
-         "title" : "\"No more political sponsorship and sportswashing\""
-      },
-      {
          "description" : "Mate ends the game and mating attacks also occur in the endgame. In the diagrammed position it is White to move. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-missed-chance",
          "pubDate" : "Tue, 14 Jun 2022 09:00:00 +0100",
          "title" : "A missed chance"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/cloud-computing-power-for-french-top/",
-         "pubDate" : "Tue, 14 Jun 2022 08:09:23 +0100",
-         "title" : "Cloud computing power for French top"
       },
       {
          "description" : "Fritztrainer video courses now run everywhere! They run in a stand-alone app for Windows and Mac; they run in the ChessBase programme; and now, brand new, they are streamable in the ChessBase video portal - for tablets, iPads and smartphones! In fact, regardless of whether you order the download or the DVD: you can watch the Fritztrainer as a stream in the video portal!",
@@ -1418,14 +1346,6 @@ news_feed (
          "title" : "WSCC 2022: Vaishali advances to quarterfinals"
       },
       {
-         "description" : " <p class=\"lead\">The 2022 Candidates Tournament runs from June 17th through July 5th, in Madrid, Spain. It's one of the most important events of the year as the world's chess elite will compete for a chance to dethrone the invincible Magnus Carlsen and win the 2023 World Championship title. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/BYFjApBIyD8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Eight players compete in a double round-robin tournament (14 rounds), with 4 rest days, a final tiebreak in case of a draw, and a â‚¬500,000 prize pool. <h2><b>Players</b></h2> This year's Candidates Tournament features eight of the best player",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/everything-you-need-to-know-about-the-2022-candidates/",
-         "pubDate" : "Mon, 13 Jun 2022 17:34:59 +0000",
-         "title" : "FIDE Candidates Tournament 2022: Everything you need to know"
-      },
-      {
          "description" : "In the Endgame Magic Show #198 Karsten takes a look at interesting rook endings played in the first half of the year. Rook endings occur more often than any other ending and the examples Karsten picked contain important theoretical positions and patterns. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1472,14 +1392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-preview",
          "pubDate" : "Mon, 13 Jun 2022 09:00:00 +0100",
          "title" : "All set for the event of the year: the Candidates Tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/naroditsky-becomes-nyt-chess/",
-         "pubDate" : "Mon, 13 Jun 2022 04:58:57 +0100",
-         "title" : "Naroditsky becomes NYT chess columnist"
       },
       {
          "description" : "GM Dmitry Andreikin won week 18 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He defeated GM Jeffery Xiong in the final blitz tiebreaker.&#38;nbsp; GMs&#38;nbsp;Levon Aronian and Olexandr Bortnyk made it to the semifinals. GMs Hikaru ...",
@@ -1618,22 +1530,6 @@ news_feed (
          "title" : "The art of attack"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/parent-resource-guide/",
-         "pubDate" : "Sat, 11 Jun 2022 08:07:17 +0100",
-         "title" : "Parent resource guide"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsens-wins-in-stavanger/",
-         "pubDate" : "Sat, 11 Jun 2022 07:56:25 +0100",
-         "title" : "Carlsens wins in Stavanger"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92140753.cms\" />Former world champion Viswanathan Anand scored a win over Aryan Tari in the ninth and final round to finish third in the Norway Chess tournament which was won by world number one Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1730,28 +1626,12 @@ news_feed (
          "title" : "4 Candidates In FIDE Presidential Elections"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/catalan-circuit-is-back/",
-         "pubDate" : "Fri, 10 Jun 2022 09:52:08 +0100",
-         "title" : "Catalan circuit is back"
-      },
-      {
          "description" : "Magnus Carlsen leads Shakhriyar Mamedyarov by half a point going into the final day of Norway Chess 2022 after incredible drama in the penultimate round. In a roughly equal position Vishy Anand blundered into mate-in-2 then resigned before Mamedyarov had a chance to spot the blunder. Magnus was dead lost at times in both the classical and Armageddon games against Maxime Vachier-Lagrave, but found a way not only to survive but to win the mini-match.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/norway-chess-8-carlsen-escapes-as-anand-blunders",
          "pubDate" : "Fri, 10 Jun 2022 08:17:55 +0000",
          "title" : "Norway Chess 8: Carlsen escapes as Anand blunders"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/kouatly-joins-race-while-fumey-is/",
-         "pubDate" : "Fri, 10 Jun 2022 08:27:34 +0100",
-         "title" : "Kouatly joins race, while Fumey is out"
       },
       {
          "description" : "Shakhriyar Mamedyarov defeated Vishy Anand to climb to sole second place with a round to go at the Norway Chess Tournament. The Indian star, who was having a great run in Stavanger, made a one-move blunder and immediately resigned the game on move 22. Meanwhile, Magnus Carlsen beat Maxime Vachier-Lagrave in Armageddon to keep the sole lead - the world champion goes into Friday's final round a half point ahead of Mamedyarov. | Photo: Lennart Ootes",
@@ -1866,14 +1746,6 @@ news_feed (
          "title" : "Game of the Week #519: Carlsen vs Mamedyarov"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nakamura-and-the-eight-streamers/",
-         "pubDate" : "Thu, 09 Jun 2022 11:11:56 +0100",
-         "title" : "Nakamura and the eight streamers"
-      },
-      {
          "description" : "An extremely entertaining first round in the Masters section of the Prague Chess Festival saw Le Quang Liem, David Navara and Pentala Harikrishna scoring the first victories of the event to grab an early lead. Coincidentally, three players also won their first games in the Challengers. All six full points were collected by the player marshalling the white pieces. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1904,14 +1776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-representative-elections/",
          "pubDate" : "Wed, 08 Jun 2022 14:35:14 +0000",
          "title" : "Direct Members' Representative elections 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/women-chess-conference-in-prague/",
-         "pubDate" : "Wed, 08 Jun 2022 15:18:21 +0100",
-         "title" : "Women chess conference in Prague"
       },
       {
          "description" : "As the World Champion Magnus Carlsen on Tuesday struggled in yet another armageddon duel, losing his fourth of the kind, the situation at the top of the leaderboard is making us eager to see the players return from their day off to finish the tour...",
@@ -2074,14 +1938,6 @@ news_feed (
          "title" : "Can we process chess positions faster in 2D or in 3D? - An experiment"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92062773.cms\" />Grandmaster Aleksej Aleksandrov outlasted Indian GM Deep Sengupta to join top-seed Farrukh Amonatov of Tajikistan in the lead of the first Maharashtra International Open Grandmaster chess tournament on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/maharashtra-open-chess-aleksandrov-beats-sengupta-enjoys-joint-lead-with-amonatov/articleshow/92062773.cms",
-         "pubDate" : "Tue, 07 Jun 2022 12:29:46 +0000",
-         "title" : "Maharashtra Open chess: Aleksandrov beats Sengupta, enjoys joint lead with Amonatov"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92062102.cms\" />The 44th Chess Olympiad to be held in July-August near here will mark the introduction of Olympic-style torch relay which will be run ahead of the showpiece every edition, the world governing body of the sport announced on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2120,14 +1976,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/arbiter-appointments-for-the-chennai-olympiad/",
          "pubDate" : "Tue, 07 Jun 2022 08:56:26 +0000",
          "title" : "Arbiter appointments for the Chennai Olympiad"
-      },
-      {
-         "description" : "The bodycheck is the most important motif in the endgame rook against pawn, which will sooner or later arise from the position shown in the diagram. In the actual game White did not find the correct defense and lost. Can you do better? White to move and draw!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-bodycheck",
-         "pubDate" : "Tue, 07 Jun 2022 09:00:00 +0100",
-         "title" : "The bodycheck"
       },
       {
          "description" : "GM Arjun Erigaisi bested the two-time Junior Speed Chess Champion, GM Nihal Sarin, in the final of the 2022 Junior Speed Chess Championship on Monday. Down two points after the 3|1 blitz, Erigaisi clinched the title with a five-game winning stre...",
@@ -2272,30 +2120,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jun/03/chess-magnus-carlsen-starts-stavanger-while-seven-year-old-kushal-jakhria-eyes-expert-record",
          "pubDate" : "Fri, 03 Jun 2022 10:28:20 +0000",
          "title" : "Chess: Carlsen recovers in Stavanger while seven-year-old eyes Expert record"
-      },
-      {
-         "description" : " In any important chess tournament, there are always a few incidents to report. In the case of the recent ACT Chess Championship, a few spring to mind. There was one game involving a 50 move claim, and one game that almost had one. In the case of the game that reached 50 moves without a pawn move or capture, the first claim was in fact for a repetition. However instead of writing the move on the scoresheet, he picked up the piece to demonstrate the move he intended to play. Unfortunately this simply meant he had to move the piece, and could not then make a claim, as it was his opponents move. His opponent then avoided the repetition, but there were enough checks to reach (and indeed go past)",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/after-action-report.html",
-         "pubDate" : "Wed, 01 Jun 2022 13:22:00 +0000",
-         "title" : "After action report"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1798",
-         "pubDate" : "Wed, 01 Jun 2022 12:30:13 +0000",
-         "title" : "June 2022 rating list: Youngsters keep moving up"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1795",
-         "pubDate" : "Wed, 01 Jun 2022 12:00:27 +0000",
-         "title" : "Tech Mahindra onboarded as digital partner for the Chess Olympiad"
       }
    ]
 }
