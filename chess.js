@@ -10,6 +10,38 @@ news_feed (
          "title" : "ChessBase Magazine #207: Nakamura returns and Rapport arrives - Review by Prof. Nagesh Havanur"
       },
       {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and IM/WGM Elisabeth Paehtz, in collaboration with Worldchess.com. Round 5 pairings (follow the links for each game)&#xA0;Fabiano Caruana &#x2013; Richard Rapport&#xA0;/&#xA0;Teimour Radjabov &#x2013; Ding Liren&#xA0;/&#xA0;Alireza Firouzja &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Ian Nepomniachtchi More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R5&#xA0;/&#xA0;Candidates pairings all rounds&#xA0;/&#xA0;Candidates LIVEDaily []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r5-live-with-gm-daniil-yuffa-and-im-elisabeth-paehtz/",
+         "pubDate" : "Wed, 22 Jun 2022 10:45:36 +0000",
+         "title" : "FIDE Candidates 2022 R5 live with GM Daniil Yuffa and IM Elisabeth Paehtz"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 5 pairings (follow the links for each game)&#xA0;Fabiano Caruana &#x2013; Richard Rapport&#xA0;/&#xA0;Teimour Radjabov &#x2013; Ding Liren&#xA0;/&#xA0;Alireza Firouzja &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Hikaru Nakamura &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r5-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-gm-cristian-chirila/",
+         "pubDate" : "Wed, 22 Jun 2022 10:43:02 +0000",
+         "title" : "FIDE Candidates 2022 R5 live with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase.&#xA0;Round 5 pairings (follow the links for each game)&#xA0;Fabiano Caruana &#x2013; Richard Rapport / Teimour Radjabov &#x2013; Ding Liren / Alireza Firouzja &#x2013; Jan-Krzysztof Duda / Hikaru Nakamura &#x2013; Ian Nepomniachtchi More:&#xA0;All Candidates news (collection)&#xA0;/&#xA0;Preview of R5&#xA0;/&#xA0;Candidates []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r5-live-with-im-sagar-shah-and-amruta-mokal/",
+         "pubDate" : "Wed, 22 Jun 2022 10:41:13 +0000",
+         "title" : "FIDE Candidates 2022 R5 live with IM Sagar Shah and Amruta Mokal"
+      },
+      {
+         "description" : "Ian Nepomniachtchi leads Fabiano Caruana by half a point after scoring a crushing win over Alireza Firouzja in Round 4 of the FIDE Candidates Tournament in Madrid. Alireza sprung a surprise in the opening but was punished the moment he forgot or misplayed his home preparation. The remaining games were drawn, with Ding Liren unable to convert an extra pawn against Ian Nepomniachtchi in the clash of the pre-tournament favourites.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-4-nepo-storms-to-firouzja-win",
+         "pubDate" : "Wed, 22 Jun 2022 10:39:25 +0000",
+         "title" : "Madrid Candidates 4: Nepo storms to Firouzja win"
+      },
+      {
          "description" : "In his unique style, Anish Giri analyzes the 2022 Candidates Tournament Round 4 games, with particular attention to the game Nepo Firouzja. More videos by Giri: R3 Candidates recap /&#xA0;R2 Candidates recap&#xA0;/&#xA0;R1 Candidates recap Replay R4 games: Richard Rapport &#x2013; Hikaru Nakamura 1/2-1/2&#xA0; / Ian Nepomniachtchi &#x2013; Alireza Firouzja 1-0 / Jan-Krzysztof Duda &#x2013; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -210,14 +242,6 @@ news_feed (
          "title" : "The Pinwheel Fork"
       },
       {
-         "description" : "Two days ago the World celebrated Father's Day a holiday honoring fatherhood and paternal bonds, as well as the influence of fathers in society. Play Magnus Group for this occasion shared the photo of World Chess Champion Magnus Carlsen and his father. Carlsen shortly commented on the post putting the little heart above the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-analyzes-chess-games-with-his-father-tweetoftheday/",
-         "pubDate" : "Tue, 21 Jun 2022 13:12:55 +0000",
-         "title" : "Magnus Carlsen analyzes chess games with his father #TweetOftheDay"
-      },
-      {
          "description" : "The Dutch GM was one of the strongest chess players in the late 70s, 80s, and early 90s. Timman never feared complicated games, which gave him many opportunities to discover some brilliant tactics against players like Kasparov, Kamsky, Karpov, and Anand. Lawrence dives right into the business, and gives us the chance to find the tactical moves ourselves. Furthermore, can we uphold the rating of 2500 in our tactics section, or will something unexpected mess things up?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,14 +274,6 @@ news_feed (
          "title" : "J&K LG hands over Chess Olympiad Torch to GM Pravin Thipsay"
       },
       {
-         "description" : "Nigel Short has announced his resignation as FIDE Vice-President with immediate effect. Since since October 2018, Nigel Short was serving as Vice-president of FIDE in the Arkadij Dvorkovich administration. The announcement of Nigel Short comes at a strange moment, as he is currently playing the FIDE World Senior Team Chess Championships Acqui Terme (read more) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nigel-short-resigns-announces-his-resignation-as-fide-vice-president-with-immediate-effect/",
-         "pubDate" : "Tue, 21 Jun 2022 11:19:21 +0000",
-         "title" : "(UPDATED) Nigel Short announces his resignation as FIDE Vice-President with immediate effect"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/T8wO6Fb5QP8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -288,22 +304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1821",
          "pubDate" : "Tue, 21 Jun 2022 09:44:27 +0000",
          "title" : "WSCC-2022: Kosteniuk beat Stefanova to reach quarterfinals"
-      },
-      {
-         "description" : "In 2022 Ding Liren&#xA0;and&#xA0;Fabiano Caruana&#xA0;celebrate their 20-year-long chess rivalry anniversary. Their first encounter happened back in 2002 at the U10 World Youth Chess Championship in Heraklion, Crete. Back then the non-rated Ding Liren defeated Caruana. Today they meet at the event they dreamed about as kids FIDE Candidates Chess Tournament 2022. According to chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-and-fabiano-caruana-celebrate-20-years-of-chess-battles/",
-         "pubDate" : "Tue, 21 Jun 2022 09:40:47 +0000",
-         "title" : "Ding Liren and Fabiano Caruana celebrate 20 years of chess battles"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 4 pairings (follow the links for each game)&#160;Richard Rapport &#x2013; Hikaru Nakamura&#160;/ &#160;Ian Nepomniachtchi &#x2013; Alireza Firouzja&#160;/&#160;Jan-Krzysztof Duda &#x2013; Teimour Radjabov&#160;/&#160;Ding Liren &#x2013; Fabiano Caruana More:&#160;All Candidates news (collection)&#160;/&#160;Preview of R4&#160;/&#160;Candidates pairings all rounds&#160;/&#160;Candidates LIVEDaily []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r4-live-with-im-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Tue, 21 Jun 2022 09:27:00 +0000",
-         "title" : "FIDE Candidates 2022 R4 live with IM Sagar Shah and Amruta Mokal"
       },
       {
          "description" : "Watching and following live events from one's phone is nothing new, and there are a myriad of ways to do so, including of course the ChessBase News page. Recently however, a great deal of effort has been invested into making the ChessBase experience that extra bit better and more enjoyable, and you now have much more than just the games and moves at your fingertips.",
@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-announces-blitzchamps",
          "pubDate" : "Mon, 06 Jun 2022 11:51:00 -0700",
          "title" : "Announcing BlitzChamps With NFL Stars Fitzgerald, Thibodeaux, Parsons, And More!"
-      },
-      {
-         "description" : "The US Chess Federation has announced a powerhouse line-up for the 44th Chess Olympiad, which takes place in Chennai, India this summer. The 2016 gold medal winners look set to be the huge favourites to win with their biggest contenders Russia, and possibly China, absent.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/breathtaking-us-team-expected-to-be-favourites-in-chennai",
-         "pubDate" : "Mon, 06 Jun 2022 17:42:41 +0000",
-         "title" : "\"Breathtaking\" US team expected to be favourites in Chennai"
       },
       {
          "description" : "The 52nd Cotswold Chess Congress was held at The Kings School, Gloucester Friday 3rd to Sunday 5th June. The organizers are grateful to Karen Gulley...",
