@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1825",
+         "pubDate" : "Wed, 22 Jun 2022 22:25:58 +0000",
+         "title" : "2022 Candidates, Round 5: Great expectations and a lucky escape"
+      },
+      {
+         "description" : "Candidates R5 recap by WGM Anastasiya Karlovich Replay Round 5:Fabiano Caruana &#x2013; Richard Rapport 1/2-1/2Teimour Radjabov &#x2013; Ding Liren 1/2-1/2Alireza Firouzja &#x2013; Jan-Krzysztof Duda 1/2-1/2Hikaru Nakamura &#x2013; Ian Nepomniachtchi 1/2-1/2 It looked like Ding Liren could&#x2019;ve been the hero of the 5th round in Madrid, scoring the only decisive point of the day, but alas. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-2022-r5-almost-saw-a-major-upset/",
+         "pubDate" : "Wed, 22 Jun 2022 21:58:35 +0000",
+         "title" : "FIDE Candidates Chess 2022 R5 almost saw a major upset"
+      },
+      {
+         "description" : "More than 1500 players took part in the Olympiad Torch Run Open Rapid Chess Tournament 2022 which took place at Indira Gandhi International Stadium, New Delhi on 19th June 2022 on the occasion of the first-ever Chess Olympiad Torch Relay. As many as six players tied for the first place with perfect score of 7/7 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-mitrabha-guha-is-the-winner-of-the-olympiad-torch-run-open-rapid-chess-tournament-2022/",
+         "pubDate" : "Wed, 22 Jun 2022 21:29:09 +0000",
+         "title" : "GM Mitrabha Guha is the Winner of the Olympiad Torch Run Open Rapid Chess Tournament 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-5\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-5",
+         "pubDate" : "Wed, 22 Jun 2022 20:26:31 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 5"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi maintains his lead in the 2022 Candidates Tournament with a score of 3.5/5. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbsp;Round 6 begins at 6 a.m. Pacific...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-6",
-         "pubDate" : "Wed, 22 Jun 2022 11:16:33 -0700",
+         "pubDate" : "Wed, 22 Jun 2022 11:16:00 -0700",
          "title" : "How To Watch FIDE Candidates Tournament Round 6"
       },
       {
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://aicf.in/50499-2/",
          "pubDate" : "Wed, 22 Jun 2022 17:38:08 +0000",
          "title" : ""
+      },
+      {
+         "description" : " Ian Nepomniachtchi had an extremely lucky escape against Hikaru Nakamura in Round 5 of the FIDE Candidates tournament in Madrid. His draw means that he still leads the event alone on 3.5/5 half a point clear of Fabiano Caruana. Nakamura played a very popular line against Nepomniachtchi's Petroff Defence and they followed an old game of the American's until 14...Bf8 deviated. The first real key moments were 16...Qe4? a mistake played after a remarkable 14 seconds of thought, 17.Bf1 Qg4? (after 1 minute 23 seconds of thought, 17...Qb1 is better). After the game Nepomniachtchi explained that he'd confused this position with a similar one where these moves work. Essentially now Nepomniachtchi h",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/jammy-nepomniachtchi-escapes-with-a-draw-against-nakamura-in-candidates-round-5",
+         "pubDate" : "Wed, 22 Jun 2022 21:31:00 +0400",
+         "title" : "Jammy Nepomniachtchi escapes with a draw against Nakamura in Candidates Round 5 - 5"
       },
       {
          "description" : "GMs Vladimir Fedoseev and Wesley So were the victors in Titled Tuesday on June 21. In addition to his victory in the day&#39;s late tournament, So finished in third place early. Brothers GM Rasmus Svane and IM Frederik Svane each had a top-five finish...",
@@ -186,14 +226,6 @@ news_feed (
          "title" : "National Under-14 Certificates are out to download"
       },
       {
-         "description" : "Candidates R4 recap by WGM Anastasiya Karlovich Replay R4 games:Richard Rapport &#x2013; Hikaru Nakamura 1/2-1/2&#xA0;Ian Nepomniachtchi &#x2013; Alireza Firouzja 1-0Jan-Krzysztof Duda &#x2013; Teimour Radjabov 1/2-1/2&#xA0;Ding Liren &#x2013; Fabiano Caruana 1/2-1/2 After yesterday&#x2019;s first rest day Ian Nepomniachtchi took the sole lead by defeating Alireza Firouzja in a sharp Najdorf, every other game ended in a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-grabs-the-sole-lead-in-fide-candidates-2022/",
-         "pubDate" : "Tue, 21 Jun 2022 22:31:46 +0000",
-         "title" : "Ian Nepomniachtchi grabs the sole lead in FIDE Candidates 2022"
-      },
-      {
          "description" : "Ian Nepomniachtchi beat Alireza Firouzja from the white side of a double-edged Sicilian to grab the sole lead at the Candidates Tournament in Madrid. The three remaining games finished drawn, with Ding Liren failing to defeat Fabiano Caruana from a slightly superior position. Thus, former co-leader Caruana is now in sole second place, a half point behind Nepomniachtchi. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,14 +272,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-brushes-aside-firouzja-to-lead-alone-after-four-rounds-of-the-candidates",
          "pubDate" : "Tue, 21 Jun 2022 22:39:00 +0400",
          "title" : "Nepomniachtchi brushes aside Firouzja to lead alone after four rounds of the Candidates - 4"
-      },
-      {
-         "description" : "The European Youth Team Chess Championship 2022, scheduled to start on 12th July in Thessaloniki, Greece, is set for a new participation record with 53 teams represented by 196 players in the current lists. The Organizing Committee will accept one more team in categories, O12, G18 and G12 in order to have an even number []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-team-chess-championship-2022-sets-a-participation-record/",
-         "pubDate" : "Tue, 21 Jun 2022 18:38:26 +0000",
-         "title" : "European Youth Team Chess Championship 2022 sets a participation record"
       },
       {
          "description" : " &#8220;Captured pieces can be dropped back on the board instead of moving a piece&#8221; Lichess These are the rules of Crazyhouse chess: &#8220;All the rules and conventions of standard chess apply, with the addition of drops, as explained below. A captured piece reverses color and goes to the capturing player's pocket. At any time, <a href=\"https://chessimprover.com/crazyhouse/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Crazyhouse\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/crazyhouse/\">Crazyhouse</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1817",
          "pubDate" : "Sat, 18 Jun 2022 22:46:33 +0000",
          "title" : "2022 Candidates, Round 2: A day of missed chances"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-2\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-2",
-         "pubDate" : "Sat, 18 Jun 2022 20:21:45 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 2"
       },
       {
          "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nakamura winning against Radjabov - the only decisive game of the day -, while Rapport missed a huge chance with Firouzja. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52155659259_472b84ef82_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52155501209_4b7c703127_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52155501049_48b78d254a_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"h",
