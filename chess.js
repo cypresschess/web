@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi maintains his lead in the 2022 Candidates Tournament with a score of 3.5/5. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbsp;Round 6 begins at 6 a.m. Pacific...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-6",
+         "pubDate" : "Wed, 22 Jun 2022 11:16:33 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 6"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Hikaru Nakamura and Ding Liren missing an opportunity to win against Nepomniachtchi and Radjabov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52165473219_e348292cc6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52165473699_146137b504_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52164211417_783be7d13b_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://world",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-and-liren-missed-their-chances-to-win-on-round-5-of-the/",
+         "pubDate" : "Wed, 22 Jun 2022 18:07:07 +0000",
+         "title" : "Nakamura and Liren missed their chances to win on Round 5 of the 2022 Candidates"
+      },
+      {
+         "description" : "Today's special guest of the FIDE Candidates Chess Tournament 2022 was Mr. Manuel Alvarez Escudero, a 100-year-old active chess player. He made a first ceremonial move in the game between the Candidates' youngest participants: 19-year-old Alireza Firouzja and 24-year-old Jan-Krzysztof Duda. Just a few months ago, Mr. Escudero played the league in Madrid, and one []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/100-year-old-chess-player-manuel-alvarez-escudero-opens-candidates-chess-r5/",
+         "pubDate" : "Wed, 22 Jun 2022 18:04:00 +0000",
+         "title" : "100-year-old chess player Manuel Alvarez Escudero opens Candidates Chess R5"
+      },
+      {
+         "description" : "Chess.com is happy to announce that we have fully launched our new homepage. With a new design and convenient shortcuts to the features you use and love the most, this update will make your chess experience even better! Let&#39;s take a tour of your...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-redesigns-homepage",
+         "pubDate" : "Wed, 22 Jun 2022 11:03:00 -0700",
+         "title" : "Chess.com Redesigns Homepage"
+      },
+      {
+         "description" : "Hikaru Nakamura recaps his R5 game from the FIDE Candidates Tournament against Ian Nepomniachtchi. Nakamura had a clearly better position but lost the advantage after an inaccurate 28.Na5? and the game ended in a draw. Nakamura named the R5 game: &#8220;I am disgusted&#8221;, but he also emphasized he is satisfied with the current result of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-about-the-candidates-r5-game-against-nepo-i-am-disgusted/",
+         "pubDate" : "Wed, 22 Jun 2022 17:54:43 +0000",
+         "title" : "Nakamura about the Candidates R5 game against Nepo: I am disgusted"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/50499-2/",
+         "pubDate" : "Wed, 22 Jun 2022 17:38:08 +0000",
+         "title" : ""
+      },
+      {
+         "description" : "GMs Vladimir Fedoseev and Wesley So were the victors in Titled Tuesday on June 21. In addition to his victory in the day&#39;s late tournament, So finished in third place early. Brothers GM Rasmus Svane and IM Frederik Svane each had a top-five finish...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-wesley-so-win-titled-tuesday-june-21-2022",
+         "pubDate" : "Wed, 22 Jun 2022 09:30:11 -0700",
+         "title" : "Wesley So Overcomes Tough Competition To Win Late Tournament"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-6-lichessorg\"><img src=\"h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,6 +144,22 @@ news_feed (
          "link" : "https://www.chessdom.com/anish-giri-nepo-vs-firouzja-what-a-game-that-was-video/",
          "pubDate" : "Wed, 22 Jun 2022 09:36:17 +0000",
          "title" : "Anish Giri: \"Nepo vs Firouzja, what a game that was!\" (VIDEO)"
+      },
+      {
+         "description" : "Olympiad Torch Relay!! We welcome you to be part of this historic moment at your nearest place!! Celebrate Olympiad &#38; Celebrate Azadi Ka Amrut Mahotsav!!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-dharmasala/",
+         "pubDate" : "Wed, 22 Jun 2022 09:19:35 +0000",
+         "title" : "OLYMPIAD TORCH RELAY NEXT DESTINATION : CHANDIGARH"
+      },
+      {
+         "description" : "DAY 4 : SHIMLA Hon'ble Chief Minister of Himachal Pradesh Shri Jai Ram Thakur received the Torch at Shimla from Grandmaster Deep Sengupta DAY 4",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
+         "pubDate" : "Wed, 22 Jun 2022 09:05:45 +0000",
+         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, concluding today with a discussion of the \"unlikely\" and the \"scarred\" candidates - Hikaru Nakamura and Teimour Radjabov. | Photo FIDE official.",
@@ -178,14 +250,6 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2022 sets a participation record"
       },
       {
-         "description" : "The American grandmaster Hikaru Nakamura seems unhappy with the security check procedure at the FIDE Candidates tournament 2022. Just a few minutes before the start of the 4th round, Nakamura's wallet was scanned with a metal detector and he had to show all the credit cards in the wallet. Only two days ago, Hikaru was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-unhappy-with-the-security-procedures-at-fide-candidates-tournament/",
-         "pubDate" : "Tue, 21 Jun 2022 18:36:00 +0000",
-         "title" : "Nakamura unhappy with the security procedures at the FIDE Candidates Tournament"
-      },
-      {
          "description" : " &#8220;Captured pieces can be dropped back on the board instead of moving a piece&#8221; Lichess These are the rules of Crazyhouse chess: &#8220;All the rules and conventions of standard chess apply, with the addition of drops, as explained below. A captured piece reverses color and goes to the capturing player's pocket. At any time, <a href=\"https://chessimprover.com/crazyhouse/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Crazyhouse\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/crazyhouse/\">Crazyhouse</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -194,12 +258,12 @@ news_feed (
          "title" : "Crazyhouse"
       },
       {
-         "description" : "The first four rounds of the 2022 Candidates Tournament are in the books and GM Ian Nepomniachtchi now has the sole lead with a score of 3/4. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world cha...",
+         "description" : "In round five, GM Ian Nepomniachtchi was in serious trouble for a while against GM Hikaru Nakamura but escaped with a draw and kept his half-point lead at&#38;nbsp;the 2022 Candidates Tournament. On the second day where all games were drawn, GM Ding L...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-5",
          "pubDate" : "Tue, 21 Jun 2022 10:59:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 5"
+         "title" : "Nepomniachtchi Dodges Bullet, Maintains Lead In Madrid"
       },
       {
          "description" : " <p class=\"lead\">Round 4 of the 2022 Candidates Tournament ended with Ian Nepomniachtchi winning against Alireza Firouzja. It was the only decisive game of the day, the rest ended in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"799\" data-ratio=\"1.4990619136961\"> <img src=\"https://worldchess.com/news/pictures/52163364205_d3861aeea1_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52163364140_b463aa75c2_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162874008_eef72db779_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162872766_b43469b7b6_c.jp",
@@ -216,14 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/anastasia-karlovich-nepo-looks-best-right-now-round-4",
          "pubDate" : "Tue, 21 Jun 2022 17:24:52 +0000",
          "title" : "Anastasia Karlovich: Nepo Looks the Best Right Now | Round 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-dharmasala/",
-         "pubDate" : "Tue, 21 Jun 2022 17:19:35 +0000",
-         "title" : "OLYMPIAD TORCH RELAY NEXT DESTINATION : SHIMLA"
       },
       {
          "description" : "In an exclusive interview with chess24, FIDE President Arkady Dvorkovich speaks about the pressure he is facing at home in Russia, the criticism of his candidacy, his election campaign, the Candidates Tournament, Sergey Karjakin and Magnus Carlsen potentially giving up his World Championship title.",
@@ -264,14 +320,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/21/ep-284-gm-eugene-perelshteyn-and-fm-nate-solon-on-how-to-improve-your-chess-evaluation-skills-plus-the-lessons-we-can-learn-from-magnus-blitz-games",
          "pubDate" : "Tue, 21 Jun 2022 13:57:35 +0000",
          "title" : "EP 284- GM Eugene Perelshteyn and FM Nate Solon on How to Improve Your Chess Evaluation Skills plus the lessons we can learn from Magnus' blitz games"
-      },
-      {
-         "description" : "GM Maurice Ashley is a Jamaican-American chess player, author, and commentator. He traveled to FIDE Candidates Chess Tournament 2022 as a chess fan and joined the Saint Louis Chess Club broadcast with GM Alejandro Ramirez and GM Yasser Seirawan to share his experience from the trip. &#8220;Madrid is fantastic! The energy here is absolutely extraordinary []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-maurice-ashley-talks-about-his-first-candidates-trip-as-a-chess-fan/",
-         "pubDate" : "Tue, 21 Jun 2022 13:47:15 +0000",
-         "title" : "GM Maurice Ashley talks about his first Candidates trip as a chess fan"
       },
       {
          "description" : " Courtesy of my opponent spotting my Plan A, but not my Plan B, I managed to produce a 'Pinwheel Fork' for probably the first time in my career. Having pushed 16.e4, my opponent Ian Hosking, assumed I was looking for some complicated tactic based on attacking f7 and e6. He decided to deal with it my taking on d4, assuming that my next move would be to capture the bishop on f5. Instead the knight landed on c6, and thanks to the pinned b pawn, I successfully attacked the queen, both rooks and a bishop, all of which were undefended! <br /> <b>Press,Shaun - Hosking,Ian [D11]</b><br />Belconnen Cup (6), 21.06.2022 <script>new PgnViewer( { boardName: \"game1333\", movesFormat: \"default\", pgnString:'",
@@ -368,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-tactics-4",
          "pubDate" : "Tue, 21 Jun 2022 09:00:00 +0100",
          "title" : "Endgame tactics"
-      },
-      {
-         "description" : "DAY 4 : DHARMASALA Hon'ble Union Minister of Sports Shri Anurag Thakur received the Olympiad Torch at Dharmasala and hand over to Grandmaster Deep Sengupta",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
-         "pubDate" : "Tue, 21 Jun 2022 06:05:45 +0000",
-         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley joins the show live from Madrid during Round 3 of the 2022 Candidates Tournament to talk about his first Candidates trip as a chess fan. 2022.06.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurice-ashley-im-going-fabi-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3g07n4GvGPQ.jpg?itok=QJpCQ0sG\" alt=\"\" /></a></div>",
@@ -1186,14 +1226,6 @@ news_feed (
          "title" : "PM Modi to launch torch relay for Chess Olympiad on June 19"
       },
       {
-         "description" : " Richard Rapport revealed one of his second for the 2022 Tournament in a <a href=\"https://twitter.com/rjrapport/status/1537052990149885955?t=JuDpoYYaugZ3C3dA5SJPhw&s=19\">tweet</a>: It's Ljubomir Ljubojevi&#263, elite Serbian Grandmaster with a lot of experience. Ljubojević is from the generation of Karpov and other chess heroes from the 70s. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6303D549-C7F5-468E-9729-CB32F0404959.jpeg\" width=\"1280\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Rapport's Twitter</div> </div> Richard Rapport is all smiles on his way to Madrid, accompanied by Ljubojević. The Hungarian GM recently announced that he is switching f",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/richard-rapport-reveals-his-second-for-the-candidates/",
-         "pubDate" : "Wed, 15 Jun 2022 15:01:42 +0000",
-         "title" : "Richard Rapport Reveals His Second for the Candidates"
-      },
-      {
          "description" : "Titled Tuesday on June 14 was won by American GM Jeffery Xiong in the early tournament and Ukrainian GM Vitaliy Bernadskiy in the late tournament. Both players won outright with scores of 9.5/11. Bernadskiy, seeded 51st in the late field, defeated...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1504,14 +1536,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-day-1.html",
          "pubDate" : "Sat, 11 Jun 2022 13:18:00 +0000",
          "title" : "2022 NSW Open - Day 1"
-      },
-      {
-         "description" : "All India Chess Federation congratulate Rahul Srivatshav, the 74th Grandmaster of our country. We are proud of you!! PC : Niklesh Jain &#38; ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-rahul-srivatshav/",
-         "pubDate" : "Sat, 11 Jun 2022 12:17:08 +0000",
-         "title" : "Congratulations Rahul Srivatshav!!"
       },
       {
          "description" : "As we look back in gratitude to the Jubilee of Her Majesty Queen Elizabeth II, I turn my attention to the Queen in chess and her antecedents. When the original version of Muslim chess, Shatranj, underwent its Renaissance transformation, around 1475, the main change was in the powers of the Queen. Formerly known as the []",
@@ -1976,30 +2000,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/arbiter-appointments-for-the-chennai-olympiad/",
          "pubDate" : "Tue, 07 Jun 2022 08:56:26 +0000",
          "title" : "Arbiter appointments for the Chennai Olympiad"
-      },
-      {
-         "description" : "GM Arjun Erigaisi bested the two-time Junior Speed Chess Champion, GM Nihal Sarin, in the final of the 2022 Junior Speed Chess Championship on Monday. Down two points after the 3|1 blitz, Erigaisi clinched the title with a five-game winning stre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-junior-speed-chess-championship-final-erigaisi-wins",
-         "pubDate" : "Mon, 06 Jun 2022 16:02:20 -0700",
-         "title" : "Erigaisi Dethrones Nihal, Clinches JSCC Crown"
-      },
-      {
-         "description" : "The reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, defeated IM Irene Sukandar&#38;nbsp;in the&#38;nbsp;2022 IM Not A GM Speed Chess Championship on Monday. Though the players scored evenly in the first blitz segment, as the time controls ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-round-of-16-assaubayeva-sukandar",
-         "pubDate" : "Mon, 06 Jun 2022 14:03:25 -0700",
-         "title" : "Assaubayeva's Bullet Clarity Prevails Over Sukandar"
-      },
-      {
-         "description" : "Football fans, rejoice! If you&#39;ve ever caught yourself squeezing some bullet games in between Super Bowl commercials, we have good news. Chess.com is excited to announce BlitzChamps, an event where NFL stars will compete in a series of rapid games...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-blitzchamps",
-         "pubDate" : "Mon, 06 Jun 2022 11:51:00 -0700",
-         "title" : "Announcing BlitzChamps With NFL Stars Fitzgerald, Thibodeaux, Parsons, And More!"
       },
       {
          "description" : "The 52nd Cotswold Chess Congress was held at The Kings School, Gloucester Friday 3rd to Sunday 5th June. The organizers are grateful to Karen Gulley...",
