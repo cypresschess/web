@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. This issue offers games from two major events, FIDE Grand Prix and Ukraine Charity Cup. 353 games (37 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Anish Giri, Wesley So, Andrey Esipenko, Grigoriy Oparin and Nikita Vitiugov among others. The icing on the cake is the Larsen Special, a tribute to the Great Dane. Our columnist Nagesh Havanur takes a look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-207-nakamura-returns-and-rapport-arrives-review-by-prof-nagesh-havanur",
+         "pubDate" : "Wed, 22 Jun 2022 12:00:00 +0100",
+         "title" : "ChessBase Magazine #207: Nakamura returns and Rapport arrives - Review by Prof. Nagesh Havanur"
+      },
+      {
+         "description" : "In his unique style, Anish Giri analyzes the 2022 Candidates Tournament Round 4 games, with particular attention to the game Nepo Firouzja. More videos by Giri: R3 Candidates recap /&#xA0;R2 Candidates recap&#xA0;/&#xA0;R1 Candidates recap Replay R4 games: Richard Rapport &#x2013; Hikaru Nakamura 1/2-1/2&#xA0; / Ian Nepomniachtchi &#x2013; Alireza Firouzja 1-0 / Jan-Krzysztof Duda &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-nepo-vs-firouzja-what-a-game-that-was-video/",
+         "pubDate" : "Wed, 22 Jun 2022 09:36:17 +0000",
+         "title" : "Anish Giri: \"Nepo vs Firouzja, what a game that was!\" (VIDEO)"
+      },
+      {
+         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, concluding today with a discussion of the \"unlikely\" and the \"scarred\" candidates - Hikaru Nakamura and Teimour Radjabov. | Photo FIDE official.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-5",
+         "pubDate" : "Wed, 22 Jun 2022 10:00:00 +0100",
+         "title" : "Cracking the Candidate Code (5)"
+      },
+      {
+         "description" : "Ian Nepomniachtchi heads the 5th round of the FIDE Candidates Chess Tournament 2022 as the sole leader of the event. He yesterday defeated Alireza Firouzja to score 3 points and get the 1/2 point advantage over Fabiano Caruana who is the first follower with 2.5 points. Round 5 brings the following encounters: Fabiano Caruana &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r5-preview/",
+         "pubDate" : "Wed, 22 Jun 2022 08:25:30 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R5 preview"
+      },
+      {
+         "description" : "National under-14 Certificates are out to download (09-05-22 to 14-05-22) Links Open : https://aicf.online/National-Under-14-Open.html Girls : https://aicf.online/National-Under-14-Girls.html &#160; Any Correction mail at aicfwebmaster2021@gmail.com ",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-14-certificates-are-out-to-download/",
+         "pubDate" : "Wed, 22 Jun 2022 08:12:29 +0000",
+         "title" : "National Under-14 Certificates are out to download"
+      },
+      {
          "description" : "Candidates R4 recap by WGM Anastasiya Karlovich Replay R4 games:Richard Rapport &#x2013; Hikaru Nakamura 1/2-1/2&#xA0;Ian Nepomniachtchi &#x2013; Alireza Firouzja 1-0Jan-Krzysztof Duda &#x2013; Teimour Radjabov 1/2-1/2&#xA0;Ding Liren &#x2013; Fabiano Caruana 1/2-1/2 After yesterday&#x2019;s first rest day Ian Nepomniachtchi took the sole lead by defeating Alireza Firouzja in a sharp Najdorf, every other game ended in a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,22 +304,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-candidates-2022-r4-live-with-im-sagar-shah-and-amruta-mokal/",
          "pubDate" : "Tue, 21 Jun 2022 09:27:00 +0000",
          "title" : "FIDE Candidates 2022 R4 live with IM Sagar Shah and Amruta Mokal"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and IM/WGM Elisabeth Paehtz, in collaboration with Worldchess.com.&#160;Round 4 pairings (follow the links for each game) Richard Rapport &#x2013; Hikaru Nakamura&#160;/ &#160;Ian Nepomniachtchi &#x2013; Alireza Firouzja&#160;/&#160;Jan-Krzysztof Duda &#x2013; Teimour Radjabov&#160;/&#160;Ding Liren &#x2013; Fabiano Caruana More:&#160;All Candidates news (collection)&#160;/&#160;Preview of R4&#160;/&#160;Candidates pairings all rounds&#160;/&#160;Candidates []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r4-live-with-gm-daniil-yuffa-and-im-elisabeth-paehtz/",
-         "pubDate" : "Tue, 21 Jun 2022 09:22:00 +0000",
-         "title" : "FIDE Candidates 2022 R4 live with GM Daniil Yuffa and IM Elisabeth Paehtz"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition.&#xA0;Round 4 pairings (follow the links for each game)&#xA0;Richard Rapport &#x2013; Hikaru Nakamura&#xA0;/ &#xA0;Ian Nepomniachtchi &#x2013; Alireza Firouzja&#xA0;/&#xA0;Jan-Krzysztof Duda &#x2013; Teimour Radjabov&#xA0;/&#xA0;Ding Liren &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r4-live-with-gm-alejandro-ramirez-and-gm-yasser-seirawan/",
-         "pubDate" : "Tue, 21 Jun 2022 09:21:00 +0000",
-         "title" : "FIDE Candidates 2022 R4 live with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila"
       },
       {
          "description" : "Watching and following live events from one's phone is nothing new, and there are a myriad of ways to do so, including of course the ChessBase News page. Recently however, a great deal of effort has been invested into making the ChessBase experience that extra bit better and more enjoyable, and you now have much more than just the games and moves at your fingertips.",
@@ -1706,14 +1730,6 @@ news_feed (
          "title" : "4 Candidates In FIDE Presidential Elections"
       },
       {
-         "description" : "Viewers Willing to watch &#8220;GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022&#8221; Can Watch using the link given below. &#160; Link : https://view.livechesscloud.com/#3af36b7f-2576-449e-a61c-2bd53a464552",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gitam-3rd-vizag-international-open-chess-tournament-2022-live-game-link/",
-         "pubDate" : "Fri, 10 Jun 2022 11:16:18 +0000",
-         "title" : "GITAM 3RD VIZAG INTERNATIONAL OPEN CHESS TOURNAMENT 2022 LIVE GAME LINK"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2122,14 +2138,6 @@ news_feed (
          "title" : "Erigaisi Dethrones Nihal, Clinches JSCC Crown"
       },
       {
-         "description" : "The second leg of the MPL Indian Chess Tour, sponsored by the Play Magnus Group, took place on June 2-6 as a 16-player single round-robin. Aravindh Chithambaram and Nihal Sarin finished in shared first place on 32/45 points - the football scoring system was in place - but Aravindh scored a higher number of wins, which granted him tournament victory. This win earned Aravindh a spot in the next event of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aravindh-wins-mpl-indian-tour-leg-2",
-         "pubDate" : "Mon, 06 Jun 2022 23:30:00 +0100",
-         "title" : "Aravindh Chithambaram wins second leg of the MPL Indian Tour"
-      },
-      {
          "description" : "The reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, defeated IM Irene Sukandar&#38;nbsp;in the&#38;nbsp;2022 IM Not A GM Speed Chess Championship on Monday. Though the players scored evenly in the first blitz segment, as the time controls ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2152,14 +2160,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/breathtaking-us-team-expected-to-be-favourites-in-chennai",
          "pubDate" : "Mon, 06 Jun 2022 17:42:41 +0000",
          "title" : "\"Breathtaking\" US team expected to be favourites in Chennai"
-      },
-      {
-         "description" : "In the Endgame Magic Show #197 Karsten M&uuml;ller is joined by Harald Schneider Zinner. Harald and Karsten look at endgames from the recent round of the German Bundesliga. They start with rook endings and continue with the fight of two minor pieces against a rook. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-197-with-harald-schneider-zinner",
-         "pubDate" : "Mon, 06 Jun 2022 18:30:00 +0100",
-         "title" : "Endgame Magic #197 with Harald Schneider Zinner"
       },
       {
          "description" : "The 52nd Cotswold Chess Congress was held at The Kings School, Gloucester Friday 3rd to Sunday 5th June. The organizers are grateful to Karen Gulley...",
