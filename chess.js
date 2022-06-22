@@ -111,7 +111,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-dharmasala/",
          "pubDate" : "Tue, 21 Jun 2022 17:19:35 +0000",
-         "title" : "OLYMPIAD TORCH RELAY NEXT DESTINATION : DHARMASALA"
+         "title" : "OLYMPIAD TORCH RELAY NEXT DESTINATION : SHIMLA"
       },
       {
          "description" : "In an exclusive interview with chess24, FIDE President Arkady Dvorkovich speaks about the pressure he is facing at home in Russia, the criticism of his candidacy, his election campaign, the Candidates Tournament, Sergey Karjakin and Magnus Carlsen potentially giving up his World Championship title.",
@@ -306,7 +306,7 @@ news_feed (
          "title" : "Endgame tactics"
       },
       {
-         "description" : "DAY 3 : JAMMU Veteran Grandmaster Pravin Thipsay brings the Torch to Jammu &#160; DAY 3 : Sri Nagar Hon'ble Lt Governor of Jammu &#38;",
+         "description" : "DAY 4 : DHARMASALA Hon'ble Union Minister of Sports Shri Anurag Thakur received the Olympiad Torch at Dharmasala and hand over to Grandmaster Deep Sengupta",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
