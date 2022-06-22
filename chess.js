@@ -2304,14 +2304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1795",
          "pubDate" : "Wed, 01 Jun 2022 12:00:27 +0000",
          "title" : "Tech Mahindra onboarded as digital partner for the Chess Olympiad"
-      },
-      {
-         "description" : " Jeffrey Xiong won his second Chicago Open title after his 2015 breakthrough. At the 2022 Chicago Open, he finished on 7/9 along with three others but won the tiebreak battle. Xiong has made steady progress since then and had previously made the national team. With the addition of Levon Aronian and Leinier Dominguez, he will The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/\">Jeffery Xiong nets another Chicago title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/05/31/jeffery-xiong-nets-another-chicago-title/",
-         "pubDate" : "Wed, 01 Jun 2022 03:14:26 +0000",
-         "title" : "Jeffery Xiong nets another Chicago title!"
       }
    ]
 }
