@@ -2,11 +2,67 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first-ever Chess Olympiad Torch Relay took place on the 19th of June at Indira Gandhi Stadium in New Delhi. Prime Minister of India Shri Narendra Modi lit the Flame and handed it over to 15th World Chess Champion Viswanathan Anand.&#xA0;The Torch will travel through the country to 75 cities, celebrating the 75th Year of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-torch-relay-schedule-map/",
+         "pubDate" : "Thu, 23 Jun 2022 22:01:35 +0000",
+         "title" : "Chess Olympiad Torch Relay - Schedule & Map"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1827",
+         "pubDate" : "Thu, 23 Jun 2022 21:58:47 +0000",
+         "title" : "2022 Candidates, Round 6: Another great day for Nepomniachtchi and Caruana"
+      },
+      {
+         "description" : "Artyom Bogdanov from Kazakhstan won the ChessKid Intercontinental Candidates Tournament which took place in Madrid, Spain&#xA0;&#x2014; in the stunning setting of the&#xA0;Palacio de Santo&#xF1;a. ChessKid Highlights: ChessKid welcomed the top players from our recent qualifiers to play on the same boards used in the main FIDE Candidates event, in which one chess player will earn []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/artyom-bogdanov-is-the-winner-of-the-chesskid-candidates-tournament/",
+         "pubDate" : "Thu, 23 Jun 2022 21:30:18 +0000",
+         "title" : "Artyom Bogdanov is the winner of the ChessKid Candidates Tournament"
+      },
+      {
+         "description" : "Candidates R6 recap by WGM Anastasiya Karlovich Round 6 results:Teimour Radjabov &#x2013; Richard Rapport 1/2-1/2Alireza Firouzja &#x2013; Fabiano Caruana 0-1Hikaru Nakamura &#x2013; Ding Liren 1/2-1/2Ian Nepomniachtchi &#x2013; Jan-Krzysztof Duda 1-0 A bloodbath was on the boards in today&#x2019;s round &#x2014; dynamic, fighting games and eventually two decisive results. After winning their games, Nepomniachtchi and Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-and-caruana-making-distance-after-r6-of-fide-candidates/",
+         "pubDate" : "Thu, 23 Jun 2022 21:16:08 +0000",
+         "title" : "Nepomniachtchi and Caruana making distance after R6 of FIDE Candidates"
+      },
+      {
+         "description" : "Hikaru Nakamura continues with daily recipes of his games from the FIDE Candidates Chess Tournament 2022. After yesterday's heartbreaking draw against Ian Nepomniachtchi, Hikaru today drew against Ding Liren. Comparing the video recaps titles &#8220;I am disgusted&#8220; from Round 5 and &#8220;Sheeeesh! Ding played perfectly!&#8221; could be said that Nakamura is not unhappy with today's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-with-perfect-play-chess-is-a-draw/",
+         "pubDate" : "Thu, 23 Jun 2022 20:56:02 +0000",
+         "title" : "Nakamura: With perfect play, chess is a draw"
+      },
+      {
+         "description" : " Ian Nepomniachtchi leads the FIDE Candidates tournament in Madrid with 4.5/6 half a point clear of Fabiano Caruana. Hikaru Nakamura and Richard Rapport are a distant joint third on 3/6. As the tournament enters its second rest day and is almost at the half way stage it already looks like a straight battle between Nepomniachtchi and Caruana for first place and perhaps indeed we'll see these two fight the next World Championship match if Carlsen doesn't defend his title. Nepomniachtchi beat the hitherto undefeated Jan-Krzysztof Duda in convincing style. It's hard to know where Duda went wrong, they followed a known game Svidler-Karjakin in a Reti and the computers think black is fine but it l",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-caruana-win-in-candidates-round-6",
+         "pubDate" : "Thu, 23 Jun 2022 22:25:00 +0400",
+         "title" : "Nepomniachtchi and Caruana win in Candidates Round 6 - 6"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1826",
+         "pubDate" : "Thu, 23 Jun 2022 18:10:52 +0000",
+         "title" : "President of Kazakhstan holds a meeting with the women's national team"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi still leads the 2022 Candidates Tournament with a score of 4.5/6, half a point ahead of GM Fabiano Caruana after both players won their games. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-7",
-         "pubDate" : "Thu, 23 Jun 2022 11:02:29 -0700",
+         "pubDate" : "Thu, 23 Jun 2022 11:02:00 -0700",
          "title" : "How To Watch FIDE Candidates Tournament Round 7"
       },
       {
@@ -154,22 +210,6 @@ news_feed (
          "title" : "FIDE Candidates 2022 R6 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
       },
       {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition.&#160;Round 6 pairings (follow the links for each game): Teimour Radjabov &#x2013; Richard Rapport&#160;/&#160;Alireza Firouzja &#x2013; Fabiano Caruana&#160;/&#160;Hikaru Nakamura &#x2013; Ding Liren&#160;/&#160;Ian Nepomniachtchi &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r6-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-gm-cristian-chirila-2/",
-         "pubDate" : "Thu, 23 Jun 2022 11:10:29 +0000",
-         "title" : "FIDE Candidates 2022 R6 live with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 6 pairings (follow the links for each game) Teimour Radjabov &#x2013; Richard Rapport / Alireza Firouzja &#x2013; Fabiano Caruana / Hikaru Nakamura &#x2013; Ding Liren / Ian Nepomniachtchi &#x2013; Jan-Krzysztof Duda Recent from Candidates Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r6-live-with-im-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Thu, 23 Jun 2022 11:07:59 +0000",
-         "title" : "FIDE Candidates 2022 R6 live with IM Sagar Shah and Amruta Mokal"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92411095.cms\" /> International Master Nitin Senthilvel continued his fine run, posting a seventh straight win to lead the field after the seventh round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -184,14 +224,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-5-magnus-carlsen-be-a-shark",
          "pubDate" : "Thu, 23 Jun 2022 10:16:48 +0000",
          "title" : "Madrid Candidates 5: Magnus Carlsen - 'Be a shark!'"
-      },
-      {
-         "description" : "Heading into the 6th round of the FIDE Candidates Chess Tournament 2022 Ian Nepomniachthi maintained the sole lead with 3.5 points. Fabiano Caruana is just behind him with 3 points, and three players are tied for third scoring 2.5 points: Jan-Krzysztof Duda, Richard Rapport and Hikaru Nakamura. Before tomorrow's free day, the players meet today []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r6-preview/",
-         "pubDate" : "Thu, 23 Jun 2022 08:13:16 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R6 preview"
       },
       {
          "description" : "These are the players who qualified to play on behalf of England for the team tournament, which will be held on June 26 2022 &#8212;...",
@@ -234,14 +266,6 @@ news_feed (
          "title" : "Arena Shorts with GM Vidit Gujrathi"
       },
       {
-         "description" : "In his Chessable recap, Anish Giri reviews all games of round 5 of the FIDE Candidates Chess 2022. New: a special course by Anish Giri on the Candidates Replay round 5: Fabiano Caruana &#x2013; Richard Rapport 1/2-1/2 / Teimour Radjabov &#x2013; Ding Liren 1/2-1/2 / Alireza Firouzja &#x2013; Jan-Krzysztof Duda 1/2-1/2 / Hikaru Nakamura &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giris-opening-idea-of-the-day/",
-         "pubDate" : "Thu, 23 Jun 2022 06:10:44 +0000",
-         "title" : "Anish Giri's opening idea of the day"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -258,7 +282,7 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 5"
       },
       {
-         "description" : "GM Ian Nepomniachtchi won his third game in the 2022 Candidates Tournament, but still leads by half a point as GM Fabiano Caruana also scored the full point on Thursday. While the tournament leader defeated GM Jan-Krzysztof Duda in a kingside atta...",
+         "description" : "GM Ian Nepomniachtchi won his third game in the 2022 Candidates Tournament but still leads by half a point as GM Fabiano Caruana also scored the full point on Thursday. While the tournament leader defeated GM Jan-Krzysztof Duda in a kingside attac...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-6",
