@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For a second time in this year's edition of the Candidates Tournament, all four games in a single round finished drawn at the Palacio of Santoña in Madrid. It was not for a lack of trying though, as Hikaru Nakamura and Ding Liren had good winning chances they could not convert into full points against Ian Nepomniachtchi and Teimour Radjabov respectively. | Photo: FIDE / Steve Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r5",
+         "pubDate" : "Thu, 23 Jun 2022 08:55:00 +0100",
+         "title" : "Candidates R5: Remarkable draws"
+      },
+      {
+         "description" : " In our latest show, Andrew and I reviewed the first three rounds of the Candidates Tournament in Madrid. Besides the three decisive games, I was impressed by Nakamura's brilliant save against Firouzja, in which he had to find a whole series of only moves. Those who would like to support our show now have an <a href=\"https://chessimprover.com/master-chess-web-show-19/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (19)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-19/\">Master Chess Web Show (19)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-19/",
+         "pubDate" : "Thu, 23 Jun 2022 07:17:18 +0000",
+         "title" : "Master Chess Web Show (19)"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #521, Merijn van Delft takes a look at the game Ian Nepomniachtchi vs Alireza Firouzja, played in round 4 of the Candidates Tournament in Madrid, which also was a clash of generations. This time, experience prevailed. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-521",
+         "pubDate" : "Thu, 23 Jun 2022 08:14:42 +0100",
+         "title" : "Game of the Week #521:"
+      },
+      {
+         "description" : " <p class=\"lead\">Introducing a new format! Every month, the FIDE Online Arena ambassadors will be featuring news and highlights of the platform in Arena Shorts videos! Check out the June issue with GM Vidit Gujrathi. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/_6_bvG1xFFA?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> In this issue, Vidit talks about the news and highlights of the official FIDE gaming platform, congratulates the players who received official online titles, and invites everyone to <a href=\"https://chessarena.com/tournaments/18857\">the next tournament</a> in which he will be playing and streaming. ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/arena-shorts-with-gm-vidit-gujrathi/",
+         "pubDate" : "Thu, 23 Jun 2022 06:59:40 +0000",
+         "title" : "Arena Shorts with GM Vidit Gujrathi"
+      },
+      {
+         "description" : "In his Chessable recap, Anish Giri reviews all games of round 5 of the FIDE Candidates Chess 2022. New: a special course by Anish Giri on the Candidates Replay round 5: Fabiano Caruana &#x2013; Richard Rapport 1/2-1/2 / Teimour Radjabov &#x2013; Ding Liren 1/2-1/2 / Alireza Firouzja &#x2013; Jan-Krzysztof Duda 1/2-1/2 / Hikaru Nakamura &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giris-opening-idea-of-the-day/",
+         "pubDate" : "Thu, 23 Jun 2022 06:10:44 +0000",
+         "title" : "Anish Giri's opening idea of the day"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -106,14 +146,6 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 6 | lichess.org"
       },
       {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Wed, 22 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 5: Live"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92390785.cms\" />International Master Nitin Senthilvel of India is in joint lead with Armenian GM Vahe Baghdasaryan with five points after the fifth round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -191,10 +223,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-dharmasala/",
          "pubDate" : "Wed, 22 Jun 2022 09:19:35 +0000",
-         "title" : "OLYMPIAD TORCH RELAY NEXT DESTINATION : CHANDIGARH"
+         "title" : "OLYMPIAD TORCH RELAY NEXT DESTINATION : PATIALA"
       },
       {
-         "description" : "DAY 4 : SHIMLA Hon'ble Chief Minister of Himachal Pradesh Shri Jai Ram Thakur received the Torch at Shimla from Grandmaster Deep Sengupta DAY 4",
+         "description" : "DAY 5 : CHANDIGARH Hon'ble Governor of Punjab Shri Banwarilal Purohit takes the Torch forward in Chandigarh and handed over to Grandmaster Deepsen Gupta .",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-5",
          "pubDate" : "Wed, 22 Jun 2022 10:00:00 +0100",
          "title" : "Cracking the Candidate Code (5)"
-      },
-      {
-         "description" : "Ian Nepomniachtchi heads the 5th round of the FIDE Candidates Chess Tournament 2022 as the sole leader of the event. He yesterday defeated Alireza Firouzja to score 3 points and get the 1/2 point advantage over Fabiano Caruana who is the first follower with 2.5 points. Round 5 brings the following encounters: Fabiano Caruana &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r5-preview/",
-         "pubDate" : "Wed, 22 Jun 2022 08:25:30 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R5 preview"
       },
       {
          "description" : "National under-14 Certificates are out to download (09-05-22 to 14-05-22) Links Open : https://aicf.online/National-Under-14-Open.html Girls : https://aicf.online/National-Under-14-Girls.html &#160; Any Correction mail at aicfwebmaster2021@gmail.com ",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Caruana To Play His 4th Candidates: 'I Don't Actually Look At The Prize Fund'"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://worldchess.com/news/all/everything-you-need-to-know-about-the-2022-candidates/\">2022 Candidates Tournament</a> kicks off today with the Opening Ceremony in Madrid, Spain. World Chess' <a href=\"https://www.youtube.com/watch?v=BYFjApBIyD8&ab_channel=WorldChess\">coverage</a> starts from Round 1 on June 17th at 13:00 UTC and lasts until Round 14 on July 4th or Tiebreaks on July 5th, and it's time to introduce you to our commentators! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-908-(1).png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> For the next 20 days, eight elite players will compete for their chance to become the 202",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/candidates-2022-meet-our-commentators/",
-         "pubDate" : "Thu, 16 Jun 2022 07:57:20 +0000",
-         "title" : "Candidates 2022: Meet our Commentators"
-      },
-      {
          "description" : "Le Quang Liem continues to lead the Masters tournament at the Prague Chess Festival, as wins for Saleh Salem and Sam Shankland in round 7 did not affect the status of the fight at the top of the standings table. Meanwhile, in the Challengers, co-leaders Nodirbek Abdusattorov and Vincent Keymer drew their direct encounter. Top seed Hans Niemann scored a full point, and is now in sole third place, a half point behind the leaders. | Pictured: Kamil Warchol, co-leader in the Futures tournament. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "Olympic-style torch relay to be introduced ahead of 44th Chess Olympiad, every relay to start from India"
       },
       {
-         "description" : "With an impressive win in the classical game against Shakhriyar Mamedyarov, Magnus Carlsen grabbed the sole lead at the Norway Chess Tournament. After six rounds, Carlsen has collected 12&frac12; points, one more than second-placed Vishy Anand, who on Monday won with black in Armageddon against Anish Giri. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r6",
-         "pubDate" : "Tue, 07 Jun 2022 13:00:00 +0100",
-         "title" : "Norway Chess: Carlsen grabs the lead"
-      },
-      {
          "description" : "World Champion Magnus Carlsen on Monday picked up another one of those victories he has become famous for, squeezing blood from stones vs. GM Shakhriyar Mamedyarov. Carlsen now leads the 2022 Norway Chess in Stavanger alone after six rounds and go...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1799",
          "pubDate" : "Fri, 03 Jun 2022 12:38:28 +0000",
          "title" : "Nursultan to host the first leg of FIDE Women's Grand Prix"
-      },
-      {
-         "description" : " This week, We will look at the some further concepts to consider before engaging in an exchange of material. We've looked at removing positional tension and using the relative value of the pawns and pieces to guide you in making good trades or exchanges. This week, we are going to do a deeper dive into <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-three/\">A Foundation for Beginners Sixty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-three/",
-         "pubDate" : "Fri, 03 Jun 2022 11:13:24 +0000",
-         "title" : "A Foundation for Beginners Sixty Three"
       },
       {
          "description" : " World champion is aiming to score a fourth successive victory in his home tournament, while a London schoolboy has a chance to qualify as the youngest 2000-rated Expert Magnus Carlsen recovered from a slow start to score a third round win following two lacklustre draws this week at Stavanger, the Norway tournament which the world champion has won on its last three renewals. The world No 1's games are screened live and free daily from 4pm BST to a global internet audience, with grandmaster commentaries and a board sidebar which enables non-chess players to see who is winning. Draws are immediately replayed as Armageddons, where White has 10 minutes to Black's seven but a halved result on the",
