@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nigel Short two days ago announced his resignation as FIDE Vice-President with immediate effect after 4-years long service in the Arkadij Dvorkovich administration. Short's resignation came while he is playing the FIDE World Senior Team Chess Championship in Acqui Terme, and shortly after a decision by the FIDE Ethics Commission which included the case involving []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nigel-short-fide-gave-a-grant-to-dishonest-and-derated-chess-event/",
+         "pubDate" : "Thu, 23 Jun 2022 15:13:57 +0000",
+         "title" : "Nigel Short: FIDE gave a grant to dishonest and derated chess event"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92417430.cms\" />The first-ever Chess Olympiad Torch Relay reached Chandigarh on Thursday after starting off from picturesque Leh and crossing over the mighty Himalayas with halts at Srinagar, Jammu, Dharamsala and Shimla.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chandigarh-welcomes-chess-olympiad-torch-in-style/articleshow/92417430.cms",
+         "pubDate" : "Thu, 23 Jun 2022 15:00:40 +0000",
+         "title" : "Chandigarh welcomes Chess Olympiad Torch in style"
+      },
+      {
+         "description" : "The Alsterufer Tournament 2022 took place today at Rathausmarkt with the participation of more than 2500 kids. In this traditional event, schools from one half of Hamburg compete against the other one playing chess each year. The event opened after the first ceremonial move was made by tournament supporters and 6-year-old Lias who chose 1.e4. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/more-than-2500-kids-at-the-traditional-alsterufer-tournament-tweetoftheday/",
+         "pubDate" : "Thu, 23 Jun 2022 14:47:21 +0000",
+         "title" : "More than 2500 kids at the traditional Alsterufer Tournament #TweetOftheDay"
+      },
+      {
+         "description" : " Another 'house rule' to add to your collection. If you 'try out' a move by moving a piece, but not taking your hand off it, any 'try' that extends beyond 1 square has to be played! This applies to straight moving pieces (rooks, bishops or queens), although I'm not sure it also applies to knights. As with most house rules, not a real thing. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/another-house-rule.html",
+         "pubDate" : "Thu, 23 Jun 2022 14:35:00 +0000",
+         "title" : "Another 'house' rule"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-7-lichessorg\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-7-lichessorg",
+         "pubDate" : "Thu, 23 Jun 2022 14:27:32 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 7 | lichess.org"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Thu, 23 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 6: Live"
+      },
+      {
+         "description" : "On Friday 24th June at 18.00 CEST (12.00 ET, 16:00 UTC) Daniel King will be hosting a special live broadcast on his YouTube channel to publicise a new book: \"From Ukraine With Love For Chess\" published by \"New In Chess\". Daniel will be joined by Ruslan Ponomariov (former FIDE World Champion) and Remmelt Otten (Publishing Director of New In Chess) to discuss the book. Join the broadcast to learn more about the book, Ukrainian chess, and to put your questions directly to Ruslan Ponomariov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-special-live-broadcast-from-ukraine-with-love-for-chess",
+         "pubDate" : "Thu, 23 Jun 2022 14:00:00 +0100",
+         "title" : "Daniel King Special Live Broadcast: \"From Ukraine With Love For Chess\""
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/mViHVZEButg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-6/",
+         "pubDate" : "Thu, 23 Jun 2022 12:00:00 +0000",
+         "title" : "FIDE Candidates Tournament 2022: Round 6"
+      },
+      {
          "description" : "London 1899 and Paris 1900 are two celebrated events that helped shape the legend of an all-time great and influenced the battles for the chess crown in the 20th century's first decade. Eugene Manlapao revisits these tournaments on the occasion of their 123rd and 122nd anniversaries respectively.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,12 +202,12 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 5"
       },
       {
-         "description" : "GM Ian Nepomniachtchi maintains his lead in the 2022 Candidates Tournament with a score of 3.5/5. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbsp;Round 6 begins at 6 a.m. Pacific...",
+         "description" : "GM Ian Nepomniachtchi maintains his lead in the 2022 Candidates Tournament with a score of 3.5/5. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion. Round six is underway! How to watch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-6",
          "pubDate" : "Wed, 22 Jun 2022 11:16:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 6"
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 6"
       },
       {
          "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Hikaru Nakamura and Ding Liren missing an opportunity to win against Nepomniachtchi and Radjabov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52165473219_e348292cc6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52165473699_146137b504_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52164211417_783be7d13b_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://world",
@@ -154,28 +218,12 @@ news_feed (
          "title" : "Nakamura and Liren missed their chances to win on Round 5 of the 2022 Candidates"
       },
       {
-         "description" : "Today's special guest of the FIDE Candidates Chess Tournament 2022 was Mr. Manuel Alvarez Escudero, a 100-year-old active chess player. He made a first ceremonial move in the game between the Candidates' youngest participants: 19-year-old Alireza Firouzja and 24-year-old Jan-Krzysztof Duda. Just a few months ago, Mr. Escudero played the league in Madrid, and one []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/100-year-old-chess-player-manuel-alvarez-escudero-opens-candidates-chess-r5/",
-         "pubDate" : "Wed, 22 Jun 2022 18:04:00 +0000",
-         "title" : "100-year-old chess player Manuel Alvarez Escudero opens Candidates Chess R5"
-      },
-      {
          "description" : "Chess.com is happy to announce that we have fully launched our new homepage. With a new design and convenient shortcuts to the features you use and love the most, this update will make your chess experience even better! Let&#39;s take a tour of your...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-redesigns-homepage",
          "pubDate" : "Wed, 22 Jun 2022 11:03:00 -0700",
          "title" : "Chess.com Redesigns Homepage"
-      },
-      {
-         "description" : "Hikaru Nakamura recaps his R5 game from the FIDE Candidates Tournament against Ian Nepomniachtchi. Nakamura had a clearly better position but lost the advantage after an inaccurate 28.Na5? and the game ended in a draw. Nakamura named the R5 game: &#8220;I am disgusted&#8221;, but he also emphasized he is satisfied with the current result of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-about-the-candidates-r5-game-against-nepo-i-am-disgusted/",
-         "pubDate" : "Wed, 22 Jun 2022 17:54:43 +0000",
-         "title" : "Nakamura about the Candidates R5 game against Nepo: I am disgusted"
       },
       {
          "description" : "",
@@ -818,14 +866,6 @@ news_feed (
          "title" : "'Artificial Intelligence is rewriting the game'"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Chess instructor Alex Moellering shows how analyzing games is valuable, whether it&#039;s your own chess or a stranger&#039;s. 2022.05.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/game-analysis-101-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eVr3zhjpAi8.jpg?itok=hd5_6Q0q\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/game-analysis-101-beginner-breakdown",
-         "pubDate" : "Sat, 18 Jun 2022 23:22:01 +0000",
-         "title" : "Game Analysis 101 | Beginner Breakdown"
-      },
-      {
          "description" : "After six and a half hours of play, Teimour Radjabov resigned against Hikaru Nakamura in the one decisive game of round 2 at the Candidates Tournament. Fighting draws were seen on all three remaining boards, with Richard Rapport missing winning chances against Alireza Firouzja and Fabiano Caruana surprising Ian Nepomniachtchi in the confrontation between co-leaders. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1200,14 +1240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-presidential-tickets-announced-2022",
          "pubDate" : "Thu, 16 Jun 2022 12:00:00 +0100",
          "title" : "FIDE Presidential ticket candidacies announced"
-      },
-      {
-         "description" : " The <a href=\"https://www.youtube.com/watch?v=F09FNTmepPk&ab_channel=FIDEchess\">Opening press conference</a> was held this morning at the monumental Palacio de Santona in Madrid. The only player participating in the Candidates to take part in the opening press conference was Fabiano Caruana, for whom this will be the fourth time to play in this event. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.4997070884593\"> <img src=\"https://worldchess.com/news/pictures/1-2.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/N_R02050.jpg\" width=\"2560\" height=\"1706\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/N_R05438",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/caruana-on-the-best-strategy-for-victory-and-alireza-firouzja/",
-         "pubDate" : "Thu, 16 Jun 2022 09:33:30 +0000",
-         "title" : "Caruana Talks About Strategy, Firouzja"
       },
       {
          "description" : "",
@@ -1914,14 +1946,6 @@ news_feed (
          "title" : "Norway Chess 7: Carlsen, Giri & So all beaten"
       },
       {
-         "description" : "Maxime Vachier-Lagrave and Shakhriyar Mamedyarov won their round-7 classical encounters to climb to shared third place at the Norway Chess Tournament. Magnus Carlsen lost in Armageddon against Aryan Tari, but is still leading the standings table, albeit only by a half point - second-placed Vishy Anand won the sudden-death decider against Teimour Radjabov on Tuesday. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r7",
-         "pubDate" : "Wed, 08 Jun 2022 10:35:00 +0100",
-         "title" : "Norway Chess: Three-pointers for Shakh and MVL"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92079634.cms\" />The Delhi High Court, in a recent interim order on a plea of defeated candidate Ravindra Dongre, had injuncted Chauhan from acting as the secretary of the AICF on allegations ranging from electoral malpractice to violation of the national sports code.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1954,28 +1978,12 @@ news_feed (
          "title" : "'Local CrossFit Dad Beats Youngest World Blitz Champ'"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92073497.cms\" />Indian maestro Viswanathan Anand defeated Azerbaijan's Teimour Radjabov in the Armageddon in the seventh round of the Norway Chess tournament to remain in the second spot behind world number one Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-viswanathan-anand-beats-teimour-radjabov-magnus-carlsen-loses-to-aryan-tari/articleshow/92073497.cms",
-         "pubDate" : "Wed, 08 Jun 2022 04:58:53 +0000",
-         "title" : "Norway chess: Viswanathan Anand beats Teimour Radjabov"
-      },
-      {
          "description" : " Togo is a country of some eight million with a growing chess-playing segment. With its Founder and President on hand to welcome the players and guests, the Togo Chess Federation also had Dr. Lieutenant-Colonel Lidi Bessi-Kama bless the event. FIDE Presidential candidate Noel Enyonam Fumey was also in the building and welcomed the participants to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/\">Togolese Chess on fire at Rapid/Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/",
          "pubDate" : "Tue, 07 Jun 2022 19:37:27 +0000",
          "title" : "Togolese Chess on fire at Rapid/Blitz!"
-      },
-      {
-         "description" : "Alexander Nikitin passed away on June 5, at the age of 87. A strong International Master himself, Nikitin was one of the most distinguished chess coaches in history. Among others, he trained Dmitry Jakovenko, Etienne Bacrot and 13th world champion Garry Kasparov. GM Emil Sutovsky wrote an obituary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alexander-nikitin-obituary",
-         "pubDate" : "Tue, 07 Jun 2022 19:00:00 +0100",
-         "title" : "Alexander Nikitin (1935-2022)"
       },
       {
          "description" : "Entries have re-opened for the ECF Girls' National Schools semi-finals on October 9th in the South and November 20th in the North. Entries may be...",
