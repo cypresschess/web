@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Each issue of the ChessBase Magazine offers a wealth of information and ideas for players who want to refine and sharpen their opening repertoire. In CBM #208, the next issue of the ChessBase Magazine, which will appear in a few days, GM Dorian Rogozenco offers a video in which he analyses a popular line of the Grunfeld in considerable depth, and in an article he now presents the most important lines and ideas of this variation. Here are the article and the video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-newest-trend-in-the-grunfeld",
+         "pubDate" : "Fri, 24 Jun 2022 16:00:00 +0100",
+         "title" : "\"The newest trend in the Grunfeld\""
+      },
+      {
+         "description" : " Last week, we started playing through a game, applying what we've learned thus far regarding chess principles. We will continue that game this week. As I mentioned last week, one of the primary ways you can improve your own playing is to play through the games of stronger players. As you play through each move <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\">A Foundation for Beginners Sixty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-five/",
+         "pubDate" : "Fri, 24 Jun 2022 14:35:21 +0000",
+         "title" : "A Foundation for Beginners Sixty Five"
+      },
+      {
+         "description" : "After a thrilling round 6 of the FIDE Candidates Chess Tournament 2022, Ian Nepomniachtchi and Fabiano Caruana separated further from the rest of the field. Both players won their R6 games, with Nepo maintaining the sole leadership with 4.5 points and Caruana following him with clear second place and 4 points. Anish Giri concluded Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-nepo-playing-fabi-for-the-wch-title-tweetoftheday/",
+         "pubDate" : "Fri, 24 Jun 2022 14:19:48 +0000",
+         "title" : "Anish Giri: \"Nepo playing Fabi for the Wch title\" #TweetOftheDay"
+      },
+      {
          "description" : " The world champion's 2018 and 2021 challengers are clear of their rivals, and the Norwegian's resolve to decline a new series against an opponent from his own generation could soon be tested After six of the 14 rounds at the world championship Candidates in Madrid, Ian Nepomniachtchi and Fabiano Caruana, the 2021 and 2018 title challengers, have broken away from their rivals. The pair will meet in Monday's ninth round (2pm start, live and free to watch on major chess websites) in what could be the tournament decider. It is a surprise result so far, and one which may test the resolve of the world champion, Magnus Carlsen, who has said that he is unlikely to defend his crown again if the oppo",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jun/24/chess-nepomniachtchi-and-caruana-lead-in-madrid-with-carlsen-in-sight",
          "pubDate" : "Fri, 24 Jun 2022 13:36:10 +0000",
          "title" : "Chess: Nepomniachtchi and Caruana lead in Madrid with Carlsen in sight"
+      },
+      {
+         "description" : "The European Amateur Chess Championship 2022 will take place from 13th August (arrival day) to 21st August 2022 (departure day) in Hotel Aristos****, located in the city of Zagreb, Croatia. The event will be played in three rating categories: U2300, U2000 and U1700. A player must not have a published FIDE rating of 2300 or greater for at&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/",
+         "pubDate" : "Fri, 24 Jun 2022 13:16:12 +0000",
+         "title" : "European Amateur Chess Championship 2022 - Deadline extended till 15th of July."
       },
       {
          "description" : "7-year-old Kazakhstani chess player Malika Ziyadin made a sensation on the recently finished FIDE World School Chess Championship 2022 in Panama. Scoring the &#8220;Fischer result&#8221; 9/9 Malika won the merged section of boys and girls aged under 7 and claimed two titles of a single event she became the FIDE World School Chess Champion []",
@@ -224,14 +256,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/china-wont-play-chess-olympiad/",
          "pubDate" : "Thu, 23 Jun 2022 17:20:36 +0100",
          "title" : "China won't play Chess Olympiad"
-      },
-      {
-         "description" : "The 2022 Collision Conference takes place from 20-23 June at Enercare Centre Toronto, bringing together 35,000+ people and companies redefining the tech industry. One of the speakers of the 2022 Collision Conference was chess legend and Avast Security Ambassador GM Garry Kasparov, who together with FT editor Gillian Tett and cybersecurity expert Ondrej Vicek analyzed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-gives-a-simul-at-collision-conference-in-toronto/",
-         "pubDate" : "Thu, 23 Jun 2022 16:18:39 +0000",
-         "title" : "Garry Kasparov gives a simul at Collision Conference in Toronto"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92417430.cms\" />The first-ever Chess Olympiad Torch Relay reached Chandigarh on Thursday after starting off from picturesque Leh and crossing over the mighty Himalayas with halts at Srinagar, Jammu, Dharamsala and Shimla.",
@@ -1946,14 +1970,6 @@ news_feed (
          "title" : "Matthew Sadler thinks the \"4 Player Types Model\" is worth a look"
       },
       {
-         "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of active defence with a pair of rooks, the strength of a bishop pair in an open position and the advantage of having outside passed pawns in an endgame. | Photo: Lennart Ootes / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgames-from-stavanger",
-         "pubDate" : "Thu, 09 Jun 2022 14:00:00 +0100",
-         "title" : "Endgames from Stavanger"
-      },
-      {
          "description" : "The ECF is delighted to report that Chess in Schools and Communities will be holding another ChessFest this summer on Sunday 17th July in Trafalgar...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2160,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1800",
          "pubDate" : "Sun, 05 Jun 2022 11:41:36 +0000",
          "title" : "Alexander Nikitin (1935-2022)"
-      },
-      {
-         "description" : " The second of my new chess sites is spectrumchess.uk. This site proposes a different sort of chess club for children, although the idea could be used for clubs for players of all ages. My good friend Marie Gallagher (sister of GM Joe Gallagher) and I had both had the same idea, and had, totally independently, <a href=\"https://chessimprover.com/spectrum-chess/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Spectrum Chess\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/spectrum-chess/\">Spectrum Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/spectrum-chess/",
-         "pubDate" : "Sun, 05 Jun 2022 06:00:42 +0000",
-         "title" : "Spectrum Chess"
       },
       {
          "description" : "The 38th edition of the Andorra Chess Open will take place from 24th-31st July in Hotel Panorama Andorra. On Monday, July 25th, the Andorra Chess Grand Prix event will be played in Centre de Congressos d'Andorra la Vella. The Andorra Open event will be played in 9 rounds, swiss system, with a total prize fund of 10.500 EUR.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/andorra-chess-grand-prix-andorra-chess-open-2022/\">Read More &#187;</a></span>",
