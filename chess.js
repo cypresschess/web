@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week we shared the announcement of the revival of chess in the New York Times. With no clarification in the NYT article itself, it was assumed this was a weekly contribution. But as we were vigorously disabused, the chess puzzle is a daily fixture in the NYT Games section, but allow us to share more of this quasi-cult section of the venerable newspaper.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nyt-games-daily-chess-wordle-and-more",
+         "pubDate" : "Fri, 24 Jun 2022 12:00:00 +0100",
+         "title" : "NYT Games - Daily chess, wordle, and more"
+      },
+      {
+         "description" : "The Women's National Team and the representatives of the Kazakhstan Chess Federation met with Kazakhstan President Kassym-Jomart Tokayev. The 44th Chess Olympiad 2022 starts on 28th July in Chennai, and Kazakhstan Women's Team will compete with the following composition: Kazakhstan Team (Women's section): GM Zhansaya Abdumalik (2495) IM Dinara Saduakassova (2435) IM Bibisara Assaubayeva (2427) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-womens-national-team-meets-with-the-president-of-kazakhstan/",
+         "pubDate" : "Fri, 24 Jun 2022 10:53:08 +0000",
+         "title" : "Kazakhstan Women's National Team meets with the President of Kazakhstan"
+      },
+      {
+         "description" : "Six rounds have been played at the 2022 FIDE Candidates Chess Tournament in Madrid and Ian Nepomniachtchi is the sole leader with 4.5 points. In 6th round, Nepomniachtchi defeated Jan-Krzysztof Duda as he built a kingside majority and started a powerful attack on Duda's king. The Polish grandmaster missed chances to fight for a draw and eventually resigned&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-candidates-chess-tournament-2022-nepomniachtchi-in-the-lead/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-candidates-chess-tournament-2022-nepomniachtchi-in-the-lead/",
+         "pubDate" : "Fri, 24 Jun 2022 10:16:19 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - Nepomniachtchi in the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
+         "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION GURUGRAM"
+      },
+      {
+         "description" : "DAY 6 : PANIPAT The Torch received at Panipat Museam by Mahipal Dhanda MLA, Parmod Vij MLA, Smt Anuj Bhatia, Smt Veena Hooda Additional Deputy",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
+         "pubDate" : "Fri, 24 Jun 2022 07:04:45 +0000",
+         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
+      },
+      {
          "description" : "The Indian team garnered four gold, four silver &#38; three bronze medals to win the overall championship in the Western Asian Youth Chess Championships which",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://www.chessdom.com/anish-giri-fide-candidates-r6-recap/",
          "pubDate" : "Fri, 24 Jun 2022 06:23:34 +0000",
          "title" : "Anish Giri FIDE Candidates R6 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
-         "pubDate" : "Fri, 24 Jun 2022 04:27:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PANIPAT"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg\" data-image-dimensions=\"481x240\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b50dea6c6cd727df8b1cd7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg?format=1000w\" /> </figure> <p class=\"\">We've got 6 rounds in the books and GM Ian Nepomniathchtchi and GM Fabiano Caruana are comfortably in first and 2nd place, respectively. GM Jonathan Tisdall is an A",
@@ -400,14 +432,6 @@ news_feed (
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-dharmasala/",
          "pubDate" : "Wed, 22 Jun 2022 09:19:35 +0000",
          "title" : "OLYMPIAD TORCH RELAY DESTINATIONS"
-      },
-      {
-         "description" : "DAY 6 : KURUKSHETRA At Brahm Sarovar, the Olympiad Torch received by Dy Commissioner Kuruksheta Mukul Kumar IAS and handed over to GM Himanshu Sharma",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
-         "pubDate" : "Wed, 22 Jun 2022 09:05:45 +0000",
-         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, concluding today with a discussion of the \"unlikely\" and the \"scarred\" candidates - Hikaru Nakamura and Teimour Radjabov. | Photo FIDE official.",
@@ -1914,14 +1938,6 @@ news_feed (
          "title" : "Endgames from Stavanger"
       },
       {
-         "description" : "In his \"Game of the Week\" show #518, Merijn van Delft analyses Magnus Carlsen's win over Shakhriyar Mamedyarov from the sixth round of the Norway Chess Tournament - a trademark victory by the world champion. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-518-carlsen-vs-mamedyarov",
-         "pubDate" : "Thu, 09 Jun 2022 12:00:00 +0100",
-         "title" : "Game of the Week #519: Carlsen vs Mamedyarov"
-      },
-      {
          "description" : "The ECF is delighted to report that Chess in Schools and Communities will be holding another ChessFest this summer on Sunday 17th July in Trafalgar...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2176,14 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1799",
          "pubDate" : "Fri, 03 Jun 2022 12:38:28 +0000",
          "title" : "Nursultan to host the first leg of FIDE Women's Grand Prix"
-      },
-      {
-         "description" : " World champion is aiming to score a fourth successive victory in his home tournament, while a London schoolboy has a chance to qualify as the youngest 2000-rated Expert Magnus Carlsen recovered from a slow start to score a third round win following two lacklustre draws this week at Stavanger, the Norway tournament which the world champion has won on its last three renewals. The world No 1's games are screened live and free daily from 4pm BST to a global internet audience, with grandmaster commentaries and a board sidebar which enables non-chess players to see who is winning. Draws are immediately replayed as Armageddons, where White has 10 minutes to Black's seven but a halved result on the",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jun/03/chess-magnus-carlsen-starts-stavanger-while-seven-year-old-kushal-jakhria-eyes-expert-record",
-         "pubDate" : "Fri, 03 Jun 2022 10:28:20 +0000",
-         "title" : "Chess: Carlsen recovers in Stavanger while seven-year-old eyes Expert record"
       }
    ]
 }
