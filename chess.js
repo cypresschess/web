@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion's 2018 and 2021 challengers are clear of their rivals, and the Norwegian's resolve to decline a new series against an opponent from his own generation could soon be tested After six of the 14 rounds at the world championship Candidates in Madrid, Ian Nepomniachtchi and Fabiano Caruana, the 2021 and 2018 title challengers, have broken away from their rivals. The pair will meet in Monday's ninth round (2pm start, live and free to watch on major chess websites) in what could be the tournament decider. It is a surprise result so far, and one which may test the resolve of the world champion, Magnus Carlsen, who has said that he is unlikely to defend his crown again if the oppo",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jun/24/chess-nepomniachtchi-and-caruana-lead-in-madrid-with-carlsen-in-sight",
+         "pubDate" : "Fri, 24 Jun 2022 13:36:10 +0000",
+         "title" : "Chess: Nepomniachtchi and Caruana lead in Madrid with Carlsen in sight"
+      },
+      {
+         "description" : "7-year-old Kazakhstani chess player Malika Ziyadin made a sensation on the recently finished FIDE World School Chess Championship 2022 in Panama. Scoring the &#8220;Fischer result&#8221; 9/9 Malika won the merged section of boys and girls aged under 7 and claimed two titles of a single event she became the FIDE World School Chess Champion []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/malika-ziyadin-sensation-of-the-fide-world-school-chess-championship-2022/",
+         "pubDate" : "Fri, 24 Jun 2022 13:09:50 +0000",
+         "title" : "Malika Ziyadin - Sensation of the FIDE World School Chess Championship 2022"
+      },
+      {
+         "description" : "The&#xA0;FIDE World School Chess Championship 2022 took place from June 10-19, 2022, at the Wyndham Panama Albrook Mall Hotel &#38; Convention Center, Panama City, under the auspices of FIDE and the Panama Chess Federation. After 9 played rounds in 6 age categories (U7, U9, U11, U13, U15, U17 open and girls sections) and the Winners []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-school-chess-champions-2022-crowned-in-panama/",
+         "pubDate" : "Fri, 24 Jun 2022 12:20:15 +0000",
+         "title" : "FIDE World School Chess Champions 2022 crowned in Panama"
+      },
+      {
+         "description" : "Ian Nepomniachtchi and Fabiano Caruana both won in Round 6 of the FIDE Candidates Tournament in Madrid to move clear of the pack and boost the chances of a World Championship rematch or, if Magnus isn't interested, a Nepo-Fabi match. Ian won a powerful game against Jan-Krzysztof Duda, while Fabiano pounced on a mistake by Alireza Firouzja, who is now in last place and down to world no. 5. Elsewhere Teimour Radjabov missed a huge chance against Richard Rapport.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-6-a-nepo-fabi-2-horse-race",
+         "pubDate" : "Fri, 24 Jun 2022 11:40:54 +0000",
+         "title" : "Madrid Candidates 6: A Nepo-Fabi 2-horse race?"
+      },
+      {
          "description" : "Last week we shared the announcement of the revival of chess in the New York Times. With no clarification in the NYT article itself, it was assumed this was a weekly contribution. But as we were vigorously disabused, the chess puzzle is a daily fixture in the NYT Games section, but allow us to share more of this quasi-cult section of the venerable newspaper.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,28 +234,12 @@ news_feed (
          "title" : "Garry Kasparov gives a simul at Collision Conference in Toronto"
       },
       {
-         "description" : "Nigel Short two days ago announced his resignation as FIDE Vice-President with immediate effect after 4-years long service in the Arkadij Dvorkovich administration. Short's resignation came while he is playing the FIDE World Senior Team Chess Championship in Acqui Terme, and shortly after a decision by the FIDE Ethics Commission which included the case involving []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nigel-short-fide-gave-a-grant-to-dishonest-and-derated-chess-event/",
-         "pubDate" : "Thu, 23 Jun 2022 15:13:57 +0000",
-         "title" : "Nigel Short: FIDE gave a grant to dishonest and derated chess event"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92417430.cms\" />The first-ever Chess Olympiad Torch Relay reached Chandigarh on Thursday after starting off from picturesque Leh and crossing over the mighty Himalayas with halts at Srinagar, Jammu, Dharamsala and Shimla.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chandigarh-welcomes-chess-olympiad-torch-in-style/articleshow/92417430.cms",
          "pubDate" : "Thu, 23 Jun 2022 15:00:40 +0000",
          "title" : "Chandigarh welcomes Chess Olympiad Torch in style"
-      },
-      {
-         "description" : "The Alsterufer Tournament 2022 took place today at Rathausmarkt with the participation of more than 2500 kids. In this traditional event, schools from one half of Hamburg compete against the other one playing chess each year. The event opened after the first ceremonial move was made by tournament supporters and 6-year-old Lias who chose 1.e4. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/more-than-2500-kids-at-the-traditional-alsterufer-tournament-tweetoftheday/",
-         "pubDate" : "Thu, 23 Jun 2022 14:47:21 +0000",
-         "title" : "More than 2500 kids at the traditional Alsterufer Tournament #TweetOftheDay"
       },
       {
          "description" : " Another 'house rule' to add to your collection. If you 'try out' a move by moving a piece, but not taking your hand off it, any 'try' that extends beyond 1 square has to be played! This applies to straight moving pieces (rooks, bishops or queens), although I'm not sure it also applies to knights. As with most house rules, not a real thing. ",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "A special offer for new ECF members"
       },
       {
-         "description" : "Maxime Vachier-Lagrave took his lifetime record against Wesley So to an incredible 6 wins to 1, Shakhriyar Mamedyarov beat Anish Giri, and Arjan Tari scored his first ever win over Magnus Carlsen in a dramatic Round 7 of Norway Chess. Vishy Anand's Armageddon win over Teimour Radjabov left him just half a point behind Magnus with two rounds to go in Stavanger, while Wang Hao picked up his first win after a miracle save against Veselin Topalov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-7-carlsen-giri-so-all-beaten",
-         "pubDate" : "Wed, 08 Jun 2022 10:49:35 +0000",
-         "title" : "Norway Chess 7: Carlsen, Giri & So all beaten"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92079634.cms\" />The Delhi High Court, in a recent interim order on a plea of defeated candidate Ravindra Dongre, had injuncted Chauhan from acting as the secretary of the AICF on allegations ranging from electoral malpractice to violation of the national sports code.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2176,22 +2184,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-last-olympiad-chess-on-the-eve-of-war/",
          "pubDate" : "Sat, 04 Jun 2022 07:45:48 +0000",
          "title" : "The last Olympiad: chess on the eve of war"
-      },
-      {
-         "description" : " I'm just in the process of applying for a visa to travel to the 2022 Chess Olympiad in Chennai. I've already spent a couple of hours on the process (Fathers place of birth, really?), and am still a long way off completion (Passport as PDF, oh wait, PDF document is too large). I fear that this may be the smallest chess olympiad in years, simply because people won't have finished the process in time to catch their flight. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/travel-good-paperwork-bad.html",
-         "pubDate" : "Fri, 03 Jun 2022 12:58:00 +0000",
-         "title" : "Travel good, paperwork bad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1799",
-         "pubDate" : "Fri, 03 Jun 2022 12:38:28 +0000",
-         "title" : "Nursultan to host the first leg of FIDE Women's Grand Prix"
       }
    ]
 }
