@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second seed, GM Kateryna Lagno, defeated WGM Vantika Agrawal in the third round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. While many of the games were closely fought, Lagno managed to gain a substantial...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-lagno-agrawal",
+         "pubDate" : "Fri, 24 Jun 2022 16:13:47 -0700",
+         "title" : "Close Games, Overwhelming Lead: Lagno Outscores Agrawal"
+      },
+      {
+         "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-2",
+         "pubDate" : "Fri, 24 Jun 2022 23:30:00 +0100",
+         "title" : "Endgames from Madrid (2)"
+      },
+      {
          "description" : "FIDE Council decided to waive rating fees for Rapid and Blitz over-the-board tournaments held in 2021-2023. The Financial rules of the FIDE Handbook have been updated accordingly, says FIDE, adding that FIDE constantly works on reducing various fees.",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "FIDE Council: No rating fees for OTB Rapid and Blitz events held in 2021-2023"
       },
       {
-         "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony that will be held on Friday, August 5, in Rancho The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony will be held on Friday, August 5, in Rancho Mirage, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/",
@@ -1930,14 +1946,6 @@ news_feed (
          "title" : "Prague: Shankland beats Salem"
       },
       {
-         "description" : "This week Robert Ris looks at a fine victory by Alexei Shirov, who recently defeated Jorden van Foreest in a 4-game mini match that took place in Limburg. Fire on board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-shirov-anti-moscow",
-         "pubDate" : "Thu, 09 Jun 2022 21:30:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Shirov impresses in Limburg"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92112811.cms\" />Tamil Nadu Chief Minister MK Stalin on Thursday launched the official logo and mascot of the 44th Chess Olympiad, slated near here next month, and said hosting the sporting event is an \"absolute honour\" for this capital city.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1802",
          "pubDate" : "Wed, 08 Jun 2022 08:44:56 +0000",
          "title" : "Pooja Lam wins Guyana Women's Championship"
-      },
-      {
-         "description" : "IM Danny Rensch eliminated the reigning Women&#39;s World Blitz Champion IM Bibisara Assaubayeva in the quarterfinals of the 2022 IM Not A GM Speed Chess Championship on Tuesday. Chess.com&#39;s Chief Chess Officer Rensch was leading after the 5+1 and 3+1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-im-not-a-gm-assaubayeva-rensch",
-         "pubDate" : "Wed, 08 Jun 2022 00:32:00 -0700",
-         "title" : "'Local CrossFit Dad Beats Youngest World Blitz Champ'"
       },
       {
          "description" : " Togo is a country of some eight million with a growing chess-playing segment. With its Founder and President on hand to welcome the players and guests, the Togo Chess Federation also had Dr. Lieutenant-Colonel Lidi Bessi-Kama bless the event. FIDE Presidential candidate Noel Enyonam Fumey was also in the building and welcomed the participants to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/\">Togolese Chess on fire at Rapid/Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
