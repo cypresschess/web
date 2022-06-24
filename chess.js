@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Indian team garnered four gold, four silver &#38; three bronze medals to win the overall championship in the Western Asian Youth Chess Championships which",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-youth-chess-championships-india-overall-champions/",
+         "pubDate" : "Fri, 24 Jun 2022 07:00:26 +0000",
+         "title" : "Western Asian Youth Chess Championships : India overall champions"
+      },
+      {
+         "description" : "Anish Giri publsihed his Chessable round 6 review of the FIDE Candidates tournament, where he takes a detailed look of the victories of Caruana and Nepo Replay round 6: Teimour Radjabov &#x2013; Richard Rapport 1/2-1/2 / Alireza Firouzja &#x2013; Fabiano Caruana 0-1 / Hikaru Nakamura &#x2013; Ding Liren 1/2-1/2 / Ian Nepomniachtchi &#x2013; Jan-Krzysztof Duda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-fide-candidates-r6-recap/",
+         "pubDate" : "Fri, 24 Jun 2022 06:23:34 +0000",
+         "title" : "Anish Giri FIDE Candidates R6 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
+         "pubDate" : "Fri, 24 Jun 2022 04:27:05 +0000",
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PANIPAT"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg\" data-image-dimensions=\"481x240\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b50dea6c6cd727df8b1cd7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg?format=1000w\" /> </figure> <p class=\"\">We've got 6 rounds in the books and GM Ian Nepomniathchtchi and GM Fabiano Caruana are comfortably in first and 2nd place, respectively. GM Jonathan Tisdall is an A",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "President of Kazakhstan holds a meeting with the women's national team"
       },
       {
-         "description" : "GM Ian Nepomniachtchi still leads the 2022 Candidates Tournament with a score of 4.5/6, half a point ahead of GM Fabiano Caruana after both players won their games. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for...",
+         "description" : "GM Ian Nepomniachtchi still leads the 2022 Candidates Tournament with a score of 4.5/6, half a point ahead of GM Fabiano Caruana after both players won their games in the sixth round. The eight candidates are fighting for the right to challenge GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-7",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lasker-double-aces-london-1899-paris-1900",
          "pubDate" : "Thu, 23 Jun 2022 13:00:00 +0100",
          "title" : "Lasker's Double Aces: London 1899 and Paris 1900"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Anna-Maja Kazarian, in collaboration with Worldchess.com.&#xA0;Round 6 pairings (follow the links for each game)&#xA0;Teimour Radjabov &#x2013; Richard Rapport&#xA0;/&#xA0;Alireza Firouzja &#x2013; Fabiano Caruana&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Ding Liren&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Jan-Krzysztof Duda Recent from Candidates Chess 2022:Anish Giri&#x2019;s opening idea of the day&#xA0;/&#xA0;FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r6-live-with-gm-daniil-yuffa-and-wim-anna-maja-kazarian/",
-         "pubDate" : "Thu, 23 Jun 2022 11:13:28 +0000",
-         "title" : "FIDE Candidates 2022 R6 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92411095.cms\" /> International Master Nitin Senthilvel continued his fine run, posting a seventh straight win to lead the field after the seventh round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Thursday.",
@@ -383,10 +399,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-dharmasala/",
          "pubDate" : "Wed, 22 Jun 2022 09:19:35 +0000",
-         "title" : "OLYMPIAD TORCH RELAY DESTINATION : NEXT DESTINATION KURUKSHETRA"
+         "title" : "OLYMPIAD TORCH RELAY DESTINATIONS"
       },
       {
-         "description" : "DAY 5 : AMRITSAR At Attari Border, Wagah the Olympiad Torch received by Deputy Commissioner of Amritsar Shri Harpreet Singh Sudan IAS and handed over",
+         "description" : "DAY 6 : KURUKSHETRA At Brahm Sarovar, the Olympiad Torch received by Dy Commissioner Kuruksheta Mukul Kumar IAS and handed over to GM Himanshu Sharma",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1546,14 +1562,6 @@ news_feed (
          "title" : "Mwale and Nkhoma win Malawi Open Championship 2022"
       },
       {
-         "description" : "34th National Under-08 Certificates are out to download (09-05 to 14-05-22) Please download using the link given below: Open : https://aicf.online/National-Under-8-Open.html Girls : https://aicf.online/National-Under-8-Girls.html Any Correction mail",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-08-certificates-are-out-to-download/",
-         "pubDate" : "Mon, 13 Jun 2022 09:16:01 +0000",
-         "title" : "National Under-08 Certificates are out to download"
-      },
-      {
          "description" : "The FIDE Candidates Chess 2022 opens on Thursday 16th of June, and will be played from June 17th July 5th in Madrid. The tournament is played in 14 rounds, with participation of eight players. The winner of the event will qualify for the World Championship match later this year. The magnificent Palacio de Santoña, a centrally located&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-candidates-tournament-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-day-1.html",
          "pubDate" : "Sat, 11 Jun 2022 13:18:00 +0000",
          "title" : "2022 NSW Open - Day 1"
-      },
-      {
-         "description" : "All India Chess Federation congratulate Rahul Srivatshav, the 74th Grandmaster of our country. We are proud of you!! PC : Niklesh Jain &#38; ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-rahul-srivatshav/",
-         "pubDate" : "Sat, 11 Jun 2022 12:17:08 +0000",
-         "title" : "Congratulations Rahul Srivatshav!!"
       },
       {
          "description" : "As we look back in gratitude to the Jubilee of Her Majesty Queen Elizabeth II, I turn my attention to the Queen in chess and her antecedents. When the original version of Muslim chess, Shatranj, underwent its Renaissance transformation, around 1475, the main change was in the powers of the Queen. Formerly known as the []",
