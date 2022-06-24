@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg\" data-image-dimensions=\"481x240\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b50dea6c6cd727df8b1cd7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg?format=1000w\" /> </figure> <p class=\"\">We've got 6 rounds in the books and GM Ian Nepomniathchtchi and GM Fabiano Caruana are comfortably in first and 2nd place, respectively. GM Jonathan Tisdall is an A",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/23/2xwgfo2n4wtaan2ltzzg59i1em3um2",
+         "pubDate" : "Fri, 24 Jun 2022 01:09:59 +0000",
+         "title" : "FIde Candidates Update- GM Jonathan Tisdall on the tournament so far"
+      },
+      {
+         "description" : "Ian Nepomniachtchi and Fabiano Caruana scored full points in round 6 of the Candidates Tournament. Nepo thus kept his sole lead, while Caruana remained in sole second place a half point back. The latter now has a full-point advantage over his closest chasers, as we near the event's halfway mark. Thursday's round also saw Teimour Radjabov missing a major chance to beat Richard Rapport. | Photo: FIDE / Steve Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r6",
+         "pubDate" : "Fri, 24 Jun 2022 01:25:00 +0100",
+         "title" : "Candidates R6: Nepo and Caruana in a league of their own"
+      },
+      {
          "description" : "The first-ever Chess Olympiad Torch Relay took place on the 19th of June at Indira Gandhi Stadium in New Delhi. Prime Minister of India Shri Narendra Modi lit the Flame and handed it over to 15th World Chess Champion Viswanathan Anand.&#xA0;The Torch will travel through the country to 75 cities, celebrating the 75th Year of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-7-lichessorg",
          "pubDate" : "Thu, 23 Jun 2022 14:27:32 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 7 | lichess.org"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Thu, 23 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 6: Live"
       },
       {
          "description" : "On Friday 24th June at 18.00 CEST (12.00 ET, 16:00 UTC) Daniel King will be hosting a special live broadcast on his YouTube channel to publicise a new book: \"From Ukraine With Love For Chess\" published by \"New In Chess\". Daniel will be joined by Ruslan Ponomariov (former FIDE World Champion) and Remmelt Otten (Publishing Director of New In Chess) to discuss the book. Join the broadcast to learn more about the book, Ukrainian chess, and to put your questions directly to Ruslan Ponomariov.",
