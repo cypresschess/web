@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Council decided to waive rating fees for Rapid and Blitz over-the-board tournaments held in 2021-2023. The Financial rules of the FIDE Handbook have been updated accordingly, says FIDE, adding that FIDE constantly works on reducing various fees.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-council-no-rating-fees-for-otb-rapid-and-blitz-events-held-in-2021-2023/",
+         "pubDate" : "Fri, 24 Jun 2022 19:27:12 +0000",
+         "title" : "FIDE Council: No rating fees for OTB Rapid and Blitz events held in 2021-2023"
+      },
+      {
+         "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony that will be held on Friday, August 5, in Rancho The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/",
+         "pubDate" : "Fri, 24 Jun 2022 19:21:42 +0000",
+         "title" : "Shabazz to get Special Services Chess Award!"
+      },
+      {
+         "description" : "Leading Stockfish developers have filed suit against ChessBase to enforce their license termination claiming Chessbase has &#8220;repeatedly violated central obligations of the GPLv3 license&#8221;. The court hearing in the case Tord Romstad and St&#xE9;phane Nicolet vs. ChessBase GmbH will take place on Monday, July 4th, and Stockfish calls all interested parties to attend the hearing. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-sues-chessbase-the-court-hearing-scheduled-for-monday/",
+         "pubDate" : "Fri, 24 Jun 2022 19:16:56 +0000",
+         "title" : "Stockfish sues ChessBase; The Court Hearing scheduled for Monday"
+      },
+      {
+         "description" : "The Azerbaijani grandmaster Teimour Radjabov played against Richard Rapport in the 6th round of the FIDE Candidates Chess Tournament 2022. He had a dominant position but blundered the win away just one move before the time control. @ChessMike captured a moment when Radjabov checked his phone for the truth after the game and he truly []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/radjabov-not-happy-while-checking-his-phone-after-the-candidates-r6-game/",
+         "pubDate" : "Fri, 24 Jun 2022 18:49:16 +0000",
+         "title" : "Radjabov not happy while checking his phone after the Candidates R6 game"
+      },
+      {
+         "description" : "In his \"Power Play Show\" Daniel King takes Caruana vs Rapport from the Candidates as his starting point and discusses the fascinating variation of the Sicilian which appeared on the board - one that was also seen in a game by the legendary Ulf Andersson. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-fascinating-sicilian",
+         "pubDate" : "Fri, 24 Jun 2022 18:35:00 +0100",
+         "title" : "Daniel King's Power Play Show: A fascinating Sicilian"
+      },
+      {
+         "description" : "On Friday 24th June at 18.00 CEST (12.00 ET, 16:00 UTC) Daniel King will be hosting a special live broadcast on his YouTube channel to publicise a new book: \"From Ukraine With Love For Chess\" published by \"New In Chess\". Daniel will be joined by Ruslan Ponomariov (former FIDE World Champion) and Remmelt Otten (Publishing Director of New In Chess) to discuss the book. Join the broadcast to learn more about the book, Ukrainian chess, and to put your questions directly to Ruslan Ponomariov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-special-live-broadcast-from-ukraine-with-love-for-chess",
+         "pubDate" : "Fri, 24 Jun 2022 17:55:00 +0100",
+         "title" : "Daniel King Special Live Broadcast: \"From Ukraine With Love For Chess\""
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> On 2 July, the last rest day of the <strong>Candidates Tournament</strong>, <strong>FIDE</strong> <a href=\"https://candidates.fide.com/tpost/p2a2zsno81-fide-madrid-candidates-chess-conference\">holds a hybrid conference</a> online and at the Palacio de Santoña, on its social chess initiatives with keynotes by <strong>Franck Droin</strong> and <strong>Geir Nesheim</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/social-chess-initiatives-conference/",
+         "pubDate" : "Fri, 24 Jun 2022 16:51:06 +0100",
+         "title" : "Social chess initiatives conference"
+      },
+      {
          "description" : "Each issue of the ChessBase Magazine offers a wealth of information and ideas for players who want to refine and sharpen their opening repertoire. In CBM #208, the next issue of the ChessBase Magazine, which will appear in a few days, GM Dorian Rogozenco offers a video in which he analyses a popular line of the Grunfeld in considerable depth, and in an article he now presents the most important lines and ideas of this variation. Here are the article and the video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -95,10 +151,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION GURUGRAM"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION DEHARADUN"
       },
       {
-         "description" : "DAY 6 : PANIPAT The Torch received at Panipat Museam by Mahipal Dhanda MLA, Parmod Vij MLA, Smt Anuj Bhatia, Smt Veena Hooda Additional Deputy",
+         "description" : "Day 6 : GURUGRAM Mr. Vishram Meena IAS, Additional Deputy Commissioner Gurugram received the 'Olympiad Torch' at Shiv Nadar School, Gurugaram and handed over to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -162,22 +218,6 @@ news_feed (
          "title" : "Artyom Bogdanov is the winner of the ChessKid Candidates Tournament"
       },
       {
-         "description" : "Candidates R6 recap by WGM Anastasiya Karlovich Round 6 results:Teimour Radjabov &#x2013; Richard Rapport 1/2-1/2Alireza Firouzja &#x2013; Fabiano Caruana 0-1Hikaru Nakamura &#x2013; Ding Liren 1/2-1/2Ian Nepomniachtchi &#x2013; Jan-Krzysztof Duda 1-0 A bloodbath was on the boards in today&#x2019;s round &#x2014; dynamic, fighting games and eventually two decisive results. After winning their games, Nepomniachtchi and Caruana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-and-caruana-making-distance-after-r6-of-fide-candidates/",
-         "pubDate" : "Thu, 23 Jun 2022 21:16:08 +0000",
-         "title" : "Nepomniachtchi and Caruana making distance after R6 of FIDE Candidates"
-      },
-      {
-         "description" : "Hikaru Nakamura continues with daily recipes of his games from the FIDE Candidates Chess Tournament 2022. After yesterday's heartbreaking draw against Ian Nepomniachtchi, Hikaru today drew against Ding Liren. Comparing the video recaps titles &#8220;I am disgusted&#8220; from Round 5 and &#8220;Sheeeesh! Ding played perfectly!&#8221; could be said that Nakamura is not unhappy with today's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-with-perfect-play-chess-is-a-draw/",
-         "pubDate" : "Thu, 23 Jun 2022 20:56:02 +0000",
-         "title" : "Nakamura: With perfect play, chess is a draw"
-      },
-      {
          "description" : " Ian Nepomniachtchi leads the FIDE Candidates tournament in Madrid with 4.5/6 half a point clear of Fabiano Caruana. Hikaru Nakamura and Richard Rapport are a distant joint third on 3/6. As the tournament enters its second rest day and is almost at the half way stage it already looks like a straight battle between Nepomniachtchi and Caruana for first place and perhaps indeed we'll see these two fight the next World Championship match if Carlsen doesn't defend his title. Nepomniachtchi beat the hitherto undefeated Jan-Krzysztof Duda in convincing style. It's hard to know where Duda went wrong, they followed a known game Svidler-Karjakin in a Reti and the computers think black is fine but it l",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -234,14 +274,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: An attacking masterpiece in the King's Indian"
       },
       {
-         "description" : "Ding Liren is currently playing the FIDE Candidates Chess Tournament 2022 in Madrid. In the post-game interview with WGM Dina Belenkaya, he disclosed the Chinese Team will not compete in the upcoming 44th Chess Olympiad 2022 which takes place in Chennai from 28th July 10th August. Being asked if he is going to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-reveals-the-chinese-team-will-not-play-in-the-44th-chess-olympiad-2022/",
-         "pubDate" : "Thu, 23 Jun 2022 16:53:54 +0000",
-         "title" : "Ding Liren reveals the Chinese Team will not play in the 44th Chess Olympiad 2022"
-      },
-      {
          "description" : " <p class=\"lead\">Ian Nepomniachtchi won one more game in the Candidates Tournament. This time he defeated Jan-Krzysztof Duda. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52165788089_c3039560fa_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage</div> </div> No matter what the other results of the game day are, Nepo will remain the sole leader of the tournament table after the sixth round. With this victory, Nepo dramatically increases his chances of winning this tournament. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-7-lichessorg",
          "pubDate" : "Thu, 23 Jun 2022 14:27:32 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 7 | lichess.org"
-      },
-      {
-         "description" : "On Friday 24th June at 18.00 CEST (12.00 ET, 16:00 UTC) Daniel King will be hosting a special live broadcast on his YouTube channel to publicise a new book: \"From Ukraine With Love For Chess\" published by \"New In Chess\". Daniel will be joined by Ruslan Ponomariov (former FIDE World Champion) and Remmelt Otten (Publishing Director of New In Chess) to discuss the book. Join the broadcast to learn more about the book, Ukrainian chess, and to put your questions directly to Ruslan Ponomariov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-special-live-broadcast-from-ukraine-with-love-for-chess",
-         "pubDate" : "Thu, 23 Jun 2022 14:00:00 +0100",
-         "title" : "Daniel King Special Live Broadcast: \"From Ukraine With Love For Chess\""
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/mViHVZEButg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-vignesh-holds-veteran-fedorov-in-round-3/articleshow/92343825.cms",
          "pubDate" : "Mon, 20 Jun 2022 15:44:34 +0000",
          "title" : "Chennai Open Chess: Vignesh holds veteran Fedorov in Round 3"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian Prime Minister <strong>Narendra Modi</strong> attended a <a href=\"https://www.fide.com/news/1818\">PR event</a>, where a torch was introduced to be carried from Delhi to Mamallapuram, the venue of the Chess Olympiad. The torch relay, <a href=\"https://en.wikipedia.org/wiki/1936_Summer_Olympics_torch_relay\">introduced by Nazi Germany in 1936</a>, may undermine <strong>FIDE</strong>'s relationship with the <strong>IOC</strong> which may see it as abuse of an Olympic symbol. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/india-introduces-torch-relay/",
-         "pubDate" : "Mon, 20 Jun 2022 15:42:11 +0100",
-         "title" : "India introduces torch relay"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> is using open source software by <strong>Lichess</strong> and <strong>Stockfish</strong> under a General Public Licence <a href=\"https://candidates.fide.com/live\">for transmitting the games</a> from the <strong>Candidates Tournament</strong>. </div> ",
@@ -1960,14 +1976,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/a-4-way-election-for-fide-president.html",
          "pubDate" : "Thu, 09 Jun 2022 14:12:00 +0000",
          "title" : "A 4 way election for FIDE President"
-      },
-      {
-         "description" : "Are you an 'Activist', a 'Theorist', a 'Reflector' or a 'Pragmatist', the four types of players identified by Karsten M&uuml;ller and Luis Engel in their ChessBase course about player types? It might help to know, and in a review in the \"New in Chess Magazine\" English Grandmaster Matthew Sadler talks about the pros and cons of such a model and argues that it is useful to identify your strengths and weaknesses if you want to improve your game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/matthew-sadler-thinks-the-4-player-types-model-is-worth-a-serious-look",
-         "pubDate" : "Thu, 09 Jun 2022 14:06:56 +0100",
-         "title" : "Matthew Sadler thinks the \"4 Player Types Model\" is worth a look"
       },
       {
          "description" : "The ECF is delighted to report that Chess in Schools and Communities will be holding another ChessFest this summer on Sunday 17th July in Trafalgar...",
