@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FM James Canty III conquered IM Lawrence Trent in the semifinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Friday. It was a clash of two giants of competitive spirit over the board and beyond where Canty&#39;s tactic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-semifinal-canty-trent",
+         "pubDate" : "Fri, 24 Jun 2022 19:39:00 -0700",
+         "title" : "Canty Conquers Trash Talking Trent"
+      },
+      {
          "description" : "The second seed, GM Kateryna Lagno, defeated WGM Vantika Agrawal in the third round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. While many of the games were closely fought, Lagno managed to gain a substantial...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-lagno-agrawal",
-         "pubDate" : "Fri, 24 Jun 2022 16:13:47 -0700",
+         "pubDate" : "Fri, 24 Jun 2022 16:13:00 -0700",
          "title" : "Close Games, Overwhelming Lead: Lagno Outscores Agrawal"
       },
       {
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-representative-elections/",
          "pubDate" : "Wed, 08 Jun 2022 14:35:14 +0000",
          "title" : "Direct Members' Representative elections 2022"
-      },
-      {
-         "description" : "As the World Champion Magnus Carlsen on Tuesday struggled in yet another armageddon duel, losing his fourth of the kind, the situation at the top of the leaderboard is making us eager to see the players return from their day off to finish the tour...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-7",
-         "pubDate" : "Wed, 08 Jun 2022 06:37:00 -0700",
-         "title" : "Highpoints & Heartbreaks In Stavanger"
       },
       {
          "description" : " In the latest episode of the Master Chess Web Show, Andrew Martin and I suggested that a good approach to playing Black was to adopt solid openings where Black adopts a small centre. White can claim to have a slight space advantage, but it is very hard to use; meanwhile Black can have excellent counterattacking <a href=\"https://chessimprover.com/master-chess-web-show-17/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (17)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-17/\">Master Chess Web Show (17)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
