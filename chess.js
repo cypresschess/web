@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1830",
+         "pubDate" : "Sat, 25 Jun 2022 21:41:21 +0000",
+         "title" : "2022 Candidates, Round 7: Nepomniachtchi and Caruana in a league of their own"
+      },
+      {
+         "description" : "Chess fans, the most anticipated chess event of 2022 is here, and&#xA0;Grandmaster Anish Giri&#xA0;is covering the most epic games of the tournament&#xA0;daily&#xA0;in this special Chessable course! Chessable brings you this course to break down the chaos so you can appreciate the full beauty of these incredible moves and the minds that play them. Get the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-a-detailed-guide-to-the-most-exciting-chess-games-of-2022/",
+         "pubDate" : "Sat, 25 Jun 2022 20:11:28 +0000",
+         "title" : "Anish Giri: A Detailed Guide to the Most Exciting Chess Games of 2022"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi still leads the 2022 Candidates Tournament with a score of 5.5/7, half a point ahead of GM Fabiano Caruana after both players won their games for the second straight round in what is quickly becoming an exciting two-player ra...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-8",
-         "pubDate" : "Sat, 25 Jun 2022 12:00:43 -0700",
+         "pubDate" : "Sat, 25 Jun 2022 12:00:00 -0700",
          "title" : "How To Watch FIDE Candidates Tournament Round 8"
       },
       {
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1804",
          "pubDate" : "Sat, 25 Jun 2022 18:07:16 +0000",
          "title" : "FIDE Madrid Candidates Chess Conference set for July 2"
+      },
+      {
+         "description" : " Ian Nepomniachtchi leads the FIDE Candidates in Madrid with 5.5/7 half a point clear of Fabiano Caruana at the half way stage. It looks like a battle between these two players at this stage as Hikaru Nakamura on 3.5/7 is the next closest player. We'll know the outline even better by Monday night, Round 8 tomorrow has the juicy pairings of Nepomniachtchi-Ding and Nakamura-Caruana and Round 9 on Monday sees Caruana-Nepomniachtchi. Richard Rapport was quite out prepared by Nepomniachtchi in a sharp Petroff Defence but only to the extent that he should have allowed a draw by repetition. Rapport has had 6 draws so far and the decision to play on seems to have been an emotional one as Rapport sur",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-caruana-win-yet-again-in-round-7-of-the-fide-candidates",
+         "pubDate" : "Sat, 25 Jun 2022 21:36:00 +0400",
+         "title" : "Nepomniachtchi and Caruana win yet again in Round 7 of the FIDE Candidates - 7"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan retells a story from Robert Byrne. Bobby Fischer led the U.S. Olympiad team in Havana in 1966. Hear what it was like to be Robert Byrne, analyzing along with the great Fischer. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/downside-analyzing-chess-genius-yasser-stories\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0lzsDbKpL90.jpg?",
@@ -410,7 +434,7 @@ news_feed (
          "title" : "President of Kazakhstan holds a meeting with the women's national team"
       },
       {
-         "description" : "For the second straight round, GM Ian Nepomniachtchi and GM Fabiano Caruana won their games in the 2022 Candidates Tournament, keeping Nepomniachtchi in the lead with 5.5/7 with Caruana just behind at 5/7. How to watch the 2022 Candidates Tourna...",
+         "description" : "In round 7 of the 2022 Candidates Tournament, GM Ian Nepomniachtchi won his fourth game of the event but nevertheless only leads by half a point as GM Fabiano Caruana responded by scoring a win of his own. The Russian tournament leader took down...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-7",
