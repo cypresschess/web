@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the small Armenian town of Jermuk, a round-robin tournament with a strong field of ten young participants is currently taking place. Among them are Hans Moke Niemann (photo), Nihal Sarin and Alexander Donchenko. After five rounds, these three players are only among the chasers with 2&frac12;/5 points each. At the top of the standings is a quartet with 3/5 points each: Armenians Haik Martirosyan, Shant Sargsyan and Samvel Ter-Sahakyan and the Iranian Amin Tabatabaei. Daily rounds will be played until Tuesday. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-in-jermuk",
+         "pubDate" : "Sat, 25 Jun 2022 16:35:00 +0100",
+         "title" : "Niemann, Martirosyan and Tabatabaei top seeds at Jermuk youth event"
+      },
+      {
+         "description" : "The 50th Annual World Chess Open takes place from June 30th to July 4th at Sheraton Philadelphia Downtown. The event is played in 8 sections, with the total prize fund of more than 100.000$ and participation of around 1100 players. The main event is Open tournament, played in 9 swiss rounds, with time control of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50th-annual-world-chess-open-2022/",
+         "pubDate" : "Sat, 25 Jun 2022 15:23:59 +0000",
+         "title" : "50th Annual World Chess Open 2022"
+      },
+      {
+         "description" : "The Pacific Northwest Chess Center&#xA0;organizes the 2022 Summer of Seattle Chess Open from 24-28 June. The event kicked off yesterday and it's being played in two sections (USCF 1800+ and FIDE 2200+) in 9 rounds, swiss system, with the time control: 90 minutes + 30 seconds of an increment. After two played rounds in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pnwcc-summer-of-seattle-2022/",
+         "pubDate" : "Sat, 25 Jun 2022 14:39:50 +0000",
+         "title" : "PNWCC Summer of Seattle 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-6\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-6",
+         "pubDate" : "Sat, 25 Jun 2022 14:28:22 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-8-lichessorg\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8-lichessorg",
+         "pubDate" : "Sat, 25 Jun 2022 14:28:22 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 8 | lichess.org"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Sat, 25 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 7: Live"
+      },
+      {
+         "description" : "The FIDE Candidates Chess Tournament 2022&#160;reached its halfway and Ian Nepomniachtchi and Fabiano Caruana separated themselves from the rest of the field, with the score of 4.5 and 4 points, respectively. While chess statisticians evaluated Nepo with almost 55% chances to win the event,&#160;Anish Giri shares his opinion&#160;that the World Championship Match will be played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-should-decide-whether-hell-play-the-next-match-5-mins-before-the-final-round-starts-tweetoftheday/",
+         "pubDate" : "Sat, 25 Jun 2022 13:25:38 +0000",
+         "title" : "\"Magnus should decide whether he'll play the next match 5 mins before the final round starts\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1829",
+         "pubDate" : "Sat, 25 Jun 2022 12:34:10 +0000",
+         "title" : "Bardiya Daneshvar wins Iranian Championship"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tdhUWAMBIHE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/watch-fide-candidates-tournament-2022-round-7/",
+         "pubDate" : "Sat, 25 Jun 2022 12:30:00 +0000",
+         "title" : "Watch FIDE Candidates Tournament 2022: Round 7"
+      },
+      {
+         "description" : "The Azerbaijani National Youth Chess Championships 2022 took place from 16-24 June in Baku. The event was played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately, with the participation of more than 300 players. After 9 days of fights, the Azerbaijan National Youth Champions are: (scroll down []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/azerbaijan-announces-national-youth-chess-champions/",
+         "pubDate" : "Sat, 25 Jun 2022 11:31:45 +0000",
+         "title" : "Azerbaijan announces National Youth Chess Champions"
+      },
+      {
          "description" : "The FIDE Congress will be held in Chennai, India between&#xA0;31 July 2022 and 09 August 2022&#xA0;as part of the&#xA0;Chess Olympiad 2022&#xA0;(see all Olympiad news&#xA0;here).&#xA0;Part of it is the FIDE General Assembly, where on the agenda are the&#xA0;FIDE elections featuring a different kind of Ukraine vs Russia fight (Read more Ukraine vs Russia in FIDE []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,14 +162,6 @@ news_feed (
          "title" : "Study of the Month - A short history of endgame study castling II"
       },
       {
-         "description" : "The FIDE Candidates Chess Tournament 2022 reaches its halfway. Ian Nepomniachtchi and Fabiano Caruana separated themselves from the rest of the field, scoring 4.5 and 4 points, respectively. While chess statisticians evaluate Nepo with almost 55% chance to win the event, Anish Giri shares his opinion that the World Championship Match will be played between []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r7-preview/",
-         "pubDate" : "Sat, 25 Jun 2022 08:10:32 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R7 preview"
-      },
-      {
          "description" : "In the diagrammed position White just played 35.Qa3!, and after 35...Qxd4 White has a beautiful win - can you find it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -119,7 +191,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-imscc-semifinal-canty-trent",
          "pubDate" : "Fri, 24 Jun 2022 19:39:00 -0700",
-         "title" : "Canty Conquers Trash Talking Trent"
+         "title" : "Canty Conquers Trash-Talking Trent"
       },
       {
          "description" : "The second seed, GM Kateryna Lagno, defeated WGM Vantika Agrawal in the third round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. While many of the games were closely fought, Lagno managed to gain a substantial...",
@@ -138,36 +210,12 @@ news_feed (
          "title" : "Endgames from Madrid (2)"
       },
       {
-         "description" : "FIDE Council decided to waive rating fees for Rapid and Blitz over-the-board tournaments held in 2021-2023. The Financial rules of the FIDE Handbook have been updated accordingly, says FIDE, adding that FIDE constantly works on reducing various fees.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-council-no-rating-fees-for-otb-rapid-and-blitz-events-held-in-2021-2023/",
-         "pubDate" : "Fri, 24 Jun 2022 19:27:12 +0000",
-         "title" : "FIDE Council: No rating fees for OTB Rapid and Blitz events held in 2021-2023"
-      },
-      {
          "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony will be held on Friday, August 5, in Rancho Mirage, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/",
          "pubDate" : "Fri, 24 Jun 2022 19:21:42 +0000",
          "title" : "Shabazz to get Special Services Chess Award!"
-      },
-      {
-         "description" : "Leading Stockfish developers have filed suit against ChessBase to enforce their license termination claiming Chessbase has &#8220;repeatedly violated central obligations of the GPLv3 license&#8221;. The court hearing in the case Tord Romstad and St&#xE9;phane Nicolet vs. ChessBase GmbH will take place on Monday, July 4th, and Stockfish calls all interested parties to attend the hearing. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-sues-chessbase-the-court-hearing-scheduled-for-monday/",
-         "pubDate" : "Fri, 24 Jun 2022 19:16:56 +0000",
-         "title" : "Stockfish sues ChessBase; The Court Hearing scheduled for Monday"
-      },
-      {
-         "description" : "The Azerbaijani grandmaster Teimour Radjabov played against Richard Rapport in the 6th round of the FIDE Candidates Chess Tournament 2022. He had a dominant position but blundered the win away just one move before the time control. @ChessMike captured a moment when Radjabov checked his phone for the truth after the game and he truly []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/radjabov-not-happy-while-checking-his-phone-after-the-candidates-r6-game/",
-         "pubDate" : "Fri, 24 Jun 2022 18:49:16 +0000",
-         "title" : "Radjabov not happy while checking his phone after the Candidates R6 game"
       },
       {
          "description" : "In his \"Power Play Show\" Daniel King takes Caruana vs Rapport from the Candidates as his starting point and discusses the fascinating variation of the Sicilian which appeared on the board - one that was also seen in a game by the legendary Ulf Andersson. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -938,22 +986,6 @@ news_feed (
          "title" : "Madrid Candidates 3: Nakamura & Rapport escape"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-3\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-3",
-         "pubDate" : "Mon, 20 Jun 2022 05:23:11 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-4-lichessorg\"><img src=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-4-lichessorg",
-         "pubDate" : "Mon, 20 Jun 2022 05:23:11 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 4 | lichess.org"
-      },
-      {
          "description" : "All four games finished drawn in round 3 of the Candidates Tournament. Richard Rapport survived from an inferior position with black for a second time in the event, as he managed to keep the balance in his encounter against Ding Liren. In the longest game of the day, Hikaru Nakamura showed great calculation skills to split the point with Alireza Firouzja. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1288,14 +1320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/one-of-my-favourite-lines-against-the-gruenfeld-defence",
          "pubDate" : "Fri, 17 Jun 2022 17:00:00 +0100",
          "title" : "\"One of my favourite lines against the Gr&uuml;nfeld Defence\""
-      },
-      {
-         "description" : " Did you know that candidates play with pieces designed by Daniel Weil for <a href=\"https://shop.worldchess.com/collections/chess-pieces/products/official-world-chess-set\">World Chess</a>? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52155084340_dc41e04899_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage for FIDE</div> </div> Daniel Weil enlisted Magnus Carlsen, Vladimir Kramnik, and other chess stars' expertise and tested the numerous versions of the set on whether it would be comfortable to lift the pieces with two fingers or with a grip. Following numerous painstaking revisions that involved flying the pieces back a",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/official-chess-pieces-for-the-candidates-tournament-2022/",
-         "pubDate" : "Fri, 17 Jun 2022 15:00:00 +0000",
-         "title" : "Official Chess Pieces for the Candidates Tournament 2022"
       },
       {
          "description" : "In his \"Game of the Week\" show #520, Merijn van Delft takes a look at a game played between Jergus Pechac and Vincent Keymer, in which Pechac came up with an interesting concept in the opening and was close to winning but failed to overcome Keymer's stubborn defense. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1906,28 +1930,12 @@ news_feed (
          "title" : "Praggnanandhaa wins Norway chess open event"
       },
       {
-         "description" : "In his \"Power Play Show\" Daniel King focuses on one of Yuri Averbakh's biggest contributions to chess theory: the King's Indian Defence system he developed and pioneered in the 1950s. Still one of the most reliable setups up to this day! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-yuri-averbakh",
-         "pubDate" : "Fri, 10 Jun 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The great Yuri Averbakh"
-      },
-      {
          "description" : "The tenth edition of the Norway Chess Tournament is taking place from May 31 to June 10 in Stavanger. A 10-player single round-robin, the event uses a unique format: in case of a draw in the classical game, an Armageddon follows to have a winner in every single encounter. The action kicks off at 17.00 CEST (11.00 ET, 20.30 IST). | Follow the games live with computer analyses and expert commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
          "pubDate" : "Fri, 10 Jun 2022 16:55:00 +0100",
          "title" : "Norway Chess: Games and standings"
-      },
-      {
-         "description" : "As promised last episode, we wanted to display the beautiful queen sacrifice by Lawrence Trent from the HSK Gm Invitational open. But the main part of today, is the legendary GM Alexander Kotov, which Arne didn't even know about before. The \"Kotov Syndrome\" is named after the Soviet Grandmaster, and it describes a situation, where you think about an important position for too long, not finding the winning move, and with little time left, make a blunder instead. Probably all of us have been there.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-25",
-         "pubDate" : "Fri, 10 Jun 2022 16:32:53 +0100",
-         "title" : "Trent's Tactics - Kotov's syndrome and Trent's beautiful queen sacrifice"
       },
       {
          "description" : "With more plot twists than a whole season&#39;s worth of &#34;Game of Thrones,&#34; the eighth round of Norway Chess delivered more surprises, shocks, and horrors than anyone could have counted on setting up an exciting last round of the tournament.&#38;nbsp; T...",
