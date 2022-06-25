@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position White just played 35.Qa3!, and after 35...Qxd4 White has a beautiful win - can you find it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hard-to-stop",
+         "pubDate" : "Sat, 25 Jun 2022 09:00:00 +0100",
+         "title" : "Hard to stop"
+      },
+      {
+         "description" : "A column on Twitter written by \"HowardStaunton\" almost makes one believe in life after death. I was forcibly drawn once again to perusing it, when the irrepressible author republished a caricature of Napoleon playing chess against King George III. At first I attributed it instinctively to James Gillray, but on second thoughts it looks more likely []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/who-is-howard-staunton-a-chess-mystery/",
+         "pubDate" : "Sat, 25 Jun 2022 07:27:35 +0000",
+         "title" : "Who is @Howard Staunton? A chess mystery"
+      },
+      {
+         "description" : " Ian Nepomniachtchi came into this Candidates as the last player who earned the right to play Magnus Carlsen for the World Championship. That match ended in a 7&frac12;3&frac12; disaster as the Russian lost three of the last four games. While he was gracious in defeat, Nepo may get a second chance at facing either Carlsen The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/nepomniachtchi-leading-candidates-2022-after-six/\">Nepomniachtchi leading Candidates 2022 after six</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/24/nepomniachtchi-leading-candidates-2022-after-six/",
+         "pubDate" : "Sat, 25 Jun 2022 03:55:34 +0000",
+         "title" : "Nepomniachtchi leading Candidates 2022 after six"
+      },
+      {
          "description" : "FM James Canty III conquered IM Lawrence Trent in the semifinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Friday. It was a clash of two giants of competitive spirit over the board and beyond where Canty&#39;s tactic...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -175,7 +199,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION DEHARADUN"
+         "title" : "OLYMPIAD TORCH RELAY : DAY 7"
       },
       {
          "description" : "Day 6 : GURUGRAM Mr. Vishram Meena IAS, Additional Deputy Commissioner Gurugram received the 'Olympiad Torch' at Shiv Nadar School, Gurugaram and handed over to",
@@ -279,7 +303,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nepo-and-caruana-won-on-round-6-of-the-candidates-2022/",
          "pubDate" : "Thu, 23 Jun 2022 17:39:00 +0000",
-         "title" : "Nepomniachtchi and Caruana won on Round 6 of the Candidates 2022"
+         "title" : "Nepomniachtchi and Caruana Won In Round 6 of the Candidates 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Sam Shankland joins the show during Round 6 of the Candidates Tournament to talk about the players and the two versions of Ian Nepomniachtchi, and to give his analysis. 2022.06.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-shankland-nepo-%E2%80%9C%E2%80%9D-vs-nepo-%E2%80%9Cb%E2%80%9D-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yout",
@@ -1944,14 +1968,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/06/10/attacking-strategies-for-club-players-how-to-create-a-deadly-attack-on-the-enemy-king-2/",
          "pubDate" : "Fri, 10 Jun 2022 00:10:50 +0000",
          "title" : "Attacking Strategies for Club Players: How to Create a Deadly Attack on the Enemy King"
-      },
-      {
-         "description" : "Defending champion Sam Shankland bounced back from his first-round loss against Le Quang Liem by beating Saleh Salem with the white pieces in the Masters section of the Prague Chess Festival. This was the only decisive game of the day. A more eventful second round in the Challengers saw four players scoring wins with white - one of the winners was Vincent Keymer, who grabbed the sole lead as the only participant who scored back-to-back victories in the first two rounds. | Photos: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-r2",
-         "pubDate" : "Thu, 09 Jun 2022 23:50:00 +0100",
-         "title" : "Prague: Shankland beats Salem"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92112811.cms\" />Tamil Nadu Chief Minister MK Stalin on Thursday launched the official logo and mascot of the 44th Chess Olympiad, slated near here next month, and said hosting the sporting event is an \"absolute honour\" for this capital city.",
