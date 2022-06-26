@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi now leads the 2022 Candidates Tournament by a full point, with his score of 6/8, after GM Hikaru Nakamura defeated GM Fabiano Caruana in the eighth round. The eight candidates are fighting for the right to challenge GM Magnus...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-9",
+         "pubDate" : "Sun, 26 Jun 2022 12:11:00 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 9"
+      },
+      {
+         "description" : "The 13th edition of the Chennai Chess Open took place from 19-26 June at the Hotel Ambassador Pallava attracting more than 250 entries who fought for a total prize fund of Rs.1500000 (~18.000e). GM Boris Savchenko and IM Nitin S. tied for the first place after 10 played rounds, scoring 8.5 points each. Having better []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-boris-savchenko-is-the-winner-of-13th-chennai-open/",
+         "pubDate" : "Sun, 26 Jun 2022 18:04:11 +0000",
+         "title" : "GM Boris Savchenko is the Winner of 13th Chennai Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tai Pruce-Zimmerman, the man behind chessnumbers.wordpress.com, joins the show to talk about how his round-by-round tournament odds are calculated. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-%E2%80%9Cchess-numbers%E2%80%9D-works-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UX0jF9MCoGI.jpg?itok=6YeU2hmr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-%E2%80%9Cchess-numbers%E2%80%9D-works-day-8",
+         "pubDate" : "Sun, 26 Jun 2022 17:29:35 +0000",
+         "title" : "How \"Chess By The Numbers\" Works | Day 8"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-7\"><img src=\"https://sain",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-7-nepo-caruana-win-again",
          "pubDate" : "Sun, 26 Jun 2022 06:09:59 +0000",
          "title" : "Madrid Candidates 7: Nepo & Caruana win again"
-      },
-      {
-         "description" : "Candidates R7 recap by WGM Anastasiya Karlovich One more round and we reached the middle of the FIDE Candidates Tournament. Ian Nepomniachtchi scored another victory with the black pieces after Rapport overpushed, refusing a move repetition early in the game. Rapport was brave, but it didn&#x2019;t pay off. Fabiano Caruana stays in the race as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r7-recap/",
-         "pubDate" : "Sat, 25 Jun 2022 23:54:04 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R7 recap"
       },
       {
          "description" : "",
@@ -447,10 +463,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION LUCKNOW"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PRAYAGRAJ"
       },
       {
-         "description" : "Day 8 : KANPUR At Green Park Stadium, Hon'ble Speaker of the Uttar Pradesh Legislative Assembly Shri Satish Mahana received the torch from WGM Vantika",
+         "description" : "Day 8 : LUCKNOW At Vidhan Sabha Lucknow, Hon'ble Chief Minister of Uttar Pradesh Shri Yogi Adityanath received the Torch and handed over to five",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1825",
          "pubDate" : "Wed, 22 Jun 2022 22:25:58 +0000",
          "title" : "2022 Candidates, Round 5: Great expectations and a lucky escape"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-5\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-5",
-         "pubDate" : "Wed, 22 Jun 2022 20:26:31 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 5"
       },
       {
          "description" : "GM Ian Nepomniachtchi won his third game in the 2022 Candidates Tournament but still leads by half a point as GM Fabiano Caruana also scored the full point on Thursday. While the tournament leader defeated GM Jan-Krzysztof Duda in a kingside attac...",
@@ -2040,14 +2048,6 @@ news_feed (
          "link" : "https://www.europechess.org/women-chess-conference-prague-2022/",
          "pubDate" : "Thu, 09 Jun 2022 15:25:03 +0000",
          "title" : "Women Chess Conference Prague 2022"
-      },
-      {
-         "description" : "All good things must come to an end, and Chess.com Chief Chess Officer IM Danny Rensch saw his amazing run into the semifinals of the 2022 IM Not A GM Speed Chess Championship conclude on Wednesday, as IM Eric Rosen became the first finalist of th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-rosen-rensch",
-         "pubDate" : "Thu, 09 Jun 2022 07:33:00 -0700",
-         "title" : "Rosen Runs Away In Bullet, Advances To Final"
       },
       {
          "description" : " Nominations have closed for the upcoming FIDE Presidential elections and although 5 tickets were lodged, only 4 met the eligibility criteria. The one that missed out was actually the first to go public, the Fumey/Fancy ticket. Part of their motivation was to show that international chess shouldn't just be about European federations, which was ironically their undoing, as no European federation would nominate them. The 4 eligible tickets are - Mr. Andrii Baryshpolets and Mr. Peter-Heine Nielsen; - Mr. Inalbek Cheripov and Mr. Lewis Ncube; - Mr. Arkady Dvorkovich and Mr. Anand Viswanathan; - Mr. Bachar Kouatly and Mr. Ian Wilkinson. Each ticket required a minimum of 5 federations to support t",
