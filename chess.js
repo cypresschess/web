@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi and Fabiano Caruana have done it again. For a second day in a row, the frontrunners to take the title scored full points in Madrid. Nepo still leads Caruana by a half point, while Hikaru Nakamura now stands 1&frac12; points behind Caruana in sole third place. It has become hugely unlikely for a player other than the tournament's two protagonists to bounce back and win the whole thing. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r7",
+         "pubDate" : "Sun, 26 Jun 2022 07:25:00 +0100",
+         "title" : "Candidates R7: Nepo and Caruana score, again"
+      },
+      {
+         "description" : "Ian Nepomniachtchi ended the first half of the 2022 FIDE Candidates Tournament on a phenomenal +4 score after Richard Rapport rejected a draw and crashed to defeat in what Fabiano Caruana described as \"one of the most shocking games I've seen from a top player in a long time\". Fabi is still just half a point behind after winning a pawn early on and then navigating complications to beat Teimour Radjabov, while 3rd placed Hikaru Nakaura trails Fabi by 1.5 points before their Round 8 clash.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-7-nepo-caruana-win-again",
+         "pubDate" : "Sun, 26 Jun 2022 06:09:59 +0000",
+         "title" : "Madrid Candidates 7: Nepo & Caruana win again"
+      },
+      {
          "description" : "Candidates R7 recap by WGM Anastasiya Karlovich One more round and we reached the middle of the FIDE Candidates Tournament. Ian Nepomniachtchi scored another victory with the black pieces after Rapport overpushed, refusing a move repetition early in the game. Rapport was brave, but it didn&#x2019;t pay off. Fabiano Caruana stays in the race as []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8-lichessorg",
          "pubDate" : "Sat, 25 Jun 2022 14:28:22 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 8 | lichess.org"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Sat, 25 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 7: Live"
       },
       {
          "description" : "The FIDE Candidates Chess Tournament 2022&#160;reached its halfway and Ian Nepomniachtchi and Fabiano Caruana separated themselves from the rest of the field, with the score of 4.5 and 4 points, respectively. While chess statisticians evaluated Nepo with almost 55% chances to win the event,&#160;Anish Giri shares his opinion&#160;that the World Championship Match will be played []",
@@ -375,10 +383,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION AGRA"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION KANPUR"
       },
       {
-         "description" : "Day 8 : MEERUT At Augarnath Temple Meerut, Hon'ble Minister of Uttar Pradesh Dr. Somendra Tomar received the 'Torch' from GM Tejas Bakre and handed",
+         "description" : "Day 8 : AGRA Shri Naveen Jain, Mayor of Agra received the Torch from Grandmaster Tejas Bakre and handed over to Woman Grandmaster Vantika Agrawal",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1992,14 +2000,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/candidates-2022-fide-presidential-elections",
          "pubDate" : "Fri, 10 Jun 2022 05:50:00 -0700",
          "title" : "4 Candidates In FIDE Presidential Elections"
-      },
-      {
-         "description" : "Magnus Carlsen leads Shakhriyar Mamedyarov by half a point going into the final day of Norway Chess 2022 after incredible drama in the penultimate round. In a roughly equal position Vishy Anand blundered into mate-in-2 then resigned before Mamedyarov had a chance to spot the blunder. Magnus was dead lost at times in both the classical and Armageddon games against Maxime Vachier-Lagrave, but found a way not only to survive but to win the mini-match.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/norway-chess-8-carlsen-escapes-as-anand-blunders",
-         "pubDate" : "Fri, 10 Jun 2022 08:17:55 +0000",
-         "title" : "Norway Chess 8: Carlsen escapes as Anand blunders"
       },
       {
          "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of 8 of the 10 players were as they would have been with a conventional tournament without the use of the special scoring and Armageddon games only the bottom two players switched places. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
