@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Candidates R7 recap by WGM Anastasiya Karlovich One more round and we reached the middle of the FIDE Candidates Tournament. Ian Nepomniachtchi scored another victory with the black pieces after Rapport overpushed, refusing a move repetition early in the game. Rapport was brave, but it didn&#x2019;t pay off. Fabiano Caruana stays in the race as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r7-recap/",
+         "pubDate" : "Sat, 25 Jun 2022 23:54:04 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R7 recap"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bbc-reports-on-ukraine-vs-russia-in-fide-chess-elections-2022/",
          "pubDate" : "Sat, 25 Jun 2022 10:40:21 +0000",
          "title" : "BBC reports on Ukraine vs Russia in FIDE Chess Elections 2022"
-      },
-      {
-         "description" : "The International Chess Federation has declared 2022 as The Year of the Woman in Chess and established special Awards for Women in Chess. The awards recognize outstanding achievements and contributions to women in chess and the criteria for nominations are as follows: 1. The FIDE Year of the Woman in Chess Awards The activity aims []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/year-of-the-woman-in-chess-special-awards/",
-         "pubDate" : "Sat, 25 Jun 2022 10:37:54 +0000",
-         "title" : "Year of the Woman in Chess - Special Awards"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92455588.cms\" />Indian International Master Nitin Senthilvel settled for a draw with compatriot and fellow IM Ravichandran Siddharth in the ninth round lead to stay on top of the standings with 8 points in the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Saturday.",
@@ -434,7 +434,7 @@ news_feed (
          "title" : "President of Kazakhstan holds a meeting with the women's national team"
       },
       {
-         "description" : "In round 7 of the 2022 Candidates Tournament, GM Ian Nepomniachtchi won his fourth game of the event but nevertheless only leads by half a point as GM Fabiano Caruana responded by scoring a win of his own. The Russian tournament leader took down...",
+         "description" : "In round seven of the 2022 Candidates Tournament, GM Ian Nepomniachtchi won his fourth game of the event but nevertheless only leads by half a point as GM Fabiano Caruana responded by scoring a win of his own. The Russian tournament leader took ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-7",
