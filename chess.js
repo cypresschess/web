@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-7\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-7",
+         "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan tells the tale of Washington State Chess Champion Jim McCormick, who in the 70s devised a plan to enter a weak open tournament by entering alongside an unknown player. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jim-mccormick-enters-washington-open-yasser-stories\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zJlaz7aOC2A.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jim-mccormick-enters-washington-open-yasser-stories",
+         "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
+         "title" : "Jim McCormick Enters the Washington Open | Yasser Stories"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-9-lichessorg\"><img sr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-9-lichessorg",
+         "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 9 | lichess.org"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 85th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-85-basics-of-the-benko-gambit-4",
+         "pubDate" : "Sun, 26 Jun 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 85: Basics of the Benko Gambit (4)"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Sun, 26 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 8: Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92474340.cms\" />Top seed Russian Grandmaster Savchenko Boris (8.5), with superior tie-break edged out International Master Nitin Senthilvel (India) to emerge as the Chennai Open 2022 champion after the tenth round in the 13th Chennai Open International Grandmaster chess tournament on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/russian-gm-savchenko-boris-wins-chennai-open/articleshow/92474340.cms",
+         "pubDate" : "Sun, 26 Jun 2022 13:41:15 +0000",
+         "title" : "Russian GM Savchenko Boris wins Chennai Open"
+      },
+      {
+         "description" : "Argentine football manager and former football player Diego (El Cholo) Simeone is spotted playing chess with his son Giovanni&#160;Simeone at a beautiful sandy beach. ESPN World sports news tweeted about the vacation of Simeone's family and how they spend it playing the game which requires full concentration. However, something is seriously wrong. The board is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/diego-simeone-plays-chess-with-his-son-but-something-is-seriously-wrong-tweetoftheday/",
+         "pubDate" : "Sun, 26 Jun 2022 13:38:01 +0000",
+         "title" : "Diego Simeone plays chess with his son, but something is seriously wrong #TweetOftheDay"
+      },
+      {
+         "description" : "Fabiano Caruana yesterday won his R7 Candidates 2022 game against Teimour Radjabov to continue trailing the leader Ian Nepomniachtchi by half a point. While Caruana played &#8220;the most difficult game he played in a long time&#8220;, Nepo defeated Rapport much simpler, as Rapport refused to repeat the moves for a draw and went into a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-rapport-nepo-game-really-upset-me/",
+         "pubDate" : "Sun, 26 Jun 2022 13:16:34 +0000",
+         "title" : "Fabiano Caruana: \"Rapport-Nepo game really upset me\""
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/QxB-KkJJChQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/watch-fide-candidates-tournament-2022-round-8/",
+         "pubDate" : "Sun, 26 Jun 2022 13:00:05 +0000",
+         "title" : "Watch FIDE Candidates Tournament 2022: Round 8"
+      },
+      {
+         "description" : " It is looking like the 2022 Candidates Tournament is down to 2 players. Ian Nepomniachtchi leads with a very impressive 5.5/7, but is closely followed by Fabiano Caruana on 5/7. Hikaru Nakamura is in 3rd place, but is a full 2 points behind Nepo. Such is the dominance of the leading 2, everyone else (bar Nakamura) has finished the first half of the tournament on a minus score. Of course there is still another 7 rounds to play, but at this stage, the Caruana v Nepo game in Round 9 may determine who will play Carlsen for the World Championship title. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/looking-like-two-horse-race.html",
+         "pubDate" : "Sun, 26 Jun 2022 12:58:00 +0000",
+         "title" : "Looking like a two horse race"
+      },
+      {
+         "description" : "The Silver Lake Chess Festival 2022&#xA0;took place from 19-26th June, 2022, at the Silver Lake &#x201C;Sports hall&#x201D; and &#x201C;Great hall&#x201D; of Danubia Park Hotel. The Organizing Committee prepared a rich programme for all ages and playing levels: Open &#x201C;A&#x201D; tournament&#xA0;(for players rated over 2100 FIDE), Open &#x201C;B&#x201D; tournament&#xA0;(for players rated under 2200 FIDE) and Blitz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-mohammad-nubairshah-shaikh-wins-silver-lake-open-2022/",
+         "pubDate" : "Sun, 26 Jun 2022 12:10:08 +0000",
+         "title" : "IM Mohammad Nubairshah Shaikh wins Silver Lake Open 2022"
+      },
+      {
          "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Anna-Maja Kazarian, in collaboration with Worldchess.com. Round 8 pairings:&#xA0;Richard Rapport &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Ding Liren&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Fabiano Caruana&#xA0;/&#xA0;Alireza Firouzja &#x2013; Teimour Radjabov Recent from Candidates Chess 2022:&#xA0;Rapport on the R7 game vs Nepo: &#x201C;I should probably throw away []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,12 +170,12 @@ news_feed (
          "title" : "2022 Candidates, Round 7: Nepomniachtchi and Caruana in a league of their own"
       },
       {
-         "description" : "Chess fans, the most anticipated chess event of 2022 is here, and&#xA0;Grandmaster Anish Giri&#xA0;is covering the most epic games of the tournament&#xA0;daily&#xA0;in this special Chessable course! Chessable brings you this course to break down the chaos so you can appreciate the full beauty of these incredible moves and the minds that play them. Get the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-a-detailed-guide-to-the-most-exciting-chess-games-of-2022/",
-         "pubDate" : "Sat, 25 Jun 2022 20:11:28 +0000",
-         "title" : "Anish Giri: A Detailed Guide to the Most Exciting Chess Games of 2022"
+         "description" : "GM Ian Nepomniachtchi still leads the 2022 Candidates Tournament with a score of 5.5/7, half a point ahead of GM Fabiano Caruana after both players won their games for the second straight round in what is quickly becoming an exciting two-player ra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-8",
+         "pubDate" : "Sat, 25 Jun 2022 12:00:00 -0700",
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 8"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> reached halfway today with Round 7 being one of the most fascinating rounds so far. Nepomniachtchi and Caruana won one more game, this time against Rapport and Radjabov respectively. Nepo still leads the tournament with 5.5/7. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-5.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162341452_bc1ba9f2c6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52170865972_c97e5",
@@ -130,28 +218,12 @@ news_feed (
          "title" : "Leinier Dominguez: Second Half Could Bring Surprises | Round 7"
       },
       {
-         "description" : "Richard Rapport suffered a tough loss against Ian Nepomniachtchi in today's 7th round of the FIDE Candidates Chess Tournament 2022. Nepo was perfectly prepared for the Petroff variation that appeared on the board, going for the perpetual check after a rook sacrifice. Rapport was brave to refuse the threefold repetition and went into a clearly []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rapport-was-brave-but-it-didnt-pay-off-nepo-remains-the-sole-leader-of-the-fide-candidates-2022/",
-         "pubDate" : "Sat, 25 Jun 2022 16:29:56 +0000",
-         "title" : "Rapport was brave, but it didn't pay off; Nepo remains the sole leader of the FIDE Candidates"
-      },
-      {
          "description" : " <p class=\"lead\">After his win on Round 7 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> against Richard Rapport, the Russian GM Ian Nepomniachtchi is the sole leader with the impressive score of 5.5/7. As <a href=\"https://www.nrk.no/sport/kommentator-carlsen-langet-ut-mot-_nepo__-_-katastrofe-1.16013970\">nrk.no</a> reported though, the World Champion Magnus Carlsen was not gracious in his criticism of the <a href=\"https://worldchess.com/news/all/nakamura-and-liren-missed-their-chances-to-win-on-round-5-of-the/\">Nakamura - Nepo game</a> on Round 5 of the Candidates. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/517379916",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/be-a-shark-carlsen-on-nepo-probably-the-2023-challenger/",
          "pubDate" : "Sat, 25 Jun 2022 16:17:42 +0000",
          "title" : "\"Be a shark\" Carlsen on Nepo, probably the 2023 Challenger"
-      },
-      {
-         "description" : "Today's 7th round of the FIDE Candidates Chess Tournament 2022 was opened with four ceremonial moves made by the organizing team of the Norway Chess elite tournament: Kjell Madland, Benedicte Westre, Jasmine Larsson, and FIDE Managing Director and ECU Vice-President Dana Reizniece Ozola. Round 7 features the following encounters: Richard Rapport &#x2013;&#xA0; Ian Nepomniachtchi 0-1Jan-Krzysztof []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/r7-of-the-fide-candidates-chess-2022-opened-with-four-ceremonial-moves/",
-         "pubDate" : "Sat, 25 Jun 2022 16:16:46 +0000",
-         "title" : "R7 of the FIDE Candidates Chess 2022 opened with four ceremonial moves"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92461111.cms\" />China will not be taking part in the 44th Chess Olympiad to be held at Mamallapuram near Chennai from July 28. China would have been among the top medal contenders in the Olympiad and their absence would brighten India's chances. Russia and Belarus have also been barred from participating in tournaments by the FIDE (world chess federation) following the Russian invasion of neighbouring Ukraine in February.",
@@ -178,7 +250,7 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-8-lichessorg\"><img src=\"h",
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-8-lichessorg\"><img sr",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8-lichessorg",
@@ -264,6 +336,22 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/24/nepomniachtchi-leading-candidates-2022-after-six/",
          "pubDate" : "Sat, 25 Jun 2022 03:55:34 +0000",
          "title" : "Nepomniachtchi leading Candidates 2022 after six"
+      },
+      {
+         "description" : "FM James Canty III conquered IM Lawrence Trent in the semifinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Friday. It was a clash of two giants of competitive spirit over the board and beyond where Canty&#39;s tactic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-semifinal-canty-trent",
+         "pubDate" : "Fri, 24 Jun 2022 19:39:00 -0700",
+         "title" : "Canty Conquers Trash-Talking Trent"
+      },
+      {
+         "description" : "The second seed, GM Kateryna Lagno, defeated WGM Vantika Agrawal in the third round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. While many of the games were closely fought, Lagno managed to gain a substantial...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-lagno-agrawal",
+         "pubDate" : "Fri, 24 Jun 2022 16:13:00 -0700",
+         "title" : "Close Games, Overwhelming Lead: Lagno Outscores Agrawal"
       },
       {
          "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
@@ -359,10 +447,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION KANPUR"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION LUCKNOW"
       },
       {
-         "description" : "Day 8 : AGRA Shri Naveen Jain, Mayor of Agra received the Torch from Grandmaster Tejas Bakre and handed over to Woman Grandmaster Vantika Agrawal",
+         "description" : "Day 8 : KANPUR At Green Park Stadium, Hon'ble Speaker of the Uttar Pradesh Legislative Assembly Shri Satish Mahana received the torch from WGM Vantika",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -416,6 +504,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1826",
          "pubDate" : "Thu, 23 Jun 2022 18:10:52 +0000",
          "title" : "President of Kazakhstan holds a meeting with the women's national team"
+      },
+      {
+         "description" : "In round seven of the 2022 Candidates Tournament, GM Ian Nepomniachtchi won his fourth game of the event but nevertheless only leads by half a point as GM Fabiano Caruana responded by scoring a win of his own. The Russian tournament leader took ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-7",
+         "pubDate" : "Thu, 23 Jun 2022 11:02:00 -0700",
+         "title" : "Nepomniachtchi, Caruana Win Again To Extend Lead On Field"
       },
       {
          "description" : "The 3rd edition of Stepan Avagyan Memorial &#8220;Jermuk 2022&#8221; takes place from 19-28 of June, 2022 in Jermuk, Armenia. The tournament is held in a 10-player GM norm round-robin format, in 9 rounds, and it is a FIDE category 16 event. After four played rounds, GM Tabatabaei M. Amin (IRI, 2650), GM Martirosyan Haik (ARM, 2656) and GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/stepan-avagyan-memorial-jermuk-2022/\">Read More &#187;</a></span>",
@@ -578,12 +674,28 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 5"
       },
       {
+         "description" : "GM Ian Nepomniachtchi won his third game in the 2022 Candidates Tournament but still leads by half a point as GM Fabiano Caruana also scored the full point on Thursday. While the tournament leader defeated GM Jan-Krzysztof Duda in a kingside attac...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-6",
+         "pubDate" : "Wed, 22 Jun 2022 11:16:00 -0700",
+         "title" : "Nepomniachtchi, Caruana Pick Up Wins In Spectacular 6th Round"
+      },
+      {
          "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Hikaru Nakamura and Ding Liren missing an opportunity to win against Nepomniachtchi and Radjabov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52165473219_e348292cc6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52165473699_146137b504_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52164211417_783be7d13b_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://world",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nakamura-and-liren-missed-their-chances-to-win-on-round-5-of-the/",
          "pubDate" : "Wed, 22 Jun 2022 18:07:07 +0000",
          "title" : "Nakamura and Liren missed their chances to win on Round 5 of the 2022 Candidates"
+      },
+      {
+         "description" : "Chess.com is happy to announce that we have fully launched our new homepage. With a new design and convenient shortcuts to the features you use and love the most, this update will make your chess experience even better! Let&#39;s take a tour of your...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-redesigns-homepage",
+         "pubDate" : "Wed, 22 Jun 2022 11:03:00 -0700",
+         "title" : "Chess.com Redesigns Homepage"
       },
       {
          "description" : " Ian Nepomniachtchi had an extremely lucky escape against Hikaru Nakamura in Round 5 of the FIDE Candidates tournament in Madrid. His draw means that he still leads the event alone on 3.5/5 half a point clear of Fabiano Caruana. Nakamura played a very popular line against Nepomniachtchi's Petroff Defence and they followed an old game of the American's until 14...Bf8 deviated. The first real key moments were 16...Qe4? a mistake played after a remarkable 14 seconds of thought, 17.Bf1 Qg4? (after 1 minute 23 seconds of thought, 17...Qb1 is better). After the game Nepomniachtchi explained that he'd confused this position with a similar one where these moves work. Essentially now Nepomniachtchi h",
@@ -594,12 +706,12 @@ news_feed (
          "title" : "Jammy Nepomniachtchi escapes with a draw against Nakamura in Candidates Round 5 - 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-6-lichessorg\"><img src=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-6-lichessorg",
-         "pubDate" : "Wed, 22 Jun 2022 14:26:15 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 6 | lichess.org"
+         "description" : "GMs Vladimir Fedoseev and Wesley So were the victors in Titled Tuesday on June 21. In addition to his victory in the day&#39;s late tournament, So finished in third place early. Brothers GM Rasmus Svane and IM Frederik Svane each had a top-five finish...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-wesley-so-win-titled-tuesday-june-21-2022",
+         "pubDate" : "Wed, 22 Jun 2022 09:30:11 -0700",
+         "title" : "Wesley So Overcomes Tough Competition To Win Late Tournament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92390785.cms\" />International Master Nitin Senthilvel of India is in joint lead with Armenian GM Vahe Baghdasaryan with five points after the fifth round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Wednesday.",
@@ -682,20 +794,20 @@ news_feed (
          "title" : "2022 Candidates, Round 4: Nepomniachtchi alone in the lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-4\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-4",
-         "pubDate" : "Tue, 21 Jun 2022 20:25:13 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 4"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nigel Short</strong> has stepped down as <strong>FIDE Vice President</strong> after the Ethics Commission has <a href=\"https://ethics.fide.com/wp-content/uploads/2022/06/EDC-Case-10_2021A-Appeal-Chamber-decision.pdf\">suspended him for three months</a> for overstepping his office when trying to clean up the mess between the <strong>US Virgin Islands Chess Federation</strong> and a rival federation. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/shorts-steps-down/",
          "pubDate" : "Tue, 21 Jun 2022 21:16:21 +0100",
          "title" : "Shorts steps down"
+      },
+      {
+         "description" : "The Chess Olympiad is the most respected team event in chess, first held in 1928. This year, the 44th Olympiad takes place in Chennai, India from July 28 through August 9, and Chess.com will be here with all the coverage. More than 100 countries w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-coverage-2022-chess-olympiad",
+         "pubDate" : "Tue, 21 Jun 2022 12:21:00 -0700",
+         "title" : "Announcing Chess.com Coverage Of The 2022 Chess Olympiad"
       },
       {
          "description" : " Ian Nepomniachtchi leads the Candidates on 3/4 after beating Alireza Firouzja. The remaining round 4 games were drawn. Fabiano Caruana is half a point behind the leader. Firouzja has struggled to get into the tournament due to the really quite terrible draw he's got, starting with two blacks and now today black again for the third black in four games. Of course the games with the white pieces will come eventually but this is as trying a start as it's possible to have. Today was a razor sharp Najdorf where Firouzja tried to surprise Nepomniachtchi with the uncommon but also not highly regarded 15...Bc4. We won't really know if Nepomniachtchi knew any detailed lines but although clearly think",
@@ -714,20 +826,20 @@ news_feed (
          "title" : "Crazyhouse"
       },
       {
+         "description" : "In round five, GM Ian Nepomniachtchi was in serious trouble for a while against GM Hikaru Nakamura but escaped with a draw and kept his half-point lead at&#38;nbsp;the 2022 Candidates Tournament. On the second day where all games were drawn, GM Ding L...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-5",
+         "pubDate" : "Tue, 21 Jun 2022 10:59:00 -0700",
+         "title" : "Nepomniachtchi Dodges Bullet, Maintains Lead In Madrid"
+      },
+      {
          "description" : " <p class=\"lead\">Round 4 of the 2022 Candidates Tournament ended with Ian Nepomniachtchi winning against Alireza Firouzja. It was the only decisive game of the day, the rest ended in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"799\" data-ratio=\"1.4990619136961\"> <img src=\"https://worldchess.com/news/pictures/52163364205_d3861aeea1_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52163364140_b463aa75c2_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162874008_eef72db779_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162872766_b43469b7b6_c.jp",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/r4-candidates-ian-nepomniachtchi-is-the-sole-leader/",
          "pubDate" : "Tue, 21 Jun 2022 17:35:57 +0000",
          "title" : "R4 Candidates: Ian Nepomniachtchi is the sole leader"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Anastasia Karlovich joins the show during Round 4 of the Candidates Tournament to talk about her predictions, the time control, and offer analysis. 2022.06.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasia-karlovich-nepo-looks-best-right-now-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mGPN7KhcciU.jpg?itok=bGAmDWuP\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anastasia-karlovich-nepo-looks-best-right-now-round-4",
-         "pubDate" : "Tue, 21 Jun 2022 17:24:52 +0000",
-         "title" : "Anastasia Karlovich: Nepo Looks the Best Right Now | Round 4"
       },
       {
          "description" : "In an exclusive interview with chess24, FIDE President Arkady Dvorkovich speaks about the pressure he is facing at home in Russia, the criticism of his candidacy, his election campaign, the Candidates Tournament, Sergey Karjakin and Magnus Carlsen potentially giving up his World Championship title.",
@@ -856,6 +968,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-tactics-4",
          "pubDate" : "Tue, 21 Jun 2022 09:00:00 +0100",
          "title" : "Endgame tactics"
+      },
+      {
+         "description" : "In the battle of Women&#39;s World Champions, GM Alexandra Kosteniuk prevailed over GM Antoaneta Stefanova in the second round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. While both competitors impressed on the b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-kosteniuk-stefanova",
+         "pubDate" : "Mon, 20 Jun 2022 20:05:00 -0700",
+         "title" : "Kosteniuk Excels in Chaotic Time Scrambles, Blitzes Fellow Women's World Champion"
+      },
+      {
+         "description" : "FM James Canty III upset the top seed, IM Polina Shuvalova, in the quarterfinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Monday. It was a closely-fought match with many double-edged games and the scores hoverin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-canty-shuvalova",
+         "pubDate" : "Mon, 20 Jun 2022 17:06:30 -0700",
+         "title" : "Canty Upsets Shuvalova: 'She's An Absolute Beast'"
       },
       {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, continuing with the Richard Rapport. With a deeply annotated game Colovic takes a look at the chances of this intriguing candidate. | Photo FIDE official.",
@@ -994,6 +1122,14 @@ news_feed (
          "title" : "FIDE Lodges Complaint Against Nakamura for Dress Code Violation"
       },
       {
+         "description" : "GM Ian Nepomniachtchi stormed to the sole lead in the 2022 Candidates Tournament as the Russian grandmaster swiftly beat France&#39;s GM Alireza Firouzja, whose Najdorf preparation backfired as he got both checkmated and flagged. The other three games...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-4",
+         "pubDate" : "Sun, 19 Jun 2022 11:41:00 -0700",
+         "title" : "Nepomniachtchi Beats Firouzja, Storms To Sole Lead"
+      },
+      {
          "description" : " <p class=\"lead\">Round 3 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with no decisive game. All four games ended in a draw with Firouzja - Nakamura gaining the most interest. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52158144255_2f7740a5bf_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52158019451_9509ed30a9_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52158000049_0d8e8ace06_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1130,6 +1266,14 @@ news_feed (
          "title" : "Nakamura beats Radjabov in Round 2 of the Candidates - 2"
       },
       {
+         "description" : "GM Hikaru Nakamura defended brilliantly in his first-ever classical game against GM Alireza Firouzja to hold the draw after 51 moves. It was the fourth draw of the day, meaning that&#38;nbsp;GMs Fabiano Caruana and Ian Nepomniachtchi continue to lead ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-3",
+         "pubDate" : "Sat, 18 Jun 2022 11:38:00 -0700",
+         "title" : "Impressive Defense By Nakamura On Day Of Draws"
+      },
+      {
          "description" : " One effect of the Covid Pandemic has been less international coverage on this blog. At first it was due to the lack of any events in early 2020, but even when online events began, it did not feel like 'real' chess to me. An oddly enough, when face to face events began, there seemed to be a confusing mess of them, with mixed rapid and classical formats. So I tended yo avoid them, both as a blogger and a spectator. So I am pleased to see the Candidates kick off, with a quite exciting round 1. Two decisive games, and two tough draws, were enjoyable to look at. Two of the favourites (Nakamura and Ding) went down, while Duda might be kicking himself after failing to convert a huge opening advant",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1144,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1816",
          "pubDate" : "Sat, 18 Jun 2022 12:23:09 +0000",
          "title" : "Winners crowned at Prague Chess Festival 2022"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/yIhPpeFBM_o?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-2/",
-         "pubDate" : "Sat, 18 Jun 2022 12:00:00 +0000",
-         "title" : "FIDE Candidates Tournament 2022: Round 2"
       },
       {
          "description" : "A new book brings to mind two quotations from great minds, one a chess Grandmaster, the other one of the greatest of satirists. Aron Nimzowitsch once wrote: \"Ridicule can do much, for instance embitter the existence of young talents; but one thing is not given to it, to put a stop permanently to the incursion of new []",
@@ -1216,6 +1352,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-1",
          "pubDate" : "Fri, 17 Jun 2022 21:00:00 +0100",
          "title" : "Cracking the Candidate Code (1)"
+      },
+      {
+         "description" : "GM Hikaru Nakamura came back strongly in the second round of the&#38;nbsp;2022 Candidates Tournament. The American grandmaster ground down GM Teimour Radjabov in an endgame to score the full point, with the other three games ending in draws. How t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-2",
+         "pubDate" : "Fri, 17 Jun 2022 11:50:00 -0700",
+         "title" : "Nakamura Bounces Back, Grinds Down Radjabov As Rivals Draw"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92288793.cms\" />Brushing aside all the speculations about his retirement from the sport, Indian Grandmaster (GM) Viswanathan Anand said that he will continue to play chess even if he wins the vice-president's post in the World Chess Federation (FIDE) elections.",
@@ -1362,6 +1506,14 @@ news_feed (
          "title" : "Maurice Ashley honored by Brownsville!"
       },
       {
+         "description" : "An exciting first round at the 2022 Candidates Tournament saw two winners. GM Ian Nepomniachtchi defeated GM Ding Liren while GM Fabiano Caruana beat his compatriot GM Hikaru Nakamura. The two winners play each other on Saturday in round two. Ho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-1",
+         "pubDate" : "Thu, 16 Jun 2022 13:02:00 -0700",
+         "title" : "Caruana, Nepomniachtchi Win To Set Up Clash Of Leaders"
+      },
+      {
          "description" : "This week Robert Ris looks at a game between the two young Indian Grandmasters Aravindh and Erigaisi, which was played at the MPL Indian Chess Tour and is a good example of Aravindh's attacking skills. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1408,6 +1560,14 @@ news_feed (
          "link" : "https://aicf.in/olympiad-torch-run-international-open-rapid-chess-tournament-2022-2/",
          "pubDate" : "Thu, 16 Jun 2022 09:29:37 +0000",
          "title" : "Olympiad Torch Run International Open Rapid Chess Tournament-2022"
+      },
+      {
+         "description" : "More than any other chess event, the FIDE Candidates Tournament, which starts on Friday in Madrid is a winner-takes-all tournament. Finishing first, and only first, means facing World Champion Magnus Carlsen in a match. GM Fabiano Caruana, who att...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-press-conference-fabiano-caruana",
+         "pubDate" : "Thu, 16 Jun 2022 01:13:00 -0700",
+         "title" : "Caruana To Play His 4th Candidates: 'I Don't Actually Look At The Prize Fund'"
       },
       {
          "description" : "Le Quang Liem continues to lead the Masters tournament at the Prague Chess Festival, as wins for Saleh Salem and Sam Shankland in round 7 did not affect the status of the fight at the top of the standings table. Meanwhile, in the Challengers, co-leaders Nodirbek Abdusattorov and Vincent Keymer drew their direct encounter. Top seed Hans Niemann scored a full point, and is now in sole third place, a half point behind the leaders. | Pictured: Kamil Warchol, co-leader in the Futures tournament. | Photo: Petr Vrabec",
@@ -1474,6 +1634,14 @@ news_feed (
          "title" : "PM Modi to launch torch relay for Chess Olympiad on June 19"
       },
       {
+         "description" : "Titled Tuesday on June 14 was won by American GM Jeffery Xiong in the early tournament and Ukrainian GM Vitaliy Bernadskiy in the late tournament. Both players won outright with scores of 9.5/11. Bernadskiy, seeded 51st in the late field, defeated...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-bernadskiy-win-titled-tuesday-june-14-2022",
+         "pubDate" : "Wed, 15 Jun 2022 07:52:43 -0700",
+         "title" : "Ukrainian Bernadskiy Scores Big Upset Following Xiong Win"
+      },
+      {
          "description" : "In 2019, the Prague Chess Festival took place for the first time and currently, the 4th Prague Chess Festival is played - with two interesting grandmaster tournaments, the Masters and the Challengers, an Open, the Futures, a tournament for young players, and a number of side events. In an interview, Petr Boleslav, organiser and tournament director of the Prague Chess Festival, talks about the background of the tournament and reveals why he decided to become a chess organiser. | Photo: Petr Boleslav at the opening of the Chess Festival | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1520,6 +1688,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2022-r6",
          "pubDate" : "Tue, 14 Jun 2022 23:45:00 +0100",
          "title" : "Prague: Le beats Salem to grab the sole lead"
+      },
+      {
+         "description" : "The Chess.com College Ambassador Program (CAP) was announced in early April, and the Summer Season has only just begun! Our Summer Season is a fun and rewarding way to keep college chess clubs active over the summer and give chess-loving college s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-college-ambaassador-summer-season-2022",
+         "pubDate" : "Tue, 14 Jun 2022 15:14:00 -0700",
+         "title" : "Announcing the Chess.com College Ambassador Summer Season"
       },
       {
          "description" : "",
@@ -1586,6 +1762,14 @@ news_feed (
          "title" : "Prague: Keymer leads Challengers, Abdusattorov close behind"
       },
       {
+         "description" : "IM Vaishali R defeated the reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, in the first round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Vaishali led through the blitz games but had to fight ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-vaishali-assaubayeva",
+         "pubDate" : "Mon, 13 Jun 2022 15:06:52 -0700",
+         "title" : "Vaishali Breaks Assaubayeva's Stunning Streak To Seal Victory in Epic Final Game"
+      },
+      {
          "description" : "Vishy Anand played some fantastic chess in the Norway Chess 2022. He finished 3rd in a very strong field, defeating Magnus twice in the event - once in blitz and other at the Armageddon. He very nearly got the better of World Champion in classical as well. In this article, we talk with Vishy about his overall performance, his games in the event, his resignation against Shakh, and a lot more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1640,6 +1824,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-preview",
          "pubDate" : "Mon, 13 Jun 2022 09:00:00 +0100",
          "title" : "All set for the event of the year: the Candidates Tournament"
+      },
+      {
+         "description" : "GM Dmitry Andreikin won week 18 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He defeated GM Jeffery Xiong in the final blitz tiebreaker.&#38;nbsp; GMs&#38;nbsp;Levon Aronian and Olexandr Bortnyk made it to the semifinals. GMs Hikaru ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-andreikin-wins",
+         "pubDate" : "Sun, 12 Jun 2022 15:50:00 -0700",
+         "title" : "Fighting Spirit Prevails: Andreikin Wins Third Knockout"
       },
       {
          "description" : "Are you able to play a game of chess without view of the board? Can you solve problems and studies by just looking at a position or a diagram? Well, grandmasters and very strong players can stun us with feats of mental skill that we mortals are scarcely able to comprehend. We start our series with an experiment in which you can try competing with some great chess prodigies.",
@@ -1706,6 +1898,14 @@ news_feed (
          "title" : "Prague: Le and Harikrishna share the lead in the Masters"
       },
       {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Hikaru Nakamura won week 18 of the Rapid Chess Championship, presented by Coinbase, edging out four other grandmasters by tiebreaks.&#38;nbsp;&#38;nbsp; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-18-swiss",
+         "pubDate" : "Sat, 11 Jun 2022 13:50:00 -0700",
+         "title" : "Nakamura Wins Week 18 Swiss Heading into Knockout: Summary Report"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92152099.cms\" />Nineteen-year-old Peddi Rahul Srivathsav's dream came true on Friday, when he crossed the ELO mark of 2500 to clinch the Grand Master title.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1714,12 +1914,12 @@ news_feed (
          "title" : "Hyderabad lad Rahul Srivathsav is India's 74th GM"
       },
       {
-         "description" : "Magnus Carlsen won the Norway Chess Tournament for a fourth time in a row after beating Veselin Topalov in Armageddon on Friday. The world champion would not have grabbed the title had Shakhriyar Mamedyarov defeated Teimour Radjabov in their classical game. Radjabov held the draw despite having almost no time on the clock, allowing Carlsen to once again win his home event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2022-r9",
-         "pubDate" : "Sat, 11 Jun 2022 15:35:00 +0100",
-         "title" : "Magnus Carlsen wins Norway Chess for a fourth straight time"
+         "description" : "&#34;If it&#39;s entertaining, it must be entertainment!&#34; said a couple of TV show hosts when I lived in England, and the same can be said about this year&#39;s edition of Norway Chess. The headline, of course, paraphrases the famous Gary Lineker (English f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-day-9",
+         "pubDate" : "Sat, 11 Jun 2022 09:56:00 -0700",
+         "title" : "10 Players Move Pieces; In The End, Magnus Always Wins Norway Chess"
       },
       {
          "description" : " As with most events, the first day of the 2022 NSW Open hasn't revealed too much. Most of the top seeds reached 2/2, not all the DGT boards were working, and a number of players still don't understand the reasoning behind the mobile phone rules* (or simply think they have a special exemption). So the highlight of the day was in the Minor, when two players left the board to go to the bathroom ( after playing their respective moves), and when they returned, found the board has been set up to start the game. Weirdly they were only 8 moves in, so it was possible to reconstruct the position quickly. *As for the reasoning behind the not having phones in the paying area, if we did allow spectators",
@@ -1736,14 +1936,6 @@ news_feed (
          "link" : "https://www.thearticle.com/long-live-the-queen/",
          "pubDate" : "Sat, 11 Jun 2022 09:57:55 +0000",
          "title" : "Long live the Queen"
-      },
-      {
-         "description" : "From the diagram position, Black hunted down the exposed white king with some extraordinary moves. Can you find them all?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-art-of-attack",
-         "pubDate" : "Sat, 11 Jun 2022 09:00:00 +0100",
-         "title" : "The art of attack"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92140753.cms\" />Former world champion Viswanathan Anand scored a win over Aryan Tari in the ninth and final round to finish third in the Norway Chess tournament which was won by world number one Magnus Carlsen.",
@@ -1802,20 +1994,28 @@ news_feed (
          "title" : "Norway Chess: Games and standings"
       },
       {
+         "description" : "With more plot twists than a whole season&#39;s worth of &#34;Game of Thrones,&#34; the eighth round of Norway Chess delivered more surprises, shocks, and horrors than anyone could have counted on setting up an exciting last round of the tournament.&#38;nbsp; T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-8",
+         "pubDate" : "Fri, 10 Jun 2022 07:49:00 -0700",
+         "title" : "The Red Wedding Of Norway Chess"
+      },
+      {
+         "description" : "The FIDE presidential elections, to be held on August 7, 2022, will be fought among no fewer than four candidates. This became clear after the FIDE Electoral Commission approved the four ticket candidacies on June 7 (in PDF here, which was publish...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/candidates-2022-fide-presidential-elections",
+         "pubDate" : "Fri, 10 Jun 2022 05:50:00 -0700",
+         "title" : "4 Candidates In FIDE Presidential Elections"
+      },
+      {
          "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of 8 of the 10 players were as they would have been with a conventional tournament without the use of the special scoring and Armageddon games only the bottom two players switched places. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
          "pubDate" : "Fri, 10 Jun 2022 10:52:00 +0400",
          "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92120244.cms\" />Indian maestro Viswanathan Anand's campaign at the Norway Chess tournament suffered a setback after losing to Azerbaijan's Shakhriyar Mamedyarov in the ninth round even as Norwegian star Magnus Carlsen shot into sole lead with a win over Frenchman Maxime Vachier-Lagrave.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-loses-to-mamedyarov-carlsen-surges-ahead/articleshow/92120244.cms",
-         "pubDate" : "Fri, 10 Jun 2022 05:23:07 +0000",
-         "title" : "Norway Chess: Anand loses to Mamedyarov; Carlsen surges ahead"
       },
       {
          "description" : " From the publisher: &#8220;Attacking your opponent's king is not just a shortcut to victory, it's also one of the most enjoyable and gratifying experiences in chess. If you want to win more games you should become a better attacker. Studying typical attacking motifs and ideas easily brings dividends while you are having a good time. <a href=\"http://britishchessnews.com/2022/06/10/attacking-strategies-for-club-players-how-to-create-a-deadly-attack-on-the-enemy-king-2/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Attacking Strategies for Club Players: How to Create a Deadly Attack on the Enemy King</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofol",
@@ -1840,6 +2040,14 @@ news_feed (
          "link" : "https://www.europechess.org/women-chess-conference-prague-2022/",
          "pubDate" : "Thu, 09 Jun 2022 15:25:03 +0000",
          "title" : "Women Chess Conference Prague 2022"
+      },
+      {
+         "description" : "All good things must come to an end, and Chess.com Chief Chess Officer IM Danny Rensch saw his amazing run into the semifinals of the 2022 IM Not A GM Speed Chess Championship conclude on Wednesday, as IM Eric Rosen became the first finalist of th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-rosen-rensch",
+         "pubDate" : "Thu, 09 Jun 2022 07:33:00 -0700",
+         "title" : "Rosen Runs Away In Bullet, Advances To Final"
       },
       {
          "description" : " Nominations have closed for the upcoming FIDE Presidential elections and although 5 tickets were lodged, only 4 met the eligibility criteria. The one that missed out was actually the first to go public, the Fumey/Fancy ticket. Part of their motivation was to show that international chess shouldn't just be about European federations, which was ironically their undoing, as no European federation would nominate them. The 4 eligible tickets are - Mr. Andrii Baryshpolets and Mr. Peter-Heine Nielsen; - Mr. Inalbek Cheripov and Mr. Lewis Ncube; - Mr. Arkady Dvorkovich and Mr. Anand Viswanathan; - Mr. Bachar Kouatly and Mr. Ian Wilkinson. Each ticket required a minimum of 5 federations to support t",
@@ -1992,38 +2200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/winning-losing.html",
          "pubDate" : "Mon, 06 Jun 2022 13:35:00 +0000",
          "title" : "Winning > Losing"
-      },
-      {
-         "description" : " Janell Warner posted pictures on social media about her graduation from Brandeis University and stated, &#8220;so happy to be surrounded by so much love and support.&#8221; Certainly, family and friends were on hand to celebrate the event, but the chess community can also celebrate. This is yet another example of how chess continues to help The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/05/aspiring-chess-master-janell-warner-ready-to-shine/\">Aspiring chess master Janell Warner ready to shine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/05/aspiring-chess-master-janell-warner-ready-to-shine/",
-         "pubDate" : "Sun, 05 Jun 2022 14:55:13 +0000",
-         "title" : "Aspiring chess master Janell Warner ready to shine"
-      },
-      {
-         "description" : " One form of chess that seems to still exists mainly on paper rather than online is the Mate in 2 (or more) problems. And by that I mean proper Mate in 2 problems, rather than easy tactics which result in a fairly obvious checkmate after 2 moves. While lots of players find such problems weird, they serve as an excellent training tool. Accurately calculating the first 3 moves of any sequence of moves reduces your chances of making a blunder significantly. And if you can spot the likely move quickly, then how you sort your candidate moves will also improve. But as the title says, finding an online (rather than a printed) source is proving difficult. Suggestions accepted with thanks. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/looking-for-mate-in-2s.html",
-         "pubDate" : "Sun, 05 Jun 2022 14:05:00 +0000",
-         "title" : "Looking for Mate in 2's"
-      },
-      {
-         "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 will be held from 24th September 2nd October 2022 in the Principality of Liechtenstein with the support of European Chess Union. Federations participating in the event are as follows (alphabetical order): Andorra, Cyprus, Faroe Islands, Guernsey, Jersey, Liechtenstein, Luxembourg, Malta, Monaco and San Marino. Each federation shall&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship/",
-         "pubDate" : "Sun, 05 Jun 2022 13:42:51 +0000",
-         "title" : "4th ESNA European Small Nations Individual Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1800",
-         "pubDate" : "Sun, 05 Jun 2022 11:41:36 +0000",
-         "title" : "Alexander Nikitin (1935-2022)"
       }
    ]
 }
