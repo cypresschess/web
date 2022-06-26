@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today in Chess: FIDE Candidates 2022 Round 8 Recap A tense day in Madrid &#x2014; Hikaru Nakamura took down Fabiano Caruana in an epic battle, while the leader of the tournament, Nepomniachtchi secured his lead with a quick draw. Everything is still open, though, and we might even have more players re-entering the race for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r8-recap/",
+         "pubDate" : "Sun, 26 Jun 2022 23:11:02 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R8 recap"
+      },
+      {
+         "description" : "Hikaru Nakamura published his recap video of the FIDE Candidates Tournament 2022 Round 8 sending a message: &#8220;Revenge is SWEET!!&#8220;. Nakamura won a thrilling game against Fabiano Caruana, having a completely winning position most of the time. Caruana fought till the very end, but eventually couldn't escape, and Hikaru got his revenge for the R1 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-revenge-is-sweet/",
+         "pubDate" : "Sun, 26 Jun 2022 22:49:11 +0000",
+         "title" : "Hikaru Nakamura: Revenge is sweet!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1831",
+         "pubDate" : "Sun, 26 Jun 2022 22:22:04 +0000",
+         "title" : "2022 Candidates, Round 8: Nakamura stages a major upset"
+      },
+      {
+         "description" : "The 2022 International Individual Nocturnal Blitz Candidates Tournament was held on June 25&#xA0; in&#xA0;Casa del Reloj Cultural Center in Madrid as a side event of the 2022 FIDE Candidates Chess Tournament. Grandmaster Eduardo Iturrizaga (Spain) emerged as a winner with a fantastic result of 8/9, half a point above grandmasters Yusnel Bacallao (Cuba) and Karen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-eduardo-iturrizaga-wins-nocturnal-blitz-candidates-tournament/",
+         "pubDate" : "Sun, 26 Jun 2022 21:53:03 +0000",
+         "title" : "GM Eduardo Iturrizaga wins Nocturnal Blitz Candidates Tournament"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 8 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nakamura and Rapport winning against Caruana and Duda respectively. Nepomniachtchi is now a full point ahead with 6/8. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-6.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52173120362_7676490721_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52174140436_385d615297_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/new",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamura-beat-caruana-on-round-8-of-the-candidates-2022/",
+         "pubDate" : "Sun, 26 Jun 2022 20:06:18 +0000",
+         "title" : "Nakamura beat Caruana on Round 8 of the Candidates 2022"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi now leads the 2022 Candidates Tournament by a full point, with his score of 6/8, after GM Hikaru Nakamura defeated GM Fabiano Caruana in the eighth round. The eight candidates are fighting for the right to challenge GM Magnus...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -130,36 +170,12 @@ news_feed (
          "title" : "FIDE Candidates 2022 R8 live with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila"
       },
       {
-         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 8 pairings: Richard Rapport &#x2013; Jan-Krzysztof Duda / Ian Nepomniachtchi &#x2013; Ding Liren / Hikaru Nakamura &#x2013; Fabiano Caruana / Alireza Firouzja &#x2013; Teimour Radjabov Recent from Candidates Chess 2022: Rapport on the R7 game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r8-live-with-im-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Sun, 26 Jun 2022 11:10:26 +0000",
-         "title" : "FIDE Candidates 2022 R8 live with IM Sagar Shah and Amruta Mokal"
-      },
-      {
          "description" : " <p class=\"lead\">The professional streamer and chess superstar Hikaru Nakamura announced on Twitter that he is <a href=\"https://events.softgiving.com/donate/TeamHikaru4ReproductiveRights\">fundraising</a> for the abortion rights. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-06-26-at-11.26.31-AM.png\" width=\"2346\" height=\"1522\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> GM Hikaru Nakamura recently made an impressive and strong come-back to the classical and over-the-board chess. His great performance at the FIDE Grand Prix Series, his promotion to the Candidates 2022, and his funny interviews made him once more the talk",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nakamura-fundraises-for-the-abortion-rights/",
          "pubDate" : "Sun, 26 Jun 2022 08:47:46 +0000",
          "title" : "Nakamura fundraises for the abortion rights"
-      },
-      {
-         "description" : "Richard Rapport was devastated after a tough loss he suffered in the 7th round of FIDE Candidates 2022 playing against Ian Nepomniachtchi. The Petroff line chosen by Nepo was a known theoretical draw where Black sacrifices a Rook to hunt the perpetual check. However, Rapport decided to refuse the threefold repetition and go on into []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rapport-on-the-r7-game-vs-nepo-i-should-probably-throw-away-my-computer/",
-         "pubDate" : "Sun, 26 Jun 2022 08:44:58 +0000",
-         "title" : "Rapport on the R7 game vs Nepo: \"I should probably throw away my computer\""
-      },
-      {
-         "description" : "FIDE Candidates Chess Tournament 2022 is just halfway through, yet the whole tournament has reduced to a two-horse race now.&#160;There&#x2019;s a massive 1.5-point gap between the first two players and the rest of the field, and it does not seem like anybody except for Caruana can stop Nepomniachtchi&#x2019;s run. Read more: FIDE Candidates Chess Tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r8-preview/",
-         "pubDate" : "Sun, 26 Jun 2022 08:09:32 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022- R8 preview"
       },
       {
          "description" : "Ian Nepomniachtchi and Fabiano Caruana have done it again. For a second day in a row, the frontrunners to take the title scored full points in Madrid. Nepo still leads Caruana by a half point, while Hikaru Nakamura now stands 1&frac12; points behind Caruana in sole third place. It has become hugely unlikely for a player other than the tournament's two protagonists to bounce back and win the whole thing. | Photo: FIDE / Stev Bonhage",
@@ -186,12 +202,12 @@ news_feed (
          "title" : "2022 Candidates, Round 7: Nepomniachtchi and Caruana in a league of their own"
       },
       {
-         "description" : "GM Ian Nepomniachtchi still leads the 2022 Candidates Tournament with a score of 5.5/7, half a point ahead of GM Fabiano Caruana after both players won their games for the second straight round in what is quickly becoming an exciting two-player ra...",
+         "description" : "A quick draw with GM Ding Liren proved to be an excellent strategy for GM Ian Nepomniachtchi, who increased his lead to a full point at the 2022 Candidates Tournament on Sunday. GM Hikaru Nakamura, who beat runner-up GM Fabiano Caruana for the fir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-8",
          "pubDate" : "Sat, 25 Jun 2022 12:00:00 -0700",
-         "title" : "Watch LIVE: FIDE Candidates Tournament Round 8"
+         "title" : "Nepomniachtchi Increases Lead With Quick Draw As Nakamura Beats Caruana"
       },
       {
          "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> reached halfway today with Round 7 being one of the most fascinating rounds so far. Nepomniachtchi and Caruana won one more game, this time against Rapport and Radjabov respectively. Nepo still leads the tournament with 5.5/7. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-5.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162341452_bc1ba9f2c6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52170865972_c97e5",
@@ -1256,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1817",
          "pubDate" : "Sat, 18 Jun 2022 22:46:33 +0000",
          "title" : "2022 Candidates, Round 2: A day of missed chances"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 2 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nakamura winning against Radjabov - the only decisive game of the day -, while Rapport missed a huge chance with Firouzja. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52155659259_472b84ef82_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52155501209_4b7c703127_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52155501049_48b78d254a_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/r2-candidates-nakamura-beat-radjabov-rapport-missed-his-chance-w/",
-         "pubDate" : "Sat, 18 Jun 2022 19:34:05 +0000",
-         "title" : "R2 Candidates: Nakamura beat Radjabov, Rapport missed his chance with Firouzja"
       },
       {
          "description" : " Hikaru Nakamura won the only decisive game of the day when he beat Teimour Radjabov in 75 moves and six and a half hours play of Round 2 of the FIDE Candidates tournament in Madrid. Nakamura didn't get much out of the opening and the game turned into a very long grind. It seems about move 35 Radjabov started to get into trouble but the whole endgame was very hard to understand for anyone. Nakamura returns to 50% after his loss against Caruana yesterday. This endgame was far too difficult for me to annotate well. The leaders Ian Nepomniachtchi and Fabiano Caruana drew a very complicated Giuoco Piano by repetition in 41 moves. Caruana was well prepared and played bold pawn pushes on the kind ",
