@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi still enjoys a full point lead in the 2022 Candidates Tournament with a 6.5/9 score after drawing his game with Black against second-place GM Fabiano Caruana. In a round filled with drama, the three other boards saw decisive ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-10",
+         "pubDate" : "Mon, 27 Jun 2022 12:22:44 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 10"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 9 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games and Nepomniachtchi resting assured at the top with a 1-point lead after his draw against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-7.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162341452_bc1ba9f2c6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52175984322_fe3450ec2f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/3-decisive-game-on-round-9-of-the-candidates-2022-nepo-leads-wit/",
+         "pubDate" : "Mon, 27 Jun 2022 18:49:25 +0000",
+         "title" : "3 decisive games on Round 9 of the Candidates 2022."
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Jeffery Xiong joins the show during Round 9 to analyze and talk about his upcoming events. 2022.06.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jeffery-xiong-fabiano-has-great-prep-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/T4FyW6QuK54.jpg?itok=riAQuGBL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jeffery-xiong-fabiano-has-great-prep-round-9",
+         "pubDate" : "Mon, 27 Jun 2022 17:30:45 +0000",
+         "title" : "Jeffery Xiong: Fabiano has Great Prep! | Round 9"
+      },
+      {
+         "description" : "In the Endgame Magic Show #200 Karsten has a very special guest: Hou Yifan, four-time Women's World Champion and still the number one on the women's ranking list though the 28-year is semi-retired after becoming a professor at Shenzhen University in 2020. In the show Karsten and Hou look at endgames from Hou's illustrious career. This Endgame Magic Show is free for all. | Photo: mp.weixin.qq.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-200-with-hou-yifan",
+         "pubDate" : "Mon, 27 Jun 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #200 - with Hou Yifan!"
+      },
+      {
+         "description" : " <p class=\"lead\">The most important game of the tournament ended in a draw, cementing Nepo's leading position but still giving Fabiano Caruana a <a href=\"https://twitter.com/PHChess/status/1541403022571487233\">distant chance</a> to win the tournament and make <a href=\"https://new.chess24.com/wall/news/nepomniachtchi-the-worst-possible-winner-in-terms-of-chess-and-politics\">FIDE officials happy</a>. Caruana, the 2018 Championship title challenger, had advantage from the opening. According to Peter Nielsen, who commented the game on Twitter, Caruana tricked Nepo by forcing a line that deviated from the main computer play and likely spoiled Nepo's home prep. <a href=\"https://twitter.com/PHChess",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/yes-caruana-nepo-game-ends-in-a-draw/",
+         "pubDate" : "Mon, 27 Jun 2022 16:55:26 +0000",
+         "title" : "Yes, Caruana - Nepo Game Ends in a Draw"
+      },
+      {
          "description" : "These video courses feature a black repertoire against 1.d4, 1.Nf3 and 1.c4. The recommended variations are easy to learn and not difficult to remember, but also pose White serious challenges.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-a-complete-black-repertoire-against-1-d4-1-nf3-1-c4",
          "pubDate" : "Mon, 27 Jun 2022 17:10:23 +0100",
          "title" : "New: A Complete Black Repertoire against 1.d4 & 1.Nf3 & 1.c4"
+      },
+      {
+         "description" : " Fabiano Caruana got a chance to put Ian Nepomniachtchi under pressure and even catch him after managing to surprise his opponent in the Petroff. Nepomniachtchi was certain he had something against Caruana's idea but didn't remember what it was. Nepomniachtchi fell about 50 minutes behind on the clock but it was here Caruana began to slow down and then made a mistake. You have to think the very long games Caruana has been playing and yesterday's disappointment couldn't have helped but he needed to find 24.Bf1! after 24.Bxf5? he almost certainly missed 27...Nd3 ahead of times and after this it was Caruana who had to be careful as he got into time pressure, but the players repeated at move 40.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-survives-trouble-in-the-opening-to-draw-against-caruana-in-the-candidates-round-9",
+         "pubDate" : "Mon, 27 Jun 2022 20:00:00 +0400",
+         "title" : "Nepomniachtchi survives trouble in the opening to draw against Caruana in the Candidates Round 9 - 9"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-8\"><img src=\"https://",
@@ -178,12 +226,12 @@ news_feed (
          "title" : "Nakamura beat Caruana on Round 8 of the Candidates 2022"
       },
       {
-         "description" : "GM Ian Nepomniachtchi&#38;nbsp;leads the 2022 Candidates Tournament by a full point, with his score of 6/8, after GM Hikaru Nakamura defeated GM Fabiano Caruana in the eighth round. The eight candidates are fighting for the right to challenge GM Magnu...",
+         "description" : "GM Ian Nepomniachtchi survived the important clash with GM Fabiano Caruana in round nine of the 2022 Candidates Tournament on Monday. The Russian grandmaster held the draw from a difficult position based on deep preparation from Caruana, who is st...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-9",
          "pubDate" : "Sun, 26 Jun 2022 12:11:00 -0700",
-         "title" : "Watch LIVE: FIDE Candidates Tournament Round 9"
+         "title" : "Nepomniachtchi Closer To Victory After Drawing With Caruana"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Tai Pruce-Zimmerman, the man behind chessnumbers.wordpress.com, joins the show to talk about how his round-by-round tournament odds are calculated. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-%E2%80%9Cchess-numbers%E2%80%9D-works-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UX0jF9MCoGI.jpg?itok=6YeU2hmr\" alt=\"\" /></a></div>",
@@ -640,14 +688,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-and-caruana-won-on-round-6-of-the-candidates-2022/",
          "pubDate" : "Thu, 23 Jun 2022 17:39:00 +0000",
          "title" : "Nepomniachtchi and Caruana Won In Round 6 of the Candidates 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Sam Shankland joins the show during Round 6 of the Candidates Tournament to talk about the players and the two versions of Ian Nepomniachtchi, and to give his analysis. 2022.06.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sam-shankland-nepo-%E2%80%9C%E2%80%9D-vs-nepo-%E2%80%9Cb%E2%80%9D-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yout",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sam-shankland-nepo-%E2%80%9C%E2%80%9D-vs-nepo-%E2%80%9Cb%E2%80%9D-round-6",
-         "pubDate" : "Thu, 23 Jun 2022 17:27:36 +0000",
-         "title" : "Sam Shankland: Nepo \"A\" vs. Nepo \"B\" | Round 6"
       },
       {
          "description" : "This week Robert Ris looks at a brilliant attacking masterpiece in the King's Indian, in which Black tried a subtle idea in a well-known line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1258,14 +1298,6 @@ news_feed (
          "title" : "Minor Piece Ending"
       },
       {
-         "description" : " <p class=\"lead\">The 44th edition of the Chess Olympiad will be held in Mahabalipuram, near Chennai, from July 28 to August 10. Today India's Prime Minister Narendra Modi flagged off the first-ever torch relay for the Chess Olympiad! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-3.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: PTI</div> </div> With an impressive ceremony at the IG Stadium in New Delhi, India welcomed chess players and the chess fraternity from around the world to celebrate the very first torch relay in a Chess Olympiad. According to <a href=\"https://www.news9live.com/sports/pm-narendra-modi-fla",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-first-ever-torch-relay-for-the-chess-olympiad/",
-         "pubDate" : "Sun, 19 Jun 2022 15:01:47 +0000",
-         "title" : "The first-ever torch relay for the Chess Olympiad"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 84th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,14 +1328,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/stalemate-tricks-to-know.html",
          "pubDate" : "Sun, 19 Jun 2022 13:14:00 +0000",
          "title" : "Stalemate tricks to know"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/XYXL0lWQ_-8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-3/",
-         "pubDate" : "Sun, 19 Jun 2022 12:00:00 +0000",
-         "title" : "FIDE Candidates Tournament 2022: Round 3"
       },
       {
          "description" : "Although chess is a total-information game in which everything is laid bare on the board, in practice we can see only part of the picture. Feelings do play a crucial role, at least in games between humans. One necessary evil is the ability, when the need arises, to bluff - or at the very least to keep a reasonably straight face! | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -1866,14 +1890,6 @@ news_feed (
          "title" : "WSCC 2022: Vaishali advances to quarterfinals"
       },
       {
-         "description" : "In the Endgame Magic Show #198 Karsten takes a look at interesting rook endings played in the first half of the year. Rook endings occur more often than any other ending and the examples Karsten picked contain important theoretical positions and patterns. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-198-rook-endings",
-         "pubDate" : "Mon, 13 Jun 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #198: Rook endings"
-      },
-      {
          "description" : " IM Igor Bjelobrk is the winner of the 2022 NSW Open, with an impressive 6.5/7. He won his first 6 rounds, and then played out a tough final round draw against close rival IM Junta Ikeda. Ikeda had drawn with Jack Rodgers back in round 3, and so they avoided playing each other until the last round. The draw left Ikeda tied for 2nd on 6 points with FM Yi Liu, who recovered from a round 4 loss to Sam Asaka to win his remaining games. In the Minor event, Kamal Jain won in a similar way to Bjelobrk, starting with 6 wins before drawing his last round games. There was a 3 way tie for 2nd with Stephen Hemsley, Shane Dibley and Kotaro Inukai all scoring 5.5. The 150 player event ran pretty smoothly,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2040,14 +2056,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-norway-chess-day-8",
          "pubDate" : "Fri, 10 Jun 2022 07:49:00 -0700",
          "title" : "The Red Wedding Of Norway Chess"
-      },
-      {
-         "description" : "The FIDE presidential elections, to be held on August 7, 2022, will be fought among no fewer than four candidates. This became clear after the FIDE Electoral Commission approved the four ticket candidacies on June 7 (in PDF here, which was publish...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/candidates-2022-fide-presidential-elections",
-         "pubDate" : "Fri, 10 Jun 2022 05:50:00 -0700",
-         "title" : "4 Candidates In FIDE Presidential Elections"
       },
       {
          "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of 8 of the 10 players were as they would have been with a conventional tournament without the use of the special scoring and Armageddon games only the bottom two players switched places. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
