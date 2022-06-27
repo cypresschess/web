@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-06-26","20","<a href=http://www.uschess.org/msa/XtblMain.php?202206261002 target='_blank'>JUNE 26 SUNDAY SWISS</a>",
 "HOUSTON","2022-06-25","32","<a href=http://www.uschess.org/msa/XtblMain.php?202206259992 target='_blank'>F7JUNESCHOLASTIC</a>",
 "CYPRESS","2022-06-24","30","<a href=http://www.uschess.org/msa/XtblMain.php?202206249872 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-06-24","31","<a href=http://www.uschess.org/msa/XtblMain.php?202206249862 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2021-08-06","11","<a href=http://www.uschess.org/msa/XtblMain.php?202108066922 target='_blank'>FBCC HOT AUGUST NIGHT 2021</a>",
 "CYPRESS","2021-08-06","14","<a href=http://www.uschess.org/msa/XtblMain.php?202108066882 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-08-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108015962 target='_blank'>AUGSS81</a>",
-"HOUSTON","2021-07-30","4","<a href=http://www.uschess.org/msa/XtblMain.php?202107309272 target='_blank'>FLEXIBLE FRIDAY G60D5729</a>",
 ]);
