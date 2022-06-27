@@ -487,10 +487,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PRAYAGRAJ"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION VARANASI"
       },
       {
-         "description" : "Day 8 : LUCKNOW At Vidhan Sabha Lucknow, Hon'ble Chief Minister of Uttar Pradesh Shri Yogi Adityanath received the Torch and handed over to five",
+         "description" : "Day 9 : PRAYAGRAJ At Allahabad Museum, Shri Nand Gopal Gupta Nandi, Cabinet Minister of Govt of Uttar Pradesh received the Torch from WGM Vantika",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
