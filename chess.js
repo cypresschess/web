@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "These video courses feature a black repertoire against 1.d4, 1.Nf3 and 1.c4. The recommended variations are easy to learn and not difficult to remember, but also pose White serious challenges.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-a-complete-black-repertoire-against-1-d4-1-nf3-1-c4",
+         "pubDate" : "Mon, 27 Jun 2022 17:10:23 +0100",
+         "title" : "New: A Complete Black Repertoire against 1.d4 & 1.Nf3 & 1.c4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-8\"><img src=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8",
+         "pubDate" : "Mon, 27 Jun 2022 14:30:37 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 8"
+      },
+      {
+         "description" : "The 15th edition of the International Chess Tournament Teplice Open 2022 took place from 18-26 June at the Teplice House of Culture. More than 200 players from 35 countries participated in the tournament which featured a total prize fund of 185.000 CZK (~7.500 EUR). After 9 played rounds, GM Cemil Can Ali Marandi from Turkey []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-cemil-can-ali-marandi-is-the-winner-of-teplice-open-2022/",
+         "pubDate" : "Mon, 27 Jun 2022 14:13:27 +0000",
+         "title" : "GM Cemil Can Ali Marandi is the Winner of Teplice Open 2022"
+      },
+      {
+         "description" : "ATHENS OF THE EAST 2nd INTERNATIONAL GRAND MASTER OPEN CHESS TOURNAMENT 2022 (Category-A) Live link Link : https://view.livechesscloud.com/#d73b3087-1bbd-4129-8f85-d3b373e9c90e",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-athens-of-the-east-2nd-international-grand-master-open-chess-tournament-2022-category-a/",
+         "pubDate" : "Mon, 27 Jun 2022 13:58:25 +0000",
+         "title" : "Live link for ATHENS OF THE EAST 2nd INTERNATIONAL GRAND MASTER OPEN CHESS TOURNAMENT 2022 (Category-A)"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Mon, 27 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 9: Live"
+      },
+      {
+         "description" : " Round 7 of the 2022 Candidates Tournament saw a strange game between Rapport and Nepomnichtchi. Nepo played a line in the Petroff where Black sacrifices a rook, but draws by perpetual check soon afterwards. However Rapport rejected the first repetition, although this simply forced Nepo to aim for another repetition a few moves later. However, when Rapport avoided the second repetition, he ended up losing his queen for insufficient compensation, with a loss to show for his trouble. After the game Rapport suggested it was the result of poor preparation, although this move he played was already known to be bad. But not only did this game effect Nepo's standings, it also had an effect on Caruan",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/bad-luck-or-bad-prep.html",
+         "pubDate" : "Mon, 27 Jun 2022 13:28:00 +0000",
+         "title" : "Bad luck or bad prep?"
+      },
+      {
+         "description" : "After a heartbreaking loss against Ian Nepomniachtchi in the 7th round of the FIDE Candidates Chess Tournament 2022, Richard Rapport decided to focus on his outfit rather than on the game preparation. The audience loved the jacket he wore yesterday and Richie disclosed it was a choice of his wife WGM Jovana Rapport: &#8220;I would []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-chooses-to-focus-on-outfits-rather-than-on-openings-preparation/",
+         "pubDate" : "Mon, 27 Jun 2022 13:19:23 +0000",
+         "title" : "Richard Rapport chooses to focus on outfits rather than on openings preparation"
+      },
+      {
+         "description" : "Fabiano Caruana suffered a tough loss yesterday against Hikaru Nakamura. He was fighting to survive a completely lost position and it seemed that he had chances to escape. Nakamura was satisfied to get the revenge from the Round 1 loss against Fabi, and disclosed he was preparing the line for more than two hours. (Interview []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-nakamura-gave-me-hope-which-was-torture-in-the-end/",
+         "pubDate" : "Mon, 27 Jun 2022 12:36:58 +0000",
+         "title" : "Fabiano Caruana: Nakamura gave me hope, which was torture in the end"
+      },
+      {
          "description" : "The PlusCity Rapid Open took place in the Austrian municipality of Pasching with a prize fund of 15,000 euros. Czech grandmaster Vojtech Plat won with a 7&frac12;/9 score. Plat had the same score as his grandmaster colleagues Anton Demchenko, Milos Jirovsky, Daniel Fridman and Andreas Heimann, but took home the first prize thanks to his tiebreak score. | Photos: Peter Kranzl",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pluscity-rapid-open-in-austria",
          "pubDate" : "Mon, 27 Jun 2022 13:00:00 +0100",
          "title" : "Vojtech Plat wins the PlusCity Rapid Open in Upper Austria"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 9 pairings:&#xA0;Firouzja &#x2013; Rapport&#xA0;/&#xA0;Radjabov &#x2013; Nakamura&#xA0;/&#xA0;Caruana &#x2013; Nepomniachtchi&#xA0;/&#xA0;Ding Liren &#x2013; Duda Recent from Candidates 2022: Anish Giri recaps epic fights of the FIDE Candidates Round 8&#xA0;/&#xA0;Nakamura will stream Titled Tuesday from the FIDE Candidates Tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r9-live-with-im-sagar-shah-and-amruta-mokal/",
+         "pubDate" : "Mon, 27 Jun 2022 11:48:50 +0000",
+         "title" : "FIDE Candidates 2022 R9 live with IM Sagar Shah and Amruta Mokal"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Anna-Maja Kazarian, in collaboration with Worldchess.com. Round 9 pairings: Firouzja &#x2013; Rapport&#xA0;/&#xA0;Radjabov &#x2013; Nakamura&#xA0;/&#xA0;Caruana &#x2013; Nepomniachtchi&#xA0;/&#xA0;Ding Liren &#x2013; Duda Recent from Candidates 2022:Anish Giri recaps epic fights of the FIDE Candidates Round 8&#xA0;/&#xA0;Nakamura will stream Titled Tuesday from the FIDE Candidates []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r9-live-with-gm-daniil-yuffa-and-wim-anna-maja-kazarian/",
+         "pubDate" : "Mon, 27 Jun 2022 11:46:28 +0000",
+         "title" : "FIDE Candidates 2022 R9 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 9 pairings:&#xA0;Firouzja &#x2013; Rapport / Radjabov &#x2013; Nakamura / Caruana &#x2013; Nepomniachtchi / Ding Liren &#x2013; Duda Recent from Candidates 2022: Anish []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r9-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
+         "pubDate" : "Mon, 27 Jun 2022 11:44:58 +0000",
+         "title" : "FIDE Candidates 2022 R9 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
       },
       {
          "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at aged 21 and defending it multiple times until her untimely death. The European Chess Federation is staging a high-level ladies norm tournament that will end on the 78th anniversary of Menchik's death, when she was struck down by a German V1 rocket in Clapham. The event takes place in th MindSports Centre, Dalling Rd, London W6 0JD, from Saturday 18th to Sunday 26th June 2022.",
@@ -66,36 +154,12 @@ news_feed (
          "title" : "Candidates R8: Naka beats Caruana, Rapport strikes back"
       },
       {
-         "description" : "Today in Chess: FIDE Candidates 2022 Round 8 Recap A tense day in Madrid &#x2014; Hikaru Nakamura took down Fabiano Caruana in an epic battle, while the leader of the tournament, Nepomniachtchi secured his lead with a quick draw. Everything is still open, though, and we might even have more players re-entering the race for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r8-recap/",
-         "pubDate" : "Sun, 26 Jun 2022 23:11:02 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R8 recap"
-      },
-      {
-         "description" : "Hikaru Nakamura published his recap video of the FIDE Candidates Tournament 2022 Round 8 sending a message: &#8220;Revenge is SWEET!!&#8220;. Nakamura won a thrilling game against Fabiano Caruana, having a completely winning position most of the time. Caruana fought till the very end, but eventually couldn't escape, and Hikaru got his revenge for the R1 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-revenge-is-sweet/",
-         "pubDate" : "Sun, 26 Jun 2022 22:49:11 +0000",
-         "title" : "Hikaru Nakamura: Revenge is sweet!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1831",
          "pubDate" : "Sun, 26 Jun 2022 22:22:04 +0000",
          "title" : "2022 Candidates, Round 8: Nakamura stages a major upset"
-      },
-      {
-         "description" : "The 2022 International Individual Nocturnal Blitz Candidates Tournament was held on June 25&#xA0; in&#xA0;Casa del Reloj Cultural Center in Madrid as a side event of the 2022 FIDE Candidates Chess Tournament. Grandmaster Eduardo Iturrizaga (Spain) emerged as a winner with a fantastic result of 8/9, half a point above grandmasters Yusnel Bacallao (Cuba) and Karen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-eduardo-iturrizaga-wins-nocturnal-blitz-candidates-tournament/",
-         "pubDate" : "Sun, 26 Jun 2022 21:53:03 +0000",
-         "title" : "GM Eduardo Iturrizaga wins Nocturnal Blitz Candidates Tournament"
       },
       {
          "description" : " Ian Nepomniachtchi took a short draw against Ding Liren with the white pieces in Round 8 of the the FIDE Candidates tournament in Madrid, this turned out to be a very sensible decision as he ended up extending his lead to a full point after his close rival Fabiano Caruana fell back after losing to fellow countryman Hikaru Nakamura in a sharp open Ruy Lopez. Caruana has white against Nepomniachtchi in Round 9 but will be feeling depressed by his loss today and in addition it took many more hours to happen. If people wonder why players take quick draws in important events then this is why. If I'd been Caruana I wouldn't have gone to war today, not even in retrospect was this the key game, now",
@@ -114,20 +178,12 @@ news_feed (
          "title" : "Nakamura beat Caruana on Round 8 of the Candidates 2022"
       },
       {
-         "description" : "GM Ian Nepomniachtchi now leads the 2022 Candidates Tournament by a full point, with his score of 6/8, after GM Hikaru Nakamura defeated GM Fabiano Caruana in the eighth round. The eight candidates are fighting for the right to challenge GM Magnus...",
+         "description" : "GM Ian Nepomniachtchi&#38;nbsp;leads the 2022 Candidates Tournament by a full point, with his score of 6/8, after GM Hikaru Nakamura defeated GM Fabiano Caruana in the eighth round. The eight candidates are fighting for the right to challenge GM Magnu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-9",
          "pubDate" : "Sun, 26 Jun 2022 12:11:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 9"
-      },
-      {
-         "description" : "The 13th edition of the Chennai Chess Open took place from 19-26 June at the Hotel Ambassador Pallava attracting more than 250 entries who fought for a total prize fund of Rs.1500000 (~18.000e). GM Boris Savchenko and IM Nitin S. tied for the first place after 10 played rounds, scoring 8.5 points each. Having better []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-boris-savchenko-is-the-winner-of-13th-chennai-open/",
-         "pubDate" : "Sun, 26 Jun 2022 18:04:11 +0000",
-         "title" : "GM Boris Savchenko is the Winner of 13th Chennai Open"
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 9"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Tai Pruce-Zimmerman, the man behind chessnumbers.wordpress.com, joins the show to talk about how his round-by-round tournament odds are calculated. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-%E2%80%9Cchess-numbers%E2%80%9D-works-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UX0jF9MCoGI.jpg?itok=6YeU2hmr\" alt=\"\" /></a></div>",
@@ -178,22 +234,6 @@ news_feed (
          "title" : "Russian GM Savchenko Boris wins Chennai Open"
       },
       {
-         "description" : "Argentine football manager and former football player Diego (El Cholo) Simeone is spotted playing chess with his son Giovanni&#160;Simeone at a beautiful sandy beach. ESPN World sports news tweeted about the vacation of Simeone's family and how they spend it playing the game which requires full concentration. However, something is seriously wrong. The board is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/diego-simeone-plays-chess-with-his-son-but-something-is-seriously-wrong-tweetoftheday/",
-         "pubDate" : "Sun, 26 Jun 2022 13:38:01 +0000",
-         "title" : "Diego Simeone plays chess with his son, but something is seriously wrong #TweetOftheDay"
-      },
-      {
-         "description" : "Fabiano Caruana yesterday won his R7 Candidates 2022 game against Teimour Radjabov to continue trailing the leader Ian Nepomniachtchi by half a point. While Caruana played &#8220;the most difficult game he played in a long time&#8220;, Nepo defeated Rapport much simpler, as Rapport refused to repeat the moves for a draw and went into a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-rapport-nepo-game-really-upset-me/",
-         "pubDate" : "Sun, 26 Jun 2022 13:16:34 +0000",
-         "title" : "Fabiano Caruana: \"Rapport-Nepo game really upset me\""
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/QxB-KkJJChQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -208,14 +248,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/looking-like-two-horse-race.html",
          "pubDate" : "Sun, 26 Jun 2022 12:58:00 +0000",
          "title" : "Looking like a two horse race"
-      },
-      {
-         "description" : "The Silver Lake Chess Festival 2022&#xA0;took place from 19-26th June, 2022, at the Silver Lake &#x201C;Sports hall&#x201D; and &#x201C;Great hall&#x201D; of Danubia Park Hotel. The Organizing Committee prepared a rich programme for all ages and playing levels: Open &#x201C;A&#x201D; tournament&#xA0;(for players rated over 2100 FIDE), Open &#x201C;B&#x201D; tournament&#xA0;(for players rated under 2200 FIDE) and Blitz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-mohammad-nubairshah-shaikh-wins-silver-lake-open-2022/",
-         "pubDate" : "Sun, 26 Jun 2022 12:10:08 +0000",
-         "title" : "IM Mohammad Nubairshah Shaikh wins Silver Lake Open 2022"
       },
       {
          "description" : " <p class=\"lead\">The professional streamer and chess superstar Hikaru Nakamura announced on Twitter that he is <a href=\"https://events.softgiving.com/donate/TeamHikaru4ReproductiveRights\">fundraising</a> for the abortion rights. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-06-26-at-11.26.31-AM.png\" width=\"2346\" height=\"1522\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> GM Hikaru Nakamura recently made an impressive and strong come-back to the classical and over-the-board chess. His great performance at the FIDE Grand Prix Series, his promotion to the Candidates 2022, and his funny interviews made him once more the talk",
@@ -656,14 +688,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/another-house-rule.html",
          "pubDate" : "Thu, 23 Jun 2022 14:35:00 +0000",
          "title" : "Another 'house' rule"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-7-lichessorg\"><img src=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-7-lichessorg",
-         "pubDate" : "Thu, 23 Jun 2022 14:27:32 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 7 | lichess.org"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/mViHVZEButg?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1618,14 +1642,6 @@ news_feed (
          "title" : "FIDE Presidential ticket candidacies announced"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-run-international-open-rapid-chess-tournament-2022-2/",
-         "pubDate" : "Thu, 16 Jun 2022 09:29:37 +0000",
-         "title" : "Olympiad Torch Run International Open Rapid Chess Tournament-2022"
-      },
-      {
          "description" : "More than any other chess event, the FIDE Candidates Tournament, which starts on Friday in Madrid is a winner-takes-all tournament. Finishing first, and only first, means facing World Champion Magnus Carlsen in a match. GM Fabiano Caruana, who att...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "FIDE Candidates Tournament 2022"
       },
       {
-         "description" : "The FIDE Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters will compete for a top spot in this double round-robin event in Madrid, Spain, from 16 June to 5 July 2022. The first place is all that matters, as the winner qualifies to face the reigning World Champion Magnus Carlsen in the match for the chess crown. | Picture: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-preview",
-         "pubDate" : "Mon, 13 Jun 2022 09:00:00 +0100",
-         "title" : "All set for the event of the year: the Candidates Tournament"
-      },
-      {
          "description" : "GM Dmitry Andreikin won week 18 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase. He defeated GM Jeffery Xiong in the final blitz tiebreaker.&#38;nbsp; GMs&#38;nbsp;Levon Aronian and Olexandr Bortnyk made it to the semifinals. GMs Hikaru ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1807",
          "pubDate" : "Sun, 12 Jun 2022 15:00:10 +0000",
          "title" : "Muhammad Hanif Qureshi elected the president of Chess Federation of Pakistan"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 83rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-83-basics-of-the-benko-gambit-2",
-         "pubDate" : "Sun, 12 Jun 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 83: Basics of the Benko Gambit (2)"
       },
       {
          "description" : " I spent five years on the London weekend tournament circuit between 1972 and 1977 before deciding that running Richmond Junior Club was more enjoyable. One thing I noticed was that my last round games were often rather strange. Either my opponent or I, or sometimes both of us, had lost interest in the tournament, were <a href=\"https://chessimprover.com/the-last-round/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Last Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-last-round/\">The Last Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2208,30 +2208,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/arbiter-appointments-for-the-chennai-olympiad/",
          "pubDate" : "Tue, 07 Jun 2022 08:56:26 +0000",
          "title" : "Arbiter appointments for the Chennai Olympiad"
-      },
-      {
-         "description" : "The 52nd Cotswold Chess Congress was held at The Kings School, Gloucester Friday 3rd to Sunday 5th June. The organizers are grateful to Karen Gulley...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2022-cotswold-chess-congress/",
-         "pubDate" : "Mon, 06 Jun 2022 13:56:54 +0000",
-         "title" : "2022 Cotswold Chess Congress"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1801",
-         "pubDate" : "Mon, 06 Jun 2022 13:48:41 +0000",
-         "title" : "Selection of arbiters for FIDE events"
-      },
-      {
-         "description" : " I think I recently mentioned that to me, losses hurt immediately, by victories are more enjoyable over time. To test this theory, here is a loss from a club game last week. The immediate cause of the loss was flag fall, but I was in time trouble because I had lost control of the position earlier on (despite being a piece up). Good defence from my opponent btw, which definitely contributed to my shortage of time. <br /> <b>Press,Shaun - Forace,Lee [A55]</b><br />Belconnen Cup, 01.06.2022 <script>new PgnViewer( { boardName: \"game1331\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 d6 3.g3 c6 4.Bg2 Nbd7 5.c4 Qc7 6.Nc3 e5 7.O-O Be7 8.e4 O-O 9.Bg5 a5 10.Rc1 exd4 11.Nxd4 Nc5 12.Nb3 Ne6 13.Be3",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/winning-losing.html",
-         "pubDate" : "Mon, 06 Jun 2022 13:35:00 +0000",
-         "title" : "Winning > Losing"
       }
    ]
 }
