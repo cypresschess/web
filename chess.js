@@ -2,11 +2,51 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1833",
+         "pubDate" : "Mon, 27 Jun 2022 22:51:39 +0000",
+         "title" : "Malta to host FIDE World Amateur Chess Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1832",
+         "pubDate" : "Mon, 27 Jun 2022 22:20:29 +0000",
+         "title" : "2022 Candidates, Round 9: Firouzja, Radjabov and Ding score first victories"
+      },
+      {
+         "description" : "FIDE Candidates Chess 2022 R9 recap by Milan Dinic Round 9 results:Alireza Firouzja &#x2013; Richard Rapport 1-0Teimour Radjabov &#x2013; Hikaru Nakamura 1-0Fabiano Caruana &#x2013; Ian Nepomniachtchi 1/2-1/2Ding Liren &#x2013; Jan-Krzysztof Duda 1-0 Ian Nepomniachtchi remains in the lead on 6.5/9, a full point ahead of Fabiano Caruana. A step behind, on 4.5, is Hikaru Nakamura []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/r9-of-the-fide-candidates-chess-2022-finishes-with-three-decisive-results/",
+         "pubDate" : "Mon, 27 Jun 2022 22:14:26 +0000",
+         "title" : "R9 of the FIDE Candidates Chess 2022 finishes with three decisive results"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-10-lichessorg\"><img s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-10-lichessorg",
+         "pubDate" : "Mon, 27 Jun 2022 20:30:51 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 10 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-9\"><img src=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-9",
+         "pubDate" : "Mon, 27 Jun 2022 20:30:51 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 9"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi still enjoys a full point lead in the 2022 Candidates Tournament with a 6.5/9 score after drawing his game with Black against second-place GM Fabiano Caruana. In a round filled with drama, the three other boards saw decisive ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-10",
-         "pubDate" : "Mon, 27 Jun 2022 12:22:44 -0700",
+         "pubDate" : "Mon, 27 Jun 2022 12:22:00 -0700",
          "title" : "How To Watch FIDE Candidates Tournament Round 10"
       },
       {
@@ -184,14 +224,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-8-nakamura-shocks-caruana",
          "pubDate" : "Mon, 27 Jun 2022 08:41:50 +0000",
          "title" : "Madrid Candidates 8: Nakamura shocks Caruana"
-      },
-      {
-         "description" : "After yesterday's tense day in Madrid, the top remains open and we might have more players re-entering the race for the World Championship match spot depending on how the ninth round plays out. Ian Nepomniachtchi is the sole leader with 6/8 points, with Fabiano Caruana and Hikaru Nakamura trailing him with 1 and 1.5-point (respectively). []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-r9-preview/",
-         "pubDate" : "Mon, 27 Jun 2022 08:28:11 +0000",
-         "title" : "FIDE Candidates Chess Tournament - R9 preview"
       },
       {
          "description" : "Hikaru Nakamura scored a crucial victory over Fabiano Caruana in round 8 of the Candidates Tournament. After getting a small edge in the middlegame, Naka slowly improved his position until getting a seemingly insurmountable advantage. Caruana tried to swindle his way to a draw, but was unable to escape in the end. Much earlier in the day, Richard Rapport had obtained a crashing victory over Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
@@ -392,22 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-in-jermuk",
          "pubDate" : "Sat, 25 Jun 2022 16:35:00 +0100",
          "title" : "Niemann, Martirosyan and Tabatabaei top seeds at Jermuk youth event"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-6\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-6",
-         "pubDate" : "Sat, 25 Jun 2022 14:28:22 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-8-lichessorg\"><img sr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8-lichessorg",
-         "pubDate" : "Sat, 25 Jun 2022 14:28:22 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 8 | lichess.org"
       },
       {
          "description" : "Ian Nepomniachtchi and Fabiano Caruana have done it again. For a second day in a row, the frontrunners to take the title scored full points in Madrid. Nepo still leads Caruana by a half point, while Hikaru Nakamura now stands 1&frac12; points behind Caruana in sole third place. It has become hugely unlikely for a player other than the tournament's two protagonists to bounce back and win the whole thing. | Photo: FIDE / Stev Bonhage",
