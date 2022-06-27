@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The PlusCity Rapid Open took place in the Austrian municipality of Pasching with a prize fund of 15,000 euros. Czech grandmaster Vojtech Plat won with a 7&frac12;/9 score. Plat had the same score as his grandmaster colleagues Anton Demchenko, Milos Jirovsky, Daniel Fridman and Andreas Heimann, but took home the first prize thanks to his tiebreak score. | Photos: Peter Kranzl",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pluscity-rapid-open-in-austria",
+         "pubDate" : "Mon, 27 Jun 2022 13:00:00 +0100",
+         "title" : "Vojtech Plat wins the PlusCity Rapid Open in Upper Austria"
+      },
+      {
+         "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at aged 21 and defending it multiple times until her untimely death. The European Chess Federation is staging a high-level ladies norm tournament that will end on the 78th anniversary of Menchik's death, when she was struck down by a German V1 rocket in Clapham. The event takes place in th MindSports Centre, Dalling Rd, London W6 0JD, from Saturday 18th to Sunday 26th June 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-caplin-menchik-memorial",
+         "pubDate" : "Mon, 27 Jun 2022 12:26:04 +0100",
+         "title" : "The Caplin Menchik Memorial"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Ra0UvQjM60c?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-2022-round-9/",
+         "pubDate" : "Mon, 27 Jun 2022 11:00:00 +0000",
+         "title" : "Watch The FIDE Candidates Tournament 2022: Round 9"
+      },
+      {
+         "description" : "In his unique style, Anish Giri analyzes the epic fights of the 2022 Candidates Tournament Round 8 games and shares useful opening tips and ideas. Grandmaster Anish Giri&#xA0;is covering the most epic games of the tournament&#xA0;in the special Chessable course, and publishes daily Candidates recaps on his YouTube Channel. Videos by Anish Giri:&#xA0;R6 Candidates recap&#xA0;/&#xA0;R5 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-recaps-epic-fights-of-the-fide-candidates-round-8/",
+         "pubDate" : "Mon, 27 Jun 2022 09:56:14 +0000",
+         "title" : "Anish Giri recaps epic fights of the FIDE Candidates Round 8"
+      },
+      {
+         "description" : "Hikaru Nakamura is back in the race for the top as he yesterday defeated Fabiano Caruana and scores 4.5/8 points. In the post-game interview with WGM Dina Belenkaya, Hikaru explained he was prepared for the game and that he spent two hours looking at the sharp lines on Saturday evening. Replay the game here Nakamura []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-will-stream-titled-tuesday-from-the-fide-candidates-tournament-2022/",
+         "pubDate" : "Mon, 27 Jun 2022 09:19:11 +0000",
+         "title" : "Nakamura will stream Titled Tuesday from the FIDE Candidates Tournament 2022"
+      },
+      {
+         "description" : "Hikaru Nakamura took revenge on Fabiano Caruana in an epic Round 8 FIDE Candidates Tournament game to move within just half a point of his US rival. That meant that Ian Nepomniachtchi's quick draw against Ding Liren extended his lead to a full point, but Fabi has a chance to catch Nepo in Round 9 if he can win their individual clash. Elsewhere Richard Rapport picked up a 1st win with a sudden attack against Jan-Krzysztof Duda, while Firouzja-Radjabov was drawn in 7 hours and 93 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-8-nakamura-shocks-caruana",
+         "pubDate" : "Mon, 27 Jun 2022 08:41:50 +0000",
+         "title" : "Madrid Candidates 8: Nakamura shocks Caruana"
+      },
+      {
+         "description" : "After yesterday's tense day in Madrid, the top remains open and we might have more players re-entering the race for the World Championship match spot depending on how the ninth round plays out. Ian Nepomniachtchi is the sole leader with 6/8 points, with Fabiano Caruana and Hikaru Nakamura trailing him with 1 and 1.5-point (respectively). []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-r9-preview/",
+         "pubDate" : "Mon, 27 Jun 2022 08:28:11 +0000",
+         "title" : "FIDE Candidates Chess Tournament - R9 preview"
+      },
+      {
          "description" : "Hikaru Nakamura scored a crucial victory over Fabiano Caruana in round 8 of the Candidates Tournament. After getting a small edge in the middlegame, Naka slowly improved his position until getting a seemingly insurmountable advantage. Caruana tried to swindle his way to a draw, but was unable to escape in the end. Much earlier in the day, Richard Rapport had obtained a crashing victory over Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,22 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/im-mohammad-nubairshah-shaikh-wins-silver-lake-open-2022/",
          "pubDate" : "Sun, 26 Jun 2022 12:10:08 +0000",
          "title" : "IM Mohammad Nubairshah Shaikh wins Silver Lake Open 2022"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Anna-Maja Kazarian, in collaboration with Worldchess.com. Round 8 pairings:&#xA0;Richard Rapport &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Ding Liren&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Fabiano Caruana&#xA0;/&#xA0;Alireza Firouzja &#x2013; Teimour Radjabov Recent from Candidates Chess 2022:&#xA0;Rapport on the R7 game vs Nepo: &#x201C;I should probably throw away []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r8-live-with-gm-daniil-yuffa-and-wim-anna-maja-kazarian/",
-         "pubDate" : "Sun, 26 Jun 2022 11:14:33 +0000",
-         "title" : "FIDE Candidates 2022 R8 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 8 pairings:&#xA0;Richard Rapport &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Ding Liren&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Fabiano Caruana&#xA0;/&#xA0;Alireza Firouzja &#x2013; Teimour Radjabov Recent from Candidates Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r8-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-gm-cristian-chirila/",
-         "pubDate" : "Sun, 26 Jun 2022 11:13:00 +0000",
-         "title" : "FIDE Candidates 2022 R8 live with GM Alejandro Ramirez, GM Yasser Seirawan and GM Cristian Chirila"
       },
       {
          "description" : " <p class=\"lead\">The professional streamer and chess superstar Hikaru Nakamura announced on Twitter that he is <a href=\"https://events.softgiving.com/donate/TeamHikaru4ReproductiveRights\">fundraising</a> for the abortion rights. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-06-26-at-11.26.31-AM.png\" width=\"2346\" height=\"1522\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> GM Hikaru Nakamura recently made an impressive and strong come-back to the classical and over-the-board chess. His great performance at the FIDE Grand Prix Series, his promotion to the Candidates 2022, and his funny interviews made him once more the talk",
@@ -487,10 +527,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION VARANASI"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION AYODHYA"
       },
       {
-         "description" : "Day 9 : PRAYAGRAJ At Allahabad Museum, Shri Nand Gopal Gupta Nandi, Cabinet Minister of Govt of Uttar Pradesh received the Torch from WGM Vantika",
+         "description" : "Day 9 : VARANASI Vice Chancellor of Mahatma Gandhi Kashi Vidyapith Dr Anand Kumar Tyagi received the Torch from GM Tejas Bakre and handed over",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1882,14 +1922,6 @@ news_feed (
          "title" : "Understanding before Moving 83: Basics of the Benko Gambit (2)"
       },
       {
-         "description" : "A number of remarkable endgames from the Norway Chess tournament have caught the eye of GM Karsten M&uuml;ller. In the four games included in this article, our in-house specialist shows examples of pawn races with rooks still on the board, the need to find precise roads in pawn endgames and how to keep a king from escaping a sequence of checks with rook and knight. | Photo: Lennart Ootes / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgames-from-stavanger-2",
-         "pubDate" : "Sun, 12 Jun 2022 14:00:00 +0100",
-         "title" : "More endgames from Stavanger"
-      },
-      {
          "description" : " I spent five years on the London weekend tournament circuit between 1972 and 1977 before deciding that running Richmond Junior Club was more enjoyable. One thing I noticed was that my last round games were often rather strange. Either my opponent or I, or sometimes both of us, had lost interest in the tournament, were <a href=\"https://chessimprover.com/the-last-round/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Last Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-last-round/\">The Last Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1912,14 +1944,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/",
          "pubDate" : "Sun, 12 Jun 2022 03:11:05 +0000",
          "title" : "FIDE Election tickets certified, African ticket out"
-      },
-      {
-         "description" : "Le Quang Liem and Pentala Harikrishna are sharing the lead with 3 points after 4 rounds at the Masters section of the Prague Chess Festival. The two co-leaders have three players standing a half point back going into the event's one rest day. Meanwhile, Vincent Keymer is the sole leader in the Challengers section, also with 3 out of 4. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-r4",
-         "pubDate" : "Sun, 12 Jun 2022 02:45:00 +0100",
-         "title" : "Prague: Le and Harikrishna share the lead in the Masters"
       },
       {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Hikaru Nakamura won week 18 of the Rapid Chess Championship, presented by Coinbase, edging out four other grandmasters by tiebreaks.&#38;nbsp;&#38;nbsp; ...",
@@ -1976,14 +2000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-coverage.html",
          "pubDate" : "Sat, 11 Jun 2022 02:51:00 +0000",
          "title" : "2022 NSW Open Coverage"
-      },
-      {
-         "description" : "Magnus Carlsen has now won half of the 10 editions of Norway Chess, and the last four in a row, after a nerve-wracking final day of the 2022 event. The World Champion was held to a draw by Veselin Topalov, so that Shakhriyar Mamedyarov would have won the title if he'd beaten his countryman Teimour Radjabov in classical chess. At one point that looked almost inevitable, but Teimour fought back to survive a bad position with no time on his clock. Vishy Anand took 3rd place ahead of Maxime Vachier-Lagrave in 4th.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-5th-norway-chess-title",
-         "pubDate" : "Fri, 10 Jun 2022 22:47:03 +0000",
-         "title" : "Magnus Carlsen wins 5th Norway Chess title"
       },
       {
          "description" : "",
