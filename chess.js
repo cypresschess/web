@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura scored a crucial victory over Fabiano Caruana in round 8 of the Candidates Tournament. After getting a small edge in the middlegame, Naka slowly improved his position until getting a seemingly insurmountable advantage. Caruana tried to swindle his way to a draw, but was unable to escape in the end. Much earlier in the day, Richard Rapport had obtained a crashing victory over Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r8",
+         "pubDate" : "Mon, 27 Jun 2022 01:25:00 +0100",
+         "title" : "Candidates R8: Naka beats Caruana, Rapport strikes back"
+      },
+      {
          "description" : "Today in Chess: FIDE Candidates 2022 Round 8 Recap A tense day in Madrid &#x2014; Hikaru Nakamura took down Fabiano Caruana in an epic battle, while the leader of the tournament, Nepomniachtchi secured his lead with a quick draw. Everything is still open, though, and we might even have more players re-entering the race for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-eduardo-iturrizaga-wins-nocturnal-blitz-candidates-tournament/",
          "pubDate" : "Sun, 26 Jun 2022 21:53:03 +0000",
          "title" : "GM Eduardo Iturrizaga wins Nocturnal Blitz Candidates Tournament"
+      },
+      {
+         "description" : " Ian Nepomniachtchi took a short draw against Ding Liren with the white pieces in Round 8 of the the FIDE Candidates tournament in Madrid, this turned out to be a very sensible decision as he ended up extending his lead to a full point after his close rival Fabiano Caruana fell back after losing to fellow countryman Hikaru Nakamura in a sharp open Ruy Lopez. Caruana has white against Nepomniachtchi in Round 9 but will be feeling depressed by his loss today and in addition it took many more hours to happen. If people wonder why players take quick draws in important events then this is why. If I'd been Caruana I wouldn't have gone to war today, not even in retrospect was this the key game, now",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-in-charge-after-round-8-of-the-candidates",
+         "pubDate" : "Mon, 27 Jun 2022 00:18:00 +0400",
+         "title" : "Nepomniachtchi in charge after Round 8 of the Candidates - 8"
       },
       {
          "description" : " <p class=\"lead\">Round 8 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nakamura and Rapport winning against Caruana and Duda respectively. Nepomniachtchi is now a full point ahead with 6/8. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-6.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52173120362_7676490721_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52174140436_385d615297_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/new",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-85-basics-of-the-benko-gambit-4",
          "pubDate" : "Sun, 26 Jun 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 85: Basics of the Benko Gambit (4)"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Sun, 26 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 8: Live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92474340.cms\" />Top seed Russian Grandmaster Savchenko Boris (8.5), with superior tie-break edged out International Master Nitin Senthilvel (India) to emerge as the Chennai Open 2022 champion after the tenth round in the 13th Chennai Open International Grandmaster chess tournament on Sunday.",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nakamura-fundraises-for-the-abortion-rights/",
          "pubDate" : "Sun, 26 Jun 2022 08:47:46 +0000",
          "title" : "Nakamura fundraises for the abortion rights"
-      },
-      {
-         "description" : "Ian Nepomniachtchi and Fabiano Caruana have done it again. For a second day in a row, the frontrunners to take the title scored full points in Madrid. Nepo still leads Caruana by a half point, while Hikaru Nakamura now stands 1&frac12; points behind Caruana in sole third place. It has become hugely unlikely for a player other than the tournament's two protagonists to bounce back and win the whole thing. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r7",
-         "pubDate" : "Sun, 26 Jun 2022 07:25:00 +0100",
-         "title" : "Candidates R7: Nepo and Caruana score, again"
       },
       {
          "description" : "Ian Nepomniachtchi ended the first half of the 2022 FIDE Candidates Tournament on a phenomenal +4 score after Richard Rapport rejected a draw and crashed to defeat in what Fabiano Caruana described as \"one of the most shocking games I've seen from a top player in a long time\". Fabi is still just half a point behind after winning a pawn early on and then navigating complications to beat Teimour Radjabov, while 3rd placed Hikaru Nakaura trails Fabi by 1.5 points before their Round 8 clash.",
@@ -288,6 +288,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8-lichessorg",
          "pubDate" : "Sat, 25 Jun 2022 14:28:22 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 8 | lichess.org"
+      },
+      {
+         "description" : "Ian Nepomniachtchi and Fabiano Caruana have done it again. For a second day in a row, the frontrunners to take the title scored full points in Madrid. Nepo still leads Caruana by a half point, while Hikaru Nakamura now stands 1&frac12; points behind Caruana in sole third place. It has become hugely unlikely for a player other than the tournament's two protagonists to bounce back and win the whole thing. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r7",
+         "pubDate" : "Sat, 25 Jun 2022 14:25:00 +0100",
+         "title" : "Candidates R7: Nepo and Caruana score, again"
       },
       {
          "description" : "",
