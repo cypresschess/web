@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thanks to a remarkable final-round victory, Amin Tabatabaei grabbed clear first place at the third edition of the Stepan Avagyan Memorial. The Iranian GM entered the final round sharing first place with Shant Sargsyan. The co-leaders had two players standing a half point back - namely Haik Martirosyan and Alexander Donchenko. The four players were paired up against each other. In the end, Martirosyan beat Sargsyan and Tabatabaei beat Donchenko. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tabatabaei-wins-avagyan-memorial-2022",
+         "pubDate" : "Tue, 28 Jun 2022 23:40:00 +0100",
+         "title" : "Amin Tabatabaei clinches title at the Stepan Avagyan Memorial"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1836",
+         "pubDate" : "Tue, 28 Jun 2022 21:03:13 +0000",
+         "title" : "WSCC 2022: Valentina Gunina cruises into quarterfinals"
+      },
+      {
+         "description" : "GM Valentina Gunina defeated IM Elisabeth Paehtz in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Tuesday. Gunina showed several strengths throughout the match: tactical sharpness, excellent time management...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-gunina-paehtz",
+         "pubDate" : "Tue, 28 Jun 2022 12:40:00 -0700",
+         "title" : "Gunina Overtakes Paehtz: 'When Valentina Is On Fire, She Is Just Merciless'"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1922,14 +1946,6 @@ news_feed (
          "title" : "Daniel Naroditsky is new NYT chess columnist"
       },
       {
-         "description" : "Mate ends the game and mating attacks also occur in the endgame. In the diagrammed position it is White to move. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-missed-chance",
-         "pubDate" : "Tue, 14 Jun 2022 09:00:00 +0100",
-         "title" : "A missed chance"
-      },
-      {
          "description" : " The FIDE Candidates Tournament takes place Thu 16th June to Tue 5th Jul 2022 in Madrid, Spain. This is an 8 player 14 round event. For the first time since the Candidates tournaments returned there will be rapid and tie-breaks among players tied for first. Tie-break coefficients were used in the past - although there were provisions for a tie-break match the conditions needed for them to happen meant they were all but impossible. Players: Ian Nepomniachtchi, Teimour Radjabov, Jan-Krzysztof Duda, Alireza Firouzja, Fabiano Caruana, Hikaru Nakamura, Richard Rapport, and Ding Liren. Sergey Karjakin is serving a 6 months ban for his enthusiastic support of the Russian invasion of Ukraine which w",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2040,14 +2056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hyderabad-lad-rahul-srivathsav-is-indias-74th-gm/articleshow/92152099.cms",
          "pubDate" : "Sat, 11 Jun 2022 17:39:00 +0000",
          "title" : "Hyderabad lad Rahul Srivathsav is India's 74th GM"
-      },
-      {
-         "description" : "&#34;If it&#39;s entertaining, it must be entertainment!&#34; said a couple of TV show hosts when I lived in England, and the same can be said about this year&#39;s edition of Norway Chess. The headline, of course, paraphrases the famous Gary Lineker (English f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-day-9",
-         "pubDate" : "Sat, 11 Jun 2022 09:56:00 -0700",
-         "title" : "10 Players Move Pieces; In The End, Magnus Always Wins Norway Chess"
       },
       {
          "description" : " As with most events, the first day of the 2022 NSW Open hasn't revealed too much. Most of the top seeds reached 2/2, not all the DGT boards were working, and a number of players still don't understand the reasoning behind the mobile phone rules* (or simply think they have a special exemption). So the highlight of the day was in the Minor, when two players left the board to go to the bathroom ( after playing their respective moves), and when they returned, found the board has been set up to start the game. Weirdly they were only 8 moves in, so it was possible to reconstruct the position quickly. *As for the reasoning behind the not having phones in the paying area, if we did allow spectators",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1802",
          "pubDate" : "Wed, 08 Jun 2022 08:44:56 +0000",
          "title" : "Pooja Lam wins Guyana Women's Championship"
-      },
-      {
-         "description" : " Togo is a country of some eight million with a growing chess-playing segment. With its Founder and President on hand to welcome the players and guests, the Togo Chess Federation also had Dr. Lieutenant-Colonel Lidi Bessi-Kama bless the event. FIDE Presidential candidate Noel Enyonam Fumey was also in the building and welcomed the participants to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/\">Togolese Chess on fire at Rapid/Blitz!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/",
-         "pubDate" : "Tue, 07 Jun 2022 19:37:27 +0000",
-         "title" : "Togolese Chess on fire at Rapid/Blitz!"
       }
    ]
 }
