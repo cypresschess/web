@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "19-year-old chess prodigy Alireza Firouzja scored his first Candidates victory yesterday after winning an exciting game against Richard Rapport. In the post-game interview, Alireza commented on three brilliant moves from the game joking with chess.com's Chief Chess Officer Daniel Rensch: &#8220;I hope I don't get banned again&#8220;. Rensch then explained Alireza got banned for cheating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-was-banned-for-cheating-on-chess-com-tweetoftheday/",
+         "pubDate" : "Tue, 28 Jun 2022 11:17:30 +0000",
+         "title" : "Alireza Firouzja was banned for cheating on Chess.com #TweetOftheDay"
+      },
+      {
+         "description" : "MPL 10th National School Open and Girls (U-07) Chess Championships-2022 Certificates are out to download. Download using the links given below : Open : https://aicf.online/National-School-U(7)-Open.html Girls",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-u-7-open-and-girls-chess-championship-certificates/",
+         "pubDate" : "Tue, 28 Jun 2022 10:47:23 +0000",
+         "title" : "National School U-7 Open and Girls Chess Championship Certificates"
+      },
+      {
+         "description" : "A 16-year-old youngster from Teheran IM&#xA0;Bardiya Daneshvar emerged as the winner of the 55th Iranian Men's Final Chess Championship and took his maiden national title. The event took place from 15-24 June in Sari, being played as a 14-player round-robin tournament with classical time control. The 55th edition of the Iranian Men's Final turned into []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-bardiya-daneshvar-is-the-new-champion-of-iran/",
+         "pubDate" : "Tue, 28 Jun 2022 10:43:59 +0000",
+         "title" : "IM Bardiya Daneshvar is the new Champion of Iran"
+      },
+      {
+         "description" : "FIDE has announced the World Amateur Championships 2022 to be held in Malta from October 20-30 in the 4-star conference hotel &#8220;Paradise Bay Resort&#8221;. It will be one more major international event hosted by Malta recently, after the successful European Small Nations Team Championship in December 2021.&#xA0;Read more: European Amateur Chess Championship 2022, Zagreb, Croatia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/malta-to-host-fide-world-amateur-chess-championships/",
+         "pubDate" : "Tue, 28 Jun 2022 10:36:26 +0000",
+         "title" : "Malta to host FIDE World Amateur Chess Championships 2022"
+      },
+      {
+         "description" : "The European Amateur Chess Championship 2022 will take place from 13th August (arrival day) to 21st August 2022 (departure day) in Hotel Aristos****, located in the city of Zagreb, Croatia. The event will be played in three rating categories: U2300, U2000 and U1700. A player must not have a published FIDE rating of 2300 or []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-amateur-chess-championship-2022/",
+         "pubDate" : "Tue, 28 Jun 2022 10:33:32 +0000",
+         "title" : "European Amateur Chess Championship 2022"
+      },
+      {
          "description" : "When one king takes away important squares from the enemy king it is called a \"bodycheck\". How did Black use the bodycheck to win in the diagrammed position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,22 +226,6 @@ news_feed (
          "title" : "FIDE Candidates 2022 R9 live with IM Sagar Shah and Amruta Mokal"
       },
       {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Anna-Maja Kazarian, in collaboration with Worldchess.com. Round 9 pairings: Firouzja &#x2013; Rapport&#xA0;/&#xA0;Radjabov &#x2013; Nakamura&#xA0;/&#xA0;Caruana &#x2013; Nepomniachtchi&#xA0;/&#xA0;Ding Liren &#x2013; Duda Recent from Candidates 2022:Anish Giri recaps epic fights of the FIDE Candidates Round 8&#xA0;/&#xA0;Nakamura will stream Titled Tuesday from the FIDE Candidates []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r9-live-with-gm-daniil-yuffa-and-wim-anna-maja-kazarian/",
-         "pubDate" : "Mon, 27 Jun 2022 11:46:28 +0000",
-         "title" : "FIDE Candidates 2022 R9 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 9 pairings:&#xA0;Firouzja &#x2013; Rapport / Radjabov &#x2013; Nakamura / Caruana &#x2013; Nepomniachtchi / Ding Liren &#x2013; Duda Recent from Candidates 2022: Anish []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r9-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
-         "pubDate" : "Mon, 27 Jun 2022 11:44:58 +0000",
-         "title" : "FIDE Candidates 2022 R9 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
-      },
-      {
          "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at aged 21 and defending it multiple times until her untimely death. The European Chess Federation is staging a high-level ladies norm tournament that will end on the 78th anniversary of Menchik's death, when she was struck down by a German V1 rocket in Clapham. The event takes place in th MindSports Centre, Dalling Rd, London W6 0JD, from Saturday 18th to Sunday 26th June 2022.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,22 +240,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-2022-round-9/",
          "pubDate" : "Mon, 27 Jun 2022 11:00:00 +0000",
          "title" : "Watch The FIDE Candidates Tournament 2022: Round 9"
-      },
-      {
-         "description" : "In his unique style, Anish Giri analyzes the epic fights of the 2022 Candidates Tournament Round 8 games and shares useful opening tips and ideas. Grandmaster Anish Giri&#xA0;is covering the most epic games of the tournament&#xA0;in the special Chessable course, and publishes daily Candidates recaps on his YouTube Channel. Videos by Anish Giri:&#xA0;R6 Candidates recap&#xA0;/&#xA0;R5 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-recaps-epic-fights-of-the-fide-candidates-round-8/",
-         "pubDate" : "Mon, 27 Jun 2022 09:56:14 +0000",
-         "title" : "Anish Giri recaps epic fights of the FIDE Candidates Round 8"
-      },
-      {
-         "description" : "Hikaru Nakamura is back in the race for the top as he yesterday defeated Fabiano Caruana and scores 4.5/8 points. In the post-game interview with WGM Dina Belenkaya, Hikaru explained he was prepared for the game and that he spent two hours looking at the sharp lines on Saturday evening. Replay the game here Nakamura []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-will-stream-titled-tuesday-from-the-fide-candidates-tournament-2022/",
-         "pubDate" : "Mon, 27 Jun 2022 09:19:11 +0000",
-         "title" : "Nakamura will stream Titled Tuesday from the FIDE Candidates Tournament 2022"
       },
       {
          "description" : "Hikaru Nakamura took revenge on Fabiano Caruana in an epic Round 8 FIDE Candidates Tournament game to move within just half a point of his US rival. That meant that Ian Nepomniachtchi's quick draw against Ding Liren extended his lead to a full point, but Fabi has a chance to catch Nepo in Round 9 if he can win their individual clash. Elsewhere Richard Rapport picked up a 1st win with a sudden attack against Jan-Krzysztof Duda, while Firouzja-Radjabov was drawn in 7 hours and 93 moves.",
@@ -639,10 +647,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION GORAKHPUR"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION JAIPUR"
       },
       {
-         "description" : "Day 10 : AYODHYA Hon'ble Cabinet Minister for Urban Development Government of Uttar Pradesh Shri Arvind Kumar Sharma received the torch from WGM Vantika Agrawal",
+         "description" : "Day 10 : GORAKHPUR Hon'ble Cabinet Minister for Agriculture Government of Uttar Pradesh Shri Surya Pratap Shahi received the torch from WGM Vantika Agrawal and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/girls-only-unrated-online-tournament/",
          "pubDate" : "Mon, 20 Jun 2022 08:32:55 +0000",
          "title" : "Girls Only unrated online tournament"
-      },
-      {
-         "description" : "Kindly find attached link for live games of 13th Chennai Open International Grandmaster Chess Tournament 2022 for Sakthi Group Dr. N Mahalingam Trophy going on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-of-13th-chennai-open-international-grandmaster-chess-tournament-2022-for-sakthi-group-dr-n-mahalingam-trophy-reg/",
-         "pubDate" : "Mon, 20 Jun 2022 07:05:50 +0000",
-         "title" : "live games of 13th Chennai Open International Grandmaster Chess Tournament 2022 for Sakthi Group Dr. N Mahalingam Trophy - reg."
       },
       {
          "description" : "Hikaru Nakamura was caught in deep preparation by Alireza Firouzja in Round 3 of the FIDE Candidates Tournament but escaped after setting a trap for his opponent. Alireza thought for over an hour afterwards on a single move, but it was too late. Ding Liren also missed his chance to hit back after his earlier loss when he found some brilliant moves but then missed a clear win against Richard Rapport. Jan-Krzysztof Duda comfortably equalised with Black against Fabiano Caruana, while Radjabov-Nepo was a quick and uneventful draw.",
@@ -2232,14 +2232,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/7/ep-282-2022-fide-candidates-preview-double-episode-with-gm-robert-hess-and-tai-pruce-zimmerman-of-the-chess-by-the-numbers-blog",
          "pubDate" : "Tue, 07 Jun 2022 13:09:50 +0000",
          "title" : "EP 282- 2022 FIDE Candidates Preview Double Episode with GM Robert Hess and Tai Pruce Zimmerman of the Chess by the Numbers Blog "
-      },
-      {
-         "description" : "The arbiter appointments for the Chennai Olympiad have been announced at&#160;https://arbiters.fide.com/news/7464. There is a relevant article at&#160;https://www.fide.com/news/1801. There are 22 senior roles and the arbiters...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/arbiter-appointments-for-the-chennai-olympiad/",
-         "pubDate" : "Tue, 07 Jun 2022 08:56:26 +0000",
-         "title" : "Arbiter appointments for the Chennai Olympiad"
       }
    ]
 }
