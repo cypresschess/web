@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted thousands of visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. ChessFest is a fun-filled outdoor event, entirely free, open to all. This year it will be staged in London and Liverpool, on Sunday the 17th of July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/announcing-chessfest-2022",
+         "pubDate" : "Tue, 28 Jun 2022 17:00:00 +0100",
+         "title" : "Announcing ChessFest 2022"
+      },
+      {
+         "description" : "The 1st Caplin Menchik Memorial&#160;took place from Saturday 18th to Sunday 26th June 2022 at the MindSports Centre, London, as a 10-player round-robin tournament. IM Joanna Dworakowska defeated WIM Lan Yao in the last round to emerge as the sole Winner of the event with 7/9 points. WIM Lan Yao (who has recently won Chessable []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-joanna-dworakowska-is-the-winner-of-1st-caplin-menchik-memorial/",
+         "pubDate" : "Tue, 28 Jun 2022 15:04:47 +0000",
+         "title" : "IM Joanna Dworakowska is the Winner of 1st Caplin Menchik Memorial"
+      },
+      {
+         "description" : "The 34th edition of the International Chess Tournament &#x201C;Open Pula 2022&#x201D;&#160;will took from 18-26 June at Park Plaza Histria Hotel in Pula, Croatia. More than 150 players from 25 countries participated in the event which was played in 9 rounds, swiss system, featuring the prize fund of 6.250 euros. As many as six players tied []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-nebojsa-nikcevic-wins-pula-chess-open-2022/",
+         "pubDate" : "Tue, 28 Jun 2022 14:44:30 +0000",
+         "title" : "GM Nebojsa Nikcevic wins Pula Chess Open 2022"
+      },
+      {
+         "description" : "Serbian Chess Federation organizes the International Open Chess Championship of Serbia, called &#x201C;Serbia OPEN 2022&#x201D; from June 28th &#x2013; July 6th. The event takes place in Novi Sad, Master Centre, with participation of 267 players in the Masters event (for players rated 2100+) and 133 players in the Amateurs event (for players rated U2200).Read more: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbia-chess-open-2022-live/",
+         "pubDate" : "Tue, 28 Jun 2022 14:25:30 +0000",
+         "title" : "Serbia Chess Open 2022 LIVE"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg\" data-image-dimensions=\"1287x701\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62bb0a4ac73bad3727036eff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg?format=1000w\" /> </figure> <p class=\"\"><br> <p class=\"\">IM Irina Bulmaga is a <a href=\"https://www.chessable.com/author/IrinaBu/\"><span>Chessable Author</span></a>, a writer, a 5 time chess Olimpian, and ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/28/ep-285-im-irina-bulmaga-on-her-new-chess-training-regimen-the-best-open-tournaments-in-europe-and-her-current-chess-goals",
+         "pubDate" : "Tue, 28 Jun 2022 14:06:26 +0000",
+         "title" : "EP 285- IM Irina Bulmaga on her New Chess Training Regimen, the best Open Tournaments in Europe, and her Current Chess Goals "
+      },
+      {
+         "description" : " I am running lots of schools events during the last few weeks of the school term in Canberra, and I am very fortunate to have a number of chess coaches and teachers helping me out on the day. As an arbiter my main role is dealing with illegal moves, and adding two minutes to the opponents clock (NB Kids are very good at spotting when their opponents king is in check, not so good in seeing if their own king is attacked). One event got off to a particularly spectacular start where each of the top 4 games had an illegal move played within the first 2 minutes. However there were some extra special rulings I had to make, above and beyond the usual. In one game a player had just a king versus the",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/06/more-adventures-in-school-arbiting.html",
+         "pubDate" : "Tue, 28 Jun 2022 13:11:00 +0000",
+         "title" : "More adventures in school arbiting"
+      },
+      {
+         "description" : "Pawn structures shape the position and determine the strategic plans of White and Black. Knowing typical pawn structures and typical plans helps you to play (and score!) better. The renowned Dutch author and trainer Herman Grooten is an expert on pawn structures and he has made a two-part ChessBase course on pawn structures. Today at 14.00 CEST (8.00 ET, 12.00 UTC) he goes on air together with Sagar Shah from ChessBase India to give a \"Masterclass on Pawn Structures\". | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-and-sagar-shah-masterclass-on-pawn-structures",
+         "pubDate" : "Tue, 28 Jun 2022 14:06:33 +0100",
+         "title" : "Herman Grooten and Sagar Shah: Masterclass on Pawn Structures"
+      },
+      {
+         "description" : "Throughout chess history, there have always been great players who we admire and look up to. But every now and then, we get to witness true chess legends&#38;mdash;those who push the game to new heights. And now, for the first time, anyone in the worl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-championship-legends",
+         "pubDate" : "Tue, 28 Jun 2022 06:00:00 -0700",
+         "title" : "Play Against Legends In The Chess.com Global Championship"
+      },
+      {
+         "description" : "Anish Giri today celebrates his 28th birthday anniversary presenting us another marvelous recap of the FIDE Candidates Chess Tournament 2022. Giri analyzed the exciting R9 games focusing on the crucial game between the leaders Fabiano Caruana and Ian Nepomniachtchi. Videos by Anish Giri:&#160;R8 Candidates recap / R6 Candidates recap&#160;/&#160;R5 Candidates recap&#160;/&#160;R4 Candidates recap&#160;/&#160;R3 Candidates recap&#160;/&#160;R2 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giris-birthday-r9-recap-of-the-fide-candidates-chess-2022/",
+         "pubDate" : "Tue, 28 Jun 2022 11:59:13 +0000",
+         "title" : "Anish Giri's birthday R9 recap of the FIDE Candidates Chess 2022"
+      },
+      {
          "description" : "19-year-old chess prodigy Alireza Firouzja scored his first Candidates victory yesterday after winning an exciting game against Richard Rapport. In the post-game interview, Alireza commented on three brilliant moves from the game joking with chess.com's Chief Chess Officer Daniel Rensch: &#8220;I hope I don't get banned again&#8220;. Rensch then explained Alireza got banned for cheating []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -194,36 +266,12 @@ news_feed (
          "title" : "Bad luck or bad prep?"
       },
       {
-         "description" : "After a heartbreaking loss against Ian Nepomniachtchi in the 7th round of the FIDE Candidates Chess Tournament 2022, Richard Rapport decided to focus on his outfit rather than on the game preparation. The audience loved the jacket he wore yesterday and Richie disclosed it was a choice of his wife WGM Jovana Rapport: &#8220;I would []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-chooses-to-focus-on-outfits-rather-than-on-openings-preparation/",
-         "pubDate" : "Mon, 27 Jun 2022 13:19:23 +0000",
-         "title" : "Richard Rapport chooses to focus on outfits rather than on openings preparation"
-      },
-      {
-         "description" : "Fabiano Caruana suffered a tough loss yesterday against Hikaru Nakamura. He was fighting to survive a completely lost position and it seemed that he had chances to escape. Nakamura was satisfied to get the revenge from the Round 1 loss against Fabi, and disclosed he was preparing the line for more than two hours. (Interview []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-nakamura-gave-me-hope-which-was-torture-in-the-end/",
-         "pubDate" : "Mon, 27 Jun 2022 12:36:58 +0000",
-         "title" : "Fabiano Caruana: Nakamura gave me hope, which was torture in the end"
-      },
-      {
          "description" : "The PlusCity Rapid Open took place in the Austrian municipality of Pasching with a prize fund of 15,000 euros. Czech grandmaster Vojtech Plat won with a 7&frac12;/9 score. Plat had the same score as his grandmaster colleagues Anton Demchenko, Milos Jirovsky, Daniel Fridman and Andreas Heimann, but took home the first prize thanks to his tiebreak score. | Photos: Peter Kranzl",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/pluscity-rapid-open-in-austria",
          "pubDate" : "Mon, 27 Jun 2022 13:00:00 +0100",
          "title" : "Vojtech Plat wins the PlusCity Rapid Open in Upper Austria"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 9 pairings:&#xA0;Firouzja &#x2013; Rapport&#xA0;/&#xA0;Radjabov &#x2013; Nakamura&#xA0;/&#xA0;Caruana &#x2013; Nepomniachtchi&#xA0;/&#xA0;Ding Liren &#x2013; Duda Recent from Candidates 2022: Anish Giri recaps epic fights of the FIDE Candidates Round 8&#xA0;/&#xA0;Nakamura will stream Titled Tuesday from the FIDE Candidates Tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r9-live-with-im-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Mon, 27 Jun 2022 11:48:50 +0000",
-         "title" : "FIDE Candidates 2022 R9 live with IM Sagar Shah and Amruta Mokal"
       },
       {
          "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at aged 21 and defending it multiple times until her untimely death. The European Chess Federation is staging a high-level ladies norm tournament that will end on the 78th anniversary of Menchik's death, when she was struck down by a German V1 rocket in Clapham. The event takes place in th MindSports Centre, Dalling Rd, London W6 0JD, from Saturday 18th to Sunday 26th June 2022.",
@@ -1874,28 +1922,12 @@ news_feed (
          "title" : "A missed chance"
       },
       {
-         "description" : "Fritztrainer video courses now run everywhere! They run in a stand-alone app for Windows and Mac; they run in the ChessBase programme; and now, brand new, they are streamable in the ChessBase video portal - for tablets, iPads and smartphones! In fact, regardless of whether you order the download or the DVD: you can watch the Fritztrainer as a stream in the video portal!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-fritztrainer-streaming-for-tablets-ipads-smartphones",
-         "pubDate" : "Tue, 14 Jun 2022 07:04:46 +0100",
-         "title" : "New: Fritztrainer streaming for tablets, iPads & smartphones"
-      },
-      {
          "description" : " The FIDE Candidates Tournament takes place Thu 16th June to Tue 5th Jul 2022 in Madrid, Spain. This is an 8 player 14 round event. For the first time since the Candidates tournaments returned there will be rapid and tie-breaks among players tied for first. Tie-break coefficients were used in the past - although there were provisions for a tie-break match the conditions needed for them to happen meant they were all but impossible. Players: Ian Nepomniachtchi, Teimour Radjabov, Jan-Krzysztof Duda, Alireza Firouzja, Fabiano Caruana, Hikaru Nakamura, Richard Rapport, and Ding Liren. Sergey Karjakin is serving a 6 months ban for his enthusiastic support of the Russian invasion of Ukraine which w",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
          "pubDate" : "Tue, 14 Jun 2022 10:00:00 +0400",
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "All five games finished drawn in round 5 of the Masters section at the Prague Chess Festival, which left Le Quang Liem and Pentala Harikrishna sharing the lead on 3&frac12; points. Meanwhile, in the Challengers, Vincent Keymer kept the sole lead after beating Peter Michalik with the black pieces. Nodirbek Abdusattorov (pictured) also won and is now in sole second place, a half point back. | Photo: Vladim&iacute;r Jagr",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-r5",
-         "pubDate" : "Tue, 14 Jun 2022 07:00:00 +0100",
-         "title" : "Prague: Keymer leads Challengers, Abdusattorov close behind"
       },
       {
          "description" : "IM Vaishali R defeated the reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, in the first round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Vaishali led through the blitz games but had to fight ...",
@@ -2074,14 +2106,6 @@ news_feed (
          "title" : "Norway Chess: Games and standings"
       },
       {
-         "description" : "With more plot twists than a whole season&#39;s worth of &#34;Game of Thrones,&#34; the eighth round of Norway Chess delivered more surprises, shocks, and horrors than anyone could have counted on setting up an exciting last round of the tournament.&#38;nbsp; T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-norway-chess-day-8",
-         "pubDate" : "Fri, 10 Jun 2022 07:49:00 -0700",
-         "title" : "The Red Wedding Of Norway Chess"
-      },
-      {
          "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of 8 of the 10 players were as they would have been with a conventional tournament without the use of the special scoring and Armageddon games only the bottom two players switched places. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2200,38 +2224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/girls-national-schools-championships-semi-finals/",
          "pubDate" : "Tue, 07 Jun 2022 15:59:41 +0000",
          "title" : "Girls National Schools Championships - semi-finals"
-      },
-      {
-         "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World History repeats itself with new actors if its lessons are not learned. Lately we have been going over the Greek gift sacrifice with the purpose to know <a href=\"https://chessimprover.com/self-inflicted-wounds-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-3/\">Self Inflicted Wounds (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/self-inflicted-wounds-3/",
-         "pubDate" : "Tue, 07 Jun 2022 14:16:47 +0000",
-         "title" : "Self Inflicted Wounds (3)"
-      },
-      {
-         "description" : "What is he up to these days? He is difficult to reach - his almost daily appearance on international news report, meetings with influential figures, his copious writing in the media, those are the explanation. We share with you his latest newsletter, which links to the different activities, mainly connected with the war on Ukraine. And describing developments that can lead to President Putin's fall. In addition: you may want to visit his Kasparov Chess platform, where you can learn, play, watch and read about chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-on-the-13th",
-         "pubDate" : "Tue, 07 Jun 2022 14:57:04 +0100",
-         "title" : "Garry Kasparov on the 13th"
-      },
-      {
-         "description" : " I witnessed a very nice tactical idea at the Gungahlin Chess Club this evening. However it did look familiar, so I decided to find out where it had been played before. The problem was that I could remember the position, but not the moves, and for some crazy reason, thought it had started as an Exchange French (it had not). Luckily my copy of Chessbase had the game, which was played David Janowski and Emil Schallop in 1896. 126 years later Masaki Horikawa was able to find the same winning idea. <br /> <b>Horikawa, Masaki - Yu, Leiming [D21]</b><br />Belconnen Open 7.6.2022 <script>new PgnViewer( { boardName: \"game1332\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 dxc4 3.Nf3 c5 4.e3 cxd4 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/nice-tactic-rediscovered.html",
-         "pubDate" : "Tue, 07 Jun 2022 13:42:00 +0000",
-         "title" : "Nice tactic - rediscovered"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/970834d9-79dc-49d9-9069-8bebddb9d462/Hess2.jpg\" data-image-dimensions=\"1737x887\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"629f4cec9ee37248c90d84be\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/970834d9-79dc-49d9-9069-8bebddb9d462/Hess2.jpg?format=1000w\" /> </figure> <p class=\"\">The wait is almost over! With the<a href=\"https://en.wikipedia.org/wiki/Candidates_Tournament_2022\"> <span>2022 FIDE Candidates Tournament</span></a> beginning June 17, we present",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/7/ep-282-2022-fide-candidates-preview-double-episode-with-gm-robert-hess-and-tai-pruce-zimmerman-of-the-chess-by-the-numbers-blog",
-         "pubDate" : "Tue, 07 Jun 2022 13:09:50 +0000",
-         "title" : "EP 282- 2022 FIDE Candidates Preview Double Episode with GM Robert Hess and Tai Pruce Zimmerman of the Chess by the Numbers Blog "
       }
    ]
 }
