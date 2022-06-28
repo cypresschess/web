@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1834",
+         "pubDate" : "Tue, 28 Jun 2022 17:25:46 +0000",
+         "title" : "Romania to stage FIDE World Youth Chess Championships U14, U16 and U18"
+      },
+      {
+         "description" : " &#8220;Captured pieces can be dropped back on the board instead of moving a piece&#8221; Lichess Last week I presented an incredible queen sacrifice that would have been possible in one of our club games of Crazyhouse. You can review it HERE. This week I want to present Black's winning combination. It was a true &#8220;throw <a href=\"https://chessimprover.com/crazyhouse-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Crazyhouse (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/crazyhouse-2/\">Crazyhouse (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/crazyhouse-2/",
+         "pubDate" : "Tue, 28 Jun 2022 17:16:24 +0000",
+         "title" : "Crazyhouse (2)"
+      },
+      {
+         "description" : "The&#xA0;3rd Stepan Avagyan Memorial&#xA0;took place June 20-28, 2022 in Jermuk, Armenia. The event was played as a 10-player round-robin tournament with an interesting mixture of young stars and local talents.Read more: International Chess Events in Armenia / GM Cemil Can Ali Marandi is the Winner of Teplice Open 2022 Iranian grandmaster Amin Tabatabaei won the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/amin-tabatabaei-is-the-winner-of-stepan-avagyan-chess-memorial-2022/",
+         "pubDate" : "Tue, 28 Jun 2022 16:38:21 +0000",
+         "title" : "Amin Tabatabaei is the Winner of Stepan Avagyan Chess Memorial"
+      },
+      {
          "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted thousands of visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. ChessFest is a fun-filled outdoor event, entirely free, open to all. This year it will be staged in London and Liverpool, on Sunday the 17th of July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,14 +178,6 @@ news_feed (
          "title" : "2022 Candidates, Round 9: Firouzja, Radjabov and Ding score first victories"
       },
       {
-         "description" : "FIDE Candidates Chess 2022 R9 recap by Milan Dinic Round 9 results:Alireza Firouzja &#x2013; Richard Rapport 1-0Teimour Radjabov &#x2013; Hikaru Nakamura 1-0Fabiano Caruana &#x2013; Ian Nepomniachtchi 1/2-1/2Ding Liren &#x2013; Jan-Krzysztof Duda 1-0 Ian Nepomniachtchi remains in the lead on 6.5/9, a full point ahead of Fabiano Caruana. A step behind, on 4.5, is Hikaru Nakamura []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/r9-of-the-fide-candidates-chess-2022-finishes-with-three-decisive-results/",
-         "pubDate" : "Mon, 27 Jun 2022 22:14:26 +0000",
-         "title" : "R9 of the FIDE Candidates Chess 2022 finishes with three decisive results"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-10-lichessorg\"><img s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8",
          "pubDate" : "Mon, 27 Jun 2022 14:30:37 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 8"
-      },
-      {
-         "description" : "The 15th edition of the International Chess Tournament Teplice Open 2022 took place from 18-26 June at the Teplice House of Culture. More than 200 players from 35 countries participated in the tournament which featured a total prize fund of 185.000 CZK (~7.500 EUR). After 9 played rounds, GM Cemil Can Ali Marandi from Turkey []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-cemil-can-ali-marandi-is-the-winner-of-teplice-open-2022/",
-         "pubDate" : "Mon, 27 Jun 2022 14:13:27 +0000",
-         "title" : "GM Cemil Can Ali Marandi is the Winner of Teplice Open 2022"
       },
       {
          "description" : "ATHENS OF THE EAST 2nd INTERNATIONAL GRAND MASTER OPEN CHESS TOURNAMENT 2022 (Category-A) Live link Link : https://view.livechesscloud.com/#d73b3087-1bbd-4129-8f85-d3b373e9c90e",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/07/togolese-chess-on-fire-at-rapid-blitz/",
          "pubDate" : "Tue, 07 Jun 2022 19:37:27 +0000",
          "title" : "Togolese Chess on fire at Rapid/Blitz!"
-      },
-      {
-         "description" : "Entries have re-opened for the ECF Girls' National Schools semi-finals on October 9th in the South and November 20th in the North. Entries may be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/girls-national-schools-championships-semi-finals/",
-         "pubDate" : "Tue, 07 Jun 2022 15:59:41 +0000",
-         "title" : "Girls National Schools Championships - semi-finals"
       }
    ]
 }
