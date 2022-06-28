@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When one king takes away important squares from the enemy king it is called a \"bodycheck\". How did Black use the bodycheck to win in the diagrammed position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-bodycheck-2",
+         "pubDate" : "Tue, 28 Jun 2022 09:00:00 +0100",
+         "title" : "The bodycheck"
+      },
+      {
+         "description" : "Ian Nepomniachtchi took another huge step towards winning a second Candidates Tournament in a row after he dug deep to hold on after getting surprised by Fabiano Caruana in the opening. He still leads by a full point with just 5 rounds to go, while Hikaru Nakamura and Richard Rapport were stopped in their tracks by losing to Teimour Radjabov and Alireza Firouzja. Ding Liren also grabbed his 1st win, against Jan-Krzysztof Duda.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-9-nepo-escapes-as-ding-radjabov-firouzja-grab-1st-wins",
+         "pubDate" : "Tue, 28 Jun 2022 07:16:50 +0000",
+         "title" : "Madrid Candidates 9: Nepo escapes as Ding, Radjabov & Firouzja grab 1st wins"
+      },
+      {
+         "description" : "Round 9 of the Candidates Tournament saw three players scoring their first wins of the event. The one drawn encounter was the showdown between Fabiano Caruana and Ian Nepomniachtchi, in which Caruana tried an offbeat line against his opponent's Petroff but could not make the most of the small advantage he got in the middlegame. The winners of the day were Ding Liren, Alireza Firouzja and Teimour Radjabov. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r9",
+         "pubDate" : "Tue, 28 Jun 2022 05:10:00 +0100",
+         "title" : "Candidates R9: Maiden wins"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -55,7 +79,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/3-decisive-game-on-round-9-of-the-candidates-2022-nepo-leads-wit/",
          "pubDate" : "Mon, 27 Jun 2022 18:49:25 +0000",
-         "title" : "3 decisive games on Round 9 of the Candidates 2022."
+         "title" : "3 Decisive Games In Round 9 of the Candidates 2022."
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Jeffery Xiong joins the show during Round 9 to analyze and talk about his upcoming events. 2022.06.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jeffery-xiong-fabiano-has-great-prep-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/T4FyW6QuK54.jpg?itok=riAQuGBL\" alt=\"\" /></a></div>",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-athens-of-the-east-2nd-international-grand-master-open-chess-tournament-2022-category-a/",
          "pubDate" : "Mon, 27 Jun 2022 13:58:25 +0000",
          "title" : "Live link for ATHENS OF THE EAST 2nd INTERNATIONAL GRAND MASTER OPEN CHESS TOURNAMENT 2022 (Category-A)"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Mon, 27 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 9: Live"
       },
       {
          "description" : " Round 7 of the 2022 Candidates Tournament saw a strange game between Rapport and Nepomnichtchi. Nepo played a line in the Petroff where Black sacrifices a rook, but draws by perpetual check soon afterwards. However Rapport rejected the first repetition, although this simply forced Nepo to aim for another repetition a few moves later. However, when Rapport avoided the second repetition, he ended up losing his queen for insufficient compensation, with a loss to show for his trouble. After the game Rapport suggested it was the result of poor preparation, although this move he played was already known to be bad. But not only did this game effect Nepo's standings, it also had an effect on Caruan",
@@ -623,10 +639,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION AYODHYA"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION GORAKHPUR"
       },
       {
-         "description" : "Day 9 : VARANASI Vice Chancellor of Mahatma Gandhi Kashi Vidyapith Dr Anand Kumar Tyagi received the Torch from GM Tejas Bakre and handed over",
+         "description" : "Day 10 : AYODHYA Hon'ble Cabinet Minister for Urban Development Government of Uttar Pradesh Shri Arvind Kumar Sharma received the torch from WGM Vantika Agrawal",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-vaishali-assaubayeva",
          "pubDate" : "Mon, 13 Jun 2022 15:06:52 -0700",
          "title" : "Vaishali Breaks Assaubayeva's Stunning Streak To Seal Victory in Epic Final Game"
-      },
-      {
-         "description" : "Vishy Anand played some fantastic chess in the Norway Chess 2022. He finished 3rd in a very strong field, defeating Magnus twice in the event - once in blitz and other at the Armageddon. He very nearly got the better of World Champion in classical as well. In this article, we talk with Vishy about his overall performance, his games in the event, his resignation against Shakh, and a lot more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anand-fantastic-performance-norway-chess",
-         "pubDate" : "Mon, 13 Jun 2022 21:00:00 +0100",
-         "title" : "Anand's fantastic performance in Norway Chess!"
       },
       {
          "description" : "",
