@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Wed, 29 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 10: Live"
+      },
+      {
+         "description" : "Hikaru Nakamura predicted the outcome of the FIDE Candidates Chess Tournament 2022 way before it started in Madrid. The chess statisticians and top grandmasters saw Alireza Firouzja and Ding Liren as the main favorites to win the event, and a chess legend Garry Kasparov added Jan-Krzysztof Duda on the list of the favorites. Nakamura disagreed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-predicted-the-outcome-of-the-fide-candidates-way-before-it-started/",
+         "pubDate" : "Wed, 29 Jun 2022 13:19:18 +0000",
+         "title" : "Nakamura predicted the outcome of the FIDE Candidates way before it started"
+      },
+      {
+         "description" : "The IX IBCA World Team Chess Championship for the Blind and Visually Impaired takes place in Ohrid, North Macedonia, from June 27 to July 08, 2022. The competition follows the &#x201C;trademark&#x201D; IBCA format that combines round robin and double knockout, similar to some high-level football tournaments. According to the results of the 2021 IBCA Olympiad, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ix-ibca-world-team-chess-championship-commenced-in-north-macedonia/",
+         "pubDate" : "Wed, 29 Jun 2022 12:08:17 +0000",
+         "title" : "IX IBCA World Team Chess Championship commenced in North Macedonia"
+      },
+      {
          "description" : "When young players ask me, what chess skill should he or she improve to be able to enter the tough arena of professional chess, I usually have a simple answer. My short advice is: \"You should learn how to defend. Especially, you should master the art of positional defence.\" | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "WSTCC 2022 - updated 29/6/22!"
       },
       {
-         "description" : " IM Nestor VelezMay 5th, 1956 June 28, 2022 It is with regret that The Chess Drum announces the passing of Cuban International Master Nestor Velez Betancourt. According to social media sources, he passes away this afternoon. Correspondence International Master MI Jos&eacute; Guillermo De La Rosa Sol&oacute;rzano sent the following message to The Chess Drum: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/\">IM Nestor Velez passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " IM Nestor Tomas Velez BetancourtMay 5th, 1956 June 28, 2022 It is with regret that The Chess Drum announces the passing of Cuban International Master Nestor Velez. According to social media sources, he passes away this afternoon. Correspondence International Master MI Jos&eacute; Guillermo De La Rosa Sol&oacute;rzano sent the following message to The Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/\">IM Nestor Velez passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/",
@@ -146,28 +170,12 @@ news_feed (
          "title" : "Crazyhouse (2)"
       },
       {
-         "description" : "The&#xA0;3rd Stepan Avagyan Memorial&#xA0;took place June 20-28, 2022 in Jermuk, Armenia. The event was played as a 10-player round-robin tournament with an interesting mixture of young stars and local talents.Read more: International Chess Events in Armenia / GM Cemil Can Ali Marandi is the Winner of Teplice Open 2022 Iranian grandmaster Amin Tabatabaei won the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/amin-tabatabaei-is-the-winner-of-stepan-avagyan-chess-memorial-2022/",
-         "pubDate" : "Tue, 28 Jun 2022 16:38:21 +0000",
-         "title" : "Amin Tabatabaei is the Winner of Stepan Avagyan Chess Memorial"
-      },
-      {
          "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted thousands of visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. ChessFest is a fun-filled outdoor event, entirely free, open to all. This year it will be staged in London and Liverpool, on Sunday the 17th of July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/announcing-chessfest-2022",
          "pubDate" : "Tue, 28 Jun 2022 17:00:00 +0100",
          "title" : "Announcing ChessFest 2022"
-      },
-      {
-         "description" : "The 1st Caplin Menchik Memorial&#160;took place from Saturday 18th to Sunday 26th June 2022 at the MindSports Centre, London, as a 10-player round-robin tournament. IM Joanna Dworakowska defeated WIM Lan Yao in the last round to emerge as the sole Winner of the event with 7/9 points. WIM Lan Yao (who has recently won Chessable []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-joanna-dworakowska-is-the-winner-of-1st-caplin-menchik-memorial/",
-         "pubDate" : "Tue, 28 Jun 2022 15:04:47 +0000",
-         "title" : "IM Joanna Dworakowska is the Winner of 1st Caplin Menchik Memorial"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg\" data-image-dimensions=\"1287x701\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62bb0a4ac73bad3727036eff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg?format=1000w\" /> </figure> <p class=\"\"><br> <p class=\"\">IM Irina Bulmaga is a <a href=\"https://www.chessable.com/author/IrinaBu/\"><span>Chessable Author</span></a>, a writer, a 5 time chess Olimpian, and ",
@@ -266,12 +274,12 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 9"
       },
       {
-         "description" : "GM Ian Nepomniachtchi still enjoys a full point lead in the 2022 Candidates Tournament with a 6.5/9 score after drawing his game with Black against second-place GM Fabiano Caruana. In a round filled with drama, the three other boards saw decisive ...",
+         "description" : "GM Ian Nepomniachtchi still enjoys a full point lead in the 2022 Candidates Tournament with a 6.5/9 score after drawing his game as Black against second-place GM Fabiano Caruana before the rest day. Round 10 is underway! How to watch the 2022 Ca...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-10",
          "pubDate" : "Mon, 27 Jun 2022 12:22:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 10"
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 10"
       },
       {
          "description" : " <p class=\"lead\">Round 9 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games and Nepomniachtchi resting assured at the top with a 1-point lead after his draw against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-7.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162341452_bc1ba9f2c6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52175984322_fe3450ec2f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
@@ -1890,14 +1898,6 @@ news_feed (
          "title" : "Ukrainian Bernadskiy Scores Big Upset Following Xiong Win"
       },
       {
-         "description" : "In 2019, the Prague Chess Festival took place for the first time and currently, the 4th Prague Chess Festival is played - with two interesting grandmaster tournaments, the Masters and the Challengers, an Open, the Futures, a tournament for young players, and a number of side events. In an interview, Petr Boleslav, organiser and tournament director of the Prague Chess Festival, talks about the background of the tournament and reveals why he decided to become a chess organiser. | Photo: Petr Boleslav at the opening of the Chess Festival | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/i-like-chess-and-all-the-things-connected-to-it-an-interview-with-petr-boleslav",
-         "pubDate" : "Wed, 15 Jun 2022 14:13:53 +0100",
-         "title" : "\"I like chess and all the things connected to it\": An interview with Petr Boleslav"
-      },
-      {
          "description" : "Magnus Carlsen seconds Jan Gustafsson, Laurent Fressinet and Peter Heine Nielsen made their FIDE Candidates Tournament predictions in a one-and-a-half-hour podcast earlier this week. They assessed Ding Liren, Fabiano Caruana, Alireza Firouzja and co. on current form, motivation, chances to win and openings, and also looked at the big questions: which winner would Magnus agree to play in a match, and who's the biggest chicken?",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2176,38 +2176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessfest-2022/",
          "pubDate" : "Wed, 08 Jun 2022 15:52:36 +0000",
          "title" : "ChessFest 2022"
-      },
-      {
-         "description" : "Direct Members are invited to apply to be Direct Members' Representatives. The term of office of current holders expires on 31 July 2022 but current...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-representative-elections/",
-         "pubDate" : "Wed, 08 Jun 2022 14:35:14 +0000",
-         "title" : "Direct Members' Representative elections 2022"
-      },
-      {
-         "description" : " In the latest episode of the Master Chess Web Show, Andrew Martin and I suggested that a good approach to playing Black was to adopt solid openings where Black adopts a small centre. White can claim to have a slight space advantage, but it is very hard to use; meanwhile Black can have excellent counterattacking <a href=\"https://chessimprover.com/master-chess-web-show-17/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (17)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-17/\">Master Chess Web Show (17)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-17/",
-         "pubDate" : "Wed, 08 Jun 2022 12:45:05 +0000",
-         "title" : "Master Chess Web Show (17)"
-      },
-      {
-         "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at the age of 21...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/caplin-menchik-memorial/",
-         "pubDate" : "Wed, 08 Jun 2022 12:37:26 +0000",
-         "title" : "Caplin Menchik Memorial"
-      },
-      {
-         "description" : " The Prague International Chess Festival takes place 8th to 17th June 2022. The Masters is a Category 18 tournament with Vidit, Shankland, Maghsoodloo, Le Quang Liem, Vallejo, Harikrishna, David Anton, Navara, Salem Saleh and Nguyen Thai Dai Van. Vincent Keymer is the top seed in the Challengers tournament, there are also various other tournaments including a Futures and an Open.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/prague-international-chess-festival-2022",
-         "pubDate" : "Wed, 8 Jun 2022 16:06:00 +0400",
-         "title" : "Prague International Chess Festival 2022 - Games and Results"
       }
    ]
 }
