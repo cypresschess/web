@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When young players ask me, what chess skill should he or she improve to be able to enter the tough arena of professional chess, I usually have a simple answer. My short advice is: \"You should learn how to defend. Especially, you should master the art of positional defence.\" | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-11-the-most-important-skill-of-a-chess-professional",
+         "pubDate" : "Wed, 29 Jun 2022 12:54:14 +0100",
+         "title" : "The Winning Academy 11: The Most Important Skill of a Chess Professional"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/aOMhC4kY5UY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-10/",
+         "pubDate" : "Wed, 29 Jun 2022 11:00:00 +0000",
+         "title" : "Watch the FIDE Candidates Tournament 2022: Round 10"
+      },
+      {
+         "description" : "The FIDE Council approved a new set of&#xA0;regulations for the Women&#x2019;s Candidates Tournament, adopting a knock-out system with 8 players to be played between 2022 and 2023. The event will be played in a knock-out system with 4-game matches (plus a possible tie-break) with the finals being played over the distance of 6 games. See []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-not-happy-with-the-new-system-of-the-womens-candidates-chess-tournament/",
+         "pubDate" : "Wed, 29 Jun 2022 10:38:09 +0000",
+         "title" : "Alexandra Kosteniuk not happy with the new system of the Women's Candidates Chess Tournament"
+      },
+      {
+         "description" : "For well over 20 years, ChessBase has provided video courses on just about every chess topic under the sun, but they were also only available to Windows users. Now that is not only no longer true, but you can watch them on just about any system with a modern browser, from Macintosh to Linux... to smartphones even! Here is a guide on how, as well as some special tips!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-video-courses-on-your-phone",
+         "pubDate" : "Wed, 29 Jun 2022 11:00:00 +0100",
+         "title" : "ChessBase video courses on your phone"
+      },
+      {
+         "description" : "The FIDE Council has approved a new set of&#160;regulations for the Women's Candidates Tournament, adopting a knock-out system with 8 players to be played between 2022 and 2023. The first two stages of this knock-out will be played as 4-game matches (plus a possible tie-break), with the final being played over the distance of 6 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-chess-tournament-2022-23-the-new-system-pools-participants-list/",
+         "pubDate" : "Wed, 29 Jun 2022 09:51:53 +0000",
+         "title" : "Women's Candidates Chess Tournament 2022/23 - The new system, Pools & Participants list"
+      },
+      {
+         "description" : "FIDE has announced the World Amateur Championships 2022 to be held in Malta from October 20-30 in the 4-star conference hotel \"Paradise Bay Resort\". It will be one more major international event hosted by Malta recently, after the successful European Small Nations Team Championship in December 2021.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/malta-to-host-fide-world-amateur-chess-championships",
+         "pubDate" : "Wed, 29 Jun 2022 10:48:19 +0100",
+         "title" : "Malta to host FIDE World Amateur Chess Championships"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition.&#xA0;Round 10 pairings:&#xA0;Richard Rapport &#x2013; Ding Liren&#xA0;/&#xA0;Jan-Krzysztof Duda &#x2013; Fabiano Caruana&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Teimour Radjabov&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Alireza Firouzja Latest from the Candidates:&#xA0;R10 preview&#xA0;/&#xA0;Judit []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r10-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
+         "pubDate" : "Wed, 29 Jun 2022 09:34:02 +0000",
+         "title" : "FIDE Candidates 2022 R10 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa, IM Elisabeth Paehtz and the special guest GM Peter Svidler, in collaboration with Worldchess.com. Round 10 pairings:&#160;Richard Rapport &#x2013; Ding Liren / Jan-Krzysztof Duda &#x2013; Fabiano Caruana / Ian Nepomniachtchi &#x2013; Teimour Radjabov / Hikaru Nakamura &#x2013; Alireza Firouzja Latest from the Candidates: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r10-live-with-gm-daniil-yuffa-im-elisabeth-paehtz-and-the-special-guest-gm-peter-svidler/",
+         "pubDate" : "Wed, 29 Jun 2022 09:30:13 +0000",
+         "title" : "FIDE Candidates 2022 R10 live with GM Daniil Yuffa, IM Elisabeth Paehtz and the special guest GM Peter Svidler"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1835",
+         "pubDate" : "Wed, 29 Jun 2022 09:05:05 +0000",
+         "title" : "FIDE adopts a new system for the Women's Candidates 2022-23"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1837",
+         "pubDate" : "Wed, 29 Jun 2022 08:16:11 +0000",
+         "title" : "IX IBCA World Team Chess Championship kicks off in Ohrid, North Macedonia"
+      },
+      {
          "description" : "After nine played rounds at the 2022 FIDE Candidates Chess Tournament, Ian Nepomniachtchi maintained the sole lead with 6.5 points and a full point advantage over Fabiano Caruana who is second with 5.5 points. Hikaru Nakamura and Ding Liren tie for third place with 4.5 points, each, and seems that no one can disturb Nepo's []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r10-preview/",
          "pubDate" : "Wed, 29 Jun 2022 07:24:07 +0000",
          "title" : "FIDE Candidates Chess Tournament 2022 - R10 preview"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/#new_tab",
+         "pubDate" : "Wed, 29 Jun 2022 07:00:24 +0000",
+         "title" : "WSTCC 2022 - updated 29/6/22!"
       },
       {
          "description" : " IM Nestor VelezMay 5th, 1956 June 28, 2022 It is with regret that The Chess Drum announces the passing of Cuban International Master Nestor Velez Betancourt. According to social media sources, he passes away this afternoon. Correspondence International Master MI Jos&eacute; Guillermo De La Rosa Sol&oacute;rzano sent the following message to The Chess Drum: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/\">IM Nestor Velez passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -82,22 +170,6 @@ news_feed (
          "title" : "IM Joanna Dworakowska is the Winner of 1st Caplin Menchik Memorial"
       },
       {
-         "description" : "The 34th edition of the International Chess Tournament &#x201C;Open Pula 2022&#x201D;&#160;will took from 18-26 June at Park Plaza Histria Hotel in Pula, Croatia. More than 150 players from 25 countries participated in the event which was played in 9 rounds, swiss system, featuring the prize fund of 6.250 euros. As many as six players tied []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-nebojsa-nikcevic-wins-pula-chess-open-2022/",
-         "pubDate" : "Tue, 28 Jun 2022 14:44:30 +0000",
-         "title" : "GM Nebojsa Nikcevic wins Pula Chess Open 2022"
-      },
-      {
-         "description" : "Serbian Chess Federation organizes the International Open Chess Championship of Serbia, called &#x201C;Serbia OPEN 2022&#x201D; from June 28th &#x2013; July 6th. The event takes place in Novi Sad, Master Centre, with participation of 267 players in the Masters event (for players rated 2100+) and 133 players in the Amateurs event (for players rated U2200).Read more: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbia-chess-open-2022-live/",
-         "pubDate" : "Tue, 28 Jun 2022 14:25:30 +0000",
-         "title" : "Serbia Chess Open 2022 LIVE"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg\" data-image-dimensions=\"1287x701\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62bb0a4ac73bad3727036eff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg?format=1000w\" /> </figure> <p class=\"\"><br> <p class=\"\">IM Irina Bulmaga is a <a href=\"https://www.chessable.com/author/IrinaBu/\"><span>Chessable Author</span></a>, a writer, a 5 time chess Olimpian, and ",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -130,44 +202,12 @@ news_feed (
          "title" : "Play Against Legends In The Chess.com Global Championship"
       },
       {
-         "description" : "Anish Giri today celebrates his 28th birthday anniversary presenting us another marvelous recap of the FIDE Candidates Chess Tournament 2022. Giri analyzed the exciting R9 games focusing on the crucial game between the leaders Fabiano Caruana and Ian Nepomniachtchi. Videos by Anish Giri:&#160;R8 Candidates recap / R6 Candidates recap&#160;/&#160;R5 Candidates recap&#160;/&#160;R4 Candidates recap&#160;/&#160;R3 Candidates recap&#160;/&#160;R2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giris-birthday-r9-recap-of-the-fide-candidates-chess-2022/",
-         "pubDate" : "Tue, 28 Jun 2022 11:59:13 +0000",
-         "title" : "Anish Giri's birthday R9 recap of the FIDE Candidates Chess 2022"
-      },
-      {
-         "description" : "19-year-old chess prodigy Alireza Firouzja scored his first Candidates victory yesterday after winning an exciting game against Richard Rapport. In the post-game interview, Alireza commented on three brilliant moves from the game joking with chess.com's Chief Chess Officer Daniel Rensch: &#8220;I hope I don't get banned again&#8220;. Rensch then explained Alireza got banned for cheating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-was-banned-for-cheating-on-chess-com-tweetoftheday/",
-         "pubDate" : "Tue, 28 Jun 2022 11:17:30 +0000",
-         "title" : "Alireza Firouzja was banned for cheating on Chess.com #TweetOftheDay"
-      },
-      {
          "description" : "MPL 10th National School Open and Girls (U-07) Chess Championships-2022 Certificates are out to download. Download using the links given below : Open : https://aicf.online/National-School-U(7)-Open.html Girls",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-school-u-7-open-and-girls-chess-championship-certificates/",
          "pubDate" : "Tue, 28 Jun 2022 10:47:23 +0000",
          "title" : "National School U-7 Open and Girls Chess Championship Certificates"
-      },
-      {
-         "description" : "A 16-year-old youngster from Teheran IM&#xA0;Bardiya Daneshvar emerged as the winner of the 55th Iranian Men's Final Chess Championship and took his maiden national title. The event took place from 15-24 June in Sari, being played as a 14-player round-robin tournament with classical time control. The 55th edition of the Iranian Men's Final turned into []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-bardiya-daneshvar-is-the-new-champion-of-iran/",
-         "pubDate" : "Tue, 28 Jun 2022 10:43:59 +0000",
-         "title" : "IM Bardiya Daneshvar is the new Champion of Iran"
-      },
-      {
-         "description" : "FIDE has announced the World Amateur Championships 2022 to be held in Malta from October 20-30 in the 4-star conference hotel &#8220;Paradise Bay Resort&#8221;. It will be one more major international event hosted by Malta recently, after the successful European Small Nations Team Championship in December 2021.&#xA0;Read more: European Amateur Chess Championship 2022, Zagreb, Croatia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/malta-to-host-fide-world-amateur-chess-championships/",
-         "pubDate" : "Tue, 28 Jun 2022 10:36:26 +0000",
-         "title" : "Malta to host FIDE World Amateur Chess Championships 2022"
       },
       {
          "description" : "When one king takes away important squares from the enemy king it is called a \"bodycheck\". How did Black use the bodycheck to win in the diagrammed position?",
@@ -1218,14 +1258,6 @@ news_feed (
          "title" : "Watching live events on your phone"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/#new_tab",
-         "pubDate" : "Tue, 21 Jun 2022 08:50:24 +0000",
-         "title" : "WSTCC 2022 - underway"
-      },
-      {
          "description" : "Endgames are often full of tactical possibilities, particularly so if both sides have passed pawns. The diagrammed position occurred in a game between Magnus Carlsen and Anish Giri at the Esports Cup in Oslo. It is White to move, and can you find the move the World Champion played?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1384,14 +1416,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-4",
          "pubDate" : "Sun, 19 Jun 2022 11:41:00 -0700",
          "title" : "Nepomniachtchi Beats Firouzja, Storms To Sole Lead"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 3 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with no decisive game. All four games ended in a draw with Firouzja - Nakamura gaining the most interest. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52158144255_2f7740a5bf_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52158019451_9509ed30a9_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52158000049_0d8e8ace06_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/four-draws-for-round-3-of-the-2022-candidates/",
-         "pubDate" : "Sun, 19 Jun 2022 18:00:28 +0000",
-         "title" : "Four draws for Round 3 of the 2022 Candidates"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92322229.cms\" />Top-seeded Russian Grandmaster Savchenko Boris, playing under the FIDE banner, started his campaign at the 13th Chennai Open international Grandmaster tournament here on Sunday with an easy win over Thapa Ganesh Bahadur. Boris arrived into the tournament in good form having won the GITAM University GM chess tournament in Visakhapatnam on Friday.",
@@ -1890,28 +1914,12 @@ news_feed (
          "title" : "Brian Jones AM"
       },
       {
-         "description" : "The Budapest Gambit (1.d4 Nf6 2.c4 e5 3.dxe5 Ng4) has its most loyal followers in club chess. 1.d4 players who are confronted with the gambit have to reckon with the fact that their opponents are far more familiar with the positions, if only because of the number of games they have played with that system. In the current ChessBase Magazine Extra 207 Ivan Sokolov shows a little-known but very convenient way for White to gain a nice advantage without extensive study of opening theory. You can watch an excerpt from his video analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/easy-play-against-the-budapest-gambit",
-         "pubDate" : "Wed, 15 Jun 2022 11:00:00 +0100",
-         "title" : "Easy play against the Budapest Gambit"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1811",
          "pubDate" : "Wed, 15 Jun 2022 09:22:45 +0000",
          "title" : "Latvia launches Chess in Prisons programme"
-      },
-      {
-         "description" : "Le Quang Liem grabbed the sole lead at the Masters section of the Prague Chess Festival after beating Saleh Salem in Tuesday's sixth round. Pentala Harikrishna is in sole second place a half point back. In the Challengers, former sole leader Vincent Keymer was held to a draw by Marcin Krzyzanowski, which allowed Nodirbek Abdusattorov to climb to the shared lead thanks to a win over Max Warmerdam. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-r6",
-         "pubDate" : "Tue, 14 Jun 2022 23:45:00 +0100",
-         "title" : "Prague: Le beats Salem to grab the sole lead"
       },
       {
          "description" : "The Chess.com College Ambassador Program (CAP) was announced in early April, and the Summer Season has only just begun! Our Summer Season is a fun and rewarding way to keep college chess clubs active over the summer and give chess-loving college s...",
@@ -1944,14 +1952,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/14/ep-283-top-trainer-gm-rb-ramesh-on-how-to-improve-your-chess-calculation-and-the-keys-to-gm-praggnanandhaas-success",
          "pubDate" : "Tue, 14 Jun 2022 13:56:37 +0000",
          "title" : "EP 283- Top Trainer GM R.B. Ramesh on How to Improve Your Chess Calculation, and the keys to GM Praggnanandhaa''s success"
-      },
-      {
-         "description" : "Almost eight years ago, in 2014, it was with deep chagrin that we announced the demise of the decades-old chess column in the venerable New York Times. Its most recent upkeeper at the time was the New York Times journalist, Dylan Loeb McClain, who still writes about chess affairs for the paper. It is with pleasure that we can trumpet its resurrection at the hands of GM Daniel Naroditsky.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-naroditsky-is-new-nyt-chess-columnist",
-         "pubDate" : "Tue, 14 Jun 2022 12:00:00 +0100",
-         "title" : "Daniel Naroditsky is new NYT chess columnist"
       },
       {
          "description" : " The FIDE Candidates Tournament takes place Thu 16th June to Tue 5th Jul 2022 in Madrid, Spain. This is an 8 player 14 round event. For the first time since the Candidates tournaments returned there will be rapid and tie-breaks among players tied for first. Tie-break coefficients were used in the past - although there were provisions for a tie-break match the conditions needed for them to happen meant they were all but impossible. Players: Ian Nepomniachtchi, Teimour Radjabov, Jan-Krzysztof Duda, Alireza Firouzja, Fabiano Caruana, Hikaru Nakamura, Richard Rapport, and Ding Liren. Sergey Karjakin is serving a 6 months ban for his enthusiastic support of the Russian invasion of Ukraine which w",
@@ -2208,30 +2208,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/prague-international-chess-festival-2022",
          "pubDate" : "Wed, 8 Jun 2022 16:06:00 +0400",
          "title" : "Prague International Chess Festival 2022 - Games and Results"
-      },
-      {
-         "description" : "In the past the ECF membership year has run from 1st September to 31st of the following August, and each year during July we open...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-memberships-2022-23/",
-         "pubDate" : "Wed, 08 Jun 2022 11:13:44 +0000",
-         "title" : "A special offer for new ECF members"
-      },
-      {
-         "description" : "The ECU E-Magazine May 2022 is out! In this edition of the ECU E-Magazine you may read about: FIDE Candidates Chess Tournament 2022 Grand Chess Tour events in Romania and Poland Norway Chess 2022 ECU General Assembly 2022 &#8220;Chess: a Game to be Spread in Schools&#8221; Conference ECU EDU Working visit to Slovenia ECU101 The SMART&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-may-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-may-2022/",
-         "pubDate" : "Wed, 08 Jun 2022 09:00:42 +0000",
-         "title" : "ECU E-MAGAZINE MAY 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1802",
-         "pubDate" : "Wed, 08 Jun 2022 08:44:56 +0000",
-         "title" : "Pooja Lam wins Guyana Women's Championship"
       }
    ]
 }
