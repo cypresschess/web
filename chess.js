@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After nine played rounds at the 2022 FIDE Candidates Chess Tournament, Ian Nepomniachtchi maintained the sole lead with 6.5 points and a full point advantage over Fabiano Caruana who is second with 5.5 points. Hikaru Nakamura and Ding Liren tie for third place with 4.5 points, each, and seems that no one can disturb Nepo's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r10-preview/",
+         "pubDate" : "Wed, 29 Jun 2022 07:24:07 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R10 preview"
+      },
+      {
+         "description" : " IM Nestor VelezMay 5th, 1956 June 28, 2022 It is with regret that The Chess Drum announces the passing of Cuban International Master Nestor Velez Betancourt. According to social media sources, he passes away this afternoon. Correspondence International Master MI Jos&eacute; Guillermo De La Rosa Sol&oacute;rzano sent the following message to The Chess Drum: The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/\">IM Nestor Velez passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/",
+         "pubDate" : "Wed, 29 Jun 2022 03:59:21 +0000",
+         "title" : "IM Nestor Velez passes away"
+      },
+      {
          "description" : "Thanks to a remarkable final-round victory, Amin Tabatabaei grabbed clear first place at the third edition of the Stepan Avagyan Memorial. The Iranian GM entered the final round sharing first place with Shant Sargsyan. The co-leaders had two players standing a half point back - namely Haik Martirosyan and Alexander Donchenko. The four players were paired up against each other. In the end, Martirosyan beat Sargsyan and Tabatabaei beat Donchenko. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/malta-to-host-fide-world-amateur-chess-championships/",
          "pubDate" : "Tue, 28 Jun 2022 10:36:26 +0000",
          "title" : "Malta to host FIDE World Amateur Chess Championships 2022"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2022 will take place from 13th August (arrival day) to 21st August 2022 (departure day) in Hotel Aristos****, located in the city of Zagreb, Croatia. The event will be played in three rating categories: U2300, U2000 and U1700. A player must not have a published FIDE rating of 2300 or []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-amateur-chess-championship-2022/",
-         "pubDate" : "Tue, 28 Jun 2022 10:33:32 +0000",
-         "title" : "European Amateur Chess Championship 2022"
       },
       {
          "description" : "When one king takes away important squares from the enemy king it is called a \"bodycheck\". How did Black use the bodycheck to win in the diagrammed position?",
