@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fighting chess was the rule rather than the exception in round 10 of the Candidates Tournament. All the players - except Ian Nepomniachtchi, naturally - chose fighting lines, attempting to win at all costs, as the event is coming to an end and first place is all that matters. In the end, Ding Liren and Hikaru Nakamura won and caught up with Fabiano Caruana in shared second place, as the latter overplayed his hand and was defeated by Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r10",
+         "pubDate" : "Thu, 30 Jun 2022 01:00:00 +0100",
+         "title" : "Candidates R10: Ding and Naka strike as Caruana falters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1838",
+         "pubDate" : "Wed, 29 Jun 2022 22:20:13 +0000",
+         "title" : "2022 Candidates, Round 10: A major setback for Caruana, Nepomniachtchi pushes forward"
+      },
+      {
+         "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R10 recap While Nepomniachtchi seems to be cruising towards the tournament victory, increasing his lead by another half a point after yet another bloody day in the 2022 FIDE Candidates, race for the second place becomes wide open. With Magnus Carlsen seriously considering his retirement from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/duda-steals-the-show-fide-candidates-chess-tournament-2022-r10-recap/",
+         "pubDate" : "Wed, 29 Jun 2022 22:17:37 +0000",
+         "title" : "Duda steals the show - FIDE Candidates Chess Tournament 2022 R10 recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-10\"><img src=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-10",
+         "pubDate" : "Wed, 29 Jun 2022 20:32:26 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 10"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi continues to lead the 2022 Candidates Tournament with a 7/10 score and four rounds to go. There is a three-way tie for second place with GMs Hikaru Nakamura, Fabiano Caruana, and Ding Liren at 5.5/10. The eight candidates are...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -82,12 +114,12 @@ news_feed (
          "title" : "Women Candidates tweaked"
       },
       {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Wed, 29 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 10: Live"
+         "description" : " Ian Nepomniachtchi was the first to finish in Round 10 of the 14 round FIDE Candidates tournament in Madrid. Nepomniachtchi didn't push very hard with the white pieces against Teimour Radjabov and the game was drawn in 37 moves. Nepomniachtchi probably already knew by that point that his closest challenger Fabiano Caruana was going to lose and his lead would be extended to 1.5 points. With just four rounds to go four draws is all but certain to win the event for Nepomniachtchi, he may even be able to afford a loss. Fabiano Caruana's tournament has just fallen apart, he's spent the most time at the board and played the most moves. He just looks dog tired and today he played a sharp and risky",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-practically-guaranteed-candidates-victory-after-10-rounds-the-battle-for-second-place-is-on",
+         "pubDate" : "Wed, 29 Jun 2022 20:56:00 +0400",
+         "title" : "Nepomniachtchi practically guaranteed Candidates victory after 10 rounds, the battle for second place is on - 10"
       },
       {
          "description" : "Hikaru Nakamura predicted the outcome of the FIDE Candidates Chess Tournament 2022 way before it started in Madrid. The chess statisticians and top grandmasters saw Alireza Firouzja and Ding Liren as the main favorites to win the event, and a chess legend Garry Kasparov added Jan-Krzysztof Duda on the list of the favorites. Nakamura disagreed []",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-candidates-2022-r10-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
          "pubDate" : "Wed, 29 Jun 2022 09:34:02 +0000",
          "title" : "FIDE Candidates 2022 R10 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa, IM Elisabeth Paehtz and the special guest GM Peter Svidler, in collaboration with Worldchess.com. Round 10 pairings:&#160;Richard Rapport &#x2013; Ding Liren / Jan-Krzysztof Duda &#x2013; Fabiano Caruana / Ian Nepomniachtchi &#x2013; Teimour Radjabov / Hikaru Nakamura &#x2013; Alireza Firouzja Latest from the Candidates: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r10-live-with-gm-daniil-yuffa-im-elisabeth-paehtz-and-the-special-guest-gm-peter-svidler/",
-         "pubDate" : "Wed, 29 Jun 2022 09:30:13 +0000",
-         "title" : "FIDE Candidates 2022 R10 live with GM Daniil Yuffa, IM Elisabeth Paehtz and the special guest GM Peter Svidler"
       },
       {
          "description" : "",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jim-mccormick-enters-washington-open-yasser-stories",
          "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
          "title" : "Jim McCormick Enters the Washington Open | Yasser Stories"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-9-lichessorg\"><img sr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-9-lichessorg",
-         "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 9 | lichess.org"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 85th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -1448,6 +1464,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-r3",
          "pubDate" : "Mon, 20 Jun 2022 05:55:00 +0100",
          "title" : "Candidates R3: Ding's missed chance"
+      },
+      {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;Every chessplayer, from beginner to world champion, loves to win a game with a brilliant attacking display. However many, if not most, attacks that end in victory do so due to inaccurate defence. This may be due to simple tactical miscalculation or perhaps a more <a href=\"http://britishchessnews.com/2022/06/20/dynamic-defence/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Dynamic Defence</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/06/20/dynamic-defence/\">Dynamic Defence</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.co",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/06/20/dynamic-defence/",
+         "pubDate" : "Mon, 20 Jun 2022 00:10:05 +0000",
+         "title" : "Dynamic Defence"
       },
       {
          "description" : "",
