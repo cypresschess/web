@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1840",
+         "pubDate" : "Thu, 30 Jun 2022 23:06:51 +0000",
+         "title" : "2022 Candidates, Round 11: Nepomniachtchi on the verge of winning the Candidates as Ding breaks to second place"
+      },
+      {
+         "description" : "Ian Nepomniachtchi defeated Alireza Firouzja in the 11th round of the FIDE Candidates Chess 2022 to almost secure the first place in the event. Replay the game here In the post-game interview with WGM Dina Belenkaya, Nepomniachtchi spoke about Firouzja's decisions during the game: &#8220;It's hard to say what he (Firouzja) was doing. It's hard []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepos-white-shirt-a-candid-interview-with-the-candidates-leader/",
+         "pubDate" : "Thu, 30 Jun 2022 21:47:16 +0000",
+         "title" : "Nepo's white shirt - a candid interview with the Candidates leader"
+      },
+      {
          "description" : "It has been more than a year since Maxime Vachier-Lagrave (MVL) finished second in the Candidates tournament. Ideally, the French Grandmaster should have been playing in this year's edition too. However, he missed out following disappointing performances in the Fide Grand Prix events. With the 2021 Candidates tournament relatively fresh in mind, Dhananjay Khadilkar spoke to MVL on a range of issues including his pick for the 2022 Candidates, skipping this year's Olympiad and the possibility of Magnus Carlsen not defending the world championship title.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mvl-on-the-candidates-chennai-and-carlsen",
          "pubDate" : "Thu, 30 Jun 2022 22:00:00 +0100",
          "title" : "\"MVL\" on the Candidates, Chennai and Carlsen"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after his win against Alireza Firouzja in Round 11 of the 2022 Candidates Tournament. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-firouzja-not-playing-his-normal-chess-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cx2DDNGafek.jpg?itok=q_zwuW_n\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-firouzja-not-playing-his-normal-chess-round-11",
+         "pubDate" : "Thu, 30 Jun 2022 20:33:04 +0000",
+         "title" : "Nepomniachtchi: Firouzja Not Playing His Normal Chess | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-11\"><img src=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-11",
+         "pubDate" : "Thu, 30 Jun 2022 20:33:04 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 11"
       },
       {
          "description" : " Kevin Pryor is known more as an organizer extraordinaire in the state of Florida and currently serves as the Florida Chess Association President. After a successful 38-year career at Johnson &#38; Johnson, he started his chess service in 2014. In 2015 he became a Board Member of the Florida Chess Association (FCA), Treasurer in 2017, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/30/kevin-pryor-attends-emory-castle-camp/\">Kevin Pryor shines at Emory Castle Camp</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -22,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-12",
-         "pubDate" : "Thu, 30 Jun 2022 12:32:08 -0700",
+         "pubDate" : "Thu, 30 Jun 2022 12:32:00 -0700",
          "title" : "How To Watch FIDE Candidates Tournament Round 12"
       },
       {
@@ -40,6 +72,22 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-20/",
          "pubDate" : "Thu, 30 Jun 2022 18:50:37 +0000",
          "title" : "Master Chess Web Show (20)"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi is on the brink of winning the 2022 Candidates Tournament after beating GM Alireza Firouzja with the black pieces on Thursday. The French-Iranian grandmaster was over-ambitious and put up poor resistance, having played online...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-11",
+         "pubDate" : "Thu, 30 Jun 2022 11:42:00 -0700",
+         "title" : "Nepomniachtchi On The Brink As Firouzja Goes Berserk"
+      },
+      {
+         "description" : " Ian Nepomniachtchi won his fifth game of the Candidates beating Alireza Firouzja in the eleventh round of the FIDE Candidates in Madrid. The story of this game even early on was that Firouzja was up all night playing hyper bullet 30 second chess on the Internet. I'm afraid his reckless play today showed all the signs of him doing precisely that. 16.g4 is dubious, 17.h4? is bad and 18.g5 leaves white flat lost. Of course it required skill from Nepomniachtchi to make the refutation look easy but the in form Russian had no problems whatsoever. Nepomniachtchi is still in complete control of the tournament three draws, likely only two, will win him the event. The final game to finish ended Fabia",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-ding-win-in-candidates-round-11-and-are-in-first-and-second-places",
+         "pubDate" : "Thu, 30 Jun 2022 22:30:00 +0400",
+         "title" : "Nepomniachtchi and Ding win in Candidates Round 11 and are in first and second places - 11"
       },
       {
          "description" : "The 2022 Intercontinental ChessKid Candidates Tournament has come to an end. Eight talented young chess players from around the world gathered in the heart of Madrid to play in this FIDE-recognized event, in the same venue and using the same board...",
@@ -202,14 +250,6 @@ news_feed (
          "title" : "FIDE Candidates 2022 R11 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
       },
       {
-         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 11 pairings: Hikaru Nakamura &#x2013; Richard Rapport / Alireza Firouzja &#x2013; Ian Nepomniachtchi / Teimour Radjabov &#x2013; Jan-Krzysztof Duda / Fabiano Caruana &#x2013; Ding Liren Latest from the Candidates 2022: Anish Giri: &#x201C;The desperate people []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r11-live-with-im-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Thu, 30 Jun 2022 09:20:00 +0000",
-         "title" : "FIDE Candidates 2022 R11 live with IM Sagar Shah and Amruta Mokal"
-      },
-      {
          "description" : "European Individual Championship 2022: Analyses by the new champion Matthias Bluebaum as well as Gabriel Sargissian, Ivan Saric, Ruslan Ponomariov, Aryan Tari, Ivan Cheparinov, Rasmus Svane, Yuriy Kuzubov, Maxime Lagarde and others - Looking for a fighting concept against Trompowsky? In her opening article, Petra Papp relies on 1.d4 Nf6 2.Bg5 c5!? - \"Special\" on the FIDE World Championship 1997: exclusive collection of 22 extensively annotated games + articles on strategy and endgame highlights - Don't miss: Jan Markos' new training series \"Practical Tips for the Tournament Player\" Vol. I: \"Time management\" - Or jump straight into interactive training with Robert Ris and replay a current mas",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-10",
          "pubDate" : "Wed, 29 Jun 2022 12:22:00 -0700",
          "title" : "Nepomniachtchi Increases Lead Further As Caruana Loses To Duda"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi is on the brink of winning the 2022 Candidates Tournament after beating GM Alireza Firouzja with the black pieces on Thursday. The French-Iranian grandmaster was over-ambitious and put up poor resistance, having played online...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-11",
-         "pubDate" : "Wed, 29 Jun 2022 11:42:00 -0700",
-         "title" : "Nepomniachtchi On The Brink As Firouzja Goes Berserk"
       },
       {
          "description" : " <p class=\"lead\">Round 10 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games, and a 3-way tie for 2nd place with Caruana, Nakamura and Ding Liren. Nepomniachtchi still remains at the top with a +1.5 lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-8.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733367_840aa095a1_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733412_d27068b305_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "Nepomniachtchi survives trouble in the opening to draw against Caruana in the Candidates Round 9 - 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-8\"><img src=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-8",
-         "pubDate" : "Mon, 27 Jun 2022 14:30:37 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 8"
-      },
-      {
          "description" : "ATHENS OF THE EAST 2nd INTERNATIONAL GRAND MASTER OPEN CHESS TOURNAMENT 2022 (Category-A) Live link Link : https://view.livechesscloud.com/#d73b3087-1bbd-4129-8f85-d3b373e9c90e",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -712,14 +736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-9",
          "pubDate" : "Sun, 26 Jun 2022 12:11:00 -0700",
          "title" : "Nepomniachtchi Closer To Victory After Drawing With Caruana"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tai Pruce-Zimmerman, the man behind chessnumbers.wordpress.com, joins the show to talk about how his round-by-round tournament odds are calculated. 2022.06.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-%E2%80%9Cchess-numbers%E2%80%9D-works-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UX0jF9MCoGI.jpg?itok=6YeU2hmr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-%E2%80%9Cchess-numbers%E2%80%9D-works-day-8",
-         "pubDate" : "Sun, 26 Jun 2022 17:29:35 +0000",
-         "title" : "How \"Chess By The Numbers\" Works | Day 8"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 85th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
