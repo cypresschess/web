@@ -34,6 +34,14 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 10"
       },
       {
+         "description" : "With four rounds to go, GM Ian Nepomniachtchi is 1.5 points ahead of the pack in the 2022 Candidates Tournament in Madrid. A draw with GM Teimour Radjabov was enough for that because GM Fabiano Caruana ended up losing to GM Jan-Krzysztof Duda. G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-10",
+         "pubDate" : "Wed, 29 Jun 2022 12:22:00 -0700",
+         "title" : "Nepomniachtchi Increases Lead Further As Caruana Loses To Duda"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi continues to lead the 2022 Candidates Tournament with a 7/10 score and four rounds to go. There is a three-way tie for second place with GMs Hikaru Nakamura, Fabiano Caruana, and Ding Liren at 5.5/10. The eight candidates are...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -211,6 +219,22 @@ news_feed (
       },
       {
          "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
+         "pubDate" : "Wed, 29 Jun 2022 08:05:05 +0000",
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION KEVADIA"
+      },
+      {
+         "description" : "Day 12 : AHMEDABAD In a colourful ceremony at Ahmedabad, Hon'ble Home Minister of Gujarat Shri Harsh Sanghavi received the Torch from GM Tejas Bakre",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
+         "pubDate" : "Wed, 29 Jun 2022 07:04:45 +0000",
+         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
+      },
+      {
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/Seniors/#new_tab",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-9",
          "pubDate" : "Mon, 27 Jun 2022 20:30:51 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 9"
-      },
-      {
-         "description" : "With four rounds to go, GM Ian Nepomniachtchi is 1.5 points ahead of the pack in the 2022 Candidates Tournament in Madrid. A draw with GM Teimour Radjabov was enough for that because GM Fabiano Caruana ended up losing to GM Jan-Krzysztof Duda. G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-10",
-         "pubDate" : "Mon, 27 Jun 2022 12:22:00 -0700",
-         "title" : "Nepomniachtchi Increases Lead Further As Caruana Loses To Duda"
       },
       {
          "description" : " <p class=\"lead\">Round 9 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games and Nepomniachtchi resting assured at the top with a 1-point lead after his draw against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-7.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162341452_bc1ba9f2c6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52175984322_fe3450ec2f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
@@ -848,22 +864,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-chess-tournament-2022-nepomniachtchi-in-the-lead/",
          "pubDate" : "Fri, 24 Jun 2022 10:16:19 +0000",
          "title" : "FIDE Candidates Chess Tournament 2022 - Nepomniachtchi in the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
-         "pubDate" : "Fri, 24 Jun 2022 07:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION JAIPUR"
-      },
-      {
-         "description" : "Day 10 : GORAKHPUR Hon'ble Cabinet Minister for Agriculture Government of Uttar Pradesh Shri Surya Pratap Shahi received the torch from WGM Vantika Agrawal and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
-         "pubDate" : "Fri, 24 Jun 2022 07:04:45 +0000",
-         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "The Indian team garnered four gold, four silver &#38; three bronze medals to win the overall championship in the Western Asian Youth Chess Championships which",
