@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Individual Championship 2022: Analyses by the new champion Matthias Bluebaum as well as Gabriel Sargissian, Ivan Saric, Ruslan Ponomariov, Aryan Tari, Ivan Cheparinov, Rasmus Svane, Yuriy Kuzubov, Maxime Lagarde and others - Looking for a fighting concept against Trompowsky? In her opening article, Petra Papp relies on 1.d4 Nf6 2.Bg5 c5!? - \"Special\" on the FIDE World Championship 1997: exclusive collection of 22 extensively annotated games + articles on strategy and endgame highlights - Don't miss: Jan Markos' new training series \"Practical Tips for the Tournament Player\" Vol. I: \"Time management\" - Or jump straight into interactive training with Robert Ris and replay a current mas",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-208-analyses-from-the-european-champion-2022-by-matthias-bluebaum-et-al-new-series-practical-tips-for-the-tournament-player-and-much-more",
+         "pubDate" : "Thu, 30 Jun 2022 10:00:00 +0100",
+         "title" : "CBM #208: Analyses from the European Champion 2022 by Matthias Bluebaum et al. New series \"Practical tips for the tournament player\" and much more"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/national-schools-championships-finals/#new_tab",
+         "pubDate" : "Thu, 30 Jun 2022 08:19:53 +0000",
+         "title" : "National Schools Championships Finals start today"
+      },
+      {
+         "description" : "Ian Nepomniachtchi increased his sole lead in the FIDE Candidates Tournament by another half a point after yesterday's bloody day in Madrid. The race for the second place becomes widely open and more interesting to follow, especially as Magnus Carlsen seriously considers to withdraw from the World Championship Match. Read more: FIDE Candidates Chess Tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r11-preview/",
+         "pubDate" : "Thu, 30 Jun 2022 08:06:11 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R11 preview"
+      },
+      {
          "description" : "Fighting chess was the rule rather than the exception in round 10 of the Candidates Tournament. All the players - except Ian Nepomniachtchi, naturally - chose fighting lines, attempting to win at all costs, as the event is coming to an end and first place is all that matters. In the end, Ding Liren and Hikaru Nakamura won and caught up with Fabiano Caruana in shared second place, as the latter overplayed his hand and was defeated by Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1872,14 +1896,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/caruana-i-don-t-really-buy-into-what-magnus-says",
          "pubDate" : "Thu, 16 Jun 2022 11:29:05 +0000",
          "title" : "Caruana: \"I don't really buy into what Magnus says\""
-      },
-      {
-         "description" : "The 2022 FIDE Presidential election will be held on August 7, 2022, at the FIDE General Assembly in Chennai, India. The Electoral Commission, after a preliminary exam, approved the following list of valid Presidential ticket candidacies: Mr. Andrii Baryshpolets and Mr. Peter-Heine Nielsen; Mr. Inalbek Cheripov and Mr. Lewis Ncube; Mr. Arkady Dvorkovich and Mr. Anand Viswanathan; Mr. Bachar Kouatly and Mr. Ian Wilkinson.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-presidential-tickets-announced-2022",
-         "pubDate" : "Thu, 16 Jun 2022 12:00:00 +0100",
-         "title" : "FIDE Presidential ticket candidacies announced"
       },
       {
          "description" : "More than any other chess event, the FIDE Candidates Tournament, which starts on Friday in Madrid is a winner-takes-all tournament. Finishing first, and only first, means facing World Champion Magnus Carlsen in a match. GM Fabiano Caruana, who att...",
