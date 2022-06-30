@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-12-lichessorg\"><img s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-12-lichessorg",
+         "pubDate" : "Thu, 30 Jun 2022 14:32:53 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 12 | lichess.org"
+      },
+      {
+         "description" : " The 2022 Candidates tournament has turned out to be a real bloodbath, with almost every round seeing 2 or 3 decisive games, every player scoring t least one win, but at the same time 7 of the 8 players suffering at least one loss. The only thing that is clear at this stage is that Ian Nepomniachtchi would have to suffer a mind blowing collapse to not win the tournament, as he is 1.5 points in front with 4 rounds to play. This sets up a potential rematch with magnus Carlsen for the World Championship, although this may be one thing that isn't certain. While I'm not convinced by Carlsen's suggestion that he won't defend his title, he may be less inclined to play Nepo than any other challenger",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/it-might-be-all-over.html",
+         "pubDate" : "Thu, 30 Jun 2022 14:21:00 +0000",
+         "title" : "It might be all over "
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Thu, 30 Jun 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 11: Live"
+      },
+      {
+         "description" : "The FIDE World Senior 50+ and 65+ Team Chess Championships 2022&#xA0;took place from 20-29 June in Acqui Terme. England won three world titles as England&#x2019;s men won both the World Over 50 Championship and the World Over 65 Championship. England Women won the Women&#x2019;s World Over 50 Championship, making it a triple success. 50+ section: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/triple-gold-for-england-at-the-fide-world-senior-chess-championship-2022/",
+         "pubDate" : "Thu, 30 Jun 2022 12:28:21 +0000",
+         "title" : "Triple gold for England at the FIDE World Senior Chess Championship 2022"
+      },
+      {
+         "description" : "Alireza Firouzja yesterday suffered a tough loss to Hikaru Nakamura in the 10th round of the FIDE Candidates Chess 2022. (Replay the game: Hikaru Nakamura Alireza Firouzja 1-0, R10) But not only He also suffered a massive loss against Daniel Naroditsky as they spent late-night hours playing a hyper-bullet match of 250 games (with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/firouzja-prepares-for-nepo-with-the-250-games-hyper-bullet-match-vs-naroditsky/",
+         "pubDate" : "Thu, 30 Jun 2022 11:52:57 +0000",
+         "title" : "Firouzja prepares for Nepo with the 250 games hyper-bullet match vs Naroditsky"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #522 looks at a positional masterpiece, in which the knights got dancing and the pawns pushed ahead. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -175,7 +215,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-11",
          "pubDate" : "Wed, 29 Jun 2022 11:42:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 11"
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 11"
       },
       {
          "description" : " <p class=\"lead\">Round 10 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games, and a 3-way tie for 2nd place with Caruana, Nakamura and Ding Liren. Nepomniachtchi still remains at the top with a +1.5 lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-8.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733367_840aa095a1_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733412_d27068b305_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=",
@@ -186,28 +226,12 @@ news_feed (
          "title" : "Nepomniachtchi leads the 2022 Candidates with +1.5 after Round 10"
       },
       {
-         "description" : "The 15th annual Philadelphia International Chess Tournament took place from 24-28 June at Sheraton Philadelphia Downtown which hosted the Philadelphia Open and will be the venue of the&#xA0;50th World Open starting tomorrow. GM John Burke triumphed in the Premier group as he had better tiebreaks than GM Brandon Jacobson and IM Minh Tuan Le who []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-john-burke-triumphs-at-the-15th-annual-philadelphia-international/",
-         "pubDate" : "Wed, 29 Jun 2022 18:13:11 +0000",
-         "title" : "GM John Burke triumphs at the 15th annual Philadelphia International"
-      },
-      {
          "description" : "The German Grandmasters Karsten M&uuml;ller and Luis Engel developed a model that allows to classify players according to their playing style: The 4 Player Types model. According to M&uuml;ller and Engel there are \"Activists\", \"Pragmatists\", \"Theorists\", and \"Reflectors\". Each group of players has distinctive strengths and weaknesses and knowing which type of player you are - and the opponents you play against - can be extremely helpful. Tanmay Srinath liked the model.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/karsten-mueller-and-luis-engel-4-player-types-a-review",
          "pubDate" : "Wed, 29 Jun 2022 18:50:05 +0100",
          "title" : "Karsten M&uuml;ller and Luis Engel: The 4 Player Types model - A review"
-      },
-      {
-         "description" : "The Philadelphia International Chess Open took place from 24-26 June at Sheraton Philadelphia Downtown which will also host the 50th World Open starting tomorrow. The event was played in 5 sections: Major, U2100, U1800, U1500, and U1200. GM Andrew Tang triumphed in the Major section, scoring perfect 5/5 points, and pocketing the money prize of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-andrew-tang-wins-philadelphia-open/",
-         "pubDate" : "Wed, 29 Jun 2022 17:43:47 +0000",
-         "title" : "GM Andrew Tang wins Philadelphia Open"
       },
       {
          "description" : "GM Vladimir Fedoseev and GM Salem Saleh were the victors in Titled Tuesday on June 28, both winning outright with 9.5 points. Saleh even missed the first round and won anyway.&#38;nbsp; GM Hikaru Nakamura finished third in the early event despite be...",
@@ -640,14 +664,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-7",
          "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yasser Seirawan tells the tale of Washington State Chess Champion Jim McCormick, who in the 70s devised a plan to enter a weak open tournament by entering alongside an unknown player. USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jim-mccormick-enters-washington-open-yasser-stories\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zJlaz7aOC2A.jpg?itok",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jim-mccormick-enters-washington-open-yasser-stories",
-         "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
-         "title" : "Jim McCormick Enters the Washington Open | Yasser Stories"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 85th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Playing in a Palace: Inside the 'hidden treasure' hosting the Candidates"
       },
       {
-         "description" : "Pentala Harikrishna beat Saleh Salem in the penultimate round of the Masters tournament in Prague, thus climbing to the shared lead going into the final day of action. Similarly, in the Challengers, Hans Niemann collected a second win in a row to catch Vincent Keymer and Nodirbek Abdusattorov in the lead. Friday's final round kicks off four hours earlier than usual, at 11.00 CEST. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-r8",
-         "pubDate" : "Fri, 17 Jun 2022 02:50:00 +0100",
-         "title" : "Prague: Harikrishna and Niemann score crucial wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2216,22 +2224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1803",
          "pubDate" : "Thu, 09 Jun 2022 15:30:55 +0000",
          "title" : "Presidential ticket candidacies announced"
-      },
-      {
-         "description" : "The Women Chess Conference Prague 2022 will be held from 25th-27th August in Hotel Don Giovanni, during the European Women's Chess Championship. The Conference is open to all ECU federations (representatives, players, officials, etc) aiming to support and promote women and girls in chess on a national and international level. Some of the Invited Guests and Speakers are:&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/women-chess-conference-prague-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/women-chess-conference-prague-2022/",
-         "pubDate" : "Thu, 09 Jun 2022 15:25:03 +0000",
-         "title" : "Women Chess Conference Prague 2022"
-      },
-      {
-         "description" : " Nominations have closed for the upcoming FIDE Presidential elections and although 5 tickets were lodged, only 4 met the eligibility criteria. The one that missed out was actually the first to go public, the Fumey/Fancy ticket. Part of their motivation was to show that international chess shouldn't just be about European federations, which was ironically their undoing, as no European federation would nominate them. The 4 eligible tickets are - Mr. Andrii Baryshpolets and Mr. Peter-Heine Nielsen; - Mr. Inalbek Cheripov and Mr. Lewis Ncube; - Mr. Arkady Dvorkovich and Mr. Anand Viswanathan; - Mr. Bachar Kouatly and Mr. Ian Wilkinson. Each ticket required a minimum of 5 federations to support t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/a-4-way-election-for-fide-president.html",
-         "pubDate" : "Thu, 09 Jun 2022 14:12:00 +0000",
-         "title" : "A 4 way election for FIDE President"
       }
    ]
 }
