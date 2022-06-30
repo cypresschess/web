@@ -2,12 +2,116 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #522 looks at a positional masterpiece, in which the knights got dancing and the pawns pushed ahead. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-522-a-positional-masterpiece",
+         "pubDate" : "Thu, 30 Jun 2022 12:32:25 +0100",
+         "title" : "Game of the Week #522: A positional masterpiece"
+      },
+      {
+         "description" : "National School U-09 Open and Girls Chess Championship Certificates out to download Links : Open : https://aicf.online/National-School-U(9)-Open.html Girls : https://aicf.online/National-School-U(9)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-u-09-open-and-girls-chess-championship-certificates-out-to-download/",
+         "pubDate" : "Thu, 30 Jun 2022 11:28:06 +0000",
+         "title" : "National School U-09 Open and Girls Chess Championship Certificates out to download"
+      },
+      {
+         "description" : "Alireza Firouzja had a brilliant 2021. The youngster reached the second spot in the world ranking and qualified to the Candidates Tournament. Expectations were high after Magnus Carlsen hinted that he would gladly face him in a World Championship match - unlike other opponents. Things have not been going according to plan in Madrid, though. After his round-10 loss, the 19-year-old played over 300 bullet-chess games online, and not during a rest day. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/firouzja-bullet-chess-amid-candidates",
+         "pubDate" : "Thu, 30 Jun 2022 12:07:49 +0100",
+         "title" : "Firouzja on tilt? Bullet-chess spree amid Candidates Tournament"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/S-UJVRXK7_8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-11/",
+         "pubDate" : "Thu, 30 Jun 2022 11:00:00 +0000",
+         "title" : "Watch the FIDE Candidates Tournament 2022: Round 11"
+      },
+      {
+         "description" : "England won three world titles in the World Senior Chess Teams Championships yesterday in Acqui Terme, Italy. England's men won both the World Over 50...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-triple-world-champions/",
+         "pubDate" : "Thu, 30 Jun 2022 10:52:11 +0000",
+         "title" : "England Triple World Champions!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1839",
+         "pubDate" : "Thu, 30 Jun 2022 09:38:47 +0000",
+         "title" : "FIDE World Senior Team Championship 2022: England wins golden double"
+      },
+      {
+         "description" : "While the FIDE Candidates Chess Tournament 2022 goes slowly towards an end, all the eyes are on the reigning World Chess Champion Magnus Carlsen who is considering his retirement from the World Chess Championship Matches. In one of the latest interviews, Magnus Carlsen explained he is not closer to playing another World Championship Match than []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-is-mysterious-about-his-participation-in-the-world-championship-match-tweetoftheday/",
+         "pubDate" : "Thu, 30 Jun 2022 09:29:16 +0000",
+         "title" : "Magnus Carlsen is mysterious about his participation in the World Championship Match #TweetOftheDay"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 11 pairings:&#xA0;Hikaru Nakamura &#x2013; Richard Rapport&#xA0;/&#xA0;Alireza Firouzja &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Teimour Radjabov &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Fabiano Caruana &#x2013; Ding Liren Latest from the Candidates []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r11-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
+         "pubDate" : "Thu, 30 Jun 2022 09:23:00 +0000",
+         "title" : "FIDE Candidates 2022 R11 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Anna-Maja Kazarian, in collaboration with Worldchess.com. Round 11 pairings:&#160;Hikaru Nakamura &#x2013; Richard Rapport&#160;/&#160;Alireza Firouzja &#x2013; Ian Nepomniachtchi&#160; /&#160;Teimour Radjabov &#x2013; Jan-Krzysztof Duda&#160;/&#160;Fabiano Caruana &#x2013; Ding Liren Latest from the Candidates 2022:&#160;Anish Giri: &#x201C;The desperate people are getting more desperate&#x201D;&#160;/&#160;Magnus Carlsen is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r11-live-with-gm-daniil-yuffa-and-wim-anna-maja-kazarian/",
+         "pubDate" : "Thu, 30 Jun 2022 09:21:00 +0000",
+         "title" : "FIDE Candidates 2022 R11 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase. Round 11 pairings: Hikaru Nakamura &#x2013; Richard Rapport / Alireza Firouzja &#x2013; Ian Nepomniachtchi / Teimour Radjabov &#x2013; Jan-Krzysztof Duda / Fabiano Caruana &#x2013; Ding Liren Latest from the Candidates 2022: Anish Giri: &#x201C;The desperate people []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r11-live-with-im-sagar-shah-and-amruta-mokal/",
+         "pubDate" : "Thu, 30 Jun 2022 09:20:00 +0000",
+         "title" : "FIDE Candidates 2022 R11 live with IM Sagar Shah and Amruta Mokal"
+      },
+      {
          "description" : "European Individual Championship 2022: Analyses by the new champion Matthias Bluebaum as well as Gabriel Sargissian, Ivan Saric, Ruslan Ponomariov, Aryan Tari, Ivan Cheparinov, Rasmus Svane, Yuriy Kuzubov, Maxime Lagarde and others - Looking for a fighting concept against Trompowsky? In her opening article, Petra Papp relies on 1.d4 Nf6 2.Bg5 c5!? - \"Special\" on the FIDE World Championship 1997: exclusive collection of 22 extensively annotated games + articles on strategy and endgame highlights - Don't miss: Jan Markos' new training series \"Practical Tips for the Tournament Player\" Vol. I: \"Time management\" - Or jump straight into interactive training with Robert Ris and replay a current mas",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cbm-208-analyses-from-the-european-champion-2022-by-matthias-bluebaum-et-al-new-series-practical-tips-for-the-tournament-player-and-much-more",
          "pubDate" : "Thu, 30 Jun 2022 10:00:00 +0100",
-         "title" : "CBM #208: Analyses from the European Champion 2022 by Matthias Bluebaum et al. New series \"Practical tips for the tournament player\" and much more"
+         "title" : "CBM #208: Analyses from the European Champion 2022 Matthias Bluebaum et al. New series \"Practical tips for the tournament player\" and much more"
+      },
+      {
+         "description" : "In his latest Chessable recap, Anish Giri analyzes the FIDE Candidates Chess Tournament games from the 10th round. &#8220;As the tournament's approaching the finish line, slowly but surely, it gets very tense. As it happens with every Candidates tournament that I have seen, towards the end, the desperate people are getting more desperate. We are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-the-desperate-people-are-getting-more-desperate-fide-candidates-r10-recap/",
+         "pubDate" : "Thu, 30 Jun 2022 08:44:26 +0000",
+         "title" : "Anish Giri: \"The desperate people are getting more desperate\" - FIDE Candidates R10 recap"
+      },
+      {
+         "description" : "Ian Nepomniachtchi now has a mammoth 1.5-point lead with just four rounds of the FIDE Candidates to go after making a draw in Round 10, while Fabiano Caruana self-destructed against Jan-Krzysztof Duda and was caught by both Hikaru Nakamura, who beat Alireza Firouzja, and Ding Liren, who won a fantastic game against Richard Rapport.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-10-caruana-caught-by-ding-and-nakamura",
+         "pubDate" : "Thu, 30 Jun 2022 08:39:25 +0000",
+         "title" : "Madrid Candidates 10: Caruana caught by Ding and Nakamura"
+      },
+      {
+         "description" : "In the first round of the 2022 French League, the young FM Floryan Eugène played one of the most incredible swindles in chess history based on a stalemate, against GM Jean-Luc Chabanon. I've taken the opportunity to review the 10 most amazing stalemates ever played. 24 For once, I will proceed in chronological order. 1. Troitsky vs. Vogt, 1896 In a desperate position, the legendary study composer managed to save himself by showing all of his creativity over the board. 1 Who else than a genius composer could have imagined White getting stalemated in 3 moves, despite ha...",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-10-most-incredible-stalemate-in-chess-history",
+         "pubDate" : "Thu, 30 Jun 2022 08:37:04 +0000",
+         "title" : "The 10 Most Incredible Stalemates in Chess History"
       },
       {
          "description" : "",
@@ -154,22 +258,6 @@ news_feed (
          "title" : "Nepomniachtchi practically guaranteed Candidates victory after 10 rounds, the battle for second place is on - 10"
       },
       {
-         "description" : "Hikaru Nakamura predicted the outcome of the FIDE Candidates Chess Tournament 2022 way before it started in Madrid. The chess statisticians and top grandmasters saw Alireza Firouzja and Ding Liren as the main favorites to win the event, and a chess legend Garry Kasparov added Jan-Krzysztof Duda on the list of the favorites. Nakamura disagreed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-predicted-the-outcome-of-the-fide-candidates-way-before-it-started/",
-         "pubDate" : "Wed, 29 Jun 2022 13:19:18 +0000",
-         "title" : "Nakamura predicted the outcome of the FIDE Candidates way before it started"
-      },
-      {
-         "description" : "The IX IBCA World Team Chess Championship for the Blind and Visually Impaired takes place in Ohrid, North Macedonia, from June 27 to July 08, 2022. The competition follows the &#x201C;trademark&#x201D; IBCA format that combines round robin and double knockout, similar to some high-level football tournaments. According to the results of the 2021 IBCA Olympiad, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ix-ibca-world-team-chess-championship-commenced-in-north-macedonia/",
-         "pubDate" : "Wed, 29 Jun 2022 12:08:17 +0000",
-         "title" : "IX IBCA World Team Chess Championship commenced in North Macedonia"
-      },
-      {
          "description" : "When young players ask me, what chess skill should he or she improve to be able to enter the tough arena of professional chess, I usually have a simple answer. My short advice is: \"You should learn how to defend. Especially, you should master the art of positional defence.\" | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,14 +274,6 @@ news_feed (
          "title" : "Watch the FIDE Candidates Tournament 2022: Round 10"
       },
       {
-         "description" : "The FIDE Council approved a new set of&#xA0;regulations for the Women&#x2019;s Candidates Tournament, adopting a knock-out system with 8 players to be played between 2022 and 2023. The event will be played in a knock-out system with 4-game matches (plus a possible tie-break) with the finals being played over the distance of 6 games. See []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-not-happy-with-the-new-system-of-the-womens-candidates-chess-tournament/",
-         "pubDate" : "Wed, 29 Jun 2022 10:38:09 +0000",
-         "title" : "Alexandra Kosteniuk not happy with the new system of the Women's Candidates Chess Tournament"
-      },
-      {
          "description" : "For well over 20 years, ChessBase has provided video courses on just about every chess topic under the sun, but they were also only available to Windows users. Now that is not only no longer true, but you can watch them on just about any system with a modern browser, from Macintosh to Linux... to smartphones even! Here is a guide on how, as well as some special tips!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,28 +282,12 @@ news_feed (
          "title" : "ChessBase video courses on your phone"
       },
       {
-         "description" : "The FIDE Council has approved a new set of&#160;regulations for the Women's Candidates Tournament, adopting a knock-out system with 8 players to be played between 2022 and 2023. The first two stages of this knock-out will be played as 4-game matches (plus a possible tie-break), with the final being played over the distance of 6 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-chess-tournament-2022-23-the-new-system-pools-participants-list/",
-         "pubDate" : "Wed, 29 Jun 2022 09:51:53 +0000",
-         "title" : "Women's Candidates Chess Tournament 2022/23 - The new system, Pools & Participants list"
-      },
-      {
          "description" : "FIDE has announced the World Amateur Championships 2022 to be held in Malta from October 20-30 in the 4-star conference hotel \"Paradise Bay Resort\". It will be one more major international event hosted by Malta recently, after the successful European Small Nations Team Championship in December 2021.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/malta-to-host-fide-world-amateur-chess-championships",
          "pubDate" : "Wed, 29 Jun 2022 10:48:19 +0100",
          "title" : "Malta to host FIDE World Amateur Chess Championships"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition.&#xA0;Round 10 pairings:&#xA0;Richard Rapport &#x2013; Ding Liren&#xA0;/&#xA0;Jan-Krzysztof Duda &#x2013; Fabiano Caruana&#xA0;/&#xA0;Ian Nepomniachtchi &#x2013; Teimour Radjabov&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Alireza Firouzja Latest from the Candidates:&#xA0;R10 preview&#xA0;/&#xA0;Judit []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r10-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
-         "pubDate" : "Wed, 29 Jun 2022 09:34:02 +0000",
-         "title" : "FIDE Candidates 2022 R10 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
       },
       {
          "description" : "",
@@ -247,10 +311,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Wed, 29 Jun 2022 08:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION KEVADIA"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION VADODRA"
       },
       {
-         "description" : "Day 12 : AHMEDABAD In a colourful ceremony at Ahmedabad, Hon'ble Home Minister of Gujarat Shri Harsh Sanghavi received the Torch from GM Tejas Bakre",
+         "description" : "Day 12 : KEVADIA Smt Geetaben Rathva, Member of Parliament received the Torch at Kevadia from GM Ankit Rajpara and handed over to GM Tejas",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1314,14 +1378,6 @@ news_feed (
          "title" : "J&K LG hands over Chess Olympiad Torch to GM Pravin Thipsay"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/T8wO6Fb5QP8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-4/",
-         "pubDate" : "Tue, 21 Jun 2022 11:00:00 +0000",
-         "title" : "FIDE Candidates Tournament 2022: Round 4"
-      },
-      {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase is publishing BCM's evaluation of the chances of the individual players, continuing today with the dark horse from Poland, Jan-Krzysztof Duda (24), and former candidate Ian Nepomniachtchi (31).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1440,14 +1496,6 @@ news_feed (
          "link" : "https://aicf.in/history-creates-as-honble-prime-minister-shri-narendra-modi-ji-inaugurates-the-torch-relay-ceremony-for-44-chess-olympiad/",
          "pubDate" : "Mon, 20 Jun 2022 13:35:24 +0000",
          "title" : "History creates as Hon'ble Prime Minister Shri Narendra Modi Ji inaugurates the Torch Relay Ceremony for 44 Chess Olympiad"
-      },
-      {
-         "description" : "Five time world champion and legendary Grandmaster Viswanathan Anand visited the AICF's Delhi Office on Monday and warmly welcomed by AICF Secretary Shri Bharat Singh",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/five-time-world-champion-and-legendary-grandmaster-viswanathan-anand-visited-the-aicfs-delhi-office/",
-         "pubDate" : "Mon, 20 Jun 2022 11:54:55 +0000",
-         "title" : "Five time world champion and legendary Grandmaster Viswanathan Anand visited the AICF's Delhi Office"
       },
       {
          "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
@@ -1866,36 +1914,12 @@ news_feed (
          "title" : "Caruana, Nepomniachtchi Win To Set Up Clash Of Leaders"
       },
       {
-         "description" : "This week Robert Ris looks at a game between the two young Indian Grandmasters Aravindh and Erigaisi, which was played at the MPL Indian Chess Tour and is a good example of Aravindh's attacking skills. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-theoretical-duels-and-a-fine-attack",
-         "pubDate" : "Thu, 16 Jun 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Theoretical duels and a fine attack"
-      },
-      {
          "description" : " This week's show was an interview with our old friend, IM Vaidyanathan Ravikumar. Ravi was one of the early globetrotting Indian chess professionals and has spent a lot of time in the UK. He tells us more about the early days of the Indian chess explosion and gives us some insights into the upcoming Chennai <a href=\"https://chessimprover.com/master-chess-web-show-18/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (18)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-18/\">Master Chess Web Show (18)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/master-chess-web-show-18/",
          "pubDate" : "Thu, 16 Jun 2022 16:23:32 +0000",
          "title" : "Master Chess Web Show (18)"
-      },
-      {
-         "description" : "The French Defence is an opening with a marked strategic character, but it also offers rich tactical possibilities to both sides. This video course is aimed as a tactical guide for Black, featuring the most typical combinations for the French structures. The reader is also invited to find combinations delivered by White, in order to become aware of the possible dangers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-the-french-defence-structures-tactics-and-plans-vol-1-2",
-         "pubDate" : "Thu, 16 Jun 2022 13:00:00 +0100",
-         "title" : "New: The French Defence - Structures, Tactics and plans Vol. 1+2"
-      },
-      {
-         "description" : "Fabiano Caruana was the one player who attended the FIDE Candidates Tournament Opening Press Conference on Wednesday, with the 2018 World Championship Challenger talking tournament tactics and tension, giving his verdict on Magnus Carlsen potentially not playing a match against the winner, and discussing the stunning rise of 18-year-old Alireza Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/caruana-i-don-t-really-buy-into-what-magnus-says",
-         "pubDate" : "Thu, 16 Jun 2022 11:29:05 +0000",
-         "title" : "Caruana: \"I don't really buy into what Magnus says\""
       },
       {
          "description" : "More than any other chess event, the FIDE Candidates Tournament, which starts on Friday in Madrid is a winner-takes-all tournament. Finishing first, and only first, means facing World Champion Magnus Carlsen in a match. GM Fabiano Caruana, who att...",
@@ -1960,14 +1984,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/xiong-bernadskiy-win-titled-tuesday-june-14-2022",
          "pubDate" : "Wed, 15 Jun 2022 07:52:43 -0700",
          "title" : "Ukrainian Bernadskiy Scores Big Upset Following Xiong Win"
-      },
-      {
-         "description" : "Magnus Carlsen seconds Jan Gustafsson, Laurent Fressinet and Peter Heine Nielsen made their FIDE Candidates Tournament predictions in a one-and-a-half-hour podcast earlier this week. They assessed Ding Liren, Fabiano Caruana, Alireza Firouzja and co. on current form, motivation, chances to win and openings, and also looked at the big questions: which winner would Magnus agree to play in a match, and who's the biggest chicken?",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-chicken-chess-club-verdict-on-the-candidates",
-         "pubDate" : "Wed, 15 Jun 2022 12:59:46 +0000",
-         "title" : "The Chicken Chess Club verdict on the Candidates"
       },
       {
          "description" : " Congratulations to Brian Jones, who has been appointed as a Member of the Order of Australia. The rather brief citation was for \"For significant service to chess at the elite level.\", although those that know Brian recognise that his achievements were far more significant than that. Fortunately the expanded details can be <a href=\"https://honours.pmc.gov.au/honours/awards/2011555\">found here</a>, which list the many roles he has filled in Australian and international chess. ",
