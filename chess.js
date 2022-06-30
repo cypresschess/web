@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It has been more than a year since Maxime Vachier-Lagrave (MVL) finished second in the Candidates tournament. Ideally, the French Grandmaster should have been playing in this year's edition too. However, he missed out following disappointing performances in the Fide Grand Prix events. With the 2021 Candidates tournament relatively fresh in mind, Dhananjay Khadilkar spoke to MVL on a range of issues including his pick for the 2022 Candidates, skipping this year's Olympiad and the possibility of Magnus Carlsen not defending the world championship title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mvl-on-the-candidates-chennai-and-carlsen",
+         "pubDate" : "Thu, 30 Jun 2022 22:00:00 +0100",
+         "title" : "\"MVL\" on the Candidates, Chennai and Carlsen"
+      },
+      {
+         "description" : " Kevin Pryor is known more as an organizer extraordinaire in the state of Florida and currently serves as the Florida Chess Association President. After a successful 38-year career at Johnson &#38; Johnson, he started his chess service in 2014. In 2015 he became a Board Member of the Florida Chess Association (FCA), Treasurer in 2017, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/30/kevin-pryor-attends-emory-castle-camp/\">Kevin Pryor shines at Emory Castle Camp</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/06/30/kevin-pryor-attends-emory-castle-camp/",
+         "pubDate" : "Thu, 30 Jun 2022 19:44:41 +0000",
+         "title" : "Kevin Pryor shines at Emory Castle Camp"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi won again at the 2022 Candidates Tournament and leads by a wide margin with a score of 8/11. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion. Round 12 begins at...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-12",
+         "pubDate" : "Thu, 30 Jun 2022 12:32:08 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 12"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 11 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nepomniachtchi winning his 5th game, this time against Firouzja, and leading the tournament with 8/11, 1,5 points ahead from Ding Liren who won against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-9.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52183109492_ee13b67d83_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52184140238_002c162a3e_k.jpg\" width=\"2048\" height=\"1365\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepomniachtchi-hits-2792-after-his-5th-win-at-the-2022-candidate/",
+         "pubDate" : "Thu, 30 Jun 2022 19:27:18 +0000",
+         "title" : "Nepomniachtchi hits 2792 after his 5th win at the 2022 Candidates"
+      },
+      {
+         "description" : " This weeks show featured games from rounds 4 through 9 of the Candidates tournaments. We looked at four White wins, including Radjabov Nakamura which seriously damaged the American's chances of qualifying. Next week we'll cover the final rounds, summarize what happened and give our predictions about the World Championship. Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-20/\">Master Chess Web Show (20)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-20/",
+         "pubDate" : "Thu, 30 Jun 2022 18:50:37 +0000",
+         "title" : "Master Chess Web Show (20)"
+      },
+      {
+         "description" : "The 2022 Intercontinental ChessKid Candidates Tournament has come to an end. Eight talented young chess players from around the world gathered in the heart of Madrid to play in this FIDE-recognized event, in the same venue and using the same board...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesskid-candidates-tournament-madrid",
+         "pubDate" : "Thu, 30 Jun 2022 11:29:00 -0700",
+         "title" : "Recapping The 2022 ChessKid Candidates Tournament In Madrid"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Three-time Norwegian champion and author GM Jonathan Tisdall joins the show to share insight into whether Magnus Carlsen will defend his title in the world championship match. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jonathan-tisdall-magnus-doesn%E2%80%99t-want-title-define-him-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3oFT",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jonathan-tisdall-magnus-doesn%E2%80%99t-want-title-define-him-round-11",
+         "pubDate" : "Thu, 30 Jun 2022 17:33:05 +0000",
+         "title" : "Jonathan Tisdall: Magnus Doesn't Want Title to Define Him | Round 11"
+      },
+      {
+         "description" : "The Arsen Yeghiazaryan Memorial takes place from 1-9 July in Yerevan, Armenia. It is a 10-player round-robin tournament, dedicated to the memory of GM, FST and Honored Trainer of the Republic of Armenia Arsen Yeghiazaryan. The time control of the tournament is: 90 minutes for 40 moves, followed by 30 minutes to the end of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arsen-yeghiazaryan-memorial-2022/",
+         "pubDate" : "Thu, 30 Jun 2022 16:31:29 +0000",
+         "title" : "Arsen Yeghiazaryan Memorial 2022"
+      },
+      {
+         "description" : "The 50th Annual World Chess Open&#xA0;takes place from June 30th to July 4th at Sheraton Philadelphia Downtown. The event is played in 8 sections, with the total prize fund of more than 100.000$ and participation of around 1100 players. 50th annual World Chess Open 2022 all information The top seeds of the main Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50th-annual-world-chess-open-2022-live/",
+         "pubDate" : "Thu, 30 Jun 2022 16:07:12 +0000",
+         "title" : "50th Annual World Chess Open 2022 LIVE"
+      },
+      {
+         "description" : "Chess.com is proud to announce that the Collegiate Chess League is returning for the 2022-2023 academic year in partnership with NACE Starleague, the largest collegiate esports league in North America. The Fall 2022 and Spring 2023 seasons will fe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-ccl-2022-2023",
+         "pubDate" : "Thu, 30 Jun 2022 09:00:00 -0700",
+         "title" : "Chess.com Announces Collegiate Chess League 2022-2023 Season"
+      },
+      {
+         "description" : "The 2022 Jerry Spann Memorial &#x2013; Oklahoma Open&#38;State Chess Championship&#xA0;took place over the weekend&#xA0;June 25-26 in Broken Arrow, Tulsa, Oklahoma. The event was played in three sections: Open, Reserve (U1700) and Amateur (U1300), over 5 swiss rounds, with time control of 90 minutes for the whole game + 30 seconds of increment, and gathered 90 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-jerry-spann-memorial-oklahoma-open-state-championship-concluded-in-tulsa/",
+         "pubDate" : "Thu, 30 Jun 2022 15:32:18 +0000",
+         "title" : "2022 Jerry Spann Memorial - Oklahoma Open & State Championship concluded in Tulsa"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-12-lichessorg\"><img s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,7 +130,7 @@ news_feed (
          "title" : "Firouzja prepares for Nepo with the 250 games hyper-bullet match vs Naroditsky"
       },
       {
-         "description" : "In his \"Game of the Week\" show #522 looks at a positional masterpiece, in which the knights got dancing and the pawns pushed ahead. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "In his \"Game of the Week\" show #522 Merijn van Delft looks at a positional masterpiece, in which the knights got dancing and the pawns pushed ahead. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-522-a-positional-masterpiece",
@@ -130,14 +218,6 @@ news_feed (
          "title" : "CBM #208: Analyses from the European Champion 2022 Matthias Bluebaum et al. New series \"Practical tips for the tournament player\" and much more"
       },
       {
-         "description" : "In his latest Chessable recap, Anish Giri analyzes the FIDE Candidates Chess Tournament games from the 10th round. &#8220;As the tournament's approaching the finish line, slowly but surely, it gets very tense. As it happens with every Candidates tournament that I have seen, towards the end, the desperate people are getting more desperate. We are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-the-desperate-people-are-getting-more-desperate-fide-candidates-r10-recap/",
-         "pubDate" : "Thu, 30 Jun 2022 08:44:26 +0000",
-         "title" : "Anish Giri: \"The desperate people are getting more desperate\" - FIDE Candidates R10 recap"
-      },
-      {
          "description" : "Ian Nepomniachtchi now has a mammoth 1.5-point lead with just four rounds of the FIDE Candidates to go after making a draw in Round 10, while Fabiano Caruana self-destructed against Jan-Krzysztof Duda and was caught by both Hikaru Nakamura, who beat Alireza Firouzja, and Ding Liren, who won a fantastic game against Richard Rapport.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -162,14 +242,6 @@ news_feed (
          "title" : "National Schools Championships Finals start today"
       },
       {
-         "description" : "Ian Nepomniachtchi increased his sole lead in the FIDE Candidates Tournament by another half a point after yesterday's bloody day in Madrid. The race for the second place becomes widely open and more interesting to follow, especially as Magnus Carlsen seriously considers to withdraw from the World Championship Match. Read more: FIDE Candidates Chess Tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r11-preview/",
-         "pubDate" : "Thu, 30 Jun 2022 08:06:11 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R11 preview"
-      },
-      {
          "description" : "Fighting chess was the rule rather than the exception in round 10 of the Candidates Tournament. All the players - except Ian Nepomniachtchi, naturally - chose fighting lines, attempting to win at all costs, as the event is coming to an end and first place is all that matters. In the end, Ding Liren and Hikaru Nakamura won and caught up with Fabiano Caruana in shared second place, as the latter overplayed his hand and was defeated by Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1838",
          "pubDate" : "Wed, 29 Jun 2022 22:20:13 +0000",
          "title" : "2022 Candidates, Round 10: A major setback for Caruana, Nepomniachtchi pushes forward"
-      },
-      {
-         "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R10 recap While Nepomniachtchi seems to be cruising towards the tournament victory, increasing his lead by another half a point after yet another bloody day in the 2022 FIDE Candidates, race for the second place becomes wide open. With Magnus Carlsen seriously considering his retirement from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/duda-steals-the-show-fide-candidates-chess-tournament-2022-r10-recap/",
-         "pubDate" : "Wed, 29 Jun 2022 22:17:37 +0000",
-         "title" : "Duda steals the show - FIDE Candidates Chess Tournament 2022 R10 recap"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-10\"><img src=\"https:/",
@@ -210,12 +274,12 @@ news_feed (
          "title" : "Nepomniachtchi Increases Lead Further As Caruana Loses To Duda"
       },
       {
-         "description" : "GM Ian Nepomniachtchi continues to lead the 2022 Candidates Tournament with a 7/10 score and four rounds to go. There is a three-way tie for second place with GMs Hikaru Nakamura, Fabiano Caruana, and Ding Liren at 5.5/10. The eight candidates are...",
+         "description" : "GM Ian Nepomniachtchi is on the brink of winning the 2022 Candidates Tournament after beating GM Alireza Firouzja with the black pieces on Thursday. The French-Iranian grandmaster was over-ambitious and put up poor resistance, having played online...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-11",
          "pubDate" : "Wed, 29 Jun 2022 11:42:00 -0700",
-         "title" : "Watch LIVE: FIDE Candidates Tournament Round 11"
+         "title" : "Nepomniachtchi On The Brink As Firouzja Goes Berserk"
       },
       {
          "description" : " <p class=\"lead\">Round 10 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games, and a 3-way tie for 2nd place with Caruana, Nakamura and Ding Liren. Nepomniachtchi still remains at the top with a +1.5 lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-8.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733367_840aa095a1_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733412_d27068b305_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=",
@@ -338,7 +402,7 @@ news_feed (
          "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION VADODRA"
       },
       {
-         "description" : "Day 12 : KEVADIA Smt Geetaben Rathva, Member of Parliament received the Torch at Kevadia from GM Ankit Rajpara and handed over to GM Tejas",
+         "description" : "Day 12 : VADODARA Hon'ble Revenue Minister of Gujarat Shri Rajendra Trivedi received the Torch from GM Tejas Bakre and handed over to GM Ankit",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -354,7 +418,7 @@ news_feed (
          "title" : "WSTCC 2022 - updated 29/6/22!"
       },
       {
-         "description" : " IM Nestor Tomas Velez BetancourtMay 5th, 1956 June 28, 2022 It is with regret that The Chess Drum announces the passing of Cuban International Master Nestor Velez. According to social media sources, he passes away this afternoon. Correspondence International Master MI Jos&eacute; Guillermo De La Rosa Sol&oacute;rzano sent the following message to The Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/\">IM Nestor Velez passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " IM Nestor Tomas Velez BetancourtMay 5th, 1956 June 28, 2022 It is with regret that The Chess Drum announces the passing of Cuban International Master Nestor Velez. According to social media sources, he passed away this afternoon. Correspondence International Master MI Jos&eacute; Guillermo De La Rosa Sol&oacute;rzano sent the following message to The Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/\">IM Nestor Velez passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/",
@@ -656,14 +720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-%E2%80%9Cchess-numbers%E2%80%9D-works-day-8",
          "pubDate" : "Sun, 26 Jun 2022 17:29:35 +0000",
          "title" : "How \"Chess By The Numbers\" Works | Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.06.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-7\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-7",
-         "pubDate" : "Sun, 26 Jun 2022 14:29:35 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 7"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 85th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -1330,14 +1386,6 @@ news_feed (
          "title" : "Arkady Dvorkovich: 'I had pressure from both sides'"
       },
       {
-         "description" : " <p class=\"lead\">Ian Nepomniachtchi beat Alireza Firouzja with White pieces in 39 moves. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52163364205_d3861aeea1_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE | Stev Bonhage</div> </div> Ian had a good start in the Candidates Tournament. He scored 3 points in 4 rounds. He is now leading in the event. The inevitable question we ask ourselves is whether Carlsen will agree to play against Nepo (again!) should the Russian end up winning the Candidates. However, the Candidates is far from over and the outcome is not clear, but Nepo has good chances to win it the second time in a row. ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/ian-nepomniachtchi-defeated-alireza-firouzja-in-round-4-of-the-f/",
-         "pubDate" : "Tue, 21 Jun 2022 16:19:45 +0000",
-         "title" : "Nepomniachtchi defeated Firouzja in Round 4 of the FIDE Candidates"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1874,14 +1922,6 @@ news_feed (
          "title" : "Prague Chess Festival: Games and standings"
       },
       {
-         "description" : "The first round of the Candidates will start today at 15.00 CEST (09.00 ET, 18.30 IST) in Madrid, Spain. At the press conference that started the Candidates officially, Fabiano Caruana, who has already played in three Candidates Tournaments, and who was the only player participating in the press conference, explained which tournament strategy promises success. Report and video...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/press-conference-opens-candidates-tournament",
-         "pubDate" : "Fri, 17 Jun 2022 09:03:40 +0100",
-         "title" : "Press conference opens Candidates Tournament"
-      },
-      {
          "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2023 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. The competition is open to British residents only and entry is free. Its prize fund is expected to be at least &pound;1,200, plus awards to juniors. <a href=\"https://www.theguardian.",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1986,14 +2026,6 @@ news_feed (
          "title" : "PM Modi to launch torch relay for Chess Olympiad on June 19"
       },
       {
-         "description" : "Titled Tuesday on June 14 was won by American GM Jeffery Xiong in the early tournament and Ukrainian GM Vitaliy Bernadskiy in the late tournament. Both players won outright with scores of 9.5/11. Bernadskiy, seeded 51st in the late field, defeated...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-bernadskiy-win-titled-tuesday-june-14-2022",
-         "pubDate" : "Wed, 15 Jun 2022 07:52:43 -0700",
-         "title" : "Ukrainian Bernadskiy Scores Big Upset Following Xiong Win"
-      },
-      {
          "description" : " Congratulations to Brian Jones, who has been appointed as a Member of the Order of Australia. The rather brief citation was for \"For significant service to chess at the elite level.\", although those that know Brian recognise that his achievements were far more significant than that. Fortunately the expanded details can be <a href=\"https://honours.pmc.gov.au/honours/awards/2011555\">found here</a>, which list the many roles he has filled in Australian and international chess. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2008,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1811",
          "pubDate" : "Wed, 15 Jun 2022 09:22:45 +0000",
          "title" : "Latvia launches Chess in Prisons programme"
-      },
-      {
-         "description" : "The Chess.com College Ambassador Program (CAP) was announced in early April, and the Summer Season has only just begun! Our Summer Season is a fun and rewarding way to keep college chess clubs active over the summer and give chess-loving college s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-college-ambaassador-summer-season-2022",
-         "pubDate" : "Tue, 14 Jun 2022 15:14:00 -0700",
-         "title" : "Announcing the Chess.com College Ambassador Summer Season"
       },
       {
          "description" : "",
@@ -2048,14 +2072,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
          "pubDate" : "Tue, 14 Jun 2022 10:00:00 +0400",
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "IM Vaishali R defeated the reigning Women&#39;s World Blitz Champion, IM Bibisara Assaubayeva, in the first round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Vaishali led through the blitz games but had to fight ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-vaishali-assaubayeva",
-         "pubDate" : "Mon, 13 Jun 2022 15:06:52 -0700",
-         "title" : "Vaishali Breaks Assaubayeva's Stunning Streak To Seal Victory in Epic Final Game"
       },
       {
          "description" : "",
@@ -2216,14 +2232,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/06/10/attacking-strategies-for-club-players-how-to-create-a-deadly-attack-on-the-enemy-king-2/",
          "pubDate" : "Fri, 10 Jun 2022 00:10:50 +0000",
          "title" : "Attacking Strategies for Club Players: How to Create a Deadly Attack on the Enemy King"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1803",
-         "pubDate" : "Thu, 09 Jun 2022 15:30:55 +0000",
-         "title" : "Presidential ticket candidacies announced"
       }
    ]
 }
