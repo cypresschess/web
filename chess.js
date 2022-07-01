@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two most relevant games for the standings finished decisively in round 11 of the Candidates Tournament. Ian Nepomniachtchi beat Alireza Firouzja with black, while Fabiano Caruana first failed to make the most of a better position and then went astray against Ding Liren. This was Ding's third straight victory, which leaves him in sole second place, 1&frac12; points behind Nepo. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r11",
+         "pubDate" : "Fri, 01 Jul 2022 04:45:00 +0100",
+         "title" : "Candidates R11: Nepo wins, Caruana collapses"
+      },
+      {
+         "description" : "Ian Nepomniachtchi scores another win with the black pieces after Firouzja spends the whole night playing hyper bullet chess online. The former challenger was close to even extending his 1.5-point lead, but Ding Liren managed to prolong his winning streak to 3 games in a row, beating Fabiano Caruana in a nerve-wracking endgame. Round 11 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r11-recap/",
+         "pubDate" : "Thu, 30 Jun 2022 23:55:04 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R11 recap"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -154,14 +170,6 @@ news_feed (
          "title" : "It might be all over "
       },
       {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Thu, 30 Jun 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 11: Live"
-      },
-      {
          "description" : "The FIDE World Senior 50+ and 65+ Team Chess Championships 2022&#xA0;took place from 20-29 June in Acqui Terme. England won three world titles as England&#x2019;s men won both the World Over 50 Championship and the World Over 65 Championship. England Women won the Women&#x2019;s World Over 50 Championship, making it a triple success. 50+ section: []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -240,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-candidates-2022-r11-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
          "pubDate" : "Thu, 30 Jun 2022 09:23:00 +0000",
          "title" : "FIDE Candidates 2022 R11 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Anna-Maja Kazarian, in collaboration with Worldchess.com. Round 11 pairings:&#160;Hikaru Nakamura &#x2013; Richard Rapport&#160;/&#160;Alireza Firouzja &#x2013; Ian Nepomniachtchi&#160; /&#160;Teimour Radjabov &#x2013; Jan-Krzysztof Duda&#160;/&#160;Fabiano Caruana &#x2013; Ding Liren Latest from the Candidates 2022:&#160;Anish Giri: &#x201C;The desperate people are getting more desperate&#x201D;&#160;/&#160;Magnus Carlsen is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r11-live-with-gm-daniil-yuffa-and-wim-anna-maja-kazarian/",
-         "pubDate" : "Thu, 30 Jun 2022 09:21:00 +0000",
-         "title" : "FIDE Candidates 2022 R11 live with GM Daniil Yuffa and WIM Anna-Maja Kazarian"
       },
       {
          "description" : "European Individual Championship 2022: Analyses by the new champion Matthias Bluebaum as well as Gabriel Sargissian, Ivan Saric, Ruslan Ponomariov, Aryan Tari, Ivan Cheparinov, Rasmus Svane, Yuriy Kuzubov, Maxime Lagarde and others - Looking for a fighting concept against Trompowsky? In her opening article, Petra Papp relies on 1.d4 Nf6 2.Bg5 c5!? - \"Special\" on the FIDE World Championship 1997: exclusive collection of 22 extensively annotated games + articles on strategy and endgame highlights - Don't miss: Jan Markos' new training series \"Practical Tips for the Tournament Player\" Vol. I: \"Time management\" - Or jump straight into interactive training with Robert Ris and replay a current mas",
@@ -2240,14 +2240,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
          "pubDate" : "Fri, 10 Jun 2022 10:52:00 +0400",
          "title" : "10th Norway Chess Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : " From the publisher: &#8220;Attacking your opponent's king is not just a shortcut to victory, it's also one of the most enjoyable and gratifying experiences in chess. If you want to win more games you should become a better attacker. Studying typical attacking motifs and ideas easily brings dividends while you are having a good time. <a href=\"http://britishchessnews.com/2022/06/10/attacking-strategies-for-club-players-how-to-create-a-deadly-attack-on-the-enemy-king-2/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Attacking Strategies for Club Players: How to Create a Deadly Attack on the Enemy King</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofol",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/06/10/attacking-strategies-for-club-players-how-to-create-a-deadly-attack-on-the-enemy-king-2/",
-         "pubDate" : "Fri, 10 Jun 2022 00:10:50 +0000",
-         "title" : "Attacking Strategies for Club Players: How to Create a Deadly Attack on the Enemy King"
       }
    ]
 }
