@@ -250,14 +250,6 @@ news_feed (
          "title" : "Chess.com Announces Collegiate Chess League 2022-2023 Season"
       },
       {
-         "description" : "The 2022 Jerry Spann Memorial &#x2013; Oklahoma Open&#38;State Chess Championship&#xA0;took place over the weekend&#xA0;June 25-26 in Broken Arrow, Tulsa, Oklahoma. The event was played in three sections: Open, Reserve (U1700) and Amateur (U1300), over 5 swiss rounds, with time control of 90 minutes for the whole game + 30 seconds of increment, and gathered 90 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-jerry-spann-memorial-oklahoma-open-state-championship-concluded-in-tulsa/",
-         "pubDate" : "Thu, 30 Jun 2022 15:32:18 +0000",
-         "title" : "2022 Jerry Spann Memorial - Oklahoma Open & State Championship concluded in Tulsa"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-12-lichessorg\"><img s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
