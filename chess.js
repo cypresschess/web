@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 12 pairings:&#160;Richard Rapport &#x2013; Fabiano Caruana / Ding Liren &#x2013; Teimour Radjabov / Jan-Krzysztof Duda &#x2013; Alireza Firouzja / Ian Nepomniachtchi &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r12-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
+         "pubDate" : "Fri, 01 Jul 2022 10:46:00 +0000",
+         "title" : "FIDE Candidates 2022 R12 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Jesse Niki February, in collaboration with Worldchess.com.&#160;Round 12 pairings:Richard Rapport &#x2013; Fabiano Caruana / Ding Liren &#x2013; Teimour Radjabov / Jan-Krzysztof Duda &#x2013; Alireza Firouzja / Ian Nepomniachtchi &#x2013; Hikaru Nakamura Latest from the Candidates: Nepo&#x2019;s white shirt &#x2013; a candid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r12-live-with-gm-daniil-yuffa-and-wim-jesse-niki-february/",
+         "pubDate" : "Fri, 01 Jul 2022 10:45:00 +0000",
+         "title" : "FIDE Candidates 2022 R12 live with GM Daniil Yuffa and WIM Jesse Niki February"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://twitter.com/TarjeiJS\">Tarjei J. Svensen</a> revealed on <a href=\"https://new.chess24.com/wall/news/carlsen-confirms-world-series-of-poker-participation\">chess24</a> that the World Champion Magnus Carlsen will participate in the World Series of Poker (WSOP) in Las Vegas next week. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-07-01-at-12.51.56-PM.png\" width=\"1904\" height=\"1062\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen just bluffed with 0% chance to win! Photo: <a href=\"https://www.youtube.com/watch?v=nbPTZP5tkNc\">Magnus Carlsen Youtube Channel</a></div> </div> With the chess community wondering if Ca",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-turning-to-poker/",
+         "pubDate" : "Fri, 01 Jul 2022 10:02:36 +0000",
+         "title" : "Magnus Carlsen is turning to Poker"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://english.elpais.com/economy-and-business/2022-06-29/hikaru-nakamura-meet-the-worlds-wealthiest-chess-player.html\">El Pais</a> published an article claiming that GM Hikaru Nakamura is the world's wealthiest chess player. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hikaru-Nakamura-World-Chess.png\" width=\"2342\" height=\"1556\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> According to multiple sources the 34-year-old GM has a fortune around $50 million with only a small percentage of those earnings coming from prizes he has won in chess competitions. \"I am losing money in this tournament [Candidates 2022],\"",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nakamuras-fortune-is-estimated-around-50-million/",
+         "pubDate" : "Fri, 01 Jul 2022 09:47:16 +0000",
+         "title" : "Nakamura's fortune is estimated around $50 million"
+      },
+      {
+         "description" : "The Chessable recap of Candidates R11 by Anish Giri is here. With Carlsen still unsure about defending the World Champion title, the stakes for the second place are high. Videos by Anish Giri:&#xA0;R9 Candidates recap&#xA0;/&#xA0;R8 Candidates recap&#xA0;/ R7 Candidates recap /&#xA0;R6 Candidates recap&#xA0;/&#xA0;R5 Candidates recap&#xA0;/&#xA0;R4 Candidates recap&#xA0;/&#xA0;R3 Candidates recap&#xA0;/&#xA0;R2 Candidates recap&#xA0;/&#xA0;R1 Candidates recap New:&#xA0;a special []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/high-stakes-for-the-second-place-at-the-candidates-r11-recap-by-anish-giri/",
+         "pubDate" : "Fri, 01 Jul 2022 09:45:12 +0000",
+         "title" : "High stakes for the second place at the Candidates - R11 recap by Anish Giri"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/lUFgg5AVFRM?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-12/",
+         "pubDate" : "Fri, 01 Jul 2022 08:58:41 +0000",
+         "title" : "Watch the FIDE Candidates Tournament 2022: Round 12"
+      },
+      {
+         "description" : "Ian Nepomniachtchi crushed Alireza Firouzja in Round 11 of the FIDE Candidates Tournament, but just when it looked as though that would extend his lead to 2 points with just 3 rounds to go, Ding Liren won a position he'd been struggling to save against Fabiano Caruana. The Chinese no. 1's 3rd win in a row leaves him 1.5 points behind the leader.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-11-nepo-refutes-firouzja-s-bullet-gambit",
+         "pubDate" : "Fri, 01 Jul 2022 08:38:34 +0000",
+         "title" : "Madrid Candidates 11: Nepo refutes Firouzja's Bullet Gambit"
+      },
+      {
+         "description" : "Follow the action as it happens from 1:30pm as the national championships returning after a two year hiatus with the 101st&#160;contest. Live commentary from GM...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/counties-championship-finals-live-on-saturday-2-7-22/",
+         "pubDate" : "Fri, 01 Jul 2022 08:08:57 +0000",
+         "title" : "Counties Championship Finals live on Saturday 2/7/22"
+      },
+      {
          "description" : "Ian Nepomniachtchi won an important Round 11 game against Alireza Firouzja to be one step closer to winning the FIDE Candidates Chess Tournament 2022. He has a 1.5 points advantage over the second-placed Ding Liren who yesterday scored his third consecutive victory in the tournament. Round 12 pairings:Richard Rapport &#x2013; Fabiano CaruanaDing Liren &#x2013; Teimour []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +82,7 @@ news_feed (
          "title" : "Polina Tsedenova celebrates 25 years in FIDE"
       },
       {
-         "description" : " England over-5os, lead by Michael Adams and Nigel Short, dominated the world seniors while Magnus Carlsen's defeated 2021 challenger stakes his claim for second attempt England's over-50 and over-65 teams completed a historic golden double on Wednesday in the world senior championships at Acqui Terme, Italy, Both led their tournaments from start to finish, overcame some dubious positions en route, and were virtually sure of victory with a round to spare. The seven-times British champion Michael Adams turned 50 last November, and the Cornishman played a key role by winning an apparently drawn knight ending in the decisive match against the United States, then outplaying Italy's Alberto David",
+         "description" : " England over-50s, led by Michael Adams and Nigel Short, dominated the world seniors event in Italy England's over-50 and over-65 teams completed a historic golden double on Wednesday in the world senior championships at Acqui Terme, Italy, Both led their tournaments from start to finish, overcame some dubious positions en route, and were virtually sure of victory with a round to spare. The seven-times British champion Michael Adams turned 50 last November, and the Cornishman played a key role by winning an apparently drawn knight ending in the decisive match against the United States, then outplaying Italy's Alberto David in a seemingly level rook ending. More England games can be viewed in",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jul/01/chess-england-win-three-world-titles-while-ian-nepomniachtchi-nears-victory",
@@ -42,11 +106,11 @@ news_feed (
          "title" : "Candidates R11: Nepo wins, Caruana collapses"
       },
       {
-         "description" : "On Wednesday, FIDE, the International Chess Federation, announced a change in the format for the Women&#39;s Candidates Tournament. Instead of mirroring the format of the general World Championship cycle with a double round robin, the eight qualified ...",
+         "description" : "On Wednesday, the International Chess Federation (FIDE) announced a change in the format for the Women&#39;s Candidates Tournament. Instead of mirroring the format of the general world championship cycle with a double round robin, the eight qualified ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-womens-candidates-new-format",
-         "pubDate" : "Thu, 30 Jun 2022 20:25:38 -0700",
+         "pubDate" : "Thu, 30 Jun 2022 20:25:00 -0700",
          "title" : "FIDE Announces New Knockout Format for Women's Candidates"
       },
       {
@@ -210,22 +274,6 @@ news_feed (
          "title" : "It might be all over "
       },
       {
-         "description" : "The FIDE World Senior 50+ and 65+ Team Chess Championships 2022&#xA0;took place from 20-29 June in Acqui Terme. England won three world titles as England&#x2019;s men won both the World Over 50 Championship and the World Over 65 Championship. England Women won the Women&#x2019;s World Over 50 Championship, making it a triple success. 50+ section: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/triple-gold-for-england-at-the-fide-world-senior-chess-championship-2022/",
-         "pubDate" : "Thu, 30 Jun 2022 12:28:21 +0000",
-         "title" : "Triple gold for England at the FIDE World Senior Chess Championship 2022"
-      },
-      {
-         "description" : "Alireza Firouzja yesterday suffered a tough loss to Hikaru Nakamura in the 10th round of the FIDE Candidates Chess 2022. (Replay the game: Hikaru Nakamura Alireza Firouzja 1-0, R10) But not only He also suffered a massive loss against Daniel Naroditsky as they spent late-night hours playing a hyper-bullet match of 250 games (with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/firouzja-prepares-for-nepo-with-the-250-games-hyper-bullet-match-vs-naroditsky/",
-         "pubDate" : "Thu, 30 Jun 2022 11:52:57 +0000",
-         "title" : "Firouzja prepares for Nepo with the 250 games hyper-bullet match vs Naroditsky"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #522 Merijn van Delft looks at a positional masterpiece, in which the knights got dancing and the pawns pushed ahead. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1839",
          "pubDate" : "Thu, 30 Jun 2022 09:38:47 +0000",
          "title" : "FIDE World Senior Team Championship 2022: England wins golden double"
-      },
-      {
-         "description" : "While the FIDE Candidates Chess Tournament 2022 goes slowly towards an end, all the eyes are on the reigning World Chess Champion Magnus Carlsen who is considering his retirement from the World Chess Championship Matches. In one of the latest interviews, Magnus Carlsen explained he is not closer to playing another World Championship Match than []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-is-mysterious-about-his-participation-in-the-world-championship-match-tweetoftheday/",
-         "pubDate" : "Thu, 30 Jun 2022 09:29:16 +0000",
-         "title" : "Magnus Carlsen is mysterious about his participation in the World Championship Match #TweetOftheDay"
       },
       {
          "description" : "European Individual Championship 2022: Analyses by the new champion Matthias Bluebaum as well as Gabriel Sargissian, Ivan Saric, Ruslan Ponomariov, Aryan Tari, Ivan Cheparinov, Rasmus Svane, Yuriy Kuzubov, Maxime Lagarde and others - Looking for a fighting concept against Trompowsky? In her opening article, Petra Papp relies on 1.d4 Nf6 2.Bg5 c5!? - \"Special\" on the FIDE World Championship 1997: exclusive collection of 22 extensively annotated games + articles on strategy and endgame highlights - Don't miss: Jan Markos' new training series \"Practical Tips for the Tournament Player\" Vol. I: \"Time management\" - Or jump straight into interactive training with Robert Ris and replay a current mas",
@@ -1274,14 +1314,6 @@ news_feed (
          "title" : "Nepomniachtchi, Caruana Pick Up Wins In Spectacular 6th Round"
       },
       {
-         "description" : " <p class=\"lead\">Round 5 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Hikaru Nakamura and Ding Liren missing an opportunity to win against Nepomniachtchi and Radjabov respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52165473219_e348292cc6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52165473699_146137b504_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52164211417_783be7d13b_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://world",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-and-liren-missed-their-chances-to-win-on-round-5-of-the/",
-         "pubDate" : "Wed, 22 Jun 2022 18:07:07 +0000",
-         "title" : "Nakamura and Liren missed their chances to win on Round 5 of the 2022 Candidates"
-      },
-      {
          "description" : "Chess.com is happy to announce that we have fully launched our new homepage. With a new design and convenient shortcuts to the features you use and love the most, this update will make your chess experience even better! Let&#39;s take a tour of your...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1312,14 +1344,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-indian-im-nitin-baghdasaryan-in-joint-lead/articleshow/92390785.cms",
          "pubDate" : "Wed, 22 Jun 2022 12:36:09 +0000",
          "title" : "Chennai Open chess: Indian IM Nitin, Baghdasaryan in joint lead"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Sh1IN4jD6fo?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2022-round-5/",
-         "pubDate" : "Wed, 22 Jun 2022 12:00:00 +0000",
-         "title" : "FIDE Candidates Tournament 2022: Round 5"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ian Nepomniachtchi</strong> has been asked by <strong>FIDE</strong> not to bring a thermos nor wear the jacket with the logo of his sponsor <strong>Nornickel</strong> any more at the <strong>Candidates Tournament</strong>. The mining company was also a <a href=\"https://www.fide.com/news/1194\">FIDE partner</a> until contracts with Russian sponsors were terminated after the start of Russia's invasion in Ukraine. </div> ",
@@ -1416,14 +1440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-5",
          "pubDate" : "Tue, 21 Jun 2022 10:59:00 -0700",
          "title" : "Nepomniachtchi Dodges Bullet, Maintains Lead In Madrid"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 4 of the 2022 Candidates Tournament ended with Ian Nepomniachtchi winning against Alireza Firouzja. It was the only decisive game of the day, the rest ended in a draw. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"799\" data-ratio=\"1.4990619136961\"> <img src=\"https://worldchess.com/news/pictures/52163364205_d3861aeea1_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52163364140_b463aa75c2_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162874008_eef72db779_c.jpg\" width=\"799\" height=\"533\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162872766_b43469b7b6_c.jp",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/r4-candidates-ian-nepomniachtchi-is-the-sole-leader/",
-         "pubDate" : "Tue, 21 Jun 2022 17:35:57 +0000",
-         "title" : "R4 Candidates: Ian Nepomniachtchi is the sole leader"
       },
       {
          "description" : "In an exclusive interview with chess24, FIDE President Arkady Dvorkovich speaks about the pressure he is facing at home in Russia, the criticism of his candidacy, his election campaign, the Candidates Tournament, Sergey Karjakin and Magnus Carlsen potentially giving up his World Championship title.",
@@ -1968,14 +1984,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jun/17/chess-national-solving-championship-open-for-entries-from-britain",
          "pubDate" : "Fri, 17 Jun 2022 07:00:04 +0000",
          "title" : "Chess: national solving championship open for entries from Britain"
-      },
-      {
-         "description" : "Spain, hosting its first major FIDE event in 18 years, is doing its utmost to make sure the playing conditions at the 2022 FIDE Candidates Tournament are of the highest standard. The eight competitors are fighting for a spot in a lucrative World Championship match.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/playing-in-a-palace-inside-the-hidden-treasure-hosting-the-candidates",
-         "pubDate" : "Fri, 17 Jun 2022 06:00:00 +0000",
-         "title" : "Playing in a Palace: Inside the 'hidden treasure' hosting the Candidates"
       },
       {
          "description" : "",
