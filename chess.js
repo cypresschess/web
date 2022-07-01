@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi won an important Round 11 game against Alireza Firouzja to be one step closer to winning the FIDE Candidates Chess Tournament 2022. He has a 1.5 points advantage over the second-placed Ding Liren who yesterday scored his third consecutive victory in the tournament. Round 12 pairings:Richard Rapport &#x2013; Fabiano CaruanaDing Liren &#x2013; Teimour []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r12-preview/",
+         "pubDate" : "Fri, 01 Jul 2022 07:17:08 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R12 preview"
+      },
+      {
+         "description" : "July 1st, 2022 marks the 25th year with FIDE for Polina Tsedenova. Polina Tsedenova is a professional interpreter and International Chess Organizer who started working in FIDE in 1997. She organized all the FIDE Congresses since 1997, with exception of the 2020 FIDE Congress: &#8220;I clearly remember the 1997 FIDE Congress in Chisinau (Moldova) because []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polina-tsedenova-celebrates-25-years-in-fide/",
+         "pubDate" : "Fri, 01 Jul 2022 07:13:00 +0000",
+         "title" : "Polina Tsedenova celebrates 25 years in FIDE"
+      },
+      {
+         "description" : " England over-5os, lead by Michael Adams and Nigel Short, dominated the world seniors while Magnus Carlsen's defeated 2021 challenger stakes his claim for second attempt England's over-50 and over-65 teams completed a historic golden double on Wednesday in the world senior championships at Acqui Terme, Italy, Both led their tournaments from start to finish, overcame some dubious positions en route, and were virtually sure of victory with a round to spare. The seven-times British champion Michael Adams turned 50 last November, and the Cornishman played a key role by winning an apparently drawn knight ending in the decisive match against the United States, then outplaying Italy's Alberto David",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jul/01/chess-england-win-three-world-titles-while-ian-nepomniachtchi-nears-victory",
+         "pubDate" : "Fri, 01 Jul 2022 07:00:05 +0000",
+         "title" : "Chess: England win three world titles while Ian Nepomniachtchi nears victory"
+      },
+      {
+         "description" : "Live Game links for MPL 32nd National Under 17 OPEN &#38; GIRLS Chess Championships 2022. MPL 32 National (U-17) Open Chess Championships 2022 https://view.livechesscloud.com#2a49e879-a8a6-417f-a73b-baa97e9ed0b9 MPL",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-links-mpl-32nd-national-under-17-open-girls-chess-championships-2022/",
+         "pubDate" : "Fri, 01 Jul 2022 05:47:13 +0000",
+         "title" : "Live Game links: MPL 32nd National Under 17 OPEN & GIRLS Chess Championships 2022"
+      },
+      {
          "description" : "The two most relevant games for the standings finished decisively in round 11 of the Candidates Tournament. Ian Nepomniachtchi beat Alireza Firouzja with black, while Fabiano Caruana first failed to make the most of a better position and then went astray against Ding Liren. This was Ding's third straight victory, which leaves him in sole second place, 1&frac12; points behind Nepo. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-r11",
          "pubDate" : "Fri, 01 Jul 2022 04:45:00 +0100",
          "title" : "Candidates R11: Nepo wins, Caruana collapses"
+      },
+      {
+         "description" : "On Wednesday, FIDE, the International Chess Federation, announced a change in the format for the Women&#39;s Candidates Tournament. Instead of mirroring the format of the general World Championship cycle with a double round robin, the eight qualified ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-womens-candidates-new-format",
+         "pubDate" : "Thu, 30 Jun 2022 20:25:38 -0700",
+         "title" : "FIDE Announces New Knockout Format for Women's Candidates"
       },
       {
          "description" : "Ian Nepomniachtchi scores another win with the black pieces after Firouzja spends the whole night playing hyper bullet chess online. The former challenger was close to even extending his 1.5-point lead, but Ding Liren managed to prolong his winning streak to 3 games in a row, beating Fabiano Caruana in a nerve-wracking endgame. Round 11 []",
@@ -240,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-is-mysterious-about-his-participation-in-the-world-championship-match-tweetoftheday/",
          "pubDate" : "Thu, 30 Jun 2022 09:29:16 +0000",
          "title" : "Magnus Carlsen is mysterious about his participation in the World Championship Match #TweetOftheDay"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 11 pairings:&#xA0;Hikaru Nakamura &#x2013; Richard Rapport&#xA0;/&#xA0;Alireza Firouzja &#x2013; Ian Nepomniachtchi&#xA0;/&#xA0;Teimour Radjabov &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Fabiano Caruana &#x2013; Ding Liren Latest from the Candidates []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r11-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
-         "pubDate" : "Thu, 30 Jun 2022 09:23:00 +0000",
-         "title" : "FIDE Candidates 2022 R11 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
       },
       {
          "description" : "European Individual Championship 2022: Analyses by the new champion Matthias Bluebaum as well as Gabriel Sargissian, Ivan Saric, Ruslan Ponomariov, Aryan Tari, Ivan Cheparinov, Rasmus Svane, Yuriy Kuzubov, Maxime Lagarde and others - Looking for a fighting concept against Trompowsky? In her opening article, Petra Papp relies on 1.d4 Nf6 2.Bg5 c5!? - \"Special\" on the FIDE World Championship 1997: exclusive collection of 22 extensively annotated games + articles on strategy and endgame highlights - Don't miss: Jan Markos' new training series \"Practical Tips for the Tournament Player\" Vol. I: \"Time management\" - Or jump straight into interactive training with Robert Ris and replay a current mas",
@@ -1570,14 +1602,6 @@ news_feed (
          "title" : "Indian Oil \"Acers\" Sports Scholarship scheme"
       },
       {
-         "description" : "On 19 June 2022 ,history creates at IGI Stadium ,New Delhi as Hon'ble Prime Minister Shri Narendra Modi Ji inaugurates the Torch Relay Ceremony for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/history-creates-as-honble-prime-minister-shri-narendra-modi-ji-inaugurates-the-torch-relay-ceremony-for-44-chess-olympiad/",
-         "pubDate" : "Mon, 20 Jun 2022 13:35:24 +0000",
-         "title" : "History creates as Hon'ble Prime Minister Shri Narendra Modi Ji inaugurates the Torch Relay Ceremony for 44 Chess Olympiad"
-      },
-      {
          "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1986,14 +2010,6 @@ news_feed (
          "title" : "Master Chess Web Show (18)"
       },
       {
-         "description" : "More than any other chess event, the FIDE Candidates Tournament, which starts on Friday in Madrid is a winner-takes-all tournament. Finishing first, and only first, means facing World Champion Magnus Carlsen in a match. GM Fabiano Caruana, who att...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-press-conference-fabiano-caruana",
-         "pubDate" : "Thu, 16 Jun 2022 01:13:00 -0700",
-         "title" : "Caruana To Play His 4th Candidates: 'I Don't Actually Look At The Prize Fund'"
-      },
-      {
          "description" : "The 2022 European Corporate Chess Championship takes place on weekend 18-19 June in Rotterdam, Netherlands. The tournament is played on&#160;a luxury cruise ship of Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour. 17 teams will participate in the event which will be played in 9 rounds, Swiss system, with time control: 15 minutes for the whole&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2232,14 +2248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2022-live",
          "pubDate" : "Fri, 10 Jun 2022 16:55:00 +0100",
          "title" : "Norway Chess: Games and standings"
-      },
-      {
-         "description" : " The 10th Norway Chess tournament took place in Stavanger May 31st to June 10th 2022. The field was: Magnus Carlsen, Wesley So, Shakhriyar Mamedyravov, Anish Giri, Teymur Rajabov, Viswanathan Anand, Maxime Vachier-Lagrave, Veselin Topalov, Wang Hao and Aryan Tari. Magnus Carlsen took clear first place ahead of Shakhriyar Mamedayrov, Viswanathan Anand and MVL. The placings of 8 of the 10 players were as they would have been with a conventional tournament without the use of the special scoring and Armageddon games only the bottom two players switched places. This win is Carlsen's fifth win in ten editions of the event and his fourth in a row. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-norway-chess-tournament-2022",
-         "pubDate" : "Fri, 10 Jun 2022 10:52:00 +0400",
-         "title" : "10th Norway Chess Tournament 2022 - Games and Results"
       }
    ]
 }
