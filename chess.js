@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "DOWNLOAD LIST OF VOLUNTEERS",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/list-of-selected-volunteers-for-44th-fide-chess-olympiad/",
+         "pubDate" : "Fri, 01 Jul 2022 15:09:45 +0000",
+         "title" : "LIST OF SELECTED VOLUNTEERS FOR 44TH FIDE CHESS OLYMPIAD"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-13-lichessorg\"><img s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-13-lichessorg",
+         "pubDate" : "Fri, 01 Jul 2022 14:33:17 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 13 | lichess.org"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Fri, 01 Jul 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 12: Live"
+      },
+      {
          "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 12 pairings:&#160;Richard Rapport &#x2013; Fabiano Caruana / Ding Liren &#x2013; Teimour Radjabov / Jan-Krzysztof Duda &#x2013; Alireza Firouzja / Ian Nepomniachtchi &#x2013; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -170,12 +194,12 @@ news_feed (
          "title" : "Kevin Pryor shines at Emory Castle Camp"
       },
       {
-         "description" : "GM Ian Nepomniachtchi won again at the 2022 Candidates Tournament and leads by a wide margin with a score of 8/11. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion. Round 12 begins at...",
+         "description" : "GM Ian Nepomniachtchi won again at the 2022 Candidates Tournament and leads by a wide margin with a score of 8/11. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champion.&#38;nbsp;Round 12 is und...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-12",
          "pubDate" : "Thu, 30 Jun 2022 12:32:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 12"
+         "title" : "Watch LIVE: FIDE Candidates Tournament Round 12"
       },
       {
          "description" : " <p class=\"lead\">Round 11 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nepomniachtchi winning his 5th game, this time against Firouzja, and leading the tournament with 8/11, 1,5 points ahead from Ding Liren who won against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-9.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52183109492_ee13b67d83_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52184140238_002c162a3e_k.jpg\" width=\"2048\" height=\"1365\" alt",
@@ -498,7 +522,7 @@ news_feed (
          "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION VADODRA"
       },
       {
-         "description" : "Day 12 : VADODARA Hon'ble Revenue Minister of Gujarat Shri Rajendra Trivedi received the Torch from GM Tejas Bakre and handed over to GM Ankit",
+         "description" : "Day 13 : DAMAN &#38; DIU Hon'ble Administrator of Dadra Nagar Haveli, Daman, Diu &#38; Lakshadeep Shri Praful Patel received the torch at Daman in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -672,14 +696,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/3-decisive-game-on-round-9-of-the-candidates-2022-nepo-leads-wit/",
          "pubDate" : "Mon, 27 Jun 2022 18:49:25 +0000",
          "title" : "3 Decisive Games In Round 9 of the Candidates 2022."
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Jeffery Xiong joins the show during Round 9 to analyze and talk about his upcoming events. 2022.06.27<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jeffery-xiong-fabiano-has-great-prep-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/T4FyW6QuK54.jpg?itok=riAQuGBL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jeffery-xiong-fabiano-has-great-prep-round-9",
-         "pubDate" : "Mon, 27 Jun 2022 17:30:45 +0000",
-         "title" : "Jeffery Xiong: Fabiano has Great Prep! | Round 9"
       },
       {
          "description" : "In the Endgame Magic Show #200 Karsten has a very special guest: Hou Yifan, four-time Women's World Champion and still the number one on the women's ranking list though the 28-year is semi-retired after becoming a professor at Shenzhen University in 2020. In the show Karsten and Hou look at endgames from Hou's illustrious career. This Endgame Magic Show is free for all. | Photo: mp.weixin.qq.com",
@@ -1602,14 +1618,6 @@ news_feed (
          "title" : "Young Stars benefit from Kasparov's session"
       },
       {
-         "description" : "Indian Oil has been at the forefront of the corporate endeavour towards promulgation of sports across the country. IndianOil has launched Sports Scholarship scheme \"Acers\" The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/indian-oil-acers-sports-scholarship-scheme/",
-         "pubDate" : "Mon, 20 Jun 2022 13:46:57 +0000",
-         "title" : "Indian Oil \"Acers\" Sports Scholarship scheme"
-      },
-      {
          "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/who-will-win-the-candidates-tournament-a-prediction",
          "pubDate" : "Fri, 17 Jun 2022 12:00:00 +0100",
          "title" : "Who will win the Candidates Tournament? A prediction"
-      },
-      {
-         "description" : "In middlegames, pieces often are scrambled all over the place. Svitlana shows us how to find out, which piece to move next, and where to move it to. Pawn structures start from an opening, and moving the correct piece in the middlegame has to start with an understanding of what you want to achieve with your position.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-43",
-         "pubDate" : "Fri, 17 Jun 2022 10:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Moving the right piece in the middlegame"
       },
       {
          "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The final round kicks off at 11.00 CEST (05.00 EDT, 13.30 IST). Follow the games with live commentary!",
