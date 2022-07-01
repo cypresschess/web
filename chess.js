@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R12 recap Two rounds to go and two-point lead for Ian Nepomniachtchi. There were three draws, including the notorious Berlin draw featured in the central game Nepomniachtchi&#x2013;Nakamura, and one decisive game, where Radjabov crushed Ding Liren with black pieces in just 26 moves. After the 12th round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r12-recap/",
+         "pubDate" : "Fri, 01 Jul 2022 22:58:44 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R12 recap"
+      },
+      {
+         "description" : "Hikaru Nakamura decided to spend Friday evening playing chess in Madrid's park! After today's 7-minute draw against Ian Nepomniachtchi, Hikaru basically provided himself with an extra free day. With 12 played rounds at the FIDE Candidates Tournament, Nakamura ties for second place with Ding Liren. The stakes for second place are high with Carlsen still []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-playing-chess-in-madrids-park-tweetoftheday/",
+         "pubDate" : "Fri, 01 Jul 2022 22:51:00 +0000",
+         "title" : "Nakamura playing chess in Madrid's park #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1842",
+         "pubDate" : "Fri, 01 Jul 2022 22:16:03 +0000",
+         "title" : "Candidates 2022, Round 12: Nepomniachtchi half a step away from winning the Candidates"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after his quick draw against Hikaru Nakamura in Round 12 of the 2022 Candidates Tournament. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-not-surprised-nakamura%E2%80%99s-berlin-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/isDTnSNFH2k.jpg?itok=rFv8CiN_\" alt=\"\" /><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-not-surprised-nakamura%E2%80%99s-berlin-round-12",
+         "pubDate" : "Fri, 01 Jul 2022 20:33:42 +0000",
+         "title" : "Nepo: Not Surprised by Nakamura's Berlin | Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Hikaru Nakamura talks to WGM Anastasia Karlovich after his quick draw against Ian Nepomniachtchi in Round 12 of the 2022 Candidates Tournament. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-not-worth-it-risk-lot-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eBcz5Yo8yWA.jpg?itok=WHppiIG8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-not-worth-it-risk-lot-round-12",
+         "pubDate" : "Fri, 01 Jul 2022 20:33:42 +0000",
+         "title" : "Nakamura: Not Worth it to Risk a Lot | Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-12\"><img src=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-12",
+         "pubDate" : "Fri, 01 Jul 2022 20:33:42 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 12"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,6 +120,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-interesting-line-against-the-petroff",
          "pubDate" : "Fri, 01 Jul 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: An interesting line against the Petroff"
+      },
+      {
+         "description" : " Ian Nepomniachtchi edged ever closer to winning the Candidates tournament in Madrid and a World Chess Championship match early in 2023. Nepomniachtchi had the white pieces against Hikaru Nakamura and they played a well known sequence of moves to draw in only a few minutes. Nakamura said he didn't see any upside to going into a battle with black today where even if he won he was unlikely to overhaul Nepomniachtchi. After other results today Nepomniachtchi now only needs a draw to confirm tournament victory, I rather doubt it will turn out he needs any more points at all. The only decisive result of the day was an almost complete catastrophe with the white pieces for Ding Liren against Teimou",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-needs-at-most-just-one-more-draw-to-win-the-candidates",
+         "pubDate" : "Fri, 1 Jul 2022 20:31:00 +0400",
+         "title" : "Nepomniachtchi needs at most just one more draw to win the Candidates - 12"
       },
       {
          "description" : "Le Quang Liem celebrated his return to classical chess after 2,5 years pause. The Vietnamese Grandmaster played nine classical games during the month of June and finished clear second at the Prague Chess Festival (Replay the games here). He added 13 ELO points and is now 23rd in the world with 2722. The next event []",
@@ -234,14 +290,6 @@ news_feed (
          "title" : "2022 Candidates, Round 11: Nepomniachtchi on the verge of winning the Candidates as Ding breaks to second place"
       },
       {
-         "description" : "Ian Nepomniachtchi defeated Alireza Firouzja in the 11th round of the FIDE Candidates Chess 2022 to almost secure the first place in the event. Replay the game here In the post-game interview with WGM Dina Belenkaya, Nepomniachtchi spoke about Firouzja's decisions during the game: &#8220;It's hard to say what he (Firouzja) was doing. It's hard []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepos-white-shirt-a-candid-interview-with-the-candidates-leader/",
-         "pubDate" : "Thu, 30 Jun 2022 21:47:16 +0000",
-         "title" : "Nepo's white shirt - a candid interview with the Candidates leader"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after his win against Alireza Firouzja in Round 11 of the 2022 Candidates Tournament. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-firouzja-not-playing-his-normal-chess-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cx2DDNGafek.jpg?itok=q_zwuW_n\" alt=\"\" /",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -320,14 +368,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jonathan-tisdall-magnus-doesn%E2%80%99t-want-title-define-him-round-11",
          "pubDate" : "Thu, 30 Jun 2022 17:33:05 +0000",
          "title" : "Jonathan Tisdall: Magnus Doesn't Want Title to Define Him | Round 11"
-      },
-      {
-         "description" : "The Arsen Yeghiazaryan Memorial takes place from 1-9 July in Yerevan, Armenia. It is a 10-player round-robin tournament, dedicated to the memory of GM, FST and Honored Trainer of the Republic of Armenia Arsen Yeghiazaryan. The time control of the tournament is: 90 minutes for 40 moves, followed by 30 minutes to the end of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arsen-yeghiazaryan-memorial-2022/",
-         "pubDate" : "Thu, 30 Jun 2022 16:31:29 +0000",
-         "title" : "Arsen Yeghiazaryan Memorial 2022"
       },
       {
          "description" : "Chess.com is proud to announce that the Collegiate Chess League is returning for the 2022-2023 academic year in partnership with NACE Starleague, the largest collegiate esports league in North America. The Fall 2022 and Spring 2023 seasons will fe...",
@@ -450,14 +490,6 @@ news_feed (
          "title" : "2022 Candidates, Round 10: A major setback for Caruana, Nepomniachtchi pushes forward"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-10\"><img src=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-10",
-         "pubDate" : "Wed, 29 Jun 2022 20:32:26 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 10"
-      },
-      {
          "description" : "With four rounds to go, GM Ian Nepomniachtchi is 1.5 points ahead of the pack in the 2022 Candidates Tournament in Madrid. A draw with GM Teimour Radjabov was enough for that because GM Fabiano Caruana ended up losing to GM Jan-Krzysztof Duda. G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -496,22 +528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-3",
          "pubDate" : "Wed, 29 Jun 2022 18:35:00 +0100",
          "title" : "Endgames from Madrid (3)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maxime Vachier-Lagrave joins the show during Round 10 to talk about how he believes Magnus Carlsen should propose a new world championship cycle. Also, hear about how the Grand Chess Tour is slated to be a part of the cycle. 2022.06.29<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-magnus-should-propose-wc-cycle-change-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-magnus-should-propose-wc-cycle-change-round-10",
-         "pubDate" : "Wed, 29 Jun 2022 17:32:31 +0000",
-         "title" : "MVL: Magnus Should Propose a WC Cycle Change | Round 10"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-11-lichessorg\"><img s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-11-lichessorg",
-         "pubDate" : "Wed, 29 Jun 2022 17:32:31 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 11 | lichess.org"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In order to avoid clashes between two Ukrainian participants and three players Russia at the <strong>Women's Candidates Tournament</strong>, <strong>FIDE</strong> will not hold it as a round-robin but in <a href=\"https://fide.com/news/1835\">matches and has pooled</a> the participants in a way that doesn't allow a Russian-Ukrainian clash before the final, diverging from the principle introduced in 2019 to hold top women competitions <a href=\"https://chess24.com/en/watch/live-tournaments/womens-candidates-2019/14/1/1\">in the same way</a> as top men competitions. Ukraine has banned its athletes from competing against Russians. </div> ",
@@ -2224,22 +2240,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-coverage.html",
          "pubDate" : "Sat, 11 Jun 2022 02:51:00 +0000",
          "title" : "2022 NSW Open Coverage"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1805",
-         "pubDate" : "Fri, 10 Jun 2022 22:05:32 +0000",
-         "title" : "Magnus Carlsen wins Norway Chess 2022"
-      },
-      {
-         "description" : " The world champion kept his narrow lead over Shak Mamedyarov in the final round at Stavanger, while Vishy Anand's challenge faded when he blundered into a one-move tactic Magnus Carlsen kept his narrow lead over Shak Mamedyarov in Friday evening's final round at Stavanger, the Norwegian elite tournament which the world champion has now won four years running. His Azerbaijani rival had earlier scored a bizarre penultimate round victory over India's former world champion Vishy Anand, who till then had been Carlsen's main contender throughout the tournament. In a level position, Anand blundered into a losing tactic which he noticed too late. Mamedyarov was away from the board, and when he retu",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jun/10/chess-carlsen-v-mamedyarov-after-anand-makes-one-move-blunder",
-         "pubDate" : "Fri, 10 Jun 2022 20:44:51 +0000",
-         "title" : "Chess: Carlsen edges Mamedyarov after Anand makes one-move blunder"
       }
    ]
 }
