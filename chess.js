@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Samuel Sevian won week 19 of the Rapid Chess Championship, presented by Coinbase with a convincing performance. Participating in the event were ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-19-swiss",
+         "pubDate" : "Sat, 02 Jul 2022 16:17:36 -0700",
+         "title" : "Sevian Wins Week 19 Swiss Heading into Knockout: Summary Report"
+      },
+      {
+         "description" : "Turkish grandmaster Vahap Sanal and Serbian Women grandmaster Teodora Injac today played against each other at the 2022 Serbia Chess Open in Novi Sad. 24-year-old Vahap and 22-year-old Teodora are a charming couple who today took the role of the chess opponents. Three over-the-board games they played earlier ended in a draw, and the same []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-vahap-sanal-and-wgm-teodora-injac-replay-the-nepo-nakamura-7-minute-game/",
+         "pubDate" : "Sat, 02 Jul 2022 22:50:04 +0000",
+         "title" : "GM Vahap Sanal and WGM Teodora Injac replay the Nepo-Nakamura 7-minute game"
+      },
+      {
+         "description" : "The 2022 Swedish Chess Championships (Championship, Masters Elite, Masters, Seniors 50+, Seniors 65+ and Juniors) kicked off yesterday in Uppsala, Sweden. The events are played from 1-10 July, with Championship and Masters Elite groups being played as 10-player round-robin events, while the Masters, Seniors 50+, Seniors 65+ and Juniors events are played in 9 rounds, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swedish-chess-championships-2022-kicked-off-in-uppsala/",
+         "pubDate" : "Sat, 02 Jul 2022 21:59:04 +0000",
+         "title" : "Swedish Chess Championships 2022 kicked off in Uppsala"
+      },
+      {
+         "description" : "The 127th Scottish Chess Championship takes place from 2-10 July 2022 at Edinburgh Chess Club in Edinburgh. The event is played in 9 rounds, swiss system, with participation of 16 players who fight for the title of the National Champion. The battlefield is led by IM Angus Dunnington, IM Douglas Bryson and FM Keith Ruxton. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/127th-scottish-chess-championship/",
+         "pubDate" : "Sat, 02 Jul 2022 21:04:00 +0000",
+         "title" : "127th Scottish Chess Championship"
+      },
+      {
          "description" : "Between 1985 and 2000, Garry Kasparov played no fewer than eight matches for the World Championship title. The living legend is, without a doubt, an expert on the topic. During round 12 of the Candidates, the Russian joined the Saint Louis Chess Club webcast, and gave his opinions on Ian Nepomniachtchi's performance, Alireza Firouzja's bullet binge, and the likelihood of Magnus Carlsen agreeing to play the next match for the crown.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,22 +336,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-13-lichessorg",
          "pubDate" : "Fri, 01 Jul 2022 14:33:17 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 13 | lichess.org"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 12 pairings:&#160;Richard Rapport &#x2013; Fabiano Caruana / Ding Liren &#x2013; Teimour Radjabov / Jan-Krzysztof Duda &#x2013; Alireza Firouzja / Ian Nepomniachtchi &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r12-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
-         "pubDate" : "Fri, 01 Jul 2022 10:46:00 +0000",
-         "title" : "FIDE Candidates 2022 R12 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and WIM Jesse Niki February, in collaboration with Worldchess.com.&#160;Round 12 pairings:Richard Rapport &#x2013; Fabiano Caruana / Ding Liren &#x2013; Teimour Radjabov / Jan-Krzysztof Duda &#x2013; Alireza Firouzja / Ian Nepomniachtchi &#x2013; Hikaru Nakamura Latest from the Candidates: Nepo&#x2019;s white shirt &#x2013; a candid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r12-live-with-gm-daniil-yuffa-and-wim-jesse-niki-february/",
-         "pubDate" : "Fri, 01 Jul 2022 10:45:00 +0000",
-         "title" : "FIDE Candidates 2022 R12 live with GM Daniil Yuffa and WIM Jesse Niki February"
       },
       {
          "description" : " <p class=\"lead\"><a href=\"https://twitter.com/TarjeiJS\">Tarjei J. Svensen</a> revealed on <a href=\"https://new.chess24.com/wall/news/carlsen-confirms-world-series-of-poker-participation\">chess24</a> that the World Champion Magnus Carlsen will participate in the World Series of Poker (WSOP) in Las Vegas next week. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-07-01-at-12.51.56-PM.png\" width=\"1904\" height=\"1062\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen just bluffed with 0% chance to win! Photo: <a href=\"https://www.youtube.com/watch?v=nbPTZP5tkNc\">Magnus Carlsen Youtube Channel</a></div> </div> With the chess community wondering if Ca",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-r1",
          "pubDate" : "Fri, 17 Jun 2022 21:30:00 +0100",
          "title" : "Candidates R1: Fighting chess, Nepo and Caruana score"
-      },
-      {
-         "description" : "GM Hikaru Nakamura came back strongly in the second round of the&#38;nbsp;2022 Candidates Tournament. The American grandmaster ground down GM Teimour Radjabov in an endgame to score the full point, with the other three games ending in draws. How t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-2",
-         "pubDate" : "Fri, 17 Jun 2022 11:50:00 -0700",
-         "title" : "Nakamura Bounces Back, Grinds Down Radjabov As Rivals Draw"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92288793.cms\" />Brushing aside all the speculations about his retirement from the sport, Indian Grandmaster (GM) Viswanathan Anand said that he will continue to play chess even if he wins the vice-president's post in the World Chess Federation (FIDE) elections.",
