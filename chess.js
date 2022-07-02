@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National School U-11 Open and Girls Open Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-School-U(11)-Open.html Girls : https://aicf.online/National-School-U(11)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-u-11-open-and-girls-open-chess-championship-certificates-out-to-download/",
+         "pubDate" : "Sat, 02 Jul 2022 11:07:49 +0000",
+         "title" : "National School U-11 Open and Girls Open Chess Championship Certificates out to download"
+      },
+      {
+         "description" : "Ian Nepomniachtchi is on the brink of winning his 2nd Candidates Tournament in a row after Hikaru Nakamura allowed a 7-minute draw in their Round 12 game. That left Nepo two points clear of both Hikaru and Ding Liren, who crashed to a 26-move defeat with the white pieces against Teimour Radjabov. Nepo now needs only a draw in one of his remaining games to guarantee victory, but the battle for 2nd is intense, with Teimour and Fabiano Caruana just half a point behind Nakamura and Ding.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-12-14-move-draw-puts-nepo-on-brink-as-ding-defeated",
+         "pubDate" : "Sat, 02 Jul 2022 10:42:01 +0000",
+         "title" : "Madrid Candidates 12: 14-move draw puts Nepo on brink as Ding defeated"
+      },
+      {
+         "description" : "Has there been a plot to sabotage Nigel Short's prospects of becoming President of FIDÉ, the governing body of world chess? Already Vice-President, England's greatest ever chess player and chess politician since the days of Howard Staunton would, as I hoped, take the logical next step, identify a Ukrainian running mate, and stand for election to the supreme post []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/tall-poppy-cut-short-nigel-short-and-the-politics-of-chess/",
+         "pubDate" : "Sat, 02 Jul 2022 10:04:56 +0000",
+         "title" : "Tall poppy cut short: Nigel Short and the politics of chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1474,14 +1498,6 @@ news_feed (
          "title" : "Cracking the Candidate Code (5)"
       },
       {
-         "description" : "National under-14 Certificates are out to download (09-05-22 to 14-05-22) Links Open : https://aicf.online/National-Under-14-Open.html Girls : https://aicf.online/National-Under-14-Girls.html &#160; Any Correction mail at aicfwebmaster2021@gmail.com ",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-14-certificates-are-out-to-download/",
-         "pubDate" : "Wed, 22 Jun 2022 08:12:29 +0000",
-         "title" : "National Under-14 Certificates are out to download"
-      },
-      {
          "description" : "Ian Nepomniachtchi beat Alireza Firouzja from the white side of a double-edged Sicilian to grab the sole lead at the Candidates Tournament in Madrid. The three remaining games finished drawn, with Ding Liren failing to defeat Fabiano Caruana from a slightly superior position. Thus, former co-leader Caruana is now in sole second place, a half point behind Nepomniachtchi. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2232,14 +2248,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-day-1.html",
          "pubDate" : "Sat, 11 Jun 2022 13:18:00 +0000",
          "title" : "2022 NSW Open - Day 1"
-      },
-      {
-         "description" : "As we look back in gratitude to the Jubilee of Her Majesty Queen Elizabeth II, I turn my attention to the Queen in chess and her antecedents. When the original version of Muslim chess, Shatranj, underwent its Renaissance transformation, around 1475, the main change was in the powers of the Queen. Formerly known as the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/long-live-the-queen/",
-         "pubDate" : "Sat, 11 Jun 2022 09:57:55 +0000",
-         "title" : "Long live the Queen"
       }
    ]
 }
