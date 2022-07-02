@@ -10,6 +10,14 @@ news_feed (
          "title" : "Kasparov on Nepomniachtchi, Firouzja and Carlsen's boredom"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92622923.cms\" />Team USA will be the top seeds in the open section at the upcoming 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/usa-top-seeds-for-chess-olympiad/articleshow/92622923.cms",
+         "pubDate" : "Sat, 02 Jul 2022 15:28:07 +0000",
+         "title" : "USA top seeds for chess Olympiad"
+      },
+      {
          "description" : "Chess legends Paul Morphy, Adolf Anderssen, Henry Bird, Ernst Falkbeer, and Johann L&ouml;wenthal were star sign cancer in the age of romantic chess. With Vladimir Kramnik, Boris Gelfand, Anish Giri, Alexei Shirov, Alexander Morozevich, and of course Ian Nepomniachtchi, we have the almost 200 year older equivalent in the present time. Of the players listed, their merciless attack is often in focus. Does cancer really feel most comfortable with fire on board, or does the aggressive strategy have other reasons? | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -271,10 +279,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION MUMBAI"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PANAJI"
       },
       {
-         "description" : "Day 14 : PUNE Day 14 : NAGPUR WGM Divya Deshmukh, GM Raunak Sadhwani and GM Sankalp Gupta take the Torch forward in Orange City.",
+         "description" : "Day 14 : MUMBAI GM Pravin Thipsay, GM Abhijit Kunte &#38; IM Soumya Swaminathan take the Torch forward at Mumbai Day 14 : PUNE GM",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/",
          "pubDate" : "Sun, 12 Jun 2022 03:11:05 +0000",
          "title" : "FIDE Election tickets certified, African ticket out"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92152099.cms\" />Nineteen-year-old Peddi Rahul Srivathsav's dream came true on Friday, when he crossed the ELO mark of 2500 to clinch the Grand Master title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hyderabad-lad-rahul-srivathsav-is-indias-74th-gm/articleshow/92152099.cms",
-         "pubDate" : "Sat, 11 Jun 2022 17:39:00 +0000",
-         "title" : "Hyderabad lad Rahul Srivathsav is India's 74th GM"
       }
    ]
 }
