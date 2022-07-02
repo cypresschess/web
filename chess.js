@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the one decisive game of round 12, Teimour Radjabov stopped Ding Liren's winning streak by beating him from the black side of a Nimzo-Indian Defence. Much earlier, less than ten minutes after the round started, Ian Nepomniachtchi and Hikaru Nakamura signed a 14-move draw by repetition. The day's results left Nepo two points ahead of his closest chasers with two rounds to go. The Russian is now a half point away from securing tournament victory. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r12",
+         "pubDate" : "Sat, 02 Jul 2022 04:10:00 +0100",
+         "title" : "Candidates R12: Radjabov stops Ding, Nepo almost there"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2dbab26e-14ce-454a-9264-ccf7e9b5ed8e/Nepo2.jpg\" data-image-dimensions=\"288x349\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62bf8fefd4a49d09eb37fc93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2dbab26e-14ce-454a-9264-ccf7e9b5ed8e/Nepo2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://commons.wikimedia.org/wiki/File:Nepomniachtchi,_Ian2.jpg\">via Wikimedia Commons </a> </figcaption> </figure> <p class=\"\">Awa",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/1/fide-candidates-round-12-update-im-christof-sielecki-on-nepomniatchtchis-dominance-and-the-tight-battle-for-2nd-place",
+         "pubDate" : "Sat, 02 Jul 2022 00:28:08 +0000",
+         "title" : "FIDE Candidates Round 12 Update- IM Christof Sielecki on Nepomniatchtchi's Dominance and the Tight Battle For 2nd Place "
+      },
+      {
          "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R12 recap Two rounds to go and two-point lead for Ian Nepomniachtchi. There were three draws, including the notorious Berlin draw featured in the central game Nepomniachtchi&#x2013;Nakamura, and one decisive game, where Radjabov crushed Ding Liren with black pieces in just 26 moves. After the 12th round []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-12",
          "pubDate" : "Fri, 01 Jul 2022 20:33:42 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 12"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi increased his lead to two points and only needs a draw on Sunday to clinch the 2022 Candidates Tournament. After drawing his game with GM Hikaru Nakamura in just seven minutes today he saw GM Ding Liren, his closest rival, lo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-12",
+         "pubDate" : "Fri, 01 Jul 2022 13:31:00 -0700",
+         "title" : "Nepomniachtchi Draw Away From Winning Candidates Tournament"
       },
       {
          "description" : "",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-13-lichessorg",
          "pubDate" : "Fri, 01 Jul 2022 14:33:17 +0000",
          "title" : "Today in Chess | 2022 Candidates Edition: Round 13 | lichess.org"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Fri, 01 Jul 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 12: Live"
       },
       {
          "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 12 pairings:&#160;Richard Rapport &#x2013; Fabiano Caruana / Ding Liren &#x2013; Teimour Radjabov / Jan-Krzysztof Duda &#x2013; Alireza Firouzja / Ian Nepomniachtchi &#x2013; []",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/30/kevin-pryor-attends-emory-castle-camp/",
          "pubDate" : "Thu, 30 Jun 2022 19:44:41 +0000",
          "title" : "Kevin Pryor shines at Emory Castle Camp"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi increased his lead to two points and only needs a draw on Sunday to clinch the 2022 Candidates Tournament. After drawing his game with GM Hikaru Nakamura in just seven minutes today he saw GM Ding Liren, his closest rival, lo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-12",
-         "pubDate" : "Thu, 30 Jun 2022 12:32:00 -0700",
-         "title" : "Nepomniachtchi Draw Away From Winning Candidates Tournament"
       },
       {
          "description" : " <p class=\"lead\">Round 11 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nepomniachtchi winning his 5th game, this time against Firouzja, and leading the tournament with 8/11, 1,5 points ahead from Ding Liren who won against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-9.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52183109492_ee13b67d83_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52184140238_002c162a3e_k.jpg\" width=\"2048\" height=\"1365\" alt",
@@ -2232,14 +2240,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-beats-tari-in-final-round-settles-for-third-place/articleshow/92140753.cms",
          "pubDate" : "Sat, 11 Jun 2022 05:06:02 +0000",
          "title" : "Norway Chess: Anand beats Tari in final round; settles for third place"
-      },
-      {
-         "description" : " The 2022 NSW Open has just started in the last hour. Live broadcast of the top 4 boards is at <a href=\"https://view.livechesscloud.com/#71c54aaf-fa1f-4804-88a0-abcc3568843c\">https://view.livechesscloud.com/#71c54aaf-fa1f-4804-88a0-abcc3568843c</a> while the links the results are <a href=\"http://chess-results.com/tnr646116.aspx?lan=1http://chess-results.com/tnr646116.aspx?lan=1\">2022 NSW Open</a> <a href=\"http://chess-results.com/tnr646382.aspx?lan=1\">2022 NSW Minor</a> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-coverage.html",
-         "pubDate" : "Sat, 11 Jun 2022 02:51:00 +0000",
-         "title" : "2022 NSW Open Coverage"
       }
    ]
 }
