@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White's 37.Rd6 attacked the queen b6 which is guarding the Ne3. Now only one move puts Black on the winning track - perhaps you'll need to think for some time to find it!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/touch-and-go",
+         "pubDate" : "Sat, 02 Jul 2022 09:00:00 +0100",
+         "title" : "Touch and go"
+      },
+      {
          "description" : "In the one decisive game of round 12, Teimour Radjabov stopped Ding Liren's winning streak by beating him from the black side of a Nimzo-Indian Defence. Much earlier, less than ten minutes after the round started, Ian Nepomniachtchi and Hikaru Nakamura signed a 14-move draw by repetition. The day's results left Nepo two points ahead of his closest chasers with two rounds to go. The Russian is now a half point away from securing tournament victory. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,6 +168,22 @@ news_feed (
          "link" : "https://www.chessdom.com/le-quang-liem-is-back-after-25-years-tweetoftheday/",
          "pubDate" : "Fri, 01 Jul 2022 16:10:45 +0000",
          "title" : "Le Quang Liem is back after 2,5 years #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
+         "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PUNE"
+      },
+      {
+         "description" : "Day 14 : NAGPUR WGM Divya Deshmukh, GM Raunak Sadhwani and GM Sankalp Gupta take the Torch forward in Orange City. Day 13 : DAMAN",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
+         "pubDate" : "Fri, 01 Jul 2022 15:12:45 +0000",
+         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "DOWNLOAD LIST OF VOLUNTEERS",
@@ -600,22 +624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1837",
          "pubDate" : "Wed, 29 Jun 2022 08:16:11 +0000",
          "title" : "IX IBCA World Team Chess Championship kicks off in Ohrid, North Macedonia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
-         "pubDate" : "Wed, 29 Jun 2022 08:05:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION NAGPUR"
-      },
-      {
-         "description" : "Day 13 : DAMAN &#38; DIU Hon'ble Administrator of Dadra Nagar Haveli, Daman, Diu &#38; Lakshadeep Shri Praful Patel received the torch at Daman in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
-         "pubDate" : "Wed, 29 Jun 2022 07:04:45 +0000",
-         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "",
@@ -1978,14 +1986,6 @@ news_feed (
          "title" : "Immensely proud that we now have Chess Olympiad Torch Relay: Anand"
       },
       {
-         "description" : "In the current ChessBase Magazine Extra #207 Elisabeth P&auml;htz presents a setup against the Gr&uuml;nfeld Defence that served her well in the FIDE Grand Swiss in Riga 2021: White fianchettos the light-squared bishop and restricts the possibilities of Black's bishop on c8 with 10.h3. Our author has divided her video analysis into four different clips. As harmless as the move 10.h3 may seem at first glance, Black must react precisely to avoid getting into huge trouble. Check it out!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/one-of-my-favourite-lines-against-the-gruenfeld-defence",
-         "pubDate" : "Fri, 17 Jun 2022 17:00:00 +0100",
-         "title" : "\"One of my favourite lines against the Gr&uuml;nfeld Defence\""
-      },
-      {
          "description" : " Any of the principles you've learned through this series of articles can be, and should be, used to analyze games. I've gone over these concepts in terms of applying them to your own games. However, learning to play better chess also includes studying the game of stronger players, figuring out what worked and what didn't! <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\">A Foundation for Beginners Sixty Four</a> appeared first on <a rel=\"nofollow\" href",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2232,14 +2232,6 @@ news_feed (
          "link" : "https://www.thearticle.com/long-live-the-queen/",
          "pubDate" : "Sat, 11 Jun 2022 09:57:55 +0000",
          "title" : "Long live the Queen"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92140753.cms\" />Former world champion Viswanathan Anand scored a win over Aryan Tari in the ninth and final round to finish third in the Norway Chess tournament which was won by world number one Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-anand-beats-tari-in-final-round-settles-for-third-place/articleshow/92140753.cms",
-         "pubDate" : "Sat, 11 Jun 2022 05:06:02 +0000",
-         "title" : "Norway Chess: Anand beats Tari in final round; settles for third place"
       }
    ]
 }
