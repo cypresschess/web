@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1843",
+         "pubDate" : "Sat, 02 Jul 2022 09:39:28 +0000",
+         "title" : "44th Chess Olympiad: Participating teams announced"
+      },
+      {
          "description" : "In the diagram position, White's 37.Rd6 attacked the queen b6 which is guarding the Ne3. Now only one move puts Black on the winning track - perhaps you'll need to think for some time to find it!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -175,10 +183,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PUNE"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION MUMBAI"
       },
       {
-         "description" : "Day 14 : NAGPUR WGM Divya Deshmukh, GM Raunak Sadhwani and GM Sankalp Gupta take the Torch forward in Orange City. Day 13 : DAMAN",
+         "description" : "Day 14 : PUNE Day 14 : NAGPUR WGM Divya Deshmukh, GM Raunak Sadhwani and GM Sankalp Gupta take the Torch forward in Orange City.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
