@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Between 1985 and 2000, Garry Kasparov played no fewer than eight matches for the World Championship title. The living legend is, without a doubt, an expert on the topic. During round 12 of the Candidates, the Russian joined the Saint Louis Chess Club webcast, and gave his opinions on Ian Nepomniachtchi's performance, Alireza Firouzja's bullet binge, and the likelihood of Magnus Carlsen agreeing to play the next match for the crown.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kasparov-interview-candidates-2022",
+         "pubDate" : "Sat, 02 Jul 2022 17:00:00 +0100",
+         "title" : "Kasparov on Nepomniachtchi, Firouzja and Carlsen's boredom"
+      },
+      {
+         "description" : "Chess legends Paul Morphy, Adolf Anderssen, Henry Bird, Ernst Falkbeer, and Johann L&ouml;wenthal were star sign cancer in the age of romantic chess. With Vladimir Kramnik, Boris Gelfand, Anish Giri, Alexei Shirov, Alexander Morozevich, and of course Ian Nepomniachtchi, we have the almost 200 year older equivalent in the present time. Of the players listed, their merciless attack is often in focus. Does cancer really feel most comfortable with fire on board, or does the aggressive strategy have other reasons? | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cancer-and-their-strategy",
+         "pubDate" : "Sat, 02 Jul 2022 15:00:00 +0100",
+         "title" : "Cancer and their strategy"
+      },
+      {
+         "description" : "Anish Giri yesterday announced he will travel to Madrid to look for Hikaru Nakamura. As Anish informs on his official Twitter account, he's arrived in Madrid's park, but Nakamura has already left. Notwithstanding, @anishgiri is ready to take on all comers in blitz at Retiro Park at La Caba&#xF1;a by the Asociaci&#xF3;n Amigos del Retiro, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-arrives-in-madrid-looking-for-nakamura-to-play-some-chess/",
+         "pubDate" : "Sat, 02 Jul 2022 13:08:57 +0000",
+         "title" : "Anish Giri arrives in Madrid, looking for Nakamura to play some chess"
+      },
+      {
+         "description" : " The team lists for the 2022 Chess Olympiad have been posted today. In the Open Olympiad, the USA are the top seeds, followed by Azerbaijan and India. Norway has moved up to 4th seeding, boosted by the presence of Magnus Carlsen on the team. Australia is currently ranked 28th, while PNG is seeded 166th. In the Women's Olympiad, India, Ukraine and Georgia are seeded at the top. Australia starts in 35th place, which , like the Open team, is a pretty good seeding. You can see the Open <a href=\"http://chess-results.com/tnr653631.aspx?lan=1\">teams here</a>, while the Women's teams are at <a href=\"http://chess-results.com/tnr653632.aspx?lan=1&amp;art=0&amp;flag=30\">this link</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/2022-olympiad-teams.html",
+         "pubDate" : "Sat, 02 Jul 2022 12:59:00 +0000",
+         "title" : "2022 Olympiad Teams"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022&#xA0;will take place from July 28th to August 10th in Chennai, Tamil Nadu, India. With 187 teams registered in Men's competition and 162 teams registered in the Women's competition, the 2022 Chennai Olympiad breaks the record previously set in the Batumi, 2018. Starting rank lists of teams and teams compositions have []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-participants-lists/",
+         "pubDate" : "Sat, 02 Jul 2022 12:29:26 +0000",
+         "title" : "44th Chess Olympiad 2022 - Participants lists"
+      },
+      {
+         "description" : "The&#xA0;Chessable&#xA0;recap of Candidates R12 by Anish Giri is here.&#xA0;In his analysis of the Round 12, Giri starts with an instructive and spectacular game of the day Ding Liren vs Teimour Radjabov. Videos by Anish Giri:&#xA0;R11 Candidates recap / R10 Candidates recap / R9 Candidates recap&#xA0;/&#xA0;R8 Candidates recap&#xA0;/&#xA0;R6 Candidates recap&#xA0;/&#xA0;R5 Candidates recap&#xA0;/&#xA0;R4 Candidates recap&#xA0;/&#xA0;R3 Candidates []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-we-are-almost-done-here-fide-candidates-r12-recap/",
+         "pubDate" : "Sat, 02 Jul 2022 12:25:00 +0000",
+         "title" : "Anish Giri: We are almost done here! - FIDE Candidates R12 recap"
+      },
+      {
+         "description" : "The FIDE Madrid Candidates Chess Conference&#160;takes place on July 2 consisting of two parts: ChessKid.com educational seminars and the Conference on social chess initiatives in FIDE member countries in the afternoon. See the detailed program and schedule information here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-conference-on-the-social-chess-initiatives-in-fide-member-countries-live/",
+         "pubDate" : "Sat, 02 Jul 2022 12:00:00 +0000",
+         "title" : "FIDE Conference on the Social Chess Initiatives in FIDE Member Countries LIVE"
+      },
+      {
          "description" : "National School U-11 Open and Girls Open Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-School-U(11)-Open.html Girls : https://aicf.online/National-School-U(11)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/touch-and-go",
          "pubDate" : "Sat, 02 Jul 2022 09:00:00 +0100",
          "title" : "Touch and go"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1844",
+         "pubDate" : "Sat, 02 Jul 2022 07:51:57 +0000",
+         "title" : "FIDE July 1 Rating list is out"
       },
       {
          "description" : "In the one decisive game of round 12, Teimour Radjabov stopped Ding Liren's winning streak by beating him from the black side of a Nimzo-Indian Defence. Much earlier, less than ten minutes after the round started, Ian Nepomniachtchi and Hikaru Nakamura signed a 14-move draw by repetition. The day's results left Nepo two points ahead of his closest chasers with two rounds to go. The Russian is now a half point away from securing tournament victory. | Photo: FIDE / Stev Bonhage",
@@ -266,14 +330,6 @@ news_feed (
          "title" : "Nakamura's fortune is estimated around $50 million"
       },
       {
-         "description" : "The Chessable recap of Candidates R11 by Anish Giri is here. With Carlsen still unsure about defending the World Champion title, the stakes for the second place are high. Videos by Anish Giri:&#xA0;R9 Candidates recap&#xA0;/&#xA0;R8 Candidates recap&#xA0;/ R7 Candidates recap /&#xA0;R6 Candidates recap&#xA0;/&#xA0;R5 Candidates recap&#xA0;/&#xA0;R4 Candidates recap&#xA0;/&#xA0;R3 Candidates recap&#xA0;/&#xA0;R2 Candidates recap&#xA0;/&#xA0;R1 Candidates recap New:&#xA0;a special []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/high-stakes-for-the-second-place-at-the-candidates-r11-recap-by-anish-giri/",
-         "pubDate" : "Fri, 01 Jul 2022 09:45:12 +0000",
-         "title" : "High stakes for the second place at the Candidates - R11 recap by Anish Giri"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/lUFgg5AVFRM?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -296,22 +352,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/counties-championship-finals-live-on-saturday-2-7-22/",
          "pubDate" : "Fri, 01 Jul 2022 08:08:57 +0000",
          "title" : "Counties Championship Finals live on Saturday 2/7/22"
-      },
-      {
-         "description" : "Ian Nepomniachtchi won an important Round 11 game against Alireza Firouzja to be one step closer to winning the FIDE Candidates Chess Tournament 2022. He has a 1.5 points advantage over the second-placed Ding Liren who yesterday scored his third consecutive victory in the tournament. Round 12 pairings:Richard Rapport &#x2013; Fabiano CaruanaDing Liren &#x2013; Teimour []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r12-preview/",
-         "pubDate" : "Fri, 01 Jul 2022 07:17:08 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R12 preview"
-      },
-      {
-         "description" : "July 1st, 2022 marks the 25th year with FIDE for Polina Tsedenova. Polina Tsedenova is a professional interpreter and International Chess Organizer who started working in FIDE in 1997. She organized all the FIDE Congresses since 1997, with exception of the 2020 FIDE Congress: &#8220;I clearly remember the 1997 FIDE Congress in Chisinau (Moldova) because []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polina-tsedenova-celebrates-25-years-in-fide/",
-         "pubDate" : "Fri, 01 Jul 2022 07:13:00 +0000",
-         "title" : "Polina Tsedenova celebrates 25 years in FIDE"
       },
       {
          "description" : " England over-50s, led by Michael Adams and Nigel Short, dominated the world seniors event in Italy England's over-50 and over-65 teams completed a historic golden double on Wednesday in the world senior championships at Acqui Terme, Italy, Both led their tournaments from start to finish, overcame some dubious positions en route, and were virtually sure of victory with a round to spare. The seven-times British champion Michael Adams turned 50 last November, and the Cornishman played a key role by winning an apparently drawn knight ending in the decisive match against the United States, then outplaying Italy's Alberto David in a seemingly level rook ending. More England games can be viewed in",
@@ -344,14 +384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-womens-candidates-new-format",
          "pubDate" : "Thu, 30 Jun 2022 20:25:00 -0700",
          "title" : "FIDE Announces New Knockout Format for Women's Candidates"
-      },
-      {
-         "description" : "Ian Nepomniachtchi scores another win with the black pieces after Firouzja spends the whole night playing hyper bullet chess online. The former challenger was close to even extending his 1.5-point lead, but Ding Liren managed to prolong his winning streak to 3 games in a row, beating Fabiano Caruana in a nerve-wracking endgame. Round 11 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r11-recap/",
-         "pubDate" : "Thu, 30 Jun 2022 23:55:04 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R11 recap"
       },
       {
          "description" : "",
@@ -1962,14 +1994,6 @@ news_feed (
          "title" : "Candidates R1: Fighting chess, Nepo and Caruana score"
       },
       {
-         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, beginning today with the top seed, Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-1",
-         "pubDate" : "Fri, 17 Jun 2022 21:00:00 +0100",
-         "title" : "Cracking the Candidate Code (1)"
-      },
-      {
          "description" : "GM Hikaru Nakamura came back strongly in the second round of the&#38;nbsp;2022 Candidates Tournament. The American grandmaster ground down GM Teimour Radjabov in an endgame to score the full point, with the other three games ending in draws. How t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1992,14 +2016,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-caruana-off-to-winning-starts-in-the-fide-candidates-2022",
          "pubDate" : "Fri, 17 Jun 2022 21:23:00 +0400",
          "title" : "Nepomniachtchi and Caruana off to winning starts in the FIDE Candidates 2022 - 1"
-      },
-      {
-         "description" : "In his \"Power Play Show\" Daniel King continues his tribute to Yuri Averbakh by looking at a game King played against Averbakh in 1990. To quote King: \"He might have been past his prime, but he still gave me a lesson. It was a fascinating game and a privilege to play against a legend.\" | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-more-from-the-great-yuri-averbakh",
-         "pubDate" : "Fri, 17 Jun 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: More from the great Yuri Averbakh"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92287708.cms\" />Legendary Viswanathan Anand is \"immensely proud\" of the fact that the 44th Chess Olympiad starting in Mahabalipuram from July 28, will have its own Torch Relay, which is in similar lines to the Olympics.",
@@ -2240,14 +2256,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hyderabad-lad-rahul-srivathsav-is-indias-74th-gm/articleshow/92152099.cms",
          "pubDate" : "Sat, 11 Jun 2022 17:39:00 +0000",
          "title" : "Hyderabad lad Rahul Srivathsav is India's 74th GM"
-      },
-      {
-         "description" : " As with most events, the first day of the 2022 NSW Open hasn't revealed too much. Most of the top seeds reached 2/2, not all the DGT boards were working, and a number of players still don't understand the reasoning behind the mobile phone rules* (or simply think they have a special exemption). So the highlight of the day was in the Minor, when two players left the board to go to the bathroom ( after playing their respective moves), and when they returned, found the board has been set up to start the game. Weirdly they were only 8 moves in, so it was possible to reconstruct the position quickly. *As for the reasoning behind the not having phones in the paying area, if we did allow spectators",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-day-1.html",
-         "pubDate" : "Sat, 11 Jun 2022 13:18:00 +0000",
-         "title" : "2022 NSW Open - Day 1"
       }
    ]
 }
