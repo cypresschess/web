@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This summer the International Chess Forum Moscow Open 2022 will take place from the 14th to the 20th of July in the Irina Viner-Usmanova Gymnastics Center.&#xA0;The program will include open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children's Cup of Russia. The main event of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-karpov-grischuk-and-morozevich-to-play-a-round-robin-in-moscow/",
+         "pubDate" : "Sun, 03 Jul 2022 00:20:27 +0000",
+         "title" : "Karjakin, Karpov, Grischuk, and Morozevich to play a round robin in Moscow"
+      },
+      {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Samuel Sevian won week 19 of the Rapid Chess Championship, presented by Coinbase with a convincing performance. Participating in the event were ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -296,14 +304,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-needs-at-most-just-one-more-draw-to-win-the-candidates",
          "pubDate" : "Fri, 1 Jul 2022 20:31:00 +0400",
          "title" : "Nepomniachtchi needs at most just one more draw to win the Candidates - 12"
-      },
-      {
-         "description" : "Le Quang Liem celebrated his return to classical chess after 2,5 years pause. The Vietnamese Grandmaster played nine classical games during the month of June and finished clear second at the Prague Chess Festival (Replay the games here). He added 13 ELO points and is now 23rd in the world with 2722. The next event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/le-quang-liem-is-back-after-25-years-tweetoftheday/",
-         "pubDate" : "Fri, 01 Jul 2022 16:10:45 +0000",
-         "title" : "Le Quang Liem is back after 2,5 years #TweetOftheDay"
       },
       {
          "description" : "",
@@ -2256,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1806",
          "pubDate" : "Sun, 12 Jun 2022 09:40:15 +0000",
          "title" : "FIDE PDC launches inaugural Orientation Programme"
-      },
-      {
-         "description" : " The FIDE Electoral Commission released its report in certifying the tickets for the August 7th election. Five tickets were submitted and four were certified. The only ticket that was disqualified was Enyonam Sewa Fumey of Togo who failed to secure European support. Four European-led tickets qualified and the lone African ticket did not receive a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/\">FIDE Election tickets certified, African ticket out</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/11/fide-election-tickets-certified-african-ticket-out/",
-         "pubDate" : "Sun, 12 Jun 2022 03:11:05 +0000",
-         "title" : "FIDE Election tickets certified, African ticket out"
       }
    ]
 }
