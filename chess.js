@@ -14,8 +14,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-19-swiss",
-         "pubDate" : "Sat, 02 Jul 2022 16:17:36 -0700",
-         "title" : "Sevian Wins Week 19 Swiss Heading into Knockout: Summary Report"
+         "pubDate" : "Sat, 02 Jul 2022 16:17:00 -0700",
+         "title" : "Sevian Wins Week 19 Swiss Heading Into Knockout: Summary Report"
       },
       {
          "description" : "Turkish grandmaster Vahap Sanal and Serbian Women grandmaster Teodora Injac today played against each other at the 2022 Serbia Chess Open in Novi Sad. 24-year-old Vahap and 22-year-old Teodora are a charming couple who today took the role of the chess opponents. Three over-the-board games they played earlier ended in a draw, and the same []",
