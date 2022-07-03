@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MrDodgy, the CEO of&#160;Chefable&#160;and the Tournament Director of&#160;MrDodgy Invitational 2022 says he enjoyed the Candidates recap. MrDodgy published a hilarious video describing the tournament situation for Ding Liren, Alireza Firouzja and Fabiano Caruana. Read more: MrDodgy: Olympiad is like Eurovision / &#x201C;Magnus should decide whether he&#x2019;ll play the next match 5 mins before the final []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-enjoyed-candidates-recap-tweetoftheday/",
+         "pubDate" : "Sun, 03 Jul 2022 10:32:21 +0000",
+         "title" : "MrDodgy enjoyed the Candidates recap #TweetOftheDay"
+      },
+      {
+         "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-4",
+         "pubDate" : "Sun, 03 Jul 2022 11:30:00 +0100",
+         "title" : "Endgames from Madrid (4)"
+      },
+      {
+         "description" : "Dear All, As you all are aware of present crisis at Udaipur,Rajasthan and as per the section 144 imposed at various places at Udaipur ,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-07-event-postponement/",
+         "pubDate" : "Sun, 03 Jul 2022 10:22:18 +0000",
+         "title" : "National Under 07: Event Postponement"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 13 pairings:&#xA0;Ian Nepomniachtchi &#x2013; Richard Rapport&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Alireza Firouzja &#x2013; Ding Liren&#xA0;/&#xA0;Teimour Radjabov &#x2013; Fabiano Caruana Latest from the Candidates:Nakamura []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r13-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
+         "pubDate" : "Sun, 03 Jul 2022 10:19:24 +0000",
+         "title" : "FIDE Candidates 2022 R13 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and GM Evgenij Miroshnichenko, in collaboration with Worldchess.com.&#160;Round 13 pairings:&#160;Ian Nepomniachtchi &#x2013; Richard Rapport&#160;/&#160;Hikaru Nakamura &#x2013; Jan-Krzysztof Duda&#160;/&#160;Alireza Firouzja &#x2013; Ding Liren&#160;/&#160;Teimour Radjabov &#x2013; Fabiano Caruana Latest from the Candidates: Nakamura playing chess in Madrid&#x2019;s park&#160;/&#160;Anish Giri arrives in Madrid, looking for Nakamura []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r13-live-with-gm-daniil-yuffa-and-gm-evgenij-miroshnichenko/",
+         "pubDate" : "Sun, 03 Jul 2022 10:17:24 +0000",
+         "title" : "FIDE Candidates 2022 R13 live with GM Daniil Yuffa and GM Evgenij Miroshnichenko"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase.&#xA0; Round 13 pairings: Ian Nepomniachtchi &#x2013; Richard Rapport / Hikaru Nakamura &#x2013; Jan-Krzysztof Duda / Alireza Firouzja &#x2013; Ding Liren / Teimour Radjabov &#x2013; Fabiano Caruana Latest from the Candidates: Nakamura playing chess in Madrid&#x2019;s park []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r13-live-with-im-sagar-shah-and-amruta-mokal/",
+         "pubDate" : "Sun, 03 Jul 2022 10:15:04 +0000",
+         "title" : "FIDE Candidates 2022 R13 live with IM Sagar Shah and Amruta Mokal"
+      },
+      {
+         "description" : " Round about 1970 I bought a copy of Botvinnik's 100 Selected Games at a tournament bookstall. Botvinnik's annotations provided me with a lot of insights into how chess should really be played. There was one game in particular which impressed me: Botvinnik Chekhover from the USSR Championship semi-final in 1938. Here's the crucial position. <a href=\"https://chessimprover.com/botters-plays-chekkers/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Botters Plays Chekkers\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/botters-plays-chekkers/\">Botters Plays Chekkers</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/botters-plays-chekkers/",
+         "pubDate" : "Sun, 03 Jul 2022 09:21:21 +0000",
+         "title" : "Botters Plays Chekkers"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92632637.cms\" />India will field a third team in the Open section of the 44th Chess Olympiad to be held at Mamallapuram from July 28 to August 10, the All India Chess Federation (AICF) said on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-field-third-team-in-open-section-at-chess-olympiad/articleshow/92632637.cms",
+         "pubDate" : "Sun, 03 Jul 2022 09:16:42 +0000",
+         "title" : "India to field third team in Open section at Chess Olympiad"
+      },
+      {
+         "description" : "FIDE Candidates Chess Tournament 2022 is coming to its end. Two rounds to go and a two-point lead for Ian Nepomniachtchi the winner is almost known. However, the stakes for second place could be high, as Magnus Carlsen still didn't decide whether he'll play the World Chess Championship Match. After yesterday's free day, the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r13-preview/",
+         "pubDate" : "Sun, 03 Jul 2022 07:59:18 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R13 preview"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi drew his game against GM Hikaru Nakamura and is now half a point away from clinching the 2022 Candidates Tournament. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-13",
+         "pubDate" : "Sun, 03 Jul 2022 00:42:00 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 13"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While weaker at the top with the teams of Russia and China missing, the upcoming <strong>Chess Olymiad</strong> in the South Indian resort Mamallapuram is <a href=\"https://fide.com/news/1843\">expecting 187 men and 162 women teams</a>, probably beating the records set 2018 in Batumi of 185 men and 152 women teams. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/record-participation-at-chess/",
+         "pubDate" : "Sun, 03 Jul 2022 08:40:19 +0100",
+         "title" : "Record participation at Chess Olympiad"
+      },
+      {
          "description" : "This summer the International Chess Forum Moscow Open 2022 will take place from the 14th to the 20th of July in the Irina Viner-Usmanova Gymnastics Center.&#xA0;The program will include open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children's Cup of Russia. The main event of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -66,44 +154,12 @@ news_feed (
          "title" : "Cancer and their strategy"
       },
       {
-         "description" : "Anish Giri yesterday announced he will travel to Madrid to look for Hikaru Nakamura. As Anish informs on his official Twitter account, he's arrived in Madrid's park, but Nakamura has already left. Notwithstanding, @anishgiri is ready to take on all comers in blitz at Retiro Park at La Caba&#xF1;a by the Asociaci&#xF3;n Amigos del Retiro, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-arrives-in-madrid-looking-for-nakamura-to-play-some-chess/",
-         "pubDate" : "Sat, 02 Jul 2022 13:08:57 +0000",
-         "title" : "Anish Giri arrives in Madrid, looking for Nakamura to play some chess"
-      },
-      {
          "description" : " The team lists for the 2022 Chess Olympiad have been posted today. In the Open Olympiad, the USA are the top seeds, followed by Azerbaijan and India. Norway has moved up to 4th seeding, boosted by the presence of Magnus Carlsen on the team. Australia is currently ranked 28th, while PNG is seeded 166th. In the Women's Olympiad, India, Ukraine and Georgia are seeded at the top. Australia starts in 35th place, which , like the Open team, is a pretty good seeding. You can see the Open <a href=\"http://chess-results.com/tnr653631.aspx?lan=1\">teams here</a>, while the Women's teams are at <a href=\"http://chess-results.com/tnr653632.aspx?lan=1&amp;art=0&amp;flag=30\">this link</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-olympiad-teams.html",
          "pubDate" : "Sat, 02 Jul 2022 12:59:00 +0000",
          "title" : "2022 Olympiad Teams"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022&#xA0;will take place from July 28th to August 10th in Chennai, Tamil Nadu, India. With 187 teams registered in Men's competition and 162 teams registered in the Women's competition, the 2022 Chennai Olympiad breaks the record previously set in the Batumi, 2018. Starting rank lists of teams and teams compositions have []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-participants-lists/",
-         "pubDate" : "Sat, 02 Jul 2022 12:29:26 +0000",
-         "title" : "44th Chess Olympiad 2022 - Participants lists"
-      },
-      {
-         "description" : "The&#xA0;Chessable&#xA0;recap of Candidates R12 by Anish Giri is here.&#xA0;In his analysis of the Round 12, Giri starts with an instructive and spectacular game of the day Ding Liren vs Teimour Radjabov. Videos by Anish Giri:&#xA0;R11 Candidates recap / R10 Candidates recap / R9 Candidates recap&#xA0;/&#xA0;R8 Candidates recap&#xA0;/&#xA0;R6 Candidates recap&#xA0;/&#xA0;R5 Candidates recap&#xA0;/&#xA0;R4 Candidates recap&#xA0;/&#xA0;R3 Candidates []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-we-are-almost-done-here-fide-candidates-r12-recap/",
-         "pubDate" : "Sat, 02 Jul 2022 12:25:00 +0000",
-         "title" : "Anish Giri: We are almost done here! - FIDE Candidates R12 recap"
-      },
-      {
-         "description" : "The FIDE Madrid Candidates Chess Conference&#160;takes place on July 2 consisting of two parts: ChessKid.com educational seminars and the Conference on social chess initiatives in FIDE member countries in the afternoon. See the detailed program and schedule information here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-conference-on-the-social-chess-initiatives-in-fide-member-countries-live/",
-         "pubDate" : "Sat, 02 Jul 2022 12:00:00 +0000",
-         "title" : "FIDE Conference on the Social Chess Initiatives in FIDE Member Countries LIVE"
       },
       {
          "description" : "National School U-11 Open and Girls Open Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-School-U(11)-Open.html Girls : https://aicf.online/National-School-U(11)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -170,22 +226,6 @@ news_feed (
          "title" : "FIDE Candidates Round 12 Update- IM Christof Sielecki on Nepomniatchtchi's Dominance and the Tight Battle For 2nd Place "
       },
       {
-         "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R12 recap Two rounds to go and two-point lead for Ian Nepomniachtchi. There were three draws, including the notorious Berlin draw featured in the central game Nepomniachtchi&#x2013;Nakamura, and one decisive game, where Radjabov crushed Ding Liren with black pieces in just 26 moves. After the 12th round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r12-recap/",
-         "pubDate" : "Fri, 01 Jul 2022 22:58:44 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R12 recap"
-      },
-      {
-         "description" : "Hikaru Nakamura decided to spend Friday evening playing chess in Madrid's park! After today's 7-minute draw against Ian Nepomniachtchi, Hikaru basically provided himself with an extra free day. With 12 played rounds at the FIDE Candidates Tournament, Nakamura ties for second place with Ding Liren. The stakes for second place are high with Carlsen still []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-playing-chess-in-madrids-park-tweetoftheday/",
-         "pubDate" : "Fri, 01 Jul 2022 22:51:00 +0000",
-         "title" : "Nakamura playing chess in Madrid's park #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,14 +272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1841",
          "pubDate" : "Fri, 01 Jul 2022 19:11:36 +0000",
          "title" : "FIDE Athletes Commission elections to be held in Chennai"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi drew his game against GM Hikaru Nakamura and is now half a point away from clinching the 2022 Candidates Tournament. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-13",
-         "pubDate" : "Fri, 01 Jul 2022 11:24:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 13"
       },
       {
          "description" : "In his \"Power Play Show\" Daniel King examines a classical game between Alexander Alekhine and Fred Yates, in which the former world champion dominated his opponent by taking control of the open file and the dark squares. He also looks at a similar game from 1972 featuring the great Yuri Averbakh. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -311,10 +343,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PANAJI"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION UJJAIN"
       },
       {
-         "description" : "Day 14 : MUMBAI GM Pravin Thipsay, GM Abhijit Kunte &#38; IM Soumya Swaminathan take the Torch forward at Mumbai Day 14 : PUNE GM",
+         "description" : "Day 15 : PANAJI Hon'ble Sports Minister of Goa Shri Govind Gaude received the Torch from GM Anurag Mhamal and handed over to IM Bhakti",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1514,14 +1546,6 @@ news_feed (
          "title" : "Chennai Open chess: Indian IM Nitin, Baghdasaryan in joint lead"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ian Nepomniachtchi</strong> has been asked by <strong>FIDE</strong> not to bring a thermos nor wear the jacket with the logo of his sponsor <strong>Nornickel</strong> any more at the <strong>Candidates Tournament</strong>. The mining company was also a <a href=\"https://www.fide.com/news/1194\">FIDE partner</a> until contracts with Russian sponsors were terminated after the start of Russia's invasion in Ukraine. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nornickel-logo-out/",
-         "pubDate" : "Wed, 22 Jun 2022 12:01:19 +0100",
-         "title" : "Nornickel logo out"
-      },
-      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. This issue offers games from two major events, FIDE Grand Prix and Ukraine Charity Cup. 353 games (37 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Anish Giri, Wesley So, Andrey Esipenko, Grigoriy Oparin and Nikita Vitiugov among others. The icing on the cake is the Larsen Special, a tribute to the Great Dane. Our columnist Nagesh Havanur takes a look.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1560,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-4-nepo-storms-to-firouzja-win",
          "pubDate" : "Wed, 22 Jun 2022 10:39:25 +0000",
          "title" : "Madrid Candidates 4: Nepo storms to Firouzja win"
-      },
-      {
-         "description" : "Olympiad Torch Relay!! We welcome you to be part of this historic moment at your nearest place!! Celebrate Olympiad &#38; Celebrate Azadi Ka Amrut Mahotsav!!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-dharmasala/",
-         "pubDate" : "Wed, 22 Jun 2022 09:19:35 +0000",
-         "title" : "OLYMPIAD TORCH RELAY DESTINATIONS"
       },
       {
          "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, concluding today with a discussion of the \"unlikely\" and the \"scarred\" candidates - Hikaru Nakamura and Teimour Radjabov. | Photo FIDE official.",
@@ -2010,14 +2026,6 @@ news_feed (
          "title" : "2022 Candidates Round 1: A confident start for Nepomniachtchi and Caruana"
       },
       {
-         "description" : "An exciting first round in the Candidates Tournament left Ian Nepomniachtchi and Fabiano Caruana - the winners of the event's two previous editions - in the shared lead. Nepomniachtchi beat rating favourite Ding Liren with the black pieces, while Caruana got the better of compatriot Hikaru Nakamura. At some point, it seemed likely that all four games would finish decisively at the Palace of Santoña in Madrid. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r1",
-         "pubDate" : "Fri, 17 Jun 2022 21:30:00 +0100",
-         "title" : "Candidates R1: Fighting chess, Nepo and Caruana score"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92288793.cms\" />Brushing aside all the speculations about his retirement from the sport, Indian Grandmaster (GM) Viswanathan Anand said that he will continue to play chess even if he wins the vice-president's post in the World Chess Federation (FIDE) elections.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2178,14 +2186,6 @@ news_feed (
          "title" : "FIDE and ChessKid Unrated GIRLS ONLY tournament to start on July 10 "
       },
       {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (57)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-57/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (57)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-57/",
-         "pubDate" : "Tue, 14 Jun 2022 14:34:09 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (57)"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg\" data-image-dimensions=\"1741x876\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62a892f1b850ad772070aff8\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we talk about chess improvement with one of the premier chess trainers in the world! <a href=\"https://en.wikipedia.org/wiki/Ramachandran_Ramesh\"",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2248,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1807",
          "pubDate" : "Sun, 12 Jun 2022 15:00:10 +0000",
          "title" : "Muhammad Hanif Qureshi elected the president of Chess Federation of Pakistan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1806",
-         "pubDate" : "Sun, 12 Jun 2022 09:40:15 +0000",
-         "title" : "FIDE PDC launches inaugural Orientation Programme"
       }
    ]
 }
