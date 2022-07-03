@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess24 Premium Blitz Tournament was played yesterday in Madrid at the Ajedrez con Cabeza chess club. The field included reigning World Chess Champion GM Magnus Carlsen, GM Anish Giri, GM Daniel Naroditsky, GM David Anton Guijarro, and eight more grandmasters. Read more: Nakamura playing chess in Madrid&#x2019;s park / Anish Giri arrives in Madrid, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-wins-the-chess24-premium-blitz-tournament-in-madrid/",
+         "pubDate" : "Sun, 03 Jul 2022 11:25:38 +0000",
+         "title" : "Anish Giri wins the Chess24 Premium Blitz Tournament in Madrid"
+      },
+      {
          "description" : "MrDodgy, the CEO of&#160;Chefable&#160;and the Tournament Director of&#160;MrDodgy Invitational 2022 says he enjoyed the Candidates recap. MrDodgy published a hilarious video describing the tournament situation for Ding Liren, Alireza Firouzja and Fabiano Caruana. Read more: MrDodgy: Olympiad is like Eurovision / &#x201C;Magnus should decide whether he&#x2019;ll play the next match 5 mins before the final []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Endgames from Madrid (4)"
       },
       {
-         "description" : "Dear All, As you all are aware of present crisis at Udaipur,Rajasthan and as per the section 144 imposed at various places at Udaipur ,",
+         "description" : "Dear All, As you all are aware of the present crisis at Udaipur,Rajasthan and as per the section 144 imposed at various places at Udaipur",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-under-07-event-postponement/",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/swedish-chess-championships-2022-kicked-off-in-uppsala/",
          "pubDate" : "Sat, 02 Jul 2022 21:59:04 +0000",
          "title" : "Swedish Chess Championships 2022 kicked off in Uppsala"
-      },
-      {
-         "description" : "The 127th Scottish Chess Championship takes place from 2-10 July 2022 at Edinburgh Chess Club in Edinburgh. The event is played in 9 rounds, swiss system, with participation of 16 players who fight for the title of the National Champion. The battlefield is led by IM Angus Dunnington, IM Douglas Bryson and FM Keith Ruxton. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/127th-scottish-chess-championship/",
-         "pubDate" : "Sat, 02 Jul 2022 21:04:00 +0000",
-         "title" : "127th Scottish Chess Championship"
       },
       {
          "description" : "Between 1985 and 2000, Garry Kasparov played no fewer than eight matches for the World Championship title. The living legend is, without a doubt, an expert on the topic. During round 12 of the Candidates, the Russian joined the Saint Louis Chess Club webcast, and gave his opinions on Ian Nepomniachtchi's performance, Alireza Firouzja's bullet binge, and the likelihood of Magnus Carlsen agreeing to play the next match for the crown.",
