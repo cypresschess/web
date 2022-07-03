@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi won the 2022 Candidates Tournament with a round to spare, as he did in the previous Candidates. With GM Hikaru Nakamura&#39;s victory in round 13, he is in sole second place. All eyes will be on his game against GM&#38;nbsp;Ding Li...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-14",
+         "pubDate" : "Sun, 03 Jul 2022 11:11:00 -0700",
+         "title" : "How To Watch FIDE Candidates Tournament Round 14"
+      },
+      {
+         "description" : " <p class=\"lead\">Round 13 of the <a href=\"https://chessarena.com/broadcasts/17306\">Candidates 2022</a> ended with Nepomniachtchi drawing against Rapport to win the tournament with a round to spare! Also, Nakamura beat Duda to be the sole second. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-10.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52189612267_ede5d3f988_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52190622791_741abaa202_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/ian-nepomniachtchi-wins-the-candidates-2022-with-a-round-to-spar/",
+         "pubDate" : "Sun, 03 Jul 2022 18:04:31 +0000",
+         "title" : "Ian Nepomniachtchi wins the Candidates 2022 with a round to spare"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Eric Rosen joins the show as Ian Nepomniachtchi clinches the tournament and Magnus Carlsen artfully dodges the question once more as to whether he will play the match. 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eric-rosen-nepo-about-clinch-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1bmFlT6E8-Y.jpg?itok=-jz",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/eric-rosen-nepo-about-clinch-round-13",
+         "pubDate" : "Sun, 03 Jul 2022 17:34:28 +0000",
+         "title" : "Eric Rosen: Nepo about to Clinch | Round 13"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Champion Magnus Carlsen talks to WGM Anastasia Karlovich about Ian Nepomniachtchi. Will Carlsen defend against Nepo? 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-criminally-underrated-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9tbpbly1Nsc.jpg?itok=Iy7ZFYHw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-criminally-underrated-round-13",
+         "pubDate" : "Sun, 03 Jul 2022 17:34:28 +0000",
+         "title" : "Carlsen: Nepo is Criminally Underrated | Round 13"
+      },
+      {
+         "description" : "Russian grandmaster Ian Nepomniachtchi drew the round 13 game against Richard Rapport and secured the trophy at the 2022 FIDE Candidates Chess Tournament with a round to spare! Nepomniachtchi is the second player ever who managed to win the Candidates Tournament two consecutive times, repeating Vasily Smyslov's feast from 1956. Ian Nepomniachtchi will again challenge []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-wins-fide-candidates-chess-2022-with-a-round-to-spare/",
+         "pubDate" : "Sun, 03 Jul 2022 16:26:45 +0000",
+         "title" : "Ian Nepomniachtchi wins FIDE Candidates Chess 2022 with a round to spare"
+      },
+      {
+         "description" : "Unlike in ancient times, in our (chess) world, the oracles are not priestesses but silicon based. For high grade but not necessarily perfect information, we turn to computer engines. The crucial thing is that, however splendiferous the software, it has to be we who control the process. We need to put the time to work through the lines with the engine to understand why we should play a specific move in a given position. | Pictured: Ganesha, a Hindu deity, the deva of intellect and wisdom",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-173",
+         "pubDate" : "Sun, 03 Jul 2022 17:15:00 +0100",
+         "title" : "Conversations with the Gods"
+      },
+      {
          "description" : "Anyone who hopes that he or she will one day succeed in playing a perfect game will, in principle, attach the same weight to every move in a game. After all, every move could be a mistake or - which would be just as bad - simply not the best move! In the first article of his new training series, Jan Markos explains, among other things, what consequences the pursuit of perfection can have on your time management. And he explores the question in which types of positions it makes sense to invest your time at all. You can watch an excerpt from his highly recommended video from ChessBase Magazine #208 here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/practical-tips-for-the-tournament-player-new-training-series-with-jan-markos",
          "pubDate" : "Sun, 03 Jul 2022 17:00:00 +0100",
          "title" : "\"Practical Tips for the Tournament Player\" - New training series with Jan Markos"
+      },
+      {
+         "description" : " <p class=\"lead\">GM Ian Nepomniachtchi entered Round 13 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> leading with a +2 advantage over Ding Liren and Hikaru Nakamura. Nepo needed just a draw in two rounds and today he got it against Richard Rapport. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52171090837_1032c8c785_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Stev Bonhage/FIDE</div> </div> Ian Nepomniachtchi had a solid start at the Candidates, took advantage of every winning opportunity, and defended a couple of tough positions successfully. As many commentators acknowledged, Nepo'",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepomniachtchi-is-the-2023-challenger-against-carlsen/",
+         "pubDate" : "Sun, 03 Jul 2022 15:39:02 +0000",
+         "title" : "Nepomniachtchi is the 2023 Challenger&hellip; against Carlsen?"
+      },
+      {
+         "description" : " <p class=\"lead\">After drawing with Rapport in Round 13, Nepo, the Russian GM, wins the Candidates Tournament and becomes the challenger again. More details to follow. ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepo-wins-the-candidates-he-is-the-challenger-again/",
+         "pubDate" : "Sun, 03 Jul 2022 15:38:29 +0000",
+         "title" : "Nepo Wins the Candidates. He is the Challenger, Again"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-14-lichessorg\"><img s",
@@ -32,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
          "pubDate" : "Sun, 03 Jul 2022 14:45:00 +0100",
          "title" : "Candidates, Round 13: Live"
-      },
-      {
-         "description" : "Unlike in ancient times, in our (chess) world, the oracles are not priestesses but silicon based. For high grade but not necessarily perfect information, we turn to computer engines. The crucial thing is that, however splendiferous the software, it has to be we who control the process. We need to put the time to work through the lines with the engine to understand why we should play a specific move in a given position. | Pictured: Ganesha, a Hindu deity, the deva of intellect and wisdom",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-173",
-         "pubDate" : "Sun, 03 Jul 2022 14:15:00 +0100",
-         "title" : "Conversations with the Gods"
       },
       {
          "description" : "Russian grandmaster and the 14th World Chess Champion Vladimir Kramnik yesterday participated in Chess.com's Online Rapid Chess Championship. Kramnik was disappointed with the new online flagging fashion, writing on his chess.com account: &#8220;Thank you, it was the first and last time I participate in this event. It is decadence and shame flagging like almost everyone []",
@@ -146,12 +202,12 @@ news_feed (
          "title" : "FIDE Candidates Chess Tournament 2022 - R13 preview"
       },
       {
-         "description" : "GM Ian Nepomniachtchi drew his game against GM Hikaru Nakamura and is now half a point away from clinching the 2022 Candidates Tournament. The eight candidates are fighting for the right to challenge GM Magnus Carlsen for the title of world champi...",
+         "description" : "GM Ian Nepomniachtchi secured victory of&#38;nbsp;the 2022 Candidates Tournament with a round to spare by drawing with GM Richard Rapport on Sunday. Nepomniachtchi has now qualified for the 2023 world championship against GM Magnus Carlsen. GM Hikar...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-13",
          "pubDate" : "Sun, 03 Jul 2022 00:42:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 13"
+         "title" : "Nepomniachtchi Wins Candidates Tournament With Round To Spare"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While weaker at the top with the teams of Russia and China missing, the upcoming <strong>Chess Olymiad</strong> in the South Indian resort Mamallapuram is <a href=\"https://fide.com/news/1843\">expecting 187 men and 162 women teams</a>, probably beating the records set 2018 in Batumi of 185 men and 152 women teams. </div> ",
@@ -160,14 +216,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/record-participation-at-chess/",
          "pubDate" : "Sun, 03 Jul 2022 08:40:19 +0100",
          "title" : "Record participation at Chess Olympiad"
-      },
-      {
-         "description" : "This summer the International Chess Forum Moscow Open 2022 will take place from the 14th to the 20th of July in the Irina Viner-Usmanova Gymnastics Center.&#xA0;The program will include open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children's Cup of Russia. The main event of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-karpov-grischuk-and-morozevich-to-play-a-round-robin-in-moscow/",
-         "pubDate" : "Sun, 03 Jul 2022 00:20:27 +0000",
-         "title" : "Karjakin, Karpov, Grischuk, and Morozevich to play a round robin in Moscow"
       },
       {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Samuel Sevian won week 19 of the Rapid Chess Championship, presented by Coinbase with a convincing performance. Participating in the event were ...",
@@ -506,14 +554,6 @@ news_feed (
          "title" : "Nepomniachtchi: Firouzja Not Playing His Normal Chess | Round 11"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-11\"><img src=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-11",
-         "pubDate" : "Thu, 30 Jun 2022 20:33:04 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 11"
-      },
-      {
          "description" : " Kevin Pryor is known more as an organizer extraordinaire in the state of Florida and currently serves as the Florida Chess Association President. After a successful 38-year career at Johnson &#38; Johnson, he started his chess service in 2014. In 2015 he became a Board Member of the Florida Chess Association (FCA), Treasurer in 2017, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/30/kevin-pryor-attends-emory-castle-camp/\">Kevin Pryor shines at Emory Castle Camp</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -560,14 +600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesskid-candidates-tournament-madrid",
          "pubDate" : "Thu, 30 Jun 2022 11:29:00 -0700",
          "title" : "Recapping The 2022 ChessKid Candidates Tournament In Madrid"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Three-time Norwegian champion and author GM Jonathan Tisdall joins the show to share insight into whether Magnus Carlsen will defend his title in the world championship match. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jonathan-tisdall-magnus-doesn%E2%80%99t-want-title-define-him-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3oFT",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jonathan-tisdall-magnus-doesn%E2%80%99t-want-title-define-him-round-11",
-         "pubDate" : "Thu, 30 Jun 2022 17:33:05 +0000",
-         "title" : "Jonathan Tisdall: Magnus Doesn't Want Title to Define Him | Round 11"
       },
       {
          "description" : "Chess.com is proud to announce that the Collegiate Chess League is returning for the 2022-2023 academic year in partnership with NACE Starleague, the largest collegiate esports league in North America. The Fall 2022 and Spring 2023 seasons will fe...",
@@ -1146,14 +1178,6 @@ news_feed (
          "title" : "Nepomniachtchi and Caruana win yet again in Round 7 of the FIDE Candidates - 7"
       },
       {
-         "description" : " <p class=\"lead\">After his win on Round 7 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> against Richard Rapport, the Russian GM Ian Nepomniachtchi is the sole leader with the impressive score of 5.5/7. As <a href=\"https://www.nrk.no/sport/kommentator-carlsen-langet-ut-mot-_nepo__-_-katastrofe-1.16013970\">nrk.no</a> reported though, the World Champion Magnus Carlsen was not gracious in his criticism of the <a href=\"https://worldchess.com/news/all/nakamura-and-liren-missed-their-chances-to-win-on-round-5-of-the/\">Nakamura - Nepo game</a> on Round 5 of the Candidates. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/517379916",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/be-a-shark-carlsen-on-nepo-probably-the-2023-challenger/",
-         "pubDate" : "Sat, 25 Jun 2022 16:17:42 +0000",
-         "title" : "\"Be a shark\" Carlsen on Nepo, probably the 2023 Challenger"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92461111.cms\" />China will not be taking part in the 44th Chess Olympiad to be held at Mamallapuram near Chennai from July 28. China would have been among the top medal contenders in the Olympiad and their absence would brighten India's chances. Russia and Belarus have also been barred from participating in tournaments by the FIDE (world chess federation) following the Russian invasion of neighbouring Ukraine in February.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1184,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1829",
          "pubDate" : "Sat, 25 Jun 2022 12:34:10 +0000",
          "title" : "Bardiya Daneshvar wins Iranian Championship"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tdhUWAMBIHE?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-fide-candidates-tournament-2022-round-7/",
-         "pubDate" : "Sat, 25 Jun 2022 12:30:00 +0000",
-         "title" : "Watch FIDE Candidates Tournament 2022: Round 7"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92455588.cms\" />Indian International Master Nitin Senthilvel settled for a draw with compatriot and fellow IM Ravichandran Siddharth in the ninth round lead to stay on top of the standings with 8 points in the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Saturday.",
@@ -1424,14 +1440,6 @@ news_feed (
          "link" : "https://www.europechess.org/stepan-avagyan-memorial-jermuk-2022/",
          "pubDate" : "Thu, 23 Jun 2022 17:42:13 +0000",
          "title" : "Stepan Avagyan Memorial \"Jermuk-2022\""
-      },
-      {
-         "description" : " <p class=\"lead\">Round 6 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nepomniachtchi and Caruana winning against Duda and Firouzja respectively. After today's results Nepomniachtchi is the sole leader of the tournament with 4.5/6 and high chances of being the next Challenger for the second time. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1600\" data-ratio=\"1.4995313964386\"> <img src=\"https://worldchess.com/news/pictures/1-4.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52153945524_a3259fc938_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pict",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-and-caruana-won-on-round-6-of-the-candidates-2022/",
-         "pubDate" : "Thu, 23 Jun 2022 17:39:00 +0000",
-         "title" : "Nepomniachtchi and Caruana Won In Round 6 of the Candidates 2022"
       },
       {
          "description" : "This week Robert Ris looks at a brilliant attacking masterpiece in the King's Indian, in which Black tried a subtle idea in a well-known line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1962,14 +1970,6 @@ news_feed (
          "title" : "Nakamura beats Radjabov in Round 2 of the Candidates - 2"
       },
       {
-         "description" : "GM Hikaru Nakamura defended brilliantly in his first-ever classical game against GM Alireza Firouzja to hold the draw after 51 moves. It was the fourth draw of the day, meaning that&#38;nbsp;GMs Fabiano Caruana and Ian Nepomniachtchi continue to lead ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-3",
-         "pubDate" : "Sat, 18 Jun 2022 11:38:00 -0700",
-         "title" : "Impressive Defense By Nakamura On Day Of Draws"
-      },
-      {
          "description" : " One effect of the Covid Pandemic has been less international coverage on this blog. At first it was due to the lack of any events in early 2020, but even when online events began, it did not feel like 'real' chess to me. An oddly enough, when face to face events began, there seemed to be a confusing mess of them, with mixed rapid and classical formats. So I tended yo avoid them, both as a blogger and a spectator. So I am pleased to see the Candidates kick off, with a quite exciting round 1. Two decisive games, and two tough draws, were enjoyable to look at. Two of the favourites (Nakamura and Ding) went down, while Duda might be kicking himself after failing to convert a huge opening advant",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-tournament-2022/",
          "pubDate" : "Mon, 13 Jun 2022 08:54:18 +0000",
          "title" : "FIDE Candidates Tournament 2022"
-      },
-      {
-         "description" : "Are you able to play a game of chess without view of the board? Can you solve problems and studies by just looking at a position or a diagram? Well, grandmasters and very strong players can stun us with feats of mental skill that we mortals are scarcely able to comprehend. We start our series with an experiment in which you can try competing with some great chess prodigies.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-all-in-your-mind-1",
-         "pubDate" : "Sun, 12 Jun 2022 18:00:00 +0100",
-         "title" : "It's all in your mind! (1)"
       }
    ]
 }
