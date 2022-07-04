@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Former world champion Viswanathan Anand joins the show in Round 14 of the 2022 Candidates Tournament. Hear about the Olympiad in Chennai, Caruana's stumbles, Nepo's victories, and his opinion on whether Carlsen will play the world title match. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vishy-anand-site-madrid-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vishy-anand-site-madrid-round-14",
+         "pubDate" : "Mon, 04 Jul 2022 17:35:02 +0000",
+         "title" : "Vishy Anand: On Site in Madrid | Round 14"
+      },
+      {
+         "description" : "The Candidates Tournament was the most important tournament of the year, and Ian Nepomniachtchi won convincingly. Endgame expert and aficionado Karsten M&uuml;ller selected a few highlights from the first rounds to analyze them together with his guest Daniel Fernandez. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-201-with-daniel-fernandez-endgame-highlights-from-the-candidates-tournament",
+         "pubDate" : "Mon, 04 Jul 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #201 with Daniel Fernandez: Endgame Highlights from the Candidates Tournament"
+      },
+      {
+         "description" : "Russian grandmaster&#xA0;Ian Nepomniachtchi secured the trophy at the&#xA0;2022 FIDE Candidates Chess Tournament&#xA0;with a round to spare. Nepomniachtchi is the second player ever who managed to win the Candidates Tournament two consecutive times, repeating Vasily Smyslov&#x2019;s feast from 1956. The post-game interview with WGM Dina Belankaya opened with ovations for Nepomniachtchi, who was touched by the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-speaks-about-the-candidates-and-world-championship-match-video/",
+         "pubDate" : "Mon, 04 Jul 2022 15:34:29 +0000",
+         "title" : "Ian Nepomniachtchi speaks about the Candidates and World Championship Match (VIDEO)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has heard <strong>Magnus Carlsen</strong>'s ideas for the world championship match 2023 at a confidential meeting during the penultimate round of the <strong>Candidates Tournament</strong> in Madrid. According to FIDE General Director Emil Sutovsky there are no regulations yet and a draft is to be provided to Carlsen in the next days that shall integrate both FIDE's and the world champion's views. Carlsen is expected to decide if he plays the 2023 match by 20 July. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fide-to-draft-compromise-regulation/",
+         "pubDate" : "Mon, 04 Jul 2022 16:09:44 +0100",
+         "title" : "FIDE to draft compromise regulation"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after clinching victory in Round 13 of the 2022 Candidates Tournament. This aired during Round 14. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-carlsen-match-maybe-we-will-see-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UBL-qH5Ks68.jpg?itok=Jl3RjCoZ\" alt=\"\" /></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-carlsen-match-maybe-we-will-see-round-13",
+         "pubDate" : "Mon, 04 Jul 2022 14:34:49 +0000",
+         "title" : "Nepo on Carlsen Match: Maybe, We Will See | Round 13"
+      },
+      {
          "description" : "Ian Nepomniachtchi won the FIDE Candidates Chess Tournament 2022 with a round to spare, thus becoming the challenger in the World Chess Championship Match which will be played next year. The reigning World Chess Champion Magnus Carlsen should be the defender of the title, but Magnus was repeatedly saying he is&#160;considering his retirement from the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -162,14 +202,6 @@ news_feed (
          "title" : "FIDE Candidates Chess Tournament 2022 - R13 recap"
       },
       {
-         "description" : "With today's draw against Richard Rapport, Ian Nepomniachtchi secured the victory at the FIDE Candidates Chess Tournament 2022 with a round to spare. Nepo joined WGM Dina Belenkaya for the post-game interview, but the ovations wouldn't let it start. See the video below. Read more: Ian Nepomniachtchi wins FIDE Candidates Chess 2022 with a round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-receives-ovations-tweetoftheday/",
-         "pubDate" : "Sun, 03 Jul 2022 21:25:00 +0000",
-         "title" : "Nepo receives ovations! #TweetOftheDay"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after mathematically clinching the Candidates Tournament victory! 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-job-had-be-done-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NPJvXiiK8J8.jpg?itok=ebJBF5mP\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -186,12 +218,12 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 13"
       },
       {
-         "description" : "GM Ian Nepomniachtchi won the 2022 Candidates Tournament with a round to spare, as he did in the previous Candidates. With GM Hikaru Nakamura&#39;s victory in round 13, he is in sole second place. All eyes will be on his game against GM&#38;nbsp;Ding Li...",
+         "description" : "GM Ian Nepomniachtchi, who had already secured victory with a round to spare, drew his last game with GM Jan-Krzysztof Duda to win the 2022 Candidates Tournament undefeated and with a record 9.5/14 score. GM Ding Liren won the clash with GM Hikaru...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-14",
          "pubDate" : "Sun, 03 Jul 2022 11:11:00 -0700",
-         "title" : "How To Watch FIDE Candidates Tournament Round 14"
+         "title" : "Ding Beats Nakamura To Finish 2nd Behind Nepomniachtchi; Radjabov Claims 3rd Place"
       },
       {
          "description" : " <p class=\"lead\">Round 13 of the <a href=\"https://chessarena.com/broadcasts/17306\">Candidates 2022</a> ended with Nepomniachtchi drawing against Rapport to win the tournament with a round to spare! Also, Nakamura beat Duda to be the sole second. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-10.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52189612267_ede5d3f988_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52190622791_741abaa202_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com",
@@ -512,22 +544,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/recap-of-the-round-12-of-the-fide-candidates-2022/",
          "pubDate" : "Fri, 01 Jul 2022 17:36:11 +0000",
          "title" : "Lifesaving draws, and a Huge Loss for Ding Liren in Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Ding Liren talks to WGM Anastasia Karlovich after his win over Fabiano Caruana in Round 11 of the 2022 Candidates Tournament. This aired during Round 12. 2022.06.30<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ding-liren-fabi-missed-qg3-i-could-see-it-his-face-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Iho00OACYv0.jpg?itok=ehSy",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ding-liren-fabi-missed-qg3-i-could-see-it-his-face-round-11",
-         "pubDate" : "Fri, 01 Jul 2022 17:33:37 +0000",
-         "title" : "Ding Liren: Fabi Missed ...Qg3; I Could See it on His Face | Round 11"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Former World Chess Champion Garry Kasparov joins the show during Round 12 of the 2022 Candidates Tournament. Garry talks about what caused Caruana's collapse, Firouzja's late night bullet games, and he also offers analysis. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-nepo-formidable-opponent-carlsen-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-nepo-formidable-opponent-carlsen-round-12",
-         "pubDate" : "Fri, 01 Jul 2022 17:33:37 +0000",
-         "title" : "Kasparov: Nepo a Formidable Opponent for Carlsen | Round 12"
       },
       {
          "description" : "It has been more than a year since Maxime Vachier-Lagrave (MVL) finished second in the Candidates tournament. Ideally, the French Grandmaster should have been playing in this year's edition too. However, he missed out following disappointing performances in the Fide Grand Prix events. With the 2021 Candidates tournament relatively fresh in mind, Dhananjay Khadilkar spoke to MVL on a range of issues including his pick for the 2022 Candidates, skipping this year's Olympiad and the possibility of Magnus Carlsen not defending the world championship title.",
@@ -1530,14 +1546,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: An attacking masterpiece in the King's Indian"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ding Liren</strong> revealed in Madrid that the <strong>Chinese Chess Federation</strong> will not send teams to the <strong>Chess Olympiad</strong> in Mamallapuram next month. Since Russia is banned and France will have neither Firouzja nor Vachier-Lagrave, the <strong>US Chess</strong> team becomes a heavy favourite in the men's section, with India and Azerbaijan as their strongest challengers. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/china-wont-play-chess-olympiad/",
-         "pubDate" : "Thu, 23 Jun 2022 17:20:36 +0100",
-         "title" : "China won't play Chess Olympiad"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92417430.cms\" />The first-ever Chess Olympiad Torch Relay reached Chandigarh on Thursday after starting off from picturesque Leh and crossing over the mighty Himalayas with halts at Srinagar, Jammu, Dharamsala and Shimla.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/",
          "pubDate" : "Mon, 20 Jun 2022 10:08:43 +0000",
          "title" : "Hotels.nl is the Winner of European Corporate Chess Championship 2022"
-      },
-      {
-         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players. Today we are publishing a part of the evaluation that takes a deeper look at the chances of two players: Fabiano Caruana and Alireza Firouzja. While Caruana (29) is a perennial favourite when it comes to the Candidates ever since 2016, the whole world will probably have their eyes set on Alireza Firouzja, who will turn 19 at the start of the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-2",
-         "pubDate" : "Mon, 20 Jun 2022 11:00:00 +0100",
-         "title" : "Cracking the Candidate Code (2)"
       },
       {
          "description" : "FIDE, together with ChessKid and in the frame of the Queens Festival, is organizing very important initiative a Girls Only unrated online tournament! The...",
