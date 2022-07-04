@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 1 July the FIDE published the new world ranking list. Magnus Carlsen and Hou Yifan continue to lead the \"Top 100\" and \"Top 100 Women\" by a large margin. Alireza Firouzja, who turned 19 at the beginning of the Candidates, is still the best junior, while Zhu Jiner from China continues to lead the \"Girls'\" list.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-july-2022",
+         "pubDate" : "Mon, 04 Jul 2022 12:40:39 +0100",
+         "title" : "FIDE ratings July 2022"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition.&#xA0;Round 14 pairings:Richard Rapport &#x2013; Teimour Radjabov&#xA0;/&#xA0;Fabiano Caruana &#x2013; Alireza Firouzja&#xA0;/&#xA0;Ding Liren &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Jan-Krzysztof Duda &#x2013; Ian Nepomniachtchi Latest from the Candidates 2022:Ian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r14-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
+         "pubDate" : "Mon, 04 Jul 2022 11:29:22 +0000",
+         "title" : "FIDE Candidates 2022 R14 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and GM Evgenij Miroshnichenko, in collaboration with Worldchess.com. Round 14 pairings:Richard Rapport &#x2013; Teimour Radjabov&#160;/&#160;Fabiano Caruana &#x2013; Alireza Firouzja&#160;/&#160;Ding Liren &#x2013; Hikaru Nakamura&#160;/&#160;Jan-Krzysztof Duda &#x2013; Ian Nepomniachtchi Latest from the Candidates 2022:Ian Nepomniachtchi wins FIDE Candidates Chess 2022 with a round to spare&#160;/&#160;Anish []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r14-live-with-gm-daniil-yuffa-and-gm-evgenij-miroshnichenko-2/",
+         "pubDate" : "Mon, 04 Jul 2022 11:27:15 +0000",
+         "title" : "FIDE Candidates 2022 R14 live with GM Daniil Yuffa and GM Evgenij Miroshnichenko"
+      },
+      {
+         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase.&#xA0;Round 14 pairings: Richard Rapport &#x2013; Teimour Radjabov / Fabiano Caruana &#x2013; Alireza Firouzja / Ding Liren &#x2013; Hikaru Nakamura / Jan-Krzysztof Duda &#x2013; Ian Nepomniachtchi Latest from the Candidates 2022: Ian Nepomniachtchi wins FIDE Candidates Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2022-r14-live-with-im-sagar-shah-and-amruta-mokal/",
+         "pubDate" : "Mon, 04 Jul 2022 11:25:33 +0000",
+         "title" : "FIDE Candidates 2022 R14 live with IM Sagar Shah and Amruta Mokal"
+      },
+      {
+         "description" : "National School U-13 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-School-U(13)-Open.html Girls : https://aicf.online/National-School-U(13)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-u-13-open-and-girls-chess-championship-certificates-out-to-download/",
+         "pubDate" : "Mon, 04 Jul 2022 10:59:02 +0000",
+         "title" : "National School U-13 Open and Girls Chess Championship Certificates out to download"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1846",
+         "pubDate" : "Mon, 04 Jul 2022 09:31:19 +0000",
+         "title" : "Checkmate Coronavirus: Road to Chennai"
+      },
+      {
+         "description" : "Ian Nepomniachtchi clinched the tournament victory with a round to spare, thus becoming the challenger for the title of World Champion. The final round of the FIDE Candidates Chess 2022 is yet to be played, determining the medalists. If Magnus Carlsen decides not to play the World Chess Championship, the second-placed player will be Nepo's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r14-preview/",
+         "pubDate" : "Mon, 04 Jul 2022 08:53:42 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R14 preview"
+      },
+      {
          "description" : "The TCEC season so far: Stockfish wins TCEC League / Stockfish wins TCEC Cup / Stockfish wins TCEC Swiss Can anyone stop Stockfish? One by one its rivals stepped up, and one by one they failed. At the halfway point, Stockfish led Leela by half a point. With six rounds to go, this was by []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -194,22 +250,6 @@ news_feed (
          "title" : "Everyone Bashes Firouzja For Playing Online Chess"
       },
       {
-         "description" : "The Chess24 Premium Blitz Tournament was played yesterday in Madrid at the Ajedrez con Cabeza chess club. The field included reigning World Chess Champion GM Magnus Carlsen, GM Anish Giri, GM Daniel Naroditsky, GM David Anton Guijarro, and eight more grandmasters. Read more: Nakamura playing chess in Madrid&#x2019;s park / Anish Giri arrives in Madrid, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-wins-the-chess24-premium-blitz-tournament-in-madrid/",
-         "pubDate" : "Sun, 03 Jul 2022 11:25:38 +0000",
-         "title" : "Anish Giri wins the Chess24 Premium Blitz Tournament in Madrid"
-      },
-      {
-         "description" : "MrDodgy, the CEO of&#160;Chefable&#160;and the Tournament Director of&#160;MrDodgy Invitational 2022 says he enjoyed the Candidates recap. MrDodgy published a hilarious video describing the tournament situation for Ding Liren, Alireza Firouzja and Fabiano Caruana. Read more: MrDodgy: Olympiad is like Eurovision / &#x201C;Magnus should decide whether he&#x2019;ll play the next match 5 mins before the final []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-enjoyed-candidates-recap-tweetoftheday/",
-         "pubDate" : "Sun, 03 Jul 2022 10:32:21 +0000",
-         "title" : "MrDodgy enjoyed the Candidates recap #TweetOftheDay"
-      },
-      {
          "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +264,6 @@ news_feed (
          "link" : "https://aicf.in/national-under-07-event-postponement/",
          "pubDate" : "Sun, 03 Jul 2022 10:22:18 +0000",
          "title" : "National Under 07: Event Postponement"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition. Round 13 pairings:&#xA0;Ian Nepomniachtchi &#x2013; Richard Rapport&#xA0;/&#xA0;Hikaru Nakamura &#x2013; Jan-Krzysztof Duda&#xA0;/&#xA0;Alireza Firouzja &#x2013; Ding Liren&#xA0;/&#xA0;Teimour Radjabov &#x2013; Fabiano Caruana Latest from the Candidates:Nakamura []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r13-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
-         "pubDate" : "Sun, 03 Jul 2022 10:19:24 +0000",
-         "title" : "FIDE Candidates 2022 R13 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
       },
       {
          "description" : " Round about 1970 I bought a copy of Botvinnik's 100 Selected Games at a tournament bookstall. Botvinnik's annotations provided me with a lot of insights into how chess should really be played. There was one game in particular which impressed me: Botvinnik Chekhover from the USSR Championship semi-final in 1938. Here's the crucial position. <a href=\"https://chessimprover.com/botters-plays-chekkers/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Botters Plays Chekkers\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/botters-plays-chekkers/\">Botters Plays Chekkers</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
@@ -487,10 +519,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION INDORE"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION BHOPAL"
       },
       {
-         "description" : "Day 15 : UJJAIN GM Anurag Mhamal &#38; IM Akshat Khamparia take the Torch forward at Ujjain Day 15 : PANAJI Hon'ble Sports Minister of",
+         "description" : "Day 15 : INDORE Shri Tulsi Ram Silawat, Hon'ble Minister for Water Resource Govt of Madhya Pradesh received the torch from GM Anurag Mhamal and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -538,12 +570,12 @@ news_feed (
          "title" : "Madrid Candidates 11: Nepo refutes Firouzja's Bullet Gambit"
       },
       {
-         "description" : "Follow the action as it happens from 1:30pm as the national championships returning after a two year hiatus with the 101st&#160;contest. Live commentary from GM...",
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/counties-championship-finals-live-on-saturday-2-7-22/",
+         "link" : "https://www.englishchess.org.uk/counties-championship-2022/#new_tab",
          "pubDate" : "Fri, 01 Jul 2022 08:08:57 +0000",
-         "title" : "Counties Championship Finals live on Saturday 2/7/22"
+         "title" : "Counties Championship Finals - results from Saturday 2/7/22"
       },
       {
          "description" : " England over-50s, led by Michael Adams and Nigel Short, dominated the world seniors event in Italy England's over-50 and over-65 teams completed a historic golden double on Wednesday in the world senior championships at Acqui Terme, Italy, Both led their tournaments from start to finish, overcame some dubious positions en route, and were virtually sure of victory with a round to spare. The seven-times British champion Michael Adams turned 50 last November, and the Cornishman played a key role by winning an apparently drawn knight ending in the decisive match against the United States, then outplaying Italy's Alberto David in a seemingly level rook ending. More England games can be viewed in",
@@ -720,14 +752,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/the-10-most-incredible-stalemate-in-chess-history",
          "pubDate" : "Thu, 30 Jun 2022 08:37:04 +0000",
          "title" : "The 10 Most Incredible Stalemates in Chess History"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/national-schools-championships-finals/#new_tab",
-         "pubDate" : "Thu, 30 Jun 2022 08:19:53 +0000",
-         "title" : "National Schools Championships Finals start today"
       },
       {
          "description" : "Fighting chess was the rule rather than the exception in round 10 of the Candidates Tournament. All the players - except Ian Nepomniachtchi, naturally - chose fighting lines, attempting to win at all costs, as the event is coming to an end and first place is all that matters. In the end, Ding Liren and Hikaru Nakamura won and caught up with Fabiano Caruana in shared second place, as the latter overplayed his hand and was defeated by Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
@@ -1410,14 +1434,6 @@ news_feed (
          "title" : "FIDE Candidates Chess Tournament 2022 - Nepomniachtchi in the lead"
       },
       {
-         "description" : "The Indian team garnered four gold, four silver &#38; three bronze medals to win the overall championship in the Western Asian Youth Chess Championships which",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-youth-chess-championships-india-overall-champions/",
-         "pubDate" : "Fri, 24 Jun 2022 07:00:26 +0000",
-         "title" : "Western Asian Youth Chess Championships : India overall champions"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg\" data-image-dimensions=\"481x240\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b50dea6c6cd727df8b1cd7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg?format=1000w\" /> </figure> <p class=\"\">We've got 6 rounds in the books and GM Ian Nepomniathchtchi and GM Fabiano Caruana are comfortably in first and 2nd place, respectively. GM Jonathan Tisdall is an A",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1938,14 +1954,6 @@ news_feed (
          "title" : "Understanding before Moving 84: Basics of the Benko Gambit (3)"
       },
       {
-         "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-1",
-         "pubDate" : "Sun, 19 Jun 2022 14:30:00 +0100",
-         "title" : "Endgames from Madrid (1)"
-      },
-      {
          "description" : "Prime Minister Narendra Modi on Sunday flagged off the first-ever torch relay for the Chess Olympiad ahead of the 44th edition of the event, which is to be held in Mahabalipuram from July 28 to August 10. The international chess body, FIDE, for the very first time has instituted the torch relay, which is part of the Olympic tradition, but was never done in the Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2224,22 +2232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-days-2-3.html",
          "pubDate" : "Mon, 13 Jun 2022 12:38:00 +0000",
          "title" : "2022 NSW Open - Days 2 & 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1808",
-         "pubDate" : "Mon, 13 Jun 2022 10:54:21 +0000",
-         "title" : "Mwale and Nkhoma win Malawi Open Championship 2022"
-      },
-      {
-         "description" : "The FIDE Candidates Chess 2022 opens on Thursday 16th of June, and will be played from June 17th July 5th in Madrid. The tournament is played in 14 rounds, with participation of eight players. The winner of the event will qualify for the World Championship match later this year. The magnificent Palacio de Santoña, a centrally located&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-candidates-tournament-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-candidates-tournament-2022/",
-         "pubDate" : "Mon, 13 Jun 2022 08:54:18 +0000",
-         "title" : "FIDE Candidates Tournament 2022"
       }
    ]
 }
