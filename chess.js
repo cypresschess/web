@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TCEC season so far: Stockfish wins TCEC League / Stockfish wins TCEC Cup / Stockfish wins TCEC Swiss Can anyone stop Stockfish? One by one its rivals stepped up, and one by one they failed. At the halfway point, Stockfish led Leela by half a point. With six rounds to go, this was by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-22-swiss-to-cap-dominant-season/",
+         "pubDate" : "Mon, 04 Jul 2022 04:44:28 +0000",
+         "title" : "Stockfish wins TCEC Season 22 Swiss to cap dominant season"
+      },
+      {
+         "description" : "Ian Nepomniachtchi won the Candidates Tournament for a second time in a row on Sunday. The 31-year-old, much like in 2021, secured first place with a round to spare, and thus gained the right to challenge Magnus Carlsen in the next match for the World Championship title. Round 13 of the tournament saw Hikaru Nakamura beating Jan-Krzysztof Duda to grab clear second place. Nakamura is set to face Ding Liren, currently in third place, in a decisive final-round encounter on Monday. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r13",
+         "pubDate" : "Mon, 04 Jul 2022 02:15:00 +0100",
+         "title" : "Ian Nepomniachtchi wins second consecutive Candidates Tournament"
+      },
+      {
          "description" : "Ian Nepomniachtchi has won the FIDE Candidates Tournament with a round to spare for the second time in a row, earning another shot at the World Championship title. Magnus Carlsen was in the venue as Ian made a draw against Richard Rapport, but was silent on whether he will defend his title. If he doesn't, Nepo will play the runner-up, and that will be Hikaru Nakamura, who defeated Jan-Krzysztof Duda, unless Ding Liren wins their last-round game on Monday. ",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -15,7 +31,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-19-dubov-wins",
          "pubDate" : "Sun, 03 Jul 2022 15:13:00 -0700",
-         "title" : "Dubov Clinches 1st Knockout: 'Kramnik was the only reason I played'"
+         "title" : "Dubov Clinches 1st Knockout: 'Kramnik Was The Only Reason I Played'"
       },
       {
          "description" : "",
@@ -154,14 +170,6 @@ news_feed (
          "title" : "Understanding before Moving 86: Basics of the Benko Gambit (5)"
       },
       {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Sun, 03 Jul 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 13: Live"
-      },
-      {
          "description" : "Russian grandmaster and the 14th World Chess Champion Vladimir Kramnik yesterday participated in Chess.com's Online Rapid Chess Championship. Kramnik was disappointed with the new online flagging fashion, writing on his chess.com account: &#8220;Thank you, it was the first and last time I participate in this event. It is decadence and shame flagging like almost everyone []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-candidates-2022-r13-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
          "pubDate" : "Sun, 03 Jul 2022 10:19:24 +0000",
          "title" : "FIDE Candidates 2022 R13 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and GM Evgenij Miroshnichenko, in collaboration with Worldchess.com.&#160;Round 13 pairings:&#160;Ian Nepomniachtchi &#x2013; Richard Rapport&#160;/&#160;Hikaru Nakamura &#x2013; Jan-Krzysztof Duda&#160;/&#160;Alireza Firouzja &#x2013; Ding Liren&#160;/&#160;Teimour Radjabov &#x2013; Fabiano Caruana Latest from the Candidates: Nakamura playing chess in Madrid&#x2019;s park&#160;/&#160;Anish Giri arrives in Madrid, looking for Nakamura []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r13-live-with-gm-daniil-yuffa-and-gm-evgenij-miroshnichenko/",
-         "pubDate" : "Sun, 03 Jul 2022 10:17:24 +0000",
-         "title" : "FIDE Candidates 2022 R13 live with GM Daniil Yuffa and GM Evgenij Miroshnichenko"
       },
       {
          "description" : " Round about 1970 I bought a copy of Botvinnik's 100 Selected Games at a tournament bookstall. Botvinnik's annotations provided me with a lot of insights into how chess should really be played. There was one game in particular which impressed me: Botvinnik Chekhover from the USSR Championship semi-final in 1938. Here's the crucial position. <a href=\"https://chessimprover.com/botters-plays-chekkers/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Botters Plays Chekkers\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/botters-plays-chekkers/\">Botters Plays Chekkers</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
@@ -487,10 +487,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION UJJAIN"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION INDORE"
       },
       {
-         "description" : "Day 15 : PANAJI Hon'ble Sports Minister of Goa Shri Govind Gaude received the Torch from GM Anurag Mhamal and handed over to IM Bhakti",
+         "description" : "Day 15 : UJJAIN GM Anurag Mhamal &#38; IM Akshat Khamparia take the Torch forward at Ujjain Day 15 : PANAJI Hon'ble Sports Minister of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
