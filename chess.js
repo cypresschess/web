@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi won the FIDE Candidates Chess Tournament 2022 with a round to spare, thus becoming the challenger in the World Chess Championship Match which will be played next year. The reigning World Chess Champion Magnus Carlsen should be the defender of the title, but Magnus was repeatedly saying he is&#160;considering his retirement from the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-negotiates-the-format-of-the-world-chess-championship-match/",
+         "pubDate" : "Mon, 04 Jul 2022 14:24:40 +0000",
+         "title" : "Magnus Carlsen negotiates the format of the World Chess Championship Match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
+         "pubDate" : "Mon, 04 Jul 2022 13:49:32 +0000",
+         "title" : "Level 1 Arbiter Course September 2022"
+      },
+      {
+         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
+         "pubDate" : "Mon, 04 Jul 2022 14:45:00 +0100",
+         "title" : "Candidates, Round 14: Live"
+      },
+      {
+         "description" : " The ACT Chess Association is organising the 2022 ANU Open, after a break of 2 years. <br />The details are<br /><br /><b>ANU Open/Minor 2022<br /></b><br />29-31 July (One round Friday evening, three Saturday, two Sunday)<br /><br />Format: Open section and Under 1600 Section (ACF)<br /><br />Time control: 60m+30s inc (FIDE Rated except for players 2400+)<br /><br /><b>Schedule</b><div><br /></div><div>Round 1 Friday 29th 7PM, <br /><br />Round 2 Sat 30th 10am, Rd 3 2pm, Round 4, 6pm<br /><br />Round 5 Sun 31st 10am, Round 6 2pm Prize giving 6pm<br /><br /><b>Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Fre</b>e<br /><br />Prizes: $1000 1st Open, $400 1st Minor $3600 in total<br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/2022-anu-open-29th-to-31st-july.html",
+         "pubDate" : "Mon, 04 Jul 2022 12:58:00 +0000",
+         "title" : "2022 ANU Open - 29th to 31st July"
+      },
+      {
+         "description" : "Our software with the database program, the chess programs, the chess server, numerous FritzTrainer MultiMedia courses and the numerous apps for the online functions is manifold, and naturally questions about the operation of the programs arise again and again. Besides the manuals we offer another important source of information for our users: the ChessBase Wiki.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chessbase-wiki-always-worth-a-look",
+         "pubDate" : "Mon, 04 Jul 2022 13:46:52 +0100",
+         "title" : "The ChessBase Wiki - always worth a look!"
+      },
+      {
+         "description" : "The European Senior Chess Championship 2022 kicks off tomorrow in Lublin, Poland, taking place from 5-14 July in Arche Hotel Lublin. The event is played in two age categories: 50+ and 65+, with separate prizes for female players. 61 players from 15 European countries registered for the events which will be played over 9 swiss rounds, with time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2022-starts-in-lublin/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2022-starts-in-lublin/",
+         "pubDate" : "Mon, 04 Jul 2022 12:04:42 +0000",
+         "title" : "European Senior Chess Championship 2022 starts in Lublin"
+      },
+      {
+         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vnaUADXYaYw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/watch-the-candidates-tournament-2022-round-14/",
+         "pubDate" : "Mon, 04 Jul 2022 12:00:00 +0000",
+         "title" : "Watch the Candidates Tournament 2022: Round 14"
+      },
+      {
          "description" : "On 1 July the FIDE published the new world ranking list. Magnus Carlsen and Hou Yifan continue to lead the \"Top 100\" and \"Top 100 Women\" by a large margin. Alireza Firouzja, who turned 19 at the beginning of the Candidates, is still the best junior, while Zhu Jiner from China continues to lead the \"Girls'\" list.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,14 +226,6 @@ news_feed (
          "title" : "Nepomniachtchi wins the FIDE Candidates tournament with a round to spare - 13"
       },
       {
-         "description" : "Russian grandmaster Ian Nepomniachtchi drew the round 13 game against Richard Rapport and secured the trophy at the 2022 FIDE Candidates Chess Tournament with a round to spare! Nepomniachtchi is the second player ever who managed to win the Candidates Tournament two consecutive times, repeating Vasily Smyslov's feast from 1956. Ian Nepomniachtchi will again challenge []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-wins-fide-candidates-chess-2022-with-a-round-to-spare/",
-         "pubDate" : "Sun, 03 Jul 2022 16:26:45 +0000",
-         "title" : "Ian Nepomniachtchi wins FIDE Candidates Chess 2022 with a round to spare"
-      },
-      {
          "description" : "Unlike in ancient times, in our (chess) world, the oracles are not priestesses but silicon based. For high grade but not necessarily perfect information, we turn to computer engines. The crucial thing is that, however splendiferous the software, it has to be we who control the process. We need to put the time to work through the lines with the engine to understand why we should play a specific move in a given position. | Pictured: Ganesha, a Hindu deity, the deva of intellect and wisdom",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-86-basics-of-the-benko-gambit-5",
          "pubDate" : "Sun, 03 Jul 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 86: Basics of the Benko Gambit (5)"
-      },
-      {
-         "description" : "Russian grandmaster and the 14th World Chess Champion Vladimir Kramnik yesterday participated in Chess.com's Online Rapid Chess Championship. Kramnik was disappointed with the new online flagging fashion, writing on his chess.com account: &#8220;Thank you, it was the first and last time I participate in this event. It is decadence and shame flagging like almost everyone []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladimir-kramnik-i-am-not-going-to-participate-in-this-moral-degradation-show/",
-         "pubDate" : "Sun, 03 Jul 2022 13:14:33 +0000",
-         "title" : "Vladimir Kramnik: \"I am not going to participate in this moral degradation show\""
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/dna5KG7D-qU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -519,10 +559,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION BHOPAL"
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION JHANSI"
       },
       {
-         "description" : "Day 15 : INDORE Shri Tulsi Ram Silawat, Hon'ble Minister for Water Resource Govt of Madhya Pradesh received the torch from GM Anurag Mhamal and",
+         "description" : "Day 16 : BHOPAL Hon'ble Minister of Sports &#38; Youth Welfare Govt of MP Smt. Yashodhara Raje Scindia receives the torch from GM Anurag Mhamal",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1210,14 +1250,6 @@ news_feed (
          "title" : "Nepomniachtchi Increases Lead With Quick Draw As Nakamura Beats Caruana"
       },
       {
-         "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> reached halfway today with Round 7 being one of the most fascinating rounds so far. Nepomniachtchi and Caruana won one more game, this time against Rapport and Radjabov respectively. Nepo still leads the tournament with 5.5/7. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-5.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162341452_bc1ba9f2c6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52170865972_c97e5",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepo-and-caruana-win-on-round-7-of-the-candidates-2022/",
-         "pubDate" : "Sat, 25 Jun 2022 18:58:27 +0000",
-         "title" : "Nepo and Caruana win on Round 7 of the Candidates 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1898,14 +1930,6 @@ news_feed (
          "title" : "Madrid Candidates 3: Nakamura & Rapport escape"
       },
       {
-         "description" : "All four games finished drawn in round 3 of the Candidates Tournament. Richard Rapport survived from an inferior position with black for a second time in the event, as he managed to keep the balance in his encounter against Ding Liren. In the longest game of the day, Hikaru Nakamura showed great calculation skills to split the point with Alireza Firouzja. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r3",
-         "pubDate" : "Mon, 20 Jun 2022 05:55:00 +0100",
-         "title" : "Candidates R3: Ding's missed chance"
-      },
-      {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;Every chessplayer, from beginner to world champion, loves to win a game with a brilliant attacking display. However many, if not most, attacks that end in victory do so due to inaccurate defence. This may be due to simple tactical miscalculation or perhaps a more <a href=\"http://britishchessnews.com/2022/06/20/dynamic-defence/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Dynamic Defence</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/06/20/dynamic-defence/\">Dynamic Defence</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.co",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1944,14 +1968,6 @@ news_feed (
          "link" : "https://chessimprover.com/minor-piece-ending/",
          "pubDate" : "Sun, 19 Jun 2022 15:48:24 +0000",
          "title" : "Minor Piece Ending"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 84th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-84-basics-of-the-benko-gambit-3",
-         "pubDate" : "Sun, 19 Jun 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 84: Basics of the Benko Gambit (3)"
       },
       {
          "description" : "Prime Minister Narendra Modi on Sunday flagged off the first-ever torch relay for the Chess Olympiad ahead of the 44th edition of the event, which is to be held in Mahabalipuram from July 28 to August 10. The international chess body, FIDE, for the very first time has instituted the torch relay, which is part of the Olympic tradition, but was never done in the Chess Olympiad.",
@@ -2224,14 +2240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1809",
          "pubDate" : "Mon, 13 Jun 2022 19:47:26 +0000",
          "title" : "WSCC 2022: Vaishali advances to quarterfinals"
-      },
-      {
-         "description" : " IM Igor Bjelobrk is the winner of the 2022 NSW Open, with an impressive 6.5/7. He won his first 6 rounds, and then played out a tough final round draw against close rival IM Junta Ikeda. Ikeda had drawn with Jack Rodgers back in round 3, and so they avoided playing each other until the last round. The draw left Ikeda tied for 2nd on 6 points with FM Yi Liu, who recovered from a round 4 loss to Sam Asaka to win his remaining games. In the Minor event, Kamal Jain won in a similar way to Bjelobrk, starting with 6 wins before drawing his last round games. There was a 3 way tie for 2nd with Stephen Hemsley, Shane Dibley and Kotaro Inukai all scoring 5.5. The 150 player event ran pretty smoothly,",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/2022-nsw-open-days-2-3.html",
-         "pubDate" : "Mon, 13 Jun 2022 12:38:00 +0000",
-         "title" : "2022 NSW Open - Days 2 & 3"
       }
    ]
 }
