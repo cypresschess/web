@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R14 recap Ian Nepomniachtchi seals the tournament victory with a rocky draw against Jan-Krzysztof Duda, putting a historical Candidates score 9,5 points out of 14 in the books. Ding Liren beats Hikaru Nakamura in a rollercoaster of a game to claim the second place. Round 14 results:Richard []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r14-recap/",
+         "pubDate" : "Mon, 04 Jul 2022 22:16:27 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - R14 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1847",
+         "pubDate" : "Mon, 04 Jul 2022 22:08:40 +0000",
+         "title" : "Ian Nepomniachtchi wins the Candidates without a single loss"
+      },
+      {
+         "description" : "Hikaru Nakamura lost the last round of the FIDE Candidates Chess Tournament 2022 finishing the event in shared third place with 7.5 points. Nakamura needed a draw against Ding Liren to clinch silver and get the chance to participate in the World Chess Championship Match since Magnus Carlsen considers to retire from it. Hikaru posted []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-i-cared-too-much/",
+         "pubDate" : "Mon, 04 Jul 2022 21:23:13 +0000",
+         "title" : "Hikaru Nakamura: \"I cared too much\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Jan-Krzysztof Duda expresses relief that the grueling Candidates Tournament has come to an end as he speaks with WGM Anastasia Karlovich after Round 14. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-happiness-its-over-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZtopoNuPwEw.jpg?itok=dNJJDiaZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-happiness-its-over-round-14",
+         "pubDate" : "Mon, 04 Jul 2022 20:35:03 +0000",
+         "title" : "Duda: Happiness That It's Over | Round 14"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after his final game in the 2022 Candidates Tournament. Even though Ian had clinched the event a day early, it wasn&#039;t time to rest yet. Up next for Nepo is Croatia Grand Chess Tour, where Magnus will also compete. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-now-its-time-rest-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-now-its-time-rest-round-14",
+         "pubDate" : "Mon, 04 Jul 2022 20:35:03 +0000",
+         "title" : "Nepo: Now It's Time to Rest | Round 14"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-14\"><img src=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-14",
+         "pubDate" : "Mon, 04 Jul 2022 20:35:03 +0000",
+         "title" : "Today in Chess | 2022 Candidates Edition: Round 14"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Former world champion Viswanathan Anand joins the show in Round 14 of the 2022 Candidates Tournament. Hear about the Olympiad in Chennai, Caruana's stumbles, Nepo's victories, and his opinion on whether Carlsen will play the world title match. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vishy-anand-site-madrid-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -154,14 +202,6 @@ news_feed (
          "title" : "FIDE Candidates Chess Tournament 2022 - R14 preview"
       },
       {
-         "description" : "The TCEC season so far: Stockfish wins TCEC League / Stockfish wins TCEC Cup / Stockfish wins TCEC Swiss Can anyone stop Stockfish? One by one its rivals stepped up, and one by one they failed. At the halfway point, Stockfish led Leela by half a point. With six rounds to go, this was by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-22-swiss-to-cap-dominant-season/",
-         "pubDate" : "Mon, 04 Jul 2022 04:44:28 +0000",
-         "title" : "Stockfish wins TCEC Season 22 Swiss to cap dominant season"
-      },
-      {
          "description" : "Ian Nepomniachtchi won the Candidates Tournament for a second time in a row on Sunday. The 31-year-old, much like in 2021, secured first place with a round to spare, and thus gained the right to challenge Magnus Carlsen in the next match for the World Championship title. Round 13 of the tournament saw Hikaru Nakamura beating Jan-Krzysztof Duda to grab clear second place. Nakamura is set to face Ding Liren, currently in third place, in a decisive final-round encounter on Monday. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,14 +234,6 @@ news_feed (
          "title" : "Ian Nepomniachtchi becomes challenger for the title of World Champion"
       },
       {
-         "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R13 recap Ian Nepomniachtchi makes a comfortable draw with the white pieces against Rapport and clinches the tournament victory with one round to spare. Thus, he also becomes challenger for the title of World Champion! Round 13 results:Ian Nepomniachtchi &#x2013; Richard Rapport 1/2-1/2Hikaru Nakamura &#x2013; Jan-Krzysztof Duda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r13-recap/",
-         "pubDate" : "Sun, 03 Jul 2022 21:34:57 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R13 recap"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after mathematically clinching the Candidates Tournament victory! 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-job-had-be-done-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NPJvXiiK8J8.jpg?itok=ebJBF5mP\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -218,7 +250,7 @@ news_feed (
          "title" : "Today in Chess | 2022 Candidates Edition: Round 13"
       },
       {
-         "description" : "GM Ian Nepomniachtchi, who had already secured victory with a round to spare, drew his last game with GM Jan-Krzysztof Duda to win the 2022 Candidates Tournament undefeated and with a record 9.5/14 score. GM Ding Liren won the clash with GM Hikaru...",
+         "description" : "GM Ian Nepomniachtchi, who had already secured his victory with a round to spare, drew his last game with GM Jan-Krzysztof Duda to win the 2022 Candidates Tournament undefeated, with a 2902 performance rating and a record 9.5/14 score. GM Ding Lir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-14",
@@ -480,30 +512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1842",
          "pubDate" : "Fri, 01 Jul 2022 22:16:03 +0000",
          "title" : "Candidates 2022, Round 12: Nepomniachtchi half a step away from winning the Candidates"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after his quick draw against Hikaru Nakamura in Round 12 of the 2022 Candidates Tournament. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-not-surprised-nakamura%E2%80%99s-berlin-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/isDTnSNFH2k.jpg?itok=rFv8CiN_\" alt=\"\" /><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-not-surprised-nakamura%E2%80%99s-berlin-round-12",
-         "pubDate" : "Fri, 01 Jul 2022 20:33:42 +0000",
-         "title" : "Nepo: Not Surprised by Nakamura's Berlin | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Hikaru Nakamura talks to WGM Anastasia Karlovich after his quick draw against Ian Nepomniachtchi in Round 12 of the 2022 Candidates Tournament. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-not-worth-it-risk-lot-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eBcz5Yo8yWA.jpg?itok=WHppiIG8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-not-worth-it-risk-lot-round-12",
-         "pubDate" : "Fri, 01 Jul 2022 20:33:42 +0000",
-         "title" : "Nakamura: Not Worth it to Risk a Lot | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.01<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-12\"><img src=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-12",
-         "pubDate" : "Fri, 01 Jul 2022 20:33:42 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 12"
       },
       {
          "description" : "GM Ian Nepomniachtchi increased his lead to two points and only needs a draw on Sunday to clinch the 2022 Candidates Tournament. After drawing his game with GM Hikaru Nakamura in just seven minutes today he saw GM Ding Liren, his closest rival, lo...",
@@ -2232,14 +2240,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
          "pubDate" : "Tue, 14 Jun 2022 10:00:00 +0400",
          "title" : "FIDE Candidates Tournament 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1809",
-         "pubDate" : "Mon, 13 Jun 2022 19:47:26 +0000",
-         "title" : "WSCC 2022: Vaishali advances to quarterfinals"
       }
    ]
 }
