@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The closing ceremony of the FIDE Candidates Chess Tournament 2022 takes place at 21:00 CEST in Madrid. The Candidates Chess Tournament 2022 will be officially declared closed soon, and Ian Nepomniachtchi will lift the Winner trophy. Nepomniachtchi qualified for the World Chess Championship Match which will be played next year, but his opponent in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-closing-ceremony-live/",
+         "pubDate" : "Tue, 05 Jul 2022 19:26:23 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - Closing Ceremony LIVE"
+      },
+      {
+         "description" : "All the games of the FIDE Candidates Chess Tournament 2022 have finished, but the event is not officially closed yet. The Closing Ceremony will take place today at 21:00 CET. During the last day of the most exciting chess tournament in 2022, the fans and chess enthusiasts could have enjoyed the post-candidates events: simultaneous exhibitions []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/post-candidates-events-in-madrid/",
+         "pubDate" : "Tue, 05 Jul 2022 18:36:30 +0000",
+         "title" : "Post-Candidates events in Madrid"
+      },
+      {
+         "description" : "16-year-old Dommaraju Gukesh continues to shine after winning three consecutive titles in the Open events. After the triumph at the&#xA0;1st Chessable Sunway Formentera Chess Festival 2022, 1st Menorca Chess Open 2022,&#xA0;and the 48th La Roda Open 2022, Gukesh had a good tournament at the Sharjah Chess Masters, adding the total of 34.8 ELO points to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dommaraju-gukesh-is-now-the-second-strongest-junior-in-the-world/",
+         "pubDate" : "Tue, 05 Jul 2022 18:09:54 +0000",
+         "title" : "Dommaraju Gukesh is now the second strongest junior in the world"
+      },
+      {
+         "description" : " <p class=\"lead\">As every major tournament, the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> gave us all colors of emotions. From excitement and hope to surprise and disappointment, chess fans from around the world were glued to their screen to watch every match and applaud - or not - Ian Nepomniachtchi, the big winner of the tournament. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-11.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52190951611_1463bea5f8_h.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> <img src=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/what-happened-at-the-candidates-2022/",
+         "pubDate" : "Tue, 05 Jul 2022 17:52:42 +0000",
+         "title" : "What happened at the Candidates 2022?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1848",
+         "pubDate" : "Tue, 05 Jul 2022 17:45:08 +0000",
+         "title" : "On the way to Chennai for the Arbiters' Team"
+      },
+      {
+         "description" : "Anish Giri drew against reigning World Chess Champion Magnus Carlsen in a blitz game that was played in Madrid's Park El Retiro. Anish didn't do well in the opening and faced many troubles, but he managed to escape and turn the tables with a beautiful mating idea. Magnus had better time control and flagged the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-flags-anish-giri-after-blundering-the-mate-trick-video/",
+         "pubDate" : "Tue, 05 Jul 2022 17:37:33 +0000",
+         "title" : "Magnus Carlsen flags Anish Giri after blundering the mate trick (VIDEO)"
+      },
+      {
+         "description" : "Actually more players in the top 100: 13 US grandmasters vs 12 from Russia, down from 22 five years ago. But even the total is closing: In total Russia still has 246 grandmasters, compared to 101 from the US. Many Russian GMs from the older generation, like Garry Kasparov and Vladimir Kramnik, have dropped out of the rating list, but the main reason for the decline is the reaction of players to Russia's war invasion of Ukraine. | Newsweek photo Getty",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-has-more-top-grandmasters-than-russia",
+         "pubDate" : "Tue, 05 Jul 2022 18:00:00 +0100",
+         "title" : "US has more top grandmasters than Russia"
+      },
+      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (58)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (58)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -34,7 +90,7 @@ news_feed (
          "title" : "Weird book statistics"
       },
       {
-         "description" : " Ian Nepomniachtchi wins the Candidates Tournament yesterday ending on an undefeated 9.5/14. In fact, he was never in real trouble and his +5 was very steady. Magnus Carlsen spent a few days in Madrid and met with FIDE President Arkady Dvorkovich and Director-General GM Emil Sutovsky. They discussed potential format changes. Photo by Stev Bonhage The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/\">Nepomniachtchi wins Candidates Carlsen undecided on rematch</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Ian Nepomniachtchi won the Candidates Tournament yesterday ending on an undefeated 9.5/14. In fact, he avoided real trouble (for the most part) and his +5 showed a consistent level. Magnus Carlsen spent a few days in Madrid and met with FIDE President Arkady Dvorkovich and Director-General GM Emil Sutovsky. They discussed potential format changes. Photo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/\">Nepomniachtchi wins Candidates Carlsen undecided on rematch</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/",
@@ -146,14 +202,6 @@ news_feed (
          "title" : "Ian Nepomniachtchi wins the Candidates without a single loss"
       },
       {
-         "description" : "Hikaru Nakamura lost the last round of the FIDE Candidates Chess Tournament 2022 finishing the event in shared third place with 7.5 points. Nakamura needed a draw against Ding Liren to clinch silver and get the chance to participate in the World Chess Championship Match since Magnus Carlsen considers to retire from it. Hikaru posted []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-i-cared-too-much/",
-         "pubDate" : "Mon, 04 Jul 2022 21:23:13 +0000",
-         "title" : "Hikaru Nakamura: \"I cared too much\""
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Jan-Krzysztof Duda expresses relief that the grueling Candidates Tournament has come to an end as he speaks with WGM Anastasia Karlovich after Round 14. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-happiness-its-over-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZtopoNuPwEw.jpg?itok=dNJJDiaZ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -194,14 +242,6 @@ news_feed (
          "title" : "Endgame Magic #201 with Daniel Fernandez: Endgame Highlights from the Candidates Tournament"
       },
       {
-         "description" : "Russian grandmaster&#xA0;Ian Nepomniachtchi secured the trophy at the&#xA0;2022 FIDE Candidates Chess Tournament&#xA0;with a round to spare. Nepomniachtchi is the second player ever who managed to win the Candidates Tournament two consecutive times, repeating Vasily Smyslov&#x2019;s feast from 1956. The post-game interview with WGM Dina Belankaya opened with ovations for Nepomniachtchi, who was touched by the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-speaks-about-the-candidates-and-world-championship-match-video/",
-         "pubDate" : "Mon, 04 Jul 2022 15:34:29 +0000",
-         "title" : "Ian Nepomniachtchi speaks about the Candidates and World Championship Match (VIDEO)"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has heard <strong>Magnus Carlsen</strong>'s ideas for the world championship match 2023 at a confidential meeting during the penultimate round of the <strong>Candidates Tournament</strong> in Madrid. According to FIDE General Director Emil Sutovsky there are no regulations yet and a draft is to be provided to Carlsen in the next days that shall integrate both FIDE's and the world champion's views. Carlsen is expected to decide if he plays the 2023 match by 20 July. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -216,14 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepo-carlsen-match-maybe-we-will-see-round-13",
          "pubDate" : "Mon, 04 Jul 2022 14:34:49 +0000",
          "title" : "Nepo on Carlsen Match: Maybe, We Will See | Round 13"
-      },
-      {
-         "description" : "Ian Nepomniachtchi won the FIDE Candidates Chess Tournament 2022 with a round to spare, thus becoming the challenger in the World Chess Championship Match which will be played next year. The reigning World Chess Champion Magnus Carlsen should be the defender of the title, but Magnus was repeatedly saying he is&#160;considering his retirement from the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-negotiates-the-format-of-the-world-chess-championship-match/",
-         "pubDate" : "Mon, 04 Jul 2022 14:24:40 +0000",
-         "title" : "Magnus Carlsen negotiates the format of the World Chess Championship Match"
       },
       {
          "description" : "",
@@ -1322,14 +1354,6 @@ news_feed (
          "title" : "Russian GM Savchenko Boris wins Chennai Open"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/QxB-KkJJChQ?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-fide-candidates-tournament-2022-round-8/",
-         "pubDate" : "Sun, 26 Jun 2022 13:00:05 +0000",
-         "title" : "Watch FIDE Candidates Tournament 2022: Round 8"
-      },
-      {
          "description" : " It is looking like the 2022 Candidates Tournament is down to 2 players. Ian Nepomniachtchi leads with a very impressive 5.5/7, but is closely followed by Fabiano Caruana on 5/7. Hikaru Nakamura is in 3rd place, but is a full 2 points behind Nepo. Such is the dominance of the leading 2, everyone else (bar Nakamura) has finished the first half of the tournament on a minus score. Of course there is still another 7 rounds to play, but at this stage, the Caruana v Nepo game in Round 9 may determine who will play Carlsen for the World Championship title. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1920,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1821",
          "pubDate" : "Tue, 21 Jun 2022 09:44:27 +0000",
          "title" : "WSCC-2022: Kosteniuk beat Stefanova to reach quarterfinals"
-      },
-      {
-         "description" : "Watching and following live events from one's phone is nothing new, and there are a myriad of ways to do so, including of course the ChessBase News page. Recently however, a great deal of effort has been invested into making the ChessBase experience that extra bit better and more enjoyable, and you now have much more than just the games and moves at your fingertips.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/watching-live-events-on-your-phone",
-         "pubDate" : "Tue, 21 Jun 2022 10:00:00 +0100",
-         "title" : "Watching live events on your phone"
       },
       {
          "description" : "In the battle of Women&#39;s World Champions, GM Alexandra Kosteniuk prevailed over GM Antoaneta Stefanova in the second round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. While both competitors impressed on the b...",
