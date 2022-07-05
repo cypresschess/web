@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (58)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (58)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-58/",
+         "pubDate" : "Tue, 05 Jul 2022 15:22:08 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (58)"
+      },
+      {
+         "description" : "Finding games played with a specific opening is useful for chess tournament preparation. National Master Jeffrey Ashton shows how coaches and students can create their own model game database.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-finding-model-games",
+         "pubDate" : "Tue, 05 Jul 2022 16:00:00 +0100",
+         "title" : "ChessBase for Coaches: Finding Model Games"
+      },
+      {
+         "description" : "The 50th Annual World Chess Open&#xA0;took place from June 30th to July 4th at Sheraton Philadelphia Downtown. The event is played in 8 sections, with a total prize fund of more than 100.000$ and participation of more than 1500 players. As many as eight players tied for the first place after 9 played rounds, scoring []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-mikhail-antipov-wins-50th-world-open-after-the-armageddon-playoff/",
+         "pubDate" : "Tue, 05 Jul 2022 14:05:17 +0000",
+         "title" : "GM Mikhail Antipov wins 50th World Open after the Armageddon Playoff"
+      },
+      {
+         "description" : " I have been updating my book collection with Librarything, and have discovered that it can generate a lot of statistics about my collection. If I stacked my books in a pile, it would be 74 feet high, at around 4% of my books aren't written by a person(!). Of the 200 identified authors, 48% are still alive, while 48% have died. 98% of my books are in English, although a number were originally written in other languages (mainly Russian). But probably the most surprising, and somewhat disappointing statistic is that only 1% of the authors in my collection were female. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/weird-book-statistics.html",
+         "pubDate" : "Tue, 05 Jul 2022 14:03:00 +0000",
+         "title" : "Weird book statistics"
+      },
+      {
+         "description" : " Ian Nepomniachtchi wins the Candidates Tournament yesterday ending on an undefeated 9.5/14. In fact, he was never in real trouble and his +5 was very steady. Magnus Carlsen spent a few days in Madrid and met with FIDE President Arkady Dvorkovich and Director-General GM Emil Sutovsky. They discussed potential format changes. Photo by Stev Bonhage The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/\">Nepomniachtchi wins Candidates Carlsen undecided on rematch</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/",
+         "pubDate" : "Tue, 05 Jul 2022 14:02:25 +0000",
+         "title" : "Nepomniachtchi wins Candidates&hellip; Carlsen undecided on rematch"
+      },
+      {
+         "description" : "The world&#x2019;s top chess stars will be flying to Florida this summer for the biggest esports chess tournament ever held on US soil. The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup 2022, in Miami from August 15 to 21. The FTX Crypto Cup will offer the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crupto-cup-2022-miami/",
+         "pubDate" : "Tue, 05 Jul 2022 13:39:58 +0000",
+         "title" : "FTX Crupto Cup 2022 - Miami"
+      },
+      {
+         "description" : "Chessdom.com will cover live daily the 2022 edition of the FTX Crypto Cup. The event starts with a qualifier, including the Candidates 2022 participants Jan Krzysztof Duda, Teimour Radjabov, and Richard Rapport, as well as Anish Giri, Leinier Dominguez Perez, Sakhriyar Mamedyarov, Levon Aronian, Wei Yi, Radoslaw Wojtaszek, Samuel Sevian, Aryan Tari, Jeffery Xiong, Arjun []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-miami-qualifier/",
+         "pubDate" : "Tue, 05 Jul 2022 13:38:39 +0000",
+         "title" : "FTX Crypto Cup LIVE - Miami qualifier"
+      },
+      {
+         "description" : "Teimour Radjabov seems to be in a good mood after yesterday's victory over Richard Rapport and overall 3rd place in the 2022 FIDE Candidates Chess Tournament. He first entertained the fans with a tweet announcing his first chess conference after three years, and then asked a question we were all thought about: &#8220;I asked Ding []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/radjabov-asks-is-it-ding-li-ren-or-ding-li-zhen-tweetoftheday/",
+         "pubDate" : "Tue, 05 Jul 2022 13:08:38 +0000",
+         "title" : "Radjabov asks: Is it Ding Li-ren or Ding Li-Zhen? #TweetOftheDay"
+      },
+      {
+         "description" : "Everything you need as a as a dedicated chess enthusiast. Fritz 18, the \"Evolving Genius\": learn to attack and play brilliancies. Fritz offers you everything you will need to improve your performance. Fritz Powerbook 2022: Total current openings theory, with 25 millions opening positions, derived from 1.7 million high class tournament games. You can get them both this week at a substantial discount.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deal-of-the-week-fritz-18-powerbook-2",
+         "pubDate" : "Tue, 05 Jul 2022 14:00:00 +0100",
+         "title" : "Deal of the Week: Fritz 18 + Powerbook"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG\" data-image-dimensions=\"1333x674\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c39202f91a6a40045fa650\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG?format=1000w\" /> </figure> <p class=\"\">On this month's Adult Improver Edition of Perpetual Chess I am joined by Dr. Nicholas Vasquez. Dr. Vasquez is a dad and emergency physician who finds chess a welcome escape from a",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/4/ep-286-adult-improver-dr-nicholas-vazquez-on-how-and-why-he-finally-got-serious-about-chess-improvement",
+         "pubDate" : "Tue, 05 Jul 2022 12:00:49 +0000",
+         "title" : "EP 286- Adult Improver Dr. Nicholas Vasquez on How and Why he Finally Got Serious about Chess Improvement"
+      },
+      {
+         "description" : "Levon Aronian, Richard Rapport and Anish Giri are among the star players competing in the FTX Road to Miami, the 5th event on the $1.6 million Meltwater Champions Chess Tour. The 16-player tournament starting on chess24 this Sunday, July 10th is a prelude to the 2nd Major of the Tour, the FTX Crypto Cup, which will be held in Miami, Florida, with World Champion Magnus Carlsen returning and a $210,000 prize fund plus a $100,000 Bitcoin bonus.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-begins-this-sunday",
+         "pubDate" : "Tue, 05 Jul 2022 12:00:01 +0000",
+         "title" : "FTX Road to Miami begins this Sunday"
+      },
+      {
          "description" : "FIDE Director-General Emil Sutovsky yesterday joined the live studio of the FIDE Candidates Chess Tournament 2022 and spoke about his impressions from the Candidates, the venue, the upcoming World Chess Championship Match, negotiations with Magnus Carlsen, the new format of the Women's Candidate Chess Tournament, different time-controls of different events and importance of online chess. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -194,30 +282,6 @@ news_feed (
          "title" : "FIDE ratings July 2022"
       },
       {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani, in collaboration with Saint Louis Chess Club and Today in Chess Candidates edition.&#xA0;Round 14 pairings:Richard Rapport &#x2013; Teimour Radjabov&#xA0;/&#xA0;Fabiano Caruana &#x2013; Alireza Firouzja&#xA0;/&#xA0;Ding Liren &#x2013; Hikaru Nakamura&#xA0;/&#xA0;Jan-Krzysztof Duda &#x2013; Ian Nepomniachtchi Latest from the Candidates 2022:Ian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r14-live-with-gm-alejandro-ramirez-gm-yasser-seirawan-and-im-dorsa-derakhshani/",
-         "pubDate" : "Mon, 04 Jul 2022 11:29:22 +0000",
-         "title" : "FIDE Candidates 2022 R14 live with GM Alejandro Ramirez, GM Yasser Seirawan and IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with GM Daniil Yuffa and GM Evgenij Miroshnichenko, in collaboration with Worldchess.com. Round 14 pairings:Richard Rapport &#x2013; Teimour Radjabov&#160;/&#160;Fabiano Caruana &#x2013; Alireza Firouzja&#160;/&#160;Ding Liren &#x2013; Hikaru Nakamura&#160;/&#160;Jan-Krzysztof Duda &#x2013; Ian Nepomniachtchi Latest from the Candidates 2022:Ian Nepomniachtchi wins FIDE Candidates Chess 2022 with a round to spare&#160;/&#160;Anish []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r14-live-with-gm-daniil-yuffa-and-gm-evgenij-miroshnichenko-2/",
-         "pubDate" : "Mon, 04 Jul 2022 11:27:15 +0000",
-         "title" : "FIDE Candidates 2022 R14 live with GM Daniil Yuffa and GM Evgenij Miroshnichenko"
-      },
-      {
-         "description" : "This is the FIDE Candidates 2022 live video with IM Sagar Shah and Amruta Mokal, in collaboration with Chessbase.&#xA0;Round 14 pairings: Richard Rapport &#x2013; Teimour Radjabov / Fabiano Caruana &#x2013; Alireza Firouzja / Ding Liren &#x2013; Hikaru Nakamura / Jan-Krzysztof Duda &#x2013; Ian Nepomniachtchi Latest from the Candidates 2022: Ian Nepomniachtchi wins FIDE Candidates Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-2022-r14-live-with-im-sagar-shah-and-amruta-mokal/",
-         "pubDate" : "Mon, 04 Jul 2022 11:25:33 +0000",
-         "title" : "FIDE Candidates 2022 R14 live with IM Sagar Shah and Amruta Mokal"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -248,14 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1846",
          "pubDate" : "Mon, 04 Jul 2022 09:31:19 +0000",
          "title" : "Checkmate Coronavirus: Road to Chennai"
-      },
-      {
-         "description" : "Ian Nepomniachtchi clinched the tournament victory with a round to spare, thus becoming the challenger for the title of World Champion. The final round of the FIDE Candidates Chess 2022 is yet to be played, determining the medalists. If Magnus Carlsen decides not to play the World Chess Championship, the second-placed player will be Nepo's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r14-preview/",
-         "pubDate" : "Mon, 04 Jul 2022 08:53:42 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R14 preview"
       },
       {
          "description" : "Ian Nepomniachtchi won the Candidates Tournament for a second time in a row on Sunday. The 31-year-old, much like in 2021, secured first place with a round to spare, and thus gained the right to challenge Magnus Carlsen in the next match for the World Championship title. Round 13 of the tournament saw Hikaru Nakamura beating Jan-Krzysztof Duda to grab clear second place. Nakamura is set to face Ding Liren, currently in third place, in a decisive final-round encounter on Monday. | Photo: FIDE / Stev Bonhage",
@@ -1874,14 +1930,6 @@ news_feed (
          "title" : "Watching live events on your phone"
       },
       {
-         "description" : "Endgames are often full of tactical possibilities, particularly so if both sides have passed pawns. The diagrammed position occurred in a game between Magnus Carlsen and Anish Giri at the Esports Cup in Oslo. It is White to move, and can you find the move the World Champion played?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-tactics-4",
-         "pubDate" : "Tue, 21 Jun 2022 09:00:00 +0100",
-         "title" : "Endgame tactics"
-      },
-      {
          "description" : "In the battle of Women&#39;s World Champions, GM Alexandra Kosteniuk prevailed over GM Antoaneta Stefanova in the second round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. While both competitors impressed on the b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1896,14 +1944,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-canty-shuvalova",
          "pubDate" : "Mon, 20 Jun 2022 17:06:30 -0700",
          "title" : "Canty Upsets Shuvalova: 'She's An Absolute Beast'"
-      },
-      {
-         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, continuing with the Richard Rapport. With a deeply annotated game Colovic takes a look at the chances of this intriguing candidate. | Photo FIDE official.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-3",
-         "pubDate" : "Mon, 20 Jun 2022 22:00:00 +0100",
-         "title" : "Cracking the Candidate Code (3)"
       },
       {
          "description" : "",
@@ -2008,14 +2048,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/stalemate-tricks-to-know.html",
          "pubDate" : "Sun, 19 Jun 2022 13:14:00 +0000",
          "title" : "Stalemate tricks to know"
-      },
-      {
-         "description" : "Hikaru Nakamura bounced straight back from his loss to Fabiano Caruana to defeat Teimour Radjabov in Round 2 of the FIDE Candidates Tournament in Madrid. The other games were drawn, but only after Richard Rapport missed wins against birthday boy Alireza Firouzja, while the Nepo-Caruana clash of the leaders was a thriller after Fabi unleashed some dangerous home preparation. Duda-Ding was the quietest draw, but even there both sides got chances.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-2-nakamura-strikes-back",
-         "pubDate" : "Sun, 19 Jun 2022 09:24:28 +0000",
-         "title" : "Madrid Candidates 2: Nakamura strikes back"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92311227.cms\" />Viswanathan Anand joined sports minister Anurag Thakur during an interaction with TOI in the Capital on Saturday. The two Guest Sports Editors talked about the way ahead for chess, plans to popularise the sport at the grassroots level and stage more international tournaments to give aspiring youngsters exposure to top-quality chess.",
@@ -2154,14 +2186,6 @@ news_feed (
          "title" : "Maurice Ashley honored by Brownsville!"
       },
       {
-         "description" : " This week's show was an interview with our old friend, IM Vaidyanathan Ravikumar. Ravi was one of the early globetrotting Indian chess professionals and has spent a lot of time in the UK. He tells us more about the early days of the Indian chess explosion and gives us some insights into the upcoming Chennai <a href=\"https://chessimprover.com/master-chess-web-show-18/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (18)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-18/\">Master Chess Web Show (18)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-18/",
-         "pubDate" : "Thu, 16 Jun 2022 16:23:32 +0000",
-         "title" : "Master Chess Web Show (18)"
-      },
-      {
          "description" : "The 2022 European Corporate Chess Championship takes place on weekend 18-19 June in Rotterdam, Netherlands. The tournament is played on&#160;a luxury cruise ship of Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour. 17 teams will participate in the event which will be played in 9 rounds, Swiss system, with time control: 15 minutes for the whole&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2232,14 +2256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1810",
          "pubDate" : "Tue, 14 Jun 2022 20:35:44 +0000",
          "title" : "FIDE and ChessKid Unrated GIRLS ONLY tournament to start on July 10 "
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg\" data-image-dimensions=\"1741x876\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62a892f1b850ad772070aff8\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e256abea-1c32-4a47-afa2-ff401d317545/Rb.final.jpg?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we talk about chess improvement with one of the premier chess trainers in the world! <a href=\"https://en.wikipedia.org/wiki/Ramachandran_Ramesh\"",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/14/ep-283-top-trainer-gm-rb-ramesh-on-how-to-improve-your-chess-calculation-and-the-keys-to-gm-praggnanandhaas-success",
-         "pubDate" : "Tue, 14 Jun 2022 13:56:37 +0000",
-         "title" : "EP 283- Top Trainer GM R.B. Ramesh on How to Improve Your Chess Calculation, and the keys to GM Praggnanandhaa''s success"
       }
    ]
 }
