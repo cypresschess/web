@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Director-General Emil Sutovsky yesterday joined the live studio of the FIDE Candidates Chess Tournament 2022 and spoke about his impressions from the Candidates, the venue, the upcoming World Chess Championship Match, negotiations with Magnus Carlsen, the new format of the Women's Candidate Chess Tournament, different time-controls of different events and importance of online chess. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-director-general-we-will-have-a-decision-for-the-world-chess-championship-match-by-july-20/",
+         "pubDate" : "Tue, 05 Jul 2022 10:15:52 +0000",
+         "title" : "FIDE Director-General: We will have a decision for the World Championship Match by July 20"
+      },
+      {
+         "description" : " <p class=\"lead\">In a brief interview after the Candidates Tournament, the World Champion said that Nepo, who ended up winning the tournament, was 'criminally underrated'. Higher seeds were the favorites to win the event, but it tuned out that Nepo, who just recently completed the Match against Carlsen and was by far better conditioned for the event, dominated the Candidates. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/9tbpbly1Nsc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-nepo-was-criminally-underrated/",
+         "pubDate" : "Tue, 05 Jul 2022 09:08:56 +0000",
+         "title" : "Carlsen: Nepo Was Criminally Underrated"
+      },
+      {
          "description" : "Knights are tactical pieces and often very tricky. Black to move and draw.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,7 +218,15 @@ news_feed (
          "title" : "FIDE Candidates 2022 R14 live with IM Sagar Shah and Amruta Mokal"
       },
       {
-         "description" : "Day 17 : JHANSI Smt. Rama Niranjan, MLC received the torch at Deen Dayal Upadhyay Auditorium, Jhansi. GM Saptarshi Roy Chowdhary takes the Torch forward",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
+         "pubDate" : "Mon, 04 Jul 2022 11:20:05 +0000",
+         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PATNA"
+      },
+      {
+         "description" : "Day 17 : GWALIOR Hon. Minister of Agriculture &#38; Farmers' Welfare Govt of MP Sh. Narendra Singh Tomar received the Torch at Gwalior. Day 17",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -608,14 +632,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-needs-at-most-just-one-more-draw-to-win-the-candidates",
          "pubDate" : "Fri, 1 Jul 2022 20:31:00 +0400",
          "title" : "Nepomniachtchi needs at most just one more draw to win the Candidates - 12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
-         "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION JHANSI"
       },
       {
          "description" : "DOWNLOAD LIST OF VOLUNTEERS",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/looking-like-two-horse-race.html",
          "pubDate" : "Sun, 26 Jun 2022 12:58:00 +0000",
          "title" : "Looking like a two horse race"
-      },
-      {
-         "description" : " <p class=\"lead\">The professional streamer and chess superstar Hikaru Nakamura announced on Twitter that he is <a href=\"https://events.softgiving.com/donate/TeamHikaru4ReproductiveRights\">fundraising</a> for the abortion rights. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-06-26-at-11.26.31-AM.png\" width=\"2346\" height=\"1522\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> GM Hikaru Nakamura recently made an impressive and strong come-back to the classical and over-the-board chess. His great performance at the FIDE Grand Prix Series, his promotion to the Candidates 2022, and his funny interviews made him once more the talk",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-fundraises-for-the-abortion-rights/",
-         "pubDate" : "Sun, 26 Jun 2022 08:47:46 +0000",
-         "title" : "Nakamura fundraises for the abortion rights"
       },
       {
          "description" : "Ian Nepomniachtchi ended the first half of the 2022 FIDE Candidates Tournament on a phenomenal +4 score after Richard Rapport rejected a draw and crashed to defeat in what Fabiano Caruana described as \"one of the most shocking games I've seen from a top player in a long time\". Fabi is still just half a point behind after winning a pawn early on and then navigating complications to beat Teimour Radjabov, while 3rd placed Hikaru Nakaura trails Fabi by 1.5 points before their Round 8 clash.",
