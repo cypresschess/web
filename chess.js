@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Knights are tactical pieces and often very tricky. Black to move and draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/black-knight-magic",
+         "pubDate" : "Tue, 05 Jul 2022 09:00:00 +0100",
+         "title" : "Black knight magic"
+      },
+      {
+         "description" : "The 2022 Candidates Tournament came to an end on Monday, with an eventful round that saw three decisive results and a hard-fought draw. In the most important game for the standings, Ding Liren beat Hikaru Nakamura to finish in sole second place. Teimour Radjabov and Alireza Firouzja also scored full points, while the champion, Ian Nepomniachtchi, managed to end the tournament undefeated, as he drew with black against Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r14",
+         "pubDate" : "Tue, 05 Jul 2022 08:40:00 +0100",
+         "title" : "Candidates R14: Ding beats Naka, grabs second place"
+      },
+      {
+         "description" : "Ding Liren will play Ian Nepomniachtchi in a World Championship match if Magnus Carlsen chooses not to play after the Chinese no. 1 defeated Hikaru Nakamura on demand in the final round. A brutal day also saw Teimour Radjabov tie Nakamura for 3rd after beating Richard Rapport, while Alireza Firouzja finished 6th after inflicting a 4th defeat of the 2nd half of the event on Fabiano Caruana. Ian Nepomniachtchi drew against Jan-Krzysztof Duda to finish with an unbeaten 9.5/14.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/madrid-candidates-14-ding-liren-beat-nakamura-to-snatch-2nd",
+         "pubDate" : "Tue, 05 Jul 2022 07:07:42 +0000",
+         "title" : "Madrid Candidates 14: Ding Liren beat Nakamura to snatch 2nd"
+      },
+      {
          "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R14 recap Ian Nepomniachtchi seals the tournament victory with a rocky draw against Jan-Krzysztof Duda, putting a historical Candidates score 9,5 points out of 14 in the books. Ding Liren beats Hikaru Nakamura in a rollercoaster of a game to claim the second place. Round 14 results:Richard []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -111,7 +135,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
          "pubDate" : "Mon, 04 Jul 2022 14:45:00 +0100",
-         "title" : "Candidates, Round 14: Live"
+         "title" : "Candidates Tournament: Games and standings"
       },
       {
          "description" : " The ACT Chess Association is organising the 2022 ANU Open, after a break of 2 years. <br />The details are<br /><br /><b>ANU Open/Minor 2022<br /></b><br />29-31 July (One round Friday evening, three Saturday, two Sunday)<br /><br />Format: Open section and Under 1600 Section (ACF)<br /><br />Time control: 60m+30s inc (FIDE Rated except for players 2400+)<br /><br /><b>Schedule</b><div><br /></div><div>Round 1 Friday 29th 7PM, <br /><br />Round 2 Sat 30th 10am, Rd 3 2pm, Round 4, 6pm<br /><br />Round 5 Sun 31st 10am, Round 6 2pm Prize giving 6pm<br /><br /><b>Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Fre</b>e<br /><br />Prizes: $1000 1st Open, $400 1st Minor $3600 in total<br />",
@@ -176,6 +200,14 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-candidates-2022-r14-live-with-im-sagar-shah-and-amruta-mokal/",
          "pubDate" : "Mon, 04 Jul 2022 11:25:33 +0000",
          "title" : "FIDE Candidates 2022 R14 live with IM Sagar Shah and Amruta Mokal"
+      },
+      {
+         "description" : "Day 17 : JHANSI Smt. Rama Niranjan, MLC received the torch at Deen Dayal Upadhyay Auditorium, Jhansi. GM Saptarshi Roy Chowdhary takes the Torch forward",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
+         "pubDate" : "Mon, 04 Jul 2022 11:12:45 +0000",
+         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "National School U-13 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-School-U(13)-Open.html Girls : https://aicf.online/National-School-U(13)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -584,14 +616,6 @@ news_feed (
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Fri, 01 Jul 2022 15:15:05 +0000",
          "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION JHANSI"
-      },
-      {
-         "description" : "Day 16 : BHOPAL Hon'ble Minister of Sports &#38; Youth Welfare Govt of MP Smt. Yashodhara Raje Scindia receives the torch from GM Anurag Mhamal",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
-         "pubDate" : "Fri, 01 Jul 2022 15:12:45 +0000",
-         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
       },
       {
          "description" : "DOWNLOAD LIST OF VOLUNTEERS",
@@ -1874,14 +1898,6 @@ news_feed (
          "title" : "Cracking the Candidate Code (3)"
       },
       {
-         "description" : "In the Endgame Magic Show #199 Karsten takes a look at interesting endgames from the Chess Festival in Prague. Pentala Harikrishna won the Masters, Vincent Keymer won the Challengers and both scored crucial points in the endgame. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-199-endgame-highlights-from-the-chess-festival-prague",
-         "pubDate" : "Mon, 20 Jun 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #199: Endgame highlights from the Chess Festival Prague"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,14 +1920,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-vignesh-holds-veteran-fedorov-in-round-3/articleshow/92343825.cms",
          "pubDate" : "Mon, 20 Jun 2022 15:44:34 +0000",
          "title" : "Chennai Open Chess: Vignesh holds veteran Fedorov in Round 3"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation (KCF) and Saint Louis Chess Club have been running the very successful Young Stars - Team USA program for the past six years. The club proved to be perfect training grounds for three of the Young Stars. Garry Kasparov lead the session and was assisted by FIDE Senior Trainer Michael Khodarkovsky.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/young-stars-benefit-from-kasparov-session",
-         "pubDate" : "Mon, 20 Jun 2022 15:00:00 +0100",
-         "title" : "Young Stars benefit from Kasparov's session"
       },
       {
          "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
@@ -2048,14 +2056,6 @@ news_feed (
          "link" : "https://www.thearticle.com/was-basman-right-iconoclasm-ridicule-and-chess/",
          "pubDate" : "Sat, 18 Jun 2022 10:37:12 +0000",
          "title" : "Was Basman right? Iconoclasm, ridicule and chess"
-      },
-      {
-         "description" : "Ex-World Championship challengers Ian Nepomniachtchi and Fabiano Caruana got off to a perfect start in a blistering Round 1 of the FIDE Candidates Tournament in Madrid. Nepo overwhelmed top seed Ding Liren, while Fabi punished Hikaru Nakamura for castling into trouble. The remaining games were drawn, but only after huge fights. Jan-Krzysztof Duda was almost winning in 10 moves against Richard Rapport, while Alireza Firouzja lived dangerously against Teimour Radjabov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-1-nepo-and-caruana-start-fast",
-         "pubDate" : "Sat, 18 Jun 2022 08:15:36 +0000",
-         "title" : "Madrid Candidates 1: Nepo and Caruana start fast"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92293433.cms\" />Five-time world chess champion Viswanathan Anand is quite excited about India hosting the Chess Olympiad for the first time since its inception in 1927. On Sunday, Prime Minister Narendra Modi will launch the first-ever torch relay for the Olympiad, at the Indira Gandhi Stadium in New Delhi, to kick off the flame's journey to 75 cities over the course of 40 days. The journey will culminate at Mahabalipuram, near Chennai - the venue for the July 28 to August 10 event.",
@@ -2232,14 +2232,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/14/ep-283-top-trainer-gm-rb-ramesh-on-how-to-improve-your-chess-calculation-and-the-keys-to-gm-praggnanandhaas-success",
          "pubDate" : "Tue, 14 Jun 2022 13:56:37 +0000",
          "title" : "EP 283- Top Trainer GM R.B. Ramesh on How to Improve Your Chess Calculation, and the keys to GM Praggnanandhaa''s success"
-      },
-      {
-         "description" : " The FIDE Candidates Tournament takes place Thu 16th June to Tue 5th Jul 2022 in Madrid, Spain. This is an 8 player 14 round event. For the first time since the Candidates tournaments returned there will be rapid and tie-breaks among players tied for first. Tie-break coefficients were used in the past - although there were provisions for a tie-break match the conditions needed for them to happen meant they were all but impossible. Players: Ian Nepomniachtchi, Teimour Radjabov, Jan-Krzysztof Duda, Alireza Firouzja, Fabiano Caruana, Hikaru Nakamura, Richard Rapport, and Ding Liren. Sergey Karjakin is serving a 6 months ban for his enthusiastic support of the Russian invasion of Ukraine which w",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022",
-         "pubDate" : "Tue, 14 Jun 2022 10:00:00 +0400",
-         "title" : "FIDE Candidates Tournament 2022 - Games and Results"
       }
    ]
 }
