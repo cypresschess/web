@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The closing ceremony of the FIDE Candidates Chess Tournament 2022 takes place at 21:00 CEST in Madrid. The Candidates Chess Tournament 2022 will be officially declared closed soon, and Ian Nepomniachtchi will lift the Winner trophy. Nepomniachtchi qualified for the World Chess Championship Match which will be played next year, but his opponent in the []",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1849",
+         "pubDate" : "Tue, 05 Jul 2022 22:30:18 +0000",
+         "title" : "2022 FIDE Candidates Tournament came to a close on Tuesday in Madrid"
+      },
+      {
+         "description" : "The 2022 Swiss Chess Championship&#xA0;takes place from 4-10 July, being played in 9 rounds, swiss system, with participation of 68 players. The field is led by GM Milos Pavlovic, IM Fabian Baenziger and GM Joseph Gallagher. The time control of the event is 90 minutes for 40 moves, followed by 30 minutes for the rest []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-chess-championship-2022-live/",
+         "pubDate" : "Tue, 05 Jul 2022 21:17:08 +0000",
+         "title" : "Swiss Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "The 2022 Swiss Chess Championship kicked off yesterday in Samnaun. The event takes place from 4-10 July, being played in 9 rounds, swiss system, with participation of 68 players. The field is led by GM Milos Pavlovic, IM Fabian Baenziger and GM Joseph Gallagher. (Scroll down for the starting rank list of players). The time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-chess-championship-2022/",
+         "pubDate" : "Tue, 05 Jul 2022 21:13:18 +0000",
+         "title" : "Swiss Chess Championship 2022"
+      },
+      {
+         "description" : "The Bydgoszcz Fundacja Orlen WGM tournament took place June 25-July 4, 2022, in Bydgoszcz, Poland. Ten world-class female players took part in the event which was played in 9 rounds, with the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, plus a 30-second []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-gunay-mammadzada-wins-bydgoszcz-fundacja-orlen-wgm-2022/",
+         "pubDate" : "Tue, 05 Jul 2022 20:44:53 +0000",
+         "title" : "IM Gunay Mammadzada wins Bydgoszcz Fundacja Orlen WGM 2022"
+      },
+      {
+         "description" : "The closing ceremony of the FIDE Candidates Chess Tournament 2022 takes place from 21:00 CEST in Madrid. The Candidates Chess Tournament 2022 will is officially declared closed soon, and Ian Nepomniachtchi lifted the Winner trophy. Nepomniachtchi qualified for the World Chess Championship Match which will be played next year, but his opponent in the Match []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-closing-ceremony-live/",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "FTX Crypto Cup LIVE - Miami qualifier"
       },
       {
-         "description" : "Teimour Radjabov seems to be in a good mood after yesterday's victory over Richard Rapport and overall 3rd place in the 2022 FIDE Candidates Chess Tournament. He first entertained the fans with a tweet announcing his first chess conference after three years, and then asked a question we were all thought about: &#8220;I asked Ding []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/radjabov-asks-is-it-ding-li-ren-or-ding-li-zhen-tweetoftheday/",
-         "pubDate" : "Tue, 05 Jul 2022 13:08:38 +0000",
-         "title" : "Radjabov asks: Is it Ding Li-ren or Ding Li-Zhen? #TweetOftheDay"
-      },
-      {
          "description" : "Everything you need as a as a dedicated chess enthusiast. Fritz 18, the \"Evolving Genius\": learn to attack and play brilliancies. Fritz offers you everything you will need to improve your performance. Fritz Powerbook 2022: Total current openings theory, with 25 millions opening positions, derived from 1.7 million high class tournament games. You can get them both this week at a substantial discount.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +168,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-begins-this-sunday",
          "pubDate" : "Tue, 05 Jul 2022 12:00:01 +0000",
          "title" : "FTX Road to Miami begins this Sunday"
-      },
-      {
-         "description" : "FIDE Director-General Emil Sutovsky yesterday joined the live studio of the FIDE Candidates Chess Tournament 2022 and spoke about his impressions from the Candidates, the venue, the upcoming World Chess Championship Match, negotiations with Magnus Carlsen, the new format of the Women's Candidate Chess Tournament, different time-controls of different events and importance of online chess. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-director-general-we-will-have-a-decision-for-the-world-chess-championship-match-by-july-20/",
-         "pubDate" : "Tue, 05 Jul 2022 10:15:52 +0000",
-         "title" : "FIDE Director-General: We will have a decision for the World Championship Match by July 20"
       },
       {
          "description" : " <p class=\"lead\">In a brief interview after the Candidates Tournament, the World Champion said that Nepo, who ended up winning the tournament, was 'criminally underrated'. Higher seeds were the favorites to win the event, but it tuned out that Nepo, who just recently completed the Match against Carlsen and was by far better conditioned for the event, dominated the Candidates. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/9tbpbly1Nsc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-14-ding-liren-beat-nakamura-to-snatch-2nd",
          "pubDate" : "Tue, 05 Jul 2022 07:07:42 +0000",
          "title" : "Madrid Candidates 14: Ding Liren beat Nakamura to snatch 2nd"
-      },
-      {
-         "description" : "Today in Chess: FIDE Candidates Chess Tournament 2022 R14 recap Ian Nepomniachtchi seals the tournament victory with a rocky draw against Jan-Krzysztof Duda, putting a historical Candidates score 9,5 points out of 14 in the books. Ding Liren beats Hikaru Nakamura in a rollercoaster of a game to claim the second place. Round 14 results:Richard []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-r14-recap/",
-         "pubDate" : "Mon, 04 Jul 2022 22:16:27 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - R14 recap"
       },
       {
          "description" : "",
@@ -2264,14 +2272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1811",
          "pubDate" : "Wed, 15 Jun 2022 09:22:45 +0000",
          "title" : "Latvia launches Chess in Prisons programme"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1810",
-         "pubDate" : "Tue, 14 Jun 2022 20:35:44 +0000",
-         "title" : "FIDE and ChessKid Unrated GIRLS ONLY tournament to start on July 10 "
       }
    ]
 }
