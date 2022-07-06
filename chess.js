@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "teaserThis summer, from July 6-16, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players. The three 10-player fields will tie together chess past and future for a celebration of the best of American chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-junior-senior-championships-2022-preview",
+         "pubDate" : "Wed, 06 Jul 2022 16:40:00 +0100",
+         "title" : "US Junior and Senior Championships to kick off in Saint Louis"
+      },
+      {
+         "description" : "The International Open Chess Championship of Serbia called &#x201C;Serbia OPEN 2022&#x201D; took place from June 28th July 6th in Novi Sad, Master Centre, attracting 400 entries from 41 countries. The event was played in two sections: Masters (for players rated 2100+) and Amateurs (for players rated U2200) with a total prize fund of 35.000 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/evgenios-ioannidis-wins-serbia-chess-open-masters-2022/",
+         "pubDate" : "Wed, 06 Jul 2022 15:15:10 +0000",
+         "title" : "Evgenios Ioannidis wins Serbia Chess Open Masters 2022"
+      },
+      {
+         "description" : "At the recent Midland Counties Chess Union AGM, Eunice Dolan was elected as the 1st Lady President of the Union. The MCCU was founded in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/eunice-dolan-mccu-president/",
+         "pubDate" : "Wed, 06 Jul 2022 15:00:48 +0000",
+         "title" : "Eunice Dolan - MCCU President"
+      },
+      {
+         "description" : "While the chess world impatiently expects reigning World Chess Champion Magnus Carlsen to decide whether he'll defend his World Champion title in the 2023 World Chess Championship Match, the chess king competes in the World Series of Poker 2022 Main event in Las Vegas. In the competition of 1800 players, Magnus didn't manage to survive []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-at-the-world-series-of-poker-2022-main-event-tweetoftheday/",
+         "pubDate" : "Wed, 06 Jul 2022 14:33:35 +0000",
+         "title" : "Magnus Carlsen at the World Series of Poker 2022 Main event #TweetOftheDay"
+      },
+      {
+         "description" : "Svitlana unpacks beautiful opening traps, which don't check mate you in three moves, but simply give you enough advantage to win a game. The Canadian WIM chose commonly played openings, like the queen's gambit, or the Sicilian Defence. You might know about some traps already, but it is good to 1. Refresh the knowledge and 2. Find out even more variations of the tricky openings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-44",
+         "pubDate" : "Wed, 06 Jul 2022 15:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Opening traps you should know"
+      },
+      {
+         "description" : "One of the main topics of the new ChessBase Magazine #208 is the European Individual Championship 2022, which took place at the end of March/beginning of April in Terme Catez, Slovenia. Matthias Bluebaum achieved the greatest success of his career so far by winning the title. His game against Matej Sebenik - commented by the new European Champion - is \"The Analysis\" of the current issue. Aryan Tari, Nijat Abasov, Ruslan Ponomariov, Ivan Cheparinov, Yuriy Kuzubov, Maxime Lagarde, Jaime Santos Latasa, Jules Moussard, and many other participants of the European Championship also analyse their best games in CBM #208. Take a look at a shortened version of Matthias Bluebaum's analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-european-champion-comments",
+         "pubDate" : "Wed, 06 Jul 2022 15:00:00 +0100",
+         "title" : "The European Champion comments"
+      },
+      {
+         "description" : "The FIDE Candidates Chess Tournament 2022 concluded in Madrid with Ian Nepomniachtchi lifting the Winner's trophy, thus qualifying for the World Chess Championship Match. Altogether with the convincing victory of the Russian grandmaster, the event brought much excitement and record interest. The 2-minute video presents the highlights from the tournament and can be seen below. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-highlights-video/",
+         "pubDate" : "Wed, 06 Jul 2022 13:23:53 +0000",
+         "title" : "FIDE Candidates Chess Tournament 2022 - Highlights (VIDEO)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -38,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-candidates-2022-press-conference-nepomniachtchi-ding-radjabov",
-         "pubDate" : "Wed, 06 Jul 2022 02:28:10 -0700",
+         "pubDate" : "Wed, 06 Jul 2022 02:28:00 -0700",
          "title" : "Nepomniachtchi, Ding, Radjabov At The Candidates Press Conference"
       },
       {
@@ -88,30 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/im-gunay-mammadzada-wins-bydgoszcz-fundacja-orlen-wgm-2022/",
          "pubDate" : "Tue, 05 Jul 2022 20:44:53 +0000",
          "title" : "IM Gunay Mammadzada wins Bydgoszcz Fundacja Orlen WGM 2022"
-      },
-      {
-         "description" : "The closing ceremony of the FIDE Candidates Chess Tournament 2022 takes place from 21:00 CEST in Madrid. The Candidates Chess Tournament 2022 will is officially declared closed soon, and Ian Nepomniachtchi lifted the Winner trophy. Nepomniachtchi qualified for the World Chess Championship Match which will be played next year, but his opponent in the Match []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-closing-ceremony-live/",
-         "pubDate" : "Tue, 05 Jul 2022 19:26:23 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - Closing Ceremony LIVE"
-      },
-      {
-         "description" : "All the games of the FIDE Candidates Chess Tournament 2022 have finished, but the event is not officially closed yet. The Closing Ceremony will take place today at 21:00 CET. During the last day of the most exciting chess tournament in 2022, the fans and chess enthusiasts could have enjoyed the post-candidates events: simultaneous exhibitions []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/post-candidates-events-in-madrid/",
-         "pubDate" : "Tue, 05 Jul 2022 18:36:30 +0000",
-         "title" : "Post-Candidates events in Madrid"
-      },
-      {
-         "description" : "16-year-old Dommaraju Gukesh continues to shine after winning three consecutive titles in the Open events. After the triumph at the&#xA0;1st Chessable Sunway Formentera Chess Festival 2022, 1st Menorca Chess Open 2022,&#xA0;and the 48th La Roda Open 2022, Gukesh had a good tournament at the Sharjah Chess Masters, adding the total of 34.8 ELO points to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dommaraju-gukesh-is-now-the-second-strongest-junior-in-the-world/",
-         "pubDate" : "Tue, 05 Jul 2022 18:09:54 +0000",
-         "title" : "Dommaraju Gukesh is now the second strongest junior in the world"
       },
       {
          "description" : " <p class=\"lead\">As every major tournament, the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> gave us all colors of emotions. From excitement and hope to surprise and disappointment, chess fans from around the world were glued to their screen to watch every match and applaud - or not - Ian Nepomniachtchi, the big winner of the tournament. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-11.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52190951611_1463bea5f8_h.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> <img src=\"https:",
@@ -351,10 +383,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Mon, 04 Jul 2022 11:20:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : NEXT DESTINATION PATNA"
+         "title" : "OLYMPIAD TORCH RELAY : DAY 18 (06 JULY 22)"
       },
       {
-         "description" : "Day 17 : GWALIOR Hon. Minister of Agriculture &#38; Farmers' Welfare Govt of MP Sh. Narendra Singh Tomar received the Torch at Gwalior. Day 17",
+         "description" : "Day 18 : RAJGIR Hon. Rural Development Minister, Govt of Bihar Shri Shrawon Kumar received the torch at Rajgir. GM Pravin Thipsay takes the Torch",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1818,36 +1850,12 @@ news_feed (
          "title" : "Chennai Open chess: Indian IM Nitin, Baghdasaryan in joint lead"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess and it also provides arsenal for the tournament player. This issue offers games from two major events, FIDE Grand Prix and Ukraine Charity Cup. 353 games (37 annotated), 11 opening surveys, lectures and exercises for training. Annotators include Anish Giri, Wesley So, Andrey Esipenko, Grigoriy Oparin and Nikita Vitiugov among others. The icing on the cake is the Larsen Special, a tribute to the Great Dane. Our columnist Nagesh Havanur takes a look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-207-nakamura-returns-and-rapport-arrives-review-by-prof-nagesh-havanur",
-         "pubDate" : "Wed, 22 Jun 2022 12:00:00 +0100",
-         "title" : "ChessBase Magazine #207: Nakamura returns and Rapport arrives - Review by Prof. Nagesh Havanur"
-      },
-      {
          "description" : "Ian Nepomniachtchi leads Fabiano Caruana by half a point after scoring a crushing win over Alireza Firouzja in Round 4 of the FIDE Candidates Tournament in Madrid. Alireza sprung a surprise in the opening but was punished the moment he forgot or misplayed his home preparation. The remaining games were drawn, with Ding Liren unable to convert an extra pawn against Fabiano Caruana in the clash of the pre-tournament favourites.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/madrid-candidates-4-nepo-storms-to-firouzja-win",
          "pubDate" : "Wed, 22 Jun 2022 10:39:25 +0000",
          "title" : "Madrid Candidates 4: Nepo storms to Firouzja win"
-      },
-      {
-         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic (President and General Secretary of the Association of Chess Professionals) takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase will publish BCM's evaluation of the chances of the individual players, concluding today with a discussion of the \"unlikely\" and the \"scarred\" candidates - Hikaru Nakamura and Teimour Radjabov. | Photo FIDE official.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-5",
-         "pubDate" : "Wed, 22 Jun 2022 10:00:00 +0100",
-         "title" : "Cracking the Candidate Code (5)"
-      },
-      {
-         "description" : "Ian Nepomniachtchi beat Alireza Firouzja from the white side of a double-edged Sicilian to grab the sole lead at the Candidates Tournament in Madrid. The three remaining games finished drawn, with Ding Liren failing to defeat Fabiano Caruana from a slightly superior position. Thus, former co-leader Caruana is now in sole second place, a half point behind Nepomniachtchi. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r4",
-         "pubDate" : "Tue, 21 Jun 2022 23:25:00 +0100",
-         "title" : "Candidates R4: Nepo beats Firouzja in wild Sicilian"
       },
       {
          "description" : "",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-narendra-modi-to-launch-torch-relay-for-chess-olympiad-on-june-19/articleshow/92236013.cms",
          "pubDate" : "Wed, 15 Jun 2022 15:31:59 +0000",
          "title" : "PM Modi to launch torch relay for Chess Olympiad on June 19"
-      },
-      {
-         "description" : " Congratulations to Brian Jones, who has been appointed as a Member of the Order of Australia. The rather brief citation was for \"For significant service to chess at the elite level.\", although those that know Brian recognise that his achievements were far more significant than that. Fortunately the expanded details can be <a href=\"https://honours.pmc.gov.au/honours/awards/2011555\">found here</a>, which list the many roles he has filled in Australian and international chess. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/brian-jones-am.html",
-         "pubDate" : "Wed, 15 Jun 2022 12:57:00 +0000",
-         "title" : "Brian Jones AM"
       }
    ]
 }
