@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are only 24 days to go until the start of the Chennai Chess Olympiad 2022. In celebration of the occasion, we have launched a series of 6 episodes where the most interesting stories of the past Olympiads are discussed. IM Sagar Shah is the host of this show and IM V. Saravanan is the man with all the stories. Together they dissect this game and the entire episode surrounding it. In today's episode, we discuss the crucial encounter between Viktor Korchnoi from Switzerland and Garry Kasparov from USSR at the Lucerne Olympiad in 1982. Each session is roughly around 40-50 minutes in length and will help you to improve your understanding and knowledge of the game! Photo: Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/korchnoi-vs-kasparov-the-clash-of-giants",
+         "pubDate" : "Wed, 06 Jul 2022 11:09:36 +0100",
+         "title" : "Korchnoi vs Kasparov: The clash of giants"
+      },
+      {
+         "description" : "The European Senior Chess Championship 2022&#xA0;takes place from 5-14 July in Arche Hotel Lublin. The event is played in two age categories: 50+ and 65+, with separate prizes for female players. The total prize fund of the event is 6.000 EUR. 56 players from 15 European countries registered for the events which are played over []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-senior-chess-championship-2022-live/",
+         "pubDate" : "Wed, 06 Jul 2022 09:42:39 +0000",
+         "title" : "European Senior Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "The European Senior Chess Championship 2022 commenced in Lublin, Poland, taking place from 5-14 July in Arche Hotel Lublin. The event is played in two age categories: 50+ and 65+, with separate prizes for female players. The total prize fund of the event is 6.000 EUR. 56 players from 15 European countries registered for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-senior-chess-championship-2022-commenced-in-lublin/",
+         "pubDate" : "Wed, 06 Jul 2022 09:38:38 +0000",
+         "title" : "European Senior Chess Championship 2022 commenced in Lublin"
+      },
+      {
+         "description" : "A day after the end of the FIDE Candidates Tournament, the top three finishers GM Ian Nepomniachtchi, GM Ding Liren, and GM Teimour Radjabov gave a press conference in Madrid. Below you&#39;ll find a selection of quotes from the players. Radjabov on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-candidates-2022-press-conference-nepomniachtchi-ding-radjabov",
+         "pubDate" : "Wed, 06 Jul 2022 02:28:10 -0700",
+         "title" : "Nepomniachtchi, Ding, Radjabov At The Candidates Press Conference"
+      },
+      {
+         "description" : "Anish Giri presents the chessable recap of the FIDE Candidates Round 14. &#8220;While the battle for the first place already settled for a while, with Ian Nepomniachtchi in the clear first place nobody can catch him anymore. But the battle for the second place could be ever so important as Magnus Carlsen still teasing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giris-last-candidates-recap-video/",
+         "pubDate" : "Wed, 06 Jul 2022 09:25:00 +0000",
+         "title" : "Anish Giri's last Candidates recap (VIDEO)"
+      },
+      {
          "description" : "The biggest Chinese Sports channel CCTV-5&#xA0;broadcasts the FIDE Candidates Chess Tournament 2022 live, supporting their countryman Ding Liren on the road to World Chess Championship Match. More than a million people daily followed Liren&#x2019;s games from Palacio Santona, Madrid. With FIDE expected to announce the upcoming World Championship match details by July 20 , Ding []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "2022 FIDE Candidates Tournament came to a close on Tuesday in Madrid"
       },
       {
-         "description" : "The 2022 Swiss Chess Championship&#xA0;takes place from 4-10 July, being played in 9 rounds, swiss system, with participation of 68 players. The field is led by GM Milos Pavlovic, IM Fabian Baenziger and GM Joseph Gallagher. The time control of the event is 90 minutes for 40 moves, followed by 30 minutes for the rest []",
+         "description" : "The 2022 Swiss Chess Championship&#160;takes place from 4-10 July, being played in 9 rounds, swiss system, with participation of 68 players. The field is led by GM Milos Pavlovic, IM Fabian Baenziger and GM Joseph Gallagher. The time control of the event is 90 minutes for 40 moves, followed by 30 minutes for the rest []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/swiss-chess-championship-2022-live/",
@@ -82,14 +122,6 @@ news_feed (
          "title" : "On the way to Chennai for the Arbiters' Team"
       },
       {
-         "description" : "Anish Giri drew against reigning World Chess Champion Magnus Carlsen in a blitz game that was played in Madrid's Park El Retiro. Anish didn't do well in the opening and faced many troubles, but he managed to escape and turn the tables with a beautiful mating idea. Magnus had better time control and flagged the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-flags-anish-giri-after-blundering-the-mate-trick-video/",
-         "pubDate" : "Tue, 05 Jul 2022 17:37:33 +0000",
-         "title" : "Magnus Carlsen flags Anish Giri after blundering the mate trick (VIDEO)"
-      },
-      {
          "description" : "Actually more players in the top 100: 13 US grandmasters vs 12 from Russia, down from 22 five years ago. But even the total is closing: In total Russia still has 246 grandmasters, compared to 101 from the US. Many Russian GMs from the older generation, like Garry Kasparov and Vladimir Kramnik, have dropped out of the rating list, but the main reason for the decline is the reaction of players to Russia's war invasion of Ukraine. | Newsweek photo Getty",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "ChessBase for Coaches: Finding Model Games"
       },
       {
-         "description" : "The 50th Annual World Chess Open&#xA0;took place from June 30th to July 4th at Sheraton Philadelphia Downtown. The event is played in 8 sections, with a total prize fund of more than 100.000$ and participation of more than 1500 players. As many as eight players tied for the first place after 9 played rounds, scoring []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-mikhail-antipov-wins-50th-world-open-after-the-armageddon-playoff/",
-         "pubDate" : "Tue, 05 Jul 2022 14:05:17 +0000",
-         "title" : "GM Mikhail Antipov wins 50th World Open after the Armageddon Playoff"
-      },
-      {
          "description" : " I have been updating my book collection with Librarything, and have discovered that it can generate a lot of statistics about my collection. If I stacked my books in a pile, it would be 74 feet high, at around 4% of my books aren't written by a person(!). Of the 200 identified authors, 48% are still alive, while 48% have died. 98% of my books are in English, although a number were originally written in other languages (mainly Russian). But probably the most surprising, and somewhat disappointing statistic is that only 1% of the authors in my collection were female. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/",
          "pubDate" : "Tue, 05 Jul 2022 14:02:25 +0000",
          "title" : "Nepomniachtchi wins Candidates&hellip; Carlsen undecided on rematch"
-      },
-      {
-         "description" : "The world&#x2019;s top chess stars will be flying to Florida this summer for the biggest esports chess tournament ever held on US soil. The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup 2022, in Miami from August 15 to 21. The FTX Crypto Cup will offer the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crupto-cup-2022-miami/",
-         "pubDate" : "Tue, 05 Jul 2022 13:39:58 +0000",
-         "title" : "FTX Crupto Cup 2022 - Miami"
       },
       {
          "description" : "Everything you need as a as a dedicated chess enthusiast. Fritz 18, the \"Evolving Genius\": learn to attack and play brilliancies. Fritz offers you everything you will need to improve your performance. Fritz Powerbook 2022: Total current openings theory, with 25 millions opening positions, derived from 1.7 million high class tournament games. You can get them both this week at a substantial discount.",
@@ -1954,14 +1970,6 @@ news_feed (
          "title" : "Kosteniuk Excels in Chaotic Time Scrambles, Blitzes Fellow Women's World Champion"
       },
       {
-         "description" : "FM James Canty III upset the top seed, IM Polina Shuvalova, in the quarterfinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Monday. It was a closely-fought match with many double-edged games and the scores hoverin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-quarterfinal-canty-shuvalova",
-         "pubDate" : "Mon, 20 Jun 2022 17:06:30 -0700",
-         "title" : "Canty Upsets Shuvalova: 'She's An Absolute Beast'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2256,14 +2264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/brian-jones-am.html",
          "pubDate" : "Wed, 15 Jun 2022 12:57:00 +0000",
          "title" : "Brian Jones AM"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1811",
-         "pubDate" : "Wed, 15 Jun 2022 09:22:45 +0000",
-         "title" : "Latvia launches Chess in Prisons programme"
       }
    ]
 }
