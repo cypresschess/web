@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/national-schools-championships-finals/#new_tab",
+         "pubDate" : "Wed, 06 Jul 2022 10:51:36 +0000",
+         "title" : "National Schools Championships final"
+      },
+      {
          "description" : "There are only 24 days to go until the start of the Chennai Chess Olympiad 2022. In celebration of the occasion, we have launched a series of 6 episodes where the most interesting stories of the past Olympiads are discussed. IM Sagar Shah is the host of this show and IM V. Saravanan is the man with all the stories. Together they dissect this game and the entire episode surrounding it. In today's episode, we discuss the crucial encounter between Viktor Korchnoi from Switzerland and Garry Kasparov from USSR at the Lucerne Olympiad in 1982. Each session is roughly around 40-50 minutes in length and will help you to improve your understanding and knowledge of the game! Photo: Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/the-pinwheel-fork.html",
          "pubDate" : "Tue, 21 Jun 2022 13:34:00 +0000",
          "title" : "The Pinwheel Fork"
-      },
-      {
-         "description" : "The Dutch GM was one of the strongest chess players in the late 70s, 80s, and early 90s. Timman never feared complicated games, which gave him many opportunities to discover some brilliant tactics against players like Kasparov, Kamsky, Karpov, and Anand. Lawrence dives right into the business, and gives us the chance to find the tactical moves ourselves. Furthermore, can we uphold the rating of 2500 in our tactics section, or will something unexpected mess things up?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-26",
-         "pubDate" : "Tue, 21 Jun 2022 14:00:00 +0100",
-         "title" : "Trent's Tactics - Jan Timman: The Best of the West!"
       },
       {
          "description" : "",
