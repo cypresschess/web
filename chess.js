@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 New York GM/IM Summer Invitational will take place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York. The event features four 10-player round-robin tournaments for grandmasters and international masters norms. Starting rank list of players for each tournament can be found below. 2022 New York GM A Summer Invitational []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-new-york-gm-im-summer-invitational/",
+         "pubDate" : "Wed, 06 Jul 2022 20:50:50 +0000",
+         "title" : "2022 New York GM/IM Summer Invitational"
+      },
+      {
+         "description" : "From July 6 &#x2013; 16, 2022, Saint Louis, America&#x2019;s Chess Capital, will host the top juniors, girls, and seniors in the invitational&#xA0;2022 U.S. Junior,&#xA0;U.S. Girls&#x2019; Junior, and&#xA0;U.S. Senior Chess Championships. The three 10-player fields will tie together chess past and future for a celebration of the best of chess and feature more than $130,000 in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-u-s-junior-u-s-girls-junior-and-u-s-senior-chess-championships-live/",
+         "pubDate" : "Wed, 06 Jul 2022 20:13:35 +0000",
+         "title" : "2022 U.S. Junior, U.S. Girls Junior and U.S. Senior Chess Championships LIVE"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92708422.cms\" />When Akshaya Kalaiyalahan, a member of the England women's team, boards the flight from London to Chennai to feature in the 44th chess Olympiad --- it will be a homecoming of sorts for the 21-year-old.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-12-defensive-tragedies",
          "pubDate" : "Wed, 06 Jul 2022 18:00:00 +0100",
          "title" : "The Winning Academy 12: Defensive Tragedies"
+      },
+      {
+         "description" : " Ian Nepomniachtchi had already secured first place in the FIDE Candidates tournament in Madrid with a round to spare. Nepomniachtchi avoided defeat in the final round when he drew with black against Jan-Krzysztof Duda in a Petroff variation he hadn't expected. Nepomniachtchi had to work hard to remember his preparation which certainly ran up to 15...a5!? after that Nepomniachtchi may have been a bit better but the players started to steer towards a draw a few moves later and they only had one bishop between them on move 48. Thus Nepomniachtchi finished the event undefeated and with a modern record score of 9.5/14. Afterwards Nepomniachtchi revealed his stellar if not especially surprising t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/ding-beats-nakamura-in-the-final-round-of-the-candidates-to-finish-in-second-place",
+         "pubDate" : "Wed, 6 Jul 2022 20:26:00 +0400",
+         "title" : "Ding beats Nakamura in the final round of the Candidates to finish in second place - 14"
       },
       {
          "description" : "teaserThis summer, from July 6-16, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players. The three 10-player fields will tie together chess past and future for a celebration of the best of American chess.",
@@ -144,22 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1849",
          "pubDate" : "Tue, 05 Jul 2022 22:30:18 +0000",
          "title" : "2022 FIDE Candidates Tournament came to a close on Tuesday in Madrid"
-      },
-      {
-         "description" : "The 2022 Swiss Chess Championship&#160;takes place from 4-10 July, being played in 9 rounds, swiss system, with participation of 68 players. The field is led by GM Milos Pavlovic, IM Fabian Baenziger and GM Joseph Gallagher. The time control of the event is 90 minutes for 40 moves, followed by 30 minutes for the rest []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-chess-championship-2022-live/",
-         "pubDate" : "Tue, 05 Jul 2022 21:17:08 +0000",
-         "title" : "Swiss Chess Championship 2022 LIVE"
-      },
-      {
-         "description" : "The 2022 Swiss Chess Championship kicked off yesterday in Samnaun. The event takes place from 4-10 July, being played in 9 rounds, swiss system, with participation of 68 players. The field is led by GM Milos Pavlovic, IM Fabian Baenziger and GM Joseph Gallagher. (Scroll down for the starting rank list of players). The time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-chess-championship-2022/",
-         "pubDate" : "Tue, 05 Jul 2022 21:13:18 +0000",
-         "title" : "Swiss Chess Championship 2022"
       },
       {
          "description" : " <p class=\"lead\">As every major tournament, the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> gave us all colors of emotions. From excitement and hope to surprise and disappointment, chess fans from around the world were glued to their screen to watch every match and applaud - or not - Ian Nepomniachtchi, the big winner of the tournament. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-11.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52190951611_1463bea5f8_h.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> <img src=\"https:",
@@ -2224,30 +2232,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/",
          "pubDate" : "Thu, 16 Jun 2022 06:03:41 +0000",
          "title" : "European Corporate Chess Championship 2022 starts in Rotterdam"
-      },
-      {
-         "description" : " In two days, the 2022 Candidates tournament will begin with a very interesting field of new faces and some returnees from the 2020 edition. Ian Nepomniachtchi won the tournament and went on to face defending champion Magnus Carlsen for the crown. The champion got a crushing 7&frac12;-3&frac12; win, a total disaster for the Russian player. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/15/2022-candidates-tournament-is-here/\">2022 Candidates Tournament is here!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/15/2022-candidates-tournament-is-here/",
-         "pubDate" : "Wed, 15 Jun 2022 23:10:46 +0000",
-         "title" : "2022 Candidates Tournament is here!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1813",
-         "pubDate" : "Wed, 15 Jun 2022 21:30:19 +0000",
-         "title" : "FIDE announces the beginning of the 2022 Candidates Tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1812",
-         "pubDate" : "Wed, 15 Jun 2022 20:16:09 +0000",
-         "title" : "Georgian Women's Championship: Nino Batsiashvili wins fourth title"
       }
    ]
 }
