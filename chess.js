@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92708422.cms\" />When Akshaya Kalaiyalahan, a member of the England women's team, boards the flight from London to Chennai to feature in the 44th chess Olympiad --- it will be a homecoming of sorts for the 21-year-old.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/akshaya-lankan-tamil-with-roots-in-jaffna-looks-to-shine-for-england-team/articleshow/92708422.cms",
+         "pubDate" : "Wed, 06 Jul 2022 17:31:58 +0000",
+         "title" : "Akshaya, Lankan Tamil with roots in Jaffna, looks to shine for England team"
+      },
+      {
+         "description" : "The early Titled Tuesday this week featured a rare tie for first place, after GMs Bogdan-Daniel Deac and Aryan Tari not only both scored 9.5/11, but also had the same tiebreak score. The late tournament was then won outright by GM Dmitry Andreikin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/deac-tari-andreikin-win-titled-tuesday-july-5-2022",
+         "pubDate" : "Wed, 06 Jul 2022 10:06:00 -0700",
+         "title" : "Rare Co-Winner Situation Precedes Andreikin Victory"
+      },
+      {
+         "description" : "In the previous part of The Winning Academy, we have distinguished between four very different modes of defence: creating a fortress, playing for a counterattack, simplifying into a holdable endgame, and organizing a sabotage act. In this follow-up part, I would like to show you how important and practical this distinction actually is. When defending, you should keep all four modes in mind and be flexible in choosing the most suitable. | Photo: Garry Kasparov | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-12-defensive-tragedies",
+         "pubDate" : "Wed, 06 Jul 2022 18:00:00 +0100",
+         "title" : "The Winning Academy 12: Defensive Tragedies"
+      },
+      {
          "description" : "teaserThis summer, from July 6-16, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players. The three 10-player fields will tie together chess past and future for a celebration of the best of American chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/swiss-chess-championship-2022/",
          "pubDate" : "Tue, 05 Jul 2022 21:13:18 +0000",
          "title" : "Swiss Chess Championship 2022"
-      },
-      {
-         "description" : "The Bydgoszcz Fundacja Orlen WGM tournament took place June 25-July 4, 2022, in Bydgoszcz, Poland. Ten world-class female players took part in the event which was played in 9 rounds, with the time control of 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game, plus a 30-second []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-gunay-mammadzada-wins-bydgoszcz-fundacja-orlen-wgm-2022/",
-         "pubDate" : "Tue, 05 Jul 2022 20:44:53 +0000",
-         "title" : "IM Gunay Mammadzada wins Bydgoszcz Fundacja Orlen WGM 2022"
       },
       {
          "description" : " <p class=\"lead\">As every major tournament, the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> gave us all colors of emotions. From excitement and hope to surprise and disappointment, chess fans from around the world were glued to their screen to watch every match and applaud - or not - Ian Nepomniachtchi, the big winner of the tournament. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-11.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52190951611_1463bea5f8_h.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> <img src=\"https:",
@@ -383,10 +399,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Mon, 04 Jul 2022 11:20:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : DAY 18 (06 JULY 22)"
+         "title" : "OLYMPIAD TORCH RELAY : DAY 19 (07 JULY 22)"
       },
       {
-         "description" : "Day 18 : RAJGIR Hon. Rural Development Minister, Govt of Bihar Shri Shrawon Kumar received the torch at Rajgir. GM Pravin Thipsay takes the Torch",
+         "description" : "Day 18 : GAYA Sh.Vijay Kumar, MP received the torch at Mahabodhi Temple Complex. Veteran GM Pravin Thipsay takes the Torch forward in Gaya. Day",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1794,14 +1810,6 @@ news_feed (
          "title" : "Master Chess Web Show (19)"
       },
       {
-         "description" : "In his \"Game of the Week\" show #521, Merijn van Delft takes a look at the game Ian Nepomniachtchi vs Alireza Firouzja, played in round 4 of the Candidates Tournament in Madrid, which also was a clash of generations. This time, experience prevailed. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-521",
-         "pubDate" : "Thu, 23 Jun 2022 08:14:42 +0100",
-         "title" : "Game of the Week #521: Nepomniachtchi vs Firouzja"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1968,14 +1976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1821",
          "pubDate" : "Tue, 21 Jun 2022 09:44:27 +0000",
          "title" : "WSCC-2022: Kosteniuk beat Stefanova to reach quarterfinals"
-      },
-      {
-         "description" : "In the battle of Women&#39;s World Champions, GM Alexandra Kosteniuk prevailed over GM Antoaneta Stefanova in the second round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. While both competitors impressed on the b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-kosteniuk-stefanova",
-         "pubDate" : "Mon, 20 Jun 2022 20:05:00 -0700",
-         "title" : "Kosteniuk Excels in Chaotic Time Scrambles, Blitzes Fellow Women's World Champion"
       },
       {
          "description" : "",
@@ -2248,22 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1812",
          "pubDate" : "Wed, 15 Jun 2022 20:16:09 +0000",
          "title" : "Georgian Women's Championship: Nino Batsiashvili wins fourth title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92237710.cms\" />Grandmaster Dronavalli Harika, one of the senior members of the Indian women's team for the upcoming Olympiad, is ready to embrace a new chapter in her life. The 31-year-old is pregnant with her first child. However, the World No. 10 is making sure that she not only manages her health but also gives ample time to training for the big-ticket event from her home in Hyderabad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/harika-takes-pregnancy-in-her-stride-as-she-prepares-for-chess-olympiad/articleshow/92237710.cms",
-         "pubDate" : "Wed, 15 Jun 2022 17:33:25 +0000",
-         "title" : "Harika takes pregnancy in her stride as she prepares for chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92236013.cms\" />Prime Minister Narendra Modi will launch the first-ever torch relay for the 44th Chess Olympiad, to be held near here in July-August, on June 19 in New Delhi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-narendra-modi-to-launch-torch-relay-for-chess-olympiad-on-june-19/articleshow/92236013.cms",
-         "pubDate" : "Wed, 15 Jun 2022 15:31:59 +0000",
-         "title" : "PM Modi to launch torch relay for Chess Olympiad on June 19"
       }
    ]
 }
