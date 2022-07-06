@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The biggest Chinese Sports channel CCTV-5&#xA0;broadcasts the FIDE Candidates Chess Tournament 2022 live, supporting their countryman Ding Liren on the road to World Chess Championship Match. More than a million people daily followed Liren&#x2019;s games from Palacio Santona, Madrid. With FIDE expected to announce the upcoming World Championship match details by July 20 , Ding []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-interviewed-by-cctv-5/",
+         "pubDate" : "Wed, 06 Jul 2022 07:26:12 +0000",
+         "title" : "Ding Liren interviewed by CCTV-5"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ftx-crupto-cup-2022-miami/",
          "pubDate" : "Tue, 05 Jul 2022 13:39:58 +0000",
          "title" : "FTX Crupto Cup 2022 - Miami"
-      },
-      {
-         "description" : "Chessdom.com will cover live daily the 2022 edition of the FTX Crypto Cup. The event starts with a qualifier, including the Candidates 2022 participants Jan Krzysztof Duda, Teimour Radjabov, and Richard Rapport, as well as Anish Giri, Leinier Dominguez Perez, Sakhriyar Mamedyarov, Levon Aronian, Wei Yi, Radoslaw Wojtaszek, Samuel Sevian, Aryan Tari, Jeffery Xiong, Arjun []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-miami-qualifier/",
-         "pubDate" : "Tue, 05 Jul 2022 13:38:39 +0000",
-         "title" : "FTX Crypto Cup LIVE - Miami qualifier"
       },
       {
          "description" : "Everything you need as a as a dedicated chess enthusiast. Fritz 18, the \"Evolving Genius\": learn to attack and play brilliancies. Fritz offers you everything you will need to improve your performance. Fritz Powerbook 2022: Total current openings theory, with 25 millions opening positions, derived from 1.7 million high class tournament games. You can get them both this week at a substantial discount.",
@@ -1928,14 +1928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/jammu-and-kashmir-lg-hands-over-chess-olympiad-torch-to-grandmaster-pravin-thipsay/articleshow/92363095.cms",
          "pubDate" : "Tue, 21 Jun 2022 11:50:00 +0000",
          "title" : "J&K LG hands over Chess Olympiad Torch to GM Pravin Thipsay"
-      },
-      {
-         "description" : "In the June issue of the venerable British Chess Magazine, Macedonian GM Aleksandar Colovic takes a deeper look at the strengths and weaknesses of the eight players fighting for a chance to be the next world champion. In agreement with BCM, ChessBase is publishing BCM's evaluation of the chances of the individual players, continuing today with the dark horse from Poland, Jan-Krzysztof Duda (24), and former candidate Ian Nepomniachtchi (31).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cracking-the-candidate-code-4",
-         "pubDate" : "Tue, 21 Jun 2022 12:00:00 +0100",
-         "title" : "Cracking the Candidate Code (4)"
       },
       {
          "description" : "",
