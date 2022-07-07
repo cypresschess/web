@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Russian rave band \"Little Big\" is known for provocative music videos. In June, the band released the video \"Generation Cancellation\", in which it takes a critical stance on Russia's war against Ukraine, using chess as a metaphor. | Photo: Little Big",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-critical-video-generation-cancellation",
+         "pubDate" : "Thu, 07 Jul 2022 15:23:17 +0100",
+         "title" : "Critical voice: \"Little Big\" and their song \"Generation Cancellation\""
+      },
+      {
+         "description" : " One thing I have noticed with a lot of younger players is the that they have a tendency to collapse in a heap when something goes wrong with their position. It could be something as simple as losing a pawn, or something as dramatic as realising the sacrifice they wanted to play doesn't work (and they then play it anyway). I suspect I probably did the same up until a point in my own career, but the fact that it happens still seems weird. I did benefit from this in a rapid game I played recently. My opponent missed a tactic, possibly because they assumed it wasn't any good (2 pieces for a rook and 2 pawns). However they missed I was picking up a rook and a piece, so it was just a simple win o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/the-big-collapse.html",
+         "pubDate" : "Thu, 07 Jul 2022 12:59:00 +0000",
+         "title" : "The big collapse"
+      },
+      {
+         "description" : "The first session of the special preparation programme for the Arbiters' Team of the 44th Chess Olympiad 2022 took place on July 3. Almost 200 arbiters from around 100 federation attended the session. A second online session is planned for July 17, before a final preparation day on July 28, at the Olympiad venue, to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/special-preparation-programme-for-the-arbiters-team-of-the-44th-chess-olympiad/",
+         "pubDate" : "Thu, 07 Jul 2022 12:21:30 +0000",
+         "title" : "Special preparation programme for the Arbiters' Team of the 44th Chess Olympiad"
+      },
+      {
          "description" : " This weeks show featured games from rounds 10 through 12 of the Candidates tournament, we didn't manage to cover the full thing because there were too many interesting games. In next week's show we'll do a roundup of the event and ponder over what might happen next. Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-21/\">Master Chess Web Show (21)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-senior-chess-championship-2022-live/",
          "pubDate" : "Wed, 06 Jul 2022 09:42:39 +0000",
          "title" : "European Senior Chess Championship 2022 LIVE"
-      },
-      {
-         "description" : "The European Senior Chess Championship 2022 commenced in Lublin, Poland, taking place from 5-14 July in Arche Hotel Lublin. The event is played in two age categories: 50+ and 65+, with separate prizes for female players. The total prize fund of the event is 6.000 EUR. 56 players from 15 European countries registered for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-senior-chess-championship-2022-commenced-in-lublin/",
-         "pubDate" : "Wed, 06 Jul 2022 09:38:38 +0000",
-         "title" : "European Senior Chess Championship 2022 commenced in Lublin"
       },
       {
          "description" : "A day after the end of the FIDE Candidates Tournament, the top three finishers GM Ian Nepomniachtchi, GM Ding Liren, and GM Teimour Radjabov gave a press conference in Madrid. Below you&#39;ll find a selection of quotes from the players. Radjabov on...",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/23/2xwgfo2n4wtaan2ltzzg59i1em3um2",
          "pubDate" : "Fri, 24 Jun 2022 01:09:59 +0000",
          "title" : "FIde Candidates Update- GM Jonathan Tisdall on the tournament so far"
-      },
-      {
-         "description" : "Ian Nepomniachtchi and Fabiano Caruana scored full points in round 6 of the Candidates Tournament. Nepo thus kept his sole lead, while Caruana remained in sole second place a half point back. The latter now has a full-point advantage over his closest chasers, as we near the event's halfway mark. Thursday's round also saw Teimour Radjabov missing a major chance to beat Richard Rapport. | Photo: FIDE / Steve Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r6",
-         "pubDate" : "Fri, 24 Jun 2022 01:25:00 +0100",
-         "title" : "Candidates R6: Nepo and Caruana in a league of their own"
       },
       {
          "description" : "",
