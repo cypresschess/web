@@ -10,6 +10,22 @@ news_feed (
          "title" : "Critical voice: \"Little Big\" and their song \"Generation Cancellation\""
       },
       {
+         "description" : "The&#xA0;World Youth Chess Championships U14, U16, and U18&#xA0;will take place from September 05-17, 2022 in Mamaia, Romania. The 11-round Swiss System tournaments, organized by International Chess Federation and Romanian Chess Federation together with Chess Club Universul and Chess Club Juniorul Constanta, will be held in Constanta Exhibition Centre. Every National Federation can register one official []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-u14-u16-and-u18-chess-championships-2022/",
+         "pubDate" : "Thu, 07 Jul 2022 14:21:59 +0000",
+         "title" : "FIDE World Youth U14, U16 and U18 Chess Championships 2022"
+      },
+      {
+         "description" : "Ian Nepomniachtchi won the 2022 FIDE Candidates Tournament, thus qualifying for the World Chess Championship Match. But it is still unknown whether Magnus Carlsen will accept to defend the World Champion title. Carlsen met with FIDE President and FIDE Director-General during the Candidates to discuss the format of the upcoming match, and the decision could []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-on-speculations-about-the-world-championship-match-format-fake-news-tweetoftheday/",
+         "pubDate" : "Thu, 07 Jul 2022 14:10:11 +0000",
+         "title" : "Magnus Carlsen on speculations about the World Championship Match format: \"Fake news\" #TweetOftheDay"
+      },
+      {
          "description" : " One thing I have noticed with a lot of younger players is the that they have a tendency to collapse in a heap when something goes wrong with their position. It could be something as simple as losing a pawn, or something as dramatic as realising the sacrifice they wanted to play doesn't work (and they then play it anyway). I suspect I probably did the same up until a point in my own career, but the fact that it happens still seems weird. I did benefit from this in a rapid game I played recently. My opponent missed a tactic, possibly because they assumed it wasn't any good (2 pieces for a rook and 2 pawns). However they missed I was picking up a rook and a piece, so it was just a simple win o",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.chessdom.com/president-of-usvi-chess-federation-margaret-murphy-nigel-shorts-insults-bother-me-most/",
          "pubDate" : "Thu, 07 Jul 2022 09:03:00 +0000",
          "title" : "President of USVI Chess Federation Margaret Murphy: Nigel Short's insults bother me most"
+      },
+      {
+         "description" : "Immortal Game celebrates the 15k mark since the beta launch this June 21st during the Candidates in Madrid. Since June 22nd, all beta players are able to purchase Mystery Boxes, each containing 1 to 4 Immortals to quickly start building a team. These boxes contain random Immortals. More info Join Immortal game today here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/immortal-game-beta-reaches-the-15k-mark/",
+         "pubDate" : "Thu, 07 Jul 2022 08:53:00 +0000",
+         "title" : "Immortal Game beta reaches the 15k mark"
       },
       {
          "description" : "The 15th edition of the International Chess Festival Paracin 2022 starts tomorrow and will be played from 8 16 July at the Pool Prestige Hotel in Paracin. Just two days after the end of one of the biggest European Open chess events in Novi Sad, Paracin hosts another massive and strong event. The festival []",
@@ -154,14 +178,6 @@ news_feed (
          "title" : "Eunice Dolan - MCCU President"
       },
       {
-         "description" : "While the chess world impatiently expects reigning World Chess Champion Magnus Carlsen to decide whether he'll defend his World Champion title in the 2023 World Chess Championship Match, the chess king competes in the World Series of Poker 2022 Main event in Las Vegas. In the competition of 1800 players, Magnus didn't manage to survive []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-at-the-world-series-of-poker-2022-main-event-tweetoftheday/",
-         "pubDate" : "Wed, 06 Jul 2022 14:33:35 +0000",
-         "title" : "Magnus Carlsen at the World Series of Poker 2022 Main event #TweetOftheDay"
-      },
-      {
          "description" : "One of the main topics of the new ChessBase Magazine #208 is the European Individual Championship 2022, which took place at the end of March/beginning of April in Terme Catez, Slovenia. Matthias Bluebaum achieved the greatest success of his career so far by winning the title. His game against Matej Sebenik - commented by the new European Champion - is \"The Analysis\" of the current issue. Aryan Tari, Nijat Abasov, Ruslan Ponomariov, Ivan Cheparinov, Yuriy Kuzubov, Maxime Lagarde, Jaime Santos Latasa, Jules Moussard, and many other participants of the European Championship also analyse their best games in CBM #208. Take a look at a shortened version of Matthias Bluebaum's analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,14 +194,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Opening traps you should know"
       },
       {
-         "description" : "The FIDE Candidates Chess Tournament 2022 concluded in Madrid with Ian Nepomniachtchi lifting the Winner's trophy, thus qualifying for the World Chess Championship Match. Altogether with the convincing victory of the Russian grandmaster, the event brought much excitement and record interest. The 2-minute video presents the highlights from the tournament and can be seen below. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-candidates-chess-tournament-2022-highlights-video/",
-         "pubDate" : "Wed, 06 Jul 2022 13:23:53 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - Highlights (VIDEO)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -200,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/korchnoi-vs-kasparov-the-clash-of-giants",
          "pubDate" : "Wed, 06 Jul 2022 11:09:36 +0100",
          "title" : "Korchnoi vs Kasparov: The clash of giants"
-      },
-      {
-         "description" : "The European Senior Chess Championship 2022&#xA0;takes place from 5-14 July in Arche Hotel Lublin. The event is played in two age categories: 50+ and 65+, with separate prizes for female players. The total prize fund of the event is 6.000 EUR. 56 players from 15 European countries registered for the events which are played over []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-senior-chess-championship-2022-live/",
-         "pubDate" : "Wed, 06 Jul 2022 09:42:39 +0000",
-         "title" : "European Senior Chess Championship 2022 LIVE"
       },
       {
          "description" : "A day after the end of the FIDE Candidates Tournament, the top three finishers GM Ian Nepomniachtchi, GM Ding Liren, and GM Teimour Radjabov gave a press conference in Madrid. Below you&#39;ll find a selection of quotes from the players. Radjabov on...",
