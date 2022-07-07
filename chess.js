@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This weeks show featured games from rounds 10 through 12 of the Candidates tournament, we didn't manage to cover the full thing because there were too many interesting games. In next week's show we'll do a roundup of the event and ponder over what might happen next. Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-21/\">Master Chess Web Show (21)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-21/",
+         "pubDate" : "Thu, 07 Jul 2022 11:19:34 +0000",
+         "title" : "Master Chess Web Show (21)"
+      },
+      {
+         "description" : "A report in Russian media that GM Magnus Carlsen has agreed to defend his world championship title against GM Ian Nepomniachtchi under a new match format with fewer classical games is &#34;totally inaccurate,&#34; according to FIDE Director General Emil S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-championdship-2023-format-carlsen",
+         "pubDate" : "Thu, 07 Jul 2022 03:07:00 -0700",
+         "title" : "FIDE: 'Carlsen Never Demanded A Concrete Format'"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #523 Merijn van Delft shows an interesting game he lost at the \"Wine Open\" in Naujac sur Mer, a unique tournament, in which prices are bottle of wines delivered according to the winners' weight. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-523-an-interesting-loss",
+         "pubDate" : "Thu, 07 Jul 2022 10:05:53 +0100",
+         "title" : "Game of the Week #523: An interesting loss"
+      },
+      {
+         "description" : "In the year declared by FIDE as the Year of the Women in Chess, one woman, who heads the Virgin Islands Chess Federation, suffers insults, unproven accusations, and public dissemination of her personal information from the (now former) FIDE officer. After reading Nigel Short&#x2019;s claims (shared within the text) and his daily dose of tweets, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/president-of-usvi-chess-federation-margaret-murphy-nigel-shorts-insults-bother-me-most/",
+         "pubDate" : "Thu, 07 Jul 2022 09:03:00 +0000",
+         "title" : "President of USVI Chess Federation Margaret Murphy: Nigel Short's insults bother me most"
+      },
+      {
+         "description" : "The 15th edition of the International Chess Festival Paracin 2022 starts tomorrow and will be played from 8 16 July at the Pool Prestige Hotel in Paracin. Just two days after the end of one of the biggest European Open chess events in Novi Sad, Paracin hosts another massive and strong event. The festival []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/international-chess-festival-paracin-2022/",
+         "pubDate" : "Thu, 07 Jul 2022 08:52:00 +0000",
+         "title" : "International Chess Festival Paracin 2022"
+      },
+      {
          "description" : "On 26th of July 2022, the chess world will be treated to a unique, one of its kind chess show - the ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi. Anish Giri is world no.10 and Dutch no.1. Vidit Gujrathi is India no.3 and world no.28. The Death match between them will be held at the Dublin Square in the Phoenix Marketcity, Mumbai. What is the format of the match, what is the prize money, who are the hosts and commentators of the show, are there any exhibition matches? All of this is mentioned in the article. Apart from this we also have organized an open rapid tournament on 25th of July for all chess lovers and the top 10 will get a chance to play a simul agains",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,20 +138,20 @@ news_feed (
          "title" : "Magnus Carlsen at the World Series of Poker 2022 Main event #TweetOftheDay"
       },
       {
-         "description" : "Svitlana unpacks beautiful opening traps, which don't check mate you in three moves, but simply give you enough advantage to win a game. The Canadian WIM chose commonly played openings, like the queen's gambit, or the Sicilian Defence. You might know about some traps already, but it is good to 1. Refresh the knowledge and 2. Find out even more variations of the tricky openings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-44",
-         "pubDate" : "Wed, 06 Jul 2022 15:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Opening traps you should know"
-      },
-      {
          "description" : "One of the main topics of the new ChessBase Magazine #208 is the European Individual Championship 2022, which took place at the end of March/beginning of April in Terme Catez, Slovenia. Matthias Bluebaum achieved the greatest success of his career so far by winning the title. His game against Matej Sebenik - commented by the new European Champion - is \"The Analysis\" of the current issue. Aryan Tari, Nijat Abasov, Ruslan Ponomariov, Ivan Cheparinov, Yuriy Kuzubov, Maxime Lagarde, Jaime Santos Latasa, Jules Moussard, and many other participants of the European Championship also analyse their best games in CBM #208. Take a look at a shortened version of Matthias Bluebaum's analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-european-champion-comments",
          "pubDate" : "Wed, 06 Jul 2022 15:00:00 +0100",
          "title" : "The European Champion comments"
+      },
+      {
+         "description" : "Svitlana unpacks beautiful opening traps, which don't check mate you in three moves, but simply give you enough advantage to win a game. The Canadian WIM chose commonly played openings, like the queen's gambit, or the Sicilian Defence. You might know about some traps already, but it is good to 1. Refresh the knowledge and 2. Find out even more variations of the tricky openings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-44",
+         "pubDate" : "Wed, 06 Jul 2022 15:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Opening traps you should know"
       },
       {
          "description" : "The FIDE Candidates Chess Tournament 2022 concluded in Madrid with Ian Nepomniachtchi lifting the Winner's trophy, thus qualifying for the World Chess Championship Match. Altogether with the convincing victory of the Russian grandmaster, the event brought much excitement and record interest. The 2-minute video presents the highlights from the tournament and can be seen below. []",
@@ -160,22 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-candidates-2022-press-conference-nepomniachtchi-ding-radjabov",
          "pubDate" : "Wed, 06 Jul 2022 02:28:00 -0700",
          "title" : "Nepomniachtchi, Ding, Radjabov At The Candidates Press Conference"
-      },
-      {
-         "description" : "Anish Giri presents the chessable recap of the FIDE Candidates Round 14. &#8220;While the battle for the first place already settled for a while, with Ian Nepomniachtchi in the clear first place nobody can catch him anymore. But the battle for the second place could be ever so important as Magnus Carlsen still teasing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giris-last-candidates-recap-video/",
-         "pubDate" : "Wed, 06 Jul 2022 09:25:00 +0000",
-         "title" : "Anish Giri's last Candidates recap (VIDEO)"
-      },
-      {
-         "description" : "The biggest Chinese Sports channel CCTV-5&#xA0;broadcasts the FIDE Candidates Chess Tournament 2022 live, supporting their countryman Ding Liren on the road to World Chess Championship Match. More than a million people daily followed Liren&#x2019;s games from Palacio Santona, Madrid. With FIDE expected to announce the upcoming World Championship match details by July 20 , Ding []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-interviewed-by-cctv-5/",
-         "pubDate" : "Wed, 06 Jul 2022 07:26:12 +0000",
-         "title" : "Ding Liren interviewed by CCTV-5"
       },
       {
          "description" : "",
@@ -1762,14 +1786,6 @@ news_feed (
          "title" : "Stepan Avagyan Memorial \"Jermuk-2022\""
       },
       {
-         "description" : "This week Robert Ris looks at a brilliant attacking masterpiece in the King's Indian, in which Black tried a subtle idea in a well-known line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-subtle-idea-in-the-king-s-indian",
-         "pubDate" : "Thu, 23 Jun 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: An attacking masterpiece in the King's Indian"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92417430.cms\" />The first-ever Chess Olympiad Torch Relay reached Chandigarh on Thursday after starting off from picturesque Leh and crossing over the mighty Himalayas with halts at Srinagar, Jammu, Dharamsala and Shimla.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1784,14 +1800,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/another-house-rule.html",
          "pubDate" : "Thu, 23 Jun 2022 14:35:00 +0000",
          "title" : "Another 'house' rule"
-      },
-      {
-         "description" : "London 1899 and Paris 1900 are two celebrated events that helped shape the legend of an all-time great and influenced the battles for the chess crown in the 20th century's first decade. Eugene Manlapao revisits these tournaments on the occasion of their 123rd and 122nd anniversaries respectively.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lasker-double-aces-london-1899-paris-1900",
-         "pubDate" : "Thu, 23 Jun 2022 13:00:00 +0100",
-         "title" : "Lasker's Double Aces: London 1899 and Paris 1900"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92411095.cms\" /> International Master Nitin Senthilvel continued his fine run, posting a seventh straight win to lead the field after the seventh round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Thursday.",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1824",
          "pubDate" : "Tue, 21 Jun 2022 21:01:24 +0000",
          "title" : "2022 Candidates, Round 4: Nepomniachtchi alone in the lead"
-      },
-      {
-         "description" : "The Chess Olympiad is the most respected team event in chess, first held in 1928. This year, the 44th Olympiad takes place in Chennai, India from July 28 through August 9, and Chess.com will be here with all the coverage. More than 100 countries w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-coverage-2022-chess-olympiad",
-         "pubDate" : "Tue, 21 Jun 2022 12:21:00 -0700",
-         "title" : "Announcing Chess.com Coverage Of The 2022 Chess Olympiad"
       },
       {
          "description" : " Ian Nepomniachtchi leads the Candidates on 3/4 after beating Alireza Firouzja. The remaining round 4 games were drawn. Fabiano Caruana is half a point behind the leader. Firouzja has struggled to get into the tournament due to the really quite terrible draw he's got, starting with two blacks and now today black again for the third black in four games. Of course the games with the white pieces will come eventually but this is as trying a start as it's possible to have. Today was a razor sharp Najdorf where Firouzja tried to surprise Nepomniachtchi with the uncommon but also not highly regarded 15...Bc4. We won't really know if Nepomniachtchi knew any detailed lines but although clearly think",
@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/immensely-proud-that-we-now-have-chess-olympiad-torch-relay-viswanathan-anand/articleshow/92287708.cms",
          "pubDate" : "Fri, 17 Jun 2022 16:22:24 +0000",
          "title" : "Immensely proud that we now have Chess Olympiad Torch Relay: Anand"
-      },
-      {
-         "description" : " Any of the principles you've learned through this series of articles can be, and should be, used to analyze games. I've gone over these concepts in terms of applying them to your own games. However, learning to play better chess also includes studying the game of stronger players, figuring out what worked and what didn't! <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-four/\">A Foundation for Beginners Sixty Four</a> appeared first on <a rel=\"nofollow\" href",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-four/",
-         "pubDate" : "Fri, 17 Jun 2022 14:00:52 +0000",
-         "title" : "A Foundation for Beginners Sixty Four"
       },
       {
          "description" : " Today saw the first ACT Interschool event of the year. It was the South Canberra Secondary Championship, and saw a number of strong players take part. Canberra Grammar School took out the top two places (based on the sum of the best 4 scores, then the next 4 etc), which wasn't really a surprise. However the third placing of Alfred Deakin High, just a half point behind the 2nd grammar team, was. This group of players has flown under the radar, although they did play in last years event. In talking to their teacher, he said that the improvement came mainly from playing online, rather than face to face. I have seen this in a few schools in the ACT, and wonder if we may be seeing a generation o",
