@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris takes a look at the game Ding Liren vs Teimour Radjabov from the second part of the Candidates. Ding Liren finished second in the Candidates but in this game he fell victim to an interesting opening idea by Radjabov and lost quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-quick-losses-with-white",
+         "pubDate" : "Thu, 07 Jul 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Quick losses with White"
+      },
+      {
+         "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title. The final rounds 11-15 take place 7th to 10th July.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
+         "pubDate" : "Thu, 7 Jul 2022 21:18:00 +0400",
+         "title" : "Bundesliga 2021-22 - "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1850",
+         "pubDate" : "Thu, 07 Jul 2022 15:54:25 +0000",
+         "title" : "Koneru narrowly beats Dzagnidze to advance into the quarters"
+      },
+      {
+         "description" : "The Higher League of the 75th Russian Championship and the 72nd Russian Women's Championship took place from 25 June 6 July in Obninsk. The top 5 finishers in each tournament received the right to play in the 2022 Russian Championships Superfinals.&#xA0; GM Sanan Sjugirov won the Open tournament scoring 6.5 points. Sjugirov had better []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/russian-championships-higher-league-concluded-in-obninsk/",
+         "pubDate" : "Thu, 07 Jul 2022 15:43:43 +0000",
+         "title" : "Russian Championships Higher League concluded in Obninsk"
+      },
+      {
          "description" : "The Russian rave band \"Little Big\" is known for provocative music videos. In June, the band released the video \"Generation Cancellation\", in which it takes a critical stance on Russia's war against Ukraine, using chess as a metaphor. | Photo: Little Big",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-junior-senior-championships-2022-preview",
          "pubDate" : "Wed, 06 Jul 2022 16:40:00 +0100",
          "title" : "US Junior and Senior Championships to kick off in Saint Louis"
-      },
-      {
-         "description" : "The International Open Chess Championship of Serbia called &#x201C;Serbia OPEN 2022&#x201D; took place from June 28th July 6th in Novi Sad, Master Centre, attracting 400 entries from 41 countries. The event was played in two sections: Masters (for players rated 2100+) and Amateurs (for players rated U2200) with a total prize fund of 35.000 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/evgenios-ioannidis-wins-serbia-chess-open-masters-2022/",
-         "pubDate" : "Wed, 06 Jul 2022 15:15:10 +0000",
-         "title" : "Evgenios Ioannidis wins Serbia Chess Open Masters 2022"
       },
       {
          "description" : "At the recent Midland Counties Chess Union AGM, Eunice Dolan was elected as the 1st Lady President of the Union. The MCCU was founded in...",
@@ -463,10 +487,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Mon, 04 Jul 2022 11:20:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : DAY 19 (07 JULY 22)"
+         "title" : "OLYMPIAD TORCH RELAY : DAY 20 (08 JULY 22)"
       },
       {
-         "description" : "Day 19 : RANCHI Hon'ble Sports Minister of Jharkhand Shri Hafizul Hassan received the torch at Kelgaon Sports Complex &#38; GM Saptarshi Roy Chowdhury takes",
+         "description" : "Day 19 : KOLKATA Hon'ble Governor of West Bengal Shri Jagdeep Dhankhar received the torch from GM Saptarshi Roy Chowdhary. GM Mitrabha Guha, GM Neelotpal",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1728,14 +1752,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-6-a-nepo-fabi-2-horse-race",
          "pubDate" : "Fri, 24 Jun 2022 11:40:54 +0000",
          "title" : "Madrid Candidates 6: A Nepo-Fabi 2-horse race?"
-      },
-      {
-         "description" : "Last week we shared the announcement of the revival of chess in the New York Times. With no clarification in the NYT article itself, it was assumed this was a weekly contribution. But as we were vigorously disabused, the chess puzzle is a daily fixture in the NYT Games section, but allow us to share more of this quasi-cult section of the venerable newspaper.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nyt-games-daily-chess-wordle-and-more",
-         "pubDate" : "Fri, 24 Jun 2022 12:00:00 +0100",
-         "title" : "NYT Games - Daily chess, wordle, and more"
       },
       {
          "description" : "Six rounds have been played at the 2022 FIDE Candidates Chess Tournament in Madrid and Ian Nepomniachtchi is the sole leader with 4.5 points. In 6th round, Nepomniachtchi defeated Jan-Krzysztof Duda as he built a kingside majority and started a powerful attack on Duda's king. The Polish grandmaster missed chances to fight for a draw and eventually resigned&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-candidates-chess-tournament-2022-nepomniachtchi-in-the-lead/\">Read More &#187;</a></span>",
