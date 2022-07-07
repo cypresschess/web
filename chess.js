@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 26th of July 2022, the chess world will be treated to a unique, one of its kind chess show - the ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi. Anish Giri is world no.10 and Dutch no.1. Vidit Gujrathi is India no.3 and world no.28. The Death match between them will be held at the Dublin Square in the Phoenix Marketcity, Mumbai. What is the format of the match, what is the prize money, who are the hosts and commentators of the show, are there any exhibition matches? All of this is mentioned in the article. Apart from this we also have organized an open rapid tournament on 25th of July for all chess lovers and the top 10 will get a chance to play a simul agains",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-india-originals-death-match-anish-giri-vs-vidit-gujrathi",
+         "pubDate" : "Thu, 07 Jul 2022 09:00:00 +0100",
+         "title" : "ChessBase India Originals Death Match - Anish Giri vs Vidit Gujrathi"
+      },
+      {
+         "description" : "GM Humpy Koneru edged out GM Nana Dzagnidze in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Wednesday. The match was so close that the score was still tied with just five minutes on the match clock. With s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-koneru-dzagnidze",
+         "pubDate" : "Wed, 06 Jul 2022 22:42:00 -0700",
+         "title" : "Koneru Edges Out Dzagnidze: 'Everything Worked Out In The Bullet Games'"
+      },
+      {
          "description" : "The 2022 New York GM/IM Summer Invitational will take place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York. The event features four 10-player round-robin tournaments for grandmasters and international masters norms. Starting rank list of players for each tournament can be found below. 2022 New York GM A Summer Invitational []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Ding beats Nakamura in the final round of the Candidates to finish in second place - 14"
       },
       {
-         "description" : "teaserThis summer, from July 6-16, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players. The three 10-player fields will tie together chess past and future for a celebration of the best of American chess.",
+         "description" : "This summer, from July 6-16, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players. The three 10-player fields will tie together chess past and future for a celebration of the best of American chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-junior-senior-championships-2022-preview",
@@ -410,7 +426,7 @@ news_feed (
          "title" : "OLYMPIAD TORCH RELAY : DAY 19 (07 JULY 22)"
       },
       {
-         "description" : "Day 18 : GAYA Sh.Vijay Kumar, MP received the torch at Mahabodhi Temple Complex. Veteran GM Pravin Thipsay takes the Torch forward in Gaya. Day",
+         "description" : "Day 19 : RANCHI Hon'ble Sports Minister of Jharkhand Shri Hafizul Hassan received the torch at Kelgaon Sports Complex &#38; GM Saptarshi Roy Chowdhury takes",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "Queens Online Chess Festival - updated!"
       },
       {
-         "description" : "For a second time in this year's edition of the Candidates Tournament, all four games in a single round finished drawn at the Palacio of Santoña in Madrid. It was not for a lack of trying though, as Hikaru Nakamura and Ding Liren had good winning chances they could not convert into full points against Ian Nepomniachtchi and Teimour Radjabov respectively. | Photo: FIDE / Steve Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r5",
-         "pubDate" : "Thu, 23 Jun 2022 08:55:00 +0100",
-         "title" : "Candidates R5: Remarkable draws"
-      },
-      {
          "description" : " In our latest show, Andrew and I reviewed the first three rounds of the Candidates Tournament in Madrid. Besides the three decisive games, I was impressed by Nakamura's brilliant save against Firouzja, in which he had to find a whole series of only moves. Those who would like to support our show now have an <a href=\"https://chessimprover.com/master-chess-web-show-19/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (19)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-19/\">Master Chess Web Show (19)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://chessimprover.com/crazyhouse/",
          "pubDate" : "Tue, 21 Jun 2022 18:01:06 +0000",
          "title" : "Crazyhouse"
-      },
-      {
-         "description" : "In round five, GM Ian Nepomniachtchi was in serious trouble for a while against GM Hikaru Nakamura but escaped with a draw and kept his half-point lead at&#38;nbsp;the 2022 Candidates Tournament. On the second day where all games were drawn, GM Ding L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-5",
-         "pubDate" : "Tue, 21 Jun 2022 10:59:00 -0700",
-         "title" : "Nepomniachtchi Dodges Bullet, Maintains Lead In Madrid"
       },
       {
          "description" : "In an exclusive interview with chess24, FIDE President Arkady Dvorkovich speaks about the pressure he is facing at home in Russia, the criticism of his candidacy, his election campaign, the Candidates Tournament, Sergey Karjakin and Magnus Carlsen potentially giving up his World Championship title.",
@@ -2224,14 +2224,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/16/maurice-ashley-honored-by-brownsville/",
          "pubDate" : "Thu, 16 Jun 2022 21:54:45 +0000",
          "title" : "Maurice Ashley honored by Brownsville!"
-      },
-      {
-         "description" : "The 2022 European Corporate Chess Championship takes place on weekend 18-19 June in Rotterdam, Netherlands. The tournament is played on&#160;a luxury cruise ship of Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour. 17 teams will participate in the event which will be played in 9 rounds, Swiss system, with time control: 15 minutes for the whole&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-corporate-chess-championship-2022-starts-in-rotterdam/",
-         "pubDate" : "Thu, 16 Jun 2022 06:03:41 +0000",
-         "title" : "European Corporate Chess Championship 2022 starts in Rotterdam"
       }
    ]
 }
