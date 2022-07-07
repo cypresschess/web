@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "16-year-old Indian chess star Rameshbabu Praggnanandhaa has arrived in Serbia where he will play the 15th International Chess Festival Paracin. The event&#xA0;starts tomorrow and will be played from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin a town located in the Pomoravlje District of central Serbia. Praggnanandhaa will be the second []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/praggnanandhaa-arrives-in-serbia-for-the-15th-international-chess-festival-paracin/",
+         "pubDate" : "Thu, 07 Jul 2022 21:55:31 +0000",
+         "title" : "Praggnanandhaa arrives in Serbia for the 15th International Chess Festival Paracin"
+      },
+      {
+         "description" : "Hikaru Nakamura has just finished the FIDE Candidates Chess Tournament 2022 in Madrid and already published the schedule for this week's streams. He yesterday had a Rollercoaster Rating Blitzing for 3200 online rating: &#8220;I will play six games. I will just win six games and I am gonna probably call it a day&#8221; said Hikaru. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-on-the-road-to-3200-i-am-just-gonna-play-like-a-proper-professional-chess-player-video/",
+         "pubDate" : "Thu, 07 Jul 2022 21:11:32 +0000",
+         "title" : "Nakamura on the road to 3200: \"I am just gonna play like a proper professional chess player\" (VIDEO)"
+      },
+      {
+         "description" : "Early this year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-ussr-champion-at-home-and-abroad",
+         "pubDate" : "Thu, 07 Jul 2022 22:00:00 +0100",
+         "title" : "Averbakh on Averbakh (3): USSR Champion at home and abroad"
+      },
+      {
+         "description" : "GM Harika Dronavalli defeated WGM Deysi Cori in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. The players&#39; complementing tactical styles led to many explosive duels. Especially in the 3+1 blitz se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-dronavalli-cori",
+         "pubDate" : "Thu, 07 Jul 2022 13:45:00 -0700",
+         "title" : "From Tactical Mayhem To Landslide: Dronavalli Defeats Cori"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-1-lichessorg",
+         "pubDate" : "Thu, 07 Jul 2022 20:37:52 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 1 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.08<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-2-lichessorg",
+         "pubDate" : "Thu, 07 Jul 2022 20:37:52 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 2 | lichess.org"
+      },
+      {
+         "description" : " Grandmaster Pontus Carlsson took his blitz skills to Czech Republic and Slovakia and won both events by prodigious scores. Not originally known as a &#8220;blitz specialist,&#8221; the Swedish national has competed at the highest levels at the World Rapid and Blitz. In 2018, he scored 8/15 (rapid) and 10.5/21 (blitz) He also competed in the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/07/carlsson-blitzes-field-in-two-tourneys/\">Carlsson blitzes field in two tourneys!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/07/carlsson-blitzes-field-in-two-tourneys/",
+         "pubDate" : "Thu, 07 Jul 2022 20:33:53 +0000",
+         "title" : "Carlsson blitzes field in two tourneys!"
+      },
+      {
+         "description" : "22-year-old WGM Mai Narva is the four-time Estonian Women's National Chess Champion. She won her first National Champion title at the age of 15, winning the 2014 Estonian Women's Championship. At the recently concluded 2022 Serbia Chess Open Masters Narva made her third and final IM norm. With 5/9 points, Mai had an impressive performance []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mai-narva-is-first-estonian-female-chess-player-to-achieve-the-im-title/",
+         "pubDate" : "Thu, 07 Jul 2022 20:08:49 +0000",
+         "title" : "Mai Narva is the first Estonian female chess player to achieve the IM title"
+      },
+      {
          "description" : "This week Robert Ris takes a look at the game Ding Liren vs Teimour Radjabov from the second part of the Candidates. Ding Liren finished second in the Candidates but in this game he fell victim to an interesting opening idea by Radjabov and lost quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,22 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-koneru-dzagnidze",
          "pubDate" : "Wed, 06 Jul 2022 22:42:00 -0700",
          "title" : "Koneru Edges Out Dzagnidze: 'Everything Worked Out In The Bullet Games'"
-      },
-      {
-         "description" : "The 2022 New York GM/IM Summer Invitational will take place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York. The event features four 10-player round-robin tournaments for grandmasters and international masters norms. Starting rank list of players for each tournament can be found below. 2022 New York GM A Summer Invitational []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-new-york-gm-im-summer-invitational/",
-         "pubDate" : "Wed, 06 Jul 2022 20:50:50 +0000",
-         "title" : "2022 New York GM/IM Summer Invitational"
-      },
-      {
-         "description" : "From July 6 &#x2013; 16, 2022, Saint Louis, America&#x2019;s Chess Capital, will host the top juniors, girls, and seniors in the invitational&#xA0;2022 U.S. Junior,&#xA0;U.S. Girls&#x2019; Junior, and&#xA0;U.S. Senior Chess Championships. The three 10-player fields will tie together chess past and future for a celebration of the best of chess and feature more than $130,000 in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-u-s-junior-u-s-girls-junior-and-u-s-senior-chess-championships-live/",
-         "pubDate" : "Wed, 06 Jul 2022 20:13:35 +0000",
-         "title" : "2022 U.S. Junior, U.S. Girls Junior and U.S. Senior Chess Championships LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92708422.cms\" />When Akshaya Kalaiyalahan, a member of the England women's team, boards the flight from London to Chennai to feature in the 44th chess Olympiad --- it will be a homecoming of sorts for the 21-year-old.",
@@ -586,14 +634,6 @@ news_feed (
          "title" : "Eric Rosen: Nepo about to Clinch | Round 13"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> World Champion Magnus Carlsen talks to WGM Anastasia Karlovich about Ian Nepomniachtchi. Will Carlsen defend against Nepo? 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-criminally-underrated-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9tbpbly1Nsc.jpg?itok=Iy7ZFYHw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-criminally-underrated-round-13",
-         "pubDate" : "Sun, 03 Jul 2022 17:34:28 +0000",
-         "title" : "Carlsen: Nepo is Criminally Underrated | Round 13"
-      },
-      {
          "description" : " Ian Nepomniachtchi won the FIDE Candidates in Madrid. In round 13 he had the white pieces against Richard Rapport. Nepomniachtchi said he hoped for a Berlin but instead he got a Sicilian, he chose a solid line which gave him a small but stable edge and was able to draw in 34 moves. Nepomniachtchi was obviously extremely happy to wrap things up. Nepomniachtchi said he was very unhappy when he lost in the final round of the Candidates last year and is very motivated not to repeat the result, he has black against Jan-Krzysztof Duda but his opponent may well be in the market for a quick draw. Duda most likely can't wait for the tournament to finish. After drawing his first five games he lost ag",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -632,14 +672,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-wins-the-candidates-he-is-the-challenger-again/",
          "pubDate" : "Sun, 03 Jul 2022 15:38:29 +0000",
          "title" : "Nepo Wins the Candidates. He is the Challenger, Again"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-14-lichessorg\"><img s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-14-lichessorg",
-         "pubDate" : "Sun, 03 Jul 2022 14:34:19 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 14 | lichess.org"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 86th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -1714,14 +1746,6 @@ news_feed (
          "title" : "Daniel King Special Live Broadcast: \"From Ukraine With Love For Chess\""
       },
       {
-         "description" : "Each issue of the ChessBase Magazine offers a wealth of information and ideas for players who want to refine and sharpen their opening repertoire. In CBM #208, the next issue of the ChessBase Magazine, which will appear in a few days, GM Dorian Rogozenco offers a video in which he analyses a popular line of the Grunfeld in considerable depth, and in an article he now presents the most important lines and ideas of this variation. Here are the article and the video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-newest-trend-in-the-grunfeld",
-         "pubDate" : "Fri, 24 Jun 2022 16:00:00 +0100",
-         "title" : "\"The newest trend in the Grunfeld\""
-      },
-      {
          "description" : " Last week, we started playing through a game, applying what we've learned thus far regarding chess principles. We will continue that game this week. As I mentioned last week, one of the primary ways you can improve your own playing is to play through the games of stronger players. As you play through each move <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\">A Foundation for Beginners Sixty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1888,14 +1912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/jammy-nepomniachtchi-escapes-with-a-draw-against-nakamura-in-candidates-round-5",
          "pubDate" : "Wed, 22 Jun 2022 21:31:00 +0400",
          "title" : "Jammy Nepomniachtchi escapes with a draw against Nakamura in Candidates Round 5 - 5"
-      },
-      {
-         "description" : "GMs Vladimir Fedoseev and Wesley So were the victors in Titled Tuesday on June 21. In addition to his victory in the day&#39;s late tournament, So finished in third place early. Brothers GM Rasmus Svane and IM Frederik Svane each had a top-five finish...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-wesley-so-win-titled-tuesday-june-21-2022",
-         "pubDate" : "Wed, 22 Jun 2022 09:30:11 -0700",
-         "title" : "Wesley So Overcomes Tough Competition To Win Late Tournament"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92390785.cms\" />International Master Nitin Senthilvel of India is in joint lead with Armenian GM Vahe Baghdasaryan with five points after the fifth round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Wednesday.",
@@ -2232,14 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1814",
          "pubDate" : "Fri, 17 Jun 2022 01:27:16 +0000",
          "title" : "Flamenco and fanfare: The 2022 Candidates opening ceremony highlights"
-      },
-      {
-         "description" : " Grandmaster Maurice Ashley was one of the esteemed honorees that also included championship boxer Mike Tyson, actress Bern Nadette Stanis (Thelma of &#8220;Good Times&#8221;) and legendary football player Otis Wilson (Chicago Bears). Christian Whitted posted on social media platforms an event honoring the sons and daughters of the Brownsville Brooklyn area. The event took place The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/16/maurice-ashley-honored-by-brownsville/\">Maurice Ashley honored by Brownsville!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/16/maurice-ashley-honored-by-brownsville/",
-         "pubDate" : "Thu, 16 Jun 2022 21:54:45 +0000",
-         "title" : "Maurice Ashley honored by Brownsville!"
       }
    ]
 }
