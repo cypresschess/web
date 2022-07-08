@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "28th 4NCL Congress Open takes place over the weekend 8-10 July at Woodland Grange, Leamington Spa, Warwickshire featuring three tournaments: Open, Under 2000 and U1700. All events are being played in 5 swiss rounds, with time control: All moves in 90 minutes plus 30 second increment per move from move 1. Playing Schedule (GMT +1): []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/28th-4ncl-congress-open-live/",
+         "pubDate" : "Fri, 08 Jul 2022 15:27:00 +0000",
+         "title" : "28th 4NCL Congress Open LIVE"
+      },
+      {
+         "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for first-degree murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/",
+         "pubDate" : "Fri, 08 Jul 2022 15:24:20 +0000",
+         "title" : "Tony Ballard's Powerful Chess Testimony"
+      },
+      {
+         "description" : "Those of us who love to play an Indian Opening (or Benoni or the Benk&ouml; Gambit) against 1.d4 usually do not feel comfortable when 2.Bg5 shows up on the board. But if your opponent is already taking away \"your\" opening, then follow Petra Papp's recommendation from CBM #208 and ensure with 2...c5!? that White doesn't get a \"normal\" Trompowsky either! In addition, the position immediately gets dynamic, White's centre is attacked. and the diagonal for the queen on d8 is open. In the first part of her analysis, our author examines White's responses 3.e3, 3.dxc5, 3.Nc3 and 3.Bxf6. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fighting-the-tromp",
+         "pubDate" : "Fri, 08 Jul 2022 16:00:00 +0100",
+         "title" : "Fighting the Tromp"
+      },
+      {
+         "description" : "Lawrence is sick, has no internet, is not even at home, but still commits to continuing \"Trent's Tactics\". Live from the beautiful Island of Corsica, The \"soon-to-be\" GM is trying to get back on track with his chess, by playing a tournament. One way to strengthen the current chess level is to train - Tactics! Danish Grandmaster Larsen knows this very well, and Lawrence shows us some of Bent Larsen's striking moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-27",
+         "pubDate" : "Fri, 08 Jul 2022 16:00:00 +0100",
+         "title" : "Trent's Tactics - Live from Corsica with a Bent Larsen special"
+      },
+      {
+         "description" : "The 2022 I&#39;M Not A GM Speed Chess Championship, presented by Landover.io, came to a conclusion on Thursday with an exhilarating grand finale between IM Eric Rosen and FM James Canty III, which culminated in a 12-9 victory for Rosen. Rosen was ab...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-imscc-final",
+         "pubDate" : "Fri, 08 Jul 2022 06:52:26 -0700",
+         "title" : "Rosen Wins The 2022 IMSCC Title"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png\" data-image-dimensions=\"182x183\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c822b10e046d110b05f667\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.chessable.com/play-winning-chess/course/89222/\">via Chessable </a> </figcaption> </figure> <figure class=\" sqs-block-image-f",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/8/book-recap-27-gm-yasser-seirawans-play-winning-chess",
+         "pubDate" : "Fri, 08 Jul 2022 12:33:47 +0000",
+         "title" : "Book Recap #27 - GM Yasser Seirawan's Play Winning Chess"
+      },
+      {
          "description" : "From 28 July to 10 August the Chess Olympiad will be played in Chennai, India. 188 teams start in the Open, 162 in the Women's Olympiad, that's a new record of participants. However, two of the strongest federations will not come to Chennai. The Russian federation was excluded because of Russia's invasion of Ukraine, and the Chinese federation decided not to participate, as protection against the pandemic. Thus, the USA is clear favourite in the Open while India is favourite to win the Women's Olympiad. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-in-chennai-the-usa-is-favourite-china-and-russia-do-not-take-part",
          "pubDate" : "Fri, 08 Jul 2022 13:00:00 +0100",
          "title" : "Chess Olympiad in Chennai: The USA is favourite, China and Russia do not take part"
+      },
+      {
+         "description" : "The 2022 Warsaw Chess Festival opens today at the Warsaw sports hall and will be held from July 8 to July 17, 2022. The Festival features Jan Maciej's Memorial in blitz chess (scheduled for July 8) and Mieczys&#x142;aw Najdorf Memorial in classic chess (taking place from 9-17 July). The total prize fund of the events []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/warsaw-chess-festival-najdorf-memorial-2022/",
+         "pubDate" : "Fri, 08 Jul 2022 11:58:42 +0000",
+         "title" : "Warsaw Chess Festival - Najdorf Memorial 2022"
       },
       {
          "description" : "Eight of the strongest players in the world fought in Madrid to get a shot in the next match for the world crown - Ian Nepomniachtchi (pictured) was the winner. Deep opening preparation and maximum focus often led to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
@@ -272,22 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-critical-video-generation-cancellation",
          "pubDate" : "Thu, 07 Jul 2022 15:23:17 +0100",
          "title" : "Critical voice: \"Little Big\" and their song \"Generation Cancellation\""
-      },
-      {
-         "description" : "The&#xA0;World Youth Chess Championships U14, U16, and U18&#xA0;will take place from September 05-17, 2022 in Mamaia, Romania. The 11-round Swiss System tournaments, organized by International Chess Federation and Romanian Chess Federation together with Chess Club Universul and Chess Club Juniorul Constanta, will be held in Constanta Exhibition Centre. Every National Federation can register one official []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-youth-u14-u16-and-u18-chess-championships-2022/",
-         "pubDate" : "Thu, 07 Jul 2022 14:21:59 +0000",
-         "title" : "FIDE World Youth U14, U16 and U18 Chess Championships 2022"
-      },
-      {
-         "description" : "Ian Nepomniachtchi won the 2022 FIDE Candidates Tournament, thus qualifying for the World Chess Championship Match. But it is still unknown whether Magnus Carlsen will accept to defend the World Champion title. Carlsen met with FIDE President and FIDE Director-General during the Candidates to discuss the format of the upcoming match, and the decision could []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-on-speculations-about-the-world-championship-match-format-fake-news-tweetoftheday/",
-         "pubDate" : "Thu, 07 Jul 2022 14:10:11 +0000",
-         "title" : "Magnus Carlsen on speculations about the World Championship Match format: \"Fake news\" #TweetOftheDay"
       },
       {
          "description" : " One thing I have noticed with a lot of younger players is the that they have a tendency to collapse in a heap when something goes wrong with their position. It could be something as simple as losing a pawn, or something as dramatic as realising the sacrifice they wanted to play doesn't work (and they then play it anyway). I suspect I probably did the same up until a point in my own career, but the fact that it happens still seems weird. I did benefit from this in a rapid game I played recently. My opponent missed a tactic, possibly because they assumed it wasn't any good (2 pieces for a rook and 2 pawns). However they missed I was picking up a rook and a piece, so it was just a simple win o",
@@ -631,10 +671,10 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
          "pubDate" : "Mon, 04 Jul 2022 11:20:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : DAY 20 (08 JULY 22)"
+         "title" : "OLYMPIAD TORCH RELAY : DAY 21 (09 JULY 22)"
       },
       {
-         "description" : "Day 19 : KOLKATA Hon'ble Governor of West Bengal Shri Jagdeep Dhankhar received the torch from GM Saptarshi Roy Chowdhary. GM Mitrabha Guha, GM Neelotpal",
+         "description" : "Day 20 : SILIGURI Dr. Shankar Ghosh, MLA Siliguri received the torch at Salugara Monastery &#38; GM Mitrabu Guha takes Torch forward in Siliguri Day",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1738,22 +1778,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship 2022 crosses midpoint"
       },
       {
-         "description" : "Free association is an interesting mechanism to make up introductions for articles. Let us try: \"Music was my first love and it will be my last\", John Miles sang many years ago. The \"Children\" of Caissa rather would see their \"Circle of Life\" in Chess, where the WCCT-7 theme might have been predicted by Phil Collins in \"Against All Odds\" (who also performed the song named in the previous quotation): \"Take a look at me now! There's just an empty space!\", the bishop in the Kozłowski study might say this. | Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-i-2",
-         "pubDate" : "Sat, 25 Jun 2022 10:00:00 +0100",
-         "title" : "Study of the Month - A short history of endgame study castling II"
-      },
-      {
-         "description" : "In the diagrammed position White just played 35.Qa3!, and after 35...Qxd4 White has a beautiful win - can you find it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hard-to-stop",
-         "pubDate" : "Sat, 25 Jun 2022 09:00:00 +0100",
-         "title" : "Hard to stop"
-      },
-      {
          "description" : "A column on Twitter written by \"HowardStaunton\" almost makes one believe in life after death. I was forcibly drawn once again to perusing it, when the irrepressible author republished a caricature of Napoleon playing chess against King George III. At first I attributed it instinctively to James Gillray, but on second thoughts it looks more likely []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1944,14 +1968,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-6",
          "pubDate" : "Wed, 22 Jun 2022 11:16:00 -0700",
          "title" : "Nepomniachtchi, Caruana Pick Up Wins In Spectacular 6th Round"
-      },
-      {
-         "description" : "Chess.com is happy to announce that we have fully launched our new homepage. With a new design and convenient shortcuts to the features you use and love the most, this update will make your chess experience even better! Let&#39;s take a tour of your...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-redesigns-homepage",
-         "pubDate" : "Wed, 22 Jun 2022 11:03:00 -0700",
-         "title" : "Chess.com Redesigns Homepage"
       },
       {
          "description" : " Ian Nepomniachtchi had an extremely lucky escape against Hikaru Nakamura in Round 5 of the FIDE Candidates tournament in Madrid. His draw means that he still leads the event alone on 3.5/5 half a point clear of Fabiano Caruana. Nakamura played a very popular line against Nepomniachtchi's Petroff Defence and they followed an old game of the American's until 14...Bf8 deviated. The first real key moments were 16...Qe4? a mistake played after a remarkable 14 seconds of thought, 17.Bf1 Qg4? (after 1 minute 23 seconds of thought, 17...Qb1 is better). After the game Nepomniachtchi explained that he'd confused this position with a similar one where these moves work. Essentially now Nepomniachtchi h",
@@ -2256,14 +2272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/immensely-proud-that-we-now-have-chess-olympiad-torch-relay-viswanathan-anand/articleshow/92287708.cms",
          "pubDate" : "Fri, 17 Jun 2022 16:22:24 +0000",
          "title" : "Immensely proud that we now have Chess Olympiad Torch Relay: Anand"
-      },
-      {
-         "description" : " Today saw the first ACT Interschool event of the year. It was the South Canberra Secondary Championship, and saw a number of strong players take part. Canberra Grammar School took out the top two places (based on the sum of the best 4 scores, then the next 4 etc), which wasn't really a surprise. However the third placing of Alfred Deakin High, just a half point behind the 2nd grammar team, was. This group of players has flown under the radar, although they did play in last years event. In talking to their teacher, he said that the improvement came mainly from playing online, rather than face to face. I have seen this in a few schools in the ACT, and wonder if we may be seeing a generation o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/hidden-talent.html",
-         "pubDate" : "Fri, 17 Jun 2022 13:35:00 +0000",
-         "title" : "Hidden talent"
       }
    ]
 }
