@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92737117.cms\" />In a bid to make an impression in the event, Brazil Chess Federation roped in two Indian Grandmasters, Priyadharshan Kannappan and Ankit Rajpara, as the captain-cum-coaches of the teams for the Olympiad in Mahabalipuram this month. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-gm-duo-in-charge-of-brazil-teams/articleshow/92737117.cms",
+         "pubDate" : "Fri, 08 Jul 2022 02:47:16 +0000",
+         "title" : "Chess Olympiad: Indian GM duo in charge of Brazil teams"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1851",
+         "pubDate" : "Fri, 08 Jul 2022 00:19:53 +0000",
+         "title" : "Poland wins IX IBCA World Team Chess Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-hong-best-prep-ever-found-while-shower-round-1",
+         "pubDate" : "Thu, 07 Jul 2022 23:37:53 +0000",
+         "title" : "GM Hong: Best Prep Ever Found While In The Shower | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/cervantes-i-trained-teaching-chess-summer-camps-round-1",
+         "pubDate" : "Thu, 07 Jul 2022 23:37:53 +0000",
+         "title" : "Cervantes: I trained by teaching chess summer camps | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-yoo-i-didnt-expect-him-play-line-round-1",
+         "pubDate" : "Thu, 07 Jul 2022 23:37:53 +0000",
+         "title" : "GM Yoo : I didnt expect him to play THAT line | Round 1"
+      },
+      {
          "description" : "16-year-old Indian chess star Rameshbabu Praggnanandhaa has arrived in Serbia where he will play the 15th International Chess Festival Paracin. The event&#xA0;starts tomorrow and will be played from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin a town located in the Pomoravlje District of central Serbia. Praggnanandhaa will be the second []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -594,22 +634,6 @@ news_feed (
          "title" : "Ian Nepomniachtchi becomes challenger for the title of World Champion"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after mathematically clinching the Candidates Tournament victory! 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-job-had-be-done-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NPJvXiiK8J8.jpg?itok=ebJBF5mP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-job-had-be-done-round-13",
-         "pubDate" : "Sun, 03 Jul 2022 20:34:37 +0000",
-         "title" : "Nepomniachtchi: The Job Had to be Done | Round 13"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-13\"><img src=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-13",
-         "pubDate" : "Sun, 03 Jul 2022 20:34:37 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 13"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi, who had already secured his victory with a round to spare, drew his last game with GM Jan-Krzysztof Duda to win the 2022 Candidates Tournament undefeated, with a 2902 performance rating and a record 9.5/14 score. GM Ding Lir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -624,14 +648,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/ian-nepomniachtchi-wins-the-candidates-2022-with-a-round-to-spar/",
          "pubDate" : "Sun, 03 Jul 2022 18:04:31 +0000",
          "title" : "Ian Nepomniachtchi wins the Candidates 2022 with a round to spare"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Eric Rosen joins the show as Ian Nepomniachtchi clinches the tournament and Magnus Carlsen artfully dodges the question once more as to whether he will play the match. 2022.07.03<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eric-rosen-nepo-about-clinch-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1bmFlT6E8-Y.jpg?itok=-jz",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/eric-rosen-nepo-about-clinch-round-13",
-         "pubDate" : "Sun, 03 Jul 2022 17:34:28 +0000",
-         "title" : "Eric Rosen: Nepo about to Clinch | Round 13"
       },
       {
          "description" : " Ian Nepomniachtchi won the FIDE Candidates in Madrid. In round 13 he had the white pieces against Richard Rapport. Nepomniachtchi said he hoped for a Berlin but instead he got a Sicilian, he chose a solid line which gave him a small but stable edge and was able to draw in 34 moves. Nepomniachtchi was obviously extremely happy to wrap things up. Nepomniachtchi said he was very unhappy when he lost in the final round of the Candidates last year and is very motivated not to repeat the result, he has black against Jan-Krzysztof Duda but his opponent may well be in the market for a quick draw. Duda most likely can't wait for the tournament to finish. After drawing his first five games he lost ag",
@@ -2240,14 +2256,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jun/17/chess-national-solving-championship-open-for-entries-from-britain",
          "pubDate" : "Fri, 17 Jun 2022 07:00:04 +0000",
          "title" : "Chess: national solving championship open for entries from Britain"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1814",
-         "pubDate" : "Fri, 17 Jun 2022 01:27:16 +0000",
-         "title" : "Flamenco and fanfare: The 2022 Candidates opening ceremony highlights"
       }
    ]
 }
