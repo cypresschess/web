@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " It was brought to my attention that I needed to talk about a chess skill that gets little mention, yet is crucial to mastery. This is a skill you can use in every aspect of your life. It's a skill that takes time to develop, which is ironic considering the skill I'm talking about is <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-six/\">A Foundation for Beginners Sixty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impro",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-six/",
+         "pubDate" : "Fri, 08 Jul 2022 07:13:50 +0000",
+         "title" : "A Foundation for Beginners Sixty Six"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92740899.cms\" />City Grandmasters are optimistic about India's chances in the upcoming Chess Olympiad scheduled to be held in Chennai from July 28.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-gms-hopeful-of-indias-chances-in-chess-olympiad/articleshow/92740899.cms",
+         "pubDate" : "Fri, 08 Jul 2022 05:48:21 +0000",
+         "title" : "Kolkata GMs hopeful of India's chances in Chess Olympiad"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wgm-cervantes-i-trained-teaching-chess-summer-camps-round-1",
+         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
+         "title" : "WGM Cervantes: I trained by teaching chess summer camps | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-1",
+         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wim-ellen-wang-she-wasnt-expecting-opening-round-1",
+         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
+         "title" : "WIM Ellen Wang: She wasn't expecting THIS opening! | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/im-wang-taking-down-gm-awonder-liang-round-1",
+         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
+         "title" : "IM Wang taking down GM Awonder Liang | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/im-daggupati-it-feels-good-win-position-where-i-had-no-chances-round-1",
+         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
+         "title" : "IM Daggupati: It feels good to win a position where I had no chances | Round 1"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92737117.cms\" />In a bid to make an impression in the event, Brazil Chess Federation roped in two Indian Grandmasters, Priyadharshan Kannappan and Ankit Rajpara, as the captain-cum-coaches of the teams for the Olympiad in Mahabalipuram this month. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -34,7 +90,7 @@ news_feed (
          "title" : "Cervantes: I trained by teaching chess summer camps | Round 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL\">https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-yoo-i-didnt-expect-him-play-line-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A7F_LzQmFeI.jpg?itok=YbBJgtdi\" alt=\"\" /></a",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/gm-yoo-i-didnt-expect-him-play-line-round-1",
@@ -458,38 +514,6 @@ news_feed (
          "title" : "Ian Nepomniachtchi wins the Candidates without a single loss"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Jan-Krzysztof Duda expresses relief that the grueling Candidates Tournament has come to an end as he speaks with WGM Anastasia Karlovich after Round 14. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-happiness-its-over-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZtopoNuPwEw.jpg?itok=dNJJDiaZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/duda-happiness-its-over-round-14",
-         "pubDate" : "Mon, 04 Jul 2022 20:35:03 +0000",
-         "title" : "Duda: Happiness That It's Over | Round 14"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after his final game in the 2022 Candidates Tournament. Even though Ian had clinched the event a day early, it wasn&#039;t time to rest yet. Up next for Nepo is Croatia Grand Chess Tour, where Magnus will also compete. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-now-its-time-rest-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-now-its-time-rest-round-14",
-         "pubDate" : "Mon, 04 Jul 2022 20:35:03 +0000",
-         "title" : "Nepo: Now It's Time to Rest | Round 14"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Palace of Santoña in Madrid, Nakamura, Ding, Caruana, Nepomniachtchi, Duda, Rapport, Firouzja, and Radjabov compete in a double round robin for the right to challenge Magnus Carlsen for the World Chess Championship. Join GMs Alejandro Ramirez, Yasser Seirawan, and IM Dorsa Derakhshani for the move-by-move. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/today-chess-2022-candidates-edition-round-14\"><img src=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/today-chess-2022-candidates-edition-round-14",
-         "pubDate" : "Mon, 04 Jul 2022 20:35:03 +0000",
-         "title" : "Today in Chess | 2022 Candidates Edition: Round 14"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Former world champion Viswanathan Anand joins the show in Round 14 of the 2022 Candidates Tournament. Hear about the Olympiad in Chennai, Caruana's stumbles, Nepo's victories, and his opinion on whether Carlsen will play the world title match. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vishy-anand-site-madrid-round-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vishy-anand-site-madrid-round-14",
-         "pubDate" : "Mon, 04 Jul 2022 17:35:02 +0000",
-         "title" : "Vishy Anand: On Site in Madrid | Round 14"
-      },
-      {
          "description" : "The Candidates Tournament was the most important tournament of the year, and Ian Nepomniachtchi won convincingly. Endgame expert and aficionado Karsten M&uuml;ller selected a few highlights from the first rounds to analyze them together with his guest Daniel Fernandez. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,14 +528,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/fide-to-draft-compromise-regulation/",
          "pubDate" : "Mon, 04 Jul 2022 16:09:44 +0100",
          "title" : "FIDE to draft compromise regulation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Ian Nepomniachtchi talks to WGM Anastasia Karlovich after clinching victory in Round 13 of the 2022 Candidates Tournament. This aired during Round 14. 2022.07.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-carlsen-match-maybe-we-will-see-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UBL-qH5Ks68.jpg?itok=Jl3RjCoZ\" alt=\"\" /></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-carlsen-match-maybe-we-will-see-round-13",
-         "pubDate" : "Mon, 04 Jul 2022 14:34:49 +0000",
-         "title" : "Nepo on Carlsen Match: Maybe, We Will See | Round 13"
       },
       {
          "description" : "",
@@ -2122,14 +2138,6 @@ news_feed (
          "title" : "All four games drawn in Round 3 of the FIDE Candidates - 3"
       },
       {
-         "description" : " It's Black to play in this minor piece ending. What I'd like you to do is assess this position. What are the plans for both sides? Who do think stands better? What do you think the result should be with best play? What would you play in this position if you were Black? Stop and <a href=\"https://chessimprover.com/minor-piece-ending/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Minor Piece Ending\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/minor-piece-ending/\">Minor Piece Ending</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/minor-piece-ending/",
-         "pubDate" : "Sun, 19 Jun 2022 15:48:24 +0000",
-         "title" : "Minor Piece Ending"
-      },
-      {
          "description" : "Prime Minister Narendra Modi on Sunday flagged off the first-ever torch relay for the Chess Olympiad ahead of the 44th edition of the event, which is to be held in Mahabalipuram from July 28 to August 10. The international chess body, FIDE, for the very first time has instituted the torch relay, which is part of the Olympic tradition, but was never done in the Chess Olympiad.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2248,14 +2256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
          "pubDate" : "Fri, 17 Jun 2022 09:55:00 +0100",
          "title" : "Prague Chess Festival: Games and standings"
-      },
-      {
-         "description" : " Entry is free, the prize fund is expected to be at least &pound;1,200, and the winner qualifies for the 2023 world solving championship This week's puzzle is the opening round of a national contest where Guardian readers traditionally perform strongly and in numbers. You have to work out how White, playing as usual up the board, can force checkmate in two moves, however Black defends. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. The competition is open to British residents only and entry is free. Its prize fund is expected to be at least &pound;1,200, plus awards to juniors. <a href=\"https://www.theguardian.",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jun/17/chess-national-solving-championship-open-for-entries-from-britain",
-         "pubDate" : "Fri, 17 Jun 2022 07:00:04 +0000",
-         "title" : "Chess: national solving championship open for entries from Britain"
       }
    ]
 }
