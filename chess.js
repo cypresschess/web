@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 35th edition of the Leon Masters takes place over the weekend 8-10 July in Leon, Spain. The event gathers four world top players: GM Viswanathan Anand, GM Boris Gelfand, GM Andrey Esipenko and GM Jaime Santos and it is played as a 4-player knockout tournament. (Scroll down for live games) Players receive 20 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/35th-leon-masters-with-anand-gelfand-esipenko-and-jaime-santos-in-the-field/",
+         "pubDate" : "Fri, 08 Jul 2022 18:01:15 +0000",
+         "title" : "35th Leon Masters with Anand, Gelfand, Esipenko and Jaime Santos in the field (LIVE)"
+      },
+      {
+         "description" : "IX IBCA World Team Chess Championship for the Blind and Visually Impaired took place in Ohrid, North Macedonia, from June 27 &#x2013; July 08, 2022. The event was organized by the National Sports Federation of the Blind of North Macedonia in cooperation with the Chess Federation of North Macedonia. Every team featured four players and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/poland-wins-ix-ibca-world-team-chess-championship/",
+         "pubDate" : "Fri, 08 Jul 2022 17:29:43 +0000",
+         "title" : "Poland wins IX IBCA World Team Chess Championship"
+      },
+      {
+         "description" : "16-year-old Indian grandmaster Dommaraju Gukesh continues to shine achieving his fourth consecutive triumph on the soil of Spain. After the victories at the&#160;1st Chessable Sunway Formentera Chess Festival 2022,&#160;1st Menorca Chess Open 2022,&#160;the 48th La Roda Open 2022, Gukesh today won the XIV Cerrado Ciudad de Gijo (scroll down for final rankings). Altogether with good []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-wins-his-4th-consecutive-tournament-in-spain-closing-to-2700-live-rating/",
+         "pubDate" : "Fri, 08 Jul 2022 17:01:27 +0000",
+         "title" : "Gukesh wins his 4th consecutive tournament in Spain closing to 2700 live rating"
+      },
+      {
          "description" : "28th 4NCL Congress Open takes place over the weekend 8-10 July at Woodland Grange, Leamington Spa, Warwickshire featuring three tournaments: Open, Under 2000 and U1700. All events are being played in 5 swiss rounds, with time control: All moves in 90 minutes plus 30 second increment per move from move 1. Playing Schedule (GMT +1): []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "28th 4NCL Congress Open LIVE"
       },
       {
-         "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for first-degree murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but these The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/",
@@ -114,7 +138,7 @@ news_feed (
          "title" : "Trinidad and Tobago International Open Chess Tournament 2022 concluded"
       },
       {
-         "description" : "The 2022 New York GM/IM Summer Invitational&#xA0;kicked off yesterday at Hilton Garden Inn Midtown Park Ave, New York. The event takes place from 7-11 July with four 10-player round-robin tournaments for grandmasters and international masters norms. All information about the tournaments can be found here GM Tournament A LIVE: GM Tournament B LIVE: []",
+         "description" : "The 2022 New York GM/IM Summer Invitational&#160;kicked off yesterday at Hilton Garden Inn Midtown Park Ave, New York. The event takes place from 7-11 July with four 10-player round-robin tournaments for grandmasters and international masters norms. All information about the tournaments can be found here GM Tournament A LIVE: GM Tournament B LIVE: []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/2022-new-york-gm-im-summer-invitational-live/",
@@ -234,14 +258,6 @@ news_feed (
          "title" : "Praggnanandhaa arrives in Serbia for the 15th International Chess Festival Paracin"
       },
       {
-         "description" : "Hikaru Nakamura has just finished the FIDE Candidates Chess Tournament 2022 in Madrid and already published the schedule for this week's streams. He yesterday had a Rollercoaster Rating Blitzing for 3200 online rating: &#8220;I will play six games. I will just win six games and I am gonna probably call it a day&#8221; said Hikaru. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-on-the-road-to-3200-i-am-just-gonna-play-like-a-proper-professional-chess-player-video/",
-         "pubDate" : "Thu, 07 Jul 2022 21:11:32 +0000",
-         "title" : "Nakamura on the road to 3200: \"I am just gonna play like a proper professional chess player\" (VIDEO)"
-      },
-      {
          "description" : "Early this year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,14 +298,6 @@ news_feed (
          "title" : "Carlsson blitzes field in two tourneys!"
       },
       {
-         "description" : "22-year-old WGM Mai Narva is the four-time Estonian Women's National Chess Champion. She won her first National Champion title at the age of 15, winning the 2014 Estonian Women's Championship. At the recently concluded 2022 Serbia Chess Open Masters Narva made her third and final IM norm. With 5/9 points, Mai had an impressive performance []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mai-narva-is-first-estonian-female-chess-player-to-achieve-the-im-title/",
-         "pubDate" : "Thu, 07 Jul 2022 20:08:49 +0000",
-         "title" : "Mai Narva is the first Estonian female chess player to achieve the IM title"
-      },
-      {
          "description" : "This week Robert Ris takes a look at the game Ding Liren vs Teimour Radjabov from the second part of the Candidates. Ding Liren finished second in the Candidates but in this game he fell victim to an interesting opening idea by Radjabov and lost quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,14 +320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1850",
          "pubDate" : "Thu, 07 Jul 2022 15:54:25 +0000",
          "title" : "Koneru narrowly beats Dzagnidze to advance into the quarters"
-      },
-      {
-         "description" : "The Higher League of the 75th Russian Championship and the 72nd Russian Women's Championship took place from 25 June 6 July in Obninsk. The top 5 finishers in each tournament received the right to play in the 2022 Russian Championships Superfinals.&#xA0; GM Sanan Sjugirov won the Open tournament scoring 6.5 points. Sjugirov had better []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/russian-championships-higher-league-concluded-in-obninsk/",
-         "pubDate" : "Thu, 07 Jul 2022 15:43:43 +0000",
-         "title" : "Russian Championships Higher League concluded in Obninsk"
       },
       {
          "description" : "The Russian rave band \"Little Big\" is known for provocative music videos. In June, the band released the video \"Generation Cancellation\", in which it takes a critical stance on Russia's war against Ukraine, using chess as a metaphor. | Photo: Little Big",
@@ -666,15 +666,7 @@ news_feed (
          "title" : "FIDE ratings July 2022"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-relay-next-destination-panipat/",
-         "pubDate" : "Mon, 04 Jul 2022 11:20:05 +0000",
-         "title" : "OLYMPIAD TORCH RELAY : DAY 21 (09 JULY 22)"
-      },
-      {
-         "description" : "Day 20 : SILIGURI Dr. Shankar Ghosh, MLA Siliguri received the torch at Salugara Monastery &#38; GM Mitrabu Guha takes Torch forward in Siliguri Day",
+         "description" : "Day 20 : GANGTOK Sh. Kunga Nima Lepcha, Hon'ble Minister of Sports, Govt of Sikkim received the torch at Sikkim Manipal University. GM Mitrabu Guha",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1858,6 +1850,14 @@ news_feed (
          "title" : "FIDE Candidates Chess Tournament 2022 - Nepomniachtchi in the lead"
       },
       {
+         "description" : "The Indian team garnered four gold, four silver &#38; three bronze medals to win the overall championship in the Western Asian Youth Chess Championships which",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-youth-chess-championships-india-overall-champions/",
+         "pubDate" : "Fri, 24 Jun 2022 07:00:26 +0000",
+         "title" : "Western Asian Youth Chess Championships : India overall champions"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg\" data-image-dimensions=\"481x240\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b50dea6c6cd727df8b1cd7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg?format=1000w\" /> </figure> <p class=\"\">We've got 6 rounds in the books and GM Ian Nepomniathchtchi and GM Fabiano Caruana are comfortably in first and 2nd place, respectively. GM Jonathan Tisdall is an A",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2248,30 +2248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1815",
          "pubDate" : "Fri, 17 Jun 2022 22:14:52 +0000",
          "title" : "2022 Candidates Round 1: A confident start for Nepomniachtchi and Caruana"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92288793.cms\" />Brushing aside all the speculations about his retirement from the sport, Indian Grandmaster (GM) Viswanathan Anand said that he will continue to play chess even if he wins the vice-president's post in the World Chess Federation (FIDE) elections.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-will-continue-to-play-even-after-winning-the-fide-election-says-viswanathan-anand/articleshow/92288793.cms",
-         "pubDate" : "Fri, 17 Jun 2022 17:42:29 +0000",
-         "title" : "I will continue to play even after winning the FIDE election: Anand"
-      },
-      {
-         "description" : " The FIDE Candidates got under way in Madrid on June 17th. The winner of the tournament will earn the right to fight for the World Chess Championship in early 2023. Current World Chess Champion Magnus Carlsen has called into question whether he can find the motivation to defend his title again, and while many find this rather difficult to believe (in the same way we don't believe the boxer Tyson Fury has retired) it's nevertheless been confirmed by some of Carlsen's seconds that they understood his defence against Nepomniachtchi could easily be his last and I'm starting to believe that Carlsen has already decided to retire from World Championship play. If so Carlsen will be replaced by the s",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-caruana-off-to-winning-starts-in-the-fide-candidates-2022",
-         "pubDate" : "Fri, 17 Jun 2022 21:23:00 +0400",
-         "title" : "Nepomniachtchi and Caruana off to winning starts in the FIDE Candidates 2022 - 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92287708.cms\" />Legendary Viswanathan Anand is \"immensely proud\" of the fact that the 44th Chess Olympiad starting in Mahabalipuram from July 28, will have its own Torch Relay, which is in similar lines to the Olympics.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/immensely-proud-that-we-now-have-chess-olympiad-torch-relay-viswanathan-anand/articleshow/92287708.cms",
-         "pubDate" : "Fri, 17 Jun 2022 16:22:24 +0000",
-         "title" : "Immensely proud that we now have Chess Olympiad Torch Relay: Anand"
       }
    ]
 }
