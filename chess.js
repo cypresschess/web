@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 28 July to 10 August the Chess Olympiad will be played in Chennai, India. 188 teams start in the Open, 162 in the Women's Olympiad, that's a new record of participants. However, two of the strongest federations will not come to Chennai. The Russian federation was excluded because of Russia's invasion of Ukraine, and the Chinese federation decided not to participate, as protection against the pandemic. Thus, the USA is clear favourite in the Open while India is favourite to win the Women's Olympiad. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-in-chennai-the-usa-is-favourite-china-and-russia-do-not-take-part",
+         "pubDate" : "Fri, 08 Jul 2022 13:00:00 +0100",
+         "title" : "Chess Olympiad in Chennai: The USA is favourite, China and Russia do not take part"
+      },
+      {
+         "description" : "Eight of the strongest players in the world fought in Madrid to get a shot in the next match for the world crown - Ian Nepomniachtchi (pictured) was the winner. Deep opening preparation and maximum focus often led to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-5",
+         "pubDate" : "Fri, 08 Jul 2022 12:40:00 +0100",
+         "title" : "Endgames from Madrid (5)"
+      },
+      {
+         "description" : " Fide has 'kindly asked' the world champion to decide by 20 July whether he will defend the crown he has won five times Magnus Carlsen has been \"kindly asked\" by Fide to decide by a deadline of 20 July, International Chess Day, whether he will defend his world championship title against the winner of the just concluded Candidates, Ian Nepomniachtchi. This followed a four-hour meeting in Madrid on Sunday between the Norwegian and the global body's two top officials, before Carlsen headed off to Las Vegas for the World Series of Poker. Nepomniachtchi, <a href=\"https://www.theguardian.com/sport/2021/dec/10/magnus-carlsen-retains-world-chess-championship-title-after-final-ian-nepomniachtchi-blun",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jul/08/magnus-carlsen-given-world-chess-title-deadline-ian-nepomniachtchi-ding-liren-await",
+         "pubDate" : "Fri, 08 Jul 2022 11:00:34 +0000",
+         "title" : "Carlsen given world chess title deadline as Nepomniachtchi and Ding await"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1852",
+         "pubDate" : "Fri, 08 Jul 2022 10:47:55 +0000",
+         "title" : "Japan"
+      },
+      {
+         "description" : "28th 4NCL Congress Open starts today and will be played over the weekend 8-10 July at Woodland Grange, Leamington Spa, Warwickshire. The event features three tournaments: Open, Under 2000 and U1700, with all events being played in 5 swiss rounds, with time control: All moves in 90 minutes plus 30 second increment per move from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/28th-4ncl-congress-open/",
+         "pubDate" : "Fri, 08 Jul 2022 10:26:06 +0000",
+         "title" : "28th 4NCL Congress Open"
+      },
+      {
+         "description" : "The 15th edition of the International Chess Festival Paracin 2022&#xA0;takes place from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin. Just two days after the end of&#xA0;one of the biggest European Open chess events in Novi Sad, Paracin hosts another massive and strong Open event. The festival features two classical open events: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/international-chess-festival-paracin-2022-live/",
+         "pubDate" : "Fri, 08 Jul 2022 10:04:35 +0000",
+         "title" : "International Chess Festival Paracin 2022 LIVE"
+      },
+      {
+         "description" : "The Trinidad &#38; Tobago Chess Association organized the Trinidad and Tobago International Open Chess Tournament 2022 from 1-8 July at the Hilton Trinidad and Conference Centre, Port of Spain, Trinidad &#38; Tobago. The event featured two tournaments: the 10-player round-robin invitational Masters and the Open tournament (for players rated U2200). Both events were played in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/trinidad-and-tobago-international-open-chess-tournament-2022-concluded/",
+         "pubDate" : "Fri, 08 Jul 2022 09:50:32 +0000",
+         "title" : "Trinidad and Tobago International Open Chess Tournament 2022 concluded"
+      },
+      {
+         "description" : "The 2022 New York GM/IM Summer Invitational&#xA0;kicked off yesterday at Hilton Garden Inn Midtown Park Ave, New York. The event takes place from 7-11 July with four 10-player round-robin tournaments for grandmasters and international masters norms. All information about the tournaments can be found here GM Tournament A LIVE: GM Tournament B LIVE: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-new-york-gm-im-summer-invitational-live/",
+         "pubDate" : "Fri, 08 Jul 2022 09:23:04 +0000",
+         "title" : "2022 New York GM/IM Summer Invitational LIVE"
+      },
+      {
+         "description" : "The Magistral de Le&oacute;n is a traditional event, which will see its 35th edition taking place this weekend at the City Auditorium of the Northwestern Spanish city of Le&oacute;n. The main event of the festival is the 4-player rapid-chess knockout tournament with Vishy Anand, Boris Gelfand, Andrey Esipenko and Jaime Santos.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-masters-2022-preview",
+         "pubDate" : "Fri, 08 Jul 2022 09:30:00 +0100",
+         "title" : "Anand, Gelfand, Esipenko and Santos return to Le&oacute;n"
+      },
+      {
          "description" : " It was brought to my attention that I needed to talk about a chess skill that gets little mention, yet is crucial to mastery. This is a skill you can use in every aspect of your life. It's a skill that takes time to develop, which is ironic considering the skill I'm talking about is <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-six/\">A Foundation for Beginners Sixty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impro",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -226,14 +298,6 @@ news_feed (
          "title" : "The big collapse"
       },
       {
-         "description" : "The first session of the special preparation programme for the Arbiters' Team of the 44th Chess Olympiad 2022 took place on July 3. Almost 200 arbiters from around 100 federation attended the session. A second online session is planned for July 17, before a final preparation day on July 28, at the Olympiad venue, to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/special-preparation-programme-for-the-arbiters-team-of-the-44th-chess-olympiad/",
-         "pubDate" : "Thu, 07 Jul 2022 12:21:30 +0000",
-         "title" : "Special preparation programme for the Arbiters' Team of the 44th Chess Olympiad"
-      },
-      {
          "description" : " This weeks show featured games from rounds 10 through 12 of the Candidates tournament, we didn't manage to cover the full thing because there were too many interesting games. In next week's show we'll do a roundup of the event and ponder over what might happen next. Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-21/\">Master Chess Web Show (21)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -256,30 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-523-an-interesting-loss",
          "pubDate" : "Thu, 07 Jul 2022 10:05:53 +0100",
          "title" : "Game of the Week #523: An interesting loss"
-      },
-      {
-         "description" : "In the year declared by FIDE as the Year of the Women in Chess, one woman, who heads the Virgin Islands Chess Federation, suffers insults, unproven accusations, and public dissemination of her personal information from the (now former) FIDE officer. After reading Nigel Short&#x2019;s claims (shared within the text) and his daily dose of tweets, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/president-of-usvi-chess-federation-margaret-murphy-nigel-shorts-insults-bother-me-most/",
-         "pubDate" : "Thu, 07 Jul 2022 09:03:00 +0000",
-         "title" : "President of USVI Chess Federation Margaret Murphy: Nigel Short's insults bother me most"
-      },
-      {
-         "description" : "Immortal Game celebrates the 15k mark since the beta launch this June 21st during the Candidates in Madrid. Since June 22nd, all beta players are able to purchase Mystery Boxes, each containing 1 to 4 Immortals to quickly start building a team. These boxes contain random Immortals. More info Join Immortal game today here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/immortal-game-beta-reaches-the-15k-mark/",
-         "pubDate" : "Thu, 07 Jul 2022 08:53:00 +0000",
-         "title" : "Immortal Game beta reaches the 15k mark"
-      },
-      {
-         "description" : "The 15th edition of the International Chess Festival Paracin 2022 starts tomorrow and will be played from 8 16 July at the Pool Prestige Hotel in Paracin. Just two days after the end of one of the biggest European Open chess events in Novi Sad, Paracin hosts another massive and strong event. The festival []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/international-chess-festival-paracin-2022/",
-         "pubDate" : "Thu, 07 Jul 2022 08:52:00 +0000",
-         "title" : "International Chess Festival Paracin 2022"
       },
       {
          "description" : "On 26th of July 2022, the chess world will be treated to a unique, one of its kind chess show - the ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi. Anish Giri is world no.10 and Dutch no.1. Vidit Gujrathi is India no.3 and world no.28. The Death match between them will be held at the Dublin Square in the Phoenix Marketcity, Mumbai. What is the format of the match, what is the prize money, who are the hosts and commentators of the show, are there any exhibition matches? All of this is mentioned in the article. Apart from this we also have organized an open rapid tournament on 25th of July for all chess lovers and the top 10 will get a chance to play a simul agains",
@@ -1746,36 +1786,12 @@ news_feed (
          "title" : "Close Games, Overwhelming Lead: Lagno Outscores Agrawal"
       },
       {
-         "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-2",
-         "pubDate" : "Fri, 24 Jun 2022 23:30:00 +0100",
-         "title" : "Endgames from Madrid (2)"
-      },
-      {
          "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony will be held on Friday, August 5, in Rancho Mirage, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/",
          "pubDate" : "Fri, 24 Jun 2022 19:21:42 +0000",
          "title" : "Shabazz to get Special Services Chess Award!"
-      },
-      {
-         "description" : "In his \"Power Play Show\" Daniel King takes Caruana vs Rapport from the Candidates as his starting point and discusses the fascinating variation of the Sicilian which appeared on the board - one that was also seen in a game by the legendary Ulf Andersson. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-fascinating-sicilian",
-         "pubDate" : "Fri, 24 Jun 2022 18:35:00 +0100",
-         "title" : "Daniel King's Power Play Show: A fascinating Sicilian"
-      },
-      {
-         "description" : "On Friday 24th June at 18.00 CEST (12.00 ET, 16:00 UTC) Daniel King will be hosting a special live broadcast on his YouTube channel to publicise a new book: \"From Ukraine With Love For Chess\" published by \"New In Chess\". Daniel will be joined by Ruslan Ponomariov (former FIDE World Champion) and Remmelt Otten (Publishing Director of New In Chess) to discuss the book. Join the broadcast to learn more about the book, Ukrainian chess, and to put your questions directly to Ruslan Ponomariov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-special-live-broadcast-from-ukraine-with-love-for-chess",
-         "pubDate" : "Fri, 24 Jun 2022 17:55:00 +0100",
-         "title" : "Daniel King Special Live Broadcast: \"From Ukraine With Love For Chess\""
       },
       {
          "description" : " Last week, we started playing through a game, applying what we've learned thus far regarding chess principles. We will continue that game this week. As I mentioned last week, one of the primary ways you can improve your own playing is to play through the games of stronger players. As you play through each move <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\">A Foundation for Beginners Sixty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
@@ -2248,14 +2264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/hidden-talent.html",
          "pubDate" : "Fri, 17 Jun 2022 13:35:00 +0000",
          "title" : "Hidden talent"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place on June 8-17 and promises to be a highlight in this year's chess calendar. The festival includes three invitational tournaments - the Masters, the Challengers and the Futures - besides several open events. Vidit Gujrathi and defending champion Sam Shankland head the field in the Masters, while Hans Niemann and Vincent Keymer are the top seeds in the Challengers. | The final round kicks off at 11.00 CEST (05.00 EDT, 13.30 IST). Follow the games with live commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2022-live",
-         "pubDate" : "Fri, 17 Jun 2022 09:55:00 +0100",
-         "title" : "Prague Chess Festival: Games and standings"
       }
    ]
 }
