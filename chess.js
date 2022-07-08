@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1853",
+         "pubDate" : "Fri, 08 Jul 2022 21:01:24 +0000",
+         "title" : "Harika Dronavalli and Tan Zhongyi progress into quarterfinals"
+      },
+      {
+         "description" : "A group of chess stars will be flying to Florida this summer for the biggest esports chess tournament ever held on US soil. The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth Tour event of the season will take place online from July 10 to 17 titled the FTX Road to Miami.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-preview",
+         "pubDate" : "Fri, 08 Jul 2022 22:00:00 +0100",
+         "title" : "Starting Sunday: FTX Road to Miami online tournament"
+      },
+      {
          "description" : "The 45th edition of the Ikaros International Chess Tournament takes place from 9-17 July at the Greek island in the Aegean Sea Ikaria. The event attracted more than 100 entries from 13 countries and will be played in 9 rounds, swiss system, with time control: 90 minutes for the whole game plus 30 seconds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1738,14 +1754,6 @@ news_feed (
          "title" : "Niemann, Martirosyan and Tabatabaei top seeds at Jermuk youth event"
       },
       {
-         "description" : "Ian Nepomniachtchi and Fabiano Caruana have done it again. For a second day in a row, the frontrunners to take the title scored full points in Madrid. Nepo still leads Caruana by a half point, while Hikaru Nakamura now stands 1&frac12; points behind Caruana in sole third place. It has become hugely unlikely for a player other than the tournament's two protagonists to bounce back and win the whole thing. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r7",
-         "pubDate" : "Sat, 25 Jun 2022 14:25:00 +0100",
-         "title" : "Candidates R7: Nepo and Caruana score, again"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2240,14 +2248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/need-to-get-more-youngsters-involved-with-chess-viswanathan-anand/articleshow/92293433.cms",
          "pubDate" : "Sat, 18 Jun 2022 03:17:56 +0000",
          "title" : "Need to get more youngsters involved with chess: Viswanathan Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1815",
-         "pubDate" : "Fri, 17 Jun 2022 22:14:52 +0000",
-         "title" : "2022 Candidates Round 1: A confident start for Nepomniachtchi and Caruana"
       }
    ]
 }
