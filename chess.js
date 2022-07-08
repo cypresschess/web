@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 45th edition of the Ikaros International Chess Tournament takes place from 9-17 July at the Greek island in the Aegean Sea Ikaria. The event attracted more than 100 entries from 13 countries and will be played in 9 rounds, swiss system, with time control: 90 minutes for the whole game plus 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/45th-ikaros-international-chess-tournament-2022/",
+         "pubDate" : "Fri, 08 Jul 2022 18:40:59 +0000",
+         "title" : "45th Ikaros International Chess Tournament 2022"
+      },
+      {
+         "description" : "GM Tan Zhongyi defeated IM Polina Shuvalova&#38;nbsp;in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. Tan&#39;s solid play, board awareness, and speed proved to be too impervious even for Shuvalova&#39;s excell...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-wscc-round-of-16-tan-shuvalova",
+         "pubDate" : "Fri, 08 Jul 2022 11:39:53 -0700",
+         "title" : "Tan Takes Down Shuvalova: 'Tan Was Just Impenetrable'"
+      },
+      {
+         "description" : "Chess.com is excited to announce that you can now find and use the best chess-related reaction GIFs on every major social media platform. Just search for &#34;chesscom&#34; on your favorite platforms and check out all the great reaction GIFs featuring you...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-reaction-gifs",
+         "pubDate" : "Fri, 08 Jul 2022 11:20:36 -0700",
+         "title" : "Use These Chess GIFs Anywhere Online"
+      },
+      {
          "description" : "The 35th edition of the Leon Masters takes place over the weekend 8-10 July in Leon, Spain. The event gathers four world top players: GM Viswanathan Anand, GM Boris Gelfand, GM Andrey Esipenko and GM Jaime Santos and it is played as a 4-player knockout tournament. (Scroll down for live games) Players receive 20 minutes []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "28th 4NCL Congress Open LIVE"
       },
       {
-         "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but these The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/",
@@ -64,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-final",
          "pubDate" : "Fri, 08 Jul 2022 06:52:26 -0700",
          "title" : "Rosen Wins The 2022 IMSCC Title"
+      },
+      {
+         "description" : "The 2022 New York GM/IM Summer Invitational&#160;kicked off yesterday at Hilton Garden Inn Midtown Park Ave, New York. The event takes place from 7-11 July with four 10-player round-robin tournaments for grandmasters and international masters norms. All information about the tournaments can be found here GM Tournament A LIVE: GM Tournament B LIVE: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-new-york-gm-im-summer-invitational-live/",
+         "pubDate" : "Fri, 08 Jul 2022 13:23:00 +0000",
+         "title" : "2022 New York GM/IM Summer Invitational LIVE"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png\" data-image-dimensions=\"182x183\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c822b10e046d110b05f667\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.chessable.com/play-winning-chess/course/89222/\">via Chessable </a> </figcaption> </figure> <figure class=\" sqs-block-image-f",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/trinidad-and-tobago-international-open-chess-tournament-2022-concluded/",
          "pubDate" : "Fri, 08 Jul 2022 09:50:32 +0000",
          "title" : "Trinidad and Tobago International Open Chess Tournament 2022 concluded"
-      },
-      {
-         "description" : "The 2022 New York GM/IM Summer Invitational&#160;kicked off yesterday at Hilton Garden Inn Midtown Park Ave, New York. The event takes place from 7-11 July with four 10-player round-robin tournaments for grandmasters and international masters norms. All information about the tournaments can be found here GM Tournament A LIVE: GM Tournament B LIVE: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-new-york-gm-im-summer-invitational-live/",
-         "pubDate" : "Fri, 08 Jul 2022 09:23:04 +0000",
-         "title" : "2022 New York GM/IM Summer Invitational LIVE"
       },
       {
          "description" : "The Magistral de Le&oacute;n is a traditional event, which will see its 35th edition taking place this weekend at the City Auditorium of the Northwestern Spanish city of Le&oacute;n. The main event of the festival is the 4-player rapid-chess knockout tournament with Vishy Anand, Boris Gelfand, Andrey Esipenko and Jaime Santos.",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/gm-yoo-i-didnt-expect-him-play-line-round-1",
          "pubDate" : "Thu, 07 Jul 2022 23:37:53 +0000",
          "title" : "GM Yoo : I didnt expect him to play THAT line | Round 1"
-      },
-      {
-         "description" : "16-year-old Indian chess star Rameshbabu Praggnanandhaa has arrived in Serbia where he will play the 15th International Chess Festival Paracin. The event&#xA0;starts tomorrow and will be played from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin a town located in the Pomoravlje District of central Serbia. Praggnanandhaa will be the second []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-arrives-in-serbia-for-the-15th-international-chess-festival-paracin/",
-         "pubDate" : "Thu, 07 Jul 2022 21:55:31 +0000",
-         "title" : "Praggnanandhaa arrives in Serbia for the 15th International Chess Festival Paracin"
       },
       {
          "description" : "Early this year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
@@ -1890,14 +1906,6 @@ news_feed (
          "title" : "President of Kazakhstan holds a meeting with the women's national team"
       },
       {
-         "description" : "In round seven of the 2022 Candidates Tournament, GM Ian Nepomniachtchi won his fourth game of the event but nevertheless only leads by half a point as GM Fabiano Caruana responded by scoring a win of his own. The Russian tournament leader took ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-7",
-         "pubDate" : "Thu, 23 Jun 2022 11:02:00 -0700",
-         "title" : "Nepomniachtchi, Caruana Win Again To Extend Lead On Field"
-      },
-      {
          "description" : "The 3rd edition of Stepan Avagyan Memorial &#8220;Jermuk 2022&#8221; takes place from 19-28 of June, 2022 in Jermuk, Armenia. The tournament is held in a 10-player GM norm round-robin format, in 9 rounds, and it is a FIDE category 16 event. After four played rounds, GM Tabatabaei M. Amin (IRI, 2650), GM Martirosyan Haik (ARM, 2656) and GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/stepan-avagyan-memorial-jermuk-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1825",
          "pubDate" : "Wed, 22 Jun 2022 22:25:58 +0000",
          "title" : "2022 Candidates, Round 5: Great expectations and a lucky escape"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi won his third game in the 2022 Candidates Tournament but still leads by half a point as GM Fabiano Caruana also scored the full point on Thursday. While the tournament leader defeated GM Jan-Krzysztof Duda in a kingside attac...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-6",
-         "pubDate" : "Wed, 22 Jun 2022 11:16:00 -0700",
-         "title" : "Nepomniachtchi, Caruana Pick Up Wins In Spectacular 6th Round"
       },
       {
          "description" : " Ian Nepomniachtchi had an extremely lucky escape against Hikaru Nakamura in Round 5 of the FIDE Candidates tournament in Madrid. His draw means that he still leads the event alone on 3.5/5 half a point clear of Fabiano Caruana. Nakamura played a very popular line against Nepomniachtchi's Petroff Defence and they followed an old game of the American's until 14...Bf8 deviated. The first real key moments were 16...Qe4? a mistake played after a remarkable 14 seconds of thought, 17.Bf1 Qg4? (after 1 minute 23 seconds of thought, 17...Qb1 is better). After the game Nepomniachtchi explained that he'd confused this position with a similar one where these moves work. Essentially now Nepomniachtchi h",
