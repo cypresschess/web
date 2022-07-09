@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Norwegian Chess Championships&#160;take place from 8-14 July 2022 in Kongsvinger, Norway. The event gathers around 300 players and it is played in 16 groups: Elite, Masters, Candidates, Group 1, Group 2, Group 3, Grop 4, Seniors 50+, Seniors 65+, and different Juniors and Cadet groups. Live games from all groups can be followed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norwegian-chess-championships-2022-live/",
+         "pubDate" : "Sat, 09 Jul 2022 18:44:44 +0000",
+         "title" : "Norwegian Chess Championships 2022 LIVE"
+      },
+      {
+         "description" : "The 2022 Norwegian Chess Championships take place from 8-14 July 2022 in Kongsvinger, Norway. The event gathers around 300 players and it is played in 16 groups: Elite, Masters, Candidates, Group 1, Group 2, Group 3, Grop 4, Seniors 50+, Seniors 65+, and different Juniors and Cadet groups. The main Elite event gathers some of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norwegian-chess-championships-2022/",
+         "pubDate" : "Sat, 09 Jul 2022 18:35:27 +0000",
+         "title" : "Norwegian Chess Championships 2022"
+      },
+      {
+         "description" : "Vishy Anand won the last game of the semifinal to knock out Jaime Santos. Anand will face the winner of the semifinal between Boris Gelfand, another living legend who has already won the Magistral twice, and the young Russian GM Andrey Esipenko in Sunday's final. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-masters-2022-sf1",
+         "pubDate" : "Sat, 09 Jul 2022 16:25:00 +0100",
+         "title" : "Le&oacute;n: Anand knocks out Santos, loses miniature"
+      },
+      {
          "description" : "The Arsen Yeghiazaryan Memorial&#160;took place from 1-9 July in Yerevan, Armenia as a 10-player round-robin tournament, dedicated to the memory of GM, FST and Honored Trainer of the Republic of Armenia Arsen Yeghiazaryan. The event took place at the Tigran Petrosyan Chess House. GM Hovik Hayrapetyan won the event with convincing 7/9 points. After losing []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -210,14 +234,6 @@ news_feed (
          "title" : "Gukesh wins his 4th consecutive tournament in Spain closing to 2700 live rating"
       },
       {
-         "description" : "28th 4NCL Congress Open takes place over the weekend 8-10 July at Woodland Grange, Leamington Spa, Warwickshire featuring three tournaments: Open, Under 2000 and U1700. All events are being played in 5 swiss rounds, with time control: All moves in 90 minutes plus 30 second increment per move from move 1. Playing Schedule (GMT +1): []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/28th-4ncl-congress-open-live/",
-         "pubDate" : "Fri, 08 Jul 2022 15:27:00 +0000",
-         "title" : "28th 4NCL Congress Open LIVE"
-      },
-      {
          "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -248,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-imscc-final",
          "pubDate" : "Fri, 08 Jul 2022 06:52:26 -0700",
          "title" : "Rosen Wins The 2022 IMSCC Title"
-      },
-      {
-         "description" : "The 2022 New York GM/IM Summer Invitational&#160;kicked off yesterday at Hilton Garden Inn Midtown Park Ave, New York. The event takes place from 7-11 July with four 10-player round-robin tournaments for grandmasters and international masters norms. All information about the tournaments can be found here GM Tournament A LIVE: GM Tournament B LIVE: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-new-york-gm-im-summer-invitational-live/",
-         "pubDate" : "Fri, 08 Jul 2022 13:23:00 +0000",
-         "title" : "2022 New York GM/IM Summer Invitational LIVE"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png\" data-image-dimensions=\"182x183\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c822b10e046d110b05f667\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.chessable.com/play-winning-chess/course/89222/\">via Chessable </a> </figcaption> </figure> <figure class=\" sqs-block-image-f",
@@ -1698,14 +1706,6 @@ news_feed (
          "title" : "Nepomniachtchi Closer To Victory After Drawing With Caruana"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 85th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-85-basics-of-the-benko-gambit-4",
-         "pubDate" : "Sun, 26 Jun 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 85: Basics of the Benko Gambit (4)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92474340.cms\" />Top seed Russian Grandmaster Savchenko Boris (8.5), with superior tie-break edged out International Master Nitin Senthilvel (India) to emerge as the Chennai Open 2022 champion after the tenth round in the 13th Chennai Open International Grandmaster chess tournament on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2216,14 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1817",
          "pubDate" : "Sat, 18 Jun 2022 22:46:33 +0000",
          "title" : "2022 Candidates, Round 2: A day of missed chances"
-      },
-      {
-         "description" : " Hikaru Nakamura won the only decisive game of the day when he beat Teimour Radjabov in 75 moves and six and a half hours play of Round 2 of the FIDE Candidates tournament in Madrid. Nakamura didn't get much out of the opening and the game turned into a very long grind. It seems about move 35 Radjabov started to get into trouble but the whole endgame was very hard to understand for anyone. Nakamura returns to 50% after his loss against Caruana yesterday. This endgame was far too difficult for me to annotate well. The leaders Ian Nepomniachtchi and Fabiano Caruana drew a very complicated Giuoco Piano by repetition in 41 moves. Caruana was well prepared and played bold pawn pushes on the kind ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nakamura-beats-radjabov-in-round-2-of-the-candidates",
-         "pubDate" : "Sat, 18 Jun 2022 22:53:00 +0400",
-         "title" : "Nakamura beats Radjabov in Round 2 of the Candidates - 2"
       }
    ]
 }
