@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 8th International Francophone Chess Meetings took place from 1-9 July in Casablanca, Morocco. 125 players competed in the classical tournament, coming from 22 countries. After 9 played rounds (swiss system) as many as five players tied for the first place. IM Loic Travadon had the best tiebreak criteria to top the final crosstable, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-8th-ridef-chess-championship-concluded-in-casablanca/",
+         "pubDate" : "Sat, 09 Jul 2022 10:51:46 +0000",
+         "title" : "The 8th RIDEF Chess Championship concluded in Casablanca"
+      },
+      {
+         "description" : " <p class=\"lead\">Almost a week after the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a>, the World Champion Magnus Carlsen hasn't decided if he'll defend his title against the second-time Challenger Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-09-12.24.00.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The 2023 World Chess Championship conversation has intensely started when Carlsen stated that he will not defend his title but against the 19-year-old chess prodigy Alireza Firouzja. The French GM underperformed at the Candidates, finishing ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-guardian-fide-needs-carlsen-more-than-carlsen-needs-fide/",
+         "pubDate" : "Sat, 09 Jul 2022 09:26:23 +0000",
+         "title" : "The Guardian: \"FIDE needs Carlsen more than Carlsen needs FIDE\""
+      },
+      {
          "description" : "Does Black have perpetual check in the diagram position after 14...Nf3+ - or more? A look back at a classic, played 125 years ago - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/international-chess-festival-paracin-2022-live/",
          "pubDate" : "Fri, 08 Jul 2022 10:04:35 +0000",
          "title" : "International Chess Festival Paracin 2022 LIVE"
-      },
-      {
-         "description" : "The Trinidad &#38; Tobago Chess Association organized the Trinidad and Tobago International Open Chess Tournament 2022 from 1-8 July at the Hilton Trinidad and Conference Centre, Port of Spain, Trinidad &#38; Tobago. The event featured two tournaments: the 10-player round-robin invitational Masters and the Open tournament (for players rated U2200). Both events were played in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/trinidad-and-tobago-international-open-chess-tournament-2022-concluded/",
-         "pubDate" : "Fri, 08 Jul 2022 09:50:32 +0000",
-         "title" : "Trinidad and Tobago International Open Chess Tournament 2022 concluded"
       },
       {
          "description" : "The Magistral de Le&oacute;n is a traditional event, which will see its 35th edition taking place this weekend at the City Auditorium of the Northwestern Spanish city of Le&oacute;n. The main event of the festival is the 4-player rapid-chess knockout tournament with Vishy Anand, Boris Gelfand, Andrey Esipenko and Jaime Santos.",
@@ -1666,14 +1674,6 @@ news_feed (
          "title" : "Nepomniachtchi in charge after Round 8 of the Candidates - 8"
       },
       {
-         "description" : " <p class=\"lead\">Round 8 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nakamura and Rapport winning against Caruana and Duda respectively. Nepomniachtchi is now a full point ahead with 6/8. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-6.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52173120362_7676490721_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52174140436_385d615297_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/new",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamura-beat-caruana-on-round-8-of-the-candidates-2022/",
-         "pubDate" : "Sun, 26 Jun 2022 20:06:18 +0000",
-         "title" : "Nakamura beat Caruana on Round 8 of the Candidates 2022"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi survived the important clash with GM Fabiano Caruana in round nine of the 2022 Candidates Tournament on Monday. The Russian grandmaster held the draw from a difficult position based on deep preparation from Caruana, who is st...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2232,14 +2232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1816",
          "pubDate" : "Sat, 18 Jun 2022 12:23:09 +0000",
          "title" : "Winners crowned at Prague Chess Festival 2022"
-      },
-      {
-         "description" : "A new book brings to mind two quotations from great minds, one a chess Grandmaster, the other one of the greatest of satirists. Aron Nimzowitsch once wrote: \"Ridicule can do much, for instance embitter the existence of young talents; but one thing is not given to it, to put a stop permanently to the incursion of new []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/was-basman-right-iconoclasm-ridicule-and-chess/",
-         "pubDate" : "Sat, 18 Jun 2022 10:37:12 +0000",
-         "title" : "Was Basman right? Iconoclasm, ridicule and chess"
       }
    ]
 }
