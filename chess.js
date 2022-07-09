@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Arsen Yeghiazaryan Memorial&#160;took place from 1-9 July in Yerevan, Armenia as a 10-player round-robin tournament, dedicated to the memory of GM, FST and Honored Trainer of the Republic of Armenia Arsen Yeghiazaryan. The event took place at the Tigran Petrosyan Chess House. GM Hovik Hayrapetyan won the event with convincing 7/9 points. After losing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-hovik-hayrapetyan-wins-arsen-yeghiazaryan-memorial-2022/",
+         "pubDate" : "Sat, 09 Jul 2022 13:54:29 +0000",
+         "title" : "GM Hovik Hayrapetyan wins Arsen Yeghiazaryan Memorial 2022"
+      },
+      {
+         "description" : "Finally, MPL 32nd National Under 17 OPEN &#38; GIRLS Chess Championship 2022 concluded with Valedictory ceremony-cum-Prize Distribution, at 04:30 P.M. on 09 July 2022 at International Chess Hall,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-32nd-national-under-17-open-girls-chess-championships-2022report/",
+         "pubDate" : "Sat, 09 Jul 2022 13:09:18 +0000",
+         "title" : "MPL 32nd National Under 17 OPEN & GIRLS Chess Championships 2022:Report"
+      },
+      {
+         "description" : "Simultaneously with the 20th Sautron International Chess Open which takes place from 3-10 July at the Espace Phelippes Beaulieux, the Sautron Chess Club set the largest chess piece in the world. With the size exceeding 6.30 meters in height, a diameter of 3 meters and weighing 3.8 tons, the wooden chess King was installed by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-largest-chess-piece-in-the-world-set-in-sautron-france-tweetoftheday/",
+         "pubDate" : "Sat, 09 Jul 2022 12:22:45 +0000",
+         "title" : "The largest chess piece in the world set in Sautron, France #TweetOftheDay"
+      },
+      {
+         "description" : "In pre-pandemic times, which now seems almost to be in the Cretaceous Period, I speculated in the British Chess Magazine on the impact of two of those outstanding personalities in the universe of chess who made their mark by teaching, as much as by playing. This week I expand my thoughts on those two chess []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/praeceptor-britanniae/",
+         "pubDate" : "Sat, 09 Jul 2022 12:05:34 +0000",
+         "title" : "Praeceptor Britanniae"
+      },
+      {
+         "description" : "The 55th edition of the Biel International Chess Festival opens tomorrow and will take place from 10-24 July in Biel, Switzerland, featuring more than 15 events. This year's Biel Chess Festival will be dedicated to the memory of Peter Burri &#8220;PeBu&#8221; who was involved in the festival in various functions. The activities of the Biel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/55th-biel-international-chess-festival-2022-opens-tomorrow/",
+         "pubDate" : "Sat, 09 Jul 2022 11:57:24 +0000",
+         "title" : "55th Biel International Chess Festival 2022 opens tomorrow"
+      },
+      {
          "description" : "The 8th International Francophone Chess Meetings took place from 1-9 July in Casablanca, Morocco. 125 players competed in the classical tournament, coming from 22 countries. After 9 played rounds (swiss system) as many as five players tied for the first place. IM Loic Travadon had the best tiebreak criteria to top the final crosstable, GM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -234,14 +274,6 @@ news_feed (
          "title" : "Chess Olympiad in Chennai: The USA is favourite, China and Russia do not take part"
       },
       {
-         "description" : "The 2022 Warsaw Chess Festival opens today at the Warsaw sports hall and will be held from July 8 to July 17, 2022. The Festival features Jan Maciej's Memorial in blitz chess (scheduled for July 8) and Mieczys&#x142;aw Najdorf Memorial in classic chess (taking place from 9-17 July). The total prize fund of the events []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/warsaw-chess-festival-najdorf-memorial-2022/",
-         "pubDate" : "Fri, 08 Jul 2022 11:58:42 +0000",
-         "title" : "Warsaw Chess Festival - Najdorf Memorial 2022"
-      },
-      {
          "description" : "Eight of the strongest players in the world fought in Madrid to get a shot in the next match for the world crown - Ian Nepomniachtchi (pictured) was the winner. Deep opening preparation and maximum focus often led to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,22 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1852",
          "pubDate" : "Fri, 08 Jul 2022 10:47:55 +0000",
          "title" : "Japan"
-      },
-      {
-         "description" : "28th 4NCL Congress Open starts today and will be played over the weekend 8-10 July at Woodland Grange, Leamington Spa, Warwickshire. The event features three tournaments: Open, Under 2000 and U1700, with all events being played in 5 swiss rounds, with time control: All moves in 90 minutes plus 30 second increment per move from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/28th-4ncl-congress-open/",
-         "pubDate" : "Fri, 08 Jul 2022 10:26:06 +0000",
-         "title" : "28th 4NCL Congress Open"
-      },
-      {
-         "description" : "The 15th edition of the International Chess Festival Paracin 2022&#xA0;takes place from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin. Just two days after the end of&#xA0;one of the biggest European Open chess events in Novi Sad, Paracin hosts another massive and strong Open event. The festival features two classical open events: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/international-chess-festival-paracin-2022-live/",
-         "pubDate" : "Fri, 08 Jul 2022 10:04:35 +0000",
-         "title" : "International Chess Festival Paracin 2022 LIVE"
       },
       {
          "description" : "The Magistral de Le&oacute;n is a traditional event, which will see its 35th edition taking place this weekend at the City Auditorium of the Northwestern Spanish city of Le&oacute;n. The main event of the festival is the 4-player rapid-chess knockout tournament with Vishy Anand, Boris Gelfand, Andrey Esipenko and Jaime Santos.",
@@ -1874,14 +1890,6 @@ news_feed (
          "title" : "FIDE Candidates Chess Tournament 2022 - Nepomniachtchi in the lead"
       },
       {
-         "description" : "The Indian team garnered four gold, four silver &#38; three bronze medals to win the overall championship in the Western Asian Youth Chess Championships which",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-youth-chess-championships-india-overall-champions/",
-         "pubDate" : "Fri, 24 Jun 2022 07:00:26 +0000",
-         "title" : "Western Asian Youth Chess Championships : India overall champions"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg\" data-image-dimensions=\"481x240\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b50dea6c6cd727df8b1cd7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg?format=1000w\" /> </figure> <p class=\"\">We've got 6 rounds in the books and GM Ian Nepomniathchtchi and GM Fabiano Caruana are comfortably in first and 2nd place, respectively. GM Jonathan Tisdall is an A",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2216,22 +2224,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nakamura-beats-radjabov-in-round-2-of-the-candidates",
          "pubDate" : "Sat, 18 Jun 2022 22:53:00 +0400",
          "title" : "Nakamura beats Radjabov in Round 2 of the Candidates - 2"
-      },
-      {
-         "description" : " One effect of the Covid Pandemic has been less international coverage on this blog. At first it was due to the lack of any events in early 2020, but even when online events began, it did not feel like 'real' chess to me. An oddly enough, when face to face events began, there seemed to be a confusing mess of them, with mixed rapid and classical formats. So I tended yo avoid them, both as a blogger and a spectator. So I am pleased to see the Candidates kick off, with a quite exciting round 1. Two decisive games, and two tough draws, were enjoyable to look at. Two of the favourites (Nakamura and Ding) went down, while Duda might be kicking himself after failing to convert a huge opening advant",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/2022-candidates.html",
-         "pubDate" : "Sat, 18 Jun 2022 14:50:00 +0000",
-         "title" : "2022 Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1816",
-         "pubDate" : "Sat, 18 Jun 2022 12:23:09 +0000",
-         "title" : "Winners crowned at Prague Chess Festival 2022"
       }
    ]
 }
