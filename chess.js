@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Does Black have perpetual check in the diagram position after 14...Nf3+ - or more? A look back at a classic, played 125 years ago - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oldie-goldie",
+         "pubDate" : "Sat, 09 Jul 2022 09:00:00 +0100",
+         "title" : "Oldie goldie"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL\">https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-prep-ever-found-while-shower-gm-hong-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M9n_ZNq-dww.jpg?itok=hDNN_W_2\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/best-prep-ever-found-while-shower-gm-hong-round-1",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "Best Prep Ever Found While In The Shower | GM Hong | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/50j0XMTM\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/...</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-trained-teaching-chess-summer-camps-wgm-cervantes-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BUgy2rPWeQM.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/i-trained-teaching-chess-summer-camps-wgm-cervantes-round-1",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "I trained by teaching chess summer camps | WGM Cervantes | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/50j0XMTM\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/...</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/she-wasnt-expecting-opening-wim-ellen-wang-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tpqDH4szWW8.jpg?itok=Igp3KKbe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/she-wasnt-expecting-opening-wim-ellen-wang-round-1",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "She wasn't expecting THIS opening! | WIM Ellen Wang | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL\">https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/it-feels-good-win-position-where-i-had-no-chances-im-daggupati-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JyYQIh3-rkU.jpg?",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/it-feels-good-win-position-where-i-had-no-chances-im-daggupati-round-1",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "It feels good to win a position where I had no chances | IM Daggupati | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.08<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-2",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-2/FhnhHU1y\">https://lichess.org/broadcast/us-senior-championship-2022/round-2/FhnhHU1y</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/searching-interesting-play-double-pawns-gm-de-firmian-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ycYjO9-WPhg.jpg?itok=yzGM",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/searching-interesting-play-double-pawns-gm-de-firmian-round-2",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "Searching for interesting play with double pawns | GM De Firmian | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/rYauETJP\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/...</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/taking-lead-wfm-sophie-morris-suzuki-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EIDodlc940c.jpg?itok=bjgKVtXq\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/taking-lead-wfm-sophie-morris-suzuki-round-2",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "Taking the lead! | WFM Sophie Morris-Suzuki | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-2/IhmVgBMT\">https://lichess.org/broadcast/us-junior-championship-2022/round-2/IhmVgBMT</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shocked-11th-move-gm-brodsky-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uHQCkidsVAQ.jpg?itok=p9J7CbFy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shocked-11th-move-gm-brodsky-round-2",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "Shocked on the 11th move! | GM Brodsky | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/rYauETJP\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/...</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/casually-sacrificing-pawns-c4-wfm-anne-marie-velea-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pxL4NKhe1xk.jpg?itok=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/casually-sacrificing-pawns-c4-wfm-anne-marie-velea-round-2",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "Casually sacrificing pawns on c4 | WFM Anne-Marie Velea | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.09<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-3-lichessorg",
+         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 3 | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -210,46 +298,6 @@ news_feed (
          "title" : "Kolkata GMs hopeful of India's chances in Chess Olympiad"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wgm-cervantes-i-trained-teaching-chess-summer-camps-round-1",
-         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
-         "title" : "WGM Cervantes: I trained by teaching chess summer camps | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-1",
-         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wim-ellen-wang-she-wasnt-expecting-opening-round-1",
-         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
-         "title" : "WIM Ellen Wang: She wasn't expecting THIS opening! | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/im-wang-taking-down-gm-awonder-liang-round-1",
-         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
-         "title" : "IM Wang taking down GM Awonder Liang | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/im-daggupati-it-feels-good-win-position-where-i-had-no-chances-round-1",
-         "pubDate" : "Fri, 08 Jul 2022 05:38:00 +0000",
-         "title" : "IM Daggupati: It feels good to win a position where I had no chances | Round 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92737117.cms\" />In a bid to make an impression in the event, Brazil Chess Federation roped in two Indian Grandmasters, Priyadharshan Kannappan and Ankit Rajpara, as the captain-cum-coaches of the teams for the Olympiad in Mahabalipuram this month. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -266,30 +314,6 @@ news_feed (
          "title" : "Poland wins IX IBCA World Team Chess Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-hong-best-prep-ever-found-while-shower-round-1",
-         "pubDate" : "Thu, 07 Jul 2022 23:37:53 +0000",
-         "title" : "GM Hong: Best Prep Ever Found While In The Shower | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cervantes-i-trained-teaching-chess-summer-camps-round-1",
-         "pubDate" : "Thu, 07 Jul 2022 23:37:53 +0000",
-         "title" : "Cervantes: I trained by teaching chess summer camps | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL\">https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-yoo-i-didnt-expect-him-play-line-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A7F_LzQmFeI.jpg?itok=YbBJgtdi\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-yoo-i-didnt-expect-him-play-line-round-1",
-         "pubDate" : "Thu, 07 Jul 2022 23:37:53 +0000",
-         "title" : "GM Yoo : I didnt expect him to play THAT line | Round 1"
-      },
-      {
          "description" : "Early this year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,22 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-dronavalli-cori",
          "pubDate" : "Thu, 07 Jul 2022 13:45:00 -0700",
          "title" : "From Tactical Mayhem To Landslide: Dronavalli Defeats Cori"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.07<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-1-lichessorg",
-         "pubDate" : "Thu, 07 Jul 2022 20:37:52 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 1 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.08<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-2-lichessorg",
-         "pubDate" : "Thu, 07 Jul 2022 20:37:52 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 2 | lichess.org"
       },
       {
          "description" : " Grandmaster Pontus Carlsson took his blitz skills to Czech Republic and Slovakia and won both events by prodigious scores. Not originally known as a &#8220;blitz specialist,&#8221; the Swedish national has competed at the highest levels at the World Rapid and Blitz. In 2018, he scored 8/15 (rapid) and 10.5/21 (blitz) He also competed in the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/07/carlsson-blitzes-field-in-two-tourneys/\">Carlsson blitzes field in two tourneys!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/china-not-to-take-part-in-chess-olympiad-in-chennai/articleshow/92461111.cms",
          "pubDate" : "Sat, 25 Jun 2022 16:15:09 +0000",
          "title" : "China not to take part in Chess Olympiad in Chennai"
-      },
-      {
-         "description" : "In the small Armenian town of Jermuk, a round-robin tournament with a strong field of ten young participants is currently taking place. Among them are Hans Moke Niemann (photo), Nihal Sarin and Alexander Donchenko. After five rounds, these three players are only among the chasers with 2&frac12;/5 points each. At the top of the standings is a quartet with 3/5 points each: Armenians Haik Martirosyan, Shant Sargsyan and Samvel Ter-Sahakyan and the Iranian Amin Tabatabaei. Daily rounds will be played until Tuesday. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stepan-avagyan-memorial-in-jermuk",
-         "pubDate" : "Sat, 25 Jun 2022 16:35:00 +0100",
-         "title" : "Niemann, Martirosyan and Tabatabaei top seeds at Jermuk youth event"
       },
       {
          "description" : "",
