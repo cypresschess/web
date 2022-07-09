@@ -2240,14 +2240,6 @@ news_feed (
          "link" : "https://www.thearticle.com/was-basman-right-iconoclasm-ridicule-and-chess/",
          "pubDate" : "Sat, 18 Jun 2022 10:37:12 +0000",
          "title" : "Was Basman right? Iconoclasm, ridicule and chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92293433.cms\" />Five-time world chess champion Viswanathan Anand is quite excited about India hosting the Chess Olympiad for the first time since its inception in 1927. On Sunday, Prime Minister Narendra Modi will launch the first-ever torch relay for the Olympiad, at the Indira Gandhi Stadium in New Delhi, to kick off the flame's journey to 75 cities over the course of 40 days. The journey will culminate at Mahabalipuram, near Chennai - the venue for the July 28 to August 10 event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/need-to-get-more-youngsters-involved-with-chess-viswanathan-anand/articleshow/92293433.cms",
-         "pubDate" : "Sat, 18 Jun 2022 03:17:56 +0000",
-         "title" : "Need to get more youngsters involved with chess: Viswanathan Anand"
       }
    ]
 }
