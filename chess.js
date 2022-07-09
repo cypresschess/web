@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1854",
+         "pubDate" : "Sat, 09 Jul 2022 21:39:53 +0000",
+         "title" : "Two FIDE Trainers Seminars in conjunction with 44th Chess Olympiad announced"
+      },
+      {
+         "description" : "The 15th annual Chicago Class 2022 kicks off on Friday and will be played from 15-17 July at the Westin Chicago North Shore Hotel, Wheeling, Illinois. The event features 7 sections: Master (for players rated 2100+), Expert (for players rated 1900-2199), Class A (for players rated 1700-1999), Class B (for players rated 1500-1799), Class C []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/15th-annual-chicago-class-2022/",
+         "pubDate" : "Sat, 09 Jul 2022 20:53:23 +0000",
+         "title" : "15th annual Chicago Class 2022"
+      },
+      {
+         "description" : "The Ceske Budejovice Chess Festival 2022 took place from 1-9 July in Ceske Budejovice, Czech Republic. The Festival featured closed GM and IM events, as well as the Open tournament which was played in two categories: A and B. &#160;17-year-old Austrian FIDE master Marc Morgunov won the closed GM event with outstanding performance in a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ceske-budejovice-chess-festival-2022-concluded/",
+         "pubDate" : "Sat, 09 Jul 2022 20:26:23 +0000",
+         "title" : "Ceske Budejovice Chess Festival 2022 concluded"
+      },
+      {
          "description" : "The 2022 Norwegian Chess Championships&#160;take place from 8-14 July 2022 in Kongsvinger, Norway. The event gathers around 300 players and it is played in 16 groups: Elite, Masters, Candidates, Group 1, Group 2, Group 3, Grop 4, Seniors 50+, Seniors 65+, and different Juniors and Cadet groups. Live games from all groups can be followed []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -206,7 +230,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-reaction-gifs",
-         "pubDate" : "Fri, 08 Jul 2022 11:20:36 -0700",
+         "pubDate" : "Fri, 08 Jul 2022 11:20:00 -0700",
          "title" : "Use These Chess GIFs Anywhere Online"
       },
       {
@@ -216,22 +240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/35th-leon-masters-with-anand-gelfand-esipenko-and-jaime-santos-in-the-field/",
          "pubDate" : "Fri, 08 Jul 2022 18:01:15 +0000",
          "title" : "35th Leon Masters with Anand, Gelfand, Esipenko and Jaime Santos in the field (LIVE)"
-      },
-      {
-         "description" : "IX IBCA World Team Chess Championship for the Blind and Visually Impaired took place in Ohrid, North Macedonia, from June 27 &#x2013; July 08, 2022. The event was organized by the National Sports Federation of the Blind of North Macedonia in cooperation with the Chess Federation of North Macedonia. Every team featured four players and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/poland-wins-ix-ibca-world-team-chess-championship/",
-         "pubDate" : "Fri, 08 Jul 2022 17:29:43 +0000",
-         "title" : "Poland wins IX IBCA World Team Chess Championship"
-      },
-      {
-         "description" : "16-year-old Indian grandmaster Dommaraju Gukesh continues to shine achieving his fourth consecutive triumph on the soil of Spain. After the victories at the&#160;1st Chessable Sunway Formentera Chess Festival 2022,&#160;1st Menorca Chess Open 2022,&#160;the 48th La Roda Open 2022, Gukesh today won the XIV Cerrado Ciudad de Gijo (scroll down for final rankings). Altogether with good []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-wins-his-4th-consecutive-tournament-in-spain-closing-to-2700-live-rating/",
-         "pubDate" : "Fri, 08 Jul 2022 17:01:27 +0000",
-         "title" : "Gukesh wins his 4th consecutive tournament in Spain closing to 2700 live rating"
       },
       {
          "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2208,14 +2216,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/artificial-intelligence-is-rewriting-the-game/articleshow/92311227.cms",
          "pubDate" : "Sun, 19 Jun 2022 02:43:58 +0000",
          "title" : "'Artificial Intelligence is rewriting the game'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1817",
-         "pubDate" : "Sat, 18 Jun 2022 22:46:33 +0000",
-         "title" : "2022 Candidates, Round 2: A day of missed chances"
       }
    ]
 }
