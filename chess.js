@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Surprisingly often I watch sequences of moves in games that do not remind me of anything from my previous chess memory,\" writes endgame study composer Steffen Slumstrup Nielsen. In such cases, he will rush over to his chessboard and start thinking about turning it into a study. One way to do this is to strip the position and present the main idea as economically as possible. Slumstrup Nielsen's description of the process appeared in The Macedonian Problemist.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/creating-studies-from-games-1",
+         "pubDate" : "Sun, 10 Jul 2022 12:45:00 +0100",
+         "title" : "Creating studies from games (1)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92784545.cms\" />India's teenage Grandmaster P Iniyan finished second in the La Plagne International Open Chess Tournament 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-finishes-second-in-chess-tournament-in-france/articleshow/92784545.cms",
+         "pubDate" : "Sun, 10 Jul 2022 11:12:34 +0000",
+         "title" : "Indian GM Iniyan finishes second in chess tournament in France"
+      },
+      {
+         "description" : " My third new website is chess1500.uk. There are, in general, three approaches you can take when promoting children's chess. Chess 500 is an approach designed to maximise the number of people playing chess at 500 level not much more than playing random moves. You can do this by promoting chess in primary schools, preferably <a href=\"https://chessimprover.com/chess-1500/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 1500\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-1500/\">Chess 1500</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-1500/",
+         "pubDate" : "Sun, 10 Jul 2022 10:30:51 +0000",
+         "title" : "Chess 1500"
+      },
+      {
+         "description" : "Chessdom.com will cover live daily the 2022 edition of the FTX Crypto Cup. The event starts with a qualifier on Sunday, July 10th, and includes the Candidates 2022 participants Jan Krzysztof Duda, Teimour Radjabov, and Richard Rapport, as well as Anish Giri, Leinier Dominguez Perez, Sakhriyar Mamedyarov, Levon Aronian, Wei Yi, Radoslaw Wojtaszek, Samuel Sevian, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-miami-qualifier/",
+         "pubDate" : "Sun, 10 Jul 2022 07:38:00 +0000",
+         "title" : "FTX Crypto Cup LIVE - Miami qualifier"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/EnME23UK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/...</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wgm-jennifer-yu-winner-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4_rENN_LN9o.jpg?itok=HF3yyCgc\" alt=\"\" /",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -240,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-reaction-gifs",
          "pubDate" : "Fri, 08 Jul 2022 11:20:00 -0700",
          "title" : "Use These Chess GIFs Anywhere Online"
-      },
-      {
-         "description" : "The 35th edition of the Leon Masters takes place over the weekend 8-10 July in Leon, Spain. The event gathers four world top players: GM Viswanathan Anand, GM Boris Gelfand, GM Andrey Esipenko and GM Jaime Santos and it is played as a 4-player knockout tournament. (Scroll down for live games) Players receive 20 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/35th-leon-masters-with-anand-gelfand-esipenko-and-jaime-santos-in-the-field/",
-         "pubDate" : "Fri, 08 Jul 2022 18:01:15 +0000",
-         "title" : "35th Leon Masters with Anand, Gelfand, Esipenko and Jaime Santos in the field (LIVE)"
       },
       {
          "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1690,14 +1714,6 @@ news_feed (
          "title" : "Madrid Candidates 8: Nakamura shocks Caruana"
       },
       {
-         "description" : "Hikaru Nakamura scored a crucial victory over Fabiano Caruana in round 8 of the Candidates Tournament. After getting a small edge in the middlegame, Naka slowly improved his position until getting a seemingly insurmountable advantage. Caruana tried to swindle his way to a draw, but was unable to escape in the end. Much earlier in the day, Richard Rapport had obtained a crashing victory over Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r8",
-         "pubDate" : "Mon, 27 Jun 2022 01:25:00 +0100",
-         "title" : "Candidates R8: Naka beats Caruana, Rapport strikes back"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2032,14 +2048,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-brushes-aside-firouzja-to-lead-alone-after-four-rounds-of-the-candidates",
          "pubDate" : "Tue, 21 Jun 2022 22:39:00 +0400",
          "title" : "Nepomniachtchi brushes aside Firouzja to lead alone after four rounds of the Candidates - 4"
-      },
-      {
-         "description" : " &#8220;Captured pieces can be dropped back on the board instead of moving a piece&#8221; Lichess These are the rules of Crazyhouse chess: &#8220;All the rules and conventions of standard chess apply, with the addition of drops, as explained below. A captured piece reverses color and goes to the capturing player's pocket. At any time, <a href=\"https://chessimprover.com/crazyhouse/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Crazyhouse\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/crazyhouse/\">Crazyhouse</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/crazyhouse/",
-         "pubDate" : "Tue, 21 Jun 2022 18:01:06 +0000",
-         "title" : "Crazyhouse"
       },
       {
          "description" : "In an exclusive interview with chess24, FIDE President Arkady Dvorkovich speaks about the pressure he is facing at home in Russia, the criticism of his candidacy, his election campaign, the Candidates Tournament, Sergey Karjakin and Magnus Carlsen potentially giving up his World Championship title.",
