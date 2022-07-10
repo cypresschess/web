@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/EnME23UK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/...</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wgm-jennifer-yu-winner-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4_rENN_LN9o.jpg?itok=HF3yyCgc\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wgm-jennifer-yu-winner-interview-round-3",
+         "pubDate" : "Sun, 10 Jul 2022 05:39:16 +0000",
+         "title" : "WGM Jennifer Yu Winner Interview | Round 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/EnME23UK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/...</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/confused-out-opening-won-anyway-fm-ruiyang-yan-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6u8tNFwBjZU.jpg?itok=Syxv",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/oldie-goldie",
          "pubDate" : "Sat, 09 Jul 2022 09:00:00 +0100",
          "title" : "Oldie goldie"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL\">https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-prep-ever-found-while-shower-gm-hong-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M9n_ZNq-dww.jpg?itok=hDNN_W_2\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/best-prep-ever-found-while-shower-gm-hong-round-1",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "Best Prep Ever Found While In The Shower | GM Hong | Round 1"
       },
       {
          "description" : "",
