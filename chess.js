@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/EnME23UK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/...</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/confused-out-opening-won-anyway-fm-ruiyang-yan-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6u8tNFwBjZU.jpg?itok=Syxv",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/confused-out-opening-won-anyway-fm-ruiyang-yan-round-3",
+         "pubDate" : "Sun, 10 Jul 2022 02:39:12 +0000",
+         "title" : "Confused out of the opening BUT won anyway | FM Ruiyang Yan | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/EnME23UK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/...</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/four-pawns-attack-vs-kings-indian-defense-wgm-thalia-cervantes-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o4oxW-Sb6",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/four-pawns-attack-vs-kings-indian-defense-wgm-thalia-cervantes-round-3",
+         "pubDate" : "Sun, 10 Jul 2022 02:39:12 +0000",
+         "title" : "FOUR PAWNS ATTACK vs King's Indian Defense | WGM Thalia Cervantes | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-3/XDqg37r3\">https://lichess.org/broadcast/us-junior-championship-2022/round-3/XDqg37r3</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sharp-victory-over-espinosa-gm-christopher-yoo-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NavjKEjBIlQ.jpg?itok=jV5dqTWr\" a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sharp-victory-over-espinosa-gm-christopher-yoo-round-3",
+         "pubDate" : "Sun, 10 Jul 2022 02:39:12 +0000",
+         "title" : "Sharp Victory over Espinosa! | GM Christopher Yoo | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-3/XDqg37r3\">https://lichess.org/broadcast/us-junior-championship-2022/round-3/XDqg37r3</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-beat-2600-gm-85-moves-gm-mishra-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iKWde_m61sQ.jpg?itok=np_dHqc4\" alt=\"\" /></a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-beat-2600-gm-85-moves-gm-mishra-round-3",
+         "pubDate" : "Sun, 10 Jul 2022 02:39:12 +0000",
+         "title" : "How to beat a 2600 GM in 85 moves | GM Mishra | Round 3"
+      },
+      {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Oleksandr Bortnyk won week 20 of the Rapid Chess Championship&#38;nbsp;presented by Coinbase, starting the tournament with a 5-0 winning streak. Par...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-20-swiss",
+         "pubDate" : "Sat, 09 Jul 2022 18:07:00 -0700",
+         "title" : "Bortnyk Wins Week 20 Swiss Heading Into Knockout: Summary Report"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-3/tqDg1q5m\">https://lichess.org/broadcast/us-senior-championship-2022/round-3/tqDg1q5m</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-was-winning-after-9-moves-gm-maxim-dlugy-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GILTjIvpkOY.jpg?itok=pmL_c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/i-was-winning-after-9-moves-gm-maxim-dlugy-interview-round-3",
+         "pubDate" : "Sat, 09 Jul 2022 23:38:59 +0000",
+         "title" : "I was winning after 9 moves! | GM Maxim Dlugy Interview | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-3/XDqg37r3\">https://lichess.org/broadcast/us-junior-championship-2022/round-3/XDqg37r3</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/big-victory-over-carissa-yip-gm-brandon-jacobson-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6dmq_MhdM7E.jpg?itok=ciQaDZ-A\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/big-victory-over-carissa-yip-gm-brandon-jacobson-round-3",
+         "pubDate" : "Sat, 09 Jul 2022 23:38:59 +0000",
+         "title" : "BIG VICTORY over Carissa Yip | GM Brandon Jacobson | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/EnME23UK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/...</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stunned-i-won-game-fm-rochelle-wu-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Dvv4vEkFryY.jpg?itok=JyELPbi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/stunned-i-won-game-fm-rochelle-wu-interview-round-3",
+         "pubDate" : "Sat, 09 Jul 2022 23:38:59 +0000",
+         "title" : "STUNNED I won this game | FM Rochelle Wu Interview | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/EnME23UK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-3/...</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/confused-out-opening-won-anyway-gm-ruiyang-yan-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6u8tNFwBjZU.jpg?itok=Syxv",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/confused-out-opening-won-anyway-gm-ruiyang-yan-round-3",
+         "pubDate" : "Sat, 09 Jul 2022 23:38:59 +0000",
+         "title" : "Confused out of the opening BUT won anyway | GM Ruiyang Yan | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-3/tqDg1q5m\">https://lichess.org/broadcast/us-senior-championship-2022/round-3/tqDg1q5m</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kaidanov-almost-unbeatable-gm-joel-benjamin-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AdLitsq5eKM.jpg?itok=McY0",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kaidanov-almost-unbeatable-gm-joel-benjamin-interview-round-3",
+         "pubDate" : "Sat, 09 Jul 2022 23:38:59 +0000",
+         "title" : "Kaidanov is almost UNBEATABLE! | GM Joel Benjamin Interview | Round 3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,78 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/best-prep-ever-found-while-shower-gm-hong-round-1",
          "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
          "title" : "Best Prep Ever Found While In The Shower | GM Hong | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/50j0XMTM\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/...</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/i-trained-teaching-chess-summer-camps-wgm-cervantes-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BUgy2rPWeQM.jpg?itok",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/i-trained-teaching-chess-summer-camps-wgm-cervantes-round-1",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "I trained by teaching chess summer camps | WGM Cervantes | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/50j0XMTM\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-1/...</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/she-wasnt-expecting-opening-wim-ellen-wang-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tpqDH4szWW8.jpg?itok=Igp3KKbe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/she-wasnt-expecting-opening-wim-ellen-wang-round-1",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "She wasn't expecting THIS opening! | WIM Ellen Wang | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL\">https://lichess.org/broadcast/us-junior-championship-2022/round-1/sGsjZQjL</a> 2022.07.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/it-feels-good-win-position-where-i-had-no-chances-im-daggupati-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JyYQIh3-rkU.jpg?",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/it-feels-good-win-position-where-i-had-no-chances-im-daggupati-round-1",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "It feels good to win a position where I had no chances | IM Daggupati | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.08<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-2",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-2/FhnhHU1y\">https://lichess.org/broadcast/us-senior-championship-2022/round-2/FhnhHU1y</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/searching-interesting-play-double-pawns-gm-de-firmian-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ycYjO9-WPhg.jpg?itok=yzGM",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/searching-interesting-play-double-pawns-gm-de-firmian-round-2",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "Searching for interesting play with double pawns | GM De Firmian | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/rYauETJP\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/...</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/taking-lead-wfm-sophie-morris-suzuki-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EIDodlc940c.jpg?itok=bjgKVtXq\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/taking-lead-wfm-sophie-morris-suzuki-round-2",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "Taking the lead! | WFM Sophie Morris-Suzuki | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-2/IhmVgBMT\">https://lichess.org/broadcast/us-junior-championship-2022/round-2/IhmVgBMT</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shocked-11th-move-gm-brodsky-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uHQCkidsVAQ.jpg?itok=p9J7CbFy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shocked-11th-move-gm-brodsky-round-2",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "Shocked on the 11th move! | GM Brodsky | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/rYauETJP\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-2/...</a> 2022.07.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/casually-sacrificing-pawns-c4-wfm-anne-marie-velea-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pxL4NKhe1xk.jpg?itok=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/casually-sacrificing-pawns-c4-wfm-anne-marie-velea-round-2",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "Casually sacrificing pawns on c4 | WFM Anne-Marie Velea | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.09<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-3-lichessorg",
-         "pubDate" : "Sat, 09 Jul 2022 05:38:29 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 3 | lichess.org"
       },
       {
          "description" : "",
@@ -1842,14 +1850,6 @@ news_feed (
          "title" : "Canty Conquers Trash-Talking Trent"
       },
       {
-         "description" : "The second seed, GM Kateryna Lagno, defeated WGM Vantika Agrawal in the third round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. While many of the games were closely fought, Lagno managed to gain a substantial...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-lagno-agrawal",
-         "pubDate" : "Fri, 24 Jun 2022 16:13:00 -0700",
-         "title" : "Close Games, Overwhelming Lead: Lagno Outscores Agrawal"
-      },
-      {
          "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony will be held on Friday, August 5, in Rancho Mirage, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2208,14 +2208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/stalemate-tricks-to-know.html",
          "pubDate" : "Sun, 19 Jun 2022 13:14:00 +0000",
          "title" : "Stalemate tricks to know"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92311227.cms\" />Viswanathan Anand joined sports minister Anurag Thakur during an interaction with TOI in the Capital on Saturday. The two Guest Sports Editors talked about the way ahead for chess, plans to popularise the sport at the grassroots level and stage more international tournaments to give aspiring youngsters exposure to top-quality chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/artificial-intelligence-is-rewriting-the-game/articleshow/92311227.cms",
-         "pubDate" : "Sun, 19 Jun 2022 02:43:58 +0000",
-         "title" : "'Artificial Intelligence is rewriting the game'"
       }
    ]
 }
