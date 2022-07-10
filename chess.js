@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 African National Youth Chess Championships took place from 3-9 July at the Mika Convention Centre Lusaka, Zambia. The event was played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The Winners after 9 played rounds (swiss system) are: U8 Abdallah Omar Mahmoud (EGY)GU8 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/africa-crowns-national-youth-chess-champions/",
+         "pubDate" : "Sun, 10 Jul 2022 15:08:01 +0000",
+         "title" : "Africa crowns National Youth Chess Champions"
+      },
+      {
+         "description" : "At the end of 1997, the first FIDE World Knockout Championship took place in Groningen. Vishy Anand won the final against Michael Adams. Strictly speaking, however, it was not a World Championship, but only a preliminary stage, because the winner had to play the defending champion Anatoli Karpov in a final in Lausanne directly after the tournament. In the \"Special\" of ChessBase Magazine #208 our authors (among others Martin Breutigam, Romain Edouard and Jan Markos) comment on their favourite game from Groningen. Imre Hera's analysis of the Beliafsky-Short encounter can be seen here. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-special-of-cbm-208-the-fide-world-championship-25-years-ago",
+         "pubDate" : "Sun, 10 Jul 2022 16:00:00 +0100",
+         "title" : "The \"Special\" of CBM #208: The FIDE World Championship 25 years ago"
+      },
+      {
+         "description" : "White may have the first move, but it&#x2019;ll be you who starts off the fun with this attacking opening repertoire for Black. Pro chess coach and&#160;FIDE Master Midas Ratsma&#160;is back to finish his&#160;complete&#160;opening repertoire for club players. After delivering a punchy, practical, and popular&#160;repertoire for White (find it in the courses here), he&#x2019;s struck gold []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-midas-ratsma-attacking-repertoire-for-club-players-for-black/",
+         "pubDate" : "Sun, 10 Jul 2022 14:47:09 +0000",
+         "title" : "FM Midas Ratsma - Attacking Repertoire for Club Players for Black"
+      },
+      {
+         "description" : "The 20th edition of the Sautron International Chess Open 2022 took place from 3-10 July at the Espace Phelippes Beaulieux. The event attracted nearly 100 entries who fought for the throne of the two sections: A and B. The tournaments were played in 9 swiss rounds, with time control: 90 minutes for 40 moves, plus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-maxime-lagarde-triumphs-at-the-20th-sautron-chess-open/",
+         "pubDate" : "Sun, 10 Jul 2022 14:15:50 +0000",
+         "title" : "GM Maxime Lagarde triumphs at the 20th Sautron Chess Open"
+      },
+      {
+         "description" : " The New Zealand Chess Federation has announced the opening of a new chess centre in Auckland. The Howick Chess Centre (in Howick!) is a joint effort by Paul Spiller and the NZCF, providing both a venue for regular chess activities, and as a NZCF Office for the storage of historical items, and as a shop for NZCF items. Recognising the economic reality of such a venture, the Centre will be running until at least July 2023, at which time a review in its operation will take place. A worthy initiative by Paul Spiller and the NZCF, and one I am sure many other chess federations would like to emulate. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/howick-chess-centre.html",
+         "pubDate" : "Sun, 10 Jul 2022 13:40:00 +0000",
+         "title" : "Howick Chess Centre"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 starts in less than three weeks in Chennai, India and Chennai finalizes preparations to host 349 teams from 187 countries. Mr. Prasad Ramasubramanian, Assistant Editor with the Times of India (TOI) published a photo of Chennai's iconic bridge decked up in chess colours (see below). Read more: 44th Chess Olympiad []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chennai-decked-up-with-chess-colours-tweetoftheday/",
+         "pubDate" : "Sun, 10 Jul 2022 13:15:12 +0000",
+         "title" : "Chennai is decked up with chess colours #TweetOftheDay"
+      },
+      {
+         "description" : "The 5th edition of the International Chess Tournament &#8220;Solta Chess Open 2022&#8221; took place from 2-10 July in Grohote, &#x160;olta. The event was played in 9 rounds, swiss system, with time control: 90 minutes + 30 seconds of increment. Nearly 100 participants from 24 countries fought for the total prize fund of 10.000 euros. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-ante-brkic-convincingly-wins-solta-chess-open-2022/",
+         "pubDate" : "Sun, 10 Jul 2022 12:58:26 +0000",
+         "title" : "GM Ante Brkic convincingly wins Solta Chess Open 2022"
+      },
+      {
          "description" : "\"Surprisingly often I watch sequences of moves in games that do not remind me of anything from my previous chess memory,\" writes endgame study composer Steffen Slumstrup Nielsen. In such cases, he will rush over to his chessboard and start thinking about turning it into a study. One way to do this is to strip the position and present the main idea as economically as possible. Slumstrup Nielsen's description of the process appeared in The Macedonian Problemist.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,14 +226,6 @@ news_feed (
          "title" : "Le&oacute;n: Anand knocks out Santos, loses miniature"
       },
       {
-         "description" : "The Arsen Yeghiazaryan Memorial&#160;took place from 1-9 July in Yerevan, Armenia as a 10-player round-robin tournament, dedicated to the memory of GM, FST and Honored Trainer of the Republic of Armenia Arsen Yeghiazaryan. The event took place at the Tigran Petrosyan Chess House. GM Hovik Hayrapetyan won the event with convincing 7/9 points. After losing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-hovik-hayrapetyan-wins-arsen-yeghiazaryan-memorial-2022/",
-         "pubDate" : "Sat, 09 Jul 2022 13:54:29 +0000",
-         "title" : "GM Hovik Hayrapetyan wins Arsen Yeghiazaryan Memorial 2022"
-      },
-      {
          "description" : "Finally, MPL 32nd National Under 17 OPEN &#38; GIRLS Chess Championship 2022 concluded with Valedictory ceremony-cum-Prize Distribution, at 04:30 P.M. on 09 July 2022 at International Chess Hall,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -186,36 +234,12 @@ news_feed (
          "title" : "MPL 32nd National Under 17 OPEN & GIRLS Chess Championships 2022:Report"
       },
       {
-         "description" : "Simultaneously with the 20th Sautron International Chess Open which takes place from 3-10 July at the Espace Phelippes Beaulieux, the Sautron Chess Club set the largest chess piece in the world. With the size exceeding 6.30 meters in height, a diameter of 3 meters and weighing 3.8 tons, the wooden chess King was installed by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-largest-chess-piece-in-the-world-set-in-sautron-france-tweetoftheday/",
-         "pubDate" : "Sat, 09 Jul 2022 12:22:45 +0000",
-         "title" : "The largest chess piece in the world set in Sautron, France #TweetOftheDay"
-      },
-      {
          "description" : "In pre-pandemic times, which now seems almost to be in the Cretaceous Period, I speculated in the British Chess Magazine on the impact of two of those outstanding personalities in the universe of chess who made their mark by teaching, as much as by playing. This week I expand my thoughts on those two chess []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/praeceptor-britanniae/",
          "pubDate" : "Sat, 09 Jul 2022 12:05:34 +0000",
          "title" : "Praeceptor Britanniae"
-      },
-      {
-         "description" : "The 55th edition of the Biel International Chess Festival opens tomorrow and will take place from 10-24 July in Biel, Switzerland, featuring more than 15 events. This year's Biel Chess Festival will be dedicated to the memory of Peter Burri &#8220;PeBu&#8221; who was involved in the festival in various functions. The activities of the Biel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/55th-biel-international-chess-festival-2022-opens-tomorrow/",
-         "pubDate" : "Sat, 09 Jul 2022 11:57:24 +0000",
-         "title" : "55th Biel International Chess Festival 2022 opens tomorrow"
-      },
-      {
-         "description" : "The 8th International Francophone Chess Meetings took place from 1-9 July in Casablanca, Morocco. 125 players competed in the classical tournament, coming from 22 countries. After 9 played rounds (swiss system) as many as five players tied for the first place. IM Loic Travadon had the best tiebreak criteria to top the final crosstable, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-8th-ridef-chess-championship-concluded-in-casablanca/",
-         "pubDate" : "Sat, 09 Jul 2022 10:51:46 +0000",
-         "title" : "The 8th RIDEF Chess Championship concluded in Casablanca"
       },
       {
          "description" : " <p class=\"lead\">Almost a week after the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a>, the World Champion Magnus Carlsen hasn't decided if he'll defend his title against the second-time Challenger Ian Nepomniachtchi. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-09-12.24.00.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> The 2023 World Chess Championship conversation has intensely started when Carlsen stated that he will not defend his title but against the 19-year-old chess prodigy Alireza Firouzja. The French GM underperformed at the Candidates, finishing ",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-miami-2022-preview",
          "pubDate" : "Fri, 08 Jul 2022 22:00:00 +0100",
          "title" : "Starting Sunday: FTX Road to Miami online tournament"
-      },
-      {
-         "description" : "The 45th edition of the Ikaros International Chess Tournament takes place from 9-17 July at the Greek island in the Aegean Sea Ikaria. The event attracted more than 100 entries from 13 countries and will be played in 9 rounds, swiss system, with time control: 90 minutes for the whole game plus 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/45th-ikaros-international-chess-tournament-2022/",
-         "pubDate" : "Fri, 08 Jul 2022 18:40:59 +0000",
-         "title" : "45th Ikaros International Chess Tournament 2022"
       },
       {
          "description" : "GM Tan Zhongyi defeated IM Polina Shuvalova&#38;nbsp;in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. Tan&#39;s solid play, board awareness, and speed proved to be too impervious even for Shuvalova&#39;s excell...",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Vojtech Plat wins the PlusCity Rapid Open in Upper Austria"
       },
       {
-         "description" : "Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining the title at aged 21 and defending it multiple times until her untimely death. The European Chess Federation is staging a high-level ladies norm tournament that will end on the 78th anniversary of Menchik's death, when she was struck down by a German V1 rocket in Clapham. The event takes place in th MindSports Centre, Dalling Rd, London W6 0JD, from Saturday 18th to Sunday 26th June 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-caplin-menchik-memorial",
-         "pubDate" : "Mon, 27 Jun 2022 12:26:04 +0100",
-         "title" : "The Caplin Menchik Memorial"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Ra0UvQjM60c?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2200,22 +2208,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/all-four-games-drawn-in-round-3-of-the-fide-candidates",
          "pubDate" : "Sun, 19 Jun 2022 20:18:00 +0400",
          "title" : "All four games drawn in Round 3 of the FIDE Candidates - 3"
-      },
-      {
-         "description" : "Prime Minister Narendra Modi on Sunday flagged off the first-ever torch relay for the Chess Olympiad ahead of the 44th edition of the event, which is to be held in Mahabalipuram from July 28 to August 10. The international chess body, FIDE, for the very first time has instituted the torch relay, which is part of the Olympic tradition, but was never done in the Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/torch-relay-an-honour-for-the-glorious-heritage-of-chess-pm-narendra-modi/articleshow/92319698.cms",
-         "pubDate" : "Sun, 19 Jun 2022 13:25:34 +0000",
-         "title" : "PM Narendra Modi flags off first-ever torch relay for Chess Olympiad"
-      },
-      {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UWTAJ_9GEvp6E3CTd2oKAptXS2Z6ptirrXNsdfS3WkgQKXvFyHPP1yNS4H73ywUQZ7QJlmPAS-jj1OF1FEbkxQ__RG2v5aa57VIWWTgcQQIleNQ6hfxLrl3G-IMeYj24Ss3JbuhKcDu7Xb66ZIlxwbpCwbMalsDM_itNbcj6lgQd6xqj0Wt0Pmey/s681/actsch.png\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"679\" data-original-width=\"681\" height=\"199\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-UWTAJ_9GEvp6E3CTd2oKAptXS2Z6ptirrXNsdfS3WkgQKXvFyHPP1yNS4H73ywUQZ7QJlmPAS-jj1OF1FEbkxQ__RG2v5aa57VIWWTgcQQIleNQ6hfxLrl3G-IMeYj24Ss3JbuhKcDu7X",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/stalemate-tricks-to-know.html",
-         "pubDate" : "Sun, 19 Jun 2022 13:14:00 +0000",
-         "title" : "Stalemate tricks to know"
       }
    ]
 }
