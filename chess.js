@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com&#39;s newest event, BlitzChamps, the most ambitious crossover of 2022, commenced on Saturday, pitting six NFL all-stars against each other over the chess board in a bid for $100,000 for their favorite charity. Split into two groups of thre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-blitzchamps-group-stage",
+         "pubDate" : "Sun, 10 Jul 2022 11:09:18 -0700",
+         "title" : "Amari Cooper Triumphs 2022 BlitzChamps Group Stage"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92788924.cms\" />All eyes will be on Team USA, the top seeds in the open section, as the 44th chess Olympiad kicks off in Chennai from July 28. The team comprising --- Levon Aronian, Fabiano Caruana, Wesley So, Leinier Dominguez and Sam Shankland --- have an average rating of 2771 which is a whopping 66 points higher than the second seeded Azerbaijan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/favourites-tag-doesnt-mean-much-in-chess-olympiad-wesley-so/articleshow/92788924.cms",
+         "pubDate" : "Sun, 10 Jul 2022 17:40:17 +0000",
+         "title" : "Favourites' tag doesn't mean much in chess Olympiad: Wesley So"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.09<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-3",
+         "pubDate" : "Sun, 10 Jul 2022 17:39:25 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 3"
+      },
+      {
+         "description" : " Trinidad &#38; Tobago hosted an exciting international invitational won by Dutch Grandmaster Robby Kevlishvili, who suffered one loss in nine rounds. The island nation has had a history of hosting international tournaments to give local players a chance to raise their level of play and to earn FIDE titles. Trinidad &#38; Tobago Chess Federation President The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/10/2022-trinidad-tobago-international/\">2022 Trinidad &#038; Tobago International</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/10/2022-trinidad-tobago-international/",
+         "pubDate" : "Sun, 10 Jul 2022 17:27:18 +0000",
+         "title" : "2022 Trinidad & Tobago International"
+      },
+      {
+         "description" : " The Bundesliga 2021-22 season took place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season lasted only four months. There were 16 teams and Baden Baden won the title again winning all their matches. The had to defeat SC Viernheim in Round 14 who were at that stage leading on board count and had also won all their matches up to that point. Viernheim drew their final match too and were clear second.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
+         "pubDate" : "Sun, 10 Jul 2022 21:18:00 +0400",
+         "title" : "Bundesliga 2021-22 - "
+      },
+      {
+         "description" : "The 56th edition of the Ilmar Raud Memorial Chess Tournament took place 3-10 July at the&#160;Viljandi Sports Center&#160;in Viljandi, a town in southern Estonia. This year, the event included qualifications for Estonian Men&#x2019;s and Women&#x2019;s Individual Chess Championships, Estonian Junior Chess Championships, and Estonian Seniors Chess Championships. Based on the final results, Estonian best female []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/56th-ilmar-raud-memorial-concluded-in-viljandi-estonia/",
+         "pubDate" : "Sun, 10 Jul 2022 17:10:56 +0000",
+         "title" : "56th Ilmar Raud Memorial concluded in Viljandi, Estonia"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Sun, 10 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "In the last 6 months won: Washington chess congress, Northern Virginia open, Charm city open, Virginia open and took second at Cherry blossom. Adding 110 rating points and cashing in $4915, his achievement made his coach Miodrag Perunovic &#8220;the Butcher&#8221; proud. International master&#xA0;Miodrag Perunovic, popular chess YouTube streamer and chessable author, will be the captain []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/david-siamon-impresses-in-us-opens/",
+         "pubDate" : "Sun, 10 Jul 2022 15:54:22 +0000",
+         "title" : "David Siamon impresses in US opens"
+      },
+      {
+         "description" : "The first time a woman participated in a Chess Olympiad was in 1950? Chantal Chaud&#xE9; de Silans played in the 9th Chess Olympiad, becoming the first woman ever to take part in this competition. She was a French chess player born in 1919 and learned to play the game at the age of nine. Chantal []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chantal-chaude-de-silans-the-first-woman-to-play-in-a-chess-olympiad/",
+         "pubDate" : "Sun, 10 Jul 2022 15:42:47 +0000",
+         "title" : "Chantal Chaud&eacute; de Silans - the first woman to play in a Chess Olympiad"
+      },
+      {
          "description" : "The 2022 African National Youth Chess Championships took place from 3-9 July at the Mika Convention Centre Lusaka, Zambia. The event was played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The Winners after 9 played rounds (swiss system) are: U8 Abdallah Omar Mahmoud (EGY)GU8 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -24,6 +96,22 @@ news_feed (
          "link" : "https://www.chessdom.com/fm-midas-ratsma-attacking-repertoire-for-club-players-for-black/",
          "pubDate" : "Sun, 10 Jul 2022 14:47:09 +0000",
          "title" : "FM Midas Ratsma - Attacking Repertoire for Club Players for Black"
+      },
+      {
+         "description" : " The FTX Road to Miami tournament is part of the Champions Chess Tour and takes place online on Chess24 Sun 10th Jul 2022 - Sun 17th Jul 2022. The title refers to this being the final qualification event for the FTX Crypto Cup which will take place in Miami August 15th to 21st and is one of the tours Majors with a very large prize fund. Carlsen has already qualified for Miami and so isn't playing in this event. Players are: Levon Aronian, Richard Rapport, Anish Giri, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Jan-Krzysztof Duda, Teimour Radjabov, Wei Yi,Sam Shankland, Radoslaw Wojtaszek, Jeffery Xiong, Arjun Erigaisi, Hans Moke Niemann, Samuel Sevian, Aryan Tari and Wenjun Ju.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-road-to-miami-2022",
+         "pubDate" : "Sun, 10 Jul 2022 18:32:00 +0400",
+         "title" : "FTX Road to Miami 2022 - Games and Results"
+      },
+      {
+         "description" : "The second semifinal of the Leon Masters between Boris Gelfand and Andrey Esipenko was a thrilling affair. After a disastrous start with White, Gelfand won an excellent second game, which was followed by two draws. In the tiebreaks, the contenders traded wins before Gelfand won the Armageddon by out-blitzing his young opponent. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-masters-2022-sf2",
+         "pubDate" : "Sun, 10 Jul 2022 15:30:00 +0100",
+         "title" : "Le&oacute;n: Gelfand quicker than Esipenko"
       },
       {
          "description" : "The 20th edition of the Sautron International Chess Open 2022 took place from 3-10 July at the Espace Phelippes Beaulieux. The event attracted nearly 100 entries who fought for the throne of the two sections: A and B. The tournaments were played in 9 swiss rounds, with time control: 90 minutes for 40 moves, plus []",
@@ -170,14 +258,6 @@ news_feed (
          "title" : "Confused out of the opening BUT won anyway | GM Ruiyang Yan | Round 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-3/tqDg1q5m\">https://lichess.org/broadcast/us-senior-championship-2022/round-3/tqDg1q5m</a> 2022.07.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kaidanov-almost-unbeatable-gm-joel-benjamin-interview-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AdLitsq5eKM.jpg?itok=McY0",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kaidanov-almost-unbeatable-gm-joel-benjamin-interview-round-3",
-         "pubDate" : "Sat, 09 Jul 2022 23:38:59 +0000",
-         "title" : "Kaidanov is almost UNBEATABLE! | GM Joel Benjamin Interview | Round 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -192,30 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/15th-annual-chicago-class-2022/",
          "pubDate" : "Sat, 09 Jul 2022 20:53:23 +0000",
          "title" : "15th annual Chicago Class 2022"
-      },
-      {
-         "description" : "The Ceske Budejovice Chess Festival 2022 took place from 1-9 July in Ceske Budejovice, Czech Republic. The Festival featured closed GM and IM events, as well as the Open tournament which was played in two categories: A and B. &#160;17-year-old Austrian FIDE master Marc Morgunov won the closed GM event with outstanding performance in a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ceske-budejovice-chess-festival-2022-concluded/",
-         "pubDate" : "Sat, 09 Jul 2022 20:26:23 +0000",
-         "title" : "Ceske Budejovice Chess Festival 2022 concluded"
-      },
-      {
-         "description" : "The 2022 Norwegian Chess Championships&#160;take place from 8-14 July 2022 in Kongsvinger, Norway. The event gathers around 300 players and it is played in 16 groups: Elite, Masters, Candidates, Group 1, Group 2, Group 3, Grop 4, Seniors 50+, Seniors 65+, and different Juniors and Cadet groups. Live games from all groups can be followed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norwegian-chess-championships-2022-live/",
-         "pubDate" : "Sat, 09 Jul 2022 18:44:44 +0000",
-         "title" : "Norwegian Chess Championships 2022 LIVE"
-      },
-      {
-         "description" : "The 2022 Norwegian Chess Championships take place from 8-14 July 2022 in Kongsvinger, Norway. The event gathers around 300 players and it is played in 16 groups: Elite, Masters, Candidates, Group 1, Group 2, Group 3, Grop 4, Seniors 50+, Seniors 65+, and different Juniors and Cadet groups. The main Elite event gathers some of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norwegian-chess-championships-2022/",
-         "pubDate" : "Sat, 09 Jul 2022 18:35:27 +0000",
-         "title" : "Norwegian Chess Championships 2022"
       },
       {
          "description" : "Vishy Anand won the last game of the semifinal to knock out Jaime Santos. Anand will face the winner of the semifinal between Boris Gelfand, another living legend who has already won the Magistral twice, and the young Russian GM Andrey Esipenko in Sunday's final. | Photos: Official site",
@@ -432,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-quick-losses-with-white",
          "pubDate" : "Thu, 07 Jul 2022 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Quick losses with White"
-      },
-      {
-         "description" : " The Bundesliga 2021-22 season takes place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season will take just four months to complete. There are 16 teams and Baden Baden will again be favourites to win the title. The final rounds 11-15 take place 7th to 10th July.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
-         "pubDate" : "Thu, 7 Jul 2022 21:18:00 +0400",
-         "title" : "Bundesliga 2021-22 - "
       },
       {
          "description" : "",
@@ -1666,14 +1714,6 @@ news_feed (
          "title" : "Yes, Caruana - Nepo Game Ends in a Draw"
       },
       {
-         "description" : "These video courses feature a black repertoire against 1.d4, 1.Nf3 and 1.c4. The recommended variations are easy to learn and not difficult to remember, but also pose White serious challenges.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-a-complete-black-repertoire-against-1-d4-1-nf3-1-c4",
-         "pubDate" : "Mon, 27 Jun 2022 17:10:23 +0100",
-         "title" : "New: A Complete Black Repertoire against 1.d4 & 1.Nf3 & 1.c4"
-      },
-      {
          "description" : " Fabiano Caruana got a chance to put Ian Nepomniachtchi under pressure and even catch him after managing to surprise his opponent in the Petroff. Nepomniachtchi was certain he had something against Caruana's idea but didn't remember what it was. Nepomniachtchi fell about 50 minutes behind on the clock but it was here Caruana began to slow down and then made a mistake. You have to think the very long games Caruana has been playing and yesterday's disappointment couldn't have helped but he needed to find 24.Bf1! after 24.Bxf5? he almost certainly missed 27...Nd3 ahead of times and after this it was Caruana who had to be careful as he got into time pressure, but the players repeated at move 40.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1696,14 +1736,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/bad-luck-or-bad-prep.html",
          "pubDate" : "Mon, 27 Jun 2022 13:28:00 +0000",
          "title" : "Bad luck or bad prep?"
-      },
-      {
-         "description" : "The PlusCity Rapid Open took place in the Austrian municipality of Pasching with a prize fund of 15,000 euros. Czech grandmaster Vojtech Plat won with a 7&frac12;/9 score. Plat had the same score as his grandmaster colleagues Anton Demchenko, Milos Jirovsky, Daniel Fridman and Andreas Heimann, but took home the first prize thanks to his tiebreak score. | Photos: Peter Kranzl",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pluscity-rapid-open-in-austria",
-         "pubDate" : "Mon, 27 Jun 2022 13:00:00 +0100",
-         "title" : "Vojtech Plat wins the PlusCity Rapid Open in Upper Austria"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Ra0UvQjM60c?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1864,14 +1896,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/24/nepomniachtchi-leading-candidates-2022-after-six/",
          "pubDate" : "Sat, 25 Jun 2022 03:55:34 +0000",
          "title" : "Nepomniachtchi leading Candidates 2022 after six"
-      },
-      {
-         "description" : "FM James Canty III conquered IM Lawrence Trent in the semifinals of the 2022 IM Not A GM Speed Chess Championship presented by Landover.io on Friday. It was a clash of two giants of competitive spirit over the board and beyond where Canty&#39;s tactic...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-semifinal-canty-trent",
-         "pubDate" : "Fri, 24 Jun 2022 19:39:00 -0700",
-         "title" : "Canty Conquers Trash-Talking Trent"
       },
       {
          "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony will be held on Friday, August 5, in Rancho Mirage, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2192,22 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1819",
          "pubDate" : "Sun, 19 Jun 2022 22:11:03 +0000",
          "title" : "2022 Candidates, Round 3: The calm before the storm"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92322229.cms\" />Top-seeded Russian Grandmaster Savchenko Boris, playing under the FIDE banner, started his campaign at the 13th Chennai Open international Grandmaster tournament here on Sunday with an easy win over Thapa Ganesh Bahadur. Boris arrived into the tournament in good form having won the GITAM University GM chess tournament in Visakhapatnam on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/russias-savchenko-starts-chennai-event-with-easy-win/articleshow/92322229.cms",
-         "pubDate" : "Sun, 19 Jun 2022 17:03:58 +0000",
-         "title" : "Russia's Savchenko starts Chennai event with easy win"
-      },
-      {
-         "description" : " The third round of the FIDE Candidates in Madrid saw it's first day without a result. The intensity so far has been tremendous but today's round was shorter and of slightly less interest than the first two. The first rest day is on Monday. Ding Liren had the best chance to win, he had Richard Rapport on the ropes after winning the opening battle. 17...Rfd8 was still following known theory but 18.Bg5N seems to come close to refuting it, 20...Be5?! (20...Bf6) was another inaccuracy, and 21...Kg7? should have lost, firstly through the computer line 23.Qxd8! but more realistically 27.Qe2! should have brought the full point home. After that Rapport held the draw reasonably easily. Alireza Firouz",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/all-four-games-drawn-in-round-3-of-the-fide-candidates",
-         "pubDate" : "Sun, 19 Jun 2022 20:18:00 +0400",
-         "title" : "All four games drawn in Round 3 of the FIDE Candidates - 3"
       }
    ]
 }
