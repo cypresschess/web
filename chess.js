@@ -10,6 +10,38 @@ news_feed (
          "title" : "Fischer vs Spassky - 50 years ago"
       },
       {
+         "description" : "Day 1 of the FTX Road to Miami online tournament saw Jeffery Xiong grabbing the sole lead after collecting three wins and a loss. The 21-year-old has a 1-point lead over four players sharing second place on 8/12 points. Some of the rating favourites, like Levon Aronian, Anish Giri and Teimour Radjabov, currently stand on the bottom half of the tournament table. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d1",
+         "pubDate" : "Mon, 11 Jul 2022 14:50:00 +0100",
+         "title" : "FTX Road to Miami: Xiong wins three in a row"
+      },
+      {
+         "description" : "Chess.com&#39;s BlitzChamps came to a close on Sunday when Cincinnati Bengals cornerback Chidobe Awuzie was crowned the inaugural winner of the event that looked to discover the best chess player in the NFL. The final saw longtime locker room chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-blitzchamps-awuzie-wins",
+         "pubDate" : "Mon, 11 Jul 2022 06:27:00 -0700",
+         "title" : "Chidobe Awuzie Takes Revenge On Amari Cooper, Wins BlitzChamps 2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE Presidential candidates <strong>Arkady Dvorkovich</strong> and <strong>Bachar Kouatly</strong> were <a href=\"https://www.facebook.com/forzeti/posts/pfbid027ARTNkEwGj5Rn8h9oWTFJYjjZsTCV7WAtoYue7A6CjBgH6GZe2MYWxPG9B2wZj6sl\">received in Koningsvinger near Oslo</a> at a meeting of the <strong>Nordic Chess Federations</strong> while <strong>Andrii Baryshpolets</strong> and <strong>Peter Heine Nielsen</strong> connected online to present their programmes and answer questions, whereas <strong>Inalbek Sheripov</strong> didn't participate. Nielsen followed up with <a href=\"https://medium.com/@peterheineisland/fide-should-be-apolitical-and-global-df8be83",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nordic-federations-quiz-candidates/",
+         "pubDate" : "Mon, 11 Jul 2022 14:07:15 +0100",
+         "title" : "Nordic federations quiz candidates"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>OSG Baden-Baden</strong> has won Germany's <strong>Schachbundesliga</strong> for the 15th time in 16 seasons after beating rival <strong>SC Viernheim</strong> 5:3 in the penultimate round, adding Caruana, Rapport and Vachier-Lagrave for a few games each. The <a href=\"https://chess24.com/en/watch/live-tournaments/schachbundesliga-2021-2022/15/5/1\">last five rounds</a> were centrally played at the <strong>Werder Bremen</strong> football stadion, sponsored by <strong>Grenke AG</strong> who is also behind Baden-Baden. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/close-win-for-baden-baden/",
+         "pubDate" : "Mon, 11 Jul 2022 14:00:59 +0100",
+         "title" : "Close win for Baden-Baden"
+      },
+      {
          "description" : "The 127th edition of the Scottish Chess Championship&#160;took place from 2-10 July 2022 at the Edinburgh Chess Club in Edinburgh.&#160;FM Murad Abdulla won the event clinching his third Scotland National Chess Champion title. FM Murad Abdulla and FM Keith Ruxton tied for the first place after 9 played rounds scoring 6.5 points, each. Abdulla had []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/56th-ilmar-raud-memorial-concluded-in-viljandi-estonia/",
          "pubDate" : "Sun, 10 Jul 2022 17:10:56 +0000",
          "title" : "56th Ilmar Raud Memorial concluded in Viljandi, Estonia"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Sun, 10 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
       },
       {
          "description" : "In the last 6 months won: Washington chess congress, Northern Virginia open, Charm city open, Virginia open and took second at Cherry blossom. Adding 110 rating points and cashing in $4915, his achievement made his coach Miodrag Perunovic &#8220;the Butcher&#8221; proud. International master&#160;Miodrag Perunovic, popular chess YouTube streamer and chessable author, will be the captain []",
@@ -1754,14 +1778,6 @@ news_feed (
          "title" : "More adventures in school arbiting"
       },
       {
-         "description" : "Throughout chess history, there have always been great players who we admire and look up to. But every now and then, we get to witness true chess legends&#38;mdash;those who push the game to new heights. And now, for the first time, anyone in the worl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-championship-legends",
-         "pubDate" : "Tue, 28 Jun 2022 06:00:00 -0700",
-         "title" : "Play Against Legends In The Chess.com Global Championship"
-      },
-      {
          "description" : "MPL 10th National School Open and Girls (U-07) Chess Championships-2022 Certificates are out to download. Download using the links given below : Open : https://aicf.online/National-School-U(7)-Open.html Girls",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1912,22 +1928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-nitin-remains-on-top/articleshow/92455588.cms",
          "pubDate" : "Sat, 25 Jun 2022 10:36:35 +0000",
          "title" : "Chennai Open Chess: Nitin remains on top"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Inactive leadership and intransparency in the <strong>Austrian Chess Federation</strong> have led to an extraordinary general assembly which decided to elect a new president and board on 14 October. <strong>Christof Tschohl</strong> announced that he won't run again. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/austrian-federation-to-vote-on-14/",
-         "pubDate" : "Sat, 25 Jun 2022 11:09:54 +0100",
-         "title" : "Austrian Federation to vote on 14 October"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> On 2 July, the last rest day of the <strong>Candidates Tournament</strong>, <strong>FIDE</strong> <a href=\"https://candidates.fide.com/tpost/p2a2zsno81-fide-madrid-candidates-chess-conference\">holds a hybrid conference</a> online and at the Palacio de Santoña, on its social chess initiatives with keynotes by <strong>Franck Droin</strong> and <strong>Geir Nesheim</strong>. <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd7QlJM7-6WPS3IyjaRgFFtxXZ9PIHPlozhf50FEI5XYZFDhw/viewform\">Registration is free</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/social-chess-initiatives-conference/",
-         "pubDate" : "Sat, 25 Jun 2022 10:54:07 +0100",
-         "title" : "Social chess initiatives conference"
       },
       {
          "description" : "",
