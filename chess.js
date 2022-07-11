@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Half a century ago, exactly on this day, the most famous chess match in history began: Boris Spassky vs Bobby Fischer in Reykjavik, Iceland. Five year ago we celebrated the event by reporting on it, game for game, as if it was all taking place live. Today we bring you links to all the reports we published at the time, starting with our full report on the drama that surrounded game one. It contains original film footage which nobody should miss.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fischer-vs-spassky-50-years-ago",
+         "pubDate" : "Mon, 11 Jul 2022 15:00:00 +0100",
+         "title" : "Fischer vs Spassky - 50 years ago"
+      },
+      {
+         "description" : "The 127th edition of the Scottish Chess Championship&#160;took place from 2-10 July 2022 at the Edinburgh Chess Club in Edinburgh.&#160;FM Murad Abdulla won the event clinching his third Scotland National Chess Champion title. FM Murad Abdulla and FM Keith Ruxton tied for the first place after 9 played rounds scoring 6.5 points, each. Abdulla had []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-murad-abdulla-wins-his-third-scottish-chess-champion-title/",
+         "pubDate" : "Mon, 11 Jul 2022 12:52:29 +0000",
+         "title" : "FM Murad Abdulla wins his third Scottish Chess Champion title"
+      },
+      {
+         "description" : "28th 4NCL Congress Open&#xA0;took place from 8-10 July at Woodland Grange, Leamington Spa, Warwickshire, featuring three tournaments: Open, Under 2000 and Under 1700. All events were played in 5 swiss rounds and gathered nearly 200 participants. The 2022 Chessable English Chess Champion of two categories: Seniors and Open GM Mark Hebden, triumphed in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-mark-hebden-wins-the-28th-4ncl-congress-open/",
+         "pubDate" : "Mon, 11 Jul 2022 12:17:46 +0000",
+         "title" : "GM Mark Hebden wins the 28th 4NCL Congress Open"
+      },
+      {
          "description" : "On Sunday, the 55th Chess Festival Biel opened in the Congress Centre in Biel. To kick things off, the Chinese top grandmaster Yu Yangyi gave a simul. Today the GM Triathlon begins with the Fischerrandom Tournament, at 13:00 local time (7:00 ET, 11:00 UTC). Three of the world's best U18-players start: V. Keymer, N. Abdusattorov, and D. Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,7 +242,7 @@ news_feed (
          "title" : "Boris Gelfand wins the 35th edition of Leon Masters"
       },
       {
-         "description" : "American youngster Jeffery Xiong had a dream debut on the Meltwater Champions Chess Tour today as he grabbed the&#xA0;sole lead of&#xA0;the FTX Road to Miami online super-tournament. The 21-year-old Texan&#xA0;kicked off the $150,000 esports event&#xA0;with three back-to-back wins in the prelim stage.&#xA0;One point behind and still unbeaten is another rookie&#xA0;American Sam Sevian, also 21. Both []",
+         "description" : "American youngster Jeffery Xiong had a dream debut on the Meltwater Champions Chess Tour today as he grabbed the&#160;sole lead of&#160;the FTX Road to Miami online super-tournament. The 21-year-old Texan&#160;kicked off the $150,000 esports event&#160;with three back-to-back wins in the prelim stage.&#160;One point behind and still unbeaten is another rookie&#160;American Sam Sevian, also 21. Both []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/jeffery-xiong-is-the-star-of-day-1-of-ftx-miami-qualifiers/",
@@ -290,7 +314,7 @@ news_feed (
          "title" : "FTX Road to Miami: Live"
       },
       {
-         "description" : "In the last 6 months won: Washington chess congress, Northern Virginia open, Charm city open, Virginia open and took second at Cherry blossom. Adding 110 rating points and cashing in $4915, his achievement made his coach Miodrag Perunovic &#8220;the Butcher&#8221; proud. International master&#xA0;Miodrag Perunovic, popular chess YouTube streamer and chessable author, will be the captain []",
+         "description" : "In the last 6 months won: Washington chess congress, Northern Virginia open, Charm city open, Virginia open and took second at Cherry blossom. Adding 110 rating points and cashing in $4915, his achievement made his coach Miodrag Perunovic &#8220;the Butcher&#8221; proud. International master&#160;Miodrag Perunovic, popular chess YouTube streamer and chessable author, will be the captain []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/david-siamon-impresses-in-us-opens/",
@@ -306,28 +330,12 @@ news_feed (
          "title" : "Chantal Chaud&eacute; de Silans - the first woman to play in a Chess Olympiad"
       },
       {
-         "description" : "The 2022 African National Youth Chess Championships took place from 3-9 July at the Mika Convention Centre Lusaka, Zambia. The event was played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. The Winners after 9 played rounds (swiss system) are: U8 Abdallah Omar Mahmoud (EGY)GU8 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/africa-crowns-national-youth-chess-champions/",
-         "pubDate" : "Sun, 10 Jul 2022 15:08:01 +0000",
-         "title" : "Africa crowns National Youth Chess Champions"
-      },
-      {
          "description" : "At the end of 1997, the first FIDE World Knockout Championship took place in Groningen. Vishy Anand won the final against Michael Adams. Strictly speaking, however, it was not a World Championship, but only a preliminary stage, because the winner had to play the defending champion Anatoli Karpov in a final in Lausanne directly after the tournament. In the \"Special\" of ChessBase Magazine #208 our authors (among others Martin Breutigam, Romain Edouard and Jan Markos) comment on their favourite game from Groningen. Imre Hera's analysis of the Beliafsky-Short encounter can be seen here. Have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-special-of-cbm-208-the-fide-world-championship-25-years-ago",
          "pubDate" : "Sun, 10 Jul 2022 16:00:00 +0100",
          "title" : "The \"Special\" of CBM #208: The FIDE World Championship 25 years ago"
-      },
-      {
-         "description" : "White may have the first move, but it&#x2019;ll be you who starts off the fun with this attacking opening repertoire for Black. Pro chess coach and&#160;FIDE Master Midas Ratsma&#160;is back to finish his&#160;complete&#160;opening repertoire for club players. After delivering a punchy, practical, and popular&#160;repertoire for White (find it in the courses here), he&#x2019;s struck gold []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-midas-ratsma-attacking-repertoire-for-club-players-for-black/",
-         "pubDate" : "Sun, 10 Jul 2022 14:47:09 +0000",
-         "title" : "FM Midas Ratsma - Attacking Repertoire for Club Players for Black"
       },
       {
          "description" : " The FTX Road to Miami tournament is part of the Champions Chess Tour and takes place online on Chess24 Sun 10th Jul 2022 - Sun 17th Jul 2022. The title refers to this being the final qualification event for the FTX Crypto Cup which will take place in Miami August 15th to 21st and is one of the tours Majors with a very large prize fund. Carlsen has already qualified for Miami and so isn't playing in this event. Players are: Levon Aronian, Richard Rapport, Anish Giri, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Jan-Krzysztof Duda, Teimour Radjabov, Wei Yi,Sam Shankland, Radoslaw Wojtaszek, Jeffery Xiong, Arjun Erigaisi, Hans Moke Niemann, Samuel Sevian, Aryan Tari and Wenjun Ju.",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/more-adventures-in-school-arbiting.html",
          "pubDate" : "Tue, 28 Jun 2022 13:11:00 +0000",
          "title" : "More adventures in school arbiting"
-      },
-      {
-         "description" : "Pawn structures shape the position and determine the strategic plans of White and Black. Knowing typical pawn structures and typical plans helps you to play (and score!) better. The renowned Dutch author and trainer Herman Grooten is an expert on pawn structures and he has made a two-part ChessBase course on pawn structures. Today at 14.00 CEST (8.00 ET, 12.00 UTC) he goes on air together with Sagar Shah from ChessBase India to give a \"Masterclass on Pawn Structures\". | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-and-sagar-shah-masterclass-on-pawn-structures",
-         "pubDate" : "Tue, 28 Jun 2022 14:06:33 +0100",
-         "title" : "Herman Grooten and Sagar Shah: Masterclass on Pawn Structures"
       },
       {
          "description" : "Throughout chess history, there have always been great players who we admire and look up to. But every now and then, we get to witness true chess legends&#38;mdash;those who push the game to new heights. And now, for the first time, anyone in the worl...",
