@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Youth Team Chess Championships 2022 commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) will include&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-chess-championships-2022-start-in-thessaloniki-on-12th-july/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championships-2022-start-in-thessaloniki-on-12th-july/",
+         "pubDate" : "Mon, 11 Jul 2022 06:02:09 +0000",
+         "title" : "European Youth Team Chess Championships 2022 start in Thessaloniki on 12th July"
+      },
+      {
+         "description" : "In one of the most exciting finals in recent years, Israeli GM Boris Gelfand won the blitz tiebreak against big favourite Viswanathan Anand to grab the Leon Masters title. No draws were seen in the final match between the living legends, as highly strategic games were featured from beginning to end. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-masters-2022-finals",
+         "pubDate" : "Mon, 11 Jul 2022 07:00:00 +0100",
+         "title" : "Gelfand beats Anand in playoffs, wins Leon Masters"
+      },
+      {
          "description" : "GM Jeffery Xiong leads the FTX Road to Miami tournament after the first day of play. The 21-year-old American grandmaster, who is making his debut in the Meltwater Champions Chess Tour, was the only player to win three games, which gave him nine p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1738,14 +1754,6 @@ news_feed (
          "title" : "3 Decisive Games In Round 9 of the Candidates 2022."
       },
       {
-         "description" : "In the Endgame Magic Show #200 Karsten has a very special guest: Hou Yifan, four-time Women's World Champion and still the number one on the women's ranking list though the 28-year is semi-retired after becoming a professor at Shenzhen University in 2020. In the show Karsten and Hou look at endgames from Hou's illustrious career. This Endgame Magic Show is free for all. | Photo: mp.weixin.qq.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-200-with-hou-yifan",
-         "pubDate" : "Mon, 27 Jun 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #200 - with Hou Yifan!"
-      },
-      {
          "description" : " <p class=\"lead\">The most important game of the tournament ended in a draw, cementing Nepo's leading position but still giving Fabiano Caruana a <a href=\"https://twitter.com/PHChess/status/1541403022571487233\">distant chance</a> to win the tournament and make <a href=\"https://new.chess24.com/wall/news/nepomniachtchi-the-worst-possible-winner-in-terms-of-chess-and-politics\">FIDE officials happy</a>. Caruana, the 2018 Championship title challenger, had advantage from the opening. According to Peter Nielsen, who commented the game on Twitter, Caruana tricked Nepo by forcing a line that deviated from the main computer play and likely spoiled Nepo's home prep. <a href=\"https://twitter.com/PHChess",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2216,14 +2224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/girls-only-unrated-online-tournament/",
          "pubDate" : "Mon, 20 Jun 2022 08:32:55 +0000",
          "title" : "Girls Only unrated online tournament"
-      },
-      {
-         "description" : "Hikaru Nakamura was caught in deep preparation by Alireza Firouzja in Round 3 of the FIDE Candidates Tournament but escaped after setting a trap for his opponent. Alireza thought for over an hour afterwards on a single move, but it was too late. Ding Liren also missed his chance to hit back after his earlier loss when he found some brilliant moves but then missed a clear win against Richard Rapport. Jan-Krzysztof Duda comfortably equalised with Black against Fabiano Caruana, while Radjabov-Nepo was a quick and uneventful draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-3-nakamura-rapport-escape",
-         "pubDate" : "Mon, 20 Jun 2022 06:45:31 +0000",
-         "title" : "Madrid Candidates 3: Nakamura & Rapport escape"
       }
    ]
 }
