@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1857",
+         "pubDate" : "Mon, 11 Jul 2022 18:23:30 +0000",
+         "title" : "Winners crowned at Trinidad and Tobago International Open 2022"
+      },
+      {
+         "description" : "Arne and Karsten look at endgame highlights form the Norway Chess Tournament, which was won World Champion Magnus Carlsen, who is famous for his endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-201-with-daniel-fernandez-endgame-highlights-from-the-candidates-tournament-2",
+         "pubDate" : "Mon, 11 Jul 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #202 with Arne K&auml;hler: Highlights from Norway Chess with Arne K&auml;hler"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Mon, 11 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "The&#160;World Chess Championship Match 1972&#160;between the challenger&#160;Bobby Fischer&#160;of the&#160;United States&#160;and defending champion&#160;Boris Spassky&#160;of the&#160;Soviet Union started on July 11th, 50 years ago. The match took place in the&#160;Laugardalsh&#xF6;ll&#160;arena in&#160;Reykjav&#xED;k,&#160;Iceland, and has been dubbed the&#160;Match of the Century. Fischer won the match 12&#xBD;&#x2013;8&#xBD;, becoming the eleventh undisputed world champion, thus ending the 24 years of Soviet []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/throwback-to-1972-fischer-spassky-world-championship-match-tweetoftheday/",
+         "pubDate" : "Mon, 11 Jul 2022 16:12:25 +0000",
+         "title" : "Throwback to 1972 Fischer - Spassky World Championship Match #TweetOftheDay"
+      },
+      {
          "description" : "Half a century ago, exactly on this day, the most famous chess match in history began: Boris Spassky vs Bobby Fischer in Reykjavik, Iceland. Five year ago we celebrated the event by reporting on it, game for game, as if it was all taking place live. Today we bring you links to all the reports we published at the time, starting with our full report on the drama that surrounded game one. It contains original film footage which nobody should miss.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -166,7 +198,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-road-to-miami-day-1",
-         "pubDate" : "Sun, 10 Jul 2022 17:35:54 -0700",
+         "pubDate" : "Sun, 10 Jul 2022 17:35:00 -0700",
          "title" : "FTX Road To Miami: Jeffery Xiong Early Leader"
       },
       {
@@ -344,14 +376,6 @@ news_feed (
          "link" : "https://www.chessdom.com/david-siamon-impresses-in-us-opens/",
          "pubDate" : "Sun, 10 Jul 2022 15:54:22 +0000",
          "title" : "David Siamon impresses in US opens"
-      },
-      {
-         "description" : "The first time a woman participated in a Chess Olympiad was in 1950? Chantal Chaud&#xE9; de Silans played in the 9th Chess Olympiad, becoming the first woman ever to take part in this competition. She was a French chess player born in 1919 and learned to play the game at the age of nine. Chantal []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chantal-chaude-de-silans-the-first-woman-to-play-in-a-chess-olympiad/",
-         "pubDate" : "Sun, 10 Jul 2022 15:42:47 +0000",
-         "title" : "Chantal Chaud&eacute; de Silans - the first woman to play in a Chess Olympiad"
       },
       {
          "description" : "At the end of 1997, the first FIDE World Knockout Championship took place in Groningen. Vishy Anand won the final against Michael Adams. Strictly speaking, however, it was not a World Championship, but only a preliminary stage, because the winner had to play the defending champion Anatoli Karpov in a final in Lausanne directly after the tournament. In the \"Special\" of ChessBase Magazine #208 our authors (among others Martin Breutigam, Romain Edouard and Jan Markos) comment on their favourite game from Groningen. Imre Hera's analysis of the Beliafsky-Short encounter can be seen here. Have fun!",
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "ChessBase video courses on your phone"
       },
       {
-         "description" : "FIDE has announced the World Amateur Championships 2022 to be held in Malta from October 20-30 in the 4-star conference hotel \"Paradise Bay Resort\". It will be one more major international event hosted by Malta recently, after the successful European Small Nations Team Championship in December 2021.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/malta-to-host-fide-world-amateur-chess-championships",
-         "pubDate" : "Wed, 29 Jun 2022 10:48:19 +0100",
-         "title" : "Malta to host FIDE World Amateur Chess Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/",
          "pubDate" : "Wed, 29 Jun 2022 03:59:21 +0000",
          "title" : "IM Nestor Velez passes away"
-      },
-      {
-         "description" : "Thanks to a remarkable final-round victory, Amin Tabatabaei grabbed clear first place at the third edition of the Stepan Avagyan Memorial. The Iranian GM entered the final round sharing first place with Shant Sargsyan. The co-leaders had two players standing a half point back - namely Haik Martirosyan and Alexander Donchenko. The four players were paired up against each other. In the end, Martirosyan beat Sargsyan and Tabatabaei beat Donchenko. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tabatabaei-wins-avagyan-memorial-2022",
-         "pubDate" : "Tue, 28 Jun 2022 23:40:00 +0100",
-         "title" : "Amin Tabatabaei clinches title at the Stepan Avagyan Memorial"
       },
       {
          "description" : "",
@@ -2208,30 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1821",
          "pubDate" : "Tue, 21 Jun 2022 09:44:27 +0000",
          "title" : "WSCC-2022: Kosteniuk beat Stefanova to reach quarterfinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1820",
-         "pubDate" : "Mon, 20 Jun 2022 16:45:11 +0000",
-         "title" : "3rd Preparation of Teachers course announced"
-      },
-      {
-         "description" : "On May 7, 2022 the world received sad news when it was announced from Moscow that Yuri Averbakh passed away. Averbakh excelled in many fields and at this peak he was one of the world's best ten players but he is best known for his contributions to endgame theory. To pay tribute to the endgame expert, Zoran Petronijevic had a look at endgames that were close to Averbakh's heart. | Photo: Eric Koch / Anefo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-s-greatest-endgame-expert-yuri-averbakh",
-         "pubDate" : "Mon, 20 Jun 2022 17:00:00 +0100",
-         "title" : "The world's greatest endgame expert: Yuri Averbakh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92343825.cms\" />Grandmaster Alexei Fedorov (2523) was held to a draw by lower-rated B Vignesh (2072) in the third round of the 13th Chennai Open International GM tournament here on Monday. Belarusian Fedorov, one of the veterans in the game, split points with Vignesh after a duel that lasted 50 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-vignesh-holds-veteran-fedorov-in-round-3/articleshow/92343825.cms",
-         "pubDate" : "Mon, 20 Jun 2022 15:44:34 +0000",
-         "title" : "Chennai Open Chess: Vignesh holds veteran Fedorov in Round 3"
       }
    ]
 }
