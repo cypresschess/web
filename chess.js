@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian prodigy Gukesh won his fifth consecutive tournament in Spain, fourth in this year. He scored an unbeaten 8/9 to win the 14th Gijon City Closed tournament, finishing 1&frac12; points ahead of the competition. The youngest GM of India gained 9.7 Elo points and is now less than 7 points away from reaching the 2700-rating barrier. | Photo: Gij&oacute;n 64",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-wins-gijon-closed-2022",
+         "pubDate" : "Mon, 11 Jul 2022 23:50:00 +0100",
+         "title" : "Gukesh keeps winning in Spain"
+      },
+      {
+         "description" : "European Youth Team Chess Championships 2022&#xA0;commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-team-chess-championships-2022-start-in-thessaloniki/",
+         "pubDate" : "Mon, 11 Jul 2022 20:57:09 +0000",
+         "title" : "European Youth Team Chess Championships 2022 start in Thessaloniki"
+      },
+      {
+         "description" : "Fifty years to the day since Bobby Fischer took on Boris Spassky in the most famous match in chess history, another American showed off his supreme talent on the game&#x2019;s biggest stage online. Sam Sevian, the record-breaking former chess prodigy, came of age in the Meltwater Champions Chess Tour&#x2019;s $150,000 FTX Road to Miami tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/samuel-sevian-takes-the-lead-in-ftx-miami-qualifiers/",
+         "pubDate" : "Mon, 11 Jul 2022 20:42:31 +0000",
+         "title" : "Samuel Sevian takes the lead in FTX Miami qualifiers"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-6-lichessorg",
+         "pubDate" : "Mon, 11 Jul 2022 20:40:40 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 6 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players of all fields about the Saint Louis Chess Club&#039;s long-awaited expansion. This aired during Round 5. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-us-junior-championships-club-expansion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IaKa2xptScw.jpg?itok=bWwBFDnG\" alt=\"\" /></a></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-club-expansion",
+         "pubDate" : "Mon, 11 Jul 2022 20:40:40 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Club Expansion"
+      },
+      {
+         "description" : "The ACCENTUS Chess960 (ACC) took place today at the Main stage of the Concert Hall, Biel Congress Center within the Biel International Chess Festival 2022. The event was played in 7 round-robin rounds, with the starting position of pieces determined before the start of each round. The time control for the games was: 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vincent-keymer-wins-accentus-chess960-tournament-in-biel/",
+         "pubDate" : "Mon, 11 Jul 2022 20:07:45 +0000",
+         "title" : "Vincent Keymer wins ACCENTUS Chess960 tournament in Biel"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +58,15 @@ news_feed (
          "title" : "Winners crowned at Trinidad and Tobago International Open 2022"
       },
       {
-         "description" : "Arne and Karsten look at endgame highlights form the Norway Chess Tournament, which was won World Champion Magnus Carlsen, who is famous for his endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "description" : "Half a century ago, exactly on this day, the most famous chess match in history began: Boris Spassky vs Bobby Fischer in Reykjavik, Iceland. Five year ago we celebrated the event by reporting on it, game for game, as if it was all taking place live. Today we bring you links to all the reports we published at the time, starting with our full report on the drama that surrounded game one. It contains original film footage which nobody should miss.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fischer-vs-spassky-50-years-ago",
+         "pubDate" : "Mon, 11 Jul 2022 18:05:00 +0100",
+         "title" : "Fischer vs Spassky - 50 years ago"
+      },
+      {
+         "description" : "Arne and Karsten look at endgame highlights form the Norway Chess Tournament, which was won by World Champion Magnus Carlsen, who is famous for his endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-201-with-daniel-fernandez-endgame-highlights-from-the-candidates-tournament-2",
@@ -32,14 +88,6 @@ news_feed (
          "link" : "https://www.chessdom.com/throwback-to-1972-fischer-spassky-world-championship-match-tweetoftheday/",
          "pubDate" : "Mon, 11 Jul 2022 16:12:25 +0000",
          "title" : "Throwback to 1972 Fischer - Spassky World Championship Match #TweetOftheDay"
-      },
-      {
-         "description" : "Half a century ago, exactly on this day, the most famous chess match in history began: Boris Spassky vs Bobby Fischer in Reykjavik, Iceland. Five year ago we celebrated the event by reporting on it, game for game, as if it was all taking place live. Today we bring you links to all the reports we published at the time, starting with our full report on the drama that surrounded game one. It contains original film footage which nobody should miss.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fischer-vs-spassky-50-years-ago",
-         "pubDate" : "Mon, 11 Jul 2022 15:00:00 +0100",
-         "title" : "Fischer vs Spassky - 50 years ago"
       },
       {
          "description" : "Day 1 of the FTX Road to Miami online tournament saw Jeffery Xiong grabbing the sole lead after collecting three wins and a loss. The 21-year-old has a 1-point lead over four players sharing second place on 8/12 points. Some of the rating favourites, like Levon Aronian, Anish Giri and Teimour Radjabov, currently stand on the bottom half of the tournament table. | Photo: Lennart Ootes",
@@ -274,22 +322,6 @@ news_feed (
          "title" : "2022 U.S. Senior Championships: Playing in STL"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman FIDE Master Gracy Prasanna talks to Cristian Chirila after her fourth round victory over Anne-Marie Velea in the 2022 U.S. Girls' Junior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prasanna-i-was-about-offer-draw-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Np-iwNz_rV8.jpg?itok=4FhwUqJx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prasanna-i-was-about-offer-draw-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Prasanna: I Was About to Offer a Draw | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-5-lichessorg",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 5 | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/boris-gelfand-wins-the-35th-edition-of-leon-masters/",
          "pubDate" : "Sun, 10 Jul 2022 21:34:07 +0000",
          "title" : "Boris Gelfand wins the 35th edition of Leon Masters"
-      },
-      {
-         "description" : "American youngster Jeffery Xiong had a dream debut on the Meltwater Champions Chess Tour today as he grabbed the&#160;sole lead of&#160;the FTX Road to Miami online super-tournament. The 21-year-old Texan&#160;kicked off the $150,000 esports event&#160;with three back-to-back wins in the prelim stage.&#160;One point behind and still unbeaten is another rookie&#160;American Sam Sevian, also 21. Both []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jeffery-xiong-is-the-star-of-day-1-of-ftx-miami-qualifiers/",
-         "pubDate" : "Sun, 10 Jul 2022 21:25:08 +0000",
-         "title" : "Jeffery Xiong is the star of day 1 of FTX Miami qualifiers"
       },
       {
          "description" : "Chess.com&#39;s newest event, BlitzChamps, the most ambitious crossover of 2022, commenced on Saturday, pitting six NFL all-stars against each other over the chess board in a bid for $100,000 for their favorite charity. Split into two groups of thre...",
@@ -360,22 +384,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
          "pubDate" : "Sun, 10 Jul 2022 21:18:00 +0400",
          "title" : "Bundesliga 2021-22 - "
-      },
-      {
-         "description" : "The 56th edition of the Ilmar Raud Memorial Chess Tournament took place 3-10 July at the&#160;Viljandi Sports Center&#160;in Viljandi, a town in southern Estonia. This year, the event included qualifications for Estonian Men&#x2019;s and Women&#x2019;s Individual Chess Championships, Estonian Junior Chess Championships, and Estonian Seniors Chess Championships. Based on the final results, Estonian best female []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/56th-ilmar-raud-memorial-concluded-in-viljandi-estonia/",
-         "pubDate" : "Sun, 10 Jul 2022 17:10:56 +0000",
-         "title" : "56th Ilmar Raud Memorial concluded in Viljandi, Estonia"
-      },
-      {
-         "description" : "In the last 6 months won: Washington chess congress, Northern Virginia open, Charm city open, Virginia open and took second at Cherry blossom. Adding 110 rating points and cashing in $4915, his achievement made his coach Miodrag Perunovic &#8220;the Butcher&#8221; proud. International master&#160;Miodrag Perunovic, popular chess YouTube streamer and chessable author, will be the captain []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/david-siamon-impresses-in-us-opens/",
-         "pubDate" : "Sun, 10 Jul 2022 15:54:22 +0000",
-         "title" : "David Siamon impresses in US opens"
       },
       {
          "description" : "At the end of 1997, the first FIDE World Knockout Championship took place in Groningen. Vishy Anand won the final against Michael Adams. Strictly speaking, however, it was not a World Championship, but only a preliminary stage, because the winner had to play the defending champion Anatoli Karpov in a final in Lausanne directly after the tournament. In the \"Special\" of ChessBase Magazine #208 our authors (among others Martin Breutigam, Romain Edouard and Jan Markos) comment on their favourite game from Groningen. Imre Hera's analysis of the Beliafsky-Short encounter can be seen here. Have fun!",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-10/",
          "pubDate" : "Wed, 29 Jun 2022 11:00:00 +0000",
          "title" : "Watch the FIDE Candidates Tournament 2022: Round 10"
-      },
-      {
-         "description" : "For well over 20 years, ChessBase has provided video courses on just about every chess topic under the sun, but they were also only available to Windows users. Now that is not only no longer true, but you can watch them on just about any system with a modern browser, from Macintosh to Linux... to smartphones even! Here is a guide on how, as well as some special tips!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-video-courses-on-your-phone",
-         "pubDate" : "Wed, 29 Jun 2022 11:00:00 +0100",
-         "title" : "ChessBase video courses on your phone"
       },
       {
          "description" : "",
