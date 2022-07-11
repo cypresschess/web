@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-07-08  - 07-10","42","<a href=http://www.uschess.org/msa/XtblMain.php?202207106952 target='_blank'>$2,000 HOUSTON CHESS STUDIO JULY CH</a>",
 "SPRING","2022-07-08","20","<a href=http://www.uschess.org/msa/XtblMain.php?202207085852 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-07-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202207085792 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2022-07-08","10","<a href=http://www.uschess.org/msa/XtblMain.php?202207085772 target='_blank'>FBCC07082022</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2021-08-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108202192 target='_blank'>FBCC HOT DOG AUGUST 2021</a>",
 "HOUSTON","2021-08-19","4","<a href=http://www.uschess.org/msa/XtblMain.php?202108193152 target='_blank'>THURSDAY QUADS</a>",
 "HOUSTON","2021-08-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202108150702 target='_blank'>AUGSUNSWISSG60D5815</a>",
-"SPRING","2021-08-14","20","<a href=http://www.uschess.org/msa/XtblMain.php?202108149822 target='_blank'>DER SPRINGERS AUGUST 2021</a>",
 ]);
