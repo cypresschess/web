@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Sunday, the 55th Chess Festival Biel opened in the Congress Centre in Biel. To kick things off, the Chinese top grandmaster Yu Yangyi gave a simul. Today the GM Triathlon begins with the Fischerrandom Tournament, at 13:00 local time (7:00 ET, 11:00 UTC). Three of the world's best U18-players start: V. Keymer, N. Abdusattorov, and D. Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-biel-international-chess-festival-starts-with-three-of-the-world-s-best-u18-players",
+         "pubDate" : "Mon, 11 Jul 2022 12:42:34 +0100",
+         "title" : "The Biel International Chess Festival starts - with three of the world's best U18-players"
+      },
+      {
+         "description" : " <p class=\"lead\">The 54-year-old Boris Gelfand out-blitzed 20-year-old Andrey Esipenko at the Leon Masters second semifinals to qualify to the finals against Vishy Anand and eventually be crowned the winner. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/104092.jpeg\" width=\"1200\" height=\"800\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Official Website // <a href=\"http://www.advancedchessleon.com/edicion.html\">Advanced Chess Leon</a></div> </div> The Gelfand-Esipenko match at the Leon Masters semifinals was one to remember. The match was to be decided in two blitz games which ended 1-1 to be decided in Armageddon: 6 minutes for Esipenko with White, and 5 minut",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/gelfand-out-blitzed-esipenko-at-the-leon-masters/",
+         "pubDate" : "Mon, 11 Jul 2022 11:14:18 +0000",
+         "title" : "Gelfand out-blitzed Esipenko at the Leon Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1856",
+         "pubDate" : "Mon, 11 Jul 2022 11:02:01 +0000",
+         "title" : "Bundesliga 2022: OSG Baden-Baden takes title"
+      },
+      {
+         "description" : "Jeffery Xiong beat Anish Giri on his Meltwater Champions Chess Tour debut as he raced to three wins that gave him the sole lead after Day 1 of the FTX Road to Miami. He was only stopped by fellow 21-year-old American Sam Sevian, who shares second place with Shakhriyar Mamedyarov, Wei Yi and Jan-Krzyszstof Duda. Some star names struggled, with Levon Aronian losing his first two games, while Teimour Radjabov suffered 3 defeats and owed his single point to a 14-move draw against Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-1-xiong-leads-as-stars-struggle",
+         "pubDate" : "Mon, 11 Jul 2022 10:56:03 +0000",
+         "title" : "FTX Road to Miami 1: Xiong leads as stars struggle"
+      },
+      {
+         "description" : "The 2022 Swiss Chess Championship&#160;took place from 4-10 July in Samnaun, being played in 9 rounds, swiss system, with 68 players. Simultaneously with the National Open and Women's Chess Championship, the Swiss National Seniors Chess Championship took place with participation of 16 players who fought over 7 swiss rounds. 20-year-old international master Fabian Baenziger won []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/switzerland-announces-national-chess-champions/",
+         "pubDate" : "Mon, 11 Jul 2022 10:56:00 +0000",
+         "title" : "Switzerland announces National Chess Champions"
+      },
+      {
+         "description" : "The 2022 Swedish Chess Championships&#160;(Championship, Masters Elite, Masters, Seniors 50+, Seniors 65+ and Juniors) took place from 1-10 July in Uppsala, being played as 9 round-robin tournaments and 9 swiss rounds tournaments. GM Jonny Hector&#160;claimed the title of the Swedish National Chess Champion. With 6.5/9 points, the 58-year-old native of Malmo won his second national []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swedish-national-chess-champions-crowned-in-uppsala/",
+         "pubDate" : "Mon, 11 Jul 2022 10:47:02 +0000",
+         "title" : "Swedish National Chess Champions crowned in Uppsala"
+      },
+      {
+         "description" : " <p class=\"lead\">This Day (11th of July) in 1972 it was the first game of the \"Match of the Century\" between the defending World Champion Boris Spassky (Soviet Union) and the Challenger Bobby Fischer (USA). 50 years later, we're still wondering if the World Champion Magnus Carlsen will defend his title against Ian Nepomniachtchi due to - probably - lack of motivation or interest for the specific match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0ec4088c2fd829a05e371a3b3615bf37.jpeg\" width=\"2000\" height=\"1451\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess Championship 1972 // Defending World Chess Champion Boris Spassky faced the Challenger Bobby ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/from-fischer-spassky-to-carlsen-nepomniachtchi/",
+         "pubDate" : "Mon, 11 Jul 2022 10:27:34 +0000",
+         "title" : "From Spassky-Fischer to Carlsen-Nepomniachtchi (?)"
+      },
+      {
+         "description" : "Learn from the best players in the world! The \"MasterClass\" series introduces you to the facets of the chess legends. In interactive video format with training feedback! Volume 1 to 14 with Fischer, Carlsen, Kasparov, Karpov and many more! You can get them both this week at a sensational discount: instead of the €418 list price you can get them all, volumes 1-14, for just €199.90!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deal-of-the-week-masterclass-1-14",
+         "pubDate" : "Mon, 11 Jul 2022 11:00:00 +0100",
+         "title" : "Deal of the Week: Masterclass 1-14"
+      },
+      {
+         "description" : "The Biel International Chess Festival was opened for the 55th time yesterday by OC President Peter Bohnenblust and in the presence of Martin Schlup, President of the Grand Council of the Canton of Berne and Andr&#xE9; V&#xF6;gtlin, Central President of the Swiss Chess Federation. Read more: Biel International Chess Festival announced / Biel International Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-international-chess-festival-opened-for-the-55th-time/",
+         "pubDate" : "Mon, 11 Jul 2022 09:07:45 +0000",
+         "title" : "Biel International Chess Festival opened for the 55th time"
+      },
+      {
+         "description" : "The All India Chess Federation takes immense pleasure in announcing the launch of the ticketing portal of the 44th Chess Olympiad. The chess fans who",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/chess-olympiad-ticketing-portal/",
+         "pubDate" : "Mon, 11 Jul 2022 08:30:32 +0000",
+         "title" : "CHESS OLYMPIAD TICKETING PORTAL"
+      },
+      {
+         "description" : "ECU E-Magazine June 2022 is out! In this edition of the ECU E-Magazine you may read about: FIDE Candidates Chess Tournament 2022 European Corporate Chess Championship 2022 Norway Chess 2022 European Senior Chess Championship 2022 European Amateur Chess Championship 2022 European Youth Teams and Rapid&#38;Blitz Chess Championships 2022 Women Chess Conference Prague 2022 Arbiters Corner 44th Chess Olympiad&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-june-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-june-2022/",
+         "pubDate" : "Mon, 11 Jul 2022 08:20:25 +0000",
+         "title" : "ECU E-MAGAZINE JUNE 2022"
+      },
+      {
          "description" : "European Youth Team Chess Championships 2022 commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) will include&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-chess-championships-2022-start-in-thessaloniki-on-12th-july/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -258,36 +346,12 @@ news_feed (
          "title" : "Le&oacute;n: Gelfand quicker than Esipenko"
       },
       {
-         "description" : "The 20th edition of the Sautron International Chess Open 2022 took place from 3-10 July at the Espace Phelippes Beaulieux. The event attracted nearly 100 entries who fought for the throne of the two sections: A and B. The tournaments were played in 9 swiss rounds, with time control: 90 minutes for 40 moves, plus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-maxime-lagarde-triumphs-at-the-20th-sautron-chess-open/",
-         "pubDate" : "Sun, 10 Jul 2022 14:15:50 +0000",
-         "title" : "GM Maxime Lagarde triumphs at the 20th Sautron Chess Open"
-      },
-      {
          "description" : " The New Zealand Chess Federation has announced the opening of a new chess centre in Auckland. The Howick Chess Centre (in Howick!) is a joint effort by Paul Spiller and the NZCF, providing both a venue for regular chess activities, and as a NZCF Office for the storage of historical items, and as a shop for NZCF items. Recognising the economic reality of such a venture, the Centre will be running until at least July 2023, at which time a review in its operation will take place. A worthy initiative by Paul Spiller and the NZCF, and one I am sure many other chess federations would like to emulate. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/07/howick-chess-centre.html",
          "pubDate" : "Sun, 10 Jul 2022 13:40:00 +0000",
          "title" : "Howick Chess Centre"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 starts in less than three weeks in Chennai, India and Chennai finalizes preparations to host 349 teams from 187 countries. Mr. Prasad Ramasubramanian, Assistant Editor with the Times of India (TOI) published a photo of Chennai's iconic bridge decked up in chess colours (see below). Read more: 44th Chess Olympiad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chennai-decked-up-with-chess-colours-tweetoftheday/",
-         "pubDate" : "Sun, 10 Jul 2022 13:15:12 +0000",
-         "title" : "Chennai is decked up with chess colours #TweetOftheDay"
-      },
-      {
-         "description" : "The 5th edition of the International Chess Tournament &#8220;Solta Chess Open 2022&#8221; took place from 2-10 July in Grohote, &#x160;olta. The event was played in 9 rounds, swiss system, with time control: 90 minutes + 30 seconds of increment. Nearly 100 participants from 24 countries fought for the total prize fund of 10.000 euros. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-ante-brkic-convincingly-wins-solta-chess-open-2022/",
-         "pubDate" : "Sun, 10 Jul 2022 12:58:26 +0000",
-         "title" : "GM Ante Brkic convincingly wins Solta Chess Open 2022"
       },
       {
          "description" : "\"Surprisingly often I watch sequences of moves in games that do not remind me of anything from my previous chess memory,\" writes endgame study composer Steffen Slumstrup Nielsen. In such cases, he will rush over to his chessboard and start thinking about turning it into a study. One way to do this is to strip the position and present the main idea as economically as possible. Slumstrup Nielsen's description of the process appeared in The Macedonian Problemist.",
@@ -1706,28 +1770,12 @@ news_feed (
          "title" : "National School U-7 Open and Girls Chess Championship Certificates"
       },
       {
-         "description" : "When one king takes away important squares from the enemy king it is called a \"bodycheck\". How did Black use the bodycheck to win in the diagrammed position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-bodycheck-2",
-         "pubDate" : "Tue, 28 Jun 2022 09:00:00 +0100",
-         "title" : "The bodycheck"
-      },
-      {
          "description" : "Ian Nepomniachtchi took another huge step towards winning a second Candidates Tournament in a row after he dug deep to hold on after getting surprised by Fabiano Caruana in the opening. He still leads by a full point with just 5 rounds to go, while Hikaru Nakamura and Richard Rapport were stopped in their tracks by losing to Teimour Radjabov and Alireza Firouzja. Ding Liren also grabbed his 1st win, against Jan-Krzysztof Duda.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/madrid-candidates-9-nepo-escapes-as-ding-radjabov-firouzja-grab-1st-wins",
          "pubDate" : "Tue, 28 Jun 2022 07:16:50 +0000",
          "title" : "Madrid Candidates 9: Nepo escapes as Ding, Radjabov & Firouzja grab 1st wins"
-      },
-      {
-         "description" : "Round 9 of the Candidates Tournament saw three players scoring their first wins of the event. The one drawn encounter was the showdown between Fabiano Caruana and Ian Nepomniachtchi, in which Caruana tried an offbeat line against his opponent's Petroff but could not make the most of the small advantage he got in the middlegame. The winners of the day were Ding Liren, Alireza Firouzja and Teimour Radjabov. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r9",
-         "pubDate" : "Tue, 28 Jun 2022 05:10:00 +0100",
-         "title" : "Candidates R9: Maiden wins"
       },
       {
          "description" : "",
@@ -1754,14 +1802,6 @@ news_feed (
          "title" : "3 Decisive Games In Round 9 of the Candidates 2022."
       },
       {
-         "description" : " <p class=\"lead\">The most important game of the tournament ended in a draw, cementing Nepo's leading position but still giving Fabiano Caruana a <a href=\"https://twitter.com/PHChess/status/1541403022571487233\">distant chance</a> to win the tournament and make <a href=\"https://new.chess24.com/wall/news/nepomniachtchi-the-worst-possible-winner-in-terms-of-chess-and-politics\">FIDE officials happy</a>. Caruana, the 2018 Championship title challenger, had advantage from the opening. According to Peter Nielsen, who commented the game on Twitter, Caruana tricked Nepo by forcing a line that deviated from the main computer play and likely spoiled Nepo's home prep. <a href=\"https://twitter.com/PHChess",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/yes-caruana-nepo-game-ends-in-a-draw/",
-         "pubDate" : "Mon, 27 Jun 2022 16:55:26 +0000",
-         "title" : "Yes, Caruana - Nepo Game Ends in a Draw"
-      },
-      {
          "description" : " Fabiano Caruana got a chance to put Ian Nepomniachtchi under pressure and even catch him after managing to surprise his opponent in the Petroff. Nepomniachtchi was certain he had something against Caruana's idea but didn't remember what it was. Nepomniachtchi fell about 50 minutes behind on the clock but it was here Caruana began to slow down and then made a mistake. You have to think the very long games Caruana has been playing and yesterday's disappointment couldn't have helped but he needed to find 24.Bf1! after 24.Bxf5? he almost certainly missed 27...Nd3 ahead of times and after this it was Caruana who had to be careful as he got into time pressure, but the players repeated at move 40.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1770,28 +1810,12 @@ news_feed (
          "title" : "Nepomniachtchi survives trouble in the opening to draw against Caruana in the Candidates Round 9 - 9"
       },
       {
-         "description" : "ATHENS OF THE EAST 2nd INTERNATIONAL GRAND MASTER OPEN CHESS TOURNAMENT 2022 (Category-A) Live link Link : https://view.livechesscloud.com/#d73b3087-1bbd-4129-8f85-d3b373e9c90e",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-athens-of-the-east-2nd-international-grand-master-open-chess-tournament-2022-category-a/",
-         "pubDate" : "Mon, 27 Jun 2022 13:58:25 +0000",
-         "title" : "Live link for ATHENS OF THE EAST 2nd INTERNATIONAL GRAND MASTER OPEN CHESS TOURNAMENT 2022 (Category-A)"
-      },
-      {
          "description" : " Round 7 of the 2022 Candidates Tournament saw a strange game between Rapport and Nepomnichtchi. Nepo played a line in the Petroff where Black sacrifices a rook, but draws by perpetual check soon afterwards. However Rapport rejected the first repetition, although this simply forced Nepo to aim for another repetition a few moves later. However, when Rapport avoided the second repetition, he ended up losing his queen for insufficient compensation, with a loss to show for his trouble. After the game Rapport suggested it was the result of poor preparation, although this move he played was already known to be bad. But not only did this game effect Nepo's standings, it also had an effect on Caruan",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/06/bad-luck-or-bad-prep.html",
          "pubDate" : "Mon, 27 Jun 2022 13:28:00 +0000",
          "title" : "Bad luck or bad prep?"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/Ra0UvQjM60c?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-2022-round-9/",
-         "pubDate" : "Mon, 27 Jun 2022 11:00:00 +0000",
-         "title" : "Watch The FIDE Candidates Tournament 2022: Round 9"
       },
       {
          "description" : "Hikaru Nakamura took revenge on Fabiano Caruana in an epic Round 8 FIDE Candidates Tournament game to move within just half a point of his US rival. That meant that Ian Nepomniachtchi's quick draw against Ding Liren extended his lead to a full point, but Fabi has a chance to catch Nepo in Round 9 if he can win their individual clash. Elsewhere Richard Rapport picked up a 1st win with a sudden attack against Jan-Krzysztof Duda, while Firouzja-Radjabov was drawn in 7 hours and 93 moves.",
@@ -2208,22 +2232,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-vignesh-holds-veteran-fedorov-in-round-3/articleshow/92343825.cms",
          "pubDate" : "Mon, 20 Jun 2022 15:44:34 +0000",
          "title" : "Chennai Open Chess: Vignesh holds veteran Fedorov in Round 3"
-      },
-      {
-         "description" : "European Corporate Chess Championship 2022 took place over the weekend 18-19 June in Rotterdam, Netherlands. The event was played with the participation of 17 teams in the venue of the luxury cruise ship Royal Spido&#160;(named James Cook), while sailing in the Rotterdam harbour.&#160; The Closing Ceremony of the event took place yesterday evening with attendance of the ECU&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/hotels-nl-is-the-winner-of-european-corporate-chess-championship-2022/",
-         "pubDate" : "Mon, 20 Jun 2022 10:08:43 +0000",
-         "title" : "Hotels.nl is the Winner of European Corporate Chess Championship 2022"
-      },
-      {
-         "description" : "FIDE, together with ChessKid and in the frame of the Queens Festival, is organizing very important initiative a Girls Only unrated online tournament! The...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/girls-only-unrated-online-tournament/",
-         "pubDate" : "Mon, 20 Jun 2022 08:32:55 +0000",
-         "title" : "Girls Only unrated online tournament"
       }
    ]
 }
