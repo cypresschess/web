@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Canadian Open Chess Championship&#xA0;takes place from 11 &#x2013; 17 July at the Hillfield Strathallan College, Hamilton, Ontario. The event is played in 9 rounds, swiss system, with nearly 250 players fighting for the total prize fund of 26.000$. The Winner of the Championship will pocket a money-prize of 8.000$. The time control of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/canadian-open-chess-championship-2022-live/",
+         "pubDate" : "Tue, 12 Jul 2022 17:52:01 +0000",
+         "title" : "Canadian Open Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : " &#8220;When I am White, I win because I am White. When I am Black, I win because I am Bogoljubow&#8221; Efim Bogoljubow A few interesting facts about Efim Bogoljubow are available courtesy of Bill Wall's blog. I am going to pick 3 of them that I liked the most: The Russian name \"Bogoljubow\" means \"beloved by <a href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGA, Bogoljubow Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\">Need sure points? QGA, Bogoljubow Variation Edition</a> ap",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/",
+         "pubDate" : "Tue, 12 Jul 2022 17:15:20 +0000",
+         "title" : "Need sure points? QGA, Bogoljubow Variation Edition"
+      },
+      {
+         "description" : "The FIDE Chess.com 2022 Women&#39;s Speed Chess Championship resumed on Tuesday with a clash between two of the tournament&#39;s powerhouses, with GM Valentina Gunina overcoming GM Tan Zhongyi with a resounding score of 19.5-9.5. After a shaky 0-2 start...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-gunina-tan",
+         "pubDate" : "Tue, 12 Jul 2022 10:07:21 -0700",
+         "title" : "Gunina Continues Blistering Run, Defeats Tan"
+      },
+      {
+         "description" : "You didn't expect those creative, and beautiful moves, did you? Svitlana presents some genuinely fine moves by masterful players like Frank James Marshall, David Bronstein, Bobby Fischer, Pal Benko, Richard Reti, Alexander Alekhine, and Mikhail Tal. Lean back, and enjoy the spectacle!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-45",
+         "pubDate" : "Tue, 12 Jul 2022 18:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Surprise!"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Tue, 12 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "FM Tanitoluwa Adewumi, age 11, has earned his second IM norm, of the three required to earn the coveted international master title, at the NY Summer Invitational IM C closed round-robin tournament which concluded on July 11, 2022. He won the tourn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tani-adewumi-earns-second-im-norm",
+         "pubDate" : "Tue, 12 Jul 2022 09:11:00 -0700",
+         "title" : "Tani Adewumi Earns Second IM Norm, Strives For Youngest GM Record"
+      },
+      {
          "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation In late April, Tanitoluwa Adewumi earned his first IM norm and yesterday he earned a second. Tani earned the norm at the New York Summer Invitational where topped the field with 7/9 edging out Nakada Akira who finished with 6.5. Now the top-rated 11-year old, he only needs The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/tani-adewumi-gets-second-im-norm/\">Tani Adewumi gets second IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -272,14 +320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-team-chess-championships-2022-start-in-thessaloniki/",
          "pubDate" : "Mon, 11 Jul 2022 20:57:09 +0000",
          "title" : "European Youth Team Chess Championships 2022 start in Thessaloniki"
-      },
-      {
-         "description" : "Fifty years to the day since Bobby Fischer took on Boris Spassky in the most famous match in chess history, another American showed off his supreme talent on the game&#x2019;s biggest stage online. Sam Sevian, the record-breaking former chess prodigy, came of age in the Meltwater Champions Chess Tour&#x2019;s $150,000 FTX Road to Miami tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/samuel-sevian-takes-the-lead-in-ftx-miami-qualifiers/",
-         "pubDate" : "Mon, 11 Jul 2022 20:42:31 +0000",
-         "title" : "Samuel Sevian takes the lead in FTX Miami qualifiers"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
@@ -1146,7 +1186,7 @@ news_feed (
          "title" : "FIDE ratings July 2022"
       },
       {
-         "description" : "Day 20 : GANGTOK Sh. Kunga Nima Lepcha, Hon'ble Minister of Sports, Govt of Sikkim received the torch at Sikkim Manipal University. GM Mitrabu Guha",
+         "description" : "Day 24 AIZWAL Sh. Robert Royte , Minister of State, IC- Sports &#38; Youth Services, I &#38;CT, and Tourism, Govt. of Mizoram received the torch",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
@@ -1642,14 +1682,6 @@ news_feed (
          "title" : "Recapping The 2022 ChessKid Candidates Tournament In Madrid"
       },
       {
-         "description" : "Chess.com is proud to announce that the Collegiate Chess League is returning for the 2022-2023 academic year in partnership with NACE Starleague, the largest collegiate esports league in North America. The Fall 2022 and Spring 2023 seasons will fe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-ccl-2022-2023",
-         "pubDate" : "Thu, 30 Jun 2022 09:00:00 -0700",
-         "title" : "Chess.com Announces Collegiate Chess League 2022-2023 Season"
-      },
-      {
          "description" : " The 2022 Candidates tournament has turned out to be a real bloodbath, with almost every round seeing 2 or 3 decisive games, every player scoring t least one win, but at the same time 7 of the 8 players suffering at least one loss. The only thing that is clear at this stage is that Ian Nepomniachtchi would have to suffer a mind blowing collapse to not win the tournament, as he is 1.5 points in front with 4 rounds to play. This sets up a potential rematch with magnus Carlsen for the World Championship, although this may be one thing that isn't certain. While I'm not convinced by Carlsen's suggestion that he won't defend his title, he may be less inclined to play Nepo than any other challenger",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,14 +1704,6 @@ news_feed (
          "link" : "https://aicf.in/national-school-u-09-open-and-girls-chess-championship-certificates-out-to-download/",
          "pubDate" : "Thu, 30 Jun 2022 11:28:06 +0000",
          "title" : "National School U-09 Open and Girls Chess Championship Certificates out to download"
-      },
-      {
-         "description" : "Alireza Firouzja had a brilliant 2021. The youngster reached the second spot in the world ranking and qualified to the Candidates Tournament. Expectations were high after Magnus Carlsen hinted that he would gladly face him in a World Championship match - unlike other opponents. Things have not been going according to plan in Madrid, though. After his round-10 loss, the 19-year-old played over 300 bullet-chess games online, and not during a rest day. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/firouzja-bullet-chess-amid-candidates",
-         "pubDate" : "Thu, 30 Jun 2022 12:07:49 +0100",
-         "title" : "Firouzja on tilt? Bullet-chess spree amid Candidates Tournament"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/S-UJVRXK7_8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1706,14 +1730,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship 2022: England wins golden double"
       },
       {
-         "description" : "European Individual Championship 2022: Analyses by the new champion Matthias Bluebaum as well as Gabriel Sargissian, Ivan Saric, Ruslan Ponomariov, Aryan Tari, Ivan Cheparinov, Rasmus Svane, Yuriy Kuzubov, Maxime Lagarde and others - Looking for a fighting concept against Trompowsky? In her opening article, Petra Papp relies on 1.d4 Nf6 2.Bg5 c5!? - \"Special\" on the FIDE World Championship 1997: exclusive collection of 22 extensively annotated games + articles on strategy and endgame highlights - Don't miss: Jan Markos' new training series \"Practical Tips for the Tournament Player\" Vol. I: \"Time management\" - Or jump straight into interactive training with Robert Ris and replay a current mas",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-208-analyses-from-the-european-champion-2022-by-matthias-bluebaum-et-al-new-series-practical-tips-for-the-tournament-player-and-much-more",
-         "pubDate" : "Thu, 30 Jun 2022 10:00:00 +0100",
-         "title" : "CBM #208: Analyses from the European Champion 2022 Matthias Bluebaum et al. New series \"Practical tips for the tournament player\" and much more"
-      },
-      {
          "description" : "Ian Nepomniachtchi now has a mammoth 1.5-point lead with just four rounds of the FIDE Candidates to go after making a draw in Round 10, while Fabiano Caruana self-destructed against Jan-Krzysztof Duda and was caught by both Hikaru Nakamura, who beat Alireza Firouzja, and Ding Liren, who won a fantastic game against Richard Rapport.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1838",
          "pubDate" : "Wed, 29 Jun 2022 22:20:13 +0000",
          "title" : "2022 Candidates, Round 10: A major setback for Caruana, Nepomniachtchi pushes forward"
-      },
-      {
-         "description" : "With four rounds to go, GM Ian Nepomniachtchi is 1.5 points ahead of the pack in the 2022 Candidates Tournament in Madrid. A draw with GM Teimour Radjabov was enough for that because GM Fabiano Caruana ended up losing to GM Jan-Krzysztof Duda. G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-10",
-         "pubDate" : "Wed, 29 Jun 2022 12:22:00 -0700",
-         "title" : "Nepomniachtchi Increases Lead Further As Caruana Loses To Duda"
       },
       {
          "description" : " <p class=\"lead\">Round 10 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games, and a 3-way tie for 2nd place with Caruana, Nakamura and Ding Liren. Nepomniachtchi still remains at the top with a +1.5 lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-8.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733367_840aa095a1_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733412_d27068b305_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=",
@@ -2154,14 +2162,6 @@ news_feed (
          "title" : "Queens Online Chess Festival - updated!"
       },
       {
-         "description" : " In our latest show, Andrew and I reviewed the first three rounds of the Candidates Tournament in Madrid. Besides the three decisive games, I was impressed by Nakamura's brilliant save against Firouzja, in which he had to find a whole series of only moves. Those who would like to support our show now have an <a href=\"https://chessimprover.com/master-chess-web-show-19/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (19)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-19/\">Master Chess Web Show (19)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-19/",
-         "pubDate" : "Thu, 23 Jun 2022 07:17:18 +0000",
-         "title" : "Master Chess Web Show (19)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2200,22 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1824",
          "pubDate" : "Tue, 21 Jun 2022 21:01:24 +0000",
          "title" : "2022 Candidates, Round 4: Nepomniachtchi alone in the lead"
-      },
-      {
-         "description" : " Ian Nepomniachtchi leads the Candidates on 3/4 after beating Alireza Firouzja. The remaining round 4 games were drawn. Fabiano Caruana is half a point behind the leader. Firouzja has struggled to get into the tournament due to the really quite terrible draw he's got, starting with two blacks and now today black again for the third black in four games. Of course the games with the white pieces will come eventually but this is as trying a start as it's possible to have. Today was a razor sharp Najdorf where Firouzja tried to surprise Nepomniachtchi with the uncommon but also not highly regarded 15...Bc4. We won't really know if Nepomniachtchi knew any detailed lines but although clearly think",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-brushes-aside-firouzja-to-lead-alone-after-four-rounds-of-the-candidates",
-         "pubDate" : "Tue, 21 Jun 2022 22:39:00 +0400",
-         "title" : "Nepomniachtchi brushes aside Firouzja to lead alone after four rounds of the Candidates - 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1823",
-         "pubDate" : "Tue, 21 Jun 2022 15:53:14 +0000",
-         "title" : "FIDE President on Nigel Short's resignation as FIDE Vice President"
       }
    ]
 }
