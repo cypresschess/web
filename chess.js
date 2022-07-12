@@ -2,12 +2,108 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation In late April, Tanitoluwa Adewumi earned his first IM norm and yesterday he earned a second. Tani earned the norm at the New York Summer Invitational where topped the field with 7/9 edging out Nakada Akira who finished with 6.5. Now the top-rated 11-year old, he only needs The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/tani-adewumi-gets-second-im-norm/\">Tani Adewumi gets second IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/12/tani-adewumi-gets-second-im-norm/",
+         "pubDate" : "Tue, 12 Jul 2022 15:26:35 +0000",
+         "title" : "Tani Adewumi gets second IM norm!"
+      },
+      {
+         "description" : "Christopher Yoo has officially entered the Junior top 20 rating list. At the ongoing US junior chess championship, Christopher Yoo has gained 15,1 rating points and is currently at his all time high 2565 ELO. Christopher Yoo is the third highest rated US junior after Hans Niemann (2687 ELO) and Awonder Liang (2617 ELO). With []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/15-year-old-christopher-yoo-is-now-the-youngest-in-the-top-20-junior-list/",
+         "pubDate" : "Tue, 12 Jul 2022 15:17:21 +0000",
+         "title" : "15 year old Christopher Yoo is now the youngest in the top 20 junior list"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1859",
+         "pubDate" : "Tue, 12 Jul 2022 15:00:28 +0000",
+         "title" : "12 Ukrainian players will receive help with expenses at the European Championship"
+      },
+      {
+         "description" : "GM Vidit Gujrathi and GM Alexey Sarana won the first and second Play-ins of the Chess.com Global Championship.&#38;nbsp; Vidit and Sarana advance to the main event along with GMs Rasmus Svane and Oleksandr Bortnyk, victors of the two-game matches be...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-championship-play-in-week-1-day-1",
+         "pubDate" : "Tue, 12 Jul 2022 07:36:59 -0700",
+         "title" : "Vidit and Sarana Win the Inaugural Chess.com Global Play-Ins"
+      },
+      {
+         "description" : " On of the difficulties at the start of recent chess olympiads is having all the registered players turn up. The main cause for no shows is visa difficulties, as for a lot of countries getting a visa is a very difficult process. A lot of small Pacific nations do not have an embassy or consulate of the host country and have to send passports and forms to Australia or the Philippines months in advance. On the other hand European countries rarely have this difficulty, as they either have free movement in the countries hosting the Olympiad, or the EU has reciprocal arrangements, making visa applications pretty straightforward. Interestingly enough, India has an online application process, which ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/visa-issues-for-thee.html",
+         "pubDate" : "Tue, 12 Jul 2022 14:08:00 +0000",
+         "title" : "Visa issues for thee"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/692c1bb0-b60a-4092-bcbb-5cf78eb67239/Howell4.png\" data-image-dimensions=\"471x216\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62cd7fddcba5ad063ce94076\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/692c1bb0-b60a-4092-bcbb-5cf78eb67239/Howell4.png?format=1000w\" /> </figure> <p class=\"\">As the dust settles on the FIDE Candidates tournament and its attendant news, three- time British Champion and popular Chess24 commentator GM David Howell joins me to assess th",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/12/ep-287-gm-david-howell-joins-for-a-fide-candidates-wrap-up-plus-world-championship-match-scuttlebutt-and-his-2022-otb-and-commentating-plans",
+         "pubDate" : "Tue, 12 Jul 2022 14:07:50 +0000",
+         "title" : "EP 287- GM David Howell joins for a FIDE Candidates Wrap Up plus World Championship Match Scuttlebutt, and his 2022 OTB and Commentating Plans "
+      },
+      {
+         "description" : "PUMA ambassadors Momo Gonz&#xE1;lez and World Chess Champion Magnus Carlsen talk about the importance of staying focused in their sport. Magnus Carlsen shares, &#8220;I started playing [padel] this year as an amateur. Many of my friends that have never played tennis or squash before found it fun and sociable&#8221; See the full video below. Previously: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/padel-meets-chess-featuring-world-champion-magnus-carlsen/",
+         "pubDate" : "Tue, 12 Jul 2022 13:17:25 +0000",
+         "title" : "Padel meets chess - featuring World Champion Magnus Carlsen"
+      },
+      {
+         "description" : "There are times when life puts you through extremely tough situations. Top Georgian female player GM Bela Khotenashvili and her husband IM Malkhaz Sulashvili have fought many battles over the chess board. But what they are going through right now is by far the toughest phase of their life. Their 1.5 year-old son Gabriel was detected with high risk neuroblastoma. To ensure appropriate treatment, they shifted to France from Georgia. However, the battle is long and in order to save Gabriel's life, they now need to shift to the USA or Spain. Funds are a major challenge and this is where you can help. Read the article to know more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-georgian-gm-bela-khotenashvili-needs-your-help",
+         "pubDate" : "Tue, 12 Jul 2022 14:00:00 +0100",
+         "title" : "Top Georgian GM Bela Khotenashvili needs your help"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92829721.cms\" />Indian Grandmaster Surya Sekhar Ganguly on Tuesday emerged winner in the Fischer Random event at Biel Chess Festival with compatriot SP Sethuraman finishing in second place.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/surya-sekhar-ganguly-wins-fischer-random-event-at-biel-chess-festival/articleshow/92829721.cms",
+         "pubDate" : "Tue, 12 Jul 2022 12:22:25 +0000",
+         "title" : "Surya Sekhar Ganguly wins Fischer Random event at Biel Chess Festival"
+      },
+      {
+         "description" : " Chess.com hosted a $100,000 blitz championship that featured six NFL football players. BlitzChamps was announced a month ago with great anticipation. Back in 2020, chess.com featured a blitz battle between Wu Tang Clan members RZA and GZA. The online platform has made chess opponents more accessible and there are a multitude of different tournaments around The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/nfl-football-players-battle-on-chess-com/\">NFL football players battle on chess.com</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/12/nfl-football-players-battle-on-chess-com/",
+         "pubDate" : "Tue, 12 Jul 2022 12:06:16 +0000",
+         "title" : "NFL football players battle on chess.com"
+      },
+      {
          "description" : "After Vincent Keymer's (narrow) victory in the Chess960 tournament on Monday, the players now test their skills in rapid. Can Vincent Keymer repeat his success from Monday? Start: 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
          "pubDate" : "Tue, 12 Jul 2022 12:45:00 +0100",
          "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "The 2022 New York GM/IM Summer Invitational&#xA0;took place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York, featuring four 10-player round-robin tournaments for grandmasters and international masters norms. The line-up of the International master C tournament included the 11-year-old US star Tani Adewumi who became the National master at the age of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/11-year-old-tani-adewumi-wins-the-new-york-im-summer-invitational/",
+         "pubDate" : "Tue, 12 Jul 2022 11:33:22 +0000",
+         "title" : "11-year-old Tani Adewumi wins the 2022 New York IM Summer Invitational"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1858",
+         "pubDate" : "Tue, 12 Jul 2022 11:29:08 +0000",
+         "title" : "Nakhchivan to host FIDE World Youth U-16 Chess Olympiad "
       },
       {
          "description" : "In the Accentus Chess960 tournament at the start of the 55th Biel Chess Festival Vincent Keymer and Nodirbek Abdusattorov both finished with 5.0/7 and tied first. However, as Keymer won more games with Black, he won the tournament on tiebreak. | Photos: Schachfestival Biel.",
@@ -42,7 +138,7 @@ news_feed (
          "title" : "IM Tarun Kanyamarala is the 101st Irish Chess Champion"
       },
       {
-         "description" : "The 2022 New York GM/IM Summer Invitational&#160;took place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York, featuring four 10-player round-robin tournaments for grandmasters and international masters norms. GM Kamil Dragun won the Grandmaster A tournament with 6.5/9 points. Dragun was the sole winner of the event half a point ahead of []",
+         "description" : "The 2022 New York GM/IM Summer Invitational&#xA0;took place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York, featuring four 10-player round-robin tournaments for grandmasters and international masters norms. GM Kamil Dragun won the Grandmaster A tournament with 6.5/9 points. Dragun was the sole winner of the event half a point ahead of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/the-winners-of-the-2022-new-york-gm-im-summer-invitational-announced/",
@@ -202,14 +298,6 @@ news_feed (
          "title" : "2022 U.S. Senior & U.S. Junior Championships: Club Expansion"
       },
       {
-         "description" : "The ACCENTUS Chess960 (ACC) took place today at the Main stage of the Concert Hall, Biel Congress Center within the Biel International Chess Festival 2022. The event was played in 7 round-robin rounds, with the starting position of pieces determined before the start of each round. The time control for the games was: 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vincent-keymer-wins-accentus-chess960-tournament-in-biel/",
-         "pubDate" : "Mon, 11 Jul 2022 20:07:45 +0000",
-         "title" : "Vincent Keymer wins ACCENTUS Chess960 tournament in Biel"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-201-with-daniel-fernandez-endgame-highlights-from-the-candidates-tournament-2",
          "pubDate" : "Mon, 11 Jul 2022 18:00:00 +0100",
          "title" : "Endgame Magic #202 with Arne K&auml;hler: Highlights from Norway Chess with Arne K&auml;hler"
-      },
-      {
-         "description" : "The&#160;World Chess Championship Match 1972&#160;between the challenger&#160;Bobby Fischer&#160;of the&#160;United States&#160;and defending champion&#160;Boris Spassky&#160;of the&#160;Soviet Union started on July 11th, 50 years ago. The match took place in the&#160;Laugardalsh&#xF6;ll&#160;arena in&#160;Reykjav&#xED;k,&#160;Iceland, and has been dubbed the&#160;Match of the Century. Fischer won the match 12&#xBD;&#x2013;8&#xBD;, becoming the eleventh undisputed world champion, thus ending the 24 years of Soviet []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/throwback-to-1972-fischer-spassky-world-championship-match-tweetoftheday/",
-         "pubDate" : "Mon, 11 Jul 2022 16:12:25 +0000",
-         "title" : "Throwback to 1972 Fischer - Spassky World Championship Match #TweetOftheDay"
       },
       {
          "description" : "Day 1 of the FTX Road to Miami online tournament saw Jeffery Xiong grabbing the sole lead after collecting three wins and a loss. The 21-year-old has a 1-point lead over four players sharing second place on 8/12 points. Some of the rating favourites, like Levon Aronian, Anish Giri and Teimour Radjabov, currently stand on the bottom half of the tournament table. | Photo: Lennart Ootes",
@@ -272,14 +352,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/close-win-for-baden-baden/",
          "pubDate" : "Mon, 11 Jul 2022 14:00:59 +0100",
          "title" : "Close win for Baden-Baden"
-      },
-      {
-         "description" : "The 127th edition of the Scottish Chess Championship&#160;took place from 2-10 July 2022 at the Edinburgh Chess Club in Edinburgh.&#160;FM Murad Abdulla won the event clinching his third Scotland National Chess Champion title. FM Murad Abdulla and FM Keith Ruxton tied for the first place after 9 played rounds scoring 6.5 points, each. Abdulla had []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-murad-abdulla-wins-his-third-scottish-chess-champion-title/",
-         "pubDate" : "Mon, 11 Jul 2022 12:52:29 +0000",
-         "title" : "FM Murad Abdulla wins his third Scottish Chess Champion title"
       },
       {
          "description" : "On Sunday, the 55th Chess Festival Biel opened in the Congress Centre in Biel. To kick things off, the Chinese top grandmaster Yu Yangyi gave a simul. Today the GM Triathlon begins with the Fischerrandom Tournament, at 13:00 local time (7:00 ET, 11:00 UTC). Three of the world's best U18-players start: V. Keymer, N. Abdusattorov, and D. Gukesh.",
@@ -1658,14 +1730,6 @@ news_feed (
          "title" : "The 10 Most Incredible Stalemates in Chess History"
       },
       {
-         "description" : "Fighting chess was the rule rather than the exception in round 10 of the Candidates Tournament. All the players - except Ian Nepomniachtchi, naturally - chose fighting lines, attempting to win at all costs, as the event is coming to an end and first place is all that matters. In the end, Ding Liren and Hikaru Nakamura won and caught up with Fabiano Caruana in shared second place, as the latter overplayed his hand and was defeated by Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r10",
-         "pubDate" : "Thu, 30 Jun 2022 01:00:00 +0100",
-         "title" : "Candidates R10: Ding and Naka strike as Caruana falters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1688,14 +1752,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepomniachtchi-leads-the-2022-candidates-with-1-5-after-round-10/",
          "pubDate" : "Wed, 29 Jun 2022 18:35:26 +0000",
          "title" : "Nepomniachtchi leads the 2022 Candidates with +1.5 after Round 10"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev and GM Salem Saleh were the victors in Titled Tuesday on June 28, both winning outright with 9.5 points. Saleh even missed the first round and won anyway.&#38;nbsp; GM Hikaru Nakamura finished third in the early event despite be...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-saleh-win-titled-tuesday-june-28-2022",
-         "pubDate" : "Wed, 29 Jun 2022 10:42:48 -0700",
-         "title" : "Fedoseev, Saleh Win As Nakamura Joins Titled Tuesday During Candidates"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In order to avoid clashes between two Ukrainian participants and three players Russia at the <strong>Women's Candidates Tournament</strong>, <strong>FIDE</strong> will not hold it as a round-robin but in <a href=\"https://fide.com/news/1835\">matches and has pooled</a> the participants in a way that doesn't allow a Russian-Ukrainian clash before the final, diverging from the principle introduced in 2019 to hold top women competitions <a href=\"https://chess24.com/en/watch/live-tournaments/womens-candidates-2019/14/1/1\">in the same way</a> as top men competitions. Ukraine has banned its athletes from competing against Russians. </div> ",
@@ -2160,46 +2216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1823",
          "pubDate" : "Tue, 21 Jun 2022 15:53:14 +0000",
          "title" : "FIDE President on Nigel Short's resignation as FIDE Vice President"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6212acb2-e52a-47ea-85ba-864e1d22fc9a/Eval2.jpg\" data-image-dimensions=\"199x322\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b1cd1409631f28b6e5476b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/6212acb2-e52a-47ea-85ba-864e1d22fc9a/Eval2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Get more info about Eugene and Nate's book <a href=\"https://evalgm.com\">here </a> </figcaption> </figure> <p class=\"\">This week I am joined by two ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/21/ep-284-gm-eugene-perelshteyn-and-fm-nate-solon-on-how-to-improve-your-chess-evaluation-skills-plus-the-lessons-we-can-learn-from-magnus-blitz-games",
-         "pubDate" : "Tue, 21 Jun 2022 13:57:35 +0000",
-         "title" : "EP 284- GM Eugene Perelshteyn and FM Nate Solon on How to Improve Your Chess Evaluation Skills plus the lessons we can learn from Magnus' blitz games"
-      },
-      {
-         "description" : " Courtesy of my opponent spotting my Plan A, but not my Plan B, I managed to produce a 'Pinwheel Fork' for probably the first time in my career. Having pushed 16.e4, my opponent Ian Hosking, assumed I was looking for some complicated tactic based on attacking f7 and e6. He decided to deal with it my taking on d4, assuming that my next move would be to capture the bishop on f5. Instead the knight landed on c6, and thanks to the pinned b pawn, I successfully attacked the queen, both rooks and a bishop, all of which were undefended! <br /> <b>Press,Shaun - Hosking,Ian [D11]</b><br />Belconnen Cup (6), 21.06.2022 <script>new PgnViewer( { boardName: \"game1333\", movesFormat: \"default\", pgnString:'",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/the-pinwheel-fork.html",
-         "pubDate" : "Tue, 21 Jun 2022 13:34:00 +0000",
-         "title" : "The Pinwheel Fork"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1818",
-         "pubDate" : "Tue, 21 Jun 2022 12:14:47 +0000",
-         "title" : "FIDE Introduces Torch Relay Tradition into Chess Olympiads"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92363649.cms\" />Little-known Indian players LR Srihari, S Nitin and Srijit Paul hogged the limelight with wins to be among the leaders with four points after four rounds in the 13th Chennai Open International Grandmaster chess tournament 2022 on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-indian-ims-srihari-nitin-among-leaders/articleshow/92363649.cms",
-         "pubDate" : "Tue, 21 Jun 2022 12:08:45 +0000",
-         "title" : "Chennai Open chess: Indian IMs Srihari, Nitin among leaders"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92363095.cms\" />Jammu and Kashmir Lieutenant Governor Manoj Sinha on Tuesday handed over the Chess Olympiad Torch to Grandmaster Pravin Thipsay here as part of relay for the 44th Chess Olympiad to be held in Chennai.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/jammu-and-kashmir-lg-hands-over-chess-olympiad-torch-to-grandmaster-pravin-thipsay/articleshow/92363095.cms",
-         "pubDate" : "Tue, 21 Jun 2022 11:50:00 +0000",
-         "title" : "J&K LG hands over Chess Olympiad Torch to GM Pravin Thipsay"
       }
    ]
 }
