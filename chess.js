@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ambitious-alice-lee-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "Ambitious Alice Lee | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tournament-prep-segment-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "Tournament Prep Segment | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/complicated-fun-game-christopher-yoo-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "A Complicated Fun Game - Christopher Yoo | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wu-will-rest-rochelle-wu-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "The Wu Will Rest - Rochelle Wu | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/welcome-newcomer-vladimir-akopian-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "Welcome Newcomer, Vladimir Akopian! | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/only-perfect-score-sophie-morris-suzuki-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "The Only Perfect Score - Sophie Morris - Suzuki | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/little-too-complicated-jennifer-yu-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "A Little Too Complicated - Jennifer Yu | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pedros-first-win-round-5",
+         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
+         "title" : "Pedro's First Win | Round 5"
+      },
+      {
+         "description" : "GM Sam Sevian captured the lead on day two of the FTX Road to Miami tournament as he won three games back-to-back before a walkover vs. GM Teimour Radjabov, who left the tournament due to illness. GM Ju Wenjun had a splendid second day of chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-2",
+         "pubDate" : "Mon, 11 Jul 2022 17:33:00 -0700",
+         "title" : "Sevian Captures Lead While Ju Wenjun Wins 3 Games"
+      },
+      {
          "description" : "Indian prodigy Gukesh won his fifth consecutive tournament in Spain, fourth in this year. He scored an unbeaten 8/9 to win the 14th Gijon City Closed tournament, finishing 1&frac12; points ahead of the competition. The youngest GM of India gained 9.7 Elo points and is now less than 7 points away from reaching the 2700-rating barrier. | Photo: Gij&oacute;n 64",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,70 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-20-nakamura-wins",
          "pubDate" : "Sun, 10 Jul 2022 17:20:00 -0700",
          "title" : "Nakamura Wins 6th Knockout: 'In Bullet, I Have A Better Chance Of Winning'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Awonder Liang talks to Cristian Chirila after his fourth round victory over Carissa Yip in the 2022 U.S. Junior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/awonder-liang-lucky-hoodie-prevails-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CgzWpgeGbEg.jpg?itok=BAn8UmO7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/awonder-liang-lucky-hoodie-prevails-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Awonder Liang: Lucky Hoodie Prevails | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks to Cristian Chirila after her fourth round draw with Rochelle Wu in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thalia-cervantes-unbelievable-escape-wu-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E5CfZPCCQNg.jpg?itok=XQHayD_9\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/thalia-cervantes-unbelievable-escape-wu-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Thalia Cervantes: An Unbelievable Escape from Wu | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Brandon Jacobson talks to Cristian Chirila after his fourth round victory over David Brodsky in the 2022 U.S. Junior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jacobson-master-giuoco-piano-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tkd8Hf_qtGM.jpg?itok=GKn4mNEb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jacobson-master-giuoco-piano-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Jacobson: Master of Giuoco Piano? | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Jennifer Yu talks to Cristian Chirila after her fourth round victory over Zoey Tang in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-playing-every-game-win-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OQx4diGEXB0.jpg?itok=Qww-cpbJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-playing-every-game-win-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Jennifer Yu: Playing Every Game to Win | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dmitry Gurevich talks to Cristian Chirila after his fourth round victory over Igor Novikov in the 2022 U.S. Senior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dmitry-gurevich-novikov-great-theoretician-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4NNG4OE42eU.jpg?itok=c7wNdG79\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dmitry-gurevich-novikov-great-theoretician-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Dmitry Gurevich: Novikov a Great Theoretician | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Shabalov talks to Cristian Chirila after his fourth round victory over Nick De Firmian in the 2022 U.S. Senior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shabalov-dzokovic-inspired-me-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/edazVGO-Va4.jpg?itok=Xla2kITe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shabalov-dzokovic-inspired-me-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Shabalov: Dzokovic Inspired Me | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman FIDE Master Sophie Morris-Suzuki talks to Cristian Chirila after her fourth round victory over Alice Lee in the 2022 U.S. Girls' Junior Championship. 2022.07.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/morris-suzuki-4-0-proud-myself-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tCkjoj5n00M.jpg?itok=1sFpiseV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/morris-suzuki-4-0-proud-myself-round-4",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "Morris-Suzuki 4-0: Proud of Myself | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the legends how they feel to be back in Saint Louis, playing at this national championship. This aired during Round 4. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-championships-playing-stl\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AWaR_Y0Jzo0.jpg?itok=OgRsMksS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-championships-playing-stl",
-         "pubDate" : "Sun, 10 Jul 2022 23:39:48 +0000",
-         "title" : "2022 U.S. Senior Championships: Playing in STL"
       },
       {
          "description" : "",
@@ -1736,14 +1744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1836",
          "pubDate" : "Tue, 28 Jun 2022 21:03:13 +0000",
          "title" : "WSCC 2022: Valentina Gunina cruises into quarterfinals"
-      },
-      {
-         "description" : "GM Valentina Gunina defeated IM Elisabeth Paehtz in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Tuesday. Gunina showed several strengths throughout the match: tactical sharpness, excellent time management...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-gunina-paehtz",
-         "pubDate" : "Tue, 28 Jun 2022 12:40:00 -0700",
-         "title" : "Gunina Overtakes Paehtz: 'When Valentina Is On Fire, She Is Just Merciless'"
       },
       {
          "description" : "",
