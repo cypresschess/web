@@ -82,7 +82,7 @@ news_feed (
          "title" : "Gukesh keeps winning in Spain"
       },
       {
-         "description" : "European Youth Team Chess Championships 2022&#xA0;commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
+         "description" : "European Youth Team Chess Championships 2022&#160;commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-youth-team-chess-championships-2022-start-in-thessaloniki/",
