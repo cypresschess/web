@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While GM Sam Sevian continues to lead the FTX Road to Miami tournament preliminaries after the third day, top GMs such as Anish Giri, GM Levon Aronian, and GM Leinier Dominguez are not certain of the knockout phase just yet. There are three rounds...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-3",
+         "pubDate" : "Tue, 12 Jul 2022 15:39:37 -0700",
+         "title" : "Aronian, Giri Not Qualified Yet For Knockout"
+      },
+      {
+         "description" : "Sam Sevian pulled off a dramatic win in the last game of the day to stay ahead&#xA0;in&#xA0;the FTX Road to Miami as the elite $150,000 esports event reaches its elimination day. The rookie American, 21, had seen Indian teenager Arjun Erigaisi score&#xA0;three straight wins to catapult himself up the prelim stage table and briefly take []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-road-to-miami-reaches-its-elimination-day/",
+         "pubDate" : "Tue, 12 Jul 2022 21:59:40 +0000",
+         "title" : "FTX Road to Miami reaches its elimination day"
+      },
+      {
          "description" : "The 2022 Canadian Open Chess Championship&#xA0;takes place from 11 &#x2013; 17 July at the Hillfield Strathallan College, Hamilton, Ontario. The event is played in 9 rounds, swiss system, with nearly 250 players fighting for the total prize fund of 26.000$. The Winner of the Championship will pocket a money-prize of 8.000$. The time control of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -79,7 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-global-championship-play-in-week-1-day-1",
          "pubDate" : "Tue, 12 Jul 2022 07:36:59 -0700",
-         "title" : "Vidit and Sarana Win the Inaugural Chess.com Global Play-Ins"
+         "title" : "Vidit and Sarana Win Inaugural Chess.com Global Play-Ins"
       },
       {
          "description" : " On of the difficulties at the start of recent chess olympiads is having all the registered players turn up. The main cause for no shows is visa difficulties, as for a lot of countries getting a visa is a very difficult process. A lot of small Pacific nations do not have an embassy or consulate of the host country and have to send passports and forms to Australia or the Philippines months in advance. On the other hand European countries rarely have this difficulty, as they either have free movement in the countries hosting the Olympiad, or the EU has reciprocal arrangements, making visa applications pretty straightforward. Interestingly enough, India has an online application process, which ",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-wins-gijon-closed-2022",
          "pubDate" : "Mon, 11 Jul 2022 23:50:00 +0100",
          "title" : "Gukesh keeps winning in Spain"
-      },
-      {
-         "description" : "European Youth Team Chess Championships 2022&#xA0;commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-team-chess-championships-2022-start-in-thessaloniki/",
-         "pubDate" : "Mon, 11 Jul 2022 20:57:09 +0000",
-         "title" : "European Youth Team Chess Championships 2022 start in Thessaloniki"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
@@ -1674,14 +1682,6 @@ news_feed (
          "title" : "Nepomniachtchi and Ding win in Candidates Round 11 and are in first and second places - 11"
       },
       {
-         "description" : "The 2022 Intercontinental ChessKid Candidates Tournament has come to an end. Eight talented young chess players from around the world gathered in the heart of Madrid to play in this FIDE-recognized event, in the same venue and using the same board...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesskid-candidates-tournament-madrid",
-         "pubDate" : "Thu, 30 Jun 2022 11:29:00 -0700",
-         "title" : "Recapping The 2022 ChessKid Candidates Tournament In Madrid"
-      },
-      {
          "description" : " The 2022 Candidates tournament has turned out to be a real bloodbath, with almost every round seeing 2 or 3 decisive games, every player scoring t least one win, but at the same time 7 of the 8 players suffering at least one loss. The only thing that is clear at this stage is that Ian Nepomniachtchi would have to suffer a mind blowing collapse to not win the tournament, as he is 1.5 points in front with 4 rounds to play. This sets up a potential rematch with magnus Carlsen for the World Championship, although this may be one thing that isn't certain. While I'm not convinced by Carlsen's suggestion that he won't defend his title, he may be less inclined to play Nepo than any other challenger",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2192,14 +2192,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/madrid-candidates-4-nepo-storms-to-firouzja-win",
          "pubDate" : "Wed, 22 Jun 2022 10:39:25 +0000",
          "title" : "Madrid Candidates 4: Nepo storms to Firouzja win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1824",
-         "pubDate" : "Tue, 21 Jun 2022 21:01:24 +0000",
-         "title" : "2022 Candidates, Round 4: Nepomniachtchi alone in the lead"
       }
    ]
 }
