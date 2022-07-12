@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Vincent Keymer's (narrow) victory in the Chess960 tournament on Monday, the players now test their skills in rapid. Can Vincent Keymer repeat his success from Monday? Start: 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Tue, 12 Jul 2022 12:45:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "In the Accentus Chess960 tournament at the start of the 55th Biel Chess Festival Vincent Keymer and Nodirbek Abdusattorov both finished with 5.0/7 and tied first. However, as Keymer won more games with Black, he won the tournament on tiebreak. | Photos: Schachfestival Biel.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vincent-keymer-wins-accentus-chess960-tournament-in-biel",
+         "pubDate" : "Tue, 12 Jul 2022 12:20:56 +0100",
+         "title" : "Vincent Keymer wins Accentus Chess960 Tournament in Biel"
+      },
+      {
+         "description" : "The Grandmaster Triathlon (GMT)&#160;takes place 10-22 July at the Main stage of the Concert Hall, Biel Congress Center. The event is played in 3 round-robin sets with 28 games: 7 Classical games, 7&#160;Rapid games (reversed colours), and 14&#160;Blitz games (double round-robin). The distribution of points for each game is as follows: Classical:&#160;4 points for a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/biel-chess-festival-grandmaster-triathlon-live/",
+         "pubDate" : "Tue, 12 Jul 2022 11:20:08 +0000",
+         "title" : "Biel Chess Festival Grandmaster Triathlon LIVE"
+      },
+      {
+         "description" : "The 2022 Canadian Open Chess Championship will take place from 11 17 July at the Hillfield Strathallan College, Hamilton, Ontario. The event will be played in 9 rounds, swiss system, with nearly 250 players fighting for the total prize fund of 26.000$. The Winner of the Championship will pocket a money-prize of 8.000$. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/canadian-open-chess-championship-2022/",
+         "pubDate" : "Tue, 12 Jul 2022 10:59:58 +0000",
+         "title" : "Canadian Open Chess Championship 2022"
+      },
+      {
+         "description" : "The 101st edition of the Irish National Chess Championship took place from 2-10 July in Dublin. The event was played in 9 rounds, swiss system, with participation of 25 players. 18-year-old IM Tarun Kanyamarala convincingly won the event scoring unbeaten 8/9 points. Ireland&#x2019;s youngest ever International Master will be the 50th person to hold the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-tarun-kanyamarala-is-the-101st-irish-chess-champion/",
+         "pubDate" : "Tue, 12 Jul 2022 10:30:22 +0000",
+         "title" : "IM Tarun Kanyamarala is the 101st Irish Chess Champion"
+      },
+      {
+         "description" : "The 2022 New York GM/IM Summer Invitational&#160;took place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York, featuring four 10-player round-robin tournaments for grandmasters and international masters norms. GM Kamil Dragun won the Grandmaster A tournament with 6.5/9 points. Dragun was the sole winner of the event half a point ahead of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-winners-of-the-2022-new-york-gm-im-summer-invitational-announced/",
+         "pubDate" : "Tue, 12 Jul 2022 10:17:47 +0000",
+         "title" : "The Winners of the 2022 New York GM/IM Summer Invitational announced"
+      },
+      {
+         "description" : "Sam Sevian grabbed the sole lead on day 2 of the FTX Road to Miami online tournament. The US grandmaster collected a perfect 12/12 score on Monday, with one of his four wins obtained by default as Teimour Radjabov withdrew from the competition after round 5. Day 2 also saw Ju Wenjun collecting three wins to climb to the top half of the standings. The Chinese is the lowest-rated player and the only woman in the field. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d2",
+         "pubDate" : "Tue, 12 Jul 2022 11:10:00 +0100",
+         "title" : "FTX Road to Miami: Sevian leads, Ju shines"
+      },
+      {
+         "description" : "Please find the live game links for Under 19 Open &#38; Girls National Chess Championship 2022 https://live.followchess.com/#!mpl-51st-national-u-19-2022 https://live.followchess.com/#!mpl-51st-national-u-19-g-2022",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-links-for-national-under-19-open-girls-junior-chess-championship-2002/",
+         "pubDate" : "Tue, 12 Jul 2022 09:30:53 +0000",
+         "title" : "Live Game Links for National Under 19 Open & Girls (Junior) Chess Championship 2022"
+      },
+      {
+         "description" : "European Youth Team Chess Championships 2022&#xA0;take place from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) include four (4) separate []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-team-chess-championships-2022-live/",
+         "pubDate" : "Tue, 12 Jul 2022 09:07:14 +0000",
+         "title" : "European Youth Team Chess Championships 2022 LIVE"
+      },
+      {
+         "description" : "Women's World Champion Ju Wenjun beat Richard Rapport, Sam Shankland and Wei Yi as she climbed into the qualification spots after Day 2 of the FTX Road to Miami. Teimour Radjabov pulled out of the tournament after scoring just one draw in five games, while Sam Sevian took over as leader by winning all his games. Arjun Erigaisi seized 2nd place after scoring 10/12 on Day 2, a score matched by Anish Giri after a slow first day.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-2-ju-wenjun-shines-as-sevian-snatches-lead",
+         "pubDate" : "Tue, 12 Jul 2022 09:04:48 +0000",
+         "title" : "FTX Road to Miami 2: Ju Wenjun shines as Sam snatches lead"
+      },
+      {
+         "description" : "The bishop endgame in the diagrammed position will soon become an endgame, in which Black's queen fights against White's f-pawn. Black can win this endgame if his king is in the winning zone and close enough to White's f-pawn. Do you see how Black should proceed to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-zone",
+         "pubDate" : "Tue, 12 Jul 2022 09:00:00 +0100",
+         "title" : "The winning zone"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,7 +170,7 @@ news_feed (
          "title" : "Gukesh keeps winning in Spain"
       },
       {
-         "description" : "European Youth Team Chess Championships 2022&#160;commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
+         "description" : "European Youth Team Chess Championships 2022&#xA0;commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-youth-team-chess-championships-2022-start-in-thessaloniki/",
@@ -146,14 +234,6 @@ news_feed (
          "title" : "Endgame Magic #202 with Arne K&auml;hler: Highlights from Norway Chess with Arne K&auml;hler"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Mon, 11 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
-      },
-      {
          "description" : "The&#160;World Chess Championship Match 1972&#160;between the challenger&#160;Bobby Fischer&#160;of the&#160;United States&#160;and defending champion&#160;Boris Spassky&#160;of the&#160;Soviet Union started on July 11th, 50 years ago. The match took place in the&#160;Laugardalsh&#xF6;ll&#160;arena in&#160;Reykjav&#xED;k,&#160;Iceland, and has been dubbed the&#160;Match of the Century. Fischer won the match 12&#xBD;&#x2013;8&#xBD;, becoming the eleventh undisputed world champion, thus ending the 24 years of Soviet []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -202,14 +282,6 @@ news_feed (
          "title" : "FM Murad Abdulla wins his third Scottish Chess Champion title"
       },
       {
-         "description" : "28th 4NCL Congress Open&#xA0;took place from 8-10 July at Woodland Grange, Leamington Spa, Warwickshire, featuring three tournaments: Open, Under 2000 and Under 1700. All events were played in 5 swiss rounds and gathered nearly 200 participants. The 2022 Chessable English Chess Champion of two categories: Seniors and Open GM Mark Hebden, triumphed in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-mark-hebden-wins-the-28th-4ncl-congress-open/",
-         "pubDate" : "Mon, 11 Jul 2022 12:17:46 +0000",
-         "title" : "GM Mark Hebden wins the 28th 4NCL Congress Open"
-      },
-      {
          "description" : "On Sunday, the 55th Chess Festival Biel opened in the Congress Centre in Biel. To kick things off, the Chinese top grandmaster Yu Yangyi gave a simul. Today the GM Triathlon begins with the Fischerrandom Tournament, at 13:00 local time (7:00 ET, 11:00 UTC). Three of the world's best U18-players start: V. Keymer, N. Abdusattorov, and D. Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,22 +314,6 @@ news_feed (
          "title" : "FTX Road to Miami 1: Xiong leads as stars struggle"
       },
       {
-         "description" : "The 2022 Swiss Chess Championship&#160;took place from 4-10 July in Samnaun, being played in 9 rounds, swiss system, with 68 players. Simultaneously with the National Open and Women's Chess Championship, the Swiss National Seniors Chess Championship took place with participation of 16 players who fought over 7 swiss rounds. 20-year-old international master Fabian Baenziger won []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/switzerland-announces-national-chess-champions/",
-         "pubDate" : "Mon, 11 Jul 2022 10:56:00 +0000",
-         "title" : "Switzerland announces National Chess Champions"
-      },
-      {
-         "description" : "The 2022 Swedish Chess Championships&#160;(Championship, Masters Elite, Masters, Seniors 50+, Seniors 65+ and Juniors) took place from 1-10 July in Uppsala, being played as 9 round-robin tournaments and 9 swiss rounds tournaments. GM Jonny Hector&#160;claimed the title of the Swedish National Chess Champion. With 6.5/9 points, the 58-year-old native of Malmo won his second national []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swedish-national-chess-champions-crowned-in-uppsala/",
-         "pubDate" : "Mon, 11 Jul 2022 10:47:02 +0000",
-         "title" : "Swedish National Chess Champions crowned in Uppsala"
-      },
-      {
          "description" : " <p class=\"lead\">This Day (11th of July) in 1972 it was the first game of the \"Match of the Century\" between the defending World Champion Boris Spassky (Soviet Union) and the Challenger Bobby Fischer (USA). 50 years later, we're still wondering if the World Champion Magnus Carlsen will defend his title against Ian Nepomniachtchi due to - probably - lack of motivation or interest for the specific match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0ec4088c2fd829a05e371a3b3615bf37.jpeg\" width=\"2000\" height=\"1451\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess Championship 1972 // Defending World Chess Champion Boris Spassky faced the Challenger Bobby ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -272,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deal-of-the-week-masterclass-1-14",
          "pubDate" : "Mon, 11 Jul 2022 11:00:00 +0100",
          "title" : "Deal of the Week: Masterclass 1-14"
-      },
-      {
-         "description" : "The Biel International Chess Festival was opened for the 55th time yesterday by OC President Peter Bohnenblust and in the presence of Martin Schlup, President of the Grand Council of the Canton of Berne and Andr&#xE9; V&#xF6;gtlin, Central President of the Swiss Chess Federation. Read more: Biel International Chess Festival announced / Biel International Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-international-chess-festival-opened-for-the-55th-time/",
-         "pubDate" : "Mon, 11 Jul 2022 09:07:45 +0000",
-         "title" : "Biel International Chess Festival opened for the 55th time"
       },
       {
          "description" : "The All India Chess Federation takes immense pleasure in announcing the launch of the ticketing portal of the 44th Chess Olympiad. The chess fans who",
@@ -336,14 +384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1855",
          "pubDate" : "Sun, 10 Jul 2022 21:52:42 +0000",
          "title" : "Jonny Hector wins Swedish Championship"
-      },
-      {
-         "description" : "The 35th edition of the&#xA0;Leon Masters&#xA0;took place over the weekend 8-10 July in Leon, Spain. The event gathered four world-class players:&#xA0;GM Viswanathan Anand,&#xA0;GM Boris Gelfand,&#xA0;GM Andrey Esipenko&#xA0;and&#xA0;GM Jaime Santos&#xA0;and it was played as a 4-player knockout tournament. Boris Gelfand won the event after a thrilling final match against the 15th World Chess Champion Viswanathan Anand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/boris-gelfand-wins-the-35th-edition-of-leon-masters/",
-         "pubDate" : "Sun, 10 Jul 2022 21:34:07 +0000",
-         "title" : "Boris Gelfand wins the 35th edition of Leon Masters"
       },
       {
          "description" : "Chess.com&#39;s newest event, BlitzChamps, the most ambitious crossover of 2022, commenced on Saturday, pitting six NFL all-stars against each other over the chess board in a bid for $100,000 for their favorite charity. Split into two groups of thre...",
@@ -1650,28 +1690,12 @@ news_feed (
          "title" : "Nepomniachtchi leads the 2022 Candidates with +1.5 after Round 10"
       },
       {
-         "description" : "The German Grandmasters Karsten M&uuml;ller and Luis Engel developed a model that allows to classify players according to their playing style: The 4 Player Types model. According to M&uuml;ller and Engel there are \"Activists\", \"Pragmatists\", \"Theorists\", and \"Reflectors\". Each group of players has distinctive strengths and weaknesses and knowing which type of player you are - and the opponents you play against - can be extremely helpful. Tanmay Srinath liked the model.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-and-luis-engel-4-player-types-a-review",
-         "pubDate" : "Wed, 29 Jun 2022 18:50:05 +0100",
-         "title" : "Karsten M&uuml;ller and Luis Engel: The 4 Player Types model - A review"
-      },
-      {
          "description" : "GM Vladimir Fedoseev and GM Salem Saleh were the victors in Titled Tuesday on June 28, both winning outright with 9.5 points. Saleh even missed the first round and won anyway.&#38;nbsp; GM Hikaru Nakamura finished third in the early event despite be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fedoseev-saleh-win-titled-tuesday-june-28-2022",
          "pubDate" : "Wed, 29 Jun 2022 10:42:48 -0700",
          "title" : "Fedoseev, Saleh Win As Nakamura Joins Titled Tuesday During Candidates"
-      },
-      {
-         "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-3",
-         "pubDate" : "Wed, 29 Jun 2022 18:35:00 +0100",
-         "title" : "Endgames from Madrid (3)"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In order to avoid clashes between two Ukrainian participants and three players Russia at the <strong>Women's Candidates Tournament</strong>, <strong>FIDE</strong> will not hold it as a round-robin but in <a href=\"https://fide.com/news/1835\">matches and has pooled</a> the participants in a way that doesn't allow a Russian-Ukrainian clash before the final, diverging from the principle introduced in 2019 to hold top women competitions <a href=\"https://chess24.com/en/watch/live-tournaments/womens-candidates-2019/14/1/1\">in the same way</a> as top men competitions. Ukraine has banned its athletes from competing against Russians. </div> ",
@@ -1688,14 +1712,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-practically-guaranteed-candidates-victory-after-10-rounds-the-battle-for-second-place-is-on",
          "pubDate" : "Wed, 29 Jun 2022 20:56:00 +0400",
          "title" : "Nepomniachtchi practically guaranteed Candidates victory after 10 rounds, the battle for second place is on - 10"
-      },
-      {
-         "description" : "When young players ask me, what chess skill should he or she improve to be able to enter the tough arena of professional chess, I usually have a simple answer. My short advice is: \"You should learn how to defend. Especially, you should master the art of positional defence.\" | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-11-the-most-important-skill-of-a-chess-professional",
-         "pubDate" : "Wed, 29 Jun 2022 12:54:14 +0100",
-         "title" : "The Winning Academy 11: The Most Important Skill of a Chess Professional"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/aOMhC4kY5UY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
@@ -1784,14 +1800,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/more-adventures-in-school-arbiting.html",
          "pubDate" : "Tue, 28 Jun 2022 13:11:00 +0000",
          "title" : "More adventures in school arbiting"
-      },
-      {
-         "description" : "MPL 10th National School Open and Girls (U-07) Chess Championships-2022 Certificates are out to download. Download using the links given below : Open : https://aicf.online/National-School-U(7)-Open.html Girls",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-u-7-open-and-girls-chess-championship-certificates/",
-         "pubDate" : "Tue, 28 Jun 2022 10:47:23 +0000",
-         "title" : "National School U-7 Open and Girls Chess Championship Certificates"
       },
       {
          "description" : "Ian Nepomniachtchi took another huge step towards winning a second Candidates Tournament in a row after he dug deep to hold on after getting surprised by Fabiano Caruana in the opening. He still leads by a full point with just 5 rounds to go, while Hikaru Nakamura and Richard Rapport were stopped in their tracks by losing to Teimour Radjabov and Alireza Firouzja. Ding Liren also grabbed his 1st win, against Jan-Krzysztof Duda.",
@@ -2146,14 +2154,6 @@ news_feed (
          "title" : "Nepomniachtchi brushes aside Firouzja to lead alone after four rounds of the Candidates - 4"
       },
       {
-         "description" : "In an exclusive interview with chess24, FIDE President Arkady Dvorkovich speaks about the pressure he is facing at home in Russia, the criticism of his candidacy, his election campaign, the Candidates Tournament, Sergey Karjakin and Magnus Carlsen potentially giving up his World Championship title.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/dvorkovich--not-close-to-the-kremlin-anymore",
-         "pubDate" : "Tue, 21 Jun 2022 16:26:20 +0000",
-         "title" : "Arkady Dvorkovich: 'I had pressure from both sides'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2200,22 +2200,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/jammu-and-kashmir-lg-hands-over-chess-olympiad-torch-to-grandmaster-pravin-thipsay/articleshow/92363095.cms",
          "pubDate" : "Tue, 21 Jun 2022 11:50:00 +0000",
          "title" : "J&K LG hands over Chess Olympiad Torch to GM Pravin Thipsay"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1822",
-         "pubDate" : "Tue, 21 Jun 2022 10:45:39 +0000",
-         "title" : "Intercontinental ChessKid Candidates kicks off on June 21"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1821",
-         "pubDate" : "Tue, 21 Jun 2022 09:44:27 +0000",
-         "title" : "WSCC-2022: Kosteniuk beat Stefanova to reach quarterfinals"
       }
    ]
 }
