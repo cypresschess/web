@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Happy birthday to a chess prodigy&#xA0;Nihal Sarin! We wish him a bright future and beautiful games on the chess board! 18-year-old&#xA0;Nihal Sarin is an Indian&#xA0;grandmaster who holds the 11th position on the live Junior rating list having a live rating of 2651. Nihal achieved the title of Grandmaster at the age of 14 and became []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/happy-18th-birthday-to-nihal-sarin/",
+         "pubDate" : "Wed, 13 Jul 2022 11:12:49 +0000",
+         "title" : "Happy 18th birthday to Nihal Sarin!"
+      },
+      {
+         "description" : "Paul Morphy needs no introduction. On the occasion of his 138th death anniversary, Eugene Manlapao revisits the exploits of the chess genius and the peculiar circumstances of his success that seemingly recurred in the rise of succeeding American champions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/paul-morphy-the-first-of-the-conquering-american-chess-heroes-june-22-1837-july-10-1884",
+         "pubDate" : "Wed, 13 Jul 2022 12:00:00 +0100",
+         "title" : "Paul Morphy: The First of the Conquering American Chess Heroes (June 22, 1837 - July 10, 1884)"
+      },
+      {
+         "description" : "FIDE, Azerbaijan Chess Federation and Chess Federation of Nakhchivan Autonomous Republic invite all the national chess federations to participate in the FIDE World Youth U-16 Chess Olympiad 2022, which will take place in Nakhchivan, Azerbaijan, from October 1-11, 2022.&#xA0;&#xA0; Each FIDE member federation has the right to send one team. Each team shall comprise 4 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022/",
+         "pubDate" : "Wed, 13 Jul 2022 10:54:05 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad 2022"
+      },
+      {
+         "description" : "The&#160;European Women&#x2019;s Individual Chess Championship 2022 will be held from 19th August &#x2013; 1st September in Prague, Czech Republic. The event will be played in 11 rounds, Swiss system, with a total prize fund of 60 000 eur. The 22nd edition of the European Individual Women Chess Championship is a qualification event for the FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-individual-chess-championship-2022-list-of-participants/",
+         "pubDate" : "Wed, 13 Jul 2022 10:34:38 +0000",
+         "title" : "European Women Individual Chess Championship 2022 - List of participants"
+      },
+      {
+         "description" : "On Monday, Vincent Keymer won the Accentus Chess960 tournament in Biel, on Tuesday Le Quang Liem won the Rapid GM tournament. He finished with 5.5/7 or 11/14 as players received 2 points for a win and 1 point for a draw. Keymer finished second to last with 2.5/7 or 5/14. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-le-quang-liem-wins-gm-rapid",
+         "pubDate" : "Wed, 13 Jul 2022 11:30:57 +0100",
+         "title" : "Biel: Le Quang Liem wins GM Rapid"
+      },
+      {
+         "description" : "Sam Sevian is still the sole leader at the FTX Road to Miami online tournament after the third day of action. Two points behind him stands Arjun Erigaisi, who was the top scorer on Tuesday, as he won three games and lost one to collect nine points in rounds 9-12. With three rounds to go in the preliminaries, the likes of Anish Giri, Levon Aronian and Leinier Dominguez are in danger of not finishing above the cut-off line.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d3",
+         "pubDate" : "Wed, 13 Jul 2022 11:00:00 +0100",
+         "title" : "FTX Road to Miami: Above the cut-off line"
+      },
+      {
+         "description" : "Levon Aronian and Anish Giri share the final two qualification spots going into the last day of the FTX Road to Miami Prelims, just two points clear of Wei Yi. Up top Sam Sevian remains the sole leader, though second placed Arjun Erigaisi top scored for the day after beating Shakhriyar Mamedyarov, Hans Niemann and Ju Wenjun despite losing a wild first game to Jan-Krzysztof Duda. The Polish no. 1 is, like Sam, unbeaten, and has already wrapped up qualification to the knockout.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-3-aronian-giri-in-danger-as-erigaisi-top-scores",
+         "pubDate" : "Wed, 13 Jul 2022 09:56:54 +0000",
+         "title" : "FTX Road to Miami 3: Aronian & Giri in danger"
+      },
+      {
          "description" : "MPL 51st National Junior (Under-19) Open and 36th National Junior (Under-19) Girls Chess Championship is being held at PYC Hindu Gymkhana, in the heart of Pune",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -64,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-45",
          "pubDate" : "Tue, 12 Jul 2022 18:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Surprise!"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Tue, 12 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
       },
       {
          "description" : "FM Tanitoluwa Adewumi, age 11, has earned his second IM norm, of the three required to earn the coveted international master title, at the NY Summer Invitational IM C closed round-robin tournament which concluded on July 11, 2022. He won the tourn...",
@@ -162,14 +210,6 @@ news_feed (
          "title" : "NFL football players battle on chess.com"
       },
       {
-         "description" : "After Vincent Keymer's (narrow) victory in the Chess960 tournament on Monday, the players now test their skills in rapid. Can Vincent Keymer repeat his success from Monday? Start: 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Tue, 12 Jul 2022 12:45:00 +0100",
-         "title" : "Biel Chess Festival - Live"
-      },
-      {
          "description" : "The 2022 New York GM/IM Summer Invitational&#xA0;took place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York, featuring four 10-player round-robin tournaments for grandmasters and international masters norms. The line-up of the International master C tournament included the 11-year-old US star Tani Adewumi who became the National master at the age of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -210,22 +250,6 @@ news_feed (
          "title" : "Canadian Open Chess Championship 2022"
       },
       {
-         "description" : "The 101st edition of the Irish National Chess Championship took place from 2-10 July in Dublin. The event was played in 9 rounds, swiss system, with participation of 25 players. 18-year-old IM Tarun Kanyamarala convincingly won the event scoring unbeaten 8/9 points. Ireland&#x2019;s youngest ever International Master will be the 50th person to hold the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-tarun-kanyamarala-is-the-101st-irish-chess-champion/",
-         "pubDate" : "Tue, 12 Jul 2022 10:30:22 +0000",
-         "title" : "IM Tarun Kanyamarala is the 101st Irish Chess Champion"
-      },
-      {
-         "description" : "The 2022 New York GM/IM Summer Invitational&#xA0;took place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York, featuring four 10-player round-robin tournaments for grandmasters and international masters norms. GM Kamil Dragun won the Grandmaster A tournament with 6.5/9 points. Dragun was the sole winner of the event half a point ahead of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-winners-of-the-2022-new-york-gm-im-summer-invitational-announced/",
-         "pubDate" : "Tue, 12 Jul 2022 10:17:47 +0000",
-         "title" : "The Winners of the 2022 New York GM/IM Summer Invitational announced"
-      },
-      {
          "description" : "Sam Sevian grabbed the sole lead on day 2 of the FTX Road to Miami online tournament. The US grandmaster collected a perfect 12/12 score on Monday, with one of his four wins obtained by default as Teimour Radjabov withdrew from the competition after round 5. Day 2 also saw Ju Wenjun collecting three wins to climb to the top half of the standings. The Chinese is the lowest-rated player and the only woman in the field. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-links-for-national-under-19-open-girls-junior-chess-championship-2002/",
          "pubDate" : "Tue, 12 Jul 2022 09:30:53 +0000",
          "title" : "Live Game Links for National Under 19 Open & Girls (Junior) Chess Championship 2022"
-      },
-      {
-         "description" : "European Youth Team Chess Championships 2022&#xA0;take place from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) include four (4) separate []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-team-chess-championships-2022-live/",
-         "pubDate" : "Tue, 12 Jul 2022 09:07:14 +0000",
-         "title" : "European Youth Team Chess Championships 2022 LIVE"
       },
       {
          "description" : "Women's World Champion Ju Wenjun beat Richard Rapport, Sam Shankland and Wei Yi as she climbed into the qualification spots after Day 2 of the FTX Road to Miami. Teimour Radjabov pulled out of the tournament after scoring just one draw in five games, while Sam Sevian took over as leader by winning all his games. Arjun Erigaisi seized 2nd place after scoring 10/12 on Day 2, a score matched by Anish Giri after a slow first day.",
@@ -1634,14 +1650,6 @@ news_feed (
          "title" : "Live Game links: MPL 32nd National Under 17 OPEN & GIRLS Chess Championships 2022"
       },
       {
-         "description" : "The two most relevant games for the standings finished decisively in round 11 of the Candidates Tournament. Ian Nepomniachtchi beat Alireza Firouzja with black, while Fabiano Caruana first failed to make the most of a better position and then went astray against Ding Liren. This was Ding's third straight victory, which leaves him in sole second place, 1&frac12; points behind Nepo. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r11",
-         "pubDate" : "Fri, 01 Jul 2022 04:45:00 +0100",
-         "title" : "Candidates R11: Nepo wins, Caruana collapses"
-      },
-      {
          "description" : "On Wednesday, the International Chess Federation (FIDE) announced a change in the format for the Women&#39;s Candidates Tournament. Instead of mirroring the format of the general world championship cycle with a double round robin, the eight qualified ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2184,14 +2192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-indian-im-nitin-baghdasaryan-in-joint-lead/articleshow/92390785.cms",
          "pubDate" : "Wed, 22 Jun 2022 12:36:09 +0000",
          "title" : "Chennai Open chess: Indian IM Nitin, Baghdasaryan in joint lead"
-      },
-      {
-         "description" : "Ian Nepomniachtchi leads Fabiano Caruana by half a point after scoring a crushing win over Alireza Firouzja in Round 4 of the FIDE Candidates Tournament in Madrid. Alireza sprung a surprise in the opening but was punished the moment he forgot or misplayed his home preparation. The remaining games were drawn, with Ding Liren unable to convert an extra pawn against Fabiano Caruana in the clash of the pre-tournament favourites.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-4-nepo-storms-to-firouzja-win",
-         "pubDate" : "Wed, 22 Jun 2022 10:39:25 +0000",
-         "title" : "Madrid Candidates 4: Nepo storms to Firouzja win"
       }
    ]
 }
