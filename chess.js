@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MPL 51st National Junior (Under-19) Open and 36th National Junior (Under-19) Girls Chess Championship is being held at PYC Hindu Gymkhana, in the heart of Pune",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-national-junior-pune-2022-inauguration-report/",
+         "pubDate" : "Wed, 13 Jul 2022 05:56:23 +0000",
+         "title" : "MPL National Junior Pune 2022 - Inauguration Report"
+      },
+      {
+         "description" : "The quick ascent of Tani Adewumi continues. The likeable Nigerian boy who made the news three years ago while still living in a homeless shelter has collected his second IM norm in New York. Tani is only 11 years old, but has already shown a fierce playing style and a solid work ethic. These factors bode well for his chances to become an elite player in the future. | Photos: Tani&rsquo;s Twitter account (second norm on the left)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tani-adewumi-second-im-norm-new-york",
+         "pubDate" : "Wed, 13 Jul 2022 06:15:00 +0100",
+         "title" : "A second IM norm for Tani Adewumi!"
+      },
+      {
          "description" : "While GM Sam Sevian continues to lead the FTX Road to Miami tournament preliminaries after the third day, top GMs such as Anish Giri, GM Levon Aronian, and GM Leinier Dominguez are not certain of the knockout phase just yet. There are three rounds...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1688,22 +1704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/it-might-be-all-over.html",
          "pubDate" : "Thu, 30 Jun 2022 14:21:00 +0000",
          "title" : "It might be all over "
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #522 Merijn van Delft looks at a positional masterpiece, in which the knights got dancing and the pawns pushed ahead. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-522-a-positional-masterpiece",
-         "pubDate" : "Thu, 30 Jun 2022 12:32:25 +0100",
-         "title" : "Game of the Week #522: A positional masterpiece"
-      },
-      {
-         "description" : "National School U-09 Open and Girls Chess Championship Certificates out to download Links : Open : https://aicf.online/National-School-U(9)-Open.html Girls : https://aicf.online/National-School-U(9)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-u-09-open-and-girls-chess-championship-certificates-out-to-download/",
-         "pubDate" : "Thu, 30 Jun 2022 11:28:06 +0000",
-         "title" : "National School U-09 Open and Girls Chess Championship Certificates out to download"
       },
       {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/S-UJVRXK7_8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
