@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1861",
+         "pubDate" : "Wed, 13 Jul 2022 22:02:20 +0000",
+         "title" : "Most stylish teams to be awarded at 44th Chess Olympiad"
+      },
+      {
+         "description" : "As the winner of the preliminaries, GM Sam Sevian enters the knockout stage of the FTX Road to Miami tournament as the top seed. The American grandmaster will face GM Wei Yi&#38;nbsp;in the quarterfinals. GM Shakhriyar Mamedyarov, who lost to Sevian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-4",
+         "pubDate" : "Wed, 13 Jul 2022 14:34:32 -0700",
+         "title" : "Sevian Knocks Out Mamedyarov, Enters Knockout Stage As Top Seed"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Christopher Yoo talks to Cristian Chirila after his fifth round victory over Balaji Daggupati in the 2022 U.S. Junior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-complicated-fun-game-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NqVuC5chel0.jpg?itok=EEu9BLok\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-complicated-fun-game-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 20:42:15 +0000",
+         "title" : "Christopher Yoo: A Complicated Fun Game | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> FIDE Master Rochelle Wu talks to Cristian Chirila after her fifth round victory over Zoey Tang in the 2022 U.S. Girls' Junior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-time-sleep-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XcFnLfVvwMA.jpg?itok=PHlBOxVp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-time-sleep-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 20:42:15 +0000",
+         "title" : "Rochelle Wu: Time to Sleep | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Akopian talks to Cristian Chirila after his fifth round victory over Igor Khmelnitsky in the 2022 U.S. Senior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vladimir-akopian-winning-positions-slip-away-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FNd-xingdZs.jpg?itok=86Nbz9DJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vladimir-akopian-winning-positions-slip-away-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 20:42:15 +0000",
+         "title" : "Vladimir Akopian: Winning Positions Slip Away | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Sophie Morris-Suzuki talks to Cristian Chirila after her fifth round victory over Ellen Wang in the 2022 U.S. Girls' Junior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sophie-morris-suzuki-its-fitting-i-win-all-five-games-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AjH4QlDNEh8.jpg?itok=DgoA9tuW\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sophie-morris-suzuki-its-fitting-i-win-all-five-games-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 20:42:15 +0000",
+         "title" : "Sophie Morris-Suzuki: It's Fitting I Win All Five Games | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Jennifer Yu talks to Cristian Chirila after her fifth round victory over Ruiyang Yan in the 2022 U.S. Girls' Junior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-made-it-little-too-complicated-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L2fQG3NClik.jpg?itok=Tfqyl3Tp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-made-it-little-too-complicated-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 20:42:15 +0000",
+         "title" : "Jennifer Yu: Made it a Little Too Complicated | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Pedro Espinosa talks to Cristian Chirila after his fifth round victory over Carissa Yip in the 2022 U.S. Junior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pedro-espinosa-first-win-over-yip-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hJgkX3IN1is.jpg?itok=L5qMRIKp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pedro-espinosa-first-win-over-yip-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 20:42:15 +0000",
+         "title" : "Pedro Espinosa: First Win... over Yip! | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.14<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-7-lichessorg",
+         "pubDate" : "Wed, 13 Jul 2022 20:42:15 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 7 | lichess.org"
+      },
+      {
+         "description" : "Tanitoluwa Adewumi is making headlines these days, having won the 2022 Summer New York Invitational. And rightly so, as his trajectory now draws close comparison to the stellar rise of Abhimanyu Mishra, who became the youngest GM in the world at the age of 12 years, 4 months, 25 days. However, it is another US []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andy-woodward-is-the-top-u12-player-in-the-world/",
+         "pubDate" : "Wed, 13 Jul 2022 20:29:25 +0000",
+         "title" : "Andy Woodward is the top U12 player in the world"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1860",
+         "pubDate" : "Wed, 13 Jul 2022 19:35:50 +0000",
+         "title" : "Loïc Travadon scores double at 8th International Francophone Chess Meetings"
+      },
+      {
+         "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34236229/meet-thambi-mascot-chess-olympiad-2022?device=featurephone",
+         "pubDate" : "Wed, 13 Jul 2022 13:35:29 -0500",
+         "title" : "Meet Thambi, the mascot of Chess Olympiad 2022"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #524 Merijn van Delft takes a look at fine game played in the last rounds of the German Bundesliga. In this game the young German Frederik Svane, who recently became a Grandmaster, outplayed Michael Adams in a Ruy Lopez. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-nakamura-win-titled-tuesday-july-12-2022",
          "pubDate" : "Wed, 13 Jul 2022 09:24:12 -0700",
          "title" : "Nakamura Returns To Winner's Circle In Titled Tuesday"
-      },
-      {
-         "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34236229/meet-thambi-mascot-chess-olympiad-2022?device=featurephone",
-         "pubDate" : "Wed, 13 Jul 2022 11:22:01 -0500",
-         "title" : "Meet Thambi, the mascot of Chess Olympiad 2022"
       },
       {
          "description" : "In his new video course, the French top grandmaster Romain Edouard shows you how to win games by seizing the initiative with sacrifices. The course consists of two volumes: In the first volume, Edouard demonstrates patterns, and in the second course you are invited to test your knowledge. All new courses can now also be watched via stream, e.g. on mobile devices!",
@@ -258,14 +346,6 @@ news_feed (
          "title" : "Tani Adewumi gets second IM norm!"
       },
       {
-         "description" : "Christopher Yoo has officially entered the Junior top 20 rating list. At the ongoing US junior chess championship, Christopher Yoo has gained 15,1 rating points and is currently at his all time high 2565 ELO. Christopher Yoo is the third highest rated US junior after Hans Niemann (2687 ELO) and Awonder Liang (2617 ELO). With []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/15-year-old-christopher-yoo-is-now-the-youngest-in-the-top-20-junior-list/",
-         "pubDate" : "Tue, 12 Jul 2022 15:17:21 +0000",
-         "title" : "15 year old Christopher Yoo is now the youngest in the top 20 junior list"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -368,62 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-zone",
          "pubDate" : "Tue, 12 Jul 2022 09:00:00 +0100",
          "title" : "The winning zone"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ambitious-alice-lee-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "Ambitious Alice Lee | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tournament-prep-segment-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "Tournament Prep Segment | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/complicated-fun-game-christopher-yoo-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "A Complicated Fun Game - Christopher Yoo | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wu-will-rest-rochelle-wu-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "The Wu Will Rest - Rochelle Wu | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/welcome-newcomer-vladimir-akopian-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "Welcome Newcomer, Vladimir Akopian! | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/only-perfect-score-sophie-morris-suzuki-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "The Only Perfect Score - Sophie Morris - Suzuki | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/little-too-complicated-jennifer-yu-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "A Little Too Complicated - Jennifer Yu | Round 5"
       },
       {
          "description" : "GM Sam Sevian captured the lead on day two of the FTX Road to Miami tournament as he won three games back-to-back before a walkover vs. GM Teimour Radjabov, who left the tournament due to illness. GM Ju Wenjun had a splendid second day of chess ...",
@@ -1690,14 +1714,6 @@ news_feed (
          "title" : "Live Game links: MPL 32nd National Under 17 OPEN & GIRLS Chess Championships 2022"
       },
       {
-         "description" : "On Wednesday, the International Chess Federation (FIDE) announced a change in the format for the Women&#39;s Candidates Tournament. Instead of mirroring the format of the general world championship cycle with a double round robin, the eight qualified ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-womens-candidates-new-format",
-         "pubDate" : "Thu, 30 Jun 2022 20:25:00 -0700",
-         "title" : "FIDE Announces New Knockout Format for Women's Candidates"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2192,14 +2208,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/queens-online-chess-festival-2022/",
          "pubDate" : "Thu, 23 Jun 2022 08:00:21 +0000",
          "title" : "Queens Online Chess Festival - updated!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1825",
-         "pubDate" : "Wed, 22 Jun 2022 22:25:58 +0000",
-         "title" : "2022 Candidates, Round 5: Great expectations and a lucky escape"
       }
    ]
 }
