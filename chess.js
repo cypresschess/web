@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new video course, the French top grandmaster Romain Edouard shows you how to win games by seizing the initiative with sacrifices. The course consists of two volumes: In the first volume, Edouard demonstrates patterns, and in the second course you are invited to test your knowledge. All new courses can now also be watched via stream, e.g. on mobile devices!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-winning-chess-strategies-vol-1-vol-2",
+         "pubDate" : "Wed, 13 Jul 2022 16:00:00 +0100",
+         "title" : "New: Winning Chess Strategies Vol. 1 + Vol. 2"
+      },
+      {
+         "description" : "The Ashot Anastasyan Memorial rapid chess tournament took place on July 10th at the&#xA0;Tigran Petrosyan Chess House in Yerevan. The event was dedicated to the memory of Ashot Anastasian, an Armenian chess Grandmaster who won two team bronze medals and one individual gold medal at Chess Olympiads. The event gathered 28 titled players with an []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tigran-l-petrosian-wins-ashot-anastasyan-memorial/",
+         "pubDate" : "Wed, 13 Jul 2022 14:47:19 +0000",
+         "title" : "Tigran L. Petrosian wins Ashot Anastasyan Memorial"
+      },
+      {
+         "description" : "The 2nd edition of La Plagne Chess Festival took place from 2 9 July in the Sun Valley hotel residence located in the heart of the Alps. The festival featured Masters, Accession, Amateur and Blitz tournaments with the total prize fund of 14.000 euros. GM Vitaly Sivuk won the Masters event thanks to better []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-vitaly-sivuk-is-the-winner-of-the-2nd-la-plagne-chess-masters/",
+         "pubDate" : "Wed, 13 Jul 2022 14:26:56 +0000",
+         "title" : "GM Vitaly Sivuk is the Winner of the 2nd La Plagne Chess Masters"
+      },
+      {
+         "description" : "At the close of nominations for the direct members' representatives for 2021-22 there were two nominations in each category of membership except for the silver...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-reps-elections-2022/",
+         "pubDate" : "Wed, 13 Jul 2022 12:40:21 +0000",
+         "title" : "Direct Members Reps Elections 2022"
+      },
+      {
+         "description" : "The 17th edition of the South Wales International Chess Tournament took place from 7-12 July in Bridgend. The event was played in 9 rounds, Swiss system, with participation of 49 players. GM Peter Wells convincingly won the event scoring 8/9 points, thus pocketing a Winner-prize of 800&#xA3;. Wells was a full point ahead of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-peter-wells-wins-the-17th-south-wales-international-chess-tournament/",
+         "pubDate" : "Wed, 13 Jul 2022 12:39:33 +0000",
+         "title" : "GM Peter Wells wins the 17th South Wales International Chess Tournament"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Joachim Birger Nilsen</strong>, a 29-year-old <a href=\"https://rightpeoplegroup.com/meet-joachim-b-nilsen-our-newly-appointed-managing-director-for-norway/\">headhunter specializing in IT</a> and President of the Bergen Chess Club, is the <a href=\"https://www.sjakk.no/aktuelt/joachim-b-nilsen-ny-sjakkpresident\">new President</a> of the <strong>Norwegian Chess Federation</strong> after former top player <strong>Simen Agdestein</strong> didn't run for a second term. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nilsen-follows-agdestein/",
+         "pubDate" : "Wed, 13 Jul 2022 13:17:34 +0100",
+         "title" : "Nilsen follows Agdestein"
+      },
+      {
+         "description" : "The 2022 Biel Rapid Chess Tournament took place yesterday at the Main stage of the Concert Hall, Biel Congress Center within the&#xA0;Biel International Chess Festival 2022.&#xA0;The event attracted 78 entries who competed over 9 swiss rounds, with time control: 15 minutes + 5 seconds of increment. GM Maxime Lagarde and GM Eduardo Iturrizaga tied for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-maxime-lagarde-wins-biel-rapid-2022/",
+         "pubDate" : "Wed, 13 Jul 2022 11:55:38 +0000",
+         "title" : "GM Maxime Lagarde wins Biel Rapid 2022"
+      },
+      {
          "description" : "Happy birthday to a chess prodigy&#xA0;Nihal Sarin! We wish him a bright future and beautiful games on the chess board! 18-year-old&#xA0;Nihal Sarin is an Indian&#xA0;grandmaster who holds the 11th position on the live Junior rating list having a live rating of 2651. Nihal achieved the title of Grandmaster at the age of 14 and became []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -78,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-3",
-         "pubDate" : "Tue, 12 Jul 2022 15:39:37 -0700",
+         "pubDate" : "Tue, 12 Jul 2022 15:39:00 -0700",
          "title" : "Aronian, Giri Not Qualified Yet For Knockout"
       },
       {
@@ -178,14 +234,6 @@ news_feed (
          "title" : "EP 287- GM David Howell joins for a FIDE Candidates Wrap Up plus World Championship Match Scuttlebutt, and his 2022 OTB and Commentating Plans "
       },
       {
-         "description" : "PUMA ambassadors Momo Gonz&#xE1;lez and World Chess Champion Magnus Carlsen talk about the importance of staying focused in their sport. Magnus Carlsen shares, &#8220;I started playing [padel] this year as an amateur. Many of my friends that have never played tennis or squash before found it fun and sociable&#8221; See the full video below. Previously: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/padel-meets-chess-featuring-world-champion-magnus-carlsen/",
-         "pubDate" : "Tue, 12 Jul 2022 13:17:25 +0000",
-         "title" : "Padel meets chess - featuring World Champion Magnus Carlsen"
-      },
-      {
          "description" : "There are times when life puts you through extremely tough situations. Top Georgian female player GM Bela Khotenashvili and her husband IM Malkhaz Sulashvili have fought many battles over the chess board. But what they are going through right now is by far the toughest phase of their life. Their 1.5 year-old son Gabriel was detected with high risk neuroblastoma. To ensure appropriate treatment, they shifted to France from Georgia. However, the battle is long and in order to save Gabriel's life, they now need to shift to the USA or Spain. Funds are a major challenge and this is where you can help. Read the article to know more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,14 +258,6 @@ news_feed (
          "title" : "NFL football players battle on chess.com"
       },
       {
-         "description" : "The 2022 New York GM/IM Summer Invitational&#xA0;took place from 7-11 July at Hilton Garden Inn Midtown Park Ave, New York, featuring four 10-player round-robin tournaments for grandmasters and international masters norms. The line-up of the International master C tournament included the 11-year-old US star Tani Adewumi who became the National master at the age of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/11-year-old-tani-adewumi-wins-the-new-york-im-summer-invitational/",
-         "pubDate" : "Tue, 12 Jul 2022 11:33:22 +0000",
-         "title" : "11-year-old Tani Adewumi wins the 2022 New York IM Summer Invitational"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,22 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vincent-keymer-wins-accentus-chess960-tournament-in-biel",
          "pubDate" : "Tue, 12 Jul 2022 12:20:56 +0100",
          "title" : "Vincent Keymer wins Accentus Chess960 Tournament in Biel"
-      },
-      {
-         "description" : "The Grandmaster Triathlon (GMT)&#160;takes place 10-22 July at the Main stage of the Concert Hall, Biel Congress Center. The event is played in 3 round-robin sets with 28 games: 7 Classical games, 7&#160;Rapid games (reversed colours), and 14&#160;Blitz games (double round-robin). The distribution of points for each game is as follows: Classical:&#160;4 points for a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/biel-chess-festival-grandmaster-triathlon-live/",
-         "pubDate" : "Tue, 12 Jul 2022 11:20:08 +0000",
-         "title" : "Biel Chess Festival Grandmaster Triathlon LIVE"
-      },
-      {
-         "description" : "The 2022 Canadian Open Chess Championship will take place from 11 17 July at the Hillfield Strathallan College, Hamilton, Ontario. The event will be played in 9 rounds, swiss system, with nearly 250 players fighting for the total prize fund of 26.000$. The Winner of the Championship will pocket a money-prize of 8.000$. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/canadian-open-chess-championship-2022/",
-         "pubDate" : "Tue, 12 Jul 2022 10:59:58 +0000",
-         "title" : "Canadian Open Chess Championship 2022"
       },
       {
          "description" : "Sam Sevian grabbed the sole lead on day 2 of the FTX Road to Miami online tournament. The US grandmaster collected a perfect 12/12 score on Monday, with one of his four wins obtained by default as Teimour Radjabov withdrew from the competition after round 5. Day 2 also saw Ju Wenjun collecting three wins to climb to the top half of the standings. The Chinese is the lowest-rated player and the only woman in the field. | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -1570,14 +1594,6 @@ news_feed (
          "title" : "\"MVL\" on the Candidates, Chennai and Carlsen"
       },
       {
-         "description" : "This week Robert Ris takes a look at the game Firouzja-Nepomniachtchi in which we again got to see Nepo's favorite Petroff. Firouzja opted for the interesting sideline with 5.c4, which eventually led to a non-typical Petroff structure. In the game Firouzja lost quickly but there are different, and better, ways to play this line. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-interesting-line-against-the-petroff",
-         "pubDate" : "Fri, 01 Jul 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: An interesting line against the Petroff"
-      },
-      {
          "description" : " Ian Nepomniachtchi edged ever closer to winning the Candidates tournament in Madrid and a World Chess Championship match early in 2023. Nepomniachtchi had the white pieces against Hikaru Nakamura and they played a well known sequence of moves to draw in only a few minutes. Nakamura said he didn't see any upside to going into a battle with black today where even if he won he was unlikely to overhaul Nepomniachtchi. After other results today Nepomniachtchi now only needs a draw to confirm tournament victory, I rather doubt it will turn out he needs any more points at all. The only decisive result of the day was an almost complete catastrophe with the white pieces for Ding Liren against Teimou",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepomniachtchi-leads-the-2022-candidates-with-1-5-after-round-10/",
          "pubDate" : "Wed, 29 Jun 2022 18:35:26 +0000",
          "title" : "Nepomniachtchi leads the 2022 Candidates with +1.5 after Round 10"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In order to avoid clashes between two Ukrainian participants and three players Russia at the <strong>Women's Candidates Tournament</strong>, <strong>FIDE</strong> will not hold it as a round-robin but in <a href=\"https://fide.com/news/1835\">matches and has pooled</a> the participants in a way that doesn't allow a Russian-Ukrainian clash before the final, diverging from the principle introduced in 2019 to hold top women competitions <a href=\"https://chess24.com/en/watch/live-tournaments/womens-candidates-2019/14/1/1\">in the same way</a> as top men competitions. Ukraine has banned its athletes from competing against Russians. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fide-tweeks-women-candidates/",
-         "pubDate" : "Wed, 29 Jun 2022 18:11:56 +0100",
-         "title" : "Women Candidates tweaked"
       },
       {
          "description" : " Ian Nepomniachtchi was the first to finish in Round 10 of the 14 round FIDE Candidates tournament in Madrid. Nepomniachtchi didn't push very hard with the white pieces against Teimour Radjabov and the game was drawn in 37 moves. Nepomniachtchi probably already knew by that point that his closest challenger Fabiano Caruana was going to lose and his lead would be extended to 1.5 points. With just four rounds to go four draws is all but certain to win the event for Nepomniachtchi, he may even be able to afford a loss. Fabiano Caruana's tournament has just fallen apart, he's spent the most time at the board and played the most moves. He just looks dog tired and today he played a sharp and risky",
@@ -2184,14 +2192,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/jammy-nepomniachtchi-escapes-with-a-draw-against-nakamura-in-candidates-round-5",
          "pubDate" : "Wed, 22 Jun 2022 21:31:00 +0400",
          "title" : "Jammy Nepomniachtchi escapes with a draw against Nakamura in Candidates Round 5 - 5"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92390785.cms\" />International Master Nitin Senthilvel of India is in joint lead with Armenian GM Vahe Baghdasaryan with five points after the fifth round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-indian-im-nitin-baghdasaryan-in-joint-lead/articleshow/92390785.cms",
-         "pubDate" : "Wed, 22 Jun 2022 12:36:09 +0000",
-         "title" : "Chennai Open chess: Indian IM Nitin, Baghdasaryan in joint lead"
       }
    ]
 }
