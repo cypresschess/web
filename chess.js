@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #524 Merijn van Delft takes a look at fine game played in the last rounds of the German Bundesliga. In this game the young German Frederik Svane, who recently became a Grandmaster, outplayed Michael Adams in a Ruy Lopez. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-524-f-svane-vs-m-adams",
+         "pubDate" : "Wed, 13 Jul 2022 19:00:00 +0100",
+         "title" : "Game of the Week #524: F. Svane vs M. Adams"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 17:42:19 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman International Master Alice Lee talks to Cristian Chirila after her fifth round victory over Anne-Marie Velea in the 2022 U.S. Girls' Junior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lees-goal-do-better-last-year-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a7Sk1Btqfec.jpg?itok=w0tLkw8X\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lees-goal-do-better-last-year-round-5",
+         "pubDate" : "Wed, 13 Jul 2022 17:42:19 +0000",
+         "title" : "Alice Lee's Goal: Do Better Than Last Year | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the girls how they prepared for this national championship. This aired during Round 5. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-girls%E2%80%99-junior-championships-tournament-prep\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WG3pVreNNUw.jpg?itok=t9afT8Yk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-girls%E2%80%99-junior-championships-tournament-prep",
+         "pubDate" : "Wed, 13 Jul 2022 17:42:19 +0000",
+         "title" : "2022 U.S. Girls' Junior Championships: Tournament Prep"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92860094.cms\" />Indian origin siblings Tarun and Trisha Kanyamarala are in the midst of a golden run on the chess circuit in Ireland. While Trisha --- Ireland's first-ever WIM (Woman International Master) --- won the Irish women's championship last month, her elder brother Tarun bagged the men's (open) crown on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-siblings-look-to-shine-for-ireland-at-chess-olympiad/articleshow/92860094.cms",
+         "pubDate" : "Wed, 13 Jul 2022 17:35:33 +0000",
+         "title" : "Indian origin siblings look to shine for Ireland at Chess Olympiad"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Wed, 13 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "After a near-miss in the early tournament, GM Hikaru Nakamura claimed another Titled Tuesday victory in the late tournament on July 12. It was his first win since a double sweep on June 7, after playing this event irregularly of late due to the 20...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-nakamura-win-titled-tuesday-july-12-2022",
+         "pubDate" : "Wed, 13 Jul 2022 09:24:12 -0700",
+         "title" : "Nakamura Returns To Winner's Circle In Titled Tuesday"
+      },
+      {
+         "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34236229/meet-thambi-mascot-chess-olympiad-2022?device=featurephone",
+         "pubDate" : "Wed, 13 Jul 2022 11:22:01 -0500",
+         "title" : "Meet Thambi, the mascot of Chess Olympiad 2022"
+      },
+      {
          "description" : "In his new video course, the French top grandmaster Romain Edouard shows you how to win games by seizing the initiative with sacrifices. The course consists of two volumes: In the first volume, Edouard demonstrates patterns, and in the second course you are invited to test your knowledge. All new courses can now also be watched via stream, e.g. on mobile devices!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -362,14 +426,6 @@ news_feed (
          "title" : "A Little Too Complicated - Jennifer Yu | Round 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.11<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pedros-first-win-round-5",
-         "pubDate" : "Tue, 12 Jul 2022 02:40:45 +0000",
-         "title" : "Pedro's First Win | Round 5"
-      },
-      {
          "description" : "GM Sam Sevian captured the lead on day two of the FTX Road to Miami tournament as he won three games back-to-back before a walkover vs. GM Teimour Radjabov, who left the tournament due to illness. GM Ju Wenjun had a splendid second day of chess ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -384,22 +440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-wins-gijon-closed-2022",
          "pubDate" : "Mon, 11 Jul 2022 23:50:00 +0100",
          "title" : "Gukesh keeps winning in Spain"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Alejandro Ramirez, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-6-lichessorg",
-         "pubDate" : "Mon, 11 Jul 2022 20:40:40 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 6 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players of all fields about the Saint Louis Chess Club&#039;s long-awaited expansion. This aired during Round 5. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-us-junior-championships-club-expansion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IaKa2xptScw.jpg?itok=bWwBFDnG\" alt=\"\" /></a></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-club-expansion",
-         "pubDate" : "Mon, 11 Jul 2022 20:40:40 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Club Expansion"
       },
       {
          "description" : "",
@@ -1562,14 +1602,6 @@ news_feed (
          "title" : "FIDE Athletes Commission elections to be held in Chennai"
       },
       {
-         "description" : "In his \"Power Play Show\" Daniel King examines a classical game between Alexander Alekhine and Fred Yates, in which the former world champion dominated his opponent by taking control of the open file and the dark squares. He also looks at a similar game from 1972 featuring the great Yuri Averbakh. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-overarching-strategy",
-         "pubDate" : "Fri, 01 Jul 2022 19:15:00 +0100",
-         "title" : "Daniel King's Power Play Show: Grand strategy from the old school"
-      },
-      {
          "description" : " This instructive pawn ending comes from the game between Edward Lasker and William Ward, played in 1913 in the City of London Chess Club Championship. I'm assuming you know basic KP v K theory: if not I'd recommend Chess Endings for Heroes as a source of this information. We pick up the position here, as <a href=\"https://chessimprover.com/distant-opposition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Distant Opposition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/distant-opposition/\">Distant Opposition</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1584,14 +1616,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/recap-of-the-round-12-of-the-fide-candidates-2022/",
          "pubDate" : "Fri, 01 Jul 2022 17:36:11 +0000",
          "title" : "Lifesaving draws, and a Huge Loss for Ding Liren in Round 12"
-      },
-      {
-         "description" : "It has been more than a year since Maxime Vachier-Lagrave (MVL) finished second in the Candidates tournament. Ideally, the French Grandmaster should have been playing in this year's edition too. However, he missed out following disappointing performances in the Fide Grand Prix events. With the 2021 Candidates tournament relatively fresh in mind, Dhananjay Khadilkar spoke to MVL on a range of issues including his pick for the 2022 Candidates, skipping this year's Olympiad and the possibility of Magnus Carlsen not defending the world championship title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mvl-on-the-candidates-chennai-and-carlsen",
-         "pubDate" : "Fri, 01 Jul 2022 18:05:00 +0100",
-         "title" : "\"MVL\" on the Candidates, Chennai and Carlsen"
       },
       {
          "description" : " Ian Nepomniachtchi edged ever closer to winning the Candidates tournament in Madrid and a World Chess Championship match early in 2023. Nepomniachtchi had the white pieces against Hikaru Nakamura and they played a well known sequence of moves to draw in only a few minutes. Nakamura said he didn't see any upside to going into a battle with black today where even if he won he was unlikely to overhaul Nepomniachtchi. After other results today Nepomniachtchi now only needs a draw to confirm tournament victory, I rather doubt it will turn out he needs any more points at all. The only decisive result of the day was an almost complete catastrophe with the white pieces for Ding Liren against Teimou",
@@ -1704,14 +1728,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-20/",
          "pubDate" : "Thu, 30 Jun 2022 18:50:37 +0000",
          "title" : "Master Chess Web Show (20)"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi is on the brink of winning the 2022 Candidates Tournament after beating GM Alireza Firouzja with the black pieces on Thursday. The French-Iranian grandmaster was over-ambitious and put up poor resistance, having played online...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-11",
-         "pubDate" : "Thu, 30 Jun 2022 11:42:00 -0700",
-         "title" : "Nepomniachtchi On The Brink As Firouzja Goes Berserk"
       },
       {
          "description" : " Ian Nepomniachtchi won his fifth game of the Candidates beating Alireza Firouzja in the eleventh round of the FIDE Candidates in Madrid. The story of this game even early on was that Firouzja was up all night playing hyper bullet 30 second chess on the Internet. I'm afraid his reckless play today showed all the signs of him doing precisely that. 16.g4 is dubious, 17.h4? is bad and 18.g5 leaves white flat lost. Of course it required skill from Nepomniachtchi to make the refutation look easy but the in form Russian had no problems whatsoever. Nepomniachtchi is still in complete control of the tournament three draws, likely only two, will win him the event. The final game to finish ended Fabia",
@@ -2184,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1825",
          "pubDate" : "Wed, 22 Jun 2022 22:25:58 +0000",
          "title" : "2022 Candidates, Round 5: Great expectations and a lucky escape"
-      },
-      {
-         "description" : " Ian Nepomniachtchi had an extremely lucky escape against Hikaru Nakamura in Round 5 of the FIDE Candidates tournament in Madrid. His draw means that he still leads the event alone on 3.5/5 half a point clear of Fabiano Caruana. Nakamura played a very popular line against Nepomniachtchi's Petroff Defence and they followed an old game of the American's until 14...Bf8 deviated. The first real key moments were 16...Qe4? a mistake played after a remarkable 14 seconds of thought, 17.Bf1 Qg4? (after 1 minute 23 seconds of thought, 17...Qb1 is better). After the game Nepomniachtchi explained that he'd confused this position with a similar one where these moves work. Essentially now Nepomniachtchi h",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/jammy-nepomniachtchi-escapes-with-a-draw-against-nakamura-in-candidates-round-5",
-         "pubDate" : "Wed, 22 Jun 2022 21:31:00 +0400",
-         "title" : "Jammy Nepomniachtchi escapes with a draw against Nakamura in Candidates Round 5 - 5"
       }
    ]
 }
