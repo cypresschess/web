@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Justus Williams penned an article in Chess Life covering the Mid-American Open in St. Louis. While Williams is known more for his Grandmaster aspirations, he took the time to write a very interesting article on a recent tournament experience. It included some of the random distractions you may face in between rounds. We've all The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/\">Justus Williams pens article in Chess Life</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/",
+         "pubDate" : "Thu, 14 Jul 2022 02:32:24 +0000",
+         "title" : "Justus Williams pens article in Chess Life"
+      },
+      {
+         "description" : "Hotshot rookie&#160;Sam Sevian reigned supreme&#160;in the FTX Road to Miami&#x2019;s prelim stage as the $150,000 esports event now heads into its knockout phase. The 21-year-old&#xA0;from Massachusetts, playing in his first Meltwater Champions Chess Tour event,&#xA0;followed up his impressive first three days with another assured performance to clinch top spot. Sevian&#x2019;s rookie run has already&#xA0;earned him []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-field-of-ftx-road-to-miami-cut-in-half-as-the-prelims-stage-concluded-today/",
+         "pubDate" : "Thu, 14 Jul 2022 00:38:46 +0000",
+         "title" : "The field of FTX Road to Miami cut in half as the prelims stage concluded today"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the legends how they prepared for this national championship. This aired during Round 6. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-championship-tournament-prep\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_Bpq9VFVqSc.jpg?itok=kstsC7yf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-championship-tournament-prep",
+         "pubDate" : "Wed, 13 Jul 2022 23:42:21 +0000",
+         "title" : "2022 U.S. Senior Championship: Tournament Prep"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the best junior players in the country what their goals are in this national championship. This aired during Round 6. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-junior-championship-goals\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tZIE36fRjqE.jpg?itok=w2KnhexY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-junior-championship-goals",
+         "pubDate" : "Wed, 13 Jul 2022 23:42:21 +0000",
+         "title" : "2022 U.S. Junior Championship: Goals"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -112,22 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-5",
          "pubDate" : "Wed, 13 Jul 2022 17:42:19 +0000",
          "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman International Master Alice Lee talks to Cristian Chirila after her fifth round victory over Anne-Marie Velea in the 2022 U.S. Girls' Junior Championship. 2022.07.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lees-goal-do-better-last-year-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a7Sk1Btqfec.jpg?itok=w0tLkw8X\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lees-goal-do-better-last-year-round-5",
-         "pubDate" : "Wed, 13 Jul 2022 17:42:19 +0000",
-         "title" : "Alice Lee's Goal: Do Better Than Last Year | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the girls how they prepared for this national championship. This aired during Round 5. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-girls%E2%80%99-junior-championships-tournament-prep\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WG3pVreNNUw.jpg?itok=t9afT8Yk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-girls%E2%80%99-junior-championships-tournament-prep",
-         "pubDate" : "Wed, 13 Jul 2022 17:42:19 +0000",
-         "title" : "2022 U.S. Girls' Junior Championships: Tournament Prep"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92860094.cms\" />Indian origin siblings Tarun and Trisha Kanyamarala are in the midst of a golden run on the chess circuit in Ireland. While Trisha --- Ireland's first-ever WIM (Woman International Master) --- won the Irish women's championship last month, her elder brother Tarun bagged the men's (open) crown on Sunday.",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ftx-road-to-miami-reaches-its-elimination-day/",
          "pubDate" : "Tue, 12 Jul 2022 21:59:40 +0000",
          "title" : "FTX Road to Miami reaches its elimination day"
-      },
-      {
-         "description" : "The 2022 Canadian Open Chess Championship&#xA0;takes place from 11 &#x2013; 17 July at the Hillfield Strathallan College, Hamilton, Ontario. The event is played in 9 rounds, swiss system, with nearly 250 players fighting for the total prize fund of 26.000$. The Winner of the Championship will pocket a money-prize of 8.000$. The time control of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/canadian-open-chess-championship-2022-live/",
-         "pubDate" : "Tue, 12 Jul 2022 17:52:01 +0000",
-         "title" : "Canadian Open Chess Championship 2022 LIVE"
       },
       {
          "description" : " &#8220;When I am White, I win because I am White. When I am Black, I win because I am Bogoljubow&#8221; Efim Bogoljubow A few interesting facts about Efim Bogoljubow are available courtesy of Bill Wall's blog. I am going to pick 3 of them that I liked the most: The Russian name \"Bogoljubow\" means \"beloved by <a href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGA, Bogoljubow Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\">Need sure points? QGA, Bogoljubow Variation Edition</a> ap",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/06/24/nepomniachtchi-leading-candidates-2022-after-six/",
          "pubDate" : "Sat, 25 Jun 2022 03:55:34 +0000",
          "title" : "Nepomniachtchi leading Candidates 2022 after six"
-      },
-      {
-         "description" : " Dear Chess Community, On June 17th, I was informed that I would be the recipient of a U.S. Chess Special Services award. It is indeed a great honor and I will be accepting this on behalf of The Chess Drum community worldwide. The Awards Ceremony will be held on Friday, August 5, in Rancho Mirage, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/\">Shabazz to get Special Services Chess Award!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/24/shabazz-to-get-special-services-chess-award/",
-         "pubDate" : "Fri, 24 Jun 2022 19:21:42 +0000",
-         "title" : "Shabazz to get Special Services Chess Award!"
       },
       {
          "description" : " Last week, we started playing through a game, applying what we've learned thus far regarding chess principles. We will continue that game this week. As I mentioned last week, one of the primary ways you can improve your own playing is to play through the games of stronger players. As you play through each move <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\">A Foundation for Beginners Sixty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
