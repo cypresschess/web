@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Thu, 14 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "European Senior Chess Championship 2022 concluded yesterday in Lublin, Poland. The event took place from 4th-14th July, 2022, being played in two age categories 50+ and 65+, with separate prizes for female players. The Closing Ceremony of the event took place yesterday evening, with Chief Arbiter Tomasz Delega announcing the Winners. Pawe&#x142; Zaskalski &#x2013; Vice []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-senior-chess-champions-2022-crowned-in-lublin-poland/",
+         "pubDate" : "Thu, 14 Jul 2022 16:04:48 +0000",
+         "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
+      },
+      {
          "description" : "ChessBase Magazine presents you with ideas for your repertoire in a variety of ways. In each issue you will find at least ten opening articles with recommendations from our authors, including analyses and annotated games. In addition, Raienr Knaak's collection of topical opening traps offers suggestions with which you can add tricky small weapons to your repertoire. And in each issue you will find three opening videos in which our authors address current developments. For CBM #208 Dorian Rogozenco, Ivan Sokolov and Mihail Marin have recorded opening videos - total playing time: over an hour. You can watch excerpts from all three contributions here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gruenfeld-ragozin-variation-und-slav-defence",
          "pubDate" : "Thu, 14 Jul 2022 17:00:00 +0100",
-         "title" : "Gr&uuml;nfeld, Ragozin Variation und Slav Defence"
+         "title" : "Gr&uuml;nfeld, Ragozin Variation and Slav Defence"
+      },
+      {
+         "description" : "Not won yet, but it can only be a matter of time? Watch this website &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/from-the-fide-front-page/",
+         "pubDate" : "Thu, 14 Jul 2022 15:37:10 +0000",
+         "title" : "From the FIDE front page &hellip;"
       },
       {
          "description" : " South African Grandmaster Kenny Solomon has collaborated with Dr. Lyndon Bouah to present his autobiography titled, My Game Plan: My Quest to Become a Chess Grandmaster. There will be a ZOOM book launch at 20:35 CET (14:35 EST). Here is his Facebook message:Hi everyone, I am pleased to announce the publication of my first chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/14/gm-kenny-solomon-launches-book/\">GM Kenny Solomon launches book!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.chessdom.com/anish-giri-vs-jan-krzysztof-duda-live/",
          "pubDate" : "Thu, 14 Jul 2022 13:25:18 +0000",
          "title" : "Anish Giri vs Jan-Krzysztof Duda LIVE"
+      },
+      {
+         "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34236229/meet-thambi-mascot-chess-olympiad-2022?device=featurephone",
+         "pubDate" : "Thu, 14 Jul 2022 07:59:56 -0500",
+         "title" : "Meet Thambi, the mascot of Chess Olympiad 2022"
       },
       {
          "description" : " During a recent post mortem, I mentioned a quick win by Petrosian over Hans Ree in a tournament from the early 1970's. It was in the context of an early Qb6 against the Catalan, and the way I remembered it, Black was quickly punished for such a move. Turns out I was wrong about most things that I thought I had remembered. It wasn't a Catalan, but an English (albeit with a kingside fianchetto). And Black was not punished for playing Qb6, but was instead punished by White's Qb3. The only consolation was that I did get the names of the players right, and who the winner was. <br /> <b>Petrosian,Tigran V - Ree,Hans [A29]</b><br />Hoogovens Wijk aan Zee (12), 26.01.1971 <script>new PgnViewer( { b",
@@ -72,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2022-preview",
          "pubDate" : "Thu, 14 Jul 2022 12:30:00 +0100",
          "title" : "Up to 500 participants at the 49th Dortmund Festival"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1862",
+         "pubDate" : "Thu, 14 Jul 2022 11:14:41 +0000",
+         "title" : "European Senior Championship 2022: Martin Mrva and Nils-Gustaf Renman claim titles"
       },
       {
          "description" : "With the Master Tournament MTO and the Amateur Tournament ATO, the two big tournaments of the Biel Chess Festival began yesterday, filling the large hall of the Congress Centre with life. Participants from three dozen countries and five continents will be competing over nine rounds until 22 July to crown the best in their respective []",
@@ -242,14 +282,6 @@ news_feed (
          "title" : "Loïc Travadon scores double at 8th International Francophone Chess Meetings"
       },
       {
-         "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34236229/meet-thambi-mascot-chess-olympiad-2022?device=featurephone",
-         "pubDate" : "Wed, 13 Jul 2022 13:35:29 -0500",
-         "title" : "Meet Thambi, the mascot of Chess Olympiad 2022"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #524 Merijn van Delft takes a look at fine game played in the last rounds of the German Bundesliga. In this game the young German Frederik Svane, who recently became a Grandmaster, outplayed Michael Adams in a Ruy Lopez. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-reps-elections-2022/",
          "pubDate" : "Wed, 13 Jul 2022 12:40:21 +0000",
          "title" : "Direct Members Reps Elections 2022"
-      },
-      {
-         "description" : "The 17th edition of the South Wales International Chess Tournament took place from 7-12 July in Bridgend. The event was played in 9 rounds, Swiss system, with participation of 49 players. GM Peter Wells convincingly won the event scoring 8/9 points, thus pocketing a Winner-prize of 800&#xA3;. Wells was a full point ahead of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-peter-wells-wins-the-17th-south-wales-international-chess-tournament/",
-         "pubDate" : "Wed, 13 Jul 2022 12:39:33 +0000",
-         "title" : "GM Peter Wells wins the 17th South Wales International Chess Tournament"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Joachim Birger Nilsen</strong>, a 29-year-old <a href=\"https://rightpeoplegroup.com/meet-joachim-b-nilsen-our-newly-appointed-managing-director-for-norway/\">headhunter specializing in IT</a> and President of the Bergen Chess Club, is the <a href=\"https://www.sjakk.no/aktuelt/joachim-b-nilsen-ny-sjakkpresident\">new President</a> of the <strong>Norwegian Chess Federation</strong> after former top player <strong>Simen Agdestein</strong> didn't run for a second term. </div> ",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "Sevian Wins Week 19 Swiss Heading Into Knockout: Summary Report"
       },
       {
-         "description" : "Between 1985 and 2000, Garry Kasparov played no fewer than eight matches for the World Championship title. The living legend is, without a doubt, an expert on the topic. During round 12 of the Candidates, the Russian joined the Saint Louis Chess Club webcast, and gave his opinions on Ian Nepomniachtchi's performance, Alireza Firouzja's bullet binge, and the likelihood of Magnus Carlsen agreeing to play the next match for the crown.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kasparov-interview-candidates-2022",
-         "pubDate" : "Sat, 02 Jul 2022 17:00:00 +0100",
-         "title" : "Kasparov on Nepomniachtchi, Firouzja and Carlsen's boredom"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92622923.cms\" />Team USA will be the top seeds in the open section at the upcoming 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2168,30 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1827",
          "pubDate" : "Thu, 23 Jun 2022 21:58:47 +0000",
          "title" : "2022 Candidates, Round 6: Another great day for Nepomniachtchi and Caruana"
-      },
-      {
-         "description" : " Ian Nepomniachtchi leads the FIDE Candidates tournament in Madrid with 4.5/6 half a point clear of Fabiano Caruana. Hikaru Nakamura and Richard Rapport are a distant joint third on 3/6. As the tournament enters its second rest day and is almost at the half way stage it already looks like a straight battle between Nepomniachtchi and Caruana for first place and perhaps indeed we'll see these two fight the next World Championship match if Carlsen doesn't defend his title. Nepomniachtchi beat the hitherto undefeated Jan-Krzysztof Duda in convincing style. It's hard to know where Duda went wrong, they followed a known game Svidler-Karjakin in a Reti and the computers think black is fine but it l",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-caruana-win-in-candidates-round-6",
-         "pubDate" : "Thu, 23 Jun 2022 22:25:00 +0400",
-         "title" : "Nepomniachtchi and Caruana win in Candidates Round 6 - 6"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1826",
-         "pubDate" : "Thu, 23 Jun 2022 18:10:52 +0000",
-         "title" : "President of Kazakhstan holds a meeting with the women's national team"
-      },
-      {
-         "description" : "The 3rd edition of Stepan Avagyan Memorial &#8220;Jermuk 2022&#8221; takes place from 19-28 of June, 2022 in Jermuk, Armenia. The tournament is held in a 10-player GM norm round-robin format, in 9 rounds, and it is a FIDE category 16 event. After four played rounds, GM Tabatabaei M. Amin (IRI, 2650), GM Martirosyan Haik (ARM, 2656) and GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/stepan-avagyan-memorial-jermuk-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/stepan-avagyan-memorial-jermuk-2022/",
-         "pubDate" : "Thu, 23 Jun 2022 17:42:13 +0000",
-         "title" : "Stepan Avagyan Memorial \"Jermuk-2022\""
       }
    ]
 }
