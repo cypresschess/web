@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the Accentus Chess960 and the rapid tournament, the classical GM tournaments starts today in Biel. The round begins at 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Thu, 14 Jul 2022 12:45:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "Next Saturday is the official start of the Dortmund Chess Days Festival. The organizers expect up to 500 participants in all tournaments. Those who want to see two world champions and the German chess elite up close can still register at short notice. | Pictured: Kramnik with the winners of the Sportland NRW Girls' Cup 2021 | Photos: Christian L&uuml;nig",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2022-preview",
+         "pubDate" : "Thu, 14 Jul 2022 12:30:00 +0100",
+         "title" : "Up to 500 participants at the 49th Dortmund Festival"
+      },
+      {
+         "description" : "With the Master Tournament MTO and the Amateur Tournament ATO, the two big tournaments of the Biel Chess Festival began yesterday, filling the large hall of the Congress Centre with life. Participants from three dozen countries and five continents will be competing over nine rounds until 22 July to crown the best in their respective []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/full-house-at-the-biel-congress-center/",
+         "pubDate" : "Thu, 14 Jul 2022 10:58:22 +0000",
+         "title" : "Full house at the Biel Congress Center"
+      },
+      {
+         "description" : "Sam Sevian won the preliminary stage of the FTX Road to Miami online tournament. The US grandmaster collected 32 points in the 15 rounds which took place from Sunday to Wednesday. Arjun Erigaisi and Jan-Krzysztof finished in second and third place respectively, while top grandmasters Anish Giri and Levon Aronian made the cut after a slow start. On the other hand, Shakhriyar Mamedyarov was eliminated after losing his last three games of the single round-robin. | Photo: Austin Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d4",
+         "pubDate" : "Thu, 14 Jul 2022 11:35:00 +0100",
+         "title" : "FTX Road to Miami: Sevian wins prelims"
+      },
+      {
+         "description" : "The 44th Chess Olympiad in Chennai, India, set to start on the 29th of July, will be the most prominent chess gathering of the year. The historical participation records are updated with 189 teams registered for the Open and 162 in the Women's section. The 2022 Chess Olympiad will not be only the biggest in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-most-stylish-teams-of-44th-chess-olympiad-to-get-special-awards-tweetoftheday/",
+         "pubDate" : "Thu, 14 Jul 2022 10:30:27 +0000",
+         "title" : "The most stylish teams of 44th Chess Olympiad to get special awards #TweetOftheDay"
+      },
+      {
+         "description" : "Sam Sevian defeated Shakhriyar Mamedyarov in the final round of the FTX Road to Miami Prelims to top the table while Shakh was knocked out after losing all three games on the final day. Wei Yi scraped through despite a late surge from Aryan Tari, while Levon Aronian and Anish Giri both got the job done comfortably. It's Sevian vs. Wei Yi, Erigaisi vs. Aronian, Duda vs. Giri and Xiong vs. Rapport in Thursday's quarterfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-4-sevian-wins-prelims-shakh-eliminated",
+         "pubDate" : "Thu, 14 Jul 2022 09:09:47 +0000",
+         "title" : "FTX Road to Miami 4: Sevian wins Prelims, Shakh eliminated"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess, the company behind the most exciting chess events in the world as well as the iconic World Chess Championship set design, has been <i>obsessed</i> with putting chess sets in people's homes. The company's biggest merchandising hit, the <a href=\"https://shop.worldchess.com/products/official-world-chess-championship-set\">official Championship Set</a>, while being the favorite among elite chess players, is too big for an average apartment. The <a href=\"https://shop.worldchess.com/collections/chess-sets/products/world-chess-set-home-edition-with-bauhaus-board\">new chess set</a>, with a beautiful <i>Bauhaus board</i>, solves the size issue while remaining as cool as a",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/a-championship-chess-set-that-fits-into-ones-apartment-finally/",
+         "pubDate" : "Thu, 14 Jul 2022 08:25:53 +0000",
+         "title" : "A Championship Chess Set That Fits Into One's Apartment, Finally"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual Croatia GCT is the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the first three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,7 +122,7 @@ news_feed (
          "title" : "Going For A Caruana - Sophie Morris-Suzuki"
       },
       {
-         "description" : " IM Justus Williams penned an article in Chess Life covering the Mid-American Open in St. Louis. While Williams is known more for his Grandmaster aspirations, he took the time to write a very interesting article on a recent tournament experience. It included some of the random distractions you may face in between rounds. We've all The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/\">Justus Williams pens article in Chess Life</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " IM Justus Williams presented an article in Chess Life covering his participation in the Mid-American Open in St. Louis. While Williams is known more for his Grandmaster aspirations, he took the time to write a very interesting article. It included some of the random distractions you may face in between rounds. We've all been there. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/\">Justus Williams pens article in Chess Life</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/",
@@ -152,14 +208,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-siblings-look-to-shine-for-ireland-at-chess-olympiad/articleshow/92860094.cms",
          "pubDate" : "Wed, 13 Jul 2022 17:35:33 +0000",
          "title" : "Indian origin siblings look to shine for Ireland at Chess Olympiad"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Wed, 13 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
       },
       {
          "description" : "After a near-miss in the early tournament, GM Hikaru Nakamura claimed another Titled Tuesday victory in the late tournament on July 12. It was his first win since a double sweep on June 7, after playing this event irregularly of late due to the 20...",
@@ -250,14 +298,6 @@ news_feed (
          "title" : "FIDE World Youth U16 Chess Olympiad 2022"
       },
       {
-         "description" : "The&#160;European Women&#x2019;s Individual Chess Championship 2022 will be held from 19th August &#x2013; 1st September in Prague, Czech Republic. The event will be played in 11 rounds, Swiss system, with a total prize fund of 60 000 eur. The 22nd edition of the European Individual Women Chess Championship is a qualification event for the FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-individual-chess-championship-2022-list-of-participants/",
-         "pubDate" : "Wed, 13 Jul 2022 10:34:38 +0000",
-         "title" : "European Women Individual Chess Championship 2022 - List of participants"
-      },
-      {
          "description" : "On Monday, Vincent Keymer won the Accentus Chess960 tournament in Biel, on Tuesday Le Quang Liem won the Rapid GM tournament. He finished with 5.5/7 or 11/14 as players received 2 points for a win and 1 point for a draw. Keymer finished second to last with 2.5/7 or 5/14. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-3",
          "pubDate" : "Tue, 12 Jul 2022 15:39:00 -0700",
          "title" : "Aronian, Giri Not Qualified Yet For Knockout"
-      },
-      {
-         "description" : "Sam Sevian pulled off a dramatic win in the last game of the day to stay ahead&#xA0;in&#xA0;the FTX Road to Miami as the elite $150,000 esports event reaches its elimination day. The rookie American, 21, had seen Indian teenager Arjun Erigaisi score&#xA0;three straight wins to catapult himself up the prelim stage table and briefly take []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-road-to-miami-reaches-its-elimination-day/",
-         "pubDate" : "Tue, 12 Jul 2022 21:59:40 +0000",
-         "title" : "FTX Road to Miami reaches its elimination day"
       },
       {
          "description" : " &#8220;When I am White, I win because I am White. When I am Black, I win because I am Bogoljubow&#8221; Efim Bogoljubow A few interesting facts about Efim Bogoljubow are available courtesy of Bill Wall's blog. I am going to pick 3 of them that I liked the most: The Russian name \"Bogoljubow\" means \"beloved by <a href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGA, Bogoljubow Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\">Need sure points? QGA, Bogoljubow Variation Edition</a> ap",
@@ -1578,28 +1610,12 @@ news_feed (
          "title" : "44th Chess Olympiad: Participating teams announced"
       },
       {
-         "description" : "In the diagram position, White's 37.Rd6 attacked the queen b6 which is guarding the Ne3. Now only one move puts Black on the winning track - perhaps you'll need to think for some time to find it!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/touch-and-go",
-         "pubDate" : "Sat, 02 Jul 2022 09:00:00 +0100",
-         "title" : "Touch and go"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1844",
          "pubDate" : "Sat, 02 Jul 2022 07:51:57 +0000",
          "title" : "FIDE July 1 Rating list is out"
-      },
-      {
-         "description" : "In the one decisive game of round 12, Teimour Radjabov stopped Ding Liren's winning streak by beating him from the black side of a Nimzo-Indian Defence. Much earlier, less than ten minutes after the round started, Ian Nepomniachtchi and Hikaru Nakamura signed a 14-move draw by repetition. The day's results left Nepo two points ahead of his closest chasers with two rounds to go. The Russian is now a half point away from securing tournament victory. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r12",
-         "pubDate" : "Sat, 02 Jul 2022 04:10:00 +0100",
-         "title" : "Candidates R12: Radjabov stops Ding, Nepo almost there"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2dbab26e-14ce-454a-9264-ccf7e9b5ed8e/Nepo2.jpg\" data-image-dimensions=\"288x349\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62bf8fefd4a49d09eb37fc93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2dbab26e-14ce-454a-9264-ccf7e9b5ed8e/Nepo2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://commons.wikimedia.org/wiki/File:Nepomniachtchi,_Ian2.jpg\">via Wikimedia Commons </a> </figcaption> </figure> <p class=\"\">Awa",
@@ -1946,14 +1962,6 @@ news_feed (
          "title" : "2022 Candidates, Round 9: Firouzja, Radjabov and Ding score first victories"
       },
       {
-         "description" : " <p class=\"lead\">Round 9 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games and Nepomniachtchi resting assured at the top with a 1-point lead after his draw against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-7.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52162341452_bc1ba9f2c6_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52175984322_fe3450ec2f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/3-decisive-game-on-round-9-of-the-candidates-2022-nepo-leads-wit/",
-         "pubDate" : "Mon, 27 Jun 2022 18:49:25 +0000",
-         "title" : "3 Decisive Games In Round 9 of the Candidates 2022."
-      },
-      {
          "description" : " Fabiano Caruana got a chance to put Ian Nepomniachtchi under pressure and even catch him after managing to surprise his opponent in the Petroff. Nepomniachtchi was certain he had something against Caruana's idea but didn't remember what it was. Nepomniachtchi fell about 50 minutes behind on the clock but it was here Caruana began to slow down and then made a mistake. You have to think the very long games Caruana has been playing and yesterday's disappointment couldn't have helped but he needed to find 24.Bf1! after 24.Bxf5? he almost certainly missed 27...Nd3 ahead of times and after this it was Caruana who had to be careful as he got into time pressure, but the players repeated at move 40.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2184,30 +2192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/another-house-rule.html",
          "pubDate" : "Thu, 23 Jun 2022 14:35:00 +0000",
          "title" : "Another 'house' rule"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92411095.cms\" /> International Master Nitin Senthilvel continued his fine run, posting a seventh straight win to lead the field after the seventh round of the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-international-master-nitin-posts-7th-straight-win-in-top-spot/articleshow/92411095.cms",
-         "pubDate" : "Thu, 23 Jun 2022 10:38:31 +0000",
-         "title" : "Chennai Open chess: IM Nitin posts 7th straight win, in top spot"
-      },
-      {
-         "description" : "Magnus Carlsen joined our live commentary on Round 5 of the 2022 Candidates Tournament in Madrid and spared no-one! He said Ian Nepomniachtchi was \"getting back to his true self&hellip; playing poor moves quickly!\" after an opening disaster against Hikaru Nakamura, but then criticised Nepo for not playing on at the end when he'd survived the crisis. All four games were ultimately drawn, but Caruana-Rapport was a thriller and Ding Liren was a move away from beating Teimour Radjabov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-5-magnus-carlsen-be-a-shark",
-         "pubDate" : "Thu, 23 Jun 2022 10:16:48 +0000",
-         "title" : "Madrid Candidates 5: Magnus Carlsen - 'Be a shark!'"
-      },
-      {
-         "description" : "These are the players who qualified to play on behalf of England for the team tournament, which will be held on June 26 2022 &#8212;...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/queens-online-chess-festival-2022/",
-         "pubDate" : "Thu, 23 Jun 2022 08:00:21 +0000",
-         "title" : "Queens Online Chess Festival - updated!"
       }
    ]
 }
