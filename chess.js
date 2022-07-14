@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine presents you with ideas for your repertoire in a variety of ways. In each issue you will find at least ten opening articles with recommendations from our authors, including analyses and annotated games. In addition, Raienr Knaak's collection of topical opening traps offers suggestions with which you can add tricky small weapons to your repertoire. And in each issue you will find three opening videos in which our authors address current developments. For CBM #208 Dorian Rogozenco, Ivan Sokolov and Mihail Marin have recorded opening videos - total playing time: over an hour. You can watch excerpts from all three contributions here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gruenfeld-ragozin-variation-und-slav-defence",
+         "pubDate" : "Thu, 14 Jul 2022 17:00:00 +0100",
+         "title" : "Gr&uuml;nfeld, Ragozin Variation und Slav Defence"
+      },
+      {
+         "description" : " South African Grandmaster Kenny Solomon has collaborated with Dr. Lyndon Bouah to present his autobiography titled, My Game Plan: My Quest to Become a Chess Grandmaster. There will be a ZOOM book launch at 20:35 CET (14:35 EST). Here is his Facebook message:Hi everyone, I am pleased to announce the publication of my first chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/14/gm-kenny-solomon-launches-book/\">GM Kenny Solomon launches book!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/14/gm-kenny-solomon-launches-book/",
+         "pubDate" : "Thu, 14 Jul 2022 14:25:58 +0000",
+         "title" : "GM Kenny Solomon launches book!"
+      },
+      {
+         "description" : "A two times British Champion and prolific author GM Matthew Sadler explains the Engine's Opening Repertoire! In the latest video published on the Silicon Road Youtube Channel, GM Matthew Sadler dives into Komodo Dragon's repertoire against 1.d4 Nf6 followed by g6. Openings covered in the video are: King's Indian Classical, King's Indian Makogonov, 8.Rb1 Grunfeld []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-matthew-sadler-explains-komodo-dragons-opening-repertoire-video/",
+         "pubDate" : "Thu, 14 Jul 2022 13:45:20 +0000",
+         "title" : "GM Matthew Sadler explains Komodo Dragon's Opening Repertoire (VIDEO)"
+      },
+      {
+         "description" : "The FTX Road to Miami reached its elimination day yesterday and the field was cut in half. The event continues today with the knock-out phase and one of the quarter-final matches features the encounter between World No 9 Anish Giri and World No 15 Jan-Krzysztof Duda. FTX Road to Miami quarter-finals matches: GM Anish Giri []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-vs-jan-krzysztof-duda-live/",
+         "pubDate" : "Thu, 14 Jul 2022 13:25:18 +0000",
+         "title" : "Anish Giri vs Jan-Krzysztof Duda LIVE"
+      },
+      {
+         "description" : " During a recent post mortem, I mentioned a quick win by Petrosian over Hans Ree in a tournament from the early 1970's. It was in the context of an early Qb6 against the Catalan, and the way I remembered it, Black was quickly punished for such a move. Turns out I was wrong about most things that I thought I had remembered. It wasn't a Catalan, but an English (albeit with a kingside fianchetto). And Black was not punished for playing Qb6, but was instead punished by White's Qb3. The only consolation was that I did get the names of the players right, and who the winner was. <br /> <b>Petrosian,Tigran V - Ree,Hans [A29]</b><br />Hoogovens Wijk aan Zee (12), 26.01.1971 <script>new PgnViewer( { b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/the-tricks-my-memory-plays.html",
+         "pubDate" : "Thu, 14 Jul 2022 12:57:00 +0000",
+         "title" : "The tricks my memory plays"
+      },
+      {
+         "description" : "European Senior Chess Championship 2022 concluded yesterday in Lublin, Poland. The event took place from 4th-14th July, 2022, being played in two age categories 50+ and 65+, with separate prizes for female players. The Closing Ceremony of the event took place yesterday evening, with Chief Arbiter Tomasz Delega announcing the Winners. Paweł Zaskalski Vice President of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-champions-2022-crowned-in-lublin-poland/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-champions-2022-crowned-in-lublin-poland/",
+         "pubDate" : "Thu, 14 Jul 2022 12:23:00 +0000",
+         "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
+      },
+      {
+         "description" : "The 27th edition of the annual Pacific Coast Chess Open will take place from 15-17 July at the Los Angeles Airport Hilton. The event will feature six rating sections: Premier (2000+), U2100, U1900, U1700, U1500 and U1200, with a guaranteed prize fund of 25.000$. The Premier tournament will be played in 6 rounds, swiss system, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/27th-annual-pacific-coast-chess-open/",
+         "pubDate" : "Thu, 14 Jul 2022 12:12:29 +0000",
+         "title" : "27th annual Pacific Coast Chess Open"
+      },
+      {
          "description" : "After the Accentus Chess960 and the rapid tournament, the classical GM tournaments starts today in Biel. The round begins at 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -166,7 +222,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-4",
-         "pubDate" : "Wed, 13 Jul 2022 14:34:32 -0700",
+         "pubDate" : "Wed, 13 Jul 2022 14:34:00 -0700",
          "title" : "Sevian Knocks Out Mamedyarov, Enters Knockout Stage As Top Seed"
       },
       {
@@ -266,36 +322,12 @@ news_feed (
          "title" : "Nilsen follows Agdestein"
       },
       {
-         "description" : "The 2022 Biel Rapid Chess Tournament took place yesterday at the Main stage of the Concert Hall, Biel Congress Center within the&#xA0;Biel International Chess Festival 2022.&#xA0;The event attracted 78 entries who competed over 9 swiss rounds, with time control: 15 minutes + 5 seconds of increment. GM Maxime Lagarde and GM Eduardo Iturrizaga tied for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-maxime-lagarde-wins-biel-rapid-2022/",
-         "pubDate" : "Wed, 13 Jul 2022 11:55:38 +0000",
-         "title" : "GM Maxime Lagarde wins Biel Rapid 2022"
-      },
-      {
-         "description" : "Happy birthday to a chess prodigy&#xA0;Nihal Sarin! We wish him a bright future and beautiful games on the chess board! 18-year-old&#xA0;Nihal Sarin is an Indian&#xA0;grandmaster who holds the 11th position on the live Junior rating list having a live rating of 2651. Nihal achieved the title of Grandmaster at the age of 14 and became []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-18th-birthday-to-nihal-sarin/",
-         "pubDate" : "Wed, 13 Jul 2022 11:12:49 +0000",
-         "title" : "Happy 18th birthday to Nihal Sarin!"
-      },
-      {
          "description" : "Paul Morphy needs no introduction. On the occasion of his 138th death anniversary, Eugene Manlapao revisits the exploits of the chess genius and the peculiar circumstances of his success that seemingly recurred in the rise of succeeding American champions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/paul-morphy-the-first-of-the-conquering-american-chess-heroes-june-22-1837-july-10-1884",
          "pubDate" : "Wed, 13 Jul 2022 12:00:00 +0100",
          "title" : "Paul Morphy: The First of the Conquering American Chess Heroes (June 22, 1837 - July 10, 1884)"
-      },
-      {
-         "description" : "FIDE, Azerbaijan Chess Federation and Chess Federation of Nakhchivan Autonomous Republic invite all the national chess federations to participate in the FIDE World Youth U-16 Chess Olympiad 2022, which will take place in Nakhchivan, Azerbaijan, from October 1-11, 2022.&#xA0;&#xA0; Each FIDE member federation has the right to send one team. Each team shall comprise 4 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022/",
-         "pubDate" : "Wed, 13 Jul 2022 10:54:05 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad 2022"
       },
       {
          "description" : "On Monday, Vincent Keymer won the Accentus Chess960 tournament in Biel, on Tuesday Le Quang Liem won the Rapid GM tournament. He finished with 5.5/7 or 11/14 as players received 2 points for a win and 1 point for a draw. Keymer finished second to last with 2.5/7 or 5/14. | Photos: Biel Chess Festival",
@@ -1562,14 +1594,6 @@ news_feed (
          "title" : "USA top seeds for chess Olympiad"
       },
       {
-         "description" : "Chess legends Paul Morphy, Adolf Anderssen, Henry Bird, Ernst Falkbeer, and Johann L&ouml;wenthal were star sign cancer in the age of romantic chess. With Vladimir Kramnik, Boris Gelfand, Anish Giri, Alexei Shirov, Alexander Morozevich, and of course Ian Nepomniachtchi, we have the almost 200 year older equivalent in the present time. Of the players listed, their merciless attack is often in focus. Does cancer really feel most comfortable with fire on board, or does the aggressive strategy have other reasons? | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cancer-and-their-strategy",
-         "pubDate" : "Sat, 02 Jul 2022 15:00:00 +0100",
-         "title" : "Cancer and their strategy"
-      },
-      {
          "description" : " The team lists for the 2022 Chess Olympiad have been posted today. In the Open Olympiad, the USA are the top seeds, followed by Azerbaijan and India. Norway has moved up to 4th seeding, boosted by the presence of Magnus Carlsen on the team. Australia is currently ranked 28th, while PNG is seeded 166th. In the Women's Olympiad, India, Ukraine and Georgia are seeded at the top. Australia starts in 35th place, which , like the Open team, is a pretty good seeding. You can see the Open <a href=\"http://chess-results.com/tnr653631.aspx?lan=1\">teams here</a>, while the Women's teams are at <a href=\"http://chess-results.com/tnr653632.aspx?lan=1&amp;art=0&amp;flag=30\">this link</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2090,14 +2114,6 @@ news_feed (
          "title" : "Who is @Howard Staunton? A chess mystery"
       },
       {
-         "description" : " Ian Nepomniachtchi came into this Candidates Tournament as the last player who earned the right to play Magnus Carlsen for the World Championship. That match ended in a 7&frac12;3&frac12; disaster as the Russian lost three of the last four games. While he was gracious in defeat, Nepomniachtchi may get a second chance at facing either The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/24/nepomniachtchi-leading-candidates-2022-after-six/\">Nepomniachtchi leading Candidates 2022 after six</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/24/nepomniachtchi-leading-candidates-2022-after-six/",
-         "pubDate" : "Sat, 25 Jun 2022 03:55:34 +0000",
-         "title" : "Nepomniachtchi leading Candidates 2022 after six"
-      },
-      {
          "description" : " Last week, we started playing through a game, applying what we've learned thus far regarding chess principles. We will continue that game this week. As I mentioned last week, one of the primary ways you can improve your own playing is to play through the games of stronger players. As you play through each move <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\">A Foundation for Beginners Sixty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2176,22 +2192,6 @@ news_feed (
          "link" : "https://www.europechess.org/stepan-avagyan-memorial-jermuk-2022/",
          "pubDate" : "Thu, 23 Jun 2022 17:42:13 +0000",
          "title" : "Stepan Avagyan Memorial \"Jermuk-2022\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92417430.cms\" />The first-ever Chess Olympiad Torch Relay reached Chandigarh on Thursday after starting off from picturesque Leh and crossing over the mighty Himalayas with halts at Srinagar, Jammu, Dharamsala and Shimla.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chandigarh-welcomes-chess-olympiad-torch-in-style/articleshow/92417430.cms",
-         "pubDate" : "Thu, 23 Jun 2022 15:00:40 +0000",
-         "title" : "Chandigarh welcomes Chess Olympiad Torch in style"
-      },
-      {
-         "description" : " Another 'house rule' to add to your collection. If you 'try out' a move by moving a piece, but not taking your hand off it, any 'try' that extends beyond 1 square has to be played! This applies to straight moving pieces (rooks, bishops or queens), although I'm not sure it also applies to knights. As with most house rules, not a real thing. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/another-house-rule.html",
-         "pubDate" : "Thu, 23 Jun 2022 14:35:00 +0000",
-         "title" : "Another 'house' rule"
       }
    ]
 }
