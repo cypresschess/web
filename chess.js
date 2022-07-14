@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of classical chess at the Biel Grandmaster Tournament GMT had it all: the players with the black pieces were victorious in three of the four games. Of the top 3 in the standings, only Esipenko was able to score and thus takes the top spot in the intermediate ranking due to his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/an-explosive-day-at-biel-chess-festival-with-major-upsets-in-the-open-tournament/",
+         "pubDate" : "Thu, 14 Jul 2022 22:09:27 +0000",
+         "title" : "An explosive day at Biel Chess Festival with major upsets in the Open tournament"
+      },
+      {
+         "description" : "The big guns struck back in the FTX Road to Miami today as the tournament&#x2019;s established stars overcame the youngsters. Levon Aronian,&#xA0;Jan-Krzysztof Duda, Wei Yi and Richard Rapport all&#xA0;clinched&#xA0;semi-final places in the&#xA0;Meltwater Champions Chess Tour&#xA0;event. It meant heartbreak for the young Americans Jeffery Xiong and Sam Sevian while India&#x2019;s teen sensation Arjun Erigaisi also went []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aronian-wei-duda-and-rapport-advance-to-ftx-road-to-miami-semi-finals/",
+         "pubDate" : "Thu, 14 Jul 2022 21:39:30 +0000",
+         "title" : "Aronian, Wei, Duda and Rapport advance to FTX Road to Miami semi-finals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> FIDE Master Rochelle Wu talks to Cristian Chirila after her sixth round victory over Jennifer Yu in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-sympathetic-friend-jennifer-yu-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pm-SqW8ZA6Q.jpg?itok=VGamJLii\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-sympathetic-friend-jennifer-yu-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "Rochelle Wu: Sympathetic to Friend Jennifer Yu | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Brandon Jacobson talks to Cristian Chirila after his sixth round victory over Pedro Espinosa in the 2022 U.S. Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brandon-jacobson-better-chess-last-rounds-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qrUBtA7WVmk.jpg?itok=M9vnu3L5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/brandon-jacobson-better-chess-last-rounds-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "Brandon Jacobson: Better Chess in the Last Rounds | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master David Brodsky talks to Cristian Chirila after his sixth round victory over Awonder Liang in the 2022 U.S. Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/david-brodsky-caro-was-no-surprise-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbTKmWKdJn0.jpg?itok=yM2lGJMu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/david-brodsky-caro-was-no-surprise-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "David Brodsky: The Caro Was No Surprise | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Dmitry Gurevich talks to Cristian Chirila after his sixth round victory over Nick De Firmian in the 2022 U.S. Senior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dmitry-gurevich-nick-doesnt-play-f3-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IG83ClPukBs.jpg?itok=G2TEbMK3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dmitry-gurevich-nick-doesnt-play-f3-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "Dmitry Gurevich: Nick Doesn't Play f3! | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Shabalov talks to Cristian Chirila after his sixth round victory over Gregory Kaidanov in the 2022 U.S. Senior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-shabalov-h5-was-moment-kaidanov-went-too-far-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eGocVThJ9q8.jpg?itok=QxwLxRGN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-shabalov-h5-was-moment-kaidanov-went-too-far-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "Alex Shabalov: h5 was the Moment Kaidanov Went Too Far | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Max Dlugy talks to Cristian Chirila after his sixth round victory over Joel Benjamin in the 2022 U.S. Senior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maxim-dlugy-always-nervous-playing-joel-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fGpnYwYPkNo.jpg?itok=Zn2GDCYQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/maxim-dlugy-always-nervous-playing-joel-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "Maxim Dlugy: Always Nervous Playing Joel | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman FIDE Master Sophie Morris-Suzuki talks to Cristian Chirila after her sixth round victory over Ruiyang Yan in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sophie-morris-suzuki-best-performance-my-life-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PAZR0b4EeeU.jpg?itok=iqpyTPb1\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sophie-morris-suzuki-best-performance-my-life-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "Sophie Morris-Suzuki: The Best Performance of My Life | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman International Master Alice Lee talks to Cristian Chirila after her sixth round victory over Thalia Cervantes in the 2022 U.S. Girls' Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-turnaround-against-thalia-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LijNgdxb2yU.jpg?itok=YdnI-41H\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-turnaround-against-thalia-round-6",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "Alice Lee: A Turnaround Against Thalia | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the legends what their goals are in this national championship. This aired during Round 7. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-championship-goals\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SzxaeRfqFE.jpg?itok=CqoN7FGz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-championship-goals",
+         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
+         "title" : "2022 U.S. Senior Championship: Goals"
+      },
+      {
+         "description" : " In this week's show, Andrew and I reminisced over the 1972 Fischer Spassky and tried to give a taste of what it was like. Both of us followed that match avidly, and it sparked a massive global interest in chess. We are now on a summer recess, but will be back in September with <a href=\"https://chessimprover.com/master-chess-web-show-22/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (22)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-22/\">Master Chess Web Show (22)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/master-chess-web-show-22/",
+         "pubDate" : "Thu, 14 Jul 2022 20:03:09 +0000",
+         "title" : "Master Chess Web Show (22)"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +202,7 @@ news_feed (
          "title" : "Biel Chess Festival - Live"
       },
       {
-         "description" : "Next Saturday is the official start of the Dortmund Chess Days Festival. The organizers expect up to 500 participants in all tournaments. Those who want to see two world champions and the German chess elite up close can still register at short notice. | Pictured: Kramnik with the winners of the Sportland NRW Girls' Cup 2021 | Photos: Christian L&uuml;nig",
+         "description" : "Next Saturday is the official start of the Dortmund Chess Days Festival. The organizers expect up to 500 participants in all tournaments. Those who want to see two world champions and the German chess elite up close can still register at short notice. | Pictured: Vladimir Kramnik and Vishy Anand with the winners of the Sportland NRW Girls' Cup 2021 | Photos: Christian L&uuml;nig",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-festival-2022-preview",
@@ -154,70 +258,6 @@ news_feed (
          "title" : "A Championship Chess Set That Fits Into One's Apartment, Finally"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual Croatia GCT is the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the first three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-croatia-grand-chess-tour-day-1-lichessorg",
-         "pubDate" : "Thu, 14 Jul 2022 05:42:43 +0000",
-         "title" : "2022 Croatia Grand Chess Tour: Day 1 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wu-beats-yu-rochelle-wu",
-         "pubDate" : "Thu, 14 Jul 2022 02:42:42 +0000",
-         "title" : "Wu Beats Yu - Rochelle Wu"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/brandon-jacobson-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 02:42:42 +0000",
-         "title" : "Brandon Jacobson | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caro-was-no-surprise-david-brodsky",
-         "pubDate" : "Thu, 14 Jul 2022 02:42:42 +0000",
-         "title" : "The Caro Was No Surprise - David Brodsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nick-doesnt-play-f3-dmitry-gurevich",
-         "pubDate" : "Thu, 14 Jul 2022 02:42:42 +0000",
-         "title" : "Nick Doesn't Play f3! - Dmitry Gurevich"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-avoid-standard-position-alex-shabalov",
-         "pubDate" : "Thu, 14 Jul 2022 02:42:42 +0000",
-         "title" : "How To Avoid The Standard Position - Alex Shabalov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/he-was-criticized-maxim-dlugy",
-         "pubDate" : "Thu, 14 Jul 2022 02:42:42 +0000",
-         "title" : "He Was Criticized for... - Maxim Dlugy"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/going-caruana-sophie-morris-suzuki",
-         "pubDate" : "Thu, 14 Jul 2022 02:42:42 +0000",
-         "title" : "Going For A Caruana - Sophie Morris-Suzuki"
-      },
-      {
          "description" : " IM Justus Williams presented an article in Chess Life covering his participation in the Mid-American Open in St. Louis. While Williams is known more for his Grandmaster aspirations, he took the time to write a very interesting article. It included some of the random distractions you may face in between rounds. We've all been there. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/\">Justus Williams pens article in Chess Life</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -232,22 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-field-of-ftx-road-to-miami-cut-in-half-as-the-prelims-stage-concluded-today/",
          "pubDate" : "Thu, 14 Jul 2022 00:38:46 +0000",
          "title" : "The field of FTX Road to Miami cut in half as the prelims stage concluded today"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the legends how they prepared for this national championship. This aired during Round 6. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-championship-tournament-prep\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_Bpq9VFVqSc.jpg?itok=kstsC7yf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-championship-tournament-prep",
-         "pubDate" : "Wed, 13 Jul 2022 23:42:21 +0000",
-         "title" : "2022 U.S. Senior Championship: Tournament Prep"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the best junior players in the country what their goals are in this national championship. This aired during Round 6. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-junior-championship-goals\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tZIE36fRjqE.jpg?itok=w2KnhexY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-junior-championship-goals",
-         "pubDate" : "Wed, 13 Jul 2022 23:42:21 +0000",
-         "title" : "2022 U.S. Junior Championship: Goals"
       },
       {
          "description" : "",
@@ -312,22 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-winning-chess-strategies-vol-1-vol-2",
          "pubDate" : "Wed, 13 Jul 2022 16:00:00 +0100",
          "title" : "New: Winning Chess Strategies Vol. 1 + Vol. 2"
-      },
-      {
-         "description" : "The Ashot Anastasyan Memorial rapid chess tournament took place on July 10th at the&#xA0;Tigran Petrosyan Chess House in Yerevan. The event was dedicated to the memory of Ashot Anastasian, an Armenian chess Grandmaster who won two team bronze medals and one individual gold medal at Chess Olympiads. The event gathered 28 titled players with an []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tigran-l-petrosian-wins-ashot-anastasyan-memorial/",
-         "pubDate" : "Wed, 13 Jul 2022 14:47:19 +0000",
-         "title" : "Tigran L. Petrosian wins Ashot Anastasyan Memorial"
-      },
-      {
-         "description" : "The 2nd edition of La Plagne Chess Festival took place from 2 9 July in the Sun Valley hotel residence located in the heart of the Alps. The festival featured Masters, Accession, Amateur and Blitz tournaments with the total prize fund of 14.000 euros. GM Vitaly Sivuk won the Masters event thanks to better []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-vitaly-sivuk-is-the-winner-of-the-2nd-la-plagne-chess-masters/",
-         "pubDate" : "Wed, 13 Jul 2022 14:26:56 +0000",
-         "title" : "GM Vitaly Sivuk is the Winner of the 2nd La Plagne Chess Masters"
       },
       {
          "description" : "At the close of nominations for the direct members' representatives for 2021-22 there were two nominations in each category of membership except for the silver...",
@@ -2130,14 +2138,6 @@ news_feed (
          "title" : "Who is @Howard Staunton? A chess mystery"
       },
       {
-         "description" : " Last week, we started playing through a game, applying what we've learned thus far regarding chess principles. We will continue that game this week. As I mentioned last week, one of the primary ways you can improve your own playing is to play through the games of stronger players. As you play through each move <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-five/\">A Foundation for Beginners Sixty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-five/",
-         "pubDate" : "Fri, 24 Jun 2022 14:35:21 +0000",
-         "title" : "A Foundation for Beginners Sixty Five"
-      },
-      {
          "description" : " The world champion's 2018 and 2021 challengers are clear of their rivals, and the Norwegian's resolve to decline a new series against an opponent from his own generation could soon be tested After six of the 14 rounds at the world championship Candidates in Madrid, Ian Nepomniachtchi and Fabiano Caruana, the 2021 and 2018 title challengers, have broken away from their rivals. The pair will meet in Monday's ninth round (2pm start, live and free to watch on major chess websites) in what could be the tournament decider. It is a surprise result so far, and one which may test the resolve of the world champion, Magnus Carlsen, who has said that he is unlikely to defend his crown again if the oppo",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/23/2xwgfo2n4wtaan2ltzzg59i1em3um2",
          "pubDate" : "Fri, 24 Jun 2022 01:09:59 +0000",
          "title" : "FIde Candidates Update- GM Jonathan Tisdall on the tournament so far"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1827",
-         "pubDate" : "Thu, 23 Jun 2022 21:58:47 +0000",
-         "title" : "2022 Candidates, Round 6: Another great day for Nepomniachtchi and Caruana"
       }
    ]
 }
