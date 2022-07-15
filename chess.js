@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Russia are banned, China are absent, the US favourites hope to hold off India, while Ukraine could spring a surprise England hope to medal for the first time this century, but will probably have to settle for around their seeded position of 10th, when the 187-nation Olympiad starts at Chennai, India, on 28 July. Long ago in the vintage years between 1984 and 1988, England won three silvers behind the Soviet kings led by Garry Kasparov and Anatoly Karpov. The current group is ageing now, but England's recent performances have been very respectable: fifth in the 2018 Olympiad, the last before the pandemic, and second to Russia in the 2019 world teams. At Chennai, Russia are banned and China w",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jul/15/chess-england-target-first-olympiad-medal-this-century-chennai",
+         "pubDate" : "Fri, 15 Jul 2022 07:00:32 +0000",
+         "title" : "Chess: England target first Olympiad medal this century in Chennai"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92890815.cms\" />These are tough times for Sri Lanka as it has been battling both economic and political crisis for the last few months. Despite the unprecedented situation the island nation finds itself in --- its chess teams have left no stone unturned in their preparations for the upcoming 44th Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/amidst-crisis-sri-lanka-players-take-refuge-in-chess-ahead-of-olympiad/articleshow/92890815.cms",
+         "pubDate" : "Fri, 15 Jul 2022 04:50:18 +0000",
+         "title" : "Amidst crisis, Sri Lanka players take refuge in chess ahead of Olympiad"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.14<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
