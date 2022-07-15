@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Fri, 15 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1863",
+         "pubDate" : "Fri, 15 Jul 2022 16:42:19 +0000",
+         "title" : "The first-ever Unrated Girls Only Tournament is in the books"
+      },
+      {
+         "description" : "This week Robert Ris picks up from last week, when he looked at a quick loss suffered by Ding Liren with the white pieces. A recent victory by Andrew Hong from the US Junior Championship was similar in that a single mistake by White was quickly punished by his opponent. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-no-margin-of-error",
+         "pubDate" : "Fri, 15 Jul 2022 17:30:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: No margin of error"
+      },
+      {
+         "description" : "The 49th edition of the International Dortmund Chess Festival commences tomorrow at the Congress Centre of the Westfalenhallen Dortmund. The festival features No-Castling World Masters 2022, German Grand Prix 2022, Sparkassen Chess Trophy Open tournaments (A and B), and&#160;No-castling online events. This year, the field of the No-Castling World Masters 2022 gathers 15th World Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/49th-international-dortmund-chess-festival-starts-tomorrow/",
+         "pubDate" : "Fri, 15 Jul 2022 15:42:34 +0000",
+         "title" : "49th International Dortmund Chess Festival starts tomorrow"
+      },
+      {
          "description" : "GM Axel Smith, the famous author of the Woodpecker method, is releasing a new course. &#8220;Light &#38; Dark Magic Color Complexes in Chess&#8221; is the new strategy course of GM Smith, that covers when and how to initiate attacks. By recognizing weak square colors, what pieces to trade for an advantage, how to set []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2022 - R3 report"
       },
       {
-         "description" : " Russia are banned, China are absent, the US favourites hope to hold off India, while Ukraine could spring a surprise England hope to medal for the first time this century, but will probably have to settle for around their seeded position of 10th, when the 187-nation Olympiad starts at Chennai, India, on 28 July. Long ago in the vintage years between 1984 and 1988, England won three silvers behind the Soviet kings led by Garry Kasparov and Anatoly Karpov. The current group is ageing now, but England's recent performances have been very respectable: fifth in the 2018 Olympiad, the last before the pandemic, and second to Russia in the 2019 world teams. At Chennai, Russia are banned and China w",
+         "description" : " Russia are banned, China are absent, the US favourites hope to hold off India, while Ukraine could spring a surprise England hope to medal for the first time since 1990, but will probably have to settle for around their seeded position of 10th, when the 187-nation Olympiad starts at Chennai, India, on 28 July. Long ago in the vintage years between 1984 and 1988, England won three silvers behind the Soviet kings led by Garry Kasparov and Anatoly Karpov. The current group is ageing now, but England's recent performances have been very respectable: fifth in the 2018 Olympiad, the last before the pandemic, and second to Russia in the 2019 world teams. At Chennai, Russia are banned and China wil",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jul/15/chess-england-target-first-olympiad-medal-this-century-chennai",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/07/14/gm-kenny-solomon-launches-book/",
          "pubDate" : "Thu, 14 Jul 2022 14:25:58 +0000",
          "title" : "GM Kenny Solomon launches book!"
-      },
-      {
-         "description" : "A two times British Champion and prolific author GM Matthew Sadler explains the Engine's Opening Repertoire! In the latest video published on the Silicon Road Youtube Channel, GM Matthew Sadler dives into Komodo Dragon's repertoire against 1.d4 Nf6 followed by g6. Openings covered in the video are: King's Indian Classical, King's Indian Makogonov, 8.Rb1 Grunfeld []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-matthew-sadler-explains-komodo-dragons-opening-repertoire-video/",
-         "pubDate" : "Thu, 14 Jul 2022 13:45:20 +0000",
-         "title" : "GM Matthew Sadler explains Komodo Dragon's Opening Repertoire (VIDEO)"
       },
       {
          "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
@@ -1576,22 +1600,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-wins-the-fide-candidates-tournament-with-a-round-to-spare",
          "pubDate" : "Sun, 3 Jul 2022 21:30:00 +0400",
          "title" : "Nepomniachtchi wins the FIDE Candidates tournament with a round to spare - 13"
-      },
-      {
-         "description" : "Unlike in ancient times, in our (chess) world, the oracles are not priestesses but silicon based. For high grade but not necessarily perfect information, we turn to computer engines. The crucial thing is that, however splendiferous the software, it has to be we who control the process. We need to put the time to work through the lines with the engine to understand why we should play a specific move in a given position. | Pictured: Ganesha, a Hindu deity, the deva of intellect and wisdom",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-173",
-         "pubDate" : "Sun, 03 Jul 2022 17:15:00 +0100",
-         "title" : "Conversations with the Gods"
-      },
-      {
-         "description" : "Anyone who hopes that he or she will one day succeed in playing a perfect game will, in principle, attach the same weight to every move in a game. After all, every move could be a mistake or - which would be just as bad - simply not the best move! In the first article of his new training series, Jan Markos explains, among other things, what consequences the pursuit of perfection can have on your time management. And he explores the question in which types of positions it makes sense to invest your time at all. You can watch an excerpt from his highly recommended video from ChessBase Magazine #208 here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/practical-tips-for-the-tournament-player-new-training-series-with-jan-markos",
-         "pubDate" : "Sun, 03 Jul 2022 17:00:00 +0100",
-         "title" : "\"Practical Tips for the Tournament Player\" - New training series with Jan Markos"
       },
       {
          "description" : " <p class=\"lead\">GM Ian Nepomniachtchi entered Round 13 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> leading with a +2 advantage over Ding Liren and Hikaru Nakamura. Nepo needed just a draw in two rounds and today he got it against Richard Rapport. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52171090837_1032c8c785_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Stev Bonhage/FIDE</div> </div> Ian Nepomniachtchi had a solid start at the Candidates, took advantage of every winning opportunity, and defended a couple of tough positions successfully. As many commentators acknowledged, Nepo'",
