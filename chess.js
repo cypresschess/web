@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian and GM Wei Yi qualified for the two-day final of the FTX Road to Miami tournament. Wei needed just three games to knock out GM Richard Rapport, while Aronian defeated GM Jan-Krzysztof Duda 3-1. The final will consist of two matc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-semifinals",
+         "pubDate" : "Fri, 15 Jul 2022 15:16:00 -0700",
+         "title" : "Aronian, Wei Reach Final; Qualify For Miami"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-girls-junior-championship-2022/round-8/NU9qx6QK\">https://lichess.org/broadcast/us-girls-junior-championship-2022/round-8/...</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wfm-sophie-morris-suzuki-destroying-qgd-23-moves-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZfdJkZBiskw.jpg?itok=ij",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wfm-sophie-morris-suzuki-destroying-qgd-23-moves-round-8",
+         "pubDate" : "Fri, 15 Jul 2022 20:43:53 +0000",
+         "title" : "WFM Sophie Morris-Suzuki: Destroying the QGD in 23 moves! | Round 8"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wei Yi</strong> and <strong>Levon Aronian</strong> <a href=\"https://chess24.com/tour/wei-yi-to-face-levon-aronian-in-ftx-road-to-miami-final/\">made it to the final</a> of the <strong>FTX Road to Miami</strong> online tournament of the <strong>Meltwater Champions Chess Tour</strong> and thus qualifid for the <strong>FTX Crypto Cup</strong> that will be held over the board next month in Miami. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/wei-yi-and-aronian-make-final/",
+         "pubDate" : "Fri, 15 Jul 2022 21:43:10 +0100",
+         "title" : "Wei Yi and Aronian make final"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alice-lee-pressing-entire-time-against-zoey-round-7",
          "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
          "title" : "Alice Lee: Pressing the Entire Time Against Zoey | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Gregory Kaidanov talks to Cristian Chirila after his seventh round victory over Dmitry Gurevich in the 2022 U.S. Senior Championship. <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-7/kAdCSYln\">https://lichess.org/broadcast/us-senior-championship-2022/round-7/kAdCSYln</a> 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gregory-kaidanov-getting-back-winning-way-round-7\"><img src=\"https://saintlo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gregory-kaidanov-getting-back-winning-way-round-7",
-         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
-         "title" : "Gregory Kaidanov: Getting Back to Winning Way | Round 7"
       },
       {
          "description" : "The first round of classical chess at the Biel Grandmaster Tournament GMT had it all: the players with the black pieces were victorious in three of the four games. Of the top 3 in the standings, only Esipenko was able to score and thus takes the top spot in the intermediate ranking due to his []",
@@ -1664,22 +1680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-13",
          "pubDate" : "Sun, 03 Jul 2022 00:42:00 -0700",
          "title" : "Nepomniachtchi Wins Candidates Tournament With Round To Spare"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While weaker at the top with the teams of Russia and China missing, the upcoming <strong>Chess Olymiad</strong> in the South Indian resort Mamallapuram is <a href=\"https://fide.com/news/1843\">expecting 187 men and 162 women teams</a>, probably beating the records set 2018 in Batumi of 185 men and 152 women teams. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/record-participation-at-chess/",
-         "pubDate" : "Sun, 03 Jul 2022 08:40:19 +0100",
-         "title" : "Record participation at Chess Olympiad"
-      },
-      {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Samuel Sevian won week 19 of the Rapid Chess Championship, presented by Coinbase with a convincing performance. Participating in the event were ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-19-swiss",
-         "pubDate" : "Sat, 02 Jul 2022 16:17:00 -0700",
-         "title" : "Sevian Wins Week 19 Swiss Heading Into Knockout: Summary Report"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92622923.cms\" />Team USA will be the top seeds in the open section at the upcoming 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
