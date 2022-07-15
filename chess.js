@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.14<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-7",
+         "pubDate" : "Fri, 15 Jul 2022 02:43:23 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 7"
+      },
+      {
+         "description" : "Rating favourites prevailed in the quarterfinals of the FTX Road to Miami online tournament. Levon Aronian and Jan-Krzysztof Duda secured victory 'in regulation', after four rapid games, while Richard Rapport and Wei Yi only won in the blitz tiebreakers. In semis, Wei is paired up against Rapport, while Duda is set to face Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d5",
+         "pubDate" : "Fri, 15 Jul 2022 03:40:00 +0100",
+         "title" : "FTX Road to Miami: Evaluation swings"
+      },
+      {
+         "description" : "The semifinals of the FTX Road to Miami tournament will see the matches GM Jan-Krzysztof Duda vs. GM Levon Aronian and GM Wei Yi vs. GM Richard Rapport. In three of Thursday&#39;s quarterfinal matches, the younger player took the lead but then was eli...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-quarterfinals",
+         "pubDate" : "Thu, 14 Jul 2022 18:18:14 -0700",
+         "title" : "Dramatic Day Of Chess Leads To Duda-Aronian, Wei-Rapport Semifinals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Awonder Liang talks to Cristian Chirila after his seventh round victory over Pedro Espinosa in the 2022 U.S. Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/awonder-liang-how-dominate-closed-sicilian-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wfhlLgAS_I4.jpg?itok=SuGjDWru\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/awonder-liang-how-dominate-closed-sicilian-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "Awonder Liang: How to DOMINATE with the Closed Sicilian | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the girls what their goals are in this national championship. This aired during Round 7. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-girls-junior-championship-goals\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/REkO6Fw6MV8.jpg?itok=dA7Jd7oV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-girls-junior-championship-goals",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "2022 U.S. Girls' Junior Championship: Goals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> FIDE Master Ruiyang Yan talks to Cristian Chirila after her seventh round victory over Anne-Marie Velea in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ruiyang-yan-i-didnt-mess-too-much-anywhere-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DE4Tx2vijd8.jpg?itok=nDjVydhn\" alt=\"\" /></a></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ruiyang-yan-i-didnt-mess-too-much-anywhere-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "Ruiyang Yan: I Didn't Mess Up Too Much Anywhere | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> FIDE Master Rochelle Wu talks to Cristian Chirila after her seventh round victory over Gracy Prasanna in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-three-wins-row-could-be-better-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jkKUom-IVFA.jpg?itok=mHvzHfDI\" alt=\"\" /></a></di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-three-wins-row-could-be-better-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "Rochelle Wu: Three Wins in a Row... Could Be Better | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks to Cristian Chirila after her seventh round victory over Ellen Wang in the 2022 U.S. Girls' Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thalia-cervantes-bouncing-back-clean-win-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W5tt3SiYylw.jpg?itok=qDHj_n0E\" alt=\"\" /></a></di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/thalia-cervantes-bouncing-back-clean-win-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "Thalia Cervantes: Bouncing Back with a Clean Win | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Andrew Hong talks to Cristian Chirila after his seventh round victory over Brandon Jacobson in the 2022 U.S. Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/andrew-hong-game-tournament-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cCUkwvDigCg.jpg?itok=JcetdihZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/andrew-hong-game-tournament-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "Andrew Hong: Game of the Tournament? | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman International Master Alice Lee talks to Cristian Chirila after her seventh round victory over Zoey Tang in the 2022 U.S. Girls' Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-pressing-entire-time-against-zoey-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AqEkSi_F47k.jpg?itok=0bOnQu-6\" alt=\"\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-pressing-entire-time-against-zoey-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "Alice Lee: Pressing the Entire Time Against Zoey | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Gregory Kaidanov talks to Cristian Chirila after his seventh round victory over Dmitry Gurevich in the 2022 U.S. Senior Championship. <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-7/kAdCSYln\">https://lichess.org/broadcast/us-senior-championship-2022/round-7/kAdCSYln</a> 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gregory-kaidanov-getting-back-winning-way-round-7\"><img src=\"https://saintlo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gregory-kaidanov-getting-back-winning-way-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "Gregory Kaidanov: Getting Back to Winning Way | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master David Brodsky talks to Cristian Chirila after his seventh round victory over Christopher Yoo in the 2022 U.S. Junior Championship. <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-7/ONqvY3nU\">https://lichess.org/broadcast/us-junior-championship-2022/round-7/ONqvY3nU</a> 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/david-brodsky-im-here-spoil-tournament-round-7\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/david-brodsky-im-here-spoil-tournament-round-7",
+         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
+         "title" : "David Brodsky: I'm Here to Spoil the Tournament | Round 7"
+      },
+      {
          "description" : "The first round of classical chess at the Biel Grandmaster Tournament GMT had it all: the players with the black pieces were victorious in three of the four games. Of the top 3 in the standings, only Esipenko was able to score and thus takes the top spot in the intermediate ranking due to his []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,100 +114,12 @@ news_feed (
          "title" : "Aronian, Wei, Duda and Rapport advance to FTX Road to Miami semi-finals"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> FIDE Master Rochelle Wu talks to Cristian Chirila after her sixth round victory over Jennifer Yu in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-sympathetic-friend-jennifer-yu-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pm-SqW8ZA6Q.jpg?itok=VGamJLii\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-sympathetic-friend-jennifer-yu-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "Rochelle Wu: Sympathetic to Friend Jennifer Yu | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.13<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Brandon Jacobson talks to Cristian Chirila after his sixth round victory over Pedro Espinosa in the 2022 U.S. Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brandon-jacobson-better-chess-last-rounds-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qrUBtA7WVmk.jpg?itok=M9vnu3L5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/brandon-jacobson-better-chess-last-rounds-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "Brandon Jacobson: Better Chess in the Last Rounds | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master David Brodsky talks to Cristian Chirila after his sixth round victory over Awonder Liang in the 2022 U.S. Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/david-brodsky-caro-was-no-surprise-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sbTKmWKdJn0.jpg?itok=yM2lGJMu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/david-brodsky-caro-was-no-surprise-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "David Brodsky: The Caro Was No Surprise | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dmitry Gurevich talks to Cristian Chirila after his sixth round victory over Nick De Firmian in the 2022 U.S. Senior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dmitry-gurevich-nick-doesnt-play-f3-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IG83ClPukBs.jpg?itok=G2TEbMK3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dmitry-gurevich-nick-doesnt-play-f3-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "Dmitry Gurevich: Nick Doesn't Play f3! | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Shabalov talks to Cristian Chirila after his sixth round victory over Gregory Kaidanov in the 2022 U.S. Senior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-shabalov-h5-was-moment-kaidanov-went-too-far-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eGocVThJ9q8.jpg?itok=QxwLxRGN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-shabalov-h5-was-moment-kaidanov-went-too-far-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "Alex Shabalov: h5 was the Moment Kaidanov Went Too Far | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Max Dlugy talks to Cristian Chirila after his sixth round victory over Joel Benjamin in the 2022 U.S. Senior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maxim-dlugy-always-nervous-playing-joel-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fGpnYwYPkNo.jpg?itok=Zn2GDCYQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/maxim-dlugy-always-nervous-playing-joel-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "Maxim Dlugy: Always Nervous Playing Joel | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman FIDE Master Sophie Morris-Suzuki talks to Cristian Chirila after her sixth round victory over Ruiyang Yan in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sophie-morris-suzuki-best-performance-my-life-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PAZR0b4EeeU.jpg?itok=iqpyTPb1\" alt=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sophie-morris-suzuki-best-performance-my-life-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "Sophie Morris-Suzuki: The Best Performance of My Life | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman International Master Alice Lee talks to Cristian Chirila after her sixth round victory over Thalia Cervantes in the 2022 U.S. Girls' Junior Championship. 2022.07.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-turnaround-against-thalia-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LijNgdxb2yU.jpg?itok=YdnI-41H\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-turnaround-against-thalia-round-6",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "Alice Lee: A Turnaround Against Thalia | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the legends what their goals are in this national championship. This aired during Round 7. 2022.07.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-championship-goals\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SzxaeRfqFE.jpg?itok=CqoN7FGz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-championship-goals",
-         "pubDate" : "Thu, 14 Jul 2022 20:43:14 +0000",
-         "title" : "2022 U.S. Senior Championship: Goals"
-      },
-      {
          "description" : " In this week's show, Andrew and I reminisced over the 1972 Fischer Spassky and tried to give a taste of what it was like. Both of us followed that match avidly, and it sparked a massive global interest in chess. We are now on a summer recess, but will be back in September with <a href=\"https://chessimprover.com/master-chess-web-show-22/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (22)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-22/\">Master Chess Web Show (22)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/master-chess-web-show-22/",
          "pubDate" : "Thu, 14 Jul 2022 20:03:09 +0000",
          "title" : "Master Chess Web Show (22)"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Thu, 14 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
       },
       {
          "description" : "European Senior Chess Championship 2022 concluded yesterday in Lublin, Poland. The event took place from 4th-14th July, 2022, being played in two age categories 50+ and 65+, with separate prizes for female players. The Closing Ceremony of the event took place yesterday evening, with Chief Arbiter Tomasz Delega announcing the Winners. Pawe&#x142; Zaskalski &#x2013; Vice []",
@@ -1682,14 +1690,6 @@ news_feed (
          "title" : "Candidates 2022, Round 12: Nepomniachtchi half a step away from winning the Candidates"
       },
       {
-         "description" : "GM Ian Nepomniachtchi increased his lead to two points and only needs a draw on Sunday to clinch the 2022 Candidates Tournament. After drawing his game with GM Hikaru Nakamura in just seven minutes today he saw GM Ding Liren, his closest rival, lo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-12",
-         "pubDate" : "Fri, 01 Jul 2022 13:31:00 -0700",
-         "title" : "Nepomniachtchi Draw Away From Winning Candidates Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,14 +2168,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-chess-tournament-2022-nepomniachtchi-in-the-lead/",
          "pubDate" : "Fri, 24 Jun 2022 10:16:19 +0000",
          "title" : "FIDE Candidates Chess Tournament 2022 - Nepomniachtchi in the lead"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg\" data-image-dimensions=\"481x240\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62b50dea6c6cd727df8b1cd7\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/862c53b6-2b62-43be-8012-ca531dbde560/Tisdall.final.jpg?format=1000w\" /> </figure> <p class=\"\">We've got 6 rounds in the books and GM Ian Nepomniathchtchi and GM Fabiano Caruana are comfortably in first and 2nd place, respectively. GM Jonathan Tisdall is an A",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/23/2xwgfo2n4wtaan2ltzzg59i1em3um2",
-         "pubDate" : "Fri, 24 Jun 2022 01:09:59 +0000",
-         "title" : "FIde Candidates Update- GM Jonathan Tisdall on the tournament so far"
       }
    ]
 }
