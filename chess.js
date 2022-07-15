@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Axel Smith, the famous author of the Woodpecker method, is releasing a new course. &#8220;Light &#38; Dark Magic Color Complexes in Chess&#8221; is the new strategy course of GM Smith, that covers when and how to initiate attacks. By recognizing weak square colors, what pieces to trade for an advantage, how to set []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-axel-smith-with-a-new-course-color-complexes-in-chess/",
+         "pubDate" : "Fri, 15 Jul 2022 15:06:42 +0000",
+         "title" : "GM Axel Smith with a new course - Color Complexes in Chess"
+      },
+      {
+         "description" : "Three rounds have been already played at the European Youth Team Chess Championship 2022 which is ongoing in Thessaloniki, Greece. The event broke the participation record with 53 teams and 196 players from 16 European federations. ECU Secretary-General Mr. Theodoros Tsorbatzoglou opened the event shortly before the start of the first round, addressing the players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/three-rounds-played-at-european-youth-team-chess-championship-2022/",
+         "pubDate" : "Fri, 15 Jul 2022 14:54:21 +0000",
+         "title" : "Three rounds played at European Youth Team Chess Championship 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.16<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-9-lichessorg",
+         "pubDate" : "Fri, 15 Jul 2022 14:43:49 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 9 | lichess.org"
+      },
+      {
+         "description" : "Andrey Esipenko is leading the standings at the GM Triathlon in Biel. The first round of classical chess was played on Thursday. Gukesh, Gata Kamsky and Arkadij Naiditsch scored wins with the black pieces. The second round begins at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Fri, 15 Jul 2022 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : " While it is always good to see chess on TV, it isn't always done correctly. There is an ad on Australian TV which finishes with a checkmate (loudly announced), which is in fact correctly played, But the weird thing is the chess clock (and old fashioned BHB clock) is facing away from both players, towards the camera. I assume this was done for artistic reasons, but it could just as well have been placed on the far side of the board. Maybe they tried that, but didn't like the result. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/the-creative-process.html",
+         "pubDate" : "Fri, 15 Jul 2022 12:52:00 +0000",
+         "title" : "The creative process?"
+      },
+      {
+         "description" : "The International&#160;Chess Forum Moscow Open 2022&#160;kicked off yesterday and will be played from the 14th to the 20th of July in the Irina Viner-Usmanova Gymnastics Center.&#160;The program includes open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children&#x2019;s Cup of Russia. The top seeds of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-forum-moscow-open-2022-kicked-of/",
+         "pubDate" : "Fri, 15 Jul 2022 12:50:00 +0000",
+         "title" : "Chess Forum Moscow Open 2022 kicked off"
+      },
+      {
+         "description" : "Queen endgames often need extreme precision. In numerous instances, passed pawns play a large role, but mating attacks should also be considered. Game 4 of the quarterfinal match between Levon Aronian and Arjun Erigaisi saw the former outplaying his opponent in an ending with queens and four pawns per side.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/queen-endgame-aronian-invades",
+         "pubDate" : "Fri, 15 Jul 2022 13:45:00 +0100",
+         "title" : "A queen endgame: Aronian's invasion"
+      },
+      {
          "description" : "Grandmaster Olexandr Bortnyk will play against all members in today's Immortal Game Ambassador Tournament. The event starts at 3 PM UTC and is accessible to everyone for free! Join the event here and total prize fund of $1000. More from Immortal Game: Immortal game reaches the 15k mark",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -102,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-quarterfinals",
-         "pubDate" : "Thu, 14 Jul 2022 18:18:14 -0700",
+         "pubDate" : "Thu, 14 Jul 2022 18:18:00 -0700",
          "title" : "Dramatic Day Of Chess Leads To Duda-Aronian, Wei-Rapport Semifinals"
       },
       {
@@ -170,14 +226,6 @@ news_feed (
          "title" : "Gregory Kaidanov: Getting Back to Winning Way | Round 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master David Brodsky talks to Cristian Chirila after his seventh round victory over Christopher Yoo in the 2022 U.S. Junior Championship. <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-7/ONqvY3nU\">https://lichess.org/broadcast/us-junior-championship-2022/round-7/ONqvY3nU</a> 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/david-brodsky-im-here-spoil-tournament-round-7\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/david-brodsky-im-here-spoil-tournament-round-7",
-         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
-         "title" : "David Brodsky: I'm Here to Spoil the Tournament | Round 7"
-      },
-      {
          "description" : "The first round of classical chess at the Biel Grandmaster Tournament GMT had it all: the players with the black pieces were victorious in three of the four games. Of the top 3 in the standings, only Esipenko was able to score and thus takes the top spot in the intermediate ranking due to his []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -242,14 +290,6 @@ news_feed (
          "title" : "GM Matthew Sadler explains Komodo Dragon's Opening Repertoire (VIDEO)"
       },
       {
-         "description" : "The FTX Road to Miami reached its elimination day yesterday and the field was cut in half. The event continues today with the knock-out phase and one of the quarter-final matches features the encounter between World No 9 Anish Giri and World No 15 Jan-Krzysztof Duda. FTX Road to Miami quarter-finals matches: GM Anish Giri []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-vs-jan-krzysztof-duda-live/",
-         "pubDate" : "Thu, 14 Jul 2022 13:25:18 +0000",
-         "title" : "Anish Giri vs Jan-Krzysztof Duda LIVE"
-      },
-      {
          "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -274,22 +314,6 @@ news_feed (
          "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
       },
       {
-         "description" : "The 27th edition of the annual Pacific Coast Chess Open will take place from 15-17 July at the Los Angeles Airport Hilton. The event will feature six rating sections: Premier (2000+), U2100, U1900, U1700, U1500 and U1200, with a guaranteed prize fund of 25.000$. The Premier tournament will be played in 6 rounds, swiss system, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/27th-annual-pacific-coast-chess-open/",
-         "pubDate" : "Thu, 14 Jul 2022 12:12:29 +0000",
-         "title" : "27th annual Pacific Coast Chess Open"
-      },
-      {
-         "description" : "After the Accentus Chess960 and the rapid tournament, the classical GM tournaments starts today in Biel. The round begins at 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Thu, 14 Jul 2022 12:45:00 +0100",
-         "title" : "Biel Chess Festival - Live"
-      },
-      {
          "description" : "Next Saturday is the official start of the Dortmund Chess Days Festival. The organizers expect up to 500 participants in all tournaments. Those who want to see two world champions and the German chess elite up close can still register at short notice. | Pictured: Vladimir Kramnik and Vishy Anand with the winners of the Sportland NRW Girls' Cup 2021 | Photos: Christian L&uuml;nig",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1862",
          "pubDate" : "Thu, 14 Jul 2022 11:14:41 +0000",
          "title" : "European Senior Championship 2022: Martin Mrva and Nils-Gustaf Renman claim titles"
-      },
-      {
-         "description" : "With the Master Tournament MTO and the Amateur Tournament ATO, the two big tournaments of the Biel Chess Festival began yesterday, filling the large hall of the Congress Centre with life. Participants from three dozen countries and five continents will be competing over nine rounds until 22 July to crown the best in their respective []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/full-house-at-the-biel-congress-center/",
-         "pubDate" : "Thu, 14 Jul 2022 10:58:22 +0000",
-         "title" : "Full house at the Biel Congress Center"
       },
       {
          "description" : "Sam Sevian won the preliminary stage of the FTX Road to Miami online tournament. The US grandmaster collected 32 points in the 15 rounds which took place from Sunday to Wednesday. Arjun Erigaisi and Jan-Krzysztof finished in second and third place respectively, while top grandmasters Anish Giri and Levon Aronian made the cut after a slow start. On the other hand, Shakhriyar Mamedyarov was eliminated after losing his last three games of the single round-robin. | Photo: Austin Fuller / Saint Louis Chess Club",
@@ -1594,14 +1610,6 @@ news_feed (
          "title" : "Nepo Wins the Candidates. He is the Challenger, Again"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 86th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-86-basics-of-the-benko-gambit-5",
-         "pubDate" : "Sun, 03 Jul 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 86: Basics of the Benko Gambit (5)"
-      },
-      {
          "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/dna5KG7D-qU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2176,22 +2184,6 @@ news_feed (
          "link" : "https://www.thearticle.com/who-is-howard-staunton-a-chess-mystery/",
          "pubDate" : "Sat, 25 Jun 2022 07:27:35 +0000",
          "title" : "Who is @Howard Staunton? A chess mystery"
-      },
-      {
-         "description" : " The world champion's 2018 and 2021 challengers are clear of their rivals, and the Norwegian's resolve to decline a new series against an opponent from his own generation could soon be tested After six of the 14 rounds at the world championship Candidates in Madrid, Ian Nepomniachtchi and Fabiano Caruana, the 2021 and 2018 title challengers, have broken away from their rivals. The pair will meet in Monday's ninth round (2pm start, live and free to watch on major chess websites) in what could be the tournament decider. It is a surprise result so far, and one which may test the resolve of the world champion, Magnus Carlsen, who has said that he is unlikely to defend his crown again if the oppo",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jun/24/chess-nepomniachtchi-and-caruana-lead-in-madrid-with-carlsen-in-sight",
-         "pubDate" : "Fri, 24 Jun 2022 13:36:10 +0000",
-         "title" : "Chess: Nepomniachtchi and Caruana lead in Madrid with Carlsen in sight"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2022 will take place from 13th August (arrival day) to 21st August 2022 (departure day) in Hotel Aristos****, located in the city of Zagreb, Croatia. The event will be played in three rating categories: U2300, U2000 and U1700. A player must not have a published FIDE rating of 2300 or greater for at&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/",
-         "pubDate" : "Fri, 24 Jun 2022 13:16:12 +0000",
-         "title" : "European Amateur Chess Championship 2022 - Deadline extended till 15th of July."
       }
    ]
 }
