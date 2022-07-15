@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Olexandr Bortnyk will play against all members in today's Immortal Game Ambassador Tournament. The event starts at 3 PM UTC and is accessible to everyone for free! Join the event here and total prize fund of $1000. More from Immortal Game: Immortal game reaches the 15k mark",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/play-against-gm-olexandr-bortnyk/",
+         "pubDate" : "Fri, 15 Jul 2022 11:26:32 +0000",
+         "title" : "Play against GM Olexandr Bortnyk"
+      },
+      {
+         "description" : "The 27th edition of the annual Bradley Chess Open will take place from 15-17 July at Sheraton Hartford Hotel at Bradley Airport, Windsor Locks, Connecticut. The event will be played in 5 sections: Major (for players rated 1900+), Under 2100, Under 1800, Under 1500 and Under 1200, with a guaranteed prize fund of 15.000$. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/27th-annual-bradley-chess-open/",
+         "pubDate" : "Fri, 15 Jul 2022 11:25:26 +0000",
+         "title" : "27th annual Bradley Chess Open"
+      },
+      {
+         "description" : "This is the 2nd episode in the series of Olympiad stories with Saravanan. In this episode, we discuss the Madras Tiger Vishy Anand and some of his memorable games at the Olympiad. In discussing the games, Saravanan and Sagar also go into the history of how Vishy developed as a chess player. Saravanan saw the lightning kid style of play of Anand and also the more mature and calm style. This is part of a 6-episode series of the most interesting stories from the Chess Olympiads. | Photo: Abhyudaya Ram.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/before-he-became-world-champion-vishy-anand-the-speed-demon",
+         "pubDate" : "Fri, 15 Jul 2022 12:20:00 +0100",
+         "title" : "Before he became world champion: Vishy Anand, the speed demon"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92900453.cms\" />Odisha Chief Minister Naveen Patnaik Friday said his government will promote chess at schools and colleges. Handing the Chess Olympiad relay torch to Padmini Rout at a function in Loka Seva Bhavan, he said it was a proud moment for India as it was hosting such an international event on the 75th year of its Independence.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/odisha-to-promote-chess-in-schools-colleges-cm-naveen-patnaik/articleshow/92900453.cms",
+         "pubDate" : "Fri, 15 Jul 2022 11:04:59 +0000",
+         "title" : "Odisha to promote chess in schools, colleges: CM Naveen Patnaik"
+      },
+      {
+         "description" : "In the first part of the interview, Margaret Murphy talked about the intervention of a FIDE Vice President into the internal affairs of a recognized national chess federation. Despite the three months ban by the FIDE Ethics Commission, the (now former) FIDE official Nigel Short continued to publish unproven accusations on his Twitter feed. Q: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/president-of-usvi-chess-federation-margaret-murphy-fide-should-investigate-nigel-shorts-motives/",
+         "pubDate" : "Fri, 15 Jul 2022 10:55:34 +0000",
+         "title" : "President of USVI Chess Federation Margaret Murphy: FIDE should investigate Nigel Short's motives"
+      },
+      {
+         "description" : "A wild day of FTX Road to Miami quarterfinal action saw youngsters Arjun Erigaisi, Sam Sevian and Jeffery Xiong all take the lead against Levon Aronian, Wei Yi and Richard Rapport before the more experienced stars stormed back to score comeback wins. Jan-Krzysztof Duda beat Anish Giri without a comeback, but with one of the strangest ends to a match you'll ever see.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-qfs-aronian-duda-rapport-wei-yi-win",
+         "pubDate" : "Fri, 15 Jul 2022 09:52:15 +0000",
+         "title" : "FTX Road to Miami QFs: Aronian, Duda, Rapport & Wei Yi win"
+      },
+      {
+         "description" : " <p class=\"lead\">While FIDE is waiting for Carlsen to decide if he's going to defend his title against Nepomniachtchi, the World Champion participated at the <a href=\"https://worldchess.com/news/all/magnus-carlsen-is-turning-to-poker/\">World Series of Poker</a> in Las Vegas and then paid a visit to the Philadelphia 76ers, announcing his entrance to the NBA cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-4.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Ludwig Ahgren with Magnus Calrsen by <a href=\"https://twitter.com/stonemalick\">@stonemalick</a> // <a href=\"https://twitter.com/MagnusCarlsen\">@magnuscarlse",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-celebrity-vibes-along-with-poker-and-nba-stars/",
+         "pubDate" : "Fri, 15 Jul 2022 09:38:48 +0000",
+         "title" : "Magnus Carlsen: Celebrity vibes along with Poker and NBA stars"
+      },
+      {
+         "description" : "Three rounds have been already played at the European Youth Team Chess Championship 2022 which is ongoing in Thessaloniki, Greece. The event broke the participation record with 53 teams and 196 players from 16 European federations. ECU Secretary-General Mr. Theodoros Tsorbatzoglou opened the event shortly before the start of the first round, addressing the players and captains and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-chess-championship-2022-r3-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2022-r3-report/",
+         "pubDate" : "Fri, 15 Jul 2022 08:39:00 +0000",
+         "title" : "European Youth Team Chess Championship 2022 - R3 report"
+      },
+      {
          "description" : " Russia are banned, China are absent, the US favourites hope to hold off India, while Ukraine could spring a surprise England hope to medal for the first time this century, but will probably have to settle for around their seeded position of 10th, when the 187-nation Olympiad starts at Chennai, India, on 28 July. Long ago in the vintage years between 1984 and 1988, England won three silvers behind the Soviet kings led by Garry Kasparov and Anatoly Karpov. The current group is ageing now, but England's recent performances have been very respectable: fifth in the 2018 Olympiad, the last before the pandemic, and second to Russia in the 2019 world teams. At Chennai, Russia are banned and China w",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -258,14 +322,6 @@ news_feed (
          "title" : "FTX Road to Miami: Sevian wins prelims"
       },
       {
-         "description" : "The 44th Chess Olympiad in Chennai, India, set to start on the 29th of July, will be the most prominent chess gathering of the year. The historical participation records are updated with 189 teams registered for the Open and 162 in the Women's section. The 2022 Chess Olympiad will not be only the biggest in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-most-stylish-teams-of-44th-chess-olympiad-to-get-special-awards-tweetoftheday/",
-         "pubDate" : "Thu, 14 Jul 2022 10:30:27 +0000",
-         "title" : "The most stylish teams of 44th Chess Olympiad to get special awards #TweetOftheDay"
-      },
-      {
          "description" : "Sam Sevian defeated Shakhriyar Mamedyarov in the final round of the FTX Road to Miami Prelims to top the table while Shakh was knocked out after losing all three games on the final day. Wei Yi scraped through despite a late surge from Aryan Tari, while Levon Aronian and Anish Giri both got the job done comfortably. It's Sevian vs. Wei Yi, Erigaisi vs. Aronian, Duda vs. Giri and Xiong vs. Rapport in Thursday's quarterfinals.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -290,14 +346,6 @@ news_feed (
          "title" : "Justus Williams pens article in Chess Life"
       },
       {
-         "description" : "Hotshot rookie&#160;Sam Sevian reigned supreme&#160;in the FTX Road to Miami&#x2019;s prelim stage as the $150,000 esports event now heads into its knockout phase. The 21-year-old&#xA0;from Massachusetts, playing in his first Meltwater Champions Chess Tour event,&#xA0;followed up his impressive first three days with another assured performance to clinch top spot. Sevian&#x2019;s rookie run has already&#xA0;earned him []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-field-of-ftx-road-to-miami-cut-in-half-as-the-prelims-stage-concluded-today/",
-         "pubDate" : "Thu, 14 Jul 2022 00:38:46 +0000",
-         "title" : "The field of FTX Road to Miami cut in half as the prelims stage concluded today"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -312,14 +360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-4",
          "pubDate" : "Wed, 13 Jul 2022 14:34:00 -0700",
          "title" : "Sevian Knocks Out Mamedyarov, Enters Knockout Stage As Top Seed"
-      },
-      {
-         "description" : "Tanitoluwa Adewumi is making headlines these days, having won the 2022 Summer New York Invitational. And rightly so, as his trajectory now draws close comparison to the stellar rise of Abhimanyu Mishra, who became the youngest GM in the world at the age of 12 years, 4 months, 25 days. However, it is another US []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andy-woodward-is-the-top-u12-player-in-the-world/",
-         "pubDate" : "Wed, 13 Jul 2022 20:29:25 +0000",
-         "title" : "Andy Woodward is the top U12 player in the world"
       },
       {
          "description" : "",
@@ -1578,14 +1618,6 @@ news_feed (
          "title" : "Everyone Bashes Firouzja For Playing Online Chess"
       },
       {
-         "description" : "Eight of the strongest players in the world are fighting in Madrid to get a shot in the next match for the world crown. Deep opening preparation and maximum focus often lead to slightly better (or worse) endgames. GM Karsten M&uuml;ller aims his attention at the last stage of the game, as he compiles the most salient and instructive endings from the Candidates Tournament. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-endgames-4",
-         "pubDate" : "Sun, 03 Jul 2022 11:30:00 +0100",
-         "title" : "Endgames from Madrid (4)"
-      },
-      {
          "description" : "Dear All, As you all are aware of the present crisis at Udaipur,Rajasthan and as per the section 144 imposed at various places at Udaipur",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1914,14 +1946,6 @@ news_feed (
          "title" : "Nepomniachtchi practically guaranteed Candidates victory after 10 rounds, the battle for second place is on - 10"
       },
       {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/aOMhC4kY5UY?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-10/",
-         "pubDate" : "Wed, 29 Jun 2022 11:00:00 +0000",
-         "title" : "Watch the FIDE Candidates Tournament 2022: Round 10"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,22 +2192,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-official-regulations/",
          "pubDate" : "Fri, 24 Jun 2022 13:16:12 +0000",
          "title" : "European Amateur Chess Championship 2022 - Deadline extended till 15th of July."
-      },
-      {
-         "description" : "Ian Nepomniachtchi and Fabiano Caruana both won in Round 6 of the FIDE Candidates Tournament in Madrid to move clear of the pack and boost the chances of a World Championship rematch or, if Magnus isn't interested, a Nepo-Fabi match. Ian won a powerful game against Jan-Krzysztof Duda, while Fabiano pounced on a mistake by Alireza Firouzja, who is now in last place and down to world no. 5. Elsewhere Teimour Radjabov missed a huge chance against Richard Rapport.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-6-a-nepo-fabi-2-horse-race",
-         "pubDate" : "Fri, 24 Jun 2022 11:40:54 +0000",
-         "title" : "Madrid Candidates 6: A Nepo-Fabi 2-horse race?"
-      },
-      {
-         "description" : "Six rounds have been played at the 2022 FIDE Candidates Chess Tournament in Madrid and Ian Nepomniachtchi is the sole leader with 4.5 points. In 6th round, Nepomniachtchi defeated Jan-Krzysztof Duda as he built a kingside majority and started a powerful attack on Duda's king. The Polish grandmaster missed chances to fight for a draw and eventually resigned&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-candidates-chess-tournament-2022-nepomniachtchi-in-the-lead/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-candidates-chess-tournament-2022-nepomniachtchi-in-the-lead/",
-         "pubDate" : "Fri, 24 Jun 2022 10:16:19 +0000",
-         "title" : "FIDE Candidates Chess Tournament 2022 - Nepomniachtchi in the lead"
       }
    ]
 }
