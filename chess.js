@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the previous article composer Steffen Slumstrup Nielsen showed us how he strips ideas he has seen in tournament games to construct a proper endgame study. Today he shows us the alternate strategy: massaging the position and the brilliant idea to make it into full-fledged study that at first sight barely resembles the original game. The description of this process appeared in The Macedonian Problemist.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/creating-studies-from-games-2",
+         "pubDate" : "Sat, 16 Jul 2022 09:00:00 +0100",
+         "title" : "Creating studies from games (2)"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-8/euTDDx4o\">https://lichess.org/broadcast/us-junior-championship-2022/round-8/euTDDx4o</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-i-cant-say-i-dealt-it-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FKcLRniXuHA.jpg?itok=OVm16ZMA\" alt=\"\" /><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-9-lichessorg",
          "pubDate" : "Fri, 15 Jul 2022 14:43:49 +0000",
          "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 9 | lichess.org"
-      },
-      {
-         "description" : "Andrey Esipenko is leading the standings at the GM Triathlon in Biel. The first round of classical chess was played on Thursday. Gukesh, Gata Kamsky and Arkadij Naiditsch scored wins with the black pieces. The second round begins at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Fri, 15 Jul 2022 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Live"
       },
       {
          "description" : " While it is always good to see chess on TV, it isn't always done correctly. There is an ad on Australian TV which finishes with a checkmate (loudly announced), which is in fact correctly played, But the weird thing is the chess clock (and old fashioned BHB clock) is facing away from both players, towards the camera. I assume this was done for artistic reasons, but it could just as well have been placed on the far side of the board. Maybe they tried that, but didn't like the result. ",
@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1828",
          "pubDate" : "Sat, 25 Jun 2022 09:44:20 +0000",
          "title" : "FIDE World Senior Team Championship 2022 crosses midpoint"
-      },
-      {
-         "description" : "A column on Twitter written by \"HowardStaunton\" almost makes one believe in life after death. I was forcibly drawn once again to perusing it, when the irrepressible author republished a caricature of Napoleon playing chess against King George III. At first I attributed it instinctively to James Gillray, but on second thoughts it looks more likely []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/who-is-howard-staunton-a-chess-mystery/",
-         "pubDate" : "Sat, 25 Jun 2022 07:27:35 +0000",
-         "title" : "Who is @Howard Staunton? A chess mystery"
       }
    ]
 }
