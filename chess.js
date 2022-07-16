@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-8/euTDDx4o\">https://lichess.org/broadcast/us-junior-championship-2022/round-8/euTDDx4o</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-i-cant-say-i-dealt-it-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FKcLRniXuHA.jpg?itok=OVm16ZMA\" alt=\"\" /><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-i-cant-say-i-dealt-it-round-8",
+         "pubDate" : "Sat, 16 Jul 2022 02:43:56 +0000",
+         "title" : "Christopher Yoo: I Can't Say I Dealt With It | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm\">https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-shabalov-ben-finegold-made-me-do-ittwice-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vm6cNkmXS1k.jpg?itok=yy7de2SL\" al",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-shabalov-ben-finegold-made-me-do-ittwice-round-8",
+         "pubDate" : "Sat, 16 Jul 2022 02:43:56 +0000",
+         "title" : "Alex Shabalov: Ben Finegold Made Me Do It...Twice | Round 8"
+      },
+      {
+         "description" : "In the weeks before the FIDE presidential elections on August 7, official candidate GM Andrii Baryshpolets and his intended Deputy President GM Peter Heine Nielsen are fighting an uphill battle. Campaigning with limited resources, the duo advocate...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/baryshpolets-nielsen-interview-fide-presidential-elections",
+         "pubDate" : "Fri, 15 Jul 2022 17:35:03 -0700",
+         "title" : "Fighting Russian Influence, Baryshpolets, Nielsen Aim To Topple Dvorkovich"
+      },
+      {
+         "description" : "China&#x2019;s former child prodigy Wei Yi has reached his first&#xA0;Meltwater Champions Chess Tour&#xA0;final after knocking Richard Rapport out of the FTX Road to Miami. The 23-year-old will face top seed Levon Aronian, a Tour winner in the Goldmoney Asian Rapid last season, in a two-set match over the weekend. Wei booked his place by crashing&#xA0;through []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wei-yi-vs-levon-aronian-ftx-road-to-miami-final/",
+         "pubDate" : "Sat, 16 Jul 2022 00:03:16 +0000",
+         "title" : "Wei Yi vs Levon Aronian - FTX Road to Miami final"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm\">https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-dmitry-gurevich-liquify-london-only-21-moves-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RG2rmRO82yc.jpg?itok=RIP2gQct\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-dmitry-gurevich-liquify-london-only-21-moves-round-8",
+         "pubDate" : "Fri, 15 Jul 2022 23:44:01 +0000",
+         "title" : "GM Dmitry Gurevich: Liquify the London in only 21 moves | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm\">https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maxim-dlugy-i-played-perfect-game-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y7gkyBQvPzw.jpg?itok=QLdy8uc4\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/maxim-dlugy-i-played-perfect-game-round-8",
+         "pubDate" : "Fri, 15 Jul 2022 23:44:01 +0000",
+         "title" : "Maxim Dlugy: I played the perfect game! | Round 8"
+      },
+      {
          "description" : "GM Levon Aronian and GM Wei Yi qualified for the two-day final of the FTX Road to Miami tournament. Wei needed just three games to knock out GM Richard Rapport, while Aronian defeated GM Jan-Krzysztof Duda 3-1. The final will consist of two matc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,38 +290,6 @@ news_feed (
          "title" : "Ruiyang Yan: I Didn't Mess Up Too Much Anywhere | Round 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> FIDE Master Rochelle Wu talks to Cristian Chirila after her seventh round victory over Gracy Prasanna in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rochelle-wu-three-wins-row-could-be-better-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jkKUom-IVFA.jpg?itok=mHvzHfDI\" alt=\"\" /></a></di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rochelle-wu-three-wins-row-could-be-better-round-7",
-         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
-         "title" : "Rochelle Wu: Three Wins in a Row... Could Be Better | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks to Cristian Chirila after her seventh round victory over Ellen Wang in the 2022 U.S. Girls' Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thalia-cervantes-bouncing-back-clean-win-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W5tt3SiYylw.jpg?itok=qDHj_n0E\" alt=\"\" /></a></di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/thalia-cervantes-bouncing-back-clean-win-round-7",
-         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
-         "title" : "Thalia Cervantes: Bouncing Back with a Clean Win | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Andrew Hong talks to Cristian Chirila after his seventh round victory over Brandon Jacobson in the 2022 U.S. Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/andrew-hong-game-tournament-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cCUkwvDigCg.jpg?itok=JcetdihZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/andrew-hong-game-tournament-round-7",
-         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
-         "title" : "Andrew Hong: Game of the Tournament? | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman International Master Alice Lee talks to Cristian Chirila after her seventh round victory over Zoey Tang in the 2022 U.S. Girls' Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-pressing-entire-time-against-zoey-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AqEkSi_F47k.jpg?itok=0bOnQu-6\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-pressing-entire-time-against-zoey-round-7",
-         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
-         "title" : "Alice Lee: Pressing the Entire Time Against Zoey | Round 7"
-      },
-      {
          "description" : "The first round of classical chess at the Biel Grandmaster Tournament GMT had it all: the players with the black pieces were victorious in three of the four games. Of the top 3 in the standings, only Esipenko was able to score and thus takes the top spot in the intermediate ranking due to his []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-22/",
          "pubDate" : "Thu, 14 Jul 2022 20:03:09 +0000",
          "title" : "Master Chess Web Show (22)"
-      },
-      {
-         "description" : "European Senior Chess Championship 2022 concluded yesterday in Lublin, Poland. The event took place from 4th-14th July, 2022, being played in two age categories 50+ and 65+, with separate prizes for female players. The Closing Ceremony of the event took place yesterday evening, with Chief Arbiter Tomasz Delega announcing the Winners. Pawe&#x142; Zaskalski &#x2013; Vice []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-senior-chess-champions-2022-crowned-in-lublin-poland/",
-         "pubDate" : "Thu, 14 Jul 2022 16:04:48 +0000",
-         "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
       },
       {
          "description" : "ChessBase Magazine presents you with ideas for your repertoire in a variety of ways. In each issue you will find at least ten opening articles with recommendations from our authors, including analyses and annotated games. In addition, Raienr Knaak's collection of topical opening traps offers suggestions with which you can add tricky small weapons to your repertoire. And in each issue you will find three opening videos in which our authors address current developments. For CBM #208 Dorian Rogozenco, Ivan Sokolov and Mihail Marin have recorded opening videos - total playing time: over an hour. You can watch excerpts from all three contributions here!",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-field-third-team-in-open-section-at-chess-olympiad/articleshow/92632637.cms",
          "pubDate" : "Sun, 03 Jul 2022 09:16:42 +0000",
          "title" : "India to field third team in Open section at Chess Olympiad"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi secured the victory in the 2022 Candidates Tournament with a round to spare by drawing with GM Richard Rapport on Sunday. Nepomniachtchi has now qualified for the 2023 World Championship against GM Magnus Carlsen. GM Hikaru...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-candidates-tournament-round-13",
-         "pubDate" : "Sun, 03 Jul 2022 00:42:00 -0700",
-         "title" : "Nepomniachtchi Wins Candidates Tournament With Round To Spare"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92622923.cms\" />Team USA will be the top seeds in the open section at the upcoming 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
