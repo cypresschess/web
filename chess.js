@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Norwegian Chess Championships&#160;took place from 8-16 July 2022 in Kongsvinger, Norway. The event gathered around 300 players and it was played in 16 groups: Elite, Masters, Candidates, Group 1, Group 2, Group 3, Grop 4, Seniors 50+, Seniors 65+, and different Juniors and Cadet groups. GM Simen Agdestein convincingly won the Elite group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-simen-agdestein-wins-his-8th-norwegian-chess-champion-title/",
+         "pubDate" : "Sat, 16 Jul 2022 19:09:43 +0000",
+         "title" : "GM Simen Agdestein wins his 8th Norwegian Chess Champion title"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.15<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-8",
+         "pubDate" : "Sat, 16 Jul 2022 17:44:43 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 8"
+      },
+      {
          "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -242,14 +258,6 @@ news_feed (
          "title" : "GM Axel Smith with a new course - Color Complexes in Chess"
       },
       {
-         "description" : "Three rounds have been already played at the European Youth Team Chess Championship 2022 which is ongoing in Thessaloniki, Greece. The event broke the participation record with 53 teams and 196 players from 16 European federations. ECU Secretary-General Mr. Theodoros Tsorbatzoglou opened the event shortly before the start of the first round, addressing the players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/three-rounds-played-at-european-youth-team-chess-championship-2022/",
-         "pubDate" : "Fri, 15 Jul 2022 14:54:21 +0000",
-         "title" : "Three rounds played at European Youth Team Chess Championship 2022"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.16<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-girls-junior-championship-goals",
          "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
          "title" : "2022 U.S. Girls' Junior Championship: Goals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> FIDE Master Ruiyang Yan talks to Cristian Chirila after her seventh round victory over Anne-Marie Velea in the 2022 U.S. Girls&#039; Junior Championship. 2022.07.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ruiyang-yan-i-didnt-mess-too-much-anywhere-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DE4Tx2vijd8.jpg?itok=nDjVydhn\" alt=\"\" /></a></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ruiyang-yan-i-didnt-mess-too-much-anywhere-round-7",
-         "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
-         "title" : "Ruiyang Yan: I Didn't Mess Up Too Much Anywhere | Round 7"
       },
       {
          "description" : " In this week's show, Andrew and I reminisced over the 1972 Fischer Spassky and tried to give a taste of what it was like. Both of us followed that match avidly, and it sparked a massive global interest in chess. We are now on a summer recess, but will be back in September with <a href=\"https://chessimprover.com/master-chess-web-show-22/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (22)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-22/\">Master Chess Web Show (22)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2168,14 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1830",
          "pubDate" : "Sat, 25 Jun 2022 21:41:21 +0000",
          "title" : "2022 Candidates, Round 7: Nepomniachtchi and Caruana in a league of their own"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1804",
-         "pubDate" : "Sat, 25 Jun 2022 18:07:16 +0000",
-         "title" : "FIDE Madrid Candidates Chess Conference set for July 2"
       }
    ]
 }
