@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-seven/",
+         "pubDate" : "Sat, 16 Jul 2022 17:35:32 +0000",
+         "title" : "A Foundation for Beginners Sixty Seven"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Sat, 16 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "16-year-old Indian chess prodigy Dommaraju Gukesh is the youngest Indian chess player who became Grandmaster at the age of 12 years, 7 months and 17 days, and he is the youngest Indian to break into World Top 100. Today, Gukesh broke another record as he became the youngest Indian chess player to cross 2700. With []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-d-is-third-youngest-player-ever-to-cross-2700/",
+         "pubDate" : "Sat, 16 Jul 2022 16:21:03 +0000",
+         "title" : "Gukesh D is third youngest player ever to cross 2700"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92924535.cms\" />Young Indian Grandmaster R Praggnanandhaa won the Paracin Open 'A' chess tournament 2022 here on Saturday, scoring 8 points from nine rounds. The 16-year-old remained unbeaten and finished half a point ahead of the field. Alexandr Predke took the second spot with 7.5 points ahead of Alisher Suleymenov and India's AL Muthaiah, who both scored 7 points. Suleymenov grabbed the third place on the basis of a better tie-break score.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/the-creative-process.html",
          "pubDate" : "Fri, 15 Jul 2022 12:52:00 +0000",
          "title" : "The creative process?"
-      },
-      {
-         "description" : "The International&#160;Chess Forum Moscow Open 2022&#160;kicked off yesterday and will be played from the 14th to the 20th of July in the Irina Viner-Usmanova Gymnastics Center.&#160;The program includes open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children&#x2019;s Cup of Russia. The top seeds of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-forum-moscow-open-2022-kicked-of/",
-         "pubDate" : "Fri, 15 Jul 2022 12:50:00 +0000",
-         "title" : "Chess Forum Moscow Open 2022 kicked off"
       },
       {
          "description" : "Queen endgames often need extreme precision. In numerous instances, passed pawns play a large role, but mating attacks should also be considered. Game 4 of the quarterfinal match between Levon Aronian and Arjun Erigaisi saw the former outplaying his opponent in an ending with queens and four pawns per side.",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "2022 ANU Open - 29th to 31st July"
       },
       {
-         "description" : "Our software with the database program, the chess programs, the chess server, numerous FritzTrainer MultiMedia courses and the numerous apps for the online functions is manifold, and naturally questions about the operation of the programs arise again and again. Besides the manuals we offer another important source of information for our users: the ChessBase Wiki.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chessbase-wiki-always-worth-a-look",
-         "pubDate" : "Mon, 04 Jul 2022 13:46:52 +0100",
-         "title" : "The ChessBase Wiki - always worth a look!"
-      },
-      {
          "description" : "The European Senior Chess Championship 2022 kicks off tomorrow in Lublin, Poland, taking place from 5-14 July in Arche Hotel Lublin. The event is played in two age categories: 50+ and 65+, with separate prizes for female players. 61 players from 15 European countries registered for the events which will be played over 9 swiss rounds, with time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2022-starts-in-lublin/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2050,14 +2058,6 @@ news_feed (
          "title" : "Romania to stage FIDE World Youth Chess Championships U14, U16 and U18"
       },
       {
-         "description" : " &#8220;Captured pieces can be dropped back on the board instead of moving a piece&#8221; Lichess Last week I presented an incredible queen sacrifice that would have been possible in one of our club games of Crazyhouse. You can review it HERE. This week I want to present Black's winning combination. It was a true &#8220;throw <a href=\"https://chessimprover.com/crazyhouse-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Crazyhouse (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/crazyhouse-2/\">Crazyhouse (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/crazyhouse-2/",
-         "pubDate" : "Tue, 28 Jun 2022 17:16:24 +0000",
-         "title" : "Crazyhouse (2)"
-      },
-      {
          "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted thousands of visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. ChessFest is a fun-filled outdoor event, entirely free, open to all. This year it will be staged in London and Liverpool, on Sunday the 17th of July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2176,22 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1804",
          "pubDate" : "Sat, 25 Jun 2022 18:07:16 +0000",
          "title" : "FIDE Madrid Candidates Chess Conference set for July 2"
-      },
-      {
-         "description" : " Ian Nepomniachtchi leads the FIDE Candidates in Madrid with 5.5/7 half a point clear of Fabiano Caruana at the half way stage. It looks like a battle between these two players at this stage as Hikaru Nakamura on 3.5/7 is the next closest player. We'll know the outline even better by Monday night, Round 8 tomorrow has the juicy pairings of Nepomniachtchi-Ding and Nakamura-Caruana and Round 9 on Monday sees Caruana-Nepomniachtchi. Richard Rapport was quite out prepared by Nepomniachtchi in a sharp Petroff Defence but only to the extent that he should have allowed a draw by repetition. Rapport has had 6 draws so far and the decision to play on seems to have been an emotional one as Rapport sur",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-caruana-win-yet-again-in-round-7-of-the-fide-candidates",
-         "pubDate" : "Sat, 25 Jun 2022 21:36:00 +0400",
-         "title" : "Nepomniachtchi and Caruana win yet again in Round 7 of the FIDE Candidates - 7"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92461111.cms\" />China will not be taking part in the 44th Chess Olympiad to be held at Mamallapuram near Chennai from July 28. China would have been among the top medal contenders in the Olympiad and their absence would brighten India's chances. Russia and Belarus have also been barred from participating in tournaments by the FIDE (world chess federation) following the Russian invasion of neighbouring Ukraine in February.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/china-not-to-take-part-in-chess-olympiad-in-chennai/articleshow/92461111.cms",
-         "pubDate" : "Sat, 25 Jun 2022 16:15:09 +0000",
-         "title" : "China not to take part in Chess Olympiad in Chennai"
       }
    ]
 }
