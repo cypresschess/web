@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 44th Chess Olympiad 2022 starts in less than two weeks taking place from 28th July 10th August in Chennai, India. The historical participation records&#xA0;are updated with 189 teams registered for the Open and 162 in the Women&#x2019;s section and the event will not be only the biggest in numbers, but also the most []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/welcome-to-chennai-video/",
+         "pubDate" : "Sat, 16 Jul 2022 10:59:05 +0000",
+         "title" : "Welcome to Chennai! (VIDEO)"
+      },
+      {
+         "description" : "The 41st Benasque Chess Open took place from 6-15 July 2022 in Benasque, Spain. The event attracted nearly 400 entries from 25 countries who fought over 10 swiss rounds for a total prize fund of 18.000 euros. As many as ten players tied for the first place after 10 played rounds. GM Chithambaram Aravindh won []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-chithambaram-aravindh-wins-41st-benasque-chess-open/",
+         "pubDate" : "Sat, 16 Jul 2022 10:13:05 +0000",
+         "title" : "GM Chithambaram Aravindh wins 41st Benasque Chess Open"
+      },
+      {
+         "description" : "Levon Aronian and Wei Yi finished 7th and 8th in the FTX Road to Miami Prelims, but that hasn't stopped them both reaching the final - and booking their place alongside Magnus Carlsen in the $310,000 FTX Crypto Cup to take place in Miami, Florida next month. Levon overcame Jan-Krzysztof Duda in four games, while Wei Yi defeated Richard Rapport in just three.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-semis-aronian-and-wei-yi-in-final",
+         "pubDate" : "Sat, 16 Jul 2022 10:12:39 +0000",
+         "title" : "FTX Road to Miami SFs: Aronian & Wei Yi in final"
+      },
+      {
+         "description" : "Wei Yi and Levon Aronian will play the 2-set final match of the FTX Road to Miami online tournament on Saturday and Sunday. Wei knocked out Richard Rapport, while Aronian got the better of Jan-Krzysztof Duda in semis. Both finalists have already secured a spot in the coming FTX Crypto Cup, which will be played in Miami next month.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d6",
+         "pubDate" : "Sat, 16 Jul 2022 10:25:00 +0100",
+         "title" : "FTX Road to Miami: Wei knocks out Rapport"
+      },
+      {
+         "description" : "In an earlier column I predicted unforeseeable twists and turns in the microcosm of chess politics. The chess governing body, FIDÉ, has already voted to rebuke Russia for its egregious invasion of Ukraine. The unanimous decision to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/war-and-peace-on-the-chessboard/",
+         "pubDate" : "Sat, 16 Jul 2022 09:14:07 +0000",
+         "title" : "War and peace on the chessboard"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92917614.cms\" />Indian Grandmaster Aravindh Chithambaram emerged winner in the 41st Villa De Benasque International Chess Open after edging Armenia's Robert Hovhannisyan and compatriot Raunak Sadhwani on the basis of tie-break score.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-aravindh-chithambaram-wins-chess-tourney-in-spain/articleshow/92917614.cms",
+         "pubDate" : "Sat, 16 Jul 2022 08:53:22 +0000",
+         "title" : "Indian GM Aravindh Chithambaram wins chess tourney in Spain"
+      },
+      {
          "description" : "In the previous article composer Steffen Slumstrup Nielsen showed us how he strips ideas he has seen in tournament games to construct a proper endgame study. Today he shows us the alternate strategy: massaging the position and the brilliant idea to make it into full-fledged study that at first sight barely resembles the original game. The description of this process appeared in The Macedonian Problemist.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/baryshpolets-nielsen-interview-fide-presidential-elections",
-         "pubDate" : "Fri, 15 Jul 2022 17:35:03 -0700",
+         "pubDate" : "Fri, 15 Jul 2022 17:35:00 -0700",
          "title" : "Fighting Russian Influence, Baryshpolets, Nielsen Aim To Topple Dvorkovich"
       },
       {
@@ -80,14 +128,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/wei-yi-and-aronian-make-final/",
          "pubDate" : "Fri, 15 Jul 2022 21:43:10 +0100",
          "title" : "Wei Yi and Aronian make final"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Fri, 15 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
       },
       {
          "description" : "",
@@ -288,22 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ruiyang-yan-i-didnt-mess-too-much-anywhere-round-7",
          "pubDate" : "Thu, 14 Jul 2022 23:43:13 +0000",
          "title" : "Ruiyang Yan: I Didn't Mess Up Too Much Anywhere | Round 7"
-      },
-      {
-         "description" : "The first round of classical chess at the Biel Grandmaster Tournament GMT had it all: the players with the black pieces were victorious in three of the four games. Of the top 3 in the standings, only Esipenko was able to score and thus takes the top spot in the intermediate ranking due to his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/an-explosive-day-at-biel-chess-festival-with-major-upsets-in-the-open-tournament/",
-         "pubDate" : "Thu, 14 Jul 2022 22:09:27 +0000",
-         "title" : "An explosive day at Biel Chess Festival with major upsets in the Open tournament"
-      },
-      {
-         "description" : "The big guns struck back in the FTX Road to Miami today as the tournament&#x2019;s established stars overcame the youngsters. Levon Aronian,&#xA0;Jan-Krzysztof Duda, Wei Yi and Richard Rapport all&#xA0;clinched&#xA0;semi-final places in the&#xA0;Meltwater Champions Chess Tour&#xA0;event. It meant heartbreak for the young Americans Jeffery Xiong and Sam Sevian while India&#x2019;s teen sensation Arjun Erigaisi also went []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aronian-wei-duda-and-rapport-advance-to-ftx-road-to-miami-semi-finals/",
-         "pubDate" : "Thu, 14 Jul 2022 21:39:30 +0000",
-         "title" : "Aronian, Wei, Duda and Rapport advance to FTX Road to Miami semi-finals"
       },
       {
          "description" : " In this week's show, Andrew and I reminisced over the 1972 Fischer Spassky and tried to give a taste of what it was like. Both of us followed that match avidly, and it sparked a massive global interest in chess. We are now on a summer recess, but will be back in September with <a href=\"https://chessimprover.com/master-chess-web-show-22/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (22)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-22/\">Master Chess Web Show (22)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2122,14 +2146,6 @@ news_feed (
          "title" : "Looking like a two horse race"
       },
       {
-         "description" : "Ian Nepomniachtchi ended the first half of the 2022 FIDE Candidates Tournament on a phenomenal +4 score after Richard Rapport rejected a draw and crashed to defeat in what Fabiano Caruana described as \"one of the most shocking games I've seen from a top player in a long time\". Fabi is still just half a point behind after winning a pawn early on and then navigating complications to beat Teimour Radjabov, while 3rd placed Hikaru Nakaura trails Fabi by 1.5 points before their Round 8 clash.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-7-nepo-caruana-win-again",
-         "pubDate" : "Sun, 26 Jun 2022 06:09:59 +0000",
-         "title" : "Madrid Candidates 7: Nepo & Caruana win again"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,22 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1829",
          "pubDate" : "Sat, 25 Jun 2022 12:34:10 +0000",
          "title" : "Bardiya Daneshvar wins Iranian Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92455588.cms\" />Indian International Master Nitin Senthilvel settled for a draw with compatriot and fellow IM Ravichandran Siddharth in the ninth round lead to stay on top of the standings with 8 points in the 13th Chennai Open International Grandmaster Chess Tournament 2022 on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-open-chess-nitin-remains-on-top/articleshow/92455588.cms",
-         "pubDate" : "Sat, 25 Jun 2022 10:36:35 +0000",
-         "title" : "Chennai Open Chess: Nitin remains on top"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1828",
-         "pubDate" : "Sat, 25 Jun 2022 09:44:20 +0000",
-         "title" : "FIDE World Senior Team Championship 2022 crosses midpoint"
       }
    ]
 }
