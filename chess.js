@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Schara-Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4!?) is now over 100 years old. Recently the gambit has received more attention - also thanks to Magnus Carlsen's games against Sam Shankland and Le Quang this year. Our new author, GM Lucian Miron, takes a closer look at the pawn sacrifice in the latest ChessBase Magazine #208. \"if you are tired of constantly being under pressure when White plays 1.d4 and only the main lines, go for the Schara-Hennig Gambit!\" he concludes. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rebirth-of-a-gambit",
-         "pubDate" : "Sat, 16 Jul 2022 16:00:00 +0100",
-         "title" : "The rebirth of a gambit"
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92924535.cms\" />Young Indian Grandmaster R Praggnanandhaa won the Paracin Open 'A' chess tournament 2022 here on Saturday, scoring 8 points from nine rounds. The 16-year-old remained unbeaten and finished half a point ahead of the field. Alexandr Predke took the second spot with 7.5 points ahead of Alisher Suleymenov and India's AL Muthaiah, who both scored 7 points. Suleymenov grabbed the third place on the basis of a better tie-break score.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-paracin-open-title/articleshow/92924535.cms",
+         "pubDate" : "Sat, 16 Jul 2022 14:48:58 +0000",
+         "title" : "R Praggnanandhaa wins Paracin Open title"
       },
       {
          "description" : "The International&#160;Chess Forum Moscow Open 2022&#160;takes place from 14-20 July in the Irina Viner-Usmanova Gymnastics Center.&#160;The program includes open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children&#x2019;s Cup of Russia. The top seeds of the Open A (Men stage of the Russian Cup) are:&#160;GM Vladislav []",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://www.chessdom.com/praggnanandhaa-triumphs-at-the-15th-international-chess-open-paracin/",
          "pubDate" : "Sat, 16 Jul 2022 12:08:20 +0000",
          "title" : "Praggnanandhaa triumphs at the 15th International Chess Open Paracin"
+      },
+      {
+         "description" : "The Schara-Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4!?) is now over 100 years old. Recently the gambit has received more attention - also thanks to Magnus Carlsen's games against Sam Shankland and Le Quang this year. Our new author, GM Lucian Miron, takes a closer look at the pawn sacrifice in the latest ChessBase Magazine #208. \"if you are tired of constantly being under pressure when White plays 1.d4 and only the main lines, go for the Schara-Hennig Gambit!\" he concludes. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rebirth-of-a-gambit",
+         "pubDate" : "Sat, 16 Jul 2022 13:00:00 +0100",
+         "title" : "The rebirth of a gambit"
       },
       {
          "description" : "The 44th Chess Olympiad 2022 starts in less than two weeks taking place from 28th July 10th August in Chennai, India. The historical participation records&#160;are updated with 189 teams registered for the Open and 162 in the Women&#x2019;s section and the event will not be only the biggest in numbers, but also the most []",
