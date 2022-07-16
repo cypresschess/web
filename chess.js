@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 44th Chess Olympiad 2022 starts in less than two weeks taking place from 28th July 10th August in Chennai, India. The historical participation records&#xA0;are updated with 189 teams registered for the Open and 162 in the Women&#x2019;s section and the event will not be only the biggest in numbers, but also the most []",
+         "description" : "The Schara-Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4!?) is now over 100 years old. Recently the gambit has received more attention - also thanks to Magnus Carlsen's games against Sam Shankland and Le Quang this year. Our new author, GM Lucian Miron, takes a closer look at the pawn sacrifice in the latest ChessBase Magazine #208. \"if you are tired of constantly being under pressure when White plays 1.d4 and only the main lines, go for the Schara-Hennig Gambit!\" he concludes. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rebirth-of-a-gambit",
+         "pubDate" : "Sat, 16 Jul 2022 16:00:00 +0100",
+         "title" : "The rebirth of a gambit"
+      },
+      {
+         "description" : "The International&#160;Chess Forum Moscow Open 2022&#160;takes place from 14-20 July in the Irina Viner-Usmanova Gymnastics Center.&#160;The program includes open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children&#x2019;s Cup of Russia. The top seeds of the Open A (Men stage of the Russian Cup) are:&#160;GM Vladislav []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ches-forum-moscow-open-live/",
+         "pubDate" : "Sat, 16 Jul 2022 14:14:00 +0000",
+         "title" : "Chess Forum Moscow Open 2022 LIVE"
+      },
+      {
+         "description" : "The&#160;49th edition of the International Dortmund Chess Festival&#160;takes place from 16-24 July at the Congress Centre of the Westfalenhallen Dortmund. The festival features&#160;No-Castling World Masters 2022,&#160;German Grand Prix 2022, Sparkassen Chess Trophy Open tournaments (A and B), and&#160;No-castling online events. The&#160;No-Castling World Masters 2022 will be played from 18-24 July as a double round-robin tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/49th-international-dortmund-chess-festival-live/",
+         "pubDate" : "Sat, 16 Jul 2022 13:31:53 +0000",
+         "title" : "49th International Dortmund Chess Festival LIVE"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92922634.cms\" />The first ever torch relay for the 44th Chess Olympiad to be held in Tamil Nadu between July 28 and August 10 arrived in Chhattisgarh capital Raipur on Saturday. Arjuna Award recipient and Grandmaster Pravin Thipsay handed over the torch to Chhattisgarh Chief Minister Bhupesh Baghel at Pt Deendayal Upadhyaya Auditorium here and the latter handed it over to Woman FIDE Master Kiran Agrawal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-torch-arrives-in-chhattisgarhs-raipur-cm-lists-efforts-to-popularize-game/articleshow/92922634.cms",
+         "pubDate" : "Sat, 16 Jul 2022 12:55:51 +0000",
+         "title" : "Chess Olympiad: Torch arrives in Chhattisgarh's Raipur"
+      },
+      {
+         "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Sat, 16 Jul 2022 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "The 15th edition of the International Chess Festival Paracin 2022 took place from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin. The festival featured two classical open events: A (for players rated 2100+) and B (for players rated U2100), 18th Memorial Chess Rapid Tournament &#x201C;Uros Dinic&#x201D; (July 10th) and Open Blitz Tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/praggnanandhaa-triumphs-at-the-15th-international-chess-open-paracin/",
+         "pubDate" : "Sat, 16 Jul 2022 12:08:20 +0000",
+         "title" : "Praggnanandhaa triumphs at the 15th International Chess Open Paracin"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 starts in less than two weeks taking place from 28th July 10th August in Chennai, India. The historical participation records&#160;are updated with 189 teams registered for the Open and 162 in the Women&#x2019;s section and the event will not be only the biggest in numbers, but also the most []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/welcome-to-chennai-video/",
@@ -202,22 +250,6 @@ news_feed (
          "title" : "A queen endgame: Aronian's invasion"
       },
       {
-         "description" : "Grandmaster Olexandr Bortnyk will play against all members in today's Immortal Game Ambassador Tournament. The event starts at 3 PM UTC and is accessible to everyone for free! Join the event here and total prize fund of $1000. More from Immortal Game: Immortal game reaches the 15k mark",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/play-against-gm-olexandr-bortnyk/",
-         "pubDate" : "Fri, 15 Jul 2022 11:26:32 +0000",
-         "title" : "Play against GM Olexandr Bortnyk"
-      },
-      {
-         "description" : "The 27th edition of the annual Bradley Chess Open will take place from 15-17 July at Sheraton Hartford Hotel at Bradley Airport, Windsor Locks, Connecticut. The event will be played in 5 sections: Major (for players rated 1900+), Under 2100, Under 1800, Under 1500 and Under 1200, with a guaranteed prize fund of 15.000$. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/27th-annual-bradley-chess-open/",
-         "pubDate" : "Fri, 15 Jul 2022 11:25:26 +0000",
-         "title" : "27th annual Bradley Chess Open"
-      },
-      {
          "description" : "This is the 2nd episode in the series of Olympiad stories with Saravanan. In this episode, we discuss the Madras Tiger Vishy Anand and some of his memorable games at the Olympiad. In discussing the games, Saravanan and Sagar also go into the history of how Vishy developed as a chess player. Saravanan saw the lightning kid style of play of Anand and also the more mature and calm style. This is part of a 6-episode series of the most interesting stories from the Chess Olympiads. | Photo: Abhyudaya Ram.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -232,14 +264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/odisha-to-promote-chess-in-schools-colleges-cm-naveen-patnaik/articleshow/92900453.cms",
          "pubDate" : "Fri, 15 Jul 2022 11:04:59 +0000",
          "title" : "Odisha to promote chess in schools, colleges: CM Naveen Patnaik"
-      },
-      {
-         "description" : "In the first part of the interview, Margaret Murphy talked about the intervention of a FIDE Vice President into the internal affairs of a recognized national chess federation. Despite the three months ban by the FIDE Ethics Commission, the (now former) FIDE official Nigel Short continued to publish unproven accusations on his Twitter feed. Q: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/president-of-usvi-chess-federation-margaret-murphy-fide-should-investigate-nigel-shorts-motives/",
-         "pubDate" : "Fri, 15 Jul 2022 10:55:34 +0000",
-         "title" : "President of USVI Chess Federation Margaret Murphy: FIDE should investigate Nigel Short's motives"
       },
       {
          "description" : "A wild day of FTX Road to Miami quarterfinal action saw youngsters Arjun Erigaisi, Sam Sevian and Jeffery Xiong all take the lead against Levon Aronian, Wei Yi and Richard Rapport before the more experienced stars stormed back to score comeback wins. Jan-Krzysztof Duda beat Anish Giri without a comeback, but with one of the strangest ends to a match you'll ever see.",
@@ -1562,14 +1586,6 @@ news_feed (
          "title" : "Watch the Candidates Tournament 2022: Round 14"
       },
       {
-         "description" : "On 1 July the FIDE published the new world ranking list. Magnus Carlsen and Hou Yifan continue to lead the \"Top 100\" and \"Top 100 Women\" by a large margin. Alireza Firouzja, who turned 19 at the beginning of the Candidates, is still the best junior, while Zhu Jiner from China continues to lead the \"Girls'\" list.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-july-2022",
-         "pubDate" : "Mon, 04 Jul 2022 12:40:39 +0100",
-         "title" : "FIDE ratings July 2022"
-      },
-      {
          "description" : "Day 24 AIZWAL Sh. Robert Royte , Minister of State, IC- Sports &#38; Youth Services, I &#38;CT, and Tourism, Govt. of Mizoram received the torch",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1592,14 +1608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1846",
          "pubDate" : "Mon, 04 Jul 2022 09:31:19 +0000",
          "title" : "Checkmate Coronavirus: Road to Chennai"
-      },
-      {
-         "description" : "Ian Nepomniachtchi won the Candidates Tournament for a second time in a row on Sunday. The 31-year-old, much like in 2021, secured first place with a round to spare, and thus gained the right to challenge Magnus Carlsen in the next match for the World Championship title. Round 13 of the tournament saw Hikaru Nakamura beating Jan-Krzysztof Duda to grab clear second place. Nakamura is set to face Ding Liren, currently in third place, in a decisive final-round encounter on Monday. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r13",
-         "pubDate" : "Mon, 04 Jul 2022 02:15:00 +0100",
-         "title" : "Ian Nepomniachtchi wins second consecutive Candidates Tournament"
       },
       {
          "description" : "Ian Nepomniachtchi has won the FIDE Candidates Tournament with a round to spare for the second time in a row, earning another shot at the World Championship title. Magnus Carlsen was in the venue as Ian made a draw against Richard Rapport, but was silent on whether he will defend his title. If he doesn't, Nepo will play the runner-up, and that will be Hikaru Nakamura, who defeated Jan-Krzysztof Duda, unless Ding Liren wins their last-round game on Monday. ",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/china-not-to-take-part-in-chess-olympiad-in-chennai/articleshow/92461111.cms",
          "pubDate" : "Sat, 25 Jun 2022 16:15:09 +0000",
          "title" : "China not to take part in Chess Olympiad in Chennai"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1829",
-         "pubDate" : "Sat, 25 Jun 2022 12:34:10 +0000",
-         "title" : "Bardiya Daneshvar wins Iranian Championship"
       }
    ]
 }
