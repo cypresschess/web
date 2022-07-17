@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.16<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-9-playoff-lichessorg",
+         "pubDate" : "Sat, 16 Jul 2022 23:44:54 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 9 & Playoff | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Christopher Yoo talks to Cristian Chirila after his ninth round victory over Carissa Yip at the 2022 U.S. Junior Championship. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-us-junior-champion-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eid5YpNxtKU.jpg?itok=xVyGEHm5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-us-junior-champion-round-9",
+         "pubDate" : "Sat, 16 Jul 2022 23:44:54 +0000",
+         "title" : "Christopher Yoo: U.S. Junior Champion! | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Abhimanyu Mishra talks to Cristian Chirila after his ninth round victory over David Brodsky at the 2022 U.S. Junior Championship. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abhi-mishra-i-haven%E2%80%99t-played-my-best-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jCqjf0XifTs.jpg?itok=E-S-vku1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/abhi-mishra-i-haven%E2%80%99t-played-my-best-round-9",
+         "pubDate" : "Sat, 16 Jul 2022 23:44:54 +0000",
+         "title" : "Abhi Mishra: I Haven't Played My Best | Round 9"
+      },
+      {
          "description" : "GM Levon Aronian leads the final of the FTX Road to Miami tournament after the first of two days. GM Wei Yi had winning positions in both the second and third games, but had to settle for draws and then lost the fourth game. How to watch? The ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -130,6 +154,14 @@ news_feed (
          "title" : "Praggnanandhaa triumphs at the 15th International Chess Open Paracin"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1864",
+         "pubDate" : "Sat, 16 Jul 2022 12:06:01 +0000",
+         "title" : "Norwegian Championship: Simen Agdestein wins eighth title"
+      },
+      {
          "description" : "The Schara-Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4!?) is now over 100 years old. Recently the gambit has received more attention - also thanks to Magnus Carlsen's games against Sam Shankland and Le Quang this year. Our new author, GM Lucian Miron, takes a closer look at the pawn sacrifice in the latest ChessBase Magazine #208. \"if you are tired of constantly being under pressure when White plays 1.d4 and only the main lines, go for the Schara-Hennig Gambit!\" he concludes. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,28 +266,12 @@ news_feed (
          "title" : "GM Dmitry Gurevich: Liquify the London in Only 21 Moves | Round 8"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm\">https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maxim-dlugy-i-played-perfect-game-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y7gkyBQvPzw.jpg?itok=QLdy8uc4\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/maxim-dlugy-i-played-perfect-game-round-8",
-         "pubDate" : "Fri, 15 Jul 2022 23:44:01 +0000",
-         "title" : "Maxim Dlugy: I played the perfect game! | Round 8"
-      },
-      {
          "description" : "GM Levon Aronian and GM Wei Yi qualified for the two-day final of the FTX Road to Miami tournament. Wei needed just three games to knock out GM Richard Rapport, while Aronian defeated GM Jan-Krzysztof Duda 3-1. The final will consist of two matc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-semifinals",
          "pubDate" : "Fri, 15 Jul 2022 15:16:00 -0700",
          "title" : "Aronian, Wei Reach Final; Qualify For Miami"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman FIDE Master Sophie Morris-Suzuki talks to Cristian Chirila after her eighth round victory over Anne-Marie Velea at the 2022 U.S. Girls&#039; Junior Championship. 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wfm-sophie-morris-suzuki-destroying-qgd-23-moves-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZfdJkZBiskw.jpg?itok=ijeOx",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wfm-sophie-morris-suzuki-destroying-qgd-23-moves-round-8",
-         "pubDate" : "Fri, 15 Jul 2022 20:43:53 +0000",
-         "title" : "WFM Sophie Morris-Suzuki: Destroying the QGD in 23 Moves! | Round 8"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wei Yi</strong> and <strong>Levon Aronian</strong> <a href=\"https://chess24.com/tour/wei-yi-to-face-levon-aronian-in-ftx-road-to-miami-final/\">made it to the final</a> of the <strong>FTX Road to Miami</strong> online tournament of the <strong>Meltwater Champions Chess Tour</strong> and thus qualifid for the <strong>FTX Crypto Cup</strong> that will be held over the board next month in Miami. </div> ",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-axel-smith-with-a-new-course-color-complexes-in-chess/",
          "pubDate" : "Fri, 15 Jul 2022 15:06:42 +0000",
          "title" : "GM Axel Smith with a new course - Color Complexes in Chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.16<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-9-lichessorg",
-         "pubDate" : "Fri, 15 Jul 2022 14:43:49 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 9 | lichess.org"
       },
       {
          "description" : " While it is always good to see chess on TV, it isn't always done correctly. There is an ad on Australian TV which finishes with a checkmate (loudly announced), which is in fact correctly played, But the weird thing is the chess clock (and old fashioned BHB clock) is facing away from both players, towards the camera. I assume this was done for artistic reasons, but it could just as well have been placed on the far side of the board. Maybe they tried that, but didn't like the result. ",
