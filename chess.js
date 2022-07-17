@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a win over former sole leader Le Quang Liem, Dommaraju Gukesh took the lead in the Grandmaster Triathlon at the Biel Chess Festival - and at 16 years, 1 month and 17 days he became the third-youngest player in history to cross the magic threshold of 2700 Elo points! | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r3",
+         "pubDate" : "Sun, 17 Jul 2022 06:40:00 +0100",
+         "title" : "Biel: Gukesh becomes third-youngest player to cross the 2700 mark"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Jennifer Yu takes on Thalia Cervantes as part of the blitz round robin in the playoffs in the Girls&#039; Junior Championship. This ended up being the final game in the field. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-girls-junior-championship-blitz-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DHTbOoHvar0.jpg?itok=ulYR1f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-torch-arrives-in-chhattisgarhs-raipur-cm-lists-efforts-to-popularize-game/articleshow/92922634.cms",
          "pubDate" : "Sat, 16 Jul 2022 12:55:51 +0000",
          "title" : "Chess Olympiad: Torch arrives in Chhattisgarh's Raipur"
-      },
-      {
-         "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Sat, 16 Jul 2022 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Live"
       },
       {
          "description" : "The 15th edition of the International Chess Festival Paracin 2022 took place from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin. The festival featured two classical open events: A (for players rated 2100+) and B (for players rated U2100), 18th Memorial Chess Rapid Tournament &#x201C;Uros Dinic&#x201D; (July 10th) and Open Blitz Tournament []",
