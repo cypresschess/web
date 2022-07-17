@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the '90s, Igor Naumkin left his native Moscow, as did many other Soviet players, in order to seek playing opportunities at the many tournaments in Europe. Their grandmaster titles would help to get invitations and participation at various opens on the continent and secure a livelihood. Igor passed on July 13, a month before turning 57 years old.| Photo: Giordano Macellari",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/igor-gennadyevich-naumkin-obituary",
+         "pubDate" : "Sun, 17 Jul 2022 13:00:00 +0100",
+         "title" : "Igor G. Naumkin (1965 - 2022)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While chess is struggling to survive under Taliban rule, two officials who fled Afghanistan are fighting over the right to vote at the upcoming FIDE election. <strong>Ghulam Ali Malak Zad</strong>, who resides in Latvia and was <a href=\"https://www.chessdom.com/fide-elections-list-of-federations-with-voting-powers-electoral-commission-report/\">recently listed as President and Delegate</a> of the <strong>Afghan Chess Federation</strong>, is protesting a <a href=\"https://congress.fide.com/wp-content/uploads/2022/07/Electoral-Commission_Report_9-July-2022_Addendum.pdf\">decision of the <strong>Electoral Commission</strong></a> to approve as delegate <st",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/infight-for-afghanistan-voting-right/",
+         "pubDate" : "Sun, 17 Jul 2022 10:51:40 +0100",
+         "title" : "Infight for Afghanistan voting right"
+      },
+      {
+         "description" : "Levon Aronian was dead lost in the 2nd and 3rd games on Day 1 of the FTX Road to Miami final but managed to survive before going on to win the 4th game to take the lead against Wei Yi. The Chinese star now has to win on demand on Day 2 of the final to force blitz tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-final-1-levon-takes-the-lead",
+         "pubDate" : "Sun, 17 Jul 2022 08:36:31 +0000",
+         "title" : "FTX Road to Miami Final 1: Levon takes the lead!"
+      },
+      {
          "description" : "With a win over former sole leader Le Quang Liem, Dommaraju Gukesh took the lead in the Grandmaster Triathlon at the Biel Chess Festival - and at 16 years, 1 month and 17 days he became the third-youngest player in history to cross the magic threshold of 2700 Elo points! | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,14 +146,6 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty Seven"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Sat, 16 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
-      },
-      {
          "description" : "16-year-old Indian chess prodigy Dommaraju Gukesh is the youngest Indian chess player who became Grandmaster at the age of 12 years, 7 months and 17 days, and he is the youngest Indian to break into World Top 100. Today, Gukesh broke another record as he became the youngest Indian chess player to cross 2700. With []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -218,14 +234,6 @@ news_feed (
          "title" : "FTX Road to Miami SFs: Aronian & Wei Yi in final"
       },
       {
-         "description" : "Wei Yi and Levon Aronian will play the 2-set final match of the FTX Road to Miami online tournament on Saturday and Sunday. Wei knocked out Richard Rapport, while Aronian got the better of Jan-Krzysztof Duda in semis. Both finalists have already secured a spot in the coming FTX Crypto Cup, which will be played in Miami next month.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d6",
-         "pubDate" : "Sat, 16 Jul 2022 10:25:00 +0100",
-         "title" : "FTX Road to Miami: Wei knocks out Rapport"
-      },
-      {
          "description" : "In an earlier column I predicted unforeseeable twists and turns in the microcosm of chess politics. The chess governing body, FIDÉ, has already voted to rebuke Russia for its egregious invasion of Ukraine. The unanimous decision to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -248,6 +256,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/creating-studies-from-games-2",
          "pubDate" : "Sat, 16 Jul 2022 09:00:00 +0100",
          "title" : "Creating studies from games (2)"
+      },
+      {
+         "description" : "Wei Yi and Levon Aronian will play the 2-set final match of the FTX Road to Miami online tournament on Saturday and Sunday. Wei knocked out Richard Rapport, while Aronian got the better of Jan-Krzysztof Duda in semis. Both finalists have already secured a spot in the coming FTX Crypto Cup, which will be played in Miami next month.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d6",
+         "pubDate" : "Sat, 16 Jul 2022 08:00:00 +0100",
+         "title" : "FTX Road to Miami: Wei knocks out Rapport"
       },
       {
          "description" : "In the weeks before the FIDE presidential elections on August 7, official candidate GM Andrii Baryshpolets and his intended Deputy President GM Peter Heine Nielsen are fighting an uphill battle. Campaigning with limited resources, the duo advocate...",
@@ -1578,14 +1594,6 @@ news_feed (
          "title" : "Endgame Magic #201 with Daniel Fernandez: Endgame Highlights from the Candidates Tournament"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has heard <strong>Magnus Carlsen</strong>'s ideas for the world championship match 2023 at a confidential meeting during the penultimate round of the <strong>Candidates Tournament</strong> in Madrid. According to FIDE General Director Emil Sutovsky there are no regulations yet and a draft is to be provided to Carlsen in the next days that shall integrate both FIDE's and the world champion's views. Carlsen is expected to decide if he plays the 2023 match by 20 July. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fide-to-draft-compromise-regulation/",
-         "pubDate" : "Mon, 04 Jul 2022 16:09:44 +0100",
-         "title" : "FIDE to draft compromise regulation"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/bad-luck-or-bad-prep.html",
          "pubDate" : "Mon, 27 Jun 2022 13:28:00 +0000",
          "title" : "Bad luck or bad prep?"
-      },
-      {
-         "description" : "Hikaru Nakamura took revenge on Fabiano Caruana in an epic Round 8 FIDE Candidates Tournament game to move within just half a point of his US rival. That meant that Ian Nepomniachtchi's quick draw against Ding Liren extended his lead to a full point, but Fabi has a chance to catch Nepo in Round 9 if he can win their individual clash. Elsewhere Richard Rapport picked up a 1st win with a sudden attack against Jan-Krzysztof Duda, while Firouzja-Radjabov was drawn in 7 hours and 93 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-8-nakamura-shocks-caruana",
-         "pubDate" : "Mon, 27 Jun 2022 08:41:50 +0000",
-         "title" : "Madrid Candidates 8: Nakamura shocks Caruana"
       },
       {
          "description" : "",
