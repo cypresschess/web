@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Rodrigo Vasquez and IM Denis Lazavik were the winners of the third and fourth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; The two first-finishing players advanced to the knockout phase where they will be joined by GM Eric Hanse...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-1-day-2",
+         "pubDate" : "Sun, 17 Jul 2022 10:31:40 -0700",
+         "title" : "Vasquez and Lazavik Top Chess.com Global Play-Ins"
+      },
+      {
+         "description" : " Chess Tactics for Heroes is part of a series of books providing coaching materials for anyone teaching students from, say, 500 to 1500 strength. They can also be used as course books by independent learners. As you might guess, this book is about winning pieces. There are, in very simple terms, two ways you can <a href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Tactics for Heroes Revisited\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\">Chess Tactics for Heroes Revisited</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-tactics-for-heroes-revisited/",
+         "pubDate" : "Sun, 17 Jul 2022 17:18:15 +0000",
+         "title" : "Chess Tactics for Heroes Revisited"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Sun, 17 Jul 2022 17:55:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
          "description" : "The Hungarian grandmaster who is in process of transferring to Romanian Chess Federation recently participated in the 2022 Candidates Chess Tournament, German Bundesliga 2022, and then FTX Road to Miami. After a hectic tournaments schedule, Richard Rapport decided to rest from chess and as a result, produced his first painting. Chess and art are closely []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,14 +98,6 @@ news_feed (
          "title" : "Grand Chess Tour Croatia 2022 starts this Wednesday"
       },
       {
-         "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Sun, 17 Jul 2022 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Blitz!"
-      },
-      {
          "description" : "U.S. Senior, U.S. Junior and U.S. Girls' Junior final recap by WGM Sabina Foisor The final day of the 2022 U.S. Senior, U.S. Junior, &#38; U.S. Girls&#x2019; Junior Championships was one of the most thrilling finishes at a National Championship and one to be remembered for years, with all the titles being up for grabs []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r3",
          "pubDate" : "Sun, 17 Jul 2022 06:40:00 +0100",
          "title" : "Biel: Gukesh becomes third-youngest player to cross the 2700 mark"
+      },
+      {
+         "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Sun, 17 Jul 2022 05:55:00 +0100",
+         "title" : "Biel Chess Festival - Blitz!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Jennifer Yu takes on Thalia Cervantes as part of the blitz round robin in the playoffs in the Girls&#039; Junior Championship. This ended up being the final game in the field. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-girls-junior-championship-blitz-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DHTbOoHvar0.jpg?itok=ulYR1f",
@@ -1426,14 +1450,6 @@ news_feed (
          "title" : "Akshaya, Lankan Tamil with roots in Jaffna, looks to shine for England team"
       },
       {
-         "description" : "The early Titled Tuesday this week featured a rare tie for first place, after GMs Bogdan-Daniel Deac and Aryan Tari not only both scored 9.5/11, but also had the same tiebreak score. The late tournament was then won outright by GM Dmitry Andreikin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/deac-tari-andreikin-win-titled-tuesday-july-5-2022",
-         "pubDate" : "Wed, 06 Jul 2022 10:06:00 -0700",
-         "title" : "Rare Co-Winner Situation Precedes Andreikin Victory"
-      },
-      {
          "description" : "In the previous part of The Winning Academy, we have distinguished between four very different modes of defence: creating a fortress, playing for a counterattack, simplifying into a holdable endgame, and organizing a sabotage act. In this follow-up part, I would like to show you how important and practical this distinction actually is. When defending, you should keep all four modes in mind and be flexible in choosing the most suitable. | Photo: Garry Kasparov | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1592,14 +1608,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-nepo-was-criminally-underrated/",
          "pubDate" : "Tue, 05 Jul 2022 09:08:56 +0000",
          "title" : "Carlsen: Nepo Was Criminally Underrated"
-      },
-      {
-         "description" : "Knights are tactical pieces and often very tricky. Black to move and draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/black-knight-magic",
-         "pubDate" : "Tue, 05 Jul 2022 09:00:00 +0100",
-         "title" : "Black knight magic"
       },
       {
          "description" : "Ding Liren will play Ian Nepomniachtchi in a World Championship match if Magnus Carlsen chooses not to play after the Chinese no. 1 defeated Hikaru Nakamura on demand in the final round. A brutal day also saw Teimour Radjabov tie Nakamura for 3rd after beating Richard Rapport, while Alireza Firouzja finished 6th after inflicting a 4th defeat of the 2nd half of the event on Fabiano Caruana. Ian Nepomniachtchi drew against Jan-Krzysztof Duda to finish with an unbeaten 9.5/14.",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepomniachtchi-hits-2792-after-his-5th-win-at-the-2022-candidate/",
          "pubDate" : "Thu, 30 Jun 2022 19:27:18 +0000",
          "title" : "Nepomniachtchi hits 2792 after his 5th win at the 2022 Candidates"
-      },
-      {
-         "description" : " This weeks show featured games from rounds 4 through 9 of the Candidates tournaments. We looked at four White wins, including Radjabov Nakamura which seriously damaged the American's chances of qualifying. Next week we'll cover the final rounds, summarize what happened and give our predictions about the World Championship. Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-20/\">Master Chess Web Show (20)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-20/",
-         "pubDate" : "Thu, 30 Jun 2022 18:50:37 +0000",
-         "title" : "Master Chess Web Show (20)"
       },
       {
          "description" : " Ian Nepomniachtchi won his fifth game of the Candidates beating Alireza Firouzja in the eleventh round of the FIDE Candidates in Madrid. The story of this game even early on was that Firouzja was up all night playing hyper bullet 30 second chess on the Internet. I'm afraid his reckless play today showed all the signs of him doing precisely that. 16.g4 is dubious, 17.h4? is bad and 18.g5 leaves white flat lost. Of course it required skill from Nepomniachtchi to make the refutation look easy but the in form Russian had no problems whatsoever. Nepomniachtchi is still in complete control of the tournament three draws, likely only two, will win him the event. The final game to finish ended Fabia",
