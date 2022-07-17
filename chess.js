@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu takes on Thalia Cervantes as part of the blitz round robin in the playoffs in the Girls&#039; Junior Championship. This ended up being the final game in the field. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-girls-junior-championship-blitz-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DHTbOoHvar0.jpg?itok=ulYR1f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-girls-junior-championship-blitz-playoff",
+         "pubDate" : "Sun, 17 Jul 2022 02:45:07 +0000",
+         "title" : "2022 U.S. Girls' Junior Championship: Blitz Playoff"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Jennifer Yu talks to Cristian Chirila after her playoff victory over Thalia Cervantes at the 2022 U.S. Girls' Junior Championship. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-us-girls%E2%80%99-junior-champion-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yap3jj1E6Jc.jpg?itok=itQMmQ8H\" alt=\"\" /></a></di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-us-girls%E2%80%99-junior-champion-round-9",
+         "pubDate" : "Sun, 17 Jul 2022 02:45:07 +0000",
+         "title" : "Jennifer Yu: U.S. Girls' Junior Champion! | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alexander Shabalov plays Larry Christiansen in the rapid round robin playoff of the U.S. Senior Championship. The game turned out to be a winner-take-all affair, due to standings. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-senior-championship-rapid-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UQUce6lgdQs.jpg?itok=9eeMH3Xp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-championship-rapid-playoff",
+         "pubDate" : "Sun, 17 Jul 2022 02:45:07 +0000",
+         "title" : "2022 U.S. Senior Championship: Rapid Playoff"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Shabalov talks to Cristian Chirila after his playoff victory over Larry Christiansen at the 2022 U.S. Senior Championship. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alexander-shabalov-us-senior-champion-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SdPwcFz_oE8.jpg?itok=6ckvEp-v\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alexander-shabalov-us-senior-champion-round-9",
+         "pubDate" : "Sun, 17 Jul 2022 02:45:07 +0000",
+         "title" : "Alexander Shabalov: U.S. Senior Champion! | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.16<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-9-playoffs-lichessorg",
+         "pubDate" : "Sun, 17 Jul 2022 02:45:07 +0000",
+         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 9 & Playoffs | lichess.org"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.16<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,14 +90,6 @@ news_feed (
          "title" : "Christopher Yoo: I Can't Say I Dealt With My Loss Well | Round 8"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Shabalov talks to Cristian Chirila after his eighth round victory over Larry Christiansen at the 2022 U.S. Senior Championship. 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-shabalov-ben-finegold-made-me-do-ittwice-round-8-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vm6cNkmXS1k.jpg?itok=yy7de2SL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-shabalov-ben-finegold-made-me-do-ittwice-round-8-0",
-         "pubDate" : "Sat, 16 Jul 2022 20:44:57 +0000",
-         "title" : "Alex Shabalov: Ben Finegold Made Me Do It...Twice | Round 8"
-      },
-      {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Sam Sevian won week 21 of the Rapid Chess Championship presented by Coinbase, starting the tournament with a 3-0 winning streak. Participating i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-simen-agdestein-wins-his-8th-norwegian-chess-champion-title/",
          "pubDate" : "Sat, 16 Jul 2022 19:09:43 +0000",
          "title" : "GM Simen Agdestein wins his 8th Norwegian Chess Champion title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.15<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-8",
-         "pubDate" : "Sat, 16 Jul 2022 17:44:43 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 8"
       },
       {
          "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
@@ -226,22 +250,6 @@ news_feed (
          "title" : "Creating studies from games (2)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-junior-championship-2022/round-8/euTDDx4o\">https://lichess.org/broadcast/us-junior-championship-2022/round-8/euTDDx4o</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-i-cant-say-i-dealt-it-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FKcLRniXuHA.jpg?itok=OVm16ZMA\" alt=\"\" /><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-i-cant-say-i-dealt-it-round-8",
-         "pubDate" : "Sat, 16 Jul 2022 02:43:56 +0000",
-         "title" : "Christopher Yoo: I Can't Say I Dealt With It | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <a href=\"https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm\">https://lichess.org/broadcast/us-senior-championship-2022/round-8/OFtebgVm</a> 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-shabalov-ben-finegold-made-me-do-ittwice-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vm6cNkmXS1k.jpg?itok=yy7de2SL\" al",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-shabalov-ben-finegold-made-me-do-ittwice-round-8",
-         "pubDate" : "Sat, 16 Jul 2022 02:43:56 +0000",
-         "title" : "Alex Shabalov: Ben Finegold Made Me Do It...Twice | Round 8"
-      },
-      {
          "description" : "In the weeks before the FIDE presidential elections on August 7, official candidate GM Andrii Baryshpolets and his intended Deputy President GM Peter Heine Nielsen are fighting an uphill battle. Campaigning with limited resources, the duo advocate...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/wei-yi-vs-levon-aronian-ftx-road-to-miami-final/",
          "pubDate" : "Sat, 16 Jul 2022 00:03:16 +0000",
          "title" : "Wei Yi vs Levon Aronian - FTX Road to Miami final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Dmitry Gurevich talks to Cristian Chirila after his eighth round victory over Igor Khmelnitsky at the 2022 U.S. Senior Championship. 2022.07.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-dmitry-gurevich-liquify-london-only-21-moves-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RG2rmRO82yc.jpg?itok=RIP2gQct\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-dmitry-gurevich-liquify-london-only-21-moves-round-8",
-         "pubDate" : "Fri, 15 Jul 2022 23:44:01 +0000",
-         "title" : "GM Dmitry Gurevich: Liquify the London in Only 21 Moves | Round 8"
       },
       {
          "description" : "GM Levon Aronian and GM Wei Yi qualified for the two-day final of the FTX Road to Miami tournament. Wei needed just three games to knock out GM Richard Rapport, while Aronian defeated GM Jan-Krzysztof Duda 3-1. The final will consist of two matc...",
