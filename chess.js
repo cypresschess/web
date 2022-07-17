@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian needed just three games on Sunday to wrap up victory in the FTX Road to Miami, adding the $25,000 top prize to his $5,500 earnings from the Prelims. Wei Yi came out all guns blazing, but a late blunder in the first game left him with an almost impossible task.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/levon-aronian-wins-ftx-road-to-miami",
+         "pubDate" : "Sun, 17 Jul 2022 23:24:57 +0000",
+         "title" : "Levon Aronian wins FTX Road to Miami"
+      },
+      {
+         "description" : "GM Wesley So won week 21 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Sam Sevian in the closely-fought finals match that culminated in a bullet playoff. GMs Dmitry Andreikin and Maxim Matlakov made it to the semi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-21-so-wins",
+         "pubDate" : "Sun, 17 Jul 2022 15:51:16 -0700",
+         "title" : "So Captures First Knockout Victory in Bullet Playoff"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1866",
+         "pubDate" : "Sun, 17 Jul 2022 21:47:00 +0000",
+         "title" : "IBCA World Women's and Junior Championships celebrate solidarity in the global Braille family in times of war"
+      },
+      {
+         "description" : "In recent months, our columnist Jon Speelman had a couple of run-ins with technology, which have necessitated speaking to help lines, and in both cases he initially asked the wrong questions. A perfect excuse to reflect on those times when there are no forcing moves to make in a chess game - when asking ourselves the right questions is crucial. Games by Anatoly Karpov and Fabiano Caruana (pictured) are used to illustrate this topic. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-174",
+         "pubDate" : "Sun, 17 Jul 2022 22:40:00 +0100",
+         "title" : "Asking the right questions"
+      },
+      {
+         "description" : "GM Levon Aronian won the FTX Road to Miami tournament on Sunday after a convincing second match victory vs. GM Wei Yi. The American-Armenian grandmaster won both of his games with the black pieces. How to review? The games of the FTX Road to Mia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/levon-aronian-wins-2022-ftx-road-to-miami",
+         "pubDate" : "Sun, 17 Jul 2022 14:18:31 -0700",
+         "title" : "Levon Aronian Wins FTX Road To Miami"
+      },
+      {
          "description" : "GM Rodrigo Vasquez and IM Denis Lazavik were the winners of the third and fourth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; The two first-finishing players advanced to the knockout phase where they will be joined by GM Eric Hanse...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,28 +58,12 @@ news_feed (
          "title" : "Chess Tactics for Heroes Revisited"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Sun, 17 Jul 2022 17:55:00 +0100",
-         "title" : "FTX Road to Miami: Live"
-      },
-      {
          "description" : "The Hungarian grandmaster who is in process of transferring to Romanian Chess Federation recently participated in the 2022 Candidates Chess Tournament, German Bundesliga 2022, and then FTX Road to Miami. After a hectic tournaments schedule, Richard Rapport decided to rest from chess and as a result, produced his first painting. Chess and art are closely []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/richard-rapport-produces-art-to-rest-from-chess-tweetoftheday/",
          "pubDate" : "Sun, 17 Jul 2022 14:57:17 +0000",
          "title" : "Richard Rapport produces art to rest from chess #TweetOftheDay"
-      },
-      {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival. Follow the first round of the Deutschland Grand Prix live with expert commentary, starting at 15.00 CEST on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Sun, 17 Jul 2022 15:54:16 +0100",
-         "title" : "Deutschland Grand Prix: Live"
       },
       {
          "description" : "A degenerative condition has taken away most of his eyesight, but that didn&#39;t stop IM Daniel Pulvett from scoring his third GM norm at the Valencia Open on Sunday. With an Elo rating already over 2500, gaining his GM title should be only a technic...",
@@ -160,6 +184,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r3",
          "pubDate" : "Sun, 17 Jul 2022 06:40:00 +0100",
          "title" : "Biel: Gukesh becomes third-youngest player to cross the 2700 mark"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
+         "pubDate" : "Sun, 17 Jul 2022 06:35:00 +0100",
+         "title" : "FTX Road to Miami: Live"
+      },
+      {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival. Follow the first round of the Deutschland Grand Prix live with expert commentary, starting at 15.00 CEST on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Sun, 17 Jul 2022 06:30:00 +0100",
+         "title" : "Deutschland Grand Prix: Live"
       },
       {
          "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
@@ -1410,14 +1450,6 @@ news_feed (
          "title" : "Master Chess Web Show (21)"
       },
       {
-         "description" : "A report in Russian media that GM Magnus Carlsen has agreed to defend his world championship title against GM Ian Nepomniachtchi under a new match format with fewer classical games is &#34;totally inaccurate,&#34; according to FIDE Director General Emil S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-championdship-2023-format-carlsen",
-         "pubDate" : "Thu, 07 Jul 2022 03:07:00 -0700",
-         "title" : "FIDE: 'Carlsen Never Demanded A Concrete Format'"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #523 Merijn van Delft shows an interesting game he lost at the \"Wine Open\" in Naujac sur Mer, a unique tournament, in which prices are bottle of wines delivered according to the winners' weight. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1432,14 +1464,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-india-originals-death-match-anish-giri-vs-vidit-gujrathi",
          "pubDate" : "Thu, 07 Jul 2022 09:00:00 +0100",
          "title" : "ChessBase India Originals Death Match - Anish Giri vs Vidit Gujrathi"
-      },
-      {
-         "description" : "GM Humpy Koneru edged out GM Nana Dzagnidze in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Wednesday. The match was so close that the score was still tied with just five minutes on the match clock. With s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-koneru-dzagnidze",
-         "pubDate" : "Wed, 06 Jul 2022 22:42:00 -0700",
-         "title" : "Koneru Edges Out Dzagnidze: 'Everything Worked Out In The Bullet Games'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92708422.cms\" />When Akshaya Kalaiyalahan, a member of the England women's team, boards the flight from London to Chennai to feature in the 44th chess Olympiad --- it will be a homecoming of sorts for the 21-year-old.",
@@ -1576,14 +1600,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/",
          "pubDate" : "Tue, 05 Jul 2022 14:02:25 +0000",
          "title" : "Nepomniachtchi wins Candidates&hellip; Carlsen undecided on rematch"
-      },
-      {
-         "description" : "Everything you need as a as a dedicated chess enthusiast. Fritz 18, the \"Evolving Genius\": learn to attack and play brilliancies. Fritz offers you everything you will need to improve your performance. Fritz Powerbook 2022: Total current openings theory, with 25 millions opening positions, derived from 1.7 million high class tournament games. You can get them both this week at a substantial discount.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deal-of-the-week-fritz-18-powerbook-2",
-         "pubDate" : "Tue, 05 Jul 2022 14:00:00 +0100",
-         "title" : "Deal of the Week: Fritz 18 + Powerbook"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG\" data-image-dimensions=\"1333x674\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c39202f91a6a40045fa650\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG?format=1000w\" /> </figure> <p class=\"\">On this month's Adult Improver Edition of Perpetual Chess I am joined by Dr. Nicholas Vasquez. Dr. Vasquez is a dad and emergency physician who finds chess a welcome escape from a",
@@ -2114,14 +2130,6 @@ news_feed (
          "title" : "More adventures in school arbiting"
       },
       {
-         "description" : "Ian Nepomniachtchi took another huge step towards winning a second Candidates Tournament in a row after he dug deep to hold on after getting surprised by Fabiano Caruana in the opening. He still leads by a full point with just 5 rounds to go, while Hikaru Nakamura and Richard Rapport were stopped in their tracks by losing to Teimour Radjabov and Alireza Firouzja. Ding Liren also grabbed his 1st win, against Jan-Krzysztof Duda.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-9-nepo-escapes-as-ding-radjabov-firouzja-grab-1st-wins",
-         "pubDate" : "Tue, 28 Jun 2022 07:16:50 +0000",
-         "title" : "Madrid Candidates 9: Nepo escapes as Ding, Radjabov & Firouzja grab 1st wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2152,22 +2160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/bad-luck-or-bad-prep.html",
          "pubDate" : "Mon, 27 Jun 2022 13:28:00 +0000",
          "title" : "Bad luck or bad prep?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1831",
-         "pubDate" : "Sun, 26 Jun 2022 22:22:04 +0000",
-         "title" : "2022 Candidates, Round 8: Nakamura stages a major upset"
-      },
-      {
-         "description" : " Ian Nepomniachtchi took a short draw against Ding Liren with the white pieces in Round 8 of the the FIDE Candidates tournament in Madrid, this turned out to be a very sensible decision as he ended up extending his lead to a full point after his close rival Fabiano Caruana fell back after losing to fellow countryman Hikaru Nakamura in a sharp open Ruy Lopez. Caruana has white against Nepomniachtchi in Round 9 but will be feeling depressed by his loss today and in addition it took many more hours to happen. If people wonder why players take quick draws in important events then this is why. If I'd been Caruana I wouldn't have gone to war today, not even in retrospect was this the key game, now",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-in-charge-after-round-8-of-the-candidates",
-         "pubDate" : "Mon, 27 Jun 2022 00:18:00 +0400",
-         "title" : "Nepomniachtchi in charge after Round 8 of the Candidates - 8"
       }
    ]
 }
