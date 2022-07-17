@@ -2,12 +2,124 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hungarian grandmaster who is in process of transferring to Romanian Chess Federation recently participated in the 2022 Candidates Chess Tournament, German Bundesliga 2022, and then FTX Road to Miami. After a hectic tournaments schedule, Richard Rapport decided to rest from chess and as a result, produced his first painting. Chess and art are closely []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-produces-art-to-rest-from-chess-tweetoftheday/",
+         "pubDate" : "Sun, 17 Jul 2022 14:57:17 +0000",
+         "title" : "Richard Rapport produces art to rest from chess #TweetOftheDay"
+      },
+      {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival. Follow the first round of the Deutschland Grand Prix live with expert commentary, starting at 15.00 CEST on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Sun, 17 Jul 2022 15:54:16 +0100",
+         "title" : "Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : "A degenerative condition has taken away most of his eyesight, but that didn&#39;t stop IM Daniel Pulvett from scoring his third GM norm at the Valencia Open on Sunday. With an Elo rating already over 2500, gaining his GM title should be only a technic...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/visually-impaired-daniel-pulvett-grandmaster-norm",
+         "pubDate" : "Sun, 17 Jul 2022 07:20:31 -0700",
+         "title" : "Visually Impaired Player Achieves Grandmaster Title"
+      },
+      {
+         "description" : "The 15th edition of the Paleochora International Chess Tournament&#160;takes place from 17-24 July in Paleochora, a city of the southwest Cretan coast. Paleochora School &#38; Cultural Center of Paleochora hosts the event which will be played in two groups: A and B, with participation of 300 players from 26 countries, including 18 grandmasters and 11 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/15th-paleochora-international-chess-tournament-live/",
+         "pubDate" : "Sun, 17 Jul 2022 14:19:11 +0000",
+         "title" : "15th Paleochora International Chess Tournament LIVE"
+      },
+      {
+         "description" : "The third edition of the Valencia International Chess Open took place July 11-17, 2022, in Torrente, Spain. The event attracted more than 100 entries who fought for a total prize fund of 10.000 euros over 9 swiss rounds, with time control of 90 minutes for the entire game plus a 30-second increment starting on move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-johan-sebastian-christiansen-triumphs-at-the-3rd-valencia-chess-open-2022/",
+         "pubDate" : "Sun, 17 Jul 2022 14:04:28 +0000",
+         "title" : "GM Johan-Sebastian Christiansen triumphs at the 3rd Valencia Chess Open 2022"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 87th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-87-basics-of-the-benko-gambit-6",
+         "pubDate" : "Sun, 17 Jul 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 87: Basics of the Benko Gambit (6)"
+      },
+      {
+         "description" : " It is currently the 50th anniversary of the Fischer v Spassky World Championship Match. While I was only 5 years old when it happened, in a way it was still my first exposure to serious competitive chess. This was because my father had a copy of the Gligoric book on the match, and it was probably the first chess book that I read, albeit 4 years after the match was played. I still flick through the book (and a number of others about the match), revisiting the analysis. One game that was particularly interesting was the 5th game of the match. It was notable for a provocative knight move on 11, which allowed Spassky to double Black's pawns. However a few moves later, Spassky was forced to undo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/fifty-years-ago.html",
+         "pubDate" : "Sun, 17 Jul 2022 13:54:00 +0000",
+         "title" : "Fifty years ago"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nikolai Krogius</strong>, a grandmaster, arbiter, official and psycholist, who seconded <strong>Boris Spassky</strong> against Fischer in 1972 and led <strong>Anatoly Karpov</strong>'s delegation at the 1990 world championship, <a href=\"https://www.fide.com/news/1865\">passed away</a> days before his 92nd birthday. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nikolai-krogius-1930-2022/",
+         "pubDate" : "Sun, 17 Jul 2022 14:19:23 +0100",
+         "title" : "Nikolai Krogius (1930-2022)"
+      },
+      {
+         "description" : "The third tournament and the midway point of the&#xA0;Grand Chess Tour starts Wednesday and takes place at the Westin Zagreb from July 19-24. Continuing in&#xA0;the thrilling&#xA0;fashion of rapid and blitz format, exciting displays of chess play and blunders under time pressure will certainly&#xA0;keep fans entertained. The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-croatia-2022-starts-this-wednesday/",
+         "pubDate" : "Sun, 17 Jul 2022 13:06:34 +0000",
+         "title" : "Grand Chess Tour Croatia 2022 starts this Wednesday"
+      },
+      {
+         "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Sun, 17 Jul 2022 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Blitz!"
+      },
+      {
+         "description" : "U.S. Senior, U.S. Junior and U.S. Girls' Junior final recap by WGM Sabina Foisor The final day of the 2022 U.S. Senior, U.S. Junior, &#38; U.S. Girls&#x2019; Junior Championships was one of the most thrilling finishes at a National Championship and one to be remembered for years, with all the titles being up for grabs []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-2022-u-s-senior-u-s-junior-and-u-s-girls-junior-chess-champions-crowned-in-saint-louis/",
+         "pubDate" : "Sun, 17 Jul 2022 12:26:43 +0000",
+         "title" : "U.S. Senior, U.S. Junior and U.S. Girls' Junior Chess Champions crowned in Saint Louis"
+      },
+      {
+         "description" : "The 35th edition of the Schwarzacher Chess Open 2022 starts today at the Ceremony hall of the community of Schwarzacher in Austria. The event takes place from 16 24 July and features three tournaments: Open A (open to all players), Open B (for players rated U2100) and Open C (for players rated U1700). The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/35th-schwarzacher-chess-open-2022-starts-in-austria/",
+         "pubDate" : "Sun, 17 Jul 2022 12:11:22 +0000",
+         "title" : "35th Schwarzacher Chess Open 2022 starts in Austria"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1865",
+         "pubDate" : "Sun, 17 Jul 2022 12:07:15 +0000",
+         "title" : "Nikolai Krogius (1930-2022)"
+      },
+      {
          "description" : "In the '90s, Igor Naumkin left his native Moscow, as did many other Soviet players, in order to seek playing opportunities at the many tournaments in Europe. Their grandmaster titles would help to get invitations and participation at various opens on the continent and secure a livelihood. Igor passed on July 13, a month before turning 57 years old.| Photo: Giordano Macellari",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/igor-gennadyevich-naumkin-obituary",
          "pubDate" : "Sun, 17 Jul 2022 13:00:00 +0100",
          "title" : "Igor G. Naumkin (1965 - 2022)"
+      },
+      {
+         "description" : "The 45th edition of the Ikaros International Chess Tournament&#xA0;took place from 9-17 July at the Greek island in the Aegean Sea &#x2013; Ikaria. The event was played in 9 rounds, swiss system, with a total prize fund of 3.300 euros. GM Vasilios Kotronias convincingly won the event scoring 7.5/9 points. He was a full point []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-vasilios-kotronias-wins-the-45th-ikaros-chess-tournament-2022/",
+         "pubDate" : "Sun, 17 Jul 2022 11:46:27 +0000",
+         "title" : "GM Vasilios Kotronias wins the 45th Ikaros Chess Tournament 2022"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While chess is struggling to survive under Taliban rule, two officials who fled Afghanistan are fighting over the right to vote at the upcoming FIDE election. <strong>Ghulam Ali Malak Zad</strong>, who resides in Latvia and was <a href=\"https://www.chessdom.com/fide-elections-list-of-federations-with-voting-powers-electoral-commission-report/\">recently listed as President and Delegate</a> of the <strong>Afghan Chess Federation</strong>, is protesting a <a href=\"https://congress.fide.com/wp-content/uploads/2022/07/Electoral-Commission_Report_9-July-2022_Addendum.pdf\">decision of the <strong>Electoral Commission</strong></a> to approve as delegate <st",
@@ -170,28 +282,12 @@ news_feed (
          "title" : "Chess Forum Moscow Open 2022 LIVE"
       },
       {
-         "description" : "The&#160;49th edition of the International Dortmund Chess Festival&#160;takes place from 16-24 July at the Congress Centre of the Westfalenhallen Dortmund. The festival features&#160;No-Castling World Masters 2022,&#160;German Grand Prix 2022, Sparkassen Chess Trophy Open tournaments (A and B), and&#160;No-castling online events. The&#160;No-Castling World Masters 2022 will be played from 18-24 July as a double round-robin tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/49th-international-dortmund-chess-festival-live/",
-         "pubDate" : "Sat, 16 Jul 2022 13:31:53 +0000",
-         "title" : "49th International Dortmund Chess Festival LIVE"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92922634.cms\" />The first ever torch relay for the 44th Chess Olympiad to be held in Tamil Nadu between July 28 and August 10 arrived in Chhattisgarh capital Raipur on Saturday. Arjuna Award recipient and Grandmaster Pravin Thipsay handed over the torch to Chhattisgarh Chief Minister Bhupesh Baghel at Pt Deendayal Upadhyaya Auditorium here and the latter handed it over to Woman FIDE Master Kiran Agrawal.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-torch-arrives-in-chhattisgarhs-raipur-cm-lists-efforts-to-popularize-game/articleshow/92922634.cms",
          "pubDate" : "Sat, 16 Jul 2022 12:55:51 +0000",
          "title" : "Chess Olympiad: Torch arrives in Chhattisgarh's Raipur"
-      },
-      {
-         "description" : "The 15th edition of the International Chess Festival Paracin 2022 took place from 8 &#x2013; 16 July at the Pool Prestige Hotel in Paracin. The festival featured two classical open events: A (for players rated 2100+) and B (for players rated U2100), 18th Memorial Chess Rapid Tournament &#x201C;Uros Dinic&#x201D; (July 10th) and Open Blitz Tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-triumphs-at-the-15th-international-chess-open-paracin/",
-         "pubDate" : "Sat, 16 Jul 2022 12:08:20 +0000",
-         "title" : "Praggnanandhaa triumphs at the 15th International Chess Open Paracin"
       },
       {
          "description" : "",
@@ -208,22 +304,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-rebirth-of-a-gambit",
          "pubDate" : "Sat, 16 Jul 2022 13:00:00 +0100",
          "title" : "The rebirth of a gambit"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 starts in less than two weeks taking place from 28th July 10th August in Chennai, India. The historical participation records&#160;are updated with 189 teams registered for the Open and 162 in the Women&#x2019;s section and the event will not be only the biggest in numbers, but also the most []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/welcome-to-chennai-video/",
-         "pubDate" : "Sat, 16 Jul 2022 10:59:05 +0000",
-         "title" : "Welcome to Chennai! (VIDEO)"
-      },
-      {
-         "description" : "The 41st Benasque Chess Open took place from 6-15 July 2022 in Benasque, Spain. The event attracted nearly 400 entries from 25 countries who fought over 10 swiss rounds for a total prize fund of 18.000 euros. As many as ten players tied for the first place after 10 played rounds. GM Chithambaram Aravindh won []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-chithambaram-aravindh-wins-41st-benasque-chess-open/",
-         "pubDate" : "Sat, 16 Jul 2022 10:13:05 +0000",
-         "title" : "GM Chithambaram Aravindh wins 41st Benasque Chess Open"
       },
       {
          "description" : "Levon Aronian and Wei Yi finished 7th and 8th in the FTX Road to Miami Prelims, but that hasn't stopped them both reaching the final - and booking their place alongside Magnus Carlsen in the $310,000 FTX Crypto Cup to take place in Miami, Florida next month. Levon overcame Jan-Krzysztof Duda in four games, while Wei Yi defeated Richard Rapport in just three.",
@@ -274,14 +354,6 @@ news_feed (
          "title" : "Fighting Russian Influence, Baryshpolets, Nielsen Aim To Topple Dvorkovich"
       },
       {
-         "description" : "China&#x2019;s former child prodigy Wei Yi has reached his first&#xA0;Meltwater Champions Chess Tour&#xA0;final after knocking Richard Rapport out of the FTX Road to Miami. The 23-year-old will face top seed Levon Aronian, a Tour winner in the Goldmoney Asian Rapid last season, in a two-set match over the weekend. Wei booked his place by crashing&#xA0;through []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wei-yi-vs-levon-aronian-ftx-road-to-miami-final/",
-         "pubDate" : "Sat, 16 Jul 2022 00:03:16 +0000",
-         "title" : "Wei Yi vs Levon Aronian - FTX Road to Miami final"
-      },
-      {
          "description" : "GM Levon Aronian and GM Wei Yi qualified for the two-day final of the FTX Road to Miami tournament. Wei needed just three games to knock out GM Richard Rapport, while Aronian defeated GM Jan-Krzysztof Duda 3-1. The final will consist of two matc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,22 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-no-margin-of-error",
          "pubDate" : "Fri, 15 Jul 2022 17:30:00 +0100",
          "title" : "Robert Ris' Fast and Furious: No margin of error"
-      },
-      {
-         "description" : "The 49th edition of the International Dortmund Chess Festival commences tomorrow at the Congress Centre of the Westfalenhallen Dortmund. The festival features No-Castling World Masters 2022, German Grand Prix 2022, Sparkassen Chess Trophy Open tournaments (A and B), and&#160;No-castling online events. This year, the field of the No-Castling World Masters 2022 gathers 15th World Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/49th-international-dortmund-chess-festival-starts-tomorrow/",
-         "pubDate" : "Fri, 15 Jul 2022 15:42:34 +0000",
-         "title" : "49th International Dortmund Chess Festival starts tomorrow"
-      },
-      {
-         "description" : "GM Axel Smith, the famous author of the Woodpecker method, is releasing a new course. &#8220;Light &#38; Dark Magic Color Complexes in Chess&#8221; is the new strategy course of GM Smith, that covers when and how to initiate attacks. By recognizing weak square colors, what pieces to trade for an advantage, how to set []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-axel-smith-with-a-new-course-color-complexes-in-chess/",
-         "pubDate" : "Fri, 15 Jul 2022 15:06:42 +0000",
-         "title" : "GM Axel Smith with a new course - Color Complexes in Chess"
       },
       {
          "description" : " While it is always good to see chess on TV, it isn't always done correctly. There is an ad on Australian TV which finishes with a checkmate (loudly announced), which is in fact correctly played, But the weird thing is the chess clock (and old fashioned BHB clock) is facing away from both players, towards the camera. I assume this was done for artistic reasons, but it could just as well have been placed on the far side of the board. Maybe they tried that, but didn't like the result. ",
@@ -856,14 +912,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nordic-federations-quiz-candidates/",
          "pubDate" : "Mon, 11 Jul 2022 14:07:15 +0100",
          "title" : "Nordic federations quiz candidates"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>OSG Baden-Baden</strong> has won Germany's <strong>Schachbundesliga</strong> for the 15th time in 16 seasons after beating rival <strong>SC Viernheim</strong> 5:3 in the penultimate round, adding Caruana, Rapport and Vachier-Lagrave for a few games each. The <a href=\"https://chess24.com/en/watch/live-tournaments/schachbundesliga-2021-2022/15/5/1\">last five rounds</a> were centrally played at the <strong>Werder Bremen</strong> football stadion, sponsored by <strong>Grenke AG</strong> who is also behind Baden-Baden. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/close-win-for-baden-baden/",
-         "pubDate" : "Mon, 11 Jul 2022 14:00:59 +0100",
-         "title" : "Close win for Baden-Baden"
       },
       {
          "description" : "On Sunday, the 55th Chess Festival Biel opened in the Congress Centre in Biel. To kick things off, the Chinese top grandmaster Yu Yangyi gave a simul. Today the GM Triathlon begins with the Fischerrandom Tournament, at 13:00 local time (7:00 ET, 11:00 UTC). Three of the world's best U18-players start: V. Keymer, N. Abdusattorov, and D. Gukesh.",
@@ -1450,14 +1498,6 @@ news_feed (
          "title" : "Korchnoi vs Kasparov: The clash of giants"
       },
       {
-         "description" : "A day after the end of the FIDE Candidates Tournament, the top three finishers GM Ian Nepomniachtchi, GM Ding Liren, and GM Teimour Radjabov gave a press conference in Madrid. Below you&#39;ll find a selection of quotes from the players. Radjabov on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-candidates-2022-press-conference-nepomniachtchi-ding-radjabov",
-         "pubDate" : "Wed, 06 Jul 2022 02:28:00 -0700",
-         "title" : "Nepomniachtchi, Ding, Radjabov At The Candidates Press Conference"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1562,14 +1602,6 @@ news_feed (
          "title" : "Black knight magic"
       },
       {
-         "description" : "The 2022 Candidates Tournament came to an end on Monday, with an eventful round that saw three decisive results and a hard-fought draw. In the most important game for the standings, Ding Liren beat Hikaru Nakamura to finish in sole second place. Teimour Radjabov and Alireza Firouzja also scored full points, while the champion, Ian Nepomniachtchi, managed to end the tournament undefeated, as he drew with black against Jan-Krzysztof Duda. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-r14",
-         "pubDate" : "Tue, 05 Jul 2022 08:40:00 +0100",
-         "title" : "Candidates R14: Ding beats Naka, grabs second place"
-      },
-      {
          "description" : "Ding Liren will play Ian Nepomniachtchi in a World Championship match if Magnus Carlsen chooses not to play after the Chinese no. 1 defeated Hikaru Nakamura on demand in the final round. A brutal day also saw Teimour Radjabov tie Nakamura for 3rd after beating Richard Rapport, while Alireza Firouzja finished 6th after inflicting a 4th defeat of the 2nd half of the event on Fabiano Caruana. Ian Nepomniachtchi drew against Jan-Krzysztof Duda to finish with an unbeaten 9.5/14.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1586,28 +1618,12 @@ news_feed (
          "title" : "Ian Nepomniachtchi wins the Candidates without a single loss"
       },
       {
-         "description" : "The Candidates Tournament was the most important tournament of the year, and Ian Nepomniachtchi won convincingly. Endgame expert and aficionado Karsten M&uuml;ller selected a few highlights from the first rounds to analyze them together with his guest Daniel Fernandez. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-201-with-daniel-fernandez-endgame-highlights-from-the-candidates-tournament",
-         "pubDate" : "Mon, 04 Jul 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #201 with Daniel Fernandez: Endgame Highlights from the Candidates Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Mon, 04 Jul 2022 13:49:32 +0000",
          "title" : "Level 1 Arbiter Course September 2022"
-      },
-      {
-         "description" : "The Candidates Tournament is the ultimate qualifier for the FIDE World Championship. Eight prominent grandmasters compete for the right to face reigning world champion Magnus Carlsen in a match for the crown. The event is a double round-robin held in Madrid, Spain, from 16 June to 5 July 2022. Rounds kick off at 15.00 CEST (09.00 ET, 18.30 IST). Follow the games live with expert commentary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-2022-live",
-         "pubDate" : "Mon, 04 Jul 2022 14:45:00 +0100",
-         "title" : "Candidates Tournament: Games and standings"
       },
       {
          "description" : " The ACT Chess Association is organising the 2022 ANU Open, after a break of 2 years. <br />The details are<br /><br /><b>ANU Open/Minor 2022<br /></b><br />29-31 July (One round Friday evening, three Saturday, two Sunday)<br /><br />Format: Open section and Under 1600 Section (ACF)<br /><br />Time control: 60m+30s inc (FIDE Rated except for players 2400+)<br /><br /><b>Schedule</b><div><br /></div><div>Round 1 Friday 29th 7PM, <br /><br />Round 2 Sat 30th 10am, Rd 3 2pm, Round 4, 6pm<br /><br />Round 5 Sun 31st 10am, Round 6 2pm Prize giving 6pm<br /><br /><b>Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Fre</b>e<br /><br />Prizes: $1000 1st Open, $400 1st Minor $3600 in total<br />",
@@ -2152,22 +2168,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-in-charge-after-round-8-of-the-candidates",
          "pubDate" : "Mon, 27 Jun 2022 00:18:00 +0400",
          "title" : "Nepomniachtchi in charge after Round 8 of the Candidates - 8"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92474340.cms\" />Top seed Russian Grandmaster Savchenko Boris (8.5), with superior tie-break edged out International Master Nitin Senthilvel (India) to emerge as the Chennai Open 2022 champion after the tenth round in the 13th Chennai Open International Grandmaster chess tournament on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/russian-gm-savchenko-boris-wins-chennai-open/articleshow/92474340.cms",
-         "pubDate" : "Sun, 26 Jun 2022 13:41:15 +0000",
-         "title" : "Russian GM Savchenko Boris wins Chennai Open"
-      },
-      {
-         "description" : " It is looking like the 2022 Candidates Tournament is down to 2 players. Ian Nepomniachtchi leads with a very impressive 5.5/7, but is closely followed by Fabiano Caruana on 5/7. Hikaru Nakamura is in 3rd place, but is a full 2 points behind Nepo. Such is the dominance of the leading 2, everyone else (bar Nakamura) has finished the first half of the tournament on a minus score. Of course there is still another 7 rounds to play, but at this stage, the Caruana v Nepo game in Round 9 may determine who will play Carlsen for the World Championship title. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/looking-like-two-horse-race.html",
-         "pubDate" : "Sun, 26 Jun 2022 12:58:00 +0000",
-         "title" : "Looking like a two horse race"
       }
    ]
 }
