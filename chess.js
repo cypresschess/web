@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92962380.cms\" />Much like any sporting discipline, chess too requires its players to have physical and mental toughness. In a bid to keep the players in the best possible shape during the tournament, the England women's team that arrives for the chess Olympiad --- starting on July 28 --- will be armed with their performance coach Benjamin Portheault.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-a-first-england-women-rope-in-performance-coach-ahead-of-chess-olympiad/articleshow/92962380.cms",
+         "pubDate" : "Mon, 18 Jul 2022 15:09:04 +0000",
+         "title" : "In a first, England women rope in performance coach ahead of Olympiad"
+      },
+      {
+         "description" : "Within the framework of the 49th International Dortmund Chess Festival, the No-castling World Masters 2022 was to start today, Monday, 18 July, with the game between Vladimir Kramnik and Viswanathan Anand. Before the start of the event, Kramnik experienced health problems, so he had himself tested for an infection and was found to be COVID-19 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladimir-kramnik-drops-out-from-dortmund-chess-festival-2022/",
+         "pubDate" : "Mon, 18 Jul 2022 14:26:35 +0000",
+         "title" : "Vladimir Kramnik drops out from Dortmund Chess Festival 2022"
+      },
+      {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival. Follow the first round of the Deutschland Grand Prix live with expert commentary, starting at 15.00 CEST on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Mon, 18 Jul 2022 14:55:00 +0100",
+         "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : " The details of the 2022 Asian Youth Championship have been announced, and is what will surely be a popular venue for Australian players, Bali is the host. It runs from the 13th - 22nd October and has sections for U18,16,14,12,10, and U8 (Open and Girls). As with all continental junior events, there are FIDE titles on offer for the winners and place getters, as well as medals. Given the cost of airfares between Australia and Bali, this may be one Asian event where a large number of Australian players take part. Further details can be found at the event website <a data-saferedirecturl=\"https://www.google.com/url?q=https://asianyouth2022bali.com/&amp;source=gmail&amp;ust=1658227594551000&amp;u",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/fancy-trip-to-bali.html",
+         "pubDate" : "Mon, 18 Jul 2022 13:26:00 +0000",
+         "title" : "Fancy a trip to Bali?"
+      },
+      {
+         "description" : "National School U-17 Open and Girls Chess Championship Certificates are out to Download Links : Open : https://aicf.online/National-School-U(17)-Open.html Girls : https://aicf.online/National-School-U(17)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-u-17-open-and-girls-chess-championship-certificates/",
+         "pubDate" : "Mon, 18 Jul 2022 11:33:49 +0000",
+         "title" : "National School U-17 Open and Girls Chess Championship Certificates"
+      },
+      {
          "description" : "National School U-15 Open and Girls Chess Championship Certificates are out to Download Links : Open : https://aicf.online/National-School-U(15)-Open.html Girls : https://aicf.online/National-School-U(15)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -200,14 +240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-2022-u-s-senior-u-s-junior-and-u-s-girls-junior-chess-champions-crowned-in-saint-louis/",
          "pubDate" : "Sun, 17 Jul 2022 12:26:43 +0000",
          "title" : "U.S. Senior, U.S. Junior and U.S. Girls' Junior Chess Champions crowned in Saint Louis"
-      },
-      {
-         "description" : "The 35th edition of the Schwarzacher Chess Open 2022 starts today at the Ceremony hall of the community of Schwarzacher in Austria. The event takes place from 16 24 July and features three tournaments: Open A (open to all players), Open B (for players rated U2100) and Open C (for players rated U1700). The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/35th-schwarzacher-chess-open-2022-starts-in-austria/",
-         "pubDate" : "Sun, 17 Jul 2022 12:11:22 +0000",
-         "title" : "35th Schwarzacher Chess Open 2022 starts in Austria"
       },
       {
          "description" : "",
@@ -1594,14 +1626,6 @@ news_feed (
          "title" : "On the way to Chennai for the Arbiters' Team"
       },
       {
-         "description" : "Actually more players in the top 100: 13 US grandmasters vs 12 from Russia, down from 22 five years ago. But even the total is closing: In total Russia still has 246 grandmasters, compared to 101 from the US. Many Russian GMs from the older generation, like Garry Kasparov and Vladimir Kramnik, have dropped out of the rating list, but the main reason for the decline is the reaction of players to Russia's war invasion of Ukraine. | Newsweek photo Getty",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-has-more-top-grandmasters-than-russia",
-         "pubDate" : "Tue, 05 Jul 2022 18:00:00 +0100",
-         "title" : "US has more top grandmasters than Russia"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (58)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (58)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1914,14 +1938,6 @@ news_feed (
          "title" : "Nepomniachtchi needs at most just one more draw to win the Candidates - 12"
       },
       {
-         "description" : "DOWNLOAD LIST OF VOLUNTEERS",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/list-of-selected-volunteers-for-44th-fide-chess-olympiad/",
-         "pubDate" : "Fri, 01 Jul 2022 15:09:45 +0000",
-         "title" : "LIST OF SELECTED VOLUNTEERS FOR 44TH FIDE CHESS OLYMPIAD"
-      },
-      {
          "description" : " <p class=\"lead\"><a href=\"https://twitter.com/TarjeiJS\">Tarjei J. Svensen</a> revealed on <a href=\"https://new.chess24.com/wall/news/carlsen-confirms-world-series-of-poker-participation\">chess24</a> that the World Champion Magnus Carlsen will participate in the World Series of Poker (WSOP) in Las Vegas next week. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-07-01-at-12.51.56-PM.png\" width=\"1904\" height=\"1062\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen just bluffed with 0% chance to win! Photo: <a href=\"https://www.youtube.com/watch?v=nbPTZP5tkNc\">Magnus Carlsen Youtube Channel</a></div> </div> With the chess community wondering if Ca",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2168,14 +2184,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-survives-trouble-in-the-opening-to-draw-against-caruana-in-the-candidates-round-9",
          "pubDate" : "Mon, 27 Jun 2022 20:00:00 +0400",
          "title" : "Nepomniachtchi survives trouble in the opening to draw against Caruana in the Candidates Round 9 - 9"
-      },
-      {
-         "description" : " Round 7 of the 2022 Candidates Tournament saw a strange game between Rapport and Nepomnichtchi. Nepo played a line in the Petroff where Black sacrifices a rook, but draws by perpetual check soon afterwards. However Rapport rejected the first repetition, although this simply forced Nepo to aim for another repetition a few moves later. However, when Rapport avoided the second repetition, he ended up losing his queen for insufficient compensation, with a loss to show for his trouble. After the game Rapport suggested it was the result of poor preparation, although this move he played was already known to be bad. But not only did this game effect Nepo's standings, it also had an effect on Caruan",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/bad-luck-or-bad-prep.html",
-         "pubDate" : "Mon, 27 Jun 2022 13:28:00 +0000",
-         "title" : "Bad luck or bad prep?"
       }
    ]
 }
