@@ -1,5 +1,6 @@
 jtable([
 "HOUSTON","2022-07-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207169092 target='_blank'>PISD JULY 2022- OLDER</a>",
+"SUGAR LAND","2022-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202207159862 target='_blank'>FBCC JULY 15 , 2022</a>",
 "CYPRESS","2022-07-15","28","<a href=http://www.uschess.org/msa/XtblMain.php?202207158972 target='_blank'>KOC</a>",
 "SPRING","2022-07-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202207158942 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2022-07-08  - 07-10","42","<a href=http://www.uschess.org/msa/XtblMain.php?202207106952 target='_blank'>$2,000 HOUSTON CHESS STUDIO JULY CH</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-08-03  - 08-24","21","<a href=http://www.uschess.org/msa/XtblMain.php?202108243802 target='_blank'>AUGTUESNIGHTSWISS G90;D5 1-ROUND PE</a>",
 "HOUSTON","2021-08-22","7","<a href=http://www.uschess.org/msa/XtblMain.php?202108227152 target='_blank'>SUNSWISSG60D5</a>",
 "HOUSTON","2021-08-21  - 08-22","195","<a href=http://www.uschess.org/msa/XtblMain.php?202108222962 target='_blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2021</a>",
-"CYPRESS","2021-08-20","28","<a href=http://www.uschess.org/msa/XtblMain.php?202108204012 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
