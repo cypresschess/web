@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America&#x2019;s newest esports chess star Levon Aronian shrugged off a slow start to the FTX Road to Miami to clinch his first title of the 2022 Meltwater Champions Chess Tour season. The 39-year-old Armenian, the oldest player in the tournament, overpowered China&#x2019;s former child prodigy Wei Yi on day two of the final. Both players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-wins-ftx-road-to-miami/",
+         "pubDate" : "Sun, 17 Jul 2022 23:44:11 +0000",
+         "title" : "Levon Aronian wins FTX Road to Miami"
+      },
+      {
          "description" : "Levon Aronian needed just three games on Sunday to wrap up victory in the FTX Road to Miami, adding the $25,000 top prize to his $5,500 earnings from the Prelims. Wei Yi came out all guns blazing, but a late blunder in the first game left him with an almost impossible task.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -10,11 +18,11 @@ news_feed (
          "title" : "Levon Aronian wins FTX Road to Miami"
       },
       {
-         "description" : "GM Wesley So won week 21 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Sam Sevian in the closely-fought finals match that culminated in a bullet playoff. GMs Dmitry Andreikin and Maxim Matlakov made it to the semi...",
+         "description" : "GM Wesley So won week 21 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Sam Sevian in the closely-fought final match that culminated in a bullet playoff. GMs Dmitry Andreikin and Maxim Matlakov made it to the semif...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-21-so-wins",
-         "pubDate" : "Sun, 17 Jul 2022 15:51:16 -0700",
+         "pubDate" : "Sun, 17 Jul 2022 15:51:00 -0700",
          "title" : "So Captures First Knockout Victory in Bullet Playoff"
       },
       {
@@ -336,14 +344,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-paracin-open-title/articleshow/92924535.cms",
          "pubDate" : "Sat, 16 Jul 2022 14:48:58 +0000",
          "title" : "R Praggnanandhaa wins Paracin Open title"
-      },
-      {
-         "description" : "The International&#160;Chess Forum Moscow Open 2022&#160;takes place from 14-20 July in the Irina Viner-Usmanova Gymnastics Center.&#160;The program includes open tournaments for men and women, stages of the Cup of Russia, as well as stages of the Children&#x2019;s Cup of Russia. The top seeds of the Open A (Men stage of the Russian Cup) are:&#160;GM Vladislav []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ches-forum-moscow-open-live/",
-         "pubDate" : "Sat, 16 Jul 2022 14:14:00 +0000",
-         "title" : "Chess Forum Moscow Open 2022 LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92922634.cms\" />The first ever torch relay for the 44th Chess Olympiad to be held in Tamil Nadu between July 28 and August 10 arrived in Chhattisgarh capital Raipur on Saturday. Arjuna Award recipient and Grandmaster Pravin Thipsay handed over the torch to Chhattisgarh Chief Minister Bhupesh Baghel at Pt Deendayal Upadhyaya Auditorium here and the latter handed it over to Woman FIDE Master Kiran Agrawal.",
