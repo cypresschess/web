@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National School U-15 Open and Girls Chess Championship Certificates are out to Download Links : Open : https://aicf.online/National-School-U(15)-Open.html Girls : https://aicf.online/National-School-U(15)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-u-15-open-and-girls-chess-championship-certificates/",
+         "pubDate" : "Mon, 18 Jul 2022 11:28:23 +0000",
+         "title" : "National School U-15 Open and Girls Chess Championship Certificates"
+      },
+      {
+         "description" : "The South African Open Chess Championship 2022 took place from 9-17 July 2022 in Cape Town. The event featured six different tournaments: Championship section, B section, U12 section, U16 section, U20 section and Blitz tournament with a prize pool of R140.000 (~8.000 EUR). The main Championship was played in 11 rounds, swiss system, with time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/south-african-open-chess-championship-2022-concluded-in-cape-town/",
+         "pubDate" : "Mon, 18 Jul 2022 11:23:47 +0000",
+         "title" : "South African Open Chess Championship 2022 concluded in Cape Town"
+      },
+      {
+         "description" : "The two German representatives, Matthias Bl&uuml;baum and Rasmus Svane, at the Deutschland Grand Prix started with defeats in Sunday's first round, as they lost their games against Luke McShane and Pavel Eljanov. Romanian rising star Bogdan-Daniel Deac defeated David Navara. McShane shared his thoughts on his remarkable win. | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r1",
+         "pubDate" : "Mon, 18 Jul 2022 12:00:00 +0100",
+         "title" : "All decisive results to kick off the Deutschland Grand Prix"
+      },
+      {
+         "description" : "The 30th edition of the&#160;Heart of Finland Chess Open / Nordic Open Chess Championship takes place from 18-24 July 2022 in Jyv&#xE4;skyl&#xE4; marking the&#160;100th anniversary of the Finnish Chess Federation. The event features two separate competitions: Open and Seniors, played in 9 rounds, swiss system, with time control: 90 min/40 moves + 30min + 30sec/move. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/30th-heart-of-finland-chess-open-nordic-open-chess-championship-live/",
+         "pubDate" : "Mon, 18 Jul 2022 10:10:50 +0000",
+         "title" : "30th Heart of Finland Chess Open / Nordic Open Chess Championship - LIVE"
+      },
+      {
+         "description" : "The 2022 Canadian Open Chess Championship&#xA0;took place 11 &#x2013; 17 July at the Hillfield Strathallan College, Hamilton, Ontario. Nearly 250 players fought for the total prize fund of 26.000$ over 9 swiss rounds, including the top seeded: GM Victor Mikhalevski,&#xA0;GM Mark Paragua,&#xA0;GM Razvan Preotu, and&#xA0;GM Aman Hambleton.&#xA0; IM Nikolay Noritsyn and IM Shawn Rodrigue-Lemieux tied []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-nikolay-noritsyn-and-im-shawn-rodrigue-lemieux-are-canadian-open-co-champions/",
+         "pubDate" : "Mon, 18 Jul 2022 09:50:19 +0000",
+         "title" : "IM Nikolay Noritsyn and IM Shawn Rodrigue-Lemieux are Canadian Open co-champions"
+      },
+      {
+         "description" : "Levon Aronian beat Wei Yi in the finals of the FTX Road to Miami online tournament. By reaching the finals, both Aronian and Wei gained a ticket to the upcoming FTX Crypto Cup in Miami, where the players will meet in-person but will play their games online from individual computers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d8",
+         "pubDate" : "Mon, 18 Jul 2022 10:00:00 +0100",
+         "title" : "Levon Aronian beats Wei Yi, wins FTX Road to Miami"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1867",
+         "pubDate" : "Mon, 18 Jul 2022 08:46:47 +0000",
+         "title" : "Levon Aronian seals FTX Road to Miami title win"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1868",
+         "pubDate" : "Mon, 18 Jul 2022 07:28:11 +0000",
+         "title" : "Winners crowned at 2022 U.S. Championships"
+      },
+      {
          "description" : "America&#x2019;s newest esports chess star Levon Aronian shrugged off a slow start to the FTX Road to Miami to clinch his first title of the 2022 Meltwater Champions Chess Tour season. The 39-year-old Armenian, the oldest player in the tournament, overpowered China&#x2019;s former child prodigy Wei Yi on day two of the final. Both players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -162,14 +226,6 @@ news_feed (
          "title" : "Igor G. Naumkin (1965 - 2022)"
       },
       {
-         "description" : "The 45th edition of the Ikaros International Chess Tournament&#xA0;took place from 9-17 July at the Greek island in the Aegean Sea &#x2013; Ikaria. The event was played in 9 rounds, swiss system, with a total prize fund of 3.300 euros. GM Vasilios Kotronias convincingly won the event scoring 7.5/9 points. He was a full point []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-vasilios-kotronias-wins-the-45th-ikaros-chess-tournament-2022/",
-         "pubDate" : "Sun, 17 Jul 2022 11:46:27 +0000",
-         "title" : "GM Vasilios Kotronias wins the 45th Ikaros Chess Tournament 2022"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While chess is struggling to survive under Taliban rule, two officials who fled Afghanistan are fighting over the right to vote at the upcoming FIDE election. <strong>Ghulam Ali Malak Zad</strong>, who resides in Latvia and was <a href=\"https://www.chessdom.com/fide-elections-list-of-federations-with-voting-powers-electoral-commission-report/\">recently listed as President and Delegate</a> of the <strong>Afghan Chess Federation</strong>, is protesting a <a href=\"https://congress.fide.com/wp-content/uploads/2022/07/Electoral-Commission_Report_9-July-2022_Addendum.pdf\">decision of the <strong>Electoral Commission</strong></a> to approve as delegate <st",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -200,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
          "pubDate" : "Sun, 17 Jul 2022 06:35:00 +0100",
          "title" : "FTX Road to Miami: Live"
-      },
-      {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival. Follow the first round of the Deutschland Grand Prix live with expert commentary, starting at 15.00 CEST on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Sun, 17 Jul 2022 06:30:00 +0100",
-         "title" : "Deutschland Grand Prix: Live"
       },
       {
          "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
@@ -314,28 +362,12 @@ news_feed (
          "title" : "Sevian Wins Week 21 Swiss Heading Into Knockout: Summary Report"
       },
       {
-         "description" : "The 2022 Norwegian Chess Championships&#160;took place from 8-16 July 2022 in Kongsvinger, Norway. The event gathered around 300 players and it was played in 16 groups: Elite, Masters, Candidates, Group 1, Group 2, Group 3, Grop 4, Seniors 50+, Seniors 65+, and different Juniors and Cadet groups. GM Simen Agdestein convincingly won the Elite group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-simen-agdestein-wins-his-8th-norwegian-chess-champion-title/",
-         "pubDate" : "Sat, 16 Jul 2022 19:09:43 +0000",
-         "title" : "GM Simen Agdestein wins his 8th Norwegian Chess Champion title"
-      },
-      {
          "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-seven/",
          "pubDate" : "Sat, 16 Jul 2022 17:35:32 +0000",
          "title" : "A Foundation for Beginners Sixty Seven"
-      },
-      {
-         "description" : "16-year-old Indian chess prodigy Dommaraju Gukesh is the youngest Indian chess player who became Grandmaster at the age of 12 years, 7 months and 17 days, and he is the youngest Indian to break into World Top 100. Today, Gukesh broke another record as he became the youngest Indian chess player to cross 2700. With []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-d-is-third-youngest-player-ever-to-cross-2700/",
-         "pubDate" : "Sat, 16 Jul 2022 16:21:03 +0000",
-         "title" : "Gukesh D is third youngest player ever to cross 2700"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92924535.cms\" />Young Indian Grandmaster R Praggnanandhaa won the Paracin Open 'A' chess tournament 2022 here on Saturday, scoring 8 points from nine rounds. The 16-year-old remained unbeaten and finished half a point ahead of the field. Alexandr Predke took the second spot with 7.5 points ahead of Alisher Suleymenov and India's AL Muthaiah, who both scored 7 points. Suleymenov grabbed the third place on the basis of a better tie-break score.",
@@ -1578,14 +1610,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (58)"
       },
       {
-         "description" : "Finding games played with a specific opening is useful for chess tournament preparation. National Master Jeffrey Ashton shows how coaches and students can create their own model game database.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-for-coaches-finding-model-games",
-         "pubDate" : "Tue, 05 Jul 2022 16:00:00 +0100",
-         "title" : "ChessBase for Coaches: Finding Model Games"
-      },
-      {
          "description" : " I have been updating my book collection with Librarything, and have discovered that it can generate a lot of statistics about my collection. If I stacked my books in a pile, it would be 74 feet high, at around 4% of my books aren't written by a person(!). Of the 200 identified authors, 48% are still alive, while 48% have died. 98% of my books are in English, although a number were originally written in other languages (mainly Russian). But probably the most surprising, and somewhat disappointing statistic is that only 1% of the authors in my collection were female. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1944,14 +1968,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/01/chess-england-win-three-world-titles-while-ian-nepomniachtchi-nears-victory",
          "pubDate" : "Fri, 01 Jul 2022 07:00:05 +0000",
          "title" : "Chess: England win three world titles while Ian Nepomniachtchi nears victory"
-      },
-      {
-         "description" : "Live Game links for MPL 32nd National Under 17 OPEN &#38; GIRLS Chess Championships 2022. MPL 32 National (U-17) Open Chess Championships 2022 https://view.livechesscloud.com#2a49e879-a8a6-417f-a73b-baa97e9ed0b9 MPL",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-links-mpl-32nd-national-under-17-open-girls-chess-championships-2022/",
-         "pubDate" : "Fri, 01 Jul 2022 05:47:13 +0000",
-         "title" : "Live Game links: MPL 32nd National Under 17 OPEN & GIRLS Chess Championships 2022"
       },
       {
          "description" : "",
