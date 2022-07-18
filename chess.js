@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Like any complicated trade or skill, the growth and legacy of chess is built upon the great learned imparting their wisdom on the next generation of practitioners. To develop up-and-coming chess talents, former world champion GM Garry Kasparov, through his Kasparov Chess Foundation (KCF), has partnered with the Saint Louis Chess Club (SLCC) for the tenth year to host its Young Stars - USA program. | Photo: SLCC",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-stars-and-garry-kasparov",
+         "pubDate" : "Mon, 18 Jul 2022 19:45:00 +0100",
+         "title" : "Chess Stars and Garry Kasparov"
+      },
+      {
+         "description" : "What, you may well ask, is the 'Two Plus Club'? Is this some country club for lonelyhearts, or something of that ilk? Nothing like that. By winning the Candidates tournament for the second straight time, and thus qualifying himself for a second shot at the World title, Ian Nepomniachtchi has joined a very exclusive group of repeat challengers. Let's take a look at who they are. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nepo-joins-the-elite-two-plus-club",
+         "pubDate" : "Mon, 18 Jul 2022 19:30:00 +0100",
+         "title" : "Nepo joins the elite Two Plus Club"
+      },
+      {
+         "description" : "The 27th edition of the annual Pacific Coast Chess Open&#xA0;was played 15-17 July at the Los Angeles Airport Hilton and featured six rating sections: Premier (2000+), U2100, U1900, U1700, U1500 and U1200, with a guaranteed prize fund of 25.000$. GM Arman Mikaelyan who recently clinched silver at the 50th World Open lifted the trophy of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-arman-mikaelyan-wins-27th-pacific-coast-premier-open-scoring-perfect-6-6/",
+         "pubDate" : "Mon, 18 Jul 2022 17:27:02 +0000",
+         "title" : "GM Arman Mikaelyan wins 27th Pacific Coast Premier Open scoring perfect 6/6"
+      },
+      {
+         "description" : "Arne and Karsten look at a number of deep pawnless endgames. The attacker usually needs an extra rook to get a sure win. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-203-arne-kaehler",
+         "pubDate" : "Mon, 18 Jul 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #203 with Arne K&auml;hler: The last pawn"
+      },
+      {
+         "description" : "The 27th edition of the annual Bradley Chess Open&#xA0;took place 15-17 July at Sheraton Hartford Hotel at Bradley Airport, Windsor Locks, Connecticut. The event was played in 5 sections: Major (for players rated 1900+), Under 2100, Under 1800, Under 1500 and Under 1200, with a guaranteed prize fund of 15.000$. The top seeds of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-top-seeds-live-up-to-expectations-at-the-27th-annual-bradley-chess-open/",
+         "pubDate" : "Mon, 18 Jul 2022 16:46:38 +0000",
+         "title" : "The top seeds live up to expectations at the 27th annual Bradley Chess Open"
+      },
+      {
+         "description" : "The 15th annual Chicago Class 2022&#xA0;took place 15-17 July at the Westin Chicago North Shore Hotel, Wheeling, Illinois., featuring 7 tournaments: Master (for players rated 2100+), Expert (for players rated 1900-2199), Class A (for players rated 1700-1999), Class B (for players rated 1500-1799), Class C (for players rated 1300-1599), Class D (for players rated 1100-1399) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-sam-schmakel-dominates-at-the-15th-annual-chicago-class-2022/",
+         "pubDate" : "Mon, 18 Jul 2022 16:19:36 +0000",
+         "title" : "IM Sam Schmakel dominates at the 15th annual Chicago Class 2022"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92962380.cms\" />Much like any sporting discipline, chess too requires its players to have physical and mental toughness. In a bid to keep the players in the best possible shape during the tournament, the England women's team that arrives for the chess Olympiad --- starting on July 28 --- will be armed with their performance coach Benjamin Portheault.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -182,7 +230,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/visually-impaired-daniel-pulvett-grandmaster-norm",
-         "pubDate" : "Sun, 17 Jul 2022 07:20:31 -0700",
+         "pubDate" : "Sun, 17 Jul 2022 07:20:00 -0700",
          "title" : "Visually Impaired Player Achieves Grandmaster Title"
       },
       {
@@ -192,14 +240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/15th-paleochora-international-chess-tournament-live/",
          "pubDate" : "Sun, 17 Jul 2022 14:19:11 +0000",
          "title" : "15th Paleochora International Chess Tournament LIVE"
-      },
-      {
-         "description" : "The third edition of the Valencia International Chess Open took place July 11-17, 2022, in Torrente, Spain. The event attracted more than 100 entries who fought for a total prize fund of 10.000 euros over 9 swiss rounds, with time control of 90 minutes for the entire game plus a 30-second increment starting on move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-johan-sebastian-christiansen-triumphs-at-the-3rd-valencia-chess-open-2022/",
-         "pubDate" : "Sun, 17 Jul 2022 14:04:28 +0000",
-         "title" : "GM Johan-Sebastian Christiansen triumphs at the 3rd Valencia Chess Open 2022"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 87th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -224,22 +264,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nikolai-krogius-1930-2022/",
          "pubDate" : "Sun, 17 Jul 2022 14:19:23 +0100",
          "title" : "Nikolai Krogius (1930-2022)"
-      },
-      {
-         "description" : "The third tournament and the midway point of the&#xA0;Grand Chess Tour starts Wednesday and takes place at the Westin Zagreb from July 19-24. Continuing in&#xA0;the thrilling&#xA0;fashion of rapid and blitz format, exciting displays of chess play and blunders under time pressure will certainly&#xA0;keep fans entertained. The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-croatia-2022-starts-this-wednesday/",
-         "pubDate" : "Sun, 17 Jul 2022 13:06:34 +0000",
-         "title" : "Grand Chess Tour Croatia 2022 starts this Wednesday"
-      },
-      {
-         "description" : "U.S. Senior, U.S. Junior and U.S. Girls' Junior final recap by WGM Sabina Foisor The final day of the 2022 U.S. Senior, U.S. Junior, &#38; U.S. Girls&#x2019; Junior Championships was one of the most thrilling finishes at a National Championship and one to be remembered for years, with all the titles being up for grabs []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-2022-u-s-senior-u-s-junior-and-u-s-girls-junior-chess-champions-crowned-in-saint-louis/",
-         "pubDate" : "Sun, 17 Jul 2022 12:26:43 +0000",
-         "title" : "U.S. Senior, U.S. Junior and U.S. Girls' Junior Chess Champions crowned in Saint Louis"
       },
       {
          "description" : "",
@@ -1578,28 +1602,12 @@ news_feed (
          "title" : "The European Champion comments"
       },
       {
-         "description" : "Svitlana unpacks beautiful opening traps, which don't check mate you in three moves, but simply give you enough advantage to win a game. The Canadian WIM chose commonly played openings, like the queen's gambit, or the Sicilian Defence. You might know about some traps already, but it is good to 1. Refresh the knowledge and 2. Find out even more variations of the tricky openings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-44",
-         "pubDate" : "Wed, 06 Jul 2022 15:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Opening traps you should know"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/NSCC/national-schools-championships-finals/#new_tab",
          "pubDate" : "Wed, 06 Jul 2022 10:51:36 +0000",
          "title" : "National Schools Championships final"
-      },
-      {
-         "description" : "There are only 24 days to go until the start of the Chennai Chess Olympiad 2022. In celebration of the occasion, we have launched a series of 6 episodes where the most interesting stories of the past Olympiads are discussed. IM Sagar Shah is the host of this show and IM V. Saravanan is the man with all the stories. Together they dissect this game and the entire episode surrounding it. In today's episode, we discuss the crucial encounter between Viktor Korchnoi from Switzerland and Garry Kasparov from USSR at the Lucerne Olympiad in 1982. Each session is roughly around 40-50 minutes in length and will help you to improve your understanding and knowledge of the game! Photo: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/korchnoi-vs-kasparov-the-clash-of-giants",
-         "pubDate" : "Wed, 06 Jul 2022 11:09:36 +0100",
-         "title" : "Korchnoi vs Kasparov: The clash of giants"
       },
       {
          "description" : "",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1832",
          "pubDate" : "Mon, 27 Jun 2022 22:20:29 +0000",
          "title" : "2022 Candidates, Round 9: Firouzja, Radjabov and Ding score first victories"
-      },
-      {
-         "description" : " Fabiano Caruana got a chance to put Ian Nepomniachtchi under pressure and even catch him after managing to surprise his opponent in the Petroff. Nepomniachtchi was certain he had something against Caruana's idea but didn't remember what it was. Nepomniachtchi fell about 50 minutes behind on the clock but it was here Caruana began to slow down and then made a mistake. You have to think the very long games Caruana has been playing and yesterday's disappointment couldn't have helped but he needed to find 24.Bf1! after 24.Bxf5? he almost certainly missed 27...Nd3 ahead of times and after this it was Caruana who had to be careful as he got into time pressure, but the players repeated at move 40.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-survives-trouble-in-the-opening-to-draw-against-caruana-in-the-candidates-round-9",
-         "pubDate" : "Mon, 27 Jun 2022 20:00:00 +0400",
-         "title" : "Nepomniachtchi survives trouble in the opening to draw against Caruana in the Candidates Round 9 - 9"
       }
    ]
 }
