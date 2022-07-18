@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1869",
+         "pubDate" : "Mon, 18 Jul 2022 19:01:13 +0000",
+         "title" : "International Chess Day 2022"
+      },
+      {
          "description" : "Like any complicated trade or skill, the growth and legacy of chess is built upon the great learned imparting their wisdom on the next generation of practitioners. To develop up-and-coming chess talents, former world champion GM Garry Kasparov, through his Kasparov Chess Foundation (KCF), has partnered with the Saint Louis Chess Club (SLCC) for the tenth year to host its Young Stars - USA program. | Photo: SLCC",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
