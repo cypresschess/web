@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/levon-aronian-wins-2022-ftx-road-to-miami",
-         "pubDate" : "Sun, 17 Jul 2022 14:18:31 -0700",
+         "pubDate" : "Sun, 17 Jul 2022 14:18:00 -0700",
          "title" : "Levon Aronian Wins FTX Road To Miami"
       },
       {
