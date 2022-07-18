@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. National Championships, held in St. Louis, crowned three new champions. GM Christopher Yoo&#38;nbsp;won the U.S. Junior Chess Championship, FM Jennifer Yu won the U.S. Girls Junior Chess Championship, and GM Alexander Shabalov won the U.S. Se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-national-championships-yoo-yu-shabalov-win",
+         "pubDate" : "Mon, 18 Jul 2022 13:24:00 -0700",
+         "title" : "Yoo, Yu, Shabalov Win U.S. National Championships"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -239,7 +247,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/visually-impaired-daniel-pulvett-grandmaster-norm",
          "pubDate" : "Sun, 17 Jul 2022 07:20:00 -0700",
-         "title" : "Visually Impaired Player Achieves Grandmaster Title"
+         "title" : "Player With Visual Impairment Achieves Grandmaster Title"
       },
       {
          "description" : "The 15th edition of the Paleochora International Chess Tournament&#160;takes place from 17-24 July in Paleochora, a city of the southwest Cretan coast. Paleochora School &#38; Cultural Center of Paleochora hosts the event which will be played in two groups: A and B, with participation of 300 players from 26 countries, including 18 grandmasters and 11 []",
@@ -1490,14 +1498,6 @@ news_feed (
          "title" : "Averbakh on Averbakh (3): USSR Champion at home and abroad"
       },
       {
-         "description" : "GM Harika Dronavalli defeated WGM Deysi Cori in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. The players&#39; complementing tactical styles led to many explosive duels. Especially in the 3+1 blitz se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-dronavalli-cori",
-         "pubDate" : "Thu, 07 Jul 2022 13:45:00 -0700",
-         "title" : "From Tactical Mayhem To Landslide: Dronavalli Defeats Cori"
-      },
-      {
          "description" : " Grandmaster Pontus Carlsson took his blitz skills to Czech Republic and Slovakia and won both events by prodigious scores. Not originally known as a &#8220;blitz specialist,&#8221; the Swedish national has competed at the highest levels at the World Rapid and Blitz. In 2018, he scored 8/15 (rapid) and 10.5/21 (blitz) He also competed in the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/07/carlsson-blitzes-field-in-two-tourneys/\">Carlsson blitzes field in two tourneys!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2176,22 +2176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/06/more-adventures-in-school-arbiting.html",
          "pubDate" : "Tue, 28 Jun 2022 13:11:00 +0000",
          "title" : "More adventures in school arbiting"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1833",
-         "pubDate" : "Mon, 27 Jun 2022 22:51:39 +0000",
-         "title" : "Malta to host FIDE World Amateur Chess Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1832",
-         "pubDate" : "Mon, 27 Jun 2022 22:20:29 +0000",
-         "title" : "2022 Candidates, Round 9: Firouzja, Radjabov and Ding score first victories"
       }
    ]
 }
