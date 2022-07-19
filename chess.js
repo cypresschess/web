@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The national junior and senior chess championships have concluded in Saint Louis, with 15-year-old GM Christopher Yoo taking home the 2022 U.S. Junior Championship, 20-year-old FM/WGM Jennifer Yu winning the 2022 U.S. Girls' Junior Championship, and U.S. Chess Hall-of-Famer GM Alex Shabalov beating out a field that included five other hall-of-fame inductees to become the 2022 U.S. Senior Champion. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-junior-senior-championships-2022-final-report",
+         "pubDate" : "Tue, 19 Jul 2022 13:10:00 +0100",
+         "title" : "Yu, Shabalov and Yoo win US national championships"
+      },
+      {
+         "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/poland-claims-triple-gold-at-european-youth-team-chess-championship-2022/",
+         "pubDate" : "Tue, 19 Jul 2022 09:51:04 +0000",
+         "title" : "Poland claims triple gold at European Youth Team Chess Championship 2022"
+      },
+      {
+         "description" : "The 11th IBCA World Women&#x2019;s and Junior Chess Championships for the Blind and Visually Impaired, organized by the IBCA, the French Blind Chess Association, and the Maison d&#x2019;&#xC9;checs de Toulouse Lardenne, chief organizer Mr. Laurent Kruk, took place in Castelnaudary, France, from July 10-18, 2022. The participants, representing 18 federations from three continents, used specialized []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ibca-world-womens-and-junior-chess-champions-crowned-in-france/",
+         "pubDate" : "Tue, 19 Jul 2022 09:03:14 +0000",
+         "title" : "IBCA World Women's and Junior Chess Champions crowned in France"
+      },
+      {
+         "description" : "After Vladimir Kramnik had to pull out at short notice due to health reasons, the official opening move of the No-Castling World Masters of the 49th International Dortmund Chess Days took place on the board of Michael Adams and Daniel Fridman. Adams beat Fridman to grab the early lead. | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r2",
+         "pubDate" : "Tue, 19 Jul 2022 09:40:00 +0100",
+         "title" : "NC World Masters: Adams strikes first"
+      },
+      {
          "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 sections. The Closing&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/poland-wins-three-gold-medals-at-european-youth-team-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-national-championships-yoo-yu-shabalov-win",
          "pubDate" : "Mon, 18 Jul 2022 13:24:00 -0700",
          "title" : "Yoo, Yu, Shabalov Win U.S. National Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1870",
+         "pubDate" : "Mon, 18 Jul 2022 20:11:36 +0000",
+         "title" : "Jerguš Pech&aacute;č awarded the Gligoric Trophy"
       },
       {
          "description" : "",
@@ -186,14 +226,6 @@ news_feed (
          "title" : "Winners crowned at 2022 U.S. Championships"
       },
       {
-         "description" : "America&#x2019;s newest esports chess star Levon Aronian shrugged off a slow start to the FTX Road to Miami to clinch his first title of the 2022 Meltwater Champions Chess Tour season. The 39-year-old Armenian, the oldest player in the tournament, overpowered China&#x2019;s former child prodigy Wei Yi on day two of the final. Both players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-wins-ftx-road-to-miami/",
-         "pubDate" : "Sun, 17 Jul 2022 23:44:11 +0000",
-         "title" : "Levon Aronian wins FTX Road to Miami"
-      },
-      {
          "description" : "Levon Aronian needed just three games on Sunday to wrap up victory in the FTX Road to Miami, adding the $25,000 top prize to his $5,500 earnings from the Prelims. Wei Yi came out all guns blazing, but a late blunder in the first game left him with an almost impossible task.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -250,28 +282,12 @@ news_feed (
          "title" : "Chess Tactics for Heroes Revisited"
       },
       {
-         "description" : "The Hungarian grandmaster who is in process of transferring to Romanian Chess Federation recently participated in the 2022 Candidates Chess Tournament, German Bundesliga 2022, and then FTX Road to Miami. After a hectic tournaments schedule, Richard Rapport decided to rest from chess and as a result, produced his first painting. Chess and art are closely []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-produces-art-to-rest-from-chess-tweetoftheday/",
-         "pubDate" : "Sun, 17 Jul 2022 14:57:17 +0000",
-         "title" : "Richard Rapport produces art to rest from chess #TweetOftheDay"
-      },
-      {
          "description" : "A degenerative condition has taken away most of his eyesight, but that didn&#39;t stop IM Daniel Pulvett from scoring his third GM norm at the Valencia Open on Sunday. With an Elo rating already over 2500, gaining his GM title should be only a technic...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/visually-impaired-daniel-pulvett-grandmaster-norm",
          "pubDate" : "Sun, 17 Jul 2022 07:20:00 -0700",
          "title" : "Player With Visual Impairment Achieves Grandmaster Title"
-      },
-      {
-         "description" : "The 15th edition of the Paleochora International Chess Tournament&#160;takes place from 17-24 July in Paleochora, a city of the southwest Cretan coast. Paleochora School &#38; Cultural Center of Paleochora hosts the event which will be played in two groups: A and B, with participation of 300 players from 26 countries, including 18 grandmasters and 11 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/15th-paleochora-international-chess-tournament-live/",
-         "pubDate" : "Sun, 17 Jul 2022 14:19:11 +0000",
-         "title" : "15th Paleochora International Chess Tournament LIVE"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 87th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -1602,28 +1618,12 @@ news_feed (
          "title" : "Ding beats Nakamura in the final round of the Candidates to finish in second place - 14"
       },
       {
-         "description" : "This summer, from July 6-16, the Saint Louis Chess Club will host three national championship events showcasing the best American seniors, juniors and girls chess players. The three 10-player fields will tie together chess past and future for a celebration of the best of American chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-junior-senior-championships-2022-preview",
-         "pubDate" : "Wed, 06 Jul 2022 16:40:00 +0100",
-         "title" : "US Junior and Senior Championships to kick off in Saint Louis"
-      },
-      {
          "description" : "At the recent Midland Counties Chess Union AGM, Eunice Dolan was elected as the 1st Lady President of the Union. The MCCU was founded in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/eunice-dolan-mccu-president/",
          "pubDate" : "Wed, 06 Jul 2022 15:00:48 +0000",
          "title" : "Eunice Dolan - MCCU President"
-      },
-      {
-         "description" : "One of the main topics of the new ChessBase Magazine #208 is the European Individual Championship 2022, which took place at the end of March/beginning of April in Terme Catez, Slovenia. Matthias Bluebaum achieved the greatest success of his career so far by winning the title. His game against Matej Sebenik - commented by the new European Champion - is \"The Analysis\" of the current issue. Aryan Tari, Nijat Abasov, Ruslan Ponomariov, Ivan Cheparinov, Yuriy Kuzubov, Maxime Lagarde, Jaime Santos Latasa, Jules Moussard, and many other participants of the European Championship also analyse their best games in CBM #208. Take a look at a shortened version of Matthias Bluebaum's analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-european-champion-comments",
-         "pubDate" : "Wed, 06 Jul 2022 15:00:00 +0100",
-         "title" : "The European Champion comments"
       },
       {
          "description" : "",
