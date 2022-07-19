@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 sections. The Closing&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/poland-wins-three-gold-medals-at-european-youth-team-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/poland-wins-three-gold-medals-at-european-youth-team-chess-championship-2022/",
+         "pubDate" : "Tue, 19 Jul 2022 06:48:32 +0000",
+         "title" : "Poland wins three gold medals at European Youth Team Chess Championship 2022"
+      },
+      {
+         "description" : " 16th ASIAN SCHOOLS CHESS CHAMPIONSHIPS 2022 at Kaluthara SRI LANKA, 25th August - 3rd September 2022 Asian",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/16th-asian-schools-chess-championships-2022-at-kaluthara-sri-lanka-25th-august-3rd-september-2022/",
+         "pubDate" : "Tue, 19 Jul 2022 05:21:50 +0000",
+         "title" : "16th ASIAN SCHOOLS CHESS CHAMPIONSHIPS 2022 at Kaluthara SRI LANKA, 25th August - 3rd September 2022"
+      },
+      {
          "description" : "The U.S. National Championships, held in St. Louis, crowned three new champions. GM Christopher Yoo&#38;nbsp;won the U.S. Junior Chess Championship, FM Jennifer Yu won the U.S. Girls Junior Chess Championship, and GM Alexander Shabalov won the U.S. Se...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1864,14 +1880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-olympiad-teams.html",
          "pubDate" : "Sat, 02 Jul 2022 12:59:00 +0000",
          "title" : "2022 Olympiad Teams"
-      },
-      {
-         "description" : "National School U-11 Open and Girls Open Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-School-U(11)-Open.html Girls : https://aicf.online/National-School-U(11)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-u-11-open-and-girls-open-chess-championship-certificates-out-to-download/",
-         "pubDate" : "Sat, 02 Jul 2022 11:07:49 +0000",
-         "title" : "National School U-11 Open and Girls Open Chess Championship Certificates out to download"
       },
       {
          "description" : "Ian Nepomniachtchi is on the brink of winning his 2nd Candidates Tournament in a row after Hikaru Nakamura allowed a 7-minute draw in their Round 12 game. That left Nepo two points clear of both Hikaru and Ding Liren, who crashed to a 26-move defeat with the white pieces against Teimour Radjabov. Nepo now needs only a draw in one of his remaining games to guarantee victory, but the battle for 2nd is intense, with Teimour and Fabiano Caruana just half a point behind Nakamura and Ding.",
