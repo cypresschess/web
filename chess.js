@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today we take a look at a quite popular opening. The Pirc Defence. The opening was named after GM Vasja Pirc from Slovenia/Yugoslavia. Thanks to this opening, we were able to enjoy the Immortal game of Kasparov vs. Topalov, or game number 17 of Fischer vs. Spassky, in the World Championship match 1972 in Iceland. We also tackle the question, of how it is pronounced correctly - Pirk, or Pirch?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-46",
+         "pubDate" : "Tue, 19 Jul 2022 18:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The Pirc Defence"
+      },
+      {
+         "description" : "Researchers of the King's College London conducted a study analyzing data from 79.000 chess games finding that men play 8% longer against women than they would in a same-sex game. The study explains male chess players delay resigning when they play against a Woman to avoid the &#8220;psychological cost&#8221; of losing to a female chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/male-chess-players-delay-resigning-when-playing-against-a-woman-tweetoftheday/",
+         "pubDate" : "Tue, 19 Jul 2022 16:17:06 +0000",
+         "title" : "Male chess players delay resigning when playing against a Woman #TweetOftheDay"
+      },
+      {
+         "description" : "The FIDE Chess.com 2022 Women&#39;s Speed Chess Championship continued on Monday with a showdown between the world&#39;s number-one ranked woman player, GM Hou Yifan, against the U.S. women&#39;s chess champion, IM Carissa Yip, which Hou won in a 21.5-5.5 dru...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-hou-yip",
+         "pubDate" : "Tue, 19 Jul 2022 09:15:37 -0700",
+         "title" : "World Number 1 Woman Player Hou Yifan Close To Perfect Against Yip"
+      },
+      {
+         "description" : "The International Open Chess Tournament &#8220;Svetozar Gligoric Memorial&#8221; kicked off Sunday, July 17th in Belgrade, Serbia. The event is played in two categories: Masters (for players rated 2100+) and Amateurs (for players rated U2200) with participation of more than 300 players from 40 countries. Both tournaments are played in 9 rounds, swiss system, with a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/svetozar-gligoric-memorial-running-in-belgrade/",
+         "pubDate" : "Tue, 19 Jul 2022 15:47:10 +0000",
+         "title" : "Svetozar Gligoric Memorial running in Belgrade"
+      },
+      {
          "description" : "In rook endings checks are often a major defensive weapon. So it is important for the attacking king to find shelter. In the diagrammed position, it is White to move and win. How should he proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,14 +226,6 @@ news_feed (
          "title" : "In a first, England women rope in performance coach ahead of Olympiad"
       },
       {
-         "description" : "Within the framework of the 49th International Dortmund Chess Festival, the No-castling World Masters 2022 was to start today, Monday, 18 July, with the game between Vladimir Kramnik and Viswanathan Anand. Before the start of the event, Kramnik experienced health problems, so he had himself tested for an infection and was found to be COVID-19 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladimir-kramnik-drops-out-from-dortmund-chess-festival-2022/",
-         "pubDate" : "Mon, 18 Jul 2022 14:26:35 +0000",
-         "title" : "Vladimir Kramnik drops out from Dortmund Chess Festival 2022"
-      },
-      {
          "description" : " The details of the 2022 Asian Youth Championship have been announced, and is what will surely be a popular venue for Australian players, Bali is the host. It runs from the 13th - 22nd October and has sections for U18,16,14,12,10, and U8 (Open and Girls). As with all continental junior events, there are FIDE titles on offer for the winners and place getters, as well as medals. Given the cost of airfares between Australia and Bali, this may be one Asian event where a large number of Australian players take part. Further details can be found at the event website <a data-saferedirecturl=\"https://www.google.com/url?q=https://asianyouth2022bali.com/&amp;source=gmail&amp;ust=1658227594551000&amp;u",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://aicf.in/national-school-u-15-open-and-girls-chess-championship-certificates/",
          "pubDate" : "Mon, 18 Jul 2022 11:28:23 +0000",
          "title" : "National School U-15 Open and Girls Chess Championship Certificates"
-      },
-      {
-         "description" : "The South African Open Chess Championship 2022 took place from 9-17 July 2022 in Cape Town. The event featured six different tournaments: Championship section, B section, U12 section, U16 section, U20 section and Blitz tournament with a prize pool of R140.000 (~8.000 EUR). The main Championship was played in 11 rounds, swiss system, with time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/south-african-open-chess-championship-2022-concluded-in-cape-town/",
-         "pubDate" : "Mon, 18 Jul 2022 11:23:47 +0000",
-         "title" : "South African Open Chess Championship 2022 concluded in Cape Town"
       },
       {
          "description" : "The two German representatives, Matthias Bl&uuml;baum and Rasmus Svane, at the Deutschland Grand Prix started with defeats in Sunday's first round, as they lost their games against Luke McShane and Pavel Eljanov. Romanian rising star Bogdan-Daniel Deac defeated David Navara. McShane shared his thoughts on his remarkable win. | Photos: Michelle Lassak",
@@ -1466,14 +1482,6 @@ news_feed (
          "title" : "Trent's Tactics - Live from Corsica with a Bent Larsen special"
       },
       {
-         "description" : "The 2022 I&#39;M Not A GM Speed Chess Championship, presented by Landover.io, came to a conclusion on Thursday with an exhilarating grand finale between IM Eric Rosen and FM James Canty III, which culminated in a 12-9 victory for Rosen. Rosen was ab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-imscc-final",
-         "pubDate" : "Fri, 08 Jul 2022 06:52:26 -0700",
-         "title" : "Rosen Wins The 2022 IMSCC Title"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png\" data-image-dimensions=\"182x183\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c822b10e046d110b05f667\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.chessable.com/play-winning-chess/course/89222/\">via Chessable </a> </figcaption> </figure> <figure class=\" sqs-block-image-f",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-523-an-interesting-loss",
          "pubDate" : "Thu, 07 Jul 2022 10:05:53 +0100",
          "title" : "Game of the Week #523: An interesting loss"
-      },
-      {
-         "description" : "On 26th of July 2022, the chess world will be treated to a unique, one of its kind chess show - the ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi. Anish Giri is world no.10 and Dutch no.1. Vidit Gujrathi is India no.3 and world no.28. The Death match between them will be held at the Dublin Square in the Phoenix Marketcity, Mumbai. What is the format of the match, what is the prize money, who are the hosts and commentators of the show, are there any exhibition matches? All of this is mentioned in the article. Apart from this we also have organized an open rapid tournament on 25th of July for all chess lovers and the top 10 will get a chance to play a simul agains",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-india-originals-death-match-anish-giri-vs-vidit-gujrathi",
-         "pubDate" : "Thu, 07 Jul 2022 09:00:00 +0100",
-         "title" : "ChessBase India Originals Death Match - Anish Giri vs Vidit Gujrathi"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92708422.cms\" />When Akshaya Kalaiyalahan, a member of the England women's team, boards the flight from London to Chennai to feature in the 44th chess Olympiad --- it will be a homecoming of sorts for the 21-year-old.",
@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1834",
          "pubDate" : "Tue, 28 Jun 2022 17:25:46 +0000",
          "title" : "Romania to stage FIDE World Youth Chess Championships U14, U16 and U18"
-      },
-      {
-         "description" : "Britain's first-ever outdoor chess festival, ChessFest, attracted thousands of visitors at London's Trafalgar Square, and featured a varied programme of fun activities, including live chess games with actors, grandmaster simuls, mass teach-ins and video shows. ChessFest is a fun-filled outdoor event, entirely free, open to all. This year it will be staged in London and Liverpool, on Sunday the 17th of July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/announcing-chessfest-2022",
-         "pubDate" : "Tue, 28 Jun 2022 17:00:00 +0100",
-         "title" : "Announcing ChessFest 2022"
       }
    ]
 }
