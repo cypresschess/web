@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1000 GM/IM St. Louis Norm Tournaments will take place from 19-23 July in Saint Louis, Missouri. Both IM and GM events will be played in 9 rounds, round-robin system. The time control will be: 90 minutes + 30 seconds increment. The field of the Grandmaster tournament is led by GM Dragun Kamil, GM Vladimir []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000-st-louis-gm-im-tournaments/",
+         "pubDate" : "Tue, 19 Jul 2022 18:16:15 +0000",
+         "title" : "1000 GM/IM St. Louis Tournaments"
+      },
+      {
+         "description" : "Fifty years ago, after the disaster he suffered in game one, Bobby Fischer was on the verge of abandoning the entire event and returning home. The challenger continued his vigorous protest, and when his demands were not met, Fischer did not turn up for game two. He was forfeited and the score was 0-2. Bobby booked a flight back to New York, but practically at the very last moment decided to play game three - in an isolated ping-pong room!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bobby-fischer-in-iceland-50-years-ago-4",
+         "pubDate" : "Tue, 19 Jul 2022 19:00:00 +0100",
+         "title" : "Bobby Fischer in Iceland - 50 years ago (4)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92988787.cms\" />Ukrainian Grandmaster Oleksandr, who has been part of numerous Olympiads in the past as a player and as captain, concedes that this edition of the tournament will be the toughest.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/keeping-ukrainian-team-in-good-head-space-during-chess-olympiad-a-challenge-sulypa/articleshow/92988787.cms",
+         "pubDate" : "Tue, 19 Jul 2022 17:26:18 +0000",
+         "title" : "Keeping Ukrainian team in good head space a challenge: Sulypa"
+      },
+      {
+         "description" : "After the European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. The Rapid Championship will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championship-2022-starts-tomorrow/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2022-starts-tomorrow/",
+         "pubDate" : "Tue, 19 Jul 2022 17:23:51 +0000",
+         "title" : "European Youth Rapid&Blitz Chess Championship 2022 starts tomorrow"
+      },
+      {
          "description" : "Today we take a look at a quite popular opening. The Pirc Defence. The opening was named after GM Vasja Pirc from Slovenia/Yugoslavia. Thanks to this opening, we were able to enjoy the Immortal game of Kasparov vs. Topalov, or game number 17 of Fischer vs. Spassky, in the World Championship match 1972 in Iceland. We also tackle the question, of how it is pronounced correctly - Pirk, or Pirch?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -15,15 +47,15 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/male-chess-players-delay-resigning-when-playing-against-a-woman-tweetoftheday/",
          "pubDate" : "Tue, 19 Jul 2022 16:17:06 +0000",
-         "title" : "Male chess players delay resigning when playing against a Woman #TweetOftheDay"
+         "title" : "Male chess players delay resigning when playing against women #TweetOftheDay"
       },
       {
          "description" : "The FIDE Chess.com 2022 Women&#39;s Speed Chess Championship continued on Monday with a showdown between the world&#39;s number-one ranked woman player, GM Hou Yifan, against the U.S. women&#39;s chess champion, IM Carissa Yip, which Hou won in a 21.5-5.5 dru...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-hou-yip",
-         "pubDate" : "Tue, 19 Jul 2022 09:15:37 -0700",
-         "title" : "World Number 1 Woman Player Hou Yifan Close To Perfect Against Yip"
+         "pubDate" : "Tue, 19 Jul 2022 09:15:00 -0700",
+         "title" : "World Number 1 Woman Player Close To Perfect Against Yip"
       },
       {
          "description" : "The International Open Chess Tournament &#8220;Svetozar Gligoric Memorial&#8221; kicked off Sunday, July 17th in Belgrade, Serbia. The event is played in two categories: Masters (for players rated 2100+) and Amateurs (for players rated U2200) with participation of more than 300 players from 40 countries. Both tournaments are played in 9 rounds, swiss system, with a []",
@@ -58,28 +90,12 @@ news_feed (
          "title" : "2022 Chess Olympiad Preview"
       },
       {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Tue, 19 Jul 2022 14:55:00 +0100",
-         "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
-      },
-      {
          "description" : " I have just managed to win a rapidplay tournament at my local club with a pleasing 5.5/6. But the secret to this wasn't that the time control suited me, or that I was in good form, but something simpler. I turned up for all 6 rounds (3 weeks), which gave me a distinct advantage. A couple of close rivals had enforced absences (covid), while some had other commitments get in the way. Fortunately I wasn't affected by these issues, which maximised my winning chances! <br /> <b>Press,Shaun - Grcic,Milan [D02]</b><br />Gungahlin Rapid (6), 19.07.2022 <script>new PgnViewer( { boardName: \"game1338\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.g3 c5 4.Bg2 cxd4 5.O-O Nc6 6.Nxd4 e5 7.Nxc6 b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/07/by-turning-up.html",
          "pubDate" : "Tue, 19 Jul 2022 13:01:00 +0000",
          "title" : "By turning up"
-      },
-      {
-         "description" : "Gukesh is leading the tournament standings at the Grandmaster Triathlon in Biel. On Sunday, Gata Kamsky was the top scorer in the blitz section of the event. | The fourth round of the classical section kicks off Tuesday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Tue, 19 Jul 2022 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Live"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f2cd801b-c303-43fc-bfd1-a28f5227e845/Gelfand_%26_Anand.JPG\" data-image-dimensions=\"512x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d6a123c1c3d62ea175c4db\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f2cd801b-c303-43fc-bfd1-a28f5227e845/Gelfand_%26_Anand.JPG?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Rodrigo Fernandez <a href=\"https://commons.wikimedia.org/wiki/File:Gelfand_%26_Anand.JPG\">via Wikimedia Commons </",
@@ -104,6 +120,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-junior-senior-championships-2022-final-report",
          "pubDate" : "Tue, 19 Jul 2022 13:10:00 +0100",
          "title" : "Yu, Shabalov and Yoo win US national championships"
+      },
+      {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Tue, 19 Jul 2022 13:00:00 +0100",
+         "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : "Gukesh is leading the tournament standings at the Grandmaster Triathlon in Biel. On Sunday, Gata Kamsky was the top scorer in the blitz section of the event. | The fourth round of the classical section kicks off Tuesday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Tue, 19 Jul 2022 12:55:00 +0100",
+         "title" : "Biel Chess Festival - Live"
       },
       {
          "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 []",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-top-seeds-live-up-to-expectations-at-the-27th-annual-bradley-chess-open/",
          "pubDate" : "Mon, 18 Jul 2022 16:46:38 +0000",
          "title" : "The top seeds live up to expectations at the 27th annual Bradley Chess Open"
-      },
-      {
-         "description" : "The 15th annual Chicago Class 2022&#xA0;took place 15-17 July at the Westin Chicago North Shore Hotel, Wheeling, Illinois., featuring 7 tournaments: Master (for players rated 2100+), Expert (for players rated 1900-2199), Class A (for players rated 1700-1999), Class B (for players rated 1500-1799), Class C (for players rated 1300-1599), Class D (for players rated 1100-1399) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-sam-schmakel-dominates-at-the-15th-annual-chicago-class-2022/",
-         "pubDate" : "Mon, 18 Jul 2022 16:19:36 +0000",
-         "title" : "IM Sam Schmakel dominates at the 15th annual Chicago Class 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92962380.cms\" />Much like any sporting discipline, chess too requires its players to have physical and mental toughness. In a bid to keep the players in the best possible shape during the tournament, the England women's team that arrives for the chess Olympiad --- starting on July 28 --- will be armed with their performance coach Benjamin Portheault.",
@@ -1618,14 +1642,6 @@ news_feed (
          "title" : "Master Chess Web Show (21)"
       },
       {
-         "description" : "In his \"Game of the Week\" show #523 Merijn van Delft shows an interesting game he lost at the \"Wine Open\" in Naujac sur Mer, a unique tournament, in which prices are bottle of wines delivered according to the winners' weight. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-523-an-interesting-loss",
-         "pubDate" : "Thu, 07 Jul 2022 10:05:53 +0100",
-         "title" : "Game of the Week #523: An interesting loss"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92708422.cms\" />When Akshaya Kalaiyalahan, a member of the England women's team, boards the flight from London to Chennai to feature in the 44th chess Olympiad --- it will be a homecoming of sorts for the 21-year-old.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2168,14 +2184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1836",
          "pubDate" : "Tue, 28 Jun 2022 21:03:13 +0000",
          "title" : "WSCC 2022: Valentina Gunina cruises into quarterfinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1834",
-         "pubDate" : "Tue, 28 Jun 2022 17:25:46 +0000",
-         "title" : "Romania to stage FIDE World Youth Chess Championships U14, U16 and U18"
       }
    ]
 }
