@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In rook endings checks are often a major defensive weapon. So it is important for the attacking king to find shelter. In the diagrammed position, it is White to move and win. How should he proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gimme-shelter",
+         "pubDate" : "Tue, 19 Jul 2022 16:15:19 +0100",
+         "title" : "Gimme shelter"
+      },
+      {
+         "description" : "Sergey Karjakin is currently playing his first event after he received a 6 months ban from participating in FIDE events. Karjakin competes in a closed round-robin event in a field of four participants who in higher or lesser extent supported the Russian invasion of Ukraine. In a short interview for the Russian News Agency TASS, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-suggests-the-creation-of-a-parallel-international-chess-federation-if-baryshpolets-wins/",
+         "pubDate" : "Tue, 19 Jul 2022 15:11:45 +0000",
+         "title" : "Karjakin suggests the creation of a parallel International Chess Federation if Baryshpolets wins"
+      },
+      {
+         "description" : " In less than two weeks, the 2022 Chess Olympiad will open in Chennai, India after surviving the worst of a pandemic. India was one of the countries hit the hardest and officials will be on alert to ensure health and safety. With a handful of days left for the Chess Olympiad, the crazy for the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/\">2022 Chess Olympiad Preview</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/",
+         "pubDate" : "Tue, 19 Jul 2022 14:17:12 +0000",
+         "title" : "2022 Chess Olympiad Preview"
+      },
+      {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Tue, 19 Jul 2022 14:55:00 +0100",
+         "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : " I have just managed to win a rapidplay tournament at my local club with a pleasing 5.5/6. But the secret to this wasn't that the time control suited me, or that I was in good form, but something simpler. I turned up for all 6 rounds (3 weeks), which gave me a distinct advantage. A couple of close rivals had enforced absences (covid), while some had other commitments get in the way. Fortunately I wasn't affected by these issues, which maximised my winning chances! <br /> <b>Press,Shaun - Grcic,Milan [D02]</b><br />Gungahlin Rapid (6), 19.07.2022 <script>new PgnViewer( { boardName: \"game1338\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.g3 c5 4.Bg2 cxd4 5.O-O Nc6 6.Nxd4 e5 7.Nxc6 b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/by-turning-up.html",
+         "pubDate" : "Tue, 19 Jul 2022 13:01:00 +0000",
+         "title" : "By turning up"
+      },
+      {
+         "description" : "Gukesh is leading the tournament standings at the Grandmaster Triathlon in Biel. On Sunday, Gata Kamsky was the top scorer in the blitz section of the event. | The fourth round of the classical section kicks off Tuesday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Tue, 19 Jul 2022 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f2cd801b-c303-43fc-bfd1-a28f5227e845/Gelfand_%26_Anand.JPG\" data-image-dimensions=\"512x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d6a123c1c3d62ea175c4db\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f2cd801b-c303-43fc-bfd1-a28f5227e845/Gelfand_%26_Anand.JPG?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Rodrigo Fernandez <a href=\"https://commons.wikimedia.org/wiki/File:Gelfand_%26_Anand.JPG\">via Wikimedia Commons </",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/19/ep-288-gm-peter-heine-nielsen-takes-us-behind-the-scenes-of-the-2012-anand-gelfand-world-championship-match",
+         "pubDate" : "Tue, 19 Jul 2022 12:26:58 +0000",
+         "title" : "EP 288- GM Peter Heine Nielsen Takes us Behind the Scenes of the 2012 Anand-Gelfand World Championship match "
+      },
+      {
+         "description" : "The 2022 Warsaw Chess Festival&#160;was held from July 8 to July 17 at the Warsaw sports hall. The Festival featured Jan Maciej&#x2019;s Memorial in blitz chess and Mieczys&#x142;aw Najdorf Memorial in classic chess which was played in two categories: A and B. The total prize fund of the events was 60.000 PLN (~12.500 euros), with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/warsaw-chess-festival-najdorf-memorial-2022-concluded/",
+         "pubDate" : "Tue, 19 Jul 2022 12:15:35 +0000",
+         "title" : "Warsaw Chess Festival - Najdorf Memorial 2022 concluded"
+      },
+      {
          "description" : "The national junior and senior chess championships have concluded in Saint Louis, with 15-year-old GM Christopher Yoo taking home the 2022 U.S. Junior Championship, 20-year-old FM/WGM Jennifer Yu winning the 2022 U.S. Girls' Junior Championship, and U.S. Chess Hall-of-Famer GM Alex Shabalov beating out a field that included five other hall-of-fame inductees to become the 2022 U.S. Senior Champion. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,14 +202,6 @@ news_feed (
          "title" : "Vladimir Kramnik drops out from Dortmund Chess Festival 2022"
       },
       {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival. Follow the first round of the Deutschland Grand Prix live with expert commentary, starting at 15.00 CEST on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Mon, 18 Jul 2022 14:55:00 +0100",
-         "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
-      },
-      {
          "description" : " The details of the 2022 Asian Youth Championship have been announced, and is what will surely be a popular venue for Australian players, Bali is the host. It runs from the 13th - 22nd October and has sections for U18,16,14,12,10, and U8 (Open and Girls). As with all continental junior events, there are FIDE titles on offer for the winners and place getters, as well as medals. Given the cost of airfares between Australia and Bali, this may be one Asian event where a large number of Australian players take part. Further details can be found at the event website <a data-saferedirecturl=\"https://www.google.com/url?q=https://asianyouth2022bali.com/&amp;source=gmail&amp;ust=1658227594551000&amp;u",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -184,22 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r1",
          "pubDate" : "Mon, 18 Jul 2022 12:00:00 +0100",
          "title" : "All decisive results to kick off the Deutschland Grand Prix"
-      },
-      {
-         "description" : "The 30th edition of the&#160;Heart of Finland Chess Open / Nordic Open Chess Championship takes place from 18-24 July 2022 in Jyv&#xE4;skyl&#xE4; marking the&#160;100th anniversary of the Finnish Chess Federation. The event features two separate competitions: Open and Seniors, played in 9 rounds, swiss system, with time control: 90 min/40 moves + 30min + 30sec/move. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/30th-heart-of-finland-chess-open-nordic-open-chess-championship-live/",
-         "pubDate" : "Mon, 18 Jul 2022 10:10:50 +0000",
-         "title" : "30th Heart of Finland Chess Open / Nordic Open Chess Championship - LIVE"
-      },
-      {
-         "description" : "The 2022 Canadian Open Chess Championship&#xA0;took place 11 &#x2013; 17 July at the Hillfield Strathallan College, Hamilton, Ontario. Nearly 250 players fought for the total prize fund of 26.000$ over 9 swiss rounds, including the top seeded: GM Victor Mikhalevski,&#xA0;GM Mark Paragua,&#xA0;GM Razvan Preotu, and&#xA0;GM Aman Hambleton.&#xA0; IM Nikolay Noritsyn and IM Shawn Rodrigue-Lemieux tied []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-nikolay-noritsyn-and-im-shawn-rodrigue-lemieux-are-canadian-open-co-champions/",
-         "pubDate" : "Mon, 18 Jul 2022 09:50:19 +0000",
-         "title" : "IM Nikolay Noritsyn and IM Shawn Rodrigue-Lemieux are Canadian Open co-champions"
       },
       {
          "description" : "Levon Aronian beat Wei Yi in the finals of the FTX Road to Miami online tournament. By reaching the finals, both Aronian and Wei gained a ticket to the upcoming FTX Crypto Cup in Miami, where the players will meet in-person but will play their games online from individual computers.",
@@ -360,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
          "pubDate" : "Sun, 17 Jul 2022 06:35:00 +0100",
          "title" : "FTX Road to Miami: Live"
-      },
-      {
-         "description" : "After beating Nodirbek Abdusattorov with black on Friday, Le Quang Liem regained the lead in the standings of the GM Triathlon. The third round of the classical section kicks off Saturday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Sun, 17 Jul 2022 05:55:00 +0100",
-         "title" : "Biel Chess Festival - Blitz!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Jennifer Yu takes on Thalia Cervantes as part of the blitz round robin in the playoffs in the Girls&#039; Junior Championship. This ended up being the final game in the field. 2022.07.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-girls-junior-championship-blitz-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DHTbOoHvar0.jpg?itok=ulYR1f",
@@ -1602,14 +1634,6 @@ news_feed (
          "title" : "Akshaya, Lankan Tamil with roots in Jaffna, looks to shine for England team"
       },
       {
-         "description" : "In the previous part of The Winning Academy, we have distinguished between four very different modes of defence: creating a fortress, playing for a counterattack, simplifying into a holdable endgame, and organizing a sabotage act. In this follow-up part, I would like to show you how important and practical this distinction actually is. When defending, you should keep all four modes in mind and be flexible in choosing the most suitable. | Photo: Garry Kasparov | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-12-defensive-tragedies",
-         "pubDate" : "Wed, 06 Jul 2022 18:00:00 +0100",
-         "title" : "The Winning Academy 12: Defensive Tragedies"
-      },
-      {
          "description" : " Ian Nepomniachtchi had already secured first place in the FIDE Candidates tournament in Madrid with a round to spare. Nepomniachtchi avoided defeat in the final round when he drew with black against Jan-Krzysztof Duda in a Petroff variation he hadn't expected. Nepomniachtchi had to work hard to remember his preparation which certainly ran up to 15...a5!? after that Nepomniachtchi may have been a bit better but the players started to steer towards a draw a few moves later and they only had one bishop between them on move 48. Thus Nepomniachtchi finished the event undefeated and with a modern record score of 9.5/14. Afterwards Nepomniachtchi revealed his stellar if not especially surprising t",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2138,14 +2162,6 @@ news_feed (
          "title" : "WSTCC 2022 - updated 29/6/22!"
       },
       {
-         "description" : " IM Nestor Tomas Velez BetancourtMay 5th, 1956 June 28, 2022 It is with regret that The Chess Drum announces the passing of Cuban International Master Nestor Velez. According to social media sources, he passed away this afternoon. Correspondence International Master MI Jos&eacute; Guillermo De La Rosa Sol&oacute;rzano sent the following message to The Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/\">IM Nestor Velez passes away</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/06/28/im-nestor-velez-passes-away/",
-         "pubDate" : "Wed, 29 Jun 2022 03:59:21 +0000",
-         "title" : "IM Nestor Velez passes away"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2168,22 +2184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/announcing-chessfest-2022",
          "pubDate" : "Tue, 28 Jun 2022 17:00:00 +0100",
          "title" : "Announcing ChessFest 2022"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg\" data-image-dimensions=\"1287x701\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62bb0a4ac73bad3727036eff\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/196a0289-1dcc-4504-821e-3dfab0ed4a00/IrinaB.final.jpg?format=1000w\" /> </figure> <p class=\"\"><br> <p class=\"\">IM Irina Bulmaga is a <a href=\"https://www.chessable.com/author/IrinaBu/\"><span>Chessable Author</span></a>, a writer, a 5 time chess Olimpian, and ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/6/28/ep-285-im-irina-bulmaga-on-her-new-chess-training-regimen-the-best-open-tournaments-in-europe-and-her-current-chess-goals",
-         "pubDate" : "Tue, 28 Jun 2022 14:06:26 +0000",
-         "title" : "EP 285- IM Irina Bulmaga on her New Chess Training Regimen, the best Open Tournaments in Europe, and her Current Chess Goals "
-      },
-      {
-         "description" : " I am running lots of schools events during the last few weeks of the school term in Canberra, and I am very fortunate to have a number of chess coaches and teachers helping me out on the day. As an arbiter my main role is dealing with illegal moves, and adding two minutes to the opponents clock (NB Kids are very good at spotting when their opponents king is in check, not so good in seeing if their own king is attacked). One event got off to a particularly spectacular start where each of the top 4 games had an illegal move played within the first 2 minutes. However there were some extra special rulings I had to make, above and beyond the usual. In one game a player had just a king versus the",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/06/more-adventures-in-school-arbiting.html",
-         "pubDate" : "Tue, 28 Jun 2022 13:11:00 +0000",
-         "title" : "More adventures in school arbiting"
       }
    ]
 }
