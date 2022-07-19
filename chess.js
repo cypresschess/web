@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Kateryna Lagno overcame GM Humpy Koneru in their quarterfinal match in the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Tuesday. Koneru led the match with convincing play through the 5+1 segment. Entering the 3+1 portion, Lagno great...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-lagno-koneru",
+         "pubDate" : "Tue, 19 Jul 2022 13:15:32 -0700",
+         "title" : "The Art Of The Comeback: Lagno Outfights Koneru"
+      },
+      {
          "description" : "The 1000 GM/IM St. Louis Norm Tournaments will take place from 19-23 July in Saint Louis, Missouri. Both IM and GM events will be played in 9 rounds, round-robin system. The time control will be: 90 minutes + 30 seconds increment. The field of the Grandmaster tournament is led by GM Dragun Kamil, GM Vladimir []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/1000-st-louis-gm-im-tournaments/",
          "pubDate" : "Tue, 19 Jul 2022 18:16:15 +0000",
          "title" : "1000 GM/IM St. Louis Tournaments"
+      },
+      {
+         "description" : " The SuperUnited Rapid & Blitz starts on 20th July and runs through until the 25th July. Magnus Carlsen, Alireza Firouzja, Ian Nepomniachtchi, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez, Jorden Van Foreest, Ivan Saric and Veselin Topalov. Play in this rapid and blitz tournament as part of the Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2022",
+         "pubDate" : "Tue, 19 Jul 2022 22:06:00 +0400",
+         "title" : "SuperUnited Rapid & Blitz 2022 - Games and Results"
       },
       {
          "description" : "Fifty years ago, after the disaster he suffered in game one, Bobby Fischer was on the verge of abandoning the entire event and returning home. The challenger continued his vigorous protest, and when his demands were not met, Fischer did not turn up for game two. He was forfeited and the score was 0-2. Bobby booked a flight back to New York, but practically at the very last moment decided to play game three - in an isolated ping-pong room!",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Karjakin suggests the creation of a parallel International Chess Federation if Baryshpolets wins"
       },
       {
-         "description" : " In less than two weeks, the 2022 Chess Olympiad will open in Chennai, India after surviving the worst of a pandemic. India was one of the countries hit the hardest and officials will be on alert to ensure health and safety. With a handful of days left for the Chess Olympiad, the crazy for the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/\">2022 Chess Olympiad Preview</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " In less than two weeks, the 2022 Chess Olympiad will open in Chennai, India after surviving the worst of a pandemic. India was one of the countries hit the hardest and officials will be on alert to ensure health and safety. According to chess-results.com, 343 teams (189 teams in Open; 154 teams in Women's) from The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/\">2022 Chess Olympiad Preview</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/",
@@ -1474,14 +1490,6 @@ news_feed (
          "title" : "Tan Takes Down Shuvalova: 'Tan Was Just Impenetrable'"
       },
       {
-         "description" : "Chess.com is excited to announce that you can now find and use the best chess-related reaction GIFs on every major social media platform. Just search for &#34;chesscom&#34; on your favorite platforms and check out all the great reaction GIFs featuring you...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-reaction-gifs",
-         "pubDate" : "Fri, 08 Jul 2022 11:20:00 -0700",
-         "title" : "Use These Chess GIFs Anywhere Online"
-      },
-      {
          "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2176,14 +2184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Seniors/#new_tab",
          "pubDate" : "Wed, 29 Jun 2022 07:00:24 +0000",
          "title" : "WSTCC 2022 - updated 29/6/22!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1836",
-         "pubDate" : "Tue, 28 Jun 2022 21:03:13 +0000",
-         "title" : "WSCC 2022: Valentina Gunina cruises into quarterfinals"
       }
    ]
 }
