@@ -66,7 +66,7 @@ news_feed (
          "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 1"
       },
       {
-         "description" : " Magnus CarlsenPhoto by David Llada Just over three hours ago, an announcement was made that Magnus Carlsen will not defend his title against Ian Nepomniachtchi, who recently won the right to challenge him. Twitter exploded after the news came out on chess24 about his decision. After successfully defending his title for the 5th time, he The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/\">Magnus Carlsen will NOT defend title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Magnus CarlsenPhoto by David Llada Just over three hours ago, an announcement was made that Magnus Carlsen will not defend his title against Ian Nepomniachtchi, who recently won the right to challenge him. Twitter exploded after the news came out on chess24 about his decision. After successfully defending his title for the 4th time, he The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/\">Magnus Carlsen will NOT defend title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/",
@@ -2192,14 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1839",
          "pubDate" : "Thu, 30 Jun 2022 09:38:47 +0000",
          "title" : "FIDE World Senior Team Championship 2022: England wins golden double"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1838",
-         "pubDate" : "Wed, 29 Jun 2022 22:20:13 +0000",
-         "title" : "2022 Candidates, Round 10: A major setback for Caruana, Nepomniachtchi pushes forward"
       }
    ]
 }
