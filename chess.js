@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1837",
          "pubDate" : "Wed, 29 Jun 2022 08:16:11 +0000",
          "title" : "IX IBCA World Team Chess Championship kicks off in Ohrid, North Macedonia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/#new_tab",
-         "pubDate" : "Wed, 29 Jun 2022 07:00:24 +0000",
-         "title" : "WSTCC 2022 - updated 29/6/22!"
       }
    ]
 }
