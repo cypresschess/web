@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1871",
+         "pubDate" : "Wed, 20 Jul 2022 11:25:29 +0000",
+         "title" : "Lagno overcomes Koneru to reach semifinals"
+      },
+      {
+         "description" : " <p class=\"lead\">Magnus Carlsen, the World Chess Champion, will not defend his title in 2023. Undefeated Magnus Carlsen was supposed to face Ian Nepomniachtchi again in the next World Chess Championship Match. Due to the refusal, the title will be contested by Nepo and Chinese GM Ding Liren, who finished second in the Candidates Tournament 2022. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20_13-54-30.jpg\" width=\"1200\" height=\"768\" alt=\"\" /> </div> Magnus Carlsen announced it on the <a href=\"https://podcasts.apple.com/ru/podcast/trip-to-las-vegas-wsop-world-chess-championship-and/id1635327043?i=1000570570229\">\"Magnus Effect\" podcast</a>. \"I was i",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/",
+         "pubDate" : "Wed, 20 Jul 2022 10:35:47 +0000",
+         "title" : "Carlsen Will Give Up His Title, Will Not Defend in 2023"
+      },
+      {
+         "description" : "GM Magnus Carlsen will not defend his world championship title against GM Ian Nepomniachtchi next year. Carlsen said this in a podcast on Tuesday. According to current regulations, FIDE Candidates Tournament winner Nepomniachtchi will now play the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-not-to-defend-chess-world-title",
+         "pubDate" : "Wed, 20 Jul 2022 03:30:00 -0700",
+         "title" : "BREAKING: Carlsen Not To Defend World Title"
+      },
+      {
+         "description" : "It&#38;rsquo;s that time again! July 20 marks International Chess Day, recognizing the anniversary of the International Chess Federation (FIDE) being founded on this day in 1924. To celebrate, we&#38;rsquo;ve planned a few special activities to make the d...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-international-chess-day",
+         "pubDate" : "Wed, 20 Jul 2022 03:23:52 -0700",
+         "title" : "Announcing Special Events To Celebrate International Chess Day 2022"
+      },
+      {
+         "description" : "Magnus Carlsen has declined to defend his FIDE World Champion title. The news was announced by Carlsen himself in a sponsor's podcast. &#8220;I have informed my team, FIDE and Ian [Nepomniachtchi] that I will not play the upcoming World Championship match in classical chess&#8221;, says Carlsen and adds that &#8220;I am not motivated to play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/breaking-magnus-carlsen-will-not-defend-his-world-champion-title/",
+         "pubDate" : "Wed, 20 Jul 2022 10:20:34 +0000",
+         "title" : "BREAKING: Magnus Carlsen will not defend his World Champion title (VIDEO)"
+      },
+      {
+         "description" : "5-time World Chess Champion Magnus Carlsen today ended months of speculation by announcing he will not defend his title. The 31-year-old Norwegian is not retiring and vows \"to be the best in the world, and not care about the World Championship!\" That means Chinese world no. 2 Ding Liren's last-round Candidates Tournament win against Hikaru Nakamura has earned him a lucrative match against Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title",
+         "pubDate" : "Wed, 20 Jul 2022 10:16:00 +0000",
+         "title" : "Magnus Carlsen to give up World Championship title"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> On <strong>International Chess Day</strong> <strong>Magnus Carlsen</strong> <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title?utm_source=Leon%20Media%20Contacts%20EN&amp;utm_campaign=b2286f37cc-EMAIL_CAMPAIGN_2021_09_03_COPY_01&amp;utm_medium=email&amp;utm_term=0_3c9d742802-b2286f37cc-163355110&amp;mc_cid=b2286f37cc&amp;mc_eid=de7d6b1e08\">announced</a> that he will not defend the world championship and stresses that he is not retiring as a professional player. He shared this intention in a meeting with <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> and FIDE General Director <strong>Emil Sutovsky<",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsen-not-to-defend-title/",
+         "pubDate" : "Wed, 20 Jul 2022 11:03:54 +0100",
+         "title" : "Carlsen not to defend title"
+      },
+      {
+         "description" : "The third tournament of the Grand Chess Tour 2022 series&#160;starts today and will be played in Westin Zagreb from July 19-24.&#160;The SuperUnited Rapid &#38; Blitz Croatia&#160;is sponsored by the Superbet Foundation and includes 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. Ten world-class grandmasters participate in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-croatia-2022-pairings-live/",
+         "pubDate" : "Wed, 20 Jul 2022 09:49:00 +0000",
+         "title" : "Grand Chess Tour Croatia 2022 - Pairings & LIVE games"
+      },
+      {
+         "description" : "The 1000 GM/IM St. Louis Norm Tournaments&#160;take from 19-23 July in Saint Louis, Missouri. Both IM and GM events will be played in 9 rounds, round-robin system. The time control will be: 90 minutes + 30 seconds increment. GM Dragun Kamil,&#160;GM Vladimir Belous&#160;and&#160;FM Andy Woodward&#160;&#x2013;&#160;the top U12 player in the world are headlining the Grandmaster []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000-gm-im-st-louis-tournaments-live/",
+         "pubDate" : "Wed, 20 Jul 2022 09:47:42 +0000",
+         "title" : "1000 GM/IM St. Louis Tournaments LIVE"
+      },
+      {
+         "description" : "The 2022 Amsterdam Science Park Chess Tournaments take place from 18-24 July at the USC Universum Sports and Fitness Center Amsterdam, Netherlands. The event features three 9-round swiss system tournaments: A (for players rated 1900+), B (for players rated 1600-1950) and C (for players rated U1650). The total prize fund of the events is 5.000 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/amsterdam-science-park-chess-tournaments-2022/",
+         "pubDate" : "Wed, 20 Jul 2022 09:40:23 +0000",
+         "title" : "Amsterdam Science Park Chess Tournaments 2022"
+      },
+      {
+         "description" : "After the&#xA0;European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the&#xA0;European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. Live games from U14, U16 and U18 categories (open and girls sections) can be followed live on Chessdom.com.Read []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-rapidblitz-chess-championships-2022-live/",
+         "pubDate" : "Wed, 20 Jul 2022 09:23:20 +0000",
+         "title" : "European Youth Rapid&Blitz Chess Championships 2022 LIVE"
+      },
+      {
+         "description" : "The $175,000 SuperUnited Rapid &amp; Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nepomniachtchi-in-zagreb-gct-opening-game",
+         "pubDate" : "Wed, 20 Jul 2022 09:04:08 +0000",
+         "title" : "Carlsen-Nepomniachtchi in Zagreb GCT opening game"
+      },
+      {
+         "description" : "The third tournament and the midway point of the&#xA0;Grand Chess Tour&#xA0;starts today and takes place at the Westin Zagreb from July 19-24. The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet Foundation and will include 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. The field []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-ian-nepomniachtchi-in-the-1st-round-of-grand-chess-tour-croatia/",
+         "pubDate" : "Wed, 20 Jul 2022 08:32:21 +0000",
+         "title" : "Magnus Carlsen vs Ian Nepomniachtchi in the 1st round of Grand Chess Tour Croatia"
+      },
+      {
+         "description" : "International Chess Federation (FIDE) was founded on 20th July in 1924 in Paris, under the motto &#x201C;Gens una Sumus&#x201D; (Latin for &#x201C;We are one Family&#x201D;). Today, FIDE celebrates the 98th birthday anniversary and the whole World celebrates the&#xA0;International Chess Day! Three years ago, on 12 December 2019, the&#xA0;General Assembly of the United Nations&#xA0;proclaimed&#xA0;20 July as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/happy-international-chess-day-2/",
+         "pubDate" : "Wed, 20 Jul 2022 07:58:13 +0000",
+         "title" : "Happy International Chess Day!"
+      },
+      {
+         "description" : "After the European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. The Rapid Championship will be played in 6 age categories: U8, U10, U12, U14, U16, and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-rapidblitz-chess-championship-2022-starts/",
+         "pubDate" : "Wed, 20 Jul 2022 07:03:00 +0000",
+         "title" : "European Youth Rapid&Blitz Chess Championship 2022 starts"
+      },
+      {
          "description" : "With their victories today, Lê Quang Liêm and Andrey Esipenko climbed to first and second places in the Biel Grandmaster Triathlon. Esipenko defeated former leader Gukesh, while Lê prevailed against Keymer. There was also a change of leader in the Ladies' Quadriathlon, with France's Margaux Moracchini taking the lead for the first time. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,28 +202,12 @@ news_feed (
          "title" : "World Number 1 Woman Player Close To Perfect Against Yip"
       },
       {
-         "description" : "The International Open Chess Tournament &#8220;Svetozar Gligoric Memorial&#8221; kicked off Sunday, July 17th in Belgrade, Serbia. The event is played in two categories: Masters (for players rated 2100+) and Amateurs (for players rated U2200) with participation of more than 300 players from 40 countries. Both tournaments are played in 9 rounds, swiss system, with a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/svetozar-gligoric-memorial-running-in-belgrade/",
-         "pubDate" : "Tue, 19 Jul 2022 15:47:10 +0000",
-         "title" : "Svetozar Gligoric Memorial running in Belgrade"
-      },
-      {
          "description" : "In rook endings checks are often a major defensive weapon. So it is important for the attacking king to find shelter. In the diagrammed position, it is White to move and win. How should he proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gimme-shelter",
          "pubDate" : "Tue, 19 Jul 2022 16:15:19 +0100",
          "title" : "Gimme shelter"
-      },
-      {
-         "description" : "Sergey Karjakin is currently playing his first event after he received a 6 months ban from participating in FIDE events. Karjakin competes in a closed round-robin event in a field of four participants who in higher or lesser extent supported the Russian invasion of Ukraine. In a short interview for the Russian News Agency TASS, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-suggests-the-creation-of-a-parallel-international-chess-federation-if-baryshpolets-wins/",
-         "pubDate" : "Tue, 19 Jul 2022 15:11:45 +0000",
-         "title" : "Karjakin suggests the creation of a parallel International Chess Federation if Baryshpolets wins"
       },
       {
          "description" : " In less than two weeks, the 2022 Chess Olympiad will open in Chennai, India after surviving the worst of a pandemic. India was one of the countries hit the hardest and officials will be on alert to ensure health and safety. According to chess-results.com, 343 teams (189 teams in Open; 162 teams in Women's) from The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/\">2022 Chess Olympiad Preview</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -130,14 +234,6 @@ news_feed (
          "title" : "EP 288- GM Peter Heine Nielsen Takes us Behind the Scenes of the 2012 Anand-Gelfand World Championship match "
       },
       {
-         "description" : "The 2022 Warsaw Chess Festival&#160;was held from July 8 to July 17 at the Warsaw sports hall. The Festival featured Jan Maciej&#x2019;s Memorial in blitz chess and Mieczys&#x142;aw Najdorf Memorial in classic chess which was played in two categories: A and B. The total prize fund of the events was 60.000 PLN (~12.500 euros), with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/warsaw-chess-festival-najdorf-memorial-2022-concluded/",
-         "pubDate" : "Tue, 19 Jul 2022 12:15:35 +0000",
-         "title" : "Warsaw Chess Festival - Najdorf Memorial 2022 concluded"
-      },
-      {
          "description" : "The national junior and senior chess championships have concluded in Saint Louis, with 15-year-old GM Christopher Yoo taking home the 2022 U.S. Junior Championship, 20-year-old FM/WGM Jennifer Yu winning the 2022 U.S. Girls' Junior Championship, and U.S. Chess Hall-of-Famer GM Alex Shabalov beating out a field that included five other hall-of-fame inductees to become the 2022 U.S. Senior Champion. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,22 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
          "pubDate" : "Tue, 19 Jul 2022 13:00:00 +0100",
          "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
-      },
-      {
-         "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/poland-claims-triple-gold-at-european-youth-team-chess-championship-2022/",
-         "pubDate" : "Tue, 19 Jul 2022 09:51:04 +0000",
-         "title" : "Poland claims triple gold at European Youth Team Chess Championship 2022"
-      },
-      {
-         "description" : "The 11th IBCA World Women&#x2019;s and Junior Chess Championships for the Blind and Visually Impaired, organized by the IBCA, the French Blind Chess Association, and the Maison d&#x2019;&#xC9;checs de Toulouse Lardenne, chief organizer Mr. Laurent Kruk, took place in Castelnaudary, France, from July 10-18, 2022. The participants, representing 18 federations from three continents, used specialized []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ibca-world-womens-and-junior-chess-champions-crowned-in-france/",
-         "pubDate" : "Tue, 19 Jul 2022 09:03:14 +0000",
-         "title" : "IBCA World Women's and Junior Chess Champions crowned in France"
       },
       {
          "description" : "After Vladimir Kramnik had to pull out at short notice due to health reasons, the official opening move of the No-Castling World Masters of the 49th International Dortmund Chess Days took place on the board of Michael Adams and Daniel Fridman. Adams beat Fridman to grab the early lead. | Photos: Michelle Lassak",
@@ -234,28 +314,12 @@ news_feed (
          "title" : "Nepo joins the elite Two Plus Club"
       },
       {
-         "description" : "The 27th edition of the annual Pacific Coast Chess Open&#xA0;was played 15-17 July at the Los Angeles Airport Hilton and featured six rating sections: Premier (2000+), U2100, U1900, U1700, U1500 and U1200, with a guaranteed prize fund of 25.000$. GM Arman Mikaelyan who recently clinched silver at the 50th World Open lifted the trophy of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-arman-mikaelyan-wins-27th-pacific-coast-premier-open-scoring-perfect-6-6/",
-         "pubDate" : "Mon, 18 Jul 2022 17:27:02 +0000",
-         "title" : "GM Arman Mikaelyan wins 27th Pacific Coast Premier Open scoring perfect 6/6"
-      },
-      {
          "description" : "Arne and Karsten look at a number of deep pawnless endgames. The attacker usually needs an extra rook to get a sure win. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-203-arne-kaehler",
          "pubDate" : "Mon, 18 Jul 2022 18:00:00 +0100",
          "title" : "Endgame Magic #203 with Arne K&auml;hler: The last pawn"
-      },
-      {
-         "description" : "The 27th edition of the annual Bradley Chess Open&#xA0;took place 15-17 July at Sheraton Hartford Hotel at Bradley Airport, Windsor Locks, Connecticut. The event was played in 5 sections: Major (for players rated 1900+), Under 2100, Under 1800, Under 1500 and Under 1200, with a guaranteed prize fund of 15.000$. The top seeds of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-top-seeds-live-up-to-expectations-at-the-27th-annual-bradley-chess-open/",
-         "pubDate" : "Mon, 18 Jul 2022 16:46:38 +0000",
-         "title" : "The top seeds live up to expectations at the 27th annual Bradley Chess Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92962380.cms\" />Much like any sporting discipline, chess too requires its players to have physical and mental toughness. In a bid to keep the players in the best possible shape during the tournament, the England women's team that arrives for the chess Olympiad --- starting on July 28 --- will be armed with their performance coach Benjamin Portheault.",
@@ -1194,14 +1258,6 @@ news_feed (
          "title" : "Chidobe Awuzie Takes Revenge On Amari Cooper, Wins BlitzChamps 2022"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE Presidential candidates <strong>Arkady Dvorkovich</strong> and <strong>Bachar Kouatly</strong> were <a href=\"https://www.facebook.com/forzeti/posts/pfbid027ARTNkEwGj5Rn8h9oWTFJYjjZsTCV7WAtoYue7A6CjBgH6GZe2MYWxPG9B2wZj6sl\">received in Koningsvinger near Oslo</a> at a meeting of the <strong>Nordic Chess Federations</strong> while <strong>Andrii Baryshpolets</strong> and <strong>Peter Heine Nielsen</strong> connected online to present their programmes and answer questions, whereas <strong>Inalbek Sheripov</strong> didn't participate. Nielsen followed up with <a href=\"https://medium.com/@peterheineisland/fide-should-be-apolitical-and-global-df8be83",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nordic-federations-quiz-candidates/",
-         "pubDate" : "Mon, 11 Jul 2022 14:07:15 +0100",
-         "title" : "Nordic federations quiz candidates"
-      },
-      {
          "description" : "On Sunday, the 55th Chess Festival Biel opened in the Congress Centre in Biel. To kick things off, the Chinese top grandmaster Yu Yangyi gave a simul. Today the GM Triathlon begins with the Fischerrandom Tournament, at 13:00 local time (7:00 ET, 11:00 UTC). Three of the world's best U18-players start: V. Keymer, N. Abdusattorov, and D. Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1410,14 +1466,6 @@ news_feed (
          "title" : "Chess 1500"
       },
       {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Oleksandr Bortnyk won week 20 of the Rapid Chess Championship&#38;nbsp;presented by Coinbase, starting the tournament with a 5-0 winning streak. Par...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-20-swiss",
-         "pubDate" : "Sat, 09 Jul 2022 18:07:00 -0700",
-         "title" : "Bortnyk Wins Week 20 Swiss Heading Into Knockout: Summary Report"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1480,14 +1528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-miami-2022-preview",
          "pubDate" : "Fri, 08 Jul 2022 22:00:00 +0100",
          "title" : "Starting Sunday: FTX Road to Miami online tournament"
-      },
-      {
-         "description" : "GM Tan Zhongyi defeated IM Polina Shuvalova&#38;nbsp;in their round of 16 match of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. Tan&#39;s solid play, board awareness, and speed proved to be too impervious even for Shuvalova&#39;s excell...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-wscc-round-of-16-tan-shuvalova",
-         "pubDate" : "Fri, 08 Jul 2022 11:39:53 -0700",
-         "title" : "Tan Takes Down Shuvalova: 'Tan Was Just Impenetrable'"
       },
       {
          "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2122,22 +2162,6 @@ news_feed (
          "title" : "FIDE World Senior Team Championship 2022: England wins golden double"
       },
       {
-         "description" : "Ian Nepomniachtchi now has a mammoth 1.5-point lead with just four rounds of the FIDE Candidates to go after making a draw in Round 10, while Fabiano Caruana self-destructed against Jan-Krzysztof Duda and was caught by both Hikaru Nakamura, who beat Alireza Firouzja, and Ding Liren, who won a fantastic game against Richard Rapport.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-10-caruana-caught-by-ding-and-nakamura",
-         "pubDate" : "Thu, 30 Jun 2022 08:39:25 +0000",
-         "title" : "Madrid Candidates 10: Caruana caught by Ding and Nakamura"
-      },
-      {
-         "description" : "In the first round of the 2022 French League, the young FM Floryan Eugène played one of the most incredible swindles in chess history based on a stalemate, against GM Jean-Luc Chabanon. I've taken the opportunity to review the 10 most amazing stalemates ever played. 24 For once, I will proceed in chronological order. 1. Troitsky vs. Vogt, 1896 In a desperate position, the legendary study composer managed to save himself by showing all of his creativity over the board. 1 Who else than a genius composer could have imagined White getting stalemated in 3 moves, despite ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-10-most-incredible-stalemate-in-chess-history",
-         "pubDate" : "Thu, 30 Jun 2022 08:37:04 +0000",
-         "title" : "The 10 Most Incredible Stalemates in Chess History"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2146,36 +2170,12 @@ news_feed (
          "title" : "2022 Candidates, Round 10: A major setback for Caruana, Nepomniachtchi pushes forward"
       },
       {
-         "description" : " <p class=\"lead\">Round 10 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with 3 decisive games, and a 3-way tie for 2nd place with Caruana, Nakamura and Ding Liren. Nepomniachtchi still remains at the top with a +1.5 lead. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-8.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733367_840aa095a1_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52180733412_d27068b305_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepomniachtchi-leads-the-2022-candidates-with-1-5-after-round-10/",
-         "pubDate" : "Wed, 29 Jun 2022 18:35:26 +0000",
-         "title" : "Nepomniachtchi leads the 2022 Candidates with +1.5 after Round 10"
-      },
-      {
          "description" : " Ian Nepomniachtchi was the first to finish in Round 10 of the 14 round FIDE Candidates tournament in Madrid. Nepomniachtchi didn't push very hard with the white pieces against Teimour Radjabov and the game was drawn in 37 moves. Nepomniachtchi probably already knew by that point that his closest challenger Fabiano Caruana was going to lose and his lead would be extended to 1.5 points. With just four rounds to go four draws is all but certain to win the event for Nepomniachtchi, he may even be able to afford a loss. Fabiano Caruana's tournament has just fallen apart, he's spent the most time at the board and played the most moves. He just looks dog tired and today he played a sharp and risky",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-practically-guaranteed-candidates-victory-after-10-rounds-the-battle-for-second-place-is-on",
          "pubDate" : "Wed, 29 Jun 2022 20:56:00 +0400",
          "title" : "Nepomniachtchi practically guaranteed Candidates victory after 10 rounds, the battle for second place is on - 10"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1835",
-         "pubDate" : "Wed, 29 Jun 2022 09:05:05 +0000",
-         "title" : "FIDE adopts a new system for the Women's Candidates 2022-23"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1837",
-         "pubDate" : "Wed, 29 Jun 2022 08:16:11 +0000",
-         "title" : "IX IBCA World Team Chess Championship kicks off in Ohrid, North Macedonia"
       }
    ]
 }
