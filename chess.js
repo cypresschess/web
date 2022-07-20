@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93010970.cms\" />'World Chess Day' was celebrated on Wednesday with the unveiling of the official stamp of the 44th Chess Olympiad in the presence of a distinguished gathering at a city hotel in New Delhi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-stamp-unveiled-to-celebrate-world-chess-day/articleshow/93010970.cms",
+         "pubDate" : "Wed, 20 Jul 2022 15:04:24 +0000",
+         "title" : "Chess Olympiad Stamp unveiled to celebrate 'World Chess Day'"
+      },
+      {
+         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
+         "pubDate" : "Wed, 20 Jul 2022 14:55:00 +0100",
+         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
+      },
+      {
+         "description" : "With a day's delay due to the change in the field of participants, defending champion Vishy Anand played his first game on Tuesday at the NC World Masters 2022. With Black, he drew round-1's winner Michael Adams. The second game in the NC World Masters offered everything one could expect from this chess variation, as both kings were under fire throughout the game. In the end, Daniel Fridman prevailed over Dmitrij Kollars. Follow | Follow today's action live with expert commentary! | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r3",
+         "pubDate" : "Wed, 20 Jul 2022 14:50:00 +0100",
+         "title" : "NC World Masters: Anand draws, Fridman scores"
+      },
+      {
+         "description" : "Ending months of speculation, Magnus Carlsen has officially announced he will not be defending his title in a rematch against Ian Nepomniachtchi come the end of 2022. As a result, the second-place winner of the 2022 Candidates Tournament, Ding Liren, will face the Russian to determine the new World Champion. (Photo: Albert Silver)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-news-magnus-carlsen-won-t-defend-his-title-2",
+         "pubDate" : "Wed, 20 Jul 2022 14:30:00 +0100",
+         "title" : "Breaking News: Magnus Carlsen won't defend his title!"
+      },
+      {
+         "description" : " <p class=\"lead\">And yes, it's true! What the chess world was expecting, but hoping it didn't happen, struck us on the International Chess Day. The reigning World Champion Magnus Carlsen decided not to defend his World Chess Championship Title in 2023 against the Challenger Ian Nepomniachtchi, and - as expected - Twitter is on fire. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20-15.55.41.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> \"I've been thinking about this decision for a long time, more than a year and a half. I spoke with people from my team, with FIDE, with Ian. It's very simple. I am not motivated to play another match.\" Carlsen sta",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-first-reactions-of-carlsens-withdrawal-from-the-wcc-title/",
+         "pubDate" : "Wed, 20 Jul 2022 13:28:41 +0000",
+         "title" : "The first reactions of Carlsen's withdrawal from the WCC title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1872",
+         "pubDate" : "Wed, 20 Jul 2022 13:04:52 +0000",
+         "title" : "Statement by FIDE President Arkady Dvorkovich regarding Magnus Carlsen's intentions to not defend his title"
+      },
+      {
+         "description" : "Gukesh is leading the tournament standings at the Grandmaster Triathlon in Biel. On Sunday, Gata Kamsky was the top scorer in the blitz section of the event. | The fourth round of the classical section kicks off Tuesday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Wed, 20 Jul 2022 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Wed, 20 Jul 2022 13:55:00 +0100",
+         "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1869",
+         "pubDate" : "Wed, 20 Jul 2022 12:01:13 +0000",
+         "title" : "International Chess Day 2022"
+      },
+      {
+         "description" : "The 10th edition of the 2022 Amsterdam Science Park Chess Tournaments takes place from 18-24 July at the USC Universum Sports and Fitness Center Amsterdam, Netherlands. The event features three 9-round swiss system tournaments: A (for players rated 1900+), B (for players rated 1600-1950) and C (for players rated U1650), with participation of more than []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/amsterdam-science-park-chess-tournaments-2022-live/",
+         "pubDate" : "Wed, 20 Jul 2022 11:52:00 +0000",
+         "title" : "Amsterdam Science Park Chess Tournaments 2022 LIVE"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93006743.cms\" />Magnus Carlsen will not defend his world championship in 2023 against Russia's Ian Nepomniachtchi as he is not motivated to play another match, the Norwegian five-time champion said in a podcast on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-will-not-defend-world-chess-title-next-year/articleshow/93006743.cms",
+         "pubDate" : "Wed, 20 Jul 2022 11:46:09 +0000",
+         "title" : "Magnus Carlsen will not defend world chess title next year"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,12 +106,12 @@ news_feed (
          "title" : "Carlsen Will Give Up His Title, Will Not Defend in 2023"
       },
       {
-         "description" : "GM Magnus Carlsen will not defend his world championship title against GM Ian Nepomniachtchi next year. Carlsen said this in a podcast on Tuesday. According to current regulations, FIDE Candidates Tournament winner Nepomniachtchi will now play the...",
+         "description" : "GM Magnus Carlsen will not defend his world championship title against GM Ian Nepomniachtchi next year. Carlsen announced his decision on a podcast on Tuesday. According to current regulations, FIDE Candidates tournament winner Nepomniachtchi will...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-not-to-defend-chess-world-title",
          "pubDate" : "Wed, 20 Jul 2022 03:30:00 -0700",
-         "title" : "BREAKING: Carlsen Not To Defend World Title"
+         "title" : "BREAKING: Magnus Carlsen Will Not Defend World Championship Title"
       },
       {
          "description" : "It&#38;rsquo;s that time again! July 20 marks International Chess Day, recognizing the anniversary of the International Chess Federation (FIDE) being founded on this day in 1924. To celebrate, we&#38;rsquo;ve planned a few special activities to make the d...",
@@ -186,14 +274,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The Pirc Defence"
       },
       {
-         "description" : "Researchers of the King's College London conducted a study analyzing data from 79.000 chess games finding that men play 8% longer against women than they would in a same-sex game. The study explains male chess players delay resigning when they play against a Woman to avoid the &#8220;psychological cost&#8221; of losing to a female chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/male-chess-players-delay-resigning-when-playing-against-a-woman-tweetoftheday/",
-         "pubDate" : "Tue, 19 Jul 2022 16:17:06 +0000",
-         "title" : "Male chess players delay resigning when playing against women #TweetOftheDay"
-      },
-      {
          "description" : "The FIDE Chess.com 2022 Women&#39;s Speed Chess Championship continued on Monday with a showdown between the world&#39;s number-one ranked woman player, GM Hou Yifan, against the U.S. women&#39;s chess champion, IM Carissa Yip, which Hou won in a 21.5-5.5 dru...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,14 +322,6 @@ news_feed (
          "title" : "Yu, Shabalov and Yoo win US national championships"
       },
       {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Tue, 19 Jul 2022 13:00:00 +0100",
-         "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
-      },
-      {
          "description" : "After Vladimir Kramnik had to pull out at short notice due to health reasons, the official opening move of the No-Castling World Masters of the 49th International Dortmund Chess Days took place on the board of Michael Adams and Daniel Fridman. Adams beat Fridman to grab the early lead. | Photos: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -288,14 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1870",
          "pubDate" : "Mon, 18 Jul 2022 20:11:36 +0000",
          "title" : "Jerguš Pech&aacute;č awarded the Gligoric Trophy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1869",
-         "pubDate" : "Mon, 18 Jul 2022 19:01:13 +0000",
-         "title" : "International Chess Day 2022"
       },
       {
          "description" : "Like any complicated trade or skill, the growth and legacy of chess is built upon the great learned imparting their wisdom on the next generation of practitioners. To develop up-and-coming chess talents, former world champion GM Garry Kasparov, through his Kasparov Chess Foundation (KCF), has partnered with the Saint Louis Chess Club (SLCC) for the tenth year to host its Young Stars - USA program. | Photo: SLCC",
@@ -1634,14 +1698,6 @@ news_feed (
          "title" : "Poland wins IX IBCA World Team Chess Championship"
       },
       {
-         "description" : "Early this year GM Yuri Averbakh turned 100 and set a world record. He became the oldest ever grandmaster in chess history. Sadly, he passed away in May. Averbakh led a rich and extraordinary life that he narrated himself in his autobiography, \"Centre-stage and Behind the Scenes\". In the series here our columnist draws on this important work and also explains much that was left unsaid. | Photo: Averbakh at the match USA vs. USSR, New York City, 1954 (via D. Griffith)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/averbakh-on-averbakh-ussr-champion-at-home-and-abroad",
-         "pubDate" : "Thu, 07 Jul 2022 22:00:00 +0100",
-         "title" : "Averbakh on Averbakh (3): USSR Champion at home and abroad"
-      },
-      {
          "description" : " Grandmaster Pontus Carlsson took his blitz skills to Czech Republic and Slovakia and won both events by prodigious scores. Not originally known as a &#8220;blitz specialist,&#8221; the Swedish national has competed at the highest levels at the World Rapid and Blitz. In 2018, he scored 8/15 (rapid) and 10.5/21 (blitz) He also competed in the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/07/carlsson-blitzes-field-in-two-tourneys/\">Carlsson blitzes field in two tourneys!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1650,28 +1706,12 @@ news_feed (
          "title" : "Carlsson blitzes field in two tourneys!"
       },
       {
-         "description" : "This week Robert Ris takes a look at the game Ding Liren vs Teimour Radjabov from the second part of the Candidates. Ding Liren finished second in the Candidates but in this game he fell victim to an interesting opening idea by Radjabov and lost quickly. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-quick-losses-with-white",
-         "pubDate" : "Thu, 07 Jul 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Quick losses with White"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1850",
          "pubDate" : "Thu, 07 Jul 2022 15:54:25 +0000",
          "title" : "Koneru narrowly beats Dzagnidze to advance into the quarters"
-      },
-      {
-         "description" : "The Russian rave band \"Little Big\" is known for provocative music videos. In June, the band released the video \"Generation Cancellation\", in which it takes a critical stance on Russia's war against Ukraine, using chess as a metaphor. | Photo: Little Big",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-critical-video-generation-cancellation",
-         "pubDate" : "Thu, 07 Jul 2022 15:23:17 +0100",
-         "title" : "Critical voice: \"Little Big\" and their song \"Generation Cancellation\""
       },
       {
          "description" : " One thing I have noticed with a lot of younger players is the that they have a tendency to collapse in a heap when something goes wrong with their position. It could be something as simple as losing a pawn, or something as dramatic as realising the sacrifice they wanted to play doesn't work (and they then play it anyway). I suspect I probably did the same up until a point in my own career, but the fact that it happens still seems weird. I did benefit from this in a rapid game I played recently. My opponent missed a tactic, possibly because they assumed it wasn't any good (2 pieces for a rook and 2 pawns). However they missed I was picking up a rook and a piece, so it was just a simple win o",
@@ -2136,14 +2176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/it-might-be-all-over.html",
          "pubDate" : "Thu, 30 Jun 2022 14:21:00 +0000",
          "title" : "It might be all over "
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/S-UJVRXK7_8?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-11/",
-         "pubDate" : "Thu, 30 Jun 2022 11:00:00 +0000",
-         "title" : "Watch the FIDE Candidates Tournament 2022: Round 11"
       },
       {
          "description" : "England won three world titles in the World Senior Chess Teams Championships yesterday in Acqui Terme, Italy. England's men won both the World Over 50...",
