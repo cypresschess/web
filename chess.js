@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With their victories today, Lê Quang Liêm and Andrey Esipenko climbed to first and second places in the Biel Grandmaster Triathlon. Esipenko defeated former leader Gukesh, while Lê prevailed against Keymer. There was also a change of leader in the Ladies' Quadriathlon, with France's Margaux Moracchini taking the lead for the first time. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r4",
+         "pubDate" : "Wed, 20 Jul 2022 03:00:00 +0100",
+         "title" : "Biel: Wins for Le, Esipenko and Abusattorov"
+      },
+      {
          "description" : "GM Kateryna Lagno overcame GM Humpy Koneru in their quarterfinal match in the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Tuesday. Koneru led the match with convincing play through the 5+1 segment. Entering the 3+1 portion, Lagno great...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -98,7 +106,7 @@ news_feed (
          "title" : "Karjakin suggests the creation of a parallel International Chess Federation if Baryshpolets wins"
       },
       {
-         "description" : " In less than two weeks, the 2022 Chess Olympiad will open in Chennai, India after surviving the worst of a pandemic. India was one of the countries hit the hardest and officials will be on alert to ensure health and safety. According to chess-results.com, 343 teams (189 teams in Open; 154 teams in Women's) from The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/\">2022 Chess Olympiad Preview</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " In less than two weeks, the 2022 Chess Olympiad will open in Chennai, India after surviving the worst of a pandemic. India was one of the countries hit the hardest and officials will be on alert to ensure health and safety. According to chess-results.com, 343 teams (189 teams in Open; 162 teams in Women's) from The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/\">2022 Chess Olympiad Preview</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
          "pubDate" : "Tue, 19 Jul 2022 13:00:00 +0100",
          "title" : "No-Castling World Masters / Deutschland Grand Prix: Live"
-      },
-      {
-         "description" : "Gukesh is leading the tournament standings at the Grandmaster Triathlon in Biel. On Sunday, Gata Kamsky was the top scorer in the blitz section of the event. | The fourth round of the classical section kicks off Tuesday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Tue, 19 Jul 2022 12:55:00 +0100",
-         "title" : "Biel Chess Festival - Live"
       },
       {
          "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 []",
