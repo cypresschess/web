@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 5 of the classical section saw Gukesh, Le Quang Liem and Nodirbek Abdusattorov scoring wins with the black pieces. Le is in the sole lead with two rounds to go. | The sixth round of the classical section kicks off Friday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Thu, 21 Jul 2022 13:55:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "There were two decisive games in the No-Castling World Masters. Vishy Anand defeated Daniel Fridman and Dmitrij Kollars beat Michael Adams. In the Deutschland Grand Prix, Luke McShane remains in the lead after all three games ended in a draw on Wednesday. In the open tournament, Max Warmerdam and Tornike Sanikidze are sharing the lead. | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r4",
+         "pubDate" : "Thu, 21 Jul 2022 13:45:00 +0100",
+         "title" : "NC World Masters: Anand beats Fridman, Kollars beats Adams"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1873",
+         "pubDate" : "Thu, 21 Jul 2022 11:08:19 +0000",
+         "title" : "Remarkable performances at Chess Olympiads "
+      },
+      {
          "description" : "19-year-old Alireza Firouzja beat Ivan Saric and Veselin Topalov as he took the sole lead on Day 1 of the SuperUnited Rapid and Blitz in Zagreb, Croatia. The day was overshadowed by Magnus Carlsen announcing he wouldn't play the next World Championship match, with Magnus joining Wesley So, MVL and Jorden van Foreest in 2nd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/",
          "pubDate" : "Thu, 21 Jul 2022 05:50:51 +0000",
          "title" : "ECU General Assembly 2022 to be broadcasted live"
+      },
+      {
+         "description" : "While Magnus Carlsen has occupied chess news headlines with his recent decision not to defend his World Championship title, his friend and title contender Ian Nepomniachtchi seems to be on an emotional roller coaster ride. A month ago Nepo entered the Candidates Tournament 2022 with little expectations. Playing the qualification cycle after heavy defeat in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepos-emotional-world-chess-championship-roller-coaster/",
+         "pubDate" : "Thu, 21 Jul 2022 03:04:00 +0000",
+         "title" : "Nepo's emotional World Chess Championship roller coaster"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg\" data-image-dimensions=\"542x327\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d89abeeeb1124b19547338\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM Magnus Carlsen <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title\"><span>has officially announced that he will not defend his Worl",
@@ -194,14 +226,6 @@ news_feed (
          "title" : "Statement by FIDE President Arkady Dvorkovich regarding Magnus Carlsen's intentions to not defend his title"
       },
       {
-         "description" : "Gukesh is leading the tournament standings at the Grandmaster Triathlon in Biel. On Sunday, Gata Kamsky was the top scorer in the blitz section of the event. | The fourth round of the classical section kicks off Tuesday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Wed, 20 Jul 2022 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Live"
-      },
-      {
          "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,14 +376,6 @@ news_feed (
          "link" : "https://www.chessdom.com/happy-international-chess-day-2/",
          "pubDate" : "Wed, 20 Jul 2022 07:58:13 +0000",
          "title" : "Happy International Chess Day!"
-      },
-      {
-         "description" : "After the European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. The Rapid Championship will be played in 6 age categories: U8, U10, U12, U14, U16, and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-rapidblitz-chess-championship-2022-starts/",
-         "pubDate" : "Wed, 20 Jul 2022 07:03:00 +0000",
-         "title" : "European Youth Rapid&Blitz Chess Championship 2022 starts"
       },
       {
          "description" : "With their victories today, Lê Quang Liêm and Andrey Esipenko climbed to first and second places in the Biel Grandmaster Triathlon. Esipenko defeated former leader Gukesh, while Lê prevailed against Keymer. There was also a change of leader in the Ladies' Quadriathlon, with France's Margaux Moracchini taking the lead for the first time. | Photos: Biel Chess Festival",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/8/book-recap-27-gm-yasser-seirawans-play-winning-chess",
          "pubDate" : "Fri, 08 Jul 2022 12:33:47 +0000",
          "title" : "Book Recap #27 - GM Yasser Seirawan's Play Winning Chess"
-      },
-      {
-         "description" : "From 28 July to 10 August the Chess Olympiad will be played in Chennai, India. 188 teams start in the Open, 162 in the Women's Olympiad, that's a new record of participants. However, two of the strongest federations will not come to Chennai. The Russian federation was excluded because of Russia's invasion of Ukraine, and the Chinese federation decided not to participate, as protection against the pandemic. Thus, the USA is clear favourite in the Open while India is favourite to win the Women's Olympiad. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-in-chennai-the-usa-is-favourite-china-and-russia-do-not-take-part",
-         "pubDate" : "Fri, 08 Jul 2022 13:00:00 +0100",
-         "title" : "Chess Olympiad in Chennai: The USA is favourite, China and Russia do not take part"
       },
       {
          "description" : " Fide has 'kindly asked' the world champion to decide by 20 July whether he will defend the crown he has won five times Magnus Carlsen has been \"kindly asked\" by Fide to decide by a deadline of 20 July, International Chess Day, whether he will defend his world championship title against the winner of the just concluded Candidates, Ian Nepomniachtchi. This followed a four-hour meeting in Madrid on Sunday between the Norwegian and the global body's two top officials, before Carlsen headed off to Las Vegas for the World Series of Poker. Nepomniachtchi, <a href=\"https://www.theguardian.com/sport/2021/dec/10/magnus-carlsen-retains-world-chess-championship-title-after-final-ian-nepomniachtchi-blun",
