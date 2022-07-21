@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It wasn&#39;t a bolt from the blue, but GM Magnus Carlsen&#39;s decision not to defend his world title still came as shock to many. A day after the news came out, Chess.com gives an overview of reactions from the chess world. GM Vishy Anand, FIDE World ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsens-abdication-reactions-from-the-chess-world",
+         "pubDate" : "Thu, 21 Jul 2022 12:30:00 -0700",
+         "title" : "Carlsen's Abdication: Reactions From The Chess World"
+      },
+      {
+         "description" : "This week Robert Ris discusses a sharp variation of the Sicilian Defence, explored this week by none others than Magnus Carlsen and Maxime Vachier-Lagrave. Sometimes short draws can be very exciting! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-short-exciting-draw",
+         "pubDate" : "Thu, 21 Jul 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Carlsen Sicilian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Yasser and Miro after the fifth rapid round to talk about his newfound spot in next year's world championship match during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ding-liren-carlsen-prefers-enjoy-chess-rather-suffer-rapid-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ding-liren-carlsen-prefers-enjoy-chess-rather-suffer-rapid-5",
+         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
+         "title" : "Ding Liren: Carlsen Prefers to Enjoy Chess Rather than Suffer | Rapid 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players suggest what they believe is the perfect format for the world chess championship. This aired during Day 2. 2022.07.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superunited-rapid-blitz-croatia-ideal-championship-format\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xd1-84SCy60.jpg?itok=2K0_8M1Y\" alt=\"\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-ideal-championship-format",
+         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
+         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Ideal Championship Format"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jorden van Foreest talks to Alejandro Ramirez after his sixth rapid round victory over Ian Nepomniachtchi during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/van-foreest-exceptionally-good-day-rapid-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w7ro5a89xFo.jpg?itok=u",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/van-foreest-exceptionally-good-day-rapid-5",
+         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
+         "title" : "van Foreest: An Exceptionally Good Day | Rapid 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-2",
+         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
+         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93037092.cms\" />When New Delhi Grandmaster Sahaj Grover visited South Africa for the Commonwealth chess tournament in 2013 --- little did he know that the country would become his second home in the coming years. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/delhi-gm-sahaj-grover-fuels-south-africas-chess-olympiad-dreams/articleshow/93037092.cms",
+         "pubDate" : "Thu, 21 Jul 2022 17:21:09 +0000",
+         "title" : "Delhi GM Sahaj fuels South Africa's Chess Olympiad dreams"
+      },
+      {
+         "description" : "GMs Aram Hakobyan and Mahammad Muradli were the winners of the fifth and sixth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; Hakobyan and Muradli advance to the main event along with GMs Hrant Melkumyan and Sam Sevian, victors of th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-2-day-1",
+         "pubDate" : "Thu, 21 Jul 2022 08:37:58 -0700",
+         "title" : "Hakobyan, Muradli Win Chess.com Global Play-Ins"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -178,31 +242,7 @@ news_feed (
          "title" : "Carlsen: World Match Devalued, Not My Problem | Rapid 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Alejandro Ramirez after his third rapid round draw with Ivan Saric during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-carlsen-wants-play-without-pressure-rapid-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wI8e_hBYCxQ.jpg?itok=J3",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-carlsen-wants-play-without-pressure-rapid-3",
-         "pubDate" : "Wed, 20 Jul 2022 17:47:47 +0000",
-         "title" : "Dominguez: Carlsen Wants to Play Without Pressure | Rapid 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after his third rapid round loss to Shakhriyar Mamedyarov during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-magnus-decision-%E2%80%9Cquite-disappointing%E2%80%9D-rapid-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-magnus-decision-%E2%80%9Cquite-disappointing%E2%80%9D-rapid-3",
-         "pubDate" : "Wed, 20 Jul 2022 17:47:47 +0000",
-         "title" : "Nepo: Magnus Decision \"Quite Disappointing\" | Rapid 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the first three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-1",
-         "pubDate" : "Wed, 20 Jul 2022 17:47:47 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 1"
-      },
-      {
-         "description" : " Magnus CarlsenPhoto by David Llada Just over three hours ago, an announcement was made that Magnus Carlsen will not defend his title against Ian Nepomniachtchi, who recently won the right to challenge him. Twitter exploded after the news came out on chess24 about his decision. After successfully defending his title for the 4th time, he The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/\">Magnus Carlsen will NOT defend title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Magnus Carlsen Just over three hours ago, an announcement was made that Magnus Carlsen will not defend his title against Ian Nepomniachtchi, who recently won the right to challenge him. Twitter exploded after the news came out on chess24 about his decision. After successfully defending his title for the 4th time, he made statements about The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/\">Magnus Carlsen will NOT defend title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/",
@@ -224,14 +264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-stamp-unveiled-to-celebrate-world-chess-day/articleshow/93010970.cms",
          "pubDate" : "Wed, 20 Jul 2022 15:04:24 +0000",
          "title" : "Chess Olympiad Stamp unveiled to celebrate 'World Chess Day'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Sub Zero Vodka Bar, the U.S. Junior, U.S. Girls' Junior, and U.S. Senior Championships are ten-player round robins. America's best players under 20 and over 50 compete in these national championships. Join GMs Yasser Seirawan, Cristian Chirila, and IM Dorsa Derakhshani for the move-by-move. 2022.07.16<br /> USChessChamps.com SENIORS<br /> Vladimir Akopian<br /> Larry Christiansen<br /> Gregory Kaidanov<br /> Igor Novikov<br /> Maxim Dlugy<br /> Alex Shabalov<br /> Joel Benjamin<br /> Nick De Firmian<br /> Igor Khmelnitsky<br /> Dmitry Gurevich </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-senior-us-junior-championships-round-9-playoffs",
-         "pubDate" : "Wed, 20 Jul 2022 14:47:45 +0000",
-         "title" : "2022 U.S. Senior & U.S. Junior Championships: Round 9 & Playoffs"
       },
       {
          "description" : " <p class=\"lead\">And yes, it's true! What the chess world was expecting, but hoping it didn't happen, struck us on the International Chess Day. The reigning World Champion Magnus Carlsen decided not to defend his World Chess Championship Title in 2023 against the Challenger Ian Nepomniachtchi, and - as expected - Twitter is on fire. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20-15.55.41.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> \"I've been thinking about this decision for a long time, more than a year and a half. I spoke with people from my team, with FIDE, with Ian. It's very simple. I am not motivated to play another match.\" Carlsen sta",
@@ -1498,22 +1530,6 @@ news_feed (
          "title" : "Gelfand beats Anand in playoffs, wins Leon Masters"
       },
       {
-         "description" : "GM Jeffery Xiong leads the FTX Road to Miami tournament after the first day of play. The 21-year-old American grandmaster, who is making his debut in the Meltwater Champions Chess Tour, was the only player to win three games, which gave him nine p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-day-1",
-         "pubDate" : "Sun, 10 Jul 2022 17:35:00 -0700",
-         "title" : "FTX Road To Miami: Jeffery Xiong Early Leader"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won week 20 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Wesley So in the final in a bullet tiebreaker.&#38;nbsp; GMs Vladimir Fedoseev and David Paravyan made it to the semifinals. GM Oleksandr Bo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-20-nakamura-wins",
-         "pubDate" : "Sun, 10 Jul 2022 17:20:00 -0700",
-         "title" : "Nakamura Wins 6th Knockout: 'In Bullet, I Have A Better Chance Of Winning'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1688,14 +1704,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/",
          "pubDate" : "Fri, 08 Jul 2022 15:24:20 +0000",
          "title" : "Tony Ballard's Powerful Chess Testimony"
-      },
-      {
-         "description" : "Those of us who love to play an Indian Opening (or Benoni or the Benk&ouml; Gambit) against 1.d4 usually do not feel comfortable when 2.Bg5 shows up on the board. But if your opponent is already taking away \"your\" opening, then follow Petra Papp's recommendation from CBM #208 and ensure with 2...c5!? that White doesn't get a \"normal\" Trompowsky either! In addition, the position immediately gets dynamic, White's centre is attacked. and the diagonal for the queen on d8 is open. In the first part of her analysis, our author examines White's responses 3.e3, 3.dxc5, 3.Nc3 and 3.Bxf6. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fighting-the-tromp",
-         "pubDate" : "Fri, 08 Jul 2022 16:00:00 +0100",
-         "title" : "Fighting the Tromp"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png\" data-image-dimensions=\"182x183\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c822b10e046d110b05f667\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.chessable.com/play-winning-chess/course/89222/\">via Chessable </a> </figcaption> </figure> <figure class=\" sqs-block-image-f",
@@ -2184,22 +2192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1840",
          "pubDate" : "Thu, 30 Jun 2022 23:06:51 +0000",
          "title" : "2022 Candidates, Round 11: Nepomniachtchi on the verge of winning the Candidates as Ding breaks to second place"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 11 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with Nepomniachtchi winning his 5th game, this time against Firouzja, and leading the tournament with 8/11, 1,5 points ahead from Ding Liren who won against Caruana. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-9.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52183109492_ee13b67d83_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52184140238_002c162a3e_k.jpg\" width=\"2048\" height=\"1365\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepomniachtchi-hits-2792-after-his-5th-win-at-the-2022-candidate/",
-         "pubDate" : "Thu, 30 Jun 2022 19:27:18 +0000",
-         "title" : "Nepomniachtchi hits 2792 after his 5th win at the 2022 Candidates"
-      },
-      {
-         "description" : " Ian Nepomniachtchi won his fifth game of the Candidates beating Alireza Firouzja in the eleventh round of the FIDE Candidates in Madrid. The story of this game even early on was that Firouzja was up all night playing hyper bullet 30 second chess on the Internet. I'm afraid his reckless play today showed all the signs of him doing precisely that. 16.g4 is dubious, 17.h4? is bad and 18.g5 leaves white flat lost. Of course it required skill from Nepomniachtchi to make the refutation look easy but the in form Russian had no problems whatsoever. Nepomniachtchi is still in complete control of the tournament three draws, likely only two, will win him the event. The final game to finish ended Fabia",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-and-ding-win-in-candidates-round-11-and-are-in-first-and-second-places",
-         "pubDate" : "Thu, 30 Jun 2022 22:30:00 +0400",
-         "title" : "Nepomniachtchi and Ding win in Candidates Round 11 and are in first and second places - 11"
       }
    ]
 }
