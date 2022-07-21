@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<p class=\"\">GM Magnus Carlsen <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title\"><span>has officially announced that he will not defend his World Championship title</span></a>, and we are joined by star Chess24 reporter, <a href=\"https://twitter.com/tarjeijs\"><span>Tarjei Svensen</span></a> to get the inside scoop on this decision and to begin to assess the implications. Thanks to Tarjei for joining on short notice! <figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f50bced6-5988-4678-96c6-f1f522cffd27/Tarjei.jpg\" data-image-dimensions=\"705x358\" data",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg\" data-image-dimensions=\"542x327\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d89abeeeb1124b19547338\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM Magnus Carlsen <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title\"><span>has officially announced that he will not defend his Worl",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/20/breaking-news-bonus-pod-chess24-reporter-tarjei-svenson-on-magnus-decision-not-to-defend-his-title",
          "pubDate" : "Wed, 20 Jul 2022 23:34:20 +0000",
-         "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svenson on Magnus' Decision not to Defend his Title "
+         "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svensen on Magnus' Decision not to Defend his Title "
       },
       {
          "description" : "In what can be only described as a wonderfully inspiring 'comeback' story, the 2022 Fields Medal was awarded, among others, to June Huh for his work in chromatic polynomials, stemming from a chess puzzle involving four knights. The Fields Medal is one of the most prestigious awards in Mathematics, given out only once every four years, to the brightest minds in the field. | Photo: Ruth Fremson/The New York Times",
