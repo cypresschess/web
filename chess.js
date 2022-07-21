@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Garry Kasparov knows how it feels to retire from chess while being number one in the world. Yesterday, during the GCT Zagreb, he commented on Magnus Carlsen's decision not to defend his World Champion title, underlining the fact that Carlsen is not retiring. More by Kasparov in #TweetOftheDay: Throwback: 13 year old Magnus Carlsen meets []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/garry-kasparov-comments-on-carlsens-decision-tweetoftheday/",
+         "pubDate" : "Thu, 21 Jul 2022 06:36:25 +0000",
+         "title" : "Garry Kasparov comments on Carlsen's decision #TweetOftheDay"
+      },
+      {
+         "description" : "The SuperUnited Rapid & Blitz tournament, the third event in this year's Grand Chess Tour, kicked off Wednesday in Zagreb. Magnus Carlsen and Ian Nepomniachtchi, the contenders of the last World Championship match, were paired up against each other in the first round and drew their game. Once the day's action was over, Alireza Firouzja emerged as the sole leader with 5 out of 6 points (wins are worth 2 points in the rapid section). | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d1",
+         "pubDate" : "Thu, 21 Jul 2022 07:10:00 +0100",
+         "title" : "SuperUnited Croatia: Firouzja starts strong"
+      },
+      {
+         "description" : "The 2022 ECU General Assembly will take place on Saturday, 23rd July 2022 in Hotel Porto Palace Thessaloniki, Greece. The ECU Board meeting will be held a day before, on Friday, 22nd July 2022, in the same venue. 50 European federations and more than 80 delegates, officials, councillors will be present in Thessaloniki for the ECU General Assembly&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/",
+         "pubDate" : "Thu, 21 Jul 2022 05:50:51 +0000",
+         "title" : "ECU General Assembly 2022 to be broadcasted live"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg\" data-image-dimensions=\"542x327\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d89abeeeb1124b19547338\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM Magnus Carlsen <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title\"><span>has officially announced that he will not defend his Worl",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mvl-magnus-may-be-catalyst-change-rapid-1",
          "pubDate" : "Wed, 20 Jul 2022 14:47:45 +0000",
          "title" : "MVL: Magnus May be a Catalyst for Change | Rapid 1"
-      },
-      {
-         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
-         "pubDate" : "Wed, 20 Jul 2022 14:55:00 +0100",
-         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
       },
       {
          "description" : " <p class=\"lead\">And yes, it's true! What the chess world was expecting, but hoping it didn't happen, struck us on the International Chess Day. The reigning World Champion Magnus Carlsen decided not to defend his World Chess Championship Title in 2023 against the Challenger Ian Nepomniachtchi, and - as expected - Twitter is on fire. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20-15.55.41.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> \"I've been thinking about this decision for a long time, more than a year and a half. I spoke with people from my team, with FIDE, with Ian. It's very simple. I am not motivated to play another match.\" Carlsen sta",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-lagno-koneru",
          "pubDate" : "Tue, 19 Jul 2022 13:15:32 -0700",
          "title" : "The Art Of The Comeback: Lagno Outfights Koneru"
-      },
-      {
-         "description" : "The 1000 GM/IM St. Louis Norm Tournaments will take place from 19-23 July in Saint Louis, Missouri. Both IM and GM events will be played in 9 rounds, round-robin system. The time control will be: 90 minutes + 30 seconds increment. The field of the Grandmaster tournament is led by GM Dragun Kamil, GM Vladimir []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000-st-louis-gm-im-tournaments/",
-         "pubDate" : "Tue, 19 Jul 2022 18:16:15 +0000",
-         "title" : "1000 GM/IM St. Louis Tournaments"
       },
       {
          "description" : " The SuperUnited Rapid & Blitz starts on 20th July and runs through until the 25th July. Magnus Carlsen, Alireza Firouzja, Ian Nepomniachtchi, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez, Jorden Van Foreest, Ivan Saric and Veselin Topalov. Play in this rapid and blitz tournament as part of the Grand Chess Tour.",
