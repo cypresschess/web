@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Both the Grandmaster Triathlon and the Women's Quadriathlon in Biel will feature direct encounters between the first and second placed participants in final-round battles for the respective titles. Le Quang Liem has a 3-point lead over Andrey Esipenko (a win is worth 4 points) in the GM Triatholn, while Iris Ciarletta has a 1-point lead over Zhuang Yongzhe in the ladies' Quadriathlon. | The final round kicks off four hours earlier than usual, at 10.00 CEST. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r6",
+         "pubDate" : "Fri, 22 Jul 2022 01:00:00 +0100",
+         "title" : "Biel: Le and Esipenko to face off in showdown"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1874",
+         "pubDate" : "Thu, 21 Jul 2022 22:35:07 +0000",
+         "title" : "Vaishali R eliminates Dronavalli to reach semifinals"
+      },
+      {
+         "description" : "On Thursday, there was only one game on stage in the Golden Hall: the two winners from the previous round, Dmitrij Kollars and Viswanathan Anand, met in the NC World Masters. Kollars had a slight advantage in a rook endgame, but Anand managed to keep things under control and drew his younger opponent to keep the lead. Lara Schulze and Max Warmerdam won and are still leading the Women's Sportland NRW Cup and the A-Open respectively. | Photos:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-rest-day",
+         "pubDate" : "Thu, 21 Jul 2022 22:25:00 +0100",
+         "title" : "NC World Masters: Anand holds Kollars to a draw, leads"
+      },
+      {
+         "description" : "IM Vaishali R overcame GM Harika Dronavalli in their quarterfinal match in the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. Vaishali dueled fiercely against her compatriot, the highest-rated active woman player in India. After...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-dronavalli-vaishali",
+         "pubDate" : "Thu, 21 Jul 2022 13:24:29 -0700",
+         "title" : "Rising Star Knocks Out Experienced Compatriot"
+      },
+      {
          "description" : "It wasn&#39;t a bolt from the blue, but GM Magnus Carlsen&#39;s decision not to defend his world title still came as shock to many. A day after the news came out, Chess.com gives an overview of reactions from the chess world. GM Vishy Anand, FIDE World ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -98,6 +130,14 @@ news_feed (
          "title" : "2022 SuperUnited Rapid & Blitz Croatia: Playing in Zagreb"
       },
       {
+         "description" : "In what can be only described as a wonderfully inspiring 'comeback' story, the 2022 Fields Medal was awarded, among others, to June Huh for his work in chromatic polynomials, stemming from a chess puzzle involving four knights. The Fields Medal is one of the most prestigious awards in Mathematics, given out only once every four years, to the brightest minds in the field. | Photo: Ruth Fremson/The New York Times",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-puzzle-that-led-to-a-fields-medal",
+         "pubDate" : "Thu, 21 Jul 2022 15:05:00 +0100",
+         "title" : "The chess puzzle that led to a Fields Medal"
+      },
+      {
          "description" : "Ending months of speculation, Magnus Carlsen has officially announced he will not be defending his title in a rematch against Ian Nepomniachtchi come the end of 2022. As a result, the second-place winner of the 2022 Candidates Tournament, Ding Liren, will face the Russian to determine the new World Champion. (Photo: Albert Silver)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,22 +160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/carlsen-decides-not-to-defend-title.html",
          "pubDate" : "Thu, 21 Jul 2022 13:02:00 +0000",
          "title" : "Carlsen decides not to defend title"
-      },
-      {
-         "description" : "Round 5 of the classical section saw Gukesh, Le Quang Liem and Nodirbek Abdusattorov scoring wins with the black pieces. Le is in the sole lead with two rounds to go. | The sixth round of the classical section kicks off Friday at 14.00 CEST (8.00 ET, 17.30 IST). Follow the games live. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Thu, 21 Jul 2022 13:55:00 +0100",
-         "title" : "Biel Chess Festival - Live"
-      },
-      {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Thu, 21 Jul 2022 13:55:00 +0100",
-         "title" : "No-Castling World Masters: Live"
       },
       {
          "description" : "There were two decisive games in the No-Castling World Masters. Vishy Anand defeated Daniel Fridman and Dmitrij Kollars beat Michael Adams. In the Deutschland Grand Prix, Luke McShane remains in the lead after all three games ended in a draw on Wednesday. In the open tournament, Max Warmerdam and Tornike Sanikidze are sharing the lead. | Photos: Michelle Lassak",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/20/breaking-news-bonus-pod-chess24-reporter-tarjei-svenson-on-magnus-decision-not-to-defend-his-title",
          "pubDate" : "Wed, 20 Jul 2022 23:34:20 +0000",
          "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svensen on Magnus' Decision not to Defend his Title "
-      },
-      {
-         "description" : "In what can be only described as a wonderfully inspiring 'comeback' story, the 2022 Fields Medal was awarded, among others, to June Huh for his work in chromatic polynomials, stemming from a chess puzzle involving four knights. The Fields Medal is one of the most prestigious awards in Mathematics, given out only once every four years, to the brightest minds in the field. | Photo: Ruth Fremson/The New York Times",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-puzzle-that-led-to-a-fields-medal",
-         "pubDate" : "Wed, 20 Jul 2022 20:00:00 +0100",
-         "title" : "The chess puzzle that led to a Fields Medal"
       },
       {
          "description" : "In his \"Game of the Week\" show Merijn van Delft recaps a lovely attacking game from the second round of the Sparkassen Open in Dortmund. Thomas Beerdsen employed a strong novelty, which was connected to an amazing concept! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "FTX Road to Miami: Xiong wins three in a row"
       },
       {
-         "description" : "Chess.com&#39;s BlitzChamps came to a close on Sunday when Cincinnati Bengals cornerback Chidobe Awuzie was crowned the inaugural winner of the event that looked to discover the best chess player in the NFL. The final saw longtime locker room chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-blitzchamps-awuzie-wins",
-         "pubDate" : "Mon, 11 Jul 2022 06:27:00 -0700",
-         "title" : "Chidobe Awuzie Takes Revenge On Amari Cooper, Wins BlitzChamps 2022"
-      },
-      {
          "description" : "On Sunday, the 55th Chess Festival Biel opened in the Congress Centre in Biel. To kick things off, the Chinese top grandmaster Yu Yangyi gave a simul. Today the GM Triathlon begins with the Fischerrandom Tournament, at 13:00 local time (7:00 ET, 11:00 UTC). Three of the world's best U18-players start: V. Keymer, N. Abdusattorov, and D. Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2184,14 +2192,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/01/chess-england-win-three-world-titles-while-ian-nepomniachtchi-nears-victory",
          "pubDate" : "Fri, 01 Jul 2022 07:00:05 +0000",
          "title" : "Chess: England win three world titles while Ian Nepomniachtchi nears victory"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1840",
-         "pubDate" : "Thu, 30 Jun 2022 23:06:51 +0000",
-         "title" : "2022 Candidates, Round 11: Nepomniachtchi on the verge of winning the Candidates as Ding breaks to second place"
       }
    ]
 }
