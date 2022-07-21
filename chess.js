@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "19-year-old Alireza Firouzja beat Ivan Saric and Veselin Topalov as he took the sole lead on Day 1 of the SuperUnited Rapid and Blitz in Zagreb, Croatia. The day was overshadowed by Magnus Carlsen announcing he wouldn't play the next World Championship match, with Magnus joining Wesley So, MVL and Jorden van Foreest in 2nd place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/zagreb-gct-1-firouzja-leads-as-new-chess-era-begins-in-zagreb",
+         "pubDate" : "Thu, 21 Jul 2022 10:31:34 +0000",
+         "title" : "Zagreb GCT 1: Firouzja leads as new chess era begins in Zagreb"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-59/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (59)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-59/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (59)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-59/",
+         "pubDate" : "Thu, 21 Jul 2022 08:50:32 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (59)"
+      },
+      {
          "description" : "Garry Kasparov knows how it feels to retire from chess while being number one in the world. Yesterday, during the GCT Zagreb, he commented on Magnus Carlsen's decision not to defend his World Champion title, underlining the fact that Carlsen is not retiring. More by Kasparov in #TweetOftheDay: Throwback: 13 year old Magnus Carlsen meets []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -314,7 +330,7 @@ news_feed (
          "title" : "European Youth Rapid&Blitz Chess Championships 2022 LIVE"
       },
       {
-         "description" : "The $175,000 SuperUnited Rapid &amp; Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
+         "description" : "The $175,000 SuperUnited Rapid & Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-nepomniachtchi-in-zagreb-gct-opening-game",
@@ -2090,14 +2106,6 @@ news_feed (
          "title" : "FIDE Athletes Commission elections to be held in Chennai"
       },
       {
-         "description" : " This instructive pawn ending comes from the game between Edward Lasker and William Ward, played in 1913 in the City of London Chess Club Championship. I'm assuming you know basic KP v K theory: if not I'd recommend Chess Endings for Heroes as a source of this information. We pick up the position here, as <a href=\"https://chessimprover.com/distant-opposition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Distant Opposition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/distant-opposition/\">Distant Opposition</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/distant-opposition/",
-         "pubDate" : "Fri, 01 Jul 2022 17:55:28 +0000",
-         "title" : "Distant Opposition"
-      },
-      {
          "description" : " <p class=\"lead\">Round 12 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with a 7-minute draw in the Nepomniachtchi - Nakamura game, Teimour Radjabov won his game against Ding Liren, Alireza Firouzja escaped defeat by Jan-Krzysztof Duda, their fight as well as Rapport-Caruana game, ended in a draw! Now Nepo only needs to draw in any of the next two games to guarantee himself another World Championship Match! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52186813215_a9e9d8dbdf_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldches",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-12/",
          "pubDate" : "Fri, 01 Jul 2022 08:58:41 +0000",
          "title" : "Watch the FIDE Candidates Tournament 2022: Round 12"
-      },
-      {
-         "description" : "Ian Nepomniachtchi crushed Alireza Firouzja in Round 11 of the FIDE Candidates Tournament, but just when it looked as though that would extend his lead to 2 points with just 3 rounds to go, Ding Liren won a position he'd been struggling to save against Fabiano Caruana. The Chinese no. 1's 3rd win in a row leaves him 1.5 points behind the leader.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-11-nepo-refutes-firouzja-s-bullet-gambit",
-         "pubDate" : "Fri, 01 Jul 2022 08:38:34 +0000",
-         "title" : "Madrid Candidates 11: Nepo refutes Firouzja's Bullet Gambit"
       },
       {
          "description" : "",
@@ -2192,22 +2192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/it-might-be-all-over.html",
          "pubDate" : "Thu, 30 Jun 2022 14:21:00 +0000",
          "title" : "It might be all over "
-      },
-      {
-         "description" : "England won three world titles in the World Senior Chess Teams Championships yesterday in Acqui Terme, Italy. England's men won both the World Over 50...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-triple-world-champions/",
-         "pubDate" : "Thu, 30 Jun 2022 10:52:11 +0000",
-         "title" : "England Triple World Champions!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1839",
-         "pubDate" : "Thu, 30 Jun 2022 09:38:47 +0000",
-         "title" : "FIDE World Senior Team Championship 2022: England wins golden double"
       }
    ]
 }
