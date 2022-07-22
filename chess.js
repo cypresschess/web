@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Ivan Saric talks to Alejandro Ramirez after his seventh rapid round victory over Ian Nepomniachtchi during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saric-nepo-allowed-me-play-my-game-rapid-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XGzjUC5cbWA.jpg?itok=L2oUu9R",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saric-nepo-allowed-me-play-my-game-rapid-7",
+         "pubDate" : "Fri, 22 Jul 2022 14:49:11 +0000",
+         "title" : "Saric: Nepo Allowed Me to Play My Game | Rapid 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after his seventh rapid round victory over Shakhriyar Mamedyarov during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i%E2%80%99m-jorden%E2%80%99s-lucky-charm-rapid-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WCe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-i%E2%80%99m-jorden%E2%80%99s-lucky-charm-rapid-7",
+         "pubDate" : "Fri, 22 Jul 2022 14:49:11 +0000",
+         "title" : "MVL: I'm Jorden's Lucky Charm | Rapid 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players share their opinions on the recently-concluded Candidates Tournament, dominated by Ian Nepomniachtchi. This aired during Day 3. 2022.07.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superunited-rapid-blitz-croatia-takeaways-candidates\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1CwHpzPA4Vs.jpg?itok=GFwb3Mp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-takeaways-candidates",
+         "pubDate" : "Fri, 22 Jul 2022 14:49:11 +0000",
+         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Takeaways from the Candidates"
+      },
+      {
+         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
+         "pubDate" : "Fri, 22 Jul 2022 14:55:00 +0100",
+         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
+      },
+      {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Fri, 22 Jul 2022 14:55:00 +0100",
+         "title" : "NC World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : "India are now 2nd seeds for the Chess Olympiad that starts on July 29th, with Magnus Carlsen's Norway 3rd, after Azerbaijan plunged from 2nd to 6th when Teimour Radjabov dropped out of the team. Vasif Durarbayli criticised his colleague, but Teimour now cites the after-effects of a COVID infection.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/radjabov-withdraws-from-chess-olympiad-india-now-2nd-seeds",
+         "pubDate" : "Fri, 22 Jul 2022 13:37:22 +0000",
+         "title" : "Radjabov withdraws from Chess Olympiad, India 2nd seeds"
+      },
+      {
+         "description" : "National U-17 Open and Girls Chess Championship 2022 Certificates are out to download Links Open :https://aicf.online/National-U(17)-Open.html Girls : https://aicf.online/National-U(17)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com &#160; &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-17-open-and-girls-chess-championship-certificates/",
+         "pubDate" : "Fri, 22 Jul 2022 13:25:57 +0000",
+         "title" : "National U-17 Open and Girls Chess Championship 2022 Certificates"
+      },
+      {
+         "description" : " An update on the details, entries and conditions for the 2022 ACT Winter Open (AKA ANU Open) <br /><h1 style=\"text-align: left;\">ACT Winter Open 2022</h1><br />29-31 July (One round Friday evening, three Saturday, two Sunday)<br /><br />Format: Open section and Under 1600 Section (ACF)<br />Time control: 60m+30s inc (FIDE Rated except for players 2400+)<br /><br />Schedule: Round 1 Friday 29th 7PM, <br />Round 2 Sat 30th 10am, Rd 3 2pm, Round 4, 6pm<br />Round 5 Sun 31st 10am, Round 6 2pm Prize giving 6pm<br /><br />Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Free<br /><br />Prizes: $1000 1st Open, $400 1st Minor $3600 in total<br /><br />Venue: Campbell High School Library, Trelo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/2022-act-winter-open.html",
+         "pubDate" : "Fri, 22 Jul 2022 13:05:00 +0000",
+         "title" : "2022 ACT Winter Open"
+      },
+      {
+         "description" : "Magnus Carlsen's tough start to life no longer fighting for the World Championship title continued in Zagreb on Thursday, as he lost to Shakhriyar Mamedyarov and then missed a win against Leinier Dominguez. Alireza Firouzja leads after winning a wild game against Shakh.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/zagreb-gct-2-mamedyarov-beats-carlsen",
+         "pubDate" : "Fri, 22 Jul 2022 12:37:25 +0000",
+         "title" : "Zagreb GCT 2: Mamedyarov beats Carlsen"
+      },
+      {
          "description" : "The ECU Board Meeting took place today, Friday, 22nd of July 2022 in Thessaloniki, Greece. The board discussed the final preparations for the ECU General Assembly 2022 which will be held tomorrow at 09.30 in the same venue. ECU Board discussed the bids received by the deadline of the 29th of April 2022. The ECU received three solo&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-ecu-board-meeting-held-in-thessaloniki-greece/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -186,14 +258,6 @@ news_feed (
          "title" : "Wesley So: Carlsen's Decision Shocking, but Understandable | Rapid 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The players talk about how it feels to play in Zagreb going into the third leg of the Grand Chess Tour. This aired during Day 2. 2022.07.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superunited-rapid-blitz-croatia-playing-zagreb\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u9zsr1J7XOQ.jpg?itok=jsEVhJDQ\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-playing-zagreb",
-         "pubDate" : "Thu, 21 Jul 2022 14:48:45 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Playing in Zagreb"
-      },
-      {
          "description" : "In what can be only described as a wonderfully inspiring 'comeback' story, the 2022 Fields Medal was awarded, among others, to June Huh for his work in chromatic polynomials, stemming from a chess puzzle involving four knights. The Fields Medal is one of the most prestigious awards in Mathematics, given out only once every four years, to the brightest minds in the field. | Photo: Ruth Fremson/The New York Times",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/breaking-news-magnus-carlsen-won-t-defend-his-title-2",
          "pubDate" : "Thu, 21 Jul 2022 15:00:00 +0100",
          "title" : "Breaking News: Magnus Carlsen won't defend his title!"
-      },
-      {
-         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
-         "pubDate" : "Thu, 21 Jul 2022 14:55:00 +0100",
-         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
       },
       {
          "description" : " The news that Magnus Carlsen will not defend his World Championship title is spreading quite quickly across the chess world. He had hinted that this might happen, but I for one was quite surprised that he has decided to go down this road. He isn't retiring from chess (like Fischer did), and is in fact taking part in the upcoming Olympiad. But we once again return to a situation where the World Champion isn't necessarily the worlds strongest player. The immediate result is that it will be a Nepo v Ding world championship match, as they finished 1st and 2nd at the 2022 Candidates. Interestingly, neither player is taking part in the Olympiad, as neither players country will be there. The longe",
@@ -304,22 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-525-beerdsen-amazing-concept",
          "pubDate" : "Wed, 20 Jul 2022 19:00:00 +0100",
          "title" : "Game of the Week #525: Beerdsen's amazing concept"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jorden van Foreest talks to Alejandro Ramirez after his second rapid round victory over Leinier Dominguez during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/van-foreest-a3-good-choice-rapid-rapid-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h1RI_fwjDvM.jpg?itok=hXe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/van-foreest-a3-good-choice-rapid-rapid-2",
-         "pubDate" : "Wed, 20 Jul 2022 17:47:47 +0000",
-         "title" : "van Foreest: a3 is a Good Choice for Rapid | Rapid 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Alejandro Ramirez after his third rapid round draw with Maxime Vachier-Lagrave during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.20<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-world-match-devalued-not-my-problem-rapid-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/itD9HQot6fA.jpg?",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-world-match-devalued-not-my-problem-rapid-3",
-         "pubDate" : "Wed, 20 Jul 2022 17:47:47 +0000",
-         "title" : "Carlsen: World Match Devalued, Not My Problem | Rapid 3"
       },
       {
          "description" : " Magnus Carlsen Just over three hours ago, an announcement was made that Magnus Carlsen will not defend his title against Ian Nepomniachtchi, who recently won the right to challenge him. Twitter exploded after the news came out on chess24 about his decision. After successfully defending his title for the 4th time, he made statements about The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/\">Magnus Carlsen will NOT defend title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1690,14 +1730,6 @@ news_feed (
          "title" : "Two FIDE Trainers Seminars in conjunction with 44th Chess Olympiad announced"
       },
       {
-         "description" : "Vishy Anand won the last game of the semifinal to knock out Jaime Santos. Anand will face the winner of the semifinal between Boris Gelfand, another living legend who has already won the Magistral twice, and the young Russian GM Andrey Esipenko in Sunday's final. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-masters-2022-sf1",
-         "pubDate" : "Sat, 09 Jul 2022 16:25:00 +0100",
-         "title" : "Le&oacute;n: Anand knocks out Santos, loses miniature"
-      },
-      {
          "description" : "Finally, MPL 32nd National Under 17 OPEN &#38; GIRLS Chess Championship 2022 concluded with Valedictory ceremony-cum-Prize Distribution, at 04:30 P.M. on 09 July 2022 at International Chess Hall,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2002,14 +2034,6 @@ news_feed (
          "title" : "Checkmate Coronavirus: Road to Chennai"
       },
       {
-         "description" : "Ian Nepomniachtchi has won the FIDE Candidates Tournament with a round to spare for the second time in a row, earning another shot at the World Championship title. Magnus Carlsen was in the venue as Ian made a draw against Richard Rapport, but was silent on whether he will defend his title. If he doesn't, Nepo will play the runner-up, and that will be Hikaru Nakamura, who defeated Jan-Krzysztof Duda, unless Ding Liren wins their last-round game on Monday. ",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepomniachtchi-wins-his-2nd-candidates-tournament",
-         "pubDate" : "Sun, 03 Jul 2022 23:24:07 +0000",
-         "title" : "Nepomniachtchi wins his 2nd Candidates Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2066,14 +2090,6 @@ news_feed (
          "title" : "Everyone Bashes Firouzja For Playing Online Chess"
       },
       {
-         "description" : "Dear All, As you all are aware of the present crisis at Udaipur,Rajasthan and as per the section 144 imposed at various places at Udaipur",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-07-event-postponement/",
-         "pubDate" : "Sun, 03 Jul 2022 10:22:18 +0000",
-         "title" : "National Under 07: Event Postponement"
-      },
-      {
          "description" : " Round about 1970 I bought a copy of Botvinnik's 100 Selected Games at a tournament bookstall. Botvinnik's annotations provided me with a lot of insights into how chess should really be played. There was one game in particular which impressed me: Botvinnik Chekhover from the USSR Championship semi-final in 1938. Here's the crucial position. <a href=\"https://chessimprover.com/botters-plays-chekkers/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Botters Plays Chekkers\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/botters-plays-chekkers/\">Botters Plays Chekkers</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-olympiad-teams.html",
          "pubDate" : "Sat, 02 Jul 2022 12:59:00 +0000",
          "title" : "2022 Olympiad Teams"
-      },
-      {
-         "description" : "Ian Nepomniachtchi is on the brink of winning his 2nd Candidates Tournament in a row after Hikaru Nakamura allowed a 7-minute draw in their Round 12 game. That left Nepo two points clear of both Hikaru and Ding Liren, who crashed to a 26-move defeat with the white pieces against Teimour Radjabov. Nepo now needs only a draw in one of his remaining games to guarantee victory, but the battle for 2nd is intense, with Teimour and Fabiano Caruana just half a point behind Nakamura and Ding.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-12-14-move-draw-puts-nepo-on-brink-as-ding-defeated",
-         "pubDate" : "Sat, 02 Jul 2022 10:42:01 +0000",
-         "title" : "Madrid Candidates 12: 14-move draw puts Nepo on brink as Ding defeated"
       },
       {
          "description" : "Has there been a plot to sabotage Nigel Short's prospects of becoming President of FIDÉ, the governing body of world chess? Already Vice-President, England's greatest ever chess player and chess politician since the days of Howard Staunton would, as I hoped, take the logical next step, identify a Ukrainian running mate, and stand for election to the supreme post []",
