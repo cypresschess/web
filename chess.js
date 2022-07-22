@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 ECU General Assembly will take place on Saturday, 23rd July 2022 in Hotel Porto Palace Thessaloniki, Greece. The ECU Board meeting will be held a day before, on Friday, 22nd July 2022, in the same venue. The morning session, Saturday 23rd July 2022: 09.30 &#x2013; 13.30 live The afternoon session, Saturday 23rd July []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-general-assembly-2022-live/",
+         "pubDate" : "Fri, 22 Jul 2022 18:20:11 +0000",
+         "title" : "ECU General Assembly 2022 LIVE"
+      },
+      {
+         "description" : "Years back, when the first iteration of the Fritz Online app came out, it was a barebones deal: Attractive, and good for a game, but not the most compelling option to train against. A bit problematic as this was its purpose, but it has undergone many revisions since, and revisiting it you will be surprised at how interesting and fun it can be.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/practicing-and-improving-with-fritz-online",
+         "pubDate" : "Fri, 22 Jul 2022 19:00:00 +0100",
+         "title" : "Practicing and improving with Fritz Online"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after his eighth rapid round victory over Maxime Vachier-Lagrave during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-i-was-lost-after-seven-moves-won-rapid-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mWqnGvsyyy8.jp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-i-was-lost-after-seven-moves-won-rapid-8",
+         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
+         "title" : "Nepo: I Was Lost After Seven Moves, But Won! | Rapid 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Alejandro Ramirez after his eighth rapid round victory over Jorden van Foreest during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-jorden-misplayed-opening-rapid-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vDvCHWpogkg.jpg?itok=Z5HQwN",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-jorden-misplayed-opening-rapid-8",
+         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
+         "title" : "Carlsen: Jorden Misplayed the Opening | Rapid 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Veselin Topalov talks to Alejandro Ramirez after his eighth rapid round victory over Ivan Saric during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/topalov-first-time-croatia-rapid-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VsGz7Md_kEg.jpg?itok=qK__WQ0s\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/topalov-first-time-croatia-rapid-8",
+         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
+         "title" : "Topalov: First Time in Croatia | Rapid 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jorden van Foreest talks to Anastasia Karlovich after his eighth rapid round loss to Magnus Carlsen during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/van-foreest-happy-despite-losing-magnus-rapid-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-MU3uXsJo3E.jpg?itok=3Z",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/van-foreest-happy-despite-losing-magnus-rapid-8",
+         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
+         "title" : "van Foreest: Happy Despite Losing to Magnus | Rapid 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jorden van Foreest talks to Alejandro Ramirez after his ninth rapid round victory over Alireza Firouzja during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/van-foreest-atop-leaderboard-after-rapids-rapid-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6bXNQIbk6Qo.jpg?i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/van-foreest-atop-leaderboard-after-rapids-rapid-9",
+         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
+         "title" : "van Foreest: Atop the Leaderboard after Rapids | Rapid 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Alejandro Ramirez after his ninth rapid round draw with Wesley So during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-messing-great-positions-rapid-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IoAfz3oqFO0.jpg?itok=l0KUeSKp\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mamedyarov-messing-great-positions-rapid-9",
+         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
+         "title" : "Mamedyarov: Messing Up Great Positions | Rapid 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-3",
+         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
+         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 3"
+      },
+      {
+         "description" : "The 23rd edition of the Pittsburgh Chess Open 2022 will be held from 22-24 July at the Doubletree Green Tree Pittsburgh, Pennsylvania. The program includes five different tournaments; Major (for players rated 1900+), Under 2100, Under 1800, Under 1500, and Under 1200, with a guaranteed prize fund of 15.000$. The events will be played in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/23rd-pittsburgh-chess-open-2022/",
+         "pubDate" : "Fri, 22 Jul 2022 15:59:59 +0000",
+         "title" : "23rd Pittsburgh Chess Open 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Fri, 22 Jul 2022 15:29:55 +0000",
+         "title" : "FIDE Congress 2022"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Ivan Saric talks to Alejandro Ramirez after his seventh rapid round victory over Ian Nepomniachtchi during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saric-nepo-allowed-me-play-my-game-rapid-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XGzjUC5cbWA.jpg?itok=L2oUu9R",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +112,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-takeaways-candidates",
          "pubDate" : "Fri, 22 Jul 2022 14:49:11 +0000",
          "title" : "2022 SuperUnited Rapid & Blitz Croatia: Takeaways from the Candidates"
+      },
+      {
+         "description" : " The 55th Biel Chess Festival takes place 10th to 24th July 2022. The main event was a mixture of Classical, Rapid and Blitz - what they call the Grandmaster Triathlon. In addition the same players also competed in a Chess960 tournament that didn't count to the final standings. There was also the traditional strong open alongside. Players in the main event: Andrey Esipenko, Le Quang Liem, Salem Saleh, Gata Kamsky, Vincent Keymer, Nodirbek Abdusattorov, Arkadij Naiditsch and Dommaraju Gukesh. Final standings: 1st Quang Liem Le 35&frac12;pts, 2nd Andrey Esipenko 32&frac12;pts, 3rd Dommaraju Gukesh 29&frac12;pts, 4th Nodirbek Abdusattorov 26&frac12;pts, 5th Saleh Salem 26pts, 6th Gata Kamsky 23",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/55th-biel-chess-festival-2022",
+         "pubDate" : "Fri, 22 Jul 2022 18:28:00 +0400",
+         "title" : "55th Biel Chess Festival 2022 - Games and Results"
       },
       {
          "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
@@ -186,38 +282,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Carlsen Sicilian"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Yasser and Miro after the fifth rapid round to talk about his newfound spot in next year's world championship match during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ding-liren-carlsen-prefers-enjoy-chess-rather-suffer-rapid-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ding-liren-carlsen-prefers-enjoy-chess-rather-suffer-rapid-5",
-         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
-         "title" : "Ding Liren: Carlsen Prefers to Enjoy Chess Rather than Suffer | Rapid 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players suggest what they believe is the perfect format for the world chess championship. This aired during Day 2. 2022.07.19<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-superunited-rapid-blitz-croatia-ideal-championship-format\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xd1-84SCy60.jpg?itok=2K0_8M1Y\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-ideal-championship-format",
-         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Ideal Championship Format"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jorden van Foreest talks to Alejandro Ramirez after his sixth rapid round victory over Ian Nepomniachtchi during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/van-foreest-exceptionally-good-day-rapid-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w7ro5a89xFo.jpg?itok=u",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/van-foreest-exceptionally-good-day-rapid-5",
-         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
-         "title" : "van Foreest: An Exceptionally Good Day | Rapid 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-2",
-         "pubDate" : "Thu, 21 Jul 2022 17:48:59 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93037092.cms\" />When New Delhi Grandmaster Sahaj Grover visited South Africa for the Commonwealth chess tournament in 2013 --- little did he know that the country would become his second home in the coming years. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -232,30 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-2-day-1",
          "pubDate" : "Thu, 21 Jul 2022 08:37:58 -0700",
          "title" : "Hakobyan, Muradli Win Chess.com Global Play-Ins"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-3-lichessorg",
-         "pubDate" : "Thu, 21 Jul 2022 14:48:45 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 3 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after his fourth rapid round draw with Magnus Carlsen during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-playing-fast-and-good-rapid-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5NebM-OYXYI.jpg?itok=KkYt59rq\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-playing-fast-and-good-rapid-4",
-         "pubDate" : "Thu, 21 Jul 2022 14:48:45 +0000",
-         "title" : "Firouzja: Playing Fast and Good | Rapid 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Alejandro Ramirez after his fourth rapid round victory over Ivan Saric during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.21<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-carlsens-decision-shocking-understandable-rapid-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AG4FjHtBAL0.jpg?itok=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-carlsens-decision-shocking-understandable-rapid-4",
-         "pubDate" : "Thu, 21 Jul 2022 14:48:45 +0000",
-         "title" : "Wesley So: Carlsen's Decision Shocking, but Understandable | Rapid 4"
       },
       {
          "description" : "In what can be only described as a wonderfully inspiring 'comeback' story, the 2022 Fields Medal was awarded, among others, to June Huh for his work in chromatic polynomials, stemming from a chess puzzle involving four knights. The Fields Medal is one of the most prestigious awards in Mathematics, given out only once every four years, to the brightest minds in the field. | Photo: Ruth Fremson/The New York Times",
@@ -496,22 +536,6 @@ news_feed (
          "link" : "https://www.chessdom.com/grand-chess-tour-croatia-2022-pairings-live/",
          "pubDate" : "Wed, 20 Jul 2022 09:49:00 +0000",
          "title" : "Grand Chess Tour Croatia 2022 - Pairings & LIVE games"
-      },
-      {
-         "description" : "The 1000 GM/IM St. Louis Norm Tournaments&#160;take from 19-23 July in Saint Louis, Missouri. Both IM and GM events will be played in 9 rounds, round-robin system. The time control will be: 90 minutes + 30 seconds increment. GM Dragun Kamil,&#160;GM Vladimir Belous&#160;and&#160;FM Andy Woodward&#160;&#x2013;&#160;the top U12 player in the world are headlining the Grandmaster []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000-gm-im-st-louis-tournaments-live/",
-         "pubDate" : "Wed, 20 Jul 2022 09:47:42 +0000",
-         "title" : "1000 GM/IM St. Louis Tournaments LIVE"
-      },
-      {
-         "description" : "The 2022 Amsterdam Science Park Chess Tournaments take place from 18-24 July at the USC Universum Sports and Fitness Center Amsterdam, Netherlands. The event features three 9-round swiss system tournaments: A (for players rated 1900+), B (for players rated 1600-1950) and C (for players rated U1650). The total prize fund of the events is 5.000 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/amsterdam-science-park-chess-tournaments-2022/",
-         "pubDate" : "Wed, 20 Jul 2022 09:40:23 +0000",
-         "title" : "Amsterdam Science Park Chess Tournaments 2022"
       },
       {
          "description" : "The $175,000 SuperUnited Rapid & Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
@@ -1626,14 +1650,6 @@ news_feed (
          "title" : "Jonny Hector wins Swedish Championship"
       },
       {
-         "description" : " The 55th Biel Chess Festival takes place 10th to 24th July 2022. The event is a mixture of Classical, Rapid and Blitz - what they call the Grandmaster Triathlon. In addition the same players also compete in a Chess960 tournament that doesn't count to the final standings. There's also the traditional strong open alongside. Players in the main event: Andrey Esipenko, Le Quang Liem, Salem Saleh, Gata Kamsky, Vincent Keymer, Nodirbek Abdusattorov, Arkadij Naiditsch and Dommaraju Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/55th-biel-chess-festival-2022",
-         "pubDate" : "Sun, 10 Jul 2022 21:46:00 +0400",
-         "title" : "55th Biel Chess Festival 2022 - Games and Results"
-      },
-      {
          "description" : " The 35th Leon Chess tournament took place 8th to 10th July. Boris Gelfand beat Viswanthan Anand 2-0 in a blitz tie-break after their rapid final was drawn 2-2. Jaime Santos Latasa and Andrey Esipenko lost in the semi-finals.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/ftx-road-to-miami-2022",
          "pubDate" : "Sun, 10 Jul 2022 18:32:00 +0400",
          "title" : "FTX Road to Miami 2022 - Games and Results"
-      },
-      {
-         "description" : "The second semifinal of the Leon Masters between Boris Gelfand and Andrey Esipenko was a thrilling affair. After a disastrous start with White, Gelfand won an excellent second game, which was followed by two draws. In the tiebreaks, the contenders traded wins before Gelfand won the Armageddon by out-blitzing his young opponent. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-masters-2022-sf2",
-         "pubDate" : "Sun, 10 Jul 2022 15:30:00 +0100",
-         "title" : "Le&oacute;n: Gelfand quicker than Esipenko"
       },
       {
          "description" : " The New Zealand Chess Federation has announced the opening of a new chess centre in Auckland. The Howick Chess Centre (in Howick!) is a joint effort by Paul Spiller and the NZCF, providing both a venue for regular chess activities, and as a NZCF Office for the storage of historical items, and as a shop for NZCF items. Recognising the economic reality of such a venture, the Centre will be running until at least July 2023, at which time a review in its operation will take place. A worthy initiative by Paul Spiller and the NZCF, and one I am sure many other chess federations would like to emulate. ",
@@ -2160,30 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1842",
          "pubDate" : "Fri, 01 Jul 2022 22:16:03 +0000",
          "title" : "Candidates 2022, Round 12: Nepomniachtchi half a step away from winning the Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1841",
-         "pubDate" : "Fri, 01 Jul 2022 19:11:36 +0000",
-         "title" : "FIDE Athletes Commission elections to be held in Chennai"
-      },
-      {
-         "description" : " <p class=\"lead\">Round 12 of the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> ended with a 7-minute draw in the Nepomniachtchi - Nakamura game, Teimour Radjabov won his game against Ding Liren, Alireza Firouzja escaped defeat by Jan-Krzysztof Duda, their fight as well as Rapport-Caruana game, ended in a draw! Now Nepo only needs to draw in any of the next two games to guarantee himself another World Championship Match! <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/52186813215_a9e9d8dbdf_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldches",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/recap-of-the-round-12-of-the-fide-candidates-2022/",
-         "pubDate" : "Fri, 01 Jul 2022 17:36:11 +0000",
-         "title" : "Lifesaving draws, and a Huge Loss for Ding Liren in Round 12"
-      },
-      {
-         "description" : " Ian Nepomniachtchi edged ever closer to winning the Candidates tournament in Madrid and a World Chess Championship match early in 2023. Nepomniachtchi had the white pieces against Hikaru Nakamura and they played a well known sequence of moves to draw in only a few minutes. Nakamura said he didn't see any upside to going into a battle with black today where even if he won he was unlikely to overhaul Nepomniachtchi. After other results today Nepomniachtchi now only needs a draw to confirm tournament victory, I rather doubt it will turn out he needs any more points at all. The only decisive result of the day was an almost complete catastrophe with the white pieces for Ding Liren against Teimou",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-needs-at-most-just-one-more-draw-to-win-the-candidates",
-         "pubDate" : "Fri, 1 Jul 2022 20:31:00 +0400",
-         "title" : "Nepomniachtchi needs at most just one more draw to win the Candidates - 12"
       }
    ]
 }
