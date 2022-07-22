@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1876",
+         "pubDate" : "Fri, 22 Jul 2022 21:52:02 +0000",
+         "title" : "Winners crowned at 2022 Biel Chess Festival"
+      },
+      {
+         "description" : " Yesterday the Association of Chess Professionals held a roundtable hosting the FIDE Presidential Candidates on the future for chess. The FIDE Presidential Election will be held on August 7, 2022, at the FIDE General Assembly in Chennai, India. The topic of the discussion was, &#8220;The Next 4 Years The Future for Chess and FIDE.&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/22/discussion-the-future-for-chess-and-fide/\">Discussion: The Future for Chess and FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/22/discussion-the-future-for-chess-and-fide/",
+         "pubDate" : "Fri, 22 Jul 2022 20:29:29 +0000",
+         "title" : "Discussion: The Future for Chess and FIDE"
+      },
+      {
          "description" : "The 2022 ECU General Assembly will take place on Saturday, 23rd July 2022 in Hotel Porto Palace Thessaloniki, Greece. The ECU Board meeting will be held a day before, on Friday, 22nd July 2022, in the same venue. The morning session, Saturday 23rd July 2022: 09.30 &#x2013; 13.30 live The afternoon session, Saturday 23rd July []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1938,14 +1954,6 @@ news_feed (
          "title" : "Weird book statistics"
       },
       {
-         "description" : " Ian Nepomniachtchi won the Candidates Tournament yesterday ending on an undefeated 9.5/14. In fact, he avoided real trouble (for the most part) and his +5 showed a consistent level. Magnus Carlsen spent a few days in Madrid and met with FIDE President Arkady Dvorkovich and Director-General GM Emil Sutovsky. They discussed potential format changes. Photo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/\">Nepomniachtchi wins Candidates Carlsen undecided on rematch</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/05/nepo-wins-candidates-carlsen-undecided-on-rematch/",
-         "pubDate" : "Tue, 05 Jul 2022 14:02:25 +0000",
-         "title" : "Nepomniachtchi wins Candidates&hellip; Carlsen undecided on rematch"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG\" data-image-dimensions=\"1333x674\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c39202f91a6a40045fa650\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG?format=1000w\" /> </figure> <p class=\"\">On this month's Adult Improver Edition of Perpetual Chess I am joined by Dr. Nicholas Vasquez. Dr. Vasquez is a dad and emergency physician who finds chess a welcome escape from a",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/1/fide-candidates-round-12-update-im-christof-sielecki-on-nepomniatchtchis-dominance-and-the-tight-battle-for-2nd-place",
          "pubDate" : "Sat, 02 Jul 2022 00:28:08 +0000",
          "title" : "FIDE Candidates Round 12 Update- IM Christof Sielecki on Nepomniatchtchi's Dominance and the Tight Battle For 2nd Place "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1842",
-         "pubDate" : "Fri, 01 Jul 2022 22:16:03 +0000",
-         "title" : "Candidates 2022, Round 12: Nepomniachtchi half a step away from winning the Candidates"
       }
    ]
 }
