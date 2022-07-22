@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The results of round 6 of the classical section set up a showdown between Le Quang Liem and Andrey Esipenko. The former only needs a draw to clinch the title. | The seventh round of the classical section kicks off Friday at 10.00 CEST (4.00 ET, 13.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
+         "pubDate" : "Fri, 22 Jul 2022 09:55:00 +0100",
+         "title" : "Biel Chess Festival - Live"
+      },
+      {
+         "description" : "The 30th edition of the Southern Chess Open will take place from 22-24 July in Wyndham Orlando Resort, Florida. The event features five tournaments: Major (for players rated 1900+), Under 2100, Under 1800, Under 1500 and Under 1200 with a guaranteed prize fund of 20.000$. The top seeds of the main Major tournament are GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/30th-annual-southern-chess-open-2022/",
+         "pubDate" : "Fri, 22 Jul 2022 07:55:38 +0000",
+         "title" : "30th annual Southern Chess Open 2022"
+      },
+      {
+         "description" : "In a fitting end to the season, Stockfish once again defeated its rivals to win the final event the Fischer Random Chess final, thus completing a quadruple crown at the Top Chess Engine Championship! The four titles of Stockfish:&#xA0;Stockfish wins TCEC League&#xA0;/&#xA0;Stockfish wins TCEC Cup&#xA0;/&#xA0;Stockfish wins TCEC Swiss / Stockfish wins TCEC Fischer random []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-tcec-fischer-random-chess-final-to-cap-quadruple-crown/",
+         "pubDate" : "Fri, 22 Jul 2022 07:51:02 +0000",
+         "title" : "Stockfish wins TCEC Fischer Random Chess final to cap quadruple crown"
+      },
+      {
+         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">won't defend his title</a> against Ian Nepomniachtchi. The Russian GM will face the Chinese GM Ding Liren at the 2023 World Chess Championship match, but he is obviously disappointed by the turn of events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51720699962_f247e32c4f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> The 2022 Challenger Ian Nepomniachtchi talked to Alejandro Ramirez for the Saint Louis Chess Club after his third rapid round loss t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nepomniachtchi-magnus-felt-like-a-hostage-of-the-whole-situation/",
+         "pubDate" : "Fri, 22 Jul 2022 07:30:41 +0000",
+         "title" : "Nepomniachtchi: \"Magnus felt like a hostage of the whole situation\""
+      },
+      {
          "description" : " The 31-year-old Norwegian will target a 2900 rating after announcing that he will not play Ian Nepomniachtchi in 2023. The Russian and China's Ding Liren, world Nos 3 and 2, will meet for the vacant crown Magnus Carlsen will not defend his world championship title in 2023 against Russia's Ian Nepomniachtchi. The five-times title winner will instead aim for a new <a href=\"https://www.2700chess.com/\" title=\"\">record playing level</a>. Carlsen explained, in a podcast for Unibet: \" I am not motivated to play another match. I feel that I don't have a lot to gain, and I will simply not play.\" He said that he had thought about his decision since well before the 2021 series where he defeated Nepomn",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -440,22 +472,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-nepomniachtchi-in-zagreb-gct-opening-game",
          "pubDate" : "Wed, 20 Jul 2022 09:04:08 +0000",
          "title" : "Carlsen-Nepomniachtchi in Zagreb GCT opening game"
-      },
-      {
-         "description" : "The third tournament and the midway point of the&#xA0;Grand Chess Tour&#xA0;starts today and takes place at the Westin Zagreb from July 19-24. The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet Foundation and will include 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. The field []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-ian-nepomniachtchi-in-the-1st-round-of-grand-chess-tour-croatia/",
-         "pubDate" : "Wed, 20 Jul 2022 08:32:21 +0000",
-         "title" : "Magnus Carlsen vs Ian Nepomniachtchi in the 1st round of Grand Chess Tour Croatia"
-      },
-      {
-         "description" : "International Chess Federation (FIDE) was founded on 20th July in 1924 in Paris, under the motto &#x201C;Gens una Sumus&#x201D; (Latin for &#x201C;We are one Family&#x201D;). Today, FIDE celebrates the 98th birthday anniversary and the whole World celebrates the&#xA0;International Chess Day! Three years ago, on 12 December 2019, the&#xA0;General Assembly of the United Nations&#xA0;proclaimed&#xA0;20 July as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-international-chess-day-2/",
-         "pubDate" : "Wed, 20 Jul 2022 07:58:13 +0000",
-         "title" : "Happy International Chess Day!"
       },
       {
          "description" : "With their victories today, Lê Quang Liêm and Andrey Esipenko climbed to first and second places in the Biel Grandmaster Triathlon. Esipenko defeated former leader Gukesh, while Lê prevailed against Keymer. There was also a change of leader in the Ladies' Quadriathlon, with France's Margaux Moracchini taking the lead for the first time. | Photos: Biel Chess Festival",
@@ -1698,28 +1714,12 @@ news_feed (
          "title" : "The Guardian: \"FIDE needs Carlsen more than Carlsen needs FIDE\""
       },
       {
-         "description" : "Does Black have perpetual check in the diagram position after 14...Nf3+ - or more? A look back at a classic, played 125 years ago - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oldie-goldie",
-         "pubDate" : "Sat, 09 Jul 2022 09:00:00 +0100",
-         "title" : "Oldie goldie"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1853",
          "pubDate" : "Fri, 08 Jul 2022 21:01:24 +0000",
          "title" : "Harika Dronavalli and Tan Zhongyi progress into quarterfinals"
-      },
-      {
-         "description" : "A group of chess stars will be flying to Florida this summer for the biggest esports chess tournament ever held on US soil. The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth Tour event of the season will take place online from July 10 to 17 titled the FTX Road to Miami.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-preview",
-         "pubDate" : "Fri, 08 Jul 2022 22:00:00 +0100",
-         "title" : "Starting Sunday: FTX Road to Miami online tournament"
       },
       {
          "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2192,14 +2192,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-12/",
          "pubDate" : "Fri, 01 Jul 2022 08:58:41 +0000",
          "title" : "Watch the FIDE Candidates Tournament 2022: Round 12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/counties-championship-2022/#new_tab",
-         "pubDate" : "Fri, 01 Jul 2022 08:08:57 +0000",
-         "title" : "Counties Championship Finals - results from Saturday 2/7/22"
       }
    ]
 }
