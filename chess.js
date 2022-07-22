@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 31-year-old Norwegian will target a 2900 rating after announcing that he will not play Ian Nepomniachtchi in 2023. The Russian and China's Ding Liren, world Nos 3 and 2, will meet for the vacant crown Magnus Carlsen will not defend his world championship title in 2023 against Russia's Ian Nepomniachtchi. The five-times title winner will instead aim for a new <a href=\"https://www.2700chess.com/\" title=\"\">record playing level</a>. Carlsen explained, in a podcast for Unibet: \" I am not motivated to play another match. I feel that I don't have a lot to gain, and I will simply not play.\" He said that he had thought about his decision since well before the 2021 series where he defeated Nepomn",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jul/22/chess-five-time-champion-magnus-carlsen-aims-high-after-abdicating-title",
+         "pubDate" : "Fri, 22 Jul 2022 07:00:06 +0000",
+         "title" : "Chess: Five-times champion Magnus Carlsen aims high after abdicating title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93044148.cms\" />Magnus Carlsen, just 31, has made a courageous and somewhat understandable decision of not defending his world chess crown.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-gambit-is-set-to-devalue-world-chess-crown/articleshow/93044148.cms",
+         "pubDate" : "Fri, 22 Jul 2022 04:58:57 +0000",
+         "title" : "Magnus Carlsen's gambit is set to devalue world chess crown"
+      },
+      {
          "description" : "Both the Grandmaster Triathlon and the Women's Quadriathlon in Biel will feature direct encounters between the first and second placed participants in final-round battles for the respective titles. Le Quang Liem has a 3-point lead over Andrey Esipenko (a win is worth 4 points) in the GM Triatholn, while Iris Ciarletta has a 1-point lead over Zhuang Yongzhe in the ladies' Quadriathlon. | The final round kicks off four hours earlier than usual, at 10.00 CEST. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2184,14 +2200,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/counties-championship-2022/#new_tab",
          "pubDate" : "Fri, 01 Jul 2022 08:08:57 +0000",
          "title" : "Counties Championship Finals - results from Saturday 2/7/22"
-      },
-      {
-         "description" : " England over-50s, led by Michael Adams and Nigel Short, dominated the world seniors event in Italy England's over-50 and over-65 teams completed a historic golden double on Wednesday in the world senior championships at Acqui Terme, Italy, Both led their tournaments from start to finish, overcame some dubious positions en route, and were virtually sure of victory with a round to spare. The seven-times British champion Michael Adams turned 50 last November, and the Cornishman played a key role by winning an apparently drawn knight ending in the decisive match against the United States, then outplaying Italy's Alberto David in a seemingly level rook ending. More England games can be viewed in",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jul/01/chess-england-win-three-world-titles-while-ian-nepomniachtchi-nears-victory",
-         "pubDate" : "Fri, 01 Jul 2022 07:00:05 +0000",
-         "title" : "Chess: England win three world titles while Ian Nepomniachtchi nears victory"
       }
    ]
 }
