@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU Board Meeting took place today, Friday, 22nd of July 2022 in Thessaloniki, Greece. The board discussed the final preparations for the ECU General Assembly 2022 which will be held tomorrow at 09.30 in the same venue. ECU Board discussed the bids received by the deadline of the 29th of April 2022. The ECU received three solo&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-ecu-board-meeting-held-in-thessaloniki-greece/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-ecu-board-meeting-held-in-thessaloniki-greece/",
+         "pubDate" : "Fri, 22 Jul 2022 11:13:27 +0000",
+         "title" : "The ECU Board Meeting held in Thessaloniki, Greece"
+      },
+      {
+         "description" : " <p class=\"lead\">Magnus Carlsen, the current World Chess Champion, stunned fans earlier this week by announcing that he will not be defending his title in the next match and will effectively retire from the Championship cycle (but not from chess). <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1275\" data-ratio=\"1.5625\"> <img src=\"https://worldchess.com/news/pictures/1-12.jpg\" width=\"1275\" height=\"816\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Snimok-ekrana-2022-07-22-v-12.51.37.png\" width=\"2150\" height=\"1574\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <a href=\"https://yougov.co.uk\">YouGov</a>, the leading research company and",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/only-7-of-people-know-the-name-of-the-current-world-chess-champi/",
+         "pubDate" : "Fri, 22 Jul 2022 10:27:44 +0000",
+         "title" : "Only 7% of People Know The Name of The Current World Chess Champion"
+      },
+      {
          "description" : "The results of round 6 of the classical section set up a showdown between Le Quang Liem and Andrey Esipenko. The former only needs a draw to clinch the title. | The seventh round of the classical section kicks off Friday at 10.00 CEST (4.00 ET, 13.30 IST). Follow the games live. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +50,12 @@ news_feed (
          "title" : "Nepomniachtchi: \"Magnus felt like a hostage of the whole situation\""
       },
       {
-         "description" : " The 31-year-old Norwegian will target a 2900 rating after announcing that he will not play Ian Nepomniachtchi in 2023. The Russian and China's Ding Liren, world Nos 3 and 2, will meet for the vacant crown Magnus Carlsen will not defend his world championship title in 2023 against Russia's Ian Nepomniachtchi. The five-times title winner will instead aim for a new <a href=\"https://www.2700chess.com/\" title=\"\">record playing level</a>. Carlsen explained, in a podcast for Unibet: \" I am not motivated to play another match. I feel that I don't have a lot to gain, and I will simply not play.\" He said that he had thought about his decision since well before the 2021 series where he defeated Nepomn",
+         "description" : " The 31-year-old will target a 2900 rating after announcing he will not play Ian Nepomniachtchi in 2023. The Russian and Ding Liren, world Nos 3 and 2, will meet for the vacant crown Magnus Carlsen will not defend his world championship title in 2023 against Russia's Ian Nepomniachtchi. The five-times title winner will instead aim for a new <a href=\"https://www.2700chess.com/\" title=\"\">record playing level</a>. Carlsen explained, in a podcast for Unibet: \" I am not motivated to play another match. I feel that I don't have a lot to gain, and I will simply not play.\" He said that he had thought about his decision since well before the 2021 series where he defeated Nepomniachtchi without losing",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jul/22/chess-five-time-champion-magnus-carlsen-aims-high-after-abdicating-title",
          "pubDate" : "Fri, 22 Jul 2022 07:00:06 +0000",
-         "title" : "Chess: Five-times champion Magnus Carlsen aims high after abdicating title"
+         "title" : "Chess: five-times champion Magnus Carlsen aims high after abdicating title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93044148.cms\" />Magnus Carlsen, just 31, has made a courageous and somewhat understandable decision of not defending his world chess crown.",
@@ -456,14 +472,6 @@ news_feed (
          "link" : "https://www.chessdom.com/amsterdam-science-park-chess-tournaments-2022/",
          "pubDate" : "Wed, 20 Jul 2022 09:40:23 +0000",
          "title" : "Amsterdam Science Park Chess Tournaments 2022"
-      },
-      {
-         "description" : "After the&#xA0;European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the&#xA0;European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. Live games from U14, U16 and U18 categories (open and girls sections) can be followed live on Chessdom.com.Read []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-rapidblitz-chess-championships-2022-live/",
-         "pubDate" : "Wed, 20 Jul 2022 09:23:20 +0000",
-         "title" : "European Youth Rapid&Blitz Chess Championships 2022 LIVE"
       },
       {
          "description" : "The $175,000 SuperUnited Rapid & Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
@@ -2168,30 +2176,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/nepomniachtchi-needs-at-most-just-one-more-draw-to-win-the-candidates",
          "pubDate" : "Fri, 1 Jul 2022 20:31:00 +0400",
          "title" : "Nepomniachtchi needs at most just one more draw to win the Candidates - 12"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://twitter.com/TarjeiJS\">Tarjei J. Svensen</a> revealed on <a href=\"https://new.chess24.com/wall/news/carlsen-confirms-world-series-of-poker-participation\">chess24</a> that the World Champion Magnus Carlsen will participate in the World Series of Poker (WSOP) in Las Vegas next week. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-07-01-at-12.51.56-PM.png\" width=\"1904\" height=\"1062\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen just bluffed with 0% chance to win! Photo: <a href=\"https://www.youtube.com/watch?v=nbPTZP5tkNc\">Magnus Carlsen Youtube Channel</a></div> </div> With the chess community wondering if Ca",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-turning-to-poker/",
-         "pubDate" : "Fri, 01 Jul 2022 10:02:36 +0000",
-         "title" : "Magnus Carlsen is turning to Poker"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://english.elpais.com/economy-and-business/2022-06-29/hikaru-nakamura-meet-the-worlds-wealthiest-chess-player.html\">El Pais</a> published an article claiming that GM Hikaru Nakamura is the world's wealthiest chess player. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hikaru-Nakamura-World-Chess.png\" width=\"2342\" height=\"1556\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> According to multiple sources the 34-year-old GM has a fortune around $50 million with only a small percentage of those earnings coming from prizes he has won in chess competitions. \"I am losing money in this tournament [Candidates 2022],\"",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nakamuras-fortune-is-estimated-around-50-million/",
-         "pubDate" : "Fri, 01 Jul 2022 09:47:16 +0000",
-         "title" : "Nakamura's fortune is estimated around $50 million"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/lUFgg5AVFRM?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-12/",
-         "pubDate" : "Fri, 01 Jul 2022 08:58:41 +0000",
-         "title" : "Watch the FIDE Candidates Tournament 2022: Round 12"
       }
    ]
 }
