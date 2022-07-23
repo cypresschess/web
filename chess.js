@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the first blitz round robin. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-4",
+         "pubDate" : "Sat, 23 Jul 2022 20:50:14 +0000",
+         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 4"
+      },
+      {
+         "description" : "An online &#34;round-table&#34; discussion organized by the Association of Chess Professionals (ACP) on Thursday saw three FIDE presidential candidates, the incumbent president Arkady Dvorkovich, GM Andrii Baryshpolets, and GM Bachar Kouatly, debating ove...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-presidential-candidates-acp-round-table-discussion",
+         "pubDate" : "Sat, 23 Jul 2022 13:45:29 -0700",
+         "title" : "Friendly Clash Among FIDE Presidential Candidates In ACP Round Table Discussion"
+      },
+      {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Fabiano Caruana won the week 22 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 53 competitors&#38;mdas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-22-swiss",
+         "pubDate" : "Sat, 23 Jul 2022 13:14:00 -0700",
+         "title" : "Caruana Wins Week 22 Swiss: Summary Report"
+      },
+      {
          "description" : "Three participants of the 2022 Biel Chess Master Tournament will held the event in particularly good memory they achieved norms. Congratulations to IM Pranav Anand and CM Prraneeth Vuppala won GM norm, while WFM G&#xFC;lenay Aydin achieved a WIM norm. More: Le Quang Liem wins Biel Chess Festival 2022 / Replay games",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/van-foreest-atop-leaderboard-after-rapids-rapid-9",
          "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
          "title" : "van Foreest: Atop the Leaderboard after Rapids | Rapid 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Alejandro Ramirez after his ninth rapid round draw with Wesley So during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-messing-great-positions-rapid-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IoAfz3oqFO0.jpg?itok=l0KUeSKp\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mamedyarov-messing-great-positions-rapid-9",
-         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
-         "title" : "Mamedyarov: Messing Up Great Positions | Rapid 9"
       },
       {
          "description" : "The 23rd edition of the Pittsburgh Chess Open 2022 will be held from 22-24 July at the Doubletree Green Tree Pittsburgh, Pennsylvania. The program includes five different tournaments; Major (for players rated 1900+), Under 2100, Under 1800, Under 1500, and Under 1200, with a guaranteed prize fund of 15.000$. The events will be played in []",
@@ -1506,14 +1522,6 @@ news_feed (
          "title" : "12 Ukrainian players will receive help with expenses at the European Championship"
       },
       {
-         "description" : "GM Vidit Gujrathi and GM Alexey Sarana won the first and second Play-ins of the Chess.com Global Championship.&#38;nbsp; Vidit and Sarana advance to the main event along with GMs Rasmus Svane and Oleksandr Bortnyk, victors of the two-game matches be...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-championship-play-in-week-1-day-1",
-         "pubDate" : "Tue, 12 Jul 2022 07:36:59 -0700",
-         "title" : "Vidit and Sarana Win Inaugural Chess.com Global Play-Ins"
-      },
-      {
          "description" : " On of the difficulties at the start of recent chess olympiads is having all the registered players turn up. The main cause for no shows is visa difficulties, as for a lot of countries getting a visa is a very difficult process. A lot of small Pacific nations do not have an embassy or consulate of the host country and have to send passports and forms to Australia or the Philippines months in advance. On the other hand European countries rarely have this difficulty, as they either have free movement in the countries hosting the Olympiad, or the EU has reciprocal arrangements, making visa applications pretty straightforward. Interestingly enough, India has an online application process, which ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-zone",
          "pubDate" : "Tue, 12 Jul 2022 09:00:00 +0100",
          "title" : "The winning zone"
-      },
-      {
-         "description" : "GM Sam Sevian captured the lead on day two of the FTX Road to Miami tournament as he won three games back-to-back before a walkover vs. GM Teimour Radjabov, who left the tournament due to illness. GM Ju Wenjun had a splendid second day of chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-2",
-         "pubDate" : "Mon, 11 Jul 2022 17:33:00 -0700",
-         "title" : "Sevian Captures Lead While Ju Wenjun Wins 3 Games"
       },
       {
          "description" : "Indian prodigy Gukesh won his fifth consecutive tournament in Spain, fourth in this year. He scored an unbeaten 8/9 to win the 14th Gijon City Closed tournament, finishing 1&frac12; points ahead of the competition. The youngest GM of India gained 9.7 Elo points and is now less than 7 points away from reaching the 2700-rating barrier. | Photo: Gij&oacute;n 64",
