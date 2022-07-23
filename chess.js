@@ -2122,14 +2122,6 @@ news_feed (
          "title" : "India to field third team in Open section at Chess Olympiad"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92622923.cms\" />Team USA will be the top seeds in the open section at the upcoming 44th chess Olympiad scheduled to be held here from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/usa-top-seeds-for-chess-olympiad/articleshow/92622923.cms",
-         "pubDate" : "Sat, 02 Jul 2022 15:28:07 +0000",
-         "title" : "USA top seeds for chess Olympiad"
-      },
-      {
          "description" : " The team lists for the 2022 Chess Olympiad have been posted today. In the Open Olympiad, the USA are the top seeds, followed by Azerbaijan and India. Norway has moved up to 4th seeding, boosted by the presence of Magnus Carlsen on the team. Australia is currently ranked 28th, while PNG is seeded 166th. In the Women's Olympiad, India, Ukraine and Georgia are seeded at the top. Australia starts in 35th place, which , like the Open team, is a pretty good seeding. You can see the Open <a href=\"http://chess-results.com/tnr653631.aspx?lan=1\">teams here</a>, while the Women's teams are at <a href=\"http://chess-results.com/tnr653632.aspx?lan=1&amp;art=0&amp;flag=30\">this link</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
