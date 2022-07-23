@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Sat, 23 Jul 2022 14:55:00 +0100",
+         "title" : "NC World Masters / Deutschland Grand Prix: Live"
+      },
+      {
          "description" : "Jorden van Foreest described it as \"pretty surreal\" as he took down Alireza Firouzja in the final round of rapid chess to top the table before the SuperUnited blitz games begin in Zagreb, Croatia. It's incredibly tight at the top, however, with Firouzja, Magnus Carlsen and Wesley So all just one point behind.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1650,14 +1658,6 @@ news_feed (
          "title" : "From Spassky-Fischer to Carlsen-Nepomniachtchi (?)"
       },
       {
-         "description" : "Learn from the best players in the world! The \"MasterClass\" series introduces you to the facets of the chess legends. In interactive video format with training feedback! Volume 1 to 14 with Fischer, Carlsen, Kasparov, Karpov and many more! You can get them both this week at a sensational discount: instead of the €418 list price you can get them all, volumes 1-14, for just €199.90!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deal-of-the-week-masterclass-1-14",
-         "pubDate" : "Mon, 11 Jul 2022 11:00:00 +0100",
-         "title" : "Deal of the Week: Masterclass 1-14"
-      },
-      {
          "description" : "The All India Chess Federation takes immense pleasure in announcing the launch of the ticketing portal of the 44th Chess Olympiad. The chess fans who",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-field-third-team-in-open-section-at-chess-olympiad/articleshow/92632637.cms",
          "pubDate" : "Sun, 03 Jul 2022 09:16:42 +0000",
          "title" : "India to field third team in Open section at Chess Olympiad"
-      },
-      {
-         "description" : " The team lists for the 2022 Chess Olympiad have been posted today. In the Open Olympiad, the USA are the top seeds, followed by Azerbaijan and India. Norway has moved up to 4th seeding, boosted by the presence of Magnus Carlsen on the team. Australia is currently ranked 28th, while PNG is seeded 166th. In the Women's Olympiad, India, Ukraine and Georgia are seeded at the top. Australia starts in 35th place, which , like the Open team, is a pretty good seeding. You can see the Open <a href=\"http://chess-results.com/tnr653631.aspx?lan=1\">teams here</a>, while the Women's teams are at <a href=\"http://chess-results.com/tnr653632.aspx?lan=1&amp;art=0&amp;flag=30\">this link</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/2022-olympiad-teams.html",
-         "pubDate" : "Sat, 02 Jul 2022 12:59:00 +0000",
-         "title" : "2022 Olympiad Teams"
       }
    ]
 }
