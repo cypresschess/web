@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jorden van Foreest described it as \"pretty surreal\" as he took down Alireza Firouzja in the final round of rapid chess to top the table before the SuperUnited blitz games begin in Zagreb, Croatia. It's incredibly tight at the top, however, with Firouzja, Magnus Carlsen and Wesley So all just one point behind.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/zagreb-gct-3-jorden-beats-firouzja-to-win-rapid",
+         "pubDate" : "Sat, 23 Jul 2022 10:17:59 +0000",
+         "title" : "Zagreb GCT 3: Jorden beats Firouzja to win Rapid"
+      },
+      {
+         "description" : "Chess is one of the most-played sports in the world. In the first official Chess Awareness Barometer, World Chess, a London-based long-term commercial partner of FIDE, is conducting a survey in the UK and USA to find out how many people know the name of the current World Champion and where he is from. 7% know the name of the Champion, and 6% know that he was born in Norway. Here's the breakdown provided by World Chess. | Photo World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/do-you-know-this-guy",
+         "pubDate" : "Sat, 23 Jul 2022 11:00:00 +0100",
+         "title" : "Do you know this guy?"
+      },
+      {
+         "description" : "Zurab Azmaiparashvili is re-elected as ECU President. Congratulations! The ticket of Mr. Zurab Azmaiparashvili was elected with 44 votes in favor, 2 blank, and 3 invalid ballots in a total of 49 votes cast. Follow the General Assembly of ECU live here ECU President: Mr. Zurab AzmaiparashviliDeputy President: Mrs. Dana Reizniece-OzolaVice President: Mr. Gunnar BjornssonVice []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zurab-azmaiparashvili-ecu-president-2022",
+         "pubDate" : "Sat, 23 Jul 2022 09:44:38 +0000",
+         "title" : "Zurab Azmaiparashvili is re-elected ECU President"
+      },
+      {
+         "description" : "Vishy Anand continues to lead the standings in the No-Castling World Masters after drawing Dmitrij Kollars on Friday. In the Sparkassen Open-A, one of many tournaments taking place as part of the Dortmund Chess Festival, Dutch GM Max Warmerdam has scored 7 points in as many games. Warmerdam beat Thomas Beerdsen in style and analysed his victory in the post-game interview. | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r5",
+         "pubDate" : "Sat, 23 Jul 2022 10:15:00 +0100",
+         "title" : "Dortmund Festival: Warmerdam still perfect in the Open"
+      },
+      {
+         "description" : "The announcement of a new book by the Dutch Grandmaster and world title aspirant, Jan Timman, is always a cause for celebration. One of the sharpest and most literate of chess playing and writing brains, Timman's new book The Unstoppable American reminds me that the fiftieth anniversary of Bobby Fischer becoming World Champion falls due this []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/is-magnus-carlsen-following-bobby-fischers-fatal-example/",
+         "pubDate" : "Sat, 23 Jul 2022 09:13:44 +0000",
+         "title" : "Is Magnus Carlsen following Bobby Fischer's fatal example?"
+      },
+      {
          "description" : "Thanks to a draw against direct rival Andrey Esipenko, Le Quang Liem grabbed the Grandmaster Triathlon title at the Biel Chess Festival. Le came from winning three games in a row in the classical section, and got a well-deserved first place as he was also the top scorer in the rapid section. Yongzhe Zhuang from Switzerland won the Ladies' Quadriathlon, while Mahammad Muradli from Azerbaijan was the surprise winner in the Masters Open Tournament. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,14 +194,6 @@ news_feed (
          "title" : "SuperUnited Croatia Rapid & Blitz: Live"
       },
       {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Fri, 22 Jul 2022 14:55:00 +0100",
-         "title" : "NC World Masters / Deutschland Grand Prix: Live"
-      },
-      {
          "description" : "India are now 2nd seeds for the Chess Olympiad that starts on July 29th, with Magnus Carlsen's Norway 3rd, after Azerbaijan plunged from 2nd to 6th when Teimour Radjabov dropped out of the team. Vasif Durarbayli criticised his colleague, but Teimour now cites the after-effects of a COVID infection.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -210,12 +242,12 @@ news_feed (
          "title" : "Only 7% of People Know The Name of The Current World Chess Champion"
       },
       {
-         "description" : "The results of round 6 of the classical section set up a showdown between Le Quang Liem and Andrey Esipenko. The former only needs a draw to clinch the title. | The seventh round of the classical section kicks off Friday at 10.00 CEST (4.00 ET, 13.30 IST). Follow the games live. | Photos: Biel Chess Festival",
+         "description" : "Le Quang Liem drew Andrey Esipenko in the final round to clinch first place in the Grandmaster Triathlon. Esipenko and Gukesh reached the podium. | The Triathlon included classical, rapid and blitz chess. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
          "pubDate" : "Fri, 22 Jul 2022 09:55:00 +0100",
-         "title" : "Biel Chess Festival - Live"
+         "title" : "Biel Chess Festival: Games and standings"
       },
       {
          "description" : "The 30th edition of the Southern Chess Open will take place from 22-24 July in Wyndham Orlando Resort, Florida. The event features five tournaments: Major (for players rated 1900+), Under 2100, Under 1800, Under 1500 and Under 1200 with a guaranteed prize fund of 20.000$. The top seeds of the main Major tournament are GM []",
@@ -274,7 +306,7 @@ news_feed (
          "title" : "Vaishali R eliminates Dronavalli to reach semifinals"
       },
       {
-         "description" : "On Thursday, there was only one game on stage in the Golden Hall: the two winners from the previous round, Dmitrij Kollars and Viswanathan Anand, met in the NC World Masters. Kollars had a slight advantage in a rook endgame, but Anand managed to keep things under control and drew his younger opponent to keep the lead. Lara Schulze and Max Warmerdam won and are still leading the Women's Sportland NRW Cup and the A-Open respectively. | Photos:",
+         "description" : "On Thursday, there was only one game on stage in the Golden Hall: the two winners from the previous round, Dmitrij Kollars and Viswanathan Anand, met in the NC World Masters. Kollars had a slight advantage in a rook endgame, but Anand managed to keep things under control and drew his younger opponent to keep the lead. Lara Schulze and Max Warmerdam won and are still leading the Women's Sportland NRW Cup and the A-Open respectively. | Photos: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/deutschland-gp-2022-rest-day",
@@ -552,14 +584,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/carlsen-not-to-defend-title/",
          "pubDate" : "Wed, 20 Jul 2022 11:03:54 +0100",
          "title" : "Carlsen not to defend title"
-      },
-      {
-         "description" : "The third tournament of the Grand Chess Tour 2022 series&#160;starts today and will be played in Westin Zagreb from July 19-24.&#160;The SuperUnited Rapid &#38; Blitz Croatia&#160;is sponsored by the Superbet Foundation and includes 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. Ten world-class grandmasters participate in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-croatia-2022-pairings-live/",
-         "pubDate" : "Wed, 20 Jul 2022 09:49:00 +0000",
-         "title" : "Grand Chess Tour Croatia 2022 - Pairings & LIVE games"
       },
       {
          "description" : "The $175,000 SuperUnited Rapid & Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
@@ -1658,14 +1682,6 @@ news_feed (
          "title" : "European Youth Team Chess Championships 2022 start in Thessaloniki on 12th July"
       },
       {
-         "description" : "In one of the most exciting finals in recent years, Israeli GM Boris Gelfand won the blitz tiebreak against big favourite Viswanathan Anand to grab the Leon Masters title. No draws were seen in the final match between the living legends, as highly strategic games were featured from beginning to end. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-masters-2022-finals",
-         "pubDate" : "Mon, 11 Jul 2022 07:00:00 +0100",
-         "title" : "Gelfand beats Anand in playoffs, wins Leon Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1978,14 +1994,6 @@ news_feed (
          "title" : "Carlsen: Nepo Was Criminally Underrated"
       },
       {
-         "description" : "Ding Liren will play Ian Nepomniachtchi in a World Championship match if Magnus Carlsen chooses not to play after the Chinese no. 1 defeated Hikaru Nakamura on demand in the final round. A brutal day also saw Teimour Radjabov tie Nakamura for 3rd after beating Richard Rapport, while Alireza Firouzja finished 6th after inflicting a 4th defeat of the 2nd half of the event on Fabiano Caruana. Ian Nepomniachtchi drew against Jan-Krzysztof Duda to finish with an unbeaten 9.5/14.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/madrid-candidates-14-ding-liren-beat-nakamura-to-snatch-2nd",
-         "pubDate" : "Tue, 05 Jul 2022 07:07:42 +0000",
-         "title" : "Madrid Candidates 14: Ding Liren beat Nakamura to snatch 2nd"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2128,30 +2136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-olympiad-teams.html",
          "pubDate" : "Sat, 02 Jul 2022 12:59:00 +0000",
          "title" : "2022 Olympiad Teams"
-      },
-      {
-         "description" : "Has there been a plot to sabotage Nigel Short's prospects of becoming President of FIDÉ, the governing body of world chess? Already Vice-President, England's greatest ever chess player and chess politician since the days of Howard Staunton would, as I hoped, take the logical next step, identify a Ukrainian running mate, and stand for election to the supreme post []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/tall-poppy-cut-short-nigel-short-and-the-politics-of-chess/",
-         "pubDate" : "Sat, 02 Jul 2022 10:04:56 +0000",
-         "title" : "Tall poppy cut short: Nigel Short and the politics of chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1843",
-         "pubDate" : "Sat, 02 Jul 2022 09:39:28 +0000",
-         "title" : "44th Chess Olympiad: Participating teams announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1844",
-         "pubDate" : "Sat, 02 Jul 2022 07:51:57 +0000",
-         "title" : "FIDE July 1 Rating list is out"
       }
    ]
 }
