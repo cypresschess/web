@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzAkKLWY7shT8pSo2ncClAPPwLQ_CCSHbSOId2YHAxrASLdE0pq6-KfhhuR9cdxlgaOLPENFVOj7THbwxDEFGPqAaG5om88KtWjc4w6XMuRKoH_EOd4ruSOoWXzO7/s680/anonlouie.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzA",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/that-one-chance.html",
+         "pubDate" : "Sat, 23 Jul 2022 14:00:00 +0000",
+         "title" : "That one chance"
+      },
+      {
+         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
+         "pubDate" : "Sat, 23 Jul 2022 14:55:00 +0100",
+         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
+      },
+      {
          "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
          "pubDate" : "Sat, 23 Jul 2022 14:55:00 +0100",
          "title" : "NC World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg\" data-image-dimensions=\"551x316\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dbf418e12e3a3d6602fea5\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg?format=1000w\" /> </figure> <p class=\"\">With a FIDE election coming up on August 7, I am extending the invitation for FIDE Presidential Candidates to share their stories and their reasons to run for FIDE President. Brief tim",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/23/bonus-pod-gm-andrii-baryshpolets-on-why-he-is-running-for-fide-president",
+         "pubDate" : "Sat, 23 Jul 2022 13:16:58 +0000",
+         "title" : "Bonus Pod- GM Andrii Baryshpolets on Why He is Running For FIDE President "
       },
       {
          "description" : "Jorden van Foreest described it as \"pretty surreal\" as he took down Alireza Firouzja in the final round of rapid chess to top the table before the SuperUnited blitz games begin in Zagreb, Croatia. It's incredibly tight at the top, however, with Firouzja, Magnus Carlsen and Wesley So all just one point behind.",
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/55th-biel-chess-festival-2022",
          "pubDate" : "Fri, 22 Jul 2022 18:28:00 +0400",
          "title" : "55th Biel Chess Festival 2022 - Games and Results"
-      },
-      {
-         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
-         "pubDate" : "Fri, 22 Jul 2022 14:55:00 +0100",
-         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
       },
       {
          "description" : "India are now 2nd seeds for the Chess Olympiad that starts on July 29th, with Magnus Carlsen's Norway 3rd, after Azerbaijan plunged from 2nd to 6th when Teimour Radjabov dropped out of the team. Vasif Durarbayli criticised his colleague, but Teimour now cites the after-effects of a COVID infection.",
