@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thanks to a draw against direct rival Andrey Esipenko, Le Quang Liem grabbed the Grandmaster Triathlon title at the Biel Chess Festival. Le came from winning three games in a row in the classical section, and got a well-deserved first place as he was also the top scorer in the rapid section. Yongzhe Zhuang from Switzerland won the Ladies' Quadriathlon, while Mahammad Muradli from Azerbaijan was the surprise winner in the Masters Open Tournament. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r7",
+         "pubDate" : "Sat, 23 Jul 2022 02:00:00 +0100",
+         "title" : "Le Quang Liem bags GM Triathlon in Biel"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1698,14 +1706,6 @@ news_feed (
          "title" : "Bundesliga 2021-22 - "
       },
       {
-         "description" : "At the end of 1997, the first FIDE World Knockout Championship took place in Groningen. Vishy Anand won the final against Michael Adams. Strictly speaking, however, it was not a World Championship, but only a preliminary stage, because the winner had to play the defending champion Anatoli Karpov in a final in Lausanne directly after the tournament. In the \"Special\" of ChessBase Magazine #208 our authors (among others Martin Breutigam, Romain Edouard and Jan Markos) comment on their favourite game from Groningen. Imre Hera's analysis of the Beliafsky-Short encounter can be seen here. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-special-of-cbm-208-the-fide-world-championship-25-years-ago",
-         "pubDate" : "Sun, 10 Jul 2022 16:00:00 +0100",
-         "title" : "The \"Special\" of CBM #208: The FIDE World Championship 25 years ago"
-      },
-      {
          "description" : " The FTX Road to Miami tournament is part of the Champions Chess Tour and takes place online on Chess24 Sun 10th Jul 2022 - Sun 17th Jul 2022. The title refers to this being the final qualification event for the FTX Crypto Cup which will take place in Miami August 15th to 21st and is one of the tours Majors with a very large prize fund. Carlsen has already qualified for Miami and so isn't playing in this event. Players are: Levon Aronian, Richard Rapport, Anish Giri, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Jan-Krzysztof Duda, Teimour Radjabov, Wei Yi,Sam Shankland, Radoslaw Wojtaszek, Jeffery Xiong, Arjun Erigaisi, Hans Moke Niemann, Samuel Sevian, Aryan Tari and Wenjun Ju.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1844",
          "pubDate" : "Sat, 02 Jul 2022 07:51:57 +0000",
          "title" : "FIDE July 1 Rating list is out"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2dbab26e-14ce-454a-9264-ccf7e9b5ed8e/Nepo2.jpg\" data-image-dimensions=\"288x349\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62bf8fefd4a49d09eb37fc93\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/2dbab26e-14ce-454a-9264-ccf7e9b5ed8e/Nepo2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://commons.wikimedia.org/wiki/File:Nepomniachtchi,_Ian2.jpg\">via Wikimedia Commons </a> </figcaption> </figure> <p class=\"\">Awa",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/1/fide-candidates-round-12-update-im-christof-sielecki-on-nepomniatchtchis-dominance-and-the-tight-battle-for-2nd-place",
-         "pubDate" : "Sat, 02 Jul 2022 00:28:08 +0000",
-         "title" : "FIDE Candidates Round 12 Update- IM Christof Sielecki on Nepomniatchtchi's Dominance and the Tight Battle For 2nd Place "
       }
    ]
 }
