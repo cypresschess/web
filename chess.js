@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 13.30 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
+         "pubDate" : "Sun, 24 Jul 2022 13:25:00 +0100",
+         "title" : "NC World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : "Viswanathan Anand goes into his last game with a half-point lead over direct opponent Michael Adams and Dmitrij Kollars at the No-Castling World Masters in Dortmund. Meanwhile, Pavel Eljanov leads the Deutschland Grand Prix after beating Matthias Bl&uuml;baum on Saturday. Bogdan-Daniel Deac also won and still has a chance of winning the tournament | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r6",
+         "pubDate" : "Sun, 24 Jul 2022 10:35:00 +0100",
+         "title" : "NC World Masters: Anand leads with one round to go"
+      },
+      {
+         "description" : "Blindfold Opening Visualization: 100 Chess Puzzles by Martin B. Justensen is a book will train and test your visualization skills through 100 well-selected opening positions. You will get a series of moves from common openings. The depth of the lines is from 4 to 10 moves .You will not always have to find a killer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/blindfold-opening-visualization-100-chess-puzzles-by-martin-b-justesen/",
+         "pubDate" : "Sun, 24 Jul 2022 09:05:07 +0000",
+         "title" : "\"Blindfold Opening Visualization: 100 chess puzzles\" by Martin B. Justesen"
+      },
+      {
+         "description" : "As Immortal Game is played with the same rules as classic chess, then what&#x2019;s the difference between us and other platforms, except token rewards? Let us introduce:&#xA0;Immortals. Immortals are NFTs representing chess pieces (Pawn, Knight, King). Each Immortal has a specific side quest players will try to fulfil during games. Fulfilled side quests will unlock []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/what-are-immortals-in-immortal-game/",
+         "pubDate" : "Sun, 24 Jul 2022 08:45:54 +0000",
+         "title" : "What are Immortals in Immortal Game"
+      },
+      {
+         "description" : "Dear All, Please be informed that due to the Announcement of Asian Chess Federation ,the Asian School Chess Championship 2022 scheduled to be conducted at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-07-event-rescheduled-to-06-11-october-in-gujarat/",
+         "pubDate" : "Sun, 24 Jul 2022 07:51:52 +0000",
+         "title" : "National Under 07: Event Rescheduled to 06-11 October 2022 in Gujarat"
+      },
+      {
+         "description" : "Magnus Carlsen ended Day 4 of the SuperUnited Rapid &amp; Blitz Croatia with a 1.5-point lead over Wesley So after winning seven blitz games and losing two. Where does he need to improve on the final day of the event? \"I hope I will not lose like an idiot to Wesley again!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/zagreb-gct-4-magnus-takes-over",
+         "pubDate" : "Sun, 24 Jul 2022 07:37:45 +0000",
+         "title" : "Zagreb GCT 4: Magnus takes over"
+      },
+      {
          "description" : "The third tournament of the&#xA0;Grand Chess Tour 2022&#xA0;series&#xA0;starts today and will be played in Westin Zagreb from July 19-24.&#xA0;The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet Foundation and includes 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. The same thing happened today. After winning []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,20 +162,20 @@ news_feed (
          "title" : "That one chance"
       },
       {
+         "description" : "Chess is one of the most-played sports in the world. In the first official Chess Awareness Barometer, World Chess, a London-based long-term commercial partner of FIDE, is conducting a survey in the UK and USA to find out how many people know the name of the current World Champion and where he is from. 7% know the name of the Champion, and 6% know that he was born in Norway. Here's the breakdown provided by World Chess. | Photo World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/do-you-know-this-guy",
+         "pubDate" : "Sat, 23 Jul 2022 15:00:00 +0100",
+         "title" : "Do you know this guy?"
+      },
+      {
          "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
          "pubDate" : "Sat, 23 Jul 2022 14:55:00 +0100",
          "title" : "SuperUnited Croatia Rapid & Blitz: Live"
-      },
-      {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 15.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Sat, 23 Jul 2022 14:55:00 +0100",
-         "title" : "NC World Masters / Deutschland Grand Prix: Live"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg\" data-image-dimensions=\"551x316\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dbf418e12e3a3d6602fea5\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg?format=1000w\" /> </figure> <p class=\"\">With a FIDE election coming up on August 7, I am extending the invitation for FIDE Presidential Candidates to share their stories and their reasons to run for FIDE President. Brief tim",
@@ -144,14 +192,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/zagreb-gct-3-jorden-beats-firouzja-to-win-rapid",
          "pubDate" : "Sat, 23 Jul 2022 10:17:59 +0000",
          "title" : "Zagreb GCT 3: Jorden beats Firouzja to win Rapid"
-      },
-      {
-         "description" : "Chess is one of the most-played sports in the world. In the first official Chess Awareness Barometer, World Chess, a London-based long-term commercial partner of FIDE, is conducting a survey in the UK and USA to find out how many people know the name of the current World Champion and where he is from. 7% know the name of the Champion, and 6% know that he was born in Norway. Here's the breakdown provided by World Chess. | Photo World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/do-you-know-this-guy",
-         "pubDate" : "Sat, 23 Jul 2022 11:00:00 +0100",
-         "title" : "Do you know this guy?"
       },
       {
          "description" : "Zurab Azmaiparashvili is re-elected as ECU President. Congratulations! The ticket of Mr. Zurab Azmaiparashvili was elected with 44 votes in favor, 2 blank, and 3 invalid ballots in a total of 49 votes cast. Follow the General Assembly of ECU live here ECU President: Mr. Zurab AzmaiparashviliDeputy President: Mrs. Dana Reizniece-OzolaVice President: Mr. Gunnar BjornssonVice []",
@@ -176,6 +216,14 @@ news_feed (
          "link" : "https://www.thearticle.com/is-magnus-carlsen-following-bobby-fischers-fatal-example/",
          "pubDate" : "Sat, 23 Jul 2022 09:13:44 +0000",
          "title" : "Is Magnus Carlsen following Bobby Fischer's fatal example?"
+      },
+      {
+         "description" : "Jorden van Foreest enters the blitz section of the SuperUnited Grand Chess Tour event in the sole lead, after having collected 12 points in the rapid. Van Foreest lost to Magnus Carlsen on Friday, but managed to defeat Alireza Firouzja, who lost the lead he had after six rounds. Nine rounds of blitz will be played both on Saturday and Sunday to decide who wins the third event of the GCT. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d3",
+         "pubDate" : "Sat, 23 Jul 2022 04:25:00 +0100",
+         "title" : "SuperUnited Croatia: Van Foreest wins rapid section"
       },
       {
          "description" : "Thanks to a draw against direct rival Andrey Esipenko, Le Quang Liem grabbed the Grandmaster Triathlon title at the Biel Chess Festival. Le came from winning three games in a row in the classical section, and got a well-deserved first place as he was also the top scorer in the rapid section. Yongzhe Zhuang from Switzerland won the Ladies' Quadriathlon, while Mahammad Muradli from Azerbaijan was the surprise winner in the Masters Open Tournament. | Photos: Biel Chess Festival",
@@ -336,22 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
          "pubDate" : "Fri, 22 Jul 2022 09:55:00 +0100",
          "title" : "Biel Chess Festival: Games and standings"
-      },
-      {
-         "description" : "The 30th edition of the Southern Chess Open will take place from 22-24 July in Wyndham Orlando Resort, Florida. The event features five tournaments: Major (for players rated 1900+), Under 2100, Under 1800, Under 1500 and Under 1200 with a guaranteed prize fund of 20.000$. The top seeds of the main Major tournament are GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/30th-annual-southern-chess-open-2022/",
-         "pubDate" : "Fri, 22 Jul 2022 07:55:38 +0000",
-         "title" : "30th annual Southern Chess Open 2022"
-      },
-      {
-         "description" : "In a fitting end to the season, Stockfish once again defeated its rivals to win the final event the Fischer Random Chess final, thus completing a quadruple crown at the Top Chess Engine Championship! The four titles of Stockfish:&#xA0;Stockfish wins TCEC League&#xA0;/&#xA0;Stockfish wins TCEC Cup&#xA0;/&#xA0;Stockfish wins TCEC Swiss / Stockfish wins TCEC Fischer random []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-tcec-fischer-random-chess-final-to-cap-quadruple-crown/",
-         "pubDate" : "Fri, 22 Jul 2022 07:51:02 +0000",
-         "title" : "Stockfish wins TCEC Fischer Random Chess final to cap quadruple crown"
       },
       {
          "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">won't defend his title</a> against Ian Nepomniachtchi. The Russian GM will face the Chinese GM Ding Liren at the 2023 World Chess Championship match, but he is obviously disappointed by the turn of events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51720699962_f247e32c4f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> The 2022 Challenger Ian Nepomniachtchi talked to Alejandro Ramirez for the Saint Louis Chess Club after his third rapid round loss t",
@@ -1634,22 +1666,6 @@ news_feed (
          "title" : "Fischer vs Spassky - 50 years ago"
       },
       {
-         "description" : "Arne and Karsten look at endgame highlights form the Norway Chess Tournament, which was won by World Champion Magnus Carlsen, who is famous for his endgame skills. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-201-with-daniel-fernandez-endgame-highlights-from-the-candidates-tournament-2",
-         "pubDate" : "Mon, 11 Jul 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #202 with Arne K&auml;hler: Highlights from Norway Chess with Arne K&auml;hler"
-      },
-      {
-         "description" : "Day 1 of the FTX Road to Miami online tournament saw Jeffery Xiong grabbing the sole lead after collecting three wins and a loss. The 21-year-old has a 1-point lead over four players sharing second place on 8/12 points. Some of the rating favourites, like Levon Aronian, Anish Giri and Teimour Radjabov, currently stand on the bottom half of the tournament table. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d1",
-         "pubDate" : "Mon, 11 Jul 2022 14:50:00 +0100",
-         "title" : "FTX Road to Miami: Xiong wins three in a row"
-      },
-      {
          "description" : " <p class=\"lead\">The 54-year-old Boris Gelfand out-blitzed 20-year-old Andrey Esipenko at the Leon Masters second semifinals to qualify to the finals against Vishy Anand and eventually be crowned the winner. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/104092.jpeg\" width=\"1200\" height=\"800\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Official Website // <a href=\"http://www.advancedchessleon.com/edicion.html\">Advanced Chess Leon</a></div> </div> The Gelfand-Esipenko match at the Leon Masters semifinals was one to remember. The match was to be decided in two blitz games which ended 1-1 to be decided in Armageddon: 6 minutes for Esipenko with White, and 5 minut",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2002,14 +2018,6 @@ news_feed (
          "title" : "EP 286- Adult Improver Dr. Nicholas Vasquez on How and Why he Finally Got Serious about Chess Improvement"
       },
       {
-         "description" : "Levon Aronian, Richard Rapport and Anish Giri are among the star players competing in the FTX Road to Miami, the 5th event on the $1.6 million Meltwater Champions Chess Tour. The 16-player tournament starting on chess24 this Sunday, July 10th is a prelude to the 2nd Major of the Tour, the FTX Crypto Cup, which will be held in Miami, Florida, with World Champion Magnus Carlsen returning and a $210,000 prize fund plus a $100,000 Bitcoin bonus.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-begins-this-sunday",
-         "pubDate" : "Tue, 05 Jul 2022 12:00:01 +0000",
-         "title" : "FTX Road to Miami begins this Sunday"
-      },
-      {
          "description" : " <p class=\"lead\">In a brief interview after the Candidates Tournament, the World Champion said that Nepo, who ended up winning the tournament, was 'criminally underrated'. Higher seeds were the favorites to win the event, but it tuned out that Nepo, who just recently completed the Match against Carlsen and was by far better conditioned for the event, dominated the Candidates. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/9tbpbly1Nsc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
          "pubDate" : "Mon, 04 Jul 2022 11:12:45 +0000",
          "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
-      },
-      {
-         "description" : "National School U-13 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-School-U(13)-Open.html Girls : https://aicf.online/National-School-U(13)-Girls.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-u-13-open-and-girls-chess-championship-certificates-out-to-download/",
-         "pubDate" : "Mon, 04 Jul 2022 10:59:02 +0000",
-         "title" : "National School U-13 Open and Girls Chess Championship Certificates out to download"
       },
       {
          "description" : "",
@@ -2136,22 +2136,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/everyone-bashes-firouzja-for-playing-online-chess/",
          "pubDate" : "Sun, 03 Jul 2022 11:36:58 +0000",
          "title" : "Everyone Bashes Firouzja For Playing Online Chess"
-      },
-      {
-         "description" : " Round about 1970 I bought a copy of Botvinnik's 100 Selected Games at a tournament bookstall. Botvinnik's annotations provided me with a lot of insights into how chess should really be played. There was one game in particular which impressed me: Botvinnik Chekhover from the USSR Championship semi-final in 1938. Here's the crucial position. <a href=\"https://chessimprover.com/botters-plays-chekkers/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Botters Plays Chekkers\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/botters-plays-chekkers/\">Botters Plays Chekkers</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Imp",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/botters-plays-chekkers/",
-         "pubDate" : "Sun, 03 Jul 2022 09:21:21 +0000",
-         "title" : "Botters Plays Chekkers"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92632637.cms\" />India will field a third team in the Open section of the 44th Chess Olympiad to be held at Mamallapuram from July 28 to August 10, the All India Chess Federation (AICF) said on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-to-field-third-team-in-open-section-at-chess-olympiad/articleshow/92632637.cms",
-         "pubDate" : "Sun, 03 Jul 2022 09:16:42 +0000",
-         "title" : "India to field third team in Open section at Chess Olympiad"
       }
    ]
 }
