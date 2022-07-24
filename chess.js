@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 14.00 CEST (08.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
+         "pubDate" : "Sun, 24 Jul 2022 13:55:00 +0100",
+         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
+      },
+      {
          "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 13.30 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
          "pubDate" : "Sun, 24 Jul 2022 13:25:00 +0100",
          "title" : "NC World Masters / Deutschland Grand Prix: Live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93091694.cms\" />Chess fever is well and truly on in Chennai with just four days to go for the 44th Olympiad. As the countdown for the chess extravaganza continues, a test event was held on Sunday to assess the preparedness for the tournament. Also, a few thousand people took part in an Olympiad special run organised in the city today ahead of the prestigious tournament. State Ministers including Ma Subramanian, T M Anbarasan and P K Sekar Babu among others were present at the event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-preparations-on-test-tournament-held/articleshow/93091694.cms",
+         "pubDate" : "Sun, 24 Jul 2022 12:14:16 +0000",
+         "title" : "Chess Olympiad: Preparations on, test tournament held"
+      },
+      {
+         "description" : " After a 4 year break, I am heading off to the Chess Olympiad in Chennai, India. It will be an early start from Canberra, and I expect to reach the hotel quite late tomorrow night. I'm heading off a few days early as I am back on the Technical Administration Panel for the tournament, which involves a lot of work before the event actually begins. Hopefully teams will have successfully navigated the visa process, and that covid won't be an issue. So probably no blogging tomorrow, but after that, I should post regular updates from the tournament <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/in-transit.html",
+         "pubDate" : "Sun, 24 Jul 2022 12:10:00 +0000",
+         "title" : "In transit"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.24<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-5-lichessorg",
+         "pubDate" : "Sun, 24 Jul 2022 11:50:23 +0000",
+         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 5 | lichess.org"
       },
       {
          "description" : "Viswanathan Anand goes into his last game with a half-point lead over direct opponent Michael Adams and Dmitrij Kollars at the No-Castling World Masters in Dortmund. Meanwhile, Pavel Eljanov leads the Deutschland Grand Prix after beating Matthias Bl&uuml;baum on Saturday. Bogdan-Daniel Deac also won and still has a chance of winning the tournament | Photos: Michelle Lassak",
@@ -170,14 +202,6 @@ news_feed (
          "title" : "Do you know this guy?"
       },
       {
-         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 15.00 CEST (09.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
-         "pubDate" : "Sat, 23 Jul 2022 14:55:00 +0100",
-         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg\" data-image-dimensions=\"551x316\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dbf418e12e3a3d6602fea5\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg?format=1000w\" /> </figure> <p class=\"\">With a FIDE election coming up on August 7, I am extending the invitation for FIDE Presidential Candidates to share their stories and their reasons to run for FIDE President. Brief tim",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/van-foreest-happy-despite-losing-magnus-rapid-8",
          "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
          "title" : "van Foreest: Happy Despite Losing to Magnus | Rapid 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jorden van Foreest talks to Alejandro Ramirez after his ninth rapid round victory over Alireza Firouzja during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.22<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/van-foreest-atop-leaderboard-after-rapids-rapid-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6bXNQIbk6Qo.jpg?i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/van-foreest-atop-leaderboard-after-rapids-rapid-9",
-         "pubDate" : "Fri, 22 Jul 2022 17:49:17 +0000",
-         "title" : "van Foreest: Atop the Leaderboard after Rapids | Rapid 9"
       },
       {
          "description" : "The 23rd edition of the Pittsburgh Chess Open 2022 will be held from 22-24 July at the Doubletree Green Tree Pittsburgh, Pennsylvania. The program includes five different tournaments; Major (for players rated 1900+), Under 2100, Under 1800, Under 1500, and Under 1200, with a guaranteed prize fund of 15.000$. The events will be played in []",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepo-wins-the-candidates-he-is-the-challenger-again/",
          "pubDate" : "Sun, 03 Jul 2022 15:38:29 +0000",
          "title" : "Nepo Wins the Candidates. He is the Challenger, Again"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/dna5KG7D-qU?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-the-fide-candidates-tournament-2022-round-13/",
-         "pubDate" : "Sun, 03 Jul 2022 12:00:00 +0000",
-         "title" : "Watch the FIDE Candidates Tournament 2022: Round 13"
-      },
-      {
-         "description" : " <p class=\"lead\">As tensions in the Candidates Tournament continue to evaporate because Nepo is dominating the event, everyone in the chess world seems to bash Alireza Firouzja, the rating favorite, for staying up all night amid the most important tournament of his life (they say) and playing hundreds of bullet games online. Firouzja lost to Nepo the day after. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/DEF80081-AC89-4561-BB51-1C6F860CA448.jpeg\" width=\"1800\" height=\"1201\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> Garry Kasparov, the unrivaled authority on the sport, commented on the situation during his appearance in St. Louis chess bro",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/everyone-bashes-firouzja-for-playing-online-chess/",
-         "pubDate" : "Sun, 03 Jul 2022 11:36:58 +0000",
-         "title" : "Everyone Bashes Firouzja For Playing Online Chess"
       }
    ]
 }
