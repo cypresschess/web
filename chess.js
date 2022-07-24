@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third tournament of the&#xA0;Grand Chess Tour 2022&#xA0;series&#xA0;starts today and will be played in Westin Zagreb from July 19-24.&#xA0;The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet Foundation and includes 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. The same thing happened today. After winning []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-leads-grand-chess-tour-2022-after-blitz-day-1/",
+         "pubDate" : "Sun, 24 Jul 2022 06:00:24 +0000",
+         "title" : "Carlsen leads Grand Chess Tour 2022 after blitz day 1"
+      },
+      {
+         "description" : "The third tournament of the&#xA0;Grand Chess Tour 2022&#xA0;series&#xA0;starts today and will be played in Westin Zagreb from July 19-24.&#xA0;The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet Foundation and includes 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. The small vacuum left by Wesley and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-2022-croatia-day-3-recap/",
+         "pubDate" : "Sun, 24 Jul 2022 05:51:37 +0000",
+         "title" : "Grand Chess Tour 2022 Croatia - day 3 recap"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the first blitz round robin. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -482,14 +498,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (59)"
       },
       {
-         "description" : "Garry Kasparov knows how it feels to retire from chess while being number one in the world. Yesterday, during the GCT Zagreb, he commented on Magnus Carlsen's decision not to defend his World Champion title, underlining the fact that Carlsen is not retiring. More by Kasparov in #TweetOftheDay: Throwback: 13 year old Magnus Carlsen meets []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-comments-on-carlsens-decision-tweetoftheday/",
-         "pubDate" : "Thu, 21 Jul 2022 06:36:25 +0000",
-         "title" : "Garry Kasparov comments on Carlsen's decision #TweetOftheDay"
-      },
-      {
          "description" : "The SuperUnited Rapid & Blitz tournament, the third event in this year's Grand Chess Tour, kicked off Wednesday in Zagreb. Magnus Carlsen and Ian Nepomniachtchi, the contenders of the last World Championship match, were paired up against each other in the first round and drew their game. Once the day's action was over, Alireza Firouzja emerged as the sole leader with 5 out of 6 points (wins are worth 2 points in the rapid section). | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,14 +512,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/",
          "pubDate" : "Thu, 21 Jul 2022 05:50:51 +0000",
          "title" : "ECU General Assembly 2022 to be broadcasted live"
-      },
-      {
-         "description" : "While Magnus Carlsen has occupied chess news headlines with his recent decision not to defend his World Championship title, his friend and title contender Ian Nepomniachtchi seems to be on an emotional roller coaster ride. A month ago Nepo entered the Candidates Tournament 2022 with little expectations. Playing the qualification cycle after heavy defeat in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepos-emotional-world-chess-championship-roller-coaster/",
-         "pubDate" : "Thu, 21 Jul 2022 03:04:00 +0000",
-         "title" : "Nepo's emotional World Chess Championship roller coaster"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg\" data-image-dimensions=\"542x327\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d89abeeeb1124b19547338\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM Magnus Carlsen <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title\"><span>has officially announced that he will not defend his Worl",
