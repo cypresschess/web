@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dmitrij Kollars, who only joined the tournament after Vladimir Kramnik had to withdraw due to Covid-related issues, was the surprise winner of the No-Castling World Masters. The 22-year-old beat Daniel Fridman in the final round to catch Vishy Anand atop the standings. Kollars was declared champion on tiebreak criteria, as he scored one more win than the Indian star. In the Deutschland Grand Prix, Pavel Eljanov defended his title by remarkably collecting 4&frac12;/6 points against a tough field. | Photos: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r7",
+         "pubDate" : "Mon, 25 Jul 2022 02:30:00 +0100",
+         "title" : "Late replacement Dmitrij Kollars wins No-Castling World Masters"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen will no longer defend his crown, but normal service was resumed in Zagreb as he won the SuperUnited Rapid & Blitz Croatia with a round to spare. Amazing last days saw Alireza Firouzja and MVL finish just half a point behind, though only after Magnus lost his last two games.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-croatia-rapid-blitz",
+         "pubDate" : "Sun, 24 Jul 2022 21:57:47 +0000",
+         "title" : "Magnus Carlsen wins Croatia Rapid & Blitz"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the SuperUnited Rapid &#38;amp; Blitz in Zagreb, Croatia, on Sunday. After the rapid segment, the world champion was in second place behind Dutch GM Jorden van Foreest, but scoring 11.5/18 in the blitz was enough to finish in sol...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-grand-chess-tour-superunited-rapid-blitz",
+         "pubDate" : "Sun, 24 Jul 2022 14:35:00 -0700",
+         "title" : "Carlsen Wins Grand Chess Tour's SuperUnited Rapid & Blitz"
+      },
+      {
+         "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth Rapid Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-champions-crowned-in-thessaloniki/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-champions-crowned-in-thessaloniki/",
+         "pubDate" : "Sun, 24 Jul 2022 20:57:14 +0000",
+         "title" : "European Youth Rapid&Blitz Chess Champions crowned in Thessaloniki"
+      },
+      {
          "description" : "Plenty of action was seen in the world of elite chess last week, with top tournaments in Biel, Dortmund and Zagreb. GM Karsten M&uuml;ller has been paying close attention to the games, and has shared with us a number of instructive endgame positions. Unmissable! | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Notable endgames: Biel, Dortmund, Zagreb"
       },
       {
-         "description" : " National Master Tyrone Davis is entering his senior at the Massachusetts Institute of Technology (MIT) with an interest in computer science and mathematics. He is originally from the Bronx and many may not have heard on him. During his high school years, he was in the top 100 of his age group and would later The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/24/tyrone-davis-gives-gift-of-chess-to-nigeria/\">Tyrone Davis gives Gift of Chess to Nigeria</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " National Master Tyrone Davis III graduated last month from the Massachusetts Institute of Technology (MIT) with a degree in computer science. He told The Chess Drum that he'll be joining Saba Capital as an investment analyst in NYC. National Master Tyrone Davis III playing Benjamin, a boy whom he is sponsoring. Tunde Onakoya (left) looks The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/24/tyrone-davis-gives-gift-of-chess-to-nigeria/\">Tyrone Davis gives Gift of Chess to Nigeria</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/24/tyrone-davis-gives-gift-of-chess-to-nigeria/",
@@ -98,12 +130,12 @@ news_feed (
          "title" : "SuperUnited Croatia Rapid & Blitz: Live"
       },
       {
-         "description" : "The \"Sparkassen Chess Trophy\" kicked off in Dortmund on Saturday. The Deutschland Grand Prix, which starts on Sunday, is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Follow the action live with expert commentary, starting at 13.30 CEST.",
+         "description" : "The \"Sparkassen Chess Trophy\" once again took place in Dortmund. The Deutschland Grand Prix is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Replay all the games from the top events!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
          "pubDate" : "Sun, 24 Jul 2022 13:25:00 +0100",
-         "title" : "NC World Masters / Deutschland Grand Prix: Live"
+         "title" : "Dortmund Chess Festival: Games and standings"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93091694.cms\" />Chess fever is well and truly on in Chennai with just four days to go for the 44th Olympiad. As the countdown for the chess extravaganza continues, a test event was held on Sunday to assess the preparedness for the tournament. Also, a few thousand people took part in an Olympiad special run organised in the city today ahead of the prestigious tournament. State Ministers including Ma Subramanian, T M Anbarasan and P K Sekar Babu among others were present at the event.",
@@ -1586,14 +1618,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Surprise!"
       },
       {
-         "description" : "FM Tanitoluwa Adewumi, age 11, has earned his second IM norm, of the three required to earn the coveted international master title, at the NY Summer Invitational IM C closed round-robin tournament which concluded on July 11, 2022. He won the tourn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tani-adewumi-earns-second-im-norm",
-         "pubDate" : "Tue, 12 Jul 2022 09:11:00 -0700",
-         "title" : "Tani Adewumi Earns Second IM Norm, Strives For Youngest GM Record"
-      },
-      {
          "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation In late April, Tanitoluwa Adewumi earned his first IM norm and yesterday he earned a second. Tani earned the norm at the New York Summer Invitational where topped the field with 7/9 edging out Nakada Akira who finished with 6.5. Now the top-rated 11-year old, he only needs The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/tani-adewumi-gets-second-im-norm/\">Tani Adewumi gets second IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1666,14 +1690,6 @@ news_feed (
          "title" : "Vincent Keymer wins Accentus Chess960 Tournament in Biel"
       },
       {
-         "description" : "Sam Sevian grabbed the sole lead on day 2 of the FTX Road to Miami online tournament. The US grandmaster collected a perfect 12/12 score on Monday, with one of his four wins obtained by default as Teimour Radjabov withdrew from the competition after round 5. Day 2 also saw Ju Wenjun collecting three wins to climb to the top half of the standings. The Chinese is the lowest-rated player and the only woman in the field. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d2",
-         "pubDate" : "Tue, 12 Jul 2022 11:10:00 +0100",
-         "title" : "FTX Road to Miami: Sevian leads, Ju shines"
-      },
-      {
          "description" : "Please find the live game links for Under 19 Open &#38; Girls National Chess Championship 2022 https://live.followchess.com/#!mpl-51st-national-u-19-2022 https://live.followchess.com/#!mpl-51st-national-u-19-g-2022",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1856",
          "pubDate" : "Mon, 11 Jul 2022 11:02:01 +0000",
          "title" : "Bundesliga 2022: OSG Baden-Baden takes title"
-      },
-      {
-         "description" : "Jeffery Xiong beat Anish Giri on his Meltwater Champions Chess Tour debut as he raced to three wins that gave him the sole lead after Day 1 of the FTX Road to Miami. He was only stopped by fellow 21-year-old American Sam Sevian, who shares second place with Shakhriyar Mamedyarov, Wei Yi and Jan-Krzyszstof Duda. Some star names struggled, with Levon Aronian losing his first two games, while Teimour Radjabov suffered 3 defeats and owed his single point to a 14-move draw against Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-1-xiong-leads-as-stars-struggle",
-         "pubDate" : "Mon, 11 Jul 2022 10:56:03 +0000",
-         "title" : "FTX Road to Miami 1: Xiong leads as stars struggle"
       },
       {
          "description" : " <p class=\"lead\">This Day (11th of July) in 1972 it was the first game of the \"Match of the Century\" between the defending World Champion Boris Spassky (Soviet Union) and the Challenger Bobby Fischer (USA). 50 years later, we're still wondering if the World Champion Magnus Carlsen will defend his title against Ian Nepomniachtchi due to - probably - lack of motivation or interest for the specific match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0ec4088c2fd829a05e371a3b3615bf37.jpeg\" width=\"2000\" height=\"1451\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess Championship 1972 // Defending World Chess Champion Boris Spassky faced the Challenger Bobby ",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1846",
          "pubDate" : "Mon, 04 Jul 2022 09:31:19 +0000",
          "title" : "Checkmate Coronavirus: Road to Chennai"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1845",
-         "pubDate" : "Sun, 03 Jul 2022 22:07:38 +0000",
-         "title" : "Ian Nepomniachtchi becomes challenger for the title of World Champion"
       }
    ]
 }
