@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-nepo-was-criminally-underrated/",
          "pubDate" : "Tue, 05 Jul 2022 09:08:56 +0000",
          "title" : "Carlsen: Nepo Was Criminally Underrated"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1847",
-         "pubDate" : "Mon, 04 Jul 2022 22:08:40 +0000",
-         "title" : "Ian Nepomniachtchi wins the Candidates without a single loss"
       }
    ]
 }
