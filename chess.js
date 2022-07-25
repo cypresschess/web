@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates a strong performance in the lichess.org Rapid Swiss arena. 0:00 Game 1<br /> 12:28 Game 2<br /> 27:23 Game 3<br /> 30:17 Game 4<br /> 44:36 Game 5<br /> 53:48 Game 6<br /> 1:10:30 Game 7 Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/performance-7-brilliant-rapid-games",
+         "pubDate" : "Mon, 25 Jul 2022 17:51:01 +0000",
+         "title" : "A Performance of 7 Brilliant Rapid Games!"
+      },
+      {
+         "description" : "A seven-year-old boy&#39;s finger was broken by an automated chess-playing robot during the Moscow Open in a video posted on July 21st. The original video, featured on the Baza channel on Telegram, has circulated on several social media platforms and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/7-year-olds-finger-broken-by-chess-playing-robot",
+         "pubDate" : "Mon, 25 Jul 2022 10:33:09 -0700",
+         "title" : "7-Year-Old's Finger Broken By Chess-playing Robot"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93119607.cms\" />If one glances through the latest FIDE top-10 junior rankings, three from India feature in them. Grandmaster Arjun Erigaisi is in No. 2 spot behind Alireza Firouzja, while D Gukesh and Nihal Sarin are in the 6th and 10th spot respectively.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-all-eyes-will-be-on-arjun-praggnanandhaa-gukesh-nihal-raunak-as-indias-next-gen-faces-first-big-test/articleshow/93119607.cms",
+         "pubDate" : "Mon, 25 Jul 2022 17:20:07 +0000",
+         "title" : "Chess Olympiad: India's next-gen faces first big test"
+      },
+      {
+         "description" : "Arne and Karsten look at opposite-coloured bishops endgames, one of the most intriguing setups in the final stage of the game. When more pieces are left over the board, the attacker tends to have an edge. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-204-arne-kaehler",
+         "pubDate" : "Mon, 25 Jul 2022 18:05:00 +0100",
+         "title" : "Endgame Magic #204 with Arne K&auml;hler: Opposite-coloured bishops"
+      },
+      {
+         "description" : "It is probable that no chess player in the history of the game has had more written about him or of his games than Bobby Fischer. The fascination stems not only from his sheer chess genius, but also his magnetism, and the debt professional chess owes him for paving the way with appearance fees and prize money. Here is a book that brings together all his writings, articles, and even unpublished notes to \"60 Memorable Games\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-complete-annotations-and-articles-by-bobby-fischer",
+         "pubDate" : "Mon, 25 Jul 2022 18:00:00 +0100",
+         "title" : "The Complete Annotations and Articles by Bobby Fischer"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93119289.cms\" />A record total of 30 Indian players across six teams (three in open and three women) will be participating at the Chess Olympiad, scheduled to be held from July 28 to August 10 in Chennai.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-to-field-a-record-6-teams-and-30-players/articleshow/93119289.cms",
+         "pubDate" : "Mon, 25 Jul 2022 16:56:02 +0000",
+         "title" : "Chess Olympiad: India to field a record 6 teams and 30 players"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> News agencies picked up an incident that happened during a chess festival in Moscow where the robot <strong>Chess Terminator</strong> by <strong>Konstantin Kosteniuk</strong> squeezed the finger of a seven-year-old boy, who didn't wait the completion of a capture and was hurt when he recaptured. It was falsely reported that the boy's finger was broken. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/robot-squeezes-finger/",
+         "pubDate" : "Mon, 25 Jul 2022 17:32:50 +0100",
+         "title" : "Robot squeezes finger"
+      },
+      {
+         "description" : "On 26 July 2022, the chess world will be treated to a unique show: the ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi. The Death Match will be held at the Dublin Square in the Phoenix Marketcity, Mumbai. What is the format of the match, what is the prize money, who are the hosts and commentators of the show, are there any exhibition matches? Find all the relevant information in the article. A rapid tournament and simuls will also take place.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-india-originals-death-match-anish-giri-vs-vidit-gujrathi",
+         "pubDate" : "Mon, 25 Jul 2022 17:30:00 +0100",
+         "title" : "ChessBase India Originals Death Match - Anish Giri vs Vidit Gujrathi"
+      },
+      {
          "description" : "National U-19 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-U(19)-Open.html Girls : https://aicf.online/National-U(19)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -56,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/80170-2/",
          "pubDate" : "Mon, 25 Jul 2022 09:12:32 +0000",
          "title" : "Carlsen wins Super United Rapid & Blitz Grand Chess Tour 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1879",
+         "pubDate" : "Mon, 25 Jul 2022 08:54:23 +0000",
+         "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
       },
       {
          "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen won the Super United Croatia Rapid & Blitz tournament, the third tournament of the <a href=\"https://grandchesstour.org/\">Grand Chess Tour 2022</a>, a couple of days after his <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">official withdrawal</a> from the World Championship cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/carlsen-nepo.jpeg\" width=\"800\" height=\"455\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a>, Grand Chess Tour</div> </div> The Super United Croatia Rapid & Blitz was",
@@ -338,20 +410,20 @@ news_feed (
          "title" : "Carlsen: Winner of Time Trouble Duals | Day 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Alejandro Ramirez after the first blitz round robin, where he finished +2 for the day, during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-once-magnus-gets-going-he%E2%80%99s-hard-stop-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pBJ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-once-magnus-gets-going-he%E2%80%99s-hard-stop-day-4",
-         "pubDate" : "Sat, 23 Jul 2022 17:50:19 +0000",
-         "title" : "Wesley So: Once Magnus Gets Going, He's Hard to Stop | Day 4"
-      },
-      {
          "description" : "Le Quang Liem is the winner in the Grandmaster Triathlon at the Biel Chess Festival. The Vietnamese player, who was convincing throughout the tournament, proved to be the strongest player in both classical and rapid chess and did not really drop back in blitz chess either, so he truly deserves the overall victory in the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/le-quang-liem-wins-biel-chess-festival-2022/",
          "pubDate" : "Sat, 23 Jul 2022 17:28:39 +0000",
          "title" : "Le Quang Liem wins Biel Chess Festival 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Sat, 23 Jul 2022 15:29:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzAkKLWY7shT8pSo2ncClAPPwLQ_CCSHbSOId2YHAxrASLdE0pq6-KfhhuR9cdxlgaOLPENFVOj7THbwxDEFGPqAaG5om88KtWjc4w6XMuRKoH_EOd4ruSOoWXzO7/s680/anonlouie.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzA",
@@ -456,14 +528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/practicing-and-improving-with-fritz-online",
          "pubDate" : "Fri, 22 Jul 2022 19:00:00 +0100",
          "title" : "Practicing and improving with Fritz Online"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Fri, 22 Jul 2022 15:29:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : " The 55th Biel Chess Festival takes place 10th to 24th July 2022. The main event was a mixture of Classical, Rapid and Blitz - what they call the Grandmaster Triathlon. In addition the same players also competed in a Chess960 tournament that didn't count to the final standings. There was also the traditional strong open alongside. Players in the main event: Andrey Esipenko, Le Quang Liem, Salem Saleh, Gata Kamsky, Vincent Keymer, Nodirbek Abdusattorov, Arkadij Naiditsch and Dommaraju Gukesh. Final standings: 1st Quang Liem Le 35&frac12;pts, 2nd Andrey Esipenko 32&frac12;pts, 3rd Dommaraju Gukesh 29&frac12;pts, 4th Nodirbek Abdusattorov 26&frac12;pts, 5th Saleh Salem 26pts, 6th Gata Kamsky 23",
@@ -1562,14 +1626,6 @@ news_feed (
          "title" : "Indian origin siblings look to shine for Ireland at Chess Olympiad"
       },
       {
-         "description" : "After a near-miss in the early tournament, GM Hikaru Nakamura claimed another Titled Tuesday victory in the late tournament on July 12. It was his first win since a double sweep on June 7, after playing this event irregularly of late due to the 20...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-nakamura-win-titled-tuesday-july-12-2022",
-         "pubDate" : "Wed, 13 Jul 2022 09:24:12 -0700",
-         "title" : "Nakamura Returns To Winner's Circle In Titled Tuesday"
-      },
-      {
          "description" : "In his new video course, the French top grandmaster Romain Edouard shows you how to win games by seizing the initiative with sacrifices. The course consists of two volumes: In the first volume, Edouard demonstrates patterns, and in the second course you are invited to test your knowledge. All new courses can now also be watched via stream, e.g. on mobile devices!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1584,14 +1640,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/direct-members-reps-elections-2022/",
          "pubDate" : "Wed, 13 Jul 2022 12:40:21 +0000",
          "title" : "Direct Members Reps Elections 2022"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Joachim Birger Nilsen</strong>, a 29-year-old <a href=\"https://rightpeoplegroup.com/meet-joachim-b-nilsen-our-newly-appointed-managing-director-for-norway/\">headhunter specializing in IT</a> and President of the Bergen Chess Club, is the <a href=\"https://www.sjakk.no/aktuelt/joachim-b-nilsen-ny-sjakkpresident\">new President</a> of the <strong>Norwegian Chess Federation</strong> after former top player <strong>Simen Agdestein</strong> didn't run for a second term. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nilsen-follows-agdestein/",
-         "pubDate" : "Wed, 13 Jul 2022 13:17:34 +0100",
-         "title" : "Nilsen follows Agdestein"
       },
       {
          "description" : "Paul Morphy needs no introduction. On the occasion of his 138th death anniversary, Eugene Manlapao revisits the exploits of the chess genius and the peculiar circumstances of his success that seemingly recurred in the rise of succeeding American champions.",
@@ -1634,28 +1682,12 @@ news_feed (
          "title" : "MPL National Junior Pune 2022 - Inauguration Report"
       },
       {
-         "description" : "The quick ascent of Tani Adewumi continues. The likeable Nigerian boy who made the news three years ago while still living in a homeless shelter has collected his second IM norm in New York. Tani is only 11 years old, but has already shown a fierce playing style and a solid work ethic. These factors bode well for his chances to become an elite player in the future. | Photos: Tani&rsquo;s Twitter account (second norm on the left)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tani-adewumi-second-im-norm-new-york",
-         "pubDate" : "Wed, 13 Jul 2022 06:15:00 +0100",
-         "title" : "A second IM norm for Tani Adewumi!"
-      },
-      {
          "description" : " &#8220;When I am White, I win because I am White. When I am Black, I win because I am Bogoljubow&#8221; Efim Bogoljubow A few interesting facts about Efim Bogoljubow are available courtesy of Bill Wall's blog. I am going to pick 3 of them that I liked the most: The Russian name \"Bogoljubow\" means \"beloved by <a href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGA, Bogoljubow Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\">Need sure points? QGA, Bogoljubow Variation Edition</a> ap",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/",
          "pubDate" : "Tue, 12 Jul 2022 17:15:20 +0000",
          "title" : "Need sure points? QGA, Bogoljubow Variation Edition"
-      },
-      {
-         "description" : "You didn't expect those creative, and beautiful moves, did you? Svitlana presents some genuinely fine moves by masterful players like Frank James Marshall, David Bronstein, Bobby Fischer, Pal Benko, Richard Reti, Alexander Alekhine, and Mikhail Tal. Lean back, and enjoy the spectacle!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-45",
-         "pubDate" : "Tue, 12 Jul 2022 18:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Surprise!"
       },
       {
          "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation In late April, Tanitoluwa Adewumi earned his first IM norm and yesterday he earned a second. Tani earned the norm at the New York Summer Invitational where topped the field with 7/9 edging out Nakada Akira who finished with 6.5. Now the top-rated 11-year old, he only needs The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/tani-adewumi-gets-second-im-norm/\">Tani Adewumi gets second IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1688,14 +1720,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/12/ep-287-gm-david-howell-joins-for-a-fide-candidates-wrap-up-plus-world-championship-match-scuttlebutt-and-his-2022-otb-and-commentating-plans",
          "pubDate" : "Tue, 12 Jul 2022 14:07:50 +0000",
          "title" : "EP 287- GM David Howell joins for a FIDE Candidates Wrap Up plus World Championship Match Scuttlebutt, and his 2022 OTB and Commentating Plans "
-      },
-      {
-         "description" : "There are times when life puts you through extremely tough situations. Top Georgian female player GM Bela Khotenashvili and her husband IM Malkhaz Sulashvili have fought many battles over the chess board. But what they are going through right now is by far the toughest phase of their life. Their 1.5 year-old son Gabriel was detected with high risk neuroblastoma. To ensure appropriate treatment, they shifted to France from Georgia. However, the battle is long and in order to save Gabriel's life, they now need to shift to the USA or Spain. Funds are a major challenge and this is where you can help. Read the article to know more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-georgian-gm-bela-khotenashvili-needs-your-help",
-         "pubDate" : "Tue, 12 Jul 2022 14:00:00 +0100",
-         "title" : "Top Georgian GM Bela Khotenashvili needs your help"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92829721.cms\" />Indian Grandmaster Surya Sekhar Ganguly on Tuesday emerged winner in the Fischer Random event at Biel Chess Festival with compatriot SP Sethuraman finishing in second place.",
@@ -1962,14 +1986,6 @@ news_feed (
          "title" : "Kolkata GMs hopeful of India's chances in Chess Olympiad"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92737117.cms\" />In a bid to make an impression in the event, Brazil Chess Federation roped in two Indian Grandmasters, Priyadharshan Kannappan and Ankit Rajpara, as the captain-cum-coaches of the teams for the Olympiad in Mahabalipuram this month. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-gm-duo-in-charge-of-brazil-teams/articleshow/92737117.cms",
-         "pubDate" : "Fri, 08 Jul 2022 02:47:16 +0000",
-         "title" : "Chess Olympiad: Indian GM duo in charge of Brazil teams"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-21/",
          "pubDate" : "Thu, 07 Jul 2022 11:19:34 +0000",
          "title" : "Master Chess Web Show (21)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92708422.cms\" />When Akshaya Kalaiyalahan, a member of the England women's team, boards the flight from London to Chennai to feature in the 44th chess Olympiad --- it will be a homecoming of sorts for the 21-year-old.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/akshaya-lankan-tamil-with-roots-in-jaffna-looks-to-shine-for-england-team/articleshow/92708422.cms",
-         "pubDate" : "Wed, 06 Jul 2022 17:31:58 +0000",
-         "title" : "Akshaya, Lankan Tamil with roots in Jaffna, looks to shine for England team"
       },
       {
          "description" : " Ian Nepomniachtchi had already secured first place in the FIDE Candidates tournament in Madrid with a round to spare. Nepomniachtchi avoided defeat in the final round when he drew with black against Jan-Krzysztof Duda in a Petroff variation he hadn't expected. Nepomniachtchi had to work hard to remember his preparation which certainly ran up to 15...a5!? after that Nepomniachtchi may have been a bit better but the players started to steer towards a draw a few moves later and they only had one bishop between them on move 48. Thus Nepomniachtchi finished the event undefeated and with a modern record score of 9.5/14. Afterwards Nepomniachtchi revealed his stellar if not especially surprising t",
