@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2022-07-22","22","<a href=http://www.uschess.org/msa/XtblMain.php?202207223282 target='_blank'>KOC</a>",
 "SPRING","2022-07-22","27","<a href=http://www.uschess.org/msa/XtblMain.php?202207222432 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-07-22","4","<a href=http://www.uschess.org/msa/XtblMain.php?202207222382 target='_blank'>FBCC MOON LANDING OPEN</a>",
 "MISSOURI CITY","2022-07-19","12","<a href=http://www.uschess.org/msa/XtblMain.php?202207191622 target='_blank'>RCC QUADS JULY 19 2022</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-09-05","4","<a href=http://www.uschess.org/msa/XtblMain.php?202109057262 target='_blank'>SEPTSUNSWISS95</a>",
 "CYPRESS","2021-09-03","16","<a href=http://www.uschess.org/msa/XtblMain.php?202109036782 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-09-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202109036772 target='_blank'>FBCC 2021 SEPT PIADA</a>",
-"CYPRESS","2021-09-03","17","<a href=http://www.uschess.org/msa/XtblMain.php?202109036722 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
