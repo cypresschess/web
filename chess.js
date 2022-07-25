@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National U-19 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-U(19)-Open.html Girls : https://aicf.online/National-U(19)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com ",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-19-open-and-girls-chess-championship-certificates/",
+         "pubDate" : "Mon, 25 Jul 2022 13:46:51 +0000",
+         "title" : "National U-19 Open and Girls Chess Championship Certificates"
+      },
+      {
+         "description" : "The Rapid Chess Championship presented by Coinbase entered its 22nd week on Sunday and was won by a rampant GM Hikaru Nakamura who toppled GM Fabiano Caruana after winning all of his games en route to his seventh knockout victory. A generational...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-22-nakamura-wins",
+         "pubDate" : "Mon, 25 Jul 2022 06:09:48 -0700",
+         "title" : "Nakamura's 7th Knockout Victory: 'Just Another Day At The Office'"
+      },
+      {
+         "description" : "GMs David Paravyan and Nikolas Theodorou were the winners of the seventh and eighth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; Paravyan and Theodorou advance to the main event along with GMs Gata Kamsky and Jose Martinez, victors...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-2-day-2",
+         "pubDate" : "Mon, 25 Jul 2022 05:17:14 -0700",
+         "title" : "Paravyan, Theodorou Win Chess.com Global Play-Ins"
+      },
+      {
          "description" : "On the final day of action at the SuperUnited Rapid & Blitz Tournament in Zagreb, world champion Magnus Carlsen never relinquished his lead. It did not matter that the World Champion lost his game against Alireza Firouzja shortly before the end of the tournament. Firouzja and Maxime Vachier-Lagrave shared second and third place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1618,28 +1642,12 @@ news_feed (
          "title" : "A second IM norm for Tani Adewumi!"
       },
       {
-         "description" : "While GM Sam Sevian continues to lead the FTX Road to Miami tournament preliminaries after the third day, top GMs such as Anish Giri, GM Levon Aronian, and GM Leinier Dominguez are not certain of the knockout phase just yet. There are three rounds...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-3",
-         "pubDate" : "Tue, 12 Jul 2022 15:39:00 -0700",
-         "title" : "Aronian, Giri Not Qualified Yet For Knockout"
-      },
-      {
          "description" : " &#8220;When I am White, I win because I am White. When I am Black, I win because I am Bogoljubow&#8221; Efim Bogoljubow A few interesting facts about Efim Bogoljubow are available courtesy of Bill Wall's blog. I am going to pick 3 of them that I liked the most: The Russian name \"Bogoljubow\" means \"beloved by <a href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGA, Bogoljubow Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\">Need sure points? QGA, Bogoljubow Variation Edition</a> ap",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/",
          "pubDate" : "Tue, 12 Jul 2022 17:15:20 +0000",
          "title" : "Need sure points? QGA, Bogoljubow Variation Edition"
-      },
-      {
-         "description" : "The FIDE Chess.com 2022 Women&#39;s Speed Chess Championship resumed on Tuesday with a clash between two of the tournament&#39;s powerhouses, with GM Valentina Gunina overcoming GM Tan Zhongyi with a resounding score of 19.5-9.5. After a shaky 0-2 start...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-gunina-tan",
-         "pubDate" : "Tue, 12 Jul 2022 10:07:21 -0700",
-         "title" : "Gunina Continues Blistering Run, Defeats Tan"
       },
       {
          "description" : "You didn't expect those creative, and beautiful moves, did you? Svitlana presents some genuinely fine moves by masterful players like Frank James Marshall, David Bronstein, Bobby Fischer, Pal Benko, Richard Reti, Alexander Alekhine, and Mikhail Tal. Lean back, and enjoy the spectacle!",
@@ -2088,38 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1847",
          "pubDate" : "Mon, 04 Jul 2022 22:08:40 +0000",
          "title" : "Ian Nepomniachtchi wins the Candidates without a single loss"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
-         "pubDate" : "Mon, 04 Jul 2022 13:49:32 +0000",
-         "title" : "Level 1 Arbiter Course September 2022"
-      },
-      {
-         "description" : " The ACT Chess Association is organising the 2022 ANU Open, after a break of 2 years. <br />The details are<br /><br /><b>ANU Open/Minor 2022<br /></b><br />29-31 July (One round Friday evening, three Saturday, two Sunday)<br /><br />Format: Open section and Under 1600 Section (ACF)<br /><br />Time control: 60m+30s inc (FIDE Rated except for players 2400+)<br /><br /><b>Schedule</b><div><br /></div><div>Round 1 Friday 29th 7PM, <br /><br />Round 2 Sat 30th 10am, Rd 3 2pm, Round 4, 6pm<br /><br />Round 5 Sun 31st 10am, Round 6 2pm Prize giving 6pm<br /><br /><b>Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Fre</b>e<br /><br />Prizes: $1000 1st Open, $400 1st Minor $3600 in total<br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/2022-anu-open-29th-to-31st-july.html",
-         "pubDate" : "Mon, 04 Jul 2022 12:58:00 +0000",
-         "title" : "2022 ANU Open - 29th to 31st July"
-      },
-      {
-         "description" : "The European Senior Chess Championship 2022 kicks off tomorrow in Lublin, Poland, taking place from 5-14 July in Arche Hotel Lublin. The event is played in two age categories: 50+ and 65+, with separate prizes for female players. 61 players from 15 European countries registered for the events which will be played over 9 swiss rounds, with time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2022-starts-in-lublin/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2022-starts-in-lublin/",
-         "pubDate" : "Mon, 04 Jul 2022 12:04:42 +0000",
-         "title" : "European Senior Chess Championship 2022 starts in Lublin"
-      },
-      {
-         "description" : " <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/vnaUADXYaYw?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/watch-the-candidates-tournament-2022-round-14/",
-         "pubDate" : "Mon, 04 Jul 2022 12:00:00 +0000",
-         "title" : "Watch the Candidates Tournament 2022: Round 14"
       }
    ]
 }
