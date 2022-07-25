@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the final day of action at the SuperUnited Rapid & Blitz Tournament in Zagreb, world champion Magnus Carlsen never relinquished his lead. It did not matter that the World Champion lost his game against Alireza Firouzja shortly before the end of the tournament. Firouzja and Maxime Vachier-Lagrave shared second and third place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d5",
+         "pubDate" : "Mon, 25 Jul 2022 13:00:00 +0100",
+         "title" : "Magnus Carlsen dominates SuperUnited Rapid & Blitz"
+      },
+      {
+         "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-rapid-blitz-chess-champions-crowned-in-thessaloniki/",
+         "pubDate" : "Mon, 25 Jul 2022 10:27:43 +0000",
+         "title" : "European Youth Rapid & Blitz Chess Champions crowned in Thessaloniki"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1878",
+         "pubDate" : "Mon, 25 Jul 2022 09:41:26 +0000",
+         "title" : "Magnus Carlsen wins 2022 SuperUnited Rapid and Blitz"
+      },
+      {
+         "description" : "Report by GM Robert Hungaski Each day was a process of discovery and change, for myself included. In my first daily recap, following the announcement that Magnus wouldn&#x2019;t defend his title, I spoke of a Magnus used to running laps around his opponents, now needing to give his legs a rest. But I was wrong. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/80170-2/",
+         "pubDate" : "Mon, 25 Jul 2022 09:12:32 +0000",
+         "title" : "Carlsen wins Super United Rapid & Blitz Grand Chess Tour 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen won the Super United Croatia Rapid & Blitz tournament, the third tournament of the <a href=\"https://grandchesstour.org/\">Grand Chess Tour 2022</a>, a couple of days after his <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">official withdrawal</a> from the World Championship cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/carlsen-nepo.jpeg\" width=\"800\" height=\"455\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a>, Grand Chess Tour</div> </div> The Super United Croatia Rapid & Blitz was",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-didnt-retire-from-chess-won-the-super-united-croatia-202/",
+         "pubDate" : "Mon, 25 Jul 2022 08:31:08 +0000",
+         "title" : "Carlsen didn't retire from chess, won the Super United Croatia 2022"
+      },
+      {
          "description" : "Dmitrij Kollars, who only joined the tournament after Vladimir Kramnik had to withdraw due to Covid-related issues, was the surprise winner of the No-Castling World Masters. The 22-year-old beat Daniel Fridman in the final round to catch Vishy Anand atop the standings. Kollars was declared champion on tiebreak criteria, as he scored one more win than the Indian star. In the Deutschland Grand Prix, Pavel Eljanov defended his title by remarkably collecting 4&frac12;/6 points against a tough field. | Photos: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,12 +162,12 @@ news_feed (
          "title" : "50 years ago today: Fischer-Spassky, game six"
       },
       {
-         "description" : "The SuperUnited Croatia Rapid & Blitz tournament is taking place in Zagreb on July 20-24. Rapid chess will be played from Wednesday to Friday, while blitz will be the playing format on Saturday and Sunday. The best players in the world are participating, including World Champion Magnus Carlsen. | Follow the games live with video commentary starting at 14.00 CEST (08.00 ET, 17.30 IST)",
+         "description" : "The SuperUnited Croatia Rapid & Blitz tournament took place in Zagreb on July 20-24. Rapid chess was played from Wednesday to Friday, while blitz was the playing format on Saturday and Sunday. The best players in the world participated, including World Champion Magnus Carlsen. | Replay all the games with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
          "pubDate" : "Sun, 24 Jul 2022 13:55:00 +0100",
-         "title" : "SuperUnited Croatia Rapid & Blitz: Live"
+         "title" : "SuperUnited Croatia Rapid & Blitz: All games"
       },
       {
          "description" : "The \"Sparkassen Chess Trophy\" once again took place in Dortmund. The Deutschland Grand Prix is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Replay all the games from the top events!",
@@ -392,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/practicing-and-improving-with-fritz-online",
          "pubDate" : "Fri, 22 Jul 2022 19:00:00 +0100",
          "title" : "Practicing and improving with Fritz Online"
-      },
-      {
-         "description" : "The 23rd edition of the Pittsburgh Chess Open 2022 will be held from 22-24 July at the Doubletree Green Tree Pittsburgh, Pennsylvania. The program includes five different tournaments; Major (for players rated 1900+), Under 2100, Under 1800, Under 1500, and Under 1200, with a guaranteed prize fund of 15.000$. The events will be played in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/23rd-pittsburgh-chess-open-2022/",
-         "pubDate" : "Fri, 22 Jul 2022 15:59:59 +0000",
-         "title" : "23rd Pittsburgh Chess Open 2022"
       },
       {
          "description" : "",
@@ -786,7 +818,7 @@ news_feed (
          "title" : "The Art Of The Comeback: Lagno Outfights Koneru"
       },
       {
-         "description" : " The SuperUnited Rapid & Blitz starts on 20th July and runs through until the 25th July. Magnus Carlsen, Alireza Firouzja, Ian Nepomniachtchi, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez, Jorden Van Foreest, Ivan Saric and Veselin Topalov. Play in this rapid and blitz tournament as part of the Grand Chess Tour.",
+         "description" : " The SuperUnited Rapid & Blitz took place on 20th July and runs through until the 25th July. Jorden Van Foreest won the rapid and MVL the blitz. Magnus Carlsen won the event over all sealing victory in the combined standings with a couple of rounds to go. He slightly spoiled things for himself by losing the final two rounds.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2022",
@@ -1682,14 +1714,6 @@ news_feed (
          "title" : "Nakhchivan to host FIDE World Youth U-16 Chess Olympiad "
       },
       {
-         "description" : "In the Accentus Chess960 tournament at the start of the 55th Biel Chess Festival Vincent Keymer and Nodirbek Abdusattorov both finished with 5.0/7 and tied first. However, as Keymer won more games with Black, he won the tournament on tiebreak. | Photos: Schachfestival Biel.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vincent-keymer-wins-accentus-chess960-tournament-in-biel",
-         "pubDate" : "Tue, 12 Jul 2022 12:20:56 +0100",
-         "title" : "Vincent Keymer wins Accentus Chess960 Tournament in Biel"
-      },
-      {
          "description" : "Please find the live game links for Under 19 Open &#38; Girls National Chess Championship 2022 https://live.followchess.com/#!mpl-51st-national-u-19-2022 https://live.followchess.com/#!mpl-51st-national-u-19-g-2022",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2096,22 +2120,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/watch-the-candidates-tournament-2022-round-14/",
          "pubDate" : "Mon, 04 Jul 2022 12:00:00 +0000",
          "title" : "Watch the Candidates Tournament 2022: Round 14"
-      },
-      {
-         "description" : "Day 24 AIZWAL Sh. Robert Royte , Minister of State, IC- Sports &#38; Youth Services, I &#38;CT, and Tourism, Govt. of Mizoram received the torch",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/historic-first-ever-olympiad-torch-relay/",
-         "pubDate" : "Mon, 04 Jul 2022 11:12:45 +0000",
-         "title" : "HISTORIC FIRST EVER OLYMPIAD TORCH RELAY : DAILY UPDATES"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1846",
-         "pubDate" : "Mon, 04 Jul 2022 09:31:19 +0000",
-         "title" : "Checkmate Coronavirus: Road to Chennai"
       }
    ]
 }
