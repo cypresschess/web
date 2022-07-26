@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Queen of England celebrated her Platinum Jubilee this year: she has been Queen of England for 70 years. Musician Jason Kouchak took this event as an opportunity to celebrate chess and the \"Queens of Chess\", together with his friend Pattie Boyd, who was muse and queen for both Eric Clapton and George Harrison.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/something-in-the-way-she-moves-kouchak",
+         "pubDate" : "Wed, 27 Jul 2022 00:30:00 +0100",
+         "title" : "Something in the way&hellip;she moves"
+      },
+      {
+         "description" : " The 2022 Chess Olympiad is here! There is excitement brewing in Chennai as the organizing committee and the Tamil Nadu province is doing everything to make this 44th Olympiad the best ever! Social media is buzzing and there is a festive atmosphere that includes various videos of the chess-themed Napier Bridge, celebratory dances and all The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/26/2022-chess-olympiad-chennai-india/\">2022 Chess Olympiad (Chennai, India)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/26/2022-chess-olympiad-chennai-india/",
+         "pubDate" : "Tue, 26 Jul 2022 22:44:33 +0000",
+         "title" : "2022 Chess Olympiad (Chennai, India)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk teaches a chess class on a topic of his choice. 2022.07.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-illya-nyzhnyk-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-illya-nyzhnyk-lichessorg",
+         "pubDate" : "Tue, 26 Jul 2022 20:52:01 +0000",
+         "title" : "Grandmaster's Choice - GM Illya Nyzhnyk | lichess.org"
+      },
+      {
          "description" : "With opening theory reaching insane depth and draws on the rise, there has been an increasing interest in chess variants such as Chess960 aka Fischer Random Chess, and the recent 'No-Castling' chess. Here is another variant that bears similarities to Chess960, but completely asymmetrical and no castling. One added plus is that you can even play it against Fritz Online!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,14 +226,6 @@ news_feed (
          "title" : "National U-19 Open and Girls Chess Championship Certificates"
       },
       {
-         "description" : "The Rapid Chess Championship presented by Coinbase entered its 22nd week on Sunday and was won by a rampant GM Hikaru Nakamura who toppled GM Fabiano Caruana after winning all of his games en route to his seventh knockout victory. A generational...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-22-nakamura-wins",
-         "pubDate" : "Mon, 25 Jul 2022 06:09:48 -0700",
-         "title" : "Nakamura's 7th Knockout Victory: 'Just Another Day At The Office'"
-      },
-      {
          "description" : "GMs David Paravyan and Nikolas Theodorou were the winners of the seventh and eighth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; Paravyan and Theodorou advance to the main event along with GMs Gata Kamsky and Jose Martinez, victors...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -288,6 +304,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-croatia-rapid-blitz",
          "pubDate" : "Sun, 24 Jul 2022 21:57:47 +0000",
          "title" : "Magnus Carlsen wins Croatia Rapid & Blitz"
+      },
+      {
+         "description" : "The Rapid Chess Championship presented by Coinbase entered its 22nd week on Sunday and was won by a rampant GM Hikaru Nakamura who toppled GM Fabiano Caruana after winning all of his games en route to his seventh knockout victory. A generational...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-22-nakamura-wins",
+         "pubDate" : "Sun, 24 Jul 2022 14:41:00 -0700",
+         "title" : "Nakamura's 7th Knockout Victory: 'Just Another Day At The Office'"
       },
       {
          "description" : "GM Magnus Carlsen won the SuperUnited Rapid &#38;amp; Blitz in Zagreb, Croatia, on Sunday. After the rapid segment, the world champion was in second place behind Dutch GM Jorden van Foreest, but scoring 11.5/18 in the blitz was enough to finish in sol...",
@@ -496,14 +520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d4",
          "pubDate" : "Sun, 24 Jul 2022 04:25:00 +0100",
          "title" : "SuperUnited Croatia: Carlsen climbs to first place"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the first blitz round robin. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-4",
-         "pubDate" : "Sat, 23 Jul 2022 20:50:14 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 4"
       },
       {
          "description" : "An online &#34;round-table&#34; discussion organized by the Association of Chess Professionals (ACP) on Thursday saw three FIDE presidential candidates, the incumbent president Arkady Dvorkovich, GM Andrii Baryshpolets, and GM Bachar Kouatly, debating ove...",
@@ -1650,14 +1666,6 @@ news_feed (
          "title" : "European Senior Championship 2022: Martin Mrva and Nils-Gustaf Renman claim titles"
       },
       {
-         "description" : "Sam Sevian won the preliminary stage of the FTX Road to Miami online tournament. The US grandmaster collected 32 points in the 15 rounds which took place from Sunday to Wednesday. Arjun Erigaisi and Jan-Krzysztof finished in second and third place respectively, while top grandmasters Anish Giri and Levon Aronian made the cut after a slow start. On the other hand, Shakhriyar Mamedyarov was eliminated after losing his last three games of the single round-robin. | Photo: Austin Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d4",
-         "pubDate" : "Thu, 14 Jul 2022 11:35:00 +0100",
-         "title" : "FTX Road to Miami: Sevian wins prelims"
-      },
-      {
          "description" : "Sam Sevian defeated Shakhriyar Mamedyarov in the final round of the FTX Road to Miami Prelims to top the table while Shakh was knocked out after losing all three games on the final day. Wei Yi scraped through despite a late surge from Aryan Tari, while Levon Aronian and Anish Giri both got the job done comfortably. It's Sevian vs. Wei Yi, Erigaisi vs. Aronian, Duda vs. Giri and Xiong vs. Rapport in Thursday's quarterfinals.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1970,14 +1978,6 @@ news_feed (
          "title" : "Harika Dronavalli and Tan Zhongyi progress into quarterfinals"
       },
       {
-         "description" : " Tony Ballard's life has been one of turmoil, but chess has become a source of balance during his period of incarceration. Ballard is serving a 294-month sentence for attempted murder, but recently gave one of the most powerful testimonies of the rehabilitative properties of chess. Grandmasters will often be asked to speak on chess, but The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/\">Tony Ballard's Powerful Chess Testimony</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/08/tony-ballards-powerful-chess-testimony/",
-         "pubDate" : "Fri, 08 Jul 2022 15:24:20 +0000",
-         "title" : "Tony Ballard's Powerful Chess Testimony"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png\" data-image-dimensions=\"182x183\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c822b10e046d110b05f667\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.chessable.com/play-winning-chess/course/89222/\">via Chessable </a> </figcaption> </figure> <figure class=\" sqs-block-image-f",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/NSCC/national-schools-championships-finals/#new_tab",
          "pubDate" : "Wed, 06 Jul 2022 10:51:36 +0000",
          "title" : "National Schools Championships final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1849",
-         "pubDate" : "Tue, 05 Jul 2022 22:30:18 +0000",
-         "title" : "2022 FIDE Candidates Tournament came to a close on Tuesday in Madrid"
       }
    ]
 }
