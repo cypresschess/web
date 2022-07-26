@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the start of the month, the Swedish National Championships took place in Uppsala (photo), which are traditionally held as a big festival with tournaments in different categories. The main event was won by Jonny Hector, who at 58 grabbed his second national title, twenty years after having won his first title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jonny-hector-wins-swedish-championship",
+         "pubDate" : "Tue, 26 Jul 2022 13:10:00 +0100",
+         "title" : "Jonny Hector wins Swedish National Championship at 58"
+      },
+      {
+         "description" : "At the European Youth Rapid and Blitz Championships, the German players had a great performance. Tykhon Cherniaiev won two gold medals, Luisa Bashylina one gold and one silver. Ruben K&ouml;llner and Tobias K&ouml;lle also won gold, while Marius Fromm took home a silver medal. | Photos: Dorian Rogozenco",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-youth-rapid-blitz-2022",
+         "pubDate" : "Tue, 26 Jul 2022 10:00:00 +0100",
+         "title" : "Tykhon Cherniaiev among winners at European Youth Rapid & Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1880",
+         "pubDate" : "Tue, 26 Jul 2022 08:32:17 +0000",
+         "title" : "Zurab Azmaiparashvili reelected as ECU President"
+      },
+      {
+         "description" : "The 31st Open International Chess Tournament of Kavala 2022 is going to take place 26 July 2 August in Kavala, Greece. Featuring 261 players, 39 of which titled, coming from 22 countries, this summer open is one of the large European events. Full information about Kavala Chess Open / Live games",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kavala-chess-live/",
+         "pubDate" : "Tue, 26 Jul 2022 08:14:54 +0000",
+         "title" : "Kavala Chess LIVE"
+      },
+      {
+         "description" : "The 31st Open International Chess Tournament of Kavala 2022 is going to take place 26 July 2 August in Kavala, Greece. Featuring 261 players, 39 of which titled, coming from 22 countries, this summer open is one of the large European events. Top seeded is Indian Grandmaster G.N. Gopal and his main competition comes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/g-n-gopal-is-top-seeded-at-the-31st-open-international-tournament-of-kavala-2022/",
+         "pubDate" : "Tue, 26 Jul 2022 08:11:57 +0000",
+         "title" : "G.N. Gopal is top seeded at the 31st Open International Tournament of Kavala 2022"
+      },
+      {
          "description" : "In endgames the last attacking pawn is often worth its weight in gold. In the diagrammed position it is Black to move - can he save a draw and if so, how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,6 +146,22 @@ news_feed (
          "title" : "Magnus Carlsen dominates SuperUnited Rapid & Blitz"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1879",
+         "pubDate" : "Mon, 25 Jul 2022 10:54:23 +0000",
+         "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Mon, 25 Jul 2022 10:29:55 +0000",
+         "title" : "FIDE Congress 2022"
+      },
+      {
          "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -128,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/80170-2/",
          "pubDate" : "Mon, 25 Jul 2022 09:12:32 +0000",
          "title" : "Carlsen wins Super United Rapid & Blitz Grand Chess Tour 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1879",
-         "pubDate" : "Mon, 25 Jul 2022 08:54:23 +0000",
-         "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
       },
       {
          "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen won the Super United Croatia Rapid & Blitz tournament, the third tournament of the <a href=\"https://grandchesstour.org/\">Grand Chess Tour 2022</a>, a couple of days after his <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">official withdrawal</a> from the World Championship cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/carlsen-nepo.jpeg\" width=\"800\" height=\"455\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a>, Grand Chess Tour</div> </div> The Super United Croatia Rapid & Blitz was",
@@ -426,14 +474,6 @@ news_feed (
          "title" : "Le Quang Liem wins Biel Chess Festival 2022"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Sat, 23 Jul 2022 15:29:55 +0000",
-         "title" : "FIDE Congress 2022"
-      },
-      {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzAkKLWY7shT8pSo2ncClAPPwLQ_CCSHbSOId2YHAxrASLdE0pq6-KfhhuR9cdxlgaOLPENFVOj7THbwxDEFGPqAaG5om88KtWjc4w6XMuRKoH_EOd4ruSOoWXzO7/s680/anonlouie.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzA",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -464,14 +504,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/zagreb-gct-3-jorden-beats-firouzja-to-win-rapid",
          "pubDate" : "Sat, 23 Jul 2022 10:17:59 +0000",
          "title" : "Zagreb GCT 3: Jorden beats Firouzja to win Rapid"
-      },
-      {
-         "description" : "Zurab Azmaiparashvili is re-elected as ECU President. Congratulations! The ticket of Mr. Zurab Azmaiparashvili was elected with 44 votes in favor, 2 blank, and 3 invalid ballots in a total of 49 votes cast. Follow the General Assembly of ECU live here ECU President: Mr. Zurab AzmaiparashviliDeputy President: Mrs. Dana Reizniece-OzolaVice President: Mr. Gunnar BjornssonVice []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zurab-azmaiparashvili-ecu-president-2022",
-         "pubDate" : "Sat, 23 Jul 2022 09:44:38 +0000",
-         "title" : "Zurab Azmaiparashvili is re-elected ECU President"
       },
       {
          "description" : "Vishy Anand continues to lead the standings in the No-Castling World Masters after drawing Dmitrij Kollars on Friday. In the Sparkassen Open-A, one of many tournaments taking place as part of the Dortmund Chess Festival, Dutch GM Max Warmerdam has scored 7 points in as many games. Warmerdam beat Thomas Beerdsen in style and analysed his victory in the post-game interview. | Photos: Michelle Lassak",
@@ -520,14 +552,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/07/22/discussion-the-future-for-chess-and-fide/",
          "pubDate" : "Fri, 22 Jul 2022 20:29:29 +0000",
          "title" : "Discussion: The Future for Chess and FIDE"
-      },
-      {
-         "description" : "The 2022 ECU General Assembly will take place on Saturday, 23rd July 2022 in Hotel Porto Palace Thessaloniki, Greece. The ECU Board meeting will be held a day before, on Friday, 22nd July 2022, in the same venue. The morning session, Saturday 23rd July 2022: 09.30 &#x2013; 13.30 live The afternoon session, Saturday 23rd July []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-general-assembly-2022-live/",
-         "pubDate" : "Fri, 22 Jul 2022 18:20:11 +0000",
-         "title" : "ECU General Assembly 2022 LIVE"
       },
       {
          "description" : "Years back, when the first iteration of the Fritz Online app came out, it was a barebones deal: Attractive, and good for a game, but not the most compelling option to train against. A bit problematic as this was its purpose, but it has undergone many revisions since, and revisiting it you will be surprised at how interesting and fun it can be.",
@@ -1650,22 +1674,6 @@ news_feed (
          "title" : "Direct Members Reps Elections 2022"
       },
       {
-         "description" : "Paul Morphy needs no introduction. On the occasion of his 138th death anniversary, Eugene Manlapao revisits the exploits of the chess genius and the peculiar circumstances of his success that seemingly recurred in the rise of succeeding American champions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/paul-morphy-the-first-of-the-conquering-american-chess-heroes-june-22-1837-july-10-1884",
-         "pubDate" : "Wed, 13 Jul 2022 12:00:00 +0100",
-         "title" : "Paul Morphy: The First of the Conquering American Chess Heroes (June 22, 1837 - July 10, 1884)"
-      },
-      {
-         "description" : "On Monday, Vincent Keymer won the Accentus Chess960 tournament in Biel, on Tuesday Le Quang Liem won the Rapid GM tournament. He finished with 5.5/7 or 11/14 as players received 2 points for a win and 1 point for a draw. Keymer finished second to last with 2.5/7 or 5/14. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-le-quang-liem-wins-gm-rapid",
-         "pubDate" : "Wed, 13 Jul 2022 11:30:57 +0100",
-         "title" : "Biel: Le Quang Liem wins GM Rapid"
-      },
-      {
          "description" : "Levon Aronian and Anish Giri share the final two qualification spots going into the last day of the FTX Road to Miami Prelims, just two points clear of Wei Yi. Up top Sam Sevian remains the sole leader, though second placed Arjun Erigaisi top scored for the day after beating Shakhriyar Mamedyarov, Hans Niemann and Ju Wenjun despite losing a wild first game to Jan-Krzysztof Duda. The Polish no. 1 is, like Sam, unbeaten, and has already wrapped up qualification to the knockout.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/4/ep-286-adult-improver-dr-nicholas-vazquez-on-how-and-why-he-finally-got-serious-about-chess-improvement",
          "pubDate" : "Tue, 05 Jul 2022 12:00:49 +0000",
          "title" : "EP 286- Adult Improver Dr. Nicholas Vasquez on How and Why he Finally Got Serious about Chess Improvement"
-      },
-      {
-         "description" : " <p class=\"lead\">In a brief interview after the Candidates Tournament, the World Champion said that Nepo, who ended up winning the tournament, was 'criminally underrated'. Higher seeds were the favorites to win the event, but it tuned out that Nepo, who just recently completed the Match against Carlsen and was by far better conditioned for the event, dominated the Candidates. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/9tbpbly1Nsc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-nepo-was-criminally-underrated/",
-         "pubDate" : "Tue, 05 Jul 2022 09:08:56 +0000",
-         "title" : "Carlsen: Nepo Was Criminally Underrated"
       }
    ]
 }
