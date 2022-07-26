@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93142542.cms\" />Reigning world champion Magnus Carlsen on Tuesday said that hosts India stand a strong chance of winning medals at the upcoming 44th Chess Olympiad. India will be hosting the showpiece event for the first time in the prestigious tournament's history from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-have-a-strong-chance-of-winning-medals-at-chess-olympiad-magnus-carlsen/articleshow/93142542.cms",
+         "pubDate" : "Tue, 26 Jul 2022 14:41:49 +0000",
+         "title" : "India have a strong chance of winning medals at Chess Olympiad: Carlsen"
+      },
+      {
+         "description" : "GMs Vladimir Fedoseev and Benjamin Bok were the winners of the seventh and eighth Play-ins of the Chess.com Global Championship. GMs Raunak Sadhwani and Rauf Mamedov each won second place respectively, joining the winners in advancing to the knock...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-3-day-1",
+         "pubDate" : "Tue, 26 Jul 2022 06:16:02 -0700",
+         "title" : "Fist Pumps and Second Chances: Fedoseev and Bok Win"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93140367.cms\" />India's top-ranked chess player P Harikrishna on Tuesday said while legendary Viswanathan Anand's absence from the Indian team will make a big difference, the young players are ready to carve out a niche for themselves at this year's Chess Olympiad.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/anands-absence-will-be-felt-but-india-capable-of-putting-up-good-show-at-olympiad-harikrishna/articleshow/93140367.cms",
+         "pubDate" : "Tue, 26 Jul 2022 13:12:57 +0000",
+         "title" : "'Anand's absence will be felt but India capable of putting up good show at Olympiad'"
+      },
+      {
+         "description" : "The ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi is an exhibition match taking place at the Dublin Square in the Phoenix Marketcity, Mumbai. The elite grandmasters face off in blindfold chess, rapid, blitz, bullet and no-castling chess! | The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/giri-vidit-death-match-live",
+         "pubDate" : "Tue, 26 Jul 2022 13:50:00 +0100",
+         "title" : "Giri vs. Vidit Death Match - Live!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a2148521-2212-4c0a-87e1-114c1de2e9a2/tonyB4.jpg\" data-image-dimensions=\"417x331\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dff3abd203cf3a97638107\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a2148521-2212-4c0a-87e1-114c1de2e9a2/tonyB4.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of Tony Ballard <a href=\"https://twitter.com/thegiftofchess/status/1537434379491782659\">via The Gift of Chess </a> </figcaption> </figure> ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/26/ep-289-tony-ballard-a-convicted-felon-on-how-chess-has-changed-his-life",
+         "pubDate" : "Tue, 26 Jul 2022 12:25:09 +0000",
+         "title" : "EP 289- Tony Ballard- A Convicted Felon on How Chess has Changed His Life "
+      },
+      {
          "description" : "At the start of the month, the Swedish National Championships took place in Uppsala (photo), which are traditionally held as a big festival with tournaments in different categories. The main event was won by Jonny Hector, who at 58 grabbed his second national title, twenty years after having won his first title.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/jonny-hector-wins-swedish-championship",
          "pubDate" : "Tue, 26 Jul 2022 13:10:00 +0100",
          "title" : "Jonny Hector wins Swedish National Championship at 58"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93138009.cms\" />The 'B' team, seeded 11th comprises Nihal Sarin, D Gukesh, R Praggnanandhaa, B Adhiban and Raunak Sadhwani, all Grandmasters, and Ramesh believes if the players can keep their focus during the 11 rounds of the Olympiad, beginning at nearby Mamallapuram on July 28, they can finish on the podium.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-b-team-capable-of-podium-finish-in-chess-olympiad-coach-ramesh/articleshow/93138009.cms",
+         "pubDate" : "Tue, 26 Jul 2022 11:41:29 +0000",
+         "title" : "India 'B' team capable of podium finish in Chess Olympiad: Coach Ramesh"
+      },
+      {
+         "description" : "On 20 July, the International Chess Day, the Central Chess Club M. Botvinnik hosted a solemn ceremony of the &#8220;CFR Golden Badge&#8221; winners awarding. CFR President Andrey Filatov and CFR Executive Director Mark Gluhovsky welcomed the guests and awarded the Golden badge to Alexander Bakh, Galina Dvorkovich, Igor&#xA0;&#xA0;Zaitsev, Alexander Kostiev, Evgeni Vasiukov (posthumously), and Evgeny []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/filatov-half-of-the-fide-world-championship-match-may-take-place-in-russia/",
+         "pubDate" : "Tue, 26 Jul 2022 11:31:46 +0000",
+         "title" : "Filatov: \"Half of the FIDE World Championship match may take place in Russia\""
       },
       {
          "description" : "At the European Youth Rapid and Blitz Championships, the German players had a great performance. Tykhon Cherniaiev won two gold medals, Luisa Bashylina one gold and one silver. Ruben K&ouml;llner and Tobias K&ouml;lle also won gold, while Marius Fromm took home a silver medal. | Photos: Dorian Rogozenco",
@@ -464,14 +520,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-winner-time-trouble-duals-day-4",
          "pubDate" : "Sat, 23 Jul 2022 17:50:19 +0000",
          "title" : "Carlsen: Winner of Time Trouble Duals | Day 4"
-      },
-      {
-         "description" : "Le Quang Liem is the winner in the Grandmaster Triathlon at the Biel Chess Festival. The Vietnamese player, who was convincing throughout the tournament, proved to be the strongest player in both classical and rapid chess and did not really drop back in blitz chess either, so he truly deserves the overall victory in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/le-quang-liem-wins-biel-chess-festival-2022/",
-         "pubDate" : "Sat, 23 Jul 2022 17:28:39 +0000",
-         "title" : "Le Quang Liem wins Biel Chess Festival 2022"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzAkKLWY7shT8pSo2ncClAPPwLQ_CCSHbSOId2YHAxrASLdE0pq6-KfhhuR9cdxlgaOLPENFVOj7THbwxDEFGPqAaG5om88KtWjc4w6XMuRKoH_EOd4ruSOoWXzO7/s680/anonlouie.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzA",
@@ -1626,14 +1674,6 @@ news_feed (
          "title" : "Most stylish teams to be awarded at 44th Chess Olympiad"
       },
       {
-         "description" : "As the winner of the preliminaries, GM Sam Sevian enters the knockout stage of the FTX Road to Miami tournament as the top seed. The American grandmaster will face GM Wei Yi&#38;nbsp;in the quarterfinals. GM Shakhriyar Mamedyarov, who lost to Sevian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-day-4",
-         "pubDate" : "Wed, 13 Jul 2022 14:34:00 -0700",
-         "title" : "Sevian Knocks Out Mamedyarov, Enters Knockout Stage As Top Seed"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1656,14 +1696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-siblings-look-to-shine-for-ireland-at-chess-olympiad/articleshow/92860094.cms",
          "pubDate" : "Wed, 13 Jul 2022 17:35:33 +0000",
          "title" : "Indian origin siblings look to shine for Ireland at Chess Olympiad"
-      },
-      {
-         "description" : "In his new video course, the French top grandmaster Romain Edouard shows you how to win games by seizing the initiative with sacrifices. The course consists of two volumes: In the first volume, Edouard demonstrates patterns, and in the second course you are invited to test your knowledge. All new courses can now also be watched via stream, e.g. on mobile devices!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-winning-chess-strategies-vol-1-vol-2",
-         "pubDate" : "Wed, 13 Jul 2022 16:00:00 +0100",
-         "title" : "New: Winning Chess Strategies Vol. 1 + Vol. 2"
       },
       {
          "description" : "At the close of nominations for the direct members' representatives for 2021-22 there were two nominations in each category of membership except for the silver...",
@@ -1842,14 +1874,6 @@ news_feed (
          "title" : "35th Leon Chess 2022 - Games and Results"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92788924.cms\" />All eyes will be on Team USA, the top seeds in the open section, as the 44th chess Olympiad kicks off in Chennai from July 28. The team comprising --- Levon Aronian, Fabiano Caruana, Wesley So, Leinier Dominguez and Sam Shankland --- have an average rating of 2771 which is a whopping 66 points higher than the second seeded Azerbaijan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/favourites-tag-doesnt-mean-much-in-chess-olympiad-wesley-so/articleshow/92788924.cms",
-         "pubDate" : "Sun, 10 Jul 2022 17:40:17 +0000",
-         "title" : "Favourites' tag doesn't mean much in chess Olympiad: Wesley So"
-      },
-      {
          "description" : " Trinidad &#38; Tobago hosted an exciting international invitational won by Dutch Grandmaster Robby Kevlishvili, who suffered one loss in nine rounds. The island nation has had a history of hosting international tournaments to give local players a chance to raise their level of play and to earn FIDE titles. Trinidad &#38; Tobago Chess Federation President The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/10/2022-trinidad-tobago-international/\">2022 Trinidad &#038; Tobago International</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1888,14 +1912,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/creating-studies-from-games-1",
          "pubDate" : "Sun, 10 Jul 2022 12:45:00 +0100",
          "title" : "Creating studies from games (1)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92784545.cms\" />India's teenage Grandmaster P Iniyan finished second in the La Plagne International Open Chess Tournament 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-iniyan-finishes-second-in-chess-tournament-in-france/articleshow/92784545.cms",
-         "pubDate" : "Sun, 10 Jul 2022 11:12:34 +0000",
-         "title" : "Indian GM Iniyan finishes second in chess tournament in France"
       },
       {
          "description" : " My third new website is chess1500.uk. There are, in general, three approaches you can take when promoting children's chess. Chess 500 is an approach designed to maximise the number of people playing chess at 500 level not much more than playing random moves. You can do this by promoting chess in primary schools, preferably <a href=\"https://chessimprover.com/chess-1500/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 1500\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-1500/\">Chess 1500</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty Six"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92740899.cms\" />City Grandmasters are optimistic about India's chances in the upcoming Chess Olympiad scheduled to be held in Chennai from July 28.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-gms-hopeful-of-indias-chances-in-chess-olympiad/articleshow/92740899.cms",
-         "pubDate" : "Fri, 08 Jul 2022 05:48:21 +0000",
-         "title" : "Kolkata GMs hopeful of India's chances in Chess Olympiad"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,30 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1848",
          "pubDate" : "Tue, 05 Jul 2022 17:45:08 +0000",
          "title" : "On the way to Chennai for the Arbiters' Team"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (58)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-58/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (58)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-58/",
-         "pubDate" : "Tue, 05 Jul 2022 15:22:08 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (58)"
-      },
-      {
-         "description" : " I have been updating my book collection with Librarything, and have discovered that it can generate a lot of statistics about my collection. If I stacked my books in a pile, it would be 74 feet high, at around 4% of my books aren't written by a person(!). Of the 200 identified authors, 48% are still alive, while 48% have died. 98% of my books are in English, although a number were originally written in other languages (mainly Russian). But probably the most surprising, and somewhat disappointing statistic is that only 1% of the authors in my collection were female. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/weird-book-statistics.html",
-         "pubDate" : "Tue, 05 Jul 2022 14:03:00 +0000",
-         "title" : "Weird book statistics"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG\" data-image-dimensions=\"1333x674\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c39202f91a6a40045fa650\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e5bdb6fb-9a30-4986-9414-63fad8c1e535/NickV.PNG?format=1000w\" /> </figure> <p class=\"\">On this month's Adult Improver Edition of Perpetual Chess I am joined by Dr. Nicholas Vasquez. Dr. Vasquez is a dad and emergency physician who finds chess a welcome escape from a",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/4/ep-286-adult-improver-dr-nicholas-vazquez-on-how-and-why-he-finally-got-serious-about-chess-improvement",
-         "pubDate" : "Tue, 05 Jul 2022 12:00:49 +0000",
-         "title" : "EP 286- Adult Improver Dr. Nicholas Vasquez on How and Why he Finally Got Serious about Chess Improvement"
       }
    ]
 }
