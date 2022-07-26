@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In endgames the last attacking pawn is often worth its weight in gold. In the diagrammed position it is Black to move - can he save a draw and if so, how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-last-pawn",
+         "pubDate" : "Tue, 26 Jul 2022 09:00:00 +0100",
+         "title" : "The last pawn"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates a strong performance in the lichess.org Rapid Swiss arena. 0:00 Game 1<br /> 12:28 Game 2<br /> 27:23 Game 3<br /> 30:17 Game 4<br /> 44:36 Game 5<br /> 53:48 Game 6<br /> 1:10:30 Game 7 Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/7-year-olds-finger-broken-by-chess-playing-robot",
-         "pubDate" : "Mon, 25 Jul 2022 10:33:09 -0700",
+         "pubDate" : "Mon, 25 Jul 2022 10:33:00 -0700",
          "title" : "7-Year-Old's Finger Broken By Chess-playing Robot"
       },
       {
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-le-quang-liem-wins-gm-rapid",
          "pubDate" : "Wed, 13 Jul 2022 11:30:57 +0100",
          "title" : "Biel: Le Quang Liem wins GM Rapid"
-      },
-      {
-         "description" : "Sam Sevian is still the sole leader at the FTX Road to Miami online tournament after the third day of action. Two points behind him stands Arjun Erigaisi, who was the top scorer on Tuesday, as he won three games and lost one to collect nine points in rounds 9-12. With three rounds to go in the preliminaries, the likes of Anish Giri, Levon Aronian and Leinier Dominguez are in danger of not finishing above the cut-off line.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d3",
-         "pubDate" : "Wed, 13 Jul 2022 11:00:00 +0100",
-         "title" : "FTX Road to Miami: Above the cut-off line"
       },
       {
          "description" : "Levon Aronian and Anish Giri share the final two qualification spots going into the last day of the FTX Road to Miami Prelims, just two points clear of Wei Yi. Up top Sam Sevian remains the sole leader, though second placed Arjun Erigaisi top scored for the day after beating Shakhriyar Mamedyarov, Hans Niemann and Ju Wenjun despite losing a wild first game to Jan-Krzysztof Duda. The Polish no. 1 is, like Sam, unbeaten, and has already wrapped up qualification to the knockout.",
