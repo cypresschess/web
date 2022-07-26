@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With opening theory reaching insane depth and draws on the rise, there has been an increasing interest in chess variants such as Chess960 aka Fischer Random Chess, and the recent 'No-Castling' chess. Here is another variant that bears similarities to Chess960, but completely asymmetrical and no castling. One added plus is that you can even play it against Fritz Online!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/double-shuffle-chess-a-fun-variant-against-fritz-online",
+         "pubDate" : "Tue, 26 Jul 2022 18:00:00 +0100",
+         "title" : "Double Shuffle Chess: a fun variant against Fritz Online"
+      },
+      {
+         "description" : " I always enjoy getting to the chess olympiad a few days early, as it gives me a chance to see what goes into organising such a large event. For the 2022 Olympiad, what goes into this one, is a massive army of volunteers and staff. This started with me being met at the airport (actually on the airbridge), before being taken directly through customs (via the express lane) , and after collecting my luggage, being driven to my hotel. After a solid nights sleep, and a quick breakfast, I went and inspected the venue. The venue is split into two areas, with the top boards in the existing convention centre, while the rest of the event is in a larger, purpose built, structure. Both venues are fairly",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-first-impressions.html",
+         "pubDate" : "Tue, 26 Jul 2022 16:32:00 +0000",
+         "title" : "2022 Chess Olympiad - First Impressions"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk is bullied by Jonathan Schrantz into playing a high-stakes game featuring the \"Beaver Gambit.\" How will Nyzhnyk survive such an outrageous gimmick gambit? Are you a believer in the beaver? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/never-challenge-gm-beaver-gambit-battle\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RFSdlK0Lzwk.jpg?itok=om49cnZE\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/never-challenge-gm-beaver-gambit-battle",
+         "pubDate" : "Tue, 26 Jul 2022 14:51:51 +0000",
+         "title" : "Never Challenge a GM to Beaver Gambit Battle"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93142542.cms\" />Reigning world champion Magnus Carlsen on Tuesday said that hosts India stand a strong chance of winning medals at the upcoming 44th Chess Olympiad. India will be hosting the showpiece event for the first time in the prestigious tournament's history from July 28 to August 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1877",
          "pubDate" : "Sat, 23 Jul 2022 18:10:17 +0000",
          "title" : "Checkmate Coronavirus: Road to Chennai. Vol 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Alejandro Ramirez after the first blitz round robin, where he finished +5 for the day with no draws, during the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.23<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-winner-time-trouble-duals-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/V6LOZG",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-winner-time-trouble-duals-day-4",
-         "pubDate" : "Sat, 23 Jul 2022 17:50:19 +0000",
-         "title" : "Carlsen: Winner of Time Trouble Duals | Day 4"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzAkKLWY7shT8pSo2ncClAPPwLQ_CCSHbSOId2YHAxrASLdE0pq6-KfhhuR9cdxlgaOLPENFVOj7THbwxDEFGPqAaG5om88KtWjc4w6XMuRKoH_EOd4ruSOoWXzO7/s680/anonlouie.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzA",
@@ -1682,14 +1698,6 @@ news_feed (
          "title" : "Loïc Travadon scores double at 8th International Francophone Chess Meetings"
       },
       {
-         "description" : "In his \"Game of the Week\" show #524 Merijn van Delft takes a look at fine game played in the last rounds of the German Bundesliga. In this game the young German Frederik Svane, who recently became a Grandmaster, outplayed Michael Adams in a Ruy Lopez. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-524-f-svane-vs-m-adams",
-         "pubDate" : "Wed, 13 Jul 2022 19:00:00 +0100",
-         "title" : "Game of the Week #524: F. Svane vs M. Adams"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92860094.cms\" />Indian origin siblings Tarun and Trisha Kanyamarala are in the midst of a golden run on the chess circuit in Ireland. While Trisha --- Ireland's first-ever WIM (Woman International Master) --- won the Irish women's championship last month, her elder brother Tarun bagged the men's (open) crown on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2064,22 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1849",
          "pubDate" : "Tue, 05 Jul 2022 22:30:18 +0000",
          "title" : "2022 FIDE Candidates Tournament came to a close on Tuesday in Madrid"
-      },
-      {
-         "description" : " <p class=\"lead\">As every major tournament, the <a href=\"https://chessarena.com/broadcasts/17306\">2022 Candidates Tournament</a> gave us all colors of emotions. From excitement and hope to surprise and disappointment, chess fans from around the world were glued to their screen to watch every match and applaud - or not - Ian Nepomniachtchi, the big winner of the tournament. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-11.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52190951611_1463bea5f8_h.jpg\" width=\"1600\" height=\"1067\" alt=\"\" /> <img src=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/what-happened-at-the-candidates-2022/",
-         "pubDate" : "Tue, 05 Jul 2022 17:52:42 +0000",
-         "title" : "What happened at the Candidates 2022?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1848",
-         "pubDate" : "Tue, 05 Jul 2022 17:45:08 +0000",
-         "title" : "On the way to Chennai for the Arbiters' Team"
       }
    ]
 }
