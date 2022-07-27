@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Wojciech Bartelsky started OlimpBase as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Btw, I'm always shocked that some chess fans don't know about http://t.co/5AtQWE2H. It's a global treasure.- The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelsky's Olimpbase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Wojciech Bartelsky started OlimpBase as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Recently in a WhatsApp discussion for chess journalists, Babatunde Ogunsiku (Africa Chess Media) and Kim Bhari The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelsky's Olimpbase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-526-crazy-twists",
          "pubDate" : "Wed, 27 Jul 2022 19:00:00 +0100",
          "title" : "Game of the Week #526: Crazy twists"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows positions where it was best to sacrifice less important material to improve piece activity. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Wed, 27 Jul 2022 17:53:13 +0000",
+         "title" : "Dynamic Sacrifices for a Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169345.cms\" />Star chess player Dronavalli Harika is optimistic about India's chances but said the top-seeded women's team will have to put up a collective effort to win medals at the 44th Chess Olympiad, beginning on Thursday.",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-sarana-win-titled-tuesday-july-26-2022",
          "pubDate" : "Wed, 27 Jul 2022 08:22:23 -0700",
          "title" : "Nakamura, 22-Year-Old Dominate Tuesday"
-      },
-      {
-         "description" : "Canadian WGM Qiyu Zhou has a solution for all the material out there on openings. What should you read or watch? You can get them both this week at a substantial discount. She teaches you the basics of practically every opening! And the well-known GM Simon Williams? In six training courses he includes a lot of novelties and interesting attacking variations that should wet the lips of any attacking player. You can get both packages this week at a substantial discount.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/discount-week-zhou-and-williams",
-         "pubDate" : "Wed, 27 Jul 2022 15:30:59 +0100",
-         "title" : "Deal of the Week: Zhou and Williams"
       },
       {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -114,7 +114,7 @@ news_feed (
          "title" : "Ding Liren vs Nepomniachtchi 2023 - possible replacements"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a><br /> Caleb Denby vs. Alex Moellering, 2014: E61 King&#039;s Indian defence, 3.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows Varuzhan Akobian&#039;s preferred system to stymie the King&#039;s Indian Defense. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a><br /> Caleb Denby vs. Alex Moellering, 2014: E61 King&#039;s Indian defence, 3.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/beating-kid-akobian-style-road-2000-nm-caleb-denby",
@@ -520,14 +520,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparov-case-real-world-champions-day-5",
          "pubDate" : "Sun, 24 Jul 2022 17:50:31 +0000",
          "title" : "Kasparov: A Case for the Real World Champions | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen is awarded the SuperUnited trophy by Grand Chess Tour Executive Director Michael Khodarkovsky, Organizing Committee SuperUnited President Marin Maruši&#263, and Alejandro Ramirez after the second blitz round robin at the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.24<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-superunited-croatia-champion\"><img src=\"https://saintlouischesscl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-carlsen-superunited-croatia-champion",
-         "pubDate" : "Sun, 24 Jul 2022 17:50:31 +0000",
-         "title" : "Magnus Carlsen: SuperUnited Croatia Champion!"
       },
       {
          "description" : "Today we offer readers a glimpse of what had been happening behind the scenes of \"The Match of The Century\", especially in the Russian camp, exactly fifty years ago. A tense Boris Spassky, cajoled by seconds Efim Geller and Nikolai Krogius, nevertheless failed to perform, to the dismay of his friends and admirers. It's also the story of a gamble that could have hurtled Bobby down the precipice in that fateful Game 6 of the match. A cautionary tale and object lesson for aspiring players.",
