@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Wojciech Bartelsky started OlimpBase as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Recently in a WhatsApp discussion for chess journalists, Babatunde Ogunsiku (Africa Chess Media) and Kim Bhari The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelsky's Olimpbase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "By now it is almost impossible to not have heard the tragic tale of the 7-year-old boy whose finger was broken during an exhibition by a chess playing robot. It was certainly the least likely incident one would have imagined, but Murphy's Law was in full swing that day. Still, the history of robots and chess has been ongoing for over 250 years now, with robot chess players today in the homes of proud owners.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robots-and-chess",
+         "pubDate" : "Wed, 27 Jul 2022 20:30:00 +0100",
+         "title" : "Robots and chess"
+      },
+      {
+         "description" : " Wojciech Bartelski started OlimpBase as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Recently in a WhatsApp discussion for chess journalists, Babatunde Ogunsiku (Africa Chess Media) and Kim Bhari The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelski's OlimpBase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/",
          "pubDate" : "Wed, 27 Jul 2022 18:36:26 +0000",
-         "title" : "Bartelsky's Olimpbase still draws fans"
+         "title" : "Bartelski's OlimpBase still draws fans"
       },
       {
          "description" : "In his \"Game of the Week\" show Merijn van Delft recaps one of his own games from the Amsterdam Science Park Tournament. Merijn faced the ever-creative Manuel Bosboom and, not surprisingly, the game featured a number of startling twists! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/the-creative-process.html",
          "pubDate" : "Fri, 15 Jul 2022 12:52:00 +0000",
          "title" : "The creative process?"
-      },
-      {
-         "description" : "Queen endgames often need extreme precision. In numerous instances, passed pawns play a large role, but mating attacks should also be considered. Game 4 of the quarterfinal match between Levon Aronian and Arjun Erigaisi saw the former outplaying his opponent in an ending with queens and four pawns per side.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/queen-endgame-aronian-invades",
-         "pubDate" : "Fri, 15 Jul 2022 13:45:00 +0100",
-         "title" : "A queen endgame: Aronian's invasion"
       },
       {
          "description" : "A wild day of FTX Road to Miami quarterfinal action saw youngsters Arjun Erigaisi, Sam Sevian and Jeffery Xiong all take the lead against Levon Aronian, Wei Yi and Richard Rapport before the more experienced stars stormed back to score comeback wins. Jan-Krzysztof Duda beat Anish Giri without a comeback, but with one of the strangest ends to a match you'll ever see.",
