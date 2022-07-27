@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Wojciech Bartelsky started OlimpBase as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Btw, I'm always shocked that some chess fans don't know about http://t.co/5AtQWE2H. It's a global treasure.- The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelsky's Olimpbase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/",
+         "pubDate" : "Wed, 27 Jul 2022 18:36:26 +0000",
+         "title" : "Bartelsky's Olimpbase still draws fans"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show Merijn van Delft recaps one of his own games from the Amsterdam Science Park Tournament. Merijn faced the ever-creative Manuel Bosboom and, not surprisingly, the game featured a number of startling twists! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-526-crazy-twists",
+         "pubDate" : "Wed, 27 Jul 2022 19:00:00 +0100",
+         "title" : "Game of the Week #526: Crazy twists"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169345.cms\" />Star chess player Dronavalli Harika is optimistic about India's chances but said the top-seeded women's team will have to put up a collective effort to win medals at the 44th Chess Olympiad, beginning on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-need-to-perform-collectively-to-earn-medal-at-olympiad-harika/articleshow/93169345.cms",
+         "pubDate" : "Wed, 27 Jul 2022 16:18:32 +0000",
+         "title" : "We need to perform collectively to earn medal at Olympiad: Harika"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169223.cms\" />India chess legend Viswanathan Anand is happy being an \"enthusiastic mentor\" and never thought of reconsidering his decision of not playing in the Olympiad after it was moved out of Russia and allotted to Chennai. Anand, a five-time world champion, had decided not to participate this time but he will be guiding the Indian team at the showpiece event to be held in Mamallapuram from July 28 to August 10.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/didnt-think-of-changing-my-mind-on-not-playing-olympiad-viswanathan-anand/articleshow/93169223.cms",
+         "pubDate" : "Wed, 27 Jul 2022 16:08:38 +0000",
+         "title" : "Didn't think of changing my mind on not playing Olympiad: Anand"
+      },
+      {
          "description" : "GM Hikaru Nakamura claimed another Titled Tuesday victory early on July 26 and then finished fourth in the late event. GM Alexey Sarana, who finished just behind Nakamura on tiebreaks early, won the late tournament. Early Tournament Late Tour...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/discount-week-zhou-and-williams",
          "pubDate" : "Wed, 27 Jul 2022 15:30:59 +0100",
          "title" : "Deal of the Week: Zhou and Williams"
-      },
-      {
-         "description" : "The program Ginkgo, Frank Schneider, has just won the computer chess world championship in the software group, after a playoff against Komodo Dragon. Ginkgo is the main engine of the Fritz 18 program package. It is an improved version of the Engine Fritz18 NNUE, that was distributed a a free update, to Fritz 18 owners last March. We are happy for Frank Schneider and congratulate heartily! | Photos: ICGA (right: Wolfgang Zugrav)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ginkgo-fritz-is-world-champion",
-         "pubDate" : "Wed, 27 Jul 2022 13:49:45 +0100",
-         "title" : "Ginkgo (Fritz) is World Champion!"
       },
       {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1594,22 +1618,6 @@ news_feed (
          "title" : "A queen endgame: Aronian's invasion"
       },
       {
-         "description" : "This is the 2nd episode in the series of Olympiad stories with Saravanan. In this episode, we discuss the Madras Tiger Vishy Anand and some of his memorable games at the Olympiad. In discussing the games, Saravanan and Sagar also go into the history of how Vishy developed as a chess player. Saravanan saw the lightning kid style of play of Anand and also the more mature and calm style. This is part of a 6-episode series of the most interesting stories from the Chess Olympiads. | Photo: Abhyudaya Ram.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/before-he-became-world-champion-vishy-anand-the-speed-demon",
-         "pubDate" : "Fri, 15 Jul 2022 12:20:00 +0100",
-         "title" : "Before he became world champion: Vishy Anand, the speed demon"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92900453.cms\" />Odisha Chief Minister Naveen Patnaik Friday said his government will promote chess at schools and colleges. Handing the Chess Olympiad relay torch to Padmini Rout at a function in Loka Seva Bhavan, he said it was a proud moment for India as it was hosting such an international event on the 75th year of its Independence.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/odisha-to-promote-chess-in-schools-colleges-cm-naveen-patnaik/articleshow/92900453.cms",
-         "pubDate" : "Fri, 15 Jul 2022 11:04:59 +0000",
-         "title" : "Odisha to promote chess in schools, colleges: CM Naveen Patnaik"
-      },
-      {
          "description" : "A wild day of FTX Road to Miami quarterfinal action saw youngsters Arjun Erigaisi, Sam Sevian and Jeffery Xiong all take the lead against Levon Aronian, Wei Yi and Richard Rapport before the more experienced stars stormed back to score comeback wins. Jan-Krzysztof Duda beat Anish Giri without a comeback, but with one of the strangest ends to a match you'll ever see.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/15/chess-england-target-first-olympiad-medal-this-century-chennai",
          "pubDate" : "Fri, 15 Jul 2022 07:00:32 +0000",
          "title" : "Chess: England target first Olympiad medal this century in Chennai"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92890815.cms\" />These are tough times for Sri Lanka as it has been battling both economic and political crisis for the last few months. Despite the unprecedented situation the island nation finds itself in --- its chess teams have left no stone unturned in their preparations for the upcoming 44th Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/amidst-crisis-sri-lanka-players-take-refuge-in-chess-ahead-of-olympiad/articleshow/92890815.cms",
-         "pubDate" : "Fri, 15 Jul 2022 04:50:18 +0000",
-         "title" : "Amidst crisis, Sri Lanka players take refuge in chess ahead of Olympiad"
       },
       {
          "description" : " In this week's show, Andrew and I reminisced over the 1972 Fischer Spassky and tried to give a taste of what it was like. Both of us followed that match avidly, and it sparked a massive global interest in chess. We are now on a summer recess, but will be back in September with <a href=\"https://chessimprover.com/master-chess-web-show-22/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (22)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-22/\">Master Chess Web Show (22)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1914,14 +1914,6 @@ news_feed (
          "title" : "35th Leon Chess 2022 - Games and Results"
       },
       {
-         "description" : " Trinidad &#38; Tobago hosted an exciting international invitational won by Dutch Grandmaster Robby Kevlishvili, who suffered one loss in nine rounds. The island nation has had a history of hosting international tournaments to give local players a chance to raise their level of play and to earn FIDE titles. Trinidad &#38; Tobago Chess Federation President The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/10/2022-trinidad-tobago-international/\">2022 Trinidad &#038; Tobago International</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/10/2022-trinidad-tobago-international/",
-         "pubDate" : "Sun, 10 Jul 2022 17:27:18 +0000",
-         "title" : "2022 Trinidad & Tobago International"
-      },
-      {
          "description" : " The Bundesliga 2021-22 season took place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season lasted only four months. There were 16 teams and Baden Baden won the title again winning all their matches. The had to defeat SC Viernheim in Round 14 who were at that stage leading on board count and had also won all their matches up to that point. Viernheim drew their final match too and were clear second.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2064,14 +2056,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-21/",
          "pubDate" : "Thu, 07 Jul 2022 11:19:34 +0000",
          "title" : "Master Chess Web Show (21)"
-      },
-      {
-         "description" : " Ian Nepomniachtchi had already secured first place in the FIDE Candidates tournament in Madrid with a round to spare. Nepomniachtchi avoided defeat in the final round when he drew with black against Jan-Krzysztof Duda in a Petroff variation he hadn't expected. Nepomniachtchi had to work hard to remember his preparation which certainly ran up to 15...a5!? after that Nepomniachtchi may have been a bit better but the players started to steer towards a draw a few moves later and they only had one bishop between them on move 48. Thus Nepomniachtchi finished the event undefeated and with a modern record score of 9.5/14. Afterwards Nepomniachtchi revealed his stellar if not especially surprising t",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/ding-beats-nakamura-in-the-final-round-of-the-candidates-to-finish-in-second-place",
-         "pubDate" : "Wed, 6 Jul 2022 20:26:00 +0400",
-         "title" : "Ding beats Nakamura in the final round of the Candidates to finish in second place - 14"
       }
    ]
 }
