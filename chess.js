@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk teaches a chess class on a topic of his choice. 2022.07.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illya-nyzhnyk-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illya-nyzhnyk-lichessorg",
+         "pubDate" : "Tue, 26 Jul 2022 23:52:08 +0000",
+         "title" : "Dynamic Sacrifice for Long-Term Advantage | Grandmaster's Choice - GM Illya Nyzhnyk | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-kid-akobian-style-road-2000-nm-caleb-denby-lichessorg\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-kid-akobian-style-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 26 Jul 2022 23:52:08 +0000",
+         "title" : "Beating the KID, Akobian-Style | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "The Queen of England celebrated her Platinum Jubilee this year: she has been Queen of England for 70 years. Musician Jason Kouchak took this event as an opportunity to celebrate chess and the \"Queens of Chess\", together with his friend Pattie Boyd, who was muse and queen for both Eric Clapton and George Harrison.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -402,14 +418,6 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz: Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The lights go out during the 14th blitz round at the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.24<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blackout-zagreb-blitz-14\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jsOyUkvfR5o.jpg?itok=VrXR419t\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blackout-zagreb-blitz-14",
-         "pubDate" : "Sun, 24 Jul 2022 14:50:26 +0000",
-         "title" : "Blackout in Zagreb | Blitz 14"
-      },
-      {
          "description" : "Today we offer readers a glimpse of what had been happening behind the scenes of \"The Match of The Century\", especially in the Russian camp, exactly fifty years ago. A tense Boris Spassky, cajoled by seconds Efim Geller and Nikolai Krogius, nevertheless failed to perform, to the dismay of his friends and admirers. It's also the story of a gamble that could have hurtled Bobby down the precipice in that fateful Game 6 of the match. A cautionary tale and object lesson for aspiring players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/in-transit.html",
          "pubDate" : "Sun, 24 Jul 2022 12:10:00 +0000",
          "title" : "In transit"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.24<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-5-lichessorg",
-         "pubDate" : "Sun, 24 Jul 2022 11:50:23 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 5 | lichess.org"
       },
       {
          "description" : "Viswanathan Anand goes into his last game with a half-point lead over direct opponent Michael Adams and Dmitrij Kollars at the No-Castling World Masters in Dortmund. Meanwhile, Pavel Eljanov leads the Deutschland Grand Prix after beating Matthias Bl&uuml;baum on Saturday. Bogdan-Daniel Deac also won and still has a chance of winning the tournament | Photos: Michelle Lassak",
