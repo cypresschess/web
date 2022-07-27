@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura claimed another Titled Tuesday victory early on July 26 and then finished fourth in the late event. GM Alexey Sarana, who finished just behind Nakamura on tiebreaks early, won the late tournament. Early Tournament Late Tour...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-sarana-win-titled-tuesday-july-26-2022",
+         "pubDate" : "Wed, 27 Jul 2022 08:22:23 -0700",
+         "title" : "Nakamura, 22-Year-Old Dominate Tuesday"
+      },
+      {
+         "description" : "Canadian WGM Qiyu Zhou has a solution for all the material out there on openings. What should you read or watch? You can get them both this week at a substantial discount. She teaches you the basics of practically every opening! And the well-known GM Simon Williams? In six training courses he includes a lot of novelties and interesting attacking variations that should wet the lips of any attacking player. You can get both packages this week at a substantial discount.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/discount-week-zhou-and-williams",
+         "pubDate" : "Wed, 27 Jul 2022 15:30:59 +0100",
+         "title" : "Deal of the Week: Zhou and Williams"
+      },
+      {
+         "description" : "The program Ginkgo, Frank Schneider, has just won the computer chess world championship in the software group, after a playoff against Komodo Dragon. Ginkgo is the main engine of the Fritz 18 program package. It is an improved version of the Engine Fritz18 NNUE, that was distributed a a free update, to Fritz 18 owners last March. We are happy for Frank Schneider and congratulate heartily! | Photos: ICGA (right: Wolfgang Zugrav)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ginkgo-fritz-is-world-champion",
+         "pubDate" : "Wed, 27 Jul 2022 13:49:45 +0100",
+         "title" : "Ginkgo (Fritz) is World Champion!"
+      },
+      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1626,36 +1650,12 @@ news_feed (
          "title" : "Amidst crisis, Sri Lanka players take refuge in chess ahead of Olympiad"
       },
       {
-         "description" : "Rating favourites prevailed in the quarterfinals of the FTX Road to Miami online tournament. Levon Aronian and Jan-Krzysztof Duda secured victory 'in regulation', after four rapid games, while Richard Rapport and Wei Yi only won in the blitz tiebreakers. In semis, Wei is paired up against Rapport, while Duda is set to face Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d5",
-         "pubDate" : "Fri, 15 Jul 2022 03:40:00 +0100",
-         "title" : "FTX Road to Miami: Evaluation swings"
-      },
-      {
-         "description" : "The semifinals of the FTX Road to Miami tournament will see the matches GM Jan-Krzysztof Duda vs. GM Levon Aronian and GM Wei Yi vs. GM Richard Rapport. In three of Thursday&#39;s quarterfinal matches, the younger player took the lead but then was eli...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-quarterfinals",
-         "pubDate" : "Thu, 14 Jul 2022 18:18:00 -0700",
-         "title" : "Dramatic Day Of Chess Leads To Duda-Aronian, Wei-Rapport Semifinals"
-      },
-      {
          "description" : " In this week's show, Andrew and I reminisced over the 1972 Fischer Spassky and tried to give a taste of what it was like. Both of us followed that match avidly, and it sparked a massive global interest in chess. We are now on a summer recess, but will be back in September with <a href=\"https://chessimprover.com/master-chess-web-show-22/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (22)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-22/\">Master Chess Web Show (22)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/master-chess-web-show-22/",
          "pubDate" : "Thu, 14 Jul 2022 20:03:09 +0000",
          "title" : "Master Chess Web Show (22)"
-      },
-      {
-         "description" : "ChessBase Magazine presents you with ideas for your repertoire in a variety of ways. In each issue you will find at least ten opening articles with recommendations from our authors, including analyses and annotated games. In addition, Raienr Knaak's collection of topical opening traps offers suggestions with which you can add tricky small weapons to your repertoire. And in each issue you will find three opening videos in which our authors address current developments. For CBM #208 Dorian Rogozenco, Ivan Sokolov and Mihail Marin have recorded opening videos - total playing time: over an hour. You can watch excerpts from all three contributions here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gruenfeld-ragozin-variation-und-slav-defence",
-         "pubDate" : "Thu, 14 Jul 2022 17:00:00 +0100",
-         "title" : "Gr&uuml;nfeld, Ragozin Variation and Slav Defence"
       },
       {
          "description" : "Not won yet, but it can only be a matter of time? Watch this website &#160;",
@@ -2072,14 +2072,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-tournament-2022/ding-beats-nakamura-in-the-final-round-of-the-candidates-to-finish-in-second-place",
          "pubDate" : "Wed, 6 Jul 2022 20:26:00 +0400",
          "title" : "Ding beats Nakamura in the final round of the Candidates to finish in second place - 14"
-      },
-      {
-         "description" : "At the recent Midland Counties Chess Union AGM, Eunice Dolan was elected as the 1st Lady President of the Union. The MCCU was founded in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/eunice-dolan-mccu-president/",
-         "pubDate" : "Wed, 06 Jul 2022 15:00:48 +0000",
-         "title" : "Eunice Dolan - MCCU President"
       }
    ]
 }
