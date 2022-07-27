@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/students-analysis-8/",
+         "pubDate" : "Wed, 27 Jul 2022 09:30:54 +0000",
+         "title" : "Students Analysis (8)"
+      },
+      {
+         "description" : "Thorsten Cmiel whets the appetite for the 2022 Chess Olympiad, which starts on Friday in Chennai. As a talent scout, he introduces Team India B - Nihal, Gukesh, Pragg, Adhiban and Raunak - which is sure to have a say in the fight for the medals. | Photo: Lennart Ootes / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-fever-india-2022",
+         "pubDate" : "Wed, 27 Jul 2022 10:20:00 +0100",
+         "title" : "Chess fever in India"
+      },
+      {
+         "description" : "After the Northumbria Masters' successful relaunch last August, this year the Bank Holiday Weekend congress has moved to St. Mary's Catholic School, Newcastle upon Tyne...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entries-welcome-for-northumbria-masters-congress/",
+         "pubDate" : "Wed, 27 Jul 2022 08:19:30 +0000",
+         "title" : "Entries welcome for Northumbria Masters Congress"
+      },
+      {
          "description" : "The ECU General Assembly and Board elections 2022 took place at the Porto Palace hotel in Thessaloniki on the 23rd of July 2022 with the participation of 50 European National Chess federations. ECU President Mr. Zurab Azmaiparashvili, FIDE President Mr. Arkady Dvorkovich, President of Greek Chess Federation Mr. Stathis Efstathopoulos, and Greek Chess Federation Vice President Mr. Georgios&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
       },
       {
-         "description" : "Next Saturday is the official start of the Dortmund Chess Days Festival. The organizers expect up to 500 participants in all tournaments. Those who want to see two world champions and the German chess elite up close can still register at short notice. | Pictured: Vladimir Kramnik and Vishy Anand with the winners of the Sportland NRW Girls' Cup 2021 | Photos: Christian L&uuml;nig",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2022-preview",
-         "pubDate" : "Thu, 14 Jul 2022 12:30:00 +0100",
-         "title" : "Up to 500 participants at the 49th Dortmund Festival"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/eunice-dolan-mccu-president/",
          "pubDate" : "Wed, 06 Jul 2022 15:00:48 +0000",
          "title" : "Eunice Dolan - MCCU President"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/national-schools-championships-finals/#new_tab",
-         "pubDate" : "Wed, 06 Jul 2022 10:51:36 +0000",
-         "title" : "National Schools Championships final"
       }
    ]
 }
