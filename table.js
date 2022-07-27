@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-07-05  - 07-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207265232 target='_blank'>JULY TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2022-07-11  - 07-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202207252532 target='_blank'>CLCC JULY MONDAYS</a>",
 "HOUSTON","2022-07-22  - 07-24","302","<a href=http://www.uschess.org/msa/XtblMain.php?202207244722 target='_blank'>2022 HOUSTON CHESS FESTIVAL- EXTRA</a>",
 "CYPRESS","2022-07-22","22","<a href=http://www.uschess.org/msa/XtblMain.php?202207223282 target='_blank'>KOC</a>",
@@ -10,6 +11,7 @@ jtable([
 "SUGAR LAND","2022-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202207159862 target='_blank'>FBCC JULY 15 , 2022</a>",
 "CYPRESS","2022-07-15","28","<a href=http://www.uschess.org/msa/XtblMain.php?202207158972 target='_blank'>KOC</a>",
 "SPRING","2022-07-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202207158942 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"HOUSTON","2022-07-14  - 07-15","3","<a href=http://www.uschess.org/msa/XtblMain.php?202207155222 target='_blank'>CHESS CAMP AT THE HOUSTON CHESS STU</a>",
 "MISSOURI CITY","2022-07-12","10","<a href=http://www.uschess.org/msa/XtblMain.php?202207128142 target='_blank'>RCC QUADS JULY 12 2022</a>",
 "HOUSTON","2022-07-08  - 07-10","42","<a href=http://www.uschess.org/msa/XtblMain.php?202207106952 target='_blank'>$2,000 HOUSTON CHESS STUDIO JULY CH</a>",
 "SPRING","2022-07-08","20","<a href=http://www.uschess.org/msa/XtblMain.php?202207085852 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2021-09-11  - 09-12","43","<a href=http://www.uschess.org/msa/XtblMain.php?202109120502 target='_blank'>HOUSTON $1,000 SHOOT OUT</a>",
 "HOUSTON","2021-09-11","82","<a href=http://www.uschess.org/msa/XtblMain.php?202109119692 target='_blank'>KIPP SPIRIT MIDDLE SCHOOL SCHOLASTI</a>",
 "CYPRESS","2021-09-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202109109122 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2021-09-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202109100022 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2021-09-05","4","<a href=http://www.uschess.org/msa/XtblMain.php?202109057262 target='_blank'>SEPTSUNSWISS95</a>",
 ]);
