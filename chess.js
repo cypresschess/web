@@ -10,7 +10,7 @@ news_feed (
          "title" : "Robots and chess"
       },
       {
-         "description" : " Wojciech Bartelski started OlimpBase as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Recently in a WhatsApp discussion for chess journalists, Babatunde Ogunsiku (Africa Chess Media) and Kim Bhari The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelski's OlimpBase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Wojciech Bartelski started OlimpBase.org as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Recently in a WhatsApp discussion for chess journalists, Babatunde Ogunsiku (Africa Chess Media) and Kim Bhari The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelski's OlimpBase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/",
