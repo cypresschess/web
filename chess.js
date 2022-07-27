@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU General Assembly and Board elections 2022 took place at the Porto Palace hotel in Thessaloniki on the 23rd of July 2022 with the participation of 50 European National Chess federations. ECU President Mr. Zurab Azmaiparashvili, FIDE President Mr. Arkady Dvorkovich, President of Greek Chess Federation Mr. Stathis Efstathopoulos, and Greek Chess Federation Vice President Mr. Georgios&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/",
+         "pubDate" : "Wed, 27 Jul 2022 06:37:40 +0000",
+         "title" : "Communique of the ECU General Assembly and Elections 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93153366.cms\" />Though the five-time world champion and legendary Viswanathan Anand has chosen not to play and donned the mentor's hat this time, the Indian teams, nonetheless, wear a formidable look. India will be fielding three teams each in the Open and women's sections respectively.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/all-eyes-on-india-ahead-of-the-44th-chess-olympiad/articleshow/93153366.cms",
+         "pubDate" : "Wed, 27 Jul 2022 05:47:05 +0000",
+         "title" : "All eyes on India ahead of the 44th Chess Olympiad"
+      },
+      {
+         "description" : "The Chess Olympiad 2022, the largest team chess championship of the year, is about to start in Chennai, India. With record breaking numbers , the US team as favorite, and total craze for chess around the city, it is shaping up to be one of the best Olympiads ever. An event of this magnitude is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-with-bryan-tillis/",
+         "pubDate" : "Wed, 27 Jul 2022 05:39:52 +0000",
+         "title" : "Chess Olympiad 2022 with Bryan Tillis"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93152866.cms\" />Almost nine years after winning his maiden World title in Chennai --Magnus Carlsen will be arriving in the city to represent Norway at the 44th chess Olympiad which starts on July 28. A few days ago Carlsen announced that he would not contest the World Championship final, where he was supposed to play Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/with-some-changes-i-dont-rule-out-a-return-to-world-championship-cycle-magnus-carlsen/articleshow/93152866.cms",
+         "pubDate" : "Wed, 27 Jul 2022 05:22:24 +0000",
+         "title" : "With some changes, I don't rule out a return to WC cycle: Magnus Carlsen"
+      },
+      {
+         "description" : "With the World Champion Magnus Carlsen decision not to defend his title , the 2023 FIDE World Championship is entering in a backup mode. Ding Lieren, who was the replacement of Sergey Karjakin for the Candidates Chess 2022, will now replace Magnus Carlsen and face the winner of the Candidates Ian Nepomniachtchi. The match is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-vs-nepomniachtchi-2023-possible-replacements/",
+         "pubDate" : "Wed, 27 Jul 2022 05:07:28 +0000",
+         "title" : "Ding Liren vs Nepomniachtchi 2023 - possible replacements"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a><br /> Caleb Denby vs. Alex Moellering, 2014: E61 King&#039;s Indian defence, 3.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beating-kid-akobian-style-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 27 Jul 2022 02:52:09 +0000",
+         "title" : "Beating the KID, Akobian-Style | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Wed, 27 Jul 2022 02:52:09 +0000",
+         "title" : "Dynamic Sacrifice for Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk teaches a chess class on a topic of his choice. 2022.07.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illya-nyzhnyk-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -402,22 +458,6 @@ news_feed (
          "title" : "Magnus Carlsen: SuperUnited Croatia Champion!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the third annual event in our Croatia series is also the third leg of the Grand Chess Tour. Six Tour players (So, Vachier-Lagrave, Dominguez, Nepomniachtchi, Firouzja, and Mamedyarov) are joined by wildcards (Carlsen, Saric, Topalov, and van Foreest) for a rapid round robin and blitz double round robin event. Today has the last three rapid rounds. Join GMs Yasser Seirawan, Alejandro Ramirez, Cristian Chirila, Evgenij Miroshnichenko, and WGM Anastasia Karlovich for the move-by-move. 2022.07.24<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-superunited-rapid-blitz-croatia-day-5",
-         "pubDate" : "Sun, 24 Jul 2022 17:50:31 +0000",
-         "title" : "2022 SuperUnited Rapid & Blitz Croatia: Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual STL R&amp;B is also the fourth leg of the Grand Chess Tour. Some Tour players (TBA) are joined by wildcards (TBA) for a rapid round robin and blitz double round robin event. Today has the first three rapid rounds, live from 308 N Euclid Ave. Join a commentary team TBA for the move-by-move. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-day-1\"><img src=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-1",
-         "pubDate" : "Sun, 24 Jul 2022 14:50:26 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 1"
-      },
-      {
          "description" : "Today we offer readers a glimpse of what had been happening behind the scenes of \"The Match of The Century\", especially in the Russian camp, exactly fifty years ago. A tense Boris Spassky, cajoled by seconds Efim Geller and Nikolai Krogius, nevertheless failed to perform, to the dismay of his friends and admirers. It's also the story of a gamble that could have hurtled Bobby down the precipice in that fateful Game 6 of the match. A cautionary tale and object lesson for aspiring players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -506,14 +546,6 @@ news_feed (
          "title" : "Carlsen leads Grand Chess Tour 2022 after blitz day 1"
       },
       {
-         "description" : "The third tournament of the&#xA0;Grand Chess Tour 2022&#xA0;series&#xA0;starts today and will be played in Westin Zagreb from July 19-24.&#xA0;The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet Foundation and includes 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. The small vacuum left by Wesley and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-2022-croatia-day-3-recap/",
-         "pubDate" : "Sun, 24 Jul 2022 05:51:37 +0000",
-         "title" : "Grand Chess Tour 2022 Croatia - day 3 recap"
-      },
-      {
          "description" : "On the fourth day of the Grand Chess Tour event in Zagreb, the ten players completed the first half of the blitz section. Magnus Carlsen was the top scorer. The world champion won seven games and lost twice to grab the sole lead. Wesley So and Jorden van Foreest stand in second and third places respectively. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -536,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-22-swiss",
          "pubDate" : "Sat, 23 Jul 2022 13:14:00 -0700",
          "title" : "Caruana Wins Week 22 Swiss: Summary Report"
-      },
-      {
-         "description" : "Three participants of the 2022 Biel Chess Master Tournament will held the event in particularly good memory they achieved norms. Congratulations to IM Pranav Anand and CM Prraneeth Vuppala won GM norm, while WFM G&#xFC;lenay Aydin achieved a WIM norm. More: Le Quang Liem wins Biel Chess Festival 2022 / Replay games",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norms-at-biel-chess-festival-tweetoftheday/",
-         "pubDate" : "Sat, 23 Jul 2022 18:54:33 +0000",
-         "title" : "Norms at Biel Chess Festival #TweetOftheDay"
       },
       {
          "description" : "",
@@ -1706,14 +1730,6 @@ news_feed (
          "title" : "Loïc Travadon scores double at 8th International Francophone Chess Meetings"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92860094.cms\" />Indian origin siblings Tarun and Trisha Kanyamarala are in the midst of a golden run on the chess circuit in Ireland. While Trisha --- Ireland's first-ever WIM (Woman International Master) --- won the Irish women's championship last month, her elder brother Tarun bagged the men's (open) crown on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-origin-siblings-look-to-shine-for-ireland-at-chess-olympiad/articleshow/92860094.cms",
-         "pubDate" : "Wed, 13 Jul 2022 17:35:33 +0000",
-         "title" : "Indian origin siblings look to shine for Ireland at Chess Olympiad"
-      },
-      {
          "description" : "At the close of nominations for the direct members' representatives for 2021-22 there were two nominations in each category of membership except for the silver...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1776,14 +1792,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/12/ep-287-gm-david-howell-joins-for-a-fide-candidates-wrap-up-plus-world-championship-match-scuttlebutt-and-his-2022-otb-and-commentating-plans",
          "pubDate" : "Tue, 12 Jul 2022 14:07:50 +0000",
          "title" : "EP 287- GM David Howell joins for a FIDE Candidates Wrap Up plus World Championship Match Scuttlebutt, and his 2022 OTB and Commentating Plans "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92829721.cms\" />Indian Grandmaster Surya Sekhar Ganguly on Tuesday emerged winner in the Fischer Random event at Biel Chess Festival with compatriot SP Sethuraman finishing in second place.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/surya-sekhar-ganguly-wins-fischer-random-event-at-biel-chess-festival/articleshow/92829721.cms",
-         "pubDate" : "Tue, 12 Jul 2022 12:22:25 +0000",
-         "title" : "Surya Sekhar Ganguly wins Fischer Random event at Biel Chess Festival"
       },
       {
          "description" : " Chess.com hosted a $100,000 blitz championship that featured six NFL football players. BlitzChamps was announced a month ago with great anticipation. Back in 2020, chess.com featured a blitz battle between Wu Tang Clan members RZA and GZA. The online platform has made chess opponents more accessible and there are a multitude of different tournaments around The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/nfl-football-players-battle-on-chess-com/\">NFL football players battle on chess.com</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
