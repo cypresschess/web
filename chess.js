@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 44th Chess Olympiad is about to start in Chennai. The main focus will be undoubtedly on the team results, as every match is a joint effort to earn a match victory. However, individual achievements are also highlighted at Chess Olympiads. Let us recall some of the most remarkable individual results at the Chess Olympiads in the 21st century. | Photo: Niklesh Jain (from the 2018 Batumi Olympiad)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remarkable-performances-at-chess-olympiads",
+         "pubDate" : "Thu, 28 Jul 2022 13:00:00 +0100",
+         "title" : "Remarkable performances at Chess Olympiads"
+      },
+      {
+         "description" : "In July 2022, the Dortmund Chess Festival celebrated the second year of its reboot. Top German and International Grandmasters and former World Champion Vishy Anand helped to turn this year's festival into an attractive chess event. Next year, the festival will celebrate its 50-year jubilee - and here are some video impressions and interviews with the winners of the 49th edition. | Photos and videos: Dortmund Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-chess-festival-2022-impressions-and-interviews",
+         "pubDate" : "Thu, 28 Jul 2022 12:33:13 +0100",
+         "title" : "Dortmund Chess Festival 2022: Impressions and Interviews"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 opens today in Chennai, India gathering 350 teams from 190 countries. The Opening ceremony of the event starts today at 19:00 (local time) and the first round starts tomorrow at 15:00 (local time). The Opening press ceremony was held today in the presence of FIDE President Arkady Dvorkovich, AICF President Dr Sanjay Kapoor,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/44th-chess-olympiad-opens-in-chennai/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/44th-chess-olympiad-opens-in-chennai/",
+         "pubDate" : "Thu, 28 Jul 2022 11:19:58 +0000",
+         "title" : "44th Chess Olympiad opens in Chennai"
+      },
+      {
+         "description" : "The first-ever Chess Olympiad Torch Relay&#xA0;took place on the 19th of June at Indira Gandhi Stadium in New Delhi. Prime Minister of India Shri Narendra Modi lit the Flame and handed it over to 15th World Chess Champion Viswanathan Anand.&#xA0;The Torch traveled through the country to 75 cities, celebrating the 75th Year of the country&#x2019;s []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-relay-torch-has-arrived-at-the-venue/",
+         "pubDate" : "Thu, 28 Jul 2022 11:19:06 +0000",
+         "title" : "Chess Olympiad Relay Torch has arrived at the venue"
+      },
+      {
+         "description" : "The 44th FIDE Chess Olympiad will be opened in Chennai, India today by Indian Prime Minister Narendra Modi, with the games beginning tomorrow, Friday July 29th. Magnus Carlsen and Fabiano Caruana are among the players in action, and we'll be broadcasting every game live from both the Open and the Women's section, with video from the playing hall and commentary from Peter Leko and Peter Svidler.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/leko-and-svidler-to-commentate-on-chess-olympiad",
+         "pubDate" : "Thu, 28 Jul 2022 08:25:18 +0000",
+         "title" : "Leko and Svidler to commentate on Chess Olympiad"
+      },
+      {
+         "description" : "Prime Minister Narendra Modi will inaugurate the 44th Chess Olympiad in Chennai today, with the marquee event being hosted by India for the first time. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/photos-chennai-all-set-to-host-indias-first-ever-chess-olympiad/city/chennai/photos-chennai-all-set-to-host-indias-first-ever-chess-olympiad/photostory/93181242.cms",
+         "pubDate" : "Thu, 28 Jul 2022 08:25:04 +0000",
+         "title" : "In Pics: Chennai all set to host India's first-ever Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1882",
+         "pubDate" : "Thu, 28 Jul 2022 07:33:37 +0000",
+         "title" : "Valentina Gunina trounces Tan Zhongyi to advance into semis"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93178989.cms\" />It's going to be baptism by fire for the Bhutan side at the Chess Olympiad in Chennai from July 28 to August 10 as 10 members of this small mountain country will be playing their first-ever over the board Fide-rated tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,7 +82,7 @@ news_feed (
          "title" : "Chennai Olympiad: US big favourite, India looking to leave a mark"
       },
       {
-         "description" : " As of late, Andrew and Tristan Tate have been a social media phenomenon exhibiting &#8220;Tate Pride&#8221; with their provocative statements on topics such as masculinity/feminity, money management, and living the high-value life. Today both tout lavish lifestyles and teaches other men how to live for success in their subscription-based &#8220;War Room&#8221; training. Their logo is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/\">The Emory Tate Pride Andrew and Tristan break Internet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " As of late, Andrew and Tristan Tate have been a social media phenomenon exhibiting &#8220;Tate Pride&#8221; with their provocative statements on topics such as masculinity/femininity dynamics, money management, and living the high-value life. Today both tout lavish lifestyles and teaches other men how to live for success in their subscription-based &#8220;War Room&#8221; training. Their logo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/\">The Emory Tate Pride Andrew and Tristan break Internet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/",
@@ -437,17 +493,25 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1879",
-         "pubDate" : "Mon, 25 Jul 2022 10:54:23 +0000",
-         "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Mon, 25 Jul 2022 11:29:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Mon, 25 Jul 2022 10:29:55 +0000",
-         "title" : "FIDE Congress 2022"
+         "link" : "https://www.fide.com/news/1879",
+         "pubDate" : "Mon, 25 Jul 2022 10:54:23 +0000",
+         "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
+      },
+      {
+         "description" : "The 31st edition of the International Open Tournament of Kavala 2022 will take place from 26 July 2 August at the Megali Leschi Great Club Kavala, Greece. The event will be played in three rating categories: Group A (for players rated 2000+), Group B (for players rated 1500-1999) and Group C (for players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/31st-open-international-tournament-of-kavala-2022/",
+         "pubDate" : "Mon, 25 Jul 2022 10:47:00 +0000",
+         "title" : "31st Open International Tournament of Kavala 2022"
       },
       {
          "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth []",
@@ -626,14 +690,6 @@ news_feed (
          "title" : "\"Blindfold Opening Visualization: 100 chess puzzles\" by Martin B. Justesen"
       },
       {
-         "description" : "As Immortal Game is played with the same rules as classic chess, then what&#x2019;s the difference between us and other platforms, except token rewards? Let us introduce:&#xA0;Immortals. Immortals are NFTs representing chess pieces (Pawn, Knight, King). Each Immortal has a specific side quest players will try to fulfil during games. Fulfilled side quests will unlock []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/what-are-immortals-in-immortal-game/",
-         "pubDate" : "Sun, 24 Jul 2022 08:45:54 +0000",
-         "title" : "What are Immortals in Immortal Game"
-      },
-      {
          "description" : "Dear All, Please be informed that due to the Announcement of Asian Chess Federation ,the Asian School Chess Championship 2022 scheduled to be conducted at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -648,14 +704,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/zagreb-gct-4-magnus-takes-over",
          "pubDate" : "Sun, 24 Jul 2022 07:37:45 +0000",
          "title" : "Zagreb GCT 4: Magnus takes over"
-      },
-      {
-         "description" : "The third tournament of the&#xA0;Grand Chess Tour 2022&#xA0;series&#xA0;starts today and will be played in Westin Zagreb from July 19-24.&#xA0;The SuperUnited Rapid &#38; Blitz Croatia&#xA0;is sponsored by the Superbet Foundation and includes 9 rounds of rapid and 18 rounds of blitz chess for a total prize fund of $175,000. The same thing happened today. After winning []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-leads-grand-chess-tour-2022-after-blitz-day-1/",
-         "pubDate" : "Sun, 24 Jul 2022 06:00:24 +0000",
-         "title" : "Carlsen leads Grand Chess Tour 2022 after blitz day 1"
       },
       {
          "description" : "On the fourth day of the Grand Chess Tour event in Zagreb, the ten players completed the first half of the blitz section. Magnus Carlsen was the top scorer. The world champion won seven games and lost twice to grab the sole lead. Wesley So and Jorden van Foreest stand in second and third places respectively. | Photo: Lennart Ootes",
@@ -1530,28 +1578,12 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty Seven"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92924535.cms\" />Young Indian Grandmaster R Praggnanandhaa won the Paracin Open 'A' chess tournament 2022 here on Saturday, scoring 8 points from nine rounds. The 16-year-old remained unbeaten and finished half a point ahead of the field. Alexandr Predke took the second spot with 7.5 points ahead of Alisher Suleymenov and India's AL Muthaiah, who both scored 7 points. Suleymenov grabbed the third place on the basis of a better tie-break score.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-paracin-open-title/articleshow/92924535.cms",
-         "pubDate" : "Sat, 16 Jul 2022 14:48:58 +0000",
-         "title" : "R Praggnanandhaa wins Paracin Open title"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1864",
          "pubDate" : "Sat, 16 Jul 2022 12:06:01 +0000",
          "title" : "Norwegian Championship: Simen Agdestein wins eighth title"
-      },
-      {
-         "description" : "The Schara-Hennig Gambit (1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4!?) is now over 100 years old. Recently the gambit has received more attention - also thanks to Magnus Carlsen's games against Sam Shankland and Le Quang this year. Our new author, GM Lucian Miron, takes a closer look at the pawn sacrifice in the latest ChessBase Magazine #208. \"if you are tired of constantly being under pressure when White plays 1.d4 and only the main lines, go for the Schara-Hennig Gambit!\" he concludes. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rebirth-of-a-gambit",
-         "pubDate" : "Sat, 16 Jul 2022 13:00:00 +0100",
-         "title" : "The rebirth of a gambit"
       },
       {
          "description" : "Levon Aronian and Wei Yi finished 7th and 8th in the FTX Road to Miami Prelims, but that hasn't stopped them both reaching the final - and booking their place alongside Magnus Carlsen in the $310,000 FTX Crypto Cup to take place in Miami, Florida next month. Levon overcame Jan-Krzysztof Duda in four games, while Wei Yi defeated Richard Rapport in just three.",
@@ -1576,14 +1608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/creating-studies-from-games-2",
          "pubDate" : "Sat, 16 Jul 2022 09:00:00 +0100",
          "title" : "Creating studies from games (2)"
-      },
-      {
-         "description" : "Wei Yi and Levon Aronian will play the 2-set final match of the FTX Road to Miami online tournament on Saturday and Sunday. Wei knocked out Richard Rapport, while Aronian got the better of Jan-Krzysztof Duda in semis. Both finalists have already secured a spot in the coming FTX Crypto Cup, which will be played in Miami next month.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-d6",
-         "pubDate" : "Sat, 16 Jul 2022 08:00:00 +0100",
-         "title" : "FTX Road to Miami: Wei knocks out Rapport"
       },
       {
          "description" : "In the weeks before the FIDE presidential elections on August 7, official candidate GM Andrii Baryshpolets and his intended Deputy President GM Peter Heine Nielsen are fighting an uphill battle. Campaigning with limited resources, the duo advocate...",
@@ -1834,14 +1858,6 @@ news_feed (
          "title" : "Live Game Links for National Under 19 Open & Girls (Junior) Chess Championship 2022"
       },
       {
-         "description" : "Women's World Champion Ju Wenjun beat Richard Rapport, Sam Shankland and Wei Yi as she climbed into the qualification spots after Day 2 of the FTX Road to Miami. Teimour Radjabov pulled out of the tournament after scoring just one draw in five games, while Sam Sevian took over as leader by winning all his games. Arjun Erigaisi seized 2nd place after scoring 10/12 on Day 2, a score matched by Anish Giri after a slow first day.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-2-ju-wenjun-shines-as-sevian-snatches-lead",
-         "pubDate" : "Tue, 12 Jul 2022 09:04:48 +0000",
-         "title" : "FTX Road to Miami 2: Ju Wenjun shines as Sam snatches lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-june-2022/",
          "pubDate" : "Mon, 11 Jul 2022 08:20:25 +0000",
          "title" : "ECU E-MAGAZINE JUNE 2022"
-      },
-      {
-         "description" : "European Youth Team Chess Championships 2022 commence tomorrow and will be played from 12 July to 18 July in the Conference Hall of the 5 stars Lazart Hotel in Thessaloniki, which will host also the European Rapid and Blitz Chess Championship 2022 from 19 July to 23 July 2022. The European Youth Team Chess Championships (EYTCC) will include&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-chess-championships-2022-start-in-thessaloniki-on-12th-july/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championships-2022-start-in-thessaloniki-on-12th-july/",
-         "pubDate" : "Mon, 11 Jul 2022 06:02:09 +0000",
-         "title" : "European Youth Team Chess Championships 2022 start in Thessaloniki on 12th July"
       },
       {
          "description" : "",
@@ -2048,14 +2056,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/the-big-collapse.html",
          "pubDate" : "Thu, 07 Jul 2022 12:59:00 +0000",
          "title" : "The big collapse"
-      },
-      {
-         "description" : " This weeks show featured games from rounds 10 through 12 of the Candidates tournament, we didn't manage to cover the full thing because there were too many interesting games. In next week's show we'll do a roundup of the event and ponder over what might happen next. Nigel Davies The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-21/\">Master Chess Web Show (21)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-21/",
-         "pubDate" : "Thu, 07 Jul 2022 11:19:34 +0000",
-         "title" : "Master Chess Web Show (21)"
       }
    ]
 }
