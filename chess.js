@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 15th edition of the Paleochora Open took place from the 17th to the 24th July on Crete. It is a tournament with a special atmosphere, which is one of the reasons why Irina Bulmaga likes to return to play in the small town which is about 70 km south of Chania. The Romanian IM and WGM reports from this year's open.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-friendly-tournament-the-paleochora-open",
+         "pubDate" : "Thu, 28 Jul 2022 16:00:00 +0100",
+         "title" : "A friendly tournament: The Paleochora Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93188655.cms\" />Pakistan on Thursday pulled out of the Chess Olympiad being held in Tamil Nadu, prompting India to hit out at the neighbouring country for \"politicising\" the sporting event.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pakistan-pulls-out-of-chess-olympiad-india-hits-out-at-pak-for-politicising-sporting-event/articleshow/93188655.cms",
+         "pubDate" : "Thu, 28 Jul 2022 12:48:43 +0000",
+         "title" : "Pakistan pulls out of Chess Olympiad; India hits out for 'politicising' event"
+      },
+      {
          "description" : "The 44th Chess Olympiad is about to start in Chennai. The main focus will be undoubtedly on the team results, as every match is a joint effort to earn a match victory. However, individual achievements are also highlighted at Chess Olympiads. Let us recall some of the most remarkable individual results at the Chess Olympiads in the 21st century. | Photo: Niklesh Jain (from the 2018 Batumi Olympiad)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/remarkable-performances-at-chess-olympiads",
          "pubDate" : "Thu, 28 Jul 2022 13:00:00 +0100",
          "title" : "Remarkable performances at Chess Olympiads"
+      },
+      {
+         "description" : "Chennai hosts the 44th Chess Olympiad, beginning on Thursday with 2000 players from 188 countries",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34305398/chess-olympiad-2022-chennai-india-capital-welcomes-world-magnus-carlsen?device=featurephone",
+         "pubDate" : "Thu, 28 Jul 2022 06:53:29 -0500",
+         "title" : "Chennai, India's chess capital, welcomes the world (and Carlsen)"
       },
       {
          "description" : "In July 2022, the Dortmund Chess Festival celebrated the second year of its reboot. Top German and International Grandmasters and former World Champion Vishy Anand helped to turn this year's festival into an attractive chess event. Next year, the festival will celebrate its 50-year jubilee - and here are some video impressions and interviews with the winners of the 49th edition. | Photos and videos: Dortmund Chess Festival",
@@ -42,14 +66,6 @@ news_feed (
          "title" : "Leko and Svidler to commentate on Chess Olympiad"
       },
       {
-         "description" : "Prime Minister Narendra Modi will inaugurate the 44th Chess Olympiad in Chennai today, with the marquee event being hosted by India for the first time. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/photos-chennai-all-set-to-host-indias-first-ever-chess-olympiad/city/chennai/photos-chennai-all-set-to-host-indias-first-ever-chess-olympiad/photostory/93181242.cms",
-         "pubDate" : "Thu, 28 Jul 2022 08:25:04 +0000",
-         "title" : "In Pics: Chennai all set to host India's first-ever Chess Olympiad"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Chennai Olympiad: US big favourite, India looking to leave a mark"
       },
       {
-         "description" : " As of late, Andrew and Tristan Tate have been a social media phenomenon exhibiting &#8220;Tate Pride&#8221; with their provocative statements on topics such as masculinity/femininity dynamics, money management, and living the high-value life. Today both tout lavish lifestyles and teaches other men how to live for success in their subscription-based &#8220;War Room&#8221; training. Their logo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/\">The Emory Tate Pride Andrew and Tristan break Internet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " As of late, Andrew and Tristan Tate have been a social media phenomenon exhibiting &#8220;Tate Pride&#8221; with their provocative statements on topics such as masculinity/femininity dynamics, money management, and living the high-value life. Today both tout lavish lifestyles and teaches other men how to live for success in their subscription-based &#8220;War Room&#8221; training. The activities The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/\">The Emory Tate Pride Andrew and Tristan break Internet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/",
@@ -1354,14 +1370,6 @@ news_feed (
          "title" : "Endgame Magic #203 with Arne K&auml;hler: The last pawn"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92962380.cms\" />Much like any sporting discipline, chess too requires its players to have physical and mental toughness. In a bid to keep the players in the best possible shape during the tournament, the England women's team that arrives for the chess Olympiad --- starting on July 28 --- will be armed with their performance coach Benjamin Portheault.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-a-first-england-women-rope-in-performance-coach-ahead-of-chess-olympiad/articleshow/92962380.cms",
-         "pubDate" : "Mon, 18 Jul 2022 15:09:04 +0000",
-         "title" : "In a first, England women rope in performance coach ahead of Olympiad"
-      },
-      {
          "description" : " The details of the 2022 Asian Youth Championship have been announced, and is what will surely be a popular venue for Australian players, Bali is the host. It runs from the 13th - 22nd October and has sections for U18,16,14,12,10, and U8 (Open and Girls). As with all continental junior events, there are FIDE titles on offer for the winners and place getters, as well as medals. Given the cost of airfares between Australia and Bali, this may be one Asian event where a large number of Australian players take part. Further details can be found at the event website <a data-saferedirecturl=\"https://www.google.com/url?q=https://asianyouth2022bali.com/&amp;source=gmail&amp;ust=1658227594551000&amp;u",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r3",
          "pubDate" : "Sun, 17 Jul 2022 06:40:00 +0100",
          "title" : "Biel: Gukesh becomes third-youngest player to cross the 2700 mark"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour will hold its second Major of the season, the FTX Crypto Cup, in Miami from August 15 to 21. But first, a thrilling battle for qualification in the sixth tour event of the season will take place online from July 10 to 17, titled the FTX Road to Miami. | Follow the games live with expert commentary! The action kicks off at 18.00 CEST (12.00 EDT, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-miami-2022-live",
-         "pubDate" : "Sun, 17 Jul 2022 06:35:00 +0100",
-         "title" : "FTX Road to Miami: Live"
       },
       {
          "description" : "GM Levon Aronian leads the final of the FTX Road to Miami tournament after the first of two days. GM Wei Yi had winning positions in both the second and third games, but had to settle for draws and then lost the fourth game. How to watch? The ga...",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1850",
          "pubDate" : "Thu, 07 Jul 2022 15:54:25 +0000",
          "title" : "Koneru narrowly beats Dzagnidze to advance into the quarters"
-      },
-      {
-         "description" : " One thing I have noticed with a lot of younger players is the that they have a tendency to collapse in a heap when something goes wrong with their position. It could be something as simple as losing a pawn, or something as dramatic as realising the sacrifice they wanted to play doesn't work (and they then play it anyway). I suspect I probably did the same up until a point in my own career, but the fact that it happens still seems weird. I did benefit from this in a rapid game I played recently. My opponent missed a tactic, possibly because they assumed it wasn't any good (2 pieces for a rook and 2 pawns). However they missed I was picking up a rook and a piece, so it was just a simple win o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/the-big-collapse.html",
-         "pubDate" : "Thu, 07 Jul 2022 12:59:00 +0000",
-         "title" : "The big collapse"
       }
    ]
 }
