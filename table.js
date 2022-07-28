@@ -1,7 +1,7 @@
 jtable([
 "HOUSTON","2022-07-05  - 07-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207265232 target='_blank'>JULY TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2022-07-11  - 07-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202207252532 target='_blank'>CLCC JULY MONDAYS</a>",
-"HOUSTON","2022-07-22  - 07-24","302","<a href=http://www.uschess.org/msa/XtblMain.php?202207244722 target='_blank'>2022 HOUSTON CHESS FESTIVAL- EXTRA</a>",
+"HOUSTON","2022-07-22  - 07-24","302","<a href=http://www.uschess.org/msa/XtblMain.php?202207244722 target='_blank'>2022 HOUSTON CHESS FESTIVAL</a>",
 "CYPRESS","2022-07-22","22","<a href=http://www.uschess.org/msa/XtblMain.php?202207223282 target='_blank'>KOC</a>",
 "SPRING","2022-07-22","27","<a href=http://www.uschess.org/msa/XtblMain.php?202207222432 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-07-22","4","<a href=http://www.uschess.org/msa/XtblMain.php?202207222382 target='_blank'>FBCC MOON LANDING OPEN</a>",
