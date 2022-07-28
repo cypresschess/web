@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93178989.cms\" />It's going to be baptism by fire for the Bhutan side at the Chess Olympiad in Chennai from July 28 to August 10 as 10 members of this small mountain country will be playing their first-ever over the board Fide-rated tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-self-taught-bhutan-players-look-to-make-new-start/articleshow/93178989.cms",
+         "pubDate" : "Thu, 28 Jul 2022 05:58:06 +0000",
+         "title" : "Chess Olympiad: Self-taught Bhutan players look to make new start"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1881",
+         "pubDate" : "Thu, 28 Jul 2022 05:50:40 +0000",
+         "title" : "\"Smartwater\", official beverage partner of the 2022 Chess Olympiad"
+      },
+      {
          "description" : "2022 has so far been an earth-shattering year for the chess world. And things continue to unfold in remarkable fashion, as the biggest-ever Olympiad is about to start in Chennai. In sporting terms, the absence of Russian and Chinese teams are a massive loss, but that is more than made up for by the excitement and commitment shown by the host country. Given the excellent reviews shared by participants and organizers alike, we can safely anticipate this will be a memorable event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk",
          "pubDate" : "Wed, 27 Jul 2022 17:53:13 +0000",
          "title" : "Dynamic Sacrifices for a Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1881",
-         "pubDate" : "Wed, 27 Jul 2022 17:16:40 +0000",
-         "title" : "\"Smartwater\", official beverage partner of the 2022 Chess Olympiad"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169345.cms\" />Star chess player Dronavalli Harika is optimistic about India's chances but said the top-seeded women's team will have to put up a collective effort to win medals at the 44th Chess Olympiad, beginning on Thursday.",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-wins-paracin-open-title/articleshow/92924535.cms",
          "pubDate" : "Sat, 16 Jul 2022 14:48:58 +0000",
          "title" : "R Praggnanandhaa wins Paracin Open title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92922634.cms\" />The first ever torch relay for the 44th Chess Olympiad to be held in Tamil Nadu between July 28 and August 10 arrived in Chhattisgarh capital Raipur on Saturday. Arjuna Award recipient and Grandmaster Pravin Thipsay handed over the torch to Chhattisgarh Chief Minister Bhupesh Baghel at Pt Deendayal Upadhyaya Auditorium here and the latter handed it over to Woman FIDE Master Kiran Agrawal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-torch-arrives-in-chhattisgarhs-raipur-cm-lists-efforts-to-popularize-game/articleshow/92922634.cms",
-         "pubDate" : "Sat, 16 Jul 2022 12:55:51 +0000",
-         "title" : "Chess Olympiad: Torch arrives in Chhattisgarh's Raipur"
       },
       {
          "description" : "",
