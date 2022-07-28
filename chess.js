@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93175255.cms\" />​The 44th Chess Olympiad is going to be different for the Indian team for many reasons. Even as Chennai gears up to host the country's first-ever Olympiad and is one of the favourites for a podium-finish, the Indian team will not be having the services of legend --- Viswanathan Anand --- as a player.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-on-every-board-india-have-strong-players-says-viswanathan-anand/articleshow/93175255.cms",
+         "pubDate" : "Thu, 28 Jul 2022 02:53:02 +0000",
+         "title" : "On every board, India have strong players: Viswanathan Anand"
+      },
+      {
          "description" : "By now it is almost impossible to not have heard the tragic tale of the 7-year-old boy whose finger was broken during an exhibition by a chess playing robot. It was certainly the least likely incident one would have imagined, but Murphy's Law was in full swing that day. Still, the history of robots and chess has been ongoing for over 250 years now, with robot chess players today in the homes of proud owners.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://www.thearticle.com/war-and-peace-on-the-chessboard/",
          "pubDate" : "Sat, 16 Jul 2022 09:14:07 +0000",
          "title" : "War and peace on the chessboard"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92917614.cms\" />Indian Grandmaster Aravindh Chithambaram emerged winner in the 41st Villa De Benasque International Chess Open after edging Armenia's Robert Hovhannisyan and compatriot Raunak Sadhwani on the basis of tie-break score.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-aravindh-chithambaram-wins-chess-tourney-in-spain/articleshow/92917614.cms",
-         "pubDate" : "Sat, 16 Jul 2022 08:53:22 +0000",
-         "title" : "Indian GM Aravindh Chithambaram wins chess tourney in Spain"
       },
       {
          "description" : "In the previous article composer Steffen Slumstrup Nielsen showed us how he strips ideas he has seen in tournament games to construct a proper endgame study. Today he shows us the alternate strategy: massaging the position and the brilliant idea to make it into full-fledged study that at first sight barely resembles the original game. The description of this process appeared in The Macedonian Problemist.",
