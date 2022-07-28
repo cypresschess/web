@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. 2022.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes-lichessorg",
+         "pubDate" : "Thu, 28 Jul 2022 20:54:31 +0000",
+         "title" : "Don't Repeat Chess Mistakes Again! | Prepare Like A Pro - WGM Thalia Cervantes | lichess.org"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 kicks off tomorrow in Chennai, India. More than 1700 players will take part in the event, with 248 grandmasters, 157 international masters, 54 women grandmasters, 99 women international masters, and many young chess talents in the field. The youngest participant of the 2022 Chess Olympiad is 8-year-old Randa Seder who []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meet-the-youngest-participant-of-the-2022-chess-olympiad-randa-seder-tweetoftheday/",
+         "pubDate" : "Thu, 28 Jul 2022 20:25:59 +0000",
+         "title" : "Meet the youngest participant of the 2022 Chess Olympiad- Randa Seder #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1883",
+         "pubDate" : "Thu, 28 Jul 2022 19:37:34 +0000",
+         "title" : "Narendra Modi: \"There are no losers: only winners and future winners\""
+      },
+      {
          "description" : "With tactics exploding on the board at every turn, GM Hou Yifan defeated GM Alexandra Kosteniuk in the quarterfinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. Hou gained an early lead, but Kosteniuk fought back valia...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-hou-kosteniuk",
-         "pubDate" : "Thu, 28 Jul 2022 12:17:14 -0700",
-         "title" : "Tactics Roar in World Number 1 vs. Chess Queen"
+         "pubDate" : "Thu, 28 Jul 2022 12:17:00 -0700",
+         "title" : "Tactics Roar In World No. 1 vs. Chess Queen"
       },
       {
          "description" : "The best way to improve at chess is to carefully study master games, stop at certain positions and think about candidate moves. Doing this on your own can be difficult and tiresome, but on this video course, you will be guided by world renowned trainers!",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-r1-pairings/",
          "pubDate" : "Thu, 28 Jul 2022 18:57:31 +0000",
          "title" : "44th Chess Olympiad 2022 - R1 Pairings"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Mind Sports Olympiad</strong> will take place again in presence with a <a href=\"https://mindsportsolympiad.com/2022-schedule/\">shortened nine-day-schedule</a> on 21-29 August in London and <strong>ASICS</strong> as the new sponsor. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/mind-sport-olympiad-returns-to/",
+         "pubDate" : "Thu, 28 Jul 2022 19:53:00 +0100",
+         "title" : "Mind Sport Olympiad returns to London"
       },
       {
          "description" : "The 44th Chess Olympiad 2022&#160;takes place from July 28th to August 10th in Chennai, Tamil Nadu, India. The hosting country of the event was changed twice before India took the role of the Olympiad host for the first time ever.&#160;(the developing story can be found here) The event is played in Open and Women&#x2019;s sections, []",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/live-stream-of-the-opening-ceremony-of-the-44-chess-olympiad-in-chennai",
          "pubDate" : "Thu, 28 Jul 2022 18:04:01 +0100",
          "title" : "Live stream of the opening ceremony of the 44. Chess Olympiad in Chennai"
+      },
+      {
+         "description" : " The 44th World Chess Olympiad takes place in Chennai, India Friday 29th July to Wednesday 10th August. The top seeds are USA, India, Norway (with World Champion Magnus Carlsen), Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany and England. Missing are Russia and China. Play starts at 15:00 local time which is 10:30am UK time. The event was originally going to take place in Russia until their invasion of Ukraine and is the first Olympiad held since 2018. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
+         "pubDate" : "Thu, 28 Jul 2022 20:57:00 +0400",
+         "title" : "44th World Chess Olympiad 2022 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93194407.cms\" />The India 'A' team, the top-seed in the women's event, will play with black pieces in the opening round of the 44th Chess Olympiad on Friday. The draw of lots for the opening round to choose the colour for the top-ranked teams was done by Prime Minister Narendra Modi, who declared the event open at a grand ceremony on Thursday.",
@@ -466,12 +506,12 @@ news_feed (
          "title" : "India 'B' team capable of podium finish in Chess Olympiad: Coach Ramesh"
       },
       {
-         "description" : "On 20 July, the International Chess Day, the Central Chess Club M. Botvinnik hosted a solemn ceremony of the &#8220;CFR Golden Badge&#8221; winners awarding. CFR President Andrey Filatov and CFR Executive Director Mark Gluhovsky welcomed the guests and awarded the Golden badge to Alexander Bakh, Galina Dvorkovich, Igor&#xA0;&#xA0;Zaitsev, Alexander Kostiev, Evgeni Vasiukov (posthumously), and Evgeny []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/filatov-half-of-the-fide-world-championship-match-may-take-place-in-russia/",
-         "pubDate" : "Tue, 26 Jul 2022 11:31:46 +0000",
-         "title" : "Filatov: \"Half of the FIDE World Championship match may take place in Russia\""
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Tue, 26 Jul 2022 11:29:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "At the European Youth Rapid and Blitz Championships, the German players had a great performance. Tykhon Cherniaiev won two gold medals, Luisa Bashylina one gold and one silver. Ruben K&ouml;llner and Tobias K&ouml;lle also won gold, while Marius Fromm took home a silver medal. | Photos: Dorian Rogozenco",
@@ -589,14 +629,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Mon, 25 Jul 2022 11:29:55 +0000",
-         "title" : "FIDE Congress 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1879",
          "pubDate" : "Mon, 25 Jul 2022 10:54:23 +0000",
          "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
@@ -696,14 +728,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lights-go-out-major-chess-tournament",
          "pubDate" : "Sun, 24 Jul 2022 17:50:31 +0000",
          "title" : "Lights Go Out on Major Chess Tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Alejandro Ramirez during the second blitz round robin and calls the Carlsen-Nepomniachtchi game during Blitz 15 at the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.24<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-case-real-world-champions-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-case-real-world-champions-day-5",
-         "pubDate" : "Sun, 24 Jul 2022 17:50:31 +0000",
-         "title" : "Kasparov: A Case for the Real World Champions | Day 5"
       },
       {
          "description" : "Today we offer readers a glimpse of what had been happening behind the scenes of \"The Match of The Century\", especially in the Russian camp, exactly fifty years ago. A tense Boris Spassky, cajoled by seconds Efim Geller and Nikolai Krogius, nevertheless failed to perform, to the dismay of his friends and admirers. It's also the story of a gamble that could have hurtled Bobby down the precipice in that fateful Game 6 of the match. A cautionary tale and object lesson for aspiring players.",
@@ -1624,14 +1648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/baryshpolets-nielsen-interview-fide-presidential-elections",
          "pubDate" : "Fri, 15 Jul 2022 17:35:00 -0700",
          "title" : "Fighting Russian Influence, Baryshpolets, Nielsen Aim To Topple Dvorkovich"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wei Yi</strong> and <strong>Levon Aronian</strong> <a href=\"https://chess24.com/tour/wei-yi-to-face-levon-aronian-in-ftx-road-to-miami-final/\">made it to the final</a> of the <strong>FTX Road to Miami</strong> online tournament of the <strong>Meltwater Champions Chess Tour</strong> and thus qualifid for the <strong>FTX Crypto Cup</strong> that will be held over the board next month in Miami. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/wei-yi-and-aronian-make-final/",
-         "pubDate" : "Fri, 15 Jul 2022 21:43:10 +0100",
-         "title" : "Wei Yi and Aronian make final"
       },
       {
          "description" : "",
