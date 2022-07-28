@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "2022 has so far been an earth-shattering year for the chess world. And things continue to unfold in remarkable fashion, as the biggest-ever Olympiad is about to start in Chennai. In sporting terms, the absence of Russian and Chinese teams are a massive loss, but that is more than made up for by the excitement and commitment shown by the host country. Given the excellent reviews shared by participants and organizers alike, we can safely anticipate this will be a memorable event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-preview",
+         "pubDate" : "Thu, 28 Jul 2022 06:30:00 +0100",
+         "title" : "Chennai Olympiad: US big favourite, India looking to leave a mark"
+      },
+      {
+         "description" : " As of late, Andrew and Tristan Tate have been a social media phenomenon exhibiting &#8220;Tate Pride&#8221; with their provocative statements on topics such as masculinity/feminity, money management, and living the high-value life. Today both tout lavish lifestyles and teaches other men how to live for success in their subscription-based &#8220;War Room&#8221; training. Their logo is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/\">The Emory Tate Pride Andrew and Tristan break Internet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/",
+         "pubDate" : "Thu, 28 Jul 2022 04:43:21 +0000",
+         "title" : "The Emory Tate Pride&hellip; Andrew and Tristan break Internet"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93175255.cms\" />​The 44th Chess Olympiad is going to be different for the Indian team for many reasons. Even as Chennai gears up to host the country's first-ever Olympiad and is one of the favourites for a podium-finish, the Indian team will not be having the services of legend --- Viswanathan Anand --- as a player.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk",
          "pubDate" : "Wed, 27 Jul 2022 17:53:13 +0000",
          "title" : "Dynamic Sacrifices for a Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1881",
+         "pubDate" : "Wed, 27 Jul 2022 17:16:40 +0000",
+         "title" : "\"Smartwater\", official beverage partner of the 2022 Chess Olympiad"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169345.cms\" />Star chess player Dronavalli Harika is optimistic about India's chances but said the top-seeded women's team will have to put up a collective effort to win medals at the 44th Chess Olympiad, beginning on Thursday.",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "The first-ever Unrated Girls Only Tournament is in the books"
       },
       {
-         "description" : "This week Robert Ris picks up from last week, when he looked at a quick loss suffered by Ding Liren with the white pieces. A recent victory by Andrew Hong from the US Junior Championship was similar in that a single mistake by White was quickly punished by his opponent. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-no-margin-of-error",
-         "pubDate" : "Fri, 15 Jul 2022 17:30:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: No margin of error"
-      },
-      {
          "description" : " While it is always good to see chess on TV, it isn't always done correctly. There is an ad on Australian TV which finishes with a checkmate (loudly announced), which is in fact correctly played, But the weird thing is the chess clock (and old fashioned BHB clock) is facing away from both players, towards the camera. I assume this was done for artistic reasons, but it could just as well have been placed on the far side of the board. Maybe they tried that, but didn't like the result. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1800,14 +1816,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/12/ep-287-gm-david-howell-joins-for-a-fide-candidates-wrap-up-plus-world-championship-match-scuttlebutt-and-his-2022-otb-and-commentating-plans",
          "pubDate" : "Tue, 12 Jul 2022 14:07:50 +0000",
          "title" : "EP 287- GM David Howell joins for a FIDE Candidates Wrap Up plus World Championship Match Scuttlebutt, and his 2022 OTB and Commentating Plans "
-      },
-      {
-         "description" : " Chess.com hosted a $100,000 blitz championship that featured six NFL football players. BlitzChamps was announced a month ago with great anticipation. Back in 2020, chess.com featured a blitz battle between Wu Tang Clan members RZA and GZA. The online platform has made chess opponents more accessible and there are a multitude of different tournaments around The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/nfl-football-players-battle-on-chess-com/\">NFL football players battle on chess.com</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/12/nfl-football-players-battle-on-chess-com/",
-         "pubDate" : "Tue, 12 Jul 2022 12:06:16 +0000",
-         "title" : "NFL football players battle on chess.com"
       },
       {
          "description" : "",
