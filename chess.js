@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With tactics exploding on the board at every turn, GM Hou Yifan defeated GM Alexandra Kosteniuk in the quarterfinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. Hou gained an early lead, but Kosteniuk fought back valia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-hou-kosteniuk",
+         "pubDate" : "Thu, 28 Jul 2022 12:17:14 -0700",
+         "title" : "Tactics Roar in World Number 1 vs. Chess Queen"
+      },
+      {
+         "description" : "The best way to improve at chess is to carefully study master games, stop at certain positions and think about candidate moves. Doing this on your own can be difficult and tiresome, but on this video course, you will be guided by world renowned trainers!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/move-by-move-how-to-get-into-a-master-s-mind",
+         "pubDate" : "Thu, 28 Jul 2022 20:00:00 +0100",
+         "title" : "Move by move - (how to) get into a master's mind!"
+      },
+      {
+         "description" : "Everything is set for the start of the 44th Chess Olympiad 2022 in Chennai, India. The event was officially opened today at the glorious ceremony and the first round starts Friday, 15:00 (GMT+5:30). During the Opening ceremony of the event, the drawing of lots determined the first board colours of each team. The top seeds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-r1-pairings/",
+         "pubDate" : "Thu, 28 Jul 2022 18:57:31 +0000",
+         "title" : "44th Chess Olympiad 2022 - R1 Pairings"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022&#160;takes place from July 28th to August 10th in Chennai, Tamil Nadu, India. The hosting country of the event was changed twice before India took the role of the Olympiad host for the first time ever.&#160;(the developing story can be found here) The event is played in Open and Women&#x2019;s sections, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-womens-section-live/",
+         "pubDate" : "Thu, 28 Jul 2022 18:24:53 +0000",
+         "title" : "Chess Olympiad 2022 | Women's section LIVE"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022&#160;takes place from July 28th to August 10th in Chennai, Tamil Nadu, India. The hosting country of the event was changed twice before India took the role of the Olympiad host for the first time ever.&#160;(the developing story can be found here) The event is played in Open and Women&#x2019;s sections, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-open-section-live/",
+         "pubDate" : "Thu, 28 Jul 2022 18:24:30 +0000",
+         "title" : "Chess Olympiad 2022 | Open section LIVE"
+      },
+      {
+         "description" : "This week Robert Ris takes a look at a sharp line of the Najdorf Sicilian with 6.Bg5 and discusses a game that helped 14-year old Adrian de Winter to win the Amsterdam Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-najdorf-sicilian-with-6-bg5",
+         "pubDate" : "Thu, 28 Jul 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Najdorf Sicilian with 6.Bg5"
+      },
+      {
+         "description" : "The 44th Chess Olympiad begins today, and the opening ceremony was held at the Jawaharlal Nehru Stadium in Chennai. The students in Tamil Nadu and the officials and employees of the state were given a day off to mark the opening of the Chess Olympiad. Watch the opening ceremony via live stream...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/live-stream-of-the-opening-ceremony-of-the-44-chess-olympiad-in-chennai",
+         "pubDate" : "Thu, 28 Jul 2022 18:04:01 +0100",
+         "title" : "Live stream of the opening ceremony of the 44. Chess Olympiad in Chennai"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93194407.cms\" />The India 'A' team, the top-seed in the women's event, will play with black pieces in the opening round of the 44th Chess Olympiad on Friday. The draw of lots for the opening round to choose the colour for the top-ranked teams was done by Prime Minister Narendra Modi, who declared the event open at a grand ceremony on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-a-women-to-play-with-black-pieces-in-1st-round/articleshow/93194407.cms",
+         "pubDate" : "Thu, 28 Jul 2022 16:32:27 +0000",
+         "title" : "Chess Olympiad: India A women to play with black pieces in 1st round"
+      },
+      {
+         "description" : "The 1st International tournament of Thessaloniki will be held from 3rd to 10th August in the Porto Palace Hotel &#38; Conference Center. The event will be played in three rating groups: Open A (for players rated 1900+), Open B (for players rated 1200-1899) and Open C (for players rated U1200). The total prize fund of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-international-tournament-of-thessaloniki-2022/",
+         "pubDate" : "Thu, 28 Jul 2022 15:48:32 +0000",
+         "title" : "1st International Tournament of Thessaloniki 2022"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 was declared officially open at the glorious ceremony which was held today in Tamil Nadu, Chennai. The ceremony gathered local and FIDE authorities, Indian celebrities, chess enthusiasts, and Olympiad participants. A month ago, the Prime Minister of India Narendra Modi launched the first-ever Chess Olympiad Torch Relay and today addressed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-officially-opened/",
+         "pubDate" : "Thu, 28 Jul 2022 15:47:42 +0000",
+         "title" : "44th Chess Olympiad 2022 officially opened"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93193449.cms\" />The prevailing cross-border tension ended Pakistan chess team's campaign even before it started as the players are due to return on Thursday night after a last-minute pull out from the 44th Olympiad. Pakistan withdrew from the prestigious event, citing the torch relay of the event passing through Jammu and Kashmir, which neighbouring country views as a disputed area.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pakistani-players-to-leave-tonight-after-last-minute-pullout-from-chess-olympiad/articleshow/93193449.cms",
+         "pubDate" : "Thu, 28 Jul 2022 15:14:22 +0000",
+         "title" : "Pakistani players to leave tonight after last-minute pullout from Olympiad"
+      },
+      {
          "description" : "The 15th edition of the Paleochora Open took place from the 17th to the 24th July on Crete. It is a tournament with a special atmosphere, which is one of the reasons why Irina Bulmaga likes to return to play in the small town which is about 70 km south of Chania. The Romanian IM and WGM reports from this year's open.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-chess-festival-2022-impressions-and-interviews",
          "pubDate" : "Thu, 28 Jul 2022 12:33:13 +0100",
          "title" : "Dortmund Chess Festival 2022: Impressions and Interviews"
+      },
+      {
+         "description" : "The 122nd edition of the US Chess Open will take place from July 30 to August 7 at the Westin Mission Hills Golf Resort and Spa Rancho Mirage, California. The event is open to all chess players, regardless on their rating or title. The tournament will be played in 9 rounds, swiss system, with time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-open-celebrates-its-122nd-anniversary/",
+         "pubDate" : "Thu, 28 Jul 2022 11:33:00 +0000",
+         "title" : "US Chess Open celebrates its 122nd anniversary"
       },
       {
          "description" : "The 44th Chess Olympiad 2022 opens today in Chennai, India gathering 350 teams from 190 countries. The Opening ceremony of the event starts today at 19:00 (local time) and the first round starts tomorrow at 15:00 (local time). The Opening press ceremony was held today in the presence of FIDE President Arkady Dvorkovich, AICF President Dr Sanjay Kapoor,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/44th-chess-olympiad-opens-in-chennai/\">Read More &#187;</a></span>",
@@ -394,22 +490,6 @@ news_feed (
          "title" : "Zurab Azmaiparashvili reelected as ECU President"
       },
       {
-         "description" : "The 31st Open International Chess Tournament of Kavala 2022 is going to take place 26 July 2 August in Kavala, Greece. Featuring 261 players, 39 of which titled, coming from 22 countries, this summer open is one of the large European events. Full information about Kavala Chess Open / Live games",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kavala-chess-live/",
-         "pubDate" : "Tue, 26 Jul 2022 08:14:54 +0000",
-         "title" : "Kavala Chess LIVE"
-      },
-      {
-         "description" : "The 31st Open International Chess Tournament of Kavala 2022 is going to take place 26 July 2 August in Kavala, Greece. Featuring 261 players, 39 of which titled, coming from 22 countries, this summer open is one of the large European events. Top seeded is Indian Grandmaster G.N. Gopal and his main competition comes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/g-n-gopal-is-top-seeded-at-the-31st-open-international-tournament-of-kavala-2022/",
-         "pubDate" : "Tue, 26 Jul 2022 08:11:57 +0000",
-         "title" : "G.N. Gopal is top seeded at the 31st Open International Tournament of Kavala 2022"
-      },
-      {
          "description" : "In endgames the last attacking pawn is often worth its weight in gold. In the diagrammed position it is Black to move - can he save a draw and if so, how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -522,36 +602,12 @@ news_feed (
          "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
       },
       {
-         "description" : "The 31st edition of the International Open Tournament of Kavala 2022 will take place from 26 July 2 August at the Megali Leschi Great Club Kavala, Greece. The event will be played in three rating categories: Group A (for players rated 2000+), Group B (for players rated 1500-1999) and Group C (for players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/31st-open-international-tournament-of-kavala-2022/",
-         "pubDate" : "Mon, 25 Jul 2022 10:47:00 +0000",
-         "title" : "31st Open International Tournament of Kavala 2022"
-      },
-      {
-         "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-rapid-blitz-chess-champions-crowned-in-thessaloniki/",
-         "pubDate" : "Mon, 25 Jul 2022 10:27:43 +0000",
-         "title" : "European Youth Rapid & Blitz Chess Champions crowned in Thessaloniki"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1878",
          "pubDate" : "Mon, 25 Jul 2022 09:41:26 +0000",
          "title" : "Magnus Carlsen wins 2022 SuperUnited Rapid and Blitz"
-      },
-      {
-         "description" : "Report by GM Robert Hungaski Each day was a process of discovery and change, for myself included. In my first daily recap, following the announcement that Magnus wouldn&#x2019;t defend his title, I spoke of a Magnus used to running laps around his opponents, now needing to give his legs a rest. But I was wrong. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/80170-2/",
-         "pubDate" : "Mon, 25 Jul 2022 09:12:32 +0000",
-         "title" : "Carlsen wins Super United Rapid & Blitz Grand Chess Tour 2022"
       },
       {
          "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen won the Super United Croatia Rapid & Blitz tournament, the third tournament of the <a href=\"https://grandchesstour.org/\">Grand Chess Tour 2022</a>, a couple of days after his <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">official withdrawal</a> from the World Championship cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/carlsen-nepo.jpeg\" width=\"800\" height=\"455\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a>, Grand Chess Tour</div> </div> The Super United Croatia Rapid & Blitz was",
@@ -696,14 +752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r6",
          "pubDate" : "Sun, 24 Jul 2022 10:35:00 +0100",
          "title" : "NC World Masters: Anand leads with one round to go"
-      },
-      {
-         "description" : "Blindfold Opening Visualization: 100 Chess Puzzles by Martin B. Justensen is a book will train and test your visualization skills through 100 well-selected opening positions. You will get a series of moves from common openings. The depth of the lines is from 4 to 10 moves .You will not always have to find a killer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/blindfold-opening-visualization-100-chess-puzzles-by-martin-b-justesen/",
-         "pubDate" : "Sun, 24 Jul 2022 09:05:07 +0000",
-         "title" : "\"Blindfold Opening Visualization: 100 chess puzzles\" by Martin B. Justesen"
       },
       {
          "description" : "Dear All, Please be informed that due to the Announcement of Asian Chess Federation ,the Asian School Chess Championship 2022 scheduled to be conducted at",
@@ -1098,14 +1146,6 @@ news_feed (
          "title" : "Underdog And Favorite Win Tuesday Tournaments"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93010970.cms\" />'World Chess Day' was celebrated on Wednesday with the unveiling of the official stamp of the 44th Chess Olympiad in the presence of a distinguished gathering at a city hotel in New Delhi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-stamp-unveiled-to-celebrate-world-chess-day/articleshow/93010970.cms",
-         "pubDate" : "Wed, 20 Jul 2022 15:04:24 +0000",
-         "title" : "Chess Olympiad Stamp unveiled to celebrate 'World Chess Day'"
-      },
-      {
          "description" : " <p class=\"lead\">And yes, it's true! What the chess world was expecting, but hoping it didn't happen, struck us on the International Chess Day. The reigning World Champion Magnus Carlsen decided not to defend his World Chess Championship Title in 2023 against the Challenger Ian Nepomniachtchi, and - as expected - Twitter is on fire. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20-15.55.41.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> \"I've been thinking about this decision for a long time, more than a year and a half. I spoke with people from my team, with FIDE, with Ian. It's very simple. I am not motivated to play another match.\" Carlsen sta",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1232,14 +1272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bobby-fischer-in-iceland-50-years-ago-4",
          "pubDate" : "Tue, 19 Jul 2022 19:00:00 +0100",
          "title" : "Bobby Fischer in Iceland - 50 years ago (4)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/92988787.cms\" />Ukrainian Grandmaster Oleksandr, who has been part of numerous Olympiads in the past as a player and as captain, concedes that this edition of the tournament will be the toughest.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/keeping-ukrainian-team-in-good-head-space-during-chess-olympiad-a-challenge-sulypa/articleshow/92988787.cms",
-         "pubDate" : "Tue, 19 Jul 2022 17:26:18 +0000",
-         "title" : "Keeping Ukrainian team in good head space a challenge: Sulypa"
       },
       {
          "description" : "After the European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. The Rapid Championship will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championship-2022-starts-tomorrow/\">Read More &#187;</a></span>",
@@ -1490,14 +1522,6 @@ news_feed (
          "title" : "Player With Visual Impairment Achieves Grandmaster Title"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 87th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-87-basics-of-the-benko-gambit-6",
-         "pubDate" : "Sun, 17 Jul 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 87: Basics of the Benko Gambit (6)"
-      },
-      {
          "description" : " It is currently the 50th anniversary of the Fischer v Spassky World Championship Match. While I was only 5 years old when it happened, in a way it was still my first exposure to serious competitive chess. This was because my father had a copy of the Gligoric book on the match, and it was probably the first chess book that I read, albeit 4 years after the match was played. I still flick through the book (and a number of others about the match), revisiting the analysis. One game that was particularly interesting was the 5th game of the match. It was notable for a provocative knight move on 11, which allowed Spassky to double Black's pawns. However a few moves later, Spassky was forced to undo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1522,14 +1546,6 @@ news_feed (
          "title" : "Nikolai Krogius (1930-2022)"
       },
       {
-         "description" : "In the '90s, Igor Naumkin left his native Moscow, as did many other Soviet players, in order to seek playing opportunities at the many tournaments in Europe. Their grandmaster titles would help to get invitations and participation at various opens on the continent and secure a livelihood. Igor passed on July 13, a month before turning 57 years old.| Photo: Giordano Macellari",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/igor-gennadyevich-naumkin-obituary",
-         "pubDate" : "Sun, 17 Jul 2022 13:00:00 +0100",
-         "title" : "Igor G. Naumkin (1965 - 2022)"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While chess is struggling to survive under Taliban rule, two officials who fled Afghanistan are fighting over the right to vote at the upcoming FIDE election. <strong>Ghulam Ali Malak Zad</strong>, who resides in Latvia and was <a href=\"https://www.chessdom.com/fide-elections-list-of-federations-with-voting-powers-electoral-commission-report/\">recently listed as President and Delegate</a> of the <strong>Afghan Chess Federation</strong>, is protesting a <a href=\"https://congress.fide.com/wp-content/uploads/2022/07/Electoral-Commission_Report_9-July-2022_Addendum.pdf\">decision of the <strong>Electoral Commission</strong></a> to approve as delegate <st",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-final-1-levon-takes-the-lead",
          "pubDate" : "Sun, 17 Jul 2022 08:36:31 +0000",
          "title" : "FTX Road to Miami Final 1: Levon takes the lead!"
-      },
-      {
-         "description" : "With a win over former sole leader Le Quang Liem, Dommaraju Gukesh took the lead in the Grandmaster Triathlon at the Biel Chess Festival - and at 16 years, 1 month and 17 days he became the third-youngest player in history to cross the magic threshold of 2700 Elo points! | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r3",
-         "pubDate" : "Sun, 17 Jul 2022 06:40:00 +0100",
-         "title" : "Biel: Gukesh becomes third-youngest player to cross the 2700 mark"
       },
       {
          "description" : "GM Levon Aronian leads the final of the FTX Road to Miami tournament after the first of two days. GM Wei Yi had winning positions in both the second and third games, but had to settle for draws and then lost the fourth game. How to watch? The ga...",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/baryshpolets-nielsen-interview-fide-presidential-elections",
          "pubDate" : "Fri, 15 Jul 2022 17:35:00 -0700",
          "title" : "Fighting Russian Influence, Baryshpolets, Nielsen Aim To Topple Dvorkovich"
-      },
-      {
-         "description" : "GM Levon Aronian and GM Wei Yi qualified for the two-day final of the FTX Road to Miami tournament. Wei needed just three games to knock out GM Richard Rapport, while Aronian defeated GM Jan-Krzysztof Duda 3-1. The final will consist of two matc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-semifinals",
-         "pubDate" : "Fri, 15 Jul 2022 15:16:00 -0700",
-         "title" : "Aronian, Wei Reach Final; Qualify For Miami"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wei Yi</strong> and <strong>Levon Aronian</strong> <a href=\"https://chess24.com/tour/wei-yi-to-face-levon-aronian-in-ftx-road-to-miami-final/\">made it to the final</a> of the <strong>FTX Road to Miami</strong> online tournament of the <strong>Meltwater Champions Chess Tour</strong> and thus qualifid for the <strong>FTX Crypto Cup</strong> that will be held over the board next month in Miami. </div> ",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1851",
          "pubDate" : "Fri, 08 Jul 2022 00:19:53 +0000",
          "title" : "Poland wins IX IBCA World Team Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1850",
-         "pubDate" : "Thu, 07 Jul 2022 15:54:25 +0000",
-         "title" : "Koneru narrowly beats Dzagnidze to advance into the quarters"
       }
    ]
 }
