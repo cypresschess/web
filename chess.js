@@ -5,6 +5,62 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1887",
+         "pubDate" : "Fri, 29 Jul 2022 19:12:54 +0000",
+         "title" : "44th Chess Olympiad: Favorites start strongly"
+      },
+      {
+         "description" : " African nations traveling to the 2022 Chess Olympiad have traditionally been up to the mark in colorful outfits. This Olympiad will feature a &#8220;best dressed&#8221; contest. It's a very interesting, but perhaps tricky idea to compare cultural expressions, but one thing for sure is that African nations will be a photographer's dream. With bold prints The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/29/african-nations-at-chennai-olympiad/\">African nations at Chennai Olympiad!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/29/african-nations-at-chennai-olympiad/",
+         "pubDate" : "Fri, 29 Jul 2022 18:42:17 +0000",
+         "title" : "African nations at Chennai Olympiad!"
+      },
+      {
+         "description" : "The first round of the 44th Chess Olympiad 2022 concluded in Chennai with no major upsets. 76 teams of Open section and 70 teams of the Women's event scored the maximum 4/4 victory in Round 1. Round 1 results (open section) / Round 1 results (women's section) The second round is scheduled for Saturday, 30th []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-2-pairings/",
+         "pubDate" : "Fri, 29 Jul 2022 18:34:58 +0000",
+         "title" : "44th Chess Olympiad 2022 - Round 2 pairings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1886",
+         "pubDate" : "Fri, 29 Jul 2022 17:04:04 +0000",
+         "title" : "Queen's Pavilion and Social Pavilion are Open"
+      },
+      {
+         "description" : " I wasn't here last week because I was teaching a chess boot camp for younger players. It was a camp for students who knew the basics but needed to improve their middle and endgame skills. I taught them all of the material we covered over the last three months. However, there was one area that <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-eight/\">A Foundation for Beginners Sixty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-eight/",
+         "pubDate" : "Fri, 29 Jul 2022 16:25:54 +0000",
+         "title" : "A Foundation for Beginners Sixty Eight"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 kicked off today in Chennai, India. The first round of the Women's Chess Olympiad hasn't seen major upsets and the final results of the R1 can be found below. Chess Olympiad 2022 &#124; Women&#x2019;s section games&#160;/&#160;Chess Olympiad 2022 &#124; Open section gamesTeam pairings round 1&#160;/&#160;Board pairings round 1 (open section)&#160;/&#160;Board []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-1-final-results-chess-olympiad-2022-womens-section/",
+         "pubDate" : "Fri, 29 Jul 2022 15:47:32 +0000",
+         "title" : "Round 1 Final results - Chess Olympiad 2022 (women's section)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93218305.cms\" /> Indian teams opened their campaigns with easy wins in the Open and women's sections of the 44th Chess Olympiad on Friday. All the six Indian teams (three in Open and three in women's event) won 4-0 over their first round opponents.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-teams-off-to-winning-starts/articleshow/93218305.cms",
+         "pubDate" : "Fri, 29 Jul 2022 15:42:31 +0000",
+         "title" : "Chess Olympiad: Indian teams off to winning starts"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1885",
          "pubDate" : "Fri, 29 Jul 2022 15:09:52 +0000",
          "title" : "FIDE, AICF, & Tech Mahindra Unveil Fan Nxt.Now App at the 44th Chess Olympiad"
@@ -42,7 +98,7 @@ news_feed (
          "title" : "The 44th Chess Olympiad in Chennai, India started today"
       },
       {
-         "description" : "A month ago Nepo entered the&#xA0;Candidates Tournament 2022&#xA0;with little expectations. Playing the qualification cycle after heavy defeat in the previous World Championship and participating in an equal and unpredictable field was not a dream scenario for him. Yet, Nepo performed superbly,&#xA0;winning the Candidates tournament with a round to spare&#xA0;and bathing in the crowd&#x2019;s love&#xA0;receiving a []",
+         "description" : "A month ago Nepo entered the&#160;Candidates Tournament 2022&#160;with little expectations. Playing the qualification cycle after heavy defeat in the previous World Championship and participating in an equal and unpredictable field was not a dream scenario for him. Yet, Nepo performed superbly,&#160;winning the Candidates tournament with a round to spare&#160;and bathing in the crowd&#x2019;s love&#160;receiving a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/gm-naroditsky-how-ian-nepomniachtchi-won-the-2022-candidates/",
@@ -85,6 +141,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Fri, 29 Jul 2022 11:29:55 +0000",
+         "title" : "FIDE Congress 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1884",
          "pubDate" : "Fri, 29 Jul 2022 10:42:57 +0000",
          "title" : "Hou Yifan eliminates Kosteniuk to reach semifinals"
@@ -122,14 +186,6 @@ news_feed (
          "title" : "44th Chess Olympiad 2022 R1 live with IM Sagar Shah and BM Samay Raina - India's stand-up comedian"
       },
       {
-         "description" : "Magnus Carlsen has arrived in Chennai for the Chess Olympiad. In the city that he so dearly remembers from the World Chess Championship match, Carlsen was met like a hero. Magnus will sit out round 1, giving the top board to Aryan Tari. Chess Olympiad 2022 &#124; Women&#x2019;s section games LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-reception-for-magnus-carlsen-in-chennai-olympiad-tweetoftheday/",
-         "pubDate" : "Fri, 29 Jul 2022 09:31:10 +0000",
-         "title" : "Grand reception for Magnus Carlsen in Chennai Olympiad #TweetOftheDay"
-      },
-      {
          "description" : "England have received a warm welcome in Chennai where the 44th FIDE Chess Olympiad has just started. You can find more information at https://chessolympiad.fide.com/",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -146,19 +202,11 @@ news_feed (
          "title" : "Enter the inner sanctum of elite chess"
       },
       {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section games LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section games LIVE Team pairings round 1&#160;/&#160;Board pairings round 1 (open section)&#160;/&#160;Board pairings round 1 (women section) Read all:&#160;Chess Olympiad 2022 news here GM Peter Svidler and GM Peter Leko comment live on Round 1 of the Chess Olympiad 2022",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-live-with-gm-svidler-and-gm-leko-2022/",
-         "pubDate" : "Fri, 29 Jul 2022 07:49:28 +0000",
-         "title" : "Chess Olympiad LIVE - with GM Svidler and GM Leko"
-      },
-      {
-         "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad pairings (selected): Angola v USA, India v Zimbabwe, Lebanon v Norway, Spain v Wales, England v Cyprus. Women: Tajikistan v India, Ukraine v South Africa, Iraq v Georgia, Libya v England. For full pairings, view <a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art=2&amp;rd=1&amp;flag=",
+         "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad results (selected): India 4-0 Zimbabwe, Angola 0.5-3.5 US, Lebanon 0.5-3.5 Norway, Spain 4-0 Weles, England 4-0 Cyprus. Women: Tajikistan 0-4 India, Ukraine 4-0 South Africa, Iraq 0-4 Georgia, Libya 0-4 England. For full results, see<a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jul/29/chess-magnus-carlsen-in-olympiad-action-as-world-no-1-targets-record-rating",
-         "pubDate" : "Fri, 29 Jul 2022 07:00:51 +0000",
+         "pubDate" : "Fri, 29 Jul 2022 07:00:50 +0000",
          "title" : "Chess: Magnus Carlsen in Olympiad action as world No 1 targets record rating"
       },
       {
@@ -344,14 +392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1882",
          "pubDate" : "Thu, 28 Jul 2022 07:33:37 +0000",
          "title" : "Valentina Gunina trounces Tan Zhongyi to advance into semis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Thu, 28 Jul 2022 06:29:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93178989.cms\" />It's going to be baptism by fire for the Bhutan side at the Chess Olympiad in Chennai from July 28 to August 10 as 10 members of this small mountain country will be playing their first-ever over the board Fide-rated tournament.",
@@ -1106,14 +1146,6 @@ news_feed (
          "title" : "Chess: five-times champion Magnus Carlsen aims high after abdicating title"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93044148.cms\" />Magnus Carlsen, just 31, has made a courageous and somewhat understandable decision of not defending his world chess crown.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsens-gambit-is-set-to-devalue-world-chess-crown/articleshow/93044148.cms",
-         "pubDate" : "Fri, 22 Jul 2022 04:58:57 +0000",
-         "title" : "Magnus Carlsen's gambit is set to devalue world chess crown"
-      },
-      {
          "description" : "Both the Grandmaster Triathlon and the Women's Quadriathlon in Biel will feature direct encounters between the first and second placed participants in final-round battles for the respective titles. Le Quang Liem has a 3-point lead over Andrey Esipenko (a win is worth 4 points) in the GM Triatholn, while Iris Ciarletta has a 1-point lead over Zhuang Yongzhe in the ladies' Quadriathlon. | The final round kicks off four hours earlier than usual, at 10.00 CEST. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1816,14 +1848,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/a-championship-chess-set-that-fits-into-ones-apartment-finally/",
          "pubDate" : "Thu, 14 Jul 2022 08:25:53 +0000",
          "title" : "A Championship Chess Set That Fits Into One's Apartment, Finally"
-      },
-      {
-         "description" : " IM Justus Williams presented an article in Chess Life covering his participation in the Mid-American Open in St. Louis. While Williams is known more for his Grandmaster aspirations, he took the time to write a very interesting article. It included some of the random distractions you may face in between rounds. We've all been there. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/\">Justus Williams pens article in Chess Life</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/13/justus-williams-pens-article-in-chess-life/",
-         "pubDate" : "Thu, 14 Jul 2022 02:32:24 +0000",
-         "title" : "Justus Williams pens article in Chess Life"
       },
       {
          "description" : "",
