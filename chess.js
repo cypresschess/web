@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Read all: Chess Olympiad 2022 news here Bo. 2 India (IND ) Rtg 94 Zimbabwe (ZIM ) Rtg 1/1 GM&#160; Vidit, Santosh Gujrathi (w) 2714 IM&#160; Makoto, Rodwell (b) 2346 1/2 GM&#160; Erigaisi, Arjun (b) 2689 &#160;&#160;&#160; Masango, Spencer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-board-pairings/",
+         "pubDate" : "Fri, 29 Jul 2022 07:19:33 +0000",
+         "title" : "Chess Olympiad 2022 - board pairings (open section)"
+      },
+      {
+         "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad pairings (selected): Angola v USA, India v Zimbabwe, Lebanon v Norway, Spain v Wales, England v Cyprus. Women: Tajikistan v India, Ukraine v South Africa, Iraq v Georgia, Libya v England. For full pairings, view <a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art=2&amp;rd=1&amp;flag=",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/jul/29/chess-magnus-carlsen-in-olympiad-action-as-world-no-1-targets-record-rating",
+         "pubDate" : "Fri, 29 Jul 2022 07:00:51 +0000",
+         "title" : "Chess: Magnus Carlsen in Olympiad action as world No 1 targets record rating"
+      },
+      {
          "description" : " Praggnanandhaa Rameshbabu and Dommaraju Gukesh receive the Olympiad Relay Torch to be lit to commence the opening of the Olympiad. President Narendra Modi and the distinguished platform look on. All Photos by Lennart Ootes At the Opening Ceremonies of the 2022 Chess Olympiad, the biennial event has officially begun. After only four months of preparation, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/\">2022 Chess Olympiad: Opening Ceremonies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -400,14 +416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/with-some-changes-i-dont-rule-out-a-return-to-world-championship-cycle-magnus-carlsen/articleshow/93152866.cms",
          "pubDate" : "Wed, 27 Jul 2022 05:22:24 +0000",
          "title" : "With some changes, I don't rule out a return to WC cycle: Magnus Carlsen"
-      },
-      {
-         "description" : "With the World Champion Magnus Carlsen decision not to defend his title , the 2023 FIDE World Championship is entering in a backup mode. Ding Lieren, who was the replacement of Sergey Karjakin for the Candidates Chess 2022, will now replace Magnus Carlsen and face the winner of the Candidates Ian Nepomniachtchi. The match is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-vs-nepomniachtchi-2023-possible-replacements/",
-         "pubDate" : "Wed, 27 Jul 2022 05:07:28 +0000",
-         "title" : "Ding Liren vs Nepomniachtchi 2023 - possible replacements"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows Varuzhan Akobian&#039;s preferred system to stymie the King&#039;s Indian Defense. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a><br /> Caleb Denby vs. Alex Moellering, 2014: E61 King&#039;s Indian defence, 3.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden f",
@@ -2040,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1852",
          "pubDate" : "Fri, 08 Jul 2022 10:47:55 +0000",
          "title" : "Japan"
-      },
-      {
-         "description" : " It was brought to my attention that I needed to talk about a chess skill that gets little mention, yet is crucial to mastery. This is a skill you can use in every aspect of your life. It's a skill that takes time to develop, which is ironic considering the skill I'm talking about is <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-six/\">A Foundation for Beginners Sixty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Impro",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-six/",
-         "pubDate" : "Fri, 08 Jul 2022 07:13:50 +0000",
-         "title" : "A Foundation for Beginners Sixty Six"
       }
    ]
 }
