@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes",
+         "pubDate" : "Fri, 29 Jul 2022 02:54:54 +0000",
+         "title" : "Don't Repeat Chess Mistakes Again! | Prepare Like A Pro - WGM Thalia Cervantes"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93199577.cms\" />It was in 2013 that home boy Viswanathan Anand lost the World Championship title at India's chess capital, Chennai. Nine years have gone by and top-flight chess is back in Tamil Nadu with the 44th Olympiad starting at Mamallapuram, a sea town 60 km from Chennai, on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://chessimprover.com/solving-endgame-studies/",
          "pubDate" : "Sun, 24 Jul 2022 18:15:11 +0000",
          "title" : "Solving Endgame Studies"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The lights go out during the 14th blitz round at the 2022 SuperUnited Rapid &amp; Blitz Croatia. 2022.07.24<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lights-go-out-major-chess-tournament\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jsOyUkvfR5o.jpg?itok=VrXR419t\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lights-go-out-major-chess-tournament",
-         "pubDate" : "Sun, 24 Jul 2022 17:50:31 +0000",
-         "title" : "Lights Go Out on Major Chess Tournament"
       },
       {
          "description" : "Today we offer readers a glimpse of what had been happening behind the scenes of \"The Match of The Century\", especially in the Russian camp, exactly fifty years ago. A tense Boris Spassky, cajoled by seconds Efim Geller and Nikolai Krogius, nevertheless failed to perform, to the dismay of his friends and admirers. It's also the story of a gamble that could have hurtled Bobby down the precipice in that fateful Game 6 of the match. A cautionary tale and object lesson for aspiring players.",
