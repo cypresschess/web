@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1885",
+         "pubDate" : "Fri, 29 Jul 2022 15:09:52 +0000",
+         "title" : "FIDE, AICF, & Tech Mahindra Unveil Fan Nxt.Now App at the 44th Chess Olympiad"
+      },
+      {
+         "description" : "Levon Aronian debuts for the USA National team at the 44th Chess Olympiad in Chennai, India. The USA Team met lower-rated Angola in the first round and Levon was playing the first board against IM David Silva (2315). The game didn't start well for Aronian, and he faced serious trouble after 25Nf6?! Having a clear []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-saves-the-losing-position-against-angolas-im-david-silva/",
+         "pubDate" : "Fri, 29 Jul 2022 14:05:13 +0000",
+         "title" : "Levon Aronian saves the losing position against Angola's IM David Silva"
+      },
+      {
+         "description" : "Anatoly Karpov was definitely not famous for his outrageous tactics, but when you have played hundreds, and thousands of games, you certainly have some tactical games up your sleeve. Lawrence found some interesting examples, and tough nuts to solve for you.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-28",
+         "pubDate" : "Fri, 29 Jul 2022 15:00:00 +0100",
+         "title" : "Trent's Tactics - Karpov's mad tactics"
+      },
+      {
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section games LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section games LIVE Team pairings round 1&#xA0;/&#xA0;Board pairings round 1 (open section)&#xA0;/&#xA0;Board pairings round 1 (women section) Follow: VIDEO coverage R1 with GM Leko and GM Svidler / Chess Olympiad 2022 with Bryan Tillis Read all:&#xA0;Chess Olympiad 2022 news here Results Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-1-open-section/",
+         "pubDate" : "Fri, 29 Jul 2022 13:36:40 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 1 (open section)"
+      },
+      {
+         "description" : " <p class=\"lead\">All eyes are on Chennai for the most prestigious chess event until today, the 44th Chess Olympiad, which will be held from July 28 to August 10. With 187 countries registered, India now holds the world record in terms of the number of participating countries in a single edition of the Olympiad. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-13.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52247594546_740fbcef08_k-(1).jpeg\" width=\"2048\" height=\"1191\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FY08S_VXoAAVfx-.jpeg\" width",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-44th-chess-olympiad-in-chennai-india-started-today/",
+         "pubDate" : "Fri, 29 Jul 2022 13:07:26 +0000",
+         "title" : "The 44th Chess Olympiad in Chennai, India started today"
+      },
+      {
+         "description" : "A month ago Nepo entered the&#xA0;Candidates Tournament 2022&#xA0;with little expectations. Playing the qualification cycle after heavy defeat in the previous World Championship and participating in an equal and unpredictable field was not a dream scenario for him. Yet, Nepo performed superbly,&#xA0;winning the Candidates tournament with a round to spare&#xA0;and bathing in the crowd&#x2019;s love&#xA0;receiving a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-naroditsky-how-ian-nepomniachtchi-won-the-2022-candidates/",
+         "pubDate" : "Fri, 29 Jul 2022 12:41:43 +0000",
+         "title" : "GM Naroditsky: how Ian Nepomniachtchi Won the 2022 Candidates"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 kicks of a grand style .Find the live links for your ready reference &#160; Open:https://chessolympiad.fide.com/live-games-open/ Women:https://chessolympiad.fide.com/women-live-games/ &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-links-for-44th-chess-olympiad-2022/",
+         "pubDate" : "Fri, 29 Jul 2022 12:37:02 +0000",
+         "title" : "Live Links for 44th Chess Olympiad 2022"
+      },
+      {
          "description" : "On Thursday afternoon, the 44th Chess Olympiad opened in Chennai with a magnificent and colourful ceremony. Indian Prime Minister Narendra Modi, the guest of honour, formulated the motto of the event: \"There are no losers, only winners and future winners.\" | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/narendra-modi-there-are-no-losers-only-winners-and-future-winners",
          "pubDate" : "Fri, 29 Jul 2022 12:52:41 +0100",
          "title" : "Narendra Modi: \"There are no losers: only winners and future winners\""
+      },
+      {
+         "description" : "Only hours after the arrival of the Pakistani chess delegation in Chennai for the 44th Chess Olympiad 2022, the Pakistan External Affairs Ministry in Islamabad announced the Pakistani teams will not participate in the 2022 Chess Olympiad. The explanation to pull out the team from the Olympiad referred to the torch relay passing through Jammu []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pakistan-boycotts-chennai-chess-olympiad-2022-due-to-political-reasons/",
+         "pubDate" : "Fri, 29 Jul 2022 11:51:02 +0000",
+         "title" : "Pakistan boycotts Chennai Chess Olympiad 2022 due to political reasons"
+      },
+      {
+         "description" : "The official pen, scoresheet and scoreboard of the Chess Olympiad 2022 were presented by FIDE. Chess Olympiad 2022 &#124; Women&#x2019;s section games LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section games LIVE Team pairings round 1&#xA0;/&#xA0;Board pairings round 1 (open section)&#xA0;/&#xA0;Board pairings round 1 (women section) Read all:&#xA0;Chess Olympiad 2022 news here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/official-pen-and-scoresheet-of-the-chess-olympiad-2022/",
+         "pubDate" : "Fri, 29 Jul 2022 11:37:03 +0000",
+         "title" : "Official pen and scoresheet of the Chess Olympiad 2022"
       },
       {
          "description" : "",
@@ -42,6 +114,14 @@ news_feed (
          "title" : "2022 Chess Olympiad has started"
       },
       {
+         "description" : "This is the 44th Chess Olympiad 2022 live video in collaboration with Chessbase India and commentators IM Sagar Shah and BM Samay Raina one of India's best known stand-up comedians who is also a chess lover. Top board pairings R1:&#xA0;India vs Zimbabwe,&#xA0;Angola vs USA,&#xA0;Lebanon vs Norway, Women&#x2019;s section top board encounters:&#xA0;Tajikistan vs India,&#xA0;Ukraine vs []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-r1-live-with-im-sagar-shah-and-bm-samay-raina-indias-stand-up-comedian/",
+         "pubDate" : "Fri, 29 Jul 2022 10:00:00 +0000",
+         "title" : "44th Chess Olympiad 2022 R1 live with IM Sagar Shah and BM Samay Raina - India's stand-up comedian"
+      },
+      {
          "description" : "Magnus Carlsen has arrived in Chennai for the Chess Olympiad. In the city that he so dearly remembers from the World Chess Championship match, Carlsen was met like a hero. Magnus will sit out round 1, giving the top board to Aryan Tari. Chess Olympiad 2022 &#124; Women&#x2019;s section games LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,14 +154,6 @@ news_feed (
          "title" : "Chess Olympiad LIVE - with GM Svidler and GM Leko"
       },
       {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 1 / Board pairings round 1 (open section) / Board pairings round 1 (women section) Read all: Chess Olympiad 2022 news here Bo. 2 India (IND ) Rtg 94 Zimbabwe (ZIM ) Rtg 1/1 GM&#160; Vidit, Santosh Gujrathi []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-board-pairings/",
-         "pubDate" : "Fri, 29 Jul 2022 07:19:33 +0000",
-         "title" : "Chess Olympiad 2022 - board pairings (open section)"
-      },
-      {
          "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad pairings (selected): Angola v USA, India v Zimbabwe, Lebanon v Norway, Spain v Wales, England v Cyprus. Women: Tajikistan v India, Ukraine v South Africa, Iraq v Georgia, Libya v England. For full pairings, view <a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art=2&amp;rd=1&amp;flag=",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -90,20 +162,12 @@ news_feed (
          "title" : "Chess: Magnus Carlsen in Olympiad action as world No 1 targets record rating"
       },
       {
-         "description" : " Praggnanandhaa Rameshbabu and Dommaraju Gukesh receive the Olympiad Relay Torch from President Narendra Modi to be lit to commence the opening of the Olympiad. The distinguished platform looks on. All Photos by Lennart Ootes At the Opening Ceremonies of the 2022 Chess Olympiad, the biennial event has officially begun. After only four months of preparation, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/\">2022 Chess Olympiad: Opening Ceremonies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " At the Opening Ceremonies of the 2022 Chess Olympiad, the biennial event has officially begun. After only four months of preparation, India has shown the world the possibilities and capabilities of the chess world. They also showed that chess holds the passion of many countries and it does not belong to any region. It belongs The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/\">2022 Chess Olympiad: Opening Ceremonies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/",
          "pubDate" : "Fri, 29 Jul 2022 05:36:29 +0000",
          "title" : "2022 Chess Olympiad: Opening Ceremonies"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 1 / Board pairings round 1 (open section) / Board pairings round 1 (women section) Read all: Chess Olympiad 2022 news here Bo. 80 Tajikistan (TJK ) Rtg 1 India (IND ) Rtg 1/1 WFM Antonova, Nadezhda (w) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-board-pairings-women-section/",
-         "pubDate" : "Fri, 29 Jul 2022 05:21:00 +0000",
-         "title" : "Chess Olympiad 2022 - board pairings (women section)"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
@@ -146,14 +210,6 @@ news_feed (
          "title" : "Don't Repeat Chess Mistakes Again! | Prepare Like A Pro - WGM Thalia Cervantes | lichess.org"
       },
       {
-         "description" : "The 44th Chess Olympiad 2022 kicks off tomorrow in Chennai, India. More than 1700 players will take part in the event, with 248 grandmasters, 157 international masters, 54 women grandmasters, 99 women international masters, and many young chess talents in the field. The youngest participant of the 2022 Chess Olympiad is 8-year-old Randa Seder who []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meet-the-youngest-participant-of-the-2022-chess-olympiad-randa-seder-tweetoftheday/",
-         "pubDate" : "Thu, 28 Jul 2022 20:25:59 +0000",
-         "title" : "Meet the youngest participant of the 2022 Chess Olympiad- Randa Seder #TweetOftheDay"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -178,36 +234,12 @@ news_feed (
          "title" : "Move by move - (how to) get into a master's mind!"
       },
       {
-         "description" : "Everything is set for the start of the 44th Chess Olympiad 2022 in Chennai, India. The event was officially opened today at the glorious ceremony and the first round starts Friday, 15:00 (GMT+5:30). During the Opening ceremony of the event, the drawing of lots determined the first board colours of each team. The top seeds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-r1-pairings/",
-         "pubDate" : "Thu, 28 Jul 2022 18:57:31 +0000",
-         "title" : "44th Chess Olympiad 2022 - R1 Pairings"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Mind Sports Olympiad</strong> will take place again in presence with a <a href=\"https://mindsportsolympiad.com/2022-schedule/\">shortened nine-day-schedule</a> on 21-29 August in London and <strong>ASICS</strong> as the new sponsor. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/mind-sport-olympiad-returns-to/",
          "pubDate" : "Thu, 28 Jul 2022 19:53:00 +0100",
          "title" : "Mind Sport Olympiad returns to London"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022&#xA0;takes place from July 28th to August 10th in Chennai, Tamil Nadu, India. The hosting country of the event was changed twice before India took the role of the Olympiad host for the first time ever.&#xA0;(the developing story can be found here) The event is played in Open and Women&#x2019;s sections, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-womens-section-live/",
-         "pubDate" : "Thu, 28 Jul 2022 18:24:53 +0000",
-         "title" : "Chess Olympiad 2022 | Women's section LIVE"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022&#xA0;takes place from July 28th to August 10th in Chennai, Tamil Nadu, India. The hosting country of the event was changed twice before India took the role of the Olympiad host for the first time ever.&#xA0;(the developing story can be found here) The event is played in Open and Women&#x2019;s sections, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-open-section-live/",
-         "pubDate" : "Thu, 28 Jul 2022 18:24:30 +0000",
-         "title" : "Chess Olympiad 2022 | Open section LIVE"
       },
       {
          "description" : "This week Robert Ris takes a look at a sharp line of the Najdorf Sicilian with 6.Bg5 and discusses a game that helped 14-year-old Adrian de Winter to win the Amsterdam Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -240,14 +272,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-a-women-to-play-with-black-pieces-in-1st-round/articleshow/93194407.cms",
          "pubDate" : "Thu, 28 Jul 2022 16:32:27 +0000",
          "title" : "Chess Olympiad: India A women to play with black pieces in 1st round"
-      },
-      {
-         "description" : "The 1st International tournament of Thessaloniki will be held from 3rd to 10th August in the Porto Palace Hotel &#38; Conference Center. The event will be played in three rating groups: Open A (for players rated 1900+), Open B (for players rated 1200-1899) and Open C (for players rated U1200). The total prize fund of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-international-tournament-of-thessaloniki-2022/",
-         "pubDate" : "Thu, 28 Jul 2022 15:48:32 +0000",
-         "title" : "1st International Tournament of Thessaloniki 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93193449.cms\" />The prevailing cross-border tension ended Pakistan chess team's campaign even before it started as the players are due to return on Thursday night after a last-minute pull out from the 44th Olympiad. Pakistan withdrew from the prestigious event, citing the torch relay of the event passing through Jammu and Kashmir, which neighbouring country views as a disputed area.",
@@ -320,6 +344,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1882",
          "pubDate" : "Thu, 28 Jul 2022 07:33:37 +0000",
          "title" : "Valentina Gunina trounces Tan Zhongyi to advance into semis"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Thu, 28 Jul 2022 06:29:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93178989.cms\" />It's going to be baptism by fire for the Bhutan side at the Chess Olympiad in Chennai from July 28 to August 10 as 10 members of this small mountain country will be playing their first-ever over the board Fide-rated tournament.",
@@ -600,14 +632,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-b-team-capable-of-podium-finish-in-chess-olympiad-coach-ramesh/articleshow/93138009.cms",
          "pubDate" : "Tue, 26 Jul 2022 11:41:29 +0000",
          "title" : "India 'B' team capable of podium finish in Chess Olympiad: Coach Ramesh"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Tue, 26 Jul 2022 11:29:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "At the European Youth Rapid and Blitz Championships, the German players had a great performance. Tykhon Cherniaiev won two gold medals, Luisa Bashylina one gold and one silver. Ruben K&ouml;llner and Tobias K&ouml;lle also won gold, while Marius Fromm took home a silver medal. | Photos: Dorian Rogozenco",
@@ -1474,28 +1498,12 @@ news_feed (
          "title" : "Jerguš Pech&aacute;č awarded the Gligoric Trophy"
       },
       {
-         "description" : "Like any complicated trade or skill, the growth and legacy of chess is built upon the great learned imparting their wisdom on the next generation of practitioners. To develop up-and-coming chess talents, former world champion GM Garry Kasparov, through his Kasparov Chess Foundation (KCF), has partnered with the Saint Louis Chess Club (SLCC) for the tenth year to host its Young Stars - USA program. | Photo: SLCC",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-stars-and-garry-kasparov",
-         "pubDate" : "Mon, 18 Jul 2022 19:45:00 +0100",
-         "title" : "Chess Stars and Garry Kasparov"
-      },
-      {
          "description" : "What, you may well ask, is the 'Two Plus Club'? Is this some country club for lonelyhearts, or something of that ilk? Nothing like that. By winning the Candidates tournament for the second straight time, and thus qualifying himself for a second shot at the World title, Ian Nepomniachtchi has joined a very exclusive group of repeat challengers. Let's take a look at who they are. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/nepo-joins-the-elite-two-plus-club",
          "pubDate" : "Mon, 18 Jul 2022 19:30:00 +0100",
          "title" : "Nepo joins the elite Two Plus Club"
-      },
-      {
-         "description" : "Arne and Karsten look at a number of deep pawnless endgames. The attacker usually needs an extra rook to get a sure win. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-203-arne-kaehler",
-         "pubDate" : "Mon, 18 Jul 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #203 with Arne K&auml;hler: The last pawn"
       },
       {
          "description" : " The details of the 2022 Asian Youth Championship have been announced, and is what will surely be a popular venue for Australian players, Bali is the host. It runs from the 13th - 22nd October and has sections for U18,16,14,12,10, and U8 (Open and Girls). As with all continental junior events, there are FIDE titles on offer for the winners and place getters, as well as medals. Given the cost of airfares between Australia and Bali, this may be one Asian event where a large number of Australian players take part. Further details can be found at the event website <a data-saferedirecturl=\"https://www.google.com/url?q=https://asianyouth2022bali.com/&amp;source=gmail&amp;ust=1658227594551000&amp;u",
@@ -2018,14 +2026,6 @@ news_feed (
          "title" : "Two FIDE Trainers Seminars in conjunction with 44th Chess Olympiad announced"
       },
       {
-         "description" : "Finally, MPL 32nd National Under 17 OPEN &#38; GIRLS Chess Championship 2022 concluded with Valedictory ceremony-cum-Prize Distribution, at 04:30 P.M. on 09 July 2022 at International Chess Hall,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-32nd-national-under-17-open-girls-chess-championships-2022report/",
-         "pubDate" : "Sat, 09 Jul 2022 13:09:18 +0000",
-         "title" : "MPL 32nd National Under 17 OPEN & GIRLS Chess Championships 2022:Report"
-      },
-      {
          "description" : "In pre-pandemic times, which now seems almost to be in the Cretaceous Period, I speculated in the British Chess Magazine on the impact of two of those outstanding personalities in the universe of chess who made their mark by teaching, as much as by playing. This week I expand my thoughts on those two chess []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1853",
          "pubDate" : "Fri, 08 Jul 2022 21:01:24 +0000",
          "title" : "Harika Dronavalli and Tan Zhongyi progress into quarterfinals"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png\" data-image-dimensions=\"182x183\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62c822b10e046d110b05f667\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/59fe9554-b036-4495-9dd2-27446e28635d/PWC.png?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.chessable.com/play-winning-chess/course/89222/\">via Chessable </a> </figcaption> </figure> <figure class=\" sqs-block-image-f",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/8/book-recap-27-gm-yasser-seirawans-play-winning-chess",
-         "pubDate" : "Fri, 08 Jul 2022 12:33:47 +0000",
-         "title" : "Book Recap #27 - GM Yasser Seirawan's Play Winning Chess"
       }
    ]
 }
