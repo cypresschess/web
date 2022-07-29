@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Praggnanandhaa Rameshbabu and Dommaraju Gukesh receive the Olympiad Relay Torch to be lit to commence the opening of the Olympiad. President Narendra Modi and the distinguished platform look on. All Photos by Lennart Ootes At the Opening Ceremonies of the 2022 Chess Olympiad, the biennial event has officially begun. After only four months of preparation, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/\">2022 Chess Olympiad: Opening Ceremonies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/",
+         "pubDate" : "Fri, 29 Jul 2022 05:36:29 +0000",
+         "title" : "2022 Chess Olympiad: Opening Ceremonies"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1824,14 +1832,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/",
          "pubDate" : "Tue, 12 Jul 2022 17:15:20 +0000",
          "title" : "Need sure points? QGA, Bogoljubow Variation Edition"
-      },
-      {
-         "description" : " Tanitoluwa AdewumiPhoto by Renaissance Knights Chess Foundation In late April, Tanitoluwa Adewumi earned his first IM norm and yesterday he earned a second. Tani earned the norm at the New York Summer Invitational where topped the field with 7/9 edging out Nakada Akira who finished with 6.5. Now the top-rated 11-year old, he only needs The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/12/tani-adewumi-gets-second-im-norm/\">Tani Adewumi gets second IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/12/tani-adewumi-gets-second-im-norm/",
-         "pubDate" : "Tue, 12 Jul 2022 15:26:35 +0000",
-         "title" : "Tani Adewumi gets second IM norm!"
       },
       {
          "description" : "",
