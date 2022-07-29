@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93199577.cms\" />It was in 2013 that home boy Viswanathan Anand lost the World Championship title at India's chess capital, Chennai. Nine years have gone by and top-flight chess is back in Tamil Nadu with the 44th Olympiad starting at Mamallapuram, a sea town 60 km from Chennai, on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-time-to-play-the-right-moves/articleshow/93199577.cms",
+         "pubDate" : "Fri, 29 Jul 2022 02:49:12 +0000",
+         "title" : "Chess Olympiad: Time to play the right moves"
+      },
+      {
+         "description" : "The 44th FIDE Chess Olympiad was inaugurated on July 28 at the Nehru Indoor Stadium in Chennai with fanfare, in the presence of Narendra Modi, the prime minister of India, and M.K. Stalin, the chief minister of the state of Tamilnadu, the main ini...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-inauguration",
+         "pubDate" : "Thu, 28 Jul 2022 18:07:48 -0700",
+         "title" : "44th FIDE Chess Olympiad Inaugurated In Chennai, India"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93196763.cms\" />Pakistan raised the Kashmir spectre to pull out of the 44th Chess Olympiad in Mamallapuram on the eve of the event, citing India's torch relay passing through Kashmir on June 21. ​​The 13-member Pakistani contingent had already checked into the team hotel in Mamallapuram when they were informed they would not be taking part.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/citing-kashmir-pakistan-pulls-out-on-chess-olympiad-eve/articleshow/93196763.cms",
+         "pubDate" : "Thu, 28 Jul 2022 21:22:45 +0000",
+         "title" : "Citing Kashmir, Pakistan pulls out on Chess Olympiad eve"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. 2022.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "Chess Olympiad 2022 | Open section LIVE"
       },
       {
-         "description" : "This week Robert Ris takes a look at a sharp line of the Najdorf Sicilian with 6.Bg5 and discusses a game that helped 14-year old Adrian de Winter to win the Amsterdam Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "This week Robert Ris takes a look at a sharp line of the Najdorf Sicilian with 6.Bg5 and discusses a game that helped 14-year-old Adrian de Winter to win the Amsterdam Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-najdorf-sicilian-with-6-bg5",
@@ -1050,14 +1074,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Carlsen Sicilian"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93037092.cms\" />When New Delhi Grandmaster Sahaj Grover visited South Africa for the Commonwealth chess tournament in 2013 --- little did he know that the country would become his second home in the coming years. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/delhi-gm-sahaj-grover-fuels-south-africas-chess-olympiad-dreams/articleshow/93037092.cms",
-         "pubDate" : "Thu, 21 Jul 2022 17:21:09 +0000",
-         "title" : "Delhi GM Sahaj fuels South Africa's Chess Olympiad dreams"
-      },
-      {
          "description" : "GMs Aram Hakobyan and Mahammad Muradli were the winners of the fifth and sixth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; Hakobyan and Muradli advance to the main event along with GMs Hrant Melkumyan and Sam Sevian, victors of th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1200,14 +1216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r3",
          "pubDate" : "Wed, 20 Jul 2022 12:50:00 +0100",
          "title" : "NC World Masters: Anand draws, Fridman scores"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93006743.cms\" />Magnus Carlsen will not defend his world championship in 2023 against Russia's Ian Nepomniachtchi as he is not motivated to play another match, the Norwegian five-time champion said in a podcast on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-will-not-defend-world-chess-title-next-year/articleshow/93006743.cms",
-         "pubDate" : "Wed, 20 Jul 2022 11:46:09 +0000",
-         "title" : "Magnus Carlsen will not defend world chess title next year"
       },
       {
          "description" : "",
@@ -1642,14 +1650,6 @@ news_feed (
          "title" : "Creating studies from games (2)"
       },
       {
-         "description" : "In the weeks before the FIDE presidential elections on August 7, official candidate GM Andrii Baryshpolets and his intended Deputy President GM Peter Heine Nielsen are fighting an uphill battle. Campaigning with limited resources, the duo advocate...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/baryshpolets-nielsen-interview-fide-presidential-elections",
-         "pubDate" : "Fri, 15 Jul 2022 17:35:00 -0700",
-         "title" : "Fighting Russian Influence, Baryshpolets, Nielsen Aim To Topple Dvorkovich"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-six/",
          "pubDate" : "Fri, 08 Jul 2022 07:13:50 +0000",
          "title" : "A Foundation for Beginners Sixty Six"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1851",
-         "pubDate" : "Fri, 08 Jul 2022 00:19:53 +0000",
-         "title" : "Poland wins IX IBCA World Team Chess Championship"
       }
    ]
 }
