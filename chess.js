@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Chess Olympiad kicked off today in Chennai, India. All the favorites won their matches of the first round, including the third seed Norway. GM Jon Ludvig Hammer played the second board for the Norwegian team, as the reigning World Chess Champion Magnus Carlsen wasn't in the Round 1 teams' composition. Norway played against []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-gm-jon-ludvig-hammer-chess-olympiad-2022-r1/",
+         "pubDate" : "Fri, 29 Jul 2022 22:02:57 +0000",
+         "title" : "Interview with GM Jon Ludvig Hammer - Chess Olympiad 2022 R1"
+      },
+      {
+         "description" : "GMs Eduardo Iturrizaga and Hans Niemann were the winners of the eleventh and twelfth Play-ins of the Chess.com Global Championship. GMs Kirill Alekseenko and Martyn Kravtsiv each won second place respectively, joining the winners in advancing to t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-3-day-2",
+         "pubDate" : "Fri, 29 Jul 2022 14:13:00 -0700",
+         "title" : "7-0 Winning Streak and Armageddon: Iturrizaga and Niemann Win"
+      },
+      {
+         "description" : "The much-anticipated Olympiad finally kicked off in Chennai. Lopsided matches were once again the rule in the first round of the massive event. Nonetheless, a couple of strong grandmasters escaped with draws from losing positions, as their opponents were happy to split the points when given the chance. Indian fans could not have asked for a better start, as all six Indian teams scored 4-0 victories on opening day! | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r1",
+         "pubDate" : "Fri, 29 Jul 2022 22:00:00 +0100",
+         "title" : "Chennai R1: 24 out of 24 for Indian teams"
+      },
+      {
+         "description" : "Five-time World Champion and Indian chess superstar&#xA0;Vishy Anand&#xA0;opened the first round of the 44th Chess Olympiad at 3 pm sharp this afternoon in the main hall of the Four Points by Sheraton Mahabalipuram Resort &#38; Convention Center.&#xA0;Anand played the first move for GM&#xA0;Anna Muzychuk&#xA0;on board one of the Ukraine-South Africa match in the women's section, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-r1-report-146-teams-scoring-perfect-4-4/",
+         "pubDate" : "Fri, 29 Jul 2022 20:57:07 +0000",
+         "title" : "Chess Olympiad 2022 R1 report - 146 teams scoring perfect 4/4"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1888",
+         "pubDate" : "Fri, 29 Jul 2022 20:51:44 +0000",
+         "title" : "No surprises at 44th Women's Chess Olympiad, as top teams have an easy ride"
+      },
+      {
+         "description" : "Levon Aronian's team debut for the USA almost got off to a disastrous start, but a well-timed draw offer saw him escape against IM David Silva of Angola. The USA won 3.5:0.5, while the most popular score of the day was 4:0, which is the score by which all six Indian teams won their opening matches.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-1-aronian-stumbles-as-favourites-win",
+         "pubDate" : "Fri, 29 Jul 2022 20:40:49 +0000",
+         "title" : "Chennai Olympiad 1: Aronian stumbles as favourites win"
+      },
+      {
+         "description" : "Chess.com is proud to announce the return of Arena Kings starting on August 3 at 9 a.m. PT/17:00 CET! Arena Kings is shifting back to its roots: An event by chess streamers for chess streamers. It is for this reason that the event now features a w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-arena-kings-format",
+         "pubDate" : "Fri, 29 Jul 2022 12:31:00 -0700",
+         "title" : "Announcing Arena Kings With New Weekly Format"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +80,22 @@ news_feed (
          "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-2-pairings/",
          "pubDate" : "Fri, 29 Jul 2022 18:34:58 +0000",
          "title" : "44th Chess Olympiad 2022 - Round 2 pairings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1885",
+         "pubDate" : "Fri, 29 Jul 2022 18:09:52 +0000",
+         "title" : "FIDE, AICF, & Tech Mahindra Unveil Fan Nxt.Now App at the 44th Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Fri, 29 Jul 2022 17:29:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
@@ -56,14 +128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-teams-off-to-winning-starts/articleshow/93218305.cms",
          "pubDate" : "Fri, 29 Jul 2022 15:42:31 +0000",
          "title" : "Chess Olympiad: Indian teams off to winning starts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1885",
-         "pubDate" : "Fri, 29 Jul 2022 15:09:52 +0000",
-         "title" : "FIDE, AICF, & Tech Mahindra Unveil Fan Nxt.Now App at the 44th Chess Olympiad"
       },
       {
          "description" : "Levon Aronian debuts for the USA National team at the 44th Chess Olympiad in Chennai, India. The USA Team met lower-rated Angola in the first round and Levon was playing the first board against IM David Silva (2315). The game didn't start well for Aronian, and he faced serious trouble after 25Nf6?! Having a clear []",
@@ -141,14 +205,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Fri, 29 Jul 2022 11:29:55 +0000",
-         "title" : "FIDE Congress 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1884",
          "pubDate" : "Fri, 29 Jul 2022 10:42:57 +0000",
          "title" : "Hou Yifan eliminates Kosteniuk to reach semifinals"
@@ -178,14 +234,6 @@ news_feed (
          "title" : "2022 Chess Olympiad has started"
       },
       {
-         "description" : "This is the 44th Chess Olympiad 2022 live video in collaboration with Chessbase India and commentators IM Sagar Shah and BM Samay Raina one of India's best known stand-up comedians who is also a chess lover. Top board pairings R1:&#xA0;India vs Zimbabwe,&#xA0;Angola vs USA,&#xA0;Lebanon vs Norway, Women&#x2019;s section top board encounters:&#xA0;Tajikistan vs India,&#xA0;Ukraine vs []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-r1-live-with-im-sagar-shah-and-bm-samay-raina-indias-stand-up-comedian/",
-         "pubDate" : "Fri, 29 Jul 2022 10:00:00 +0000",
-         "title" : "44th Chess Olympiad 2022 R1 live with IM Sagar Shah and BM Samay Raina - India's stand-up comedian"
-      },
-      {
          "description" : "England have received a warm welcome in Chennai where the 44th FIDE Chess Olympiad has just started. You can find more information at https://chessolympiad.fide.com/",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -202,7 +250,7 @@ news_feed (
          "title" : "Enter the inner sanctum of elite chess"
       },
       {
-         "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad results (selected): India 4-0 Zimbabwe, Angola 0.5-3.5 US, Lebanon 0.5-3.5 Norway, Spain 4-0 Weles, England 4-0 Cyprus. Women: Tajikistan 0-4 India, Ukraine 4-0 South Africa, Iraq 0-4 Georgia, Libya 0-4 England. For full results, see<a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art",
+         "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad results (selected): India 4-0 Zimbabwe, Angola 0.5-3.5 US, Lebanon 0.5-3.5 Norway, Spain 4-0 Wales, England 4-0 Cyprus. Women: Tajikistan 0-4 India, Ukraine 4-0 South Africa, Iraq 0-4 Georgia, Libya 0-4 England. For full results, see<a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/jul/29/chess-magnus-carlsen-in-olympiad-action-as-world-no-1-targets-record-rating",
@@ -1490,14 +1538,6 @@ news_feed (
          "title" : "Yu, Shabalov and Yoo win US national championships"
       },
       {
-         "description" : "After Vladimir Kramnik had to pull out at short notice due to health reasons, the official opening move of the No-Castling World Masters of the 49th International Dortmund Chess Days took place on the board of Michael Adams and Daniel Fridman. Adams beat Fridman to grab the early lead. | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r2",
-         "pubDate" : "Tue, 19 Jul 2022 09:40:00 +0100",
-         "title" : "NC World Masters: Adams strikes first"
-      },
-      {
          "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 sections. The Closing&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/poland-wins-three-gold-medals-at-european-youth-team-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1672,22 +1712,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-final-1-levon-takes-the-lead",
          "pubDate" : "Sun, 17 Jul 2022 08:36:31 +0000",
          "title" : "FTX Road to Miami Final 1: Levon takes the lead!"
-      },
-      {
-         "description" : "GM Levon Aronian leads the final of the FTX Road to Miami tournament after the first of two days. GM Wei Yi had winning positions in both the second and third games, but had to settle for draws and then lost the fourth game. How to watch? The ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-road-to-miami-2022-final-day-1",
-         "pubDate" : "Sat, 16 Jul 2022 14:51:00 -0700",
-         "title" : "Aronian Leads Final After Miraculous Escape"
-      },
-      {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Sam Sevian won week 21 of the Rapid Chess Championship presented by Coinbase, starting the tournament with a 3-0 winning streak. Participating i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-21-swiss",
-         "pubDate" : "Sat, 16 Jul 2022 13:23:57 -0700",
-         "title" : "Sevian Wins Week 21 Swiss Heading Into Knockout: Summary Report"
       },
       {
          "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
@@ -1874,14 +1898,6 @@ news_feed (
          "title" : "Direct Members Reps Elections 2022"
       },
       {
-         "description" : "Levon Aronian and Anish Giri share the final two qualification spots going into the last day of the FTX Road to Miami Prelims, just two points clear of Wei Yi. Up top Sam Sevian remains the sole leader, though second placed Arjun Erigaisi top scored for the day after beating Shakhriyar Mamedyarov, Hans Niemann and Ju Wenjun despite losing a wild first game to Jan-Krzysztof Duda. The Polish no. 1 is, like Sam, unbeaten, and has already wrapped up qualification to the knockout.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-3-aronian-giri-in-danger-as-erigaisi-top-scores",
-         "pubDate" : "Wed, 13 Jul 2022 09:56:54 +0000",
-         "title" : "FTX Road to Miami 3: Aronian & Giri in danger"
-      },
-      {
          "description" : "MPL 51st National Junior (Under-19) Open and 36th National Junior (Under-19) Girls Chess Championship is being held at PYC Hindu Gymkhana, in the heart of Pune",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/the-guardian-fide-needs-carlsen-more-than-carlsen-needs-fide/",
          "pubDate" : "Sat, 09 Jul 2022 09:26:23 +0000",
          "title" : "The Guardian: \"FIDE needs Carlsen more than Carlsen needs FIDE\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1853",
-         "pubDate" : "Fri, 08 Jul 2022 21:01:24 +0000",
-         "title" : "Harika Dronavalli and Tan Zhongyi progress into quarterfinals"
       }
    ]
 }
