@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2022-07-29","8","<a href=http://www.uschess.org/msa/XtblMain.php?202207296342 target='_blank'>FBCC 2022 DROUGHTLESS OPEN</a>",
 "HOUSTON","2022-07-05  - 07-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207265232 target='_blank'>JULY TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2022-07-11  - 07-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202207252532 target='_blank'>CLCC JULY MONDAYS</a>",
 "HOUSTON","2022-07-22  - 07-24","302","<a href=http://www.uschess.org/msa/XtblMain.php?202207244722 target='_blank'>2022 HOUSTON CHESS FESTIVAL</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2021-09-17","18","<a href=http://www.uschess.org/msa/XtblMain.php?202109171952 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-09-11  - 09-12","43","<a href=http://www.uschess.org/msa/XtblMain.php?202109120502 target='_blank'>HOUSTON $1,000 SHOOT OUT</a>",
 "HOUSTON","2021-09-11","82","<a href=http://www.uschess.org/msa/XtblMain.php?202109119692 target='_blank'>KIPP SPIRIT MIDDLE SCHOOL SCHOLASTI</a>",
-"CYPRESS","2021-09-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202109109122 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
