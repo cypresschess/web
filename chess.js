@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black has just invited 18.Qxf5, but his way to victory after the game continuation 18.Qd2 is also worthy of a brilliancy prize - have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-king-in-the-centre-2",
+         "pubDate" : "Sat, 30 Jul 2022 09:00:00 +0100",
+         "title" : "The king in the centre"
+      },
+      {
+         "description" : "The best days in the coming week to contact the office by telephone will be Tuesday, Thursday and Friday owing to staff leave. Email communications...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/staffing-office-1st-5th-august/",
+         "pubDate" : "Sat, 30 Jul 2022 06:48:35 +0000",
+         "title" : "Staffing/office 1st - 5th August"
+      },
+      {
+         "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Ariadna de la Riva (Andorra) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-1",
+         "pubDate" : "Sat, 30 Jul 2022 06:45:00 +0100",
+         "title" : "Endgames from Chennai (1)"
+      },
+      {
+         "description" : " LET THE GAMES BEGIN! The top board (Zimbabwe-India) was surrounded by dignitaries and a sea of photographers as they await the ceremonial move. Photos by Stev Bonhage. 2022 Chess Olympiad: Round #1 Friday, 29 July 2022 In the first round, IM David Silva of Angola was on the verge of the biggest upset in African The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/30/2022-chess-olympiad-round-1/\">2022 Chess Olympiad: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/30/2022-chess-olympiad-round-1/",
+         "pubDate" : "Sat, 30 Jul 2022 05:23:42 +0000",
+         "title" : "2022 Chess Olympiad: Round #1"
+      },
+      {
+         "description" : " Round 1 of the 2022 Chess Olympiad has been run and done, with no upset results in either tournaments. The vast majority of matches ended 4-0 to the rating favourites, although both the USA and Norway dropped half a point. No match finished closer than 3-1, with Sri Lanka drawing 2 games against Hungary being the closest thing to an upset result. PNG went down 4-0 to Zambia, although Stuart Fancy and Rupert Jones held out for quite a while. Australia scored 4-0 wins in both the Open and Women's, as did New Zealand. The other Oceania countries suffered similar fates to PNG, but hopefully round 2 will see some improved results. Pairings for round 2 are available at <a href=\"http://chess-resul",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-round-1.html",
+         "pubDate" : "Sat, 30 Jul 2022 04:03:00 +0000",
+         "title" : "2022 Chess Olympiad - Round 1"
+      },
+      {
          "description" : "India, Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany, England, India-2, Armenia, Iran, Uzbekistan, India-3, and Croatia were the top teams to score clean 4-0 victories in the first round, while the top-seeded U.S. and third-seeded Norwa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -224,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sachin-tendulkar-invites-everyone-to-follow-the-chess-olympiad-2022-tweetoftheday/",
          "pubDate" : "Fri, 29 Jul 2022 10:42:45 +0000",
          "title" : "Sachin Tendulkar invites everyone to follow the Chess Olympiad 2022 #TweetOftheDay"
-      },
-      {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. The United States team is the clear favourite in the open, while the locals from India are the top seeds in the women's event. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Fri, 29 Jul 2022 11:15:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
       },
       {
          "description" : " As I write this, the 2022 Chess Olympiad is just underway. While the Olympiad has had a history of late round 1 starts, the first moves for this one were played at 3:06 local time, a mere 6 minutes after the scheduled start. Just as impressive was the fact that only 4 teams in each section did not arrive for the first round (and were not paired). So the event has started with 182 federations, which was a number that surprised even the organisers. As for the action, a number of the top teams have rested their top boards (no sign of Carlsen as yet). The Indian team is obviously the centre of attention, being placed on Board 1 for each match, although seeded 2nd. Further down the usual suspect",
@@ -1538,14 +1570,6 @@ news_feed (
          "title" : "EP 288- GM Peter Heine Nielsen Takes us Behind the Scenes of the 2012 Anand-Gelfand World Championship match "
       },
       {
-         "description" : "The national junior and senior chess championships have concluded in Saint Louis, with 15-year-old GM Christopher Yoo taking home the 2022 U.S. Junior Championship, 20-year-old FM/WGM Jennifer Yu winning the 2022 U.S. Girls' Junior Championship, and U.S. Chess Hall-of-Famer GM Alex Shabalov beating out a field that included five other hall-of-fame inductees to become the 2022 U.S. Senior Champion. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-junior-senior-championships-2022-final-report",
-         "pubDate" : "Tue, 19 Jul 2022 13:10:00 +0100",
-         "title" : "Yu, Shabalov and Yoo win US national championships"
-      },
-      {
          "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 sections. The Closing&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/poland-wins-three-gold-medals-at-european-youth-team-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1816,14 +1840,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/from-the-fide-front-page/",
          "pubDate" : "Thu, 14 Jul 2022 15:37:10 +0000",
          "title" : "From the FIDE front page &hellip;"
-      },
-      {
-         "description" : " South African Grandmaster Kenny Solomon has collaborated with Dr. Lyndon Bouah to present his autobiography titled, My Game Plan: My Quest to Become a Chess Grandmaster. There will be a ZOOM book launch at 20:35 CET (14:35 EST). Here is his Facebook message:Hi everyone, I am pleased to announce the publication of my first chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/14/gm-kenny-solomon-launches-book/\">GM Kenny Solomon launches book!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/14/gm-kenny-solomon-launches-book/",
-         "pubDate" : "Thu, 14 Jul 2022 14:25:58 +0000",
-         "title" : "GM Kenny Solomon launches book!"
       },
       {
          "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
