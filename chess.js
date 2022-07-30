@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen today made his debut in the 2022 Chess Olympiad in Chennai. The Norwegian team faced Uruguay, and the match looked tense after three hours of play. The favorites managed to convert to a convincing 4-0 result, despite the position being quite equal after more than three hours of play. Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-victorious-in-his-first-chess-olympiad-2022-game/",
+         "pubDate" : "Sat, 30 Jul 2022 15:18:24 +0000",
+         "title" : "Magnus Carlsen victorious in his first Chess Olympiad 2022 game"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg\" data-image-dimensions=\"198x280\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62e53802c898ce7096a9d45b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU1351667861\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe> <p class=\"\">Click <a href=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/30/book-recap-28-chess-tactics-from-scratch-by-fm-martin-weteschnik-a-great-intermediate-level-tactics-guide",
+         "pubDate" : "Sat, 30 Jul 2022 14:04:08 +0000",
+         "title" : "Book Recap #28- Chess Tactics from Scratch by FM Martin Weteschnik- A Great Intermediate Level Tactics Guide"
+      },
+      {
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2&#160;/&#160;Board pairings round 2 (open section)&#160;/&#160;Board pairings round 3 (women&#x2019;s section)&#160;/&#160;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Open section Round 2 results: Bo. 48 Moldova (MDA) Rtg 2 India (IND) Rtg 0 : 0 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-2-open-section/",
+         "pubDate" : "Sat, 30 Jul 2022 13:38:45 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 2 (open section)"
+      },
+      {
+         "description" : "The Collegiate Chess League is excited to announce the 2022 summer season featuring the bullet and bughouse college championships! This summer season will span the four weeks of August and starts with the bullet championship on August 6 with the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2022-summer-season",
+         "pubDate" : "Sat, 30 Jul 2022 06:34:30 -0700",
+         "title" : "Collegiate Chess League 2022 Summer Season: Bullet and Bughouse Championships"
+      },
+      {
+         "description" : "The chess fever caused by the 44th Chess Olympiad 2022 in Chennai, India doesn't stop. The whole city is decked up in chess colors promoting the world's biggest chess competition. The event attracted a number of journalists who daily report from the tournament and the interest for the chess games is repeatedly seen upon the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/making-first-move-at-chennai-chess-olympiad-might-be-harder-than-it-sounds-tweetoftheday/",
+         "pubDate" : "Sat, 30 Jul 2022 11:46:32 +0000",
+         "title" : "Making first move at Chennai Chess Olympiad might be harder than it sounds #TweetOftheDay"
+      },
+      {
          "description" : "One of the first games to be finished today in the Women's Chess Olympiad Round 2 was played between Swedish chess legend GM Pia Cramling and WIM Knarik Mouradian (Lebanon). Pia won the game having Black pieces after only nine moves of play as Mouradian terribly blundered a piece with 9.f3 and resigned immediately after. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,20 +122,20 @@ news_feed (
          "title" : "Maccabiah Games: New medals in the old city"
       },
       {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2&#xA0;/&#xA0;Board pairings round 2 (open section) Read all:&#xA0;Chess Olympiad 2022 news here Bo. 1 India (IND) Rtg 40 Argentina (ARG) Rtg 0 : 0 1/1 GM&#xA0; Koneru, Humpy (w) 2586 WIM Zuriel, Marisa (b) 2174 &#xA0;&#xA0;&#xA0;&#xA0;&#xA0; 1/2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-2-board-pairings-womens-section/",
-         "pubDate" : "Sat, 30 Jul 2022 08:26:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 2 board pairings (women's section)"
-      },
-      {
          "description" : "In the diagram position Black has just invited 18.Qxf5, but his way to victory after the game continuation 18.Qd2 is also worthy of a brilliancy prize - have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-king-in-the-centre-2",
          "pubDate" : "Sat, 30 Jul 2022 09:00:00 +0100",
          "title" : "The king in the centre"
+      },
+      {
+         "description" : "India, Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany, England, India-2, Armenia, Iran, Uzbekistan, India-3, and Croatia were the top teams to score clean 4-0 victories in the first round, while the top-seeded U.S. and third-seeded Norwa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-1",
+         "pubDate" : "Fri, 29 Jul 2022 23:56:00 -0700",
+         "title" : "Nearly Smooth Sailing For Top Seeds In Day Of Zugzwangs"
       },
       {
          "description" : "The best days in the coming week to contact the office by telephone will be Tuesday, Thursday and Friday owing to staff leave. Email communications...",
@@ -130,22 +170,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Round 1"
       },
       {
-         "description" : "India, Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany, England, India-2, Armenia, Iran, Uzbekistan, India-3, and Croatia were the top teams to score clean 4-0 victories in the first round, while the top-seeded U.S. and third-seeded Norwa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-1",
-         "pubDate" : "Fri, 29 Jul 2022 17:08:00 -0700",
-         "title" : "Nearly Smooth Sailing For Top Seeds In Day Of Zugzwangs"
-      },
-      {
-         "description" : "The 2022 Chess Olympiad kicked off today in Chennai, India. All the favorites won their matches of the first round, including the third seed Norway. GM Jon Ludvig Hammer played the second board for the Norwegian team, as the reigning World Chess Champion Magnus Carlsen wasn't in the Round 1 teams' composition. Norway played against []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-gm-jon-ludvig-hammer-chess-olympiad-2022-r1/",
-         "pubDate" : "Fri, 29 Jul 2022 22:02:57 +0000",
-         "title" : "Interview with GM Jon Ludvig Hammer - Chess Olympiad 2022 R1"
-      },
-      {
          "description" : "GMs Eduardo Iturrizaga and Hans Niemann were the winners of the eleventh and twelfth Play-ins of the Chess.com Global Championship. GMs Kirill Alekseenko and Martyn Kravtsiv each won second place respectively, joining the winners in advancing to t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r1",
          "pubDate" : "Fri, 29 Jul 2022 22:00:00 +0100",
          "title" : "Chennai R1: 24 out of 24 for Indian teams"
-      },
-      {
-         "description" : "Five-time World Champion and Indian chess superstar&#xA0;Vishy Anand&#xA0;opened the first round of the 44th Chess Olympiad at 3 pm sharp this afternoon in the main hall of the Four Points by Sheraton Mahabalipuram Resort &#38; Convention Center.&#xA0;Anand played the first move for GM&#xA0;Anna Muzychuk&#xA0;on board one of the Ukraine-South Africa match in the women's section, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-r1-report-146-teams-scoring-perfect-4-4/",
-         "pubDate" : "Fri, 29 Jul 2022 20:57:07 +0000",
-         "title" : "Chess Olympiad 2022 R1 report - 146 teams scoring perfect 4/4"
       },
       {
          "description" : "",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Levon Aronian Wins FTX Road To Miami"
       },
       {
-         "description" : "GM Rodrigo Vasquez and IM Denis Lazavik were the winners of the third and fourth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; The two first-finishing players advanced to the knockout phase where they will be joined by GM Eric Hanse...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-1-day-2",
-         "pubDate" : "Sun, 17 Jul 2022 10:31:40 -0700",
-         "title" : "Vasquez and Lazavik Top Chess.com Global Play-Ins"
-      },
-      {
          "description" : " Chess Tactics for Heroes is part of a series of books providing coaching materials for anyone teaching students from, say, 500 to 1500 strength. They can also be used as course books by independent learners. As you might guess, this book is about winning pieces. There are, in very simple terms, two ways you can <a href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Tactics for Heroes Revisited\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\">Chess Tactics for Heroes Revisited</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1872,6 +1880,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-champions-2022-crowned-in-lublin-poland/",
          "pubDate" : "Thu, 14 Jul 2022 12:23:00 +0000",
          "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
+      },
+      {
+         "description" : " From the author and illustrator: In our first book, Across the Battlefield: A Pawn's Journey, we imagine what it might feel like to be a pawn in the game of chess. The rules of the game make it possible so that a mere pawn can one day become a queen, the strongest piece on the <a href=\"http://britishchessnews.com/2022/07/14/across-the-battlefield-a-pawns-journey/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Across the Battlefield: A Pawn's Journey</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/07/14/across-the-battlefield-a-pawns-journey/\">Across the Battlefield: A Pawn's Journey</a> appeared first o",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/07/14/across-the-battlefield-a-pawns-journey/",
+         "pubDate" : "Thu, 14 Jul 2022 11:17:28 +0000",
+         "title" : "Across the Battlefield: A Pawn's Journey"
       },
       {
          "description" : "",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1854",
          "pubDate" : "Sat, 09 Jul 2022 21:39:53 +0000",
          "title" : "Two FIDE Trainers Seminars in conjunction with 44th Chess Olympiad announced"
-      },
-      {
-         "description" : "In pre-pandemic times, which now seems almost to be in the Cretaceous Period, I speculated in the British Chess Magazine on the impact of two of those outstanding personalities in the universe of chess who made their mark by teaching, as much as by playing. This week I expand my thoughts on those two chess []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/praeceptor-britanniae/",
-         "pubDate" : "Sat, 09 Jul 2022 12:05:34 +0000",
-         "title" : "Praeceptor Britanniae"
       }
    ]
 }
