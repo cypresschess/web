@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Jeffery Xiong won the week 23 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 47 competitors&#38;mdash;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-23-swiss",
+         "pubDate" : "Sat, 30 Jul 2022 14:22:00 -0700",
+         "title" : "Xiong Wins Week 23 Swiss: Summary Report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1890",
+         "pubDate" : "Sat, 30 Jul 2022 20:34:55 +0000",
+         "title" : "Favourites have a field day in Round 2 of Women's Chess Olympiad"
+      },
+      {
          "description" : "From football to chess, Magnus Carlsen's got the moves.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1722,14 +1738,6 @@ news_feed (
          "title" : "IBCA World Women's and Junior Championships celebrate solidarity in the global Braille family in times of war"
       },
       {
-         "description" : "GM Levon Aronian won the FTX Road to Miami tournament on Sunday after a convincing second match victory vs. GM Wei Yi. The American-Armenian grandmaster won both of his games with the black pieces. How to review? The games of the FTX Road to Mia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/levon-aronian-wins-2022-ftx-road-to-miami",
-         "pubDate" : "Sun, 17 Jul 2022 14:18:00 -0700",
-         "title" : "Levon Aronian Wins FTX Road To Miami"
-      },
-      {
          "description" : " Chess Tactics for Heroes is part of a series of books providing coaching materials for anyone teaching students from, say, 500 to 1500 strength. They can also be used as course books by independent learners. As you might guess, this book is about winning pieces. There are, in very simple terms, two ways you can <a href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Tactics for Heroes Revisited\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\">Chess Tactics for Heroes Revisited</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-1500/",
          "pubDate" : "Sun, 10 Jul 2022 10:30:51 +0000",
          "title" : "Chess 1500"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1854",
-         "pubDate" : "Sat, 09 Jul 2022 21:39:53 +0000",
-         "title" : "Two FIDE Trainers Seminars in conjunction with 44th Chess Olympiad announced"
       }
    ]
 }
