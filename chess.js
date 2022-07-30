@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From football to chess, Magnus Carlsen's got the moves.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34317612/chess-olympiad-2022-magic-magnus-carlsen-king-chennai?device=featurephone",
+         "pubDate" : "Sat, 30 Jul 2022 13:11:19 -0500",
+         "title" : "The magic of Magnus: At the Chess Olympiad, everything and everyone stops for the king"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1889",
+         "pubDate" : "Sat, 30 Jul 2022 17:38:38 +0000",
+         "title" : "Magnus Carlsen wins on his debut"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93241001.cms\" />Randa Seder, an eight-year girl from Palestine can't be missed in the sea of participants at the ongoing Chess Olympiad. With photo requests from players and spectators the moment she arrived for her game on Saturday, Randa already feels like a celebrity. \"Yes, I like it,\" said Randa, the youngest player in the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-girl-from-palestine-the-darling-of-olympiad/articleshow/93241001.cms",
+         "pubDate" : "Sat, 30 Jul 2022 17:34:42 +0000",
+         "title" : "8-year-old girl from Palestine, the darling of Chess Olympiad"
+      },
+      {
+         "description" : "The term \"malyutka\" - \"baby\" - is used for endgame studies with up to five pieces. The art of such studies is very old, but some modern composers extensively researched such positions. Obviously, endgame tablebases made composing such endgame studies easier in the late 20th century, and it seems that there can't be much variety with only three pieces apart from the kings. Yet, even with so few pieces, some interesting ideas can be found.| Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-up-to-five-pieces-allowed",
+         "pubDate" : "Sat, 30 Jul 2022 18:00:00 +0100",
+         "title" : "Study of the Month - Up to five pieces allowed"
+      },
+      {
+         "description" : "The third round of the 44th Chess Olympiad 2022 is scheduled for Sunday, 31st of July, starting from 15:00 (GMT+5:30). Team pairings of both sections can be found below. Results &#x2013; Chess Olympiad 2022 round 2 (women&#x2019;s section) / Results &#x2013; Chess Olympiad 2022 round 2 (open section) Results Round 2 (open section)&#xA0;/&#xA0;Results Round 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-3-pairings/",
+         "pubDate" : "Sat, 30 Jul 2022 16:22:35 +0000",
+         "title" : "44th Chess Olympiad 2022 - Round 3 pairings"
+      },
+      {
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2&#xA0;/&#xA0;Board pairings round 2 (open section)&#xA0;/&#xA0;Board pairings round 3 (women&#x2019;s section)&#xA0;/&#xA0;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Round 2 board results (women's section): Bo. 1 India (IND) Rtg 40 Argentina (ARG) Rtg 3&#xBD;: &#xBD;1/1 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-2-womens-section/",
+         "pubDate" : "Sat, 30 Jul 2022 16:17:11 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 2 (women's section)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93239581.cms\" />The India 'B' team blanked Estonia 4-0 in the second round of the Open section in the 44th Chess Olympiad here on Saturday. Second-seeded India 'A' team defeated Moldova 3.5-0.5 for its second straight win. World champion Magnus Carlsen, who had missed the first round, beat Georg Meier to star in third-seeded Norway's 4-0 victory over Uruguay.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-red-hot-india-b-team-thrashes-estonia-4-0/articleshow/93239581.cms",
+         "pubDate" : "Sat, 30 Jul 2022 15:26:14 +0000",
+         "title" : "Chess Olympiad: Red-hot India 'B' team thrashes Estonia 4-0"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen today made his debut in the 2022 Chess Olympiad in Chennai. The Norwegian team faced Uruguay, and the match looked tense after three hours of play. The favorites managed to convert to a convincing 4-0 result, despite the position being quite equal after more than three hours of play. Magnus []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +74,7 @@ news_feed (
          "title" : "Book Recap #28- Chess Tactics from Scratch by FM Martin Weteschnik- A Great Intermediate Level Tactics Guide"
       },
       {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2&#160;/&#160;Board pairings round 2 (open section)&#160;/&#160;Board pairings round 3 (women&#x2019;s section)&#160;/&#160;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Open section Round 2 results: Bo. 48 Moldova (MDA) Rtg 2 India (IND) Rtg 0 : 0 []",
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Results Round 2 (open section) / Results Round 2 (women's section) / Team Pairings Round 3 Team pairings round 2&#xA0;/&#xA0;Board pairings round 2 (open section)&#xA0;/&#xA0;Board pairings round 2 (women&#x2019;s section)&#xA0;/&#xA0;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Open section []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-2-open-section/",
@@ -90,28 +146,12 @@ news_feed (
          "title" : "Happy 30th birthday to Fabiano Caruana!"
       },
       {
-         "description" : "The 16th World Chess Champion Magnus Carlsen (who will not defend the World Champion title next year) arrived in Chennai enjoying the grand reception. He used Friday afternoon to play some football and rest from the trip, and also visited the town where he won the World Championship for the first time. Norway will today []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-playing-round-2-in-chennai-chess-olympiad/",
-         "pubDate" : "Sat, 30 Jul 2022 09:07:24 +0000",
-         "title" : "Magnus Carlsen playing Round 2 in Chennai Chess Olympiad"
-      },
-      {
          "description" : "With 2000 players from 187 countries, Chennai's Chess Olympiad has truly become a global event",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/34313309/chess-olympiad-2022-malta-djibouti-iraq-jordan-chennai-brings-global-family-board?device=featurephone",
          "pubDate" : "Sat, 30 Jul 2022 03:49:12 -0500",
          "title" : "From Malta, Djibouti and Iraq, Chess Olympiad brings the global family to the board"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2&#160;/&#160;Board pairings round 2 (open section)&#160;/ Board pairings round 3 (women's section) / Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Read all:&#160;Chess Olympiad 2022 news here Bo. 48 Moldova (MDA) Rtg 2 India (IND) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-2-board-pairings-open-section/",
-         "pubDate" : "Sat, 30 Jul 2022 08:45:06 +0000",
-         "title" : "Chess Olympiad 2022 - Round 2 board pairings (open section)"
       },
       {
          "description" : "The Maccabiah Games have been held every four years in Israel since 1932, with the participation of many Jewish athletes from around the world. Chess is one of the many sports featured at the games. The 21st edition was played from 13 - 22 July 2022 in Jerusalem. The atmosphere of the Maccabiah Games was palpable in the historical city, with a huge number of sportspeople from different countries speaking different languages and waiting to compete in a range of sports. | Photo: Dr. Mark Livshitz",
@@ -1034,14 +1074,6 @@ news_feed (
          "title" : "Dortmund Chess Festival: Games and standings"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93091694.cms\" />Chess fever is well and truly on in Chennai with just four days to go for the 44th Olympiad. As the countdown for the chess extravaganza continues, a test event was held on Sunday to assess the preparedness for the tournament. Also, a few thousand people took part in an Olympiad special run organised in the city today ahead of the prestigious tournament. State Ministers including Ma Subramanian, T M Anbarasan and P K Sekar Babu among others were present at the event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-preparations-on-test-tournament-held/articleshow/93091694.cms",
-         "pubDate" : "Sun, 24 Jul 2022 12:14:16 +0000",
-         "title" : "Chess Olympiad: Preparations on, test tournament held"
-      },
-      {
          "description" : " After a 4 year break, I am heading off to the Chess Olympiad in Chennai, India. It will be an early start from Canberra, and I expect to reach the hotel quite late tomorrow night. I'm heading off a few days early as I am back on the Technical Administration Panel for the tournament, which involves a lot of work before the event actually begins. Hopefully teams will have successfully navigated the visa process, and that covid won't be an issue. So probably no blogging tomorrow, but after that, I should post regular updates from the tournament <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1544,14 +1576,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2022",
          "pubDate" : "Tue, 19 Jul 2022 22:06:00 +0400",
          "title" : "SuperUnited Rapid & Blitz 2022 - Games and Results"
-      },
-      {
-         "description" : "Fifty years ago, after the disaster he suffered in game one, Bobby Fischer was on the verge of abandoning the entire event and returning home. The challenger continued his vigorous protest, and when his demands were not met, Fischer did not turn up for game two. He was forfeited and the score was 0-2. Bobby booked a flight back to New York, but practically at the very last moment decided to play game three - in an isolated ping-pong room!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bobby-fischer-in-iceland-50-years-ago-4",
-         "pubDate" : "Tue, 19 Jul 2022 19:00:00 +0100",
-         "title" : "Bobby Fischer in Iceland - 50 years ago (4)"
       },
       {
          "description" : "After the European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. The Rapid Championship will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championship-2022-starts-tomorrow/\">Read More &#187;</a></span>",
