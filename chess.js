@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the 2022 Women's Chess Olympiad brought several individual surprising results, but most of the team favorites managed to win their matches. England's women's team today won against Bolivia with the final 3-1 score, with WGM Katarzyna Toma losing to WFM Maria Eugenia Ramirez. The top board of the England's women's team []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-im-jovanka-houska-chess-olympiad-2022-r2/",
+         "pubDate" : "Sat, 30 Jul 2022 23:24:12 +0000",
+         "title" : "Interview with IM Jovanka Houska - Chess Olympiad 2022 R2"
+      },
+      {
+         "description" : "Magnus Carlsen beat Georg Meier in an 80-move grind as Norway defeated Uruguay 4:0, while top seeds USA edged a 2.5:1.5 win over Paraguay in Round 2 of the Chess Olympiad in Chennai. We got the first upsets, with 17th seeds Croatia put to the sword 3.5:0.5 by Bulgaria, while 73rd seeds Zambia shocked 27th seeds Denmark. All six Indian teams have won all their matches, with India 2 above India 1 after a perfect 8/8 start. Gukesh crossed 2700, again!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-2-magnus-grinds-out-win-as-zambia-and-bulgaria-post-upsets",
+         "pubDate" : "Sat, 30 Jul 2022 22:54:21 +0000",
+         "title" : "Chennai Olympiad 2: Magnus grinds out win as Zambia and Bulgaria post upsets"
+      },
+      {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Jeffery Xiong won the week 23 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 47 competitors&#38;mdash;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "Book Recap #28- Chess Tactics from Scratch by FM Martin Weteschnik- A Great Intermediate Level Tactics Guide"
       },
       {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Results Round 2 (open section) / Results Round 2 (women's section) / Team Pairings Round 3 Team pairings round 2&#xA0;/&#xA0;Board pairings round 2 (open section)&#xA0;/&#xA0;Board pairings round 2 (women&#x2019;s section)&#xA0;/&#xA0;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Open section []",
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Results Round 2 (open section) / Results Round 2 (women's section) / Team Pairings Round 3 Team pairings round 2&#160;/&#160;Board pairings round 2 (open section)&#160;/&#160;Board pairings round 2 (women&#x2019;s section)&#160;/&#160;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Open section []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-2-open-section/",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.thearticle.com/beyond-carlsen-the-devaluation-of-the-world-chess-championship/",
          "pubDate" : "Sat, 30 Jul 2022 09:33:24 +0000",
          "title" : "Beyond Carlsen: the devaluation of the World Chess Championship"
-      },
-      {
-         "description" : "Happy birthday to Fabiano Caruana! We wish him beautiful games on the chess board! Caruana became a&#xA0;grandmaster&#xA0;at the age of 14 years, 11 months, and 20 days becoming the youngest grandmaster in the history of both Italy and the United States at the time. He won the&#xA0;Candidates Tournament 2018, becoming the first American challenger for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-30th-birthday-to-fabiano-caruana/",
-         "pubDate" : "Sat, 30 Jul 2022 09:29:17 +0000",
-         "title" : "Happy 30th birthday to Fabiano Caruana!"
       },
       {
          "description" : "With 2000 players from 187 countries, Chennai's Chess Olympiad has truly become a global event",
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1862",
          "pubDate" : "Thu, 14 Jul 2022 11:14:41 +0000",
          "title" : "European Senior Championship 2022: Martin Mrva and Nils-Gustaf Renman claim titles"
-      },
-      {
-         "description" : "Sam Sevian defeated Shakhriyar Mamedyarov in the final round of the FTX Road to Miami Prelims to top the table while Shakh was knocked out after losing all three games on the final day. Wei Yi scraped through despite a late surge from Aryan Tari, while Levon Aronian and Anish Giri both got the job done comfortably. It's Sevian vs. Wei Yi, Erigaisi vs. Aronian, Duda vs. Giri and Xiong vs. Rapport in Thursday's quarterfinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-4-sevian-wins-prelims-shakh-eliminated",
-         "pubDate" : "Thu, 14 Jul 2022 09:09:47 +0000",
-         "title" : "FTX Road to Miami 4: Sevian wins Prelims, Shakh eliminated"
       },
       {
          "description" : " <p class=\"lead\">World Chess, the company behind the most exciting chess events in the world as well as the iconic World Chess Championship set design, has been <i>obsessed</i> with putting chess sets in people's homes. The company's biggest merchandising hit, the <a href=\"https://shop.worldchess.com/products/official-world-chess-championship-set\">official Championship Set</a>, while being the favorite among elite chess players, is too big for an average apartment. The <a href=\"https://shop.worldchess.com/collections/chess-sets/products/world-chess-set-home-edition-with-bauhaus-board\">new chess set</a>, with a beautiful <i>Bauhaus board</i>, solves the size issue while remaining as cool as a",
