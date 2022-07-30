@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India, Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany, England, India-2, Armenia, Iran, Uzbekistan, India-3, and Croatia were the top teams to score clean 4-0 victories in the first round, while the top-seeded U.S. and third-seeded Norwa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-1",
+         "pubDate" : "Fri, 29 Jul 2022 17:08:00 -0700",
+         "title" : "Nearly Smooth Sailing For Top Seeds In Day Of Zugzwangs"
+      },
+      {
          "description" : "The 2022 Chess Olympiad kicked off today in Chennai, India. All the favorites won their matches of the first round, including the third seed Norway. GM Jon Ludvig Hammer played the second board for the Norwegian team, as the reigning World Chess Champion Magnus Carlsen wasn't in the Round 1 teams' composition. Norway played against []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -266,7 +274,7 @@ news_feed (
          "title" : "2022 Chess Olympiad: Opening Ceremonies"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament.<br /> See examples from Thalia's own games from the 2022 American Continental Chess Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-tactics-for-heroes-revisited/",
          "pubDate" : "Sun, 17 Jul 2022 17:18:15 +0000",
          "title" : "Chess Tactics for Heroes Revisited"
-      },
-      {
-         "description" : "A degenerative condition has taken away most of his eyesight, but that didn&#39;t stop IM Daniel Pulvett from scoring his third GM norm at the Valencia Open on Sunday. With an Elo rating already over 2500, gaining his GM title should be only a technic...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/visually-impaired-daniel-pulvett-grandmaster-norm",
-         "pubDate" : "Sun, 17 Jul 2022 07:20:00 -0700",
-         "title" : "Player With Visual Impairment Achieves Grandmaster Title"
       },
       {
          "description" : " It is currently the 50th anniversary of the Fischer v Spassky World Championship Match. While I was only 5 years old when it happened, in a way it was still my first exposure to serious competitive chess. This was because my father had a copy of the Gligoric book on the match, and it was probably the first chess book that I read, albeit 4 years after the match was played. I still flick through the book (and a number of others about the match), revisiting the analysis. One game that was particularly interesting was the 5th game of the match. It was notable for a provocative knight move on 11, which allowed Spassky to double Black's pawns. However a few moves later, Spassky was forced to undo",
