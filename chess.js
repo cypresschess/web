@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second round of the Olympiad featured the debut of World Champion&#xA0;Magnus Carlsen, playing on board one for Norway. One minute before the start of the round, all players were seated and ready, including Carlsen, with the exception of the other three Norway teammates, delayed outside due to the overgrowing level of chess enthusiasts filling []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-2-report/",
+         "pubDate" : "Sat, 30 Jul 2022 23:56:16 +0000",
+         "title" : "Chess Olympiad 2022 - Round 2 report"
+      },
+      {
+         "description" : "8-year-old Randa Seder is the youngest participant of the 2022 Chess Olympiad and plays for Palestine's Women's National team. She today won her first olympiad game, and Palestine's Women's team won the match against Comoros with the maximum 4/4 score. Eman Sawan, Taqwa Hamouri and Randa Seder were excited to win their match today and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-randa-seder-the-youngest-participant-of-the-2022-chess-olympiad/",
+         "pubDate" : "Sat, 30 Jul 2022 23:34:12 +0000",
+         "title" : "Interview with Randa Seder - the youngest participant of the 2022 Chess Olympiad"
+      },
+      {
          "description" : "The second round of the 2022 Women's Chess Olympiad brought several individual surprising results, but most of the team favorites managed to win their matches. England's women's team today won against Bolivia with the final 3-1 score, with WGM Katarzyna Toma losing to WFM Maria Eugenia Ramirez. The top board of the England's women's team []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-r2-live-with-im-sagar-shah-and-bm-samay-raina-indias-stand-up-comedian/",
          "pubDate" : "Sat, 30 Jul 2022 11:02:57 +0000",
          "title" : "44th Chess Olympiad 2022 R2 live with IM Sagar Shah and BM Samay Raina - India's stand-up comedian"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2&#xA0;/&#xA0;Board pairings round 2 (open section)&#xA0;/&#xA0;Board pairings round 2 (women&#x2019;s section)&#xA0;/&#xA0;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Read all:&#xA0;Chess Olympiad 2022 news here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-2-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
-         "pubDate" : "Sat, 30 Jul 2022 10:47:01 +0000",
-         "title" : "Round 2 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
       },
       {
          "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Tijana Blagojevich (Serbia)",
