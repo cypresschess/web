@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2nd day of the Chess Olympiad seemed more hectic than day 1. This was due to the fact that it was the first weekend round, and the venue was swarming with spectators. Outside the entrance to the main playing hall, there were hundreds of autograph hunters, waiting for players to emerge after their games had finished. Inside the hall the number of spectators was also larger, although this didn't cause any significant issues for the players. Day 2 saw a couple of big guns emerge. Magnus Carlsen played his first game, winning against Georg Meier from Uruguay. After his draw yesterday Aronian was rested for Caruana, but is a semi upset, Paraguay scored 1.5 against the top seeded US team. The",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-day-2.html",
+         "pubDate" : "Sun, 31 Jul 2022 02:59:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 2"
+      },
+      {
          "description" : "The second round of the Olympiad featured the debut of World Champion&#xA0;Magnus Carlsen, playing on board one for Norway. One minute before the start of the round, all players were seated and ready, including Carlsen, with the exception of the other three Norway teammates, delayed outside due to the overgrowing level of chess enthusiasts filling []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
