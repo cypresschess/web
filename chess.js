@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen was held to a draw by Daniele Vocaturo as Italy won on the bottom two boards to defeat Norway in Round 3 of the Chennai Olympiad. Austria shocked Germany 2.5:1.5, while Ukraine only scraped a draw against Cuba. In the women's section Mongolia and Estonia beat the USA and Armenia. All six Indian teams still have a perfect match score, with India 2 top after winning every game so far.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-3-norway-and-germany-beaten",
+         "pubDate" : "Sun, 31 Jul 2022 22:18:53 +0000",
+         "title" : "Chennai Olympiad 3: Norway and Germany beaten"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1892",
+         "pubDate" : "Sun, 31 Jul 2022 21:54:24 +0000",
+         "title" : "Women's Chess Olympiad: Mongolia stages a huge upset, favorites cruise through"
+      },
+      {
+         "description" : "Having the World Champion in your team doesn&#x2019;t guarantee the win. In their match-up against Italy, captain Loek van Wely&#x2019;s strategy was clear:&#xA0; neutralize Carlsen on board one Vocaturo played a solid exchange Caro-Kann and achieved a well-deserved draw and take their chances on the other three boards. Read more: Italy makes a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-3-report/",
+         "pubDate" : "Sun, 31 Jul 2022 21:46:07 +0000",
+         "title" : "Chess Olympiad 2022 - Round 3 report"
+      },
+      {
+         "description" : "GM Alexey Sarana won week 23 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Jeffery Xiong in one of the most exciting finals of the season. GMs Hans Niemann and Vladimir Fedoseev made it to the semifinals. GMs Sam ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-23-sarana-wins",
+         "pubDate" : "Sun, 31 Jul 2022 14:27:00 -0700",
+         "title" : "Firewalk Across The Chessboard"
+      },
+      {
+         "description" : "Organizing an event with more than 2000 players, coaches, captains, referees and members of the organization is not easy at all. It requires an experienced management team, with the ability to foresee all kinds of adverse circumstances and have an accurate response for each case. This afternoon it became clear that the leadership team of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/medical-emergency-during-the-2022-chess-olympiad-r3-and-the-generous-act-of-the-opponent/",
+         "pubDate" : "Sun, 31 Jul 2022 21:25:01 +0000",
+         "title" : "Medical emergency during the 2022 Chess Olympiad R3 and the generous act of the opponent"
+      },
+      {
          "description" : "The USA team today won the important match against Georgia keeping the lead in the 44th Chess Olympiad in Chennai. USA was convincing claiming the third victory with 3-1 score, despite the shaky start. Replay the match here In the post-game interview, the second board of the USA team GM Levon Aronian spoke about his []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,14 +138,6 @@ news_feed (
          "title" : "Nine-month pregnant Harika Dronavalli debuts today in the Chennai Chess Olympiad"
       },
       {
-         "description" : "The third round of the 2022 Chess Olympiad kicked off in Chennai bringing interesting encounters between the leaders. Managing Director of Indian Oil Corporation Limited (CCPL) made the first ceremonial move to mark the beginning of the Round three as he played 1.c4 in the game between Pentala Harikrishna and Dimitrios Mastrovasilis. Follow the match []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-3/",
-         "pubDate" : "Sun, 31 Jul 2022 11:31:31 +0000",
-         "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 3"
-      },
-      {
          "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Justin Blackman (Barbados)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r2",
          "pubDate" : "Sun, 31 Jul 2022 10:00:00 +0100",
          "title" : "Chennai R2: Zambia and Bulgaria score upsets"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Round 3 team pairings / Round 3 board pairings (open section) / Round 3 board pairings (women's section) / Round 2 report Read all:&#xA0;Chess Olympiad 2022 news here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-3-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
-         "pubDate" : "Sun, 31 Jul 2022 08:46:55 +0000",
-         "title" : "Round 3 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
       },
       {
          "description" : " This is from a game played in the Chessable English Women's Championship (Nina Pert Anusha Subramanian) played in Kenilworth back in May. Rooks have just been exchanged on f3 and now Black has to decide how to get out of check. What would you advise? I suspect that, in this situation, I'd probably have <a href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Pawn Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\">A Pawn Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
@@ -1690,14 +1714,6 @@ news_feed (
          "title" : "16th ASIAN SCHOOLS CHESS CHAMPIONSHIPS 2022 at Kaluthara SRI LANKA, 25th August - 3rd September 2022"
       },
       {
-         "description" : "The U.S. National Championships, held in St. Louis, crowned three new champions. GM Christopher Yoo&#38;nbsp;won the U.S. Junior Chess Championship, FM Jennifer Yu won the U.S. Girls Junior Chess Championship, and GM Alexander Shabalov won the U.S. Se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-national-championships-yoo-yu-shabalov-win",
-         "pubDate" : "Mon, 18 Jul 2022 13:24:00 -0700",
-         "title" : "Yoo, Yu, Shabalov Win U.S. National Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/the-creative-process.html",
          "pubDate" : "Fri, 15 Jul 2022 12:52:00 +0000",
          "title" : "The creative process?"
-      },
-      {
-         "description" : "A wild day of FTX Road to Miami quarterfinal action saw youngsters Arjun Erigaisi, Sam Sevian and Jeffery Xiong all take the lead against Levon Aronian, Wei Yi and Richard Rapport before the more experienced stars stormed back to score comeback wins. Jan-Krzysztof Duda beat Anish Giri without a comeback, but with one of the strangest ends to a match you'll ever see.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-qfs-aronian-duda-rapport-wei-yi-win",
-         "pubDate" : "Fri, 15 Jul 2022 09:52:15 +0000",
-         "title" : "FTX Road to Miami QFs: Aronian, Duda, Rapport & Wei Yi win"
       },
       {
          "description" : " <p class=\"lead\">While FIDE is waiting for Carlsen to decide if he's going to defend his title against Nepomniachtchi, the World Champion participated at the <a href=\"https://worldchess.com/news/all/magnus-carlsen-is-turning-to-poker/\">World Series of Poker</a> in Las Vegas and then paid a visit to the Philadelphia 76ers, announcing his entrance to the NBA cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-4.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Ludwig Ahgren with Magnus Calrsen by <a href=\"https://twitter.com/stonemalick\">@stonemalick</a> // <a href=\"https://twitter.com/MagnusCarlsen\">@magnuscarlse",
@@ -2096,14 +2104,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-june-2022/",
          "pubDate" : "Mon, 11 Jul 2022 08:20:25 +0000",
          "title" : "ECU E-MAGAZINE JUNE 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1855",
-         "pubDate" : "Sun, 10 Jul 2022 21:52:42 +0000",
-         "title" : "Jonny Hector wins Swedish Championship"
       }
    ]
 }
