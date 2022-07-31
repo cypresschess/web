@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Current World Champion Magnus Carlsen made his debut against Paraguayand had to play 90 moves to secure the win.Photo by Lennart Ootes 2022 Chess Olympiad: Round #2Saturday, 30 July 2022 Round #2 had a major upset as 73rd-ranked Zambia toppled Denmark, ranked 27th. The Danish team touted four Grandmasters and one International Master as an The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/31/2022-chess-olympiad-round-2/\">2022 Chess Olympiad: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/07/31/2022-chess-olympiad-round-2/",
+         "pubDate" : "Sun, 31 Jul 2022 07:05:25 +0000",
+         "title" : "2022 Chess Olympiad: Round #2"
+      },
+      {
          "description" : " The 2nd day of the Chess Olympiad seemed more hectic than day 1. This was due to the fact that it was the first weekend round, and the venue was swarming with spectators. Outside the entrance to the main playing hall, there were hundreds of autograph hunters, waiting for players to emerge after their games had finished. Inside the hall the number of spectators was also larger, although this didn't cause any significant issues for the players. Day 2 saw a couple of big guns emerge. Magnus Carlsen played his first game, winning against Georg Meier from Uruguay. After his draw yesterday Aronian was rested for Caruana, but is a semi upset, Paraguay scored 1.5 against the top seeded US team. The",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1594,14 +1602,6 @@ news_feed (
          "title" : "Carlsen-Nepomniachtchi in Zagreb GCT opening game"
       },
       {
-         "description" : "With their victories today, Lê Quang Liêm and Andrey Esipenko climbed to first and second places in the Biel Grandmaster Triathlon. Esipenko defeated former leader Gukesh, while Lê prevailed against Keymer. There was also a change of leader in the Ladies' Quadriathlon, with France's Margaux Moracchini taking the lead for the first time. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r4",
-         "pubDate" : "Wed, 20 Jul 2022 03:00:00 +0100",
-         "title" : "Biel: Wins for Le, Esipenko and Abusattorov"
-      },
-      {
          "description" : "GM Kateryna Lagno overcame GM Humpy Koneru in their quarterfinal match in the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Tuesday. Koneru led the match with convincing play through the 5+1 segment. Entering the 3+1 portion, Lagno great...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1632,14 +1632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-hou-yip",
          "pubDate" : "Tue, 19 Jul 2022 09:15:00 -0700",
          "title" : "World Number 1 Woman Player Close To Perfect Against Yip"
-      },
-      {
-         "description" : " In less than two weeks, the 2022 Chess Olympiad will open in Chennai, India after surviving the worst of a pandemic. India was one of the countries hit the hardest and officials will be on alert to ensure health and safety. According to chess-results.com, 343 teams (189 teams in Open; 162 teams in Women's) from The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/\">2022 Chess Olympiad Preview</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/19/2022-chess-olympiad-preview/",
-         "pubDate" : "Tue, 19 Jul 2022 14:17:12 +0000",
-         "title" : "2022 Chess Olympiad Preview"
       },
       {
          "description" : " I have just managed to win a rapidplay tournament at my local club with a pleasing 5.5/6. But the secret to this wasn't that the time control suited me, or that I was in good form, but something simpler. I turned up for all 6 rounds (3 weeks), which gave me a distinct advantage. A couple of close rivals had enforced absences (covid), while some had other commitments get in the way. Fortunately I wasn't affected by these issues, which maximised my winning chances! <br /> <b>Press,Shaun - Grcic,Milan [D02]</b><br />Gungahlin Rapid (6), 19.07.2022 <script>new PgnViewer( { boardName: \"game1338\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.g3 c5 4.Bg2 cxd4 5.O-O Nc6 6.Nxd4 e5 7.Nxc6 b",
