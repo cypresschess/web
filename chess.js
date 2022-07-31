@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With World Chess Champion Magnus Carlsen playing the first board, the Norwegian team was one of the favorites to win the 44th Chess Olympiad 2022. Nonetheless, Italy today made a major upset defeating Norway with a convincing 3-1 score. The heroes of the team were GM Lorenzo Lodici and GM Francesco Sonis who won their []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/italy-makes-a-major-upset-defeating-norway-in-the-third-round-of-the-2022-chess-olympiad/",
+         "pubDate" : "Sun, 31 Jul 2022 15:14:33 +0000",
+         "title" : "Italy makes a major upset defeating Norway in the R3 of the 2022 Chess Olympiad"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 88th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-7",
+         "pubDate" : "Sun, 31 Jul 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 88: Basics of the Benko Gambit (7)"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 is seeing a chess fever spreading through the city of Chennai. The event attracted a number of journalists who daily report from the tournament and the interest for the chess games is repeatedly seen upon the start of the first round. The crowd was surrounding chess players, trying to spot []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/journalists-unhappy-after-changes-in-the-media-protocols-at-the-2022-chess-olympiad/",
+         "pubDate" : "Sun, 31 Jul 2022 13:14:11 +0000",
+         "title" : "Journalists unhappy after changes in the Media protocols at the 2022 Chess Olympiad"
+      },
+      {
+         "description" : "GM Harika Dronavalli today makes her debut in the Chennai Chess Olympiad 2022 playing the first board against IM Jovanka Houska who defends England's colours. Harika is nine months pregnant&#xA0;as of now, but she decided to compete for the national team of India. England vs India live Round 3 Team pairings&#xA0;/&#xA0;Round 3 board pairings (women&#x2019;s []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nine-month-pregnant-harika-dronavalli-debuts-today-in-the-chennai-chess-olympiad/",
+         "pubDate" : "Sun, 31 Jul 2022 12:48:25 +0000",
+         "title" : "Nine-month pregnant Harika Dronavalli debuts today in the Chennai Chess Olympiad"
+      },
+      {
+         "description" : "The third round of the 2022 Chess Olympiad kicked off in Chennai bringing interesting encounters between the leaders. Managing Director of Indian Oil Corporation Limited (CCPL) made the first ceremonial move to mark the beginning of the Round three as he played 1.c4 in the game between Pentala Harikrishna and Dimitrios Mastrovasilis. Follow the match []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-3/",
+         "pubDate" : "Sun, 31 Jul 2022 11:31:31 +0000",
+         "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 3"
+      },
+      {
          "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Justin Blackman (Barbados)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,22 +186,6 @@ news_feed (
          "title" : "Study of the Month - Up to five pieces allowed"
       },
       {
-         "description" : "The third round of the 44th Chess Olympiad 2022 is scheduled for Sunday, 31st of July, starting from 15:00 (GMT+5:30). Team pairings of both sections can be found below. Results &#x2013; Chess Olympiad 2022 round 2 (women&#x2019;s section) / Results &#x2013; Chess Olympiad 2022 round 2 (open section) Results Round 2 (open section)&#xA0;/&#xA0;Results Round 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-3-pairings/",
-         "pubDate" : "Sat, 30 Jul 2022 16:22:35 +0000",
-         "title" : "44th Chess Olympiad 2022 - Round 3 pairings"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2&#xA0;/&#xA0;Board pairings round 2 (open section)&#xA0;/&#xA0;Board pairings round 3 (women&#x2019;s section)&#xA0;/&#xA0;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Round 2 board results (women's section): Bo. 1 India (IND) Rtg 40 Argentina (ARG) Rtg 3&#xBD;: &#xBD;1/1 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-2-womens-section/",
-         "pubDate" : "Sat, 30 Jul 2022 16:17:11 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 2 (women's section)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93239581.cms\" />The India 'B' team blanked Estonia 4-0 in the second round of the Open section in the 44th Chess Olympiad here on Saturday. Second-seeded India 'A' team defeated Moldova 3.5-0.5 for its second straight win. World champion Magnus Carlsen, who had missed the first round, beat Georg Meier to star in third-seeded Norway's 4-0 victory over Uruguay.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -170,28 +194,12 @@ news_feed (
          "title" : "Chess Olympiad: Red-hot India 'B' team thrashes Estonia 4-0"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen today made his debut in the 2022 Chess Olympiad in Chennai. The Norwegian team faced Uruguay, and the match looked tense after three hours of play. The favorites managed to convert to a convincing 4-0 result, despite the position being quite equal after more than three hours of play. Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-victorious-in-his-first-chess-olympiad-2022-game/",
-         "pubDate" : "Sat, 30 Jul 2022 15:18:24 +0000",
-         "title" : "Magnus Carlsen victorious in his first Chess Olympiad 2022 game"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg\" data-image-dimensions=\"198x280\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62e53802c898ce7096a9d45b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU1351667861\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe> <p class=\"\">Click <a href=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/30/book-recap-28-chess-tactics-from-scratch-by-fm-martin-weteschnik-a-great-intermediate-level-tactics-guide",
          "pubDate" : "Sat, 30 Jul 2022 14:04:08 +0000",
          "title" : "Book Recap #28- Chess Tactics from Scratch by FM Martin Weteschnik- A Great Intermediate Level Tactics Guide"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#160;/&#160;Chess Olympiad 2022 &#124; Open section LIVE Results Round 2 (open section) / Results Round 2 (women's section) / Team Pairings Round 3 Team pairings round 2&#160;/&#160;Board pairings round 2 (open section)&#160;/&#160;Board pairings round 2 (women&#x2019;s section)&#160;/&#160;Chess Olympiad 2022 R1 report &#x2013; 146 teams scoring perfect 4/4 Open section []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-2-open-section/",
-         "pubDate" : "Sat, 30 Jul 2022 13:38:45 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 2 (open section)"
       },
       {
          "description" : "The Collegiate Chess League is excited to announce the 2022 summer season featuring the bullet and bughouse college championships! This summer season will span the four weeks of August and starts with the bullet championship on August 6 with the f...",
@@ -1506,14 +1514,6 @@ news_feed (
          "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svensen on Magnus' Decision not to Defend his Title "
       },
       {
-         "description" : "In his \"Game of the Week\" show Merijn van Delft recaps a lovely attacking game from the second round of the Sparkassen Open in Dortmund. Thomas Beerdsen employed a strong novelty, which was connected to an amazing concept! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-525-beerdsen-amazing-concept",
-         "pubDate" : "Wed, 20 Jul 2022 19:00:00 +0100",
-         "title" : "Game of the Week #525: Beerdsen's amazing concept"
-      },
-      {
          "description" : " Magnus Carlsen Just over three hours ago, an announcement was made that Magnus Carlsen will not defend his title against Ian Nepomniachtchi, who recently won the right to challenge him. Twitter exploded after the news came out on chess24 about his decision. After successfully defending his title for the 4th time, he made statements about The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/\">Magnus Carlsen will NOT defend title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2112,30 +2112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
          "pubDate" : "Sun, 10 Jul 2022 21:18:00 +0400",
          "title" : "Bundesliga 2021-22 - "
-      },
-      {
-         "description" : " The FTX Road to Miami tournament is part of the Champions Chess Tour and takes place online on Chess24 Sun 10th Jul 2022 - Sun 17th Jul 2022. The title refers to this being the final qualification event for the FTX Crypto Cup which will take place in Miami August 15th to 21st and is one of the tours Majors with a very large prize fund. Carlsen has already qualified for Miami and so isn't playing in this event. Players are: Levon Aronian, Richard Rapport, Anish Giri, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Jan-Krzysztof Duda, Teimour Radjabov, Wei Yi,Sam Shankland, Radoslaw Wojtaszek, Jeffery Xiong, Arjun Erigaisi, Hans Moke Niemann, Samuel Sevian, Aryan Tari and Wenjun Ju.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-road-to-miami-2022",
-         "pubDate" : "Sun, 10 Jul 2022 18:32:00 +0400",
-         "title" : "FTX Road to Miami 2022 - Games and Results"
-      },
-      {
-         "description" : " The New Zealand Chess Federation has announced the opening of a new chess centre in Auckland. The Howick Chess Centre (in Howick!) is a joint effort by Paul Spiller and the NZCF, providing both a venue for regular chess activities, and as a NZCF Office for the storage of historical items, and as a shop for NZCF items. Recognising the economic reality of such a venture, the Centre will be running until at least July 2023, at which time a review in its operation will take place. A worthy initiative by Paul Spiller and the NZCF, and one I am sure many other chess federations would like to emulate. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/howick-chess-centre.html",
-         "pubDate" : "Sun, 10 Jul 2022 13:40:00 +0000",
-         "title" : "Howick Chess Centre"
-      },
-      {
-         "description" : "\"Surprisingly often I watch sequences of moves in games that do not remind me of anything from my previous chess memory,\" writes endgame study composer Steffen Slumstrup Nielsen. In such cases, he will rush over to his chessboard and start thinking about turning it into a study. One way to do this is to strip the position and present the main idea as economically as possible. Slumstrup Nielsen's description of the process appeared in The Macedonian Problemist.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/creating-studies-from-games-1",
-         "pubDate" : "Sun, 10 Jul 2022 12:45:00 +0100",
-         "title" : "Creating studies from games (1)"
       }
    ]
 }
