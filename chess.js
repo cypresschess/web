@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The USA team today won the important match against Georgia keeping the lead in the 44th Chess Olympiad in Chennai. USA was convincing claiming the third victory with 3-1 score, despite the shaky start. Replay the match here In the post-game interview, the second board of the USA team GM Levon Aronian spoke about his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-its-a-problem-when-the-tournament-is-organized-too-well-interview/",
+         "pubDate" : "Sun, 31 Jul 2022 20:47:26 +0000",
+         "title" : "Levon Aronian: \"It's a problem when the tournament is organized too well\" (INTERVIEW)"
+      },
+      {
+         "description" : "Things are heating up at the 44th Chess Olympiad 2022 in Chennai, as only 20 teams emerged in the Open section with a maximum of 6 match points, and 19 teams lead the Women's section with the same score. The fourth round is scheduled for Monday, 1st of August, starting from 15:00 (GMT+5:30). Team pairings []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-4-pairings/",
+         "pubDate" : "Sun, 31 Jul 2022 19:51:28 +0000",
+         "title" : "44th Chess Olympiad 2022 - Round 4 pairings"
+      },
+      {
          "description" : "Martin B. Justesen is an avid chess player from Denmark. Justesen is a chess author who published multiple chess books and he creates content about his own journey towards chess improvement on a regular basis in his podcast Say Chess. His latest book is dedicated to opening visualization in blindfold games. Get your copy of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,12 +26,20 @@ news_feed (
          "title" : "Interview with Martin B. Justesen, author of Say Chess"
       },
       {
-         "description" : "After three played rounds at the 2022 Chess Olympiad, only 20 teams in Open section emerged with a maximum of 6 match points and all three victories. Italy made a major upset defeating Norway with a convincing 3-1 victory. See the results below Read more: The ceremonial first move of the 2022 Chess Olympiad Round []",
+         "description" : "After three played rounds at the 2022 Chess Olympiad, only 20 teams in Open section emerged with a maximum of 6 match points and all three victories. Italy made a major upset defeating Norway with a convincing 3-1 victory. See the results below Related:&#xA0;Results &#x2013; Chess Olympiad 2022 round 3 (open section)Popular from Chess Olympiad []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-3-open-section/",
          "pubDate" : "Sun, 31 Jul 2022 19:10:28 +0000",
          "title" : "Results - Chess Olympiad 2022 round 3 (open section)"
+      },
+      {
+         "description" : "Several upsets marked the third round of the Women's Chess Olympiad 2022. Mongolia defeated USA, Estonia was victorious against Armenia, Sweden won against higher-rated Spain Three Indian teams kept the race for the top scoring perfect 6 match points, with nine-month pregnant Harika Dronavalli making her debut in the Chennai Chess Olympiad today playing the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-3-womens-section/",
+         "pubDate" : "Sun, 31 Jul 2022 19:00:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 3 (women's section)"
       },
       {
          "description" : "",
@@ -106,22 +130,6 @@ news_feed (
          "title" : "Round 3 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
       },
       {
-         "description" : "Chess Olympiad 2022 &#124; Open section LIVE / Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE Round 3 Team pairings / Round 2 report / Round 3 board pairings (women's section) Board pairings Round 3 (open section): Bo. 2 India (IND) Rtg 25 Greece (GRE) Rtg 0 : 0 1/1 GM&#160; Harikrishna, Pentala (w) 2720 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-3-board-pairings-open-section/",
-         "pubDate" : "Sun, 31 Jul 2022 08:23:50 +0000",
-         "title" : "Chess Olympiad 2022 - Round 3 board pairings (open section)"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Open section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE Round 3 Team pairings&#xA0;/&#xA0;Round 2 report / Round 3 board pairings (open section) Board pairings Round 3 (women's section): Bo. 21 England (ENG) Rtg 1 India (IND) Rtg 0 : 0 1/1 IM&#160; Houska, Jovanka (w) 2360 GM&#160; Harika, Dronavalli []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-3-board-pairings-womens-section/",
-         "pubDate" : "Sun, 31 Jul 2022 08:15:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 3 board pairings (women's section)"
-      },
-      {
          "description" : " This is from a game played in the Chessable English Women's Championship (Nina Pert Anusha Subramanian) played in Kenilworth back in May. Rooks have just been exchanged on f3 and now Black has to decide how to get out of check. What would you advise? I suspect that, in this situation, I'd probably have <a href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Pawn Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\">A Pawn Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-day-2.html",
          "pubDate" : "Sun, 31 Jul 2022 02:59:00 +0000",
          "title" : "2022 Chess Olympiad - Day 2"
-      },
-      {
-         "description" : "The second round of the Olympiad featured the debut of World Champion&#xA0;Magnus Carlsen, playing on board one for Norway. One minute before the start of the round, all players were seated and ready, including Carlsen, with the exception of the other three Norway teammates, delayed outside due to the overgrowing level of chess enthusiasts filling []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-2-report/",
-         "pubDate" : "Sat, 30 Jul 2022 23:56:16 +0000",
-         "title" : "Chess Olympiad 2022 - Round 2 report"
       },
       {
          "description" : "Magnus Carlsen beat Georg Meier in an 80-move grind as Norway defeated Uruguay 4:0, while top seeds USA edged a 2.5:1.5 win over Paraguay in Round 2 of the Chess Olympiad in Chennai. We got the first upsets, with 17th seeds Croatia put to the sword 3.5:0.5 by Bulgaria, while 73rd seeds Zambia shocked 27th seeds Denmark. All six Indian teams have won all their matches, with India 2 above India 1 after a perfect 8/8 start. Gukesh crossed 2700, again!",
