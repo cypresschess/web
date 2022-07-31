@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Martin B. Justesen is an avid chess player from Denmark. Justesen is a chess author who published multiple chess books and he creates content about his own journey towards chess improvement on a regular basis in his podcast Say Chess. His latest book is dedicated to opening visualization in blindfold games. Get your copy of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-martin-b-justesen-author-of-say-chess/",
+         "pubDate" : "Sun, 31 Jul 2022 19:20:46 +0000",
+         "title" : "Interview with Martin B. Justesen, author of Say Chess"
+      },
+      {
+         "description" : "After three played rounds at the 2022 Chess Olympiad, only 20 teams in Open section emerged with a maximum of 6 match points and all three victories. Italy made a major upset defeating Norway with a convincing 3-1 victory. See the results below Read more: The ceremonial first move of the 2022 Chess Olympiad Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-3-open-section/",
+         "pubDate" : "Sun, 31 Jul 2022 19:10:28 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 3 (open section)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1891",
+         "pubDate" : "Sun, 31 Jul 2022 18:37:20 +0000",
+         "title" : "All three Indian teams on 100% in Chennai"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93258101.cms\" />As one walks down the playing hall No. 2 at the ongoing 44th Chess Olympiad here, one can't miss Natasha Morales Santos --- Puerto Rico's top-rated women's player. At first glance, the 24-year-old looks like any other player. But once Natasha settles down to play --- you will find she makes her moves on a braille chess board.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/visually-impaired-natasha-morales-santos-never-lost-sight-of-her-goals/articleshow/93258101.cms",
+         "pubDate" : "Sun, 31 Jul 2022 17:20:41 +0000",
+         "title" : "Visually-impaired Natasha never lost sight of her goals"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93256879.cms\" />The Indian teams once again showed their mettle as all six teams registered wins in Round 3 of the 44th Olympiad here on Sunday. India 2 in the open category was the only team to make a clean sweep as they beat Switzerland 4-0. However, R Praggnanandhaa's win against the experienced Yannick Pelletier in 67 moves came after the latter lost on time.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-yannick-pelletier-loses-to-praggnanandhaa-on-time/articleshow/93256879.cms",
+         "pubDate" : "Sun, 31 Jul 2022 15:41:06 +0000",
+         "title" : "Chess Olympiad: Yannick Pelletier loses to Praggnanandhaa on time"
+      },
+      {
          "description" : "With World Chess Champion Magnus Carlsen playing the first board, the Norwegian team was one of the favorites to win the 44th Chess Olympiad 2022. Nonetheless, Italy today made a major upset defeating Norway with a convincing 3-1 score. The heroes of the team were GM Lorenzo Lodici and GM Francesco Sonis who won their []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,22 +154,6 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Round 2 report"
       },
       {
-         "description" : "8-year-old Randa Seder is the youngest participant of the 2022 Chess Olympiad and plays for Palestine's Women's National team. She today won her first olympiad game, and Palestine's Women's team won the match against Comoros with the maximum 4/4 score. Eman Sawan, Taqwa Hamouri and Randa Seder were excited to win their match today and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-randa-seder-the-youngest-participant-of-the-2022-chess-olympiad/",
-         "pubDate" : "Sat, 30 Jul 2022 23:34:12 +0000",
-         "title" : "Interview with Randa Seder - the youngest participant of the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "The second round of the 2022 Women's Chess Olympiad brought several individual surprising results, but most of the team favorites managed to win their matches. England's women's team today won against Bolivia with the final 3-1 score, with WGM Katarzyna Toma losing to WFM Maria Eugenia Ramirez. The top board of the England's women's team []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-im-jovanka-houska-chess-olympiad-2022-r2/",
-         "pubDate" : "Sat, 30 Jul 2022 23:24:12 +0000",
-         "title" : "Interview with IM Jovanka Houska - Chess Olympiad 2022 R2"
-      },
-      {
          "description" : "Magnus Carlsen beat Georg Meier in an 80-move grind as Norway defeated Uruguay 4:0, while top seeds USA edged a 2.5:1.5 win over Paraguay in Round 2 of the Chess Olympiad in Chennai. We got the first upsets, with 17th seeds Croatia put to the sword 3.5:0.5 by Bulgaria, while 73rd seeds Zambia shocked 27th seeds Denmark. All six Indian teams have won all their matches, with India 2 above India 1 after a perfect 8/8 start. Gukesh crossed 2700, again!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -192,6 +216,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-red-hot-india-b-team-thrashes-estonia-4-0/articleshow/93239581.cms",
          "pubDate" : "Sat, 30 Jul 2022 15:26:14 +0000",
          "title" : "Chess Olympiad: Red-hot India 'B' team thrashes Estonia 4-0"
+      },
+      {
+         "description" : "At the end of the second round of the 44th FIDE Chess Olympiad, 43 teams have four match points, and nine teams won clean 4-0 victories and thus have eight game points. In the 44th FIDE Women&#39;s Chess Olympiad, 40 teams have four match points; 11 t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-2",
+         "pubDate" : "Sat, 30 Jul 2022 07:05:00 -0700",
+         "title" : "Favorites Continue With All Wins"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg\" data-image-dimensions=\"198x280\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62e53802c898ce7096a9d45b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU1351667861\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe> <p class=\"\">Click <a href=\"htt",
@@ -954,14 +986,6 @@ news_feed (
          "title" : "7-Year-Old's Finger Broken By Chess-playing Robot"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93119607.cms\" />If one glances through the latest FIDE top-10 junior rankings, three from India feature in them. Grandmaster Arjun Erigaisi is in No. 2 spot behind Alireza Firouzja, while D Gukesh and Nihal Sarin are in the 6th and 10th spot respectively.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-all-eyes-will-be-on-arjun-praggnanandhaa-gukesh-nihal-raunak-as-indias-next-gen-faces-first-big-test/articleshow/93119607.cms",
-         "pubDate" : "Mon, 25 Jul 2022 17:20:07 +0000",
-         "title" : "Chess Olympiad: India's next-gen faces first big test"
-      },
-      {
          "description" : "Arne and Karsten look at opposite-coloured bishops endgames, one of the most intriguing setups in the final stage of the game. When more pieces are left over the board, the attacker tends to have an edge. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-complete-annotations-and-articles-by-bobby-fischer",
          "pubDate" : "Mon, 25 Jul 2022 18:00:00 +0100",
          "title" : "The Complete Annotations and Articles by Bobby Fischer"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93119289.cms\" />A record total of 30 Indian players across six teams (three in open and three women) will be participating at the Chess Olympiad, scheduled to be held from July 28 to August 10 in Chennai.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-to-field-a-record-6-teams-and-30-players/articleshow/93119289.cms",
-         "pubDate" : "Mon, 25 Jul 2022 16:56:02 +0000",
-         "title" : "Chess Olympiad: India to field a record 6 teams and 30 players"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> News agencies picked up an incident that happened during a chess festival in Moscow where the robot <strong>Chess Terminator</strong> by <strong>Konstantin Kosteniuk</strong> squeezed the finger of a seven-year-old boy, who didn't wait the completion of a capture and was hurt when he recaptured. It was falsely reported that the boy's finger was broken. </div> ",
@@ -1746,14 +1762,6 @@ news_feed (
          "title" : "Levon Aronian wins FTX Road to Miami"
       },
       {
-         "description" : "GM Wesley So won week 21 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Sam Sevian in the closely-fought final match that culminated in a bullet playoff. GMs Dmitry Andreikin and Maxim Matlakov made it to the semif...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-21-so-wins",
-         "pubDate" : "Sun, 17 Jul 2022 15:51:00 -0700",
-         "title" : "So Captures First Knockout Victory in Bullet Playoff"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2096,22 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1855",
          "pubDate" : "Sun, 10 Jul 2022 21:52:42 +0000",
          "title" : "Jonny Hector wins Swedish Championship"
-      },
-      {
-         "description" : " The 35th Leon Chess tournament took place 8th to 10th July. Boris Gelfand beat Viswanthan Anand 2-0 in a blitz tie-break after their rapid final was drawn 2-2. Jaime Santos Latasa and Andrey Esipenko lost in the semi-finals.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/35th-leon-chess-2022",
-         "pubDate" : "Sun, 10 Jul 2022 21:43:00 +0400",
-         "title" : "35th Leon Chess 2022 - Games and Results"
-      },
-      {
-         "description" : " The Bundesliga 2021-22 season took place Sat 5th Mar to Sun 10th Jul 2022. This accelerated German Bundesliga season lasted only four months. There were 16 teams and Baden Baden won the title again winning all their matches. The had to defeat SC Viernheim in Round 14 who were at that stage leading on board count and had also won all their matches up to that point. Viernheim drew their final match too and were clear second.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/bundesliga-2021-22",
-         "pubDate" : "Sun, 10 Jul 2022 21:18:00 +0400",
-         "title" : "Bundesliga 2021-22 - "
       }
    ]
 }
