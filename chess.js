@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Current World Champion Magnus Carlsen made his debut against Paraguayand had to play 90 moves to secure the win.Photo by Lennart Ootes 2022 Chess Olympiad: Round #2Saturday, 30 July 2022 Round #2 had a major upset as 73rd-ranked Zambia toppled Denmark, ranked 27th. The Danish team touted four Grandmasters and one International Master as an The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/31/2022-chess-olympiad-round-2/\">2022 Chess Olympiad: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Justin Blackman (Barbados)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Sun, 31 Jul 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "Most games favoured the favourites in round 2 of the Chess Olympiad, with a few exceptions. In the open section, Zambia and Bulgaria upset Denmark and Croatia respectively, while among the women, Ecuador got the better of Slovenia. World champion Magnus Carlsen made his debut, and outplayed Georg Meier in a balanced endgame to help Norway get a 4-0 win over Uruguay. | Pictured: Mohamed Emli Ramla (Dijibouti) | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r2",
+         "pubDate" : "Sun, 31 Jul 2022 10:00:00 +0100",
+         "title" : "Chennai R2: Zambia and Bulgaria score upsets"
+      },
+      {
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Round 3 team pairings / Round 3 board pairings (open section) / Round 3 board pairings (women's section) / Round 2 report Read all:&#xA0;Chess Olympiad 2022 news here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-3-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
+         "pubDate" : "Sun, 31 Jul 2022 08:46:55 +0000",
+         "title" : "Round 3 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
+      },
+      {
+         "description" : "Chess Olympiad 2022 &#124; Open section LIVE / Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE Round 3 Team pairings / Round 2 report / Round 3 board pairings (women's section) Board pairings Round 3 (open section): Bo. 2 India (IND) Rtg 25 Greece (GRE) Rtg 0 : 0 1/1 GM&#160; Harikrishna, Pentala (w) 2720 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-3-board-pairings-open-section/",
+         "pubDate" : "Sun, 31 Jul 2022 08:23:50 +0000",
+         "title" : "Chess Olympiad 2022 - Round 3 board pairings (open section)"
+      },
+      {
+         "description" : "Chess Olympiad 2022 &#124; Open section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE Round 3 Team pairings&#xA0;/&#xA0;Round 2 report / Round 3 board pairings (open section) Board pairings Round 3 (women's section): Bo. 21 England (ENG) Rtg 1 India (IND) Rtg 0 : 0 1/1 IM&#160; Houska, Jovanka (w) 2360 GM&#160; Harika, Dronavalli []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-3-board-pairings-womens-section/",
+         "pubDate" : "Sun, 31 Jul 2022 08:15:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 3 board pairings (women's section)"
+      },
+      {
+         "description" : " This is from a game played in the Chessable English Women's Championship (Nina Pert Anusha Subramanian) played in Kenilworth back in May. Rooks have just been exchanged on f3 and now Black has to decide how to get out of check. What would you advise? I suspect that, in this situation, I'd probably have <a href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Pawn Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\">A Pawn Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-pawn-ending-from-kenilworth/",
+         "pubDate" : "Sun, 31 Jul 2022 07:39:20 +0000",
+         "title" : "A Pawn Ending from Kenilworth"
+      },
+      {
+         "description" : " Current World Champion Magnus Carlsen made his debut against Uruguayand had to play 90 moves to secure the win.Photo by Lennart Ootes 2022 Chess Olympiad: Round #2Saturday, 30 July 2022 Round #2 had a major upset as 73rd-ranked Zambia toppled Denmark, ranked 27th. The Danish team touted four Grandmasters and one International Master as an The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/31/2022-chess-olympiad-round-2/\">2022 Chess Olympiad: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/07/31/2022-chess-olympiad-round-2/",
@@ -154,38 +202,6 @@ news_feed (
          "title" : "Collegiate Chess League 2022 Summer Season: Bullet and Bughouse Championships"
       },
       {
-         "description" : "The chess fever caused by the 44th Chess Olympiad 2022 in Chennai, India doesn't stop. The whole city is decked up in chess colors promoting the world's biggest chess competition. The event attracted a number of journalists who daily report from the tournament and the interest for the chess games is repeatedly seen upon the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/making-first-move-at-chennai-chess-olympiad-might-be-harder-than-it-sounds-tweetoftheday/",
-         "pubDate" : "Sat, 30 Jul 2022 11:46:32 +0000",
-         "title" : "Making first move at Chennai Chess Olympiad might be harder than it sounds #TweetOftheDay"
-      },
-      {
-         "description" : "One of the first games to be finished today in the Women's Chess Olympiad Round 2 was played between Swedish chess legend GM Pia Cramling and WIM Knarik Mouradian (Lebanon). Pia won the game having Black pieces after only nine moves of play as Mouradian terribly blundered a piece with 9.f3 and resigned immediately after. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-pia-cramling-wins-her-round-2-game-in-9-moves/",
-         "pubDate" : "Sat, 30 Jul 2022 11:15:48 +0000",
-         "title" : "GM Pia Cramling wins her Round 2 game in 9 moves!"
-      },
-      {
-         "description" : "This is the 44th Chess Olympiad 2022 live video in collaboration with Chessbase India and commentators IM Sagar Shah and BM Samay Raina &#x2013; one of India&#x2019;s best known stand-up comedians who is also a chess lover.&#xA0; Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Team pairings round 2/&#xA0;Board pairings []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-r2-live-with-im-sagar-shah-and-bm-samay-raina-indias-stand-up-comedian/",
-         "pubDate" : "Sat, 30 Jul 2022 11:02:57 +0000",
-         "title" : "44th Chess Olympiad 2022 R2 live with IM Sagar Shah and BM Samay Raina - India's stand-up comedian"
-      },
-      {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Tijana Blagojevich (Serbia)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Sat, 30 Jul 2022 11:15:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
-      },
-      {
          "description" : "For a number of reasons, the game of chess has become unprecedentedly popular, partly due to enthusiasts and serious players alike turning to online play on a plethora of websites that established themselves during the pandemic. In parallel, new players have also been drawn in, due to the instrumental and sensational success of Netflix's Queens []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -231,7 +247,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/staffing-office-1st-5th-august/",
          "pubDate" : "Sat, 30 Jul 2022 06:48:35 +0000",
-         "title" : "Staffing/office 1st - 5th August"
+         "title" : "Staffing in the office 1st - 5th August"
       },
       {
          "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Ariadna de la Riva (Andorra) | Photo: Lennart Ootes",
@@ -1538,14 +1554,6 @@ news_feed (
          "title" : "International Chess Day 2022"
       },
       {
-         "description" : "With a day's delay due to the change in the field of participants, defending champion Vishy Anand played his first game on Tuesday at the NC World Masters 2022. With Black, he drew round-1's winner Michael Adams. The second game in the NC World Masters offered everything one could expect from this chess variation, as both kings were under fire throughout the game. In the end, Daniel Fridman prevailed over Dmitrij Kollars. Follow | Follow today's action live with expert commentary! | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r3",
-         "pubDate" : "Wed, 20 Jul 2022 12:50:00 +0100",
-         "title" : "NC World Masters: Anand draws, Fridman scores"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/creating-studies-from-games-1",
          "pubDate" : "Sun, 10 Jul 2022 12:45:00 +0100",
          "title" : "Creating studies from games (1)"
-      },
-      {
-         "description" : " My third new website is chess1500.uk. There are, in general, three approaches you can take when promoting children's chess. Chess 500 is an approach designed to maximise the number of people playing chess at 500 level not much more than playing random moves. You can do this by promoting chess in primary schools, preferably <a href=\"https://chessimprover.com/chess-1500/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 1500\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-1500/\">Chess 1500</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-1500/",
-         "pubDate" : "Sun, 10 Jul 2022 10:30:51 +0000",
-         "title" : "Chess 1500"
       }
    ]
 }
