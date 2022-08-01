@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Georgian Women's team today meets with India3 on the third board of the Women's section. Both teams seek for an important R4 victory which would emerge them on the top, and IM Lela Javakhishvili was the first one to score for her team today. Javakhishvili defeated WIM Varshini Sanithi after only 12 moves of play, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lela-javakhishvili-scores-an-important-win-for-georgia-defeating-wim-varshini-sanithi-in-12-moves/",
+         "pubDate" : "Mon, 01 Aug 2022 11:10:18 +0000",
+         "title" : "IM Lela Javakhishvili scores an important win for Georgia defeating WIM Varshini Sanithi in 12 moves!"
+      },
+      {
+         "description" : "The fourth round of the 2022 Chess Olympiad in Chennai has started bringing interesting encounters between the leaders. Only 20 teams emerged on the top of the Open section with a maximum of 6 match points, and 19 teams are tying for the top of the Women's section with the same score. The round started []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-4/",
+         "pubDate" : "Mon, 01 Aug 2022 10:52:26 +0000",
+         "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 4"
+      },
+      {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: The women's team from Tajikistan",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Mon, 01 Aug 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "As a chess site, it is not an exaggeration to say that the first and foremost obligation is to have the means to teach the game. ChessBase has programs such as the Fritz & Chesster series, but another way is through the Learn Chess app in the ChessBase Account, a beginner courses, which teaches the moves and then the core fundamentals. Here is a small tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/learning-to-play-chess-with-chessbase",
+         "pubDate" : "Mon, 01 Aug 2022 10:00:00 +0100",
+         "title" : "Learning to play chess with ChessBase"
+      },
+      {
+         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Round 4 board pairings (open section) / Round 4 board pairings (women's section) / Round 4 team pairings / Round 3 results (open section) / Round 3 results (women's section) Read all:&#xA0;Chess Olympiad 2022 news here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-4-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
+         "pubDate" : "Mon, 01 Aug 2022 08:19:59 +0000",
+         "title" : "Round 4 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
+      },
+      {
+         "description" : "Things are heating up at the&#xA0;44th Chess Olympiad 2022&#xA0;in Chennai, as only 20 teams emerged in the Open section with a maximum of 6 match points, and 19 teams lead the Women&#x2019;s section with the same score. The medical emergency and a generous act by the opponent marked yesterday's round, together with the major upset []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-4-board-pairings-open-section/",
+         "pubDate" : "Mon, 01 Aug 2022 07:53:27 +0000",
+         "title" : "Chess Olympiad 2022 - Round 4 board pairings (open section)"
+      },
+      {
+         "description" : "Things are heating up at the&#xA0;44th Chess Olympiad 2022&#xA0;in Chennai, as only 20 teams emerged in the Open section with a maximum of 6 match points, and 19 teams lead the Women&#x2019;s section with the same score.&#xA0;The medical emergency&#xA0;and a generous act by the opponent marked yesterday&#x2019;s round, together with the major upset of&#xA0;Italy defeating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-4-board-pairings-womens-section/",
+         "pubDate" : "Mon, 01 Aug 2022 07:40:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 4 board pairings (women's section)"
+      },
+      {
          "description" : "It is getting more and more difficult for the top teams to beat their lower-rated opponents at the Chess Olympiad in Chennai. In round 3, Norway and Germany, seeded third and ninth in the open section, were defeated by Italy and Austria respectively, while the eighth seeds from Ukraine could only get a draw against Cuba. In the women's section, Mongolia beat the United States and Estonia took down Armenia. | Pictured: Daniele Vocaturo (Italy) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,22 +146,6 @@ news_feed (
          "title" : "Interview with Martin B. Justesen, author of Say Chess"
       },
       {
-         "description" : "After three played rounds at the 2022 Chess Olympiad, only 20 teams in Open section emerged with a maximum of 6 match points and all three victories. Italy made a major upset defeating Norway with a convincing 3-1 victory. See the results below Related:&#xA0;Results &#x2013; Chess Olympiad 2022 round 3 (open section)Popular from Chess Olympiad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-3-open-section/",
-         "pubDate" : "Sun, 31 Jul 2022 19:10:28 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 3 (open section)"
-      },
-      {
-         "description" : "Several upsets marked the third round of the Women's Chess Olympiad 2022. Mongolia defeated USA, Estonia was victorious against Armenia, Sweden won against higher-rated Spain Three Indian teams kept the race for the top scoring perfect 6 match points, with nine-month pregnant Harika Dronavalli making her debut in the Chennai Chess Olympiad today playing the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-3-womens-section/",
-         "pubDate" : "Sun, 31 Jul 2022 19:00:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 3 (women's section)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -130,36 +170,12 @@ news_feed (
          "title" : "Chess Olympiad: Yannick Pelletier loses to Praggnanandhaa on time"
       },
       {
-         "description" : "With World Chess Champion Magnus Carlsen playing the first board, the Norwegian team was one of the favorites to win the 44th Chess Olympiad 2022. Nonetheless, Italy today made a major upset defeating Norway with a convincing 3-1 score. The heroes of the team were GM Lorenzo Lodici and GM Francesco Sonis who won their []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/italy-makes-a-major-upset-defeating-norway-in-the-third-round-of-the-2022-chess-olympiad/",
-         "pubDate" : "Sun, 31 Jul 2022 15:14:33 +0000",
-         "title" : "Italy makes a major upset defeating Norway in the R3 of the 2022 Chess Olympiad"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 88th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-7",
          "pubDate" : "Sun, 31 Jul 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 88: Basics of the Benko Gambit (7)"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 is seeing a chess fever spreading through the city of Chennai. The event attracted a number of journalists who daily report from the tournament and the interest for the chess games is repeatedly seen upon the start of the first round. The crowd was surrounding chess players, trying to spot []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/journalists-unhappy-after-changes-in-the-media-protocols-at-the-2022-chess-olympiad/",
-         "pubDate" : "Sun, 31 Jul 2022 13:14:11 +0000",
-         "title" : "Journalists unhappy after changes in the Media protocols at the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "GM Harika Dronavalli today makes her debut in the Chennai Chess Olympiad 2022 playing the first board against IM Jovanka Houska who defends England's colours. Harika is nine months pregnant&#xA0;as of now, but she decided to compete for the national team of India. England vs India live Round 3 Team pairings&#xA0;/&#xA0;Round 3 board pairings (women&#x2019;s []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nine-month-pregnant-harika-dronavalli-debuts-today-in-the-chennai-chess-olympiad/",
-         "pubDate" : "Sun, 31 Jul 2022 12:48:25 +0000",
-         "title" : "Nine-month pregnant Harika Dronavalli debuts today in the Chennai Chess Olympiad"
       },
       {
          "description" : "Most games favoured the favourites in round 2 of the Chess Olympiad, with a few exceptions. In the open section, Zambia and Bulgaria upset Denmark and Croatia respectively, while among the women, Ecuador got the better of Slovenia. World champion Magnus Carlsen made his debut, and outplayed Georg Meier in a balanced endgame to help Norway get a 4-0 win over Uruguay. | Pictured: Mohamed Emli Ramla (Dijibouti) | Photo: Mark Livshitz",
@@ -322,7 +338,7 @@ news_feed (
          "title" : "Nearly Smooth Sailing For Top Seeds In Day Of Zugzwangs"
       },
       {
-         "description" : "The best days in the coming week to contact the office by telephone will be Tuesday, Thursday and Friday owing to staff leave. Email communications...",
+         "description" : "The best days in the coming week to contact the office by telephone will be Tuesday, Thursday and Friday owing to staff leave. Phones will...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/staffing-office-1st-5th-august/",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "Carlsen decides not to defend title"
       },
       {
-         "description" : "There were two decisive games in the No-Castling World Masters. Vishy Anand defeated Daniel Fridman and Dmitrij Kollars beat Michael Adams. In the Deutschland Grand Prix, Luke McShane remains in the lead after all three games ended in a draw on Wednesday. In the open tournament, Max Warmerdam and Tornike Sanikidze are sharing the lead. | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r4",
-         "pubDate" : "Thu, 21 Jul 2022 13:45:00 +0100",
-         "title" : "NC World Masters: Anand beats Fridman, Kollars beats Adams"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-59/",
          "pubDate" : "Thu, 21 Jul 2022 08:50:32 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (59)"
-      },
-      {
-         "description" : "The SuperUnited Rapid & Blitz tournament, the third event in this year's Grand Chess Tour, kicked off Wednesday in Zagreb. Magnus Carlsen and Ian Nepomniachtchi, the contenders of the last World Championship match, were paired up against each other in the first round and drew their game. Once the day's action was over, Alireza Firouzja emerged as the sole leader with 5 out of 6 points (wins are worth 2 points in the rapid section). | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d1",
-         "pubDate" : "Thu, 21 Jul 2022 07:10:00 +0100",
-         "title" : "SuperUnited Croatia: Firouzja starts strong"
       },
       {
          "description" : "The 2022 ECU General Assembly will take place on Saturday, 23rd July 2022 in Hotel Porto Palace Thessaloniki, Greece. The ECU Board meeting will be held a day before, on Friday, 22nd July 2022, in the same venue. 50 European federations and more than 80 delegates, officials, councillors will be present in Thessaloniki for the ECU General Assembly&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/\">Read More &#187;</a></span>",
@@ -2064,46 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1857",
          "pubDate" : "Mon, 11 Jul 2022 18:23:30 +0000",
          "title" : "Winners crowned at Trinidad and Tobago International Open 2022"
-      },
-      {
-         "description" : " <p class=\"lead\">The 54-year-old Boris Gelfand out-blitzed 20-year-old Andrey Esipenko at the Leon Masters second semifinals to qualify to the finals against Vishy Anand and eventually be crowned the winner. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/104092.jpeg\" width=\"1200\" height=\"800\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Official Website // <a href=\"http://www.advancedchessleon.com/edicion.html\">Advanced Chess Leon</a></div> </div> The Gelfand-Esipenko match at the Leon Masters semifinals was one to remember. The match was to be decided in two blitz games which ended 1-1 to be decided in Armageddon: 6 minutes for Esipenko with White, and 5 minut",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/gelfand-out-blitzed-esipenko-at-the-leon-masters/",
-         "pubDate" : "Mon, 11 Jul 2022 11:14:18 +0000",
-         "title" : "Gelfand out-blitzed Esipenko at the Leon Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1856",
-         "pubDate" : "Mon, 11 Jul 2022 11:02:01 +0000",
-         "title" : "Bundesliga 2022: OSG Baden-Baden takes title"
-      },
-      {
-         "description" : " <p class=\"lead\">This Day (11th of July) in 1972 it was the first game of the \"Match of the Century\" between the defending World Champion Boris Spassky (Soviet Union) and the Challenger Bobby Fischer (USA). 50 years later, we're still wondering if the World Champion Magnus Carlsen will defend his title against Ian Nepomniachtchi due to - probably - lack of motivation or interest for the specific match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0ec4088c2fd829a05e371a3b3615bf37.jpeg\" width=\"2000\" height=\"1451\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess Championship 1972 // Defending World Chess Champion Boris Spassky faced the Challenger Bobby ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/from-fischer-spassky-to-carlsen-nepomniachtchi/",
-         "pubDate" : "Mon, 11 Jul 2022 10:27:34 +0000",
-         "title" : "From Spassky-Fischer to Carlsen-Nepomniachtchi (?)"
-      },
-      {
-         "description" : "The All India Chess Federation takes immense pleasure in announcing the launch of the ticketing portal of the 44th Chess Olympiad. The chess fans who",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/chess-olympiad-ticketing-portal/",
-         "pubDate" : "Mon, 11 Jul 2022 08:30:32 +0000",
-         "title" : "CHESS OLYMPIAD TICKETING PORTAL"
-      },
-      {
-         "description" : "ECU E-Magazine June 2022 is out! In this edition of the ECU E-Magazine you may read about: FIDE Candidates Chess Tournament 2022 European Corporate Chess Championship 2022 Norway Chess 2022 European Senior Chess Championship 2022 European Amateur Chess Championship 2022 European Youth Teams and Rapid&#38;Blitz Chess Championships 2022 Women Chess Conference Prague 2022 Arbiters Corner 44th Chess Olympiad&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-june-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-june-2022/",
-         "pubDate" : "Mon, 11 Jul 2022 08:20:25 +0000",
-         "title" : "ECU E-MAGAZINE JUNE 2022"
       }
    ]
 }
