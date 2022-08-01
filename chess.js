@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine Extra #208 offers, among other things, almost an hour of video training: Ivan Sokolov presents 6.g3 as a surprise weapon against the Sicilian Four Knights. And Nico Zwirs examines the move 5...b5 in the Vienna Variation of the Queen's Gambit - an absolutely fashionable variation that leads to very dynamic play! \"The brilliancy\" is contributed by David Navara, who highlights his Black win with the Berlin Defense against Alexei Shirov. In addition, the \"Lucky bag\" with 59 annotated games - including contributions from Anish Giri and Kirill Shevchenko - holds a colorful mix of analyses and suggestions. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-208",
+         "pubDate" : "Mon, 01 Aug 2022 14:00:00 +0100",
+         "title" : "New: CBM Extra #208"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1893",
+         "pubDate" : "Mon, 01 Aug 2022 12:16:54 +0000",
+         "title" : "Nepomniachtchi enters top-3 open in August 2022 rating list"
+      },
+      {
          "description" : "Georgian Women's team today meets with India3 on the third board of the Women's section. Both teams seek for an important R4 victory which would emerge them on the top, and IM Lela Javakhishvili was the first one to score for her team today. Javakhishvili defeated WIM Varshini Sanithi after only 12 moves of play, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -402,12 +418,20 @@ news_feed (
          "title" : "Chennai Olympiad 1: Aronian stumbles as favourites win"
       },
       {
-         "description" : "Chess.com is proud to announce the return of Arena Kings starting on August 3 at 9 a.m. PT/17:00 CET! Arena Kings is shifting back to its roots: An event by chess streamers for chess streamers. It is for this reason that the event now features a w...",
+         "description" : "Chess.com is proud to announce the return of Arena Kings starting on August 3 at 9 a.m. PT/18:00 CET! Arena Kings is shifting back to its roots: An event by chess streamers for chess streamers. It is for this reason that the event now features a w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/new-arena-kings-format",
          "pubDate" : "Fri, 29 Jul 2022 12:31:00 -0700",
          "title" : "Announcing Arena Kings With New Weekly Format"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Fri, 29 Jul 2022 19:29:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
@@ -432,14 +456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1885",
          "pubDate" : "Fri, 29 Jul 2022 18:09:52 +0000",
          "title" : "FIDE, AICF, & Tech Mahindra Unveil Fan Nxt.Now App at the 44th Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Fri, 29 Jul 2022 17:29:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
@@ -1512,14 +1528,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chess-puzzle-that-led-to-a-fields-medal",
          "pubDate" : "Thu, 21 Jul 2022 15:05:00 +0100",
          "title" : "The chess puzzle that led to a Fields Medal"
-      },
-      {
-         "description" : "Ending months of speculation, Magnus Carlsen has officially announced he will not be defending his title in a rematch against Ian Nepomniachtchi come the end of 2022. As a result, the second-place winner of the 2022 Candidates Tournament, Ding Liren, will face the Russian to determine the new World Champion. (Photo: Albert Silver)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-news-magnus-carlsen-won-t-defend-his-title-2",
-         "pubDate" : "Thu, 21 Jul 2022 15:00:00 +0100",
-         "title" : "Breaking News: Magnus Carlsen won't defend his title!"
       },
       {
          "description" : " The news that Magnus Carlsen will not defend his World Championship title is spreading quite quickly across the chess world. He had hinted that this might happen, but I for one was quite surprised that he has decided to go down this road. He isn't retiring from chess (like Fischer did), and is in fact taking part in the upcoming Olympiad. But we once again return to a situation where the World Champion isn't necessarily the worlds strongest player. The immediate result is that it will be a Nepo v Ding world championship match, as they finished 1st and 2nd at the 2022 Candidates. Interestingly, neither player is taking part in the Olympiad, as neither players country will be there. The longe",
