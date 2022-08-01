@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1894",
+         "pubDate" : "Mon, 01 Aug 2022 19:00:48 +0000",
+         "title" : "USA stumbles in Chennai Olympiad"
+      },
+      {
+         "description" : "After four played rounds at the&#xA0;44th Chess Olympiad 2022&#xA0;only five teams kept the winning strike in Open section with perfect 8 match points. India2, Armenia, Israel, England and Spain tie for the top, while USA, India, Azerbaijan and nine other teams score 7 match points. The Women&#x2019;s section teams suffered fewer upsets than the teams []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-5-pairings/",
+         "pubDate" : "Mon, 01 Aug 2022 18:50:06 +0000",
+         "title" : "44th Chess Olympiad 2022 - Round 5 pairings"
+      },
+      {
+         "description" : "After four played rounds at the 44th Chess Olympiad 2022 only five teams kept the winning strike with perfect 8 match points. India2, Armenia, Israel, England and Spain tie for the top, while USA, India, Azerbaijan and nine other teams score 7 match points. Scroll down for the results of the R4 (open section) / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-4-open-section/",
+         "pubDate" : "Mon, 01 Aug 2022 18:23:20 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 4 (open section)"
+      },
+      {
+         "description" : "The fourth round of the 44th Chess Olympiad 2022 brought interesting matches, and the Women's section teams suffered fewer upsets than the teams of the Open event. Azerbaijan, Poland, Ukraine, India, France, India 2, Georgia and Romania emerged on the top with a maximum score of 8 match points. Scroll down for the R4 results []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-4-womens-section/",
+         "pubDate" : "Mon, 01 Aug 2022 18:20:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 4 (women's section)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93281672.cms\" />After being on top for the first three days of the 44th Olympiad, Indian teams faced their first hurdle on Monday. India 1, in the open category, drew their encounter against France 2-2. All four matches in that round ended in draws. P Harikrishna and Vidit Gujrathi drew with Jules Moussard and Laurent Fressinet respectively. On the other boards, Arjun Erigaisi had a quick draw against Matthieu Cornette and SL Narayanan split points with Maxime Lagarde.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-gukesh-nihal-star-in-india-2-win/articleshow/93281672.cms",
+         "pubDate" : "Mon, 01 Aug 2022 17:47:10 +0000",
+         "title" : "Chess Olympiad: Gukesh, Nihal star in India 2 win"
+      },
+      {
+         "description" : "In Endgame Magic #201 Karsten M&uuml;ller had a look at endgame highlights from the Candidates Tournament, and in this Endgame Magic Show he visits the Candidates Tournament again. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-205-more-endgame-highlights-from-the-candidates-tournament",
+         "pubDate" : "Mon, 01 Aug 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #205: More endgame highlights from the Candidates Tournament"
+      },
+      {
+         "description" : "At the close of voting for the silver representatives results were as follows &#8212; Robert Dennington 21; Srihari Iyengar 8; Tahir Maher ...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/direct-members-reps-elections-2022/",
+         "pubDate" : "Mon, 01 Aug 2022 16:00:21 +0000",
+         "title" : "Direct Members Reps Elections 2022 results"
+      },
+      {
          "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Sumiya Bilguun (Mongolia) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +66,7 @@ news_feed (
          "title" : "Endgames from Chennai (2)"
       },
       {
-         "description" : " Round #3 in the massive Mahabalipuram Resort &#38; Convention Center Round #3 had a few upsets with Norway going down and Magnus Carlsen being held by Italy's Daniele Vocaturo. Carlsen essayed the Caro-Kann simply looking for a position he could play. Vocaturo played the exchange variation and Carlsen played 5e6 hemming in his c8-bishop. This The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/\">2022 Chess Olympiad: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Round #3 in the massive Mahabalipuram Resort &#38; Convention CenterPhoto by Mark Livshitz Round #3 had a few upsets with Norway going down and Magnus Carlsen being held by Italy's Daniele Vocaturo. Carlsen essayed the Caro-Kann simply looking for a position he could play. Vocaturo played the exchange variation and Carlsen played 5e6 hemming in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/\">2022 Chess Olympiad: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/",
@@ -152,30 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/medical-emergency-during-the-2022-chess-olympiad-r3-and-the-generous-act-of-the-opponent/",
          "pubDate" : "Sun, 31 Jul 2022 21:25:01 +0000",
          "title" : "Medical emergency during the 2022 Chess Olympiad R3 and the generous act of the opponent"
-      },
-      {
-         "description" : "The USA team today won the important match against Georgia keeping the lead in the 44th Chess Olympiad in Chennai. USA was convincing claiming the third victory with 3-1 score, despite the shaky start. Replay the match here In the post-game interview, the second board of the USA team GM Levon Aronian spoke about his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-its-a-problem-when-the-tournament-is-organized-too-well-interview/",
-         "pubDate" : "Sun, 31 Jul 2022 20:47:26 +0000",
-         "title" : "Levon Aronian: \"It's a problem when the tournament is organized too well\" (INTERVIEW)"
-      },
-      {
-         "description" : "Things are heating up at the 44th Chess Olympiad 2022 in Chennai, as only 20 teams emerged in the Open section with a maximum of 6 match points, and 19 teams lead the Women's section with the same score. The fourth round is scheduled for Monday, 1st of August, starting from 15:00 (GMT+5:30). Team pairings []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-4-pairings/",
-         "pubDate" : "Sun, 31 Jul 2022 19:51:28 +0000",
-         "title" : "44th Chess Olympiad 2022 - Round 4 pairings"
-      },
-      {
-         "description" : "Martin B. Justesen is an avid chess player from Denmark. Justesen is a chess author who published multiple chess books and he creates content about his own journey towards chess improvement on a regular basis in his podcast Say Chess. His latest book is dedicated to opening visualization in blindfold games. Get your copy of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-martin-b-justesen-author-of-say-chess/",
-         "pubDate" : "Sun, 31 Jul 2022 19:20:46 +0000",
-         "title" : "Interview with Martin B. Justesen, author of Say Chess"
       },
       {
          "description" : "",
@@ -1026,14 +1058,6 @@ news_feed (
          "title" : "Jonny Hector wins Swedish National Championship at 58"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93138009.cms\" />The 'B' team, seeded 11th comprises Nihal Sarin, D Gukesh, R Praggnanandhaa, B Adhiban and Raunak Sadhwani, all Grandmasters, and Ramesh believes if the players can keep their focus during the 11 rounds of the Olympiad, beginning at nearby Mamallapuram on July 28, they can finish on the podium.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-b-team-capable-of-podium-finish-in-chess-olympiad-coach-ramesh/articleshow/93138009.cms",
-         "pubDate" : "Tue, 26 Jul 2022 11:41:29 +0000",
-         "title" : "India 'B' team capable of podium finish in Chess Olympiad: Coach Ramesh"
-      },
-      {
          "description" : "At the European Youth Rapid and Blitz Championships, the German players had a great performance. Tykhon Cherniaiev won two gold medals, Luisa Bashylina one gold and one silver. Ruben K&ouml;llner and Tobias K&ouml;lle also won gold, while Marius Fromm took home a silver medal. | Photos: Dorian Rogozenco",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1520,14 +1544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsens-abdication-reactions-from-the-chess-world",
          "pubDate" : "Thu, 21 Jul 2022 12:30:00 -0700",
          "title" : "Carlsen's Abdication: Reactions From The Chess World"
-      },
-      {
-         "description" : "This week Robert Ris discusses a sharp variation of the Sicilian Defence, explored this week by none others than Magnus Carlsen and Maxime Vachier-Lagrave. Sometimes short draws can be very exciting! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-short-exciting-draw",
-         "pubDate" : "Thu, 21 Jul 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Carlsen Sicilian"
       },
       {
          "description" : "GMs Aram Hakobyan and Mahammad Muradli were the winners of the fifth and sixth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; Hakobyan and Muradli advance to the main event along with GMs Hrant Melkumyan and Sam Sevian, victors of th...",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-links-for-national-under-19-open-girls-junior-chess-championship-2002/",
          "pubDate" : "Tue, 12 Jul 2022 09:30:53 +0000",
          "title" : "Live Game Links for National Under 19 Open & Girls (Junior) Chess Championship 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1857",
-         "pubDate" : "Mon, 11 Jul 2022 18:23:30 +0000",
-         "title" : "Winners crowned at Trinidad and Tobago International Open 2022"
       }
    ]
 }
