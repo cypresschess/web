@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Sumiya Bilguun (Mongolia) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-2",
+         "pubDate" : "Mon, 01 Aug 2022 16:30:00 +0100",
+         "title" : "Endgames from Chennai (2)"
+      },
+      {
+         "description" : " Round #3 in the massive Mahabalipuram Resort &#38; Convention Center Round #3 had a few upsets with Norway going down and Magnus Carlsen being held by Italy's Daniele Vocaturo. Carlsen essayed the Caro-Kann simply looking for a position he could play. Vocaturo played the exchange variation and Carlsen played 5e6 hemming in his c8-bishop. This The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/\">2022 Chess Olympiad: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/",
+         "pubDate" : "Mon, 01 Aug 2022 14:02:05 +0000",
+         "title" : "2022 Chess Olympiad: Round #3"
+      },
+      {
          "description" : "ChessBase Magazine Extra #208 offers, among other things, almost an hour of video training: Ivan Sokolov presents 6.g3 as a surprise weapon against the Sicilian Four Knights. And Nico Zwirs examines the move 5...b5 in the Vienna Variation of the Queen's Gambit - an absolutely fashionable variation that leads to very dynamic play! \"The brilliancy\" is contributed by David Navara, who highlights his Black win with the Berlin Defense against Alexei Shirov. In addition, the \"Lucky bag\" with 59 annotated games - including contributions from Anish Giri and Kirill Shevchenko - holds a colorful mix of analyses and suggestions. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,6 +210,14 @@ news_feed (
          "title" : "Understanding before Moving 88: Basics of the Benko Gambit (7)"
       },
       {
+         "description" : "The term \"malyutka\" - \"baby\" - is used for endgame studies with up to five pieces. The art of such studies is very old, but some modern composers extensively researched such positions. Obviously, endgame tablebases made composing such endgame studies easier in the late 20th century, and it seems that there can't be much variety with only three pieces apart from the kings. Yet, even with so few pieces, some interesting ideas can be found.| Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-up-to-five-pieces-allowed",
+         "pubDate" : "Sun, 31 Jul 2022 11:00:00 +0100",
+         "title" : "Study of the Month - Up to five pieces allowed"
+      },
+      {
          "description" : "Most games favoured the favourites in round 2 of the Chess Olympiad, with a few exceptions. In the open section, Zambia and Bulgaria upset Denmark and Croatia respectively, while among the women, Ecuador got the better of Slovenia. World champion Magnus Carlsen made his debut, and outplayed Georg Meier in a balanced endgame to help Norway get a 4-0 win over Uruguay. | Pictured: Mohamed Emli Ramla (Dijibouti) | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-girl-from-palestine-the-darling-of-olympiad/articleshow/93241001.cms",
          "pubDate" : "Sat, 30 Jul 2022 17:34:42 +0000",
          "title" : "8-year-old girl from Palestine, the darling of Chess Olympiad"
-      },
-      {
-         "description" : "The term \"malyutka\" - \"baby\" - is used for endgame studies with up to five pieces. The art of such studies is very old, but some modern composers extensively researched such positions. Obviously, endgame tablebases made composing such endgame studies easier in the late 20th century, and it seems that there can't be much variety with only three pieces apart from the kings. Yet, even with so few pieces, some interesting ideas can be found.| Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-up-to-five-pieces-allowed",
-         "pubDate" : "Sat, 30 Jul 2022 18:00:00 +0100",
-         "title" : "Study of the Month - Up to five pieces allowed"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93239581.cms\" />The India 'B' team blanked Estonia 4-0 in the second round of the Open section in the 44th Chess Olympiad here on Saturday. Second-seeded India 'A' team defeated Moldova 3.5-0.5 for its second straight win. World champion Magnus Carlsen, who had missed the first round, beat Georg Meier to star in third-seeded Norway's 4-0 victory over Uruguay.",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "Hakobyan, Muradli Win Chess.com Global Play-Ins"
       },
       {
-         "description" : "In what can be only described as a wonderfully inspiring 'comeback' story, the 2022 Fields Medal was awarded, among others, to June Huh for his work in chromatic polynomials, stemming from a chess puzzle involving four knights. The Fields Medal is one of the most prestigious awards in Mathematics, given out only once every four years, to the brightest minds in the field. | Photo: Ruth Fremson/The New York Times",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-puzzle-that-led-to-a-fields-medal",
-         "pubDate" : "Thu, 21 Jul 2022 15:05:00 +0100",
-         "title" : "The chess puzzle that led to a Fields Medal"
-      },
-      {
          "description" : " The news that Magnus Carlsen will not defend his World Championship title is spreading quite quickly across the chess world. He had hinted that this might happen, but I for one was quite surprised that he has decided to go down this road. He isn't retiring from chess (like Fischer did), and is in fact taking part in the upcoming Olympiad. But we once again return to a situation where the World Champion isn't necessarily the worlds strongest player. The immediate result is that it will be a Nepo v Ding world championship match, as they finished 1st and 2nd at the 2022 Candidates. Interestingly, neither player is taking part in the Olympiad, as neither players country will be there. The longe",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/20/breaking-news-bonus-pod-chess24-reporter-tarjei-svenson-on-magnus-decision-not-to-defend-his-title",
          "pubDate" : "Wed, 20 Jul 2022 23:34:20 +0000",
          "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svensen on Magnus' Decision not to Defend his Title "
-      },
-      {
-         "description" : " Magnus Carlsen Just over three hours ago, an announcement was made that Magnus Carlsen will not defend his title against Ian Nepomniachtchi, who recently won the right to challenge him. Twitter exploded after the news came out on chess24 about his decision. After successfully defending his title for the 4th time, he made statements about The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/\">Magnus Carlsen will NOT defend title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/20/breaking-carlsen-will-not-defend-title/",
-         "pubDate" : "Wed, 20 Jul 2022 16:14:13 +0000",
-         "title" : "Magnus Carlsen will NOT defend title!"
       },
       {
          "description" : "Titled Tuesday on July 19 was won by FM Abtin Atakhan and GM Dmitry Andreikin. The latter tournament ended in a four-way tie on first after Andreikin defeated GM Daniel Naroditsky in the final round, and Andreikin&#39;s tiebreaks barely won out over s...",
