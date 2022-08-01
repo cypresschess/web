@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is getting more and more difficult for the top teams to beat their lower-rated opponents at the Chess Olympiad in Chennai. In round 3, Norway and Germany, seeded third and ninth in the open section, were defeated by Italy and Austria respectively, while the eighth seeds from Ukraine could only get a draw against Cuba. In the women's section, Mongolia beat the United States and Estonia took down Armenia. | Pictured: Daniele Vocaturo (Italy) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r3",
+         "pubDate" : "Mon, 01 Aug 2022 08:05:00 +0100",
+         "title" : "Chennai R3: Italy beats Norway, Austria beats Germany"
+      },
+      {
+         "description" : "Italy inflicted a shocking defeat on third-seeded Norway with a convincing score of 3-1 in the third round of the 44th FIDE Chess Olympiad, as Netherlands and India 2 scored impressive 4-0 victories against Sweden and Switzerland respectively. Ind...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-3",
+         "pubDate" : "Sun, 31 Jul 2022 20:41:00 -0700",
+         "title" : "Italy Shocks Norway On Day Of Endgames, Estonian Grandmaster Faints At Board"
+      },
+      {
          "description" : " The third day of the 2022 Chess Olympiad was action packed, both on the board, and around the boards. On the chessboard, the big news was the 3-1 win by Italy over the 3rd seeded Norwegian team. Draws on the top 2 boards, and wins on the bottom 2 saw Italy keep a perfect record, and relegate Norway down to 30th on tie-break. Another big result was the win by Austria over Germany 2.5-1.5, resulting in another top 10 team (on seedings) drop down the table. Both Australian teams played well against tough opposition. The open team narrowly lost 1.5-2.5 to Poland, with a win by Temur Kuybokarov the highlight. The Women's team did a little better, drawing 2-2 with Cuba, and now face the USA team ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nine-month-pregnant-harika-dronavalli-debuts-today-in-the-chennai-chess-olympiad/",
          "pubDate" : "Sun, 31 Jul 2022 12:48:25 +0000",
          "title" : "Nine-month pregnant Harika Dronavalli debuts today in the Chennai Chess Olympiad"
-      },
-      {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Justin Blackman (Barbados)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Sun, 31 Jul 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
       },
       {
          "description" : "Most games favoured the favourites in round 2 of the Chess Olympiad, with a few exceptions. In the open section, Zambia and Bulgaria upset Denmark and Croatia respectively, while among the women, Ecuador got the better of Slovenia. World champion Magnus Carlsen made his debut, and outplayed Georg Meier in a balanced endgame to help Norway get a 4-0 win over Uruguay. | Pictured: Mohamed Emli Ramla (Dijibouti) | Photo: Mark Livshitz",
@@ -1682,14 +1690,6 @@ news_feed (
          "title" : "European Youth Rapid&Blitz Chess Championship 2022 starts tomorrow"
       },
       {
-         "description" : "The FIDE Chess.com 2022 Women&#39;s Speed Chess Championship continued on Monday with a showdown between the world&#39;s number-one ranked woman player, GM Hou Yifan, against the U.S. women&#39;s chess champion, IM Carissa Yip, which Hou won in a 21.5-5.5 dru...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-round-of-16-hou-yip",
-         "pubDate" : "Tue, 19 Jul 2022 09:15:00 -0700",
-         "title" : "World Number 1 Woman Player Close To Perfect Against Yip"
-      },
-      {
          "description" : " I have just managed to win a rapidplay tournament at my local club with a pleasing 5.5/6. But the secret to this wasn't that the time control suited me, or that I was in good form, but something simpler. I turned up for all 6 rounds (3 weeks), which gave me a distinct advantage. A couple of close rivals had enforced absences (covid), while some had other commitments get in the way. Fortunately I wasn't affected by these issues, which maximised my winning chances! <br /> <b>Press,Shaun - Grcic,Milan [D02]</b><br />Gungahlin Rapid (6), 19.07.2022 <script>new PgnViewer( { boardName: \"game1338\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.g3 c5 4.Bg2 cxd4 5.O-O Nc6 6.Nxd4 e5 7.Nxc6 b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1860",
          "pubDate" : "Wed, 13 Jul 2022 19:35:50 +0000",
          "title" : "Loïc Travadon scores double at 8th International Francophone Chess Meetings"
-      },
-      {
-         "description" : "At the close of nominations for the direct members' representatives for 2021-22 there were two nominations in each category of membership except for the silver...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-reps-elections-2022/",
-         "pubDate" : "Wed, 13 Jul 2022 12:40:21 +0000",
-         "title" : "Direct Members Reps Elections 2022"
       },
       {
          "description" : "MPL 51st National Junior (Under-19) Open and 36th National Junior (Under-19) Girls Chess Championship is being held at PYC Hindu Gymkhana, in the heart of Pune",
