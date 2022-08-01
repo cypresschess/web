@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Giving a post-game interview after third round at the Women's Chess Olympiad, the famous chess streamer Anna Cramling didn't speak about her loss. Instead, she explained how it looks to live with the &#8220;chess parents&#8221; and revealed what would she do if she wasn't a chess player. Being asked that question Anna got confused for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-cramling-reveals-what-would-she-do-if-she-wasnt-a-chess-player/",
+         "pubDate" : "Mon, 01 Aug 2022 23:10:31 +0000",
+         "title" : "Anna Cramling reveals what would she do if she wasn't a chess player"
+      },
+      {
+         "description" : "With four played rounds at the 2022 Chess Olympiad in Chennai, we saw many interesting games so far. Masterpieces, blunders, zeitnots, nerve-wracking games with countless turnovers it's all part of chess Pia Cramling won her round 2 game after only 9 moves of play, and Lela Javakhishvili won the round 4 game in 12 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-shortest-and-longest-decisive-games-of-the-2022-chess-olympiad-r1-r4/",
+         "pubDate" : "Mon, 01 Aug 2022 22:46:35 +0000",
+         "title" : "The shortest and longest decisive games of the 2022 Chess Olympiad (R1-R4)"
+      },
+      {
+         "description" : "The fourth round of the 2022 Chennai Chess Olympiad began this afternoon with the traditional first-move, performed on this occasion on board one of the Women's India-Hungary match by the managing director of Microsense, Mr.&#160;S. Kailasanathan. After some action-packed days with regard to media coverage &#x2013; &#8220;India is crazy for chess&#8221; was my observation on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-4-report/",
+         "pubDate" : "Mon, 01 Aug 2022 21:43:48 +0000",
+         "title" : "Chess Olympiad 2022 - Round 4 report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1895",
+         "pubDate" : "Mon, 01 Aug 2022 20:00:22 +0000",
+         "title" : "Women's Chess Olympiad: Eight teams won all matches after Round 4"
+      },
+      {
+         "description" : " During the 2022 Chess Olympiad, The Chess Drum had an interview with Ian Wilkinson QC who had been picked by FIDE Presidential Candidate Bachar Kouatly as his Deputy President. They are gearing up for the election which takes place at the General Assembly on August 7th. There were four certified tickets. Wilkinson has been a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/chat-with-ian-wilkinson-on-2022-fide-election/\">Chat with Ian Wilkinson on 2022 FIDE Election</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/01/chat-with-ian-wilkinson-on-2022-fide-election/",
+         "pubDate" : "Mon, 01 Aug 2022 19:50:52 +0000",
+         "title" : "Chat with Ian Wilkinson on 2022 FIDE Election"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -138,14 +178,6 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Round 4 board pairings (open section)"
       },
       {
-         "description" : "Things are heating up at the&#xA0;44th Chess Olympiad 2022&#xA0;in Chennai, as only 20 teams emerged in the Open section with a maximum of 6 match points, and 19 teams lead the Women&#x2019;s section with the same score.&#xA0;The medical emergency&#xA0;and a generous act by the opponent marked yesterday&#x2019;s round, together with the major upset of&#xA0;Italy defeating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-4-board-pairings-womens-section/",
-         "pubDate" : "Mon, 01 Aug 2022 07:40:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 4 board pairings (women's section)"
-      },
-      {
          "description" : "It is getting more and more difficult for the top teams to beat their lower-rated opponents at the Chess Olympiad in Chennai. In round 3, Norway and Germany, seeded third and ninth in the open section, were defeated by Italy and Austria respectively, while the eighth seeds from Ukraine could only get a draw against Cuba. In the women's section, Mongolia beat the United States and Estonia took down Armenia. | Pictured: Daniele Vocaturo (Italy) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,28 +218,12 @@ news_feed (
          "title" : "Women's Chess Olympiad: Mongolia stages a huge upset, favorites cruise through"
       },
       {
-         "description" : "Having the World Champion in your team doesn&#x2019;t guarantee the win. In their match-up against Italy, captain Loek van Wely&#x2019;s strategy was clear:&#xA0; neutralize Carlsen on board one Vocaturo played a solid exchange Caro-Kann and achieved a well-deserved draw and take their chances on the other three boards. Read more: Italy makes a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-3-report/",
-         "pubDate" : "Sun, 31 Jul 2022 21:46:07 +0000",
-         "title" : "Chess Olympiad 2022 - Round 3 report"
-      },
-      {
          "description" : "GM Alexey Sarana won week 23 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Jeffery Xiong in one of the most exciting finals of the season. GMs Hans Niemann and Vladimir Fedoseev made it to the semifinals. GMs Sam ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-23-sarana-wins",
          "pubDate" : "Sun, 31 Jul 2022 14:27:00 -0700",
          "title" : "Firewalk Across The Chessboard"
-      },
-      {
-         "description" : "Organizing an event with more than 2000 players, coaches, captains, referees and members of the organization is not easy at all. It requires an experienced management team, with the ability to foresee all kinds of adverse circumstances and have an accurate response for each case. This afternoon it became clear that the leadership team of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/medical-emergency-during-the-2022-chess-olympiad-r3-and-the-generous-act-of-the-opponent/",
-         "pubDate" : "Sun, 31 Jul 2022 21:25:01 +0000",
-         "title" : "Medical emergency during the 2022 Chess Olympiad R3 and the generous act of the opponent"
       },
       {
          "description" : "",
@@ -1408,14 +1424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1876",
          "pubDate" : "Fri, 22 Jul 2022 21:52:02 +0000",
          "title" : "Winners crowned at 2022 Biel Chess Festival"
-      },
-      {
-         "description" : " Yesterday the Association of Chess Professionals held a roundtable hosting the FIDE Presidential Candidates on the future for chess. The FIDE Presidential Election will be held on August 7, 2022, at the FIDE General Assembly in Chennai, India. The topic of the discussion was, &#8220;The Next 4 Years The Future for Chess and FIDE.&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/22/discussion-the-future-for-chess-and-fide/\">Discussion: The Future for Chess and FIDE</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/22/discussion-the-future-for-chess-and-fide/",
-         "pubDate" : "Fri, 22 Jul 2022 20:29:29 +0000",
-         "title" : "Discussion: The Future for Chess and FIDE"
       },
       {
          "description" : "Years back, when the first iteration of the Fritz Online app came out, it was a barebones deal: Attractive, and good for a game, but not the most compelling option to train against. A bit problematic as this was its purpose, but it has undergone many revisions since, and revisiting it you will be surprised at how interesting and fun it can be.",
