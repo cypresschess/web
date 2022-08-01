@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The third day of the 2022 Chess Olympiad was action packed, both on the board, and around the boards. On the chessboard, the big news was the 3-1 win by Italy over the 3rd seeded Norwegian team. Draws on the top 2 boards, and wins on the bottom 2 saw Italy keep a perfect record, and relegate Norway down to 30th on tie-break. Another big result was the win by Austria over Germany 2.5-1.5, resulting in another top 10 team (on seedings) drop down the table. Both Australian teams played well against tough opposition. The open team narrowly lost 1.5-2.5 to Poland, with a win by Temur Kuybokarov the highlight. The Women's team did a little better, drawing 2-2 with Cuba, and now face the USA team ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-3.html",
+         "pubDate" : "Mon, 01 Aug 2022 02:59:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 3"
+      },
+      {
          "description" : "Magnus Carlsen was held to a draw by Daniele Vocaturo as Italy won on the bottom two boards to defeat Norway in Round 3 of the Chennai Olympiad. Austria shocked Germany 2.5:1.5, while Ukraine only scraped a draw against Cuba. In the women's section Mongolia and Estonia beat the USA and Armenia. All six Indian teams still have a perfect match score, with India 2 top after winning every game so far.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
