@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you find the Sicilian difficult to cope with? Are you afraid to play the Sicilian with White because you do not want to learn a huge amount of variations by heart? Well, Roeland Pruijssers and Nico Zwirs can help. The two Dutchmen have created a complete repertoire against the Sicilian, based on the Open Sicilian. A repertoire that is easy to learn. Only this week: €69.90 instead of €99.90!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/special-bundle-how-to-slay-the-sicilian-vol-1-3",
+         "pubDate" : "Tue, 02 Aug 2022 13:17:32 +0100",
+         "title" : "Special bundle - How to slay the Sicilian Vol. 1-3 + Tactic Toolbox!"
+      },
+      {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: The women's team from Tajikistan",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Tue, 02 Aug 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "17-year-old Nodirbek Abdusattorov outplayed Fabiano Caruana as Uzbekistan came within a whisker of beating the top seeds. In the end the USA escaped with a draw, with just five teams now on a perfect score: India 2, England, Spain, Armenia and Israel, who scored a surprise win over the Netherlands.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-4-abdusattorov-beats-caruana",
+         "pubDate" : "Tue, 02 Aug 2022 08:54:04 +0000",
+         "title" : "Chennai Olympiad 4: Abdusattorov beats Caruana"
+      },
+      {
+         "description" : "Chess is a complex game, something that even Elon Musk fails to grasp completely. After only five moves, a game of chess has&#xA0;69,352,859,712,417 possible positions. You can master all of the patterns, opening tabiyas, and thematic tactics in the world. But when you run into a position that&#x2019;s &#x201C;out of the box&#x201D; &#x2014;&#xA0;and you will&#xA0;&#x2014; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronians-beauty-of-chess/",
+         "pubDate" : "Tue, 02 Aug 2022 08:50:52 +0000",
+         "title" : "Levon Aronian's Beauty of Chess"
+      },
+      {
+         "description" : "Despite a searing heat and at least 32 degrees Celsius, the second ever ChessFest was staged by Chess in Schools and Communities in London's famous Trafalgar Square on Sunday 17th July, with sister events held in Hull and Liverpool. The UK's largest one-day chess event saw over 10,000 people visit, nearly double the number from last year.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/big-pictorial-chessfest-2022",
+         "pubDate" : "Tue, 02 Aug 2022 09:30:00 +0100",
+         "title" : "Big pictorial: ChessFest 2022"
+      },
+      {
+         "description" : "Three chessboards were set by scuba divers at an unusual place as they decided to play a 60-feet underwater Chess! A group of six divers played 15 minutes underwater chess games, celebrating the first ever Chess Olympiad being held in India. The divers needed two hours to set the playground using specially designed pieces that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/60-feet-underwater-chess-in-chennai-tweetoftheday/",
+         "pubDate" : "Tue, 02 Aug 2022 08:03:05 +0000",
+         "title" : "60 feet underwater chess in Chennai #TweetOftheDay"
+      },
+      {
+         "description" : "Five teams remain perfect at the&#xA0;Chess Olympiad 2022. The leaders from India 2 are facing Romania in the top match of the day, where Pentala Harikrishna will have the white pieces against&#xA0;Bogdan-Daniel Deac, who just crossed the 2700 ELO mark. In the match Spain vs India, Alexei Shirov will be on board one against&#xA0;Gukesh D, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-5-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
+         "pubDate" : "Tue, 02 Aug 2022 08:01:12 +0000",
+         "title" : "Round 5 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
+      },
+      {
          "description" : "But over the board it is often difficult to defend them. In the diagram position White is a pawn down but he can draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,18 +74,10 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Round 5 board pairings (open section)"
       },
       {
-         "description" : "Marc Freccero is an electronic musician and DJ . He is known for taking unique music elements from all over the globe and fusing them with the vibes of dance and party music. On the eve of the Chess Olympiad 2022 the DJ released a track dedicated to Magnus Carlsen. &#8220;I'm a huge&#xA0;fan&#xA0;of&#xA0;Magnus Carlsen,&#8221; shared []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/marc-freccero-releases-an-edm-track-dedicated-to-magnus-carlsen/",
-         "pubDate" : "Tue, 02 Aug 2022 06:12:22 +0000",
-         "title" : "Marc Freccero releases an EDM track dedicated to Magnus Carlsen"
-      },
-      {
-         "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-5.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https://worldchess.com/news/a",
+         "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nodirbek-Abdusattorov-beats-Fabiano-Caruana.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/olympiad-2022-17-year-old-nodirbek-abdusattorov-beats-fabiano-ca/",
+         "link" : "https://worldchess.com/news/all/17-year-old-nodirbek-abdusattorov-beats-fabiano-ca/",
          "pubDate" : "Tue, 02 Aug 2022 05:53:24 +0000",
          "title" : "Olympiad 2022: 17-year old Nodirbek Abdusattorov beats Fabiano Caruana"
       },
@@ -40,6 +88,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r4",
          "pubDate" : "Tue, 02 Aug 2022 06:20:00 +0100",
          "title" : "Chennai R4: Uzbekistan draws the US as Abdusattorov beats Caruana"
+      },
+      {
+         "description" : "Mighty clashes coming in the Women's section of the&#xA0;Chess Olympiad 2022 . Azerbaijan, Poland, Ukraine, India, France, India 2, Georgia and Romania emerged on the top with a maximum score of 8 match points and will now feature unpredictable and exciting games in round 5. India's Humpy Koneru faces Frace's Marie Sebag, Mariya Muzychuk is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/80641-2/",
+         "pubDate" : "Tue, 02 Aug 2022 05:18:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 5 board pairings (women section)"
+      },
+      {
+         "description" : "Marc Freccero is an electronic musician and DJ . He is known for taking unique music elements from all over the globe and fusing them with the vibes of dance and party music. On the eve of the Chess Olympiad 2022 the DJ released a track dedicated to Magnus Carlsen. &#8220;I'm a huge&#160;fan&#160;of&#160;Magnus Carlsen,&#8221; shared []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/marc-freccero-releases-an-edm-track-dedicated-to-magnus-carlsen/",
+         "pubDate" : "Tue, 02 Aug 2022 05:12:00 +0000",
+         "title" : "Marc Freccero releases an EDM track dedicated to Magnus Carlsen"
       },
       {
          "description" : "India 2, Israel, England, Spain, and Armenia lead with eight match points at the end of the fourth round of the 44th FIDE Chess Olympiad. The U.S. and India, the top two seeds, were held to 2-2 draws by Uzbekistan and France respectively. Norway s...",
@@ -122,22 +186,6 @@ news_feed (
          "title" : "44th Chess Olympiad 2022 - Round 5 pairings"
       },
       {
-         "description" : "After four played rounds at the 44th Chess Olympiad 2022 only five teams kept the winning strike with perfect 8 match points. India2, Armenia, Israel, England and Spain tie for the top, while USA, India, Azerbaijan and nine other teams score 7 match points. Scroll down for the results of the R4 (open section) / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-4-open-section/",
-         "pubDate" : "Mon, 01 Aug 2022 18:23:20 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 4 (open section)"
-      },
-      {
-         "description" : "The fourth round of the 44th Chess Olympiad 2022 brought interesting matches, and the Women's section teams suffered fewer upsets than the teams of the Open event. Azerbaijan, Poland, Ukraine, India, France, India 2, Georgia and Romania emerged on the top with a maximum score of 8 match points. Scroll down for the R4 results []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-4-womens-section/",
-         "pubDate" : "Mon, 01 Aug 2022 18:20:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 4 (women's section)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93281672.cms\" />After being on top for the first three days of the 44th Olympiad, Indian teams faced their first hurdle on Monday. India 1, in the open category, drew their encounter against France 2-2. All four matches in that round ended in draws. P Harikrishna and Vidit Gujrathi drew with Jules Moussard and Laurent Fressinet respectively. On the other boards, Arjun Erigaisi had a quick draw against Matthieu Cornette and SL Narayanan split points with Maxime Lagarde.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -192,22 +240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1893",
          "pubDate" : "Mon, 01 Aug 2022 12:16:54 +0000",
          "title" : "Nepomniachtchi enters top-3 open in August 2022 rating list"
-      },
-      {
-         "description" : "Georgian Women's team today meets with India3 on the third board of the Women's section. Both teams seek for an important R4 victory which would emerge them on the top, and IM Lela Javakhishvili was the first one to score for her team today. Javakhishvili defeated WIM Varshini Sanithi after only 12 moves of play, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lela-javakhishvili-scores-an-important-win-for-georgia-defeating-wim-varshini-sanithi-in-12-moves/",
-         "pubDate" : "Mon, 01 Aug 2022 11:10:18 +0000",
-         "title" : "IM Lela Javakhishvili scores an important win for Georgia defeating WIM Varshini Sanithi in 12 moves!"
-      },
-      {
-         "description" : "The fourth round of the 2022 Chess Olympiad in Chennai has started bringing interesting encounters between the leaders. Only 20 teams emerged on the top of the Open section with a maximum of 6 match points, and 19 teams are tying for the top of the Women's section with the same score. The round started []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-4/",
-         "pubDate" : "Mon, 01 Aug 2022 10:52:26 +0000",
-         "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 4"
       },
       {
          "description" : "As a chess site, it is not an exaggeration to say that the first and foremost obligation is to have the means to teach the game. ChessBase has programs such as the Fritz & Chesster series, but another way is through the Learn Chess app in the ChessBase Account, a beginner courses, which teaches the moves and then the core fundamentals. Here is a small tour.",
@@ -1522,14 +1554,6 @@ news_feed (
          "title" : "Only 7% of People Know The Name of The Current World Chess Champion"
       },
       {
-         "description" : "Le Quang Liem drew Andrey Esipenko in the final round to clinch first place in the Grandmaster Triathlon. Esipenko and Gukesh reached the podium. | The Triathlon included classical, rapid and blitz chess. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-live",
-         "pubDate" : "Fri, 22 Jul 2022 09:55:00 +0100",
-         "title" : "Biel Chess Festival: Games and standings"
-      },
-      {
          "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">won't defend his title</a> against Ian Nepomniachtchi. The Russian GM will face the Chinese GM Ding Liren at the 2023 World Chess Championship match, but he is obviously disappointed by the turn of events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51720699962_f247e32c4f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> The 2022 Challenger Ian Nepomniachtchi talked to Alejandro Ramirez for the Saint Louis Chess Club after his third rapid round loss t",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1544,14 +1568,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/22/chess-five-time-champion-magnus-carlsen-aims-high-after-abdicating-title",
          "pubDate" : "Fri, 22 Jul 2022 07:00:06 +0000",
          "title" : "Chess: five-times champion Magnus Carlsen aims high after abdicating title"
-      },
-      {
-         "description" : "Both the Grandmaster Triathlon and the Women's Quadriathlon in Biel will feature direct encounters between the first and second placed participants in final-round battles for the respective titles. Le Quang Liem has a 3-point lead over Andrey Esipenko (a win is worth 4 points) in the GM Triatholn, while Iris Ciarletta has a 1-point lead over Zhuang Yongzhe in the ladies' Quadriathlon. | The final round kicks off four hours earlier than usual, at 10.00 CEST. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r6",
-         "pubDate" : "Fri, 22 Jul 2022 01:00:00 +0100",
-         "title" : "Biel: Le and Esipenko to face off in showdown"
       },
       {
          "description" : "",
@@ -1906,14 +1922,6 @@ news_feed (
          "title" : "Norwegian Championship: Simen Agdestein wins eighth title"
       },
       {
-         "description" : "Levon Aronian and Wei Yi finished 7th and 8th in the FTX Road to Miami Prelims, but that hasn't stopped them both reaching the final - and booking their place alongside Magnus Carlsen in the $310,000 FTX Crypto Cup to take place in Miami, Florida next month. Levon overcame Jan-Krzysztof Duda in four games, while Wei Yi defeated Richard Rapport in just three.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-semis-aronian-and-wei-yi-in-final",
-         "pubDate" : "Sat, 16 Jul 2022 10:12:39 +0000",
-         "title" : "FTX Road to Miami SFs: Aronian & Wei Yi in final"
-      },
-      {
          "description" : "In an earlier column I predicted unforeseeable twists and turns in the microcosm of chess politics. The chess governing body, FIDÉ, has already voted to rebuke Russia for its egregious invasion of Ukraine. The unanimous decision to ban Russians from competing under their own flag, and deprive the country of the Chess Olympiad, originally scheduled for []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2088,22 +2096,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/12/ep-287-gm-david-howell-joins-for-a-fide-candidates-wrap-up-plus-world-championship-match-scuttlebutt-and-his-2022-otb-and-commentating-plans",
          "pubDate" : "Tue, 12 Jul 2022 14:07:50 +0000",
          "title" : "EP 287- GM David Howell joins for a FIDE Candidates Wrap Up plus World Championship Match Scuttlebutt, and his 2022 OTB and Commentating Plans "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1858",
-         "pubDate" : "Tue, 12 Jul 2022 11:29:08 +0000",
-         "title" : "Nakhchivan to host FIDE World Youth U-16 Chess Olympiad "
-      },
-      {
-         "description" : "Please find the live game links for Under 19 Open &#38; Girls National Chess Championship 2022 https://live.followchess.com/#!mpl-51st-national-u-19-2022 https://live.followchess.com/#!mpl-51st-national-u-19-g-2022",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-links-for-national-under-19-open-girls-junior-chess-championship-2002/",
-         "pubDate" : "Tue, 12 Jul 2022 09:30:53 +0000",
-         "title" : "Live Game Links for National Under 19 Open & Girls (Junior) Chess Championship 2022"
       }
    ]
 }
