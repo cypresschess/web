@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "But over the board it is often difficult to defend them. In the diagram position White is a pawn down but he can draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-endgames-are-always-drawn",
+         "pubDate" : "Tue, 02 Aug 2022 09:00:00 +0100",
+         "title" : "Rook endgames are always drawn"
+      },
+      {
+         "description" : "Five teams remain perfect at the Chess Olympiad 2022. The leaders from India 2 are facing Romania in the top match of the day, where Pentala Harikrishna will have the white pieces against Bogdan-Daniel Deac, who just crossed the 2700 ELO mark. In the match Spain vs India, Alexei Shirov will be on board one []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-5-board-pairings-open-section/",
+         "pubDate" : "Tue, 02 Aug 2022 06:50:56 +0000",
+         "title" : "Chess Olympiad 2022 - Round 5 board pairings (open section)"
+      },
+      {
+         "description" : "Marc Freccero is an electronic musician and DJ . He is known for taking unique music elements from all over the globe and fusing them with the vibes of dance and party music. On the eve of the Chess Olympiad 2022 the DJ released a track dedicated to Magnus Carlsen. &#8220;I'm a huge&#xA0;fan&#xA0;of&#xA0;Magnus Carlsen,&#8221; shared []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/marc-freccero-releases-an-edm-track-dedicated-to-magnus-carlsen/",
+         "pubDate" : "Tue, 02 Aug 2022 06:12:22 +0000",
+         "title" : "Marc Freccero releases an EDM track dedicated to Magnus Carlsen"
+      },
+      {
+         "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-5.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https://worldchess.com/news/a",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/olympiad-2022-17-year-old-nodirbek-abdusattorov-beats-fabiano-ca/",
+         "pubDate" : "Tue, 02 Aug 2022 05:53:24 +0000",
+         "title" : "Olympiad 2022: 17-year old Nodirbek Abdusattorov beats Fabiano Caruana"
+      },
+      {
+         "description" : "The big rating favourites in the open section of the Chennai Olympiad were held to a draw in Monday's fourth round: Uzbekistan drew the United States thanks to a remarkable victory by Nodirbek Abdusattorov over Fabiano Caruana on top board. Meanwhile, five teams scored a fourth consecutive victory and are now sharing the lead - the most surprising member of this group is Israel, which beat the Netherlands on Monday. In the women's section, eight teams are sharing the lead on 8 out 8 match points. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r4",
+         "pubDate" : "Tue, 02 Aug 2022 06:20:00 +0100",
+         "title" : "Chennai R4: Uzbekistan draws the US as Abdusattorov beats Caruana"
+      },
+      {
+         "description" : "India 2, Israel, England, Spain, and Armenia lead with eight match points at the end of the fourth round of the 44th FIDE Chess Olympiad. The U.S. and India, the top two seeds, were held to 2-2 draws by Uzbekistan and France respectively. Norway s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-4",
+         "pubDate" : "Mon, 01 Aug 2022 20:36:00 -0700",
+         "title" : "Held By Uzbekistan, U.S. Survives Scare; Abdusattorov Shocks Caruana"
+      },
+      {
          "description" : " After 4 rounds of the 2022 Chess Olympiad, 5 teams still share first place with 4 wins from 4 matches. Spain, Armenia, England, Israel and India 2 are all on 8 match points, with India 2 ahead on tie-break. Top seeds USA and India are on 7 points (both having drawn yesterday), while Norway have fallen of the pace, despite a brilliant win by Magnus Carlsen against Mongolia on Board 1. The Australian Open team had a 4-0 win of Ecuador, putting them on 6 points. The play Belgium in round 5, a team they are seeded ahead of. A win in this match will likely seem them move into the top 20 reaching the halfway point of the tournament. The Women's team lost 3-1 to the highly ranked USA team, but it ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -162,36 +210,12 @@ news_feed (
          "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 4"
       },
       {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: The women's team from Tajikistan",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Mon, 01 Aug 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
-      },
-      {
          "description" : "As a chess site, it is not an exaggeration to say that the first and foremost obligation is to have the means to teach the game. ChessBase has programs such as the Fritz & Chesster series, but another way is through the Learn Chess app in the ChessBase Account, a beginner courses, which teaches the moves and then the core fundamentals. Here is a small tour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/learning-to-play-chess-with-chessbase",
          "pubDate" : "Mon, 01 Aug 2022 10:00:00 +0100",
          "title" : "Learning to play chess with ChessBase"
-      },
-      {
-         "description" : "Chess Olympiad 2022 &#124; Women&#x2019;s section LIVE&#xA0;/&#xA0;Chess Olympiad 2022 &#124; Open section LIVE Round 4 board pairings (open section) / Round 4 board pairings (women's section) / Round 4 team pairings / Round 3 results (open section) / Round 3 results (women's section) Read all:&#xA0;Chess Olympiad 2022 news here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-4-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
-         "pubDate" : "Mon, 01 Aug 2022 08:19:59 +0000",
-         "title" : "Round 4 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
-      },
-      {
-         "description" : "Things are heating up at the&#xA0;44th Chess Olympiad 2022&#xA0;in Chennai, as only 20 teams emerged in the Open section with a maximum of 6 match points, and 19 teams lead the Women&#x2019;s section with the same score. The medical emergency and a generous act by the opponent marked yesterday's round, together with the major upset []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-4-board-pairings-open-section/",
-         "pubDate" : "Mon, 01 Aug 2022 07:53:27 +0000",
-         "title" : "Chess Olympiad 2022 - Round 4 board pairings (open section)"
       },
       {
          "description" : "It is getting more and more difficult for the top teams to beat their lower-rated opponents at the Chess Olympiad in Chennai. In round 3, Norway and Germany, seeded third and ninth in the open section, were defeated by Italy and Austria respectively, while the eighth seeds from Ukraine could only get a draw against Cuba. In the women's section, Mongolia beat the United States and Estonia took down Armenia. | Pictured: Daniele Vocaturo (Italy) | Photo: Lennart Ootes",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "Vaishali R eliminates Dronavalli to reach semifinals"
       },
       {
-         "description" : "On Thursday, there was only one game on stage in the Golden Hall: the two winners from the previous round, Dmitrij Kollars and Viswanathan Anand, met in the NC World Masters. Kollars had a slight advantage in a rook endgame, but Anand managed to keep things under control and drew his younger opponent to keep the lead. Lara Schulze and Max Warmerdam won and are still leading the Women's Sportland NRW Cup and the A-Open respectively. | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-rest-day",
-         "pubDate" : "Thu, 21 Jul 2022 22:25:00 +0100",
-         "title" : "NC World Masters: Anand holds Kollars to a draw, leads"
-      },
-      {
          "description" : "IM Vaishali R overcame GM Harika Dronavalli in their quarterfinal match in the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. Vaishali dueled fiercely against her compatriot, the highest-rated active woman player in India. After...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1704,14 +1720,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-nepomniachtchi-in-zagreb-gct-opening-game",
          "pubDate" : "Wed, 20 Jul 2022 09:04:08 +0000",
          "title" : "Carlsen-Nepomniachtchi in Zagreb GCT opening game"
-      },
-      {
-         "description" : "GM Kateryna Lagno overcame GM Humpy Koneru in their quarterfinal match in the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Tuesday. Koneru led the match with convincing play through the 5+1 segment. Entering the 3+1 portion, Lagno great...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-lagno-koneru",
-         "pubDate" : "Tue, 19 Jul 2022 13:15:32 -0700",
-         "title" : "The Art Of The Comeback: Lagno Outfights Koneru"
       },
       {
          "description" : " The SuperUnited Rapid & Blitz took place on 20th July and runs through until the 25th July. Jorden Van Foreest won the rapid and MVL the blitz. Magnus Carlsen won the event over all sealing victory in the combined standings with a couple of rounds to go. He slightly spoiled things for himself by losing the final two rounds.",
