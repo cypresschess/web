@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Breaking news about the FIDE presidential race. Inal Sheripov, one of the four candidates for FIDE President has withdrawn from contention. His Deputy President was Lewis Ncube, former African Chess Confederation President. The election takes place at the General Assembly on August 7th which runs concurrently with the Chess Olympiad in Chennai, India. Sheripov released The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/02/sheripov-withdraws-from-2022-fide-campaign/\">Sheripov withdraws from 2022 FIDE campaign</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/02/sheripov-withdraws-from-2022-fide-campaign/",
+         "pubDate" : "Tue, 02 Aug 2022 19:28:19 +0000",
+         "title" : "Sheripov withdraws from 2022 FIDE campaign"
+      },
+      {
+         "description" : "An interesting situation appeared today in the fifth round of Chess Olympiad 2022 in the game between GM Anish Giri and GM Eric Hansen. Hansen played the move and the clock added him 30 minutes, showing that he has 30 minutes and 28 seconds left for the end of the game after the move 40. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arbiters-intervention-as-gm-eric-hansen-loses-on-time-against-gm-anish-giri-on-move-40/",
+         "pubDate" : "Tue, 02 Aug 2022 19:17:17 +0000",
+         "title" : "Arbiter's intervention as GM Eric Hansen loses on time against GM Anish Giri on move 40"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1897",
+         "pubDate" : "Tue, 02 Aug 2022 19:06:35 +0000",
+         "title" : "Women's Olympiad: Three teams forge ahead with 10 and 9 points each"
+      },
+      {
+         "description" : "16-year-old Dommaraju Gukesh played brilliantly to defeat former World Championship Challenger Alexei Shirov even as his India Team B shocked fourth seed Spain with a 2.5-1.5 score at the ongoing 44th Chess Olympiad being played at Mamallapuram, Chennai. Replay the match here This was Gukesh&#x2019;s fifth victory on the trot and also a fifth victory []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/16-year-old-gukesh-d-shines-in-chennai-with-5-5-points/",
+         "pubDate" : "Tue, 02 Aug 2022 18:29:15 +0000",
+         "title" : "16-year-old Gukesh D shines in Chennai with 5/5 points!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1896",
+         "pubDate" : "Tue, 02 Aug 2022 17:28:58 +0000",
+         "title" : "44th Chess Olympiad: Gukesh D scores his fifth win to cross 2715 mark"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1659459900713-RB2BY5XCIEUF2XARC9LL/Jeroen.jpg\" data-image-dimensions=\"160x200\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62e95982c883660944adc83e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1659459900713-RB2BY5XCIEUF2XARC9LL/Jeroen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">IM Jeroen Bosch </figcaption> </figure> <p class=\"\">This week I talk with a top Dutch trainer, chess player, opening theoretician and prolific author",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/2/ep-290-dutch-trainer-and-author-im-jeroen-bosch-on-how-to-build-an-opening-repertoire",
+         "pubDate" : "Tue, 02 Aug 2022 17:09:40 +0000",
+         "title" : "EP 290- Dutch Trainer and Author IM Jeroen Bosch on How to Build an Opening Repertoire "
+      },
+      {
+         "description" : "After five played rounds at the 2022 Chess Olympiad only two teams emerged on the top with the perfect score of 10 match points &#x2013; India2 and Armenia. Uzbekistan, India, USA, Cuba and Iran follow with 4 won matches and 1 draw, scoring 9 match points. India, Georgia and Romania are the only teams remaining []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-6-pairings/",
+         "pubDate" : "Tue, 02 Aug 2022 16:18:35 +0000",
+         "title" : "44th Chess Olympiad 2022 - Round 6 pairings"
+      },
+      {
+         "description" : "After five played rounds at the 2022 Chess Olympiad only two teams emerged on the top with the perfect score of 10 match points India2 and Armenia. Uzbekistan, India, USA, Cuba and Iran follow with 4 won matches and 1 draw, scoring 9 match points. Round 5 results (open section) are below / Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-5-open-section/",
+         "pubDate" : "Tue, 02 Aug 2022 15:58:28 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 5 (open section)"
+      },
+      {
+         "description" : "India, Georgia and Romania are the only teams remaining perfect at the Women's Chess Olympiad 2022 and tie for the top after 5 played rounds with 10 match points, each. Ukraine, Azerbaijan and Kazakhstan are following with 9 match points. Scroll down for Round 5 results / Round 5 results (open section) can be found []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-5-womens-section/",
+         "pubDate" : "Tue, 02 Aug 2022 15:45:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 5 (women's section)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93304342.cms\" />The limelight was on India 2 right from the start of the 44th Olympiad here. The young guns in the team are living up to the hype as they notched up their fifth successive win beating Spain 2.5-1.5 riding strong shows by D Gukesh and B Adhiban. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -122,22 +194,6 @@ news_feed (
          "title" : "Chennai R4: Uzbekistan draws the US as Abdusattorov beats Caruana"
       },
       {
-         "description" : "Mighty clashes coming in the Women's section of the&#xA0;Chess Olympiad 2022 . Azerbaijan, Poland, Ukraine, India, France, India 2, Georgia and Romania emerged on the top with a maximum score of 8 match points and will now feature unpredictable and exciting games in round 5. India's Humpy Koneru faces Frace's Marie Sebag, Mariya Muzychuk is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/80641-2/",
-         "pubDate" : "Tue, 02 Aug 2022 05:18:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 5 board pairings (women section)"
-      },
-      {
-         "description" : "Marc Freccero is an electronic musician and DJ . He is known for taking unique music elements from all over the globe and fusing them with the vibes of dance and party music. On the eve of the Chess Olympiad 2022 the DJ released a track dedicated to Magnus Carlsen. &#8220;I'm a huge&#160;fan&#160;of&#160;Magnus Carlsen,&#8221; shared []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/marc-freccero-releases-an-edm-track-dedicated-to-magnus-carlsen/",
-         "pubDate" : "Tue, 02 Aug 2022 05:12:00 +0000",
-         "title" : "Marc Freccero releases an EDM track dedicated to Magnus Carlsen"
-      },
-      {
          "description" : "India 2, Israel, England, Spain, and Armenia lead with eight match points at the end of the fourth round of the 44th FIDE Chess Olympiad. The U.S. and India, the top two seeds, were held to 2-2 draws by Uzbekistan and France respectively. Norway s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,30 +216,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/01/two-healing-after-olympiad-health-crises/",
          "pubDate" : "Tue, 02 Aug 2022 01:03:28 +0000",
          "title" : "Two healing after Olympiad health crises"
-      },
-      {
-         "description" : "Giving a post-game interview after third round at the Women's Chess Olympiad, the famous chess streamer Anna Cramling didn't speak about her loss. Instead, she explained how it looks to live with the &#8220;chess parents&#8221; and revealed what would she do if she wasn't a chess player. Being asked that question Anna got confused for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anna-cramling-reveals-what-would-she-do-if-she-wasnt-a-chess-player/",
-         "pubDate" : "Mon, 01 Aug 2022 23:10:31 +0000",
-         "title" : "Anna Cramling reveals what would she do if she wasn't a chess player"
-      },
-      {
-         "description" : "With four played rounds at the 2022 Chess Olympiad in Chennai, we saw many interesting games so far. Masterpieces, blunders, zeitnots, nerve-wracking games with countless turnovers it's all part of chess Pia Cramling won her round 2 game after only 9 moves of play, and Lela Javakhishvili won the round 4 game in 12 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-shortest-and-longest-decisive-games-of-the-2022-chess-olympiad-r1-r4/",
-         "pubDate" : "Mon, 01 Aug 2022 22:46:35 +0000",
-         "title" : "The shortest and longest decisive games of the 2022 Chess Olympiad (R1-R4)"
-      },
-      {
-         "description" : "The fourth round of the 2022 Chennai Chess Olympiad began this afternoon with the traditional first-move, performed on this occasion on board one of the Women's India-Hungary match by the managing director of Microsense, Mr.&#160;S. Kailasanathan. After some action-packed days with regard to media coverage &#x2013; &#8220;India is crazy for chess&#8221; was my observation on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-4-report/",
-         "pubDate" : "Mon, 01 Aug 2022 21:43:48 +0000",
-         "title" : "Chess Olympiad 2022 - Round 4 report"
       },
       {
          "description" : "",
@@ -944,14 +976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robots-and-chess",
          "pubDate" : "Wed, 27 Jul 2022 20:30:00 +0100",
          "title" : "Robots and chess"
-      },
-      {
-         "description" : " Wojciech Bartelski started OlimpBase.org as a 25-year-old young man with the idea of documenting many important tournaments and team events around the world. He immediately became a valuable resource for chess journalists around the world, especially for Olympiad data. Recently in a WhatsApp discussion for chess journalists, Babatunde Ogunsiku (Africa Chess Media) and Kim Bhari The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/\">Bartelski's OlimpBase still draws fans</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/27/bartelskys-olimpbase-still-draws-fans/",
-         "pubDate" : "Wed, 27 Jul 2022 18:36:26 +0000",
-         "title" : "Bartelski's OlimpBase still draws fans"
       },
       {
          "description" : "In his \"Game of the Week\" show Merijn van Delft recaps one of his own games from the Amsterdam Science Park Tournament. Merijn faced the ever-creative Manuel Bosboom and, not surprisingly, the game featured a number of startling twists! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2064,14 +2088,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-national-junior-pune-2022-inauguration-report/",
          "pubDate" : "Wed, 13 Jul 2022 05:56:23 +0000",
          "title" : "MPL National Junior Pune 2022 - Inauguration Report"
-      },
-      {
-         "description" : " &#8220;When I am White, I win because I am White. When I am Black, I win because I am Bogoljubow&#8221; Efim Bogoljubow A few interesting facts about Efim Bogoljubow are available courtesy of Bill Wall's blog. I am going to pick 3 of them that I liked the most: The Russian name \"Bogoljubow\" means \"beloved by <a href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGA, Bogoljubow Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/\">Need sure points? QGA, Bogoljubow Variation Edition</a> ap",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/",
-         "pubDate" : "Tue, 12 Jul 2022 17:15:20 +0000",
-         "title" : "Need sure points? QGA, Bogoljubow Variation Edition"
       }
    ]
 }
