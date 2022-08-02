@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess Olympiad: Women&#x2019;s section LIVE&#xA0;/&#xA0;Open section LIVE / Round 5 results (open section)&#xA0;/&#xA0;Round 6 team pairings Daily reports:&#xA0;Chess Olympiad round 1&#xA0;/&#xA0;Chess Olympiad round 2&#xA0;/&#xA0;Chess Olympiad round 3&#xA0;/&#xA0;Chess Olympiad round 4 / Chess Olympiad round 5 Five rounds of the Chess Olympiad 2022 are history. Only five players have played all of the rounds and still []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/players-with-50-5-at-the-chess-olympiad-in-chennai/",
+         "pubDate" : "Tue, 02 Aug 2022 21:18:50 +0000",
+         "title" : "Players with 5,0/5 at the Chess Olympiad in Chennai"
+      },
+      {
+         "description" : "Inal Sheripov has withdrawn from the FIDE presidential election due to health reasons. The news was announced in Twitter by Peter Heine Nielsen. Back in May,&#xA0;Inal Sheripov&#xA0; announced his intention to run for FIDE President. His ticket has already been officially submitted to the FIDE office, with supporting letters from the federations of Ukraine, Zambia, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/inal-sheripov-has-withdrawn-from-the-fide-presidential-election-2022/",
+         "pubDate" : "Tue, 02 Aug 2022 20:31:54 +0000",
+         "title" : "Inal Sheripov has withdrawn from the FIDE Presidential election 2022"
+      },
+      {
          "description" : "Without a doubt, the star of the day was India's team B first board, 16-year-old&#xA0;Gukesh D. Not only did he win his fifth game in a row, defeating Spanish legend Alexei Shirov, but he also overtook Vidit on the live rating list, becoming India's number three player with the live-rating of 2714. Gukesh was one []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -154,22 +170,6 @@ news_feed (
          "title" : "Big pictorial: ChessFest 2022"
       },
       {
-         "description" : "Three chessboards were set by scuba divers at an unusual place as they decided to play a 60-feet underwater Chess! A group of six divers played 15 minutes underwater chess games, celebrating the first ever Chess Olympiad being held in India. The divers needed two hours to set the playground using specially designed pieces that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/60-feet-underwater-chess-in-chennai-tweetoftheday/",
-         "pubDate" : "Tue, 02 Aug 2022 08:03:05 +0000",
-         "title" : "60 feet underwater chess in Chennai #TweetOftheDay"
-      },
-      {
-         "description" : "Five teams remain perfect at the&#xA0;Chess Olympiad 2022. The leaders from India 2 are facing Romania in the top match of the day, where Pentala Harikrishna will have the white pieces against&#xA0;Bogdan-Daniel Deac, who just crossed the 2700 ELO mark. In the match Spain vs India, Alexei Shirov will be on board one against&#xA0;Gukesh D, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-5-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
-         "pubDate" : "Tue, 02 Aug 2022 08:01:12 +0000",
-         "title" : "Round 5 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
-      },
-      {
          "description" : "But over the board it is often difficult to defend them. In the diagram position White is a pawn down but he can draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r4",
          "pubDate" : "Tue, 02 Aug 2022 06:20:00 +0100",
          "title" : "Chennai R4: Uzbekistan draws the US as Abdusattorov beats Caruana"
-      },
-      {
-         "description" : "India 2, Israel, England, Spain, and Armenia lead with eight match points at the end of the fourth round of the 44th FIDE Chess Olympiad. The U.S. and India, the top two seeds, were held to 2-2 draws by Uzbekistan and France respectively. Norway s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-4",
-         "pubDate" : "Mon, 01 Aug 2022 20:36:00 -0700",
-         "title" : "Held By Uzbekistan, U.S. Survives Scare; Abdusattorov Shocks Caruana"
       },
       {
          "description" : " After 4 rounds of the 2022 Chess Olympiad, 5 teams still share first place with 4 wins from 4 matches. Spain, Armenia, England, Israel and India 2 are all on 8 match points, with India 2 ahead on tie-break. Top seeds USA and India are on 7 points (both having drawn yesterday), while Norway have fallen of the pace, despite a brilliant win by Magnus Carlsen against Mongolia on Board 1. The Australian Open team had a 4-0 win of Ecuador, putting them on 6 points. The play Belgium in round 5, a team they are seeded ahead of. A win in this match will likely seem them move into the top 20 reaching the halfway point of the tournament. The Women's team lost 3-1 to the highly ranked USA team, but it ",
@@ -256,6 +248,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-205-more-endgame-highlights-from-the-candidates-tournament",
          "pubDate" : "Mon, 01 Aug 2022 18:00:00 +0100",
          "title" : "Endgame Magic #205: More endgame highlights from the Candidates Tournament"
+      },
+      {
+         "description" : "India 2, Israel, England, Spain, and Armenia lead with eight match points at the end of the fourth round of the 44th FIDE Chess Olympiad. The U.S. and India, the top two seeds, were held to 2-2 draws by Uzbekistan and France respectively. Norway s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-4",
+         "pubDate" : "Mon, 01 Aug 2022 09:36:00 -0700",
+         "title" : "Held By Uzbekistan, U.S. Survives Scare; Abdusattorov Shocks Caruana"
       },
       {
          "description" : "At the close of voting for the silver representatives results were as follows &#8212; Robert Dennington 21; Srihari Iyengar 8; Tahir Maher ...",
