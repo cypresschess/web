@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After 4 rounds of the 2022 Chess Olympiad, 5 teams still share first place with 4 wins from 4 matches. Spain, Armenia, England, Israel and India 2 are all on 8 match points, with India 2 ahead on tie-break. Top seeds USA and India are on 7 points (both having drawn yesterday), while Norway have fallen of the pace, despite a brilliant win by Magnus Carlsen against Mongolia on Board 1. The Australian Open team had a 4-0 win of Ecuador, putting them on 6 points. The play Belgium in round 5, a team they are seeded ahead of. A win in this match will likely seem them move into the top 20 reaching the halfway point of the tournament. The Women's team lost 3-1 to the highly ranked USA team, but it ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-4.html",
+         "pubDate" : "Tue, 02 Aug 2022 02:38:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 4"
+      },
+      {
+         "description" : " During round three of the Chess Olympiad in Chennai, India, there were two attendees suffering health crises. Both received immediate medical attention and were taken to local hospitals. Both were stabilized. Chess can certainly be a stressful activity, but of course, it is the thrill of combat that we enjoy.Jamaica's Jaden Shaw was excited to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/two-healing-after-olympiad-health-crises/\">Two healing after Olympiad health crises</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/01/two-healing-after-olympiad-health-crises/",
+         "pubDate" : "Tue, 02 Aug 2022 01:03:28 +0000",
+         "title" : "Two healing after Olympiad health crises"
+      },
+      {
          "description" : "Giving a post-game interview after third round at the Women's Chess Olympiad, the famous chess streamer Anna Cramling didn't speak about her loss. Instead, she explained how it looks to live with the &#8220;chess parents&#8221; and revealed what would she do if she wasn't a chess player. Being asked that question Anna got confused for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Women's Chess Olympiad: Eight teams won all matches after Round 4"
       },
       {
-         "description" : " During the 2022 Chess Olympiad, The Chess Drum had an interview with Ian Wilkinson QC who had been picked by FIDE Presidential Candidate Bachar Kouatly as his Deputy President. They are gearing up for the election which takes place at the General Assembly on August 7th. There were four certified tickets. Wilkinson has been a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/chat-with-ian-wilkinson-on-2022-fide-election/\">Chat with Ian Wilkinson on 2022 FIDE Election</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Ian Wilkinson QC During the 2022 Chess Olympiad, The Chess Drum had an interview with Ian Wilkinson QC who had been picked by FIDE Presidential Candidate Bachar Kouatly as his Deputy President. They are gearing up for the election which takes place at the General Assembly on August 7th. There were four certified tickets. Wilkinson The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/chat-with-ian-wilkinson-on-2022-fide-election/\">Chat with Ian Wilkinson on 2022 FIDE Election</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/01/chat-with-ian-wilkinson-on-2022-fide-election/",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "Endgames from Chennai (2)"
       },
       {
-         "description" : " Round #3 in the massive Mahabalipuram Resort &#38; Convention CenterPhoto by Mark Livshitz Round #3 had a few upsets with Norway going down and Magnus Carlsen being held by Italy's Daniele Vocaturo. Carlsen essayed the Caro-Kann simply looking for a position he could play. Vocaturo played the exchange variation and Carlsen played 5e6 hemming in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/\">2022 Chess Olympiad: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Round #3 in the massive Mahabalipuram Resort &#38; Convention CenterPhoto by Mark Livshitz 2022 Chess Olympiad: Round #3Sunday, 31 July 2022 Round #3 had a few upsets with Norway going down and Magnus Carlsen being held by Italy's Daniele Vocaturo. Carlsen essayed the Caro-Kann simply looking for a position he could play. Vocaturo played the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/\">2022 Chess Olympiad: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/notable-endgames-biel-dortmund-zagreb",
          "pubDate" : "Sun, 24 Jul 2022 21:00:00 +0100",
          "title" : "Notable endgames: Biel, Dortmund, Zagreb"
-      },
-      {
-         "description" : " National Master Tyrone Davis III graduated last month from the Massachusetts Institute of Technology (MIT) with a degree in computer science. He told The Chess Drum that he'll be joining Saba Capital as an investment analyst in NYC. National Master Tyrone Davis III playing Benjamin, a boy whom he is sponsoring. Tunde Onakoya (left) looks The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/24/tyrone-davis-gives-gift-of-chess-to-nigeria/\">Tyrone Davis gives Gift of Chess to Nigeria</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/24/tyrone-davis-gives-gift-of-chess-to-nigeria/",
-         "pubDate" : "Sun, 24 Jul 2022 19:24:03 +0000",
-         "title" : "Tyrone Davis gives Gift of Chess to Nigeria"
       },
       {
          "description" : "Usually, when discussing former chess prodigies, the talks will gravitate around the accomplishments while young, and then shift towards their accomplishments as a mature player. Among the most unusual stories of such in chess is that of a little girl whose feats were worthy of the fictitious Beth Harmon, yet never bloomed into the tale of an adult champion.",
