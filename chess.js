@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Without a doubt, the star of the day was India's team B first board, 16-year-old&#xA0;Gukesh D. Not only did he win his fifth game in a row, defeating Spanish legend Alexei Shirov, but he also overtook Vidit on the live rating list, becoming India's number three player with the live-rating of 2714. Gukesh was one []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-5-report/",
+         "pubDate" : "Tue, 02 Aug 2022 19:51:43 +0000",
+         "title" : "Chess Olympiad 2022 - Round 5 report"
+      },
+      {
          "description" : " Breaking news about the FIDE presidential race. Inal Sheripov, one of the four candidates for FIDE President has withdrawn from contention. His Deputy President was Lewis Ncube, former African Chess Confederation President. The election takes place at the General Assembly on August 7th which runs concurrently with the Chess Olympiad in Chennai, India. Sheripov released The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/02/sheripov-withdraws-from-2022-fide-campaign/\">Sheripov withdraws from 2022 FIDE campaign</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rook-endgames-are-always-drawn",
          "pubDate" : "Tue, 02 Aug 2022 09:00:00 +0100",
          "title" : "Rook endgames are always drawn"
-      },
-      {
-         "description" : "Five teams remain perfect at the Chess Olympiad 2022. The leaders from India 2 are facing Romania in the top match of the day, where Pentala Harikrishna will have the white pieces against Bogdan-Daniel Deac, who just crossed the 2700 ELO mark. In the match Spain vs India, Alexei Shirov will be on board one []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-5-board-pairings-open-section/",
-         "pubDate" : "Tue, 02 Aug 2022 06:50:56 +0000",
-         "title" : "Chess Olympiad 2022 - Round 5 board pairings (open section)"
       },
       {
          "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nodirbek-Abdusattorov-beats-Fabiano-Caruana.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https:/",
