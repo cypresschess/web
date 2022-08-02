@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93304342.cms\" />The limelight was on India 2 right from the start of the 44th Olympiad here. The young guns in the team are living up to the hype as they notched up their fifth successive win beating Spain 2.5-1.5 riding strong shows by D Gukesh and B Adhiban. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-d-gukesh-beats-alexei-shirov-is-now-india-no-3/articleshow/93304342.cms",
+         "pubDate" : "Tue, 02 Aug 2022 15:20:10 +0000",
+         "title" : "Chess Olympiad: D Gukesh beats Alexei Shirov, is now India No. 3"
+      },
+      {
+         "description" : "The first board of the Czech Republic's team GM David Navara today delivered a beautiful Queen sacrifice winning the game against Mongolian GM Dambasuren Batsuren. Czech Republic won the match with a convincing 3.5-0.5 result, scoring 15 match points. In the post-game interview, Navara said that he needed some time to get used to clime []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-david-navara-delivers-a-beautiful-queen-sacrifice-interview-game/",
+         "pubDate" : "Tue, 02 Aug 2022 15:09:21 +0000",
+         "title" : "GM David Navara delivers a beautiful Queen sacrifice (INTERVIEW & GAME)"
+      },
+      {
+         "description" : "The final week to qualify for the Chess.com Global Championship Knockout Phase began with GMs Maksim Chigaev and Andrey Esipenko winning the 13th and 14th Play-ins. GMs Pavel Ponkratov and Ray Robson also qualified by each winning second place res...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-4-day-1",
+         "pubDate" : "Tue, 02 Aug 2022 06:25:34 -0700",
+         "title" : "Last Week To Qualify Kicks Off With Wins For Chigaev, Esipenko"
+      },
+      {
+         "description" : " 2022 Chess Olympiad: Round #4Monday, 1 August 2022 Today was an interesting day. We had some upsets in Round #4 both individual and team. One result that had the chess world buzzing was Nodirbek Abdusattarov's win over Fabiano Caruana. The 17-year-old Uzbek prodigy turned heads after beating Magnus Carlsen in an epic blitz game that The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/02/2022-chess-olympiad-round-4/\">2022 Chess Olympiad: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/02/2022-chess-olympiad-round-4/",
+         "pubDate" : "Tue, 02 Aug 2022 12:57:54 +0000",
+         "title" : "2022 Chess Olympiad: Round #4"
+      },
+      {
          "description" : "Do you find the Sicilian difficult to cope with? Are you afraid to play the Sicilian with White because you do not want to learn a huge amount of variations by heart? Well, Roeland Pruijssers and Nico Zwirs can help. The two Dutchmen have created a complete repertoire against the Sicilian, based on the Open Sicilian. A repertoire that is easy to learn. Only this week: €69.90 instead of €99.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Special bundle - How to slay the Sicilian Vol. 1-3 + Tactic Toolbox!"
       },
       {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: The women's team from Tajikistan",
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: David Navara (Czech Republic)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1894",
          "pubDate" : "Mon, 01 Aug 2022 19:00:48 +0000",
          "title" : "USA stumbles in Chennai Olympiad"
-      },
-      {
-         "description" : "After four played rounds at the&#xA0;44th Chess Olympiad 2022&#xA0;only five teams kept the winning strike in Open section with perfect 8 match points. India2, Armenia, Israel, England and Spain tie for the top, while USA, India, Azerbaijan and nine other teams score 7 match points. The Women&#x2019;s section teams suffered fewer upsets than the teams []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-5-pairings/",
-         "pubDate" : "Mon, 01 Aug 2022 18:50:06 +0000",
-         "title" : "44th Chess Olympiad 2022 - Round 5 pairings"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93281672.cms\" />After being on top for the first three days of the 44th Olympiad, Indian teams faced their first hurdle on Monday. India 1, in the open category, drew their encounter against France 2-2. All four matches in that round ended in draws. P Harikrishna and Vidit Gujrathi drew with Jules Moussard and Laurent Fressinet respectively. On the other boards, Arjun Erigaisi had a quick draw against Matthieu Cornette and SL Narayanan split points with Maxime Lagarde.",
@@ -1058,14 +1082,6 @@ news_feed (
          "title" : "Something in the way&hellip;she moves"
       },
       {
-         "description" : " The 2022 Chess Olympiad is here! There is excitement brewing in Chennai as the organizing committee and the Tamil Nadu province is doing everything to make this 44th Olympiad the best ever! Social media is buzzing and there is a festive atmosphere that includes various videos of the chess-themed Napier Bridge, celebratory dances and all The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/26/2022-chess-olympiad-chennai-india/\">2022 Chess Olympiad (Chennai, India)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/26/2022-chess-olympiad-chennai-india/",
-         "pubDate" : "Tue, 26 Jul 2022 22:44:33 +0000",
-         "title" : "2022 Chess Olympiad (Chennai, India)"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk teaches a chess class on a topic of his choice. 2022.07.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-illya-nyzhnyk-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-3-day-1",
          "pubDate" : "Tue, 26 Jul 2022 06:16:02 -0700",
          "title" : "Fist Pumps and Second Chances: Fedoseev and Bok Win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93140367.cms\" />India's top-ranked chess player P Harikrishna on Tuesday said while legendary Viswanathan Anand's absence from the Indian team will make a big difference, the young players are ready to carve out a niche for themselves at this year's Chess Olympiad.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/anands-absence-will-be-felt-but-india-capable-of-putting-up-good-show-at-olympiad-harikrishna/articleshow/93140367.cms",
-         "pubDate" : "Tue, 26 Jul 2022 13:12:57 +0000",
-         "title" : "'Anand's absence will be felt but India capable of putting up good show at Olympiad'"
       },
       {
          "description" : "The ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi is an exhibition match taking place at the Dublin Square in the Phoenix Marketcity, Mumbai. The elite grandmasters face off in blindfold chess, rapid, blitz, bullet and no-castling chess! | The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -1706,14 +1714,6 @@ news_feed (
          "title" : "Magnus Carlsen Will Not Defend World Championship Title"
       },
       {
-         "description" : "It&#38;rsquo;s that time again! July 20 marks International Chess Day, recognizing the anniversary of the International Chess Federation (FIDE) being founded on this day in 1924. To celebrate, we&#38;rsquo;ve planned a few special activities to make the d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-international-chess-day",
-         "pubDate" : "Wed, 20 Jul 2022 03:23:52 -0700",
-         "title" : "Announcing Special Events To Celebrate International Chess Day 2022"
-      },
-      {
          "description" : "5-time World Chess Champion Magnus Carlsen today ended months of speculation by announcing he will not defend his title. The 31-year-old Norwegian is not retiring and vows \"to be the best in the world, and not care about the World Championship!\" That means Chinese world no. 2 Ding Liren's last-round Candidates Tournament win against Hikaru Nakamura has earned him a lucrative match against Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2072,30 +2072,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qga-bogoljubow-variation-edition/",
          "pubDate" : "Tue, 12 Jul 2022 17:15:20 +0000",
          "title" : "Need sure points? QGA, Bogoljubow Variation Edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1859",
-         "pubDate" : "Tue, 12 Jul 2022 15:00:28 +0000",
-         "title" : "12 Ukrainian players will receive help with expenses at the European Championship"
-      },
-      {
-         "description" : " On of the difficulties at the start of recent chess olympiads is having all the registered players turn up. The main cause for no shows is visa difficulties, as for a lot of countries getting a visa is a very difficult process. A lot of small Pacific nations do not have an embassy or consulate of the host country and have to send passports and forms to Australia or the Philippines months in advance. On the other hand European countries rarely have this difficulty, as they either have free movement in the countries hosting the Olympiad, or the EU has reciprocal arrangements, making visa applications pretty straightforward. Interestingly enough, India has an online application process, which ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/visa-issues-for-thee.html",
-         "pubDate" : "Tue, 12 Jul 2022 14:08:00 +0000",
-         "title" : "Visa issues for thee"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/692c1bb0-b60a-4092-bcbb-5cf78eb67239/Howell4.png\" data-image-dimensions=\"471x216\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62cd7fddcba5ad063ce94076\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/692c1bb0-b60a-4092-bcbb-5cf78eb67239/Howell4.png?format=1000w\" /> </figure> <p class=\"\">As the dust settles on the FIDE Candidates tournament and its attendant news, three- time British Champion and popular Chess24 commentator GM David Howell joins me to assess th",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/12/ep-287-gm-david-howell-joins-for-a-fide-candidates-wrap-up-plus-world-championship-match-scuttlebutt-and-his-2022-otb-and-commentating-plans",
-         "pubDate" : "Tue, 12 Jul 2022 14:07:50 +0000",
-         "title" : "EP 287- GM David Howell joins for a FIDE Candidates Wrap Up plus World Championship Match Scuttlebutt, and his 2022 OTB and Commentating Plans "
       }
    ]
 }
