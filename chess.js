@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "16-year-old Gukesh scored a 5th win in a row as the Indian 2nd team defeated Spain to join Armenia as the only teams with a perfect 10/10 start to the Chennai Olympiad Open section. Gukesh's score was matched by 17-year-old Abdusattorov, as Uzbekistan defeated Slovakia 4:0 to join India 1, the USA, Iran and giant killers Cuba in the group just one point behind.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-5-gukesh-abdusattorov-continue-rampage",
+         "pubDate" : "Tue, 02 Aug 2022 22:56:58 +0000",
+         "title" : "Chennai Olympiad 5: Gukesh & Abdusattorov on rampage"
+      },
+      {
+         "description" : "11th-seeded India 2 scored an upset victory over fourth-seeded Spain, while 12th-seeded Armenia defeated 10th-seeded England, both with an identical score of 2.5-1.5, to jointly lead the open section with 10 match points at the end of the fifth ro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-5",
+         "pubDate" : "Tue, 02 Aug 2022 15:22:12 -0700",
+         "title" : "India 2, Armenia Lead Open; India, Georgia, Romania Lead Women's"
+      },
+      {
          "description" : "Chess Olympiad: Women&#x2019;s section LIVE&#xA0;/&#xA0;Open section LIVE / Round 5 results (open section)&#xA0;/&#xA0;Round 6 team pairings Daily reports:&#xA0;Chess Olympiad round 1&#xA0;/&#xA0;Chess Olympiad round 2&#xA0;/&#xA0;Chess Olympiad round 3&#xA0;/&#xA0;Chess Olympiad round 4 / Chess Olympiad round 5 Five rounds of the Chess Olympiad 2022 are history. Only five players have played all of the rounds and still []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1730,14 +1746,6 @@ news_feed (
          "title" : "Carlsen Will Give Up His Title, Will Not Defend in 2023"
       },
       {
-         "description" : "GM Magnus Carlsen will not defend his world championship title against GM Ian Nepomniachtchi next year. Carlsen announced his decision on a podcast on Tuesday. According to current regulations, FIDE Candidates tournament winner Nepomniachtchi will...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-not-to-defend-chess-world-title",
-         "pubDate" : "Wed, 20 Jul 2022 03:30:00 -0700",
-         "title" : "Magnus Carlsen Will Not Defend World Championship Title"
-      },
-      {
          "description" : "5-time World Chess Champion Magnus Carlsen today ended months of speculation by announcing he will not defend his title. The 31-year-old Norwegian is not retiring and vows \"to be the best in the world, and not care about the World Championship!\" That means Chinese world no. 2 Ding Liren's last-round Candidates Tournament win against Hikaru Nakamura has earned him a lucrative match against Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/infight-for-afghanistan-voting-right/",
          "pubDate" : "Sun, 17 Jul 2022 10:51:40 +0100",
          "title" : "Infight for Afghanistan voting right"
-      },
-      {
-         "description" : "Levon Aronian was dead lost in the 2nd and 3rd games on Day 1 of the FTX Road to Miami final but managed to survive before going on to win the 4th game to take the lead against Wei Yi. The Chinese star now has to win on demand on Day 2 of the final to force blitz tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-road-to-miami-final-1-levon-takes-the-lead",
-         "pubDate" : "Sun, 17 Jul 2022 08:36:31 +0000",
-         "title" : "FTX Road to Miami Final 1: Levon takes the lead!"
       },
       {
          "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
