@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India 2 and Armenia are the only teams that have won all their matches in the open section of the Chess Olympiad. The second squad presented by the locals has four players aged 18 or younger, including Gukesh, who has a perfect 5/5 score after beating Alexei Shirov on Tuesday. In the women's section, India, Georgia and Romania are sharing the lead on 10/10 match points. The Romanian ladies stunned Poland in the fifth round. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r5",
+         "pubDate" : "Wed, 03 Aug 2022 03:25:00 +0100",
+         "title" : "Chennai R5: Gukesh beats Shirov, India 2 and Armenia share the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Cuba&#039;s greatest games from the ongoing Olympiad in India. 2022.08.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hj9UmrIvJM0.jpg?itok=GSl1AlFF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes-lichessorg",
+         "pubDate" : "Tue, 02 Aug 2022 23:57:57 +0000",
+         "title" : "Cuban Chess at the Olympiad | Grandmaster's Choice - WGM Thalia Cervantes | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby digs through the earliest chess games known to man. These things are ancient! 2022.08.02<br /> Francesc de Castellvi vs Narcis Vinyoles, Valencia (1475): B01 Scandinavian (centre counter) defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1259987\">https://www.chessgames.com/perl/chessgame?gid=1259987</a><br /> Pedro Damiano vs NN, Casual (1497): C42 Petrov, Damiano variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1336243\">https://www.chessgames.com/perl/chessgame?gid=1336243</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/oldest-recorded-chess-games-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 02 Aug 2022 23:57:57 +0000",
+         "title" : "OLDEST Recorded Chess Games | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "16-year-old Gukesh scored a 5th win in a row as the Indian 2nd team defeated Spain to join Armenia as the only teams with a perfect 10/10 start to the Chennai Olympiad Open section. Gukesh's score was matched by 17-year-old Abdusattorov, as Uzbekistan defeated Slovakia 4:0 to join India 1, the USA, Iran and giant killers Cuba in the group just one point behind.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/special-bundle-how-to-slay-the-sicilian-vol-1-3",
          "pubDate" : "Tue, 02 Aug 2022 13:17:32 +0100",
          "title" : "Special bundle - How to slay the Sicilian Vol. 1-3 + Tactic Toolbox!"
-      },
-      {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: David Navara (Czech Republic)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Tue, 02 Aug 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
       },
       {
          "description" : "17-year-old Nodirbek Abdusattorov outplayed Fabiano Caruana as Uzbekistan came within a whisker of beating the top seeds. In the end the USA escaped with a draw, with just five teams now on a perfect score: India 2, England, Spain, Armenia and Israel, who scored a surprise win over the Netherlands.",
@@ -1146,14 +1162,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - First Impressions"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk is bullied by Jonathan Schrantz into playing a high-stakes game featuring the \"Beaver Gambit.\" How will Nyzhnyk survive such an outrageous gimmick gambit? Are you a believer in the beaver? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/never-challenge-gm-beaver-gambit-battle\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RFSdlK0Lzwk.jpg?itok=om49cnZE\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/never-challenge-gm-beaver-gambit-battle",
-         "pubDate" : "Tue, 26 Jul 2022 14:51:51 +0000",
-         "title" : "Never Challenge a GM to Beaver Gambit Battle"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93142542.cms\" />Reigning world champion Magnus Carlsen on Tuesday said that hosts India stand a strong chance of winning medals at the upcoming 44th Chess Olympiad. India will be hosting the showpiece event for the first time in the prestigious tournament's history from July 28 to August 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-last-pawn",
          "pubDate" : "Tue, 26 Jul 2022 09:00:00 +0100",
          "title" : "The last pawn"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates a strong performance in the lichess.org Rapid Swiss arena. 0:00 Game 1<br /> 12:28 Game 2<br /> 27:23 Game 3<br /> 30:17 Game 4<br /> 44:36 Game 5<br /> 53:48 Game 6<br /> 1:10:30 Game 7 Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/performance-7-brilliant-rapid-games",
-         "pubDate" : "Mon, 25 Jul 2022 17:51:01 +0000",
-         "title" : "A Performance of 7 Brilliant Rapid Games!"
       },
       {
          "description" : "A seven-year-old boy&#39;s finger was broken by an automated chess-playing robot during the Moscow Open in a video posted on July 21st. The original video, featured on the Baza channel on Telegram, has circulated on several social media platforms and ...",
