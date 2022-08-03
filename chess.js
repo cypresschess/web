@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Samvel Ter-Sahakyan and Robert Hovhannisyan scored crucial wins to enable Armenia to prevail over India 2 with a 2.5-1.5 score and capture the lead with 12 match points at the end of the sixth round of the 44th FIDE Chess Olympiad. GM Fabiano ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-6",
+         "pubDate" : "Wed, 03 Aug 2022 15:12:20 -0700",
+         "title" : "Armenia Sole Leader In Open, India In Women's, Gukesh 6/6 On Top Board"
+      },
+      {
+         "description" : "After six played rounds at the 44th Chess Olympiad 2022 in Chennai, teams of Armenia and India emerged as the sole leaders of Open and Women's sections, respectively, scoring the maximum 12 match points. In the tense sixth round, Armenia defeated India 2 taking a narrow 2.5-1.5 victory. Gukesh D won the game for India's team B and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/armenia-and-india-in-the-sole-lead-after-6-played-rounds-at-the-44th-chess-olympiad/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/armenia-and-india-in-the-sole-lead-after-6-played-rounds-at-the-44th-chess-olympiad/",
+         "pubDate" : "Wed, 03 Aug 2022 21:05:22 +0000",
+         "title" : "Armenia and India in the sole lead after 6 played rounds at the 44th Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1901",
+         "pubDate" : "Wed, 03 Aug 2022 20:27:28 +0000",
+         "title" : "Indian eves crush Georgia to jump into sole lead"
+      },
+      {
+         "description" : "Three-time Olympic champions Armenia scored a huge win this afternoon in the 4 Points Sheraton Convention Centre, defeating India B by 2.5-1.5 in a very exciting top-board match of the Open section. Despite losing on board one Sargissian was steamrolled by Gukesh &#160;the Armenians were stronger on the lower boards, and GMs&#160;Samvel Ter-Sahakyan&#160;and&#160;Robert Hovhannisyan&#160;(pictured []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-6-report/",
+         "pubDate" : "Wed, 03 Aug 2022 19:39:49 +0000",
+         "title" : "Chess Olympiad 2022 - Round 6 report"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -90,6 +122,14 @@ news_feed (
          "title" : "Sheripov withdraws"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Wed, 03 Aug 2022 13:29:55 +0000",
+         "title" : "FIDE Congress 2022"
+      },
+      {
          "description" : " Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. Along with Armenia, they are on 5/5 with a whopping 96 board points. Armenia only has 77 board points. Another team The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-olympiad-2022-round-6-board-pairings-open-section/",
          "pubDate" : "Wed, 03 Aug 2022 07:59:14 +0000",
          "title" : "Chess Olympiad 2022 - Round 6 board pairings (open section)"
-      },
-      {
-         "description" : "India, Georgia and Ukraine are the only teams of the Women's Chess Olympiad 2022 with the maximum score of 10 match points. The top-board encounter of the 6th round will be played between India and Georgia, with GM Humpy Koneru playing against GM Nana Dzagnidze on the first board, GM Nino Batsiashvili takes white pieces []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-6-board-pairings-womens-section/",
-         "pubDate" : "Wed, 03 Aug 2022 07:50:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 6 board pairings (women's section)"
       },
       {
          "description" : "The Asian School Chess Championship 2022 scheduled to be conducted at Kaluthara, Srilanka is postponed. Please wait for further announcement. Intimation: &#160; &#160;",
@@ -448,14 +480,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/",
          "pubDate" : "Mon, 01 Aug 2022 14:02:05 +0000",
          "title" : "2022 Chess Olympiad: Round #3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Mon, 01 Aug 2022 13:29:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "ChessBase Magazine Extra #208 offers, among other things, almost an hour of video training: Ivan Sokolov presents 6.g3 as a surprise weapon against the Sicilian Four Knights. And Nico Zwirs examines the move 5...b5 in the Vienna Variation of the Queen's Gambit - an absolutely fashionable variation that leads to very dynamic play! \"The brilliancy\" is contributed by David Navara, who highlights his Black win with the Berlin Defense against Alexei Shirov. In addition, the \"Lucky bag\" with 59 annotated games - including contributions from Anish Giri and Kirill Shevchenko - holds a colorful mix of analyses and suggestions. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. ",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Carlsen's Abdication: Reactions From The Chess World"
       },
       {
-         "description" : "GMs Aram Hakobyan and Mahammad Muradli were the winners of the fifth and sixth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; Hakobyan and Muradli advance to the main event along with GMs Hrant Melkumyan and Sam Sevian, victors of th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-2-day-1",
-         "pubDate" : "Thu, 21 Jul 2022 08:37:58 -0700",
-         "title" : "Hakobyan, Muradli Win Chess.com Global Play-Ins"
-      },
-      {
          "description" : " The news that Magnus Carlsen will not defend his World Championship title is spreading quite quickly across the chess world. He had hinted that this might happen, but I for one was quite surprised that he has decided to go down this road. He isn't retiring from chess (like Fischer did), and is in fact taking part in the upcoming Olympiad. But we once again return to a situation where the World Champion isn't necessarily the worlds strongest player. The immediate result is that it will be a Nepo v Ding world championship match, as they finished 1st and 2nd at the 2022 Candidates. Interestingly, neither player is taking part in the Olympiad, as neither players country will be there. The longe",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/a-championship-chess-set-that-fits-into-ones-apartment-finally/",
          "pubDate" : "Thu, 14 Jul 2022 08:25:53 +0000",
          "title" : "A Championship Chess Set That Fits Into One's Apartment, Finally"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1861",
-         "pubDate" : "Wed, 13 Jul 2022 22:02:20 +0000",
-         "title" : "Most stylish teams to be awarded at 44th Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1860",
-         "pubDate" : "Wed, 13 Jul 2022 19:35:50 +0000",
-         "title" : "Loïc Travadon scores double at 8th International Francophone Chess Meetings"
       }
    ]
 }
