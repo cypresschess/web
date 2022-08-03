@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When dealing with a complex tactic there are usually two outcomes: a leap of intuition leads us to a Eureka epiphany, or we fail miserably, with the engine telling us what the move was, but we remain no closer to knowing how to solve it the next time. Here we analyze a less than obvious solution and how one might reach it through meticulous logic and internal debate.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/investigation-of-a-combination",
+         "pubDate" : "Wed, 03 Aug 2022 09:22:49 +0100",
+         "title" : "Investigation of a combination"
+      },
+      {
+         "description" : "The Asian School Chess Championship 2022 scheduled to be conducted at Kaluthara, Srilanka is postponed. Please wait for further announcement. Intimation: &#160; &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-school-chess-championship-2022-postponed/",
+         "pubDate" : "Wed, 03 Aug 2022 06:04:52 +0000",
+         "title" : "Asian School Chess Championship 2022 - Postponed"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby digs through the earliest chess games known to man, from the 15th century. These things are ancient!<br /> See your favorites like Lucena, Greco, Damiano, and N. N.! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oldest-recorded-chess-games-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QjBuz81CE5w.jpg?itok=89Zy5K3T\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/oldest-recorded-chess-games-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 03 Aug 2022 02:58:10 +0000",
+         "title" : "Oldest Recorded Chess Games | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Cuba's greatest games from the ongoing Olympiad in India, featuring Carlos Daniel Albornoz and Luis Ernesto Quesada.. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hj9UmrIvJM0.jpg?itok=GSl1AlFF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Wed, 03 Aug 2022 02:58:10 +0000",
+         "title" : "Cuban Chess at the Olympiad | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
          "description" : " At the end of round 5 of the 2022 Chess Olympiad, only 2 teams remain on a perfect score. India 2 defeated Spain 2.5-1.5, while Armenia beat England by a similar score*. So there is an Indian team leading the home Olympiad, just not the one that was expected. Tied for third are India 1, USA and a couple of surprises in Uzbekistan and Cuba. Norway bounced back form a couple of poor (and in one case lucky) rounds, to beat Zambia 3.5-0.5 Australia missed a chance to stay in the top 10, drawing with the lower seeded Belgium 2-2. GM Justin Tan suffered his first loss of the tournament, but this was balanced out by a win for GM Zong Yuan Zhao. As a result the Australians now face Norway in Round ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -46,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-5",
-         "pubDate" : "Tue, 02 Aug 2022 15:22:12 -0700",
+         "pubDate" : "Tue, 02 Aug 2022 15:22:00 -0700",
          "title" : "India 2, Armenia Lead Open; India, Georgia, Romania Lead Women's"
       },
       {
@@ -1130,28 +1162,12 @@ news_feed (
          "title" : "Dynamic Sacrifice for Long-Term Advantage | Grandmaster's Choice - GM Illya Nyzhnyk | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beating-kid-akobian-style-road-2000-nm-caleb-denby-lichessorg\"><img src=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-kid-akobian-style-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 26 Jul 2022 23:52:08 +0000",
-         "title" : "Beating the KID, Akobian-Style | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
          "description" : "The Queen of England celebrated her Platinum Jubilee this year: she has been Queen of England for 70 years. Musician Jason Kouchak took this event as an opportunity to celebrate chess and the \"Queens of Chess\", together with his friend Pattie Boyd, who was muse and queen for both Eric Clapton and George Harrison.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/something-in-the-way-she-moves-kouchak",
          "pubDate" : "Wed, 27 Jul 2022 00:30:00 +0100",
          "title" : "Something in the way&hellip;she moves"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk teaches a chess class on a topic of his choice. 2022.07.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-illya-nyzhnyk-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-illya-nyzhnyk-lichessorg",
-         "pubDate" : "Tue, 26 Jul 2022 20:52:01 +0000",
-         "title" : "Grandmaster's Choice - GM Illya Nyzhnyk | lichess.org"
       },
       {
          "description" : "With opening theory reaching insane depth and draws on the rise, there has been an increasing interest in chess variants such as Chess960 aka Fischer Random Chess, and the recent 'No-Castling' chess. Here is another variant that bears similarities to Chess960, but completely asymmetrical and no castling. One added plus is that you can even play it against Fritz Online!",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1876",
          "pubDate" : "Fri, 22 Jul 2022 21:52:02 +0000",
          "title" : "Winners crowned at 2022 Biel Chess Festival"
-      },
-      {
-         "description" : "Years back, when the first iteration of the Fritz Online app came out, it was a barebones deal: Attractive, and good for a game, but not the most compelling option to train against. A bit problematic as this was its purpose, but it has undergone many revisions since, and revisiting it you will be surprised at how interesting and fun it can be.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/practicing-and-improving-with-fritz-online",
-         "pubDate" : "Fri, 22 Jul 2022 19:00:00 +0100",
-         "title" : "Practicing and improving with Fritz Online"
       },
       {
          "description" : " The 55th Biel Chess Festival takes place 10th to 24th July 2022. The main event was a mixture of Classical, Rapid and Blitz - what they call the Grandmaster Triathlon. In addition the same players also competed in a Chess960 tournament that didn't count to the final standings. There was also the traditional strong open alongside. Players in the main event: Andrey Esipenko, Le Quang Liem, Salem Saleh, Gata Kamsky, Vincent Keymer, Nodirbek Abdusattorov, Arkadij Naiditsch and Dommaraju Gukesh. Final standings: 1st Quang Liem Le 35&frac12;pts, 2nd Andrey Esipenko 32&frac12;pts, 3rd Dommaraju Gukesh 29&frac12;pts, 4th Nodirbek Abdusattorov 26&frac12;pts, 5th Saleh Salem 26pts, 6th Gata Kamsky 23",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1860",
          "pubDate" : "Wed, 13 Jul 2022 19:35:50 +0000",
          "title" : "Loïc Travadon scores double at 8th International Francophone Chess Meetings"
-      },
-      {
-         "description" : "MPL 51st National Junior (Under-19) Open and 36th National Junior (Under-19) Girls Chess Championship is being held at PYC Hindu Gymkhana, in the heart of Pune",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-national-junior-pune-2022-inauguration-report/",
-         "pubDate" : "Wed, 13 Jul 2022 05:56:23 +0000",
-         "title" : "MPL National Junior Pune 2022 - Inauguration Report"
       }
    ]
 }
