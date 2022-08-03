@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Anousha Mahdian (Iran)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Wed, 03 Aug 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "Only two teams remain perfect at the 2022 Chess Olympiad in Chennai. India 2 and Armenia share the top with 10/10 match points, while Uzbekistan, India, USA, Cuba and Iran follow with 9 match points. The 6th round comes before tomorrow&#x2019;s free day bringing the encounter of the leaders &#x2013;&#xA0;India2 vs Armenia. India, Georgia and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-6-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
+         "pubDate" : "Wed, 03 Aug 2022 08:30:16 +0000",
+         "title" : "Round 6 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
+      },
+      {
          "description" : "When dealing with a complex tactic there are usually two outcomes: a leap of intuition leads us to a Eureka epiphany, or we fail miserably, with the engine telling us what the move was, but we remain no closer to knowing how to solve it the next time. Here we analyze a less than obvious solution and how one might reach it through meticulous logic and internal debate.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/investigation-of-a-combination",
          "pubDate" : "Wed, 03 Aug 2022 09:22:49 +0100",
          "title" : "Investigation of a combination"
+      },
+      {
+         "description" : " <p class=\"lead\">The 44th Chess Olympiad in Chennai, India is currently on Round 6 with India B and Armenia having a perfect 10/10 score at the Open Section. 16-year-old Gukesh and 17-year-old Abdusattorov are victorious so far, winning big against Alexei Shirov and Fabiano Caruana respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.6704730831974\"> <img src=\"https://worldchess.com/news/pictures/1-14.jpg\" width=\"2048\" height=\"1226\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52249368558_42f5e7e23a_k.jpg\" width=\"2048\" height=\"1373\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52257390032_ba6e237382_k.jpg\" width=\"2048\" heigh",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/high-schoolers-are-ruling-the-44th-chess-olympiad/",
+         "pubDate" : "Wed, 03 Aug 2022 08:20:31 +0000",
+         "title" : "High-schoolers are ruling the 44th Chess Olympiad"
+      },
+      {
+         "description" : " <p class=\"lead\"><a href=\"https://chessarena.com\">FIDE Chess Arena</a>, the official gaming platform of the World Chess Federation, is adding challenges feature that allows players to challenge anyone who is active on the platform, including elite grandmasters and friends alike. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.5667074663403\"> <img src=\"https://worldchess.com/news/pictures/challenge.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/challenge3.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/challenge4.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> </div> Challen",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/challenge-anyone-on-fide-chess-arena-new-feature/",
+         "pubDate" : "Wed, 03 Aug 2022 08:17:13 +0000",
+         "title" : "Challenge Anyone on FIDE Chess Arena - New Feature"
+      },
+      {
+         "description" : "Only two teams remain perfect at the 2022 Chess Olympiad in Chennai. India 2 and Armenia share the top with 10/10 match points, while Uzbekistan, India, USA, Cuba and Iran follow with 9 match points. The 6th round comes before tomorrow's free day bringing the encounter of the leaders India2 vs Armenia. GM Gukesh []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-6-board-pairings-open-section/",
+         "pubDate" : "Wed, 03 Aug 2022 07:59:14 +0000",
+         "title" : "Chess Olympiad 2022 - Round 6 board pairings (open section)"
+      },
+      {
+         "description" : "India, Georgia and Ukraine are the only teams of the Women's Chess Olympiad 2022 with the maximum score of 10 match points. The top-board encounter of the 6th round will be played between India and Georgia, with GM Humpy Koneru playing against GM Nana Dzagnidze on the first board, GM Nino Batsiashvili takes white pieces []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-6-board-pairings-womens-section/",
+         "pubDate" : "Wed, 03 Aug 2022 07:50:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 6 board pairings (women's section)"
       },
       {
          "description" : "The Asian School Chess Championship 2022 scheduled to be conducted at Kaluthara, Srilanka is postponed. Please wait for further announcement. Intimation: &#160; &#160;",
@@ -170,28 +218,12 @@ news_feed (
          "title" : "Results - Chess Olympiad 2022 round 5 (open section)"
       },
       {
-         "description" : "India, Georgia and Romania are the only teams remaining perfect at the Women's Chess Olympiad 2022 and tie for the top after 5 played rounds with 10 match points, each. Ukraine, Azerbaijan and Kazakhstan are following with 9 match points. Scroll down for Round 5 results / Round 5 results (open section) can be found []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-5-womens-section/",
-         "pubDate" : "Tue, 02 Aug 2022 15:45:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 5 (women's section)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93304342.cms\" />The limelight was on India 2 right from the start of the 44th Olympiad here. The young guns in the team are living up to the hype as they notched up their fifth successive win beating Spain 2.5-1.5 riding strong shows by D Gukesh and B Adhiban. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-d-gukesh-beats-alexei-shirov-is-now-india-no-3/articleshow/93304342.cms",
          "pubDate" : "Tue, 02 Aug 2022 15:20:10 +0000",
          "title" : "Chess Olympiad: D Gukesh beats Alexei Shirov, is now India No. 3"
-      },
-      {
-         "description" : "The first board of the Czech Republic's team GM David Navara today delivered a beautiful Queen sacrifice winning the game against Mongolian GM Dambasuren Batsuren. Czech Republic won the match with a convincing 3.5-0.5 result, scoring 15 match points. In the post-game interview, Navara said that he needed some time to get used to clime []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-david-navara-delivers-a-beautiful-queen-sacrifice-interview-game/",
-         "pubDate" : "Tue, 02 Aug 2022 15:09:21 +0000",
-         "title" : "GM David Navara delivers a beautiful Queen sacrifice (INTERVIEW & GAME)"
       },
       {
          "description" : "The final week to qualify for the Chess.com Global Championship Knockout Phase began with GMs Maksim Chigaev and Andrey Esipenko winning the 13th and 14th Play-ins. GMs Pavel Ponkratov and Ray Robson also qualified by each winning second place res...",
@@ -224,14 +256,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chennai-olympiad-4-abdusattorov-beats-caruana",
          "pubDate" : "Tue, 02 Aug 2022 08:54:04 +0000",
          "title" : "Chennai Olympiad 4: Abdusattorov beats Caruana"
-      },
-      {
-         "description" : "Chess is a complex game, something that even Elon Musk fails to grasp completely. After only five moves, a game of chess has&#xA0;69,352,859,712,417 possible positions. You can master all of the patterns, opening tabiyas, and thematic tactics in the world. But when you run into a position that&#x2019;s &#x201C;out of the box&#x201D; &#x2014;&#xA0;and you will&#xA0;&#x2014; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronians-beauty-of-chess/",
-         "pubDate" : "Tue, 02 Aug 2022 08:50:52 +0000",
-         "title" : "Levon Aronian's Beauty of Chess"
       },
       {
          "description" : "Despite a searing heat and at least 32 degrees Celsius, the second ever ChessFest was staged by Chess in Schools and Communities in London's famous Trafalgar Square on Sunday 17th July, with sister events held in Hull and Liverpool. The UK's largest one-day chess event saw over 10,000 people visit, nearly double the number from last year.",
@@ -1544,14 +1568,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d3",
          "pubDate" : "Sat, 23 Jul 2022 04:25:00 +0100",
          "title" : "SuperUnited Croatia: Van Foreest wins rapid section"
-      },
-      {
-         "description" : "Thanks to a draw against direct rival Andrey Esipenko, Le Quang Liem grabbed the Grandmaster Triathlon title at the Biel Chess Festival. Le came from winning three games in a row in the classical section, and got a well-deserved first place as he was also the top scorer in the rapid section. Yongzhe Zhuang from Switzerland won the Ladies' Quadriathlon, while Mahammad Muradli from Azerbaijan was the surprise winner in the Masters Open Tournament. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-2022-classical-r7",
-         "pubDate" : "Sat, 23 Jul 2022 02:00:00 +0100",
-         "title" : "Le Quang Liem bags GM Triathlon in Biel"
       },
       {
          "description" : "",
