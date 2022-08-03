@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1900",
+         "pubDate" : "Wed, 03 Aug 2022 17:17:36 +0000",
+         "title" : "Triple-gold Armenia leads the Olympiad halfway"
+      },
+      {
+         "description" : "Six rounds of the&#xA0;44th Chess Olympiad 2022&#xA0;are in the books and Armenia emerged as the sole leader of the Open section scoring perfect 12 match points! Armenia today took a narrow 2.5-1.5 victory against India2. India&#x2019;s women&#x2019;s team emerged as the sole leader of the&#xA0;Women&#x2019;s Chess Olympiad 2022&#xA0;with the maximum score of 12 match points. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-7-pairings/",
+         "pubDate" : "Wed, 03 Aug 2022 16:33:58 +0000",
+         "title" : "44th Chess Olympiad 2022 - Round 7 pairings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1899",
+         "pubDate" : "Wed, 03 Aug 2022 16:21:27 +0000",
+         "title" : "South Korea to bid for the FIDE World Cup 2023"
+      },
+      {
+         "description" : "Six rounds of the 44th Chess Olympiad 2022 are in the books and Armenia emerged as the sole leader of the Open section scoring perfect 12 match points! Armenia today took a narrow 2.5-1.5 victory against India2. Gukesh D managed to keep the 100% winning strike with 6/6 points, but it wasn't enough as GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-6-open-section/",
+         "pubDate" : "Wed, 03 Aug 2022 16:09:50 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 6 (open section)"
+      },
+      {
+         "description" : "With a convincing 3-1 victory over Georgia, India's women's team emerged as the sole leader of the Women's Chess Olympiad 2022 with the maximum score of 12 match points. GM Humpy Koneru was victorious against GM Nana Dzagnidze on the first board, while IM Vaishali defeated IM Lela Javakhishvili. The games on the board two []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-6-womens-section/",
+         "pubDate" : "Wed, 03 Aug 2022 16:00:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 6 (women's section)"
+      },
+      {
+         "description" : "WGM Dina Belenkaya plays the second board for Israel Women's team in the Women's Chess Olympiad 2022 in Chennai. Dina won her game playing against WGM Hanna Marie Klek who made a crucial mistake in the 25th move and Belenkaya didn't let go. Speaking about her first Chess Olympiad experience as a player, Dina said []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wgm-dina-belenkaya-first-days-at-the-olympiad-were-difficult/",
+         "pubDate" : "Wed, 03 Aug 2022 15:51:27 +0000",
+         "title" : "WGM Dina Belenkaya: \"First days at the Olympiad were difficult\""
+      },
+      {
+         "description" : "No one needed a tiebreaker in this week&#39;s Titled Tuesday as GM Hikaru Nakamura and&#38;nbsp;GM Oleksandr Bortnyk both won outright on August 2. It was Nakamura&#39;s second straight Tuesday winning one of the tournaments. GM Daniel Naroditsky finished s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-august-2-2022",
+         "pubDate" : "Wed, 03 Aug 2022 08:30:46 -0700",
+         "title" : "Nakamura, Other Streamers Dominate Tuesday Tournaments"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93328808.cms\" />India's top player Koneru Humpy and R Vaishali led the women's 'A' team to a 3-1 win over a strong Georgian side in the sixth round of the 44th Chess Olympiad here on Wednesday. In the Open section, teenaged Grandmaster D Gukesh's splendid run continued as he notched up a sixth consecutive win, but India 'B' went down 1.5-2.5 to former champions Armenia.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-koneru-humpy-r-vaishali-star-in-india-a-win-over-georgian-women/articleshow/93328808.cms",
          "pubDate" : "Wed, 03 Aug 2022 14:58:42 +0000",
          "title" : "Chess Olympiad: Humpy, Vaishali star in India 'A' win over Georgian women"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess Federation of South Korea</strong> has <a href=\"https://twitter.com/FIDE_chess/status/1554843689163583489\">announced</a> at the ongoing <strong>FIDE Congress</strong> in Chennai that it will bid for the <strong>World Cup 2023</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/south-korea-prepares-world-cup-bid/",
+         "pubDate" : "Wed, 03 Aug 2022 15:48:53 +0100",
+         "title" : "South Korea prepares World Cup bid"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Since the early favourite to host the <strong>Chess Olympiad 2026</strong> India is filling in for the current edition, Uzbekistan is <a href=\"https://yoshlar.gov.uz/en/news/o%E2%80%98zbekiston-butunjahon-shaxmat-olimpiadasi-mezbonligi-uchun-kurashadi/\">expected to be chosen for 2026</a>. Their young team is performing very well so far and will definitely be a medal contender by then. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/tashkent-to-host-2026-olympiad/",
+         "pubDate" : "Wed, 03 Aug 2022 15:46:04 +0100",
+         "title" : "Tashkent to host 2026 Olympiad"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Inalbek Sheripov</strong>, an experimental filmmaker hailing from Chechnya and based in Belgium, withdrew his candidature for FIDE President citing health reasons. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/sheripov-withdraws/",
+         "pubDate" : "Wed, 03 Aug 2022 15:40:47 +0100",
+         "title" : "Sheripov withdraws"
       },
       {
          "description" : " Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. Along with Armenia, they are on 5/5 with a whopping 96 board points. Armenia only has 77 board points. Another team The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -178,44 +258,12 @@ news_feed (
          "title" : "India 2, Armenia Lead Open; India, Georgia, Romania Lead Women's"
       },
       {
-         "description" : "Chess Olympiad: Women&#x2019;s section LIVE&#xA0;/&#xA0;Open section LIVE / Round 5 results (open section)&#xA0;/&#xA0;Round 6 team pairings Daily reports:&#xA0;Chess Olympiad round 1&#xA0;/&#xA0;Chess Olympiad round 2&#xA0;/&#xA0;Chess Olympiad round 3&#xA0;/&#xA0;Chess Olympiad round 4 / Chess Olympiad round 5 Five rounds of the Chess Olympiad 2022 are history. Only five players have played all of the rounds and still []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/players-with-50-5-at-the-chess-olympiad-in-chennai/",
-         "pubDate" : "Tue, 02 Aug 2022 21:18:50 +0000",
-         "title" : "Players with 5,0/5 at the Chess Olympiad in Chennai"
-      },
-      {
-         "description" : "Inal Sheripov has withdrawn from the FIDE presidential election due to health reasons. The news was announced in Twitter by Peter Heine Nielsen. Back in May,&#xA0;Inal Sheripov&#xA0; announced his intention to run for FIDE President. His ticket has already been officially submitted to the FIDE office, with supporting letters from the federations of Ukraine, Zambia, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/inal-sheripov-has-withdrawn-from-the-fide-presidential-election-2022/",
-         "pubDate" : "Tue, 02 Aug 2022 20:31:54 +0000",
-         "title" : "Inal Sheripov has withdrawn from the FIDE Presidential election 2022"
-      },
-      {
-         "description" : "Without a doubt, the star of the day was India's team B first board, 16-year-old&#xA0;Gukesh D. Not only did he win his fifth game in a row, defeating Spanish legend Alexei Shirov, but he also overtook Vidit on the live rating list, becoming India's number three player with the live-rating of 2714. Gukesh was one []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-5-report/",
-         "pubDate" : "Tue, 02 Aug 2022 19:51:43 +0000",
-         "title" : "Chess Olympiad 2022 - Round 5 report"
-      },
-      {
          "description" : " Breaking news about the FIDE presidential race. Inal Sheripov, one of the four candidates for FIDE President has withdrawn from contention. His Deputy President was Lewis Ncube, former African Chess Confederation President. The election takes place at the General Assembly on August 7th which runs concurrently with the Chess Olympiad in Chennai, India. Sheripov released The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/02/sheripov-withdraws-from-2022-fide-campaign/\">Sheripov withdraws from 2022 FIDE campaign</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/02/sheripov-withdraws-from-2022-fide-campaign/",
          "pubDate" : "Tue, 02 Aug 2022 19:28:19 +0000",
          "title" : "Sheripov withdraws from 2022 FIDE campaign"
-      },
-      {
-         "description" : "An interesting situation appeared today in the fifth round of Chess Olympiad 2022 in the game between GM Anish Giri and GM Eric Hansen. Hansen played the move and the clock added him 30 minutes, showing that he has 30 minutes and 28 seconds left for the end of the game after the move 40. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arbiters-intervention-as-gm-eric-hansen-loses-on-time-against-gm-anish-giri-on-move-40/",
-         "pubDate" : "Tue, 02 Aug 2022 19:17:17 +0000",
-         "title" : "Arbiter's intervention as GM Eric Hansen loses on time against GM Anish Giri on move 40"
       },
       {
          "description" : "",
@@ -1738,14 +1786,6 @@ news_feed (
          "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svensen on Magnus' Decision not to Defend his Title "
       },
       {
-         "description" : "Titled Tuesday on July 19 was won by FM Abtin Atakhan and GM Dmitry Andreikin. The latter tournament ended in a four-way tie on first after Andreikin defeated GM Daniel Naroditsky in the final round, and Andreikin&#39;s tiebreaks barely won out over s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/atakhan-andreikin-win-titled-tuesday-july-19-2022",
-         "pubDate" : "Wed, 20 Jul 2022 09:11:25 -0700",
-         "title" : "Underdog And Favorite Win Tuesday Tournaments"
-      },
-      {
          "description" : " <p class=\"lead\">And yes, it's true! What the chess world was expecting, but hoping it didn't happen, struck us on the International Chess Day. The reigning World Champion Magnus Carlsen decided not to defend his World Chess Championship Title in 2023 against the Challenger Ian Nepomniachtchi, and - as expected - Twitter is on fire. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20-15.55.41.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> \"I've been thinking about this decision for a long time, more than a year and a half. I spoke with people from my team, with FIDE, with Ian. It's very simple. I am not motivated to play another match.\" Carlsen sta",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1792,14 +1832,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title",
          "pubDate" : "Wed, 20 Jul 2022 10:16:00 +0000",
          "title" : "Magnus Carlsen to give up World Championship title"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> On <strong>International Chess Day</strong> <strong>Magnus Carlsen</strong> <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title?utm_source=Leon%20Media%20Contacts%20EN&amp;utm_campaign=b2286f37cc-EMAIL_CAMPAIGN_2021_09_03_COPY_01&amp;utm_medium=email&amp;utm_term=0_3c9d742802-b2286f37cc-163355110&amp;mc_cid=b2286f37cc&amp;mc_eid=de7d6b1e08\">announced</a> that he will not defend the world championship and stresses that he is not retiring as a professional player. He shared this intention in a meeting with <strong>FIDE</strong> President <strong>Arkady Dvorkovich</strong> and FIDE General Director <strong>Emil Sutovsky<",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-not-to-defend-title/",
-         "pubDate" : "Wed, 20 Jul 2022 11:03:54 +0100",
-         "title" : "Carlsen not to defend title"
       },
       {
          "description" : "The $175,000 SuperUnited Rapid & Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
@@ -1946,28 +1978,12 @@ news_feed (
          "title" : "Fifty years ago"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Nikolai Krogius</strong>, a grandmaster, arbiter, official and psycholist, who seconded <strong>Boris Spassky</strong> against Fischer in 1972 and led <strong>Anatoly Karpov</strong>'s delegation at the 1990 world championship, <a href=\"https://www.fide.com/news/1865\">passed away</a> days before his 92nd birthday. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nikolai-krogius-1930-2022/",
-         "pubDate" : "Sun, 17 Jul 2022 14:19:23 +0100",
-         "title" : "Nikolai Krogius (1930-2022)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1865",
          "pubDate" : "Sun, 17 Jul 2022 12:07:15 +0000",
          "title" : "Nikolai Krogius (1930-2022)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While chess is struggling to survive under Taliban rule, two officials who fled Afghanistan are fighting over the right to vote at the upcoming FIDE election. <strong>Ghulam Ali Malak Zad</strong>, who resides in Latvia and was <a href=\"https://www.chessdom.com/fide-elections-list-of-federations-with-voting-powers-electoral-commission-report/\">recently listed as President and Delegate</a> of the <strong>Afghan Chess Federation</strong>, is protesting a <a href=\"https://congress.fide.com/wp-content/uploads/2022/07/Electoral-Commission_Report_9-July-2022_Addendum.pdf\">decision of the <strong>Electoral Commission</strong></a> to approve as delegate <st",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/infight-for-afghanistan-voting-right/",
-         "pubDate" : "Sun, 17 Jul 2022 10:51:40 +0100",
-         "title" : "Infight for Afghanistan voting right"
       },
       {
          "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
