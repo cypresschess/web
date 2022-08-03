@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " At the end of round 5 of the 2022 Chess Olympiad, only 2 teams remain on a perfect score. India 2 defeated Spain 2.5-1.5, while Armenia beat England by a similar score*. So there is an Indian team leading the home Olympiad, just not the one that was expected. Tied for third are India 1, USA and a couple of surprises in Uzbekistan and Cuba. Norway bounced back form a couple of poor (and in one case lucky) rounds, to beat Zambia 3.5-0.5 Australia missed a chance to stay in the top 10, drawing with the lower seeded Belgium 2-2. GM Justin Tan suffered his first loss of the tournament, but this was balanced out by a win for GM Zong Yuan Zhao. As a result the Australians now face Norway in Round ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-5.html",
+         "pubDate" : "Wed, 03 Aug 2022 02:33:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 5"
+      },
+      {
          "description" : "India 2 and Armenia are the only teams that have won all their matches in the open section of the Chess Olympiad. The second squad presented by the locals has four players aged 18 or younger, including Gukesh, who has a perfect 5/5 score after beating Alexei Shirov on Tuesday. In the women's section, India, Georgia and Romania are sharing the lead on 10/10 match points. The Romanian ladies stunned Poland in the fifth round. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
