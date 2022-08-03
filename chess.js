@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93328808.cms\" />India's top player Koneru Humpy and R Vaishali led the women's 'A' team to a 3-1 win over a strong Georgian side in the sixth round of the 44th Chess Olympiad here on Wednesday. In the Open section, teenaged Grandmaster D Gukesh's splendid run continued as he notched up a sixth consecutive win, but India 'B' went down 1.5-2.5 to former champions Armenia.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-koneru-humpy-r-vaishali-star-in-india-a-win-over-georgian-women/articleshow/93328808.cms",
+         "pubDate" : "Wed, 03 Aug 2022 14:58:42 +0000",
+         "title" : "Chess Olympiad: Humpy, Vaishali star in India 'A' win over Georgian women"
+      },
+      {
+         "description" : " Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. Along with Armenia, they are on 5/5 with a whopping 96 board points. Armenia only has 77 board points. Another team The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/",
+         "pubDate" : "Wed, 03 Aug 2022 12:30:05 +0000",
+         "title" : "2022 Chess Olympiad: Round #5"
+      },
+      {
+         "description" : "The hosting city of the first ever Chess Olympiad in India is decked up with chess colours. Chennai's&#xA0;iconic bridge looks like an enormously big chess board, streets are decorated with chess murals, and the chess board paintings appeared on the Chennai Airport as well. The Airport's food court area tables are now showing chess boards! []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-boards-all-around-the-chennai-airport-tweetoftheday/",
+         "pubDate" : "Wed, 03 Aug 2022 12:05:34 +0000",
+         "title" : "Chess boards all around the Chennai Airport #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1898",
+         "pubDate" : "Wed, 03 Aug 2022 12:04:34 +0000",
+         "title" : "Women in Chess to be celebrated at FIDE's first Queens Awards"
+      },
+      {
+         "description" : "The sixth round of the Chess Olympiad 2022 has started in Chennai with the ceremonial first move made by Mr. Pradeep Sekar Director of Citi Bank, and former member of the Indian National Team IM K. Murugan representing NLC. With only two teams tying for the top of Open section with the maximum score, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-6/",
+         "pubDate" : "Wed, 03 Aug 2022 11:46:08 +0000",
+         "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 6"
+      },
+      {
          "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Anousha Mahdian (Iran)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
          "pubDate" : "Wed, 03 Aug 2022 11:25:00 +0100",
          "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "The fourth round of the 2022 Chess Olympiad saw many upsets. One of them was Norway drawing against Mongolia as the match finished with the result of 2-2. However, the Mongolian team had a victory in the pocket as it turned out that Aryan Tari incorrectly claimed a threefold repetition against Bayarsaikhan Gundavaa. The Mongolian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/incorrect-claim-of-the-threefold-repetition-saved-norway-from-a-loss-to-mongolia/",
+         "pubDate" : "Wed, 03 Aug 2022 09:08:00 +0000",
+         "title" : "Incorrect claim of the threefold repetition saved Norway from a loss to Mongolia"
       },
       {
          "description" : "Only two teams remain perfect at the 2022 Chess Olympiad in Chennai. India 2 and Armenia share the top with 10/10 match points, while Uzbekistan, India, USA, Cuba and Iran follow with 9 match points. The 6th round comes before tomorrow&#x2019;s free day bringing the encounter of the leaders &#x2013;&#xA0;India2 vs Armenia. India, Georgia and []",
@@ -178,14 +226,6 @@ news_feed (
          "title" : "Women's Olympiad: Three teams forge ahead with 10 and 9 points each"
       },
       {
-         "description" : "16-year-old Dommaraju Gukesh played brilliantly to defeat former World Championship Challenger Alexei Shirov even as his India Team B shocked fourth seed Spain with a 2.5-1.5 score at the ongoing 44th Chess Olympiad being played at Mamallapuram, Chennai. Replay the match here This was Gukesh&#x2019;s fifth victory on the trot and also a fifth victory []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/16-year-old-gukesh-d-shines-in-chennai-with-5-5-points/",
-         "pubDate" : "Tue, 02 Aug 2022 18:29:15 +0000",
-         "title" : "16-year-old Gukesh D shines in Chennai with 5/5 points!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -200,22 +240,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/2/ep-290-dutch-trainer-and-author-im-jeroen-bosch-on-how-to-build-an-opening-repertoire",
          "pubDate" : "Tue, 02 Aug 2022 17:09:40 +0000",
          "title" : "EP 290- Dutch Trainer and Author IM Jeroen Bosch on How to Build an Opening Repertoire "
-      },
-      {
-         "description" : "After five played rounds at the 2022 Chess Olympiad only two teams emerged on the top with the perfect score of 10 match points &#x2013; India2 and Armenia. Uzbekistan, India, USA, Cuba and Iran follow with 4 won matches and 1 draw, scoring 9 match points. India, Georgia and Romania are the only teams remaining []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-6-pairings/",
-         "pubDate" : "Tue, 02 Aug 2022 16:18:35 +0000",
-         "title" : "44th Chess Olympiad 2022 - Round 6 pairings"
-      },
-      {
-         "description" : "After five played rounds at the 2022 Chess Olympiad only two teams emerged on the top with the perfect score of 10 match points India2 and Armenia. Uzbekistan, India, USA, Cuba and Iran follow with 4 won matches and 1 draw, scoring 9 match points. Round 5 results (open section) are below / Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-5-open-section/",
-         "pubDate" : "Tue, 02 Aug 2022 15:58:28 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 5 (open section)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93304342.cms\" />The limelight was on India 2 right from the start of the 44th Olympiad here. The young guns in the team are living up to the hype as they notched up their fifth successive win beating Spain 2.5-1.5 riding strong shows by D Gukesh and B Adhiban. ",
@@ -376,6 +400,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/",
          "pubDate" : "Mon, 01 Aug 2022 14:02:05 +0000",
          "title" : "2022 Chess Olympiad: Round #3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Mon, 01 Aug 2022 13:29:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "ChessBase Magazine Extra #208 offers, among other things, almost an hour of video training: Ivan Sokolov presents 6.g3 as a surprise weapon against the Sicilian Four Knights. And Nico Zwirs examines the move 5...b5 in the Vienna Variation of the Queen's Gambit - an absolutely fashionable variation that leads to very dynamic play! \"The brilliancy\" is contributed by David Navara, who highlights his Black win with the Berlin Defense against Alexei Shirov. In addition, the \"Lucky bag\" with 59 annotated games - including contributions from Anish Giri and Kirill Shevchenko - holds a colorful mix of analyses and suggestions. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. ",
@@ -717,14 +749,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Fri, 29 Jul 2022 19:29:55 +0000",
-         "title" : "FIDE Congress 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1887",
          "pubDate" : "Fri, 29 Jul 2022 19:12:54 +0000",
          "title" : "44th Chess Olympiad: Favorites start strongly"
@@ -1050,14 +1074,6 @@ news_feed (
          "title" : "Chennai Olympiad: US big favourite, India looking to leave a mark"
       },
       {
-         "description" : " As of late, Andrew and Tristan Tate have been a social media phenomenon exhibiting &#8220;Tate Pride&#8221; with their provocative statements on topics such as masculinity/femininity dynamics, money management, and living the high-value life. Today both tout lavish lifestyles and teaches other men how to live for success in their subscription-based &#8220;War Room&#8221; training. The activities The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/\">The Emory Tate Pride Andrew and Tristan break Internet</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/28/the-emory-tate-pride-andrew-and-tristan-break-internet/",
-         "pubDate" : "Thu, 28 Jul 2022 04:43:21 +0000",
-         "title" : "The Emory Tate Pride&hellip; Andrew and Tristan break Internet"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93175255.cms\" />​The 44th Chess Olympiad is going to be different for the Indian team for many reasons. Even as Chennai gears up to host the country's first-ever Olympiad and is one of the favourites for a podium-finish, the Indian team will not be having the services of legend --- Viswanathan Anand --- as a player.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1208,14 +1224,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-first-impressions.html",
          "pubDate" : "Tue, 26 Jul 2022 16:32:00 +0000",
          "title" : "2022 Chess Olympiad - First Impressions"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93142542.cms\" />Reigning world champion Magnus Carlsen on Tuesday said that hosts India stand a strong chance of winning medals at the upcoming 44th Chess Olympiad. India will be hosting the showpiece event for the first time in the prestigious tournament's history from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-have-a-strong-chance-of-winning-medals-at-chess-olympiad-magnus-carlsen/articleshow/93142542.cms",
-         "pubDate" : "Tue, 26 Jul 2022 14:41:49 +0000",
-         "title" : "India have a strong chance of winning medals at Chess Olympiad: Carlsen"
       },
       {
          "description" : "GMs Vladimir Fedoseev and Benjamin Bok were the winners of the seventh and eighth Play-ins of the Chess.com Global Championship. GMs Raunak Sadhwani and Rauf Mamedov each won second place respectively, joining the winners in advancing to the knock...",
