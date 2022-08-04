@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is happy to announce the release of Recommended Matches. For the first time ever, you will be presented with personalized pairings for Daily Games on your home screen. So how does it work? If you&#38;rsquo;ve finished playing all of y...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-recommended-matches",
+         "pubDate" : "Thu, 04 Aug 2022 16:26:04 -0700",
+         "title" : "Announcing Recommended Matches"
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) will be hosting its Year of the Woman in Chess Awards on August 5 at 8:00 p.m. as part of the 44th Chess Olympiad in Chennai, India. In January of this year, FIDE President&#xA0;Arkady Dvorkovich&#xA0;announced FIDE's Year of the Woman in Chess. Throughout 2022, FIDE and its member organizations hosted []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/year-of-the-woman-in-chess-awards-will-be-presented-tomorrow-in-chennai/",
+         "pubDate" : "Thu, 04 Aug 2022 20:59:30 +0000",
+         "title" : "Year of the Woman in Chess Awards will be presented tomorrow in Chennai"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93355786.cms\" />D Harika has been the centre of a lot of attention at the ongoing 44th Olympiad here. Playing in the high-profile tournament despite being in an advanced stage of pregnancy, the 31-year-old Indian GM has shown great composure --- be it on the board or off it.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1898",
          "pubDate" : "Wed, 03 Aug 2022 12:04:34 +0000",
          "title" : "Women in Chess to be celebrated at FIDE's first Queens Awards"
-      },
-      {
-         "description" : "The sixth round of the Chess Olympiad 2022 has started in Chennai with the ceremonial first move made by Mr. Pradeep Sekar Director of Citi Bank, and former member of the Indian National Team IM K. Murugan representing NLC. With only two teams tying for the top of Open section with the maximum score, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-6/",
-         "pubDate" : "Wed, 03 Aug 2022 11:46:08 +0000",
-         "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 6"
       },
       {
          "description" : "When dealing with a complex tactic there are usually two outcomes: a leap of intuition leads us to a Eureka epiphany, or we fail miserably, with the engine telling us what the move was, but we remain no closer to knowing how to solve it the next time. Here we analyze a less than obvious solution and how one might reach it through meticulous logic and internal debate.",
@@ -1778,14 +1786,6 @@ news_feed (
          "title" : "Rising Star Knocks Out Experienced Compatriot"
       },
       {
-         "description" : "It wasn&#39;t a bolt from the blue, but GM Magnus Carlsen&#39;s decision not to defend his world title still came as shock to many. A day after the news came out, Chess.com gives an overview of reactions from the chess world. GM Vishy Anand, FIDE World ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsens-abdication-reactions-from-the-chess-world",
-         "pubDate" : "Thu, 21 Jul 2022 12:30:00 -0700",
-         "title" : "Carlsen's Abdication: Reactions From The Chess World"
-      },
-      {
          "description" : " The news that Magnus Carlsen will not defend his World Championship title is spreading quite quickly across the chess world. He had hinted that this might happen, but I for one was quite surprised that he has decided to go down this road. He isn't retiring from chess (like Fischer did), and is in fact taking part in the upcoming Olympiad. But we once again return to a situation where the World Champion isn't necessarily the worlds strongest player. The immediate result is that it will be a Nepo v Ding world championship match, as they finished 1st and 2nd at the 2022 Candidates. Interestingly, neither player is taking part in the Olympiad, as neither players country will be there. The longe",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/15/chess-england-target-first-olympiad-medal-this-century-chennai",
          "pubDate" : "Fri, 15 Jul 2022 07:00:32 +0000",
          "title" : "Chess: England target first Olympiad medal this century in Chennai"
-      },
-      {
-         "description" : " In this week's show, Andrew and I reminisced over the 1972 Fischer Spassky and tried to give a taste of what it was like. Both of us followed that match avidly, and it sparked a massive global interest in chess. We are now on a summer recess, but will be back in September with <a href=\"https://chessimprover.com/master-chess-web-show-22/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Master Chess Web Show (22)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/master-chess-web-show-22/\">Master Chess Web Show (22)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/master-chess-web-show-22/",
-         "pubDate" : "Thu, 14 Jul 2022 20:03:09 +0000",
-         "title" : "Master Chess Web Show (22)"
       }
    ]
 }
