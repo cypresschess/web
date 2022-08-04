@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93355786.cms\" />D Harika has been the centre of a lot of attention at the ongoing 44th Olympiad here. Playing in the high-profile tournament despite being in an advanced stage of pregnancy, the 31-year-old Indian GM has shown great composure --- be it on the board or off it.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-with-eye-on-medal-soon-to-be-mom-d-harika-battles-on/articleshow/93355786.cms",
+         "pubDate" : "Thu, 04 Aug 2022 18:20:52 +0000",
+         "title" : "Olympiad: With eye on medal, soon-to-be-mom D Harika battles on"
+      },
+      {
+         "description" : "The game was invented in the 6th century in north-western India, from where it migrated to the west and conqured the world. The country of origin, however, deschended into mediocracy - until it suddenly produced its first grandmaster and World Champion. Now India is on the verge of becoming the ultimate super-power of chess. Our report includes a nice video summary of the performance of the Indian teams at the Chennai Olympiad so far.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-returns-to-india",
+         "pubDate" : "Thu, 04 Aug 2022 19:00:00 +0100",
+         "title" : "Chess returns to India"
+      },
+      {
+         "description" : "This week Robert Ris will have a look at a spectacular game from the Olympiad match Czech Republic vs. Mongolia, in which David Navara played a model game that shows White's possibilities in the Caro-Kann Advance Variation. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-caro-kann-advance-variation",
+         "pubDate" : "Thu, 04 Aug 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Caro-Kann Advance Variation"
+      },
+      {
+         "description" : "The best Dutch grandmaster and the world No 9 GM Anish Giri scored a smooth victory against GM Baadur Jobava in the 6th round of the 44th Chess Olympiad 2022. Round 6 results (open section) / Round 6 report Giri delivered a very nice exchange sacrifice after which he achieved a completely winning position and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-about-his-r6-game-he-played-a-very-rare-sideline-i-was-out-of-book-very-early/",
+         "pubDate" : "Thu, 04 Aug 2022 15:54:01 +0000",
+         "title" : "Anish Giri about his R6 game: \"He played a very rare sideline, I was out of book very early\""
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93353085.cms\" />The Indian teams have been at the forefront in the 44th Chess Olympiad thus far with India 'A' at the top of the standings in the women's section and the 'B' team in third position in the Open event after six rounds.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -191,7 +223,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-koneru-humpy-r-vaishali-star-in-india-a-win-over-georgian-women/articleshow/93328808.cms",
          "pubDate" : "Wed, 03 Aug 2022 14:58:42 +0000",
-         "title" : "Chess Olympiad: Humpy, Vaishali star in India 'A' win over Georgian women"
+         "title" : "Olympiad: Humpy, Vaishali star in India 'A' win over Georgian women"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess Federation of South Korea</strong> has <a href=\"https://twitter.com/FIDE_chess/status/1554843689163583489\">announced</a> at the ongoing <strong>FIDE Congress</strong> in Chennai that it will bid for the <strong>World Cup 2023</strong>. </div> ",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-6/",
          "pubDate" : "Wed, 03 Aug 2022 11:46:08 +0000",
          "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 6"
-      },
-      {
-         "description" : "The fourth round of the 2022 Chess Olympiad saw many upsets. One of them was Norway drawing against Mongolia as the match finished with the result of 2-2. However, the Mongolian team had a victory in the pocket as it turned out that Aryan Tari incorrectly claimed a threefold repetition against Bayarsaikhan Gundavaa. The Mongolian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/incorrect-claim-of-the-threefold-repetition-saved-norway-from-a-loss-to-mongolia/",
-         "pubDate" : "Wed, 03 Aug 2022 09:08:00 +0000",
-         "title" : "Incorrect claim of the threefold repetition saved Norway from a loss to Mongolia"
       },
       {
          "description" : "When dealing with a complex tactic there are usually two outcomes: a leap of intuition leads us to a Eureka epiphany, or we fail miserably, with the engine telling us what the move was, but we remain no closer to knowing how to solve it the next time. Here we analyze a less than obvious solution and how one might reach it through meticulous logic and internal debate.",
@@ -1298,14 +1322,6 @@ news_feed (
          "title" : "Communique of the ECU General Assembly and Elections 2022"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93153366.cms\" />Though the five-time world champion and legendary Viswanathan Anand has chosen not to play and donned the mentor's hat this time, the Indian teams, nonetheless, wear a formidable look. India will be fielding three teams each in the Open and women's sections respectively.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/all-eyes-on-india-ahead-of-the-44th-chess-olympiad/articleshow/93153366.cms",
-         "pubDate" : "Wed, 27 Jul 2022 05:47:05 +0000",
-         "title" : "All eyes on India ahead of the 44th Chess Olympiad"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows Varuzhan Akobian&#039;s preferred system to stymie the King&#039;s Indian Defense. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a><br /> Caleb Denby vs. Alex Moellering, 2014: E61 King&#039;s Indian defence, 3.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1594,14 +1610,6 @@ news_feed (
          "title" : "In transit"
       },
       {
-         "description" : "Viswanathan Anand goes into his last game with a half-point lead over direct opponent Michael Adams and Dmitrij Kollars at the No-Castling World Masters in Dortmund. Meanwhile, Pavel Eljanov leads the Deutschland Grand Prix after beating Matthias Bl&uuml;baum on Saturday. Bogdan-Daniel Deac also won and still has a chance of winning the tournament | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r6",
-         "pubDate" : "Sun, 24 Jul 2022 10:35:00 +0100",
-         "title" : "NC World Masters: Anand leads with one round to go"
-      },
-      {
          "description" : "Dear All, Please be informed that due to the Announcement of Asian Chess Federation ,the Asian School Chess Championship 2022 scheduled to be conducted at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/zagreb-gct-4-magnus-takes-over",
          "pubDate" : "Sun, 24 Jul 2022 07:37:45 +0000",
          "title" : "Zagreb GCT 4: Magnus takes over"
-      },
-      {
-         "description" : "On the fourth day of the Grand Chess Tour event in Zagreb, the ten players completed the first half of the blitz section. Magnus Carlsen was the top scorer. The world champion won seven games and lost twice to grab the sole lead. Wesley So and Jorden van Foreest stand in second and third places respectively. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d4",
-         "pubDate" : "Sun, 24 Jul 2022 04:25:00 +0100",
-         "title" : "SuperUnited Croatia: Carlsen climbs to first place"
       },
       {
          "description" : "An online &#34;round-table&#34; discussion organized by the Association of Chess Professionals (ACP) on Thursday saw three FIDE presidential candidates, the incumbent president Arkady Dvorkovich, GM Andrii Baryshpolets, and GM Bachar Kouatly, debating ove...",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://chessimprover.com/master-chess-web-show-22/",
          "pubDate" : "Thu, 14 Jul 2022 20:03:09 +0000",
          "title" : "Master Chess Web Show (22)"
-      },
-      {
-         "description" : "Not won yet, but it can only be a matter of time? Watch this website &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/from-the-fide-front-page/",
-         "pubDate" : "Thu, 14 Jul 2022 15:37:10 +0000",
-         "title" : "From the FIDE front page &hellip;"
       }
    ]
 }
