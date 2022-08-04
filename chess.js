@@ -2120,22 +2120,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-champions-2022-crowned-in-lublin-poland/",
          "pubDate" : "Thu, 14 Jul 2022 12:23:00 +0000",
          "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
-      },
-      {
-         "description" : " From the author and illustrator: In our first book, Across the Battlefield: A Pawn's Journey, we imagine what it might feel like to be a pawn in the game of chess. The rules of the game make it possible so that a mere pawn can one day become a queen, the strongest piece on the <a href=\"http://britishchessnews.com/2022/07/14/across-the-battlefield-a-pawns-journey/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Across the Battlefield: A Pawn's Journey</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/07/14/across-the-battlefield-a-pawns-journey/\">Across the Battlefield: A Pawn's Journey</a> appeared first o",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/07/14/across-the-battlefield-a-pawns-journey/",
-         "pubDate" : "Thu, 14 Jul 2022 11:17:28 +0000",
-         "title" : "Across the Battlefield: A Pawn's Journey"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1862",
-         "pubDate" : "Thu, 14 Jul 2022 11:14:41 +0000",
-         "title" : "European Senior Championship 2022: Martin Mrva and Nils-Gustaf Renman claim titles"
       }
    ]
 }
