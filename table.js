@@ -1,4 +1,5 @@
 jtable([
+"MISSOURI CITY","2022-08-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208029022 target='_blank'>RCC QUADS WEEK 3 AUGUST 2 2022</a>",
 "HOUSTON","2022-07-31","16","<a href=http://www.uschess.org/msa/XtblMain.php?202207317482 target='_blank'>JULY 31 SUN SWISS</a>",
 "KATY","2022-07-30","45","<a href=http://www.uschess.org/msa/XtblMain.php?202207307712 target='_blank'>CIA SUMMER OTB</a>",
 "HOUSTON","2022-07-30","25","<a href=http://www.uschess.org/msa/XtblMain.php?202207306802 target='_blank'>F7 JULY SCHOLASTIC</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2021-10-01","25","<a href=http://www.uschess.org/msa/XtblMain.php?202110017132 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-09-07  - 09-28","12","<a href=http://www.uschess.org/msa/XtblMain.php?202109286412 target='_blank'>SEPTTUENIGHTSWISS</a>",
 "HOUSTON","2021-09-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202109266072 target='_blank'>SEPTEMBER SUNDAY SWISSES</a>",
-"HOUSTON","2021-09-25","101","<a href=http://www.uschess.org/msa/XtblMain.php?202109254902 target='_blank'>NIMITZ HIGH SCHOOL SCHOLASTIC</a>",
 ]);
