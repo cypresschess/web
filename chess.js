@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93353085.cms\" />The Indian teams have been at the forefront in the 44th Chess Olympiad thus far with India 'A' at the top of the standings in the women's section and the 'B' team in third position in the Open event after six rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teams-eye-glory-as-chess-olympiad-enters-business-end/articleshow/93353085.cms",
+         "pubDate" : "Thu, 04 Aug 2022 14:51:54 +0000",
+         "title" : "Indian teams eye glory as Chess Olympiad enters business end"
+      },
+      {
+         "description" : "In&#xA0;an interview given yesterday, during the 6th round of the Chess Olympiad, Mrs.&#xA0;Hyun In Suk, President of the South Korea Chess Federation, and&#xA0;Hando Oh, Vice-President, proudly announced their intention to host the FIDE World Cup in 2023.&#xA0;Round 6 results (open section) / Round 6 results (women's section) &#8220;We are eager to stage big chess events []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cup-2023-might-be-held-in-south-korea/",
+         "pubDate" : "Thu, 04 Aug 2022 14:50:24 +0000",
+         "title" : "FIDE World Cup 2023 might be held in South Korea"
+      },
+      {
          "description" : "New York won the state versus state championship at the national tournaments of state chess champions held July 30-August 2, 2022. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Rancho Mirage, California site, which also hosts the U.S. Open. | Photos: Alexey Root",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-york-bests-other-states-at-chess",
          "pubDate" : "Thu, 04 Aug 2022 15:00:00 +0100",
          "title" : "New York bests other states at chess"
+      },
+      {
+         "description" : " Exciting action in round #6 at the 2022 Chess Olympiad today. As we are past the halfway mark, there has been a pleasant surprise emerging with Armenia leading the Open Section. Armenia is a well-known chess power, but since the loss of Levon Aronian and Vladimir Akopian (immigrating to the U.S.), they were considered less The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/\">2022 Chess Olympiad: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/",
+         "pubDate" : "Thu, 04 Aug 2022 13:27:26 +0000",
+         "title" : "2022 Chess Olympiad: Round #6"
+      },
+      {
+         "description" : " Australia was one of the big stories of Round 6, after beating third seeded Norway 2.5-1.5. World Champion Magnus Carlsen defeated Anton Smirnov on board 1, but wins for Kuybokarov and Cheng, plus a tough draw for Tan saw Australia get over the line. The win puts Australia in a tie for 14th place and a match against Iran in round 7. Armenia now lead the tournament after winning their 6th match in a row. Their next opponent is the USA, which now has former Armenian Number 1 Lev Aronian in their ranks. The Indian teams (all 3) continue to do well, and are in a large group of teams tied for third. India leads the Women's Olympiad with 12 points from 6 games. The Australian team was paired agai",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-6.html",
+         "pubDate" : "Thu, 04 Aug 2022 13:24:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 6"
       },
       {
          "description" : "World Champion Magnus Carlsen will be joined by Alireza Firouzja, Levon Aronian, Anish Giri, Jan-Krzysztof Duda, Liem Le, Hans Niemann and Praggnanandhaa for the&#xA0;FTX Crypto Cup, taking place in Miami, Florida from August 15-21. The 2nd Major on the 2022&#xA0;Meltwater Champions Chess Tour&#xA0;features a $210,000 prize fund plus a $100,000 bitcoin bonus. Who&#x2019;s playing the []",
@@ -232,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/incorrect-claim-of-the-threefold-repetition-saved-norway-from-a-loss-to-mongolia/",
          "pubDate" : "Wed, 03 Aug 2022 09:08:00 +0000",
          "title" : "Incorrect claim of the threefold repetition saved Norway from a loss to Mongolia"
-      },
-      {
-         "description" : "Only two teams remain perfect at the 2022 Chess Olympiad in Chennai. India 2 and Armenia share the top with 10/10 match points, while Uzbekistan, India, USA, Cuba and Iran follow with 9 match points. The 6th round comes before tomorrow&#x2019;s free day bringing the encounter of the leaders &#x2013;&#xA0;India2 vs Armenia. India, Georgia and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-6-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
-         "pubDate" : "Wed, 03 Aug 2022 08:30:16 +0000",
-         "title" : "Round 6 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
       },
       {
          "description" : "When dealing with a complex tactic there are usually two outcomes: a leap of intuition leads us to a Eureka epiphany, or we fail miserably, with the engine telling us what the move was, but we remain no closer to knowing how to solve it the next time. Here we analyze a less than obvious solution and how one might reach it through meticulous logic and internal debate.",
@@ -986,14 +1010,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen in Olympiad action as world No 1 targets record rating"
       },
       {
-         "description" : " At the Opening Ceremonies of the 2022 Chess Olympiad, the biennial event has officially begun. After only four months of preparation, India has shown the world the possibilities and capabilities of the chess world. They also showed that chess holds the passion of many countries and it does not belong to any region. It belongs The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/\">2022 Chess Olympiad: Opening Ceremonies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/29/2022-chess-olympiad-opening-ceremonies/",
-         "pubDate" : "Fri, 29 Jul 2022 05:36:29 +0000",
-         "title" : "2022 Chess Olympiad: Opening Ceremonies"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament.<br /> See examples from Thalia's own games from the 2022 American Continental Chess Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/all-eyes-on-india-ahead-of-the-44th-chess-olympiad/articleshow/93153366.cms",
          "pubDate" : "Wed, 27 Jul 2022 05:47:05 +0000",
          "title" : "All eyes on India ahead of the 44th Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93152866.cms\" />Almost nine years after winning his maiden World title in Chennai --Magnus Carlsen will be arriving in the city to represent Norway at the 44th chess Olympiad which starts on July 28. A few days ago Carlsen announced that he would not contest the World Championship final, where he was supposed to play Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/with-some-changes-i-dont-rule-out-a-return-to-world-championship-cycle-magnus-carlsen/articleshow/93152866.cms",
-         "pubDate" : "Wed, 27 Jul 2022 05:22:24 +0000",
-         "title" : "With some changes, I don't rule out a return to WC cycle: Magnus Carlsen"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows Varuzhan Akobian&#039;s preferred system to stymie the King&#039;s Indian Defense. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a><br /> Caleb Denby vs. Alex Moellering, 2014: E61 King&#039;s Indian defence, 3.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden f",
