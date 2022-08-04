@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Champion Magnus Carlsen will be joined by Alireza Firouzja, Levon Aronian, Anish Giri, Jan-Krzysztof Duda, Liem Le, Hans Niemann and Praggnanandhaa for the FTX Crypto Cup, taking place in Miami, Florida from August 15-21. The 2nd Major on the 2022 Meltwater Champions Chess Tour features a $210,000 prize fund plus a $100,000 bitcoin bonus.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-tops-ftx-crypto-cup-line-up",
+         "pubDate" : "Thu, 04 Aug 2022 09:09:23 +0000",
+         "title" : "Magnus Carlsen tops FTX Crypto Cup line-up"
+      },
+      {
+         "description" : "After the first two traumatic games World Champion Boris Spassky was leading 2-0 in the Match of the Century. But then Fischer started to play and struck back: in the next eight games he scored 6&frac12; points, chalking up a 6.5-3.5 lead. Games 8, 9 and 10 were quite spectacular, and are the subject of today's report - exactly fifty years after game ten. Younger players will also learn about \"adjournments\" and how exactly \"sealed moves\" were handled. Some were born after these practices were abandoned.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fifty-years-ago-fischer-leads-6-3",
+         "pubDate" : "Thu, 04 Aug 2022 10:00:00 +0100",
+         "title" : "Fifty years ago: Fischer leads 6&frac12;:3&frac12;"
+      },
+      {
          "description" : "In his \"Game of the Week\" show Merijn van Delft looks at one of the most impressive games played in the Chess Olympiad 2022 in Chennai: Nodirbek Abdusattorov's convincing win against Fabiano Caruana with the black pieces. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1650,14 +1666,6 @@ news_feed (
          "title" : "Zagreb GCT 3: Jorden beats Firouzja to win Rapid"
       },
       {
-         "description" : "Vishy Anand continues to lead the standings in the No-Castling World Masters after drawing Dmitrij Kollars on Friday. In the Sparkassen Open-A, one of many tournaments taking place as part of the Dortmund Chess Festival, Dutch GM Max Warmerdam has scored 7 points in as many games. Warmerdam beat Thomas Beerdsen in style and analysed his victory in the post-game interview. | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r5",
-         "pubDate" : "Sat, 23 Jul 2022 10:15:00 +0100",
-         "title" : "Dortmund Festival: Warmerdam still perfect in the Open"
-      },
-      {
          "description" : "The announcement of a new book by the Dutch Grandmaster and world title aspirant, Jan Timman, is always a cause for celebration. One of the sharpest and most literate of chess playing and writing brains, Timman's new book The Unstoppable American reminds me that the fiftieth anniversary of Bobby Fischer becoming World Champion falls due this []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title",
          "pubDate" : "Wed, 20 Jul 2022 10:16:00 +0000",
          "title" : "Magnus Carlsen to give up World Championship title"
-      },
-      {
-         "description" : "The $175,000 SuperUnited Rapid & Blitz kicks off with a bang in Zagreb, Croatia today as World Champion Magnus Carlsen faces his challenger Ian Nepomniachtchi in Round 1.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nepomniachtchi-in-zagreb-gct-opening-game",
-         "pubDate" : "Wed, 20 Jul 2022 09:04:08 +0000",
-         "title" : "Carlsen-Nepomniachtchi in Zagreb GCT opening game"
       },
       {
          "description" : " The SuperUnited Rapid & Blitz took place on 20th July and runs through until the 25th July. Jorden Van Foreest won the rapid and MVL the blitz. Magnus Carlsen won the event over all sealing victory in the combined standings with a couple of rounds to go. He slightly spoiled things for himself by losing the final two rounds.",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1862",
          "pubDate" : "Thu, 14 Jul 2022 11:14:41 +0000",
          "title" : "European Senior Championship 2022: Martin Mrva and Nils-Gustaf Renman claim titles"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess, the company behind the most exciting chess events in the world as well as the iconic World Chess Championship set design, has been <i>obsessed</i> with putting chess sets in people's homes. The company's biggest merchandising hit, the <a href=\"https://shop.worldchess.com/products/official-world-chess-championship-set\">official Championship Set</a>, while being the favorite among elite chess players, is too big for an average apartment. The <a href=\"https://shop.worldchess.com/collections/chess-sets/products/world-chess-set-home-edition-with-bauhaus-board\">new chess set</a>, with a beautiful <i>Bauhaus board</i>, solves the size issue while remaining as cool as a",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/a-championship-chess-set-that-fits-into-ones-apartment-finally/",
-         "pubDate" : "Thu, 14 Jul 2022 08:25:53 +0000",
-         "title" : "A Championship Chess Set That Fits Into One's Apartment, Finally"
       }
    ]
 }
