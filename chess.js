@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "New York won the state versus state championship at the national tournaments of state chess champions held July 30-August 2, 2022. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Rancho Mirage, California site, which also hosts the U.S. Open. | Photos: Alexey Root",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-york-bests-other-states-at-chess",
+         "pubDate" : "Thu, 04 Aug 2022 15:00:00 +0100",
+         "title" : "New York bests other states at chess"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen will be joined by Alireza Firouzja, Levon Aronian, Anish Giri, Jan-Krzysztof Duda, Liem Le, Hans Niemann and Praggnanandhaa for the&#xA0;FTX Crypto Cup, taking place in Miami, Florida from August 15-21. The 2nd Major on the 2022&#xA0;Meltwater Champions Chess Tour&#xA0;features a $210,000 prize fund plus a $100,000 bitcoin bonus. Who&#x2019;s playing the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-and-firouzja-top-ftx-crypto-cup-line-up/",
+         "pubDate" : "Thu, 04 Aug 2022 13:12:38 +0000",
+         "title" : "Carlsen and Firouzja top FTX Crypto Cup line-up"
+      },
+      {
          "description" : "World Champion Magnus Carlsen will be joined by Alireza Firouzja, Levon Aronian, Anish Giri, Jan-Krzysztof Duda, Liem Le, Hans Niemann and Praggnanandhaa for the FTX Crypto Cup, taking place in Miami, Florida from August 15-21. The 2nd Major on the 2022 Meltwater Champions Chess Tour features a $210,000 prize fund plus a $100,000 bitcoin bonus.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -248,14 +264,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/challenge-anyone-on-fide-chess-arena-new-feature/",
          "pubDate" : "Wed, 03 Aug 2022 08:17:13 +0000",
          "title" : "Challenge Anyone on FIDE Chess Arena - New Feature"
-      },
-      {
-         "description" : "Only two teams remain perfect at the 2022 Chess Olympiad in Chennai. India 2 and Armenia share the top with 10/10 match points, while Uzbekistan, India, USA, Cuba and Iran follow with 9 match points. The 6th round comes before tomorrow's free day bringing the encounter of the leaders India2 vs Armenia. GM Gukesh []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-6-board-pairings-open-section/",
-         "pubDate" : "Wed, 03 Aug 2022 07:59:14 +0000",
-         "title" : "Chess Olympiad 2022 - Round 6 board pairings (open section)"
       },
       {
          "description" : "The Asian School Chess Championship 2022 scheduled to be conducted at Kaluthara, Srilanka is postponed. Please wait for further announcement. Intimation: &#160; &#160;",
@@ -1642,14 +1650,6 @@ news_feed (
          "title" : "That one chance"
       },
       {
-         "description" : "Chess is one of the most-played sports in the world. In the first official Chess Awareness Barometer, World Chess, a London-based long-term commercial partner of FIDE, is conducting a survey in the UK and USA to find out how many people know the name of the current World Champion and where he is from. 7% know the name of the Champion, and 6% know that he was born in Norway. Here's the breakdown provided by World Chess. | Photo World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/do-you-know-this-guy",
-         "pubDate" : "Sat, 23 Jul 2022 15:00:00 +0100",
-         "title" : "Do you know this guy?"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg\" data-image-dimensions=\"551x316\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dbf418e12e3a3d6602fea5\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg?format=1000w\" /> </figure> <p class=\"\">With a FIDE election coming up on August 7, I am extending the invitation for FIDE Presidential Candidates to share their stories and their reasons to run for FIDE President. Brief tim",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -2096,30 +2096,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/from-the-fide-front-page/",
          "pubDate" : "Thu, 14 Jul 2022 15:37:10 +0000",
          "title" : "From the FIDE front page &hellip;"
-      },
-      {
-         "description" : "Thambi is attracting a lot of attention. Stickers of him are plastered on buses in Chennai and his hoardings are all over the city.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34236229/meet-thambi-mascot-chess-olympiad-2022?device=featurephone",
-         "pubDate" : "Thu, 14 Jul 2022 07:59:56 -0500",
-         "title" : "Meet Thambi, the mascot of Chess Olympiad 2022"
-      },
-      {
-         "description" : " During a recent post mortem, I mentioned a quick win by Petrosian over Hans Ree in a tournament from the early 1970's. It was in the context of an early Qb6 against the Catalan, and the way I remembered it, Black was quickly punished for such a move. Turns out I was wrong about most things that I thought I had remembered. It wasn't a Catalan, but an English (albeit with a kingside fianchetto). And Black was not punished for playing Qb6, but was instead punished by White's Qb3. The only consolation was that I did get the names of the players right, and who the winner was. <br /> <b>Petrosian,Tigran V - Ree,Hans [A29]</b><br />Hoogovens Wijk aan Zee (12), 26.01.1971 <script>new PgnViewer( { b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/the-tricks-my-memory-plays.html",
-         "pubDate" : "Thu, 14 Jul 2022 12:57:00 +0000",
-         "title" : "The tricks my memory plays"
-      },
-      {
-         "description" : "European Senior Chess Championship 2022 concluded yesterday in Lublin, Poland. The event took place from 4th-14th July, 2022, being played in two age categories 50+ and 65+, with separate prizes for female players. The Closing Ceremony of the event took place yesterday evening, with Chief Arbiter Tomasz Delega announcing the Winners. Paweł Zaskalski Vice President of the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-champions-2022-crowned-in-lublin-poland/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-champions-2022-crowned-in-lublin-poland/",
-         "pubDate" : "Thu, 14 Jul 2022 12:23:00 +0000",
-         "title" : "European Senior Chess Champions 2022 crowned in Lublin, Poland"
       }
    ]
 }
