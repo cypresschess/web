@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show Merijn van Delft looks at one of the most impressive games played in the Chess Olympiad 2022 in Chennai: Nodirbek Abdusattorov's convincing win against Fabiano Caruana with the black pieces. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-527-caruana-vs-abdusattorov",
+         "pubDate" : "Thu, 04 Aug 2022 08:54:22 +0100",
+         "title" : "Game of the Week #527: Caruana vs Abdusattorov"
+      },
+      {
+         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Last week we looked at a graduation puzzle and the solutions received from three of my students. None of the solutions led me to believe they <a href=\"https://chessimprover.com/students-analysis-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-9/\">Students Analysis (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/students-analysis-9/",
+         "pubDate" : "Thu, 04 Aug 2022 04:03:42 +0000",
+         "title" : "Students Analysis (9)"
+      },
+      {
          "description" : "Going into the rest day at the Chess Olympiad, we have sole leaders in both categories for the first time in the event. Armenia beat India 2 to grab the lead in the open, while India defeated Georgia to keep its perfect score in the women's tournament. Remarkably, Gukesh, playing for India 2, scored a sixth consecutive victory in Chennai. | Pictured: All eyes on Gabriel Sargissian and Gukesh. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-6",
-         "pubDate" : "Wed, 03 Aug 2022 15:12:20 -0700",
+         "pubDate" : "Wed, 03 Aug 2022 15:12:00 -0700",
          "title" : "Armenia Sole Leader In Open, India In Women's, Gukesh 6/6 On Top Board"
       },
       {
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "https://www.thearticle.com/is-magnus-carlsen-following-bobby-fischers-fatal-example/",
          "pubDate" : "Sat, 23 Jul 2022 09:13:44 +0000",
          "title" : "Is Magnus Carlsen following Bobby Fischer's fatal example?"
-      },
-      {
-         "description" : "Jorden van Foreest enters the blitz section of the SuperUnited Grand Chess Tour event in the sole lead, after having collected 12 points in the rapid. Van Foreest lost to Magnus Carlsen on Friday, but managed to defeat Alireza Firouzja, who lost the lead he had after six rounds. Nine rounds of blitz will be played both on Saturday and Sunday to decide who wins the third event of the GCT. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d3",
-         "pubDate" : "Sat, 23 Jul 2022 04:25:00 +0100",
-         "title" : "SuperUnited Croatia: Van Foreest wins rapid section"
       },
       {
          "description" : "",
