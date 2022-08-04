@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Going into the rest day at the Chess Olympiad, we have sole leaders in both categories for the first time in the event. Armenia beat India 2 to grab the lead in the open, while India defeated Georgia to keep its perfect score in the women's tournament. Remarkably, Gukesh, playing for India 2, scored a sixth consecutive victory in Chennai. | Pictured: All eyes on Gabriel Sargissian and Gukesh. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r6",
+         "pubDate" : "Thu, 04 Aug 2022 03:40:00 +0100",
+         "title" : "Chennai R6: Armenia (open) and India (women's) still perfect"
+      },
+      {
+         "description" : "Gukesh beat Gabriel Sargissian in Round 6 of the Chennai Olympiad to move to 6/6 and a live rating of 2719.3, but Armenia hit back to beat India 2 and take the sole lead going into the rest day. On Friday they'll face top seeds USA, so that Levon Aronian may feature against the team with which he won three Olympiad gold medals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-6-gukesh-on-6-6-but-armenia-lead",
+         "pubDate" : "Thu, 04 Aug 2022 00:15:02 +0000",
+         "title" : "Chennai Olympiad 6: Gukesh on 6/6 but Armenia lead"
+      },
+      {
          "description" : "GMs Samvel Ter-Sahakyan and Robert Hovhannisyan scored crucial wins to enable Armenia to prevail over India 2 with a 2.5-1.5 score and capture the lead with 12 match points at the end of the sixth round of the 44th FIDE Chess Olympiad. GM Fabiano ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-ceremonial-first-move-of-the-2022-chess-olympiad-round-6/",
          "pubDate" : "Wed, 03 Aug 2022 11:46:08 +0000",
          "title" : "The ceremonial first move of the 2022 Chess Olympiad Round 6"
-      },
-      {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Anousha Mahdian (Iran)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Wed, 03 Aug 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
       },
       {
          "description" : "The fourth round of the 2022 Chess Olympiad saw many upsets. One of them was Norway drawing against Mongolia as the match finished with the result of 2-2. However, the Mongolian team had a victory in the pocket as it turned out that Aryan Tari incorrectly claimed a threefold repetition against Bayarsaikhan Gundavaa. The Mongolian []",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1868",
          "pubDate" : "Mon, 18 Jul 2022 07:28:11 +0000",
          "title" : "Winners crowned at 2022 U.S. Championships"
-      },
-      {
-         "description" : "Levon Aronian needed just three games on Sunday to wrap up victory in the FTX Road to Miami, adding the $25,000 top prize to his $5,500 earnings from the Prelims. Wei Yi came out all guns blazing, but a late blunder in the first game left him with an almost impossible task.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/levon-aronian-wins-ftx-road-to-miami",
-         "pubDate" : "Sun, 17 Jul 2022 23:24:57 +0000",
-         "title" : "Levon Aronian wins FTX Road to Miami"
       },
       {
          "description" : "",
