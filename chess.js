@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93376884.cms\" />The India 'A' and 'B' teams registered comprehensive victories in the seventh round in the Open section of the 44th Chess Olympiad on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-a-b-post-wins-in-open-section/articleshow/93376884.cms",
+         "pubDate" : "Fri, 05 Aug 2022 15:10:32 +0000",
+         "title" : "Chess Olympiad: India 'A', 'B' post wins in Open section"
+      },
+      {
+         "description" : "Today, Lawrence and Arne are joined by German WIM Lara Schulze. She loves tactics, and we need help to reach the next chapter in our ChessBase tactics section - 2600. But sometimes, nightmares cross our path, and we have to think for much longer than expected. Join us in our Friday training, and sharpen your skills!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-29",
+         "pubDate" : "Fri, 05 Aug 2022 15:38:43 +0100",
+         "title" : "Trent's Tactics - Solving nightmares with Lara Schulze"
+      },
+      {
+         "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-continental-chess-championships-open-and-womens-championships-25-october-04-november-2022-new-delhi/",
+         "pubDate" : "Fri, 05 Aug 2022 14:30:32 +0000",
+         "title" : "Asian Continental Chess Championships (Open and Women's Championships) 25 October - 04 November 2022, New Delhi,"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg\" data-image-dimensions=\"312x319\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62ed1ba5927c2f5194ad5403\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg?format=1000w\" /> </figure> <p class=\"\">I have been enjoying the ongoing <a href=\"https://en.wikipedia.org/wiki/44th_Chess_Olympiad\">Chess Olimpiad</a> so much th",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/5/2fxrbzwc2qxe25ssq9pdnhxjzeyaiq",
+         "pubDate" : "Fri, 05 Aug 2022 13:40:03 +0000",
+         "title" : "Bonus Pod - Dispatches from the Chennai Olimpiad with GM Axel Bachmann and Mr. Dodgy of Chessable "
+      },
+      {
+         "description" : "This year's British Championship events start on Monday 8th August with Round 1 of the Junior Championships, the Seniors 50+ Championship, and the Week 1...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-championships-notice-events-start-on-monday-8th-august/",
+         "pubDate" : "Fri, 05 Aug 2022 13:36:41 +0000",
+         "title" : "British Championships Notice - events start on Monday 8th August"
+      },
+      {
          "description" : "The young Indian Gukesh is one of the stars of the Chess Olympiad 2022 in Chennai. In the first six rounds he won all of his games, which adds up to an Elo-performance of 3329. But Gukesh is not the only player who started with 6 out of 6 in Chennai. Oliwia Kiolbasa from Poland (pictured) and the young FM Kazybek Nogerbek from Kazakhstan also achieved this feat. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1322,14 +1362,6 @@ news_feed (
          "title" : "Dynamic Sacrifices for a Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169345.cms\" />Star chess player Dronavalli Harika is optimistic about India's chances but said the top-seeded women's team will have to put up a collective effort to win medals at the 44th Chess Olympiad, beginning on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-need-to-perform-collectively-to-earn-medal-at-olympiad-harika/articleshow/93169345.cms",
-         "pubDate" : "Wed, 27 Jul 2022 16:18:32 +0000",
-         "title" : "We need to perform collectively to earn medal at Olympiad: Harika"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169223.cms\" />India chess legend Viswanathan Anand is happy being an \"enthusiastic mentor\" and never thought of reconsidering his decision of not playing in the Olympiad after it was moved out of Russia and allotted to Chennai. Anand, a five-time world champion, had decided not to participate this time but he will be guiding the Indian team at the showpiece event to be held in Mamallapuram from July 28 to August 10.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1568,14 +1600,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-didnt-retire-from-chess-won-the-super-united-croatia-202/",
          "pubDate" : "Mon, 25 Jul 2022 08:31:08 +0000",
          "title" : "Carlsen didn't retire from chess, won the Super United Croatia 2022"
-      },
-      {
-         "description" : "Dmitrij Kollars, who only joined the tournament after Vladimir Kramnik had to withdraw due to Covid-related issues, was the surprise winner of the No-Castling World Masters. The 22-year-old beat Daniel Fridman in the final round to catch Vishy Anand atop the standings. Kollars was declared champion on tiebreak criteria, as he scored one more win than the Indian star. In the Deutschland Grand Prix, Pavel Eljanov defended his title by remarkably collecting 4&frac12;/6 points against a tough field. | Photos: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-gp-2022-r7",
-         "pubDate" : "Mon, 25 Jul 2022 02:30:00 +0100",
-         "title" : "Late replacement Dmitrij Kollars wins No-Castling World Masters"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen will no longer defend his crown, but normal service was resumed in Zagreb as he won the SuperUnited Rapid & Blitz Croatia with a round to spare. Amazing last days saw Alireza Firouzja and MVL finish just half a point behind, though only after Magnus lost his last two games.",
@@ -2064,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1863",
          "pubDate" : "Fri, 15 Jul 2022 16:42:19 +0000",
          "title" : "The first-ever Unrated Girls Only Tournament is in the books"
-      },
-      {
-         "description" : " While it is always good to see chess on TV, it isn't always done correctly. There is an ad on Australian TV which finishes with a checkmate (loudly announced), which is in fact correctly played, But the weird thing is the chess clock (and old fashioned BHB clock) is facing away from both players, towards the camera. I assume this was done for artistic reasons, but it could just as well have been placed on the far side of the board. Maybe they tried that, but didn't like the result. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/the-creative-process.html",
-         "pubDate" : "Fri, 15 Jul 2022 12:52:00 +0000",
-         "title" : "The creative process?"
       }
    ]
 }
