@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The young Indian Gukesh is one of the stars of the Chess Olympiad 2022 in Chennai. In the first six rounds he won all of his games, which adds up to an Elo-performance of 3329. But Gukesh is not the only player who started with 6 out of 6 in Chennai. Oliwia Kiolbasa from Poland (pictured) and the young FM Kazybek Nogerbek from Kazakhstan also achieved this feat. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-perfect-result-3-times-6-out-of-6-in-chennai",
+         "pubDate" : "Fri, 05 Aug 2022 13:09:38 +0100",
+         "title" : "The perfect result: 6 out of 6 in Chennai"
+      },
+      {
          "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Sahithi Varshini (India)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-champions-crowned-in-thessaloniki/",
          "pubDate" : "Sun, 24 Jul 2022 20:57:14 +0000",
          "title" : "European Youth Rapid&Blitz Chess Champions crowned in Thessaloniki"
-      },
-      {
-         "description" : "Plenty of action was seen in the world of elite chess last week, with top tournaments in Biel, Dortmund and Zagreb. GM Karsten M&uuml;ller has been paying close attention to the games, and has shared with us a number of instructive endgame positions. Unmissable! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/notable-endgames-biel-dortmund-zagreb",
-         "pubDate" : "Sun, 24 Jul 2022 21:00:00 +0100",
-         "title" : "Notable endgames: Biel, Dortmund, Zagreb"
       },
       {
          "description" : " One thing that's changed dramatically over the past decade or so is the attitude towards chess compositions: problems and studies. A few years or so the world of chess composition was regarded by many as an irrelevance to practical players, but now many chess trainers see solving problems and, even more so, endgame studies, as <a href=\"https://chessimprover.com/solving-endgame-studies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Solving Endgame Studies\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/solving-endgame-studies/\">Solving Endgame Studies</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
