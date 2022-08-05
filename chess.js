@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1903",
+         "pubDate" : "Fri, 05 Aug 2022 18:10:58 +0000",
+         "title" : "44th Chess Olympiad: Illegal move gives the lead to Armenia"
+      },
+      {
+         "description" : " Tshepiso Lopang, African Chess Confederation President 2022-2026Photo by Mark Livshitz For the past several months, there was tremendous energy on African social media about the upcoming election for African Chess Confederation (ACC). Africa as a continent is fully engaged in the development process of improving FIDE and these signs bode well for the massive continent. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/05/tshepiso-lopang-wins-acc-presidency/\">Tshepiso Lopang wins ACC Presidency!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/05/tshepiso-lopang-wins-acc-presidency/",
+         "pubDate" : "Fri, 05 Aug 2022 17:47:16 +0000",
+         "title" : "Tshepiso Lopang wins ACC Presidency!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1902",
+         "pubDate" : "Fri, 05 Aug 2022 17:44:11 +0000",
+         "title" : "India A Women's team scores another thumping victory to extend sole lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93378843.cms\" /> If there's a poll done at the 44th Chess Olympiad on which team is the crowd favourite, Ukraine will win it hands down. Being a part of the former Soviet bloc, they are a strong team, but the emotional connection with this team is about the war that Ukraine has been subjected to since February due to the Russian invasion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-a-happy-diversion-for-besieged-ukraine-players/articleshow/93378843.cms",
+         "pubDate" : "Fri, 05 Aug 2022 17:38:52 +0000",
+         "title" : "Chess Olympiad a happy diversion for besieged Ukraine players"
+      },
+      {
+         "description" : "After escaping from a loss against USA, Armenia maintained the sole lead in the&#160;2022 Chess Olympiad (open section)&#160;scoring 13 match points. Uzbekistan, India 2, India, USA, Germany and Kazakhstan are in a tie for the second place, with 12 match points each.&#160;India&#x2019;s women&#x2019;s team is the only one remaining with the perfect score and all []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-8-pairings/",
+         "pubDate" : "Fri, 05 Aug 2022 17:13:54 +0000",
+         "title" : "44th Chess Olympiad 2022 - Round 8 pairings"
+      },
+      {
+         "description" : "After escaping from a loss against USA, Armenia maintained the sole lead in the 2022 Chess Olympiad scoring 13 match points. Uzbekistan, India 2, India, USA, Germany and Kazakhstan are in a tie for the second place, with 12 match points each. Replay all matches from the Open section here A thrilling top-board match between []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-7-open-section/",
+         "pubDate" : "Fri, 05 Aug 2022 16:47:35 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 7 (open section)"
+      },
+      {
+         "description" : "After seven played rounds at the 44th Chess Olympiad 2022 India's women's team is the only one remaining with the perfect score and all 7 won matches. India has 14 match points and a 2-match-point advantage over Ukraine, Armenia and Georgia who tie for the second place. India today scored a narrow 2.5-1.5 victory over []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-7-womens-section/",
+         "pubDate" : "Fri, 05 Aug 2022 16:30:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 7 (women's section)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-tops-ftx-crypto-cup-line-up\">headlines</a> the <strong>FTX Crypto Cup</strong>, the second in-presence event and <a href=\"https://chess24.com/tour/miami/\">first live spectator event</a> of the <strong>Meltwater Champions Chess Tour</strong> 2022, to be held in Miami on 15-21 August. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/first-spectator-tour-event-in-miami/",
+         "pubDate" : "Fri, 05 Aug 2022 17:05:30 +0100",
+         "title" : "First spectator tour event in Miami"
+      },
+      {
+         "description" : "The thrilling top-board match between the leaders of the Open section Armenia and USA finished in a draw with the 2-2 result. The USA team had a lead and a great chance to score against Armenia, but it wasn't meant to be. Round 7 results open section / Round 7 results women's section / Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-sam-shankland-loses-immediately-after-playing-the-illegal-move/",
+         "pubDate" : "Fri, 05 Aug 2022 16:03:59 +0000",
+         "title" : "GM Sam Shankland loses immediately after playing the illegal move"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93377563.cms\" />All eyes were on the India vs India match on Friday as the 44th Chess Olympiad returned after a day's break. And the higher-ranked India 1 justified their billing beating India 3 in the seventh round. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-arjun-erigaisi-sl-narayanan-shine-in-india-1-win/articleshow/93377563.cms",
+         "pubDate" : "Fri, 05 Aug 2022 16:00:00 +0000",
+         "title" : "Chess Olympiad: Arjun Erigaisi, SL Narayanan shine in India 1 win"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>African Chess Confederation</strong> has elected <strong>Tshepiso Lopang</strong>, an arbiter, WIM, organiser, <a href=\"https://www.linkedin.com/in/tshepiso-lopang-35862924/\">engineer and PhD candidate</a> from Botswana, as its new President. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/tshepiso-lopang-leads-african/",
+         "pubDate" : "Fri, 05 Aug 2022 16:58:49 +0100",
+         "title" : "Tshepiso Lopang leads African federations"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93376884.cms\" />The India 'A' and 'B' teams registered comprehensive victories in the seventh round in the Open section of the 44th Chess Olympiad on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -26,12 +114,12 @@ news_feed (
          "title" : "Asian Continental Chess Championships (Open and Women's Championships) 25 October - 04 November 2022, New Delhi,"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg\" data-image-dimensions=\"312x319\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62ed1ba5927c2f5194ad5403\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg?format=1000w\" /> </figure> <p class=\"\">I have been enjoying the ongoing <a href=\"https://en.wikipedia.org/wiki/44th_Chess_Olympiad\">Chess Olimpiad</a> so much th",
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg\" data-image-dimensions=\"312x319\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62ed1ba5927c2f5194ad5403\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg?format=1000w\" /> </figure> <p class=\"\">I have been enjoying the ongoing <a href=\"https://en.wikipedia.org/wiki/44th_Chess_Olympiad\">Chess Olympiad</a> so much th",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/5/2fxrbzwc2qxe25ssq9pdnhxjzeyaiq",
          "pubDate" : "Fri, 05 Aug 2022 13:40:03 +0000",
-         "title" : "Bonus Pod - Dispatches from the Chennai Olimpiad with GM Axel Bachmann and Mr. Dodgy of Chessable "
+         "title" : "Bonus Pod - Dispatches from the Chennai Olympiad with GM Axel Bachmann and Mr. Dodgy of Chessable"
       },
       {
          "description" : "This year's British Championship events start on Monday 8th August with Round 1 of the Junior Championships, the Seniors 50+ Championship, and the Week 1...",
@@ -98,7 +186,7 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Round 7 board pairings (women's section)"
       },
       {
-         "description" : " Armenia are just ahead of the US, with two Indian teams close behind and England within range. Gukesh D, 16, is the new star but Magnus Carlsen has been let down by Norway's out-of-form players Armenia have a narrow lead over the top seeded US at halfway in the 180-nation, $10m Chennai Olympiad, an event which is already unique and in the record books. Its stunning ambiance, eager fans, and opulent playing conditions reflect India's ambition to make August 2022 a landmark moment towards its goal of surpassing the three established chess superpowers, USA, Russia and China. The state of Tamil Nadu and its chief minister, MK Stalin, approved a $10m budget which dwarfs any other chess event in ",
+         "description" : " Armenia lead after seven of the 11 rounds while six teams are half a point behind. Magnus Carlsen has 5.5/6 but his Norwegian team mates have underperformed. Armenia lead by half a point from six chasing teams after seven of the 11 rounds in the 180-nation, $10m Chennai Olympiad, an event which is already unique and in the record books. Its stunning ambiance, eager fans and opulent playing conditions reflect India's ambition to make August 2022 a landmark moment towards its goal of surpassing the three established chess superpowers - USA, Russia and China. The state of Tamil Nadu and its chief minister, MK Stalin, approved a $10m budget which dwarfs any other chess event in history. Familia",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/aug/05/chess-indias-teen-talent-shines-as-chennai-olympiad-breaks-records",
@@ -202,14 +290,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 6"
       },
       {
-         "description" : "World Champion Magnus Carlsen will be joined by Alireza Firouzja, Levon Aronian, Anish Giri, Jan-Krzysztof Duda, Liem Le, Hans Niemann and Praggnanandhaa for the&#xA0;FTX Crypto Cup, taking place in Miami, Florida from August 15-21. The 2nd Major on the 2022&#xA0;Meltwater Champions Chess Tour&#xA0;features a $210,000 prize fund plus a $100,000 bitcoin bonus. Who&#x2019;s playing the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-firouzja-top-ftx-crypto-cup-line-up/",
-         "pubDate" : "Thu, 04 Aug 2022 13:12:38 +0000",
-         "title" : "Carlsen and Firouzja top FTX Crypto Cup line-up"
-      },
-      {
          "description" : "World Champion Magnus Carlsen will be joined by Alireza Firouzja, Levon Aronian, Anish Giri, Jan-Krzysztof Duda, Liem Le, Hans Niemann and Praggnanandhaa for the FTX Crypto Cup, taking place in Miami, Florida from August 15-21. The 2nd Major on the 2022 Meltwater Champions Chess Tour features a $210,000 prize fund plus a $100,000 bitcoin bonus.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -282,12 +362,20 @@ news_feed (
          "title" : "Indian eves crush Georgia to jump into sole lead"
       },
       {
-         "description" : "Three-time Olympic champions Armenia scored a huge win this afternoon in the 4 Points Sheraton Convention Centre, defeating India B by 2.5-1.5 in a very exciting top-board match of the Open section. Despite losing on board one Sargissian was steamrolled by Gukesh &#160;the Armenians were stronger on the lower boards, and GMs&#160;Samvel Ter-Sahakyan&#160;and&#160;Robert Hovhannisyan&#160;(pictured []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-6-report/",
-         "pubDate" : "Wed, 03 Aug 2022 19:39:49 +0000",
-         "title" : "Chess Olympiad 2022 - Round 6 report"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1899",
+         "pubDate" : "Wed, 03 Aug 2022 17:21:27 +0000",
+         "title" : "South Korea to bid for the FIDE World Cup 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Wed, 03 Aug 2022 17:18:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
@@ -296,30 +384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1900",
          "pubDate" : "Wed, 03 Aug 2022 17:17:36 +0000",
          "title" : "Triple-gold Armenia leads the Olympiad halfway"
-      },
-      {
-         "description" : "Six rounds of the&#xA0;44th Chess Olympiad 2022&#xA0;are in the books and Armenia emerged as the sole leader of the Open section scoring perfect 12 match points! Armenia today took a narrow 2.5-1.5 victory against India2. India&#x2019;s women&#x2019;s team emerged as the sole leader of the&#xA0;Women&#x2019;s Chess Olympiad 2022&#xA0;with the maximum score of 12 match points. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-7-pairings/",
-         "pubDate" : "Wed, 03 Aug 2022 16:33:58 +0000",
-         "title" : "44th Chess Olympiad 2022 - Round 7 pairings"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1899",
-         "pubDate" : "Wed, 03 Aug 2022 16:21:27 +0000",
-         "title" : "South Korea to bid for the FIDE World Cup 2023"
-      },
-      {
-         "description" : "Six rounds of the 44th Chess Olympiad 2022 are in the books and Armenia emerged as the sole leader of the Open section scoring perfect 12 match points! Armenia today took a narrow 2.5-1.5 victory against India2. Gukesh D managed to keep the 100% winning strike with 6/6 points, but it wasn't enough as GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-6-open-section/",
-         "pubDate" : "Wed, 03 Aug 2022 16:09:50 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 6 (open section)"
       },
       {
          "description" : "No one needed a tiebreaker in this week&#39;s Titled Tuesday as GM Hikaru Nakamura and&#38;nbsp;GM Oleksandr Bortnyk both won outright on August 2. It was Nakamura&#39;s second straight Tuesday winning one of the tournaments. GM Daniel Naroditsky finished s...",
@@ -360,14 +424,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/sheripov-withdraws/",
          "pubDate" : "Wed, 03 Aug 2022 15:40:47 +0100",
          "title" : "Sheripov withdraws"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Wed, 03 Aug 2022 13:29:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : " Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. Along with Armenia, they are on 5/5 with a whopping 96 board points. Armenia only has 77 board points. Another team The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1018,14 +1074,6 @@ news_feed (
          "title" : "44th Chess Olympiad: Favorites start strongly"
       },
       {
-         "description" : " African nations traveling to the 2022 Chess Olympiad have traditionally been up to the mark in colorful outfits. This Olympiad will feature a &#8220;best dressed&#8221; contest. It's a very interesting, but perhaps tricky idea to compare cultural expressions, but one thing for sure is that African nations will be a photographer's dream. With bold prints The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/29/african-nations-at-chennai-olympiad/\">African nations at Chennai Olympiad!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/29/african-nations-at-chennai-olympiad/",
-         "pubDate" : "Fri, 29 Jul 2022 18:42:17 +0000",
-         "title" : "African nations at Chennai Olympiad!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1194,14 +1242,6 @@ news_feed (
          "title" : "Move by move - (how to) get into a master's mind!"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Mind Sports Olympiad</strong> will take place again in presence with a <a href=\"https://mindsportsolympiad.com/2022-schedule/\">shortened nine-day-schedule</a> on 21-29 August in London and <strong>ASICS</strong> as the new sponsor. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/mind-sport-olympiad-returns-to/",
-         "pubDate" : "Thu, 28 Jul 2022 19:53:00 +0100",
-         "title" : "Mind Sport Olympiad returns to London"
-      },
-      {
          "description" : "This week Robert Ris takes a look at a sharp line of the Najdorf Sicilian with 6.Bg5 and discusses a game that helped 14-year-old Adrian de Winter to win the Amsterdam Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1306,14 +1346,6 @@ news_feed (
          "title" : "Valentina Gunina trounces Tan Zhongyi to advance into semis"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93178989.cms\" />It's going to be baptism by fire for the Bhutan side at the Chess Olympiad in Chennai from July 28 to August 10 as 10 members of this small mountain country will be playing their first-ever over the board Fide-rated tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-self-taught-bhutan-players-look-to-make-new-start/articleshow/93178989.cms",
-         "pubDate" : "Thu, 28 Jul 2022 05:58:06 +0000",
-         "title" : "Chess Olympiad: Self-taught Bhutan players look to make new start"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1360,14 +1392,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk",
          "pubDate" : "Wed, 27 Jul 2022 17:53:13 +0000",
          "title" : "Dynamic Sacrifices for a Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93169223.cms\" />India chess legend Viswanathan Anand is happy being an \"enthusiastic mentor\" and never thought of reconsidering his decision of not playing in the Olympiad after it was moved out of Russia and allotted to Chennai. Anand, a five-time world champion, had decided not to participate this time but he will be guiding the Indian team at the showpiece event to be held in Mamallapuram from July 28 to August 10.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/didnt-think-of-changing-my-mind-on-not-playing-olympiad-viswanathan-anand/articleshow/93169223.cms",
-         "pubDate" : "Wed, 27 Jul 2022 16:08:38 +0000",
-         "title" : "Didn't think of changing my mind on not playing Olympiad: Anand"
       },
       {
          "description" : "GM Hikaru Nakamura claimed another Titled Tuesday victory early on July 26 and then finished fourth in the late event. GM Alexey Sarana, who finished just behind Nakamura on tiebreaks early, won the late tournament. Early Tournament Late Tour...",
@@ -1536,14 +1560,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-complete-annotations-and-articles-by-bobby-fischer",
          "pubDate" : "Mon, 25 Jul 2022 18:00:00 +0100",
          "title" : "The Complete Annotations and Articles by Bobby Fischer"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> News agencies picked up an incident that happened during a chess festival in Moscow where the robot <strong>Chess Terminator</strong> by <strong>Konstantin Kosteniuk</strong> squeezed the finger of a seven-year-old boy, who didn't wait the completion of a capture and was hurt when he recaptured. It was falsely reported that the boy's finger was broken. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/robot-squeezes-finger/",
-         "pubDate" : "Mon, 25 Jul 2022 17:32:50 +0100",
-         "title" : "Robot squeezes finger"
       },
       {
          "description" : "On 26 July 2022, the chess world will be treated to a unique show: the ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi. The Death Match will be held at the Dublin Square in the Phoenix Marketcity, Mumbai. What is the format of the match, what is the prize money, who are the hosts and commentators of the show, are there any exhibition matches? Find all the relevant information in the article. A rapid tournament and simuls will also take place.",
@@ -2080,14 +2096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/creating-studies-from-games-2",
          "pubDate" : "Sat, 16 Jul 2022 09:00:00 +0100",
          "title" : "Creating studies from games (2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1863",
-         "pubDate" : "Fri, 15 Jul 2022 16:42:19 +0000",
-         "title" : "The first-ever Unrated Girls Only Tournament is in the books"
       }
    ]
 }
