@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a two-year hiatus due to Covid-19 restrictions on international travels and over-the-board chess, one of the longest-running chess festivals in Asia is back! It is a mix of Classical, Rapid as well as Blitz events in a multi-day spectacle, rather than the narrower focus on Classical time formats at other long-running chess festivals. Cash prizes in excess of US $28,000 are up for grabs, titled chess players are given exemptions of entry fees.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/17th-malaysian-chess-festival",
+         "pubDate" : "Fri, 05 Aug 2022 08:45:38 +0100",
+         "title" : "17th Malaysian Chess Festival"
+      },
+      {
+         "description" : " Armenia are just ahead of the US, with two Indian teams close behind and England within range. Gukesh D, 16, is the new star but Magnus Carlsen has been let down by Norway's out-of-form players Armenia have a narrow lead over the top seeded US at halfway in the 180-nation, $10m Chennai Olympiad, an event which is already unique and in the record books. Its stunning ambiance, eager fans, and opulent playing conditions reflect India's ambition to make August 2022 a landmark moment towards its goal of surpassing the three established chess superpowers, USA, Russia and China. The state of Tamil Nadu and its chief minister, MK Stalin, approved a $10m budget which dwarfs any other chess event in ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/aug/05/chess-indias-teen-talent-shines-as-chennai-olympiad-breaks-records",
+         "pubDate" : "Fri, 05 Aug 2022 07:00:39 +0000",
+         "title" : "Chess: India's teen talent shines as Chennai Olympiad breaks records"
+      },
+      {
          "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Teodora Injac (Serbia) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1602,14 +1618,6 @@ news_feed (
          "title" : "50 years ago today: Fischer-Spassky, game six"
       },
       {
-         "description" : "The SuperUnited Croatia Rapid & Blitz tournament took place in Zagreb on July 20-24. Rapid chess was played from Wednesday to Friday, while blitz was the playing format on Saturday and Sunday. The best players in the world participated, including World Champion Magnus Carlsen. | Replay all the games with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
-         "pubDate" : "Sun, 24 Jul 2022 13:55:00 +0100",
-         "title" : "SuperUnited Croatia Rapid & Blitz: All games"
-      },
-      {
          "description" : " After a 4 year break, I am heading off to the Chess Olympiad in Chennai, India. It will be an early start from Canberra, and I expect to reach the hotel quite late tomorrow night. I'm heading off a few days early as I am back on the Technical Administration Panel for the tournament, which involves a lot of work before the event actually begins. Hopefully teams will have successfully navigated the visa process, and that covid won't be an issue. So probably no blogging tomorrow, but after that, I should post regular updates from the tournament <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2022-r3-report/",
          "pubDate" : "Fri, 15 Jul 2022 08:39:00 +0000",
          "title" : "European Youth Team Chess Championship 2022 - R3 report"
-      },
-      {
-         "description" : " Russia are banned, China are absent, the US favourites hope to hold off India, while Ukraine could spring a surprise England hope to medal for the first time since 1990, but will probably have to settle for around their seeded position of 10th, when the 187-nation Olympiad starts at Chennai, India, on 28 July. Long ago in the vintage years between 1984 and 1988, England won three silvers behind the Soviet kings led by Garry Kasparov and Anatoly Karpov. The current group is ageing now, but England's recent performances have been very respectable: fifth in the 2018 Olympiad, the last before the pandemic, and second to Russia in the 2019 world teams. At Chennai, Russia are banned and China wil",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jul/15/chess-england-target-first-olympiad-medal-this-century-chennai",
-         "pubDate" : "Fri, 15 Jul 2022 07:00:32 +0000",
-         "title" : "Chess: England target first Olympiad medal this century in Chennai"
       }
    ]
 }
