@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Sahithi Varshini (India)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Fri, 05 Aug 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "At the beginning of August, FIDE published the new world ranking list. With a rating of 2864, Magnus Carlsen remains the undisputed number 1 in the world. Ding Liren follows in second place with 2808, 56 points behind, Ian Nepomniachtchi is in third place with 2792. Numeber one on the women's list is Hou Yifan (2650), who is more than 70 points ahead of Aleksandra Goryachkina (2579). Best junior is Alireza Firouza, best female junior Zhu Jiner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-august-2022",
+         "pubDate" : "Fri, 05 Aug 2022 09:36:58 +0100",
+         "title" : "FIDE ratings August 2022"
+      },
+      {
+         "description" : "Only two teams remain perfect at the&#xA0;2022 Chess Olympiad in Chennai.&#xA0;Armenia and India emerged on the top with the maximum 12 match points of the Open and Women's sections, respectively. Armenia today meets USA, with Aronian taking an extra day off, while India faces Azerbaijan in the Women's section. Women&#x2019;s section LIVE&#xA0;/&#xA0;Open section LIVEReviews and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-7-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
+         "pubDate" : "Fri, 05 Aug 2022 08:28:38 +0000",
+         "title" : "Round 7 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
+      },
+      {
          "description" : "After a two-year hiatus due to Covid-19 restrictions on international travels and over-the-board chess, one of the longest-running chess festivals in Asia is back! It is a mix of Classical, Rapid as well as Blitz events in a multi-day spectacle, rather than the narrower focus on Classical time formats at other long-running chess festivals. Cash prizes in excess of US $28,000 are up for grabs, titled chess players are given exemptions of entry fees.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/17th-malaysian-chess-festival",
          "pubDate" : "Fri, 05 Aug 2022 08:45:38 +0100",
          "title" : "17th Malaysian Chess Festival"
+      },
+      {
+         "description" : "After yesterday's free day, the Chess Olympiad 2022 continues today with the Round 7. Armenia is the sole leader of the open section with the maximum 12 match points and USA is in a clear second place with 11 match points. All eyes will be on the encounter of the leaders in the 7th round. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-7-board-pairings-open-section/",
+         "pubDate" : "Fri, 05 Aug 2022 07:44:08 +0000",
+         "title" : "Chess Olympiad 2022 - Round 7 board pairings (open section)"
+      },
+      {
+         "description" : "After six played rounds, India's women's team headed to the yesterday's free day as the sole leader of the Women's Chess Olympiad 2022. India scores 12 match points and today meets Azerbaijan on the top board. GM Humpy Koneru will be black against IM Gunay Mammadzada, GM Harika Dronavalli takes white against WGM Khanim Balajayeva, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-7-board-pairings-womens-section/",
+         "pubDate" : "Fri, 05 Aug 2022 07:30:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 7 board pairings (women's section)"
       },
       {
          "description" : " Armenia are just ahead of the US, with two Indian teams close behind and England within range. Gukesh D, 16, is the new star but Magnus Carlsen has been let down by Norway's out-of-form players Armenia have a narrow lead over the top seeded US at halfway in the 180-nation, $10m Chennai Olympiad, an event which is already unique and in the record books. Its stunning ambiance, eager fans, and opulent playing conditions reflect India's ambition to make August 2022 a landmark moment towards its goal of surpassing the three established chess superpowers, USA, Russia and China. The state of Tamil Nadu and its chief minister, MK Stalin, approved a $10m budget which dwarfs any other chess event in ",
@@ -234,22 +274,6 @@ news_feed (
          "title" : "Results - Chess Olympiad 2022 round 6 (open section)"
       },
       {
-         "description" : "With a convincing 3-1 victory over Georgia, India's women's team emerged as the sole leader of the Women's Chess Olympiad 2022 with the maximum score of 12 match points. GM Humpy Koneru was victorious against GM Nana Dzagnidze on the first board, while IM Vaishali defeated IM Lela Javakhishvili. The games on the board two []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-6-womens-section/",
-         "pubDate" : "Wed, 03 Aug 2022 16:00:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 6 (women's section)"
-      },
-      {
-         "description" : "WGM Dina Belenkaya plays the second board for Israel Women's team in the Women's Chess Olympiad 2022 in Chennai. Dina won her game playing against WGM Hanna Marie Klek who made a crucial mistake in the 25th move and Belenkaya didn't let go. Speaking about her first Chess Olympiad experience as a player, Dina said []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wgm-dina-belenkaya-first-days-at-the-olympiad-were-difficult/",
-         "pubDate" : "Wed, 03 Aug 2022 15:51:27 +0000",
-         "title" : "WGM Dina Belenkaya: \"First days at the Olympiad were difficult\""
-      },
-      {
          "description" : "No one needed a tiebreaker in this week&#39;s Titled Tuesday as GM Hikaru Nakamura and&#38;nbsp;GM Oleksandr Bortnyk both won outright on August 2. It was Nakamura&#39;s second straight Tuesday winning one of the tournaments. GM Daniel Naroditsky finished s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -304,14 +328,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/",
          "pubDate" : "Wed, 03 Aug 2022 12:30:05 +0000",
          "title" : "2022 Chess Olympiad: Round #5"
-      },
-      {
-         "description" : "The hosting city of the first ever Chess Olympiad in India is decked up with chess colours. Chennai's&#xA0;iconic bridge looks like an enormously big chess board, streets are decorated with chess murals, and the chess board paintings appeared on the Chennai Airport as well. The Airport's food court area tables are now showing chess boards! []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-boards-all-around-the-chennai-airport-tweetoftheday/",
-         "pubDate" : "Wed, 03 Aug 2022 12:05:34 +0000",
-         "title" : "Chess boards all around the Chennai Airport #TweetOftheDay"
       },
       {
          "description" : "",
@@ -1594,28 +1610,12 @@ news_feed (
          "title" : "Notable endgames: Biel, Dortmund, Zagreb"
       },
       {
-         "description" : "Usually, when discussing former chess prodigies, the talks will gravitate around the accomplishments while young, and then shift towards their accomplishments as a mature player. Among the most unusual stories of such in chess is that of a little girl whose feats were worthy of the fictitious Beth Harmon, yet never bloomed into the tale of an adult champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-beth-harmon-that-almost-was",
-         "pubDate" : "Sun, 24 Jul 2022 20:00:00 +0100",
-         "title" : "The Beth Harmon that almost was"
-      },
-      {
          "description" : " One thing that's changed dramatically over the past decade or so is the attitude towards chess compositions: problems and studies. A few years or so the world of chess composition was regarded by many as an irrelevance to practical players, but now many chess trainers see solving problems and, even more so, endgame studies, as <a href=\"https://chessimprover.com/solving-endgame-studies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Solving Endgame Studies\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/solving-endgame-studies/\">Solving Endgame Studies</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/solving-endgame-studies/",
          "pubDate" : "Sun, 24 Jul 2022 18:15:11 +0000",
          "title" : "Solving Endgame Studies"
-      },
-      {
-         "description" : "Today we offer readers a glimpse of what had been happening behind the scenes of \"The Match of The Century\", especially in the Russian camp, exactly fifty years ago. A tense Boris Spassky, cajoled by seconds Efim Geller and Nikolai Krogius, nevertheless failed to perform, to the dismay of his friends and admirers. It's also the story of a gamble that could have hurtled Bobby down the precipice in that fateful Game 6 of the match. A cautionary tale and object lesson for aspiring players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/50-years-ago-today-fischer-spassky-game-six",
-         "pubDate" : "Sun, 24 Jul 2022 15:30:00 +0100",
-         "title" : "50 years ago today: Fischer-Spassky, game six"
       },
       {
          "description" : " After a 4 year break, I am heading off to the Chess Olympiad in Chennai, India. It will be an early start from Canberra, and I expect to reach the hotel quite late tomorrow night. I'm heading off a few days early as I am back on the Technical Administration Panel for the tournament, which involves a lot of work before the event actually begins. Hopefully teams will have successfully navigated the visa process, and that covid won't be an issue. So probably no blogging tomorrow, but after that, I should post regular updates from the tournament <br /> ",
@@ -2072,22 +2072,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/the-creative-process.html",
          "pubDate" : "Fri, 15 Jul 2022 12:52:00 +0000",
          "title" : "The creative process?"
-      },
-      {
-         "description" : " <p class=\"lead\">While FIDE is waiting for Carlsen to decide if he's going to defend his title against Nepomniachtchi, the World Champion participated at the <a href=\"https://worldchess.com/news/all/magnus-carlsen-is-turning-to-poker/\">World Series of Poker</a> in Las Vegas and then paid a visit to the Philadelphia 76ers, announcing his entrance to the NBA cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/website-World-Chess-4.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photos: Ludwig Ahgren with Magnus Calrsen by <a href=\"https://twitter.com/stonemalick\">@stonemalick</a> // <a href=\"https://twitter.com/MagnusCarlsen\">@magnuscarlse",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-celebrity-vibes-along-with-poker-and-nba-stars/",
-         "pubDate" : "Fri, 15 Jul 2022 09:38:48 +0000",
-         "title" : "Magnus Carlsen: Celebrity vibes along with Poker and NBA stars"
-      },
-      {
-         "description" : "Three rounds have been already played at the European Youth Team Chess Championship 2022 which is ongoing in Thessaloniki, Greece. The event broke the participation record with 53 teams and 196 players from 16 European federations. ECU Secretary-General Mr. Theodoros Tsorbatzoglou opened the event shortly before the start of the first round, addressing the players and captains and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-chess-championship-2022-r3-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2022-r3-report/",
-         "pubDate" : "Fri, 15 Jul 2022 08:39:00 +0000",
-         "title" : "European Youth Team Chess Championship 2022 - R3 report"
       }
    ]
 }
