@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Teodora Injac (Serbia) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-3",
+         "pubDate" : "Fri, 05 Aug 2022 05:10:00 +0100",
+         "title" : "Endgames from Chennai (3)"
+      },
+      {
          "description" : "Chess.com is happy to announce the release of Recommended Matches. For the first time ever, you will be presented with personalized pairings for Daily Games on your home screen. So how does it work? If you&#38;rsquo;ve finished playing all of y...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2022-live",
          "pubDate" : "Sun, 24 Jul 2022 13:55:00 +0100",
          "title" : "SuperUnited Croatia Rapid & Blitz: All games"
-      },
-      {
-         "description" : "The \"Sparkassen Chess Trophy\" once again took place in Dortmund. The Deutschland Grand Prix is the top tournament, but a total of half a dozen tournaments are held simultaneously as part of the festival, including the No-Castling World Masters. Replay all the games from the top events!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deutschland-grand-prix-live",
-         "pubDate" : "Sun, 24 Jul 2022 13:25:00 +0100",
-         "title" : "Dortmund Chess Festival: Games and standings"
       },
       {
          "description" : " After a 4 year break, I am heading off to the Chess Olympiad in Chennai, India. It will be an early start from Canberra, and I expect to reach the hotel quite late tomorrow night. I'm heading off a few days early as I am back on the Technical Administration Panel for the tournament, which involves a lot of work before the event actually begins. Hopefully teams will have successfully navigated the visa process, and that covid won't be an issue. So probably no blogging tomorrow, but after that, I should post regular updates from the tournament <br /> ",
