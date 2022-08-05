@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th-seeded Armenia held the top-seeded U.S. to a 2-2 draw in a dramatic conclusion to a tense match involving a touched-piece blunder by GM Sam Shankland and retained the lead with 13 match points after the seventh round of the 44th FIDE Ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-7",
+         "pubDate" : "Fri, 05 Aug 2022 15:45:00 -0700",
+         "title" : "Armenia Retains Lead In Open; India Widens Lead In Women's; Gukesh 7/7"
+      },
+      {
+         "description" : "The Olympiad is arguably the world's largest team championship, played at the same time in a single venue. It's so big more than 350 four-player teams that it typically takes two or more buildings to lodge all the games.&#xA0;Here in Chennai, the main venue hall has a capacity for 27 matches in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-7-report/",
+         "pubDate" : "Fri, 05 Aug 2022 21:25:07 +0000",
+         "title" : "Chess Olympiad 2022 - Round 7 report"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -258,14 +274,6 @@ news_feed (
          "title" : "Indian teams eye glory as Chess Olympiad enters business end"
       },
       {
-         "description" : "In&#xA0;an interview given yesterday, during the 6th round of the Chess Olympiad, Mrs.&#xA0;Hyun In Suk, President of the South Korea Chess Federation, and&#xA0;Hando Oh, Vice-President, proudly announced their intention to host the FIDE World Cup in 2023.&#xA0;Round 6 results (open section) / Round 6 results (women's section) &#8220;We are eager to stage big chess events []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cup-2023-might-be-held-in-south-korea/",
-         "pubDate" : "Thu, 04 Aug 2022 14:50:24 +0000",
-         "title" : "FIDE World Cup 2023 might be held in South Korea"
-      },
-      {
          "description" : "New York won the state versus state championship at the national tournaments of state chess champions held July 30-August 2, 2022. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Rancho Mirage, California site, which also hosts the U.S. Open. | Photos: Alexey Root",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,7 +282,7 @@ news_feed (
          "title" : "New York bests other states at chess"
       },
       {
-         "description" : " Exciting action in round #6 at the 2022 Chess Olympiad today. As we are past the halfway mark, there has been a pleasant surprise emerging with Armenia leading the Open Section. Armenia is a well-known chess power, but since the loss of Levon Aronian and Vladimir Akopian (immigrating to the U.S.), they were considered less The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/\">2022 Chess Olympiad: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2022 Chess Olympiad: Round #6 Wednesday, 3 August 2022 Exciting action in round #6 at the 2022 Chess Olympiad today. As we are past the halfway mark, there has been a pleasant surprise emerging with Armenia leading the Open Section. Armenia is a well-known chess power, but since the loss of Levon Aronian and Vladimir The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/\">2022 Chess Olympiad: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/",
@@ -426,7 +434,7 @@ news_feed (
          "title" : "Sheripov withdraws"
       },
       {
-         "description" : " Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. Along with Armenia, they are on 5/5 with a whopping 96 board points. Armenia only has 77 board points. Another team The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2022 Chess Olympiad: Round #5 Tuesday, 2 August 2022 INDIA 2 Sitting: Baskaran AdhibanStanding (L-R): Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nihal Sarin Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/",
@@ -1824,14 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1874",
          "pubDate" : "Thu, 21 Jul 2022 22:35:07 +0000",
          "title" : "Vaishali R eliminates Dronavalli to reach semifinals"
-      },
-      {
-         "description" : "IM Vaishali R overcame GM Harika Dronavalli in their quarterfinal match in the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. Vaishali dueled fiercely against her compatriot, the highest-rated active woman player in India. After...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-dronavalli-vaishali",
-         "pubDate" : "Thu, 21 Jul 2022 13:24:29 -0700",
-         "title" : "Rising Star Knocks Out Experienced Compatriot"
       },
       {
          "description" : " The news that Magnus Carlsen will not defend his World Championship title is spreading quite quickly across the chess world. He had hinted that this might happen, but I for one was quite surprised that he has decided to go down this road. He isn't retiring from chess (like Fischer did), and is in fact taking part in the upcoming Olympiad. But we once again return to a situation where the World Champion isn't necessarily the worlds strongest player. The immediate result is that it will be a Nepo v Ding world championship match, as they finished 1st and 2nd at the 2022 Candidates. Interestingly, neither player is taking part in the Olympiad, as neither players country will be there. The longe",
