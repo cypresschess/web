@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position, White put all his pieces on light squares. A stable position? Not if you swing the wrecking ball with Black - I wish you massive pleasure!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/demolition-man",
+         "pubDate" : "Sat, 06 Aug 2022 09:00:00 +0100",
+         "title" : "Demolition man"
+      },
+      {
+         "description" : " 2022 Chess Olympiad: Round #7 Friday, 5 August 2022 After round #7, things are heating up at the 2022 Chess Olympiad in Chennai, India. The Indian women are still holding on to a perfect team score with 7/7 while Dommaraju Gukesh is on a blistering 7/7 for the Open Section. The tournament hall is buzzing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/\">2022 Chess Olympiad: Round #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/",
+         "pubDate" : "Sat, 06 Aug 2022 06:29:47 +0000",
+         "title" : "2022 Chess Olympiad: Round #7"
+      },
+      {
          "description" : " Armenia still lead the 2022 Chess Olympiad, after a somewhat fortunate draw against the USA. They were facing a likely 2.5-1.5 loss, when Sam Shankland touched his king, thinking it was in check, only to realise (a) that it wasn't and (b) any move by the king loses. So he resigned, making the score 2-2. There is a bug tie for 2nd on 12 points, with both Indian teams and Uzbekistan in that group. The big matchup today is Armenia v India on the top board. It was rough day for teams from Oceania, including Australia. The Open team lost 3.5-0.5 to the strong Iran team, while the Women's team lost to Latvia 2.5-1.5. New Zealand had a win in the Open, but 2.5-1.5 over Saint Lucia was closer than ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Chennai Olympiad 7: Shankland shocker | Gukesh hits 7/7"
       },
       {
-         "description" : "The 12th-seeded Armenia held the top-seeded U.S. to a 2-2 draw in a dramatic conclusion to a tense match involving a touched-piece blunder by GM Sam Shankland and retained the lead with 13 match points after the seventh round of the 44th FIDE Ches...",
+         "description" : "The 12th-seeded Armenia held the top-seeded U.S. to a 2-2 draw in a dramatic conclusion to a tense match involving a touched-piece blunder by GM Sam Shankland. Armenia retained the lead with 13 match points after the seventh round of the 44th FIDE...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-7",
@@ -274,7 +290,7 @@ news_feed (
          "title" : "Olympiad: With eye on medal, soon-to-be-mom D Harika battles on"
       },
       {
-         "description" : "The game was invented in the 6th century in north-western India, from where it migrated to the west and conqured the world. The country of origin, however, deschended into mediocracy - until it suddenly produced its first grandmaster and World Champion. Now India is on the verge of becoming the ultimate super-power of chess. Our report includes a nice video summary of the performance of the Indian teams at the Chennai Olympiad so far.",
+         "description" : "The game was invented in the 6th century in north-western India, from where it migrated to the west and conquered the world. The country of origin, however, descended into mediocracy - until it in the 1980s it suddenly produced its first grandmaster and World Champion. Now India is on the verge of becoming the ultimate super-power of chess. Our report includes a nice video summary of the performance of the Indian teams at the Chennai Olympiad so far.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-returns-to-india",
@@ -1050,14 +1066,6 @@ news_feed (
          "title" : "Endgames from Chennai (1)"
       },
       {
-         "description" : " LET THE GAMES BEGIN! The top board (Zimbabwe-India) was surrounded by dignitaries and a sea of photographers as they await the ceremonial move. Photos by Stev Bonhage. 2022 Chess Olympiad: Round #1 Friday, 29 July 2022 In the first round, IM David Silva of Angola was on the verge of the biggest upset in African The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/30/2022-chess-olympiad-round-1/\">2022 Chess Olympiad: Round #1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/30/2022-chess-olympiad-round-1/",
-         "pubDate" : "Sat, 30 Jul 2022 05:23:42 +0000",
-         "title" : "2022 Chess Olympiad: Round #1"
-      },
-      {
          "description" : " Round 1 of the 2022 Chess Olympiad has been run and done, with no upset results in either tournaments. The vast majority of matches ended 4-0 to the rating favourites, although both the USA and Norway dropped half a point. No match finished closer than 3-1, with Sri Lanka drawing 2 games against Hungary being the closest thing to an upset result. PNG went down 4-0 to Zambia, although Stuart Fancy and Rupert Jones held out for quite a while. Australia scored 4-0 wins in both the Open and Women's, as did New Zealand. The other Oceania countries suffered similar fates to PNG, but hopefully round 2 will see some improved results. Pairings for round 2 are available at <a href=\"http://chess-resul",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1616,14 +1624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-2-day-2",
          "pubDate" : "Mon, 25 Jul 2022 05:17:14 -0700",
          "title" : "Paravyan, Theodorou Win Chess.com Global Play-Ins"
-      },
-      {
-         "description" : "On the final day of action at the SuperUnited Rapid & Blitz Tournament in Zagreb, world champion Magnus Carlsen never relinquished his lead. It did not matter that the World Champion lost his game against Alireza Firouzja shortly before the end of the tournament. Firouzja and Maxime Vachier-Lagrave shared second and third place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2022-d5",
-         "pubDate" : "Mon, 25 Jul 2022 13:00:00 +0100",
-         "title" : "Magnus Carlsen dominates SuperUnited Rapid & Blitz"
       },
       {
          "description" : "",
