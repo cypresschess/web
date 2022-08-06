@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1905",
+         "pubDate" : "Sat, 06 Aug 2022 01:19:38 +0000",
+         "title" : "Year of the Woman in Chess Awards Granted in Chennai"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-beat-2300-15-moves\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vid",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-beat-2300-15-moves",
+         "pubDate" : "Sat, 06 Aug 2022 00:00:53 +0000",
+         "title" : "How to Beat a 2300 in 15 Moves"
+      },
+      {
+         "description" : "Armenia remain sole leaders of the Chennai Olympiad after a rollercoaster match against top seeds USA. Wesley So found a stunning queen sac, Fabiano Caruana crashed to defeat against Gabriel Sargissian and Leinier Dominguez hit back only for Sam Shankland to \"pre-move\" and lose just when he was about to give the USA victory. It's Armenia vs. India 1 and USA vs. India 2, for whom Gukesh now has 7/7, in Saturday's Round 7.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-7-shankland-shocker-gukesh-hits-7-7",
+         "pubDate" : "Fri, 05 Aug 2022 23:50:40 +0000",
+         "title" : "Chennai Olympiad 7: Shankland shocker | Gukesh hits 7/7"
+      },
+      {
          "description" : "The 12th-seeded Armenia held the top-seeded U.S. to a 2-2 draw in a dramatic conclusion to a tense match involving a touched-piece blunder by GM Sam Shankland and retained the lead with 13 match points after the seventh round of the 44th FIDE Ches...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -373,17 +397,17 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1899",
-         "pubDate" : "Wed, 03 Aug 2022 17:21:27 +0000",
-         "title" : "South Korea to bid for the FIDE World Cup 2023"
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Wed, 03 Aug 2022 17:22:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Wed, 03 Aug 2022 17:18:55 +0000",
-         "title" : "FIDE Congress 2022"
+         "link" : "https://www.fide.com/news/1899",
+         "pubDate" : "Wed, 03 Aug 2022 17:21:27 +0000",
+         "title" : "South Korea to bid for the FIDE World Cup 2023"
       },
       {
          "description" : "",
@@ -1458,14 +1482,6 @@ news_feed (
          "title" : "Dynamic Sacrifice for Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illya Nyzhnyk teaches a chess class on a topic of his choice. 2022.07.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illya-nyzhnyk-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illya-nyzhnyk-lichessorg",
-         "pubDate" : "Tue, 26 Jul 2022 23:52:08 +0000",
-         "title" : "Dynamic Sacrifice for Long-Term Advantage | Grandmaster's Choice - GM Illya Nyzhnyk | lichess.org"
-      },
-      {
          "description" : "The Queen of England celebrated her Platinum Jubilee this year: she has been Queen of England for 70 years. Musician Jason Kouchak took this event as an opportunity to celebrate chess and the \"Queens of Chess\", together with his friend Pattie Boyd, who was muse and queen for both Eric Clapton and George Harrison.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1920,14 +1936,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/",
          "pubDate" : "Wed, 20 Jul 2022 10:35:47 +0000",
          "title" : "Carlsen Will Give Up His Title, Will Not Defend in 2023"
-      },
-      {
-         "description" : "5-time World Chess Champion Magnus Carlsen today ended months of speculation by announcing he will not defend his title. The 31-year-old Norwegian is not retiring and vows \"to be the best in the world, and not care about the World Championship!\" That means Chinese world no. 2 Ding Liren's last-round Candidates Tournament win against Hikaru Nakamura has earned him a lucrative match against Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-to-give-up-world-championship-title",
-         "pubDate" : "Wed, 20 Jul 2022 10:16:00 +0000",
-         "title" : "Magnus Carlsen to give up World Championship title"
       },
       {
          "description" : " The SuperUnited Rapid & Blitz took place on 20th July and runs through until the 25th July. Jorden Van Foreest won the rapid and MVL the blitz. Magnus Carlsen won the event over all sealing victory in the combined standings with a couple of rounds to go. He slightly spoiled things for himself by losing the final two rounds.",
