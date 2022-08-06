@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "16-year-old Dommaraju Gukesh is having one of the best chess tournaments in his career! He scores incredible 8/8 points playing the first board for the India2 team at the 2022 Chess Olympiad in Chennai. Gukesh today defeated World No 5 Fabiano Caruana having black pieces. Caruana was inaccurate in the time trouble, which Gukesh used []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-d-defeats-fabiano-caruana-to-score-incredible-8-8/",
+         "pubDate" : "Sat, 06 Aug 2022 15:09:42 +0000",
+         "title" : "Gukesh D defeats Fabiano Caruana to score incredible 8/8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses how beginners go into autopilot when playing openings in chess and gives examples from two King&#039;s Indian games he played against Mike Kummer. Originally on Twitch<br /> 2022.07.25<br /> Mike Kummer vs. Alex Moellering, 2020: E81 King&#039;s Indian, Saemisch, 5...O-O<br /> Kummer vs. Moellering, 2021: E81 King&#039;s Indian, Saemisch, 5...O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mode-autopilot-beginner-breakdown\"><img src=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mode-autopilot-beginner-breakdown",
+         "pubDate" : "Sat, 06 Aug 2022 15:01:17 +0000",
+         "title" : "Mode: Autopilot | Beginner Breakdown"
+      },
+      {
+         "description" : "David Howell is about to release his first ever Chessable course Grind Like a Grandmaster. To get you prepared for the full of practical chess insights Grind Like a Grandmaster course, Carlsen and Howell present a free lesson which they managed to pack into just one annotated game Get your free 31 minutes of video []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/david-howell-with-his-first-chessable-course-co-presented-with-magnus-carlsen-free-lesson/",
+         "pubDate" : "Sat, 06 Aug 2022 14:09:36 +0000",
+         "title" : "David Howell with his first Chessable course, co-presented with Magnus Carlsen (FREE lesson)"
+      },
+      {
          "description" : "GM Sam Shankland yesterday played the illegal move which cost him a loss and the USA team left without an important victory. After moving the King to an attacked square, Shankland was forced to play the legal move with the same piece according to the touch-move rule, and any legal move with the King was []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -202,28 +226,12 @@ news_feed (
          "title" : "Results - Chess Olympiad 2022 round 7 (open section)"
       },
       {
-         "description" : "After seven played rounds at the 44th Chess Olympiad 2022 India's women's team is the only one remaining with the perfect score and all 7 won matches. India has 14 match points and a 2-match-point advantage over Ukraine, Armenia and Georgia who tie for the second place. India today scored a narrow 2.5-1.5 victory over []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-7-womens-section/",
-         "pubDate" : "Fri, 05 Aug 2022 16:30:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 7 (women's section)"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-tops-ftx-crypto-cup-line-up\">headlines</a> the <strong>FTX Crypto Cup</strong>, the second in-presence event and <a href=\"https://chess24.com/tour/miami/\">first live spectator event</a> of the <strong>Meltwater Champions Chess Tour</strong> 2022, to be held in Miami on 15-21 August. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/first-spectator-tour-event-in-miami/",
          "pubDate" : "Fri, 05 Aug 2022 17:05:30 +0100",
          "title" : "First spectator tour event in Miami"
-      },
-      {
-         "description" : "The thrilling top-board match between the leaders of the Open section Armenia and USA finished in a draw with the 2-2 result. The USA team had a lead and a great chance to score against Armenia, but it wasn't meant to be. Round 7 results open section / Round 7 results women's section / Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-sam-shankland-loses-immediately-after-playing-the-illegal-move/",
-         "pubDate" : "Fri, 05 Aug 2022 16:03:59 +0000",
-         "title" : "GM Sam Shankland loses immediately after playing the illegal move"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93377563.cms\" />All eyes were on the India vs India match on Friday as the 44th Chess Olympiad returned after a day's break. And the higher-ranked India 1 justified their billing beating India 3 in the seventh round. ",
@@ -1514,14 +1522,6 @@ news_feed (
          "title" : "Beating the KID, Akobian-Style | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifice-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Wed, 27 Jul 2022 02:52:09 +0000",
-         "title" : "Dynamic Sacrifice for Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
          "description" : "The Queen of England celebrated her Platinum Jubilee this year: she has been Queen of England for 70 years. Musician Jason Kouchak took this event as an opportunity to celebrate chess and the \"Queens of Chess\", together with his friend Pattie Boyd, who was muse and queen for both Eric Clapton and George Harrison.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-seven/",
          "pubDate" : "Sat, 16 Jul 2022 17:35:32 +0000",
          "title" : "A Foundation for Beginners Sixty Seven"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1864",
-         "pubDate" : "Sat, 16 Jul 2022 12:06:01 +0000",
-         "title" : "Norwegian Championship: Simen Agdestein wins eighth title"
       }
    ]
 }
