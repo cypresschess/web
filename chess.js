@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh beat Fabiano Caruana as India 2 crushed top seeds USA 3:1 in Round 8 of the Chennai Olympiad. That's 8 wins in 8 games for 16-year-old Gukesh, who's now world no. 20 and Indian no. 2 on the live rating list, while Fabiano crashed out of the Top 10. With 3 rounds to go Armenia remain the team to beat, however, as they kept the sole lead by defeating the Indian 1st team.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-8-gukesh-crushes-caruana",
+         "pubDate" : "Sat, 06 Aug 2022 23:29:57 +0000",
+         "title" : "Chennai Olympiad 8: Gukesh crushes Caruana"
+      },
+      {
+         "description" : "Continuing their remarkable run in the 44th FIDE Chess Olympiad, the 12th-seeded Armenia defeated second-seeded India 2.5-1.5 and maintained their sole lead with 15 match points at the end of the eighth round. The 11th-seeded India 2 defeated the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-8",
+         "pubDate" : "Sat, 06 Aug 2022 16:02:00 -0700",
+         "title" : "Armenia In Open, India In Women's Maintain Lead; Gukesh Defeats Caruana To Score 8/8"
+      },
+      {
+         "description" : "Team India B, four debutants still in their teens, created the biggest and most sensational upset of the 44th Chess Olympiad today by routing the top seed and star-studded USA Team 3-1. The sensation of the day - and of the entire Olympiad so far - was the performance of Dommaraju Gukesh. The sixteen-year-old had won all of his first seven games, and now faced former World Championship Challenger Fabiano Caruana, with the black pieces. So what did the lad do: he outplayed and actually mated his illustrious opponent! You can watch it all unfold in an exciting video report | Photo Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-olympiad-r8-gukesh",
+         "pubDate" : "Sat, 06 Aug 2022 22:35:39 +0100",
+         "title" : "Breaking: Olympiad R8 - Gukesh!"
+      },
+      {
+         "description" : "GM Le Quang Liem and GM-elect Tuan Minh Le won the final two Chess.com Global Championship Play-Ins. GMs Vladislav Kovalev and Maxim Matlakov finished second. These are the last four players who have qualified to join the incredible field of playe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-4-day-2",
+         "pubDate" : "Sat, 06 Aug 2022 14:35:03 -0700",
+         "title" : "Final Spots Clinched: Le Quang Liem, Tuan Minh Le Win"
+      },
+      {
+         "description" : "From the outside, it's always very difficult to speculate on what may be happening to the USA team, but it's clear that they are not going through their best moment. Despite having the best team on paper by quite a margin, none of their players seem to be in great shape, and Fabiano Caruana in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-8-report/",
+         "pubDate" : "Sat, 06 Aug 2022 20:58:44 +0000",
+         "title" : "Chess Olympiad 2022 - Round 8 report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1907",
+         "pubDate" : "Sat, 06 Aug 2022 20:23:43 +0000",
+         "title" : "India A Women's team held to a draw by Ukraine but retains the lead"
+      },
+      {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Hans Niemann&#38;nbsp;won the week 24 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 39 competitors&#38;md...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-swiss",
+         "pubDate" : "Sat, 06 Aug 2022 13:19:19 -0700",
+         "title" : "Niemann Wins Week 24 Swiss: Summary Report"
+      },
+      {
          "description" : "The 8th round of the&#xA0;44th Chess Olympiad 2022&#xA0;saw many exciting games and, with only 3 rounds to go, Armenia kept the sole leadership in the event.&#xA0;India maintained the sole leadership in the Women's tournament with 15 match points, while Georgia emerged on the clear second place with 14 match points after a convincing 3.5-0.5 victory []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1906",
          "pubDate" : "Sat, 06 Aug 2022 17:21:04 +0000",
          "title" : "44th Chess Olympiad: USA toppled by Indian teenagers"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Sat, 06 Aug 2022 16:45:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93398050.cms\" />Grandmaster D Gukesh is on a giant-killing spree. The 16-year-old youngster registered his 8th successive victory at the ongoing 44th Olympiad on Saturday as World No. 5 and 2018 World championship challenger Fabiano Caruana lost to him in 45 moves.",
@@ -138,14 +202,6 @@ news_feed (
          "title" : "Demolition man"
       },
       {
-         "description" : "Only four rounds left to be played before the announcement of the Chess Olympiad 2022 Winners! Armenia is in the sole lead of the open section with 13 match points, and Uzbekistan, India2, India, USA, Germany and Kazakhstan share the second place with 12 match points. The top-board match of the Round 8 will be []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-8-board-pairings-open-section/",
-         "pubDate" : "Sat, 06 Aug 2022 07:41:37 +0000",
-         "title" : "Chess Olympiad 2022 - Round 8 board pairings (open section)"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #7 Friday, 5 August 2022 After round #7, things are heating up at the 2022 Chess Olympiad in Chennai, India. The Indian women are still holding on to a perfect team score with 7/7 while Dommaraju Gukesh is on a blistering 7/7 for the Open Section. The tournament hall is buzzing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/\">2022 Chess Olympiad: Round #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -200,14 +256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1904",
          "pubDate" : "Fri, 05 Aug 2022 20:40:19 +0000",
          "title" : "Monaco to host Pool A of Women's Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Fri, 05 Aug 2022 18:45:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
@@ -1618,14 +1666,6 @@ news_feed (
          "title" : "7-Year-Old's Finger Broken By Chess-playing Robot"
       },
       {
-         "description" : "Arne and Karsten look at opposite-coloured bishops endgames, one of the most intriguing setups in the final stage of the game. When more pieces are left over the board, the attacker tends to have an edge. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-204-arne-kaehler",
-         "pubDate" : "Mon, 25 Jul 2022 18:05:00 +0100",
-         "title" : "Endgame Magic #204 with Arne K&auml;hler: Opposite-coloured bishops"
-      },
-      {
          "description" : "National U-19 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-U(19)-Open.html Girls : https://aicf.online/National-U(19)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com ",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1682,14 +1722,6 @@ news_feed (
          "title" : "Nakamura's 7th Knockout Victory: 'Just Another Day At The Office'"
       },
       {
-         "description" : "GM Magnus Carlsen won the SuperUnited Rapid &#38;amp; Blitz in Zagreb, Croatia, on Sunday. After the rapid segment, the world champion was in second place behind Dutch GM Jorden van Foreest, but scoring 11.5/18 in the blitz was enough to finish in sol...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-grand-chess-tour-superunited-rapid-blitz",
-         "pubDate" : "Sun, 24 Jul 2022 14:35:00 -0700",
-         "title" : "Carlsen Wins Grand Chess Tour's SuperUnited Rapid & Blitz"
-      },
-      {
          "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth Rapid Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-champions-crowned-in-thessaloniki/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1728,22 +1760,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/zagreb-gct-4-magnus-takes-over",
          "pubDate" : "Sun, 24 Jul 2022 07:37:45 +0000",
          "title" : "Zagreb GCT 4: Magnus takes over"
-      },
-      {
-         "description" : "An online &#34;round-table&#34; discussion organized by the Association of Chess Professionals (ACP) on Thursday saw three FIDE presidential candidates, the incumbent president Arkady Dvorkovich, GM Andrii Baryshpolets, and GM Bachar Kouatly, debating ove...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-presidential-candidates-acp-round-table-discussion",
-         "pubDate" : "Sat, 23 Jul 2022 13:45:29 -0700",
-         "title" : "Friendly Clash Among FIDE Presidential Candidates In ACP Round Table Discussion"
-      },
-      {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Fabiano Caruana won the week 22 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 53 competitors&#38;mdas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-22-swiss",
-         "pubDate" : "Sat, 23 Jul 2022 13:14:00 -0700",
-         "title" : "Caruana Wins Week 22 Swiss: Summary Report"
       },
       {
          "description" : "",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1873",
          "pubDate" : "Thu, 21 Jul 2022 11:08:19 +0000",
          "title" : "Remarkable performances at Chess Olympiads "
-      },
-      {
-         "description" : "19-year-old Alireza Firouzja beat Ivan Saric and Veselin Topalov as he took the sole lead on Day 1 of the SuperUnited Rapid and Blitz in Zagreb, Croatia. The day was overshadowed by Magnus Carlsen announcing he wouldn't play the next World Championship match, with Magnus joining Wesley So, MVL and Jorden van Foreest in 2nd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/zagreb-gct-1-firouzja-leads-as-new-chess-era-begins-in-zagreb",
-         "pubDate" : "Thu, 21 Jul 2022 10:31:34 +0000",
-         "title" : "Zagreb GCT 1: Firouzja leads as new chess era begins"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-59/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (59)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-59/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (59)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
