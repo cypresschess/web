@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 8th round of the&#xA0;44th Chess Olympiad 2022&#xA0;saw many exciting games and, with only 3 rounds to go, Armenia kept the sole leadership in the event.&#xA0;India maintained the sole leadership in the Women's tournament with 15 match points, while Georgia emerged on the clear second place with 14 match points after a convincing 3.5-0.5 victory []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-pairings/",
+         "pubDate" : "Sat, 06 Aug 2022 18:31:32 +0000",
+         "title" : "Chess Olympiad 2022 - Round 9 pairings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1906",
+         "pubDate" : "Sat, 06 Aug 2022 17:21:04 +0000",
+         "title" : "44th Chess Olympiad: USA toppled by Indian teenagers"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93398050.cms\" />Grandmaster D Gukesh is on a giant-killing spree. The 16-year-old youngster registered his 8th successive victory at the ongoing 44th Olympiad on Saturday as World No. 5 and 2018 World championship challenger Fabiano Caruana lost to him in 45 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-d-gukesh-on-a-giant-killing-spree/articleshow/93398050.cms",
+         "pubDate" : "Sat, 06 Aug 2022 16:38:58 +0000",
+         "title" : "Chess Olympiad: D Gukesh on a giant-killing spree"
+      },
+      {
+         "description" : "The 8th round of the 44th Chess Olympiad 2022 saw many exciting games and, with only 3 rounds to go, Armenia kept the sole leadership in the event. Armenia took a narrow 2.5-1.5 victory over India as GM Gabriel Sargissian defeated GM Pentala Harikrishna on the first board. The other three games ended in a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-8-open-section/",
+         "pubDate" : "Sat, 06 Aug 2022 16:16:35 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 8 (open section)"
+      },
+      {
+         "description" : "As MrDodgy (aka ChessProblem) would put it, D Gukesh is the Alireza of the Chess Olympiad 2022. Having collected 8,0/8, Gukesh is now the second strongest Indian player and has officially entered the world top 20 with live rating 2729 ELO. Read about D Gukesh scoring 8,0/8 here An equally great feat is going on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oliwia-kiolbasa-is-the-gukesh-of-the-women-section-of-the-chess-olympiad/",
+         "pubDate" : "Sat, 06 Aug 2022 16:15:00 +0000",
+         "title" : "Oliwia Kiolbasa is the Gukesh of the Women's Chess Olympiad"
+      },
+      {
+         "description" : "The top-board match of the Women's Chess Olympiad Round 8 between India and Ukraine finished in a draw with 2-2 result. All four games finished in a peaceful manner despite long and tense fights. Replay the match here After the 8th round, India maintained the sole leadership in the event with 15 match points, while []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-8-womens-section/",
+         "pubDate" : "Sat, 06 Aug 2022 15:54:29 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 8 (women's section)"
+      },
+      {
          "description" : "16-year-old Dommaraju Gukesh is having one of the best chess tournaments in his career! He scores incredible 8/8 points playing the first board for the India2 team at the 2022 Chess Olympiad in Chennai. Gukesh today defeated World No 5 Fabiano Caruana having black pieces. Caruana was inaccurate in the time trouble, which Gukesh used []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,14 +146,6 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Round 8 board pairings (open section)"
       },
       {
-         "description" : "India's women's team extended the sole lead of the Women's Chess Olympiad 2022. After yesterday's narrow 2.5-1.5 victory over Azerbaijan, India scored in the 7th consecutive match and holds first place with the maximum of 14 match points. Ukraine, Armenia and Georgia follow with 12 match points, each. ( see Round 7 results here ) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-8-board-pairings-womens-section/",
-         "pubDate" : "Sat, 06 Aug 2022 07:20:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 8 board pairings (women's section)"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #7 Friday, 5 August 2022 After round #7, things are heating up at the 2022 Chess Olympiad in Chennai, India. The Indian women are still holding on to a perfect team score with 7/7 while Dommaraju Gukesh is on a blistering 7/7 for the Open Section. The tournament hall is buzzing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/\">2022 Chess Olympiad: Round #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -154,20 +194,20 @@ news_feed (
          "title" : "Armenia Retains Lead In Open; India Widens Lead In Women's; Gukesh 7/7"
       },
       {
-         "description" : "The Olympiad is arguably the world's largest team championship, played at the same time in a single venue. It's so big more than 350 four-player teams that it typically takes two or more buildings to lodge all the games.&#xA0;Here in Chennai, the main venue hall has a capacity for 27 matches in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-7-report/",
-         "pubDate" : "Fri, 05 Aug 2022 21:25:07 +0000",
-         "title" : "Chess Olympiad 2022 - Round 7 report"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1904",
          "pubDate" : "Fri, 05 Aug 2022 20:40:19 +0000",
          "title" : "Monaco to host Pool A of Women's Candidates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Fri, 05 Aug 2022 18:45:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "",
@@ -189,14 +229,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Fri, 05 Aug 2022 17:45:55 +0000",
-         "title" : "FIDE Congress 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1902",
          "pubDate" : "Fri, 05 Aug 2022 17:44:11 +0000",
          "title" : "India A Women's team scores another thumping victory to extend sole lead"
@@ -208,22 +240,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-a-happy-diversion-for-besieged-ukraine-players/articleshow/93378843.cms",
          "pubDate" : "Fri, 05 Aug 2022 17:38:52 +0000",
          "title" : "Chess Olympiad a happy diversion for besieged Ukraine players"
-      },
-      {
-         "description" : "After escaping from a loss against USA, Armenia maintained the sole lead in the&#160;2022 Chess Olympiad (open section)&#160;scoring 13 match points. Uzbekistan, India 2, India, USA, Germany and Kazakhstan are in a tie for the second place, with 12 match points each.&#160;India&#x2019;s women&#x2019;s team is the only one remaining with the perfect score and all []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-chess-olympiad-2022-round-8-pairings/",
-         "pubDate" : "Fri, 05 Aug 2022 17:13:54 +0000",
-         "title" : "44th Chess Olympiad 2022 - Round 8 pairings"
-      },
-      {
-         "description" : "After escaping from a loss against USA, Armenia maintained the sole lead in the 2022 Chess Olympiad scoring 13 match points. Uzbekistan, India 2, India, USA, Germany and Kazakhstan are in a tie for the second place, with 12 match points each. Replay all matches from the Open section here A thrilling top-board match between []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-7-open-section/",
-         "pubDate" : "Fri, 05 Aug 2022 16:47:35 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 7 (open section)"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-tops-ftx-crypto-cup-line-up\">headlines</a> the <strong>FTX Crypto Cup</strong>, the second in-presence event and <a href=\"https://chess24.com/tour/miami/\">first live spectator event</a> of the <strong>Meltwater Champions Chess Tour</strong> 2022, to be held in Miami on 15-21 August. </div> ",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "Chennai Olympiad: US big favourite, India looking to leave a mark"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93175255.cms\" />​The 44th Chess Olympiad is going to be different for the Indian team for many reasons. Even as Chennai gears up to host the country's first-ever Olympiad and is one of the favourites for a podium-finish, the Indian team will not be having the services of legend --- Viswanathan Anand --- as a player.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-on-every-board-india-have-strong-players-says-viswanathan-anand/articleshow/93175255.cms",
-         "pubDate" : "Thu, 28 Jul 2022 02:53:02 +0000",
-         "title" : "On every board, India have strong players: Viswanathan Anand"
-      },
-      {
          "description" : "By now it is almost impossible to not have heard the tragic tale of the 7-year-old boy whose finger was broken during an exhibition by a chess playing robot. It was certainly the least likely incident one would have imagined, but Murphy's Law was in full swing that day. Still, the history of robots and chess has been ongoing for over 250 years now, with robot chess players today in the homes of proud owners.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1865",
          "pubDate" : "Sun, 17 Jul 2022 12:07:15 +0000",
          "title" : "Nikolai Krogius (1930-2022)"
-      },
-      {
-         "description" : " Last week, I talked about the importance of patience in chess. I touched on the idea of theory and practice a bit as well. Before, jumping back into the examples we were playing through, I wanted to talk about practice and theory a little more. There's good reason for doing this, because these two parts <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-seven/\">A Foundation for Beginners Sixty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-seven/",
-         "pubDate" : "Sat, 16 Jul 2022 17:35:32 +0000",
-         "title" : "A Foundation for Beginners Sixty Seven"
       }
    ]
 }
