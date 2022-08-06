@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Armenia still lead the 2022 Chess Olympiad, after a somewhat fortunate draw against the USA. They were facing a likely 2.5-1.5 loss, when Sam Shankland touched his king, thinking it was in check, only to realise (a) that it wasn't and (b) any move by the king loses. So he resigned, making the score 2-2. There is a bug tie for 2nd on 12 points, with both Indian teams and Uzbekistan in that group. The big matchup today is Armenia v India on the top board. It was rough day for teams from Oceania, including Australia. The Open team lost 3.5-0.5 to the strong Iran team, while the Women's team lost to Latvia 2.5-1.5. New Zealand had a win in the Open, but 2.5-1.5 over Saint Lucia was closer than ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-7.html",
+         "pubDate" : "Sat, 06 Aug 2022 03:06:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 7"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
