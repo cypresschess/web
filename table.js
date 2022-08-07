@@ -1,5 +1,7 @@
 jtable([
+"SPRING","2022-08-05","29","<a href=http://www.uschess.org/msa/XtblMain.php?202208059882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-08-05","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208059852 target='_blank'>FBCC 2022 SUMMER CHESS SPECTACULAR</a>",
+"CYPRESS","2022-08-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202208059762 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "MISSOURI CITY","2022-08-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208029022 target='_blank'>RCC QUADS WEEK 3 AUGUST 2 2022</a>",
 "HOUSTON","2022-07-31","16","<a href=http://www.uschess.org/msa/XtblMain.php?202207317482 target='_blank'>JULY 31 SUN SWISS</a>",
 "KATY","2022-07-30","45","<a href=http://www.uschess.org/msa/XtblMain.php?202207307712 target='_blank'>CIA SUMMER OTB</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2021-10-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202110089442 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2021-10-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110089272 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-10-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202110089262 target='_blank'>FBCC EARLY-OCTOBER CLASSIC 2021</a>",
-"HOUSTON","2021-10-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202110038642 target='_blank'>SUNDAY SWISS OCT 3RD</a>",
-"SPRING","2021-10-02","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110027682 target='_blank'>DER SPRINGERS</a>",
 ]);
