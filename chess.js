@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With three rounds to go at the Chess Olympiad, Armenia continues to lead the standings in the open section with an undefeated match score. On Saturday, they beat India thanks to a second win in a row for Gabriel Sargissian. The other marquee confrontation of the round saw India 2 shock the US with wins by Gukesh and Raunak. Gukesh defeated Fabiano Caruana to collect his eighth consecutive full point - the 16-year-old is heading for the stars! In the women's event, India conceded its first draw of the event, and now has a 1-point lead over Georgia. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r8",
+         "pubDate" : "Sun, 07 Aug 2022 08:05:00 +0100",
+         "title" : "Chennai R8: Armenia leads, Gukesh beats Caruana"
+      },
+      {
+         "description" : "With only three rounds left to be played at the 2022 Chess Olympiad in Chennai, Armenia keeps the sole leadership of the Open section with 15 match points. India 2 and Uzbekistan are just behind, scoring 14 match points. Armenia today faces Uzbekistan, with GM Gabriel Sargissian playing against GM Nodirbek Abdusattorov with black pieces, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-board-pairings-open-section/",
+         "pubDate" : "Sun, 07 Aug 2022 06:41:37 +0000",
+         "title" : "Chess Olympiad 2022 - Round 9 board pairings (open section)"
+      },
+      {
+         "description" : "After yesterday's draw against Ukraine, India's women's team maintained the sole leadership of the Women's Chess Olympiad 2022 with the score of 15 match points. Georgia is in a clear second place with 14 match points, and Ukraine, Poland, Bulgaria, Kazakhstan and Mongolia are in a tie for the third place with 13 match points, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-board-pairings-womens-section/",
+         "pubDate" : "Sun, 07 Aug 2022 06:25:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 9 board pairings (women's section)"
+      },
+      {
          "description" : " Armenia has built their previous Olympiad victories on managing to score a lot of 2.5-1.5 match wins, which is just as good a 4-0 in this kind of team event (tie-break effects non-withstanding). So it wasn't a huge surprise when Armenia did an 'Armenia' and defeated India by this score. Draws on the bottom 3 boards, started the match, before a marathon win on the top board brought home the 2 points. They still lead the tournament by 1 point with 3 rounds to play, but more importantly, they have played India and India 2, plus the USA. They are up against another surprise packet, Uzbekistan, in today's round. The Australian team bounced back with a narrow 2.5-1.5 win over Finland (Armenia sty",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -154,36 +178,12 @@ news_feed (
          "title" : "Sam Shankland's reaction after illegal move which cost him a loss"
       },
       {
-         "description" : "FIDE Press release: Year of the Woman in Chess Awards Granted in Chennai We are happy to announce the winners of the Year of the Woman in Chess Awards honouring outstanding women and those supporting women in chess. The ceremony took place on the evening of August 5 in Chennai, India, as part of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/year-of-the-woman-in-chess-awards-ceremony-took-place-yesterday-in-chennai/",
-         "pubDate" : "Sat, 06 Aug 2022 11:04:21 +0000",
-         "title" : "Year of the Woman in Chess Awards ceremony took place yesterday in Chennai"
-      },
-      {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Abdulla Al-Homaid (Qatar)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Sat, 06 Aug 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
-      },
-      {
          "description" : "Germany beat Serbia in round 7 of the Chess Olympiad, but only after Vincent Keymer successfully defended an imbalanced position against Aleksandar Indjic. Keymer had a queen against Indjic's bishop pair and two dangerous connected passers. Zoran Petronijevic sent us instructive annotations to an intriguing endgame battle! | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/indjic-keymer-analysis-by-zoran",
          "pubDate" : "Sat, 06 Aug 2022 11:00:00 +0100",
          "title" : "Indjic v Keymer: Analysis by Zoran"
-      },
-      {
-         "description" : "Armenia defended its lead in the open section of the Chess Olympiad after drawing the favourites from the United States in round 7. The match was incredibly eventful, with Wesley So playing a brilliant sacrifice, Gabriel Sargissian upsetting Fabiano Caruana, and Sam Shankland losing after mistakenly touching his king. In the women's section, India beat Azerbaijan to remain in the sole lead with a perfect score. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r7",
-         "pubDate" : "Sat, 06 Aug 2022 10:10:00 +0100",
-         "title" : "Chennai R7: Armenia draws the US in dramatic match, keeps the lead"
       },
       {
          "description" : "In the course of my global travels competing in chess tournaments , I once encountered a warning in Continental trains which has stuck in my mind: \"E pericoloso sporgersi.\" Basically it translates as: \"Don't stick your head out of the window!\" A couple of years ago I wrote a column enquiring whether playing chess might be []",
@@ -194,20 +194,20 @@ news_feed (
          "title" : "Perils of a globetrotting grandmaster"
       },
       {
-         "description" : "Only four rounds left to be played before the announcement of the&#xA0;Chess Olympiad 2022&#xA0;Winners! Armenia is in the sole lead of the open section with 13 match points, and India's women's team scores perfect 14 match points to be in the sole lead of the Women's section. Round 8 board pairings (open section) / Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-8-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
-         "pubDate" : "Sat, 06 Aug 2022 08:21:54 +0000",
-         "title" : "Round 8 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
-      },
-      {
          "description" : "In the diagrammed position, White put all his pieces on light squares. A stable position? Not if you swing the wrecking ball with Black - I wish you massive pleasure!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/demolition-man",
          "pubDate" : "Sat, 06 Aug 2022 09:00:00 +0100",
          "title" : "Demolition man"
+      },
+      {
+         "description" : "Armenia defended its lead in the open section of the Chess Olympiad after drawing the favourites from the United States in round 7. The match was incredibly eventful, with Wesley So playing a brilliant sacrifice, Gabriel Sargissian upsetting Fabiano Caruana, and Sam Shankland losing after mistakenly touching his king. In the women's section, India beat Azerbaijan to remain in the sole lead with a perfect score. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r7",
+         "pubDate" : "Sat, 06 Aug 2022 08:10:00 +0100",
+         "title" : "Chennai R7: Armenia draws the US in dramatic match, keeps the lead"
       },
       {
          "description" : " 2022 Chess Olympiad: Round #7 Friday, 5 August 2022 After round #7, things are heating up at the 2022 Chess Olympiad in Chennai, India. The Indian women are still holding on to a perfect team score with 7/7 while Dommaraju Gukesh is on a blistering 7/7 for the Open Section. The tournament hall is buzzing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/\">2022 Chess Olympiad: Round #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
