@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Armenia has built their previous Olympiad victories on managing to score a lot of 2.5-1.5 match wins, which is just as good a 4-0 in this kind of team event (tie-break effects non-withstanding). So it wasn't a huge surprise when Armenia did an 'Armenia' and defeated India by this score. Draws on the bottom 3 boards, started the match, before a marathon win on the top board brought home the 2 points. They still lead the tournament by 1 point with 3 rounds to play, but more importantly, they have played India and India 2, plus the USA. They are up against another surprise packet, Uzbekistan, in today's round. The Australian team bounced back with a narrow 2.5-1.5 win over Finland (Armenia sty",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-8.html",
+         "pubDate" : "Sun, 07 Aug 2022 03:20:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 8"
+      },
+      {
          "description" : "Gukesh beat Fabiano Caruana as India 2 crushed top seeds USA 3:1 in Round 8 of the Chennai Olympiad. That's 8 wins in 8 games for 16-year-old Gukesh, who's now world no. 20 and Indian no. 2 on the live rating list, while Fabiano crashed out of the Top 10. With 3 rounds to go Armenia remain the team to beat, however, as they kept the sole lead by defeating the Indian 1st team.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
