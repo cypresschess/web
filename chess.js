@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Arkady Dvorkovich has been reelected for a second term as President of the International Chess Federation (FIDE). Five-time World Chess Champion Viswanathan Anand, who was part of Dvorkovich's ticket, is the new FIDE Deputy President. FIDE press release, photo David Llada",
+         "description" : "There are only four days to the end of the Chess Olympiad 2022 in Chennai. To celebrate the occasion, Chessable is having multiple courses on sale with discount. Among those courses, there are two beautiful gems by the World Champion himself The Magnus Touch: Endgame and The Magnus Touch: Chess Strategy. Both courses are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsens-courses-olympiad-sale-at-chessable/",
+         "pubDate" : "Sun, 07 Aug 2022 12:41:35 +0000",
+         "title" : "Magnus Carlsen's courses - Olympiad sale at Chessable"
+      },
+      {
+         "description" : "Arkady Dvorkovich has been reelected for a second term as President of the International Chess Federation (FIDE). Five-time World Chess Champion Viswanathan Anand, who was part of Dvorkovich's ticket, is the new FIDE Deputy President. FIDE press release, photo by David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/arkady-dvorkovich-reelected",
          "pubDate" : "Sun, 07 Aug 2022 13:20:00 +0100",
          "title" : "Arkady Dvorkovich reelected"
+      },
+      {
+         "description" : "Arkady Dvorkovich, Russian Deputy Prime Minister from 2012-2018, has been re-elected as President of the World Chess Federation (FIDE) for another four years. He defeated Ukrainian Grandmaster Andrii Baryshpolets by a landslide 157:16 vote at the FIDE General Assembly in Chennai, India, after the remaining candidates all withdrew.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/dvorkovich-re-elected-fide-president-by-157-16-landslide",
+         "pubDate" : "Sun, 07 Aug 2022 12:14:16 +0000",
+         "title" : "Dvorkovich re-elected FIDE President by landslide"
       },
       {
          "description" : "Tanmay Bhat, the famous Mumbai based Comedian, YouTuber, and Investor, is hailing the performance of Gukesh at the Chess Olympiad in Chennai. Tanmay Bhat says, &#8220;Towering all kings like an ace, remember the name it&#x2019;s Gukesh&#8221; Gukesh currently&#xA0;playing to make that 9,0/9&#xA0;one cannot disagree that Gukesh possesses serious superpowers. All news about Gukesh here",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Tanmay Bhat hails Gukesh"
       },
       {
-         "description" : "FIDE President Arkady Dvorkovich was re-elected for a second term at the presidential elections during the FIDE Congress in Chennai, India on Sunday. The incumbent president received 157 of the votes, while Andrii Baryshpolets received 16 votes. ...",
+         "description" : "FIDE President Arkady Dvorkovich was re-elected for a second term in the presidential elections during the FIDE Congress in Chennai, India, on Sunday. He received 157 of the votes. The only other remaining candidate, Andrii Baryshpolets, received ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dvorkovich-re-elected-as-fide-president",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Chennai Olympiad: Live!"
       },
       {
-         "description" : "Oliwia Kiolbasa is currently rocking the Women section of the &#xA0;Chess Olympiad 2022. She has collected 8,0/8 and is going for the fantastic 9,0/9. The game is of high importance for the medals race, as both Poland and India are in contention. All games from the round live here More about Oliwia Kiolbasa here &#xFEFF;",
+         "description" : "Oliwia Kiolbasa is currently rocking the Women section of the &#160;Chess Olympiad 2022. She has collected 8,0/8 and is going for the fantastic 9,0/9. The game is of high importance for the medals race, as both Poland and India are in contention. All games from the round live here More about Oliwia Kiolbasa here &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/oliwia-kiolbasa-vaishali-r9-of-chess-olympiad-2022-live/",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-4-day-2",
          "pubDate" : "Sat, 06 Aug 2022 14:35:03 -0700",
          "title" : "Final Spots Clinched: Le Quang Liem, Tuan Minh Le Win"
-      },
-      {
-         "description" : "From the outside, it's always very difficult to speculate on what may be happening to the USA team, but it's clear that they are not going through their best moment. Despite having the best team on paper by quite a margin, none of their players seem to be in great shape, and Fabiano Caruana in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-8-report/",
-         "pubDate" : "Sat, 06 Aug 2022 20:58:44 +0000",
-         "title" : "Chess Olympiad 2022 - Round 8 report"
       },
       {
          "description" : "",
@@ -1874,14 +1882,6 @@ news_feed (
          "title" : "2022 ACT Winter Open"
       },
       {
-         "description" : "Magnus Carlsen's tough start to life no longer fighting for the World Championship title continued in Zagreb on Thursday, as he lost to Shakhriyar Mamedyarov and then missed a win against Leinier Dominguez. Alireza Firouzja leads after winning a wild game against Shakh.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/zagreb-gct-2-mamedyarov-beats-carlsen",
-         "pubDate" : "Fri, 22 Jul 2022 12:37:25 +0000",
-         "title" : "Zagreb GCT 2: Mamedyarov beats Carlsen"
-      },
-      {
          "description" : "The ECU Board Meeting took place today, Friday, 22nd of July 2022 in Thessaloniki, Greece. The board discussed the final preparations for the ECU General Assembly 2022 which will be held tomorrow at 09.30 in the same venue. ECU Board discussed the bids received by the deadline of the 29th of April 2022. The ECU received three solo&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-ecu-board-meeting-held-in-thessaloniki-greece/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2120,22 +2120,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-tactics-for-heroes-revisited/",
          "pubDate" : "Sun, 17 Jul 2022 17:18:15 +0000",
          "title" : "Chess Tactics for Heroes Revisited"
-      },
-      {
-         "description" : " It is currently the 50th anniversary of the Fischer v Spassky World Championship Match. While I was only 5 years old when it happened, in a way it was still my first exposure to serious competitive chess. This was because my father had a copy of the Gligoric book on the match, and it was probably the first chess book that I read, albeit 4 years after the match was played. I still flick through the book (and a number of others about the match), revisiting the analysis. One game that was particularly interesting was the 5th game of the match. It was notable for a provocative knight move on 11, which allowed Spassky to double Black's pawns. However a few moves later, Spassky was forced to undo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/fifty-years-ago.html",
-         "pubDate" : "Sun, 17 Jul 2022 13:54:00 +0000",
-         "title" : "Fifty years ago"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1865",
-         "pubDate" : "Sun, 17 Jul 2022 12:07:15 +0000",
-         "title" : "Nikolai Krogius (1930-2022)"
       }
    ]
 }
