@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arkady Dvorkovich has been reelected for a second term as President of the International Chess Federation (FIDE). Five-time World Chess Champion Viswanathan Anand, who was part of Dvorkovich's ticket, is the new FIDE Deputy President. FIDE press release, photo David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arkady-dvorkovich-reelected",
+         "pubDate" : "Sun, 07 Aug 2022 13:20:00 +0100",
+         "title" : "Arkady Dvorkovich reelected"
+      },
+      {
+         "description" : "Tanmay Bhat, the famous Mumbai based Comedian, YouTuber, and Investor, is hailing the performance of Gukesh at the Chess Olympiad in Chennai. Tanmay Bhat says, &#8220;Towering all kings like an ace, remember the name it&#x2019;s Gukesh&#8221; Gukesh currently&#xA0;playing to make that 9,0/9&#xA0;one cannot disagree that Gukesh possesses serious superpowers. All news about Gukesh here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tanmay-bhat-hails-gukesh/",
+         "pubDate" : "Sun, 07 Aug 2022 11:15:25 +0000",
+         "title" : "Tanmay Bhat hails Gukesh"
+      },
+      {
+         "description" : "FIDE President Arkady Dvorkovich was re-elected for a second term at the presidential elections during the FIDE Congress in Chennai, India on Sunday. The incumbent president received 157 of the votes, while Andrii Baryshpolets received 16 votes. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dvorkovich-re-elected-as-fide-president",
+         "pubDate" : "Sun, 07 Aug 2022 03:38:00 -0700",
+         "title" : "Dvorkovich Re-elected As FIDE President"
+      },
+      {
+         "description" : "Take a look, and then take a look again. &#8220;Gukesh has serious Wolverine vibes,&#8221; says Olimpiu Urcan aka OlimpioDiLuppi. With Gukesh scoring 8,0/8 at the Chess Olympiad and currently playing to make that 9,0/9 one cannot disagree that Gukesh possesses serious superpowers. All news about Gukesh here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-is-the-wolverine-of-chess-tweetoftheday/",
+         "pubDate" : "Sun, 07 Aug 2022 10:27:57 +0000",
+         "title" : "Gukesh is the Wolverine of chess #TweetOftheDay"
+      },
+      {
+         "description" : "Incumbent president Arkady Dvorkovich was re-elected for a second term and Anand was in his team.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34361833/chess-viswanathan-anand-fide-deputy-president?device=featurephone",
+         "pubDate" : "Sun, 7 Aug 2022 05:25:53 -0500",
+         "title" : "Chess: Viswanathan Anand elected FIDE deputy president"
+      },
+      {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Bakoly Razafindrabe (Madagascar)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Sun, 07 Aug 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "Oliwia Kiolbasa is currently rocking the Women section of the &#xA0;Chess Olympiad 2022. She has collected 8,0/8 and is going for the fantastic 9,0/9. The game is of high importance for the medals race, as both Poland and India are in contention. All games from the round live here More about Oliwia Kiolbasa here &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oliwia-kiolbasa-vaishali-r9-of-chess-olympiad-2022-live/",
+         "pubDate" : "Sun, 07 Aug 2022 10:13:28 +0000",
+         "title" : "Oliwia Kiolbasa - Vaishali, R9 of Chess Olympiad 2022 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1908",
+         "pubDate" : "Sun, 07 Aug 2022 10:08:58 +0000",
+         "title" : "Arkady Dvorkovich, reelected as FIDE President"
+      },
+      {
+         "description" : "Having collected 8,0/8, Gukesh is now the second strongest Indian player and has officially entered the world top 20 with live rating 2729 ELO.&#160;Read about D Gukesh scoring 8,0/8 here. Today he is facing Mamedyarov with the white pieces, in an attempt to jump to the incredible 9,0/9 and put India 2 ahead of competition []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-mamedyarov-r9-of-chess-olympiad-2022-live/",
+         "pubDate" : "Sun, 07 Aug 2022 10:05:21 +0000",
+         "title" : "Gukesh - Mamedyarov, R9 of Chess Olympiad 2022 LIVE"
+      },
+      {
+         "description" : " 2022 Chess Olympiad: Round #8 Saturday, 6 August 2022 The plot thickened in round #8. Armenia toppled India 1 on the strength of Gabriel &#8220;Mr. Olympus&#8221; Sargissian. His win over Pentala Harikrishna continued a surprising run at this Olympiad. Perhaps few outside of Armenia would have picked the team vying for a gold medal without The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/07/2022-chess-olympiad-round-8/\">2022 Chess Olympiad: Round #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/07/2022-chess-olympiad-round-8/",
+         "pubDate" : "Sun, 07 Aug 2022 09:23:55 +0000",
+         "title" : "2022 Chess Olympiad: Round #8"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93407296.cms\" />Indian chess legend Viswanathan Anand was on Sunday elected deputy president of FIDE, the sport's world governing body, while incumbent president Arkady Dvorkovich was re-elected for a second term.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-viswanathan-anand-becomes-fide-deputy-president/articleshow/93407296.cms",
+         "pubDate" : "Sun, 07 Aug 2022 08:51:27 +0000",
+         "title" : "Indian chess legend Viswanathan Anand becomes FIDE deputy president"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93407170.cms\" />A Russian former deputy premier was re-elected Sunday as head of the International Chess Federation (FIDE), its electoral chairman said, seeing off a Ukrainian challenger who said his position was untenable because of Moscow's invasion.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/russian-official-re-elected-head-of-chess-body-fide/articleshow/93407170.cms",
+         "pubDate" : "Sun, 07 Aug 2022 08:43:01 +0000",
+         "title" : "Russian official re-elected head of chess body FIDE"
+      },
+      {
+         "description" : "Arkady Dvorkovich is re-elected FIDE President! More than 155 federations voted for Dvorkovich's ticket with Viswanathan Anand as a FIDE Deputy President, Zhu Chen as a FIDE Treasurer, Joran Aulin-Jansson as the FIDE Vice-President and Mahir Mammedov as the FIDE Vice-President. The FIDE Congress is taking place in Chennai, India from 31 July 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arkady-dvorkovich-is-re-elected-fide-president/",
+         "pubDate" : "Sun, 07 Aug 2022 08:07:02 +0000",
+         "title" : "Arkady Dvorkovich is re-elected FIDE President"
+      },
+      {
+         "description" : "With only three rounds to go at the 2022 Chess Olympiad, Armenia and India successfully keep the sole leadership of the Open and Women's sections (respectively). The top-board encounter of the Open section will be played between Armenia and Uzbekistan, and India plays against Poland in the Women's section. Round 9 board pairings open section []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/round-9-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
+         "pubDate" : "Sun, 07 Aug 2022 07:48:00 +0000",
+         "title" : "Round 9 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
+      },
+      {
+         "description" : "FIDE Elections and FIDE General Assembly are taking place in Chennai, India, as part of the Chess Olympiad 2022. During the introduction speeches as the FIDE presidential candidate, Bachar Kouatly announced he is withdrawing his candidacy. BREAKING: Arkady Dvorkovich is re-elected FIDE President",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bachar-kouatly-withdraws-from-the-fide-presidential-elections/",
+         "pubDate" : "Sun, 07 Aug 2022 07:40:00 +0000",
+         "title" : "Bachar Kouatly withdraws from the FIDE presidential elections"
+      },
+      {
          "description" : "With three rounds to go at the Chess Olympiad, Armenia continues to lead the standings in the open section with an undefeated match score. On Saturday, they beat India thanks to a second win in a row for Gabriel Sargissian. The other marquee confrontation of the round saw India 2 shock the US with wins by Gukesh and Raunak. Gukesh defeated Fabiano Caruana to collect his eighth consecutive full point - the 16-year-old is heading for the stars! In the women's event, India conceded its first draw of the event, and now has a 1-point lead over Georgia. | Photo: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,28 +210,12 @@ news_feed (
          "title" : "Niemann Wins Week 24 Swiss: Summary Report"
       },
       {
-         "description" : "The 8th round of the&#xA0;44th Chess Olympiad 2022&#xA0;saw many exciting games and, with only 3 rounds to go, Armenia kept the sole leadership in the event.&#xA0;India maintained the sole leadership in the Women's tournament with 15 match points, while Georgia emerged on the clear second place with 14 match points after a convincing 3.5-0.5 victory []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-pairings/",
-         "pubDate" : "Sat, 06 Aug 2022 18:31:32 +0000",
-         "title" : "Chess Olympiad 2022 - Round 9 pairings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1906",
          "pubDate" : "Sat, 06 Aug 2022 17:21:04 +0000",
          "title" : "44th Chess Olympiad: USA toppled by Indian teenagers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Sat, 06 Aug 2022 16:45:55 +0000",
-         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93398050.cms\" />Grandmaster D Gukesh is on a giant-killing spree. The 16-year-old youngster registered his 8th successive victory at the ongoing 44th Olympiad on Saturday as World No. 5 and 2018 World championship challenger Fabiano Caruana lost to him in 45 moves.",
@@ -122,60 +226,12 @@ news_feed (
          "title" : "Chess Olympiad: D Gukesh on a giant-killing spree"
       },
       {
-         "description" : "The 8th round of the 44th Chess Olympiad 2022 saw many exciting games and, with only 3 rounds to go, Armenia kept the sole leadership in the event. Armenia took a narrow 2.5-1.5 victory over India as GM Gabriel Sargissian defeated GM Pentala Harikrishna on the first board. The other three games ended in a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-8-open-section/",
-         "pubDate" : "Sat, 06 Aug 2022 16:16:35 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 8 (open section)"
-      },
-      {
-         "description" : "As MrDodgy (aka ChessProblem) would put it, D Gukesh is the Alireza of the Chess Olympiad 2022. Having collected 8,0/8, Gukesh is now the second strongest Indian player and has officially entered the world top 20 with live rating 2729 ELO. Read about D Gukesh scoring 8,0/8 here An equally great feat is going on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-is-the-gukesh-of-the-women-section-of-the-chess-olympiad/",
-         "pubDate" : "Sat, 06 Aug 2022 16:15:00 +0000",
-         "title" : "Oliwia Kiolbasa is the Gukesh of the Women's Chess Olympiad"
-      },
-      {
-         "description" : "The top-board match of the Women's Chess Olympiad Round 8 between India and Ukraine finished in a draw with 2-2 result. All four games finished in a peaceful manner despite long and tense fights. Replay the match here After the 8th round, India maintained the sole leadership in the event with 15 match points, while []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-8-womens-section/",
-         "pubDate" : "Sat, 06 Aug 2022 15:54:29 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 8 (women's section)"
-      },
-      {
-         "description" : "16-year-old Dommaraju Gukesh is having one of the best chess tournaments in his career! He scores incredible 8/8 points playing the first board for the India2 team at the 2022 Chess Olympiad in Chennai. Gukesh today defeated World No 5 Fabiano Caruana having black pieces. Caruana was inaccurate in the time trouble, which Gukesh used []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-d-defeats-fabiano-caruana-to-score-incredible-8-8/",
-         "pubDate" : "Sat, 06 Aug 2022 15:09:42 +0000",
-         "title" : "Gukesh D defeats Fabiano Caruana to score incredible 8/8"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses how beginners go into autopilot when playing openings in chess and gives examples from two King&#039;s Indian games he played against Mike Kummer. Originally on Twitch<br /> 2022.07.25<br /> Mike Kummer vs. Alex Moellering, 2020: E81 King&#039;s Indian, Saemisch, 5...O-O<br /> Kummer vs. Moellering, 2021: E81 King&#039;s Indian, Saemisch, 5...O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mode-autopilot-beginner-breakdown\"><img src=\"h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/mode-autopilot-beginner-breakdown",
          "pubDate" : "Sat, 06 Aug 2022 15:01:17 +0000",
          "title" : "Mode: Autopilot | Beginner Breakdown"
-      },
-      {
-         "description" : "David Howell is about to release his first ever Chessable course Grind Like a Grandmaster. To get you prepared for the full of practical chess insights Grind Like a Grandmaster course, Carlsen and Howell present a free lesson which they managed to pack into just one annotated game Get your free 31 minutes of video []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/david-howell-with-his-first-chessable-course-co-presented-with-magnus-carlsen-free-lesson/",
-         "pubDate" : "Sat, 06 Aug 2022 14:09:36 +0000",
-         "title" : "David Howell with his first Chessable course, co-presented with Magnus Carlsen (FREE lesson)"
-      },
-      {
-         "description" : "GM Sam Shankland yesterday played the illegal move which cost him a loss and the USA team left without an important victory. After moving the King to an attacked square, Shankland was forced to play the legal move with the same piece according to the touch-move rule, and any legal move with the King was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sam-shanklands-reaction-after-illegal-move-which-cost-him-a-loss/",
-         "pubDate" : "Sat, 06 Aug 2022 11:22:47 +0000",
-         "title" : "Sam Shankland's reaction after illegal move which cost him a loss"
       },
       {
          "description" : "Germany beat Serbia in round 7 of the Chess Olympiad, but only after Vincent Keymer successfully defended an imbalanced position against Aleksandar Indjic. Keymer had a queen against Indjic's bishop pair and two dangerous connected passers. Zoran Petronijevic sent us instructive annotations to an intriguing endgame battle! | Photo: Lennart Ootes",
@@ -226,14 +282,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 7"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1905",
-         "pubDate" : "Sat, 06 Aug 2022 01:19:38 +0000",
-         "title" : "Year of the Woman in Chess Awards Granted in Chennai"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-beat-2300-15-moves\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vid",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -264,6 +312,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1904",
          "pubDate" : "Fri, 05 Aug 2022 20:40:19 +0000",
          "title" : "Monaco to host Pool A of Women's Candidates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1905",
+         "pubDate" : "Fri, 05 Aug 2022 18:19:38 +0000",
+         "title" : "Year of the Woman in Chess Awards Granted in Chennai"
       },
       {
          "description" : "",
@@ -432,6 +488,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-caro-kann-advance-variation",
          "pubDate" : "Thu, 04 Aug 2022 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Caro-Kann Advance Variation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1875",
+         "pubDate" : "Thu, 04 Aug 2022 16:45:55 +0000",
+         "title" : "FIDE Congress 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93353085.cms\" />The Indian teams have been at the forefront in the 44th Chess Olympiad thus far with India 'A' at the top of the standings in the women's section and the 'B' team in third position in the Open event after six rounds.",
@@ -1018,14 +1082,6 @@ news_feed (
          "title" : "A Pawn Ending from Kenilworth"
       },
       {
-         "description" : " Current World Champion Magnus Carlsen made his debut against Uruguayand had to play 90 moves to secure the win.Photo by Lennart Ootes 2022 Chess Olympiad: Round #2Saturday, 30 July 2022 Round #2 had a major upset as 73rd-ranked Zambia toppled Denmark, ranked 27th. The Danish team touted four Grandmasters and one International Master as an The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/07/31/2022-chess-olympiad-round-2/\">2022 Chess Olympiad: Round #2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/07/31/2022-chess-olympiad-round-2/",
-         "pubDate" : "Sun, 31 Jul 2022 07:05:25 +0000",
-         "title" : "2022 Chess Olympiad: Round #2"
-      },
-      {
          "description" : " The 2nd day of the Chess Olympiad seemed more hectic than day 1. This was due to the fact that it was the first weekend round, and the venue was swarming with spectators. Outside the entrance to the main playing hall, there were hundreds of autograph hunters, waiting for players to emerge after their games had finished. Inside the hall the number of spectators was also larger, although this didn't cause any significant issues for the players. Day 2 saw a couple of big guns emerge. Magnus Carlsen played his first game, winning against Georg Meier from Uruguay. After his draw yesterday Aronian was rested for Caruana, but is a semi upset, Paraguay scored 1.5 against the top seeded US team. The",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1442,14 +1498,6 @@ news_feed (
          "title" : "A friendly tournament: The Paleochora Open"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93188655.cms\" />Pakistan on Thursday pulled out of the Chess Olympiad being held in Tamil Nadu, prompting India to hit out at the neighbouring country for \"politicising\" the sporting event.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pakistan-pulls-out-of-chess-olympiad-india-hits-out-at-pak-for-politicising-sporting-event/articleshow/93188655.cms",
-         "pubDate" : "Thu, 28 Jul 2022 12:48:43 +0000",
-         "title" : "Pakistan pulls out of Chess Olympiad; India hits out for 'politicising' event"
-      },
-      {
          "description" : "The 44th Chess Olympiad is about to start in Chennai. The main focus will be undoubtedly on the team results, as every match is a joint effort to earn a match victory. However, individual achievements are also highlighted at Chess Olympiads. Let us recall some of the most remarkable individual results at the Chess Olympiads in the 21st century. | Photo: Niklesh Jain (from the 2018 Batumi Olympiad)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1642,28 +1690,12 @@ news_feed (
          "title" : "Jonny Hector wins Swedish National Championship at 58"
       },
       {
-         "description" : "At the European Youth Rapid and Blitz Championships, the German players had a great performance. Tykhon Cherniaiev won two gold medals, Luisa Bashylina one gold and one silver. Ruben K&ouml;llner and Tobias K&ouml;lle also won gold, while Marius Fromm took home a silver medal. | Photos: Dorian Rogozenco",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-youth-rapid-blitz-2022",
-         "pubDate" : "Tue, 26 Jul 2022 10:00:00 +0100",
-         "title" : "Tykhon Cherniaiev among winners at European Youth Rapid & Blitz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1880",
          "pubDate" : "Tue, 26 Jul 2022 08:32:17 +0000",
          "title" : "Zurab Azmaiparashvili reelected as ECU President"
-      },
-      {
-         "description" : "In endgames the last attacking pawn is often worth its weight in gold. In the diagrammed position it is Black to move - can he save a draw and if so, how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-last-pawn",
-         "pubDate" : "Tue, 26 Jul 2022 09:00:00 +0100",
-         "title" : "The last pawn"
       },
       {
          "description" : "A seven-year-old boy&#39;s finger was broken by an automated chess-playing robot during the Moscow Open in a video posted on July 21st. The original video, featured on the Baza channel on Telegram, has circulated on several social media platforms and ...",
@@ -1720,14 +1752,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-croatia-rapid-blitz",
          "pubDate" : "Sun, 24 Jul 2022 21:57:47 +0000",
          "title" : "Magnus Carlsen wins Croatia Rapid & Blitz"
-      },
-      {
-         "description" : "The Rapid Chess Championship presented by Coinbase entered its 22nd week on Sunday and was won by a rampant GM Hikaru Nakamura who toppled GM Fabiano Caruana after winning all of his games en route to his seventh knockout victory. A generational...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-22-nakamura-wins",
-         "pubDate" : "Sun, 24 Jul 2022 14:41:00 -0700",
-         "title" : "Nakamura's 7th Knockout Victory: 'Just Another Day At The Office'"
       },
       {
          "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth Rapid Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-champions-crowned-in-thessaloniki/\">Read More &#187;</a></span>",
