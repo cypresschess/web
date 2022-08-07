@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hans Niemann, ranked sixth in the world for juniors in live ratings, won week 24 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, accomplishing the rare feat of winning both the knockout and Swiss in the same week.&#38;nbsp; GM Je...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-niemann-wins",
+         "pubDate" : "Sun, 07 Aug 2022 16:06:29 -0700",
+         "title" : "World #6 Junior Triumphs in Knockout and Swiss"
+      },
+      {
+         "description" : "This course sounds like the perfect chess instructional advice for heavy metal fans The Iron English: Botvinnik Variation. Fear of the dark? Fear not, as GM Simon Williams will guide you through the depths of the Botvinnik Variation. You only need 7 moves to turn your position into an armor-plated battleship ready for war. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-botvinnik-variation-by-gm-simon-williams/",
+         "pubDate" : "Sun, 07 Aug 2022 22:42:22 +0000",
+         "title" : "English: Botvinnik Variation - by GM Simon Williams"
+      },
+      {
+         "description" : "Javokhir Sindarov and Jakhongir Vakhidov grabbed the wins as Uzbekistan beat Armenia to take over as leaders of the Chennai Olympiad with two rounds to go. They face the teen stars of India 2 in Round 10 after Praggnanandhaa rescued a draw against Azerbaijan. In the Women's event Poland's Oliwia Kiolbasa hit 9/9, gave Poland victory over India, and left a 4-way tie for 1st place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-7-uzbekistan-poland-take-over",
+         "pubDate" : "Sun, 07 Aug 2022 22:22:37 +0000",
+         "title" : "Chennai Olympiad 7: Uzbekistan & Poland take over"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://www.fide.com/news/1908\"><strong>Arkady Dvorkovich</strong> remains <strong>FIDE President</strong> until 2026 with 88% of the vote</a>. Only 16 federations voted for the Russian's only challenger, the Ukrainian GM <strong>Andrii Baryshpolets</strong>. Five federations abstained, one vote was invalid. <strong>Bachar Kouatly</strong> of France withdrew his candidacy just before the vote at the ongoing <strong>FIDE Congress</strong> in Chennai. In case of being sanctioned, Dvorkovich has pledged to step down. His deputy <strong>Vishy Anand</strong> would be interim president until new elections take place within six months. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/157-federations-reelect-russian/",
+         "pubDate" : "Sun, 07 Aug 2022 21:57:05 +0100",
+         "title" : "157 federations reelect Russian leader"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1911",
+         "pubDate" : "Sun, 07 Aug 2022 20:57:02 +0000",
+         "title" : "Checkmate Coronavirus: Vanakkam Chennai!"
+      },
+      {
+         "description" : "Oliwia Kiolbasa&#160;is currently rocking the Women section of the &#160;Chess Olympiad 2022. She has collected 8,0/8 and is going for the fantastic 9,0/9. The game is of high importance for the medals race, as both Poland and India are in contention. All games from the round&#160;live here More about Oliwia Kiolbasa here Round 10 pairings&#xA0;/&#xA0;Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/oliwia-kiolbasa-vaishali-r9-of-chess-olympiad-2022-live/",
+         "pubDate" : "Sun, 07 Aug 2022 20:49:38 +0000",
+         "title" : "Oliwia Kiolbasa - Vaishali, R9 of Chess Olympiad 2022 LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -192,22 +240,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-8.html",
          "pubDate" : "Sun, 07 Aug 2022 03:20:00 +0000",
          "title" : "2022 Chess Olympiad - Day 8"
-      },
-      {
-         "description" : "Arkady Dvorkovich&#160;has been reelected for a second term as President of the International Chess Federation (FIDE) with 157 votes, against 16 for his electoral opponent, the Ukrainian chess Grandmaster&#160;Andrii Baryshpolets. A third candidate, the French&#160;Bachar Kouatly, withdrew his candidacy after giving his speech before the voting started. Five-time World Chess Champion&#160;Viswanathan Anand, who was part []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arkady-dvorkovich-reelected-as-fide-president/",
-         "pubDate" : "Sun, 07 Aug 2022 01:50:00 +0000",
-         "title" : "Arkady Dvorkovich, reelected as FIDE President"
-      },
-      {
-         "description" : "Arkady Dvorkovich&#xA0;is re-elected FIDE President! More than 155 federations voted for&#xA0;Dvorkovich&#x2019;s ticket&#xA0;with Viswanathan Anand as a FIDE Deputy President, Zhu Chen as a FIDE Treasurer, Joran Aulin-Jansson as the FIDE Vice-President and Mahir Mammedov as the FIDE Vice-President. The FIDE Congress is taking place in Chennai, India from 31 July &#x2013; 9 August 2022 as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arkady-dvorkovich-is-re-elected-fide-president/",
-         "pubDate" : "Sun, 07 Aug 2022 01:01:00 +0000",
-         "title" : "Arkady Dvorkovich is re-elected FIDE President"
       },
       {
          "description" : "Gukesh beat Fabiano Caruana as India 2 crushed top seeds USA 3:1 in Round 8 of the Chennai Olympiad. That's 8 wins in 8 games for 16-year-old Gukesh, who's now world no. 20 and Indian no. 2 on the live rating list, while Fabiano crashed out of the Top 10. With 3 rounds to go Armenia remain the team to beat, however, as they kept the sole lead by defeating the Indian 1st team.",
@@ -688,14 +720,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/south-korea-prepares-world-cup-bid/",
          "pubDate" : "Wed, 03 Aug 2022 15:48:53 +0100",
          "title" : "South Korea prepares World Cup bid"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Since the early favourite to host the <strong>Chess Olympiad 2026</strong> India is filling in for the current edition, Uzbekistan is <a href=\"https://yoshlar.gov.uz/en/news/o%E2%80%98zbekiston-butunjahon-shaxmat-olimpiadasi-mezbonligi-uchun-kurashadi/\">expected to be chosen for 2026</a>. Their young team is performing very well so far and will definitely be a medal contender by then. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/tashkent-to-host-2026-olympiad/",
-         "pubDate" : "Wed, 03 Aug 2022 15:46:04 +0100",
-         "title" : "Tashkent to host 2026 Olympiad"
       },
       {
          "description" : " 2022 Chess Olympiad: Round #5 Tuesday, 2 August 2022 INDIA 2 Sitting: Baskaran AdhibanStanding (L-R): Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nihal Sarin Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1746,14 +1770,6 @@ news_feed (
          "title" : "National U-19 Open and Girls Chess Championship Certificates"
       },
       {
-         "description" : "GMs David Paravyan and Nikolas Theodorou were the winners of the seventh and eighth Play-ins of the Chess.com Global Championship.&#38;nbsp;&#38;nbsp; Paravyan and Theodorou advance to the main event along with GMs Gata Kamsky and Jose Martinez, victors...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-2-day-2",
-         "pubDate" : "Mon, 25 Jul 2022 05:17:14 -0700",
-         "title" : "Paravyan, Theodorou Win Chess.com Global Play-Ins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/55th-biel-chess-festival-2022",
          "pubDate" : "Fri, 22 Jul 2022 18:28:00 +0400",
          "title" : "55th Biel Chess Festival 2022 - Games and Results"
-      },
-      {
-         "description" : "India are now 2nd seeds for the Chess Olympiad that starts on July 29th, with Magnus Carlsen's Norway 3rd, after Azerbaijan plunged from 2nd to 6th when Teimour Radjabov dropped out of the team. Vasif Durarbayli criticised his colleague, but Teimour now cites the after-effects of a COVID infection.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/radjabov-withdraws-from-chess-olympiad-india-now-2nd-seeds",
-         "pubDate" : "Fri, 22 Jul 2022 13:37:22 +0000",
-         "title" : "Radjabov withdraws from Chess Olympiad, India 2nd seeds"
       },
       {
          "description" : "National U-17 Open and Girls Chess Championship 2022 Certificates are out to download Links Open :https://aicf.online/National-U(17)-Open.html Girls : https://aicf.online/National-U(17)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com &#160; &#160;",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1868",
          "pubDate" : "Mon, 18 Jul 2022 07:28:11 +0000",
          "title" : "Winners crowned at 2022 U.S. Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1866",
-         "pubDate" : "Sun, 17 Jul 2022 21:47:00 +0000",
-         "title" : "IBCA World Women's and Junior Championships celebrate solidarity in the global Braille family in times of war"
       }
    ]
 }
