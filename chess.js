@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "There are only four days to the end of the Chess Olympiad 2022 in Chennai. To celebrate the occasion, Chessable is having multiple courses on sale with discount. Among those courses, there are two beautiful gems by the World Champion himself The Magnus Touch: Endgame and The Magnus Touch: Chess Strategy. Both courses are []",
+         "description" : "The battle for the medal was all the rage in the ninth round of the Olympiad, played this afternoon at the Sheraton Four Points Convention Center in Mahabalipuram. No team is budging an inch, and the matches are fast and furious. Uzbekistan's young squad, led by teenager Abdusattorov and coached by seasoned Dutch Grand Master []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-report/",
+         "pubDate" : "Sun, 07 Aug 2022 19:17:23 +0000",
+         "title" : "Chess Olympiad 2022 - Round 9 report"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022&#xA0;is seeing a dramatic finish! When it seemed that Armenia and India sail to the Olympic gold of the open and women&#x2019;s sections (respectively), the teams of Uzbekistan and Poland proved them wrong. With a convincing 3-1 victory in the 9th round over Armenia, Uzbekistan overtook the sole leadership of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-pairings/",
+         "pubDate" : "Sun, 07 Aug 2022 18:57:18 +0000",
+         "title" : "Chess Olympiad 2022 - Round 10 pairings"
+      },
+      {
+         "description" : "There are only four days to the end of the Chess Olympiad 2022 in Chennai. To celebrate the occasion, Chessable is having&#160;multiple courses on sale with discount. Among those courses, there are two beautiful gems by the&#160;World Champion&#160;himself &#x2013;&#160;The Magnus Touch: Endgame&#160;and&#160;The Magnus Touch: Chess Strategy. Both courses are authored by Magnus Carlsen in cooperation []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsens-courses-olympiad-sale-at-chessable/",
-         "pubDate" : "Sun, 07 Aug 2022 12:41:35 +0000",
+         "pubDate" : "Sun, 07 Aug 2022 18:55:00 +0000",
          "title" : "Magnus Carlsen's courses - Olympiad sale at Chessable"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1909",
+         "pubDate" : "Sun, 07 Aug 2022 17:36:10 +0000",
+         "title" : "Uzbek kids lead 44th Chess Olympiad"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022&#xA0;is seeing a dramatic finish! When it seemed that Armenia sails to the fourth Olympic gold, the team of Uzbekistan proved different. With a convincing 3-1 victory in the 9th round over Armenia, Uzbekistan overtook the sole leadership of the Open section with the score of 16 match points. (Replay the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-9-open-section/",
+         "pubDate" : "Sun, 07 Aug 2022 16:58:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 9 (open section)"
+      },
+      {
+         "description" : "Inspired by Gukesh's remarkable win over Gabriel Sargissian in round 6 of the Chess Olympiad, star columnist Jon Speelman looked at a few more instances of cross checks and deflections that left a strong aesthetic impression. A beautiful study by the Danish composer Steffen Slumstrup Nielsen is included in the mix. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-175",
+         "pubDate" : "Sun, 07 Aug 2022 17:50:00 +0100",
+         "title" : "Cross checks, deflections and stunning beauty"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93413839.cms\" />For India 2, the ongoing 44th Olympiad, has been all about D Gukesh's splendid run of 8 successive wins. On Sunday, the 16-year-old's win-run came to a close as he drew his 9th round encounter against Azerbaijan's Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-praggnanandhaa-saved-india-2-the-blushes-in-round-9/articleshow/93413839.cms",
+         "pubDate" : "Sun, 07 Aug 2022 16:05:21 +0000",
+         "title" : "Chess Olympiad: Praggnanandhaa saved India 2 the blushes in round 9"
+      },
+      {
+         "description" : " Here's a rook ending from the Chessable English Championships. This is Jacob Watson (1922) Ian Thompson (2074), and we'll pick it up after Black's 66th move. I'm not going to provide a lot of instruction here: I'm not a strong enough player to understand what's happening and all my fairly serious chess was played <a href=\"https://chessimprover.com/a-rook-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Rook Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-rook-ending-from-kenilworth/\">A Rook Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-rook-ending-from-kenilworth/",
+         "pubDate" : "Sun, 07 Aug 2022 15:58:01 +0000",
+         "title" : "A Rook Ending from Kenilworth"
+      },
+      {
+         "description" : "With only two rounds to go, the fight for the&#160;Women&#x2019;s Chess Olympiad&#160;Winner&#x2019;s podium is getting tighter than ever before! Poland defeated India with a narrow 2.5-1.5 victory as the 22-year-old&#160;Oliwia Kiolbasa&#160;scored her ninth consecutive victory(!) defeating IM Vaishali, while the other three games ended in a draw. Kazakhstan and Georgia joined Poland and India in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-9-womens-section/",
+         "pubDate" : "Sun, 07 Aug 2022 15:47:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 9 (women's section)"
+      },
+      {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Bakoly Razafindrabe (Madagascar)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Sun, 07 Aug 2022 13:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
       },
       {
          "description" : "Arkady Dvorkovich has been reelected for a second term as President of the International Chess Federation (FIDE). Five-time World Chess Champion Viswanathan Anand, who was part of Dvorkovich's ticket, is the new FIDE Deputy President. FIDE press release, photo by David Llada",
@@ -26,28 +98,12 @@ news_feed (
          "title" : "Dvorkovich re-elected FIDE President by landslide"
       },
       {
-         "description" : "Tanmay Bhat, the famous Mumbai based Comedian, YouTuber, and Investor, is hailing the performance of Gukesh at the Chess Olympiad in Chennai. Tanmay Bhat says, &#8220;Towering all kings like an ace, remember the name it&#x2019;s Gukesh&#8221; Gukesh currently&#xA0;playing to make that 9,0/9&#xA0;one cannot disagree that Gukesh possesses serious superpowers. All news about Gukesh here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tanmay-bhat-hails-gukesh/",
-         "pubDate" : "Sun, 07 Aug 2022 11:15:25 +0000",
-         "title" : "Tanmay Bhat hails Gukesh"
-      },
-      {
          "description" : "FIDE President Arkady Dvorkovich was re-elected for a second term in the presidential elections during the FIDE Congress in Chennai, India, on Sunday. He received 157 of the votes. The only other remaining candidate, Andrii Baryshpolets, received ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dvorkovich-re-elected-as-fide-president",
          "pubDate" : "Sun, 07 Aug 2022 03:38:00 -0700",
          "title" : "Dvorkovich Re-elected As FIDE President"
-      },
-      {
-         "description" : "Take a look, and then take a look again. &#8220;Gukesh has serious Wolverine vibes,&#8221; says Olimpiu Urcan aka OlimpioDiLuppi. With Gukesh scoring 8,0/8 at the Chess Olympiad and currently playing to make that 9,0/9 one cannot disagree that Gukesh possesses serious superpowers. All news about Gukesh here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-is-the-wolverine-of-chess-tweetoftheday/",
-         "pubDate" : "Sun, 07 Aug 2022 10:27:57 +0000",
-         "title" : "Gukesh is the Wolverine of chess #TweetOftheDay"
       },
       {
          "description" : "Incumbent president Arkady Dvorkovich was re-elected for a second term and Anand was in his team.",
@@ -58,36 +114,12 @@ news_feed (
          "title" : "Chess: Viswanathan Anand elected FIDE deputy president"
       },
       {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Bakoly Razafindrabe (Madagascar)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Sun, 07 Aug 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
-      },
-      {
-         "description" : "Oliwia Kiolbasa is currently rocking the Women section of the &#160;Chess Olympiad 2022. She has collected 8,0/8 and is going for the fantastic 9,0/9. The game is of high importance for the medals race, as both Poland and India are in contention. All games from the round live here More about Oliwia Kiolbasa here &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-vaishali-r9-of-chess-olympiad-2022-live/",
-         "pubDate" : "Sun, 07 Aug 2022 10:13:28 +0000",
-         "title" : "Oliwia Kiolbasa - Vaishali, R9 of Chess Olympiad 2022 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1908",
          "pubDate" : "Sun, 07 Aug 2022 10:08:58 +0000",
          "title" : "Arkady Dvorkovich, reelected as FIDE President"
-      },
-      {
-         "description" : "Having collected 8,0/8, Gukesh is now the second strongest Indian player and has officially entered the world top 20 with live rating 2729 ELO.&#160;Read about D Gukesh scoring 8,0/8 here. Today he is facing Mamedyarov with the white pieces, in an attempt to jump to the incredible 9,0/9 and put India 2 ahead of competition []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-mamedyarov-r9-of-chess-olympiad-2022-live/",
-         "pubDate" : "Sun, 07 Aug 2022 10:05:21 +0000",
-         "title" : "Gukesh - Mamedyarov, R9 of Chess Olympiad 2022 LIVE"
       },
       {
          "description" : " 2022 Chess Olympiad: Round #8 Saturday, 6 August 2022 The plot thickened in round #8. Armenia toppled India 1 on the strength of Gabriel &#8220;Mr. Olympus&#8221; Sargissian. His win over Pentala Harikrishna continued a surprising run at this Olympiad. Perhaps few outside of Armenia would have picked the team vying for a gold medal without The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/07/2022-chess-olympiad-round-8/\">2022 Chess Olympiad: Round #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -114,30 +146,6 @@ news_feed (
          "title" : "Russian official re-elected head of chess body FIDE"
       },
       {
-         "description" : "Arkady Dvorkovich is re-elected FIDE President! More than 155 federations voted for Dvorkovich's ticket with Viswanathan Anand as a FIDE Deputy President, Zhu Chen as a FIDE Treasurer, Joran Aulin-Jansson as the FIDE Vice-President and Mahir Mammedov as the FIDE Vice-President. The FIDE Congress is taking place in Chennai, India from 31 July 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arkady-dvorkovich-is-re-elected-fide-president/",
-         "pubDate" : "Sun, 07 Aug 2022 08:07:02 +0000",
-         "title" : "Arkady Dvorkovich is re-elected FIDE President"
-      },
-      {
-         "description" : "With only three rounds to go at the 2022 Chess Olympiad, Armenia and India successfully keep the sole leadership of the Open and Women's sections (respectively). The top-board encounter of the Open section will be played between Armenia and Uzbekistan, and India plays against Poland in the Women's section. Round 9 board pairings open section []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/round-9-chess-olympiad-live-with-gm-peter-svidler-and-gm-peter-leko/",
-         "pubDate" : "Sun, 07 Aug 2022 07:48:00 +0000",
-         "title" : "Round 9 Chess Olympiad LIVE - with GM Peter Svidler and GM Peter Leko"
-      },
-      {
-         "description" : "FIDE Elections and FIDE General Assembly are taking place in Chennai, India, as part of the Chess Olympiad 2022. During the introduction speeches as the FIDE presidential candidate, Bachar Kouatly announced he is withdrawing his candidacy. BREAKING: Arkady Dvorkovich is re-elected FIDE President",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bachar-kouatly-withdraws-from-the-fide-presidential-elections/",
-         "pubDate" : "Sun, 07 Aug 2022 07:40:00 +0000",
-         "title" : "Bachar Kouatly withdraws from the FIDE presidential elections"
-      },
-      {
          "description" : "With three rounds to go at the Chess Olympiad, Armenia continues to lead the standings in the open section with an undefeated match score. On Saturday, they beat India thanks to a second win in a row for Gabriel Sargissian. The other marquee confrontation of the round saw India 2 shock the US with wins by Gukesh and Raunak. Gukesh defeated Fabiano Caruana to collect his eighth consecutive full point - the 16-year-old is heading for the stars! In the women's event, India conceded its first draw of the event, and now has a 1-point lead over Georgia. | Photo: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,20 +154,12 @@ news_feed (
          "title" : "Chennai R8: Armenia leads, Gukesh beats Caruana"
       },
       {
-         "description" : "With only three rounds left to be played at the 2022 Chess Olympiad in Chennai, Armenia keeps the sole leadership of the Open section with 15 match points. India 2 and Uzbekistan are just behind, scoring 14 match points. Armenia today faces Uzbekistan, with GM Gabriel Sargissian playing against GM Nodirbek Abdusattorov with black pieces, []",
+         "description" : "The Chess Olympiad 2022, the largest team chess championship of the year, is currently going on in Chennai, India. With record breaking numbers , the show of Gukesh and Kiolbasa, with surprising leaders, it is shaping up to be one of the best Olympiads ever. An event of this magnitude is sometimes difficult to follow. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-board-pairings-open-section/",
-         "pubDate" : "Sun, 07 Aug 2022 06:41:37 +0000",
-         "title" : "Chess Olympiad 2022 - Round 9 board pairings (open section)"
-      },
-      {
-         "description" : "After yesterday's draw against Ukraine, India's women's team maintained the sole leadership of the Women's Chess Olympiad 2022 with the score of 15 match points. Georgia is in a clear second place with 14 match points, and Ukraine, Poland, Bulgaria, Kazakhstan and Mongolia are in a tie for the third place with 13 match points, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-board-pairings-womens-section/",
-         "pubDate" : "Sun, 07 Aug 2022 06:25:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 9 board pairings (women's section)"
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-with-bryan-tillis/",
+         "pubDate" : "Sun, 07 Aug 2022 05:39:00 +0000",
+         "title" : "Chess Olympiad 2022 with Bryan Tillis"
       },
       {
          "description" : " Armenia has built their previous Olympiad victories on managing to score a lot of 2.5-1.5 match wins, which is just as good a 4-0 in this kind of team event (tie-break effects non-withstanding). So it wasn't a huge surprise when Armenia did an 'Armenia' and defeated India by this score. Draws on the bottom 3 boards, started the match, before a marathon win on the top board brought home the 2 points. They still lead the tournament by 1 point with 3 rounds to play, but more importantly, they have played India and India 2, plus the USA. They are up against another surprise packet, Uzbekistan, in today's round. The Australian team bounced back with a narrow 2.5-1.5 win over Finland (Armenia sty",
@@ -168,6 +168,30 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-8.html",
          "pubDate" : "Sun, 07 Aug 2022 03:20:00 +0000",
          "title" : "2022 Chess Olympiad - Day 8"
+      },
+      {
+         "description" : "Arkady Dvorkovich&#160;has been reelected for a second term as President of the International Chess Federation (FIDE) with 157 votes, against 16 for his electoral opponent, the Ukrainian chess Grandmaster&#160;Andrii Baryshpolets. A third candidate, the French&#160;Bachar Kouatly, withdrew his candidacy after giving his speech before the voting started. Five-time World Chess Champion&#160;Viswanathan Anand, who was part []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arkady-dvorkovich-reelected-as-fide-president/",
+         "pubDate" : "Sun, 07 Aug 2022 01:50:00 +0000",
+         "title" : "Arkady Dvorkovich, reelected as FIDE President"
+      },
+      {
+         "description" : "Arkady Dvorkovich&#xA0;is re-elected FIDE President! More than 155 federations voted for&#xA0;Dvorkovich&#x2019;s ticket&#xA0;with Viswanathan Anand as a FIDE Deputy President, Zhu Chen as a FIDE Treasurer, Joran Aulin-Jansson as the FIDE Vice-President and Mahir Mammedov as the FIDE Vice-President. The FIDE Congress is taking place in Chennai, India from 31 July &#x2013; 9 August 2022 as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arkady-dvorkovich-is-re-elected-fide-president/",
+         "pubDate" : "Sun, 07 Aug 2022 01:01:00 +0000",
+         "title" : "Arkady Dvorkovich is re-elected FIDE President"
+      },
+      {
+         "description" : "In a fitting end to the season, Stockfish once again defeated its rivals to win the final event the Fischer Random Chess final, thus completing a quadruple crown at the Top Chess Engine Championship! The four titles of Stockfish:&#160;Stockfish wins TCEC League&#160;/&#160;Stockfish wins TCEC Cup&#160;/&#160;Stockfish wins TCEC Swiss / Stockfish wins TCEC Fischer random []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-tcec-fischer-random-chess-final-to-cap-quadruple-crown/",
+         "pubDate" : "Sun, 07 Aug 2022 01:01:00 +0000",
+         "title" : "Stockfish wins TCEC Fischer Random Chess final to cap quadruple crown"
       },
       {
          "description" : "Gukesh beat Fabiano Caruana as India 2 crushed top seeds USA 3:1 in Round 8 of the Chennai Olympiad. That's 8 wins in 8 games for 16-year-old Gukesh, who's now world no. 20 and Indian no. 2 on the live rating list, while Fabiano crashed out of the Top 10. With 3 rounds to go Armenia remain the team to beat, however, as they kept the sole lead by defeating the Indian 1st team.",
@@ -216,6 +240,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-swiss",
          "pubDate" : "Sat, 06 Aug 2022 13:19:19 -0700",
          "title" : "Niemann Wins Week 24 Swiss: Summary Report"
+      },
+      {
+         "description" : "The 8th round of the&#xA0;44th Chess Olympiad 2022&#xA0;saw many exciting games and, with only 3 rounds to go, Armenia kept the sole leadership in the event.&#xA0;India maintained the sole leadership in the Women's tournament with 15 match points, while Georgia emerged on the clear second place with 14 match points after a convincing 3.5-0.5 victory []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-pairings/",
+         "pubDate" : "Sat, 06 Aug 2022 18:31:32 +0000",
+         "title" : "Chess Olympiad 2022 - Round 9 pairings"
       },
       {
          "description" : "",
@@ -1490,14 +1522,6 @@ news_feed (
          "title" : "Chess Olympiad: India A women to play with black pieces in 1st round"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93193449.cms\" />The prevailing cross-border tension ended Pakistan chess team's campaign even before it started as the players are due to return on Thursday night after a last-minute pull out from the 44th Olympiad. Pakistan withdrew from the prestigious event, citing the torch relay of the event passing through Jammu and Kashmir, which neighbouring country views as a disputed area.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pakistani-players-to-leave-tonight-after-last-minute-pullout-from-chess-olympiad/articleshow/93193449.cms",
-         "pubDate" : "Thu, 28 Jul 2022 15:14:22 +0000",
-         "title" : "Pakistani players to leave tonight after last-minute pullout from Olympiad"
-      },
-      {
          "description" : "The 15th edition of the Paleochora Open took place from the 17th to the 24th July on Crete. It is a tournament with a special atmosphere, which is one of the reasons why Irina Bulmaga likes to return to play in the small town which is about 70 km south of Chania. The Romanian IM and WGM reports from this year's open.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1688,14 +1712,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/26/ep-289-tony-ballard-a-convicted-felon-on-how-chess-has-changed-his-life",
          "pubDate" : "Tue, 26 Jul 2022 12:25:09 +0000",
          "title" : "EP 289- Tony Ballard- A Convicted Felon on How Chess has Changed His Life "
-      },
-      {
-         "description" : "At the start of the month, the Swedish National Championships took place in Uppsala (photo), which are traditionally held as a big festival with tournaments in different categories. The main event was won by Jonny Hector, who at 58 grabbed his second national title, twenty years after having won his first title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jonny-hector-wins-swedish-championship",
-         "pubDate" : "Tue, 26 Jul 2022 13:10:00 +0100",
-         "title" : "Jonny Hector wins Swedish National Championship at 58"
       },
       {
          "description" : "",
@@ -2112,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1866",
          "pubDate" : "Sun, 17 Jul 2022 21:47:00 +0000",
          "title" : "IBCA World Women's and Junior Championships celebrate solidarity in the global Braille family in times of war"
-      },
-      {
-         "description" : " Chess Tactics for Heroes is part of a series of books providing coaching materials for anyone teaching students from, say, 500 to 1500 strength. They can also be used as course books by independent learners. As you might guess, this book is about winning pieces. There are, in very simple terms, two ways you can <a href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Tactics for Heroes Revisited\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-tactics-for-heroes-revisited/\">Chess Tactics for Heroes Revisited</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-tactics-for-heroes-revisited/",
-         "pubDate" : "Sun, 17 Jul 2022 17:18:15 +0000",
-         "title" : "Chess Tactics for Heroes Revisited"
       }
    ]
 }
