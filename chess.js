@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1910",
+         "pubDate" : "Sun, 07 Aug 2022 20:03:54 +0000",
+         "title" : "Women's Olympiad: Four-way tie on the top with two rounds to go"
+      },
+      {
+         "description" : "A total of 21 players have achieved conditional Women FIDE-Master titles at the&#xA0;Chess Olympiad 2022. For a direct title to be awarded immediately an applicant has to have achieved at some time a minimum rating of 1900. More players have the chance to achieve the title in the next rounds. See the&#xA0;Round 10 pairings&#xA0;as well []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wfm-titles-at-the-chess-olympiad/",
+         "pubDate" : "Sun, 07 Aug 2022 19:49:15 +0000",
+         "title" : "WFM titles at the Chess Olympiad"
+      },
+      {
+         "description" : "A total of 17 players have achieved conditional FIDE-Master titles at the Chess Olympiad 2022. For a direct title to be awarded immediately an applicant has to have achieved at some time a minimum rating of 2100. More players have the chance to achieve the title in the next rounds. See the Round 10 pairings&#xA0;as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-master-titles-at-the-chess-olympiad/",
+         "pubDate" : "Sun, 07 Aug 2022 19:34:32 +0000",
+         "title" : "FIDE Master titles at the Chess Olympiad"
+      },
+      {
          "description" : "The battle for the medal was all the rage in the ninth round of the Olympiad, played this afternoon at the Sheraton Four Points Convention Center in Mahabalipuram. No team is budging an inch, and the matches are fast and furious. Uzbekistan's young squad, led by teenager Abdusattorov and coached by seasoned Dutch Grand Master []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -186,14 +210,6 @@ news_feed (
          "title" : "Arkady Dvorkovich is re-elected FIDE President"
       },
       {
-         "description" : "In a fitting end to the season, Stockfish once again defeated its rivals to win the final event the Fischer Random Chess final, thus completing a quadruple crown at the Top Chess Engine Championship! The four titles of Stockfish:&#160;Stockfish wins TCEC League&#160;/&#160;Stockfish wins TCEC Cup&#160;/&#160;Stockfish wins TCEC Swiss / Stockfish wins TCEC Fischer random []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-tcec-fischer-random-chess-final-to-cap-quadruple-crown/",
-         "pubDate" : "Sun, 07 Aug 2022 01:01:00 +0000",
-         "title" : "Stockfish wins TCEC Fischer Random Chess final to cap quadruple crown"
-      },
-      {
          "description" : "Gukesh beat Fabiano Caruana as India 2 crushed top seeds USA 3:1 in Round 8 of the Chennai Olympiad. That's 8 wins in 8 games for 16-year-old Gukesh, who's now world no. 20 and Indian no. 2 on the live rating list, while Fabiano crashed out of the Top 10. With 3 rounds to go Armenia remain the team to beat, however, as they kept the sole lead by defeating the Indian 1st team.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-swiss",
          "pubDate" : "Sat, 06 Aug 2022 13:19:19 -0700",
          "title" : "Niemann Wins Week 24 Swiss: Summary Report"
-      },
-      {
-         "description" : "The 8th round of the&#xA0;44th Chess Olympiad 2022&#xA0;saw many exciting games and, with only 3 rounds to go, Armenia kept the sole leadership in the event.&#xA0;India maintained the sole leadership in the Women's tournament with 15 match points, while Georgia emerged on the clear second place with 14 match points after a convincing 3.5-0.5 victory []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-pairings/",
-         "pubDate" : "Sat, 06 Aug 2022 18:31:32 +0000",
-         "title" : "Chess Olympiad 2022 - Round 9 pairings"
       },
       {
          "description" : "",
