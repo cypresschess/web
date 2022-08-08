@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbekistan defeated the former leaders from Armenia to take the sole lead in the open section of the Olympiad in Chennai. The Uzbek team, led by Nodirbek Abdusattorov, will face India 2 on Monday, with Abdusattorov facing Gukesh in a much-anticipated battle of rising stars. Meanwhile, in the women's section, Poland inflicted India's first loss of the event, as Oliwia Kiolbasa scored her ninth victory in a row! | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r9",
+         "pubDate" : "Mon, 08 Aug 2022 08:15:00 +0100",
+         "title" : "Chennai R9: Uzbekistan grabs the lead, Kiolbasa on 9 out of 9"
+      },
+      {
+         "description" : "Randy Bauer is the newly elected US Chess President. &#8220;The US chess mission is to empower people, enhance lives, and enrich communities through chess. And that's what we are focused on through tournaments, working with kids and other groups. That's how we bring chess to the people in the US and that's where I []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/randy-bauer-is-the-new-us-chess-president/",
+         "pubDate" : "Mon, 08 Aug 2022 06:12:27 +0000",
+         "title" : "Randy Bauer is the new US Chess President"
+      },
+      {
          "description" : " With 2 rounds to play, Uzbekistan has taken the lead in the 2022 Chess Olympiad Open section, after beating previous leaders Armenia 3-1. The young Uzbek team hold a 1 point lead over Armenia, and India 2. Today's round will see India 2 and Uzbekistan play on the top board, with Armenia facing Azerbaijan. Australia went down narrowly to Ukraine 2.5-1.5, although the Australian's had better chances in 2 of the drawn games. Australia plays Albania this round, in a match they are favoured to win. New Zealand scored a win over Sao Tome to reacj 10 points, with Daniel Gong improving his score to 6/8 and giving him a good chance to earn an IM norm. Papua New Guinea scored a 3.5-0.5 win over Laos,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -37,9 +53,9 @@ news_feed (
          "description" : "Javokhir Sindarov and Jakhongir Vakhidov grabbed the wins as Uzbekistan beat Armenia to take over as leaders of the Chennai Olympiad with two rounds to go. They face the teen stars of India 2 in Round 10 after Praggnanandhaa rescued a draw against Azerbaijan. In the Women's event Poland's Oliwia Kiolbasa hit 9/9, gave Poland victory over India, and left a 4-way tie for 1st place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-7-uzbekistan-poland-take-over",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-9-uzbekistan-poland-take-over",
          "pubDate" : "Sun, 07 Aug 2022 22:22:37 +0000",
-         "title" : "Chennai Olympiad 7: Uzbekistan & Poland take over"
+         "title" : "Chennai Olympiad 9: Uzbekistan & Poland take over"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://www.fide.com/news/1908\"><strong>Arkady Dvorkovich</strong> remains <strong>FIDE President</strong> until 2026 with 88% of the vote</a>. Only 16 federations voted for the Russian's only challenger, the Ukrainian GM <strong>Andrii Baryshpolets</strong>. Five federations abstained, one vote was invalid. <strong>Bachar Kouatly</strong> of France withdrew his candidacy just before the vote at the ongoing <strong>FIDE Congress</strong> in Chennai. In case of being sanctioned, Dvorkovich has pledged to step down. His deputy <strong>Vishy Anand</strong> would be interim president until new elections take place within six months. </div> ",
@@ -194,14 +210,6 @@ news_feed (
          "title" : "Chess: Viswanathan Anand elected FIDE deputy president"
       },
       {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Bakoly Razafindrabe (Madagascar)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Sun, 07 Aug 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -240,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r8",
          "pubDate" : "Sun, 07 Aug 2022 08:05:00 +0100",
          "title" : "Chennai R8: Armenia leads, Gukesh beats Caruana"
-      },
-      {
-         "description" : "The Chess Olympiad 2022, the largest team chess championship of the year, is currently going on in Chennai, India. With record breaking numbers , the show of Gukesh and Kiolbasa, with surprising leaders, it is shaping up to be one of the best Olympiads ever. An event of this magnitude is sometimes difficult to follow. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-with-bryan-tillis/",
-         "pubDate" : "Sun, 07 Aug 2022 05:39:00 +0000",
-         "title" : "Chess Olympiad 2022 with Bryan Tillis"
       },
       {
          "description" : " Armenia has built their previous Olympiad victories on managing to score a lot of 2.5-1.5 match wins, which is just as good a 4-0 in this kind of team event (tie-break effects non-withstanding). So it wasn't a huge surprise when Armenia did an 'Armenia' and defeated India by this score. Draws on the bottom 3 boards, started the match, before a marathon win on the top board brought home the 2 points. They still lead the tournament by 1 point with 3 rounds to play, but more importantly, they have played India and India 2, plus the USA. They are up against another surprise packet, Uzbekistan, in today's round. The Australian team bounced back with a narrow 2.5-1.5 win over Finland (Armenia sty",
@@ -1762,6 +1762,14 @@ news_feed (
          "title" : "EP 289- Tony Ballard- A Convicted Felon on How Chess has Changed His Life "
       },
       {
+         "description" : "At the start of the month, the Swedish National Championships took place in Uppsala (photo), which are traditionally held as a big festival with tournaments in different categories. The main event was won by Jonny Hector, who at 58 grabbed his second national title, twenty years after having won his first title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jonny-hector-wins-swedish-championship",
+         "pubDate" : "Tue, 26 Jul 2022 13:10:00 +0100",
+         "title" : "Jonny Hector wins Swedish National Championship at 58"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2098,14 +2106,6 @@ news_feed (
          "title" : "Jerguš Pech&aacute;č awarded the Gligoric Trophy"
       },
       {
-         "description" : "What, you may well ask, is the 'Two Plus Club'? Is this some country club for lonelyhearts, or something of that ilk? Nothing like that. By winning the Candidates tournament for the second straight time, and thus qualifying himself for a second shot at the World title, Ian Nepomniachtchi has joined a very exclusive group of repeat challengers. Let's take a look at who they are. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nepo-joins-the-elite-two-plus-club",
-         "pubDate" : "Mon, 18 Jul 2022 19:30:00 +0100",
-         "title" : "Nepo joins the elite Two Plus Club"
-      },
-      {
          "description" : " The details of the 2022 Asian Youth Championship have been announced, and is what will surely be a popular venue for Australian players, Bali is the host. It runs from the 13th - 22nd October and has sections for U18,16,14,12,10, and U8 (Open and Girls). As with all continental junior events, there are FIDE titles on offer for the winners and place getters, as well as medals. Given the cost of airfares between Australia and Bali, this may be one Asian event where a large number of Australian players take part. Further details can be found at the event website <a data-saferedirecturl=\"https://www.google.com/url?q=https://asianyouth2022bali.com/&amp;source=gmail&amp;ust=1658227594551000&amp;u",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1867",
          "pubDate" : "Mon, 18 Jul 2022 08:46:47 +0000",
          "title" : "Levon Aronian seals FTX Road to Miami title win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1868",
-         "pubDate" : "Mon, 18 Jul 2022 07:28:11 +0000",
-         "title" : "Winners crowned at 2022 U.S. Championships"
       }
    ]
 }
