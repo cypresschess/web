@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Trust announces support for Ukrainian chess players click here for further details",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-trust-support-for-ukrainian-chess-players/",
+         "pubDate" : "Mon, 08 Aug 2022 11:05:18 +0000",
+         "title" : "Chess Trust - support for Ukrainian chess players"
+      },
+      {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Anna Cramling (Sweden)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Mon, 08 Aug 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
+      },
+      {
+         "description" : "The glamorous H&#xF4;tel Hermitage Monte-Carlo will host the Pool A of the Women's Candidates tournament, organized by the Monaco Chess Federation, from October 24 to November 6. Read more: Women&#x2019;s Candidates Chess Tournament 2022/23 &#x2013; The new system, Pools &#38; Participants list This bracket will see the clash between&#160;Humpy Koneru&#160;and&#160;Anna Muzychuk&#160;(first Quarter-Final), and&#160;Lei Tingjie&#160;and&#160;Mariya Muzychuk&#160;in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-2022-pool-a-to-take-place-in-monaco/",
+         "pubDate" : "Mon, 08 Aug 2022 09:10:35 +0000",
+         "title" : "Women's Candidates 2022 - Pool A to take place in Monaco"
+      },
+      {
+         "description" : "Uzbekistan is going to be the venue of the Chess Olympiad 2026. Tashkent or Samarkand will be host city of the Chess Olympiad. Uzbekistan will host a chess event of this size for the first time. In 2024, the World Chess Olympiad will be held in Budapest (Hungary). Stay tuned for more on the Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2026-is-in-uzbekistan/",
+         "pubDate" : "Mon, 08 Aug 2022 08:53:07 +0000",
+         "title" : "Chess Olympiad 2026 is in Uzbekistan"
+      },
+      {
+         "description" : "The 10th penultimate round brings the top-board open section encounter between India2 and Uzbekistan, while the four leaders of the Women&#x2019;s section play against each other with India vs Kazakhstan on the top-board, and Georgia vs Poland next to them.&#xA0;Here are Round 10 team pairings of both events In the open section of the Olympiad, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-abdusattorov-live/",
+         "pubDate" : "Mon, 08 Aug 2022 08:44:54 +0000",
+         "title" : "Gukesh - Abdusattorov , Chess Olympiad 2022 LIVE"
+      },
+      {
+         "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-chess-championships-2022-for-open-girls-under-20-to-be-held-at-sardinia-italy-from-october-11-to-23-2022/",
+         "pubDate" : "Mon, 08 Aug 2022 08:11:25 +0000",
+         "title" : "Fide World Junior Chess Championships 2022 (for Open & Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022."
+      },
+      {
+         "description" : "The 10th penultimate round brings the top-board open section encounter between India2 and Uzbekistan, while the four leaders of the Women&#x2019;s section play against each other with India vs Kazakhstan on the top-board, and Georgia vs Poland next to them.&#xA0;Here are Round 10 team pairings of both events In the open section of the Olympiad, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-board-pairings-open-section/",
+         "pubDate" : "Mon, 08 Aug 2022 07:40:19 +0000",
+         "title" : "Chess Olympiad 2022 - Round 10 board pairings (open section)"
+      },
+      {
+         "description" : "With four teams tying for the top of the Women's Chess Olympiad and only two rounds to go, the 10th penultimate round might be decisive for the determination of the Medalists. India plays Kazakhstan on the top board of the women's event, and Georgia meets Poland, playing next to them. Round 9 report / Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-board-pairings-womens-section/",
+         "pubDate" : "Mon, 08 Aug 2022 07:30:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 10 board pairings (women's section)"
+      },
+      {
          "description" : "Uzbekistan defeated the former leaders from Armenia to take the sole lead in the open section of the Olympiad in Chennai. The Uzbek team, led by Nodirbek Abdusattorov, will face India 2 on Monday, with Abdusattorov facing Gukesh in a much-anticipated battle of rising stars. Meanwhile, in the women's section, Poland inflicted India's first loss of the event, as Oliwia Kiolbasa scored her ninth victory in a row! | Photo: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,44 +170,12 @@ news_feed (
          "title" : "FIDE Master titles at the Chess Olympiad"
       },
       {
-         "description" : "The battle for the medal was all the rage in the ninth round of the Olympiad, played this afternoon at the Sheraton Four Points Convention Center in Mahabalipuram. No team is budging an inch, and the matches are fast and furious. Uzbekistan's young squad, led by teenager Abdusattorov and coached by seasoned Dutch Grand Master []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-9-report/",
-         "pubDate" : "Sun, 07 Aug 2022 19:17:23 +0000",
-         "title" : "Chess Olympiad 2022 - Round 9 report"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022&#xA0;is seeing a dramatic finish! When it seemed that Armenia and India sail to the Olympic gold of the open and women&#x2019;s sections (respectively), the teams of Uzbekistan and Poland proved them wrong. With a convincing 3-1 victory in the 9th round over Armenia, Uzbekistan overtook the sole leadership of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-pairings/",
-         "pubDate" : "Sun, 07 Aug 2022 18:57:18 +0000",
-         "title" : "Chess Olympiad 2022 - Round 10 pairings"
-      },
-      {
-         "description" : "There are only four days to the end of the Chess Olympiad 2022 in Chennai. To celebrate the occasion, Chessable is having&#160;multiple courses on sale with discount. Among those courses, there are two beautiful gems by the&#160;World Champion&#160;himself &#x2013;&#160;The Magnus Touch: Endgame&#160;and&#160;The Magnus Touch: Chess Strategy. Both courses are authored by Magnus Carlsen in cooperation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsens-courses-olympiad-sale-at-chessable/",
-         "pubDate" : "Sun, 07 Aug 2022 18:55:00 +0000",
-         "title" : "Magnus Carlsen's courses - Olympiad sale at Chessable"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1909",
          "pubDate" : "Sun, 07 Aug 2022 17:36:10 +0000",
          "title" : "Uzbek kids lead 44th Chess Olympiad"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022&#xA0;is seeing a dramatic finish! When it seemed that Armenia sails to the fourth Olympic gold, the team of Uzbekistan proved different. With a convincing 3-1 victory in the 9th round over Armenia, Uzbekistan overtook the sole leadership of the Open section with the score of 16 match points. (Replay the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-9-open-section/",
-         "pubDate" : "Sun, 07 Aug 2022 16:58:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 9 (open section)"
       },
       {
          "description" : "Inspired by Gukesh's remarkable win over Gabriel Sargissian in round 6 of the Chess Olympiad, star columnist Jon Speelman looked at a few more instances of cross checks and deflections that left a strong aesthetic impression. A beautiful study by the Danish composer Steffen Slumstrup Nielsen is included in the mix. | Photo: Stev Bonhage",
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-rook-ending-from-kenilworth/",
          "pubDate" : "Sun, 07 Aug 2022 15:58:01 +0000",
          "title" : "A Rook Ending from Kenilworth"
-      },
-      {
-         "description" : "With only two rounds to go, the fight for the&#160;Women&#x2019;s Chess Olympiad&#160;Winner&#x2019;s podium is getting tighter than ever before! Poland defeated India with a narrow 2.5-1.5 victory as the 22-year-old&#160;Oliwia Kiolbasa&#160;scored her ninth consecutive victory(!) defeating IM Vaishali, while the other three games ended in a draw. Kazakhstan and Georgia joined Poland and India in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-9-womens-section/",
-         "pubDate" : "Sun, 07 Aug 2022 15:47:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 9 (women's section)"
       },
       {
          "description" : "Arkady Dvorkovich has been reelected for a second term as President of the International Chess Federation (FIDE). Five-time World Chess Champion Viswanathan Anand, who was part of Dvorkovich's ticket, is the new FIDE Deputy President. FIDE press release, photo by David Llada",
@@ -1762,14 +1786,6 @@ news_feed (
          "title" : "EP 289- Tony Ballard- A Convicted Felon on How Chess has Changed His Life "
       },
       {
-         "description" : "At the start of the month, the Swedish National Championships took place in Uppsala (photo), which are traditionally held as a big festival with tournaments in different categories. The main event was won by Jonny Hector, who at 58 grabbed his second national title, twenty years after having won his first title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jonny-hector-wins-swedish-championship",
-         "pubDate" : "Tue, 26 Jul 2022 13:10:00 +0100",
-         "title" : "Jonny Hector wins Swedish National Championship at 58"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://aicf.in/national-school-u-17-open-and-girls-chess-championship-certificates/",
          "pubDate" : "Mon, 18 Jul 2022 11:33:49 +0000",
          "title" : "National School U-17 Open and Girls Chess Championship Certificates"
-      },
-      {
-         "description" : "National School U-15 Open and Girls Chess Championship Certificates are out to Download Links : Open : https://aicf.online/National-School-U(15)-Open.html Girls : https://aicf.online/National-School-U(15)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-u-15-open-and-girls-chess-championship-certificates/",
-         "pubDate" : "Mon, 18 Jul 2022 11:28:23 +0000",
-         "title" : "National School U-15 Open and Girls Chess Championship Certificates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1867",
-         "pubDate" : "Mon, 18 Jul 2022 08:46:47 +0000",
-         "title" : "Levon Aronian seals FTX Road to Miami title win"
       }
    ]
 }
