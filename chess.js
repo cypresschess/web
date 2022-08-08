@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With 2 rounds to play, Uzbekistan has taken the lead in the 2022 Chess Olympiad Open section, after beating previous leaders Armenia 3-1. The young Uzbek team hold a 1 point lead over Armenia, and India 2. Today's round will see India 2 and Uzbekistan play on the top board, with Armenia facing Azerbaijan. Australia went down narrowly to Ukraine 2.5-1.5, although the Australian's had better chances in 2 of the drawn games. Australia plays Albania this round, in a match they are favoured to win. New Zealand scored a win over Sao Tome to reacj 10 points, with Daniel Gong improving his score to 6/8 and giving him a good chance to earn an IM norm. Papua New Guinea scored a 3.5-0.5 win over Laos,",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-9.html",
+         "pubDate" : "Mon, 08 Aug 2022 03:08:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 9"
+      },
+      {
+         "description" : "The 14th-seeded young Uzbekistan team with an average age of 20 prevailed over the overnight leader, 12th-seeded Armenia, by a strong 3-1 score to jump into sole lead with 16 match points at the end of the ninth round of the 44th FIDE Chess Olympi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-9",
+         "pubDate" : "Sun, 07 Aug 2022 16:37:00 -0700",
+         "title" : "Uzbekistan Jumps To Lead In Open; Four Share Lead In Women's; Kiolbasa Advances To 9/9"
+      },
+      {
          "description" : "GM Hans Niemann, ranked sixth in the world for juniors in live ratings, won week 24 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, accomplishing the rare feat of winning both the knockout and Swiss in the same week.&#38;nbsp; GM Je...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-niemann-wins",
-         "pubDate" : "Sun, 07 Aug 2022 16:06:29 -0700",
-         "title" : "World #6 Junior Triumphs in Knockout and Swiss"
+         "pubDate" : "Sun, 07 Aug 2022 16:06:00 -0700",
+         "title" : "World No. 6 Junior Triumphs in Knockout and Swiss"
       },
       {
          "description" : "This course sounds like the perfect chess instructional advice for heavy metal fans The Iron English: Botvinnik Variation. Fear of the dark? Fear not, as GM Simon Williams will guide you through the depths of the Botvinnik Variation. You only need 7 moves to turn your position into an armor-plated battleship ready for war. []",
@@ -146,14 +162,6 @@ news_feed (
          "title" : "Results - Chess Olympiad 2022 round 9 (women's section)"
       },
       {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Bakoly Razafindrabe (Madagascar)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Sun, 07 Aug 2022 13:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
-      },
-      {
          "description" : "Arkady Dvorkovich has been reelected for a second term as President of the International Chess Federation (FIDE). Five-time World Chess Champion Viswanathan Anand, who was part of Dvorkovich's ticket, is the new FIDE Deputy President. FIDE press release, photo by David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,6 +192,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34361833/chess-viswanathan-anand-fide-deputy-president?device=featurephone",
          "pubDate" : "Sun, 7 Aug 2022 05:25:53 -0500",
          "title" : "Chess: Viswanathan Anand elected FIDE deputy president"
+      },
+      {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Bakoly Razafindrabe (Madagascar)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Sun, 07 Aug 2022 11:25:00 +0100",
+         "title" : "Chennai Olympiad: Live!"
       },
       {
          "description" : "",
@@ -1752,14 +1768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1880",
          "pubDate" : "Tue, 26 Jul 2022 08:32:17 +0000",
          "title" : "Zurab Azmaiparashvili reelected as ECU President"
-      },
-      {
-         "description" : "A seven-year-old boy&#39;s finger was broken by an automated chess-playing robot during the Moscow Open in a video posted on July 21st. The original video, featured on the Baza channel on Telegram, has circulated on several social media platforms and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/7-year-olds-finger-broken-by-chess-playing-robot",
-         "pubDate" : "Mon, 25 Jul 2022 10:33:00 -0700",
-         "title" : "7-Year-Old's Finger Broken By Chess-playing Robot"
       },
       {
          "description" : "National U-19 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-U(19)-Open.html Girls : https://aicf.online/National-U(19)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com ",
