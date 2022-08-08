@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93436589.cms\" />Indian chess legend Viswanathan Anand, who has been elected deputy president of FIDE, on Monday said it is time to do more for the sport in the country.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/time-to-do-more-for-chess-in-india-says-new-fide-deputy-president-viswanathan-anand/articleshow/93436589.cms",
+         "pubDate" : "Mon, 08 Aug 2022 15:11:09 +0000",
+         "title" : "Time to do more for chess in India, says new FIDE deputy president Anand"
+      },
+      {
+         "description" : "Good luck to all of the entrants to the British Chess Championships. If you have any questions or last minute changes to your entry over...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-championships-notice-events-start-on-monday-8th-august/",
+         "pubDate" : "Mon, 08 Aug 2022 14:00:41 +0000",
+         "title" : "British Championships Notice - events underway 8/8/22"
+      },
+      {
+         "description" : " A triumphant Arkady Dvorkovich acknowledges victory as Deputy President Viswanathan Anand looks on. Photo by David Llada. Arkady Dvorkovich was reelected at the FIDE General Assembly by an overwhelming electoral vote of 157-16 over competitor Anrdii Baryshpolets. This was after the surprising withdrawal of the Bachar Kouatly and Ian Wilkinson, a ticket that had garnered The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/dvorkovich-reelected-fide-president/\">Dvorkovich reelected FIDE President!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/08/dvorkovich-reelected-fide-president/",
+         "pubDate" : "Mon, 08 Aug 2022 12:55:19 +0000",
+         "title" : "Dvorkovich reelected FIDE President!"
+      },
+      {
+         "description" : "For the 2022/23 Fantasy Premier League why don't you join &#8216;Premier Chess' the number one league for chess players? Joining the league couldn't be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2022/",
+         "pubDate" : "Mon, 08 Aug 2022 12:26:14 +0000",
+         "title" : "Premier League Fantasy Football 2022"
+      },
+      {
+         "description" : "Congratulations to Shohreh Bayat who was the recipient of the award of Outstanding Chess Arbiter from Europe at Year of the Woman in Chess Awards....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/outstanding-chess-arbiter-from-europe-shohreh-bayat/",
+         "pubDate" : "Mon, 08 Aug 2022 11:58:05 +0000",
+         "title" : "Outstanding Chess Arbiter from Europe - Shohreh Bayat"
+      },
+      {
          "description" : "The Chess Trust announces support for Ukrainian chess players click here for further details",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -530,14 +570,6 @@ news_feed (
          "title" : "Bonus Pod - Dispatches from the Chennai Olympiad with GM Axel Bachmann and Mr. Dodgy of Chessable"
       },
       {
-         "description" : "This year's British Championship events start on Monday 8th August with Round 1 of the Junior Championships, the Seniors 50+ Championship, and the Week 1...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-championships-notice-events-start-on-monday-8th-august/",
-         "pubDate" : "Fri, 05 Aug 2022 13:36:41 +0000",
-         "title" : "British Championships Notice - events start on Monday 8th August"
-      },
-      {
          "description" : "The young Indian Gukesh is one of the stars of the Chess Olympiad 2022 in Chennai. In the first six rounds he won all of his games, which adds up to an Elo-performance of 3329. But Gukesh is not the only player who started with 6 out of 6 in Chennai. Oliwia Kiolbasa from Poland (pictured) and the young FM Kazybek Nogerbek from Kazakhstan also achieved this feat. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1058,14 +1090,6 @@ news_feed (
          "title" : "Endgames from Chennai (2)"
       },
       {
-         "description" : " Round #3 in the massive Mahabalipuram Resort &#38; Convention CenterPhoto by Mark Livshitz 2022 Chess Olympiad: Round #3Sunday, 31 July 2022 Round #3 had a few upsets with Norway going down and Magnus Carlsen being held by Italy's Daniele Vocaturo. Carlsen essayed the Caro-Kann simply looking for a position he could play. Vocaturo played the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/\">2022 Chess Olympiad: Round #3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/01/2022-chess-olympiad-round-3/",
-         "pubDate" : "Mon, 01 Aug 2022 14:02:05 +0000",
-         "title" : "2022 Chess Olympiad: Round #3"
-      },
-      {
          "description" : "ChessBase Magazine Extra #208 offers, among other things, almost an hour of video training: Ivan Sokolov presents 6.g3 as a surprise weapon against the Sicilian Four Knights. And Nico Zwirs examines the move 5...b5 in the Vienna Variation of the Queen's Gambit - an absolutely fashionable variation that leads to very dynamic play! \"The brilliancy\" is contributed by David Navara, who highlights his Black win with the Berlin Defense against Alexei Shirov. In addition, the \"Lucky bag\" with 59 annotated games - including contributions from Anish Giri and Kirill Shevchenko - holds a colorful mix of analyses and suggestions. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1584,14 +1608,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
          "pubDate" : "Thu, 28 Jul 2022 20:57:00 +0400",
          "title" : "44th World Chess Olympiad 2022 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93194407.cms\" />The India 'A' team, the top-seed in the women's event, will play with black pieces in the opening round of the 44th Chess Olympiad on Friday. The draw of lots for the opening round to choose the colour for the top-ranked teams was done by Prime Minister Narendra Modi, who declared the event open at a grand ceremony on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-a-women-to-play-with-black-pieces-in-1st-round/articleshow/93194407.cms",
-         "pubDate" : "Thu, 28 Jul 2022 16:32:27 +0000",
-         "title" : "Chess Olympiad: India A women to play with black pieces in 1st round"
       },
       {
          "description" : "The 15th edition of the Paleochora Open took place from the 17th to the 24th July on Crete. It is a tournament with a special atmosphere, which is one of the reasons why Irina Bulmaga likes to return to play in the small town which is about 70 km south of Chania. The Romanian IM and WGM reports from this year's open.",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1870",
          "pubDate" : "Mon, 18 Jul 2022 20:11:36 +0000",
          "title" : "Jerguš Pech&aacute;č awarded the Gligoric Trophy"
-      },
-      {
-         "description" : " The details of the 2022 Asian Youth Championship have been announced, and is what will surely be a popular venue for Australian players, Bali is the host. It runs from the 13th - 22nd October and has sections for U18,16,14,12,10, and U8 (Open and Girls). As with all continental junior events, there are FIDE titles on offer for the winners and place getters, as well as medals. Given the cost of airfares between Australia and Bali, this may be one Asian event where a large number of Australian players take part. Further details can be found at the event website <a data-saferedirecturl=\"https://www.google.com/url?q=https://asianyouth2022bali.com/&amp;source=gmail&amp;ust=1658227594551000&amp;u",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/fancy-trip-to-bali.html",
-         "pubDate" : "Mon, 18 Jul 2022 13:26:00 +0000",
-         "title" : "Fancy a trip to Bali?"
-      },
-      {
-         "description" : "National School U-17 Open and Girls Chess Championship Certificates are out to Download Links : Open : https://aicf.online/National-School-U(17)-Open.html Girls : https://aicf.online/National-School-U(17)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-u-17-open-and-girls-chess-championship-certificates/",
-         "pubDate" : "Mon, 18 Jul 2022 11:33:49 +0000",
-         "title" : "National School U-17 Open and Girls Chess Championship Certificates"
       }
    ]
 }
