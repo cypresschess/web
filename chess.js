@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is tough, and the life of a professional player is even more so. Maintaining your emotional stability throughout a tournament can be very testing, and things can change rapidly from one day to the next. The match between the youth teams of India B and Uzbekistan was 2-1 for India B, thanks to Praggnanandhaa's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-report/",
+         "pubDate" : "Mon, 08 Aug 2022 21:04:03 +0000",
+         "title" : "Chess Olympiad 2022 - Round 10 report"
+      },
+      {
+         "description" : "The final 11th round of the 2022 Chess Olympiad promises exciting games in the Open section which will determine the medalists of the event. Uzbekistan and Armenia are the co-leaders after 10 played rounds, while India 2, India and USA tie for the third place. Armenia faces Spain, and Uzbekistan goes against Netherlands in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-11-board-pairings-open-section/",
+         "pubDate" : "Mon, 08 Aug 2022 20:01:53 +0000",
+         "title" : "Chess Olympiad 2022 - Round 11 board pairings (open section)"
+      },
+      {
+         "description" : "After defeating Kazakhstan in the 10th round of the Women's Chess Olympiad, India's women's team heads into the final 11th round as the sole leader of the event. India scores 17 match points, while Poland, Azerbaijan, Ukraine, and Georgia share the second place with 16 match points, each. Rankings after 10 rounds (women's section) Direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-11-board-pairings-womens-section/",
+         "pubDate" : "Mon, 08 Aug 2022 20:00:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 11 board pairings (women's section)"
+      },
+      {
          "description" : " While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking the spotlight away from India 2. They will meet The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -154,36 +178,12 @@ news_feed (
          "title" : "Chess Olympiad 2026 is in Uzbekistan"
       },
       {
-         "description" : "The 10th penultimate round brings the top-board open section encounter between India2 and Uzbekistan, while the four leaders of the Women&#x2019;s section play against each other with India vs Kazakhstan on the top-board, and Georgia vs Poland next to them.&#xA0;Here are Round 10 team pairings of both events In the open section of the Olympiad, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-abdusattorov-live/",
-         "pubDate" : "Mon, 08 Aug 2022 08:44:54 +0000",
-         "title" : "Gukesh - Abdusattorov , Chess Olympiad 2022 LIVE"
-      },
-      {
          "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-world-junior-chess-championships-2022-for-open-girls-under-20-to-be-held-at-sardinia-italy-from-october-11-to-23-2022/",
          "pubDate" : "Mon, 08 Aug 2022 08:11:25 +0000",
          "title" : "Fide World Junior Chess Championships 2022 (for Open & Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022."
-      },
-      {
-         "description" : "The 10th penultimate round brings the top-board open section encounter between India2 and Uzbekistan, while the four leaders of the Women&#x2019;s section play against each other with India vs Kazakhstan on the top-board, and Georgia vs Poland next to them.&#xA0;Here are Round 10 team pairings of both events In the open section of the Olympiad, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-board-pairings-open-section/",
-         "pubDate" : "Mon, 08 Aug 2022 07:40:19 +0000",
-         "title" : "Chess Olympiad 2022 - Round 10 board pairings (open section)"
-      },
-      {
-         "description" : "With four teams tying for the top of the Women's Chess Olympiad and only two rounds to go, the 10th penultimate round might be decisive for the determination of the Medalists. India plays Kazakhstan on the top board of the women's event, and Georgia meets Poland, playing next to them. Round 9 report / Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-board-pairings-womens-section/",
-         "pubDate" : "Mon, 08 Aug 2022 07:30:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 10 board pairings (women's section)"
       },
       {
          "description" : "Uzbekistan defeated the former leaders from Armenia to take the sole lead in the open section of the Olympiad in Chennai. The Uzbek team, led by Nodirbek Abdusattorov, will face India 2 on Monday, with Abdusattorov facing Gukesh in a much-anticipated battle of rising stars. Meanwhile, in the women's section, Poland inflicted India's first loss of the event, as Oliwia Kiolbasa scored her ninth victory in a row! | Photo: Stev Bonhage",
@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://aicf.in/16th-asian-schools-chess-championships-2022-at-kaluthara-sri-lanka-25th-august-3rd-september-2022/",
          "pubDate" : "Tue, 19 Jul 2022 05:21:50 +0000",
          "title" : "16th ASIAN SCHOOLS CHESS CHAMPIONSHIPS 2022 at Kaluthara SRI LANKA, 25th August - 3rd September 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1870",
-         "pubDate" : "Mon, 18 Jul 2022 20:11:36 +0000",
-         "title" : "Jerguš Pech&aacute;č awarded the Gligoric Trophy"
       }
    ]
 }
