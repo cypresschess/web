@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th-seeded Armenia defeated the sixth-seeded Azerbaijan with a convincing 3-1 victory to reach 17 match points and become the joint leaders at the end of the 10th and penultimate round of the 44th FIDE Chess Olympiad. Dramatic developments in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-10",
+         "pubDate" : "Mon, 08 Aug 2022 16:01:00 -0700",
+         "title" : "Armenia, Uzbekistan Share Lead In Open; India Leads In Women's"
+      },
+      {
+         "description" : "The Armenian team defeated Azerbaijan in the 10th round of the 2022 Chess Olympiad, emerging on the top of the rankings in the co-lead with Uzbekistan. (Rankings after Round 10) Answering the question about the team's secret for success, Sargissian said he is not sure if there is any: &#8220;Actually, this is a surprise not []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-gabriel-sargissian-speaks-about-the-atmosphere-in-the-armenian-team/",
+         "pubDate" : "Mon, 08 Aug 2022 22:41:11 +0000",
+         "title" : "GM Gabriel Sargissian speaks about the atmosphere in the Armenian team"
+      },
+      {
          "description" : "Chess is tough, and the life of a professional player is even more so. Maintaining your emotional stability throughout a tournament can be very testing, and things can change rapidly from one day to the next. The match between the youth teams of India B and Uzbekistan was 2-1 for India B, thanks to Praggnanandhaa's []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Round 11 board pairings (women's section)"
       },
       {
-         "description" : " While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking the spotlight away from India 2. They will meet The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2022 Chess Olympiad: Round #9 Sunday, 7 August 2022 While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/womens-candidates-2022-pool-a-to-take-place-in-monaco/",
          "pubDate" : "Mon, 08 Aug 2022 09:10:35 +0000",
          "title" : "Women's Candidates 2022 - Pool A to take place in Monaco"
-      },
-      {
-         "description" : "Uzbekistan is going to be the venue of the Chess Olympiad 2026. Tashkent or Samarkand will be host city of the Chess Olympiad. Uzbekistan will host a chess event of this size for the first time. In 2024, the World Chess Olympiad will be held in Budapest (Hungary). Stay tuned for more on the Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2026-is-in-uzbekistan/",
-         "pubDate" : "Mon, 08 Aug 2022 08:53:07 +0000",
-         "title" : "Chess Olympiad 2026 is in Uzbekistan"
       },
       {
          "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-first-impressions.html",
          "pubDate" : "Tue, 26 Jul 2022 16:32:00 +0000",
          "title" : "2022 Chess Olympiad - First Impressions"
-      },
-      {
-         "description" : "GMs Vladimir Fedoseev and Benjamin Bok were the winners of the seventh and eighth Play-ins of the Chess.com Global Championship. GMs Raunak Sadhwani and Rauf Mamedov each won second place respectively, joining the winners in advancing to the knock...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-3-day-1",
-         "pubDate" : "Tue, 26 Jul 2022 06:16:02 -0700",
-         "title" : "Fist Pumps and Second Chances: Fedoseev and Bok Win"
       },
       {
          "description" : "The ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi is an exhibition match taking place at the Dublin Square in the Phoenix Marketcity, Mumbai. The elite grandmasters face off in blindfold chess, rapid, blitz, bullet and no-castling chess! | The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST)",
