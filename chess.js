@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking the spotlight away from India 2. They will meet The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/",
+         "pubDate" : "Mon, 08 Aug 2022 19:13:01 +0000",
+         "title" : "2022 Chess Olympiad: Round #9"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1913",
+         "pubDate" : "Mon, 08 Aug 2022 18:55:15 +0000",
+         "title" : "Women's Chess Olympiad: India A shoots into sole lead "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1912",
+         "pubDate" : "Mon, 08 Aug 2022 17:48:55 +0000",
+         "title" : "Pain and glory in the Chennai Chess Olympiad"
+      },
+      {
+         "description" : "With only one round to go, India&#x2019;s women&#x2019;s team overtook the sole leadership of the&#xA0;Women&#x2019;s Chess Olympiad 2022 after defeating Kazakhstan in the 10th round! India is in the sole first place with 17 match points, while Poland, Azerbaijan, Ukraine and Georgia follow with 16 match points. Scroll down for rankings after Round 10 (women's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-rankings-after-round-10-womens-section/",
+         "pubDate" : "Mon, 08 Aug 2022 16:46:57 +0000",
+         "title" : "Chess Olympiad 2022 - Rankings after Round 10 (women's section)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93437828.cms\" />The top-seeded India 'A' team outclassed Kazakhstan 3.5-0.5 for a crucial win in the 10th and penultimate round of the women's section in the 44th Chess Olympiad here on Monday. Top player Koneru Humpy returned to winning ways, beating Zhansaya Abdumalik while Tania Sachdev and Bhakti Kulkarni scored over Xeniya Balabayeva and Gulikshan Nakhbayeva respectively. R Vaishali drew with Bibisara Assaubayeva on the second board.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-a-crush-kazakhstan-in-womens-event-india-b-mens-team-draws-with-uzbekistan/articleshow/93437828.cms",
+         "pubDate" : "Mon, 08 Aug 2022 16:42:53 +0000",
+         "title" : "India 'A' crush Kazakhstan in women's event, India 'B' men's team draws with Uzbekistan"
+      },
+      {
+         "description" : "Tense fights of the&#xA0;Chess Olympiad 2022&#xA0;penultimate 10th round announce the dramatic finish of the Open section. Uzbekistan and Armenia are the co-leaders of the Open section as Uzbekistan hold a draw against India2, while Armenia defeated Azerbaijan. India 2, India and USA tie for the third place with 16 match points. Scroll down for Rankings []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-rankings-after-round-10-open-section/",
+         "pubDate" : "Mon, 08 Aug 2022 16:41:21 +0000",
+         "title" : "Chess Olympiad 2022 - Rankings after Round 10 (open section)"
+      },
+      {
+         "description" : "With the dramatic finish of the India2 Uzbekistan match with Uzbekistan's win, the convincing victory of USA, and the win of Armenia over Azerbaijan, we are heading to a very exciting finish of the 2022 Chess Olympiad. Uzbekistan and Armenia tie for the top of the Open section with 17 match points, each. Replay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-11-pairings-final-round/",
+         "pubDate" : "Mon, 08 Aug 2022 16:16:00 +0000",
+         "title" : "Chess Olympiad 2022 - Round 11 pairings (final round)"
+      },
+      {
+         "description" : "Tense fights of the Chess Olympiad 2022 penultimate 10th round announce the dramatic finish of the Open section. Uzbekistan hold a draw against India2, while Armenia defeated Azerbaijan. Now both Armenia and Uzbekistan score 17 match points, entering the last round as the co-leaders of the Open event. India 2, India and USA tie for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-10-open-section/",
+         "pubDate" : "Mon, 08 Aug 2022 16:15:30 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 10 (open section)"
+      },
+      {
+         "description" : "With a convincing 3.5-0.5 victory over Kazakhstan, India's women's team overtook the sole leadership of the Women's Chess Olympiad 2022! With only one round to go, India holds the sole first place with 17 match points. Poland, Azerbaijan, Ukraine and Georgia follow with 16 match points each. Scroll down for Round 10 results women's section []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-10-womens-section/",
+         "pubDate" : "Mon, 08 Aug 2022 15:57:49 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 10 (women's section)"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93436589.cms\" />Indian chess legend Viswanathan Anand, who has been elected deputy president of FIDE, on Monday said it is time to do more for the sport in the country.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/time-to-do-more-for-chess-in-india-says-new-fide-deputy-president-viswanathan-anand/articleshow/93436589.cms",
          "pubDate" : "Mon, 08 Aug 2022 15:11:09 +0000",
          "title" : "Time to do more for chess in India, says new FIDE deputy president Anand"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The main event of a nine-hour marathon to raise money for CHESS Cops, Ben Simon plays the viewers and talks about chess ratings, pro wrestling, his disdain for Twitch, and more! The marathon included Danny Machuca&#039;s Steve the Pirate, Jonathan Schrantz, and GM Bryan Smith. Originally on Twitch<br /> 2021.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ben-simon-plays-people\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbna",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ben-simon-plays-people",
+         "pubDate" : "Mon, 08 Aug 2022 15:03:25 +0000",
+         "title" : "Ben Simon Plays The People!"
       },
       {
          "description" : "Good luck to all of the entrants to the British Chess Championships. If you have any questions or last minute changes to your entry over...",
@@ -114,14 +194,6 @@ news_feed (
          "title" : "Chennai R9: Uzbekistan grabs the lead, Kiolbasa on 9 out of 9"
       },
       {
-         "description" : "Randy Bauer is the newly elected US Chess President. &#8220;The US chess mission is to empower people, enhance lives, and enrich communities through chess. And that's what we are focused on through tournaments, working with kids and other groups. That's how we bring chess to the people in the US and that's where I []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/randy-bauer-is-the-new-us-chess-president/",
-         "pubDate" : "Mon, 08 Aug 2022 06:12:27 +0000",
-         "title" : "Randy Bauer is the new US Chess President"
-      },
-      {
          "description" : " With 2 rounds to play, Uzbekistan has taken the lead in the 2022 Chess Olympiad Open section, after beating previous leaders Armenia 3-1. The young Uzbek team hold a 1 point lead over Armenia, and India 2. Today's round will see India 2 and Uzbekistan play on the top board, with Armenia facing Azerbaijan. Australia went down narrowly to Ukraine 2.5-1.5, although the Australian's had better chances in 2 of the drawn games. Australia plays Albania this round, in a match they are favoured to win. New Zealand scored a win over Sao Tome to reacj 10 points, with Daniel Gong improving his score to 6/8 and giving him a good chance to earn an IM norm. Papua New Guinea scored a 3.5-0.5 win over Laos,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -144,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-niemann-wins",
          "pubDate" : "Sun, 07 Aug 2022 16:06:00 -0700",
          "title" : "World No. 6 Junior Triumphs in Knockout and Swiss"
-      },
-      {
-         "description" : "This course sounds like the perfect chess instructional advice for heavy metal fans The Iron English: Botvinnik Variation. Fear of the dark? Fear not, as GM Simon Williams will guide you through the depths of the Botvinnik Variation. You only need 7 moves to turn your position into an armor-plated battleship ready for war. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-botvinnik-variation-by-gm-simon-williams/",
-         "pubDate" : "Sun, 07 Aug 2022 22:42:22 +0000",
-         "title" : "English: Botvinnik Variation - by GM Simon Williams"
       },
       {
          "description" : "Javokhir Sindarov and Jakhongir Vakhidov grabbed the wins as Uzbekistan beat Armenia to take over as leaders of the Chennai Olympiad with two rounds to go. They face the teen stars of India 2 in Round 10 after Praggnanandhaa rescued a draw against Azerbaijan. In the Women's event Poland's Oliwia Kiolbasa hit 9/9, gave Poland victory over India, and left a 4-way tie for 1st place.",
@@ -178,36 +242,12 @@ news_feed (
          "title" : "Checkmate Coronavirus: Vanakkam Chennai!"
       },
       {
-         "description" : "Oliwia Kiolbasa&#160;is currently rocking the Women section of the &#160;Chess Olympiad 2022. She has collected 8,0/8 and is going for the fantastic 9,0/9. The game is of high importance for the medals race, as both Poland and India are in contention. All games from the round&#160;live here More about Oliwia Kiolbasa here Round 10 pairings&#xA0;/&#xA0;Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/oliwia-kiolbasa-vaishali-r9-of-chess-olympiad-2022-live/",
-         "pubDate" : "Sun, 07 Aug 2022 20:49:38 +0000",
-         "title" : "Oliwia Kiolbasa - Vaishali, R9 of Chess Olympiad 2022 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1910",
          "pubDate" : "Sun, 07 Aug 2022 20:03:54 +0000",
          "title" : "Women's Olympiad: Four-way tie on the top with two rounds to go"
-      },
-      {
-         "description" : "A total of 21 players have achieved conditional Women FIDE-Master titles at the&#xA0;Chess Olympiad 2022. For a direct title to be awarded immediately an applicant has to have achieved at some time a minimum rating of 1900. More players have the chance to achieve the title in the next rounds. See the&#xA0;Round 10 pairings&#xA0;as well []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wfm-titles-at-the-chess-olympiad/",
-         "pubDate" : "Sun, 07 Aug 2022 19:49:15 +0000",
-         "title" : "WFM titles at the Chess Olympiad"
-      },
-      {
-         "description" : "A total of 17 players have achieved conditional FIDE-Master titles at the Chess Olympiad 2022. For a direct title to be awarded immediately an applicant has to have achieved at some time a minimum rating of 2100. More players have the chance to achieve the title in the next rounds. See the Round 10 pairings&#xA0;as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-master-titles-at-the-chess-olympiad/",
-         "pubDate" : "Sun, 07 Aug 2022 19:34:32 +0000",
-         "title" : "FIDE Master titles at the Chess Olympiad"
       },
       {
          "description" : "",
@@ -1034,14 +1074,6 @@ news_feed (
          "title" : "Women's Chess Olympiad: Eight teams won all matches after Round 4"
       },
       {
-         "description" : " Ian Wilkinson QC During the 2022 Chess Olympiad, The Chess Drum had an interview with Ian Wilkinson QC who had been picked by FIDE Presidential Candidate Bachar Kouatly as his Deputy President. They are gearing up for the election which takes place at the General Assembly on August 7th. There were four certified tickets. Wilkinson The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/chat-with-ian-wilkinson-on-2022-fide-election/\">Chat with Ian Wilkinson on 2022 FIDE Election</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/01/chat-with-ian-wilkinson-on-2022-fide-election/",
-         "pubDate" : "Mon, 01 Aug 2022 19:50:52 +0000",
-         "title" : "Chat with Ian Wilkinson on 2022 FIDE Election"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1546,14 +1578,6 @@ news_feed (
          "title" : "44th FIDE Chess Olympiad Inaugurated In Chennai, India"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93196763.cms\" />Pakistan raised the Kashmir spectre to pull out of the 44th Chess Olympiad in Mamallapuram on the eve of the event, citing India's torch relay passing through Kashmir on June 21. ​​The 13-member Pakistani contingent had already checked into the team hotel in Mamallapuram when they were informed they would not be taking part.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/citing-kashmir-pakistan-pulls-out-on-chess-olympiad-eve/articleshow/93196763.cms",
-         "pubDate" : "Thu, 28 Jul 2022 21:22:45 +0000",
-         "title" : "Citing Kashmir, Pakistan pulls out on Chess Olympiad eve"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. 2022.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1744,14 +1768,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/",
          "pubDate" : "Wed, 27 Jul 2022 06:37:40 +0000",
          "title" : "Communique of the ECU General Assembly and Elections 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shows Varuzhan Akobian&#039;s preferred system to stymie the King&#039;s Indian Defense. 2022.07.26<br /> Varuzhan Akobian vs Igor Foygel, HB Global Chess Challenge (2005): E61 King&#039;s Indian defence, 3.Nc3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1338879\">https://www.chessgames.com/perl/chessgame?gid=1338879</a><br /> Caleb Denby vs. Alex Moellering, 2014: E61 King&#039;s Indian defence, 3.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beating-kid-akobian-style-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 27 Jul 2022 02:52:09 +0000",
-         "title" : "Beating the KID, Akobian-Style | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "The Queen of England celebrated her Platinum Jubilee this year: she has been Queen of England for 70 years. Musician Jason Kouchak took this event as an opportunity to celebrate chess and the \"Queens of Chess\", together with his friend Pattie Boyd, who was muse and queen for both Eric Clapton and George Harrison.",
