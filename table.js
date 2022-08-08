@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-08-05  - 08-07","35","<a href=http://www.uschess.org/msa/XtblMain.php?202208071212 target='_blank'>$3,500 HOUSTON CHESS STUDIO AUGUST</a>",
 "SPRING","2022-08-05","29","<a href=http://www.uschess.org/msa/XtblMain.php?202208059882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-08-05","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208059852 target='_blank'>FBCC 2022 SUMMER CHESS SPECTACULAR</a>",
 "CYPRESS","2022-08-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202208059762 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-10-09","120","<a href=http://www.uschess.org/msa/XtblMain.php?202110099942 target='_blank'>NAVARRO MIDDLE SCHOOL SCHOLASTIC</a>",
 "CYPRESS","2021-10-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202110089442 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2021-10-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110089272 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2021-10-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202110089262 target='_blank'>FBCC EARLY-OCTOBER CLASSIC 2021</a>",
 ]);
