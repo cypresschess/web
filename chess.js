@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF is now accepting entries for the 2022 UK Open Blitz Championships.&#160;As in previous years there will be 8 one-day regional qualifiers at venues...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-blitz-2022-regional-qualifiers-now-taking-entries/",
+         "pubDate" : "Tue, 09 Aug 2022 10:59:28 +0000",
+         "title" : "UK Blitz 2022 - regional qualifiers now taking entries"
+      },
+      {
+         "description" : "The battles for the Women's Chess Olympiad winner's podium lasted till the very last minute of the final 11th round. Ukraine claimed gold for the first time since 2006 having better tiebreaks than Georgia who finished silver! Replay all games here Final report to followPreviews: Round 11 board pairings (women's section) / Rankings after 10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ukraine-is-the-winner-of-the-womens-chess-olympiad-2022/",
+         "pubDate" : "Tue, 09 Aug 2022 09:57:56 +0000",
+         "title" : "Ukraine is the Winner of the Women's Chess Olympiad 2022!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> None of the top ten seated men teams managed to win a medal at the <strong>Chess Olympiad</strong> in Mamallapuram. Uzbekistan, seated 14th and host of the 2026 Chess Olympiad, wins gold ahead of Armenia, seated 12th, and India II, seated 11th. 16-year old Gukesh blundered a possible gold for the host's junior squad in the penultimate round against Abdusattorov but still claimed the best result on board one ahead of the 17-year old Uzbek. The <strong>Women Chess Olympiad</strong> was won by Ukraine ahead of Georgia and India, who had led throughout but lost their last match against the US. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/uzbekistan-armenia-india-ii/",
+         "pubDate" : "Tue, 09 Aug 2022 10:30:07 +0100",
+         "title" : "Uzbekistan, Armenia, India II"
+      },
+      {
+         "description" : "After 11 exciting rounds in a competition of 186 teams represented by more than 900 players, Uzbekistan wins the 44th Chess Olympiad! Replay all games here Final report to followPreviews: Round 11 board pairings (open section) / Rankings after 10 rounds / Interview with GM Gabriel SargissianRead more: Uzbekistan to host 2026 Chess Olympiad The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uzbekistan-wins-chess-olympiad-2022/",
+         "pubDate" : "Tue, 09 Aug 2022 09:25:06 +0000",
+         "title" : "Uzbekistan wins Chess Olympiad 2022!"
+      },
+      {
          "description" : "A piece that is attacked does not have to move - that sounds like a trivial little piece of wisdom but it is good to keep it in mind. In the diagrammed position Black just attacked White's rook with 49...Ke5, apparently forgetting that attacked pieces do not have to move. How should White react to Black's attack?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,14 +202,6 @@ news_feed (
          "title" : "Results - Chess Olympiad 2022 round 10 (open section)"
       },
       {
-         "description" : "With a convincing 3.5-0.5 victory over Kazakhstan, India's women's team overtook the sole leadership of the Women's Chess Olympiad 2022! With only one round to go, India holds the sole first place with 17 match points. Poland, Azerbaijan, Ukraine and Georgia follow with 16 match points each. Scroll down for Round 10 results women's section []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-10-womens-section/",
-         "pubDate" : "Mon, 08 Aug 2022 15:57:49 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 10 (women's section)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93436589.cms\" />Indian chess legend Viswanathan Anand, who has been elected deputy president of FIDE, on Monday said it is time to do more for the sport in the country.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -232,14 +256,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-trust-support-for-ukrainian-chess-players/",
          "pubDate" : "Mon, 08 Aug 2022 11:05:18 +0000",
          "title" : "Chess Trust - support for Ukrainian chess players"
-      },
-      {
-         "description" : "The glamorous H&#xF4;tel Hermitage Monte-Carlo will host the Pool A of the Women's Candidates tournament, organized by the Monaco Chess Federation, from October 24 to November 6. Read more: Women&#x2019;s Candidates Chess Tournament 2022/23 &#x2013; The new system, Pools &#38; Participants list This bracket will see the clash between&#160;Humpy Koneru&#160;and&#160;Anna Muzychuk&#160;(first Quarter-Final), and&#160;Lei Tingjie&#160;and&#160;Mariya Muzychuk&#160;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-2022-pool-a-to-take-place-in-monaco/",
-         "pubDate" : "Mon, 08 Aug 2022 09:10:35 +0000",
-         "title" : "Women's Candidates 2022 - Pool A to take place in Monaco"
       },
       {
          "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-koneru-humpy-r-vaishali-star-in-india-a-win-over-georgian-women/articleshow/93328808.cms",
          "pubDate" : "Wed, 03 Aug 2022 14:58:42 +0000",
          "title" : "Olympiad: Humpy, Vaishali star in India 'A' win over Georgian women"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess Federation of South Korea</strong> has <a href=\"https://twitter.com/FIDE_chess/status/1554843689163583489\">announced</a> at the ongoing <strong>FIDE Congress</strong> in Chennai that it will bid for the <strong>World Cup 2023</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/south-korea-prepares-world-cup-bid/",
-         "pubDate" : "Wed, 03 Aug 2022 15:48:53 +0100",
-         "title" : "South Korea prepares World Cup bid"
       },
       {
          "description" : " 2022 Chess Olympiad: Round #5 Tuesday, 2 August 2022 INDIA 2 Sitting: Baskaran AdhibanStanding (L-R): Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nihal Sarin Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
