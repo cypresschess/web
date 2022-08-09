@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A piece that is attacked does not have to move - that sounds like a trivial little piece of wisdom but it is good to keep it in mind. In the diagrammed position Black just attacked White's rook with 49...Ke5, apparently forgetting that attacked pieces do not have to move. How should White react to Black's attack?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-crushing-counterblow",
+         "pubDate" : "Tue, 09 Aug 2022 09:00:00 +0100",
+         "title" : "A crushing counterblow"
+      },
+      {
+         "description" : " With 1 round to play,the 2022 Chess Olympiad looks to be a 2 horse race between Uzbekistan and Armenia. Armenia bounced back fro it's round 9 loss to score a big win over Azerbaijan 3-1. Uzbekistan looked to be losing to India 2, until a blunder by Gukesh on board 1 of the match saw Uzbekistan escape with a 2-2 draw. USA and India 1 both won their matches, to stay 1 point behind the leaders. In the Women's Olympiad, India hold a 1 point lead going into the final round. Close behind are Poland, Georgia, Azerbaijan, and Ukraine. So a win for India will give them gold, but a draw or loss will open it up for the pursuing teams. Australia beat Albania 3.5-0.5 to move to 13 points, and a win toda",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-10.html",
+         "pubDate" : "Tue, 09 Aug 2022 05:50:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 10"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93445832.cms\" />Former India cricket captain and Chennai Super Kings' skipper Mahendra Singh Dhoni is expected to attend the closing ceremony and be the star attraction. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-to-conclude-today-ms-dhoni-expected-at-closing-ceremony/articleshow/93445832.cms",
+         "pubDate" : "Tue, 09 Aug 2022 05:32:39 +0000",
+         "title" : "Chess Olympiad set to conclude, Dhoni expected at closing ceremony"
+      },
+      {
+         "description" : "By tying for first in the 2022 U.S. Open, Grandmaster Elshan Moradiabadi won a qualifying spot to the 2022 U.S. Championship. Then he lost an Armageddon playoff chess game with Grandmaster Aleksey Sorokin for an extra $200 and the U.S. Open title. Moradiabadi and Sorokin spoke to WIM Alexey Root, who also reports on U.S. Open committee meetings and awards. | Photos: Alexey Root",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/u-s-open-interviews-of-chess-champions-meetings-awards",
+         "pubDate" : "Tue, 09 Aug 2022 06:30:00 +0100",
+         "title" : "U.S. Open: Interviews of Chess Champions, Meetings, Awards"
+      },
+      {
+         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Sethuraman (India)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
+         "pubDate" : "Tue, 09 Aug 2022 06:20:00 +0100",
+         "title" : "Chennai Olympiad: Final Round - Live!"
+      },
+      {
+         "description" : "Uzbekistan and Armenia are sharing the lead going into the final round of the Chess Olympiad's open tournament. India 2 was inches away from replacing Uzbekistan as co-leader, as Gukesh could have given his team match victory had he not blundered a piece against Nodirbek Abdusattorov in a drawn position. In the women's section, meanwhile, India retook the sole lead after convincingly beating Kazakhstan. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r10",
+         "pubDate" : "Tue, 09 Aug 2022 06:15:00 +0100",
+         "title" : "Chennai R10: Uzbekistan and Armenia share the lead, heartbreak for Gukesh"
+      },
+      {
+         "description" : " 2022 Chess Olympiad: Round #10 Sunday, 8 August 2022 One day Dommaraju Gukesh was touted as a national hero having won eight straight games; a couple of days later, he was the culprit for India losing a crucial match in round 10. Chess can be brutal as a sporting activity. Gukesh was riding high off The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/\">2022 Chess Olympiad: Round #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/",
+         "pubDate" : "Tue, 09 Aug 2022 04:46:03 +0000",
+         "title" : "2022 Chess Olympiad: Round #10"
+      },
+      {
          "description" : "Gukesh has been the star of the Chennai Olympiad and was about to beat Nodirbek Abdusattorov, move to a staggering 9.5/10, and give India 2 the co-lead before the final round. Instead he crashed to defeat, and it's Uzbekistan who lead with Armenia, who defeated Azerbaijan 3:1.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -178,14 +234,6 @@ news_feed (
          "title" : "Chess Trust - support for Ukrainian chess players"
       },
       {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Anna Cramling (Sweden)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Mon, 08 Aug 2022 11:25:00 +0100",
-         "title" : "Chennai Olympiad: Live!"
-      },
-      {
          "description" : "The glamorous H&#xF4;tel Hermitage Monte-Carlo will host the Pool A of the Women's Candidates tournament, organized by the Monaco Chess Federation, from October 24 to November 6. Read more: Women&#x2019;s Candidates Chess Tournament 2022/23 &#x2013; The new system, Pools &#38; Participants list This bracket will see the clash between&#160;Humpy Koneru&#160;and&#160;Anna Muzychuk&#160;(first Quarter-Final), and&#160;Lei Tingjie&#160;and&#160;Mariya Muzychuk&#160;in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -200,6 +248,14 @@ news_feed (
          "link" : "https://aicf.in/fide-world-junior-chess-championships-2022-for-open-girls-under-20-to-be-held-at-sardinia-italy-from-october-11-to-23-2022/",
          "pubDate" : "Mon, 08 Aug 2022 08:11:25 +0000",
          "title" : "Fide World Junior Chess Championships 2022 (for Open & Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022."
+      },
+      {
+         "description" : "Inspired by Gukesh's remarkable win over Gabriel Sargissian in round 6 of the Chess Olympiad, star columnist Jon Speelman looked at a few more instances of cross checks and deflections that left a strong aesthetic impression. A beautiful study by the Danish composer Steffen Slumstrup Nielsen is included in the mix. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-175",
+         "pubDate" : "Mon, 08 Aug 2022 08:50:00 +0100",
+         "title" : "Cross checks, deflections and stunning beauty"
       },
       {
          "description" : "Uzbekistan defeated the former leaders from Armenia to take the sole lead in the open section of the Olympiad in Chennai. The Uzbek team, led by Nodirbek Abdusattorov, will face India 2 on Monday, with Abdusattorov facing Gukesh in a much-anticipated battle of rising stars. Meanwhile, in the women's section, Poland inflicted India's first loss of the event, as Oliwia Kiolbasa scored her ninth victory in a row! | Photo: Stev Bonhage",
@@ -272,14 +328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1909",
          "pubDate" : "Sun, 07 Aug 2022 17:36:10 +0000",
          "title" : "Uzbek kids lead 44th Chess Olympiad"
-      },
-      {
-         "description" : "Inspired by Gukesh's remarkable win over Gabriel Sargissian in round 6 of the Chess Olympiad, star columnist Jon Speelman looked at a few more instances of cross checks and deflections that left a strong aesthetic impression. A beautiful study by the Danish composer Steffen Slumstrup Nielsen is included in the mix. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-175",
-         "pubDate" : "Sun, 07 Aug 2022 17:50:00 +0100",
-         "title" : "Cross checks, deflections and stunning beauty"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93413839.cms\" />For India 2, the ongoing 44th Olympiad, has been all about D Gukesh's splendid run of 8 successive wins. On Sunday, the 16-year-old's win-run came to a close as he drew his 9th round encounter against Azerbaijan's Shakhriyar Mamedyarov.",
@@ -1074,14 +1122,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 4"
       },
       {
-         "description" : " During round three of the Chess Olympiad in Chennai, India, there were two attendees suffering health crises. Both received immediate medical attention and were taken to local hospitals. Both were stabilized. Chess can certainly be a stressful activity, but of course, it is the thrill of combat that we enjoy.Jamaica's Jaden Shaw was excited to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/01/two-healing-after-olympiad-health-crises/\">Two healing after Olympiad health crises</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/01/two-healing-after-olympiad-health-crises/",
-         "pubDate" : "Tue, 02 Aug 2022 01:03:28 +0000",
-         "title" : "Two healing after Olympiad health crises"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1578,14 +1618,6 @@ news_feed (
          "title" : "Don't Repeat Chess Mistakes Again! | Prepare Like A Pro - WGM Thalia Cervantes"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93199577.cms\" />It was in 2013 that home boy Viswanathan Anand lost the World Championship title at India's chess capital, Chennai. Nine years have gone by and top-flight chess is back in Tamil Nadu with the 44th Olympiad starting at Mamallapuram, a sea town 60 km from Chennai, on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-time-to-play-the-right-moves/articleshow/93199577.cms",
-         "pubDate" : "Fri, 29 Jul 2022 02:49:12 +0000",
-         "title" : "Chess Olympiad: Time to play the right moves"
-      },
-      {
          "description" : "The 44th FIDE Chess Olympiad was inaugurated on July 28 at the Nehru Indoor Stadium in Chennai with fanfare, in the presence of Narendra Modi, the prime minister of India, and M.K. Stalin, the chief minister of the state of Tamilnadu, the main ini...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1786,36 +1818,12 @@ news_feed (
          "title" : "Communique of the ECU General Assembly and Elections 2022"
       },
       {
-         "description" : "The Queen of England celebrated her Platinum Jubilee this year: she has been Queen of England for 70 years. Musician Jason Kouchak took this event as an opportunity to celebrate chess and the \"Queens of Chess\", together with his friend Pattie Boyd, who was muse and queen for both Eric Clapton and George Harrison.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/something-in-the-way-she-moves-kouchak",
-         "pubDate" : "Wed, 27 Jul 2022 00:30:00 +0100",
-         "title" : "Something in the way&hellip;she moves"
-      },
-      {
-         "description" : "With opening theory reaching insane depth and draws on the rise, there has been an increasing interest in chess variants such as Chess960 aka Fischer Random Chess, and the recent 'No-Castling' chess. Here is another variant that bears similarities to Chess960, but completely asymmetrical and no castling. One added plus is that you can even play it against Fritz Online!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/double-shuffle-chess-a-fun-variant-against-fritz-online",
-         "pubDate" : "Tue, 26 Jul 2022 18:00:00 +0100",
-         "title" : "Double Shuffle Chess: a fun variant against Fritz Online"
-      },
-      {
          "description" : " I always enjoy getting to the chess olympiad a few days early, as it gives me a chance to see what goes into organising such a large event. For the 2022 Olympiad, what goes into this one, is a massive army of volunteers and staff. This started with me being met at the airport (actually on the airbridge), before being taken directly through customs (via the express lane) , and after collecting my luggage, being driven to my hotel. After a solid nights sleep, and a quick breakfast, I went and inspected the venue. The venue is split into two areas, with the top boards in the existing convention centre, while the rest of the event is in a larger, purpose built, structure. Both venues are fairly",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-first-impressions.html",
          "pubDate" : "Tue, 26 Jul 2022 16:32:00 +0000",
          "title" : "2022 Chess Olympiad - First Impressions"
-      },
-      {
-         "description" : "The ChessBase India Originals Death Match between Anish Giri and Vidit Gujrathi is an exhibition match taking place at the Dublin Square in the Phoenix Marketcity, Mumbai. The elite grandmasters face off in blindfold chess, rapid, blitz, bullet and no-castling chess! | The action kicks off at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/giri-vidit-death-match-live",
-         "pubDate" : "Tue, 26 Jul 2022 13:50:00 +0100",
-         "title" : "Giri vs. Vidit Death Match - Live!"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a2148521-2212-4c0a-87e1-114c1de2e9a2/tonyB4.jpg\" data-image-dimensions=\"417x331\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dff3abd203cf3a97638107\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a2148521-2212-4c0a-87e1-114c1de2e9a2/tonyB4.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of Tony Ballard <a href=\"https://twitter.com/thegiftofchess/status/1537434379491782659\">via The Gift of Chess </a> </figcaption> </figure> ",
@@ -2128,22 +2136,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/19/ep-288-gm-peter-heine-nielsen-takes-us-behind-the-scenes-of-the-2012-anand-gelfand-world-championship-match",
          "pubDate" : "Tue, 19 Jul 2022 12:26:58 +0000",
          "title" : "EP 288- GM Peter Heine Nielsen Takes us Behind the Scenes of the 2012 Anand-Gelfand World Championship match "
-      },
-      {
-         "description" : "European Youth Team Chess Championship 2022 concluded yesterday in Thessaloniki, Greece. The event was played from 12-18 July and broke the participation record with 53 teams competing in two age categories: U12 and U18, open and girls sections separately. Poland won three gold medals in the Championship, conquering the top of U12, GU12 and U18 sections. The Closing&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/poland-wins-three-gold-medals-at-european-youth-team-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/poland-wins-three-gold-medals-at-european-youth-team-chess-championship-2022/",
-         "pubDate" : "Tue, 19 Jul 2022 06:48:32 +0000",
-         "title" : "Poland wins three gold medals at European Youth Team Chess Championship 2022"
-      },
-      {
-         "description" : " 16th ASIAN SCHOOLS CHESS CHAMPIONSHIPS 2022 at Kaluthara SRI LANKA, 25th August - 3rd September 2022 Asian",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/16th-asian-schools-chess-championships-2022-at-kaluthara-sri-lanka-25th-august-3rd-september-2022/",
-         "pubDate" : "Tue, 19 Jul 2022 05:21:50 +0000",
-         "title" : "16th ASIAN SCHOOLS CHESS CHAMPIONSHIPS 2022 at Kaluthara SRI LANKA, 25th August - 3rd September 2022"
       }
    ]
 }
