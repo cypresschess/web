@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The record-breaking 2022 Chess Olympiad came to an end in Chennai, India. After a fighting eleventh round, Uzbekistan and Ukraine were crowned champions in the open and women's sections respectively. Armenia and India 2 got silver and bronze medals in the open, while Georgia and India completed the podium in the women's tournament. It was a unique competition, which saw how much of a difference an enthusiastic, diligent organization can actually make! | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r11",
+         "pubDate" : "Tue, 09 Aug 2022 23:30:00 +0100",
+         "title" : "Uzbekistan and Ukraine are the 2022 Olympic champions"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai with the Closing ceremony. After a dramatic finish, Uzbekistan won the Open event and Ukraine claimed gold of the Women's tournament. Uzbekistan defeated Netherlands in the last round with a narrow 2.5-1.5 victory, while Armenia took a victory over Spain to join them on the top with 19 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/",
+         "pubDate" : "Tue, 09 Aug 2022 21:43:48 +0000",
+         "title" : "Chess Olympiad 2022 concluded in Chennai"
+      },
+      {
+         "description" : "The Closing ceremony of the Chess Olympiad 2022 took place today afternoon in Chennai with awarding ceremony for the team Winners and medalists, best individual players, and grant of the Gaprindashvili cup for the federation with the combined supremacy of a team in both open and women's sections. Read more: Ukraine is the Winner of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/india-wins-gaprindashvili-cup-at-the-2022-chess-olympiad/",
+         "pubDate" : "Tue, 09 Aug 2022 20:26:57 +0000",
+         "title" : "India wins Gaprindashvili cup at the 2022 Chess Olympiad"
+      },
+      {
+         "description" : "Armenia gets the silver medal, while India B, formed by young talents, outpaced its seniors and snatched the bronze History was made in the open section of the FIDE Chess Olympiad, which came to an end this morning in Chennai, India. Uzbekistan, one of the youngest teams on the roster, defeated rating favourites the Netherlands []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-final-report/",
+         "pubDate" : "Tue, 09 Aug 2022 20:17:19 +0000",
+         "title" : "Chess Olympiad 2022 - Final report"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-olympiad-2022-best-individual-players-per-boards-open-section-2/",
          "pubDate" : "Tue, 09 Aug 2022 15:06:10 +0000",
          "title" : "Chess Olympiad 2022 - Best individual players per boards (open section)"
-      },
-      {
-         "description" : "Uzbekistan grabbed gold in the open section of the Chess Olympiad after defeating the Netherlands, ahead of Armenia and India 2. In the women's tournament, India gave away the lead in the last hurdle with a loss against the United States. Gold thus went to Ukraine thanks to a final-round win over Poland. Georgia and India completed the podium. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-express-final",
-         "pubDate" : "Tue, 09 Aug 2022 15:00:00 +0100",
-         "title" : "Breaking: Uzbekistan and Ukraine take gold"
       },
       {
          "description" : "Altogether with the Winners and medalists of the Women's Chess Olympiad 2022, the best individual players per boards will receive special prizes and medals. The best Board 1 player of the Women's section according to the rating performance is legendary Swedish GM Pia Cramling with 9.5/11 points and 2532 rating performance. GM Nino Batsiashvili was []",
@@ -194,20 +218,20 @@ news_feed (
          "title" : "Results - Chess Olympiad 2022 round 11 (open section)"
       },
       {
-         "description" : "A dramatic final round marked the Women's Chess Olympiad 2022. India's women's team headed into the last round as the sole leader of the event, but suffered a loss to USA dropping to the third position on the final rankings. Ukraine and Georgia won their matches against Poland and Azerbaijan (respectively) leaping to the shared []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-11-womens-section/",
-         "pubDate" : "Tue, 09 Aug 2022 09:20:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 11 (women's section)"
-      },
-      {
          "description" : "A piece that is attacked does not have to move - that sounds like a trivial little piece of wisdom but it is good to keep it in mind. In the diagrammed position Black just attacked White's rook with 49...Ke5, apparently forgetting that attacked pieces do not have to move. How should White react to Black's attack?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-crushing-counterblow",
          "pubDate" : "Tue, 09 Aug 2022 09:00:00 +0100",
          "title" : "A crushing counterblow"
+      },
+      {
+         "description" : "Uzbekistan grabbed gold in the open section of the Chess Olympiad after defeating the Netherlands, ahead of Armenia and India 2. In the women's tournament, India gave away the lead in the last hurdle with a loss against the United States. Gold thus went to Ukraine thanks to a final-round win over Poland. Georgia and India completed the podium. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-express-final",
+         "pubDate" : "Tue, 09 Aug 2022 08:55:00 +0100",
+         "title" : "Breaking: Uzbekistan and Ukraine take gold"
       },
       {
          "description" : " With 1 round to play,the 2022 Chess Olympiad looks to be a 2 horse race between Uzbekistan and Armenia. Armenia bounced back fro it's round 9 loss to score a big win over Azerbaijan 3-1. Uzbekistan looked to be losing to India 2, until a blunder by Gukesh on board 1 of the match saw Uzbekistan escape with a 2-2 draw. USA and India 1 both won their matches, to stay 1 point behind the leaders. In the Women's Olympiad, India hold a 1 point lead going into the final round. Close behind are Poland, Georgia, Azerbaijan, and Ukraine. So a win for India will give them gold, but a draw or loss will open it up for the pursuing teams. Australia beat Albania 3.5-0.5 to move to 13 points, and a win toda",
@@ -250,7 +274,7 @@ news_feed (
          "title" : "Chennai R10: Uzbekistan and Armenia share the lead, heartbreak for Gukesh"
       },
       {
-         "description" : " 2022 Chess Olympiad: Round #10 Sunday, 8 August 2022 One day Dommaraju Gukesh was touted as a national hero having won eight straight games; a couple of days later, he was the culprit for India losing a crucial match in round 10. Chess can be brutal as a sporting activity. Gukesh was riding high off The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/\">2022 Chess Olympiad: Round #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2022 Chess Olympiad: Round #10 Monday, 8 August 2022 One day Dommaraju Gukesh was touted as a national hero having won eight straight games; a couple of days later, he was the culprit for India losing a crucial match in round 10. Chess can be brutal as a sporting activity. Gukesh was riding high off The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/\">2022 Chess Olympiad: Round #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-10",
          "pubDate" : "Mon, 08 Aug 2022 16:01:00 -0700",
          "title" : "Armenia, Uzbekistan Share Lead In Open; India Leads In Women's"
-      },
-      {
-         "description" : "The Armenian team defeated Azerbaijan in the 10th round of the 2022 Chess Olympiad, emerging on the top of the rankings in the co-lead with Uzbekistan. (Rankings after Round 10) Answering the question about the team's secret for success, Sargissian said he is not sure if there is any: &#8220;Actually, this is a surprise not []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-gabriel-sargissian-speaks-about-the-atmosphere-in-the-armenian-team/",
-         "pubDate" : "Mon, 08 Aug 2022 22:41:11 +0000",
-         "title" : "GM Gabriel Sargissian speaks about the atmosphere in the Armenian team"
       },
       {
          "description" : " 2022 Chess Olympiad: Round #9 Sunday, 7 August 2022 While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
