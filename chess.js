@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh has been the star of the Chennai Olympiad and was about to beat Nodirbek Abdusattorov, move to a staggering 9.5/10, and give India 2 the co-lead before the final round. Instead he crashed to defeat, and it's Uzbekistan who lead with Armenia, who defeated Azerbaijan 3:1.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chennai-olympiad-10-gukesh-despair-as-uzbekistan-escape",
+         "pubDate" : "Mon, 08 Aug 2022 23:34:55 +0000",
+         "title" : "Chennai Olympiad 10: Gukesh despair as Uzbekistan escape"
+      },
+      {
          "description" : "The 12th-seeded Armenia defeated the sixth-seeded Azerbaijan with a convincing 3-1 victory to reach 17 match points and become the joint leaders at the end of the 10th and penultimate round of the 44th FIDE Chess Olympiad. Dramatic developments in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/23/bonus-pod-gm-andrii-baryshpolets-on-why-he-is-running-for-fide-president",
          "pubDate" : "Sat, 23 Jul 2022 13:16:58 +0000",
          "title" : "Bonus Pod- GM Andrii Baryshpolets on Why He is Running For FIDE President "
-      },
-      {
-         "description" : "Jorden van Foreest described it as \"pretty surreal\" as he took down Alireza Firouzja in the final round of rapid chess to top the table before the SuperUnited blitz games begin in Zagreb, Croatia. It's incredibly tight at the top, however, with Firouzja, Magnus Carlsen and Wesley So all just one point behind.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/zagreb-gct-3-jorden-beats-firouzja-to-win-rapid",
-         "pubDate" : "Sat, 23 Jul 2022 10:17:59 +0000",
-         "title" : "Zagreb GCT 3: Jorden beats Firouzja to win Rapid"
       },
       {
          "description" : "The announcement of a new book by the Dutch Grandmaster and world title aspirant, Jan Timman, is always a cause for celebration. One of the sharpest and most literate of chess playing and writing brains, Timman's new book The Unstoppable American reminds me that the fiftieth anniversary of Bobby Fischer becoming World Champion falls due this []",
