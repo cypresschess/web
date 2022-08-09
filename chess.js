@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 44th Chess Olympiad 2022&#xA0;concluded today in Chennai, India with the&#xA0;Closing ceremony. The dramatic fights of the final round determined the Winners and medalists: Ukraine won gold medal with better tiebreaks over Georgia who finished second, while India claimed bronze.&#xA0;Read more:&#xA0;Ukraine is the Winner of the Women&#x2019;s Chess Olympiad 2022! / Uzbekistan wins Chess Olympiad []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-final-rankings-womens-section/",
+         "pubDate" : "Tue, 09 Aug 2022 15:29:24 +0000",
+         "title" : "Chess Olympiad 2022 - Final rankings (women's section)"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai, India with the Closing ceremony. The exciting final round determined the Winners and medalists: Uzbekistan won gold medal with better tiebreaks over Armenia who finished second, while India2 claimed bronze. Read more: Uzbekistan wins Chess Olympiad 2022! / Ukraine is the Winner of the Women&#x2019;s Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-final-rankings-open-section/",
+         "pubDate" : "Tue, 09 Aug 2022 15:24:55 +0000",
+         "title" : "Chess Olympiad 2022 - Final rankings (open section)"
+      },
+      {
+         "description" : "Altogether with the Winners and medalists of the&#160;Chess Olympiad 2022, the best individual players per boards received special prizes and medals at the Closing ceremony of the event. GM Gukesh D won gold medal as the best individual Board 1 player with 9/11 points and 2867 rating performance. GM Nihal Sarin was the best player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-best-individual-players-per-boards-open-section-2/",
+         "pubDate" : "Tue, 09 Aug 2022 15:06:10 +0000",
+         "title" : "Chess Olympiad 2022 - Best individual players per boards (open section)"
+      },
+      {
+         "description" : "Uzbekistan grabbed gold in the open section of the Chess Olympiad after defeating the Netherlands, ahead of Armenia and India 2. In the women's tournament, India gave away the lead in the last hurdle with a loss against the United States. Gold thus went to Ukraine thanks to a final-round win over Poland. Georgia and India completed the podium. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-express-final",
+         "pubDate" : "Tue, 09 Aug 2022 15:00:00 +0100",
+         "title" : "Breaking: Uzbekistan and Ukraine take gold"
+      },
+      {
+         "description" : "Altogether with the Winners and medalists of the Women's Chess Olympiad 2022, the best individual players per boards will receive special prizes and medals. The best Board 1 player of the Women's section according to the rating performance is legendary Swedish GM Pia Cramling with 9.5/11 points and 2532 rating performance. GM Nino Batsiashvili was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-best-individual-players-per-boards-womens-section/",
+         "pubDate" : "Tue, 09 Aug 2022 13:38:15 +0000",
+         "title" : "Chess Olympiad 2022 - Best individual players per boards (women's section)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1916",
+         "pubDate" : "Tue, 09 Aug 2022 13:33:35 +0000",
+         "title" : "FIDE establishes an Advisory Board"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1915",
+         "pubDate" : "Tue, 09 Aug 2022 13:26:36 +0000",
+         "title" : "Uzbekistan youngsters surprise winners of the Chess Olympiad"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg\" data-image-dimensions=\"404x267\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62f25b1c6db49e6646cd1211\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Maureen Grimaud via <a href=\"https://www.facebook.com/photo/?fbid=10156176924240020&amp;set=pob.100001706066219\">GM Fishbein's Fac",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/9/ep-291-gm-alex-fishbein-on-maintaining-a-passion-for-chess-into-ones-50s-plus-great-korchnoi-and-tal-stories",
+         "pubDate" : "Tue, 09 Aug 2022 13:13:42 +0000",
+         "title" : "EP 291- GM Alex Fishbein on Maintaining a Passion for Chess into One's 50s, (Plus great Korchnoi and Tal stories.)"
+      },
+      {
+         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart The third and last foray into our graduation exam for level 5 looks at how the students delivered the winning combination. It is important to keep <a href=\"https://chessimprover.com/students-analysis-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-10/\">Students Analysis (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/students-analysis-10/",
+         "pubDate" : "Tue, 09 Aug 2022 13:07:33 +0000",
+         "title" : "Students Analysis (10)"
+      },
+      {
+         "description" : "For some time now, we've known that the strongest chess engines like to push their flank pawns up the board. This has led to an interesting system, with which we can meet the Grunfeld and the King's Indian. Studying the mainlines is time consuming, and it is possible that our opponents may know the typical plans in those openings better than us, right? Therefore, it is a great idea to take Grunfeld and King's Indian players out of their comfort-zone right from the start!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-3-h4-against-the-king-s-indian-and-gruenfeld",
+         "pubDate" : "Tue, 09 Aug 2022 14:00:00 +0100",
+         "title" : "New - 3.h4 against the King's Indian and Gr&uuml;nfeld"
+      },
+      {
+         "description" : "After a dramatic final round of the Chess Olympiad 2022, Uzbekistan won the Open tournament having better tiebreak criteria than Armenia, while Ukraine clinched gold of the Women's Chess Olympiad thanks to better tiebreaks than Georgia. The event will be officially declared closed at the Awarding Ceremony which can be followed live:",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-2022-closing-ceremony-live/",
+         "pubDate" : "Tue, 09 Aug 2022 12:50:09 +0000",
+         "title" : "Chess Olympiad 2022 - Closing ceremony LIVE"
+      },
+      {
+         "description" : "In 1982, when he was 15 years old, Simen Agdestein won the Norwegian Championship for the first time and became the youngest Norwegian Champion of all time. Three years later, in 1985, he became a Grandmaster, the first Norwegian ever to secure the title. Now, in the 2022 Norwegian Championship, which took place in mid-July, Agdestein set another record: The 55-year-old won the tournament with 8 out of 9 to become the oldest player ever to win the Championship. | Photo: Anniken Westby",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norwegian-championship-2022-another-record-for-simen-agdestein",
+         "pubDate" : "Tue, 09 Aug 2022 13:46:19 +0100",
+         "title" : "Norwegian Championship 2022: Another record for Simen Agdestein"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.ft.com/content/7fec9c27-fd3e-4f00-a1ee-79503c456646#new_tab",
+         "pubDate" : "Tue, 09 Aug 2022 12:27:45 +0000",
+         "title" : "Olympiad gold for Uzbekistan - and David Howell!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93456709.cms\" />India 'B' team settled for a bronze medal in the Open section while the India 'A' women's side also finished third in the 44th Chess Olympiad on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-b-team-wins-bronze-in-open-section-india-a-women-also-finish-third/articleshow/93456709.cms",
+         "pubDate" : "Tue, 09 Aug 2022 12:07:50 +0000",
+         "title" : "Chess Olympiad: India 'B' team wins bronze in Open section; India 'A' women also finish third"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1914",
+         "pubDate" : "Tue, 09 Aug 2022 12:05:11 +0000",
+         "title" : "FIDE Council composition announced"
+      },
+      {
          "description" : "The ECF is now accepting entries for the 2022 UK Open Blitz Championships.&#160;As in previous years there will be 8 one-day regional qualifiers at venues...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -26,12 +146,28 @@ news_feed (
          "title" : "Uzbekistan, Armenia, India II"
       },
       {
-         "description" : "After 11 exciting rounds in a competition of 186 teams represented by more than 900 players, Uzbekistan wins the 44th Chess Olympiad! Replay all games here Final report to followPreviews: Round 11 board pairings (open section) / Rankings after 10 rounds / Interview with GM Gabriel SargissianRead more: Uzbekistan to host 2026 Chess Olympiad The []",
+         "description" : "After 11 exciting rounds in a competition of 186 teams represented by more than 900 players, Uzbekistan wins the 44th Chess Olympiad! Replay all games here / Round 11 results (open section) Final report to followPreviews: Round 11 board pairings (open section) / Rankings after 10 rounds / Interview with GM Gabriel SargissianRead more: Uzbekistan []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/uzbekistan-wins-chess-olympiad-2022/",
          "pubDate" : "Tue, 09 Aug 2022 09:25:06 +0000",
          "title" : "Uzbekistan wins Chess Olympiad 2022!"
+      },
+      {
+         "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai after the thrilling final round. Uzbekistan and Armenia (the co-leaders of the open section after 10 played rounds) won their matches against Netherlands and Spain (respectively) to tie for the first place. GM Gabriel Sargissian defeated GM Alexei Shirov bringing a narrow 2.5-1.5 win to Armenia, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-11-open-section/",
+         "pubDate" : "Tue, 09 Aug 2022 09:25:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 11 (open section)"
+      },
+      {
+         "description" : "A dramatic final round marked the Women's Chess Olympiad 2022. India's women's team headed into the last round as the sole leader of the event, but suffered a loss to USA dropping to the third position on the final rankings. Ukraine and Georgia won their matches against Poland and Azerbaijan (respectively) leaping to the shared []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-11-womens-section/",
+         "pubDate" : "Tue, 09 Aug 2022 09:20:00 +0000",
+         "title" : "Results - Chess Olympiad 2022 round 11 (women's section)"
       },
       {
          "description" : "A piece that is attacked does not have to move - that sounds like a trivial little piece of wisdom but it is good to keep it in mind. In the diagrammed position Black just attacked White's rook with 49...Ke5, apparently forgetting that attacked pieces do not have to move. How should White react to Black's attack?",
@@ -114,30 +250,6 @@ news_feed (
          "title" : "GM Gabriel Sargissian speaks about the atmosphere in the Armenian team"
       },
       {
-         "description" : "Chess is tough, and the life of a professional player is even more so. Maintaining your emotional stability throughout a tournament can be very testing, and things can change rapidly from one day to the next. The match between the youth teams of India B and Uzbekistan was 2-1 for India B, thanks to Praggnanandhaa's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-10-report/",
-         "pubDate" : "Mon, 08 Aug 2022 21:04:03 +0000",
-         "title" : "Chess Olympiad 2022 - Round 10 report"
-      },
-      {
-         "description" : "The final 11th round of the 2022 Chess Olympiad promises exciting games in the Open section which will determine the medalists of the event. Uzbekistan and Armenia are the co-leaders after 10 played rounds, while India 2, India and USA tie for the third place. Armenia faces Spain, and Uzbekistan goes against Netherlands in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-11-board-pairings-open-section/",
-         "pubDate" : "Mon, 08 Aug 2022 20:01:53 +0000",
-         "title" : "Chess Olympiad 2022 - Round 11 board pairings (open section)"
-      },
-      {
-         "description" : "After defeating Kazakhstan in the 10th round of the Women's Chess Olympiad, India's women's team heads into the final 11th round as the sole leader of the event. India scores 17 match points, while Poland, Azerbaijan, Ukraine, and Georgia share the second place with 16 match points, each. Rankings after 10 rounds (women's section) Direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-11-board-pairings-womens-section/",
-         "pubDate" : "Mon, 08 Aug 2022 20:00:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 11 board pairings (women's section)"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #9 Sunday, 7 August 2022 While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -162,44 +274,12 @@ news_feed (
          "title" : "Pain and glory in the Chennai Chess Olympiad"
       },
       {
-         "description" : "With only one round to go, India&#x2019;s women&#x2019;s team overtook the sole leadership of the&#xA0;Women&#x2019;s Chess Olympiad 2022 after defeating Kazakhstan in the 10th round! India is in the sole first place with 17 match points, while Poland, Azerbaijan, Ukraine and Georgia follow with 16 match points. Scroll down for rankings after Round 10 (women's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-rankings-after-round-10-womens-section/",
-         "pubDate" : "Mon, 08 Aug 2022 16:46:57 +0000",
-         "title" : "Chess Olympiad 2022 - Rankings after Round 10 (women's section)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93437828.cms\" />The top-seeded India 'A' team outclassed Kazakhstan 3.5-0.5 for a crucial win in the 10th and penultimate round of the women's section in the 44th Chess Olympiad here on Monday. Top player Koneru Humpy returned to winning ways, beating Zhansaya Abdumalik while Tania Sachdev and Bhakti Kulkarni scored over Xeniya Balabayeva and Gulikshan Nakhbayeva respectively. R Vaishali drew with Bibisara Assaubayeva on the second board.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-a-crush-kazakhstan-in-womens-event-india-b-mens-team-draws-with-uzbekistan/articleshow/93437828.cms",
          "pubDate" : "Mon, 08 Aug 2022 16:42:53 +0000",
          "title" : "India 'A' crush Kazakhstan in women's event, India 'B' men's team draws with Uzbekistan"
-      },
-      {
-         "description" : "Tense fights of the&#xA0;Chess Olympiad 2022&#xA0;penultimate 10th round announce the dramatic finish of the Open section. Uzbekistan and Armenia are the co-leaders of the Open section as Uzbekistan hold a draw against India2, while Armenia defeated Azerbaijan. India 2, India and USA tie for the third place with 16 match points. Scroll down for Rankings []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-rankings-after-round-10-open-section/",
-         "pubDate" : "Mon, 08 Aug 2022 16:41:21 +0000",
-         "title" : "Chess Olympiad 2022 - Rankings after Round 10 (open section)"
-      },
-      {
-         "description" : "With the dramatic finish of the India2 Uzbekistan match with Uzbekistan's win, the convincing victory of USA, and the win of Armenia over Azerbaijan, we are heading to a very exciting finish of the 2022 Chess Olympiad. Uzbekistan and Armenia tie for the top of the Open section with 17 match points, each. Replay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-round-11-pairings-final-round/",
-         "pubDate" : "Mon, 08 Aug 2022 16:16:00 +0000",
-         "title" : "Chess Olympiad 2022 - Round 11 pairings (final round)"
-      },
-      {
-         "description" : "Tense fights of the Chess Olympiad 2022 penultimate 10th round announce the dramatic finish of the Open section. Uzbekistan hold a draw against India2, while Armenia defeated Azerbaijan. Now both Armenia and Uzbekistan score 17 match points, entering the last round as the co-leaders of the Open event. India 2, India and USA tie for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-10-open-section/",
-         "pubDate" : "Mon, 08 Aug 2022 16:15:30 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 10 (open section)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93436589.cms\" />Indian chess legend Viswanathan Anand, who has been elected deputy president of FIDE, on Monday said it is time to do more for the sport in the country.",
@@ -1538,14 +1618,6 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty Eight"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93218305.cms\" /> Indian teams opened their campaigns with easy wins in the Open and women's sections of the 44th Chess Olympiad on Friday. All the six Indian teams (three in Open and three in women's event) won 4-0 over their first round opponents.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-indian-teams-off-to-winning-starts/articleshow/93218305.cms",
-         "pubDate" : "Fri, 29 Jul 2022 15:42:31 +0000",
-         "title" : "Chess Olympiad: Indian teams off to winning starts"
-      },
-      {
          "description" : "Anatoly Karpov was definitely not famous for his outrageous tactics, but when you have played hundreds, and thousands of games, you certainly have some tactical games up your sleeve. Lawrence found some interesting examples, and tough nuts to solve for you.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1770,14 +1842,6 @@ news_feed (
          "title" : "Robots and chess"
       },
       {
-         "description" : "In his \"Game of the Week\" show Merijn van Delft recaps one of his own games from the Amsterdam Science Park Tournament. Merijn faced the ever-creative Manuel Bosboom and, not surprisingly, the game featured a number of startling twists! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-526-crazy-twists",
-         "pubDate" : "Wed, 27 Jul 2022 19:00:00 +0100",
-         "title" : "Game of the Week #526: Crazy twists"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows positions where it was best to sacrifice less important material to improve piece activity. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1800,22 +1864,6 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-8/",
          "pubDate" : "Wed, 27 Jul 2022 09:30:54 +0000",
          "title" : "Students Analysis (8)"
-      },
-      {
-         "description" : "Thorsten Cmiel whets the appetite for the 2022 Chess Olympiad, which starts on Friday in Chennai. As a talent scout, he introduces Team India B - Nihal, Gukesh, Pragg, Adhiban and Raunak - which is sure to have a say in the fight for the medals. | Photo: Lennart Ootes / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-fever-india-2022",
-         "pubDate" : "Wed, 27 Jul 2022 10:20:00 +0100",
-         "title" : "Chess fever in India"
-      },
-      {
-         "description" : "After the Northumbria Masters' successful relaunch last August, this year the Bank Holiday Weekend congress has moved to St. Mary's Catholic School, Newcastle upon Tyne...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entries-welcome-for-northumbria-masters-congress/",
-         "pubDate" : "Wed, 27 Jul 2022 08:19:30 +0000",
-         "title" : "Entries welcome for Northumbria Masters Congress"
       },
       {
          "description" : "The ECU General Assembly and Board elections 2022 took place at the Porto Palace hotel in Thessaloniki on the 23rd of July 2022 with the participation of 50 European National Chess federations.&#160; ECU President Mr. Zurab Azmaiparashvili, FIDE President Mr. Arkady Dvorkovich, President of Greek Chess Federation Mr. Stathis Efstathopoulos, and Greek Chess Federation Vice President Mr. Georgios&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/\">Read More &#187;</a></span>",
@@ -2128,22 +2176,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2022-starts-tomorrow/",
          "pubDate" : "Tue, 19 Jul 2022 17:23:51 +0000",
          "title" : "European Youth Rapid&Blitz Chess Championship 2022 starts tomorrow"
-      },
-      {
-         "description" : " I have just managed to win a rapidplay tournament at my local club with a pleasing 5.5/6. But the secret to this wasn't that the time control suited me, or that I was in good form, but something simpler. I turned up for all 6 rounds (3 weeks), which gave me a distinct advantage. A couple of close rivals had enforced absences (covid), while some had other commitments get in the way. Fortunately I wasn't affected by these issues, which maximised my winning chances! <br /> <b>Press,Shaun - Grcic,Milan [D02]</b><br />Gungahlin Rapid (6), 19.07.2022 <script>new PgnViewer( { boardName: \"game1338\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.g3 c5 4.Bg2 cxd4 5.O-O Nc6 6.Nxd4 e5 7.Nxc6 b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/by-turning-up.html",
-         "pubDate" : "Tue, 19 Jul 2022 13:01:00 +0000",
-         "title" : "By turning up"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f2cd801b-c303-43fc-bfd1-a28f5227e845/Gelfand_%26_Anand.JPG\" data-image-dimensions=\"512x384\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d6a123c1c3d62ea175c4db\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f2cd801b-c303-43fc-bfd1-a28f5227e845/Gelfand_%26_Anand.JPG?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Rodrigo Fernandez <a href=\"https://commons.wikimedia.org/wiki/File:Gelfand_%26_Anand.JPG\">via Wikimedia Commons </",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/19/ep-288-gm-peter-heine-nielsen-takes-us-behind-the-scenes-of-the-2012-anand-gelfand-world-championship-match",
-         "pubDate" : "Tue, 19 Jul 2022 12:26:58 +0000",
-         "title" : "EP 288- GM Peter Heine Nielsen Takes us Behind the Scenes of the 2012 Anand-Gelfand World Championship match "
       }
    ]
 }
