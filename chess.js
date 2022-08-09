@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1917",
+         "pubDate" : "Tue, 09 Aug 2022 17:25:07 +0000",
+         "title" : "Ukraine victorious at the Women's Chess Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93461656.cms\" />The 44th FIDE Chess Olympiad drew to a close on Tuesday amid extravagant cultural events, with India's 'B' team settled for a bronze medal in the Open section.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-olympiad-draws-to-a-close/articleshow/93461656.cms",
+         "pubDate" : "Tue, 09 Aug 2022 16:33:16 +0000",
+         "title" : "FIDE Chess Olympiad draws to a close"
+      },
+      {
+         "description" : "The young Uzbekistan team has won the 2022 Chess Olympiad in Chennai, though it was 27-year-old Jakhongir Vakhidov who clinched victory against the Netherlands. Armenia missed out on tiebreaks after defeating Spain, while India 2 took bronze. The women's event saw an emotional victory for Ukraine, who edged out Georgia, after India fell at the final hurdle to the USA, but still took bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/uzbekistan-and-ukraine-win-chennai-olympiad",
+         "pubDate" : "Tue, 09 Aug 2022 15:42:13 +0000",
+         "title" : "Uzbekistan and Ukraine win Chennai Olympiad"
+      },
+      {
+         "description" : "Continuing with their good form in the event, Uzbekistan and Armenia prevailed over higher seeds Netherland and Spain respectively in the 11th and final round to tie for first-second places with 19 match points in the 44th FIDE Chess Olympiad, wit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-11",
+         "pubDate" : "Tue, 09 Aug 2022 08:39:00 -0700",
+         "title" : "Uzbekistan Wins Gold In Open; Ukraine In Women's; India Wins Gaprindashvili Cup"
+      },
+      {
          "description" : "The 44th Chess Olympiad 2022&#xA0;concluded today in Chennai, India with the&#xA0;Closing ceremony. The dramatic fights of the final round determined the Winners and medalists: Ukraine won gold medal with better tiebreaks over Georgia who finished second, while India claimed bronze.&#xA0;Read more:&#xA0;Ukraine is the Winner of the Women&#x2019;s Chess Olympiad 2022! / Uzbekistan wins Chess Olympiad []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Final rankings (open section)"
       },
       {
-         "description" : "Altogether with the Winners and medalists of the&#160;Chess Olympiad 2022, the best individual players per boards received special prizes and medals at the Closing ceremony of the event. GM Gukesh D won gold medal as the best individual Board 1 player with 9/11 points and 2867 rating performance. GM Nihal Sarin was the best player []",
+         "description" : "Altogether with the Winners and medalists of the&#xA0;Chess Olympiad 2022, the best individual players per boards received special prizes and medals at the Closing ceremony of the event. GM Gukesh D won gold medal as the best individual Board 1 player with 9/11 points and 2867 rating performance. GM Nihal Sarin was the best player []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chess-olympiad-2022-best-individual-players-per-boards-open-section-2/",
@@ -82,7 +114,7 @@ news_feed (
          "title" : "New - 3.h4 against the King's Indian and Gr&uuml;nfeld"
       },
       {
-         "description" : "After a dramatic final round of the Chess Olympiad 2022, Uzbekistan won the Open tournament having better tiebreak criteria than Armenia, while Ukraine clinched gold of the Women's Chess Olympiad thanks to better tiebreaks than Georgia. The event will be officially declared closed at the Awarding Ceremony which can be followed live:",
+         "description" : "After a dramatic final round of the Chess Olympiad 2022, Uzbekistan won the Open tournament having better tiebreak criteria than Armenia, while Ukraine clinched gold of the Women's Chess Olympiad thanks to better tiebreaks than Georgia. The event will be officially declared closed at the Awarding Ceremony which can be followed live: Final rankings (open []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chess-olympiad-2022-closing-ceremony-live/",
@@ -1226,6 +1258,14 @@ news_feed (
          "title" : "USA stumbles in Chennai Olympiad"
       },
       {
+         "description" : "Have you ever dreamed of becoming a chess streamer like Hikaru, GothamChess, or the Botez sisters? Or simply want to grow your audience online through chess? Well, we&#39;re making it easier than ever to get started! The all-new Chess.com Community St...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-community-streamers-chesscom",
+         "pubDate" : "Mon, 01 Aug 2022 11:14:00 -0700",
+         "title" : "Announcing Major Additions to Streaming on Chess.com"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93281672.cms\" />After being on top for the first three days of the 44th Olympiad, Indian teams faced their first hurdle on Monday. India 1, in the open category, drew their encounter against France 2-2. All four matches in that round ended in draws. P Harikrishna and Vidit Gujrathi drew with Jules Moussard and Laurent Fressinet respectively. On the other boards, Arjun Erigaisi had a quick draw against Matthieu Cornette and SL Narayanan split points with Maxime Lagarde.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1448,14 +1488,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-girl-from-palestine-the-darling-of-olympiad/articleshow/93241001.cms",
          "pubDate" : "Sat, 30 Jul 2022 17:34:42 +0000",
          "title" : "8-year-old girl from Palestine, the darling of Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93239581.cms\" />The India 'B' team blanked Estonia 4-0 in the second round of the Open section in the 44th Chess Olympiad here on Saturday. Second-seeded India 'A' team defeated Moldova 3.5-0.5 for its second straight win. World champion Magnus Carlsen, who had missed the first round, beat Georg Meier to star in third-seeded Norway's 4-0 victory over Uruguay.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-red-hot-india-b-team-thrashes-estonia-4-0/articleshow/93239581.cms",
-         "pubDate" : "Sat, 30 Jul 2022 15:26:14 +0000",
-         "title" : "Chess Olympiad: Red-hot India 'B' team thrashes Estonia 4-0"
       },
       {
          "description" : "At the end of the second round of the 44th FIDE Chess Olympiad, 43 teams have four match points, and nine teams won clean 4-0 victories and thus have eight game points. In the 44th FIDE Women&#39;s Chess Olympiad, 40 teams have four match points; 11 t...",
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Narendra Modi: \"There are no losers: only winners and future winners\""
       },
       {
-         "description" : "With tactics exploding on the board at every turn, GM Hou Yifan defeated GM Alexandra Kosteniuk in the quarterfinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Thursday. Hou gained an early lead, but Kosteniuk fought back valia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-quarterfinals-hou-kosteniuk",
-         "pubDate" : "Thu, 28 Jul 2022 12:17:00 -0700",
-         "title" : "Tactics Roar In World No. 1 vs. Chess Queen"
-      },
-      {
          "description" : "The best way to improve at chess is to carefully study master games, stop at certain positions and think about candidate moves. Doing this on your own can be difficult and tiresome, but on this video course, you will be guided by world renowned trainers!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1850,14 +1874,6 @@ news_feed (
          "title" : "Dynamic Sacrifices for a Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "GM Hikaru Nakamura claimed another Titled Tuesday victory early on July 26 and then finished fourth in the late event. GM Alexey Sarana, who finished just behind Nakamura on tiebreaks early, won the late tournament. Early Tournament Late Tour...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-sarana-win-titled-tuesday-july-26-2022",
-         "pubDate" : "Wed, 27 Jul 2022 08:22:23 -0700",
-         "title" : "Nakamura, 22-Year-Old Dominate Tuesday"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1968,14 +1984,6 @@ news_feed (
          "link" : "https://aicf.in/national-under-07-event-rescheduled-to-06-11-october-in-gujarat/",
          "pubDate" : "Sun, 24 Jul 2022 07:51:52 +0000",
          "title" : "National Under 07: Event Rescheduled to 06-11 October 2022 in Gujarat"
-      },
-      {
-         "description" : "Magnus Carlsen ended Day 4 of the SuperUnited Rapid &amp; Blitz Croatia with a 1.5-point lead over Wesley So after winning seven blitz games and losing two. Where does he need to improve on the final day of the event? \"I hope I will not lose like an idiot to Wesley again!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/zagreb-gct-4-magnus-takes-over",
-         "pubDate" : "Sun, 24 Jul 2022 07:37:45 +0000",
-         "title" : "Zagreb GCT 4: Magnus takes over"
       },
       {
          "description" : "",
@@ -2160,22 +2168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/",
          "pubDate" : "Wed, 20 Jul 2022 10:35:47 +0000",
          "title" : "Carlsen Will Give Up His Title, Will Not Defend in 2023"
-      },
-      {
-         "description" : " The SuperUnited Rapid & Blitz took place on 20th July and runs through until the 25th July. Jorden Van Foreest won the rapid and MVL the blitz. Magnus Carlsen won the event over all sealing victory in the combined standings with a couple of rounds to go. He slightly spoiled things for himself by losing the final two rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superunited-rapid-blitz-2022",
-         "pubDate" : "Tue, 19 Jul 2022 22:06:00 +0400",
-         "title" : "SuperUnited Rapid & Blitz 2022 - Games and Results"
-      },
-      {
-         "description" : "After the European Youth Team Chess Championship 2022, Hotel Lazart Thessaloniki, Greece hosts the European Youth Rapid &#38; Blitz Chess Championships 2022. The events take place from 20-22 July with European Youth Individual Rapid Championships first on the schedule. The Rapid Championship will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-championship-2022-starts-tomorrow/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-championship-2022-starts-tomorrow/",
-         "pubDate" : "Tue, 19 Jul 2022 17:23:51 +0000",
-         "title" : "European Youth Rapid&Blitz Chess Championship 2022 starts tomorrow"
       }
    ]
 }
