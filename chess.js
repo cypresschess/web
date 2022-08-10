@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2022 World Computer Chess championship was just held, and was the first edition since 2019 and the outbreak of the pandemic. After over two years, the traditional event took place in Vienna, Austria, and the winners were Ginkgo AKA Fritz using new neural net technology, and a powerful new Komodo (free update today!). Don't miss Komodo's fantastic knight sacrifice (with video!). (photo: Erdo Gunes, operator of Komodo)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/komodo-and-ginkgo-are-2022-world-champions",
-         "pubDate" : "Wed, 10 Aug 2022 14:30:00 +0100",
-         "title" : "Komodo and Ginkgo are 2022 World Champions!"
-      },
-      {
          "description" : " Uzbekistan has won the Chess Olympiad for the first time, finishing first in 2002 tournament on tie-break over Armenia. Both teams won their final round matches to score 19 match points, but Uzbekistan were well ahead on the Olympiad-SB tie-break. India 2 finished third after beating Germany 3-1, finishing a point ahead of India 1 and the USA. Ukraine won the Women's Olympiad, also on tie-break, after finishing alongside Georgia, with 18 MP. India finished in 3rd place, and the Indian teams won the Gaprindashvili Cup for the best combined finishes in the Open and Women's section. Australia drew 2-2 with Chile in the final round to score 14 points and tie for 25th. The women's team score 13 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
