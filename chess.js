@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Dmitry Andreikin won the late Titled Tuesday event on August 9 with a nearly perfect 10.5/11 score, after GM Alexey Sarana had staged an improbable comeback in the early tournament. GM Hikaru Nakamura rode a 9/9 start to a tie for first (second...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-andreikin-win-titled-tuesday-august-9-2022",
+         "pubDate" : "Wed, 10 Aug 2022 08:17:05 -0700",
+         "title" : "Comebacks and Near-Perfection On Display Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1919",
+         "pubDate" : "Wed, 10 Aug 2022 14:26:32 +0000",
+         "title" : "Winners crowned at 44th Chennai Chess Olympiad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93483365.cms\" />India's top players including Koneru Humpy and D Harika, apart from the fast-rising R Vaishali, will be the star attractions in the women's event being introduced in the 4th edition of Tata Steel Chess India tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-to-have-womens-event-for-first-time-prize-money-will-be-equal/articleshow/93483365.cms",
+         "pubDate" : "Wed, 10 Aug 2022 14:18:33 +0000",
+         "title" : "Tata Steel Chess to have women's event for first time; prize money will be equal"
+      },
+      {
+         "description" : "18-year-old Indian Grandmaster Arjun Erigaisi competed for the India A team at the 44th Chess Olympiad. With an impressive score of 8.5/11 points on the third board, Erigaisi was the second best individual player of Board 3 at the Olympiad (see the list of best individual players here), and a good performance was crowned with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaisi-joins-the-2700-club/",
+         "pubDate" : "Wed, 10 Aug 2022 13:43:32 +0000",
+         "title" : "Arjun Erigaisi joins the 2700 club"
+      },
+      {
          "description" : " Uzbekistan has won the Chess Olympiad for the first time, finishing first in 2002 tournament on tie-break over Armenia. Both teams won their final round matches to score 19 match points, but Uzbekistan were well ahead on the Olympiad-SB tie-break. India 2 finished third after beating Germany 3-1, finishing a point ahead of India 1 and the USA. Ukraine won the Women's Olympiad, also on tie-break, after finishing alongside Georgia, with 18 MP. India finished in 3rd place, and the Indian teams won the Gaprindashvili Cup for the best combined finishes in the Open and Women's section. Australia drew 2-2 with Chile in the final round to score 14 points and tie for 25th. The women's team score 13 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -197,17 +229,17 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1916",
-         "pubDate" : "Tue, 09 Aug 2022 13:33:35 +0000",
-         "title" : "FIDE establishes an Advisory Board"
+         "link" : "https://www.fide.com/news/1915",
+         "pubDate" : "Tue, 09 Aug 2022 13:36:36 +0000",
+         "title" : "Uzbekistan youngsters surprise winners of the Chess Olympiad"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1915",
-         "pubDate" : "Tue, 09 Aug 2022 13:26:36 +0000",
-         "title" : "Uzbekistan youngsters surprise winners of the Chess Olympiad"
+         "link" : "https://www.fide.com/news/1916",
+         "pubDate" : "Tue, 09 Aug 2022 13:33:35 +0000",
+         "title" : "FIDE establishes an Advisory Board"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg\" data-image-dimensions=\"404x267\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62f25b1c6db49e6646cd1211\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Maureen Grimaud via <a href=\"https://www.facebook.com/photo/?fbid=10156176924240020&amp;set=pob.100001706066219\">GM Fishbein's Fac",
@@ -296,14 +328,6 @@ news_feed (
          "link" : "https://www.chessdom.com/uzbekistan-wins-chess-olympiad-2022/",
          "pubDate" : "Tue, 09 Aug 2022 09:25:06 +0000",
          "title" : "Uzbekistan wins Chess Olympiad 2022!"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai after the thrilling final round. Uzbekistan and Armenia (the co-leaders of the open section after 10 played rounds) won their matches against Netherlands and Spain (respectively) to tie for the first place. GM Gabriel Sargissian defeated GM Alexei Shirov bringing a narrow 2.5-1.5 win to Armenia, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/results-chess-olympiad-2022-round-11-open-section/",
-         "pubDate" : "Tue, 09 Aug 2022 09:25:00 +0000",
-         "title" : "Results - Chess Olympiad 2022 round 11 (open section)"
       },
       {
          "description" : "A piece that is attacked does not have to move - that sounds like a trivial little piece of wisdom but it is good to keep it in mind. In the diagrammed position Black just attacked White's rook with 49...Ke5, apparently forgetting that attacked pieces do not have to move. How should White react to Black's attack?",
@@ -1586,14 +1610,6 @@ news_feed (
          "title" : "Magnus Carlsen wins on his debut"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93241001.cms\" />Randa Seder, an eight-year girl from Palestine can't be missed in the sea of participants at the ongoing Chess Olympiad. With photo requests from players and spectators the moment she arrived for her game on Saturday, Randa already feels like a celebrity. \"Yes, I like it,\" said Randa, the youngest player in the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-girl-from-palestine-the-darling-of-olympiad/articleshow/93241001.cms",
-         "pubDate" : "Sat, 30 Jul 2022 17:34:42 +0000",
-         "title" : "8-year-old girl from Palestine, the darling of Chess Olympiad"
-      },
-      {
          "description" : "At the end of the second round of the 44th FIDE Chess Olympiad, 43 teams have four match points, and nine teams won clean 4-0 victories and thus have eight game points. In the 44th FIDE Women&#39;s Chess Olympiad, 40 teams have four match points; 11 t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1832,14 +1848,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes",
          "pubDate" : "Fri, 29 Jul 2022 02:54:54 +0000",
          "title" : "Don't Repeat Chess Mistakes Again! | Prepare Like A Pro - WGM Thalia Cervantes"
-      },
-      {
-         "description" : "The 44th FIDE Chess Olympiad was inaugurated on July 28 at the Nehru Indoor Stadium in Chennai with fanfare, in the presence of Narendra Modi, the prime minister of India, and M.K. Stalin, the chief minister of the state of Tamilnadu, the main ini...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-inauguration",
-         "pubDate" : "Thu, 28 Jul 2022 18:07:00 -0700",
-         "title" : "44th FIDE Chess Olympiad Inaugurated In Chennai, India"
       },
       {
          "description" : "",
