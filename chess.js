@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With Russia and China, two top teams were missing from the Women's Tournament at the Chess Olympiad in Chennai. So India was the top favourite and led the field for a long time. But in the last round, the Indians lost to the USA and Ukraine won gold ahead of Georgia while India had to be content with bronze. Oliwia Kiolbasa, who played on board three for Poland, had the best individual performance at the Olympiad, the two best players on board one were chess legend Pia Cramling from Sweden and young Eline Roebers from the Netherlands. | Photos: FIDE (Lennart Ootes, Stev Bonhage)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winners-of-the-44th-chess-olympiad-women-s-tournament",
+         "pubDate" : "Wed, 10 Aug 2022 11:38:33 +0100",
+         "title" : "The winners of the 44th Chess Olympiad (Women's Tournament)"
+      },
+      {
+         "description" : "In the absence of Russia and China, the young Uzbek team surprised everyone by winning the gold medal at the Chess Olympiad in Chennai. The victory comes at the right time, as the 2026 Chess Olympiad will be held in Tashkent, reports FIDE. But gold for the best individual performances on board 1 and 2 went to Gukesh D. and Nihal Sarin from the team of India 2. | Photos: FIDE (Lennart Ootes, Stev Bonhage)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winners-of-the-44th-chess-olympiad-open",
+         "pubDate" : "Wed, 10 Aug 2022 11:24:10 +0100",
+         "title" : "The winners of the 44th Chess Olympiad (Open)"
+      },
+      {
          "description" : "Do you know the Hippopotamus Defence. It is a series of irregular chess opening systems in which Black moves a number of pawns to the sixth rank, and keeps his pieces on the seventh rank. Many experts considered it basically losing, but it has maintained a solid fifty percent for Black, even at the highest level of competition. In the British Chess Magazine Raymond Keene reviews the book The Hippopotamus Defence by Italian IM Alessio de Santis on the subject. | Picture Samuele Giglio, Unsplash",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "Behold now behemoth!"
       },
       {
-         "description" : " Central Asian state, seeded 14, wins the 180-nation team event ahead of Armenia and India 2, while Howell's 7.5/8 total echoes the 1980s when England were challengers to the USSR The premier team competition in chess, the 180-nation Chennai Olympiad, ended on Tuesday with a shock result. Uzbekistan, average age 20 and seeded only 14th, edged to gold ahead of the three-time winners Armenia and India's teenagers, while the top seeded United States finished out of the medals. India's Gukesh D, 16, and the Uzbek Nodirbek Abdusattorov, 17, stood out as fast rising talents destined for the world top. The pair took gold and silver for the first board, leaving the world champion, Magnus Carlsen, wi",
+         "description" : " Central Asian state, seeded 14, wins the 180-nation team event ahead of Armenia and India 2, while Howell's 7.5/8 total echoes the 1980s The premier team competition in chess, the 180-nation Chennai Olympiad, ended on Tuesday with a shock result. Uzbekistan, who had an average age of 20 and were seeded only 14th, edged to gold ahead of the three-time winners Armenia and India's teenagers, while the top seeded United States finished out of the medals. India's Gukesh D, 16, and the Uzbek Nodirbek Abdusattorov, 17, stood out as fast-rising talents destined for the world top. The pair took gold and silver for the first board, leaving the world champion, Magnus Carlsen, with the bronze. Carlsen ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/aug/10/chess-uzbekistan-win-olympiad-while-david-howell-takes-performance-gold",
@@ -1914,22 +1930,6 @@ news_feed (
          "title" : "\"Smartwater\", official beverage partner of the 2022 Chess Olympiad"
       },
       {
-         "description" : "2022 has so far been an earth-shattering year for the chess world. And things continue to unfold in remarkable fashion, as the biggest-ever Olympiad is about to start in Chennai. In sporting terms, the absence of Russian and Chinese teams are a massive loss, but that is more than made up for by the excitement and commitment shown by the host country. Given the excellent reviews shared by participants and organizers alike, we can safely anticipate this will be a memorable event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-preview",
-         "pubDate" : "Thu, 28 Jul 2022 06:30:00 +0100",
-         "title" : "Chennai Olympiad: US big favourite, India looking to leave a mark"
-      },
-      {
-         "description" : "By now it is almost impossible to not have heard the tragic tale of the 7-year-old boy whose finger was broken during an exhibition by a chess playing robot. It was certainly the least likely incident one would have imagined, but Murphy's Law was in full swing that day. Still, the history of robots and chess has been ongoing for over 250 years now, with robot chess players today in the homes of proud owners.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robots-and-chess",
-         "pubDate" : "Wed, 27 Jul 2022 20:30:00 +0100",
-         "title" : "Robots and chess"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2208,22 +2208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1869",
          "pubDate" : "Wed, 20 Jul 2022 12:01:13 +0000",
          "title" : "International Chess Day 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1871",
-         "pubDate" : "Wed, 20 Jul 2022 11:25:29 +0000",
-         "title" : "Lagno overcomes Koneru to reach semifinals"
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen, the World Chess Champion, will not defend his title in 2023. Undefeated Magnus Carlsen was supposed to face Ian Nepomniachtchi again in the next World Chess Championship Match. Due to the refusal, the title will be contested by Nepo and Chinese GM Ding Liren, who finished second in the Candidates Tournament 2022. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20_13-54-30.jpg\" width=\"1200\" height=\"768\" alt=\"\" /> </div> Magnus Carlsen announced it on the <a href=\"https://podcasts.apple.com/ru/podcast/trip-to-las-vegas-wsop-world-chess-championship-and/id1635327043?i=1000570570229\">\"Magnus Effect\" podcast</a>. \"I was i",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/",
-         "pubDate" : "Wed, 20 Jul 2022 10:35:47 +0000",
-         "title" : "Carlsen Will Give Up His Title, Will Not Defend in 2023"
       }
    ]
 }
