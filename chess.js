@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An important part of chess is about conquering squares! But what do you do once you have gained control over them? How can the advantage of a new stronghold be exploited? All this and much more is shown on this DVD by one of the top five trainers in the world. He tells us how to create weaknesses, how to conquer and exploit important squares, and other related techniques. His package of three DVDs is available in our Discount Week for €49.90 instead of €69.90. Learn from GM Mikhalchishin now.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deal-of-the-week-adrian-mikhalchishin-russian-grandmaster-school",
+         "pubDate" : "Wed, 10 Aug 2022 20:00:00 +0100",
+         "title" : "Deal of the week: Adrian Mikhalchishin Russian Grandmaster School"
+      },
+      {
+         "description" : "The 2022 Chess Olympiad team Winners and best individual players were crowned yesterday at the Closing ceremony of the event. The 44th Chess Olympiad was the biggest in numbers, but also the most elegant as FIDE established special awards for the most stylish teams. Teams of Uzbekistan and Mongolia were the most stylish teams in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-most-stylish-teams-of-the-2022-chess-olympiad-are-uzbekistan-mongolia-denmark-and-uganda/",
+         "pubDate" : "Wed, 10 Aug 2022 17:59:19 +0000",
+         "title" : "The most stylish teams of the 2022 Chess Olympiad are Uzbekistan, Mongolia, Denmark and Uganda"
+      },
+      {
+         "description" : "The Minister of Education and Science of Georgia Dr.&#xA0;Mikheil Chkhenkeli&#xA0;was granted an honorary award by the International Chess Federation (FIDE) for his special commitment to promoting Chess in schools.&#xA0; The Award Ceremony was held in Chennai, India, in the framework of the 44th Chess Olympiad. The award was presented to the Minister by FIDE Deputy-President, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mikheil-chkhenkeli-granted-an-honorary-award-for-his-special-commitment-to-promoting-chess-in-schools/",
+         "pubDate" : "Wed, 10 Aug 2022 17:20:32 +0000",
+         "title" : "Mikheil Chkhenkeli granted an honorary award for his special commitment to promoting Chess in Schools"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93485958.cms\" />India not only hosted what's arguably one of the best editions of the chess Olympiad --- which concluded on Sunday --- but also delivered its strongest-ever show in the competition by winning two bronze medals. The high point of the tournament from India's point of view was young gun D Gukesh's splendid show.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-show-at-chess-olympiad-was-just-breathless-viswanathan-anand/articleshow/93485958.cms",
+         "pubDate" : "Wed, 10 Aug 2022 17:19:15 +0000",
+         "title" : "Gukesh's show at Chess Olympiad was just breathless: Anand"
+      },
+      {
+         "description" : "Legendary Swedish grandmaster Pia Cramling debuted in the Chess Olympiad playing for the Swedish National Team 44 years ago in Buenos Aire, Argentina. Yesterday, she received her third Olympic individual gold as the best Board 1 player of the Women's Chess Olympiad. Pia Cramling scored outstanding 9.5/11 points and had a rating performance of 2532. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-pia-cramling-wins-her-third-individual-gold-44-years-after-debuting-in-chess-olympiad/",
+         "pubDate" : "Wed, 10 Aug 2022 17:11:12 +0000",
+         "title" : "GM Pia Cramling wins her third individual gold 44 years after debuting in Chess Olympiad"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #528 Merijn van Delft looks at another impressive game played at the Chess Olympiad in Chennai: Gukesh's convincing win with Black against Fabiano Caruana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-528-caruana-vs-gukesh",
+         "pubDate" : "Wed, 10 Aug 2022 18:00:00 +0100",
+         "title" : "Game of the Week #528: Caruana vs Gukesh"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> India B and India's women team <a href=\"https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-honour-both-medal-winning-indian-chess-teams-with-1-crore-each/article65753052.ece\">each got awarded 10 million rupees</a>, equivalent of €120,000, for winning a medal at the <strong>Chess Olympiad</strong> in Mamallapuram by the government of Tamil Nadu. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/tamil-nadu-wards-medal-winning-teams/",
+         "pubDate" : "Wed, 10 Aug 2022 17:50:57 +0100",
+         "title" : "Tamil Nadu awards medal winning teams"
+      },
+      {
+         "description" : " 2022 Chess Olympiad: Round #11 Tuesday, 9 August 2022 The famous Uzbek talents we've heard about for so long have arrived! Photo by Stev Bonhage Before round 11, there was a lot of tension in the hall as the finale of the 2022 Chess Olympiad unfolded. The young team from Uzbekistan was leading along with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/10/2022-chess-olympiad-uzbekistan-ukraine-win/\">2022 Chess Olympiad: Uzbekistan, Ukraine win!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/10/2022-chess-olympiad-uzbekistan-ukraine-win/",
+         "pubDate" : "Wed, 10 Aug 2022 15:48:10 +0000",
+         "title" : "2022 Chess Olympiad: Uzbekistan, Ukraine win!"
+      },
+      {
+         "description" : "The Chessable British Chess Championships 2022 will be held at the Riviera International Centre in Torquay from 8th to 21st August 2022 inclusive. This will be the 108th British Chess Championship in a series which has run almost unbroken since 1904, with Torquay having previously hosted the Championships on six occasions, most recently in 2019. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-british-chess-2022/",
+         "pubDate" : "Wed, 10 Aug 2022 15:45:59 +0000",
+         "title" : "Chessable British Chess 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93484509.cms\" />Prime Minister Narendra Modi on Wednesday appreciated the people and government of Tamil Nadu for being \"excellent\" hosts for the 44th Chess Olympiad and congratulated the Indian teams for winning the bronze medal in their categories.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-appreciates-tamil-nadu-people-government-for-being-excellent-hosts-for-chess-olympiad/articleshow/93484509.cms",
+         "pubDate" : "Wed, 10 Aug 2022 15:25:10 +0000",
+         "title" : "PM Modi appreciates Tamil Nadu people, government for being 'excellent' hosts for Chess Olympiad"
+      },
+      {
          "description" : "GM Dmitry Andreikin won the late Titled Tuesday event on August 9 with a nearly perfect 10.5/11 score, after GM Alexey Sarana had staged an improbable comeback in the early tournament. GM Hikaru Nakamura rode a 9/9 start to a tie for first (second...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -218,14 +298,6 @@ news_feed (
          "title" : "Chess Olympiad 2022 - Best individual players per boards (open section)"
       },
       {
-         "description" : "Altogether with the Winners and medalists of the Women's Chess Olympiad 2022, the best individual players per boards will receive special prizes and medals. The best Board 1 player of the Women's section according to the rating performance is legendary Swedish GM Pia Cramling with 9.5/11 points and 2532 rating performance. GM Nino Batsiashvili was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-best-individual-players-per-boards-womens-section/",
-         "pubDate" : "Tue, 09 Aug 2022 13:38:15 +0000",
-         "title" : "Chess Olympiad 2022 - Best individual players per boards (women's section)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -266,14 +338,6 @@ news_feed (
          "title" : "New - 3.h4 against the King's Indian and Gr&uuml;nfeld"
       },
       {
-         "description" : "After a dramatic final round of the Chess Olympiad 2022, Uzbekistan won the Open tournament having better tiebreak criteria than Armenia, while Ukraine clinched gold of the Women's Chess Olympiad thanks to better tiebreaks than Georgia. The event will be officially declared closed at the Awarding Ceremony which can be followed live: Final rankings (open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-closing-ceremony-live/",
-         "pubDate" : "Tue, 09 Aug 2022 12:50:09 +0000",
-         "title" : "Chess Olympiad 2022 - Closing ceremony LIVE"
-      },
-      {
          "description" : "In 1982, when he was 15 years old, Simen Agdestein won the Norwegian Championship for the first time and became the youngest Norwegian Champion of all time. Three years later, in 1985, he became a Grandmaster, the first Norwegian ever to secure the title. Now, in the 2022 Norwegian Championship, which took place in mid-July, Agdestein set another record: The 55-year-old won the tournament with 8 out of 9 to become the oldest player ever to win the Championship. | Photo: Anniken Westby",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -306,28 +370,12 @@ news_feed (
          "title" : "UK Blitz 2022 - regional qualifiers now taking entries"
       },
       {
-         "description" : "The battles for the Women's Chess Olympiad winner's podium lasted till the very last minute of the final 11th round. Ukraine claimed gold for the first time since 2006 having better tiebreaks than Georgia who finished silver! Replay all games here Final report to followPreviews: Round 11 board pairings (women's section) / Rankings after 10 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ukraine-is-the-winner-of-the-womens-chess-olympiad-2022/",
-         "pubDate" : "Tue, 09 Aug 2022 09:57:56 +0000",
-         "title" : "Ukraine is the Winner of the Women's Chess Olympiad 2022!"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> None of the top ten seated men teams managed to win a medal at the <strong>Chess Olympiad</strong> in Mamallapuram. Uzbekistan, seated 14th and host of the 2026 Chess Olympiad, wins gold ahead of Armenia, seated 12th, and India II, seated 11th. 16-year old Gukesh blundered a possible gold for the host's junior squad in the penultimate round against Abdusattorov but still claimed the best result on board one ahead of the 17-year old Uzbek. The <strong>Women Chess Olympiad</strong> was won by Ukraine ahead of Georgia and India, who had led throughout but lost their last match against the US. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/uzbekistan-armenia-india-ii/",
          "pubDate" : "Tue, 09 Aug 2022 10:30:07 +0100",
          "title" : "Uzbekistan, Armenia, India II"
-      },
-      {
-         "description" : "After 11 exciting rounds in a competition of 186 teams represented by more than 900 players, Uzbekistan wins the 44th Chess Olympiad! Replay all games here / Round 11 results (open section) Final report to followPreviews: Round 11 board pairings (open section) / Rankings after 10 rounds / Interview with GM Gabriel SargissianRead more: Uzbekistan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uzbekistan-wins-chess-olympiad-2022/",
-         "pubDate" : "Tue, 09 Aug 2022 09:25:06 +0000",
-         "title" : "Uzbekistan wins Chess Olympiad 2022!"
       },
       {
          "description" : "A piece that is attacked does not have to move - that sounds like a trivial little piece of wisdom but it is good to keep it in mind. In the diagrammed position Black just attacked White's rook with 49...Ke5, apparently forgetting that attacked pieces do not have to move. How should White react to Black's attack?",
@@ -890,14 +938,6 @@ news_feed (
          "title" : "Chess Olympiad: Arjun Erigaisi, SL Narayanan shine in India 1 win"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>African Chess Confederation</strong> has elected <strong>Tshepiso Lopang</strong>, an arbiter, WIM, organiser, <a href=\"https://www.linkedin.com/in/tshepiso-lopang-35862924/\">engineer and PhD candidate</a> from Botswana, as its new President. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/tshepiso-lopang-leads-african/",
-         "pubDate" : "Fri, 05 Aug 2022 16:58:49 +0100",
-         "title" : "Tshepiso Lopang leads African federations"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93376884.cms\" />The India 'A' and 'B' teams registered comprehensive victories in the seventh round in the Open section of the 44th Chess Olympiad on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1306,14 +1346,6 @@ news_feed (
          "title" : "Last Week To Qualify Kicks Off With Wins For Chigaev, Esipenko"
       },
       {
-         "description" : " 2022 Chess Olympiad: Round #4Monday, 1 August 2022 Today was an interesting day. We had some upsets in Round #4 both individual and team. One result that had the chess world buzzing was Nodirbek Abdusattarov's win over Fabiano Caruana. The 17-year-old Uzbek prodigy turned heads after beating Magnus Carlsen in an epic blitz game that The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/02/2022-chess-olympiad-round-4/\">2022 Chess Olympiad: Round #4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/02/2022-chess-olympiad-round-4/",
-         "pubDate" : "Tue, 02 Aug 2022 12:57:54 +0000",
-         "title" : "2022 Chess Olympiad: Round #4"
-      },
-      {
          "description" : "Do you find the Sicilian difficult to cope with? Are you afraid to play the Sicilian with White because you do not want to learn a huge amount of variations by heart? Well, Roeland Pruijssers and Nico Zwirs can help. The two Dutchmen have created a complete repertoire against the Sicilian, based on the Open Sicilian. A repertoire that is easy to learn. Only this week: €69.90 instead of €99.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1512,22 +1544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1891",
          "pubDate" : "Sun, 31 Jul 2022 18:37:20 +0000",
          "title" : "All three Indian teams on 100% in Chennai"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93258101.cms\" />As one walks down the playing hall No. 2 at the ongoing 44th Chess Olympiad here, one can't miss Natasha Morales Santos --- Puerto Rico's top-rated women's player. At first glance, the 24-year-old looks like any other player. But once Natasha settles down to play --- you will find she makes her moves on a braille chess board.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/visually-impaired-natasha-morales-santos-never-lost-sight-of-her-goals/articleshow/93258101.cms",
-         "pubDate" : "Sun, 31 Jul 2022 17:20:41 +0000",
-         "title" : "Visually-impaired Natasha never lost sight of her goals"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93256879.cms\" />The Indian teams once again showed their mettle as all six teams registered wins in Round 3 of the 44th Olympiad here on Sunday. India 2 in the open category was the only team to make a clean sweep as they beat Switzerland 4-0. However, R Praggnanandhaa's win against the experienced Yannick Pelletier in 67 moves came after the latter lost on time.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-yannick-pelletier-loses-to-praggnanandhaa-on-time/articleshow/93256879.cms",
-         "pubDate" : "Sun, 31 Jul 2022 15:41:06 +0000",
-         "title" : "Chess Olympiad: Yannick Pelletier loses to Praggnanandhaa on time"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 88th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
@@ -1888,22 +1904,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
          "pubDate" : "Thu, 28 Jul 2022 20:57:00 +0400",
          "title" : "44th World Chess Olympiad 2022 - Games and Results"
-      },
-      {
-         "description" : "The 15th edition of the Paleochora Open took place from the 17th to the 24th July on Crete. It is a tournament with a special atmosphere, which is one of the reasons why Irina Bulmaga likes to return to play in the small town which is about 70 km south of Chania. The Romanian IM and WGM reports from this year's open.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-friendly-tournament-the-paleochora-open",
-         "pubDate" : "Thu, 28 Jul 2022 16:00:00 +0100",
-         "title" : "A friendly tournament: The Paleochora Open"
-      },
-      {
-         "description" : "The 44th Chess Olympiad is about to start in Chennai. The main focus will be undoubtedly on the team results, as every match is a joint effort to earn a match victory. However, individual achievements are also highlighted at Chess Olympiads. Let us recall some of the most remarkable individual results at the Chess Olympiads in the 21st century. | Photo: Niklesh Jain (from the 2018 Batumi Olympiad)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remarkable-performances-at-chess-olympiads",
-         "pubDate" : "Thu, 28 Jul 2022 13:00:00 +0100",
-         "title" : "Remarkable performances at Chess Olympiads"
       },
       {
          "description" : "Chennai hosts the 44th Chess Olympiad, beginning on Thursday with 2000 players from 188 countries",
