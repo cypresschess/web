@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you know the Hippopotamus Defence. It is a series of irregular chess opening systems in which Black moves a number of pawns to the sixth rank, and keeps his pieces on the seventh rank. Many experts considered it basically losing, but it has maintained a solid fifty percent for Black, even at the highest level of competition. In the British Chess Magazine Raymond Keene reviews the book The Hippopotamus Defence by Italian IM Alessio de Santis on the subject. | Picture Samuele Giglio, Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/behold-now-behemoth",
+         "pubDate" : "Wed, 10 Aug 2022 09:00:00 +0100",
+         "title" : "Behold now behemoth!"
+      },
+      {
+         "description" : " Central Asian state, seeded 14, wins the 180-nation team event ahead of Armenia and India 2, while Howell's 7.5/8 total echoes the 1980s when England were challengers to the USSR The premier team competition in chess, the 180-nation Chennai Olympiad, ended on Tuesday with a shock result. Uzbekistan, average age 20 and seeded only 14th, edged to gold ahead of the three-time winners Armenia and India's teenagers, while the top seeded United States finished out of the medals. India's Gukesh D, 16, and the Uzbek Nodirbek Abdusattorov, 17, stood out as fast rising talents destined for the world top. The pair took gold and silver for the first board, leaving the world champion, Magnus Carlsen, wi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/aug/10/chess-uzbekistan-win-olympiad-while-david-howell-takes-performance-gold",
+         "pubDate" : "Wed, 10 Aug 2022 07:00:45 +0000",
+         "title" : "Chess: Uzbekistan win Olympiad while David Howell takes performance gold"
+      },
+      {
+         "description" : "The closing ceremony for the #ChessOlympiad2022 was as magnificent as was the main event. Check out here some glimpses of closing ceremony and individual brilliances",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/44th-chess-olympiad-closing-ceremony-glimpses/",
+         "pubDate" : "Wed, 10 Aug 2022 04:14:23 +0000",
+         "title" : "44th Chess Olympiad: Closing Ceremony Glimpses"
+      },
+      {
+         "description" : "The 44th Chess Olympiad ends in a grand note at JLN Stadium in Chennai on 09 August 2022 .Team Uzbekistan &#38; Ukraine bags team gold",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/44th-chess-olympiad-ends-in-a-grand-style-uzbekistan-ukraine-bags-team-gold-in-open-and-women-respectively-india-2-and-india-women-secured-bronze-in-open-women/",
+         "pubDate" : "Wed, 10 Aug 2022 03:56:30 +0000",
+         "title" : "44th Chess Olympiad ends in a grand style :Uzbekistan & Ukraine bags team gold in open and women respectively , India 2 and India Women secured Bronze in Open & Women."
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the learning moments from a Sam Shankland game at the 44th Chess Olympiad in Chennai. 2022.08.09<br /> Sam Shankland vs Sunilduth Lyna Narayanan, 44th Olympiad (2022): E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2351907\">https://www.chessgames.com/perl/chessgame?gid=2351907</a> Re-uploaded. Original stream had 58 concurrent viewers. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -39,7 +71,7 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/",
          "pubDate" : "Tue, 09 Aug 2022 21:43:48 +0000",
-         "title" : "Chess Olympiad 2022 concluded in Chennai"
+         "title" : "Uzbekistan and Ukraine claim the 44th Chess Olympiad"
       },
       {
          "description" : "The Closing ceremony of the Chess Olympiad 2022 took place today afternoon in Chennai with awarding ceremony for the team Winners and medalists, best individual players, and grant of the Gaprindashvili cup for the federation with the combined supremacy of a team in both open and women's sections. Read more: Ukraine is the Winner of []",
