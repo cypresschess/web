@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the learning moments from a Sam Shankland game at the 44th Chess Olympiad in Chennai. 2022.08.09<br /> Sam Shankland vs Sunilduth Lyna Narayanan, 44th Olympiad (2022): E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2351907\">https://www.chessgames.com/perl/chessgame?gid=2351907</a> Re-uploaded. Original stream had 58 concurrent viewers. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lessons-olympiad-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 10 Aug 2022 03:04:07 +0000",
+         "title" : "Lessons from the Olympiad | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1918",
+         "pubDate" : "Wed, 10 Aug 2022 00:16:16 +0000",
+         "title" : "Mikheil Chkhenkeli granted an honorary award by FIDE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at what can be learned from the 44th Chess Olympiad in Chennai. 2022.08.09<br /> Sam Shankland vs Sunilduth Lyna Narayanan, 44th Olympiad (2022): E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2351907\">https://www.chessgames.com/perl/chessgame?gid=2351907</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lessons-olympiad-road-2000-nm-caleb-denby-lichessorg\"><img src=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lessons-olympiad-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 10 Aug 2022 00:03:55 +0000",
+         "title" : "Lessons from the Olympiad | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "The record-breaking 2022 Chess Olympiad came to an end in Chennai, India. After a fighting eleventh round, Uzbekistan and Ukraine were crowned champions in the open and women's sections respectively. Armenia and India 2 got silver and bronze medals in the open, while Georgia and India completed the podium in the women's tournament. It was a unique competition, which saw how much of a difference an enthusiastic, diligent organization can actually make! | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-olympiad-2022-final-report/",
          "pubDate" : "Tue, 09 Aug 2022 20:17:19 +0000",
          "title" : "Chess Olympiad 2022 - Final report"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93462455.cms\" />Eight years after they won their maiden Olympiad medal, a group of talented teenagers have ensured that the rising superpower of the sport has a team on the podium in their own backyard.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-teen-spirit-gets-india-2-open-team-bronze/articleshow/93462455.cms",
+         "pubDate" : "Tue, 09 Aug 2022 17:28:45 +0000",
+         "title" : "Historic double bronze at Chess Olympiad"
       },
       {
          "description" : "",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://www.ft.com/content/7fec9c27-fd3e-4f00-a1ee-79503c456646#new_tab",
          "pubDate" : "Tue, 09 Aug 2022 12:27:45 +0000",
          "title" : "Olympiad gold for Uzbekistan - and David Howell!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93456709.cms\" />India 'B' team settled for a bronze medal in the Open section while the India 'A' women's side also finished third in the 44th Chess Olympiad on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-b-team-wins-bronze-in-open-section-india-a-women-also-finish-third/articleshow/93456709.cms",
-         "pubDate" : "Tue, 09 Aug 2022 12:07:50 +0000",
-         "title" : "Chess Olympiad: India 'B' team wins bronze in Open section; India 'A' women also finish third"
       },
       {
          "description" : "",
@@ -1754,14 +1778,6 @@ news_feed (
          "title" : "44th FIDE Chess Olympiad Inaugurated In Chennai, India"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament. 2022.07.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY.jpg?itok=cbcyleBb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes-lichessorg",
-         "pubDate" : "Thu, 28 Jul 2022 20:54:31 +0000",
-         "title" : "Don't Repeat Chess Mistakes Again! | Prepare Like A Pro - WGM Thalia Cervantes | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robots-and-chess",
          "pubDate" : "Wed, 27 Jul 2022 20:30:00 +0100",
          "title" : "Robots and chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows positions where it was best to sacrifice less important material to improve piece activity. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nvlROO8c6EQ.jpg?itok=2F14J7O4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dynamic-sacrifices-long-term-advantage-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Wed, 27 Jul 2022 17:53:13 +0000",
-         "title" : "Dynamic Sacrifices for a Long-Term Advantage | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
