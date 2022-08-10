@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 World Computer Chess championship was just held, and was the first edition since 2019 and the outbreak of the pandemic. After over two years, the traditional event took place in Vienna, Austria, and the winners were Ginkgo AKA Fritz using new neural net technology, and a powerful new Komodo (free update today!). Don't miss Komodo's fantastic knight sacrifice (with video!). (photo: Erdo Gunes, operator of Komodo)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/komodo-and-ginkgo-are-2022-world-champions",
+         "pubDate" : "Wed, 10 Aug 2022 14:30:00 +0100",
+         "title" : "Komodo and Ginkgo are 2022 World Champions!"
+      },
+      {
+         "description" : " Uzbekistan has won the Chess Olympiad for the first time, finishing first in 2002 tournament on tie-break over Armenia. Both teams won their final round matches to score 19 match points, but Uzbekistan were well ahead on the Olympiad-SB tie-break. India 2 finished third after beating Germany 3-1, finishing a point ahead of India 1 and the USA. Ukraine won the Women's Olympiad, also on tie-break, after finishing alongside Georgia, with 18 MP. India finished in 3rd place, and the Indian teams won the Gaprindashvili Cup for the best combined finishes in the Open and Women's section. Australia drew 2-2 with Chile in the final round to score 14 points and tie for 25th. The women's team score 13 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-11.html",
+         "pubDate" : "Wed, 10 Aug 2022 12:36:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 11"
+      },
+      {
+         "description" : " <p class=\"lead\">The Chess Olympiad 2022 in Chennai, India is officially over but will definitely stay alive in our minds as one of the most impressive, heartwarming, intense, refreshing, and promising chess events of all time. Uzbekistan won the Open Section of the Olympiad, while in the Women's section the Ukrainian anthem had a great impact in all of us. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5937743190661\"> <img src=\"https://worldchess.com/news/pictures/1-15.jpg\" width=\"2048\" height=\"1285\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52272463682_54665f3a8c_k.jpg\" width=\"2048\" height=\"1485\" alt=\"\" /> <img src=\"https://worldchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/he-is-not-the-only-one-crying-chess-olympiad-2022-is-over/",
+         "pubDate" : "Wed, 10 Aug 2022 11:55:10 +0000",
+         "title" : "\"He is not the only one crying\", Chess Olympiad 2022 is over"
+      },
+      {
          "description" : "With Russia and China, two top teams were missing from the Women's Tournament at the Chess Olympiad in Chennai. So India was the top favourite and led the field for a long time. But in the last round, the Indians lost to the USA and Ukraine won gold ahead of Georgia while India had to be content with bronze. Oliwia Kiolbasa, who played on board three for Poland, had the best individual performance at the Olympiad, the two best players on board one were chess legend Pia Cramling from Sweden and young Eline Roebers from the Netherlands. | Photos: FIDE (Lennart Ootes, Stev Bonhage)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1890,14 +1914,6 @@ news_feed (
          "title" : "Chennai, India's chess capital, welcomes the world (and Carlsen)"
       },
       {
-         "description" : "In July 2022, the Dortmund Chess Festival celebrated the second year of its reboot. Top German and International Grandmasters and former World Champion Vishy Anand helped to turn this year's festival into an attractive chess event. Next year, the festival will celebrate its 50-year jubilee - and here are some video impressions and interviews with the winners of the 49th edition. | Photos and videos: Dortmund Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-chess-festival-2022-impressions-and-interviews",
-         "pubDate" : "Thu, 28 Jul 2022 12:33:13 +0100",
-         "title" : "Dortmund Chess Festival 2022: Impressions and Interviews"
-      },
-      {
          "description" : "The 44th Chess Olympiad 2022 opens today in Chennai, India gathering 350 teams from 190 countries. The Opening ceremony of the event starts today at 19:00 (local time) and the first round starts tomorrow at 15:00 (local time). The Opening press ceremony was held today in the presence of FIDE President Arkady Dvorkovich, AICF President Dr Sanjay Kapoor,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/44th-chess-olympiad-opens-in-chennai/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2184,30 +2200,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/20/breaking-news-bonus-pod-chess24-reporter-tarjei-svenson-on-magnus-decision-not-to-defend-his-title",
          "pubDate" : "Wed, 20 Jul 2022 23:34:20 +0000",
          "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svensen on Magnus' Decision not to Defend his Title "
-      },
-      {
-         "description" : " <p class=\"lead\">And yes, it's true! What the chess world was expecting, but hoping it didn't happen, struck us on the International Chess Day. The reigning World Champion Magnus Carlsen decided not to defend his World Chess Championship Title in 2023 against the Challenger Ian Nepomniachtchi, and - as expected - Twitter is on fire. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-07-20-15.55.41.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> \"I've been thinking about this decision for a long time, more than a year and a half. I spoke with people from my team, with FIDE, with Ian. It's very simple. I am not motivated to play another match.\" Carlsen sta",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-first-reactions-of-carlsens-withdrawal-from-the-wcc-title/",
-         "pubDate" : "Wed, 20 Jul 2022 13:28:41 +0000",
-         "title" : "The first reactions of Carlsen's withdrawal from the WCC title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1872",
-         "pubDate" : "Wed, 20 Jul 2022 13:04:52 +0000",
-         "title" : "Statement by FIDE President Arkady Dvorkovich regarding Magnus Carlsen's intentions to not defend his title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1869",
-         "pubDate" : "Wed, 20 Jul 2022 12:01:13 +0000",
-         "title" : "International Chess Day 2022"
       }
    ]
 }
