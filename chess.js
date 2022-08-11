@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top Chess Engine Championship Season 23 is going to start this August. The defending champion Stockfish is going to compete with 45 of world's best chess engines for the highest title in computer chess. With the weakest engine in the competition being stronger than any chess player, TCEC is promising once again amazing level of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tcec-season-23-next-level/",
+         "pubDate" : "Thu, 11 Aug 2022 10:21:42 +0000",
+         "title" : "TCEC Season 23 - Next Level!"
+      },
+      {
          "description" : "Andr&eacute; Hollstein is a professor for information technology and digitisation at the International University of Applied Sciences (with over 90,000 enrolled students). In a podcast for his students and for the general public he interviewe ChessBase co-founder Frederic Friedel. The subject of their discussion: the digitization of chess, and the revolutionary changes ChessBase brought to the game. The podcast is in German, but Andr&eacute; sent us a full English transcript.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -102,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sarana-andreikin-win-titled-tuesday-august-9-2022",
-         "pubDate" : "Wed, 10 Aug 2022 08:17:05 -0700",
+         "pubDate" : "Wed, 10 Aug 2022 08:17:00 -0700",
          "title" : "Comebacks and Near-Perfection On Display Tuesday"
       },
       {
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-olympiad-2022-final-rankings-open-section/",
          "pubDate" : "Tue, 09 Aug 2022 15:24:55 +0000",
          "title" : "Chess Olympiad 2022 - Final rankings (open section)"
-      },
-      {
-         "description" : "Altogether with the Winners and medalists of the&#xA0;Chess Olympiad 2022, the best individual players per boards received special prizes and medals at the Closing ceremony of the event. GM Gukesh D won gold medal as the best individual Board 1 player with 9/11 points and 2867 rating performance. GM Nihal Sarin was the best player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-best-individual-players-per-boards-open-section-2/",
-         "pubDate" : "Tue, 09 Aug 2022 15:06:10 +0000",
-         "title" : "Chess Olympiad 2022 - Best individual players per boards (open section)"
       },
       {
          "description" : "",
@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/carlsen-decides-not-to-defend-title.html",
          "pubDate" : "Thu, 21 Jul 2022 13:02:00 +0000",
          "title" : "Carlsen decides not to defend title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1873",
-         "pubDate" : "Thu, 21 Jul 2022 11:08:19 +0000",
-         "title" : "Remarkable performances at Chess Olympiads "
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-59/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (59)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-59/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (59)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-59/",
-         "pubDate" : "Thu, 21 Jul 2022 08:50:32 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (59)"
       }
    ]
 }
