@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Andr&eacute; Hollstein is a professor for information technology and digitisation at the International University of Applied Sciences (with over 90,000 enrolled students). In a podcast for his students and for the general public he interviewe ChessBase co-founder Frederic Friedel. The subject of their discussion: the digitization of chess, and the revolutionary changes ChessBase brought to the game. The podcast is in German, but Andr&eacute; sent us a full English transcript.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-and-digitalization-2",
+         "pubDate" : "Thu, 11 Aug 2022 08:47:17 +0100",
+         "title" : "Chess and digitalization"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93490948.cms\" />With a bronze medal in each section, the Chess Olympiad for first-time hosts India was a success. But even the medals warrant some stock-taking and post mortem.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-najdorf-sicilian-with-6-bg5",
          "pubDate" : "Thu, 28 Jul 2022 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Najdorf Sicilian with 6.Bg5"
-      },
-      {
-         "description" : "The 44th Chess Olympiad begins today, and the opening ceremony was held at the Jawaharlal Nehru Stadium in Chennai. The students in Tamil Nadu and the officials and employees of the state were given a day off to mark the opening of the Chess Olympiad. Watch the opening ceremony via live stream...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/live-stream-of-the-opening-ceremony-of-the-44-chess-olympiad-in-chennai",
-         "pubDate" : "Thu, 28 Jul 2022 18:04:01 +0100",
-         "title" : "Live stream of the opening ceremony of the 44. Chess Olympiad in Chennai"
       },
       {
          "description" : " The 44th World Chess Olympiad takes place in Chennai, India Friday 29th July to Wednesday 10th August. The top seeds are USA, India, Norway (with World Champion Magnus Carlsen), Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany and England. Missing are Russia and China. Play starts at 15:00 local time which is 10:30am UK time. The event was originally going to take place in Russia until their invasion of Ukraine and is the first Olympiad held since 2018. ",
