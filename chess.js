@@ -2192,14 +2192,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/",
          "pubDate" : "Thu, 21 Jul 2022 05:50:51 +0000",
          "title" : "ECU General Assembly 2022 to be broadcasted live"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg\" data-image-dimensions=\"542x327\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62d89abeeeb1124b19547338\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/74fc3002-cc03-4d83-b1e3-b603de444d72/Tarjei.final.jpg?format=1000w\" /> </figure> <p class=\"\">GM Magnus Carlsen <a href=\"https://new.chess24.com/wall/news/magnus-carlsen-will-not-defend-his-title\"><span>has officially announced that he will not defend his Worl",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/20/breaking-news-bonus-pod-chess24-reporter-tarjei-svenson-on-magnus-decision-not-to-defend-his-title",
-         "pubDate" : "Wed, 20 Jul 2022 23:34:20 +0000",
-         "title" : "Breaking News Bonus Pod- Chess24 Reporter Tarjei Svensen on Magnus' Decision not to Defend his Title "
       }
    ]
 }
