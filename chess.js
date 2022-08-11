@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1920",
+         "pubDate" : "Thu, 11 Aug 2022 17:56:28 +0000",
+         "title" : "FIDE releases Chess for Protection project Curriculum"
+      },
+      {
+         "description" : "This week Robert Ris will have a look at a fine attacking game by Max Warmerdam. The young Dutch Grandmaster used a popular line of a Ragozin-Hybrid to play one of the most spectacular games of the Chess Olympiad in Chennai. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-in-a-ragozin-hybrid",
+         "pubDate" : "Thu, 11 Aug 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Attacking in a Ragozin-Hybrid"
+      },
+      {
+         "description" : " The 44th World Chess Olympiad took place in Chennai, India Friday 29th July to Wednesday 10th August. The top seeds were USA, India, Norway (with World Champion Magnus Carlsen), Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany and England. Missing are Russia and China. Play starts at 15:00 local time which is 10:30am UK time. The event was originally going to take place in Russia until their invasion of Ukraine and is the first Olympiad held since 2018. A youthful Uzbekistan squad took the Gold medal, the key match being against the India 2 team in Round 10. Armenia finished second and India 2 third, the India team finished fourth. In the women's event there was a really close battl",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
+         "pubDate" : "Thu, 11 Aug 2022 20:57:00 +0400",
+         "title" : "44th World Chess Olympiad 2022 - Games and Results"
+      },
+      {
+         "description" : "In the Endgame Magic Show #206 Karsten M&uuml;ller and Arne K&auml;hler look at endgame highlights from the \"Bundesliga\". | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-205-more-endgame-highlights-from-the-candidates-tournament-2",
+         "pubDate" : "Thu, 11 Aug 2022 16:37:33 +0100",
+         "title" : "Endgame Magic #206: Endgame highlights from the German Bundesliga"
+      },
+      {
+         "description" : "The French composer and pianist Jason Kouchak is an enthusiastic amateur chess player with considerable playing strength. He has taken part in various Opens, including the Open in Gibraltar in 2009, where he met a famous contemporary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meeting-boris-spassky",
+         "pubDate" : "Thu, 11 Aug 2022 16:25:00 +0100",
+         "title" : "Meeting Boris Spassky"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Uzbek President <strong>Shavkat Mirziyoyev</strong> has <a href=\"https://www.uzdaily.uz/en/post/74831\">praised</a> and awarded each member of the gold-winning Chess Olympiad team with $60,000 and a new car. After winning the Youth Chess Olympiad in 2018, the team members had already <a href=\"https://kun.uz/en/90066718\">picked up a smaller car each</a> even before having reached driving age. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/60000-dollars-and-a-car/",
+         "pubDate" : "Thu, 11 Aug 2022 16:03:18 +0100",
+         "title" : "60,000 dollars and a car"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After 17 years as a board member of <strong>US Chess,</strong> overseeing finance, <strong>Randall Bauer</strong>, a public budget consultant, has moved up and been <a href=\"https://new.uschess.org/news/randy-bauer-named-president-us-chess\">elected as president</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/randall-bauer-heads-us-chess/",
+         "pubDate" : "Thu, 11 Aug 2022 15:37:51 +0100",
+         "title" : "Randall Bauer heads US Chess"
+      },
+      {
+         "description" : " Uzbekistan proved that a new chess era has unfolded. The closing of the 2022 Chess Olympiad happened with an exciting future ahead. As the generations of players drop from elite status or retire, new stars are rising. This reality was on full display when Uzbekistan and India 2 stood on the medal stand with the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/11/2022-chess-olympiad-closing-ceremonies/\">2022 Chess Olympiad: Closing Ceremonies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/11/2022-chess-olympiad-closing-ceremonies/",
+         "pubDate" : "Thu, 11 Aug 2022 14:34:02 +0000",
+         "title" : "2022 Chess Olympiad: Closing Ceremonies"
+      },
+      {
          "description" : "Top Chess Engine Championship Season 23 is going to start this August. The defending champion Stockfish is going to compete with 45 of world's best chess engines for the highest title in computer chess. With the weakest engine in the competition being stronger than any chess player, TCEC is promising once again amazing level of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -938,14 +1002,6 @@ news_feed (
          "title" : "Chess Olympiad a happy diversion for besieged Ukraine players"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://chess24.com/en/read/news/magnus-carlsen-tops-ftx-crypto-cup-line-up\">headlines</a> the <strong>FTX Crypto Cup</strong>, the second in-presence event and <a href=\"https://chess24.com/tour/miami/\">first live spectator event</a> of the <strong>Meltwater Champions Chess Tour</strong> 2022, to be held in Miami on 15-21 August. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/first-spectator-tour-event-in-miami/",
-         "pubDate" : "Fri, 05 Aug 2022 17:05:30 +0100",
-         "title" : "First spectator tour event in Miami"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93377563.cms\" />All eyes were on the India vs India match on Friday as the 44th Chess Olympiad returned after a day's break. And the higher-ranked India 1 justified their billing beating India 3 in the seventh round. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1312,14 +1368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-5",
          "pubDate" : "Tue, 02 Aug 2022 15:22:00 -0700",
          "title" : "India 2, Armenia Lead Open; India, Georgia, Romania Lead Women's"
-      },
-      {
-         "description" : " Breaking news about the FIDE presidential race. Inal Sheripov, one of the four candidates for FIDE President has withdrawn from contention. His Deputy President was Lewis Ncube, former African Chess Confederation President. The election takes place at the General Assembly on August 7th which runs concurrently with the Chess Olympiad in Chennai, India. Sheripov released The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/02/sheripov-withdraws-from-2022-fide-campaign/\">Sheripov withdraws from 2022 FIDE campaign</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/02/sheripov-withdraws-from-2022-fide-campaign/",
-         "pubDate" : "Tue, 02 Aug 2022 19:28:19 +0000",
-         "title" : "Sheripov withdraws from 2022 FIDE campaign"
       },
       {
          "description" : "",
@@ -1818,14 +1866,6 @@ news_feed (
          "title" : "Live Links for 44th Chess Olympiad 2022"
       },
       {
-         "description" : "On Thursday afternoon, the 44th Chess Olympiad opened in Chennai with a magnificent and colourful ceremony. Indian Prime Minister Narendra Modi, the guest of honour, formulated the motto of the event: \"There are no losers, only winners and future winners.\" | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/narendra-modi-there-are-no-losers-only-winners-and-future-winners",
-         "pubDate" : "Fri, 29 Jul 2022 12:52:41 +0100",
-         "title" : "Narendra Modi: \"There are no losers: only winners and future winners\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,30 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1883",
          "pubDate" : "Thu, 28 Jul 2022 19:37:34 +0000",
          "title" : "Narendra Modi: \"There are no losers: only winners and future winners\""
-      },
-      {
-         "description" : "The best way to improve at chess is to carefully study master games, stop at certain positions and think about candidate moves. Doing this on your own can be difficult and tiresome, but on this video course, you will be guided by world renowned trainers!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/move-by-move-how-to-get-into-a-master-s-mind",
-         "pubDate" : "Thu, 28 Jul 2022 20:00:00 +0100",
-         "title" : "Move by move - (how to) get into a master's mind!"
-      },
-      {
-         "description" : "This week Robert Ris takes a look at a sharp line of the Najdorf Sicilian with 6.Bg5 and discusses a game that helped 14-year-old Adrian de Winter to win the Amsterdam Open. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-najdorf-sicilian-with-6-bg5",
-         "pubDate" : "Thu, 28 Jul 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Najdorf Sicilian with 6.Bg5"
-      },
-      {
-         "description" : " The 44th World Chess Olympiad takes place in Chennai, India Friday 29th July to Wednesday 10th August. The top seeds are USA, India, Norway (with World Champion Magnus Carlsen), Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany and England. Missing are Russia and China. Play starts at 15:00 local time which is 10:30am UK time. The event was originally going to take place in Russia until their invasion of Ukraine and is the first Olympiad held since 2018. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
-         "pubDate" : "Thu, 28 Jul 2022 20:57:00 +0400",
-         "title" : "44th World Chess Olympiad 2022 - Games and Results"
       },
       {
          "description" : "Chennai hosts the 44th Chess Olympiad, beginning on Thursday with 2000 players from 188 countries",
@@ -2160,14 +2176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1874",
          "pubDate" : "Thu, 21 Jul 2022 22:35:07 +0000",
          "title" : "Vaishali R eliminates Dronavalli to reach semifinals"
-      },
-      {
-         "description" : " The news that Magnus Carlsen will not defend his World Championship title is spreading quite quickly across the chess world. He had hinted that this might happen, but I for one was quite surprised that he has decided to go down this road. He isn't retiring from chess (like Fischer did), and is in fact taking part in the upcoming Olympiad. But we once again return to a situation where the World Champion isn't necessarily the worlds strongest player. The immediate result is that it will be a Nepo v Ding world championship match, as they finished 1st and 2nd at the 2022 Candidates. Interestingly, neither player is taking part in the Olympiad, as neither players country will be there. The longe",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/carlsen-decides-not-to-defend-title.html",
-         "pubDate" : "Thu, 21 Jul 2022 13:02:00 +0000",
-         "title" : "Carlsen decides not to defend title"
       }
    ]
 }
