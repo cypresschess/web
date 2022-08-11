@@ -2168,14 +2168,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/22/chess-five-time-champion-magnus-carlsen-aims-high-after-abdicating-title",
          "pubDate" : "Fri, 22 Jul 2022 07:00:06 +0000",
          "title" : "Chess: five-times champion Magnus Carlsen aims high after abdicating title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1874",
-         "pubDate" : "Thu, 21 Jul 2022 22:35:07 +0000",
-         "title" : "Vaishali R eliminates Dronavalli to reach semifinals"
       }
    ]
 }
