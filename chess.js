@@ -2184,14 +2184,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-59/",
          "pubDate" : "Thu, 21 Jul 2022 08:50:32 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (59)"
-      },
-      {
-         "description" : "The 2022 ECU General Assembly will take place on Saturday, 23rd July 2022 in Hotel Porto Palace Thessaloniki, Greece. The ECU Board meeting will be held a day before, on Friday, 22nd July 2022, in the same venue. 50 European federations and more than 80 delegates, officials, councillors will be present in Thessaloniki for the ECU General Assembly&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2022-to-be-broadcasted-live/",
-         "pubDate" : "Thu, 21 Jul 2022 05:50:51 +0000",
-         "title" : "ECU General Assembly 2022 to be broadcasted live"
       }
    ]
 }
