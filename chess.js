@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93490948.cms\" />With a bronze medal in each section, the Chess Olympiad for first-time hosts India was a success. But even the medals warrant some stock-taking and post mortem.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-post-euphoria-time-to-make-next-move/articleshow/93490948.cms",
+         "pubDate" : "Thu, 11 Aug 2022 03:04:22 +0000",
+         "title" : "Chess Olympiad: Post euphoria, time to make next move"
+      },
+      {
          "description" : "An important part of chess is about conquering squares! But what do you do once you have gained control over them? How can the advantage of a new stronghold be exploited? All this and much more is shown on this DVD by one of the top five trainers in the world. He tells us how to create weaknesses, how to conquer and exploit important squares, and other related techniques. His package of three DVDs is available in our Discount Week for €49.90 instead of €69.90. Learn from GM Mikhalchishin now.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-community-streamers-chesscom",
          "pubDate" : "Mon, 01 Aug 2022 11:14:00 -0700",
          "title" : "Announcing Major Additions to Streaming on Chess.com"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93281672.cms\" />After being on top for the first three days of the 44th Olympiad, Indian teams faced their first hurdle on Monday. India 1, in the open category, drew their encounter against France 2-2. All four matches in that round ended in draws. P Harikrishna and Vidit Gujrathi drew with Jules Moussard and Laurent Fressinet respectively. On the other boards, Arjun Erigaisi had a quick draw against Matthieu Cornette and SL Narayanan split points with Maxime Lagarde.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-gukesh-nihal-star-in-india-2-win/articleshow/93281672.cms",
-         "pubDate" : "Mon, 01 Aug 2022 17:47:10 +0000",
-         "title" : "Chess Olympiad: Gukesh, Nihal star in India 2 win"
       },
       {
          "description" : "In Endgame Magic #201 Karsten M&uuml;ller had a look at endgame highlights from the Candidates Tournament, and in this Endgame Magic Show he visits the Candidates Tournament again. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
