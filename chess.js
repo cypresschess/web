@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The New Zealand team finished on 10 points ( 5 wins and 6 losses) which was probably a disappointment for them. However there we some good individual performances, with Daniel Gong scoring 6.5/9 in Board 1, and missing an IM norm by half a point. The New Zealand Women's team exceeded expectations, finishing on 11 points, with not player scoring below 50%. Board 2 player WFM Vyanla Punsalan scored 8/10 to help to team finish with an impressive 27 game points. The battle between the smaller Oceania nations saw Guam, PNG and Palau all finish on 8 match points. Guam had the better tie break so claims the unofficial 'Islands' championship. The PNG team finished strongly after a slow start and ha",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-11-part-2.html",
+         "pubDate" : "Thu, 11 Aug 2022 23:59:00 +0000",
+         "title" : "2022 Chess Olympiad - Day 11 (Part 2)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
