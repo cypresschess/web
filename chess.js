@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently, the Emanuel Lasker Society and the Excelsior Verlag published the third and final volume of their huge biography of Emanuel Lasker, mathematician, philosopher, writer, and World Champion from 1894 to 1921. Richard Forster, Michael Negele and Raj Tischbierek edited the three volumes. Like its predecessors, the third sheds light on many aspects of Lasker's personality and his wide ranging intellectual interests, and it is a beautiful, carefully designed book well worth reading.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/emanuel-lasker-iii-labors-and-legacy-chess-philosophy-and-psychology",
+         "pubDate" : "Fri, 12 Aug 2022 13:00:00 +0100",
+         "title" : "Emanuel Lasker III: \"Labors and Legacy - Chess, Philosophy, and Psychology\""
+      },
+      {
          "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in the playing venue&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2152,22 +2160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-act-winter-open.html",
          "pubDate" : "Fri, 22 Jul 2022 13:05:00 +0000",
          "title" : "2022 ACT Winter Open"
-      },
-      {
-         "description" : "The ECU Board Meeting took place today, Friday, 22nd of July 2022 in Thessaloniki, Greece. The board discussed the final preparations for the ECU General Assembly 2022 which will be held tomorrow at 09.30 in the same venue. ECU Board discussed the bids received by the deadline of the 29th of April 2022. The ECU received three solo&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-ecu-board-meeting-held-in-thessaloniki-greece/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-ecu-board-meeting-held-in-thessaloniki-greece/",
-         "pubDate" : "Fri, 22 Jul 2022 11:13:27 +0000",
-         "title" : "The ECU Board Meeting held in Thessaloniki, Greece"
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen, the current World Chess Champion, stunned fans earlier this week by announcing that he will not be defending his title in the next match and will effectively retire from the Championship cycle (but not from chess). <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1275\" data-ratio=\"1.5625\"> <img src=\"https://worldchess.com/news/pictures/1-12.jpg\" width=\"1275\" height=\"816\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Snimok-ekrana-2022-07-22-v-12.51.37.png\" width=\"2150\" height=\"1574\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <a href=\"https://yougov.co.uk\">YouGov</a>, the leading research company and",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/only-7-of-people-know-the-name-of-the-current-world-chess-champi/",
-         "pubDate" : "Fri, 22 Jul 2022 10:27:44 +0000",
-         "title" : "Only 7% of People Know The Name of The Current World Chess Champion"
       }
    ]
 }
