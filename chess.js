@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lawrence has prepared some stunning tactics, played by the German legend Wolfgang Uhlmann. The French Defence expert was a masterful chess player for ages, and beat Bobby Fischer in 1960, with this very opening. We continue with our journey to reach a rating of 3000. Meanwhile, we are comfortably sitting around 2550.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-30",
+         "pubDate" : "Fri, 12 Aug 2022 20:00:00 +0100",
+         "title" : "Trent's Tactics - The power of Uhlmann"
+      },
+      {
+         "description" : "In his \"Power Play Show\" Daniel King features games from the Olympiad. Apart from the usual puzzles, Daniel will take close look at Nihal Sarin versus Sebastian Bogner, a masterful performance by the gold-medal winner on board 2 for India 2. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nihal-sarin-demonstrates-a-smooth-demolition",
+         "pubDate" : "Fri, 12 Aug 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Nihal Sarin demonstrates a smooth demolition"
+      },
+      {
          "description" : "The World Chess Hall of Fame (WCHOF) pays homage to American chess phenom Bobby Fischer with the largest exhibition of its kind, 1972 Fischer/Spassky: The Match, Its Origin, and Influence\", on view from August 18, 2022, through April 30, 2023. A public opening reception is happening on Thursday, August 18, 2022, 5-8 pm, with free admission. | Photo: worldchesshof.org",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "World Chess Hall of Fame Celebrates the 50th Anniversary of the Legendary 1972 World Chess Championship"
       },
       {
-         "description" : "Recently, the Emanuel Lasker Society and the Excelsior Verlag published the third and final volume of their huge biography of Emanuel Lasker, mathematician, philosopher, writer, and World Champion from 1894 to 1921. Richard Forster, Michael Negele and Raj Tischbierek edited the three volumes. Like its predecessors, the third sheds light on many aspects of Lasker's personality and his wide ranging intellectual interests, and it is a beautiful, carefully designed book well worth reading.",
+         "description" : "Recently, the Exzelsior Verlag published the third and final volume of their huge biography of Emanuel Lasker, mathematician, philosopher, writer, and World Champion from 1894 to 1921. Richard Forster, Michael Negele and Raj Tischbierek edited the three volumes. Like its predecessors, the third volume sheds light on many aspects of Lasker's personality and his wide ranging intellectual interests, and it is a beautiful, carefully designed book well worth reading.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/emanuel-lasker-iii-labors-and-legacy-chess-philosophy-and-psychology",
@@ -1778,14 +1794,6 @@ news_feed (
          "title" : "Maccabiah Games: New medals in the old city"
       },
       {
-         "description" : "In the diagram position Black has just invited 18.Qxf5, but his way to victory after the game continuation 18.Qd2 is also worthy of a brilliancy prize - have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-king-in-the-centre-2",
-         "pubDate" : "Sat, 30 Jul 2022 09:00:00 +0100",
-         "title" : "The king in the centre"
-      },
-      {
          "description" : "India, Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany, England, India-2, Armenia, Iran, Uzbekistan, India-3, and Croatia were the top teams to score clean 4-0 victories in the first round, while the top-seeded U.S. and third-seeded Norwa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/staffing-office-1st-5th-august/",
          "pubDate" : "Sat, 30 Jul 2022 06:48:35 +0000",
          "title" : "Staffing in the office 1st - 5th August"
-      },
-      {
-         "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Ariadna de la Riva (Andorra) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-1",
-         "pubDate" : "Sat, 30 Jul 2022 06:45:00 +0100",
-         "title" : "Endgames from Chennai (1)"
       },
       {
          "description" : " Round 1 of the 2022 Chess Olympiad has been run and done, with no upset results in either tournaments. The vast majority of matches ended 4-0 to the rating favourites, although both the USA and Norway dropped half a point. No match finished closer than 3-1, with Sri Lanka drawing 2 games against Hungary being the closest thing to an upset result. PNG went down 4-0 to Zambia, although Stuart Fancy and Rupert Jones held out for quite a while. Australia scored 4-0 wins in both the Open and Women's, as did New Zealand. The other Oceania countries suffered similar fates to PNG, but hopefully round 2 will see some improved results. Pairings for round 2 are available at <a href=\"http://chess-resul",
