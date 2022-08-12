@@ -10,6 +10,22 @@ news_feed (
          "title" : "Emanuel Lasker III: \"Labors and Legacy - Chess, Philosophy, and Psychology\""
       },
       {
+         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 15th...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations/",
+         "pubDate" : "Fri, 12 Aug 2022 11:31:19 +0000",
+         "title" : "ECF AGM - call for nominations"
+      },
+      {
+         "description" : "The 2022 Annual General Meeting will be held on Saturday 15th October 2022 and will meet in Birmingham (venue still to be determined) with access...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-motions/",
+         "pubDate" : "Fri, 12 Aug 2022 11:22:47 +0000",
+         "title" : "ECF AGM - call for motions"
+      },
+      {
          "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in the playing venue&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-11-part-2.html",
          "pubDate" : "Thu, 11 Aug 2022 23:59:00 +0000",
          "title" : "2022 Chess Olympiad - Day 11 (Part 2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1920",
-         "pubDate" : "Thu, 11 Aug 2022 17:56:28 +0000",
-         "title" : "FIDE releases Chess for Protection project Curriculum"
       },
       {
          "description" : "This week Robert Ris will have a look at a fine attacking game by Max Warmerdam. The young Dutch Grandmaster used a popular line of a Ragozin-Hybrid to play one of the most spectacular games of the Chess Olympiad in Chennai. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1904,22 +1912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-has-started.html",
          "pubDate" : "Fri, 29 Jul 2022 10:13:00 +0000",
          "title" : "2022 Chess Olympiad has started"
-      },
-      {
-         "description" : "England have received a warm welcome in Chennai where the 44th FIDE Chess Olympiad has just started. You can find more information at https://chessolympiad.fide.com/",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/a-warm-welcome-in-chennai/",
-         "pubDate" : "Fri, 29 Jul 2022 08:46:00 +0000",
-         "title" : "A warm welcome in Chennai"
-      },
-      {
-         "description" : "From Leonard Barden &#8212; &#8216;I think many chess players would be interested in this long and well-written article, which has just been published as the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/enter-the-inner-sanctum-of-elite-chess/",
-         "pubDate" : "Fri, 29 Jul 2022 07:57:51 +0000",
-         "title" : "Enter the inner sanctum of elite chess"
       },
       {
          "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad results (selected): India 4-0 Zimbabwe, Angola 0.5-3.5 US, Lebanon 0.5-3.5 Norway, Spain 4-0 Wales, England 4-0 Cyprus. Women: Tajikistan 0-4 India, Ukraine 4-0 South Africa, Iraq 0-4 Georgia, Libya 0-4 England. For full results, see<a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art",
