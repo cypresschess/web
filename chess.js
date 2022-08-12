@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Hall of Fame (WCHOF) pays homage to American chess phenom Bobby Fischer with the largest exhibition of its kind, 1972 Fischer/Spassky: The Match, Its Origin, and Influence\", on view from August 18, 2022, through April 30, 2023. A public opening reception is happening on Thursday, August 18, 2022, 5-8 pm, with free admission. | Photo: worldchesshof.org",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-celebrates-the-50th-anniversary-of-the-legendary-1972-world-chess-championship",
+         "pubDate" : "Fri, 12 Aug 2022 16:00:00 +0100",
+         "title" : "World Chess Hall of Fame Celebrates the 50th Anniversary of the Legendary 1972 World Chess Championship"
+      },
+      {
          "description" : "Recently, the Emanuel Lasker Society and the Excelsior Verlag published the third and final volume of their huge biography of Emanuel Lasker, mathematician, philosopher, writer, and World Champion from 1894 to 1921. Richard Forster, Michael Negele and Raj Tischbierek edited the three volumes. Like its predecessors, the third sheds light on many aspects of Lasker's personality and his wide ranging intellectual interests, and it is a beautiful, carefully designed book well worth reading.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1818,14 +1826,6 @@ news_feed (
          "title" : "7-0 Winning Streak and Armageddon: Iturrizaga and Niemann Win"
       },
       {
-         "description" : "The much-anticipated Olympiad finally kicked off in Chennai. Lopsided matches were once again the rule in the first round of the massive event. Nonetheless, a couple of strong grandmasters escaped with draws from losing positions, as their opponents were happy to split the points when given the chance. Indian fans could not have asked for a better start, as all six Indian teams scored 4-0 victories on opening day! | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r1",
-         "pubDate" : "Fri, 29 Jul 2022 22:00:00 +0100",
-         "title" : "Chennai R1: 24 out of 24 for Indian teams"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2128,30 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1876",
          "pubDate" : "Fri, 22 Jul 2022 21:52:02 +0000",
          "title" : "Winners crowned at 2022 Biel Chess Festival"
-      },
-      {
-         "description" : " The 55th Biel Chess Festival takes place 10th to 24th July 2022. The main event was a mixture of Classical, Rapid and Blitz - what they call the Grandmaster Triathlon. In addition the same players also competed in a Chess960 tournament that didn't count to the final standings. There was also the traditional strong open alongside. Players in the main event: Andrey Esipenko, Le Quang Liem, Salem Saleh, Gata Kamsky, Vincent Keymer, Nodirbek Abdusattorov, Arkadij Naiditsch and Dommaraju Gukesh. Final standings: 1st Quang Liem Le 35&frac12;pts, 2nd Andrey Esipenko 32&frac12;pts, 3rd Dommaraju Gukesh 29&frac12;pts, 4th Nodirbek Abdusattorov 26&frac12;pts, 5th Saleh Salem 26pts, 6th Gata Kamsky 23",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/55th-biel-chess-festival-2022",
-         "pubDate" : "Fri, 22 Jul 2022 18:28:00 +0400",
-         "title" : "55th Biel Chess Festival 2022 - Games and Results"
-      },
-      {
-         "description" : "National U-17 Open and Girls Chess Championship 2022 Certificates are out to download Links Open :https://aicf.online/National-U(17)-Open.html Girls : https://aicf.online/National-U(17)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com &#160; &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-17-open-and-girls-chess-championship-certificates/",
-         "pubDate" : "Fri, 22 Jul 2022 13:25:57 +0000",
-         "title" : "National U-17 Open and Girls Chess Championship 2022 Certificates"
-      },
-      {
-         "description" : " An update on the details, entries and conditions for the 2022 ACT Winter Open (AKA ANU Open) <br /><h1 style=\"text-align: left;\">ACT Winter Open 2022</h1><br />29-31 July (One round Friday evening, three Saturday, two Sunday)<br /><br />Format: Open section and Under 1600 Section (ACF)<br />Time control: 60m+30s inc (FIDE Rated except for players 2400+)<br /><br />Schedule: Round 1 Friday 29th 7PM, <br />Round 2 Sat 30th 10am, Rd 3 2pm, Round 4, 6pm<br />Round 5 Sun 31st 10am, Round 6 2pm Prize giving 6pm<br /><br />Entry Fee: $80 ($60 concession) - GM, IM, WGM and WIM Free<br /><br />Prizes: $1000 1st Open, $400 1st Minor $3600 in total<br /><br />Venue: Campbell High School Library, Trelo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/2022-act-winter-open.html",
-         "pubDate" : "Fri, 22 Jul 2022 13:05:00 +0000",
-         "title" : "2022 ACT Winter Open"
       }
    ]
 }
