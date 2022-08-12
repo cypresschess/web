@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://www.thearticle.com/is-magnus-carlsen-following-bobby-fischers-fatal-example/",
          "pubDate" : "Sat, 23 Jul 2022 09:13:44 +0000",
          "title" : "Is Magnus Carlsen following Bobby Fischer's fatal example?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1876",
-         "pubDate" : "Fri, 22 Jul 2022 21:52:02 +0000",
-         "title" : "Winners crowned at 2022 Biel Chess Festival"
       }
    ]
 }
