@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in the playing venue&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/",
+         "pubDate" : "Fri, 12 Aug 2022 10:20:54 +0000",
+         "title" : "European Amateur Chess Championship 2022 starts in Zagreb"
+      },
+      {
          "description" : "Daniel Eduardo Pulvett, born in Venezuela and now representing Spain, finished second at the Valencia International Open last month to grab his third GM norm. With a rating already above 2500, he is set to receive the grandmaster title. Pulvett, aged 31, has a ninety-percent visual impairment. He had grabbed his second GM norm only four months ago, at a closed tournament in Breña Baja, in the Canary Islands. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/only-7-of-people-know-the-name-of-the-current-world-chess-champi/",
          "pubDate" : "Fri, 22 Jul 2022 10:27:44 +0000",
          "title" : "Only 7% of People Know The Name of The Current World Chess Champion"
-      },
-      {
-         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">won't defend his title</a> against Ian Nepomniachtchi. The Russian GM will face the Chinese GM Ding Liren at the 2023 World Chess Championship match, but he is obviously disappointed by the turn of events. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/51720699962_f247e32c4f_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> The 2022 Challenger Ian Nepomniachtchi talked to Alejandro Ramirez for the Saint Louis Chess Club after his third rapid round loss t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nepomniachtchi-magnus-felt-like-a-hostage-of-the-whole-situation/",
-         "pubDate" : "Fri, 22 Jul 2022 07:30:41 +0000",
-         "title" : "Nepomniachtchi: \"Magnus felt like a hostage of the whole situation\""
       }
    ]
 }
