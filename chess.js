@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Daniel Eduardo Pulvett, born in Venezuela and now representing Spain, finished second at the Valencia International Open last month to grab his third GM norm. With a rating already above 2500, he is set to receive the grandmaster title. Pulvett, aged 31, has a ninety-percent visual impairment. He had grabbed his second GM norm only four months ago, at a closed tournament in Breña Baja, in the Canary Islands. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-pulvet-gm-title",
+         "pubDate" : "Fri, 12 Aug 2022 09:00:00 +0100",
+         "title" : "Visually impaired player Daniel Pulvett achieves GM title"
+      },
+      {
          "description" : " The New Zealand team finished on 10 points ( 5 wins and 6 losses) which was probably a disappointment for them. However there we some good individual performances, with Daniel Gong scoring 6.5/9 in Board 1, and missing an IM norm by half a point. The New Zealand Women's team exceeded expectations, finishing on 11 points, with not player scoring below 50%. Board 2 player WFM Vyanla Punsalan scored 8/10 to help to team finish with an impressive 27 game points. The battle between the smaller Oceania nations saw Guam, PNG and Palau all finish on 8 match points. Guam had the better tie break so claims the unofficial 'Islands' championship. The PNG team finished strongly after a slow start and ha",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1850,14 +1858,6 @@ news_feed (
          "title" : "A Foundation for Beginners Sixty Eight"
       },
       {
-         "description" : "Anatoly Karpov was definitely not famous for his outrageous tactics, but when you have played hundreds, and thousands of games, you certainly have some tactical games up your sleeve. Lawrence found some interesting examples, and tough nuts to solve for you.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-28",
-         "pubDate" : "Fri, 29 Jul 2022 15:00:00 +0100",
-         "title" : "Trent's Tactics - Karpov's mad tactics"
-      },
-      {
          "description" : " <p class=\"lead\">All eyes are on Chennai for the most prestigious chess event until today, the 44th Chess Olympiad, which will be held from July 28 to August 10. With 187 countries registered, India now holds the world record in terms of the number of participating countries in a single edition of the Olympiad. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-13.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52247594546_740fbcef08_k-(1).jpeg\" width=\"2048\" height=\"1191\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FY08S_VXoAAVfx-.jpeg\" width",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2168,14 +2168,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/nepomniachtchi-magnus-felt-like-a-hostage-of-the-whole-situation/",
          "pubDate" : "Fri, 22 Jul 2022 07:30:41 +0000",
          "title" : "Nepomniachtchi: \"Magnus felt like a hostage of the whole situation\""
-      },
-      {
-         "description" : " The 31-year-old will target a 2900 rating after announcing he will not play Ian Nepomniachtchi in 2023. The Russian and Ding Liren, world Nos 3 and 2, will meet for the vacant crown Magnus Carlsen will not defend his world championship title in 2023 against Russia's Ian Nepomniachtchi. The five-times title winner will instead aim for a new <a href=\"https://www.2700chess.com/\" title=\"\">record playing level</a>. Carlsen explained, in a podcast for Unibet: \" I am not motivated to play another match. I feel that I don't have a lot to gain, and I will simply not play.\" He said that he had thought about his decision since well before the 2021 series where he defeated Nepomniachtchi without losing",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jul/22/chess-five-time-champion-magnus-carlsen-aims-high-after-abdicating-title",
-         "pubDate" : "Fri, 22 Jul 2022 07:00:06 +0000",
-         "title" : "Chess: five-times champion Magnus Carlsen aims high after abdicating title"
       }
    ]
 }
