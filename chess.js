@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The gold medal at the Chess Olympiad in Chennai was decided in one game: the duel between rising stars Dommaraju Gukesh and Nodirbek Abdusattorov. The 16-year-old Indian grandmaster had a better position after the opening and, in fact, was winning at some point. But then the game gradually slipped out of Gukesh's hands, and a final blunder decided the game in Abdusattorov's favour. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-dramatic-deciding-game",
+         "pubDate" : "Sat, 13 Aug 2022 22:00:00 +0100",
+         "title" : "The dramatic, deciding game"
+      },
+      {
          "description" : "Over 650 games were played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller attentively followed the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns showed up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Praggnanandhaa beats Javokhir Sindarov after converting a tough technical endgame. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on of&#102;&#105;&#99;&#x65;&#x40;&#x65;&#x6e;&#x67;li&#115;&#104;&#99;&#x68;&#x65;&#x73;&#x73;&#x2e;or&#103;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on of&#102;&#105;&#99;&#x65;&#x40;&#x65;&#x6e;gl&#105;&#115;&#104;&#x63;&#x68;&#x65;&#x73;s&#46;&#111;&#114;&#103;&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-7",
          "pubDate" : "Sun, 31 Jul 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 88: Basics of the Benko Gambit (7)"
-      },
-      {
-         "description" : "The term \"malyutka\" - \"baby\" - is used for endgame studies with up to five pieces. The art of such studies is very old, but some modern composers extensively researched such positions. Obviously, endgame tablebases made composing such endgame studies easier in the late 20th century, and it seems that there can't be much variety with only three pieces apart from the kings. Yet, even with so few pieces, some interesting ideas can be found.| Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-up-to-five-pieces-allowed",
-         "pubDate" : "Sun, 31 Jul 2022 11:00:00 +0100",
-         "title" : "Study of the Month - Up to five pieces allowed"
       },
       {
          "description" : " This is from a game played in the Chessable English Women's Championship (Nina Pert Anusha Subramanian) played in Kenilworth back in May. Rooks have just been exchanged on f3 and now Black has to decide how to get out of check. What would you advise? I suspect that, in this situation, I'd probably have <a href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Pawn Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\">A Pawn Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
