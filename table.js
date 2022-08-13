@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2022-08-12","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208122982 target='_blank'>/USERS/YIZHANGSMACBOOKAIR/DOCUMENTS</a>",
 "MISSOURI CITY","2022-08-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208092002 target='_blank'>RCC QUADS AUGUST 9 2022</a>",
 "HOUSTON","2022-08-05  - 08-07","35","<a href=http://www.uschess.org/msa/XtblMain.php?202208071212 target='_blank'>$3,500 HOUSTON CHESS STUDIO AUGUST</a>",
 "SPRING","2022-08-05","29","<a href=http://www.uschess.org/msa/XtblMain.php?202208059882 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-10-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110151742 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2021-10-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110100632 target='_blank'>SUNDAY SWISS OCT 10TH</a>",
 "HOUSTON","2021-10-09","120","<a href=http://www.uschess.org/msa/XtblMain.php?202110099942 target='_blank'>NAVARRO MIDDLE SCHOOL SCHOLASTIC</a>",
-"CYPRESS","2021-10-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202110089442 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
