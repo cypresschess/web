@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After ten games in the World Championship match in Reykjavik, 1972, the score was 6&frac12;-3&frac12; for Challenger Bobby Fischer. The match seemed virtually over - in the last eight games Boris Spassky had only managed to score 1&frac12; points. In game 11 Spassky took on the Poisoned Pawn variation of the Najdorf Sicilian. \"Fighting with the desperation of the doomed: he sensationally crushed his opponent in the 11th game\" (Kasparov). In the twelfth he held Fischer to a comfortable draw. And then came the 13th round. Fischer played, for the first time in a top-level game, the Alekhine Defence. It turned into one of the most exciting battles of the match, and is beautifully annotated by GM",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fifty-years-ago-fischer-leads-8-5",
+         "pubDate" : "Sat, 13 Aug 2022 13:00:00 +0100",
+         "title" : "Fifty years ago: Fischer leads 8:5"
+      },
+      {
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;f&#x69;&#x63;&#101;&#64;&#x65;&#x6e;&#103;l&#x69;&#115;h&#x63;&#x68;&#101;s&#x73;&#x2e;&#111;r&#x67;&#46;&#117;&#x6b; with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
+         "pubDate" : "Sat, 13 Aug 2022 10:26:57 +0000",
+         "title" : "FIDE Commissions - nominations"
+      },
+      {
          "description" : "The French Individual Chess Championships 2022&#xA0;will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the&#xA0;95th edition of the French Individual Chess Championship&#xA0;after three years of pause caused by the pandemic of Covid19. The event will be played in two sections: Men []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1816,14 +1832,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-1",
          "pubDate" : "Fri, 29 Jul 2022 23:56:00 -0700",
          "title" : "Nearly Smooth Sailing For Top Seeds In Day Of Zugzwangs"
-      },
-      {
-         "description" : "The best days in the coming week to contact the office by telephone will be Tuesday, Thursday and Friday owing to staff leave. Phones will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/staffing-office-1st-5th-august/",
-         "pubDate" : "Sat, 30 Jul 2022 06:48:35 +0000",
-         "title" : "Staffing in the office 1st - 5th August"
       },
       {
          "description" : " Round 1 of the 2022 Chess Olympiad has been run and done, with no upset results in either tournaments. The vast majority of matches ended 4-0 to the rating favourites, although both the USA and Norway dropped half a point. No match finished closer than 3-1, with Sri Lanka drawing 2 games against Hungary being the closest thing to an upset result. PNG went down 4-0 to Zambia, although Stuart Fancy and Rupert Jones held out for quite a while. Australia scored 4-0 wins in both the Open and Women's, as did New Zealand. The other Oceania countries suffered similar fates to PNG, but hopefully round 2 will see some improved results. Pairings for round 2 are available at <a href=\"http://chess-resul",
