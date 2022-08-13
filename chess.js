@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There were a number of very quick games at the 2022 Chess Olympiad, although some were just ended with a simple blunder. This one was a little more subtle, with White missing an in between move that brought the game to an abrupt finish. <br /> <br /> <b>Mannhart,Marcel (2110) - Van den Brink,Peter (2167) [B23]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (10.1), 08.08.2022 <script>new PgnViewer( { boardName: \"game1341\", movesFormat: \"default\", pgnString:'1.Nc3 c5 2.e4 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Be3 Nc6 6.Qd2 Bg7 7.f3 d6 8.Bh6 Bxh6 9.Qxh6 Be6 10.O-O-O Qa5 11.Kb1 O-O-O 12.Qd2 d5 13.Nxd5 Nxd5 14.Qxa5 Nc3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/olympiad-minatures.html",
+         "pubDate" : "Sat, 13 Aug 2022 14:09:00 +0000",
+         "title" : "Olympiad Minatures"
+      },
+      {
+         "description" : "All India Chess Federation congratulate Hony Secretary Shri Bharat Singh Chauhan for his re-election as President of Commonwealth Chess Association as well as becomes the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-shri-bharat-singh-chauhan/",
+         "pubDate" : "Sat, 13 Aug 2022 13:10:42 +0000",
+         "title" : "Congratulations Shri Bharat Singh Chauhan"
+      },
+      {
          "description" : "Get your copy of Winning Chess Middlegames by GM Ivan Sokolov with 52% discount here Ivan Sokolov is formerly one of the top-ranked chess players in the world. His peak FIDE rating of 2706 in 2004 made him world #12&#x2026;for the third time in twelve years! He held the same position in 1992 when he []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;&#x63;&#101;&#64;&#x65;&#110;&#x67;&#108;i&#x73;&#104;&#x63;&#104;e&#x73;s&#x2e;&#111;&#x72;&#x67;&#46;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#99;&#101;&#64;&#101;ngl&#x69;&#x73;&#x68;&#x63;&#x68;&#101;&#115;&#115;&#46;or&#x67;&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1877",
          "pubDate" : "Sat, 23 Jul 2022 18:10:17 +0000",
          "title" : "Checkmate Coronavirus: Road to Chennai. Vol 2"
-      },
-      {
-         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzAkKLWY7shT8pSo2ncClAPPwLQ_CCSHbSOId2YHAxrASLdE0pq6-KfhhuR9cdxlgaOLPENFVOj7THbwxDEFGPqAaG5om88KtWjc4w6XMuRKoH_EOd4ruSOoWXzO7/s680/anonlouie.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiitD2K0G3yLnJR9Vtd3-DAxFZXwytSZVtpHVWfCuReabUVQ_q4MBjyYKDVfNedzA",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/that-one-chance.html",
-         "pubDate" : "Sat, 23 Jul 2022 14:00:00 +0000",
-         "title" : "That one chance"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg\" data-image-dimensions=\"551x316\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dbf418e12e3a3d6602fea5\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/8f7efb4f-80a0-4bfc-8435-02bf986357de/AB2.jpg?format=1000w\" /> </figure> <p class=\"\">With a FIDE election coming up on August 7, I am extending the invitation for FIDE Presidential Candidates to share their stories and their reasons to run for FIDE President. Brief tim",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/23/bonus-pod-gm-andrii-baryshpolets-on-why-he-is-running-for-fide-president",
-         "pubDate" : "Sat, 23 Jul 2022 13:16:58 +0000",
-         "title" : "Bonus Pod- GM Andrii Baryshpolets on Why He is Running For FIDE President "
       }
    ]
 }
