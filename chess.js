@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over 650 games were played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller attentively followed the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns showed up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Praggnanandhaa beats Javokhir Sindarov after converting a tough technical endgame. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-4",
+         "pubDate" : "Sat, 13 Aug 2022 21:00:00 +0100",
+         "title" : "Endgames from Chennai (4)"
+      },
+      {
+         "description" : "GM Ivan Sokolov, a former top player himself, was the coach of the gold-winning Uzbek team at the Olympiad in Chennai, India. In an interview with Chess.com, the Dutch-Bosnian grandmaster reveals what it&#39;s like to work with prodigies who have taug...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/captain-ivan-sokolov-coach-uzbekistan-olympiad",
+         "pubDate" : "Sat, 13 Aug 2022 12:16:00 -0700",
+         "title" : "Interview: Captain Ivan Sokolov On Coaching Gold-Winning Uzbek Chess Squad"
+      },
+      {
          "description" : " There were a number of very quick games at the 2022 Chess Olympiad, although some were just ended with a simple blunder. This one was a little more subtle, with White missing an in between move that brought the game to an abrupt finish. <br /> <br /> <b>Mannhart,Marcel (2110) - Van den Brink,Peter (2167) [B23]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (10.1), 08.08.2022 <script>new PgnViewer( { boardName: \"game1341\", movesFormat: \"default\", pgnString:'1.Nc3 c5 2.e4 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Be3 Nc6 6.Qd2 Bg7 7.f3 d6 8.Bh6 Bxh6 9.Qxh6 Be6 10.O-O-O Qa5 11.Kb1 O-O-O 12.Qd2 d5 13.Nxd5 Nxd5 14.Qxa5 Nc3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#99;&#101;&#64;&#101;ngl&#x69;&#x73;&#x68;&#x63;&#x68;&#101;&#115;&#115;&#46;or&#x67;&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on of&#102;&#105;&#99;&#x65;&#x40;&#x65;&#x6e;&#x67;li&#115;&#104;&#99;&#x68;&#x65;&#x73;&#x73;&#x2e;or&#103;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1738,14 +1754,6 @@ news_feed (
          "title" : "Study of the Month - Up to five pieces allowed"
       },
       {
-         "description" : "Most games favoured the favourites in round 2 of the Chess Olympiad, with a few exceptions. In the open section, Zambia and Bulgaria upset Denmark and Croatia respectively, while among the women, Ecuador got the better of Slovenia. World champion Magnus Carlsen made his debut, and outplayed Georg Meier in a balanced endgame to help Norway get a 4-0 win over Uruguay. | Pictured: Mohamed Emli Ramla (Dijibouti) | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r2",
-         "pubDate" : "Sun, 31 Jul 2022 10:00:00 +0100",
-         "title" : "Chennai R2: Zambia and Bulgaria score upsets"
-      },
-      {
          "description" : " This is from a game played in the Chessable English Women's Championship (Nina Pert Anusha Subramanian) played in Kenilworth back in May. Rooks have just been exchanged on f3 and now Black has to decide how to get out of check. What would you advise? I suspect that, in this situation, I'd probably have <a href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Pawn Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\">A Pawn Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chennai-olympiad-1-aronian-stumbles-as-favourites-win",
          "pubDate" : "Fri, 29 Jul 2022 20:40:49 +0000",
          "title" : "Chennai Olympiad 1: Aronian stumbles as favourites win"
-      },
-      {
-         "description" : "Chess.com is proud to announce the return of Arena Kings starting on August 3 at 9 a.m. PT/18:00 CET! Arena Kings is shifting back to its roots: An event by chess streamers for chess streamers. It is for this reason that the event now features a w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-arena-kings-format",
-         "pubDate" : "Fri, 29 Jul 2022 12:31:00 -0700",
-         "title" : "Announcing Arena Kings With New Weekly Format"
       },
       {
          "description" : "",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://aicf.in/national-under-07-event-rescheduled-to-06-11-october-in-gujarat/",
          "pubDate" : "Sun, 24 Jul 2022 07:51:52 +0000",
          "title" : "National Under 07: Event Rescheduled to 06-11 October 2022 in Gujarat"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1877",
-         "pubDate" : "Sat, 23 Jul 2022 18:10:17 +0000",
-         "title" : "Checkmate Coronavirus: Road to Chennai. Vol 2"
       }
    ]
 }
