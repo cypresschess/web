@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Get your copy of Winning Chess Middlegames by GM Ivan Sokolov with 52% discount here Ivan Sokolov is formerly one of the top-ranked chess players in the world. His peak FIDE rating of 2706 in 2004 made him world #12&#x2026;for the third time in twelve years! He held the same position in 1992 when he []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ivan-sokolov-winning-the-olympiad-gold-medal-and-winning-chess-middlegames/",
+         "pubDate" : "Sat, 13 Aug 2022 13:05:08 +0000",
+         "title" : "Ivan Sokolov - winning the Olympiad gold medal and \"Winning chess middlegames\""
+      },
+      {
          "description" : "After ten games in the World Championship match in Reykjavik, 1972, the score was 6&frac12;-3&frac12; for Challenger Bobby Fischer. The match seemed virtually over - in the last eight games Boris Spassky had only managed to score 1&frac12; points. In game 11 Spassky took on the Poisoned Pawn variation of the Najdorf Sicilian. \"Fighting with the desperation of the doomed: he sensationally crushed his opponent in the 11th game\" (Kasparov). In the twelfth he held Fischer to a comfortable draw. And then came the 13th round. Fischer played, for the first time in a top-level game, the Alekhine Defence. It turned into one of the most exciting battles of the match, and is beautifully annotated by GM",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;f&#x69;&#x63;&#101;&#64;&#x65;&#x6e;&#103;l&#x69;&#115;h&#x63;&#x68;&#101;s&#x73;&#x2e;&#111;r&#x67;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;&#x63;&#101;&#64;&#x65;&#110;&#x67;&#108;i&#x73;&#104;&#x63;&#104;e&#x73;s&#x2e;&#111;&#x72;&#x67;&#46;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -432,14 +440,6 @@ news_feed (
          "link" : "https://www.chessdom.com/india-wins-gaprindashvili-cup-at-the-2022-chess-olympiad/",
          "pubDate" : "Tue, 09 Aug 2022 20:26:57 +0000",
          "title" : "India wins Gaprindashvili cup at the 2022 Chess Olympiad"
-      },
-      {
-         "description" : "Armenia gets the silver medal, while India B, formed by young talents, outpaced its seniors and snatched the bronze History was made in the open section of the FIDE Chess Olympiad, which came to an end this morning in Chennai, India. Uzbekistan, one of the youngest teams on the roster, defeated rating favourites the Netherlands []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-final-report/",
-         "pubDate" : "Tue, 09 Aug 2022 20:17:19 +0000",
-         "title" : "Chess Olympiad 2022 - Final report"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93462455.cms\" />Eight years after they won their maiden Olympiad medal, a group of talented teenagers have ensured that the rising superpower of the sport has a team on the podium in their own backyard.",
