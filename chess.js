@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White has yet to react properly to the black queen's check, then he may happily start searching for mates - feel free to join!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checks-and-mates",
+         "pubDate" : "Sat, 13 Aug 2022 09:00:00 +0100",
+         "title" : "Checks and mates"
+      },
+      {
          "description" : "Lawrence has prepared some stunning tactics, played by the German legend Wolfgang Uhlmann. The French Defence expert was a masterful chess player for ages, and beat Bobby Fischer in 1960, with this very opening. We continue with our journey to reach a rating of 3000. Meanwhile, we are comfortably sitting around 2550.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34313309/chess-olympiad-2022-malta-djibouti-iraq-jordan-chennai-brings-global-family-board?device=featurephone",
          "pubDate" : "Sat, 30 Jul 2022 03:49:12 -0500",
          "title" : "From Malta, Djibouti and Iraq, Chess Olympiad brings the global family to the board"
-      },
-      {
-         "description" : "The Maccabiah Games have been held every four years in Israel since 1932, with the participation of many Jewish athletes from around the world. Chess is one of the many sports featured at the games. The 21st edition was played from 13 - 22 July 2022 in Jerusalem. The atmosphere of the Maccabiah Games was palpable in the historical city, with a huge number of sportspeople from different countries speaking different languages and waiting to compete in a range of sports. | Photo: Dr. Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maccabiah-games-new-medals-in-the-old-city",
-         "pubDate" : "Sat, 30 Jul 2022 09:30:00 +0100",
-         "title" : "Maccabiah Games: New medals in the old city"
       },
       {
          "description" : "India, Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany, England, India-2, Armenia, Iran, Uzbekistan, India-3, and Croatia were the top teams to score clean 4-0 victories in the first round, while the top-seeded U.S. and third-seeded Norwa...",
