@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Individual Chess Championships 2022&#xA0;will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the&#xA0;95th edition of the French Individual Chess Championship&#xA0;after three years of pause caused by the pandemic of Covid19. The event will be played in two sections: Men []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/french-individual-chess-championships-2022-live/",
+         "pubDate" : "Sat, 13 Aug 2022 09:25:12 +0000",
+         "title" : "French Individual Chess Championships 2022 LIVE"
+      },
+      {
+         "description" : "As we know, 2022 is the fiftieth anniversary of the Spassky v Fischer world championship of 1972, which has gone down in chess lore as: the Match of the Century. The anniversary has been marked by a special exhibition at the US Chess Hall of Fame in St Louis, as well as a stupendous new []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/bobby-boris-timman-sir-tim-50-years-since-fischer-v-spassky/",
+         "pubDate" : "Sat, 13 Aug 2022 09:00:26 +0000",
+         "title" : "Bobby & Boris, Timman & Sir Tim: 50 years since Fischer v Spassky"
+      },
+      {
+         "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 &#x2013; 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-amateur-chess-championship-2022-starts-in-zagreb/",
+         "pubDate" : "Sat, 13 Aug 2022 08:12:25 +0000",
+         "title" : "European Amateur Chess Championship 2022 starts in Zagreb"
+      },
+      {
          "description" : "In the diagram position, White has yet to react properly to the black queen's check, then he may happily start searching for mates - feel free to join!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/checks-and-mates",
          "pubDate" : "Sat, 13 Aug 2022 09:00:00 +0100",
          "title" : "Checks and mates"
+      },
+      {
+         "description" : " One of the things I've been mentioning over this series of articles is the idea of studying the games of master level players to aid in your improvement. However, I didn't mention which of the masters you should study. Sorry about that! The reason I'm saying sorry is because not all master games are suitable <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-nine/\">A Foundation for Beginners Sixty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-nine/",
+         "pubDate" : "Sat, 13 Aug 2022 07:56:57 +0000",
+         "title" : "A Foundation for Beginners Sixty Nine"
       },
       {
          "description" : "Lawrence has prepared some stunning tactics, played by the German legend Wolfgang Uhlmann. The French Defence expert was a masterful chess player for ages, and beat Bobby Fischer in 1960, with this very opening. We continue with our journey to reach a rating of 3000. Meanwhile, we are comfortably sitting around 2550.",
@@ -432,22 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-11",
          "pubDate" : "Tue, 09 Aug 2022 08:39:00 -0700",
          "title" : "Uzbekistan Wins Gold In Open; Ukraine In Women's; India Wins Gaprindashvili Cup"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022&#xA0;concluded today in Chennai, India with the&#xA0;Closing ceremony. The dramatic fights of the final round determined the Winners and medalists: Ukraine won gold medal with better tiebreaks over Georgia who finished second, while India claimed bronze.&#xA0;Read more:&#xA0;Ukraine is the Winner of the Women&#x2019;s Chess Olympiad 2022! / Uzbekistan wins Chess Olympiad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-final-rankings-womens-section/",
-         "pubDate" : "Tue, 09 Aug 2022 15:29:24 +0000",
-         "title" : "Chess Olympiad 2022 - Final rankings (women's section)"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai, India with the Closing ceremony. The exciting final round determined the Winners and medalists: Uzbekistan won gold medal with better tiebreaks over Armenia who finished second, while India2 claimed bronze. Read more: Uzbekistan wins Chess Olympiad 2022! / Ukraine is the Winner of the Women&#x2019;s Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-2022-final-rankings-open-section/",
-         "pubDate" : "Tue, 09 Aug 2022 15:24:55 +0000",
-         "title" : "Chess Olympiad 2022 - Final rankings (open section)"
       },
       {
          "description" : "",
@@ -2112,14 +2128,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/23/bonus-pod-gm-andrii-baryshpolets-on-why-he-is-running-for-fide-president",
          "pubDate" : "Sat, 23 Jul 2022 13:16:58 +0000",
          "title" : "Bonus Pod- GM Andrii Baryshpolets on Why He is Running For FIDE President "
-      },
-      {
-         "description" : "The announcement of a new book by the Dutch Grandmaster and world title aspirant, Jan Timman, is always a cause for celebration. One of the sharpest and most literate of chess playing and writing brains, Timman's new book The Unstoppable American reminds me that the fiftieth anniversary of Bobby Fischer becoming World Champion falls due this []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/is-magnus-carlsen-following-bobby-fischers-fatal-example/",
-         "pubDate" : "Sat, 23 Jul 2022 09:13:44 +0000",
-         "title" : "Is Magnus Carlsen following Bobby Fischer's fatal example?"
       }
    ]
 }
