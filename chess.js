@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Ian Nepomniachtchi&#38;nbsp;won the week 25 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 48 competit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-25-swiss",
+         "pubDate" : "Sun, 14 Aug 2022 08:20:23 -0700",
+         "title" : "Nepomniachtchi Wins Week 25 Swiss: Summary Report"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 89th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-2",
+         "pubDate" : "Sun, 14 Aug 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 89: Basics of the Benko Gambit (8)"
+      },
+      {
+         "description" : " The next miniature from the 2022 Olympiad involves an old idea that still seems to catch a lot of victims. I've seen shorter versions of this trap work against the Morra Gambit, but in this case it is against a more mainline Sicilian. <br /> <b>Dobrovoljc,Vid (2398) - Diamant,Andre (2538) [B30]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (11.4), 09.08.2022 <script>new PgnViewer( { boardName: \"game1342\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 Be7 9.dxc5 O-O 10.Nbd2 Bxc5 11.Ne4 Be7 12.c4 Nf6 13.Qc2 Qc7 14.Bg5 Ng4 15.h3 Nd4 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1342",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/old-but-reliable.html",
+         "pubDate" : "Sun, 14 Aug 2022 13:39:00 +0000",
+         "title" : "Old but reliable"
+      },
+      {
          "description" : "The FTX Crypto Cup, kicks off next week with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and will be held on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. On offer is $210K plus an additional $100K tied to the price of bitcoin provided by leading cryptocurrency exchange FTX.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,7 +114,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;&#x66;&#x69;&#99;&#x65;&#64;e&#x6e;&#103;l&#x69;&#115;h&#x63;&#104;e&#x73;&#115;&#x2e;&#x6f;&#114;&#x67;&#x2e;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;f&#105;&#x63;e&#64;&#x65;n&#x67;&#x6c;&#105;&#x73;h&#99;&#x68;e&#115;&#x73;&#46;&#x6f;&#x72;&#103;&#x2e;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1706,14 +1730,6 @@ news_feed (
          "title" : "Nepomniachtchi enters top-3 open in August 2022 rating list"
       },
       {
-         "description" : "As a chess site, it is not an exaggeration to say that the first and foremost obligation is to have the means to teach the game. ChessBase has programs such as the Fritz & Chesster series, but another way is through the Learn Chess app in the ChessBase Account, a beginner courses, which teaches the moves and then the core fundamentals. Here is a small tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/learning-to-play-chess-with-chessbase",
-         "pubDate" : "Mon, 01 Aug 2022 10:00:00 +0100",
-         "title" : "Learning to play chess with ChessBase"
-      },
-      {
          "description" : "Italy inflicted a shocking defeat on third-seeded Norway with a convincing score of 3-1 in the third round of the 44th FIDE Chess Olympiad, as Netherlands and India 2 scored impressive 4-0 victories against Sweden and Switzerland respectively. Ind...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-round-1.html",
          "pubDate" : "Sat, 30 Jul 2022 04:03:00 +0000",
          "title" : "2022 Chess Olympiad - Round 1"
-      },
-      {
-         "description" : "GMs Eduardo Iturrizaga and Hans Niemann were the winners of the eleventh and twelfth Play-ins of the Chess.com Global Championship. GMs Kirill Alekseenko and Martyn Kravtsiv each won second place respectively, joining the winners in advancing to t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-3-day-2",
-         "pubDate" : "Fri, 29 Jul 2022 14:13:00 -0700",
-         "title" : "7-0 Winning Streak and Armageddon: Iturrizaga and Niemann Win"
       },
       {
          "description" : "",
@@ -2120,14 +2128,6 @@ news_feed (
          "link" : "https://chessimprover.com/solving-endgame-studies/",
          "pubDate" : "Sun, 24 Jul 2022 18:15:11 +0000",
          "title" : "Solving Endgame Studies"
-      },
-      {
-         "description" : " After a 4 year break, I am heading off to the Chess Olympiad in Chennai, India. It will be an early start from Canberra, and I expect to reach the hotel quite late tomorrow night. I'm heading off a few days early as I am back on the Technical Administration Panel for the tournament, which involves a lot of work before the event actually begins. Hopefully teams will have successfully navigated the visa process, and that covid won't be an issue. So probably no blogging tomorrow, but after that, I should post regular updates from the tournament <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/in-transit.html",
-         "pubDate" : "Sun, 24 Jul 2022 12:10:00 +0000",
-         "title" : "In transit"
       }
    ]
 }
