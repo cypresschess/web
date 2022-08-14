@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup, kicks off next week with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and will be held on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. On offer is $210K plus an additional $100K tied to the price of bitcoin provided by leading cryptocurrency exchange FTX.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-preview",
+         "pubDate" : "Sun, 14 Aug 2022 13:00:00 +0100",
+         "title" : "Carlsen and Firouzja set for FTX Crypto Cup clash in Miami"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1916",
+         "pubDate" : "Sun, 14 Aug 2022 08:33:35 +0000",
+         "title" : "FIDE establishes an Advisory Board"
+      },
+      {
          "description" : " Some thoughts from my good friend Ray Cannon on bishop endings. It is often mentioned that you shouldn't put pawns on the same colour the bishop controls but I don't ever recall hearing mentioned that you shouldn't put your king on the same colour as your bishop in the endgame! In my opinion doing so <a href=\"https://chessimprover.com/bishop-endings-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-endings-2/\">Bishop Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;e&#110;&#103;&#x6c;&#x69;&#x73;h&#99;&#104;&#101;&#x73;&#x73;&#x2e;o&#114;&#103;&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;&#x66;&#x69;&#99;&#x65;&#64;e&#x6e;&#103;l&#x69;&#115;h&#x63;&#104;e&#x73;&#115;&#x2e;&#x6f;&#114;&#x67;&#x2e;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -552,14 +568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1915",
          "pubDate" : "Tue, 09 Aug 2022 13:36:36 +0000",
          "title" : "Uzbekistan youngsters surprise winners of the Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1916",
-         "pubDate" : "Tue, 09 Aug 2022 13:33:35 +0000",
-         "title" : "FIDE establishes an Advisory Board"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg\" data-image-dimensions=\"404x267\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62f25b1c6db49e6646cd1211\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Maureen Grimaud via <a href=\"https://www.facebook.com/photo/?fbid=10156176924240020&amp;set=pob.100001706066219\">GM Fishbein's Fac",
@@ -1706,14 +1714,6 @@ news_feed (
          "title" : "Learning to play chess with ChessBase"
       },
       {
-         "description" : "It is getting more and more difficult for the top teams to beat their lower-rated opponents at the Chess Olympiad in Chennai. In round 3, Norway and Germany, seeded third and ninth in the open section, were defeated by Italy and Austria respectively, while the eighth seeds from Ukraine could only get a draw against Cuba. In the women's section, Mongolia beat the United States and Estonia took down Armenia. | Pictured: Daniele Vocaturo (Italy) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r3",
-         "pubDate" : "Mon, 01 Aug 2022 08:05:00 +0100",
-         "title" : "Chennai R3: Italy beats Norway, Austria beats Germany"
-      },
-      {
          "description" : "Italy inflicted a shocking defeat on third-seeded Norway with a convincing score of 3-1 in the third round of the 44th FIDE Chess Olympiad, as Netherlands and India 2 scored impressive 4-0 victories against Sweden and Switzerland respectively. Ind...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/in-transit.html",
          "pubDate" : "Sun, 24 Jul 2022 12:10:00 +0000",
          "title" : "In transit"
-      },
-      {
-         "description" : "Dear All, Please be informed that due to the Announcement of Asian Chess Federation ,the Asian School Chess Championship 2022 scheduled to be conducted at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-07-event-rescheduled-to-06-11-october-in-gujarat/",
-         "pubDate" : "Sun, 24 Jul 2022 07:51:52 +0000",
-         "title" : "National Under 07: Event Rescheduled to 06-11 October 2022 in Gujarat"
       }
    ]
 }
