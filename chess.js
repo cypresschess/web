@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just a couple of days ago, Komodo 3 received the free \"World Chess Software Champion\" update. We interviewed the creators of one of the most \"human-like\" chess engines - Larry Kaufman & Mark Lefler. They describe the main differences between Komodo 2 and Komodo 3 as well as a typical workday for an engine developer. And, fortunately, Mark Lefler demonstrates what can be done with a stack of cards that are lying around on his desk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-magicians-of-komodo-3-larry-kaufman-and-mark-lefler",
+         "pubDate" : "Sun, 14 Aug 2022 09:00:00 +0100",
+         "title" : "The magicians of Komodo 3 - Larry Kaufman and Mark Lefler"
+      },
+      {
+         "description" : " Some thoughts from my good friend Ray Cannon on bishop endings. It is often mentioned that you shouldn't put pawns on the same colour the bishop controls but I don't ever recall hearing mentioned that you shouldn't put your king on the same colour as your bishop in the endgame! In my opinion doing so <a href=\"https://chessimprover.com/bishop-endings-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-endings-2/\">Bishop Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/bishop-endings-2/",
+         "pubDate" : "Sun, 14 Aug 2022 06:50:03 +0000",
+         "title" : "Bishop Endings"
+      },
+      {
+         "description" : "Round One of the nine-round main British Championships took place at the Riviera Centre in Torquay yesterday. You can see the pairings for the games...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-main-chessable-british-championship-has-begun/",
+         "pubDate" : "Sun, 14 Aug 2022 05:25:33 +0000",
+         "title" : "The main Chessable British Championship has begun &hellip;."
+      },
+      {
          "description" : "The gold medal at the Chess Olympiad in Chennai was decided in one game: the duel between rising stars Dommaraju Gukesh and Nodirbek Abdusattorov. The 16-year-old Indian grandmaster had a better position after the opening and, in fact, was winning at some point. But then the game gradually slipped out of Gukesh's hands, and a final blunder decided the game in Abdusattorov's favour. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#x40;e&#110;&#103;&#108;&#x69;&#x73;&#x68;ch&#101;&#115;&#x73;&#x2e;&#x6f;rg&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;n&#103;&#x6c;&#105;&#x73;&#104;&#x63;h&#x65;s&#115;&#x2e;&#111;&#x72;&#103;&#x2e;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1650,14 +1674,6 @@ news_feed (
          "title" : "Held By Uzbekistan, U.S. Survives Scare; Abdusattorov Shocks Caruana"
       },
       {
-         "description" : "At the close of voting for the silver representatives results were as follows &#8212; Robert Dennington 21; Srihari Iyengar 8; Tahir Maher ...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/direct-members-reps-elections-2022/",
-         "pubDate" : "Mon, 01 Aug 2022 16:00:21 +0000",
-         "title" : "Direct Members Reps Elections 2022 results"
-      },
-      {
          "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Sumiya Bilguun (Mongolia) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1744,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1891",
          "pubDate" : "Sun, 31 Jul 2022 18:37:20 +0000",
          "title" : "All three Indian teams on 100% in Chennai"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 88th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-7",
-         "pubDate" : "Sun, 31 Jul 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 88: Basics of the Benko Gambit (7)"
       },
       {
          "description" : " This is from a game played in the Chessable English Women's Championship (Nina Pert Anusha Subramanian) played in Kenilworth back in May. Rooks have just been exchanged on f3 and now Black has to decide how to get out of check. What would you advise? I suspect that, in this situation, I'd probably have <a href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Pawn Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\">A Pawn Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
