@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An experienced trainer, Ivan Sokolov just helped Uzbekistan to win the Chess Olympiad in Chennai. In his FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than on specific lines. In a section focused on positions where Black has not castled but placed his king on f8, Sokolov analyses a game between Fabiano Caruana and Daniel Naroditsky. Out of a French Defence, Caruana never lets go of the initiative, and achieves a remarkable victory. | Photo: Austin Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sokolov-middlegames-king-on-f8",
+         "pubDate" : "Sun, 14 Aug 2022 23:50:00 +0100",
+         "title" : "A middlegame lesson by Ivan Sokolov: The king on f8"
+      },
+      {
+         "description" : "The Spanish National Chess Championship 2022 commenced on Thursday and takes place from 11 &#x2013; 18 August in Linares. More than 120 players compete for the title of the National Champion in 9 rounds, swiss system. All information about the event &#38; starting rank list of participants LIVE games:",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/spanish-chess-championship-2022-live/",
+         "pubDate" : "Sun, 14 Aug 2022 17:42:37 +0000",
+         "title" : "Spanish Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "The Spanish National Chess Championship 2022 commenced on Thursday and takes place from 11 18 August in Linares. The event is played in 9 swiss rounds, with participation of more than 120 players. The top seeds of the event are: GM Jaime Santos Latasa, GM Eduardo Iturrizaga Bonelli, GM Ivan Salgado Lopez, GM Daniil []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/spanish-chess-championship-2022/",
+         "pubDate" : "Sun, 14 Aug 2022 17:38:58 +0000",
+         "title" : "Spanish Chess Championship 2022"
+      },
+      {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Ian Nepomniachtchi&#38;nbsp;won the week 25 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 48 competit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,7 +138,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x40;&#x65;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;&#x65;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;&#x63;&#x65;&#64;&#x65;&#110;&#x67;&#x6c;i&#x73;&#104;&#x63;&#x68;e&#x73;&#115;&#x2e;&#x6f;r&#x67;&#46;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -426,14 +450,6 @@ news_feed (
          "title" : "Tata Steel Chess to have women's event for first time; prize money will be equal"
       },
       {
-         "description" : "18-year-old Indian Grandmaster Arjun Erigaisi competed for the India A team at the 44th Chess Olympiad. With an impressive score of 8.5/11 points on the third board, Erigaisi was the second best individual player of Board 3 at the Olympiad (see the list of best individual players here), and a good performance was crowned with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-joins-the-2700-club/",
-         "pubDate" : "Wed, 10 Aug 2022 13:43:32 +0000",
-         "title" : "Arjun Erigaisi joins the 2700 club"
-      },
-      {
          "description" : " Uzbekistan has won the Chess Olympiad for the first time, finishing first in 2002 tournament on tie-break over Armenia. Both teams won their final round matches to score 19 match points, but Uzbekistan were well ahead on the Olympiad-SB tie-break. India 2 finished third after beating Germany 3-1, finishing a point ahead of India 1 and the USA. Ukraine won the Women's Olympiad, also on tie-break, after finishing alongside Georgia, with 18 MP. India finished in 3rd place, and the Indian teams won the Gaprindashvili Cup for the best combined finishes in the Open and Women's section. Australia drew 2-2 with Chile in the final round to score 14 points and tie for 25th. The women's team score 13 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -536,14 +552,6 @@ news_feed (
          "link" : "https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/",
          "pubDate" : "Tue, 09 Aug 2022 21:43:48 +0000",
          "title" : "Uzbekistan and Ukraine claim the 44th Chess Olympiad"
-      },
-      {
-         "description" : "The Closing ceremony of the Chess Olympiad 2022 took place today afternoon in Chennai with awarding ceremony for the team Winners and medalists, best individual players, and grant of the Gaprindashvili cup for the federation with the combined supremacy of a team in both open and women's sections. Read more: Ukraine is the Winner of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/india-wins-gaprindashvili-cup-at-the-2022-chess-olympiad/",
-         "pubDate" : "Tue, 09 Aug 2022 20:26:57 +0000",
-         "title" : "India wins Gaprindashvili cup at the 2022 Chess Olympiad"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93462455.cms\" />Eight years after they won their maiden Olympiad medal, a group of talented teenagers have ensured that the rising superpower of the sport has a team on the podium in their own backyard.",
@@ -1714,14 +1722,6 @@ news_feed (
          "title" : "Endgames from Chennai (2)"
       },
       {
-         "description" : "ChessBase Magazine Extra #208 offers, among other things, almost an hour of video training: Ivan Sokolov presents 6.g3 as a surprise weapon against the Sicilian Four Knights. And Nico Zwirs examines the move 5...b5 in the Vienna Variation of the Queen's Gambit - an absolutely fashionable variation that leads to very dynamic play! \"The brilliancy\" is contributed by David Navara, who highlights his Black win with the Berlin Defense against Alexei Shirov. In addition, the \"Lucky bag\" with 59 annotated games - including contributions from Anish Giri and Kirill Shevchenko - holds a colorful mix of analyses and suggestions. ChessBase Magazine Extra is the perfect supplement to ChessBase Magazine. ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-208",
-         "pubDate" : "Mon, 01 Aug 2022 14:00:00 +0100",
-         "title" : "New: CBM Extra #208"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2104,30 +2104,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-didnt-retire-from-chess-won-the-super-united-croatia-202/",
          "pubDate" : "Mon, 25 Jul 2022 08:31:08 +0000",
          "title" : "Carlsen didn't retire from chess, won the Super United Croatia 2022"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen will no longer defend his crown, but normal service was resumed in Zagreb as he won the SuperUnited Rapid & Blitz Croatia with a round to spare. Amazing last days saw Alireza Firouzja and MVL finish just half a point behind, though only after Magnus lost his last two games.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-croatia-rapid-blitz",
-         "pubDate" : "Sun, 24 Jul 2022 21:57:47 +0000",
-         "title" : "Magnus Carlsen wins Croatia Rapid & Blitz"
-      },
-      {
-         "description" : "European Youth Rapid and Blitz Chess Championships 2022 took place from 20-22 July in Hotel Lazart Thessaloniki, Greece. 250 players from 28 European federations participated in the events which were played within 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls separately. The first event on the schedule was European Youth Rapid Chess Championship&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-rapidblitz-chess-champions-crowned-in-thessaloniki/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-rapidblitz-chess-champions-crowned-in-thessaloniki/",
-         "pubDate" : "Sun, 24 Jul 2022 20:57:14 +0000",
-         "title" : "European Youth Rapid&Blitz Chess Champions crowned in Thessaloniki"
-      },
-      {
-         "description" : " One thing that's changed dramatically over the past decade or so is the attitude towards chess compositions: problems and studies. A few years or so the world of chess composition was regarded by many as an irrelevance to practical players, but now many chess trainers see solving problems and, even more so, endgame studies, as <a href=\"https://chessimprover.com/solving-endgame-studies/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Solving Endgame Studies\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/solving-endgame-studies/\">Solving Endgame Studies</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/solving-endgame-studies/",
-         "pubDate" : "Sun, 24 Jul 2022 18:15:11 +0000",
-         "title" : "Solving Endgame Studies"
       }
    ]
 }
