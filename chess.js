@@ -74,7 +74,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;n&#x67;l&#x69;s&#x68;c&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;e&#110;&#103;&#x6c;&#x69;&#x73;h&#99;&#104;&#101;&#x73;&#x73;&#x2e;o&#114;&#103;&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -208,6 +208,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
          "pubDate" : "Thu, 11 Aug 2022 20:57:00 +0400",
          "title" : "44th World Chess Olympiad 2022 - Games and Results"
+      },
+      {
+         "description" : "The 2017 World Rapid and Blitz Championship took place on December 26-30 in Saudi Arabia's capital, Riyadh. The rapid tournament, which included 134 participants, saw Vishy Anand beating Vladimir Fedoseev in a blitz tiebreak after tying for first place with 10&frac12;/15 points. Anand, at 48, outscored his younger opponents, including world champion and rapid-play specialist Magnus Carlsen. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-anand-world-rapid-2017",
+         "pubDate" : "Thu, 11 Aug 2022 17:00:00 +0100",
+         "title" : "Throwback Thursday: Vishy Anand wins World Rapid Championship at 48"
       },
       {
          "description" : "In the Endgame Magic Show #206 Karsten M&uuml;ller and Arne K&auml;hler look at endgame highlights from the \"Bundesliga\". | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
