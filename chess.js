@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Just a couple of days ago, Komodo 3 received the free \"World Chess Software Champion\" update. We interviewed the creators of one of the most \"human-like\" chess engines - Larry Kaufman & Mark Lefler. They describe the main differences between Komodo 2 and Komodo 3 as well as a typical workday for an engine developer. And, fortunately, Mark Lefler demonstrates what can be done with a stack of cards that are lying around on his desk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-magicians-of-komodo-3-larry-kaufman-and-mark-lefler",
-         "pubDate" : "Sun, 14 Aug 2022 09:00:00 +0100",
-         "title" : "The magicians of Komodo 3 - Larry Kaufman and Mark Lefler"
-      },
-      {
          "description" : " Some thoughts from my good friend Ray Cannon on bishop endings. It is often mentioned that you shouldn't put pawns on the same colour the bishop controls but I don't ever recall hearing mentioned that you shouldn't put your king on the same colour as your bishop in the endgame! In my opinion doing so <a href=\"https://chessimprover.com/bishop-endings-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-endings-2/\">Bishop Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -82,7 +74,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;n&#103;&#x6c;&#105;&#x73;&#104;&#x63;h&#x65;s&#115;&#x2e;&#111;&#x72;&#103;&#x2e;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;n&#x67;l&#x69;s&#x68;c&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
