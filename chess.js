@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #207 Karsten M&uuml;ller has a guest: Lara Schulze, one of Germany's most promising female talents, who in 2021 won the European Women's Championship U20 and the German Women's Rapid Championship. In this episode of the Endgame Magic Show Lara and Karsten look at endgame highlights from the Chess Olympiad in Chennai. | Photo: Oliver Koeller | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-207-with-karsten-mueller-and-lara-schulze-highlights-from-the-olympiad",
+         "pubDate" : "Mon, 15 Aug 2022 17:00:00 +0100",
+         "title" : "Endgame Magic #207 with Karsten M&uuml;ller and Lara Schulze: Highlights from the Olympiad"
+      },
+      {
+         "description" : "WGM Dina Belenkaya, the famous chess commentator who is part of #STAKRNAgency as a #chess streamer and content creator, is back from the Chess Olympiad. She challenged Avital Boruchovsky to a special game of chess the loser jumps into the pool! Watch: WGM Dina Belenkaya: &#x201C;First days at the Olympiad were difficult&#x201D;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dina-belenkaya-vs-avital-boruchovsky-loser-jumps-into-the-pool/",
+         "pubDate" : "Mon, 15 Aug 2022 14:48:43 +0000",
+         "title" : "Dina Belenkaya vs Avital Boruchovsky - loser jumps into the pool"
+      },
+      {
+         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Aronian Le Quang Liem, live game from the FTX Crypto Cup 2022. Follow the match live here: Parallel: Top Chess Engine Championship Season 23 is going []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aronian-le-quang-liem-live/",
+         "pubDate" : "Mon, 15 Aug 2022 14:38:57 +0000",
+         "title" : "Aronian - Le Quang Liem LIVE"
+      },
+      {
+         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Hans Niemann vs Duda, live game from the FTX Crypto Cup 2022. Follow the match live here: Parallel: Top Chess Engine Championship Season 23 is going to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-duda-live/",
+         "pubDate" : "Mon, 15 Aug 2022 14:32:33 +0000",
+         "title" : "Hans Niemann vs Duda LIVE"
+      },
+      {
+         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Praggnanandhaa Alireza Firouzja, live game from the FTX Crypto Cup 2022. Follow the match live here: Parallel: Top Chess Engine Championship Season 23 is going to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pragg-alireza-live/",
+         "pubDate" : "Mon, 15 Aug 2022 14:18:21 +0000",
+         "title" : "Pragg - Alireza LIVE"
+      },
+      {
+         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Magnus Carlsen vs Anish Giri is one of the top clashes of FTX Crypto Cup 2022. Follow the top match live here: Parallel: Top Chess Engine Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-anish-giri-live/",
+         "pubDate" : "Mon, 15 Aug 2022 14:09:59 +0000",
+         "title" : "Magnus Carlsen - Anish Giri LIVE"
+      },
+      {
+         "description" : "Animoca Brands and Lympo partner with Play Magnus Group on chess-inspired blockchain game Anichess. Animoca Brands&#xA0;and its subsidiary Lympo, a leading global sports NFT ecosystem, announced today that they are developing Anichess in partnership with Play Magnus Group (PMG), a global leader in the chess industry that offers entertainment and e-learning services via its chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anichess-a-game-by-play-magnus/",
+         "pubDate" : "Mon, 15 Aug 2022 13:42:05 +0000",
+         "title" : "Anichess - a game by Play Magnus"
+      },
+      {
+         "description" : "The English Chess Federation presented the 2022 chess awards. The Committee have agreed the following eleven awards in seven categories which the ECF Board have ratified. All winners will be presented with an engraved glass trophy recognising their achievement and will, where appropriate, be entitled to use the winners logo. President&#x2019;s Award for Services to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/english-chess-federation-awards-2022/",
+         "pubDate" : "Mon, 15 Aug 2022 13:33:46 +0000",
+         "title" : "English Chess Federation Awards 2022"
+      },
+      {
+         "description" : " Toby Brookfield is quite a dangerous player when he gets an attack going, something I discovered when I played him at the 2010 Olympiad. In the most recent Olympiad, he opens with the Centre Game, and when his opponents fails to take in e4 on move 8, is able to directly target the king. Once Brookfield plays h6 he is completely winning, although it took a few more moves before his opponent also realised. <br /> <b>Brookfield,Toby (1815) - Naipal,Hoolan (1785) [C22]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (3.2), 31.07.2022 <script>new PgnViewer( { boardName: \"game1343\", movesFormat: \"default\", pgnString:'1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/through-centre-then-left-at-h-file.html",
+         "pubDate" : "Mon, 15 Aug 2022 13:09:00 +0000",
+         "title" : "Through the centre then left at the h file"
+      },
+      {
+         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Champions Chess Tour FTX Crypto Cup 2022 Day 1 with David Howell and , Jovanka Houska",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/champions-chess-tour-ftx-crypto-cup-2022-day-1-with-david-howell-and-jovanka-houska/",
+         "pubDate" : "Mon, 15 Aug 2022 12:49:32 +0000",
+         "title" : "Champions Chess Tour FTX Crypto Cup 2022 Day 1 with David Howell and Jovanka Houska"
+      },
+      {
+         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable FTX Crypto Cup Day 1 LIVE with Tania Sachdev and Peter Leko Parallel: Top Chess Engine Championship Season 23 is going to start this August. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-day-1-live-withtania-sachdev-and-peter-leko/",
+         "pubDate" : "Mon, 15 Aug 2022 12:46:01 +0000",
+         "title" : "FTX Crypto Cup Day 1 LIVE - with Tania Sachdev and Peter Leko"
+      },
+      {
+         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#160;in his announcement that he wouldn&#x2019;t defend the title&#160;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
+         "pubDate" : "Mon, 15 Aug 2022 12:42:03 +0000",
+         "title" : "FTX Crypto Cup 2022 LIVE"
+      },
+      {
          "description" : "The Committee have agreed the following eleven awards in seven categories which the ECF Board have ratified. All winners will be presented with an engraved...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,6 +130,14 @@ news_feed (
          "title" : "Recognizing chess positions"
       },
       {
+         "description" : " The FTX Crypto Cup takes place in Miami Mon 15th Aug to Sun 21st Aug 2022. Players: Aronian, Carlsen, Duda, Firouzja, Giri, Le Quang Liem, Niemann and Praggnanandhaa. Sadly Ding Liren and Wei Yi who had qualified to play this event couldn't get permission to travel.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2022",
+         "pubDate" : "Mon, 15 Aug 2022 13:50:00 +0400",
+         "title" : "FTX Crypto Cup 2022 - Games and Results"
+      },
+      {
          "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -56,22 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sokolov-middlegames-king-on-f8",
          "pubDate" : "Sun, 14 Aug 2022 23:50:00 +0100",
          "title" : "A middlegame lesson by Ivan Sokolov: The king on f8"
-      },
-      {
-         "description" : "The Spanish National Chess Championship 2022 commenced on Thursday and takes place from 11 &#x2013; 18 August in Linares. More than 120 players compete for the title of the National Champion in 9 rounds, swiss system. All information about the event &#38; starting rank list of participants LIVE games:",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/spanish-chess-championship-2022-live/",
-         "pubDate" : "Sun, 14 Aug 2022 17:42:37 +0000",
-         "title" : "Spanish Chess Championship 2022 LIVE"
-      },
-      {
-         "description" : "The Spanish National Chess Championship 2022 commenced on Thursday and takes place from 11 18 August in Linares. The event is played in 9 swiss rounds, with participation of more than 120 players. The top seeds of the event are: GM Jaime Santos Latasa, GM Eduardo Iturrizaga Bonelli, GM Ivan Salgado Lopez, GM Daniil []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/spanish-chess-championship-2022/",
-         "pubDate" : "Sun, 14 Aug 2022 17:38:58 +0000",
-         "title" : "Spanish Chess Championship 2022"
       },
       {
          "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Ian Nepomniachtchi&#38;nbsp;won the week 25 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 48 competit...",
@@ -170,14 +258,6 @@ news_feed (
          "title" : "Congratulations Shri Bharat Singh Chauhan"
       },
       {
-         "description" : "Get your copy of Winning Chess Middlegames by GM Ivan Sokolov with 52% discount here Ivan Sokolov is formerly one of the top-ranked chess players in the world. His peak FIDE rating of 2706 in 2004 made him world #12&#x2026;for the third time in twelve years! He held the same position in 1992 when he []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ivan-sokolov-winning-the-olympiad-gold-medal-and-winning-chess-middlegames/",
-         "pubDate" : "Sat, 13 Aug 2022 13:05:08 +0000",
-         "title" : "Ivan Sokolov - winning the Olympiad gold medal and \"Winning chess middlegames\""
-      },
-      {
          "description" : "After ten games in the World Championship match in Reykjavik, 1972, the score was 6&frac12;-3&frac12; for Challenger Bobby Fischer. The match seemed virtually over - in the last eight games Boris Spassky had only managed to score 1&frac12; points. In game 11 Spassky took on the Poisoned Pawn variation of the Najdorf Sicilian. \"Fighting with the desperation of the doomed: he sensationally crushed his opponent in the 11th game\" (Kasparov). In the twelfth he held Fischer to a comfortable draw. And then came the 13th round. Fischer played, for the first time in a top-level game, the Alekhine Defence. It turned into one of the most exciting battles of the match, and is beautifully annotated by GM",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,20 +266,12 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#x66;&#105;&#x63;&#x65;&#64;&#x65;&#x6e;g&#108;&#x69;s&#104;&#x63;h&#101;&#x73;s&#46;&#x6f;r&#103;&#x2e;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#64;&#101;&#110;&#103;lish&#x63;&#x68;&#x65;&#x73;&#x73;&#x2e;&#111;&#114;&#103;&#46;&#117;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
          "pubDate" : "Sat, 13 Aug 2022 10:26:57 +0000",
          "title" : "FIDE Commissions - nominations"
-      },
-      {
-         "description" : "The French Individual Chess Championships 2022&#xA0;will take place from 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site will host the&#xA0;95th edition of the French Individual Chess Championship&#xA0;after three years of pause caused by the pandemic of Covid19. The event will be played in two sections: Men []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/french-individual-chess-championships-2022-live/",
-         "pubDate" : "Sat, 13 Aug 2022 09:25:12 +0000",
-         "title" : "French Individual Chess Championships 2022 LIVE"
       },
       {
          "description" : "As we know, 2022 is the fiftieth anniversary of the Spassky v Fischer world championship of 1972, which has gone down in chess lore as: the Match of the Century. The anniversary has been marked by a special exhibition at the US Chess Hall of Fame in St Louis, as well as a stupendous new []",
@@ -208,14 +280,6 @@ news_feed (
          "link" : "https://www.thearticle.com/bobby-boris-timman-sir-tim-50-years-since-fischer-v-spassky/",
          "pubDate" : "Sat, 13 Aug 2022 09:00:26 +0000",
          "title" : "Bobby & Boris, Timman & Sir Tim: 50 years since Fischer v Spassky"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 &#x2013; 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-amateur-chess-championship-2022-starts-in-zagreb/",
-         "pubDate" : "Sat, 13 Aug 2022 08:12:25 +0000",
-         "title" : "European Amateur Chess Championship 2022 starts in Zagreb"
       },
       {
          "description" : "In the diagram position, White has yet to react properly to the black queen's check, then he may happily start searching for mates - feel free to join!",
@@ -370,14 +434,6 @@ news_feed (
          "title" : "2022 Chess Olympiad: Closing Ceremonies"
       },
       {
-         "description" : "Top Chess Engine Championship Season 23 is going to start this August. The defending champion Stockfish is going to compete with 45 of world's best chess engines for the highest title in computer chess. With the weakest engine in the competition being stronger than any chess player, TCEC is promising once again amazing level of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tcec-season-23-next-level/",
-         "pubDate" : "Thu, 11 Aug 2022 10:21:42 +0000",
-         "title" : "TCEC Season 23 - Next Level!"
-      },
-      {
          "description" : "Andr&eacute; Hollstein is a professor for information technology and digitisation at the International University of Applied Sciences (with over 90,000 enrolled students). In a podcast for his students and for the general public he interviewe ChessBase co-founder Frederic Friedel. The subject of their discussion: the digitization of chess, and the revolutionary changes ChessBase brought to the game. The podcast is in German, but Andr&eacute; sent us a full English transcript.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -402,36 +458,12 @@ news_feed (
          "title" : "Deal of the week: Adrian Mikhalchishin Russian Grandmaster School"
       },
       {
-         "description" : "The 2022 Chess Olympiad team Winners and best individual players were crowned yesterday at the Closing ceremony of the event. The 44th Chess Olympiad was the biggest in numbers, but also the most elegant as FIDE established special awards for the most stylish teams. Teams of Uzbekistan and Mongolia were the most stylish teams in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-most-stylish-teams-of-the-2022-chess-olympiad-are-uzbekistan-mongolia-denmark-and-uganda/",
-         "pubDate" : "Wed, 10 Aug 2022 17:59:19 +0000",
-         "title" : "The most stylish teams of the 2022 Chess Olympiad are Uzbekistan, Mongolia, Denmark and Uganda"
-      },
-      {
-         "description" : "The Minister of Education and Science of Georgia Dr.&#xA0;Mikheil Chkhenkeli&#xA0;was granted an honorary award by the International Chess Federation (FIDE) for his special commitment to promoting Chess in schools.&#xA0; The Award Ceremony was held in Chennai, India, in the framework of the 44th Chess Olympiad. The award was presented to the Minister by FIDE Deputy-President, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mikheil-chkhenkeli-granted-an-honorary-award-for-his-special-commitment-to-promoting-chess-in-schools/",
-         "pubDate" : "Wed, 10 Aug 2022 17:20:32 +0000",
-         "title" : "Mikheil Chkhenkeli granted an honorary award for his special commitment to promoting Chess in Schools"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93485958.cms\" />India not only hosted what's arguably one of the best editions of the chess Olympiad --- which concluded on Sunday --- but also delivered its strongest-ever show in the competition by winning two bronze medals. The high point of the tournament from India's point of view was young gun D Gukesh's splendid show.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-show-at-chess-olympiad-was-just-breathless-viswanathan-anand/articleshow/93485958.cms",
          "pubDate" : "Wed, 10 Aug 2022 17:19:15 +0000",
          "title" : "Gukesh's show at Chess Olympiad was just breathless: Anand"
-      },
-      {
-         "description" : "Legendary Swedish grandmaster Pia Cramling debuted in the Chess Olympiad playing for the Swedish National Team 44 years ago in Buenos Aire, Argentina. Yesterday, she received her third Olympic individual gold as the best Board 1 player of the Women's Chess Olympiad. Pia Cramling scored outstanding 9.5/11 points and had a rating performance of 2532. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-pia-cramling-wins-her-third-individual-gold-44-years-after-debuting-in-chess-olympiad/",
-         "pubDate" : "Wed, 10 Aug 2022 17:11:12 +0000",
-         "title" : "GM Pia Cramling wins her third individual gold 44 years after debuting in Chess Olympiad"
       },
       {
          "description" : "In his \"Game of the Week\" show #528 Merijn van Delft looks at another impressive game played at the Chess Olympiad in Chennai: Gukesh's convincing win with Black against Fabiano Caruana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -456,14 +488,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/10/2022-chess-olympiad-uzbekistan-ukraine-win/",
          "pubDate" : "Wed, 10 Aug 2022 15:48:10 +0000",
          "title" : "2022 Chess Olympiad: Uzbekistan, Ukraine win!"
-      },
-      {
-         "description" : "The Chessable British Chess Championships 2022 will be held at the Riviera International Centre in Torquay from 8th to 21st August 2022 inclusive. This will be the 108th British Chess Championship in a series which has run almost unbroken since 1904, with Torquay having previously hosted the Championships on six occasions, most recently in 2019. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-british-chess-2022/",
-         "pubDate" : "Wed, 10 Aug 2022 15:45:59 +0000",
-         "title" : "Chessable British Chess 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93484509.cms\" />Prime Minister Narendra Modi on Wednesday appreciated the people and government of Tamil Nadu for being \"excellent\" hosts for the 44th Chess Olympiad and congratulated the Indian teams for winning the bronze medal in their categories.",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Announcing Major Additions to Streaming on Chess.com"
       },
       {
-         "description" : "In Endgame Magic #201 Karsten M&uuml;ller had a look at endgame highlights from the Candidates Tournament, and in this Endgame Magic Show he visits the Candidates Tournament again. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-205-more-endgame-highlights-from-the-candidates-tournament",
-         "pubDate" : "Mon, 01 Aug 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #205: More endgame highlights from the Candidates Tournament"
-      },
-      {
          "description" : "India 2, Israel, England, Spain, and Armenia lead with eight match points at the end of the fourth round of the 44th FIDE Chess Olympiad. The U.S. and India, the top two seeds, were held to 2-2 draws by Uzbekistan and France respectively. Norway s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1880",
          "pubDate" : "Tue, 26 Jul 2022 08:32:17 +0000",
          "title" : "Zurab Azmaiparashvili reelected as ECU President"
-      },
-      {
-         "description" : "National U-19 Open and Girls Chess Championship Certificates are out to download Links : Open : https://aicf.online/National-U(19)-Open.html Girls : https://aicf.online/National-U(19)-Girls.html Any Correction mail at aicfwebmaster2021@gmail.com ",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-19-open-and-girls-chess-championship-certificates/",
-         "pubDate" : "Mon, 25 Jul 2022 13:46:51 +0000",
-         "title" : "National U-19 Open and Girls Chess Championship Certificates"
       }
    ]
 }
