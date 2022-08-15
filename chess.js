@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/",
+         "pubDate" : "Mon, 15 Aug 2022 02:00:00 +0000",
+         "title" : "The Importance of Analytics for Chess Federations"
+      },
+      {
          "description" : "GM Wesley So&#38;nbsp;won week 25 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Ian Nepomniachtchi in a hard-fought final that culminated in an armageddon playoff.&#38;nbsp; GMs Hikaru Nakamura and Oleksandr Bortnyk made ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -146,7 +154,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#99;&#101;&#64;en&#x67;&#x6c;&#x69;&#x73;&#104;&#99;hes&#x73;&#x2e;&#x6f;&#x72;&#103;&#46;&#117;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;&#103;&#x6c;&#105;&#x73;&#104;&#x63;&#104;e&#115;s&#x2e;o&#x72;g&#x2e;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1472,14 +1480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-koneru-humpy-r-vaishali-star-in-india-a-win-over-georgian-women/articleshow/93328808.cms",
          "pubDate" : "Wed, 03 Aug 2022 14:58:42 +0000",
          "title" : "Olympiad: Humpy, Vaishali star in India 'A' win over Georgian women"
-      },
-      {
-         "description" : " 2022 Chess Olympiad: Round #5 Tuesday, 2 August 2022 INDIA 2 Sitting: Baskaran AdhibanStanding (L-R): Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nihal Sarin Nearing the halfway mark, there are a few surprises at the 44th Chess Olympiad in round #5. India 2, the team of phenoms and a bronze medalist lead the table with a perfect score. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/\">2022 Chess Olympiad: Round #5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/03/2022-chess-olympiad-round-5/",
-         "pubDate" : "Wed, 03 Aug 2022 12:30:05 +0000",
-         "title" : "2022 Chess Olympiad: Round #5"
       },
       {
          "description" : "",
