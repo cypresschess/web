@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1922",
+         "pubDate" : "Mon, 15 Aug 2022 22:07:39 +0000",
+         "title" : "Carlsen turns up the heat as FTX Crypto Cup gets under way in Miami"
+      },
+      {
          "description" : "GM R.B. Ramesh is a name recognized globally in the chess community, thanks to his reputation as a chess trainer. Over the years, he has helped many chess players attain titles and secure medals at International levels. He is the only Indian coach...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -282,7 +290,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;&#x63;&#x65;&#64;&#x65;&#110;&#x67;&#x6c;i&#x73;&#104;&#x63;&#x68;e&#x73;&#115;&#x2e;&#x6f;r&#x67;&#46;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;n&#x67;l&#x69;s&#x68;c&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
