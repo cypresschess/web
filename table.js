@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2022-08-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208144392 target='_blank'>AUGUST 14 SUNDAY SWISS</a>",
+"HOUSTON","2022-08-13","41","<a href=http://www.uschess.org/msa/XtblMain.php?202208134352 target='_blank'>AUG 13 SATURDAY CHESS</a>",
 "SPRING","2022-08-12","32","<a href=http://www.uschess.org/msa/XtblMain.php?202208123052 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-08-12","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208122982 target='_blank'>FBCC08122022</a>",
 "CYPRESS","2022-08-12","26","<a href=http://www.uschess.org/msa/XtblMain.php?202208122922 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2021-10-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110224692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-10-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110224682 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-10-16  - 10-17","237","<a href=http://www.uschess.org/msa/XtblMain.php?202110172542 target='_blank'>TCR: HOUSTON FALL CHAMPIONSHIP 2021</a>",
-"CYPRESS","2021-10-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202110151752 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2021-10-15","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110151742 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
