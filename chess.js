@@ -154,7 +154,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;&#103;&#x6c;&#105;&#x73;&#104;&#x63;&#104;e&#115;s&#x2e;o&#x72;g&#x2e;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#102;&#x66;&#x69;&#99;&#101;&#x40;&#x65;&#110;&#103;&#x6c;&#x69;&#115;&#104;&#x63;&#x68;&#101;&#115;&#x73;&#x2e;&#111;&#114;&#x67;&#x2e;&#117;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
