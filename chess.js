@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Wesley So&#38;nbsp;won week 25 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Ian Nepomniachtchi in a hard-fought final that culminated in an armageddon playoff.&#38;nbsp; GMs Hikaru Nakamura and Oleksandr Bortnyk made ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-25-so-wins",
+         "pubDate" : "Sun, 14 Aug 2022 16:51:00 -0700",
+         "title" : "So Prevails In Last Knockout"
+      },
+      {
          "description" : "An experienced trainer, Ivan Sokolov just helped Uzbekistan to win the Chess Olympiad in Chennai. In his FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than on specific lines. In a section focused on positions where Black has not castled but placed his king on f8, Sokolov analyses a game between Fabiano Caruana and Daniel Naroditsky. Out of a French Defence, Caruana never lets go of the initiative, and achieves a remarkable victory. | Photo: Austin Fuller / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,7 +146,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;&#x63;&#x65;&#64;&#x65;&#110;&#x67;&#x6c;i&#x73;&#104;&#x63;&#x68;e&#x73;&#115;&#x2e;&#x6f;r&#x67;&#46;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#99;&#101;&#64;en&#x67;&#x6c;&#x69;&#x73;&#104;&#99;hes&#x73;&#x2e;&#x6f;&#x72;&#103;&#46;&#117;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34313309/chess-olympiad-2022-malta-djibouti-iraq-jordan-chennai-brings-global-family-board?device=featurephone",
          "pubDate" : "Sat, 30 Jul 2022 03:49:12 -0500",
          "title" : "From Malta, Djibouti and Iraq, Chess Olympiad brings the global family to the board"
-      },
-      {
-         "description" : "India, Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany, England, India-2, Armenia, Iran, Uzbekistan, India-3, and Croatia were the top teams to score clean 4-0 victories in the first round, while the top-seeded U.S. and third-seeded Norwa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-1",
-         "pubDate" : "Fri, 29 Jul 2022 23:56:00 -0700",
-         "title" : "Nearly Smooth Sailing For Top Seeds In Day Of Zugzwangs"
       },
       {
          "description" : " Round 1 of the 2022 Chess Olympiad has been run and done, with no upset results in either tournaments. The vast majority of matches ended 4-0 to the rating favourites, although both the USA and Norway dropped half a point. No match finished closer than 3-1, with Sri Lanka drawing 2 games against Hungary being the closest thing to an upset result. PNG went down 4-0 to Zambia, although Stuart Fancy and Rupert Jones held out for quite a while. Australia scored 4-0 wins in both the Open and Women's, as did New Zealand. The other Oceania countries suffered similar fates to PNG, but hopefully round 2 will see some improved results. Pairings for round 2 are available at <a href=\"http://chess-resul",
