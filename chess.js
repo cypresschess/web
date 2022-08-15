@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "The Committee have agreed the following eleven awards in seven categories which the ECF Board have ratified. All winners will be presented with an engraved...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-2022/",
+         "pubDate" : "Mon, 15 Aug 2022 11:24:20 +0000",
+         "title" : "ECF Awards 2022"
+      },
+      {
+         "description" : "Magnus Carlsen will take on Anish Giri in Round 1 of the FTX Crypto Cup, while Praggnanandhaa, fresh from winning team and individual bronze at the Chess Olympiad, will play Alireza Firouzja. It's also Niemann-Duda and Aronian-Le on Monday, August 15 at 12:00 ET (18:00 CEST) as the $210,000 FTX Crypto Cup starts in Miami, Florida.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/giri-carlsen-pragg-firouzja-in-ftx-crypto-cup",
+         "pubDate" : "Mon, 15 Aug 2022 10:50:09 +0000",
+         "title" : "Giri-Carlsen, Pragg-Firouzja in FTX Crypto Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1921",
+         "pubDate" : "Mon, 15 Aug 2022 10:32:48 +0000",
+         "title" : "World Youth U-16 Chess Olympiad: Registration deadline extended "
+      },
+      {
+         "description" : "How fast and how reliably can strong chess players recognize chess positions? How good are world-class grandmasters at identifying games? And how do they compare with amateurs in this respect. The very successful science and engineering channel Veritasium has picked up this subject and made a very interesting video on it. To which we add our own research, conducted almost forty years ago.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/recognizing-chess-positions",
+         "pubDate" : "Mon, 15 Aug 2022 11:00:00 +0100",
+         "title" : "Recognizing chess positions"
+      },
+      {
+         "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The U.S. is used as a case example. The era of &#8220;big data&#8221; is upon us The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/",
@@ -154,7 +186,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#102;&#x66;&#x69;&#99;&#101;&#x40;&#x65;&#110;&#103;&#x6c;&#x69;&#115;&#104;&#x63;&#x68;&#101;&#115;&#x73;&#x2e;&#111;&#114;&#x67;&#x2e;&#117;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;e&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#104;&#x63;&#x68;es&#115;&#x2e;&#x6f;&#x72;g&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -840,14 +872,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/outstanding-chess-arbiter-from-europe-shohreh-bayat/",
          "pubDate" : "Mon, 08 Aug 2022 11:58:05 +0000",
          "title" : "Outstanding Chess Arbiter from Europe - Shohreh Bayat"
-      },
-      {
-         "description" : "The Chess Trust announces support for Ukrainian chess players click here for further details",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-trust-support-for-ukrainian-chess-players/",
-         "pubDate" : "Mon, 08 Aug 2022 11:05:18 +0000",
-         "title" : "Chess Trust - support for Ukrainian chess players"
       },
       {
          "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
@@ -1722,14 +1746,6 @@ news_feed (
          "title" : "Held By Uzbekistan, U.S. Survives Scare; Abdusattorov Shocks Caruana"
       },
       {
-         "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Sumiya Bilguun (Mongolia) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-2",
-         "pubDate" : "Mon, 01 Aug 2022 16:30:00 +0100",
-         "title" : "Endgames from Chennai (2)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2080,30 +2096,6 @@ news_feed (
          "link" : "https://aicf.in/national-u-19-open-and-girls-chess-championship-certificates/",
          "pubDate" : "Mon, 25 Jul 2022 13:46:51 +0000",
          "title" : "National U-19 Open and Girls Chess Championship Certificates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1879",
-         "pubDate" : "Mon, 25 Jul 2022 10:54:23 +0000",
-         "title" : "European Youth Rapid & Blitz Champions crowned in Thessaloniki"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1878",
-         "pubDate" : "Mon, 25 Jul 2022 09:41:26 +0000",
-         "title" : "Magnus Carlsen wins 2022 SuperUnited Rapid and Blitz"
-      },
-      {
-         "description" : " <p class=\"lead\">The reigning World Champion Magnus Carlsen won the Super United Croatia Rapid & Blitz tournament, the third tournament of the <a href=\"https://grandchesstour.org/\">Grand Chess Tour 2022</a>, a couple of days after his <a href=\"https://worldchess.com/news/all/carlsen-will-give-up-his-title-will-not-defend-in-2023/\">official withdrawal</a> from the World Championship cycle. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/carlsen-nepo.jpeg\" width=\"800\" height=\"455\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a>, Grand Chess Tour</div> </div> The Super United Croatia Rapid & Blitz was",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-didnt-retire-from-chess-won-the-super-united-croatia-202/",
-         "pubDate" : "Mon, 25 Jul 2022 08:31:08 +0000",
-         "title" : "Carlsen didn't retire from chess, won the Super United Croatia 2022"
       }
    ]
 }
