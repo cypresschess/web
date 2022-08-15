@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM R.B. Ramesh is a name recognized globally in the chess community, thanks to his reputation as a chess trainer. Over the years, he has helped many chess players attain titles and secure medals at International levels. He is the only Indian coach...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/india-2-coach-ramesh-interview-chess-olympiad",
+         "pubDate" : "Mon, 15 Aug 2022 09:58:00 -0700",
+         "title" : "Interview: GM Ramesh On Coaching India 2 At Chess Olympiad, Winning Bronze"
+      },
+      {
+         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
+         "pubDate" : "Mon, 15 Aug 2022 17:55:00 +0100",
+         "title" : "FTX Crypto Cup: Live"
+      },
+      {
          "description" : "In the Endgame Magic Show #207 Karsten M&uuml;ller has a guest: Lara Schulze, one of Germany's most promising female talents, who in 2021 won the European Women's Championship U20 and the German Women's Rapid Championship. In this episode of the Endgame Magic Show Lara and Karsten look at endgame highlights from the Chess Olympiad in Chennai. | Photo: Oliver Koeller | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -151,7 +167,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-25-so-wins",
          "pubDate" : "Sun, 14 Aug 2022 16:51:00 -0700",
-         "title" : "So Prevails In Last Knockout"
+         "title" : "Wesley So Prevails In Last Knockout"
       },
       {
          "description" : "An experienced trainer, Ivan Sokolov just helped Uzbekistan to win the Chess Olympiad in Chennai. In his FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than on specific lines. In a section focused on positions where Black has not castled but placed his king on f8, Sokolov analyses a game between Fabiano Caruana and Daniel Naroditsky. Out of a French Defence, Caruana never lets go of the initiative, and achieves a remarkable victory. | Photo: Austin Fuller / Saint Louis Chess Club",
@@ -266,7 +282,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#64;&#101;&#110;&#103;lish&#x63;&#x68;&#x65;&#x73;&#x73;&#x2e;&#111;&#114;&#103;&#46;&#117;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;&#x63;&#x65;&#64;&#x65;&#110;&#x67;&#x6c;i&#x73;&#104;&#x63;&#x68;e&#x73;&#115;&#x2e;&#x6f;r&#x67;&#46;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1714,14 +1730,6 @@ news_feed (
          "title" : "Olympiad 2022: 17-year old Nodirbek Abdusattorov beats Fabiano Caruana"
       },
       {
-         "description" : "The big rating favourites in the open section of the Chennai Olympiad were held to a draw in Monday's fourth round: Uzbekistan drew the United States thanks to a remarkable victory by Nodirbek Abdusattorov over Fabiano Caruana on top board. Meanwhile, five teams scored a fourth consecutive victory and are now sharing the lead - the most surprising member of this group is Israel, which beat the Netherlands on Monday. In the women's section, eight teams are sharing the lead on 8 out 8 match points. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r4",
-         "pubDate" : "Tue, 02 Aug 2022 06:20:00 +0100",
-         "title" : "Chennai R4: Uzbekistan draws the US as Abdusattorov beats Caruana"
-      },
-      {
          "description" : " After 4 rounds of the 2022 Chess Olympiad, 5 teams still share first place with 4 wins from 4 matches. Spain, Armenia, England, Israel and India 2 are all on 8 match points, with India 2 ahead on tie-break. Top seeds USA and India are on 7 points (both having drawn yesterday), while Norway have fallen of the pace, despite a brilliant win by Magnus Carlsen against Mongolia on Board 1. The Australian Open team had a 4-0 win of Ecuador, putting them on 6 points. The play Belgium in round 5, a team they are seeded ahead of. A win in this match will likely seem them move into the top 20 reaching the halfway point of the tournament. The Women's team lost 3-1 to the highly ranked USA team, but it ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/30/book-recap-28-chess-tactics-from-scratch-by-fm-martin-weteschnik-a-great-intermediate-level-tactics-guide",
          "pubDate" : "Sat, 30 Jul 2022 14:04:08 +0000",
          "title" : "Book Recap #28- Chess Tactics from Scratch by FM Martin Weteschnik- A Great Intermediate Level Tactics Guide"
-      },
-      {
-         "description" : "The Collegiate Chess League is excited to announce the 2022 summer season featuring the bullet and bughouse college championships! This summer season will span the four weeks of August and starts with the bullet championship on August 6 with the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2022-summer-season",
-         "pubDate" : "Sat, 30 Jul 2022 06:34:30 -0700",
-         "title" : "Collegiate Chess League 2022 Summer Season: Bullet and Bughouse Championships"
       },
       {
          "description" : "For a number of reasons, the game of chess has become unprecedentedly popular, partly due to enthusiasts and serious players alike turning to online play on a plethora of websites that established themselves during the pandemic. In parallel, new players have also been drawn in, due to the instrumental and sensational success of Netflix's Queens []",
