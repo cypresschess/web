@@ -34,7 +34,7 @@ news_feed (
          "title" : "Recognizing chess positions"
       },
       {
-         "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The U.S. is used as a case example. The era of &#8220;big data&#8221; is upon us The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/",
@@ -186,7 +186,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;e&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#104;&#x63;&#x68;es&#115;&#x2e;&#x6f;&#x72;g&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#x66;&#105;&#x63;&#x65;&#64;&#x65;&#x6e;g&#108;&#x69;s&#104;&#x63;h&#101;&#x73;s&#46;&#x6f;r&#103;&#x2e;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
