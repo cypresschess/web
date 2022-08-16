@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The exciting finals of the 2022 Rapid Chess Championship begin on August 18. That means it&#39;s time for another bracket contest! This time, it&#39;s a double elimination bracket&#38;mdash;you will really have to be on your game to make the best selections t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-bracket-fantasy-contest",
+         "pubDate" : "Tue, 16 Aug 2022 15:06:23 -0700",
+         "title" : "Predict The Rapid Chess Championship Finals And Win"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on a topic of his choice. 2022.08.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/game-analysis-building-repertoire-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z5y7Qm_nu-o.jpg?itok=as9f19sw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/game-analysis-building-repertoire-grandmasters-choice-gm-elshan-moradiabadi",
+         "pubDate" : "Tue, 16 Aug 2022 21:09:12 +0000",
+         "title" : "Game Analysis & Building Repertoire | Grandmaster's Choice - GM Elshan Moradiabadi"
+      },
+      {
+         "description" : "The 28th Abu Dhabi International Chess Festival is going to take place 17-25 August, 2022, in the United Arab Emirates. The tournament will be a 9 rounds Swiss System with a time control of 90 min for each player and 30 seconds&#x2019; increment. 30 minutes tolerance will be applied. The organizing committee shall provide free []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abu-dhabi-masters-2022-participants-and-information/",
+         "pubDate" : "Tue, 16 Aug 2022 20:39:52 +0000",
+         "title" : "Abu Dhabi Masters 2022 - participants and information"
+      },
+      {
+         "description" : "The 28th Abu Dhabi International Chess Festival is going to take place 17-25 August, 2022, in the United Arab Emirates. The tournament will be a 9 rounds Swiss System with a time control of 90 min for each player and 30 seconds&#x2019; increment. 30 minutes tolerance will be applied. The organizing committee shall provide free []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/28th-abu-dhabi-international-chess-festival-live/",
+         "pubDate" : "Tue, 16 Aug 2022 20:38:53 +0000",
+         "title" : "28th Abu Dhabi International Chess Festival LIVE"
+      },
+      {
          "description" : "Nodirbek Abdusattorov is on the verge of entering the elite club of players to have crossed 2700 ELO. Today, at the ongoing Turkish League, Abdusattorov won against Erdogmus (ELO 2373) and added extra 1,4 points to reach 2699,5 ELO. The biggest rating gains for Abdusattorov this month were in Chess Olympiad R4 vs Caruana 6,3 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -88,22 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/81180-2/",
          "pubDate" : "Tue, 16 Aug 2022 13:48:57 +0000",
          "title" : "Champions Chess Tour FTX Crypto Cup 2022 Day 2 with David Howell and Jovanka Houska"
-      },
-      {
-         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pragg-anish-giri-live/",
-         "pubDate" : "Tue, 16 Aug 2022 13:35:28 +0000",
-         "title" : "Pragg - Anish Giri LIVE"
-      },
-      {
-         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-hans-niemann-live/",
-         "pubDate" : "Tue, 16 Aug 2022 13:29:58 +0000",
-         "title" : "Magnus Carlsen - Hans Niemann LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93594503.cms\" />Teenage Indian Grandmaster R Praggnanandhaa on Tuesday opened his campaign in the FTX Crypto Cup, the American finale of Champions Chess Tour, with a 2.5-1.5 win over the world's top junior player Alireza Firouzja.",
@@ -378,7 +394,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;&#x66;&#x69;&#99;&#x65;&#x40;&#101;&#x6e;&#x67;&#108;&#x69;&#x73;h&#x63;&#x68;e&#x73;&#115;&#46;&#x6f;&#114;g&#x2e;&#117;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;c&#x65;&#64;&#x65;&#110;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#x73;&#46;&#x6f;&#114;g&#x2e;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1906,14 +1922,6 @@ news_feed (
          "title" : "Chennai Olympiad 2: Magnus grinds out win as Zambia and Bulgaria post upsets"
       },
       {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Jeffery Xiong won the week 23 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 47 competitors&#38;mdash;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-23-swiss",
-         "pubDate" : "Sat, 30 Jul 2022 14:22:00 -0700",
-         "title" : "Xiong Wins Week 23 Swiss: Summary Report"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2056,14 +2064,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/29/chess-magnus-carlsen-in-olympiad-action-as-world-no-1-targets-record-rating",
          "pubDate" : "Fri, 29 Jul 2022 07:00:50 +0000",
          "title" : "Chess: Magnus Carlsen in Olympiad action as world No 1 targets record rating"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes demonstrates how to learn from your own mistakes during a chess tournament.<br /> See examples from Thalia's own games from the 2022 American Continental Chess Championship. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LK40urs2vaY",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-repeat-chess-mistakes-again-prepare-pro-wgm-thalia-cervantes",
-         "pubDate" : "Fri, 29 Jul 2022 02:54:54 +0000",
-         "title" : "Don't Repeat Chess Mistakes Again! | Prepare Like A Pro - WGM Thalia Cervantes"
       },
       {
          "description" : "",
