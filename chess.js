@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position White is a pawn up and has two powerful passed pawns that are supported by his king. However, White still needs to be precise to win the game. How should he proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pragg-s-powerful-pawns",
+         "pubDate" : "Tue, 16 Aug 2022 09:00:00 +0100",
+         "title" : "Pragg's powerful pawns"
+      },
+      {
+         "description" : " &#8220;I will not return alive if I do not defeat the Jin army!&#8221; General Muqali All chess enthusiasts have been treated royally between the end of July and the beginning of August. The Chennai Chess Olympiad has been exciting, well organized and well presented in the media both live and online. I have been rooting <a href=\"https://chessimprover.com/the-mongolian-tactic-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Mongolian Tactic (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-mongolian-tactic-3/\">The Mongolian Tactic (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-mongolian-tactic-3/",
+         "pubDate" : "Tue, 16 Aug 2022 07:30:00 +0000",
+         "title" : "The Mongolian Tactic (3)"
+      },
+      {
+         "description" : "The FTX Crypto Cup, the second Major of this year's Meltwater Champions Tour, kicked off at the Eden Roc Miami Beach Hotel in Florida. Magnus Carlsen, Praggnanandhaa, Jan-Krzysztof Duda and Levon Aronian all started strong, beating their respective opponents 'in regulation' - i.e. within the first four rapid games of each match. Notably, Pragg defeated Alireza Firouzja in the duel between rising stars.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r1",
+         "pubDate" : "Tue, 16 Aug 2022 07:25:00 +0100",
+         "title" : "FTX Crypto Cup: Pragg beats Firouzja"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/india-2-coach-ramesh-interview-chess-olympiad",
          "pubDate" : "Mon, 15 Aug 2022 09:58:00 -0700",
          "title" : "Interview: GM Ramesh On Coaching India 2 At Chess Olympiad, Winning Bronze"
-      },
-      {
-         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
-         "pubDate" : "Mon, 15 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Live"
       },
       {
          "description" : "In the Endgame Magic Show #207 Karsten M&uuml;ller has a guest: Lara Schulze, one of Germany's most promising female talents, who in 2021 won the European Women's Championship U20 and the German Women's Rapid Championship. In this episode of the Endgame Magic Show Lara and Karsten look at endgame highlights from the Chess Olympiad in Chennai. | Photo: Oliver Koeller | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -290,7 +306,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on offi&#99;&#101;&#64;&#101;&#110;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;ess&#46;&#111;&#114;&#103;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;e&#110;&#103;&#x6c;&#x69;&#x73;h&#99;&#104;&#101;&#x73;&#x73;&#x2e;o&#114;&#103;&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1720,14 +1736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/big-pictorial-chessfest-2022",
          "pubDate" : "Tue, 02 Aug 2022 09:30:00 +0100",
          "title" : "Big pictorial: ChessFest 2022"
-      },
-      {
-         "description" : "But over the board it is often difficult to defend them. In the diagram position White is a pawn down but he can draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-endgames-are-always-drawn",
-         "pubDate" : "Tue, 02 Aug 2022 09:00:00 +0100",
-         "title" : "Rook endgames are always drawn"
       },
       {
          "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nodirbek-Abdusattorov-beats-Fabiano-Caruana.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https:/",
