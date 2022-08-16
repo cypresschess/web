@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren had a very tough start at the 2022 Candidates Tournament. He lost his first game, and a series of seven draws ensued. At that point, the world number two began to score one win after another, ending with a very impressive 8/14 in second place. We conducted an interview with him, discussing his performance at this elite event, going through the critical positions in each one of his games. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-i-suddenly-got-a-chance",
+         "pubDate" : "Tue, 16 Aug 2022 12:00:00 +0100",
+         "title" : "Ding Liren: \"I suddenly got a chance\""
+      },
+      {
+         "description" : "&#8212; from IPCA General Secretary Olexandr&#160;Prohorov I'd like to inform you that the IPCA (International Physically Disabled Chess Association) will be holding the 2nd IPCA...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2nd-ipca-world-individual-chess-championship-rapid-and-blitz/",
+         "pubDate" : "Tue, 16 Aug 2022 10:54:56 +0000",
+         "title" : "2nd IPCA World Individual Chess Championship Rapid and Blitz"
+      },
+      {
+         "description" : "The ECU E-Magazine July 2022 is out! In the July 2022 edition of the ECU E-Magazine you may read about: Chess Olympiad 2022 in Chennai, India ECU General Assembly &#38; Elections 2022 FIDE General Assembly &#38; Elections 2022 European Senior Chess Championship 2022 European Youth Team Chess Championship 2022 European Youth Rapid&#38;Blitz Chess Championship 2022 European Amateur Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-july-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-july-2022/",
+         "pubDate" : "Tue, 16 Aug 2022 10:40:08 +0000",
+         "title" : "ECU E-Magazine July 2022"
+      },
+      {
+         "description" : "Magnus Carlsen summed up Round 1 of the FTX Crypto Cup with \"we played really, really fighting games\". He lived dangerously for two games before beating Anish Giri 3:1, and there were also hard-fought victories for Praggnanandhaa, who defeated Alireza Firouzja 2.5:1.5, and Levon Aronian, who beat Liem Le by the same scoreline. The one blowout saw Jan-Krzysztof Duda defeat Hans Niemann 3:0 after the young US star never recovered from a technical glitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-1-carlsen-pragg-aronian-duda-start-with-wins",
+         "pubDate" : "Tue, 16 Aug 2022 09:00:18 +0000",
+         "title" : "FTX Crypto Cup 1: Carlsen, Pragg, Aronian & Duda win"
+      },
+      {
          "description" : "In the diagrammed position White is a pawn up and has two powerful passed pawns that are supported by his king. However, White still needs to be precise to win the game. How should he proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -306,7 +338,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;e&#110;&#103;&#x6c;&#x69;&#x73;h&#99;&#104;&#101;&#x73;&#x73;&#x2e;o&#114;&#103;&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#102;&#105;c&#x65;&#x40;&#x65;&#110;&#103;l&#x69;&#x73;&#x68;&#99;&#104;e&#x73;&#x73;&#x2e;&#111;&#114;g&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -928,14 +960,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2022/",
          "pubDate" : "Mon, 08 Aug 2022 12:26:14 +0000",
          "title" : "Premier League Fantasy Football 2022"
-      },
-      {
-         "description" : "Congratulations to Shohreh Bayat who was the recipient of the award of Outstanding Chess Arbiter from Europe at Year of the Woman in Chess Awards....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/outstanding-chess-arbiter-from-europe-shohreh-bayat/",
-         "pubDate" : "Mon, 08 Aug 2022 11:58:05 +0000",
-         "title" : "Outstanding Chess Arbiter from Europe - Shohreh Bayat"
       },
       {
          "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "Chennai Olympiad 4: Abdusattorov beats Caruana"
       },
       {
-         "description" : "Despite a searing heat and at least 32 degrees Celsius, the second ever ChessFest was staged by Chess in Schools and Communities in London's famous Trafalgar Square on Sunday 17th July, with sister events held in Hull and Liverpool. The UK's largest one-day chess event saw over 10,000 people visit, nearly double the number from last year.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/big-pictorial-chessfest-2022",
-         "pubDate" : "Tue, 02 Aug 2022 09:30:00 +0100",
-         "title" : "Big pictorial: ChessFest 2022"
-      },
-      {
          "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nodirbek-Abdusattorov-beats-Fabiano-Caruana.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2058,14 +2074,6 @@ news_feed (
          "title" : "44th Chess Olympiad opens in Chennai"
       },
       {
-         "description" : "The 44th FIDE Chess Olympiad will be opened in Chennai, India today by Indian Prime Minister Narendra Modi, with the games beginning tomorrow, Friday July 29th. Magnus Carlsen and Fabiano Caruana are among the players in action, and we'll be broadcasting every game live from both the Open and the Women's section, with video from the playing hall and commentary from Peter Leko and Peter Svidler.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/leko-and-svidler-to-commentate-on-chess-olympiad",
-         "pubDate" : "Thu, 28 Jul 2022 08:25:18 +0000",
-         "title" : "Leko and Svidler to commentate on Chess Olympiad"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/26/ep-289-tony-ballard-a-convicted-felon-on-how-chess-has-changed-his-life",
          "pubDate" : "Tue, 26 Jul 2022 12:25:09 +0000",
          "title" : "EP 289- Tony Ballard- A Convicted Felon on How Chess has Changed His Life "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1880",
-         "pubDate" : "Tue, 26 Jul 2022 08:32:17 +0000",
-         "title" : "Zurab Azmaiparashvili reelected as ECU President"
       }
    ]
 }
