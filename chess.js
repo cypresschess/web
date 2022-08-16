@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "More by GM Simon Williams: The Iron English Botvinnik Variation No time to perfect your chess openings? The Hippopotamus Defence solves all of your opening problems with a universal setup. So you never again have to wonder how to start the game. That's because you only need to remember one formation which gives you []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-hippopotamus-defence-by-gm-simon-williams/",
+         "pubDate" : "Tue, 16 Aug 2022 14:24:43 +0000",
+         "title" : "The Hippopotamus Defence - by GM Simon Williams"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg\" data-image-dimensions=\"750x563\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62fba7c2ee7391345d82b888\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"> Karen Boyd with her husband, GM Ben Finegold </figcaption> </figure> <p class=\"\">Karen Boyd is a 56 year old mother, wife and chess lover with a b",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/16/ep-292-adult-improver-karen-boyd-on-what-she-learned-from-a-busy-summer-of-tournament-chess-and-why-she-always-plays-up-against-tougher-competition",
+         "pubDate" : "Tue, 16 Aug 2022 14:23:33 +0000",
+         "title" : "EP 292- Adult Improver Karen Boyd on What She Learned from a Busy Summer of Tournament Chess, and Why she Always \"Plays Up\" Against Tougher Competition "
+      },
+      {
+         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#xA0;in his announcement that he wouldn&#x2019;t defend the title&#xA0;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
+         "pubDate" : "Tue, 16 Aug 2022 14:05:00 +0000",
+         "title" : "FTX Crypto Cup 2022 LIVE"
+      },
+      {
+         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen &#x2013; Giri / Pragg &#x2013; Alireza / Hans Niemann &#x2013; Duda / Aronian &#x2013; Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-duda-pragg-and-aronian-win-in-ftx-crypto-chess-cup-day-1/",
+         "pubDate" : "Tue, 16 Aug 2022 14:03:01 +0000",
+         "title" : "Carlsen, Duda, Pragg, and Aronian win in FTX Crypto Chess Cup day 1"
+      },
+      {
+         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-day-2-live-with-tania-sachdev-and-peter-leko/",
+         "pubDate" : "Tue, 16 Aug 2022 13:56:47 +0000",
+         "title" : "FTX Crypto Cup Day 2 LIVE - with Tania Sachdev and Peter Leko"
+      },
+      {
+         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/81180-2/",
+         "pubDate" : "Tue, 16 Aug 2022 13:48:57 +0000",
+         "title" : "Champions Chess Tour FTX Crypto Cup 2022 Day 2 with David Howell and Jovanka Houska"
+      },
+      {
+         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pragg-anish-giri-live/",
+         "pubDate" : "Tue, 16 Aug 2022 13:35:28 +0000",
+         "title" : "Pragg - Anish Giri LIVE"
+      },
+      {
+         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-hans-niemann-live/",
+         "pubDate" : "Tue, 16 Aug 2022 13:29:58 +0000",
+         "title" : "Magnus Carlsen - Hans Niemann LIVE"
+      },
+      {
+         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/duda-aronian-live/",
+         "pubDate" : "Tue, 16 Aug 2022 13:24:48 +0000",
+         "title" : "Duda - Aronian LIVE"
+      },
+      {
+         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-le-quang-liem-live/",
+         "pubDate" : "Tue, 16 Aug 2022 13:20:56 +0000",
+         "title" : "Alireza Firouzja - Le Quang Liem LIVE"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93594503.cms\" />Teenage Indian Grandmaster R Praggnanandhaa on Tuesday opened his campaign in the FTX Crypto Cup, the American finale of Champions Chess Tour, with a 2.5-1.5 win over the world's top junior player Alireza Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-firouzja-in-ftx-crypto-cup-chess/articleshow/93594503.cms",
+         "pubDate" : "Tue, 16 Aug 2022 11:59:29 +0000",
+         "title" : "Praggnanandhaa beats Firouzja in FTX Crypto Cup chess"
+      },
+      {
+         "description" : "GMs Levon Aronian, Magnus Carlsen, Praggnanandhaa R., and Jan-Krzysztof Duda started with wins in a first round full of fighting chess at the FTX Crypto Cup in Miami. The tournament is the sixth event in the Meltwater Champions Chess Tour and its ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-1",
+         "pubDate" : "Tue, 16 Aug 2022 04:17:00 -0700",
+         "title" : "FTX Crypto Cup: Aronian, Carlsen, Praggnanandhaa, Duda Start With Wins"
+      },
+      {
          "description" : "Ding Liren had a very tough start at the 2022 Candidates Tournament. He lost his first game, and a series of seven draws ensued. At that point, the world number two began to score one win after another, ending with a very impressive 8/14 in second place. We conducted an interview with him, discussing his performance at this elite event, going through the critical positions in each one of his games. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,84 +186,12 @@ news_feed (
          "title" : "Dina Belenkaya vs Avital Boruchovsky - loser jumps into the pool"
       },
       {
-         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Aronian Le Quang Liem, live game from the FTX Crypto Cup 2022. Follow the match live here: Parallel: Top Chess Engine Championship Season 23 is going []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aronian-le-quang-liem-live/",
-         "pubDate" : "Mon, 15 Aug 2022 14:38:57 +0000",
-         "title" : "Aronian - Le Quang Liem LIVE"
-      },
-      {
-         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Hans Niemann vs Duda, live game from the FTX Crypto Cup 2022. Follow the match live here: Parallel: Top Chess Engine Championship Season 23 is going to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-duda-live/",
-         "pubDate" : "Mon, 15 Aug 2022 14:32:33 +0000",
-         "title" : "Hans Niemann vs Duda LIVE"
-      },
-      {
-         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Praggnanandhaa Alireza Firouzja, live game from the FTX Crypto Cup 2022. Follow the match live here: Parallel: Top Chess Engine Championship Season 23 is going to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pragg-alireza-live/",
-         "pubDate" : "Mon, 15 Aug 2022 14:18:21 +0000",
-         "title" : "Pragg - Alireza LIVE"
-      },
-      {
-         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Magnus Carlsen vs Anish Giri is one of the top clashes of FTX Crypto Cup 2022. Follow the top match live here: Parallel: Top Chess Engine Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-anish-giri-live/",
-         "pubDate" : "Mon, 15 Aug 2022 14:09:59 +0000",
-         "title" : "Magnus Carlsen - Anish Giri LIVE"
-      },
-      {
-         "description" : "Animoca Brands and Lympo partner with Play Magnus Group on chess-inspired blockchain game Anichess. Animoca Brands&#xA0;and its subsidiary Lympo, a leading global sports NFT ecosystem, announced today that they are developing Anichess in partnership with Play Magnus Group (PMG), a global leader in the chess industry that offers entertainment and e-learning services via its chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anichess-a-game-by-play-magnus/",
-         "pubDate" : "Mon, 15 Aug 2022 13:42:05 +0000",
-         "title" : "Anichess - a game by Play Magnus"
-      },
-      {
-         "description" : "The English Chess Federation presented the 2022 chess awards. The Committee have agreed the following eleven awards in seven categories which the ECF Board have ratified. All winners will be presented with an engraved glass trophy recognising their achievement and will, where appropriate, be entitled to use the winners logo. President&#x2019;s Award for Services to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/english-chess-federation-awards-2022/",
-         "pubDate" : "Mon, 15 Aug 2022 13:33:46 +0000",
-         "title" : "English Chess Federation Awards 2022"
-      },
-      {
          "description" : " Toby Brookfield is quite a dangerous player when he gets an attack going, something I discovered when I played him at the 2010 Olympiad. In the most recent Olympiad, he opens with the Centre Game, and when his opponents fails to take in e4 on move 8, is able to directly target the king. Once Brookfield plays h6 he is completely winning, although it took a few more moves before his opponent also realised. <br /> <b>Brookfield,Toby (1815) - Naipal,Hoolan (1785) [C22]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (3.2), 31.07.2022 <script>new PgnViewer( { boardName: \"game1343\", movesFormat: \"default\", pgnString:'1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/08/through-centre-then-left-at-h-file.html",
          "pubDate" : "Mon, 15 Aug 2022 13:09:00 +0000",
          "title" : "Through the centre then left at the h file"
-      },
-      {
-         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Champions Chess Tour FTX Crypto Cup 2022 Day 1 with David Howell and , Jovanka Houska",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/champions-chess-tour-ftx-crypto-cup-2022-day-1-with-david-howell-and-jovanka-houska/",
-         "pubDate" : "Mon, 15 Aug 2022 12:49:32 +0000",
-         "title" : "Champions Chess Tour FTX Crypto Cup 2022 Day 1 with David Howell and Jovanka Houska"
-      },
-      {
-         "description" : "Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable FTX Crypto Cup Day 1 LIVE with Tania Sachdev and Peter Leko Parallel: Top Chess Engine Championship Season 23 is going to start this August. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-day-1-live-withtania-sachdev-and-peter-leko/",
-         "pubDate" : "Mon, 15 Aug 2022 12:46:01 +0000",
-         "title" : "FTX Crypto Cup Day 1 LIVE - with Tania Sachdev and Peter Leko"
-      },
-      {
-         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#160;in his announcement that he wouldn&#x2019;t defend the title&#160;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
-         "pubDate" : "Mon, 15 Aug 2022 12:42:03 +0000",
-         "title" : "FTX Crypto Cup 2022 LIVE"
       },
       {
          "description" : "The Committee have agreed the following eleven awards in seven categories which the ECF Board have ratified. All winners will be presented with an engraved...",
@@ -338,7 +362,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#102;&#105;c&#x65;&#x40;&#x65;&#110;&#103;l&#x69;&#x73;&#x68;&#99;&#104;e&#x73;&#x73;&#x2e;&#111;&#114;g&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#105;&#99;e&#64;&#x65;&#x6e;&#x67;&#x6c;&#105;&#115;hc&#x68;&#x65;&#x73;&#115;&#46;&#111;rg&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1722,14 +1746,6 @@ news_feed (
          "title" : "EP 290- Dutch Trainer and Author IM Jeroen Bosch on How to Build an Opening Repertoire "
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93304342.cms\" />The limelight was on India 2 right from the start of the 44th Olympiad here. The young guns in the team are living up to the hype as they notched up their fifth successive win beating Spain 2.5-1.5 riding strong shows by D Gukesh and B Adhiban. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-d-gukesh-beats-alexei-shirov-is-now-india-no-3/articleshow/93304342.cms",
-         "pubDate" : "Tue, 02 Aug 2022 15:20:10 +0000",
-         "title" : "Chess Olympiad: D Gukesh beats Alexei Shirov, is now India No. 3"
-      },
-      {
          "description" : "The final week to qualify for the Chess.com Global Championship Knockout Phase began with GMs Maksim Chigaev and Andrey Esipenko winning the 13th and 14th Play-ins. GMs Pavel Ponkratov and Ray Robson also qualified by each winning second place res...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1912,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1889",
          "pubDate" : "Sat, 30 Jul 2022 17:38:38 +0000",
          "title" : "Magnus Carlsen wins on his debut"
-      },
-      {
-         "description" : "At the end of the second round of the 44th FIDE Chess Olympiad, 43 teams have four match points, and nine teams won clean 4-0 victories and thus have eight game points. In the 44th FIDE Women&#39;s Chess Olympiad, 40 teams have four match points; 11 t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-2",
-         "pubDate" : "Sat, 30 Jul 2022 07:05:00 -0700",
-         "title" : "Favorites Continue With All Wins"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg\" data-image-dimensions=\"198x280\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62e53802c898ce7096a9d45b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU1351667861\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe> <p class=\"\">Click <a href=\"htt",
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-first-impressions.html",
          "pubDate" : "Tue, 26 Jul 2022 16:32:00 +0000",
          "title" : "2022 Chess Olympiad - First Impressions"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a2148521-2212-4c0a-87e1-114c1de2e9a2/tonyB4.jpg\" data-image-dimensions=\"417x331\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62dff3abd203cf3a97638107\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a2148521-2212-4c0a-87e1-114c1de2e9a2/tonyB4.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo of Tony Ballard <a href=\"https://twitter.com/thegiftofchess/status/1537434379491782659\">via The Gift of Chess </a> </figcaption> </figure> ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/26/ep-289-tony-ballard-a-convicted-felon-on-how-chess-has-changed-his-life",
-         "pubDate" : "Tue, 26 Jul 2022 12:25:09 +0000",
-         "title" : "EP 289- Tony Ballard- A Convicted Felon on How Chess has Changed His Life "
       }
    ]
 }
