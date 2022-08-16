@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Now that the Uzbekistan team has won the gold medal at the 2022 Chess Olympiad in Chennai, Ivan Sokolov may reflect on his greatest accomplishment as a coach. For ChessBase, the Grandmaster created the Fritztrainer series \"Understanding Middlegame Strategies.\" This week, we offer a summer bundle that includes all 4 episodes for only 69.90!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-weeks-summer-special-offer-gold-medal-winner-ivan-sokolov",
+         "pubDate" : "Tue, 16 Aug 2022 17:00:00 +0100",
+         "title" : "This weeks summer special offer - Gold medal winner Ivan Sokolov"
+      },
+      {
          "description" : "More by GM Simon Williams: The Iron English Botvinnik Variation No time to perfect your chess openings? The Hippopotamus Defence solves all of your opening problems with a universal setup. So you never again have to wonder how to start the game. That's because you only need to remember one formation which gives you []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -362,7 +370,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#105;&#99;e&#64;&#x65;&#x6e;&#x67;&#x6c;&#105;&#115;hc&#x68;&#x65;&#x73;&#115;&#46;&#111;rg&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;&#110;&#x67;&#108;&#x69;s&#x68;c&#x68;e&#x73;s&#x2e;o&#x72;g&#46;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1752,14 +1760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-4-day-1",
          "pubDate" : "Tue, 02 Aug 2022 06:25:34 -0700",
          "title" : "Last Week To Qualify Kicks Off With Wins For Chigaev, Esipenko"
-      },
-      {
-         "description" : "Do you find the Sicilian difficult to cope with? Are you afraid to play the Sicilian with White because you do not want to learn a huge amount of variations by heart? Well, Roeland Pruijssers and Nico Zwirs can help. The two Dutchmen have created a complete repertoire against the Sicilian, based on the Open Sicilian. A repertoire that is easy to learn. Only this week: €69.90 instead of €99.90!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/special-bundle-how-to-slay-the-sicilian-vol-1-3",
-         "pubDate" : "Tue, 02 Aug 2022 13:17:32 +0100",
-         "title" : "Special bundle - How to slay the Sicilian Vol. 1-3 + Tactic Toolbox!"
       },
       {
          "description" : "17-year-old Nodirbek Abdusattorov outplayed Fabiano Caruana as Uzbekistan came within a whisker of beating the top seeds. In the end the USA escaped with a draw, with just five teams now on a perfect score: India 2, England, Spain, Armenia and Israel, who scored a surprise win over the Netherlands.",
