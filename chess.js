@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov is on the verge of entering the elite club of players to have crossed 2700 ELO. Today, at the ongoing Turkish League, Abdusattorov won against Erdogmus (ELO 2373) and added extra 1,4 points to reach 2699,5 ELO. The biggest rating gains for Abdusattorov this month were in Chess Olympiad R4 vs Caruana 6,3 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-touches-2700-elo/",
+         "pubDate" : "Tue, 16 Aug 2022 19:13:54 +0000",
+         "title" : "Nodirbek Abdusattorov touches 2700 ELO"
+      },
+      {
+         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
+         "pubDate" : "Tue, 16 Aug 2022 17:55:00 +0100",
+         "title" : "FTX Crypto Cup: Live"
+      },
+      {
          "description" : "Now that the Uzbekistan team has won the gold medal at the 2022 Chess Olympiad in Chennai, Ivan Sokolov may reflect on his greatest accomplishment as a coach. For ChessBase, the Grandmaster created the Fritztrainer series \"Understanding Middlegame Strategies.\" This week, we offer a summer bundle that includes all 4 episodes for only 69.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/this-weeks-summer-special-offer-gold-medal-winner-ivan-sokolov",
          "pubDate" : "Tue, 16 Aug 2022 17:00:00 +0100",
-         "title" : "This weeks summer special offer - Gold medal winner Ivan Sokolov"
+         "title" : "This week's summer special offer - Gold medal winner Ivan Sokolov"
+      },
+      {
+         "description" : "Sinquefield Cup 2022 is going to take place 1-13 September in Saint Louis, USA. It will feature 10 Grandmasters including World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, US players Fabiano Caruana, Wesley So, Levon Aronian, and Leinier Dominguez, as well as Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and Richard Rapport. Sinqufield Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-live/",
+         "pubDate" : "Tue, 16 Aug 2022 15:46:53 +0000",
+         "title" : "Sinquefield Cup 2022 LIVE"
+      },
+      {
+         "description" : "Sinquefield Cup 2022 is going to take place 1-13 September in Saint Louis, USA. It will feature 10 Grandmasters including World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, US players Fabiano Caruana, Wesley So, Levon Aronian, and Leinier Dominguez, as well as Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and Richard Rapport. This will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022/",
+         "pubDate" : "Tue, 16 Aug 2022 15:44:44 +0000",
+         "title" : "Sinquefield Cup 2022"
       },
       {
          "description" : "More by GM Simon Williams: The Iron English Botvinnik Variation No time to perfect your chess openings? The Hippopotamus Defence solves all of your opening problems with a universal setup. So you never again have to wonder how to start the game. That's because you only need to remember one formation which gives you []",
@@ -74,22 +106,6 @@ news_feed (
          "title" : "Magnus Carlsen - Hans Niemann LIVE"
       },
       {
-         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/duda-aronian-live/",
-         "pubDate" : "Tue, 16 Aug 2022 13:24:48 +0000",
-         "title" : "Duda - Aronian LIVE"
-      },
-      {
-         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-le-quang-liem-live/",
-         "pubDate" : "Tue, 16 Aug 2022 13:20:56 +0000",
-         "title" : "Alireza Firouzja - Le Quang Liem LIVE"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93594503.cms\" />Teenage Indian Grandmaster R Praggnanandhaa on Tuesday opened his campaign in the FTX Crypto Cup, the American finale of Champions Chess Tour, with a 2.5-1.5 win over the world's top junior player Alireza Firouzja.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "ECU E-Magazine July 2022"
       },
       {
-         "description" : "Magnus Carlsen summed up Round 1 of the FTX Crypto Cup with \"we played really, really fighting games\". He lived dangerously for two games before beating Anish Giri 3:1, and there were also hard-fought victories for Praggnanandhaa, who defeated Alireza Firouzja 2.5:1.5, and Levon Aronian, who beat Liem Le by the same scoreline. The one blowout saw Jan-Krzysztof Duda defeat Hans Niemann 3:0 after the young US star never recovered from a technical glitz.",
+         "description" : "Magnus Carlsen summed up Round 1 of the FTX Crypto Cup with \"we played really, really fighting games\". He lived dangerously for two games before beating Anish Giri 3:1, and there were also hard-fought victories for Praggnanandhaa, who defeated Alireza Firouzja 2.5:1.5, and Levon Aronian, who beat Liem Le by the same scoreline. The one blowout saw Jan-Krzysztof Duda defeat Hans Niemann 3:0 after the young US star never recovered from a technical glitch.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-1-carlsen-pragg-aronian-duda-start-with-wins",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-207-with-karsten-mueller-and-lara-schulze-highlights-from-the-olympiad",
          "pubDate" : "Mon, 15 Aug 2022 17:00:00 +0100",
          "title" : "Endgame Magic #207 with Karsten M&uuml;ller and Lara Schulze: Highlights from the Olympiad"
-      },
-      {
-         "description" : "WGM Dina Belenkaya, the famous chess commentator who is part of #STAKRNAgency as a #chess streamer and content creator, is back from the Chess Olympiad. She challenged Avital Boruchovsky to a special game of chess the loser jumps into the pool! Watch: WGM Dina Belenkaya: &#x201C;First days at the Olympiad were difficult&#x201D;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dina-belenkaya-vs-avital-boruchovsky-loser-jumps-into-the-pool/",
-         "pubDate" : "Mon, 15 Aug 2022 14:48:43 +0000",
-         "title" : "Dina Belenkaya vs Avital Boruchovsky - loser jumps into the pool"
       },
       {
          "description" : " Toby Brookfield is quite a dangerous player when he gets an attack going, something I discovered when I played him at the 2010 Olympiad. In the most recent Olympiad, he opens with the Centre Game, and when his opponents fails to take in e4 on move 8, is able to directly target the king. Once Brookfield plays h6 he is completely winning, although it took a few more moves before his opponent also realised. <br /> <b>Brookfield,Toby (1815) - Naipal,Hoolan (1785) [C22]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (3.2), 31.07.2022 <script>new PgnViewer( { boardName: \"game1343\", movesFormat: \"default\", pgnString:'1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re",
@@ -370,7 +378,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;&#110;&#x67;&#108;&#x69;s&#x68;c&#x68;e&#x73;s&#x2e;o&#x72;g&#46;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;&#x66;&#x69;&#99;&#x65;&#x40;&#101;&#x6e;&#x67;&#108;&#x69;&#x73;h&#x63;&#x68;e&#x73;&#115;&#46;&#x6f;&#114;g&#x2e;&#117;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -472,6 +480,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-11-part-2.html",
          "pubDate" : "Thu, 11 Aug 2022 23:59:00 +0000",
          "title" : "2022 Chess Olympiad - Day 11 (Part 2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1920",
+         "pubDate" : "Thu, 11 Aug 2022 17:56:28 +0000",
+         "title" : "FIDE releases Chess for Protection project Curriculum"
       },
       {
          "description" : "This week Robert Ris will have a look at a fine attacking game by Max Warmerdam. The young Dutch Grandmaster used a popular line of a Ragozin-Hybrid to play one of the most spectacular games of the Chess Olympiad in Chennai. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 5"
       },
       {
-         "description" : "India 2 and Armenia are the only teams that have won all their matches in the open section of the Chess Olympiad. The second squad presented by the locals has four players aged 18 or younger, including Gukesh, who has a perfect 5/5 score after beating Alexei Shirov on Tuesday. In the women's section, India, Georgia and Romania are sharing the lead on 10/10 match points. The Romanian ladies stunned Poland in the fifth round. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r5",
-         "pubDate" : "Wed, 03 Aug 2022 03:25:00 +0100",
-         "title" : "Chennai R5: Gukesh beats Shirov, India 2 and Armenia share the lead"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Cuba&#039;s greatest games from the ongoing Olympiad in India. 2022.08.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hj9UmrIvJM0.jpg?itok=GSl1AlFF\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2112,14 +2120,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/",
          "pubDate" : "Wed, 27 Jul 2022 06:37:40 +0000",
          "title" : "Communique of the ECU General Assembly and Elections 2022"
-      },
-      {
-         "description" : " I always enjoy getting to the chess olympiad a few days early, as it gives me a chance to see what goes into organising such a large event. For the 2022 Olympiad, what goes into this one, is a massive army of volunteers and staff. This started with me being met at the airport (actually on the airbridge), before being taken directly through customs (via the express lane) , and after collecting my luggage, being driven to my hotel. After a solid nights sleep, and a quick breakfast, I went and inspected the venue. The venue is split into two areas, with the top boards in the existing convention centre, while the rest of the event is in a larger, purpose built, structure. Both venues are fairly",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-first-impressions.html",
-         "pubDate" : "Tue, 26 Jul 2022 16:32:00 +0000",
-         "title" : "2022 Chess Olympiad - First Impressions"
       }
    ]
 }
