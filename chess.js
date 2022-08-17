@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #529 Merijn van Delft looks at another impressive game played at the Chess Olympiad in Chennai: Raunak Sadhwani's win against Leinier Dominguez, in which the young Indian managed to make the of life the American top player surprisingly difficult. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-529-raunak-sadhwani-vs-leinier-dominguez",
+         "pubDate" : "Wed, 17 Aug 2022 17:00:00 +0100",
+         "title" : "Game of the Week #529: Raunak Sadhwani vs Leinier Dominguez"
+      },
+      {
+         "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-british-championship.html",
+         "pubDate" : "Wed, 17 Aug 2022 13:51:00 +0000",
+         "title" : "2022 British Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93620331.cms\" />",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/blogs/ruminations/chess-baby-beats-the-babysitter/",
+         "pubDate" : "Wed, 17 Aug 2022 12:56:25 +0000",
+         "title" : "Blog: Chess - baby beats the babysitter"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1925",
+         "pubDate" : "Wed, 17 Aug 2022 12:25:12 +0000",
+         "title" : "Intercontinental Online Chess Championship for Prisoners: Registration continues"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1924",
+         "pubDate" : "Wed, 17 Aug 2022 11:11:57 +0000",
+         "title" : "FIDE Book Awards 2022"
+      },
+      {
          "description" : "After the closing ceremony, well past midnight, IM Sagar Shah made his way to the Grand Sheraton hotel where the Uzbekistan team was staying. Youngsters - Nodirbek Abdusattorov, Nodirbek Yakubboev, Javokhir Sindarov, Shamsiddin Vokhidov, and Jakhongir Vakhidov had just won the gold medal at the Chess Olympiad 2022. The Uzbek team was kind enough to give their time for an interview where all five of them sat together. We asked them about their best moves, and best games, and also spoke about what this victory means to them and their country.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-2",
-         "pubDate" : "Wed, 17 Aug 2022 01:54:31 -0700",
+         "pubDate" : "Wed, 17 Aug 2022 01:54:00 -0700",
          "title" : "Carlsen, Praggnanandhaa Still Perfect"
       },
       {
@@ -450,7 +490,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#102;&#x66;&#x69;&#99;&#101;&#x40;&#x65;&#110;&#103;&#x6c;&#x69;&#115;&#104;&#x63;&#x68;&#101;&#115;&#x73;&#x2e;&#111;&#114;&#x67;&#x2e;&#117;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;f&#105;&#x63;&#101;&#x40;e&#110;&#x67;l&#x69;&#x73;&#104;&#x63;h&#101;&#x73;s&#x2e;&#x6f;&#114;&#x67;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1642,14 +1682,6 @@ news_feed (
          "title" : "Students Analysis (9)"
       },
       {
-         "description" : "Going into the rest day at the Chess Olympiad, we have sole leaders in both categories for the first time in the event. Armenia beat India 2 to grab the lead in the open, while India defeated Georgia to keep its perfect score in the women's tournament. Remarkably, Gukesh, playing for India 2, scored a sixth consecutive victory in Chennai. | Pictured: All eyes on Gabriel Sargissian and Gukesh. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r6",
-         "pubDate" : "Thu, 04 Aug 2022 03:40:00 +0100",
-         "title" : "Chennai R6: Armenia (open) and India (women's) still perfect"
-      },
-      {
          "description" : "Gukesh beat Gabriel Sargissian in Round 6 of the Chennai Olympiad to move to 6/6 and a live rating of 2719.3, but Armenia hit back to beat India 2 and take the sole lead going into the rest day. On Friday they'll face top seeds USA, so that Levon Aronian may feature against the team with which he won three Olympiad gold medals.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1704,14 +1736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-august-2-2022",
          "pubDate" : "Wed, 03 Aug 2022 08:30:46 -0700",
          "title" : "Nakamura, Other Streamers Dominate Tuesday Tournaments"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93328808.cms\" />India's top player Koneru Humpy and R Vaishali led the women's 'A' team to a 3-1 win over a strong Georgian side in the sixth round of the 44th Chess Olympiad here on Wednesday. In the Open section, teenaged Grandmaster D Gukesh's splendid run continued as he notched up a sixth consecutive win, but India 'B' went down 1.5-2.5 to former champions Armenia.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-koneru-humpy-r-vaishali-star-in-india-a-win-over-georgian-women/articleshow/93328808.cms",
-         "pubDate" : "Wed, 03 Aug 2022 14:58:42 +0000",
-         "title" : "Olympiad: Humpy, Vaishali star in India 'A' win over Georgian women"
       },
       {
          "description" : "",
