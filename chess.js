@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Praggnanandhaa Rameshbabu are the only players who have collected three points in each of the first two rounds at the FTX Crypto Cup in Miami. With 6 out of 6 points, they have a 1-point lead over Levon Aronian in third place. In Tuesday's second round, Carlsen lost the first game against Hans Niemann, but managed to recover magnificently, winning three games in a row to get match victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r2",
+         "pubDate" : "Wed, 17 Aug 2022 07:55:00 +0100",
+         "title" : "FTX Crypto Cup: Carlsen and Pragg in the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.08.16<br /> Hans Moke Niemann vs Jan-Krzysztof Duda, FTX Crypto Cup (2022): E60 King&#039;s Indian, 3.g3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2356851\">https://www.chessgames.com/perl/chessgame?gid=2356851</a><br /> Hans Moke Niemann vs Magnus Carlsen, FTX Crypto Cup (2022): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2357496\">https://www.chessgames.com/perl/chessgame?gid=2357496</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 17 Aug 2022 03:09:22 +0000",
+         "title" : "Controversy at the FTX Crypto Cup! | Road to 2000 - NM Caleb Denby"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.08.16<br /> Hans Moke Niemann vs Jan-Krzysztof Duda, FTX Crypto Cup (2022): E60 King&#039;s Indian, 3.g3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2356851\">https://www.chessgames.com/perl/chessgame?gid=2356851</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://sain",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Predict The Rapid Chess Championship Finals And Win"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on a topic of his choice. 2022.08.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/game-analysis-building-repertoire-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z5y7Qm_nu-o.jpg?itok=as9f19sw\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/game-analysis-building-repertoire-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z5y7Qm_nu-o.jpg?itok=as9f19sw\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/game-analysis-building-repertoire-grandmasters-choice-gm-elshan-moradiabadi",
@@ -42,20 +58,12 @@ news_feed (
          "title" : "28th Abu Dhabi International Chess Festival LIVE"
       },
       {
-         "description" : "Nodirbek Abdusattorov is on the verge of entering the elite club of players to have crossed 2700 ELO. Today, at the ongoing Turkish League, Abdusattorov won against Erdogmus (ELO 2373) and added extra 1,4 points to reach 2699,5 ELO. The biggest rating gains for Abdusattorov this month were in Chess Olympiad R4 vs Caruana 6,3 []",
+         "description" : "Nodirbek Abdusattorov is now part of the elite club of players to have crossed 2700 ELO. Today, at the ongoing Turkish League, Abdusattorov won against Erdogmus (ELO 2456) and added extra 1,4 points to reach 2700,3 ELO. The biggest rating gains for Abdusattorov this month were in Chess Olympiad R4 vs Caruana 6,3 ELO points []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/nodirbek-abdusattorov-touches-2700-elo/",
          "pubDate" : "Tue, 16 Aug 2022 19:13:54 +0000",
-         "title" : "Nodirbek Abdusattorov touches 2700 ELO"
-      },
-      {
-         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
-         "pubDate" : "Tue, 16 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Live"
+         "title" : "Nodirbek Abdusattorov crosses 2700 ELO"
       },
       {
          "description" : "Now that the Uzbekistan team has won the gold medal at the 2022 Chess Olympiad in Chennai, Ivan Sokolov may reflect on his greatest accomplishment as a coach. For ChessBase, the Grandmaster created the Fritztrainer series \"Understanding Middlegame Strategies.\" This week, we offer a summer bundle that includes all 4 episodes for only 69.90!",
@@ -402,7 +410,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#x66;i&#99;&#x65;&#64;&#101;&#x6e;&#x67;&#108;&#x69;&#x73;h&#99;&#x68;e&#115;&#x73;&#x2e;&#111;&#x72;&#x67;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;e&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#104;&#x63;&#x68;es&#115;&#x2e;&#x6f;&#x72;g&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1730,14 +1738,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Cuba&#039;s greatest games from the ongoing Olympiad in India. 2022.08.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hj9UmrIvJM0.jpg?itok=GSl1AlFF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes-lichessorg",
-         "pubDate" : "Tue, 02 Aug 2022 23:57:57 +0000",
-         "title" : "Cuban Chess at the Olympiad | Grandmaster's Choice - WGM Thalia Cervantes | lichess.org"
-      },
-      {
          "description" : "16-year-old Gukesh scored a 5th win in a row as the Indian 2nd team defeated Spain to join Armenia as the only teams with a perfect 10/10 start to the Chennai Olympiad Open section. Gukesh's score was matched by 17-year-old Abdusattorov, as Uzbekistan defeated Slovakia 4:0 to join India 1, the USA, Iran and giant killers Cuba in the group just one point behind.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-8/",
          "pubDate" : "Wed, 27 Jul 2022 09:30:54 +0000",
          "title" : "Students Analysis (8)"
-      },
-      {
-         "description" : "The ECU General Assembly and Board elections 2022 took place at the Porto Palace hotel in Thessaloniki on the 23rd of July 2022 with the participation of 50 European National Chess federations.&#160; ECU President Mr. Zurab Azmaiparashvili, FIDE President Mr. Arkady Dvorkovich, President of Greek Chess Federation Mr. Stathis Efstathopoulos, and Greek Chess Federation Vice President Mr. Georgios&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-general-assembly-and-elections-2022/",
-         "pubDate" : "Wed, 27 Jul 2022 06:37:40 +0000",
-         "title" : "Communique of the ECU General Assembly and Elections 2022"
       }
    ]
 }
