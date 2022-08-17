@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the closing ceremony, well past midnight, IM Sagar Shah made his way to the Grand Sheraton hotel where the Uzbekistan team was staying. Youngsters - Nodirbek Abdusattorov, Nodirbek Yakubboev, Javokhir Sindarov, Shamsiddin Vokhidov, and Jakhongir Vakhidov had just won the gold medal at the Chess Olympiad 2022. The Uzbek team was kind enough to give their time for an interview where all five of them sat together. We asked them about their best moves, and best games, and also spoke about what this victory means to them and their country.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-young-guns-who-ruled-the-olympiad-team-uzbekistan",
+         "pubDate" : "Wed, 17 Aug 2022 12:00:00 +0100",
+         "title" : "The young guns who ruled the Olympiad - Team Uzbekistan"
+      },
+      {
+         "description" : "\"The chess speaks for itself!\" said Hans Niemann after crushing Magnus Carlsen in Game 1 of their match, but Magnus stormed back to win 3:1. Anish Giri had joked that he was babysitting Praggnanandhaa, but a blunder in the last game saw the 17-year-old Indian join Magnus on a perfect score. Levon Aronian is 3rd after beating Jan-Krzysztof Duda on tiebreaks while Alireza Firouzja picked up a first win, over Liem Le.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-2-carlsen-plays-1-a3-leads-with-pragg",
+         "pubDate" : "Wed, 17 Aug 2022 10:27:50 +0000",
+         "title" : "FTX Crypto Cup 2: Carlsen plays 1.a3, leads with Pragg"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1923",
+         "pubDate" : "Wed, 17 Aug 2022 10:09:31 +0000",
+         "title" : "Carlsen and Praggnanandhaa share FTX Crypto Cup lead"
+      },
+      {
+         "description" : "Western Asia Junior Chess Championship 5-15 September 2022 Korumdu, Issyk-Kul, Kyrgyzstan and players participated in the National Junior Chess Championships-2022 and finished as top 50",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asia-junior-chess-championship-5-15-september-2022-korumdu-issyk-kul-kyrgyzstan/",
+         "pubDate" : "Wed, 17 Aug 2022 09:46:22 +0000",
+         "title" : "Western Asia Junior Chess Championship 5-15 September 2022 Korumdu, Issyk-Kul, Kyrgyzstan"
+      },
+      {
+         "description" : "GMs&#38;nbsp;Magnus Carlsen and GM Praggnanandhaa R. are in a tie for first place at the FTX Crypto Cup with the maximum score of six points after two days of play. GM Levon Aronian is in second place with five points, ahead of GM Jan-Krzysztof Duda w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-2",
+         "pubDate" : "Wed, 17 Aug 2022 01:54:31 -0700",
+         "title" : "Carlsen, Praggnanandhaa Still Perfect"
+      },
+      {
          "description" : "Magnus Carlsen and Praggnanandhaa Rameshbabu are the only players who have collected three points in each of the first two rounds at the FTX Crypto Cup in Miami. With 6 out of 6 points, they have a 1-point lead over Levon Aronian in third place. In Tuesday's second round, Carlsen lost the first game against Hans Niemann, but managed to recover magnificently, winning three games in a row to get match victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,7 +450,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;e&#64;&#101;&#x6e;&#x67;&#x6c;i&#115;&#104;&#x63;&#x68;es&#115;&#x2e;&#x6f;&#x72;g&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#x40;e&#110;&#103;&#108;&#x69;&#x73;&#x68;ch&#101;&#115;&#x73;&#x2e;&#x6f;rg&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1682,14 +1722,6 @@ news_feed (
          "title" : "Women in Chess to be celebrated at FIDE's first Queens Awards"
       },
       {
-         "description" : "When dealing with a complex tactic there are usually two outcomes: a leap of intuition leads us to a Eureka epiphany, or we fail miserably, with the engine telling us what the move was, but we remain no closer to knowing how to solve it the next time. Here we analyze a less than obvious solution and how one might reach it through meticulous logic and internal debate.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/investigation-of-a-combination",
-         "pubDate" : "Wed, 03 Aug 2022 09:22:49 +0100",
-         "title" : "Investigation of a combination"
-      },
-      {
          "description" : " <p class=\"lead\">The 44th Chess Olympiad in Chennai, India is currently on Round 6 with India B and Armenia having a perfect 10/10 score at the Open Section. 16-year-old Gukesh and 17-year-old Abdusattorov are victorious so far, winning big against Alexei Shirov and Fabiano Caruana respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.6704730831974\"> <img src=\"https://worldchess.com/news/pictures/1-14.jpg\" width=\"2048\" height=\"1226\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52249368558_42f5e7e23a_k.jpg\" width=\"2048\" height=\"1373\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52257390032_ba6e237382_k.jpg\" width=\"2048\" heigh",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1882,14 +1914,6 @@ news_feed (
          "title" : "Women's Chess Olympiad: Mongolia stages a huge upset, favorites cruise through"
       },
       {
-         "description" : "GM Alexey Sarana won week 23 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Jeffery Xiong in one of the most exciting finals of the season. GMs Hans Niemann and Vladimir Fedoseev made it to the semifinals. GMs Sam ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-23-sarana-wins",
-         "pubDate" : "Sun, 31 Jul 2022 14:27:00 -0700",
-         "title" : "Firewalk Across The Chessboard"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1888",
          "pubDate" : "Fri, 29 Jul 2022 20:51:44 +0000",
          "title" : "No surprises at 44th Women's Chess Olympiad, as top teams have an easy ride"
-      },
-      {
-         "description" : "Levon Aronian's team debut for the USA almost got off to a disastrous start, but a well-timed draw offer saw him escape against IM David Silva of Angola. The USA won 3.5:0.5, while the most popular score of the day was 4:0, which is the score by which all six Indian teams won their opening matches.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-1-aronian-stumbles-as-favourites-win",
-         "pubDate" : "Fri, 29 Jul 2022 20:40:49 +0000",
-         "title" : "Chennai Olympiad 1: Aronian stumbles as favourites win"
       },
       {
          "description" : "",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1881",
          "pubDate" : "Thu, 28 Jul 2022 05:50:40 +0000",
          "title" : "\"Smartwater\", official beverage partner of the 2022 Chess Olympiad"
-      },
-      {
-         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart I sent my students the end of the year exam and gave them 1 week to solve it. The exam consists of 20 puzzles that require <a href=\"https://chessimprover.com/students-analysis-8/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (8)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-8/\">Students Analysis (8)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/students-analysis-8/",
-         "pubDate" : "Wed, 27 Jul 2022 09:30:54 +0000",
-         "title" : "Students Analysis (8)"
       }
    ]
 }
