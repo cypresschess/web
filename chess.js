@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.08.16<br /> Hans Moke Niemann vs Jan-Krzysztof Duda, FTX Crypto Cup (2022): E60 King&#039;s Indian, 3.g3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2356851\">https://www.chessgames.com/perl/chessgame?gid=2356851</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://sain",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Wed, 17 Aug 2022 00:09:27 +0000",
+         "title" : "Controversy at the FTX Crypto Cup! | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
          "description" : "The exciting finals of the 2022 Rapid Chess Championship begin on August 18. That means it&#39;s time for another bracket contest! This time, it&#39;s a double elimination bracket&#38;mdash;you will really have to be on your game to make the best selections t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -394,7 +402,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;c&#x65;&#64;&#x65;&#110;g&#x6c;&#105;&#x73;&#104;c&#x68;&#101;&#x73;&#x73;&#46;&#x6f;&#114;g&#x2e;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#x66;i&#99;&#x65;&#64;&#101;&#x6e;&#x67;&#108;&#x69;&#x73;h&#99;&#x68;e&#115;&#x73;&#x2e;&#111;&#x72;&#x67;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes-lichessorg",
          "pubDate" : "Tue, 02 Aug 2022 23:57:57 +0000",
          "title" : "Cuban Chess at the Olympiad | Grandmaster's Choice - WGM Thalia Cervantes | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby digs through the earliest chess games known to man. These things are ancient! 2022.08.02<br /> Francesc de Castellvi vs Narcis Vinyoles, Valencia (1475): B01 Scandinavian (centre counter) defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1259987\">https://www.chessgames.com/perl/chessgame?gid=1259987</a><br /> Pedro Damiano vs NN, Casual (1497): C42 Petrov, Damiano variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1336243\">https://www.chessgames.com/perl/chessgame?gid=1336243</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staf",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/oldest-recorded-chess-games-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 02 Aug 2022 23:57:57 +0000",
-         "title" : "OLDEST Recorded Chess Games | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "16-year-old Gukesh scored a 5th win in a row as the Indian 2nd team defeated Spain to join Armenia as the only teams with a perfect 10/10 start to the Chennai Olympiad Open section. Gukesh's score was matched by 17-year-old Abdusattorov, as Uzbekistan defeated Slovakia 4:0 to join India 1, the USA, Iran and giant killers Cuba in the group just one point behind.",
