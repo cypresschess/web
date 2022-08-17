@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi analyzes recent games in the Taimanov variation of the Sicilian Defense from MVL, Anand, and Wei Yi. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/build-your-sicilian-taimanov-repertoire-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z5y7Qm_nu-o.jpg?itok=as9f19sw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/build-your-sicilian-taimanov-repertoire-grandmasters-choice-gm-elshan-moradiabadi",
+         "pubDate" : "Wed, 17 Aug 2022 18:10:16 +0000",
+         "title" : "Build Your Sicilian Taimanov Repertoire | Grandmaster's Choice - GM Elshan Moradiabadi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, join a host TBA for the opening ceremony and drawing of lots for the 2022 Saint Louis Rapid &amp; Blitz. The field is: Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Rapport, Mamedyarov, Nakamura, and Shankland. Play begins Friday, August 26 at 12:50 P.M. CDT. 2022.08.25<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-openin",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-opening-ceremony",
+         "pubDate" : "Wed, 17 Aug 2022 18:10:16 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Opening Ceremony"
+      },
+      {
+         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
+         "pubDate" : "Wed, 17 Aug 2022 17:55:00 +0100",
+         "title" : "FTX Crypto Cup: Live"
+      },
+      {
+         "description" : "For the second time in three weeks, GMs Oleksandr Bortnyk and Hikaru Nakamura each won an event on Titled Tuesday. In second place this week were GMs Eric Hansen and Daniel Naroditsky, making it a good day for streaming stars. Early Tournament...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bortnyk-nakamura-win-titled-tuesday-august-16-2022",
+         "pubDate" : "Wed, 17 Aug 2022 09:33:37 -0700",
+         "title" : "Another Great Tuesday For Streamers"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #529 Merijn van Delft looks at another impressive game played at the Chess Olympiad in Chennai: Raunak Sadhwani's win against Leinier Dominguez, in which the young Indian managed to make the of life the American top player surprisingly difficult. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,7 +122,7 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen and Pragg in the lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.08.16<br /> Hans Moke Niemann vs Jan-Krzysztof Duda, FTX Crypto Cup (2022): E60 King&#039;s Indian, 3.g3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2356851\">https://www.chessgames.com/perl/chessgame?gid=2356851</a><br /> Hans Moke Niemann vs Magnus Carlsen, FTX Crypto Cup (2022): C07 French, Tarrasch, open variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2357496\">https://www.chessgames.com/perl/chessgame?gid=2357496</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes the game with the controversial interruption, Hans Niemann vs. Jan-Krzysztof Duda, from the 2022 FTX Crypto Cup, a tournament in the Champions Chess Tour. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1osKY1L8q6I.jpg?itok=IwAm8-7f\" alt=\"\" /></",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby",
@@ -490,7 +522,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;f&#105;&#x63;&#101;&#x40;e&#110;&#x67;l&#x69;&#x73;&#104;&#x63;h&#101;&#x73;s&#x2e;&#x6f;&#114;&#x67;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;f&#x69;&#99;e&#x40;&#101;n&#x67;&#x6c;&#105;&#x73;&#x68;&#99;h&#x65;&#115;s&#x2e;&#111;r&#x67;&#x2e;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1666,14 +1698,6 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 6&frac12;:3&frac12;"
       },
       {
-         "description" : "In his \"Game of the Week\" show Merijn van Delft looks at one of the most impressive games played in the Chess Olympiad 2022 in Chennai: Nodirbek Abdusattorov's convincing win against Fabiano Caruana with the black pieces. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-527-caruana-vs-abdusattorov",
-         "pubDate" : "Thu, 04 Aug 2022 08:54:22 +0100",
-         "title" : "Game of the Week #527: Caruana vs Abdusattorov"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Last week we looked at a graduation puzzle and the solutions received from three of my students. None of the solutions led me to believe they <a href=\"https://chessimprover.com/students-analysis-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-9/\">Students Analysis (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1768,22 +1792,6 @@ news_feed (
          "link" : "https://aicf.in/asian-school-chess-championship-2022-postponed/",
          "pubDate" : "Wed, 03 Aug 2022 06:04:52 +0000",
          "title" : "Asian School Chess Championship 2022 - Postponed"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby digs through the earliest chess games known to man, from the 15th century. These things are ancient!<br /> See your favorites like Lucena, Greco, Damiano, and N. N.! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oldest-recorded-chess-games-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QjBuz81CE5w.jpg?itok=89Zy5K3T\" alt=\"\" /",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/oldest-recorded-chess-games-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 03 Aug 2022 02:58:10 +0000",
-         "title" : "Oldest Recorded Chess Games | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at Cuba's greatest games from the ongoing Olympiad in India, featuring Carlos Daniel Albornoz and Luis Ernesto Quesada.. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hj9UmrIvJM0.jpg?itok=GSl1AlFF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cuban-chess-olympiad-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Wed, 03 Aug 2022 02:58:10 +0000",
-         "title" : "Cuban Chess at the Olympiad | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
          "description" : " At the end of round 5 of the 2022 Chess Olympiad, only 2 teams remain on a perfect score. India 2 defeated Spain 2.5-1.5, while Armenia beat England by a similar score*. So there is an Indian team leading the home Olympiad, just not the one that was expected. Tied for third are India 1, USA and a couple of surprises in Uzbekistan and Cuba. Norway bounced back form a couple of poor (and in one case lucky) rounds, to beat Zambia 3.5-0.5 Australia missed a chance to stay in the top 10, drawing with the lower seeded Belgium 2-2. GM Justin Tan suffered his first loss of the tournament, but this was balanced out by a win for GM Zong Yuan Zhao. As a result the Australians now face Norway in Round ",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1893",
          "pubDate" : "Mon, 01 Aug 2022 12:16:54 +0000",
          "title" : "Nepomniachtchi enters top-3 open in August 2022 rating list"
-      },
-      {
-         "description" : "Italy inflicted a shocking defeat on third-seeded Norway with a convincing score of 3-1 in the third round of the 44th FIDE Chess Olympiad, as Netherlands and India 2 scored impressive 4-0 victories against Sweden and Switzerland respectively. Ind...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-3",
-         "pubDate" : "Sun, 31 Jul 2022 20:41:00 -0700",
-         "title" : "Italy Shocks Norway On Day Of Endgames, Estonian Grandmaster Faints At Board"
       },
       {
          "description" : " The third day of the 2022 Chess Olympiad was action packed, both on the board, and around the boards. On the chessboard, the big news was the 3-1 win by Italy over the 3rd seeded Norwegian team. Draws on the top 2 boards, and wins on the bottom 2 saw Italy keep a perfect record, and relegate Norway down to 30th on tie-break. Another big result was the win by Austria over Germany 2.5-1.5, resulting in another top 10 team (on seedings) drop down the table. Both Australian teams played well against tough opposition. The open team narrowly lost 1.5-2.5 to Poland, with a win by Temur Kuybokarov the highlight. The Women's team did a little better, drawing 2-2 with Cuba, and now face the USA team ",
