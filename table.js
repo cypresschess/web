@@ -1,4 +1,5 @@
 jtable([
+"MISSOURI CITY","2022-08-16","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208165542 target='_blank'>RCC QUADS AUGUST 16, 2022</a>",
 "LEAGUE CITY","2022-08-01  - 08-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208154652 target='_blank'>CLCC AUGUST MONDAYS</a>",
 "HOUSTON","2022-08-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208144392 target='_blank'>AUGUST 14 SUNDAY SWISS</a>",
 "HOUSTON","2022-08-13","41","<a href=http://www.uschess.org/msa/XtblMain.php?202208134352 target='_blank'>AUG 13 SATURDAY CHESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-10-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202110246082 target='_blank'>SUNDAY SWISS OCT 24TH</a>",
 "SUGAR LAND","2021-10-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110224742 target='_blank'>FBCC 2021 HALLOWEEN PREP</a>",
 "SPRING","2021-10-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110224692 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2021-10-22","21","<a href=http://www.uschess.org/msa/XtblMain.php?202110224682 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
