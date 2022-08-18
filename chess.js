@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is excited to announce that the FIDE Fischer Random World Championship is back, brought to you by the Government of Iceland and the City of Reykjavik! Top players from around the world will compete in a series of classical Fischer Random...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2022-fide-fischer-random-world-chess-championship",
+         "pubDate" : "Thu, 18 Aug 2022 10:22:43 -0700",
+         "title" : "Announcing The 2022 FIDE Fischer Random World Chess Championship"
+      },
+      {
+         "description" : "The summer holidays are coming to an end, and ChessKid is giving all parents and educators a 20% discount on Gold memberships to make sure young chess players can get easy access to child-friendly game analysis, puzzles, video lessons, and more. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-back-to-school-sale",
+         "pubDate" : "Thu, 18 Aug 2022 10:05:15 -0700",
+         "title" : "ChessKid Memberships: 20% Off For Back-to-School Season"
+      },
+      {
+         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
+         "pubDate" : "Thu, 18 Aug 2022 17:55:00 +0100",
+         "title" : "FTX Crypto Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Eight Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Rapport, and Mamedyarov) are joined by wildcards (Nakamura and Shankland) for a rapid round robin and blitz double round robin event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila from August 26-30 at 12:50 P.M. CDT. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-ty",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-promo",
+         "pubDate" : "Thu, 18 Aug 2022 15:10:54 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz | PROMO"
+      },
+      {
          "description" : "Fischer leads by three points. The Match of the Century was coming to a head, with Spassky, despite all his efforts, unable to reduce the deficit. \"I felt that Fischer was like a large fish in my hands,\" he lamented, \"one that was slippery and hard to hold on to. At certain moments I let him slip. And then again the psychological torment would begin. Everything had to be begun again from the start ...\" Spassky was beginning to feel despondent. | Photo: Sk&aacute;ksamband Íslands",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -594,7 +626,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#x65;&#64;&#101;&#x6e;&#103;&#x6c;&#105;&#x73;h&#x63;h&#101;&#x73;&#115;&#x2e;o&#x72;g&#x2e;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#x63;&#x65;&#x40;&#x65;&#x6e;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;&#x65;&#x73;&#x73;&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1474,14 +1506,6 @@ news_feed (
          "title" : "Chess Olympiad: D Gukesh on a giant-killing spree"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering discusses how beginners go into autopilot when playing openings in chess and gives examples from two King&#039;s Indian games he played against Mike Kummer. Originally on Twitch<br /> 2022.07.25<br /> Mike Kummer vs. Alex Moellering, 2020: E81 King&#039;s Indian, Saemisch, 5...O-O<br /> Kummer vs. Moellering, 2021: E81 King&#039;s Indian, Saemisch, 5...O-O </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mode-autopilot-beginner-breakdown\"><img src=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mode-autopilot-beginner-breakdown",
-         "pubDate" : "Sat, 06 Aug 2022 15:01:17 +0000",
-         "title" : "Mode: Autopilot | Beginner Breakdown"
-      },
-      {
          "description" : "Germany beat Serbia in round 7 of the Chess Olympiad, but only after Vincent Keymer successfully defended an imbalanced position against Aleksandar Indjic. Keymer had a queen against Indjic's bishop pair and two dangerous connected passers. Zoran Petronijevic sent us instructive annotations to an intriguing endgame battle! | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1698,14 +1722,6 @@ news_feed (
          "title" : "Chess returns to India"
       },
       {
-         "description" : "This week Robert Ris will have a look at a spectacular game from the Olympiad match Czech Republic vs. Mongolia, in which David Navara played a model game that shows White's possibilities in the Caro-Kann Advance Variation. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-caro-kann-advance-variation",
-         "pubDate" : "Thu, 04 Aug 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Caro-Kann Advance Variation"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1858,14 +1874,6 @@ news_feed (
          "title" : "Chennai Olympiad 5: Gukesh & Abdusattorov on rampage"
       },
       {
-         "description" : "11th-seeded India 2 scored an upset victory over fourth-seeded Spain, while 12th-seeded Armenia defeated 10th-seeded England, both with an identical score of 2.5-1.5, to jointly lead the open section with 10 match points at the end of the fifth ro...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-5",
-         "pubDate" : "Tue, 02 Aug 2022 15:22:00 -0700",
-         "title" : "India 2, Armenia Lead Open; India, Georgia, Romania Lead Women's"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/2/ep-290-dutch-trainer-and-author-im-jeroen-bosch-on-how-to-build-an-opening-repertoire",
          "pubDate" : "Tue, 02 Aug 2022 17:09:40 +0000",
          "title" : "EP 290- Dutch Trainer and Author IM Jeroen Bosch on How to Build an Opening Repertoire "
-      },
-      {
-         "description" : "The final week to qualify for the Chess.com Global Championship Knockout Phase began with GMs Maksim Chigaev and Andrey Esipenko winning the 13th and 14th Play-ins. GMs Pavel Ponkratov and Ray Robson also qualified by each winning second place res...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-4-day-1",
-         "pubDate" : "Tue, 02 Aug 2022 06:25:34 -0700",
-         "title" : "Last Week To Qualify Kicks Off With Wins For Chigaev, Esipenko"
       },
       {
          "description" : "17-year-old Nodirbek Abdusattorov outplayed Fabiano Caruana as Uzbekistan came within a whisker of beating the top seeds. In the end the USA escaped with a draw, with just five teams now on a perfect score: India 2, England, Spain, Armenia and Israel, who scored a surprise win over the Netherlands.",
