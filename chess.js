@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Finally, the beloved WIM from Canada is back, and shows us a couple of games from the Olympiad in Chennai. In the first game, she crushed the strong female Dutch GM Peng Zhaoqin with the London system. In preparation, she discovered the interesting manoeuvre 11. Qa4!?, which you can add to your repertoire now. In the second game, Svitlana used the peculiar Horwitz attack against the French Defense. The Gambit is also known as \"Papa-Ticulat Gambit\". Due to a pretty knight sacrifice, she succeeded in her game against the Puerto-Ricon player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-47",
+         "pubDate" : "Thu, 18 Aug 2022 13:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai (London System & Papa-Ticulat Gambit)"
+      },
+      {
+         "description" : "FIDE Chess for Protection is a project that helps refugees learn the game of chess and acquire new important life skills, socialize, and release stress through it. One of the essential parts of the Chess for Protection project is Girls Club, aiming to educate girls and women. The pilot by FIDE and UNCHR was launched in Kakuma, Kenya,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-releases-chess-for-protection-project-curriculum/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-releases-chess-for-protection-project-curriculum/",
+         "pubDate" : "Thu, 18 Aug 2022 09:57:20 +0000",
+         "title" : "FIDE releases Chess for Protection project Curriculum"
+      },
+      {
+         "description" : "Magnus Carlsen and Indian star Rameshbabu Praggnanandhaa are neck-and-neck on a perfect&#xA0;9/9 after both won their FTX Crypto Cup matches today. Norway's World Champion overpowered Levon Aronian in a classic encounter that saw some thrilling fighting chess before the 31-year-old sealed a 2.5-1.5 win. Pragg, bidding for his first Meltwater Champions Chess Tour title, wasn't []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-and-pragg-continue-perfect-at-the-ftx-crypto-chess-cup/",
+         "pubDate" : "Thu, 18 Aug 2022 09:47:28 +0000",
+         "title" : "Carlsen and Pragg continue perfect at the FTX Crypto Chess Cup"
+      },
+      {
+         "description" : "Magnus Carlsen and Praggnanandhaa lead the FTX Crypto Cup by 4 points after winning again on Wednesday in Miami. Magnus beat Levon Aronian 2.5:1.5 after winning the first game, while Pragg won by the same scoreline despite starting with a loss to Hans Niemann. Liem Le got off the mark in style by beating Jan-Krzysztof Duda with a game to spare, while Alireza Firouzja beat Anish Giri only in Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-3-carlsen-pragg-still-perfect",
+         "pubDate" : "Thu, 18 Aug 2022 09:42:45 +0000",
+         "title" : "FTX Crypto Cup 3: Carlsen & Pragg still perfect"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1926",
+         "pubDate" : "Thu, 18 Aug 2022 09:37:26 +0000",
+         "title" : "Carlsen and Praggnanandhaa neck-and-neck in FTX Crypto Cup"
+      },
+      {
+         "description" : "GMs&#38;nbsp;Magnus Carlsen and GM Praggnanandhaa R. continue to lead the FTX Crypto Cup in Miami, now with the maximum score of nine points after three days of play. In second place, four points behind, are GM Levon Aronian and GM Alireza Firouzja. T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-3",
+         "pubDate" : "Thu, 18 Aug 2022 01:44:00 -0700",
+         "title" : "Carlsen, Praggnanandhaa Lead As FTX Crypto Cup Sees 1st Armageddon"
+      },
+      {
          "description" : "Praggnanandhaa and Magnus Carlsen are sharing the lead with perfect scores at the FTX Crypto Cup in Miami. In Wednesday's third round, Pragg defeated Hans Niemann while Carlsen got the better of Levon Aronian. Le Quang Liem and Alireza Firouzja were the remaining winners of the day, with the latter climbing to shared third place after beating Anish Giri in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-529-raunak-sadhwani-vs-leinier-dominguez",
          "pubDate" : "Wed, 17 Aug 2022 17:00:00 +0100",
          "title" : "Game of the Week #529: Raunak Sadhwani vs Leinier Dominguez"
+      },
+      {
+         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#160;in his announcement that he wouldn&#x2019;t defend the title&#160;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
+         "pubDate" : "Wed, 17 Aug 2022 14:05:00 +0000",
+         "title" : "FTX Crypto Cup 2022 LIVE"
       },
       {
          "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
@@ -234,14 +290,6 @@ news_feed (
          "title" : "EP 292- Adult Improver Karen Boyd on What She Learned from a Busy Summer of Tournament Chess, and Why she Always \"Plays Up\" Against Tougher Competition "
       },
       {
-         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#xA0;in his announcement that he wouldn&#x2019;t defend the title&#xA0;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
-         "pubDate" : "Tue, 16 Aug 2022 14:05:00 +0000",
-         "title" : "FTX Crypto Cup 2022 LIVE"
-      },
-      {
          "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen &#x2013; Giri / Pragg &#x2013; Alireza / Hans Niemann &#x2013; Duda / Aronian &#x2013; Le Quang Liem []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -256,14 +304,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ftx-crypto-cup-day-2-live-with-tania-sachdev-and-peter-leko/",
          "pubDate" : "Tue, 16 Aug 2022 13:56:47 +0000",
          "title" : "FTX Crypto Cup Day 2 LIVE - with Tania Sachdev and Peter Leko"
-      },
-      {
-         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/81180-2/",
-         "pubDate" : "Tue, 16 Aug 2022 13:48:57 +0000",
-         "title" : "Champions Chess Tour FTX Crypto Cup 2022 Day 2 with David Howell and Jovanka Houska"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93594503.cms\" />Teenage Indian Grandmaster R Praggnanandhaa on Tuesday opened his campaign in the FTX Crypto Cup, the American finale of Champions Chess Tour, with a 2.5-1.5 win over the world's top junior player Alireza Firouzja.",
@@ -538,7 +578,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#x65;&#64;&#101;&#x6e;&#103;&#x6c;i&#x73;h&#99;&#x68;&#101;&#x73;s&#x2e;o&#114;&#x67;&#46;&#x75;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on offi&#99;&#101;&#64;&#101;&#110;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;ess&#46;&#111;&#114;&#103;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1698,14 +1738,6 @@ news_feed (
          "title" : "Magnus Carlsen tops FTX Crypto Cup line-up"
       },
       {
-         "description" : "After the first two traumatic games World Champion Boris Spassky was leading 2-0 in the Match of the Century. But then Fischer started to play and struck back: in the next eight games he scored 6&frac12; points, chalking up a 6.5-3.5 lead. Games 8, 9 and 10 were quite spectacular, and are the subject of today's report - exactly fifty years after game ten. Younger players will also learn about \"adjournments\" and how exactly \"sealed moves\" were handled. Some were born after these practices were abandoned.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fifty-years-ago-fischer-leads-6-3",
-         "pubDate" : "Thu, 04 Aug 2022 10:00:00 +0100",
-         "title" : "Fifty years ago: Fischer leads 6&frac12;:3&frac12;"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Last week we looked at a graduation puzzle and the solutions received from three of my students. None of the solutions led me to believe they <a href=\"https://chessimprover.com/students-analysis-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-9/\">Students Analysis (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1898,14 +1930,6 @@ news_feed (
          "title" : "USA stumbles in Chennai Olympiad"
       },
       {
-         "description" : "Have you ever dreamed of becoming a chess streamer like Hikaru, GothamChess, or the Botez sisters? Or simply want to grow your audience online through chess? Well, we&#39;re making it easier than ever to get started! The all-new Chess.com Community St...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-community-streamers-chesscom",
-         "pubDate" : "Mon, 01 Aug 2022 11:14:00 -0700",
-         "title" : "Announcing Major Additions to Streaming on Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1960,14 +1984,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-day-2.html",
          "pubDate" : "Sun, 31 Jul 2022 02:59:00 +0000",
          "title" : "2022 Chess Olympiad - Day 2"
-      },
-      {
-         "description" : "Magnus Carlsen beat Georg Meier in an 80-move grind as Norway defeated Uruguay 4:0, while top seeds USA edged a 2.5:1.5 win over Paraguay in Round 2 of the Chess Olympiad in Chennai. We got the first upsets, with 17th seeds Croatia put to the sword 3.5:0.5 by Bulgaria, while 73rd seeds Zambia shocked 27th seeds Denmark. All six Indian teams have won all their matches, with India 2 above India 1 after a perfect 8/8 start. Gukesh crossed 2700, again!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-2-magnus-grinds-out-win-as-zambia-and-bulgaria-post-upsets",
-         "pubDate" : "Sat, 30 Jul 2022 22:54:21 +0000",
-         "title" : "Chennai Olympiad 2: Magnus grinds out win as Zambia and Bulgaria post upsets"
       },
       {
          "description" : "",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34305398/chess-olympiad-2022-chennai-india-capital-welcomes-world-magnus-carlsen?device=featurephone",
          "pubDate" : "Thu, 28 Jul 2022 06:53:29 -0500",
          "title" : "Chennai, India's chess capital, welcomes the world (and Carlsen)"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 opens today in Chennai, India gathering 350 teams from 190 countries. The Opening ceremony of the event starts today at 19:00 (local time) and the first round starts tomorrow at 15:00 (local time). The Opening press ceremony was held today in the presence of FIDE President Arkady Dvorkovich, AICF President Dr Sanjay Kapoor,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/44th-chess-olympiad-opens-in-chennai/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/44th-chess-olympiad-opens-in-chennai/",
-         "pubDate" : "Thu, 28 Jul 2022 11:19:58 +0000",
-         "title" : "44th Chess Olympiad opens in Chennai"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1882",
-         "pubDate" : "Thu, 28 Jul 2022 07:33:37 +0000",
-         "title" : "Valentina Gunina trounces Tan Zhongyi to advance into semis"
       }
    ]
 }
