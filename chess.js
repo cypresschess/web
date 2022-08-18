@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Kateryna Lagno defeated IM Vaishali R in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Wednesday. Lagno&#39;s experience faced off against Vaishali&#39;s fighting spirit to produce a match of many dynamic battles.&#38;nbsp; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-semifinals-lagno-vaishali",
+         "pubDate" : "Wed, 17 Aug 2022 18:53:59 -0700",
+         "title" : "Fighting Spirit to the End: Lagno Defeats Vaishali"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The main event of a nine-hour marathon to raise money for CHESS Cops, Ben Simon plays the viewers and talks about chess ratings, pro wrestling, his disdain for Twitch, and more! The marathon included Danny Machuca&#039;s Steve the Pirate, Jonathan Schrantz, and GM Bryan Smith. Originally on Twitch<br /> 2021.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ben-simon-plays-people-chess-cops\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ben-simon-plays-people-chess-cops",
+         "pubDate" : "Thu, 18 Aug 2022 00:10:32 +0000",
+         "title" : "Ben Simon Plays The People for CHESS Cops!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi analyzes recent games in the Taimanov variation of the Sicilian Defense from MVL, Anand, and Wei Yi. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/build-your-sicilian-taimanov-repertoire-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z5y7Qm_nu-o.jpg?itok=as9f19sw\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -522,7 +538,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;&#105;&#x63;&#101;&#64;&#x65;&#110;&#x67;&#108;i&#x73;&#104;&#x63;&#104;e&#x73;s&#x2e;&#111;&#x72;&#x67;&#46;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;f&#105;&#x63;e&#64;&#x65;n&#103;&#x6c;i&#115;&#x68;c&#104;&#x65;s&#115;&#x2e;o&#114;&#x67;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1458,14 +1474,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-beat-2300-15-moves\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-beat-2300-15-moves",
-         "pubDate" : "Sat, 06 Aug 2022 00:00:53 +0000",
-         "title" : "How to Beat a 2300 in 15 Moves"
-      },
-      {
          "description" : "Armenia remain sole leaders of the Chennai Olympiad after a rollercoaster match against top seeds USA. Wesley So found a stunning queen sac, Fabiano Caruana crashed to defeat against Gabriel Sargissian and Leinier Dominguez hit back only for Sam Shankland to \"pre-move\" and lose just when he was about to give the USA victory. It's Armenia vs. India 1 and USA vs. India 2, for whom Gukesh now has 7/7, in Saturday's Round 7.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-community-streamers-chesscom",
          "pubDate" : "Mon, 01 Aug 2022 11:14:00 -0700",
          "title" : "Announcing Major Additions to Streaming on Chess.com"
-      },
-      {
-         "description" : "India 2, Israel, England, Spain, and Armenia lead with eight match points at the end of the fourth round of the 44th FIDE Chess Olympiad. The U.S. and India, the top two seeds, were held to 2-2 draws by Uzbekistan and France respectively. Norway s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-4",
-         "pubDate" : "Mon, 01 Aug 2022 09:36:00 -0700",
-         "title" : "Held By Uzbekistan, U.S. Survives Scare; Abdusattorov Shocks Caruana"
       },
       {
          "description" : "",
