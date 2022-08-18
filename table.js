@@ -4,7 +4,7 @@ jtable([
 "HOUSTON","2022-08-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208144392 target='_blank'>AUGUST 14 SUNDAY SWISS</a>",
 "HOUSTON","2022-08-13","41","<a href=http://www.uschess.org/msa/XtblMain.php?202208134352 target='_blank'>AUG 13 SATURDAY CHESS</a>",
 "SPRING","2022-08-12","32","<a href=http://www.uschess.org/msa/XtblMain.php?202208123052 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2022-08-12","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208122982 target='_blank'>FBCC08122022</a>",
+"SUGAR LAND","2022-08-12","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208122982 target='_blank'>FBCC 2022 BACK TO SCHOOL OPEN</a>",
 "CYPRESS","2022-08-12","26","<a href=http://www.uschess.org/msa/XtblMain.php?202208122922 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "MISSOURI CITY","2022-08-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208092002 target='_blank'>RCC QUADS AUGUST 9 2022</a>",
 "HOUSTON","2022-08-05  - 08-07","35","<a href=http://www.uschess.org/msa/XtblMain.php?202208071212 target='_blank'>$3,500 HOUSTON CHESS STUDIO AUGUST</a>",
