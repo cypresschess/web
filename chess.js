@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fischer leads by three points. The Match of the Century was coming to a head, with Spassky, despite all his efforts, unable to reduce the deficit. \"I felt that Fischer was like a large fish in my hands,\" he lamented, \"one that was slippery and hard to hold on to. At certain moments I let him slip. And then again the psychological torment would begin. Everything had to be begun again from the start ...\" Spassky was beginning to feel despondent. | Photo: Sk&aacute;ksamband Íslands",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/50-years-ago-fischer-leads-9-6",
+         "pubDate" : "Thu, 18 Aug 2022 15:00:00 +0100",
+         "title" : "50 years ago: Fischer leads 9:6"
+      },
+      {
+         "description" : " The European Summer Chess Tour is a well known destination for Antipodean players, although Covid has restricted playing opportunities in the last few years. It does look like it is back to normal this year, and on young Canberran, FM Albert Winkelman, is giving it a go. He started with the Czech Open, before moving onto a GM event in Olomouc. Being the bottom seed in the GM group is always going to be a tough ask, and his current score of 1.5/6 doesn't reflect how close he was in some games. While looking through the games I did spot one very nice attack by Jonasz Baum, where a rook sacrifice lead to a position where White had to walk the tight-rope to avoid a loss. He did for a while, but",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/czech-summer-chess.html",
+         "pubDate" : "Thu, 18 Aug 2022 13:34:00 +0000",
+         "title" : "Czech Summer Chess"
+      },
+      {
          "description" : "Finally, the beloved WIM from Canada is back, and shows us a couple of games from the Olympiad in Chennai. In the first game, she crushed the strong female Dutch GM Peng Zhaoqin with the London system. In preparation, she discovered the interesting manoeuvre 11. Qa4!?, which you can add to your repertoire now. In the second game, Svitlana used the peculiar Horwitz attack against the French Defense. The Gambit is also known as \"Papa-Ticulat Gambit\". Due to a pretty knight sacrifice, she succeeded in her game against the Puerto-Ricon player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -578,7 +594,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on offi&#99;&#101;&#64;&#101;&#110;&#x67;&#x6c;&#x69;&#x73;&#x68;&#x63;&#x68;ess&#46;&#111;&#114;&#103;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;&#102;&#x69;&#x63;&#101;&#64;&#x65;&#x6e;&#103;&#108;&#x69;&#x73;&#104;&#99;&#x68;&#x65;&#115;&#115;&#x2e;&#x6f;&#114;&#103;&#x2e;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1706,14 +1722,6 @@ news_feed (
          "title" : "Indian teams eye glory as Chess Olympiad enters business end"
       },
       {
-         "description" : "New York won the state versus state championship at the national tournaments of state chess champions held July 30-August 2, 2022. Each state could send five representatives, and each representative played six games. Individual champions were also crowned. Woman International Master Alexey Root reports from the Rancho Mirage, California site, which also hosts the U.S. Open. | Photos: Alexey Root",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-york-bests-other-states-at-chess",
-         "pubDate" : "Thu, 04 Aug 2022 15:00:00 +0100",
-         "title" : "New York bests other states at chess"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #6 Wednesday, 3 August 2022 Exciting action in round #6 at the 2022 Chess Olympiad today. As we are past the halfway mark, there has been a pleasant surprise emerging with Armenia leading the Open Section. Armenia is a well-known chess power, but since the loss of Levon Aronian and Vladimir The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/\">2022 Chess Olympiad: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1883",
          "pubDate" : "Thu, 28 Jul 2022 19:37:34 +0000",
          "title" : "Narendra Modi: \"There are no losers: only winners and future winners\""
-      },
-      {
-         "description" : "Chennai hosts the 44th Chess Olympiad, beginning on Thursday with 2000 players from 188 countries",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34305398/chess-olympiad-2022-chennai-india-capital-welcomes-world-magnus-carlsen?device=featurephone",
-         "pubDate" : "Thu, 28 Jul 2022 06:53:29 -0500",
-         "title" : "Chennai, India's chess capital, welcomes the world (and Carlsen)"
       }
    ]
 }
