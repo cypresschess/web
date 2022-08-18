@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa and Magnus Carlsen are sharing the lead with perfect scores at the FTX Crypto Cup in Miami. In Wednesday's third round, Pragg defeated Hans Niemann while Carlsen got the better of Levon Aronian. Le Quang Liem and Alireza Firouzja were the remaining winners of the day, with the latter climbing to shared third place after beating Anish Giri in Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r3",
+         "pubDate" : "Thu, 18 Aug 2022 07:55:00 +0100",
+         "title" : "FTX Crypto Cup: Pragg keeps pace with Carlsen"
+      },
+      {
          "description" : "GM Kateryna Lagno defeated IM Vaishali R in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Wednesday. Lagno&#39;s experience faced off against Vaishali&#39;s fighting spirit to produce a match of many dynamic battles.&#38;nbsp; ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-opening-ceremony",
          "pubDate" : "Wed, 17 Aug 2022 18:10:16 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz: Opening Ceremony"
-      },
-      {
-         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
-         "pubDate" : "Wed, 17 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Live"
       },
       {
          "description" : "For the second time in three weeks, GMs Oleksandr Bortnyk and Hikaru Nakamura each won an event on Titled Tuesday. In second place this week were GMs Eric Hansen and Daniel Naroditsky, making it a good day for streaming stars. Early Tournament...",
@@ -538,7 +538,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;f&#105;&#x63;e&#64;&#x65;n&#103;&#x6c;i&#115;&#x68;c&#104;&#x65;s&#115;&#x2e;o&#114;&#x67;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#x65;&#64;&#101;&#x6e;&#103;&#x6c;i&#x73;h&#99;&#x68;&#101;&#x73;s&#x2e;o&#114;&#x67;&#46;&#x75;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1882",
          "pubDate" : "Thu, 28 Jul 2022 07:33:37 +0000",
          "title" : "Valentina Gunina trounces Tan Zhongyi to advance into semis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1881",
-         "pubDate" : "Thu, 28 Jul 2022 05:50:40 +0000",
-         "title" : "\"Smartwater\", official beverage partner of the 2022 Chess Olympiad"
       }
    ]
 }
