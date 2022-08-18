@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2022-fide-fischer-random-world-chess-championship",
-         "pubDate" : "Thu, 18 Aug 2022 10:22:43 -0700",
+         "pubDate" : "Thu, 18 Aug 2022 10:22:00 -0700",
          "title" : "Announcing The 2022 FIDE Fischer Random World Chess Championship"
       },
       {
@@ -110,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-wscc-semifinals-lagno-vaishali",
-         "pubDate" : "Wed, 17 Aug 2022 18:53:59 -0700",
+         "pubDate" : "Wed, 17 Aug 2022 18:53:00 -0700",
          "title" : "Fighting Spirit to the End: Lagno Defeats Vaishali"
       },
       {
@@ -626,7 +626,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#102;&#105;c&#x65;&#x40;&#x65;&#110;&#103;l&#x69;&#x73;&#x68;&#99;&#104;e&#x73;&#x73;&#x2e;&#111;&#114;g&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#99;&#101;&#64;en&#x67;&#x6c;&#x69;&#x73;&#x68;&#99;&#104;&#101;ss&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#117;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/jul/29/chess-magnus-carlsen-in-olympiad-action-as-world-no-1-targets-record-rating",
          "pubDate" : "Fri, 29 Jul 2022 07:00:50 +0000",
          "title" : "Chess: Magnus Carlsen in Olympiad action as world No 1 targets record rating"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1883",
-         "pubDate" : "Thu, 28 Jul 2022 19:37:34 +0000",
-         "title" : "Narendra Modi: \"There are no losers: only winners and future winners\""
       }
    ]
 }
