@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, Daniel King finds inspiration in a game from the Women's Olympiad. Tournament sensation Oliwia Kiolbasa defeated Indian rising star Vaishali after converting her advantage in a fascinating rook endgame. This is the starting point for a discussion with related games. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-instructive-rook-endgames",
+         "pubDate" : "Fri, 19 Aug 2022 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Tricks with rooks and pawns"
+      },
+      {
+         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
+         "pubDate" : "Fri, 19 Aug 2022 17:55:00 +0100",
+         "title" : "FTX Crypto Cup: Live"
+      },
+      {
          "description" : "Sipke Ernst has made a successful Fritzrainer last year, tackling the \"flexible Open Spanish\". The Dutch Grandmaster is back again, with \"3.h4 against the King's Indian and Gr&uuml;nfeld\". Time to ask him about when he started to play chess, his feeling when reaching the Grandmaster title, a rating of over 2600, and one of his most passionate hobbies - Arm wrestling! We also analyse one of his favourite games he ever played. Luke Mcshane was the opponent, made a beautiful sacrifice, which Sipke countered wonderfully. | Photo: Sipke Ernst FB",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,6 +98,14 @@ news_feed (
          "title" : "Looking back to Chennai: Juniors impress at the Olympiad"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1930",
+         "pubDate" : "Fri, 19 Aug 2022 10:41:59 +0000",
+         "title" : "Lagno defeats Vaishali to advance into the final"
+      },
+      {
          "description" : "Praggnanandhaa survived a thrilling final game to clinch a 3:1 victory over Levon Aronian and move to a perfect 12/12 after Round 4 of the FTX Crypto Cup. Pragg is still level with Magnus Carlsen, who pounced on blunders to beat Liem Le 3:1, while Alireza Firouzja is 4 points behind in 3rd place after winning a rollercoaster battle with Jan-Krzysztof Duda. Hans Niemann talked about ways to \"numb the pain\" as he went on to lose to Anish Giri.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -102,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-4",
-         "pubDate" : "Fri, 19 Aug 2022 03:13:49 -0700",
+         "pubDate" : "Fri, 19 Aug 2022 03:13:00 -0700",
          "title" : "Carlsen, Praggnanandhaa Storm On As Niemann's Suffering Continues"
       },
       {
@@ -130,7 +154,7 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen and Pragg runaway leaders"
       },
       {
-         "description" : " Keith Arkell and Harry Grieve lead after six of nine rounds, while Harrow schoolgirl scores remarkably well in Open Rapid Torquay is the most popular venue for the English Chess Federation's annual congress and its 2022 version has attracted over 1,000 entrants. The learning company Chessable, part of the Play Magnus Group, is the sponsor. Due to a near overlap of dates none of the five grandmasters who represented England at the Chennai Olympiad is taking part in Torquay. In their absence the defending champion GM, Nick Pert, is the top seed in a contest where many have chances. <a href=\"https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanand",
+         "description" : " Keith Arkell and Harry Grieve lead after six of nine rounds, while Harrow schoolgirl scores remarkably well in Open Rapid Torquay is the most popular venue for the English Chess Federation's annual congress and its 2022 version has attracted over 1,000 entrants. The learning company <a href=\"https://www.chessable.com/\">Chessable</a>, part of the Play Magnus Group, is the sponsor. Due to a near overlap of dates none of the five grandmasters who represented England at the Chennai Olympiad is taking part in Torquay. In their absence the defending champion GM, Nick Pert, is the top seed in a contest where many have chances. <a href=\"https://www.theguardian.com/sport/2022/aug/19/chess-british-ch",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanandan-seven-shines",
@@ -762,7 +786,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;&#x66;&#x69;&#99;&#x65;&#64;e&#x6e;&#103;l&#x69;&#115;h&#x63;&#104;e&#x73;&#115;&#x2e;&#x6f;&#114;&#x67;&#x2e;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;&#101;&#110;&#x67;&#x6c;&#x69;sh&#99;&#x68;&#x65;&#x73;s&#46;&#111;&#114;&#x67;&#x2e;&#x75;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1658,14 +1682,6 @@ news_feed (
          "title" : "Demolition man"
       },
       {
-         "description" : "Armenia defended its lead in the open section of the Chess Olympiad after drawing the favourites from the United States in round 7. The match was incredibly eventful, with Wesley So playing a brilliant sacrifice, Gabriel Sargissian upsetting Fabiano Caruana, and Sam Shankland losing after mistakenly touching his king. In the women's section, India beat Azerbaijan to remain in the sole lead with a perfect score. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r7",
-         "pubDate" : "Sat, 06 Aug 2022 08:10:00 +0100",
-         "title" : "Chennai R7: Armenia draws the US in dramatic match, keeps the lead"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #7 Friday, 5 August 2022 After round #7, things are heating up at the 2022 Chess Olympiad in Chennai, India. The Indian women are still holding on to a perfect team score with 7/7 while Dommaraju Gukesh is on a blistering 7/7 for the Open Section. The tournament hall is buzzing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/\">2022 Chess Olympiad: Round #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1760,14 +1776,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-a-b-post-wins-in-open-section/articleshow/93376884.cms",
          "pubDate" : "Fri, 05 Aug 2022 15:10:32 +0000",
          "title" : "Chess Olympiad: India 'A', 'B' post wins in Open section"
-      },
-      {
-         "description" : "Today, Lawrence and Arne are joined by German WIM Lara Schulze. She loves tactics, and we need help to reach the next chapter in our ChessBase tactics section - 2600. But sometimes, nightmares cross our path, and we have to think for much longer than expected. Join us in our Friday training, and sharpen your skills!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-29",
-         "pubDate" : "Fri, 05 Aug 2022 15:38:43 +0100",
-         "title" : "Trent's Tactics - Solving nightmares with Lara Schulze"
       },
       {
          "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
@@ -2112,38 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1888",
          "pubDate" : "Fri, 29 Jul 2022 20:51:44 +0000",
          "title" : "No surprises at 44th Women's Chess Olympiad, as top teams have an easy ride"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1887",
-         "pubDate" : "Fri, 29 Jul 2022 19:12:54 +0000",
-         "title" : "44th Chess Olympiad: Favorites start strongly"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1885",
-         "pubDate" : "Fri, 29 Jul 2022 18:09:52 +0000",
-         "title" : "FIDE, AICF, & Tech Mahindra Unveil Fan Nxt.Now App at the 44th Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1886",
-         "pubDate" : "Fri, 29 Jul 2022 17:04:04 +0000",
-         "title" : "Queen's Pavilion and Social Pavilion are Open"
-      },
-      {
-         "description" : " I wasn't here last week because I was teaching a chess boot camp for younger players. It was a camp for students who knew the basics but needed to improve their middle and endgame skills. I taught them all of the material we covered over the last three months. However, there was one area that <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-eight/\">A Foundation for Beginners Sixty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-eight/",
-         "pubDate" : "Fri, 29 Jul 2022 16:25:54 +0000",
-         "title" : "A Foundation for Beginners Sixty Eight"
       }
    ]
 }
