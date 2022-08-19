@@ -82,14 +82,6 @@ news_feed (
          "title" : "Looking back to Chennai: Juniors impress at the Olympiad"
       },
       {
-         "description" : "World Chess, a chess gaming company, has announced the inaugural edition of Armageddon Championship Series, a brand-new format of chess tournaments where the world's top grandmasters compete under immense time pressure in blitz and Armageddon time controls. Prize fund: 460,000 EUR - anyone can participate. The format has been developed for television and will be televised globally from a purpose-built Argamgeddon studio in Berlin. That is where the final over-the-board stage will be held.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-announces-armageddon",
-         "pubDate" : "Fri, 19 Aug 2022 12:00:00 +0100",
-         "title" : "World Chess announces Armageddon"
-      },
-      {
          "description" : "Praggnanandhaa survived a thrilling final game to clinch a 3:1 victory over Levon Aronian and move to a perfect 12/12 after Round 4 of the FTX Crypto Cup. Pragg is still level with Magnus Carlsen, who pounced on blunders to beat Liem Le 3:1, while Alireza Firouzja is 4 points behind in 3rd place after winning a rollercoaster battle with Jan-Krzysztof Duda. Hans Niemann talked about ways to \"numb the pain\" as he went on to lose to Anish Giri.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -770,7 +762,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#x65;&#64;&#101;&#x6e;&#103;&#x6c;&#105;&#x73;h&#x63;h&#101;&#x73;&#115;&#x2e;o&#x72;g&#x2e;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#102;&#x66;&#x69;&#99;&#x65;&#64;e&#x6e;&#103;l&#x69;&#115;h&#x63;&#104;e&#x73;&#115;&#x2e;&#x6f;&#114;&#x67;&#x2e;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1768,6 +1760,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-a-b-post-wins-in-open-section/articleshow/93376884.cms",
          "pubDate" : "Fri, 05 Aug 2022 15:10:32 +0000",
          "title" : "Chess Olympiad: India 'A', 'B' post wins in Open section"
+      },
+      {
+         "description" : "Today, Lawrence and Arne are joined by German WIM Lara Schulze. She loves tactics, and we need help to reach the next chapter in our ChessBase tactics section - 2600. But sometimes, nightmares cross our path, and we have to think for much longer than expected. Join us in our Friday training, and sharpen your skills!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-29",
+         "pubDate" : "Fri, 05 Aug 2022 15:38:43 +0100",
+         "title" : "Trent's Tactics - Solving nightmares with Lara Schulze"
       },
       {
          "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
