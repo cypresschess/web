@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The finals series of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase commenced on Thursday with matchups that featured the 12 top point-scorers across the inaugural season and four invited players&#38;mdash;GMs Ding Liren, Ian Nepomniacht...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-1",
+         "pubDate" : "Thu, 18 Aug 2022 19:43:09 -0700",
+         "title" : "Day Of Sacrifices And Blunders En Route To RCC Winners Semifinals"
+      },
+      {
          "description" : "Chess.com is excited to announce that the FIDE Fischer Random World Championship is back, brought to you by the Government of Iceland and the City of Reykjavik! Top players from around the world will compete in a series of classical Fischer Random...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -626,7 +634,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#x69;&#99;&#101;&#64;en&#x67;&#x6c;&#x69;&#x73;&#x68;&#99;&#104;&#101;ss&#x2e;&#x6f;&#x72;&#x67;&#x2e;&#117;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;&#110;&#x67;&#108;&#x69;&#115;&#x68;&#99;&#x68;&#101;&#x73;&#115;&#x2e;&#111;&#x72;&#103;&#x2e;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1900",
          "pubDate" : "Wed, 03 Aug 2022 17:17:36 +0000",
          "title" : "Triple-gold Armenia leads the Olympiad halfway"
-      },
-      {
-         "description" : "No one needed a tiebreaker in this week&#39;s Titled Tuesday as GM Hikaru Nakamura and&#38;nbsp;GM Oleksandr Bortnyk both won outright on August 2. It was Nakamura&#39;s second straight Tuesday winning one of the tournaments. GM Daniel Naroditsky finished s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-august-2-2022",
-         "pubDate" : "Wed, 03 Aug 2022 08:30:46 -0700",
-         "title" : "Nakamura, Other Streamers Dominate Tuesday Tournaments"
       },
       {
          "description" : "",
