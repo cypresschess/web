@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sipke Ernst has made a successful Fritzrainer last year, tackling the \"flexible Open Spanish\". The Dutch Grandmaster is back again, with \"3.h4 against the King's Indian and Gr&uuml;nfeld\". Time to ask him about when he started to play chess, his feeling when reaching the Grandmaster title, a rating of over 2600, and one of his most passionate hobbies - Arm wrestling! We also analyse one of his favourite games he ever played. Luke Mcshane was the opponent, made a beautiful sacrifice, which Sipke countered wonderfully. | Photo: Sipke Ernst FB",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-sipke-ernst",
+         "pubDate" : "Fri, 19 Aug 2022 16:00:00 +0100",
+         "title" : "Meet The Fritztrainer - Sipke Ernst"
+      },
+      {
+         "description" : "Viktor Kupreichik was a top chess player. The Grandmaster won the Belarusian Championship in 1972, and 31 years later as well, in 2003. His four tactics, which Lawrence has found for us to solve, are fun puzzles. Furthermore, when Lawrence and Arne try to solve the ChessBase tactics, you can witness their worst fail ever! It is painful to watch, but the questions remains: Can you find the mistake they made in their calculation?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-31",
+         "pubDate" : "Fri, 19 Aug 2022 15:17:41 +0100",
+         "title" : "Trent's Tactics - Cute tactics by Kupreichik"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanandan-seven-shines#new_tab",
+         "pubDate" : "Fri, 19 Aug 2022 14:13:50 +0000",
+         "title" : "Bodhana and the BCC - from Leonard Barden"
+      },
+      {
+         "description" : "High-stakes 1v1 competition is pretty rare in the chess world. But just before the Olympiad in Chennai top Dutch grandmaster Anish Giri faced off against India's Number Three Vidit Gujrathi in the first ChessBase India Original Death Match: Blindfold, Blitz and Bullet. You can follow all the action in a six-hour Death Match video - which so far has had over 350,000 views. | Report by Himank Ghosh.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/death-match-anish-defeated-vidit",
+         "pubDate" : "Fri, 19 Aug 2022 15:00:00 +0100",
+         "title" : "Death Match: Anish defeated Vidit"
+      },
+      {
+         "description" : "We are now in the final stages of the Chessable British Championships, with Round 7 this afternoon, Round 8 on Saturday and Round 9 starting...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessable-british-championship-final-stages/",
+         "pubDate" : "Fri, 19 Aug 2022 13:31:37 +0000",
+         "title" : "Chessable British Championship - final stages"
+      },
+      {
+         "description" : " Last week, we examined the idea of studying the games of master level players from the 1800s. To recap, this specific period of time works well for beginners because the games demonstrate basic principles more clearly than games in which computer software was used to train the players. They also tend to be more exciting <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginner's Seventy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\">A Foundation for Beginner's Seventy</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy/",
+         "pubDate" : "Fri, 19 Aug 2022 12:56:45 +0000",
+         "title" : "A Foundation for Beginner's Seventy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1929",
+         "pubDate" : "Fri, 19 Aug 2022 12:42:07 +0000",
+         "title" : "FIDE WGP Series 2022-23: Players allocation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1928",
+         "pubDate" : "Fri, 19 Aug 2022 11:39:21 +0000",
+         "title" : "Spanish Championship: Iturrizaga Bonelli and Garcia Martin claim titles"
+      },
+      {
+         "description" : "The FTX Crypto Cup in Miami is boiling down to a tense&#xA0;two-horse race after Magnus Carlsen and Indian teen Praggnanandhaa both crushed their opponents in round 4. The two front-runners look increasingly impossible to catch as they stretched their lead over the pack with 3pt wins that took them to 12/12 perfect scores. The second []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-and-pragg-flawless-again/",
+         "pubDate" : "Fri, 19 Aug 2022 11:38:01 +0000",
+         "title" : "Carlsen and Pragg flawless, again"
+      },
+      {
          "description" : "The junior players impressed at the Chess Olympiad in Chennai. 13 of the world's top 20 juniors played on their countries' national teams. And ten of these 13 juniors improved their ratings significantly. But a few \"oldies\" also had remarkable results.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/looking-back-to-chennai-juniors-impress-at-the-olympiad",
          "pubDate" : "Fri, 19 Aug 2022 12:00:00 +0100",
          "title" : "Looking back to Chennai: Juniors impress at the Olympiad"
+      },
+      {
+         "description" : "World Chess, a chess gaming company, has announced the inaugural edition of Armageddon Championship Series, a brand-new format of chess tournaments where the world's top grandmasters compete under immense time pressure in blitz and Armageddon time controls. Prize fund: 460,000 EUR - anyone can participate. The format has been developed for television and will be televised globally from a purpose-built Argamgeddon studio in Berlin. That is where the final over-the-board stage will be held.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-announces-armageddon",
+         "pubDate" : "Fri, 19 Aug 2022 12:00:00 +0100",
+         "title" : "World Chess announces Armageddon"
       },
       {
          "description" : "Praggnanandhaa survived a thrilling final game to clinch a 3:1 victory over Levon Aronian and move to a perfect 12/12 after Round 4 of the FTX Crypto Cup. Pragg is still level with Magnus Carlsen, who pounced on blunders to beat Liem Le 3:1, while Alireza Firouzja is 4 points behind in 3rd place after winning a rollercoaster battle with Jan-Krzysztof Duda. Hans Niemann talked about ways to \"numb the pain\" as he went on to lose to Anish Giri.",
@@ -426,14 +506,6 @@ news_feed (
          "title" : "Carlsen, Duda, Pragg, and Aronian win in FTX Crypto Chess Cup day 1"
       },
       {
-         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen Giri / Pragg Alireza / Hans Niemann Duda / Aronian Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-day-2-live-with-tania-sachdev-and-peter-leko/",
-         "pubDate" : "Tue, 16 Aug 2022 13:56:47 +0000",
-         "title" : "FTX Crypto Cup Day 2 LIVE - with Tania Sachdev and Peter Leko"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93594503.cms\" />Teenage Indian Grandmaster R Praggnanandhaa on Tuesday opened his campaign in the FTX Crypto Cup, the American finale of Champions Chess Tour, with a 2.5-1.5 win over the world's top junior player Alireza Firouzja.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -650,14 +722,6 @@ news_feed (
          "title" : "Bishop Endings"
       },
       {
-         "description" : "Round One of the nine-round main British Championships took place at the Riviera Centre in Torquay yesterday. You can see the pairings for the games...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-main-chessable-british-championship-has-begun/",
-         "pubDate" : "Sun, 14 Aug 2022 05:25:33 +0000",
-         "title" : "The main Chessable British Championship has begun &hellip;."
-      },
-      {
          "description" : "The gold medal at the Chess Olympiad in Chennai was decided in one game: the duel between rising stars Dommaraju Gukesh and Nodirbek Abdusattorov. The 16-year-old Indian grandmaster had a better position after the opening and, in fact, was winning at some point. But then the game gradually slipped out of Gukesh's hands, and a final blunder decided the game in Abdusattorov's favour. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -706,7 +770,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;n&#x67;l&#x69;s&#x68;c&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#x65;&#64;&#101;&#x6e;&#103;&#x6c;&#105;&#x73;h&#x63;h&#101;&#x73;&#115;&#x2e;o&#x72;g&#x2e;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1330,14 +1394,6 @@ news_feed (
          "title" : "Dvorkovich reelected FIDE President!"
       },
       {
-         "description" : "For the 2022/23 Fantasy Premier League why don't you join &#8216;Premier Chess' the number one league for chess players? Joining the league couldn't be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2022/",
-         "pubDate" : "Mon, 08 Aug 2022 12:26:14 +0000",
-         "title" : "Premier League Fantasy Football 2022"
-      },
-      {
          "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1714,14 +1770,6 @@ news_feed (
          "title" : "Chess Olympiad: India 'A', 'B' post wins in Open section"
       },
       {
-         "description" : "Today, Lawrence and Arne are joined by German WIM Lara Schulze. She loves tactics, and we need help to reach the next chapter in our ChessBase tactics section - 2600. But sometimes, nightmares cross our path, and we have to think for much longer than expected. Join us in our Friday training, and sharpen your skills!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-29",
-         "pubDate" : "Fri, 05 Aug 2022 15:38:43 +0100",
-         "title" : "Trent's Tactics - Solving nightmares with Lara Schulze"
-      },
-      {
          "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1736,30 +1784,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/5/2fxrbzwc2qxe25ssq9pdnhxjzeyaiq",
          "pubDate" : "Fri, 05 Aug 2022 13:40:03 +0000",
          "title" : "Bonus Pod - Dispatches from the Chennai Olympiad with GM Axel Bachmann and Mr. Dodgy of Chessable"
-      },
-      {
-         "description" : "The young Indian Gukesh is one of the stars of the Chess Olympiad 2022 in Chennai. In the first six rounds he won all of his games, which adds up to an Elo-performance of 3329. But Gukesh is not the only player who started with 6 out of 6 in Chennai. Oliwia Kiolbasa from Poland (pictured) and the young FM Kazybek Nogerbek from Kazakhstan also achieved this feat. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-perfect-result-3-times-6-out-of-6-in-chennai",
-         "pubDate" : "Fri, 05 Aug 2022 13:09:38 +0100",
-         "title" : "The perfect result: 6 out of 6 in Chennai"
-      },
-      {
-         "description" : "At the beginning of August, FIDE published the new world ranking list. With a rating of 2864, Magnus Carlsen remains the undisputed number 1 in the world. Ding Liren follows in second place with 2808, 56 points behind, Ian Nepomniachtchi is in third place with 2792. Numeber one on the women's list is Hou Yifan (2650), who is more than 70 points ahead of Aleksandra Goryachkina (2579). Best junior is Alireza Firouza, best female junior Zhu Jiner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-august-2022",
-         "pubDate" : "Fri, 05 Aug 2022 09:36:58 +0100",
-         "title" : "FIDE ratings August 2022"
-      },
-      {
-         "description" : "After a two-year hiatus due to Covid-19 restrictions on international travels and over-the-board chess, one of the longest-running chess festivals in Asia is back! It is a mix of Classical, Rapid as well as Blitz events in a multi-day spectacle, rather than the narrower focus on Classical time formats at other long-running chess festivals. Cash prizes in excess of US $28,000 are up for grabs, titled chess players are given exemptions of entry fees.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/17th-malaysian-chess-festival",
-         "pubDate" : "Fri, 05 Aug 2022 08:45:38 +0100",
-         "title" : "17th Malaysian Chess Festival"
       },
       {
          "description" : " Armenia lead after seven of the 11 rounds while six teams are half a point behind. Magnus Carlsen has 5.5/6 but his Norwegian team mates have underperformed. Armenia lead by half a point from six chasing teams after seven of the 11 rounds in the 180-nation, $10m Chennai Olympiad, an event which is already unique and in the record books. Its stunning ambiance, eager fans and opulent playing conditions reflect India's ambition to make August 2022 a landmark moment towards its goal of surpassing the three established chess superpowers - USA, Russia and China. The state of Tamil Nadu and its chief minister, MK Stalin, approved a $10m budget which dwarfs any other chess event in history. Familia",
@@ -2120,22 +2144,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-eight/",
          "pubDate" : "Fri, 29 Jul 2022 16:25:54 +0000",
          "title" : "A Foundation for Beginners Sixty Eight"
-      },
-      {
-         "description" : " <p class=\"lead\">All eyes are on Chennai for the most prestigious chess event until today, the 44th Chess Olympiad, which will be held from July 28 to August 10. With 187 countries registered, India now holds the world record in terms of the number of participating countries in a single edition of the Olympiad. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5003663003663\"> <img src=\"https://worldchess.com/news/pictures/1-13.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52247594546_740fbcef08_k-(1).jpeg\" width=\"2048\" height=\"1191\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/FY08S_VXoAAVfx-.jpeg\" width",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-44th-chess-olympiad-in-chennai-india-started-today/",
-         "pubDate" : "Fri, 29 Jul 2022 13:07:26 +0000",
-         "title" : "The 44th Chess Olympiad in Chennai, India started today"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 kicks of a grand style .Find the live links for your ready reference &#160; Open:https://chessolympiad.fide.com/live-games-open/ Women:https://chessolympiad.fide.com/women-live-games/ &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-links-for-44th-chess-olympiad-2022/",
-         "pubDate" : "Fri, 29 Jul 2022 12:37:02 +0000",
-         "title" : "Live Links for 44th Chess Olympiad 2022"
       }
    ]
 }
