@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The junior players impressed at the Chess Olympiad in Chennai. 13 of the world's top 20 juniors played on their countries' national teams. And ten of these 13 juniors improved their ratings significantly. But a few \"oldies\" also had remarkable results.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/looking-back-to-chennai-juniors-impress-at-the-olympiad",
+         "pubDate" : "Fri, 19 Aug 2022 12:00:00 +0100",
+         "title" : "Looking back to Chennai: Juniors impress at the Olympiad"
+      },
+      {
+         "description" : "Praggnanandhaa survived a thrilling final game to clinch a 3:1 victory over Levon Aronian and move to a perfect 12/12 after Round 4 of the FTX Crypto Cup. Pragg is still level with Magnus Carlsen, who pounced on blunders to beat Liem Le 3:1, while Alireza Firouzja is 4 points behind in 3rd place after winning a rollercoaster battle with Jan-Krzysztof Duda. Hans Niemann talked about ways to \"numb the pain\" as he went on to lose to Anish Giri.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-4-pragg-beats-aronian-to-match-magnus",
+         "pubDate" : "Fri, 19 Aug 2022 10:31:37 +0000",
+         "title" : "FTX Crypto Cup 4: Pragg beats Aronian to match Magnus"
+      },
+      {
+         "description" : "This week Robert Ris will have a look at a model game in the Sveshnikov, played by Fabiano Caruana (with Black) against Greek GM Dimitris Mastrovasilis at the Chess Olympiad 2022 in Chennai. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-in-the-sveshnikov",
+         "pubDate" : "Fri, 19 Aug 2022 11:14:29 +0100",
+         "title" : "Robert Ris' Fast and Furious: A model game in the Sveshnikov"
+      },
+      {
+         "description" : "Also on the fourth day of play at the FTX Crypto Cup in Miami, GMs Magnus Carlsen and Praggnanandhaa R. won their matches without needing a tiebreak. The duo is now four points ahead of GM Alireza Firouzja, who is on eight points, followed by GM L...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-4",
+         "pubDate" : "Fri, 19 Aug 2022 03:13:49 -0700",
+         "title" : "Carlsen, Praggnanandhaa Storm On As Niemann's Suffering Continues"
+      },
+      {
+         "description" : "The 22nd edition of the European Women's Individual Chess Championship starts tomorrow at Don Giovanni hotel in Prague, Czech Republic, and will be played from 20 30 August. 125 players from 27 European federations registered for the event, with 7 Grandmasters, 21 International masters, 23 Women grandmasters, 28 Women International masters and a total of 108 titled&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-starts-in-prague/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2022-starts-in-prague/",
+         "pubDate" : "Fri, 19 Aug 2022 09:38:45 +0000",
+         "title" : "European Women's Chess Championship 2022 starts in Prague"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess, a global gaming company, launches Armageddon, a chess tournament series where players compete under immense time pressure in blitz and Armageddon time controls. The series consists of online qualifiers, over-the-board semi-finals, and The Grand Finale. All over-the-board events will take place in the spectacular Armageddon Studio in the heart of Berlin. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/3-(4).png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> The Series will start in October 2022 with online qualifiers, the Grand Finale will take place on June 2023. This is the annual Series, and this is the inaugural edition. Chess fans ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-announces-armageddon-the-most-dramatic-tournament-se/",
+         "pubDate" : "Fri, 19 Aug 2022 08:27:35 +0000",
+         "title" : "World Chess Announces Armageddon, The Most Dramatic Tournament Series in Chess"
+      },
+      {
          "description" : "With three rounds to go at the FTX Crypto Cup in Miami, Magnus Carlsen and Praggnanandhaa Rameshbabu continue to dominate the field, as they both won a fourth consecutive match on Thursday. Carlsen defeated Le Quang Liem, while Pragg got the better of Levon Aronian. Alireza Firouzja, who beat Jan-Krzysztof Duda, stands in sole third place, four points behind the leaders.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +58,12 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen and Pragg runaway leaders"
       },
       {
-         "description" : " Keith Arkell and Harry Grieve lead after six of the nine rounds in Torquay, while Harrow schoolgirl scores remarkably well in the Open Rapid Torquay is the most popular venue for the English Chess Federation's annual congress and its 2022 version has attracted over 1,000 entrants. The learning company Chessable, part of the Play Magnus Group, is the sponsor. Due to a near overlap of dates none of the five grandmasters who represented England at the Chennai Olympiad is taking part in Torquay. In their absence the defending champion GM, Nick Pert, is the top seed in a contest where many have chances. <a href=\"https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-",
+         "description" : " Keith Arkell and Harry Grieve lead after six of nine rounds, while Harrow schoolgirl scores remarkably well in Open Rapid Torquay is the most popular venue for the English Chess Federation's annual congress and its 2022 version has attracted over 1,000 entrants. The learning company Chessable, part of the Play Magnus Group, is the sponsor. Due to a near overlap of dates none of the five grandmasters who represented England at the Chennai Olympiad is taking part in Torquay. In their absence the defending champion GM, Nick Pert, is the top seed in a contest where many have chances. <a href=\"https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanand",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanandan-seven-shines",
          "pubDate" : "Fri, 19 Aug 2022 07:00:09 +0000",
-         "title" : "Chess: British Championships this week as Bodhana Sivanandan, seven, shines"
+         "title" : "Chess: Bodhana Sivanandan, seven, shines at British Championships"
       },
       {
          "description" : "",
@@ -98,7 +146,7 @@ news_feed (
          "title" : "FIDE releases Chess for Protection project Curriculum"
       },
       {
-         "description" : "Magnus Carlsen and Indian star Rameshbabu Praggnanandhaa are neck-and-neck on a perfect&#xA0;9/9 after both won their FTX Crypto Cup matches today. Norway's World Champion overpowered Levon Aronian in a classic encounter that saw some thrilling fighting chess before the 31-year-old sealed a 2.5-1.5 win. Pragg, bidding for his first Meltwater Champions Chess Tour title, wasn't []",
+         "description" : "Magnus Carlsen and Indian star Rameshbabu Praggnanandhaa are neck-and-neck on a perfect&#160;9/9 after both won their FTX Crypto Cup matches today. Norway's World Champion overpowered Levon Aronian in a classic encounter that saw some thrilling fighting chess before the 31-year-old sealed a 2.5-1.5 win. Pragg, bidding for his first Meltwater Champions Chess Tour title, wasn't []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carlsen-and-pragg-continue-perfect-at-the-ftx-crypto-chess-cup/",
@@ -658,7 +706,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#101;&#x40;&#101;&#x6e;g&#x6c;i&#115;&#x68;&#99;&#x68;e&#x73;&#x73;&#46;&#x6f;r&#x67;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;n&#x67;l&#x69;s&#x68;c&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1722,14 +1770,6 @@ news_feed (
          "title" : "Chess: India's teen talent shines as Chennai Olympiad breaks records"
       },
       {
-         "description" : "Over 650 games are being played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller is attentively following the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns show up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Teodora Injac (Serbia) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-3",
-         "pubDate" : "Fri, 05 Aug 2022 05:10:00 +0100",
-         "title" : "Endgames from Chennai (3)"
-      },
-      {
          "description" : "Chess.com is happy to announce the release of Recommended Matches. For the first time ever, you will be presented with personalized pairings for Daily Games on your home screen. So how does it work? If you&#38;rsquo;ve finished playing all of y...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1744,14 +1784,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-with-eye-on-medal-soon-to-be-mom-d-harika-battles-on/articleshow/93355786.cms",
          "pubDate" : "Thu, 04 Aug 2022 18:20:52 +0000",
          "title" : "Olympiad: With eye on medal, soon-to-be-mom D Harika battles on"
-      },
-      {
-         "description" : "The game was invented in the 6th century in north-western India, from where it migrated to the west and conquered the world. The country of origin, however, descended into mediocracy - until it in the 1980s it suddenly produced its first grandmaster and World Champion. Now India is on the verge of becoming the ultimate super-power of chess. Our report includes a nice video summary of the performance of the Indian teams at the Chennai Olympiad so far.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-returns-to-india",
-         "pubDate" : "Thu, 04 Aug 2022 19:00:00 +0100",
-         "title" : "Chess returns to India"
       },
       {
          "description" : "",
@@ -1800,14 +1832,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chennai-olympiad-6-gukesh-on-6-6-but-armenia-lead",
          "pubDate" : "Thu, 04 Aug 2022 00:15:02 +0000",
          "title" : "Chennai Olympiad 6: Gukesh on 6/6 but Armenia lead"
-      },
-      {
-         "description" : "GMs Samvel Ter-Sahakyan and Robert Hovhannisyan scored crucial wins to enable Armenia to prevail over India 2 with a 2.5-1.5 score and capture the lead with 12 match points at the end of the sixth round of the 44th FIDE Chess Olympiad. GM Fabiano ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-6",
-         "pubDate" : "Wed, 03 Aug 2022 15:12:00 -0700",
-         "title" : "Armenia Sole Leader In Open, India In Women's, Gukesh 6/6 On Top Board"
       },
       {
          "description" : "After six played rounds at the 44th Chess Olympiad 2022 in Chennai, teams of Armenia and India emerged as the sole leaders of Open and Women's sections, respectively, scoring the maximum 12 match points. In the tense sixth round, Armenia defeated India 2 taking a narrow 2.5-1.5 victory. Gukesh D won the game for India's team B and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/armenia-and-india-in-the-sole-lead-after-6-played-rounds-at-the-44th-chess-olympiad/\">Read More &#187;</a></span>",
@@ -1970,14 +1994,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 3"
       },
       {
-         "description" : "Magnus Carlsen was held to a draw by Daniele Vocaturo as Italy won on the bottom two boards to defeat Norway in Round 3 of the Chennai Olympiad. Austria shocked Germany 2.5:1.5, while Ukraine only scraped a draw against Cuba. In the women's section Mongolia and Estonia beat the USA and Armenia. All six Indian teams still have a perfect match score, with India 2 top after winning every game so far.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-3-norway-and-germany-beaten",
-         "pubDate" : "Sun, 31 Jul 2022 22:18:53 +0000",
-         "title" : "Chennai Olympiad 3: Norway and Germany beaten"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2120,22 +2136,6 @@ news_feed (
          "link" : "https://aicf.in/live-links-for-44th-chess-olympiad-2022/",
          "pubDate" : "Fri, 29 Jul 2022 12:37:02 +0000",
          "title" : "Live Links for 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1884",
-         "pubDate" : "Fri, 29 Jul 2022 10:42:57 +0000",
-         "title" : "Hou Yifan eliminates Kosteniuk to reach semifinals"
-      },
-      {
-         "description" : " As I write this, the 2022 Chess Olympiad is just underway. While the Olympiad has had a history of late round 1 starts, the first moves for this one were played at 3:06 local time, a mere 6 minutes after the scheduled start. Just as impressive was the fact that only 4 teams in each section did not arrive for the first round (and were not paired). So the event has started with 182 federations, which was a number that surprised even the organisers. As for the action, a number of the top teams have rested their top boards (no sign of Carlsen as yet). The Indian team is obviously the centre of attention, being placed on Board 1 for each match, although seeded 2nd. Further down the usual suspect",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-has-started.html",
-         "pubDate" : "Fri, 29 Jul 2022 10:13:00 +0000",
-         "title" : "2022 Chess Olympiad has started"
       }
    ]
 }
