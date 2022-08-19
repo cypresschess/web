@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A field with well-established GMs and young stars is fighting it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller is following the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Praggnanandhaa in 2018 | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-endgames-1",
+         "pubDate" : "Sat, 20 Aug 2022 00:25:00 +0100",
+         "title" : "Endgames from Miami (1)"
+      },
+      {
          "description" : "In his Power Play Show, Daniel King finds inspiration in a game from the Women's Olympiad. Tournament sensation Oliwia Kiolbasa defeated Indian rising star Vaishali after converting her advantage in a fascinating rook endgame. This is the starting point for a discussion with related games. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -786,7 +794,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;&#101;&#110;&#x67;&#x6c;&#x69;sh&#99;&#x68;&#x65;&#x73;s&#46;&#111;&#114;&#x67;&#x2e;&#x75;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;g&#x6c;i&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1674,14 +1682,6 @@ news_feed (
          "title" : "Perils of a globetrotting grandmaster"
       },
       {
-         "description" : "In the diagrammed position, White put all his pieces on light squares. A stable position? Not if you swing the wrecking ball with Black - I wish you massive pleasure!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/demolition-man",
-         "pubDate" : "Sat, 06 Aug 2022 09:00:00 +0100",
-         "title" : "Demolition man"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #7 Friday, 5 August 2022 After round #7, things are heating up at the 2022 Chess Olympiad in Chennai, India. The Indian women are still holding on to a perfect team score with 7/7 while Dommaraju Gukesh is on a blistering 7/7 for the Open Section. The tournament hall is buzzing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/\">2022 Chess Olympiad: Round #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-round-1.html",
          "pubDate" : "Sat, 30 Jul 2022 04:03:00 +0000",
          "title" : "2022 Chess Olympiad - Round 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1888",
-         "pubDate" : "Fri, 29 Jul 2022 20:51:44 +0000",
-         "title" : "No surprises at 44th Women's Chess Olympiad, as top teams have an easy ride"
       }
    ]
 }
