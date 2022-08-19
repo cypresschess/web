@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With three rounds to go at the FTX Crypto Cup in Miami, Magnus Carlsen and Praggnanandhaa Rameshbabu continue to dominate the field, as they both won a fourth consecutive match on Thursday. Carlsen defeated Le Quang Liem, while Pragg got the better of Levon Aronian. Alireza Firouzja, who beat Jan-Krzysztof Duda, stands in sole third place, four points behind the leaders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r4",
+         "pubDate" : "Fri, 19 Aug 2022 08:15:00 +0100",
+         "title" : "FTX Crypto Cup: Carlsen and Pragg runaway leaders"
+      },
+      {
+         "description" : " Keith Arkell and Harry Grieve lead after six of the nine rounds in Torquay, while Harrow schoolgirl scores remarkably well in the Open Rapid Torquay is the most popular venue for the English Chess Federation's annual congress and its 2022 version has attracted over 1,000 entrants. The learning company Chessable, part of the Play Magnus Group, is the sponsor. Due to a near overlap of dates none of the five grandmasters who represented England at the Chennai Olympiad is taking part in Torquay. In their absence the defending champion GM, Nick Pert, is the top seed in a contest where many have chances. <a href=\"https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanandan-seven-shines",
+         "pubDate" : "Fri, 19 Aug 2022 07:00:09 +0000",
+         "title" : "Chess: British Championships this week as Bodhana Sivanandan, seven, shines"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1927",
+         "pubDate" : "Fri, 19 Aug 2022 05:03:08 +0000",
+         "title" : "Wesley So to defend his FIDE World Fischer Random title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93651655.cms\" />The FTX Crypto Cup in Miami is boiling down to a two-horse race after Magnus Carlsen and R Praggnanandhaa both crushed their opponents in their Round 4 encounters on Thursday. The two share the top spot with 12 points apiece. The exciting teenager Alireza Firouzja is still in the hunt for the FTX title and is third on the leaderboard on 8/12.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-r-praggnanandhaa-magnus-carlsen-share-lead-after-round-4/articleshow/93651655.cms",
+         "pubDate" : "Fri, 19 Aug 2022 04:06:42 +0000",
+         "title" : "FTX Crypto Cup: Praggnanandhaa, Carlsen share lead after Round 4"
+      },
+      {
          "description" : "The finals series of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase commenced on Thursday with matchups that featured the 12 top point-scorers across the inaugural season and four invited players&#38;mdash;GMs Ding Liren, Ian Nepomniacht...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-1",
-         "pubDate" : "Thu, 18 Aug 2022 19:43:09 -0700",
+         "pubDate" : "Thu, 18 Aug 2022 19:43:00 -0700",
          "title" : "Day Of Sacrifices And Blunders En Route To RCC Winners Semifinals"
       },
       {
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesskid-back-to-school-sale",
          "pubDate" : "Thu, 18 Aug 2022 10:05:15 -0700",
          "title" : "ChessKid Memberships: 20% Off For Back-to-School Season"
-      },
-      {
-         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
-         "pubDate" : "Thu, 18 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Eight Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Rapport, and Mamedyarov) are joined by wildcards (Nakamura and Shankland) for a rapid round robin and blitz double round robin event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila from August 26-30 at 12:50 P.M. CDT. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-ty",
@@ -634,7 +658,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;&#99;&#x65;&#64;&#x65;&#110;&#x67;&#108;&#x69;&#115;&#x68;&#99;&#x68;&#101;&#x73;&#115;&#x2e;&#111;&#x72;&#103;&#x2e;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#101;&#x40;&#101;&#x6e;g&#x6c;i&#115;&#x68;&#99;&#x68;e&#x73;&#x73;&#46;&#x6f;r&#x67;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1738,14 +1762,6 @@ news_feed (
          "title" : "FIDE Congress 2022"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93353085.cms\" />The Indian teams have been at the forefront in the 44th Chess Olympiad thus far with India 'A' at the top of the standings in the women's section and the 'B' team in third position in the Open event after six rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teams-eye-glory-as-chess-olympiad-enters-business-end/articleshow/93353085.cms",
-         "pubDate" : "Thu, 04 Aug 2022 14:51:54 +0000",
-         "title" : "Indian teams eye glory as Chess Olympiad enters business end"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #6 Wednesday, 3 August 2022 Exciting action in round #6 at the 2022 Chess Olympiad today. As we are past the halfway mark, there has been a pleasant surprise emerging with Armenia leading the Open Section. Armenia is a well-known chess power, but since the loss of Levon Aronian and Vladimir The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/\">2022 Chess Olympiad: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2120,14 +2136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-has-started.html",
          "pubDate" : "Fri, 29 Jul 2022 10:13:00 +0000",
          "title" : "2022 Chess Olympiad has started"
-      },
-      {
-         "description" : " The newly retired world champion will aim for a high score at Chennai to boost his chances of reaching the 2900 target which has twice narrowly eluded him Magnus Carlsen, newly retired from world title matches, is in Chennai this weekend for Friday's opening round of the 186-nation Olympiad, where, due to Carlsen's elevated rating, Norway are the No 3 seeds behind the US and India. Round one Olympiad results (selected): India 4-0 Zimbabwe, Angola 0.5-3.5 US, Lebanon 0.5-3.5 Norway, Spain 4-0 Wales, England 4-0 Cyprus. Women: Tajikistan 0-4 India, Ukraine 4-0 South Africa, Iraq 0-4 Georgia, Libya 0-4 England. For full results, see<a href=\"http://chess-results.com/tnr653631.aspx?lan=1&amp;art",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/jul/29/chess-magnus-carlsen-in-olympiad-action-as-world-no-1-targets-record-rating",
-         "pubDate" : "Fri, 29 Jul 2022 07:00:50 +0000",
-         "title" : "Chess: Magnus Carlsen in Olympiad action as world No 1 targets record rating"
       }
    ]
 }
