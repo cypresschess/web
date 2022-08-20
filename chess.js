@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Winners Semifinals of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase transpired on Friday in two colossal clashes that saw GMs Hikaru Nakamura and Ian Nepomniachtchi progress to the Winners Final. GMs Wesley So and Vladimir Fed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-2",
+         "pubDate" : "Fri, 19 Aug 2022 18:17:53 -0700",
+         "title" : "Nakamura, Nepomniachtchi Break Through To Face Off In RCC Winners Final"
+      },
+      {
          "description" : "A field with well-established GMs and young stars is fighting it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller is following the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Praggnanandhaa in 2018 | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -794,7 +802,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;g&#x6c;i&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;i&#x63;&#101;&#x40;&#101;n&#x67;l&#x69;&#115;&#x68;&#99;&#x68;&#101;s&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/aug/05/chess-indias-teen-talent-shines-as-chennai-olympiad-breaks-records",
          "pubDate" : "Fri, 05 Aug 2022 07:00:39 +0000",
          "title" : "Chess: India's teen talent shines as Chennai Olympiad breaks records"
-      },
-      {
-         "description" : "Chess.com is happy to announce the release of Recommended Matches. For the first time ever, you will be presented with personalized pairings for Daily Games on your home screen. So how does it work? If you&#38;rsquo;ve finished playing all of y...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-recommended-matches",
-         "pubDate" : "Thu, 04 Aug 2022 16:26:04 -0700",
-         "title" : "Announcing Recommended Matches"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93355786.cms\" />D Harika has been the centre of a lot of attention at the ongoing 44th Olympiad here. Playing in the high-profile tournament despite being in an advanced stage of pregnancy, the 31-year-old Indian GM has shown great composure --- be it on the board or off it.",
