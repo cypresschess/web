@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this King's Indian position, it's Black to move - and he can quickly take the full point if White isn't careful. You have been warned!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-jones-trap",
+         "pubDate" : "Sat, 20 Aug 2022 09:00:00 +0100",
+         "title" : "The Jones trap"
+      },
+      {
+         "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. There are 107 titled players, with 7 Grandmasters, 21 International masters, 23 Women Grandmasters, 28 Women International masters and a total of 108 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-chess-championship-2022/",
+         "pubDate" : "Sat, 20 Aug 2022 06:57:59 +0000",
+         "title" : "European Women Chess Championship 2022"
+      },
+      {
+         "description" : "125 players from 27 European federations registered for the European Women Chess Championship 2022, with 7 Grandmasters, 21 International masters, 23 Women grandmasters, 28 Women International masters and a total of 108 titled players. The top 10 seeded players are: GM Dzagnidze Nana (GEO, 2531), IM Javakhishvili Lela (GEO, 2476), GM Stefanova Antoaneta (ECU, 2472), []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-chess-championship-2022-live/",
+         "pubDate" : "Sat, 20 Aug 2022 06:57:16 +0000",
+         "title" : "European Women Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "What looked like a two-horse race yesterday now has three riders going into the final two rounds which are becoming increasingly tense. FTX Crypto Cup so far: Carlsen, Duda, Pragg, and Aronian win in FTX Crypto Chess Cup day 1 / Eventful day 2 of the FTX Crypto Cup / Carlsen and Pragg continue perfect []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-takes-the-lead-at-ftx-crypto-cup-2022/",
+         "pubDate" : "Sat, 20 Aug 2022 06:28:16 +0000",
+         "title" : "Carlsen takes the lead at FTX Crypto Cup 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-winning-streak-in-ftx-crypto-cup-ends-with-loss-to-liem-le/articleshow/93671859.cms",
+         "pubDate" : "Sat, 20 Aug 2022 04:49:42 +0000",
+         "title" : "Praggu's winning run in FTX Crypto Cup ends with loss to Liem Le"
+      },
+      {
+         "description" : "With two rounds to go, Magnus Carlsen is in the sole lead at the FTX Crypto Cup in Miami. Carlsen lost his match against Jan-Krzysztof Duda in blitz tiebreaks -gaining 1 point in the standings- while former co-leader Praggnanandhaa was defeated by Le Quang Liem in the rapid section of their match. What had become a two-horse race for first place has now three players fighting for tournament victory, as Alireza Firouzja won a fourth match in a row and now stands two points behind the leader. | Pictured: Jan-Krzysztof Duda at the opening ceremony",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r5",
+         "pubDate" : "Sat, 20 Aug 2022 05:45:00 +0100",
+         "title" : "FTX Crypto Cup: Firouzja in the hunt as Duda beats Carlsen"
+      },
+      {
+         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad and excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed.&#160; Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba Jemusse, Thabo Elisha. A warm The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/",
+         "pubDate" : "Sat, 20 Aug 2022 04:43:01 +0000",
+         "title" : "IM norm for Zimbabwe's Zhemba Jemusse!"
+      },
+      {
          "description" : "The Winners Semifinals of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase transpired on Friday in two colossal clashes that saw GMs Hikaru Nakamura and Ian Nepomniachtchi progress to the Winners Final. GMs Wesley So and Vladimir Fed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -24,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-instructive-rook-endgames",
          "pubDate" : "Fri, 19 Aug 2022 19:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Tricks with rooks and pawns"
-      },
-      {
-         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
-         "pubDate" : "Fri, 19 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Live"
       },
       {
          "description" : "Sipke Ernst has made a successful Fritzrainer last year, tackling the \"flexible Open Spanish\". The Dutch Grandmaster is back again, with \"3.h4 against the King's Indian and Gr&uuml;nfeld\". Time to ask him about when he started to play chess, his feeling when reaching the Grandmaster title, a rating of over 2600, and one of his most passionate hobbies - Arm wrestling! We also analyse one of his favourite games he ever played. Luke Mcshane was the opponent, made a beautiful sacrifice, which Sipke countered wonderfully. | Photo: Sipke Ernst FB",
@@ -98,7 +146,7 @@ news_feed (
          "title" : "Spanish Championship: Iturrizaga Bonelli and Garcia Martin claim titles"
       },
       {
-         "description" : "The FTX Crypto Cup in Miami is boiling down to a tense&#xA0;two-horse race after Magnus Carlsen and Indian teen Praggnanandhaa both crushed their opponents in round 4. The two front-runners look increasingly impossible to catch as they stretched their lead over the pack with 3pt wins that took them to 12/12 perfect scores. The second []",
+         "description" : "The FTX Crypto Cup in Miami is boiling down to a tense&#160;two-horse race after Magnus Carlsen and Indian teen Praggnanandhaa both crushed their opponents in round 4. The two front-runners look increasingly impossible to catch as they stretched their lead over the pack with 3pt wins that took them to 12/12 perfect scores. The second []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carlsen-and-pragg-flawless-again/",
@@ -506,36 +554,12 @@ news_feed (
          "title" : "Sinquefield Cup 2022 LIVE"
       },
       {
-         "description" : "Sinquefield Cup 2022 is going to take place 1-13 September in Saint Louis, USA. It will feature 10 Grandmasters including World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, US players Fabiano Caruana, Wesley So, Levon Aronian, and Leinier Dominguez, as well as Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and Richard Rapport. This will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022/",
-         "pubDate" : "Tue, 16 Aug 2022 15:44:44 +0000",
-         "title" : "Sinquefield Cup 2022"
-      },
-      {
-         "description" : "More by GM Simon Williams: The Iron English Botvinnik Variation No time to perfect your chess openings? The Hippopotamus Defence solves all of your opening problems with a universal setup. So you never again have to wonder how to start the game. That's because you only need to remember one formation which gives you []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-hippopotamus-defence-by-gm-simon-williams/",
-         "pubDate" : "Tue, 16 Aug 2022 14:24:43 +0000",
-         "title" : "The Hippopotamus Defence - by GM Simon Williams"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg\" data-image-dimensions=\"750x563\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62fba7c2ee7391345d82b888\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"> Karen Boyd with her husband, GM Ben Finegold </figcaption> </figure> <p class=\"\">Karen Boyd is a 56 year old mother, wife and chess lover with a b",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/16/ep-292-adult-improver-karen-boyd-on-what-she-learned-from-a-busy-summer-of-tournament-chess-and-why-she-always-plays-up-against-tougher-competition",
          "pubDate" : "Tue, 16 Aug 2022 14:23:33 +0000",
          "title" : "EP 292- Adult Improver Karen Boyd on What She Learned from a Busy Summer of Tournament Chess, and Why she Always \"Plays Up\" Against Tougher Competition "
-      },
-      {
-         "description" : "All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses &#x2013; Olympiad sale at Chessable Replay day 1: Carlsen &#x2013; Giri / Pragg &#x2013; Alireza / Hans Niemann &#x2013; Duda / Aronian &#x2013; Le Quang Liem []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-duda-pragg-and-aronian-win-in-ftx-crypto-chess-cup-day-1/",
-         "pubDate" : "Tue, 16 Aug 2022 14:03:01 +0000",
-         "title" : "Carlsen, Duda, Pragg, and Aronian win in FTX Crypto Chess Cup day 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93594503.cms\" />Teenage Indian Grandmaster R Praggnanandhaa on Tuesday opened his campaign in the FTX Crypto Cup, the American finale of Champions Chess Tour, with a 2.5-1.5 win over the world's top junior player Alireza Firouzja.",
@@ -802,7 +826,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;i&#x63;&#101;&#x40;&#101;n&#x67;l&#x69;&#115;&#x68;&#99;&#x68;&#101;s&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#101;&#x40;&#101;&#x6e;g&#x6c;i&#115;&#x68;&#99;&#x68;e&#x73;&#x73;&#46;&#x6f;r&#x67;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "Chess Olympiad: D Gukesh on a giant-killing spree"
       },
       {
-         "description" : "Germany beat Serbia in round 7 of the Chess Olympiad, but only after Vincent Keymer successfully defended an imbalanced position against Aleksandar Indjic. Keymer had a queen against Indjic's bishop pair and two dangerous connected passers. Zoran Petronijevic sent us instructive annotations to an intriguing endgame battle! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indjic-keymer-analysis-by-zoran",
-         "pubDate" : "Sat, 06 Aug 2022 11:00:00 +0100",
-         "title" : "Indjic v Keymer: Analysis by Zoran"
-      },
-      {
          "description" : "In the course of my global travels competing in chess tournaments , I once encountered a warning in Continental trains which has stuck in my mind: \"E pericoloso sporgersi.\" Basically it translates as: \"Don't stick your head out of the window!\" A couple of years ago I wrote a column enquiring whether playing chess might be []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1810,28 +1826,12 @@ news_feed (
          "title" : "Chess: India's teen talent shines as Chennai Olympiad breaks records"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93355786.cms\" />D Harika has been the centre of a lot of attention at the ongoing 44th Olympiad here. Playing in the high-profile tournament despite being in an advanced stage of pregnancy, the 31-year-old Indian GM has shown great composure --- be it on the board or off it.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-with-eye-on-medal-soon-to-be-mom-d-harika-battles-on/articleshow/93355786.cms",
-         "pubDate" : "Thu, 04 Aug 2022 18:20:52 +0000",
-         "title" : "Olympiad: With eye on medal, soon-to-be-mom D Harika battles on"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1875",
          "pubDate" : "Thu, 04 Aug 2022 16:45:55 +0000",
          "title" : "FIDE Congress 2022"
-      },
-      {
-         "description" : " 2022 Chess Olympiad: Round #6 Wednesday, 3 August 2022 Exciting action in round #6 at the 2022 Chess Olympiad today. As we are past the halfway mark, there has been a pleasant surprise emerging with Armenia leading the Open Section. Armenia is a well-known chess power, but since the loss of Levon Aronian and Vladimir The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/\">2022 Chess Olympiad: Round #6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/04/2022-chess-olympiad-round-6/",
-         "pubDate" : "Thu, 04 Aug 2022 13:27:26 +0000",
-         "title" : "2022 Chess Olympiad: Round #6"
       },
       {
          "description" : " Australia was one of the big stories of Round 6, after beating third seeded Norway 2.5-1.5. World Champion Magnus Carlsen defeated Anton Smirnov on board 1, but wins for Kuybokarov and Cheng, plus a tough draw for Tan saw Australia get over the line. The win puts Australia in a tie for 14th place and a match against Iran in round 7. Armenia now lead the tournament after winning their 6th match in a row. Their next opponent is the USA, which now has former Armenian Number 1 Lev Aronian in their ranks. The Indian teams (all 3) continue to do well, and are in a large group of teams tied for third. India leads the Women's Olympiad with 12 points from 6 games. The Australian team was paired agai",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34313309/chess-olympiad-2022-malta-djibouti-iraq-jordan-chennai-brings-global-family-board?device=featurephone",
          "pubDate" : "Sat, 30 Jul 2022 03:49:12 -0500",
          "title" : "From Malta, Djibouti and Iraq, Chess Olympiad brings the global family to the board"
-      },
-      {
-         "description" : " Round 1 of the 2022 Chess Olympiad has been run and done, with no upset results in either tournaments. The vast majority of matches ended 4-0 to the rating favourites, although both the USA and Norway dropped half a point. No match finished closer than 3-1, with Sri Lanka drawing 2 games against Hungary being the closest thing to an upset result. PNG went down 4-0 to Zambia, although Stuart Fancy and Rupert Jones held out for quite a while. Australia scored 4-0 wins in both the Open and Women's, as did New Zealand. The other Oceania countries suffered similar fates to PNG, but hopefully round 2 will see some improved results. Pairings for round 2 are available at <a href=\"http://chess-resul",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-round-1.html",
-         "pubDate" : "Sat, 30 Jul 2022 04:03:00 +0000",
-         "title" : "2022 Chess Olympiad - Round 1"
       }
    ]
 }
