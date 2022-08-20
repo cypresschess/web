@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Daniel Dardha is one of the most exciting European chess juniors to follow nowadays. He has been consistently around the top 20 of the junior rating list and is adding more ELO points with every tournament. This weekend Daniel Dardha won convincingly the Belgian Chess Championship 2022 with a score of 8,5/9, adding 9,1 ELO []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/daniel-dardha-wins-the-belgian-chess-championship-crosses-2600-elo/",
+         "pubDate" : "Sat, 20 Aug 2022 14:37:29 +0000",
+         "title" : "Daniel Dardha wins the Belgian Chess Championship, crosses 2600 ELO"
+      },
+      {
+         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH276wcT77xQHs2ghvmXGqXNmDAeFXnPUzQ9QA94Jxx36YcvIGWG5CFlFjCIlNGnoC14e5yujqR-pzsFnTP11t7tCnpIqrWwGQ_pGACyMcIbjDtAK0mbSB6mTd/s680/okeche.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH2",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/not-one-but-two-ideas.html",
+         "pubDate" : "Sat, 20 Aug 2022 13:53:00 +0000",
+         "title" : "Not one but two ideas"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1931",
+         "pubDate" : "Sat, 20 Aug 2022 13:44:26 +0000",
+         "title" : "Felix Blohberger and Annika Fr&ouml;wis win Austrian Championship"
+      },
+      {
+         "description" : "All India Chess Federation congratulate Shri Ajay H Patel for being elected as the President of International Chess Federation Zone 3.7",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-shri-ajay-h-patel/",
+         "pubDate" : "Sat, 20 Aug 2022 12:45:07 +0000",
+         "title" : "Congratulations Shri Ajay H Patel"
+      },
+      {
+         "description" : "The 2nd FIDE World Fischer Random Chess Championship over-the-board final will take place in Reykjavik, Iceland, from 25-30 October 2022.&#xA0; In 2019, FIDE officially recognized the World Fischer Random Chess Championship. In the final of the inaugural edition, held in Norway, American Grandmaster Wesley So defeated classical chess champion Magnus Carlsen. The two-year pandemic hiatus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-fischer-random-chess-championship-2022/",
+         "pubDate" : "Sat, 20 Aug 2022 12:40:38 +0000",
+         "title" : "FIDE World Fischer Random Chess Championship 2022"
+      },
+      {
+         "description" : "Howard Staunton was the man who put London on the global chess map. A virtuoso of many different careers, Staunton was a coruscating example of the Victorian polymath. Shakespearean actor, world chess champion, author of many chess books and columns, eponymous name giver of the Staunton Chess pieces, Shakespearean scholar, organiser of the first ever []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-legacy-of-howard-staunton/",
+         "pubDate" : "Sat, 20 Aug 2022 12:31:15 +0000",
+         "title" : "The Legacy of Howard Staunton"
+      },
+      {
+         "description" : "The 2022 Spanish Championship, a 9-round Swiss tournament with classical time control, took place from 11-18 August in the halls of the hotel &#8220;RL An&#xED;bal&#8221; in Linares. Both men and women competed in one event but were ranked separately, with the highest-scoring female player claiming the title of Spanish Women's Champion. The tournament turned into []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-eduardo-iturrizaga-bonelli-and-im-marta-garcia-martin-are-the-new-champions-of-spain/",
+         "pubDate" : "Sat, 20 Aug 2022 12:30:37 +0000",
+         "title" : "GM Eduardo Iturrizaga Bonelli and IM Marta Garcia Martin are the new champions of Spain"
+      },
+      {
          "description" : "World Chess, a chess gaming company, has announced the inaugural edition of Armageddon Championship Series, a brand-new format of chess tournaments where the world's top grandmasters compete under immense time pressure in blitz and Armageddon time controls. Prize fund: 460,000 EUR - anyone can participate. The format has been developed for television and will be televised globally from a purpose-built Argamgeddon studio in Berlin. That is where the final over-the-board stage will be held.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-chess-announces-armageddon",
          "pubDate" : "Sat, 20 Aug 2022 12:00:00 +0100",
          "title" : "World Chess announces Armageddon"
+      },
+      {
+         "description" : "FIDE, Azerbaijan Chess Federation and Chess Federation of Nakhchivan Autonomous Republic invite all the national chess federations to participate in the FIDE World Youth U-16 Chess Olympiad 2022, which will take place in Nakhchivan, Azerbaijan, from October 1-11, 2022.&#160;&#160; Each FIDE member federation has the right to send one team. Each team shall comprise 4 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022/",
+         "pubDate" : "Sat, 20 Aug 2022 10:54:00 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad 2022"
       },
       {
          "description" : "It was a strange day for Magnus Carlsen in Round 5 of the FTX Crypto Cup. He lost four games to Jan-Krzysztof Duda and called it a \"horrible day of chess\", but since he reached tiebreaks while Praggnanandhaa lost to Liem Le in rapid chess he gained a point to take the sole lead. The other matches were all over in three games, with Alireza Firouzja firmly in the race for 1st place after defeating Hans Niemann.",
@@ -90,14 +154,6 @@ news_feed (
          "title" : "European Women Chess Championship 2022 LIVE"
       },
       {
-         "description" : "What looked like a two-horse race yesterday now has three riders going into the final two rounds which are becoming increasingly tense. FTX Crypto Cup so far: Carlsen, Duda, Pragg, and Aronian win in FTX Crypto Chess Cup day 1 / Eventful day 2 of the FTX Crypto Cup / Carlsen and Pragg continue perfect []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-takes-the-lead-at-ftx-crypto-cup-2022/",
-         "pubDate" : "Sat, 20 Aug 2022 06:28:16 +0000",
-         "title" : "Carlsen takes the lead at FTX Crypto Cup 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -114,7 +170,7 @@ news_feed (
          "title" : "FTX Crypto Cup: Firouzja in the hunt as Duda beats Carlsen"
       },
       {
-         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad and excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed.&#160; ZIMBABWE Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba Jemusse, Thabo Elisha (ZCF The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad in Chennai, India and was excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed. ZIMBABWE Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/",
@@ -208,14 +264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1928",
          "pubDate" : "Fri, 19 Aug 2022 11:39:21 +0000",
          "title" : "Spanish Championship: Iturrizaga Bonelli and Garcia Martin claim titles"
-      },
-      {
-         "description" : "The FTX Crypto Cup in Miami is boiling down to a tense&#160;two-horse race after Magnus Carlsen and Indian teen Praggnanandhaa both crushed their opponents in round 4. The two front-runners look increasingly impossible to catch as they stretched their lead over the pack with 3pt wins that took them to 12/12 perfect scores. The second []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-pragg-flawless-again/",
-         "pubDate" : "Fri, 19 Aug 2022 11:38:01 +0000",
-         "title" : "Carlsen and Pragg flawless, again"
       },
       {
          "description" : "The junior players impressed at the Chess Olympiad in Chennai. 13 of the world's top 20 juniors played on their countries' national teams. And ten of these 13 juniors improved their ratings significantly. But a few \"oldies\" also had remarkable results.",
@@ -370,14 +418,6 @@ news_feed (
          "title" : "FIDE releases Chess for Protection project Curriculum"
       },
       {
-         "description" : "Magnus Carlsen and Indian star Rameshbabu Praggnanandhaa are neck-and-neck on a perfect&#160;9/9 after both won their FTX Crypto Cup matches today. Norway's World Champion overpowered Levon Aronian in a classic encounter that saw some thrilling fighting chess before the 31-year-old sealed a 2.5-1.5 win. Pragg, bidding for his first Meltwater Champions Chess Tour title, wasn't []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-pragg-continue-perfect-at-the-ftx-crypto-chess-cup/",
-         "pubDate" : "Thu, 18 Aug 2022 09:47:28 +0000",
-         "title" : "Carlsen and Pragg continue perfect at the FTX Crypto Chess Cup"
-      },
-      {
          "description" : "Magnus Carlsen and Praggnanandhaa lead the FTX Crypto Cup by 4 points after winning again on Wednesday in Miami. Magnus beat Levon Aronian 2.5:1.5 after winning the first game, while Pragg won by the same scoreline despite starting with a loss to Hans Niemann. Liem Le got off the mark in style by beating Jan-Krzysztof Duda with a game to spare, while Alireza Firouzja beat Anish Giri only in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -456,14 +496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-529-raunak-sadhwani-vs-leinier-dominguez",
          "pubDate" : "Wed, 17 Aug 2022 17:00:00 +0100",
          "title" : "Game of the Week #529: Raunak Sadhwani vs Leinier Dominguez"
-      },
-      {
-         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#160;in his announcement that he wouldn&#x2019;t defend the title&#160;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
-         "pubDate" : "Wed, 17 Aug 2022 14:05:00 +0000",
-         "title" : "FTX Crypto Cup 2022 LIVE"
       },
       {
          "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
@@ -858,7 +890,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#105;&#99;&#101;&#64;e&#x6e;&#x67;&#x6c;&#x69;&#115;&#104;ch&#x65;&#x73;&#x73;&#x2e;&#111;&#114;g&#46;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on of&#102;&#105;&#99;&#x65;&#x40;&#x65;&#x6e;&#x67;li&#115;&#104;&#99;&#x68;&#x65;&#x73;&#x73;&#x2e;or&#103;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -2080,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1889",
          "pubDate" : "Sat, 30 Jul 2022 17:38:38 +0000",
          "title" : "Magnus Carlsen wins on his debut"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg\" data-image-dimensions=\"198x280\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62e53802c898ce7096a9d45b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/83a58b4f-f4de-4adb-8991-7172bc2aac7f/scratch.jpg?format=1000w\" /> </figure> <iframe scrolling=\"no\" src=\"https://playlist.megaphone.fm?e=BLU1351667861\" width=\"100%\" frameborder=\"0\" data-preserve-html-node=\"true\" height=\"200\"></iframe> <p class=\"\">Click <a href=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/30/book-recap-28-chess-tactics-from-scratch-by-fm-martin-weteschnik-a-great-intermediate-level-tactics-guide",
-         "pubDate" : "Sat, 30 Jul 2022 14:04:08 +0000",
-         "title" : "Book Recap #28- Chess Tactics from Scratch by FM Martin Weteschnik- A Great Intermediate Level Tactics Guide"
       }
    ]
 }
