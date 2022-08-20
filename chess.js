@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
+         "pubDate" : "Sat, 20 Aug 2022 17:55:00 +0100",
+         "title" : "FTX Crypto Cup: Live"
+      },
+      {
          "description" : "Daniel Dardha is one of the most exciting European chess juniors to follow nowadays. He has been consistently around the top 20 of the junior rating list and is adding more ELO points with every tournament. This weekend Daniel Dardha won convincingly the Belgian Chess Championship 2022 with a score of 8,5/9, adding 9,1 ELO []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -890,7 +898,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on of&#102;&#105;&#99;&#x65;&#x40;&#x65;&#x6e;&#x67;li&#115;&#104;&#99;&#x68;&#x65;&#x73;&#x73;&#x2e;or&#103;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;e&#110;&#103;&#x6c;&#x69;&#x73;h&#99;&#104;&#101;&#x73;&#x73;&#x2e;o&#114;&#103;&#x2e;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1618,14 +1626,6 @@ news_feed (
          "title" : "A Rook Ending from Kenilworth"
       },
       {
-         "description" : "Arkady Dvorkovich has been reelected for a second term as President of the International Chess Federation (FIDE). Five-time World Chess Champion Viswanathan Anand, who was part of Dvorkovich's ticket, is the new FIDE Deputy President. FIDE press release, photo by David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arkady-dvorkovich-reelected",
-         "pubDate" : "Sun, 07 Aug 2022 13:20:00 +0100",
-         "title" : "Arkady Dvorkovich reelected"
-      },
-      {
          "description" : "Arkady Dvorkovich, Russian Deputy Prime Minister from 2012-2018, has been re-elected as President of the World Chess Federation (FIDE) for another four years. He defeated Ukrainian Grandmaster Andrii Baryshpolets by a landslide 157:16 vote at the FIDE General Assembly in Chennai, India, after the remaining candidates all withdrew.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2096,22 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1890",
          "pubDate" : "Sat, 30 Jul 2022 20:34:55 +0000",
          "title" : "Favourites have a field day in Round 2 of Women's Chess Olympiad"
-      },
-      {
-         "description" : "From football to chess, Magnus Carlsen's got the moves.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34317612/chess-olympiad-2022-magic-magnus-carlsen-king-chennai?device=featurephone",
-         "pubDate" : "Sat, 30 Jul 2022 13:11:19 -0500",
-         "title" : "The magic of Magnus: At the Chess Olympiad, everything and everyone stops for the king"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1889",
-         "pubDate" : "Sat, 30 Jul 2022 17:38:38 +0000",
-         "title" : "Magnus Carlsen wins on his debut"
       }
    ]
 }
