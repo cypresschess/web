@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-chess-pairings-round-2/",
+         "pubDate" : "Sat, 20 Aug 2022 22:16:23 +0000",
+         "title" : "European Women Chess - pairings round 2"
+      },
+      {
+         "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-chess-2022-results-day-1/",
+         "pubDate" : "Sat, 20 Aug 2022 22:11:00 +0000",
+         "title" : "European Women Chess 2022 - results day 1"
+      },
+      {
+         "description" : "The FTX Crypto Cup is set for a blockbuster finale tomorrow as Magnus Carlsen and&#xA0;Indian wonderkid Praggnanandhaa go head-to-head in a final shootout for the title. All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-and-pragg-will-decide-the-winner-of-the-ftx-crypto-cup-in-the-last-round/",
+         "pubDate" : "Sat, 20 Aug 2022 21:52:02 +0000",
+         "title" : "Carlsen and Pragg will decide the winner of the FTX Crypto Cup in the last round"
+      },
+      {
          "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,30 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022/",
          "pubDate" : "Sat, 20 Aug 2022 07:31:23 +0000",
          "title" : "Saint Louis rapid and blitz 2022"
-      },
-      {
-         "description" : "The sixth annual Saint Louis Rapid &#38; Blitz 2022 is also the fourth leg of the Grand Chess Tour. Eight tour players Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, Richard Rapport, and Shakhriyar Mamedyarov are joined by wildcards Hikaru Nakamura and SamShankland for a rapid round robin and blitz. Live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-2022-live/",
-         "pubDate" : "Sat, 20 Aug 2022 07:30:38 +0000",
-         "title" : "Saint Louis Rapid & Blitz 2022 LIVE"
-      },
-      {
-         "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. There are 107 titled players, with 7 Grandmasters, 21 International masters, 23 Women Grandmasters, 28 Women International masters and a total of 108 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-chess-championship-2022/",
-         "pubDate" : "Sat, 20 Aug 2022 06:57:59 +0000",
-         "title" : "European Women Chess Championship 2022"
-      },
-      {
-         "description" : "125 players from 27 European federations registered for the European Women Chess Championship 2022, with 7 Grandmasters, 21 International masters, 23 Women grandmasters, 28 Women International masters and a total of 108 titled players. The top 10 seeded players are: GM Dzagnidze Nana (GEO, 2531), IM Javakhishvili Lela (GEO, 2476), GM Stefanova Antoaneta (ECU, 2472), []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-chess-championship-2022-live/",
-         "pubDate" : "Sat, 20 Aug 2022 06:57:16 +0000",
-         "title" : "European Women Chess Championship 2022 LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
@@ -898,7 +898,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;e&#110;&#103;&#x6c;&#x69;&#x73;h&#99;&#104;&#101;&#x73;&#x73;&#x2e;o&#114;&#103;&#x2e;&#x75;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;&#101;&#110;&#x67;&#x6c;&#x69;sh&#99;&#x68;&#x65;&#x73;s&#46;&#111;&#114;&#x67;&#x2e;&#x75;k with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-day-2.html",
          "pubDate" : "Sun, 31 Jul 2022 02:59:00 +0000",
          "title" : "2022 Chess Olympiad - Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1890",
-         "pubDate" : "Sat, 30 Jul 2022 20:34:55 +0000",
-         "title" : "Favourites have a field day in Round 2 of Women's Chess Olympiad"
       }
    ]
 }
