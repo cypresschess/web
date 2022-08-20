@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess, a chess gaming company, has announced the inaugural edition of Armageddon Championship Series, a brand-new format of chess tournaments where the world's top grandmasters compete under immense time pressure in blitz and Armageddon time controls. Prize fund: 460,000 EUR - anyone can participate. The format has been developed for television and will be televised globally from a purpose-built Argamgeddon studio in Berlin. That is where the final over-the-board stage will be held.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-announces-armageddon",
+         "pubDate" : "Sat, 20 Aug 2022 12:00:00 +0100",
+         "title" : "World Chess announces Armageddon"
+      },
+      {
+         "description" : "It was a strange day for Magnus Carlsen in Round 5 of the FTX Crypto Cup. He lost four games to Jan-Krzysztof Duda and called it a \"horrible day of chess\", but since he reached tiebreaks while Praggnanandhaa lost to Liem Le in rapid chess he gained a point to take the sole lead. The other matches were all over in three games, with Alireza Firouzja firmly in the race for 1st place after defeating Hans Niemann.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-5-duda-beats-carlsen-4-times-but-magnus-takes-sole-lead",
+         "pubDate" : "Sat, 20 Aug 2022 10:21:23 +0000",
+         "title" : "FTX Crypto Cup 5: Duda beats Carlsen 4 times"
+      },
+      {
+         "description" : "The FTX Crypto Cup is no longer a two-horse race as both GMs Magnus Carlsen and Praggnanandhaa R. lost their matches in round five. Whereas Pragg went down in three games vs. GM Le Quang Liem, Carlsen took the sole lead as he got one point for los...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-5",
+         "pubDate" : "Sat, 20 Aug 2022 02:55:58 -0700",
+         "title" : "Carlsen Takes Pole Position In Miami Despite Loss To Duda"
+      },
+      {
+         "description" : "Eduardo Iturrizaga and Marta Garc&iacute;a won the 2022 Spanish Championships. The event was a 9-round Swiss open played on August 11-19 at the RL An&iacute;bal Hotel in Linares, Andalusia. Iturrizaga, who transferred to Spain only last year, won his second consecutive title, while Garcia, 22, achieved her first triumph in the women's championship. | Photos: Spanish Chess Federation Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/iturrizaga-garcia-spanish-champions-2022",
+         "pubDate" : "Sat, 20 Aug 2022 10:00:00 +0100",
+         "title" : "Iturrizaga and Garc&iacute;a are the 2022 Spanish champions"
+      },
+      {
          "description" : "In this King's Indian position, it's Black to move - and he can quickly take the full point if White isn't careful. You have been warned!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-jones-trap",
          "pubDate" : "Sat, 20 Aug 2022 09:00:00 +0100",
          "title" : "The Jones trap"
+      },
+      {
+         "description" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE Saint Louis rapid and blitz 2022: All the information / Live games / Opening ceremony live / Video coverage round 1",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022-day-1-live/",
+         "pubDate" : "Sat, 20 Aug 2022 07:37:14 +0000",
+         "title" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE"
+      },
+      {
+         "description" : "Live coverage of the Saint Louis Rapid and Blitz Opening Ceremony Saint Louis rapid and blitz 2022: All the information / Live games / Opening ceremony live / Video coverage round 1",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-opening-ceremony-live/",
+         "pubDate" : "Sat, 20 Aug 2022 07:35:18 +0000",
+         "title" : "Saint Louis Rapid and Blitz Opening Ceremony LIVE"
+      },
+      {
+         "description" : "The sixth annual Saint Louis Rapid &#38; Blitz 2022 is also the fourth leg of the Grand Chess Tour. Eight tour players Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, Richard Rapport, and Shakhriyar Mamedyarov are joined by wildcards Hikaru Nakamura and Sam Shankland for a rapid round robin and blitz. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022/",
+         "pubDate" : "Sat, 20 Aug 2022 07:31:23 +0000",
+         "title" : "Saint Louis rapid and blitz 2022"
+      },
+      {
+         "description" : "The sixth annual Saint Louis Rapid &#38; Blitz 2022 is also the fourth leg of the Grand Chess Tour. Eight tour players Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, Richard Rapport, and Shakhriyar Mamedyarov are joined by wildcards Hikaru Nakamura and SamShankland for a rapid round robin and blitz. Live []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-2022-live/",
+         "pubDate" : "Sat, 20 Aug 2022 07:30:38 +0000",
+         "title" : "Saint Louis Rapid & Blitz 2022 LIVE"
       },
       {
          "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. There are 107 titled players, with 7 Grandmasters, 21 International masters, 23 Women Grandmasters, 28 Women International masters and a total of 108 []",
@@ -50,7 +114,7 @@ news_feed (
          "title" : "FTX Crypto Cup: Firouzja in the hunt as Duda beats Carlsen"
       },
       {
-         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad and excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed.&#160; Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba Jemusse, Thabo Elisha. A warm The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad and excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed.&#160; ZIMBABWE Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba Jemusse, Thabo Elisha (ZCF The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/",
@@ -62,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-2",
-         "pubDate" : "Fri, 19 Aug 2022 18:17:53 -0700",
+         "pubDate" : "Fri, 19 Aug 2022 18:17:00 -0700",
          "title" : "Nakamura, Nepomniachtchi Break Through To Face Off In RCC Winners Final"
       },
       {
@@ -514,44 +578,12 @@ news_feed (
          "title" : "Game Analysis & Building Repertoire | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
-         "description" : "The 28th Abu Dhabi International Chess Festival is going to take place 17-25 August, 2022, in the United Arab Emirates. The tournament will be a 9 rounds Swiss System with a time control of 90 min for each player and 30 seconds&#x2019; increment. 30 minutes tolerance will be applied. The organizing committee shall provide free []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abu-dhabi-masters-2022-participants-and-information/",
-         "pubDate" : "Tue, 16 Aug 2022 20:39:52 +0000",
-         "title" : "Abu Dhabi Masters 2022 - participants and information"
-      },
-      {
-         "description" : "The 28th Abu Dhabi International Chess Festival is going to take place 17-25 August, 2022, in the United Arab Emirates. The tournament will be a 9 rounds Swiss System with a time control of 90 min for each player and 30 seconds&#x2019; increment. 30 minutes tolerance will be applied. The organizing committee shall provide free []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/28th-abu-dhabi-international-chess-festival-live/",
-         "pubDate" : "Tue, 16 Aug 2022 20:38:53 +0000",
-         "title" : "28th Abu Dhabi International Chess Festival LIVE"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov is now part of the elite club of players to have crossed 2700 ELO. Today, at the ongoing Turkish League, Abdusattorov won against Erdogmus (ELO 2456) and added extra 1,4 points to reach 2700,3 ELO. The biggest rating gains for Abdusattorov this month were in Chess Olympiad R4 vs Caruana 6,3 ELO points []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-touches-2700-elo/",
-         "pubDate" : "Tue, 16 Aug 2022 19:13:54 +0000",
-         "title" : "Nodirbek Abdusattorov crosses 2700 ELO"
-      },
-      {
          "description" : "Now that the Uzbekistan team has won the gold medal at the 2022 Chess Olympiad in Chennai, Ivan Sokolov may reflect on his greatest accomplishment as a coach. For ChessBase, the Grandmaster created the Fritztrainer series \"Understanding Middlegame Strategies.\" This week, we offer a summer bundle that includes all 4 episodes for only 69.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/this-weeks-summer-special-offer-gold-medal-winner-ivan-sokolov",
          "pubDate" : "Tue, 16 Aug 2022 17:00:00 +0100",
          "title" : "This week's summer special offer - Gold medal winner Ivan Sokolov"
-      },
-      {
-         "description" : "Sinquefield Cup 2022 is going to take place 1-13 September in Saint Louis, USA. It will feature 10 Grandmasters including World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, US players Fabiano Caruana, Wesley So, Levon Aronian, and Leinier Dominguez, as well as Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and Richard Rapport. Sinqufield Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-live/",
-         "pubDate" : "Tue, 16 Aug 2022 15:46:53 +0000",
-         "title" : "Sinquefield Cup 2022 LIVE"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg\" data-image-dimensions=\"750x563\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62fba7c2ee7391345d82b888\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"> Karen Boyd with her husband, GM Ben Finegold </figcaption> </figure> <p class=\"\">Karen Boyd is a 56 year old mother, wife and chess lover with a b",
@@ -826,7 +858,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#x66;&#102;&#x69;c&#101;&#x40;&#101;&#x6e;g&#x6c;i&#115;&#x68;&#99;&#x68;e&#x73;&#x73;&#46;&#x6f;r&#x67;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#105;&#99;&#101;&#64;e&#x6e;&#x67;&#x6c;&#x69;&#115;&#104;ch&#x65;&#x73;&#x73;&#x2e;&#111;&#114;g&#46;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1618,14 +1650,6 @@ news_feed (
          "title" : "Russian official re-elected head of chess body FIDE"
       },
       {
-         "description" : "With three rounds to go at the Chess Olympiad, Armenia continues to lead the standings in the open section with an undefeated match score. On Saturday, they beat India thanks to a second win in a row for Gabriel Sargissian. The other marquee confrontation of the round saw India 2 shock the US with wins by Gukesh and Raunak. Gukesh defeated Fabiano Caruana to collect his eighth consecutive full point - the 16-year-old is heading for the stars! In the women's event, India conceded its first draw of the event, and now has a 1-point lead over Georgia. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r8",
-         "pubDate" : "Sun, 07 Aug 2022 08:05:00 +0100",
-         "title" : "Chennai R8: Armenia leads, Gukesh beats Caruana"
-      },
-      {
          "description" : " Armenia has built their previous Olympiad victories on managing to score a lot of 2.5-1.5 match wins, which is just as good a 4-0 in this kind of team event (tie-break effects non-withstanding). So it wasn't a huge surprise when Armenia did an 'Armenia' and defeated India by this score. Draws on the bottom 3 boards, started the match, before a marathon win on the top board brought home the 2 points. They still lead the tournament by 1 point with 3 rounds to play, but more importantly, they have played India and India 2, plus the USA. They are up against another surprise packet, Uzbekistan, in today's round. The Australian team bounced back with a narrow 2.5-1.5 win over Finland (Armenia sty",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1648,14 +1672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-8",
          "pubDate" : "Sat, 06 Aug 2022 16:02:00 -0700",
          "title" : "Armenia In Open, India In Women's Maintain Lead; Gukesh Defeats Caruana To Score 8/8"
-      },
-      {
-         "description" : "Team India B, four debutants still in their teens, created the biggest and most sensational upset of the 44th Chess Olympiad today by routing the top seed and star-studded USA Team 3-1. The sensation of the day - and of the entire Olympiad so far - was the performance of Dommaraju Gukesh. The sixteen-year-old had won all of his first seven games, and now faced former World Championship Challenger Fabiano Caruana, with the black pieces. So what did the lad do: he outplayed and actually mated his illustrious opponent! You can watch it all unfold in an exciting video report | Photo Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-olympiad-r8-gukesh",
-         "pubDate" : "Sat, 06 Aug 2022 22:35:39 +0100",
-         "title" : "Breaking: Olympiad R8 - Gukesh!"
       },
       {
          "description" : "GM Le Quang Liem and GM-elect Tuan Minh Le won the final two Chess.com Global Championship Play-Ins. GMs Vladislav Kovalev and Maxim Matlakov finished second. These are the last four players who have qualified to join the incredible field of playe...",
@@ -1728,14 +1744,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chennai-olympiad-7-shankland-shocker-gukesh-hits-7-7",
          "pubDate" : "Fri, 05 Aug 2022 23:50:40 +0000",
          "title" : "Chennai Olympiad 7: Shankland shocker | Gukesh hits 7/7"
-      },
-      {
-         "description" : "The 12th-seeded Armenia held the top-seeded U.S. to a 2-2 draw in a dramatic conclusion to a tense match involving a touched-piece blunder by GM Sam Shankland. Armenia retained the lead with 13 match points after the seventh round of the 44th FIDE...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-7",
-         "pubDate" : "Fri, 05 Aug 2022 15:45:00 -0700",
-         "title" : "Armenia Retains Lead In Open; India Widens Lead In Women's; Gukesh 7/7"
       },
       {
          "description" : "",
@@ -1970,14 +1978,6 @@ news_feed (
          "title" : "EP 290- Dutch Trainer and Author IM Jeroen Bosch on How to Build an Opening Repertoire "
       },
       {
-         "description" : "17-year-old Nodirbek Abdusattorov outplayed Fabiano Caruana as Uzbekistan came within a whisker of beating the top seeds. In the end the USA escaped with a draw, with just five teams now on a perfect score: India 2, England, Spain, Armenia and Israel, who scored a surprise win over the Netherlands.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-4-abdusattorov-beats-caruana",
-         "pubDate" : "Tue, 02 Aug 2022 08:54:04 +0000",
-         "title" : "Chennai Olympiad 4: Abdusattorov beats Caruana"
-      },
-      {
          "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nodirbek-Abdusattorov-beats-Fabiano-Caruana.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2088,22 +2088,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/7/30/book-recap-28-chess-tactics-from-scratch-by-fm-martin-weteschnik-a-great-intermediate-level-tactics-guide",
          "pubDate" : "Sat, 30 Jul 2022 14:04:08 +0000",
          "title" : "Book Recap #28- Chess Tactics from Scratch by FM Martin Weteschnik- A Great Intermediate Level Tactics Guide"
-      },
-      {
-         "description" : "For a number of reasons, the game of chess has become unprecedentedly popular, partly due to enthusiasts and serious players alike turning to online play on a plethora of websites that established themselves during the pandemic. In parallel, new players have also been drawn in, due to the instrumental and sensational success of Netflix's Queens []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/beyond-carlsen-the-devaluation-of-the-world-chess-championship/",
-         "pubDate" : "Sat, 30 Jul 2022 09:33:24 +0000",
-         "title" : "Beyond Carlsen: the devaluation of the World Chess Championship"
-      },
-      {
-         "description" : "With 2000 players from 187 countries, Chennai's Chess Olympiad has truly become a global event",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34313309/chess-olympiad-2022-malta-djibouti-iraq-jordan-chennai-brings-global-family-board?device=featurephone",
-         "pubDate" : "Sat, 30 Jul 2022 03:49:12 -0500",
-         "title" : "From Malta, Djibouti and Iraq, Chess Olympiad brings the global family to the board"
       }
    ]
 }
