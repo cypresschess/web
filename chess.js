@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pushing the g-pawn early in the game has become so common that when GM Jon Speelman watches Shakhriyar Mamedyarov play, he feels tempted to bet with himself when 'the bayonet' will be deployed. This week's thematic column features a couple of classics (by Paul Keres and Alexei Shirov), an example from Mamedyarov's practice and a remarkable win by Richard Pert from the British Championship. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-176",
+         "pubDate" : "Sun, 21 Aug 2022 13:00:00 +0100",
+         "title" : "The ubiquitous bayonet"
+      },
+      {
+         "description" : "A field with well-established GMs and young stars is fighting it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller is following the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Anish Giri | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-endgames-2",
+         "pubDate" : "Sun, 21 Aug 2022 12:00:00 +0100",
+         "title" : "Endgames from Miami (2)"
+      },
+      {
+         "description" : "Magnus Carlsen beat Alireza Firouzja in playoffs to take a 2-point lead over Praggnanandhaa into the final round of the FTX Crypto Cup in Miami. Pragg suffered the heartbreak of blundering mate-in-1 against Jan-Krzysztof Duda, but the 17-year-old still knows that if he beats Magnus in rapid chess he'll clinch victory. Firouzja is out of contention, as are Liem Le and Levon Aronian, who beat Anish Giri and Hans Niemann.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-6-magnus-faces-final-pragg-test",
+         "pubDate" : "Sun, 21 Aug 2022 09:33:28 +0000",
+         "title" : "FTX Crypto Cup 6: Magnus faces final Pragg test"
+      },
+      {
+         "description" : "GM Magnus Carlsen increased his lead at the FTX Crypto Cup to two points on Saturday thanks to beating GM Alireza Firouzja in the tiebreak. The leader will face the runner-up in Sunday&#39;s final round: Praggnanandhaa R., who lost to GM Jan-Krzysztof...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-6",
+         "pubDate" : "Sun, 21 Aug 2022 01:57:49 -0700",
+         "title" : "Carlsen Increases Lead Before Facing Praggnanandhaa In Final Round"
+      },
+      {
          "description" : " Playing a training game against a student this morning, I reached this position in which I was a pawn down, having blundered in the opening. For all reasonably experienced players, the next three moves will be automatic. They'll have seen the idea many times before. If you're not so experienced, or your students aren't so <a href=\"https://chessimprover.com/stock-sacrifices-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stock Sacrifices (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stock-sacrifices-1/\">Stock Sacrifices (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -24,6 +56,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r6",
          "pubDate" : "Sun, 21 Aug 2022 06:00:00 +0100",
          "title" : "FTX Crypto Cup: Carlsen beats Firouzja in thrilling match, leads"
+      },
+      {
+         "description" : "Top Chess Engine Championship Season 23 is going to start this August. The defending champion Stockfish is going to compete with 45 of world's best chess engines for the highest title in computer chess. With the weakest engine in the competition being stronger than any chess player, TCEC is promising once again amazing level of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tcec-season-23-next-level/",
+         "pubDate" : "Sun, 21 Aug 2022 01:21:00 +0000",
+         "title" : "TCEC Season 23 - Next Level! Starts Sunday at 19:00 CET"
+      },
+      {
+         "description" : "The European Women Chess Championship is in full swing. With round 1 bringing a multitude of surprises, the event shapes to be one of the most exciting EIWCC events of the last years. Today is round 2 of the European Women Chess Championship 2022. The pairings of round 2 are bringing some unpredictable fights. Games []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-chess-2022-video-coverage/",
+         "pubDate" : "Sun, 21 Aug 2022 01:01:00 +0000",
+         "title" : "European Women Chess 2022 video coverage"
       },
       {
          "description" : "GM Ian Nepomniachtchi won the Winners Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Saturday, defeating GM Hikaru Nakamura in an armageddon playoff. But it&#39;s not over yet! Nakamura will get a second chance in the Losers ...",
@@ -168,22 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022-day-1-live/",
          "pubDate" : "Sat, 20 Aug 2022 07:37:14 +0000",
          "title" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE"
-      },
-      {
-         "description" : "Live coverage of the Saint Louis Rapid and Blitz Opening Ceremony Saint Louis rapid and blitz 2022: All the information / Live games / Opening ceremony live / Video coverage round 1",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-opening-ceremony-live/",
-         "pubDate" : "Sat, 20 Aug 2022 07:35:18 +0000",
-         "title" : "Saint Louis Rapid and Blitz Opening Ceremony LIVE"
-      },
-      {
-         "description" : "The sixth annual Saint Louis Rapid &#38; Blitz 2022 is also the fourth leg of the Grand Chess Tour. Eight tour players Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, Richard Rapport, and Shakhriyar Mamedyarov are joined by wildcards Hikaru Nakamura and Sam Shankland for a rapid round robin and blitz. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022/",
-         "pubDate" : "Sat, 20 Aug 2022 07:31:23 +0000",
-         "title" : "Saint Louis rapid and blitz 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
@@ -922,7 +954,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#102;&#x66;i&#99;&#x65;&#x40;e&#110;&#x67;&#x6c;i&#115;&#x68;&#x63;h&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#46;&#117;&#x6b; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;f&#x66;i&#x63;&#101;&#x40;&#101;n&#x67;l&#x69;&#115;&#x68;&#99;&#x68;&#101;s&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1554,22 +1586,6 @@ news_feed (
          "title" : "Fide World Junior Chess Championships 2022 (for Open & Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022."
       },
       {
-         "description" : "Inspired by Gukesh's remarkable win over Gabriel Sargissian in round 6 of the Chess Olympiad, star columnist Jon Speelman looked at a few more instances of cross checks and deflections that left a strong aesthetic impression. A beautiful study by the Danish composer Steffen Slumstrup Nielsen is included in the mix. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-175",
-         "pubDate" : "Mon, 08 Aug 2022 08:50:00 +0100",
-         "title" : "Cross checks, deflections and stunning beauty"
-      },
-      {
-         "description" : "Uzbekistan defeated the former leaders from Armenia to take the sole lead in the open section of the Olympiad in Chennai. The Uzbek team, led by Nodirbek Abdusattorov, will face India 2 on Monday, with Abdusattorov facing Gukesh in a much-anticipated battle of rising stars. Meanwhile, in the women's section, Poland inflicted India's first loss of the event, as Oliwia Kiolbasa scored her ninth victory in a row! | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r9",
-         "pubDate" : "Mon, 08 Aug 2022 08:15:00 +0100",
-         "title" : "Chennai R9: Uzbekistan grabs the lead, Kiolbasa on 9 out of 9"
-      },
-      {
          "description" : " With 2 rounds to play, Uzbekistan has taken the lead in the 2022 Chess Olympiad Open section, after beating previous leaders Armenia 3-1. The young Uzbek team hold a 1 point lead over Armenia, and India 2. Today's round will see India 2 and Uzbekistan play on the top board, with Armenia facing Azerbaijan. Australia went down narrowly to Ukraine 2.5-1.5, although the Australian's had better chances in 2 of the drawn games. Australia plays Albania this round, in a match they are favoured to win. New Zealand scored a win over Sao Tome to reacj 10 points, with Daniel Gong improving his score to 6/8 and giving him a good chance to earn an IM norm. Papua New Guinea scored a 3.5-0.5 win over Laos,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1728,14 +1744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-8",
          "pubDate" : "Sat, 06 Aug 2022 16:02:00 -0700",
          "title" : "Armenia In Open, India In Women's Maintain Lead; Gukesh Defeats Caruana To Score 8/8"
-      },
-      {
-         "description" : "GM Le Quang Liem and GM-elect Tuan Minh Le won the final two Chess.com Global Championship Play-Ins. GMs Vladislav Kovalev and Maxim Matlakov finished second. These are the last four players who have qualified to join the incredible field of playe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-global-play-in-week-4-day-2",
-         "pubDate" : "Sat, 06 Aug 2022 14:35:03 -0700",
-         "title" : "Final Spots Clinched: Le Quang Liem, Tuan Minh Le Win"
       },
       {
          "description" : "",
@@ -1986,14 +1994,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 5"
       },
       {
-         "description" : "16-year-old Gukesh scored a 5th win in a row as the Indian 2nd team defeated Spain to join Armenia as the only teams with a perfect 10/10 start to the Chennai Olympiad Open section. Gukesh's score was matched by 17-year-old Abdusattorov, as Uzbekistan defeated Slovakia 4:0 to join India 1, the USA, Iran and giant killers Cuba in the group just one point behind.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-5-gukesh-abdusattorov-continue-rampage",
-         "pubDate" : "Tue, 02 Aug 2022 22:56:58 +0000",
-         "title" : "Chennai Olympiad 5: Gukesh & Abdusattorov on rampage"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1891",
          "pubDate" : "Sun, 31 Jul 2022 18:37:20 +0000",
          "title" : "All three Indian teams on 100% in Chennai"
-      },
-      {
-         "description" : " This is from a game played in the Chessable English Women's Championship (Nina Pert Anusha Subramanian) played in Kenilworth back in May. Rooks have just been exchanged on f3 and now Black has to decide how to get out of check. What would you advise? I suspect that, in this situation, I'd probably have <a href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Pawn Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-pawn-ending-from-kenilworth/\">A Pawn Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-pawn-ending-from-kenilworth/",
-         "pubDate" : "Sun, 31 Jul 2022 07:39:20 +0000",
-         "title" : "A Pawn Ending from Kenilworth"
       }
    ]
 }
