@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess has an incredible history that dates back more than a millennia. As one of the oldest board games, chess is surrounded by tradition and grand story. From it&#39;s origination in India to it&#39;s diffusion and evolution around the world, chess has c...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-chess-reflection-of-us",
+         "pubDate" : "Sun, 21 Aug 2022 12:17:37 -0700",
+         "title" : "Chess.com Releases Documentary 'The History Of Chess: A Reflection Of Us'"
+      },
+      {
          "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
          "pubDate" : "Sun, 21 Aug 2022 17:55:00 +0100",
          "title" : "FTX Crypto Cup: Live"
+      },
+      {
+         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#xA0;in his announcement that he wouldn&#x2019;t defend the title&#xA0;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
+         "pubDate" : "Sun, 21 Aug 2022 14:05:00 +0000",
+         "title" : "FTX Crypto Cup 2022 LIVE"
       },
       {
          "description" : "The European Amateur Chess Championship 2022 took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess Champions. 17-year-old&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/\">Read More &#187;</a></span>",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-legacy-of-howard-staunton/",
          "pubDate" : "Sat, 20 Aug 2022 12:31:15 +0000",
          "title" : "The Legacy of Howard Staunton"
-      },
-      {
-         "description" : "The 2022 Spanish Championship, a 9-round Swiss tournament with classical time control, took place from 11-18 August in the halls of the hotel &#8220;RL An&#xED;bal&#8221; in Linares. Both men and women competed in one event but were ranked separately, with the highest-scoring female player claiming the title of Spanish Women's Champion. The tournament turned into []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-eduardo-iturrizaga-bonelli-and-im-marta-garcia-martin-are-the-new-champions-of-spain/",
-         "pubDate" : "Sat, 20 Aug 2022 12:30:37 +0000",
-         "title" : "GM Eduardo Iturrizaga Bonelli and IM Marta Garcia Martin are the new champions of Spain"
       },
       {
          "description" : "World Chess, a chess gaming company, has announced the inaugural edition of Armageddon Championship Series, a brand-new format of chess tournaments where the world's top grandmasters compete under immense time pressure in blitz and Armageddon time controls. Prize fund: 460,000 EUR - anyone can participate. The format has been developed for television and will be televised globally from a purpose-built Argamgeddon studio in Berlin. That is where the final over-the-board stage will be held.",
@@ -1226,6 +1234,14 @@ news_feed (
          "title" : "Winners crowned at 44th Chennai Chess Olympiad"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93483365.cms\" />India's top players including Koneru Humpy and D Harika, apart from the fast-rising R Vaishali, will be the star attractions in the women's event being introduced in the 4th edition of Tata Steel Chess India tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-to-have-womens-event-for-first-time-prize-money-will-be-equal/articleshow/93483365.cms",
+         "pubDate" : "Wed, 10 Aug 2022 14:18:33 +0000",
+         "title" : "Tata Steel Chess to have women's event for first time; prize money will be equal"
+      },
+      {
          "description" : " Uzbekistan has won the Chess Olympiad for the first time, finishing first in 2002 tournament on tie-break over Armenia. Both teams won their final round matches to score 19 match points, but Uzbekistan were well ahead on the Olympiad-SB tie-break. India 2 finished third after beating Germany 3-1, finishing a point ahead of India 1 and the USA. Ukraine won the Women's Olympiad, also on tie-break, after finishing alongside Georgia, with 18 MP. India finished in 3rd place, and the Indian teams won the Gaprindashvili Cup for the best combined finishes in the Open and Women's section. Australia drew 2-2 with Chile in the final round to score 14 points and tie for 25th. The women's team score 13 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1738,14 +1754,6 @@ news_feed (
          "title" : "Chennai Olympiad 8: Gukesh crushes Caruana"
       },
       {
-         "description" : "Continuing their remarkable run in the 44th FIDE Chess Olympiad, the 12th-seeded Armenia defeated second-seeded India 2.5-1.5 and maintained their sole lead with 15 match points at the end of the eighth round. The 11th-seeded India 2 defeated the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-8",
-         "pubDate" : "Sat, 06 Aug 2022 16:02:00 -0700",
-         "title" : "Armenia In Open, India In Women's Maintain Lead; Gukesh Defeats Caruana To Score 8/8"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1892",
          "pubDate" : "Sun, 31 Jul 2022 21:54:24 +0000",
          "title" : "Women's Chess Olympiad: Mongolia stages a huge upset, favorites cruise through"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1891",
-         "pubDate" : "Sun, 31 Jul 2022 18:37:20 +0000",
-         "title" : "All three Indian teams on 100% in Chennai"
       }
    ]
 }
