@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ian Nepomniachtchi won the Winners Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Saturday, defeating GM Hikaru Nakamura in an armageddon playoff. But it&#39;s not over yet! Nakamura will get a second chance in the Losers ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-3",
+         "pubDate" : "Sat, 20 Aug 2022 17:14:00 -0700",
+         "title" : "Nepomniachtchi Wins On Demand In Epic Armageddon Clash, Advances To Grand Final"
+      },
+      {
          "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -898,7 +906,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#102;&#x69;&#x63;&#x65;&#64;&#101;&#110;&#x67;&#x6c;&#x69;sh&#99;&#x68;&#x65;&#x73;s&#46;&#111;&#114;&#x67;&#x2e;&#x75;k with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;g&#x6c;i&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1722,14 +1730,6 @@ news_feed (
          "title" : "India A Women's team held to a draw by Ukraine but retains the lead"
       },
       {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Hans Niemann&#38;nbsp;won the week 24 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 39 competitors&#38;md...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-swiss",
-         "pubDate" : "Sat, 06 Aug 2022 13:19:19 -0700",
-         "title" : "Niemann Wins Week 24 Swiss: Summary Report"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-pawn-ending-from-kenilworth/",
          "pubDate" : "Sun, 31 Jul 2022 07:39:20 +0000",
          "title" : "A Pawn Ending from Kenilworth"
-      },
-      {
-         "description" : " The 2nd day of the Chess Olympiad seemed more hectic than day 1. This was due to the fact that it was the first weekend round, and the venue was swarming with spectators. Outside the entrance to the main playing hall, there were hundreds of autograph hunters, waiting for players to emerge after their games had finished. Inside the hall the number of spectators was also larger, although this didn't cause any significant issues for the players. Day 2 saw a couple of big guns emerge. Magnus Carlsen played his first game, winning against Georg Meier from Uruguay. After his draw yesterday Aronian was rested for Caruana, but is a semi upset, Paraguay scored 1.5 against the top seeded US team. The",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/07/2022-chess-olympiad-day-2.html",
-         "pubDate" : "Sun, 31 Jul 2022 02:59:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 2"
       }
    ]
 }
