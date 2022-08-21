@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
+         "pubDate" : "Sun, 21 Aug 2022 17:55:00 +0100",
+         "title" : "FTX Crypto Cup: Live"
+      },
+      {
          "description" : "The European Amateur Chess Championship 2022 took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess Champions. 17-year-old&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -970,7 +978,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#105;&#99;e&#64;&#x65;&#x6e;&#x67;&#108;&#105;sh&#x63;&#x68;&#x65;&#115;&#115;&#46;o&#x72;&#x67;&#x2e;&#117;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;g&#x6c;i&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1224,14 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1919",
          "pubDate" : "Wed, 10 Aug 2022 14:26:32 +0000",
          "title" : "Winners crowned at 44th Chennai Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93483365.cms\" />India's top players including Koneru Humpy and D Harika, apart from the fast-rising R Vaishali, will be the star attractions in the women's event being introduced in the 4th edition of Tata Steel Chess India tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-to-have-womens-event-for-first-time-prize-money-will-be-equal/articleshow/93483365.cms",
-         "pubDate" : "Wed, 10 Aug 2022 14:18:33 +0000",
-         "title" : "Tata Steel Chess to have women's event for first time; prize money will be equal"
       },
       {
          "description" : " Uzbekistan has won the Chess Olympiad for the first time, finishing first in 2002 tournament on tie-break over Armenia. Both teams won their final round matches to score 19 match points, but Uzbekistan were well ahead on the Olympiad-SB tie-break. India 2 finished third after beating Germany 3-1, finishing a point ahead of India 1 and the USA. Ukraine won the Women's Olympiad, also on tie-break, after finishing alongside Georgia, with 18 MP. India finished in 3rd place, and the Indian teams won the Gaprindashvili Cup for the best combined finishes in the Open and Women's section. Australia drew 2-2 with Chile in the final round to score 14 points and tie for 25th. The women's team score 13 ",
@@ -1496,14 +1496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
          "pubDate" : "Tue, 09 Aug 2022 06:20:00 +0100",
          "title" : "Chennai Olympiad: Final Round - Live!"
-      },
-      {
-         "description" : "Uzbekistan and Armenia are sharing the lead going into the final round of the Chess Olympiad's open tournament. India 2 was inches away from replacing Uzbekistan as co-leader, as Gukesh could have given his team match victory had he not blundered a piece against Nodirbek Abdusattorov in a drawn position. In the women's section, meanwhile, India retook the sole lead after convincingly beating Kazakhstan. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r10",
-         "pubDate" : "Tue, 09 Aug 2022 06:15:00 +0100",
-         "title" : "Chennai R10: Uzbekistan and Armenia share the lead, heartbreak for Gukesh"
       },
       {
          "description" : " 2022 Chess Olympiad: Round #10 Monday, 8 August 2022 One day Dommaraju Gukesh was touted as a national hero having won eight straight games; a couple of days later, he was the culprit for India losing a crucial match in round 10. Chess can be brutal as a sporting activity. Gukesh was riding high off The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/\">2022 Chess Olympiad: Round #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
