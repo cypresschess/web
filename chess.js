@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Playing a training game against a student this morning, I reached this position in which I was a pawn down, having blundered in the opening. For all reasonably experienced players, the next three moves will be automatic. They'll have seen the idea many times before. If you're not so experienced, or your students aren't so <a href=\"https://chessimprover.com/stock-sacrifices-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stock Sacrifices (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stock-sacrifices-1/\">Stock Sacrifices (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/stock-sacrifices-1/",
+         "pubDate" : "Sun, 21 Aug 2022 07:09:07 +0000",
+         "title" : "Stock Sacrifices (1)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93687945.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa went down to Poland's Jan-Krzystof Duda via the tie-break in the sixth round of the FTX Crypto Cup, the American finale of Champions Chess Tour, here on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-loses-to-polands-jan-krzystof-duda-in-ftx-crypto-cup/articleshow/93687945.cms",
+         "pubDate" : "Sun, 21 Aug 2022 05:49:09 +0000",
+         "title" : "R Praggnanandhaa loses to Poland's Duda in FTX Crypto Cup"
+      },
+      {
+         "description" : "Magnus Carlsen has a 2-point lead on Praggnanandhaa going into Sunday's final round. The young Indian star will get a chance to win the whole thing if he beats the world champion in the rapid section of their direct encounter - winning in tiebreaks will not cut it for Pragg. In round 6, Carlsen beat Alireza Firouzja in an exciting match that went to tiebreaks, while Jan-Krzysztof Duda defeated Pragg, also in tiebreaks.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r6",
+         "pubDate" : "Sun, 21 Aug 2022 06:00:00 +0100",
+         "title" : "FTX Crypto Cup: Carlsen beats Firouzja in thrilling match, leads"
+      },
+      {
          "description" : "GM Ian Nepomniachtchi won the Winners Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Saturday, defeating GM Hikaru Nakamura in an armageddon playoff. But it&#39;s not over yet! Nakamura will get a second chance in the Losers ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.chessdom.com/carlsen-and-pragg-will-decide-the-winner-of-the-ftx-crypto-cup-in-the-last-round/",
          "pubDate" : "Sat, 20 Aug 2022 21:52:02 +0000",
          "title" : "Carlsen and Pragg will decide the winner of the FTX Crypto Cup in the last round"
-      },
-      {
-         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
-         "pubDate" : "Sat, 20 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Live"
       },
       {
          "description" : "Daniel Dardha is one of the most exciting European chess juniors to follow nowadays. He has been consistently around the top 20 of the junior rating list and is adding more ELO points with every tournament. This weekend Daniel Dardha won convincingly the Belgian Chess Championship 2022 with a score of 8,5/9, adding 9,1 ELO []",
@@ -126,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-5",
-         "pubDate" : "Sat, 20 Aug 2022 02:55:58 -0700",
+         "pubDate" : "Sat, 20 Aug 2022 02:55:00 -0700",
          "title" : "Carlsen Takes Pole Position In Miami Despite Loss To Duda"
       },
       {
@@ -906,7 +922,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;g&#x6c;i&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;&#102;&#x66;i&#99;&#x65;&#x40;e&#110;&#x67;&#x6c;i&#115;&#x68;&#x63;h&#101;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#46;&#117;&#x6b; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
@@ -1832,14 +1848,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-arjun-erigaisi-sl-narayanan-shine-in-india-1-win/articleshow/93377563.cms",
          "pubDate" : "Fri, 05 Aug 2022 16:00:00 +0000",
          "title" : "Chess Olympiad: Arjun Erigaisi, SL Narayanan shine in India 1 win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93376884.cms\" />The India 'A' and 'B' teams registered comprehensive victories in the seventh round in the Open section of the 44th Chess Olympiad on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-india-a-b-post-wins-in-open-section/articleshow/93376884.cms",
-         "pubDate" : "Fri, 05 Aug 2022 15:10:32 +0000",
-         "title" : "Chess Olympiad: India 'A', 'B' post wins in Open section"
       },
       {
          "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
