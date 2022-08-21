@@ -978,14 +978,6 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#111;f&#x66;i&#x63;e&#x40;e&#x6e;g&#x6c;i&#x73;&#104;&#x63;&#104;&#x65;&#115;&#x73;&#46;&#x6f;&#114;&#x67;&#46;&#x75;&#107; with...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
-         "pubDate" : "Sat, 13 Aug 2022 10:26:57 +0000",
-         "title" : "FIDE Commissions - nominations"
-      },
-      {
          "description" : "As we know, 2022 is the fiftieth anniversary of the Spassky v Fischer world championship of 1972, which has gone down in chess lore as: the Match of the Century. The anniversary has been marked by a special exhibition at the US Chess Hall of Fame in St Louis, as well as a stupendous new []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
