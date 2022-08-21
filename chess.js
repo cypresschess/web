@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Amateur Chess Championship 2022 took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess Champions. 17-year-old&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/",
+         "pubDate" : "Sun, 21 Aug 2022 13:41:55 +0000",
+         "title" : "European Amateur Chess Champions 2022 announced in Zagreb"
+      },
+      {
+         "description" : " My ongoing trawl through games from the Olympiad has left me somewhat disappointed with the choice of openings. There were very few Kings Gambit's and most of the Two Knight's Defence's were met with the tame d3. Probably the best of the few Two Knight's proper was the following game, where White got tangled up on the e file, and dropped a piece due to a miscalculation. <br /> <b>Sharikhan,Shawal (1789) - Asllani,Muhamet (2235) [C59]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (1.3), 29.07.2022 <script>new PgnViewer( { boardName: \"game1345\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 Bc5 11",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/playing-it-safe.html",
+         "pubDate" : "Sun, 21 Aug 2022 13:38:00 +0000",
+         "title" : "Playing it safe"
+      },
+      {
+         "description" : "Felix Blohberger&#xA0;and&#xA0;Annika Froewis&#xA0;emerged as the winners of the Austrian Chess Championship 2022. The event was played in 9 rounds, Swiss system, with classical time control, and took place from August 12-19 in the Vienna Chess House. Both men and women competed in one event but were ranked separately, with the highest-scoring female player claiming the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-felix-blohberger-and-wfm-annika-froewis-win-austrian-chess-championship-2022/",
+         "pubDate" : "Sun, 21 Aug 2022 12:12:57 +0000",
+         "title" : "GM Felix Blohberger and WFM Annika Froewis win Austrian Chess Championship 2022"
+      },
+      {
          "description" : "Pushing the g-pawn early in the game has become so common that when GM Jon Speelman watches Shakhriyar Mamedyarov play, he feels tempted to bet with himself when 'the bayonet' will be deployed. This week's thematic column features a couple of classics (by Paul Keres and Alexei Shirov), an example from Mamedyarov's practice and a remarkable win by Richard Pert from the British Championship. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-176",
          "pubDate" : "Sun, 21 Aug 2022 13:00:00 +0100",
          "title" : "The ubiquitous bayonet"
+      },
+      {
+         "description" : "The 2022-2023 series of Women&#x2019;s Grand Prix tournaments&#160;features four events which will be held between August 2022 and June 2023. 1st WGP event: 17 &#x2013; 30 September 2022, Nursultan, Kazakhstan; 2nd WGP event: 1 &#x2013; 14 February 2023, Munich, Germany 3rd WGP event: March 2023, India 4th WGP event: May 2023, Bydgoscz, Poland Each tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023-final-list-of-participants-and-players-allocation/",
+         "pubDate" : "Sun, 21 Aug 2022 11:54:11 +0000",
+         "title" : "FIDE Women's Grand Prix 2022-2023 - Final list of participants and players allocation"
       },
       {
          "description" : "A field with well-established GMs and young stars is fighting it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller is following the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Anish Giri | Photo: Amruta Mokal",
@@ -170,14 +202,6 @@ news_feed (
          "title" : "World Chess announces Armageddon"
       },
       {
-         "description" : "FIDE, Azerbaijan Chess Federation and Chess Federation of Nakhchivan Autonomous Republic invite all the national chess federations to participate in the FIDE World Youth U-16 Chess Olympiad 2022, which will take place in Nakhchivan, Azerbaijan, from October 1-11, 2022.&#160;&#160; Each FIDE member federation has the right to send one team. Each team shall comprise 4 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022/",
-         "pubDate" : "Sat, 20 Aug 2022 10:54:00 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad 2022"
-      },
-      {
          "description" : "It was a strange day for Magnus Carlsen in Round 5 of the FTX Crypto Cup. He lost four games to Jan-Krzysztof Duda and called it a \"horrible day of chess\", but since he reached tiebreaks while Praggnanandhaa lost to Liem Le in rapid chess he gained a point to take the sole lead. The other matches were all over in three games, with Alireza Firouzja firmly in the race for 1st place after defeating Hans Niemann.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-jones-trap",
          "pubDate" : "Sat, 20 Aug 2022 09:00:00 +0100",
          "title" : "The Jones trap"
-      },
-      {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE Saint Louis rapid and blitz 2022: All the information / Live games / Opening ceremony live / Video coverage round 1",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022-day-1-live/",
-         "pubDate" : "Sat, 20 Aug 2022 07:37:14 +0000",
-         "title" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
@@ -954,7 +970,7 @@ news_feed (
          "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
-         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on o&#102;&#x66;&#x69;c&#101;&#64;&#x65;&#x6e;g&#108;&#105;&#x73;&#x68;c&#104;&#x65;&#x73;&#x73;&#46;&#111;&#x72;&#x67;&#46;&#117;&#107; with...",
+         "description" : "FIDE are seeking nominees for their various non-elected Commissions &#160;- please see below. If you are interested, please email the ECF office on &#x6f;&#x66;&#x66;&#105;&#99;e&#64;&#x65;&#x6e;&#x67;&#108;&#105;sh&#x63;&#x68;&#x65;&#115;&#115;&#46;o&#x72;&#x67;&#x2e;&#117;&#107; with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/fide-commissions-nominations/",
