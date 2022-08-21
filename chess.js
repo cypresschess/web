@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1932",
+         "pubDate" : "Sun, 21 Aug 2022 21:24:55 +0000",
+         "title" : "Magnus Carlsen clinches FTX Crypto Cup"
+      },
+      {
+         "description" : "Magnus Carlsen is the FTX Crypto Cup champion for the second year in a row after holding off a fierce challenge from Indian teen Praggnanandhaa. Norway's World Champion overcame the talented 17-year-old with a game to spare in their final round shootout for the title. All about FTX Crypto Cup 2022: Learn everything about the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-ftx-crypto-cup-2022/",
+         "pubDate" : "Sun, 21 Aug 2022 21:12:40 +0000",
+         "title" : "Magnus Carlsen wins FTX Crypto Cup 2022"
+      },
+      {
+         "description" : "The French Individual Chess Championships 2022&#xA0;took place 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site hosted the&#xA0;95th edition of the French Individual Chess Championship&#xA0;after three years of pause caused by the pandemic of Covid19. The event was played in two sections: Men and Women, with 16 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-jules-moussard-and-im-almira-skripchenko-win-french-chess-championships-2022/",
+         "pubDate" : "Sun, 21 Aug 2022 21:05:30 +0000",
+         "title" : "GM Jules Moussard and IM Almira Skripchenko win French Chess Championships 2022"
+      },
+      {
          "description" : "The European Amateur Chess Championship 2022&#xA0;took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Playing it safe"
       },
       {
-         "description" : "Felix Blohberger&#xA0;and&#xA0;Annika Froewis&#xA0;emerged as the winners of the Austrian Chess Championship 2022. The event was played in 9 rounds, Swiss system, with classical time control, and took place from August 12-19 in the Vienna Chess House. Both men and women competed in one event but were ranked separately, with the highest-scoring female player claiming the []",
+         "description" : "Felix Blohberger&#160;and&#160;Annika Froewis&#160;emerged as the winners of the Austrian Chess Championship 2022. The event was played in 9 rounds, Swiss system, with classical time control, and took place from August 12-19 in the Vienna Chess House. Both men and women competed in one event but were ranked separately, with the highest-scoring female player claiming the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/gm-felix-blohberger-and-wfm-annika-froewis-win-austrian-chess-championship-2022/",
@@ -160,22 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-women-chess-pairings-round-2/",
          "pubDate" : "Sat, 20 Aug 2022 22:16:23 +0000",
          "title" : "European Women Chess - pairings round 2"
-      },
-      {
-         "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-chess-2022-results-day-1/",
-         "pubDate" : "Sat, 20 Aug 2022 22:11:00 +0000",
-         "title" : "European Women Chess 2022 - results day 1"
-      },
-      {
-         "description" : "The FTX Crypto Cup is set for a blockbuster finale tomorrow as Magnus Carlsen and&#xA0;Indian wonderkid Praggnanandhaa go head-to-head in a final shootout for the title. All about FTX Crypto Cup 2022: Learn everything about the FTX Crypto Cup 2022 lineup here / Follow the FTX Crypto Cup 2022 live games / Magnus Carlsen&#x2019;s courses []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-pragg-will-decide-the-winner-of-the-ftx-crypto-cup-in-the-last-round/",
-         "pubDate" : "Sat, 20 Aug 2022 21:52:02 +0000",
-         "title" : "Carlsen and Pragg will decide the winner of the FTX Crypto Cup in the last round"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH276wcT77xQHs2ghvmXGqXNmDAeFXnPUzQ9QA94Jxx36YcvIGWG5CFlFjCIlNGnoC14e5yujqR-pzsFnTP11t7tCnpIqrWwGQ_pGACyMcIbjDtAK0mbSB6mTd/s680/okeche.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH2",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-3.html",
          "pubDate" : "Mon, 01 Aug 2022 02:59:00 +0000",
          "title" : "2022 Chess Olympiad - Day 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1892",
-         "pubDate" : "Sun, 31 Jul 2022 21:54:24 +0000",
-         "title" : "Women's Chess Olympiad: Mongolia stages a huge upset, favorites cruise through"
       }
    ]
 }
