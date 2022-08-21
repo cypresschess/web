@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Amateur Chess Championship 2022&#xA0;took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-amateur-chess-champions-2022-crowned-in-zagreb/",
+         "pubDate" : "Sun, 21 Aug 2022 20:36:38 +0000",
+         "title" : "European Amateur Chess Champions 2022 crowned in Zagreb"
+      },
+      {
+         "description" : "Do you feel lost against the English Opening, and struggle to reach even a half-decent position? If so, then you&#x2019;ll love this life-saver by Grandmaster Romain Edouard. Edouard was a former 2700+ grandmaster with an impressive string of tournament victories. He won the 2006 U16 European Youth Chess Championship, 2012 French Chess Championship, and 2012 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romain-edouard-play-against-1-c4/",
+         "pubDate" : "Sun, 21 Aug 2022 20:15:53 +0000",
+         "title" : "Romain Edouard - play against 1. c4"
+      },
+      {
          "description" : "Chess has an incredible history that dates back more than a millennia. As one of the oldest board games, chess is surrounded by tradition and grand story. From it&#39;s origination in India to it&#39;s diffusion and evolution around the world, chess has c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,14 +178,6 @@ news_feed (
          "title" : "Carlsen and Pragg will decide the winner of the FTX Crypto Cup in the last round"
       },
       {
-         "description" : "Daniel Dardha is one of the most exciting European chess juniors to follow nowadays. He has been consistently around the top 20 of the junior rating list and is adding more ELO points with every tournament. This weekend Daniel Dardha won convincingly the Belgian Chess Championship 2022 with a score of 8,5/9, adding 9,1 ELO []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/daniel-dardha-wins-the-belgian-chess-championship-crosses-2600-elo/",
-         "pubDate" : "Sat, 20 Aug 2022 14:37:29 +0000",
-         "title" : "Daniel Dardha wins the Belgian Chess Championship, crosses 2600 ELO"
-      },
-      {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH276wcT77xQHs2ghvmXGqXNmDAeFXnPUzQ9QA94Jxx36YcvIGWG5CFlFjCIlNGnoC14e5yujqR-pzsFnTP11t7tCnpIqrWwGQ_pGACyMcIbjDtAK0mbSB6mTd/s680/okeche.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH2",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-shri-ajay-h-patel/",
          "pubDate" : "Sat, 20 Aug 2022 12:45:07 +0000",
          "title" : "Congratulations Shri Ajay H Patel"
-      },
-      {
-         "description" : "The 2nd FIDE World Fischer Random Chess Championship over-the-board final will take place in Reykjavik, Iceland, from 25-30 October 2022.&#xA0; In 2019, FIDE officially recognized the World Fischer Random Chess Championship. In the final of the inaugural edition, held in Norway, American Grandmaster Wesley So defeated classical chess champion Magnus Carlsen. The two-year pandemic hiatus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-fischer-random-chess-championship-2022/",
-         "pubDate" : "Sat, 20 Aug 2022 12:40:38 +0000",
-         "title" : "FIDE World Fischer Random Chess Championship 2022"
       },
       {
          "description" : "Howard Staunton was the man who put London on the global chess map. A virtuoso of many different careers, Staunton was a coruscating example of the Victorian polymath. Shakespearean actor, world chess champion, author of many chess books and columns, eponymous name giver of the Staunton Chess pieces, Shakespearean scholar, organiser of the first ever []",
