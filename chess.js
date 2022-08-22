@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "R Praggnanandhaa earned a win over eventual champion Magnus Carlsen to finish second at the FTX Crypto Cup. This is the third time he's beaten Carlsen in 2022.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34439725/praggnanandhaa-beats-carlsen-finishes-second-ftx-crypto-cup-chess?device=featurephone",
+         "pubDate" : "Mon, 22 Aug 2022 05:41:04 -0500",
+         "title" : "Praggnanandhaa beats Carlsen in final round, finishes second in FTX Crypto Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1933",
+         "pubDate" : "Mon, 22 Aug 2022 09:48:35 +0000",
+         "title" : "French Championship: Jules Moussard and Almira Skripchenko win titles"
+      },
+      {
+         "description" : "ASIAN YOUTH CHESS CHAMPIONSHIPS 2022 will be started from 13th - 22nd OCTOBER 2022, Bali-Indonesia and players participated in the Over the Board National Age",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-youth-chess-championships-2022-at-bali-indonesia-from-13th-22nd-october-2022/",
+         "pubDate" : "Mon, 22 Aug 2022 09:00:02 +0000",
+         "title" : "ASIAN YOUTH CHESS CHAMPIONSHIPS 2022 at Bali-Indonesia from 13th - 22nd OCTOBER 2022."
+      },
+      {
+         "description" : "Magnus Carlsen described himself as \"very happy and relieved\" to have clinched victory in the FTX Crypto Cup with a win in the third rapid game against 17-year-old Indian star Praggnanandhaa. The chess wasn't over, and in fact Pragg would go on to win the last three games to win the match and take 2nd place just ahead of Alireza Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-ftx-crypto-cup-despite-praggnanandhaa-comeback",
+         "pubDate" : "Mon, 22 Aug 2022 08:18:08 +0000",
+         "title" : "Magnus Carlsen wins FTX Crypto Cup despite Praggnanandhaa comeback"
+      },
+      {
          "description" : "Magnus Carlsen won the FTX Crypto Cup in Miami after losing in tiebreaks against Praggnanandhaa in the final-round tournament-deciding match. Pragg stood two points behind the world champion before the round, so his victory was not enough to claim first place (he gained 2 points to Carlsen's 1). The youngster nonetheless finished in second place, despite tying on points with Alireza Firouzja, as he had defeated the Frenchman in their round-1's direct encounter.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-4",
-         "pubDate" : "Sun, 21 Aug 2022 21:10:25 -0700",
+         "pubDate" : "Sun, 21 Aug 2022 21:10:00 -0700",
          "title" : "Nepomniachtchi Can't Stop Winning, Clinches 2022 RCC Title"
       },
       {
@@ -1928,14 +1960,6 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-9/",
          "pubDate" : "Thu, 04 Aug 2022 04:03:42 +0000",
          "title" : "Students Analysis (9)"
-      },
-      {
-         "description" : "Gukesh beat Gabriel Sargissian in Round 6 of the Chennai Olympiad to move to 6/6 and a live rating of 2719.3, but Armenia hit back to beat India 2 and take the sole lead going into the rest day. On Friday they'll face top seeds USA, so that Levon Aronian may feature against the team with which he won three Olympiad gold medals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-6-gukesh-on-6-6-but-armenia-lead",
-         "pubDate" : "Thu, 04 Aug 2022 00:15:02 +0000",
-         "title" : "Chennai Olympiad 6: Gukesh on 6/6 but Armenia lead"
       },
       {
          "description" : "After six played rounds at the 44th Chess Olympiad 2022 in Chennai, teams of Armenia and India emerged as the sole leaders of Open and Women's sections, respectively, scoring the maximum 12 match points. In the tense sixth round, Armenia defeated India 2 taking a narrow 2.5-1.5 victory. Gukesh D won the game for India's team B and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/armenia-and-india-in-the-sole-lead-after-6-played-rounds-at-the-44th-chess-olympiad/\">Read More &#187;</a></span>",
