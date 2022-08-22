@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-08-20  - 08-21","106","<a href=http://www.uschess.org/msa/XtblMain.php?202208218212 target='_blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2022</a>",
 "HOUSTON","2022-08-20","99","<a href=http://www.uschess.org/msa/XtblMain.php?202208207102 target='_blank'>TCR: BACK TO SCHOOL SCHOLASTIC OPEN</a>",
 "SPRING","2022-08-19","34","<a href=http://www.uschess.org/msa/XtblMain.php?202208196892 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-08-19","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208196782 target='_blank'>FBCC 2022 NATIONAL PHOTOGRAPHY OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-10-30  - 10-31","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110318712 target='_blank'>HALLOWEEN WEEKEND 2-DAY SWISS</a>",
 "HOUSTON","2021-10-29  - 10-31","332","<a href=http://www.uschess.org/msa/XtblMain.php?202110318672 target='_blank'>24TH NORTH/CENTRAL TEXAS GRADE CHAM</a>",
 "CYPRESS","2021-10-29","14","<a href=http://www.uschess.org/msa/XtblMain.php?202110297682 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2021-10-29","14","<a href=http://www.uschess.org/msa/XtblMain.php?202110297612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
