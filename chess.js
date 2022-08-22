@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the FTX Crypto Cup in Miami after losing in tiebreaks against Praggnanandhaa in the final-round tournament-deciding match. Pragg stood two points behind the world champion before the round, so his victory was not enough to claim first place (he gained 2 points to Carlsen's 1). The youngster nonetheless finished in second place, despite tying on points with Alireza Firouzja, as he had defeated the Frenchman in their round-1's direct encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r7",
+         "pubDate" : "Mon, 22 Aug 2022 07:20:00 +0100",
+         "title" : "Carlsen wins FTX Crypto Cup, Pragg impresses by securing second place"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93701805.cms\" />Young Indian Grandmaster R Praggnanandhaa produced a superb performance, winning three straight games including two in the blitz tie-breaks to outwit world No.1 Magnus Carlsen 4-2 in the final round of the FTX Crypto Cup on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-praggnanandhaa-beats-carlsen-in-final-round-but-loses-out-on-top-prize/articleshow/93701805.cms",
+         "pubDate" : "Mon, 22 Aug 2022 05:18:25 +0000",
+         "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen but loses out on top prize"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the FTX Crypto Cup on Sunday despite losing his final match in a tiebreak to GM Praggnanandhaa R., who thereby secured second place in the tournament. GM Alireza Firouzja finished in third place. How to watch? The games of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-wins-ftx-crypto-cup-2022",
+         "pubDate" : "Sun, 21 Aug 2022 22:09:32 -0700",
+         "title" : "Magnus Carlsen Wins FTX Crypto Cup"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi proved to be invincible, clinching&#38;nbsp;the Grand Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Sunday. He defeated GM Dmitry Andreikin, who had an incredible run, overcoming GMs Hikaru Nakamura and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-4",
+         "pubDate" : "Sun, 21 Aug 2022 21:10:25 -0700",
+         "title" : "Nepomniachtchi Can't Stop Winning, Clinches 2022 RCC Title"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -55,7 +87,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
          "pubDate" : "Sun, 21 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Live"
+         "title" : "FTX Crypto Cup: Games and standings"
       },
       {
          "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#xA0;in his announcement that he wouldn&#x2019;t defend the title&#xA0;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
@@ -1506,14 +1538,6 @@ news_feed (
          "title" : "U.S. Open: Interviews of Chess Champions, Meetings, Awards"
       },
       {
-         "description" : "The biggest-ever Chess Olympiad is taking place in Chennai from July 29 to August 9. A record 188 teams in the open and 162 teams in the women's category are fighting for collective and individual medals. | Follow the games live with expert commentary starting at 15.00 local time (11.30 CEST, 05.30 ET) | Pictured: Sethuraman (India)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-live",
-         "pubDate" : "Tue, 09 Aug 2022 06:20:00 +0100",
-         "title" : "Chennai Olympiad: Final Round - Live!"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #10 Monday, 8 August 2022 One day Dommaraju Gukesh was touted as a national hero having won eight straight games; a couple of days later, he was the culprit for India losing a crucial match in round 10. Chess can be brutal as a sporting activity. Gukesh was riding high off The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/\">2022 Chess Olympiad: Round #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1626,14 +1650,6 @@ news_feed (
          "title" : "Uzbekistan Jumps To Lead In Open; Four Share Lead In Women's; Kiolbasa Advances To 9/9"
       },
       {
-         "description" : "GM Hans Niemann, ranked sixth in the world for juniors in live ratings, won week 24 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, accomplishing the rare feat of winning both the knockout and Swiss in the same week.&#38;nbsp; GM Je...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-24-niemann-wins",
-         "pubDate" : "Sun, 07 Aug 2022 16:06:00 -0700",
-         "title" : "World No. 6 Junior Triumphs in Knockout and Swiss"
-      },
-      {
          "description" : "Javokhir Sindarov and Jakhongir Vakhidov grabbed the wins as Uzbekistan beat Armenia to take over as leaders of the Chennai Olympiad with two rounds to go. They face the teen stars of India 2 in Round 10 after Praggnanandhaa rescued a draw against Azerbaijan. In the Women's event Poland's Oliwia Kiolbasa hit 9/9, gave Poland victory over India, and left a 4-way tie for 1st place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1696,14 +1712,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/dvorkovich-re-elected-fide-president-by-157-16-landslide",
          "pubDate" : "Sun, 07 Aug 2022 12:14:16 +0000",
          "title" : "Dvorkovich re-elected FIDE President by landslide"
-      },
-      {
-         "description" : "FIDE President Arkady Dvorkovich was re-elected for a second term in the presidential elections during the FIDE Congress in Chennai, India, on Sunday. He received 157 of the votes. The only other remaining candidate, Andrii Baryshpolets, received ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dvorkovich-re-elected-as-fide-president",
-         "pubDate" : "Sun, 07 Aug 2022 03:38:00 -0700",
-         "title" : "Dvorkovich Re-elected As FIDE President"
       },
       {
          "description" : "Incumbent president Arkady Dvorkovich was re-elected for a second term and Anand was in his team.",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-a-happy-diversion-for-besieged-ukraine-players/articleshow/93378843.cms",
          "pubDate" : "Fri, 05 Aug 2022 17:38:52 +0000",
          "title" : "Chess Olympiad a happy diversion for besieged Ukraine players"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93377563.cms\" />All eyes were on the India vs India match on Friday as the 44th Chess Olympiad returned after a day's break. And the higher-ranked India 1 justified their billing beating India 3 in the seventh round. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-arjun-erigaisi-sl-narayanan-shine-in-india-1-win/articleshow/93377563.cms",
-         "pubDate" : "Fri, 05 Aug 2022 16:00:00 +0000",
-         "title" : "Chess Olympiad: Arjun Erigaisi, SL Narayanan shine in India 1 win"
       },
       {
          "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
