@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ever since the F&eacute;d&eacute;ration Internationale des Échecs (FIDE) emerged as chess' governing body, the Candidates' Tournament has been vital to the selection and making of the game's world champion. Remade more than a few times in the seventy-two years that it has been running, the tournament has been a story on its own. Eugene Manlapao traces its history from its first edition in 1950, to its latest in 2022 that may have produced the combatants for the next world championship match. | Photo: The participants of the Candidates Tournament 1956 in Amsterdam | Photo: Herbert Behrens (ANEFO) (Cropped from GaHetNa (Nationaal Archief NL)) [CC0], via Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-candidates-tournament-a-history",
+         "pubDate" : "Mon, 22 Aug 2022 17:00:00 +0100",
+         "title" : "The Candidates Tournament: A History"
+      },
+      {
+         "description" : "Robocop. This was what GM Yermolinksy dubbed IM Conor Murphy as he followed his superlative result. While the 2022 Olympiad was dominated by the performance of the youthful and brilliant Gukesh, and other stars on the rise, it is also much more than a collection of super grandmasters, so let us sing the praises of the unlikely heroes who rose to the occasion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/underdog-overachievers-in-chennai",
+         "pubDate" : "Mon, 22 Aug 2022 13:30:00 +0100",
+         "title" : "Underdog Overachievers in Chennai"
+      },
+      {
          "description" : "R Praggnanandhaa earned a win over eventual champion Magnus Carlsen to finish second at the FTX Crypto Cup. This is the third time he's beaten Carlsen in 2022.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-wins-ftx-crypto-cup-2022",
-         "pubDate" : "Sun, 21 Aug 2022 22:09:32 -0700",
+         "pubDate" : "Sun, 21 Aug 2022 22:09:00 -0700",
          "title" : "Magnus Carlsen Wins FTX Crypto Cup"
       },
       {
@@ -1538,14 +1554,6 @@ news_feed (
          "title" : "A crushing counterblow"
       },
       {
-         "description" : "Uzbekistan grabbed gold in the open section of the Chess Olympiad after defeating the Netherlands, ahead of Armenia and India 2. In the women's tournament, India gave away the lead in the last hurdle with a loss against the United States. Gold thus went to Ukraine thanks to a final-round win over Poland. Georgia and India completed the podium. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-express-final",
-         "pubDate" : "Tue, 09 Aug 2022 08:55:00 +0100",
-         "title" : "Breaking: Uzbekistan and Ukraine take gold"
-      },
-      {
          "description" : " With 1 round to play,the 2022 Chess Olympiad looks to be a 2 horse race between Uzbekistan and Armenia. Armenia bounced back fro it's round 9 loss to score a big win over Azerbaijan 3-1. Uzbekistan looked to be losing to India 2, until a blunder by Gukesh on board 1 of the match saw Uzbekistan escape with a 2-2 draw. USA and India 1 both won their matches, to stay 1 point behind the leaders. In the Women's Olympiad, India hold a 1 point lead going into the final round. Close behind are Poland, Georgia, Azerbaijan, and Ukraine. So a win for India will give them gold, but a draw or loss will open it up for the pursuing teams. Australia beat Albania 3.5-0.5 to move to 13 points, and a win toda",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1560,14 +1568,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-to-conclude-today-ms-dhoni-expected-at-closing-ceremony/articleshow/93445832.cms",
          "pubDate" : "Tue, 09 Aug 2022 05:32:39 +0000",
          "title" : "Chess Olympiad set to conclude, Dhoni expected at closing ceremony"
-      },
-      {
-         "description" : "By tying for first in the 2022 U.S. Open, Grandmaster Elshan Moradiabadi won a qualifying spot to the 2022 U.S. Championship. Then he lost an Armageddon playoff chess game with Grandmaster Aleksey Sorokin for an extra $200 and the U.S. Open title. Moradiabadi and Sorokin spoke to WIM Alexey Root, who also reports on U.S. Open committee meetings and awards. | Photos: Alexey Root",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/u-s-open-interviews-of-chess-champions-meetings-awards",
-         "pubDate" : "Tue, 09 Aug 2022 06:30:00 +0100",
-         "title" : "U.S. Open: Interviews of Chess Champions, Meetings, Awards"
       },
       {
          "description" : " 2022 Chess Olympiad: Round #10 Monday, 8 August 2022 One day Dommaraju Gukesh was touted as a national hero having won eight straight games; a couple of days later, he was the culprit for India losing a crucial match in round 10. Chess can be brutal as a sporting activity. Gukesh was riding high off The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/\">2022 Chess Olympiad: Round #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1894",
          "pubDate" : "Mon, 01 Aug 2022 19:00:48 +0000",
          "title" : "USA stumbles in Chennai Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1893",
-         "pubDate" : "Mon, 01 Aug 2022 12:16:54 +0000",
-         "title" : "Nepomniachtchi enters top-3 open in August 2022 rating list"
       }
    ]
 }
