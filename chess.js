@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In chess, you learn best by making mistakes. And best of all, through the mistakes of others - because that hurts less. That is the concept of Nicholas Pert, the English grandmaster, who is an experienced trainer and knows the problems at every chess level. In 3 Fritztrainer courses he presents the typical mistakes categorised according to playing strength in order to increase sensitivity to one's own sources of error. This week we offer all 3 courses as a bundle at a special price: instead of €79.90 this week only €59.90",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/deal-of-the-week-niclas-pert-typical-mistakes-vol-1-3",
+         "pubDate" : "Mon, 22 Aug 2022 21:00:00 +0100",
+         "title" : "Deal of the week - Niclas Pert: Typical mistakes Vol. 1-3"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93716245.cms\" />Young gun R Praggnanandhaa seems to be at his best when playing World No. 1 Magnus Carlsen. After having beaten the Norwegian twice this year - at the Airthings Masters in February and during Chessable Masters in May - Praggu got the better of Carlsen 4-2 in the seventh and final round of the FTX Crypto Cup in Miami on Sunday - an online event part of the Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-praggnanandhaa-beats-carlsen-again-to-finish-2nd/articleshow/93716245.cms",
+         "pubDate" : "Mon, 22 Aug 2022 17:34:18 +0000",
+         "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen again to finish 2nd"
+      },
+      {
+         "description" : "In the Endgame Magic show #208 Karsten M&uuml;ller and Arne K&auml;hler take a look at endgame highlights from the Chess Olympiad in Chennai. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-208-endgame-highlights-from-the-olympiad",
+         "pubDate" : "Mon, 22 Aug 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #208: Endgame highlights from the Olympiad"
+      },
+      {
+         "description" : "Congratulations to all Chessable British Chess Championshipships prizewinners.&#160; The Chessable British Chess Championships finished yesterday (Sunday 21/08) with FM Harry Grieve winning the main Championship...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessable-british-chess-championshipship-prizewinners/",
+         "pubDate" : "Mon, 22 Aug 2022 16:31:40 +0000",
+         "title" : "Chessable British Chess Championshipship prizewinners"
+      },
+      {
          "description" : "Ever since the F&eacute;d&eacute;ration Internationale des Échecs (FIDE) emerged as chess' governing body, the Candidates' Tournament has been vital to the selection and making of the game's world champion. Remade more than a few times in the seventy-two years that it has been running, the tournament has been a story on its own. Eugene Manlapao traces its history from its first edition in 1950, to its latest in 2022 that may have produced the combatants for the next world championship match. | Photo: The participants of the Candidates Tournament 1956 in Amsterdam | Photo: Herbert Behrens (ANEFO) (Cropped from GaHetNa (Nationaal Archief NL)) [CC0], via Wikimedia Commons",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34439725/praggnanandhaa-beats-carlsen-finishes-second-ftx-crypto-cup-chess?device=featurephone",
          "pubDate" : "Mon, 22 Aug 2022 05:41:04 -0500",
          "title" : "Praggnanandhaa beats Carlsen in final round, finishes second in FTX Crypto Cup"
+      },
+      {
+         "description" : " The FTX Crypto Cup took place in Miami Mon 15th Aug to Sun 21st Aug 2022. Players: Aronian, Carlsen, Duda, Firouzja, Giri, Le Quang Liem, Niemann and Praggnanandhaa. Magnus Carlsen took first place by a point from R Praggnanandhaa and Alireza Firouzja. Carlsen faced Praggnanandhaa in the final round and needed to draw the first four rounds 2-2, this he secured by winning game three, he lost game four and both tie-break games however which allowed Praggnanandhaa to finish second. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2022",
+         "pubDate" : "Mon, 22 Aug 2022 13:50:00 +0400",
+         "title" : "FTX Crypto Cup 2022 - Games and Results"
       },
       {
          "description" : "",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r7",
          "pubDate" : "Mon, 22 Aug 2022 07:20:00 +0100",
          "title" : "Carlsen wins FTX Crypto Cup, Pragg impresses by securing second place"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93701805.cms\" />Young Indian Grandmaster R Praggnanandhaa produced a superb performance, winning three straight games including two in the blitz tie-breaks to outwit world No.1 Magnus Carlsen 4-2 in the final round of the FTX Crypto Cup on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-praggnanandhaa-beats-carlsen-in-final-round-but-loses-out-on-top-prize/articleshow/93701805.cms",
-         "pubDate" : "Mon, 22 Aug 2022 05:18:25 +0000",
-         "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen but loses out on top prize"
       },
       {
          "description" : "GM Magnus Carlsen won the FTX Crypto Cup on Sunday despite losing his final match in a tiebreak to GM Praggnanandhaa R., who thereby secured second place in the tournament. GM Alireza Firouzja finished in third place. How to watch? The games of ...",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "Romain Edouard - play against 1. c4"
       },
       {
-         "description" : "Chess has an incredible history that dates back more than a millennia. As one of the oldest board games, chess is surrounded by tradition and grand story. From it&#39;s origination in India to it&#39;s diffusion and evolution around the world, chess has c...",
+         "description" : "Chess has an incredible history that dates back more than a millennia. As one of the oldest board games, chess is surrounded by tradition and grand story. From its origination in India to its diffusion and evolution around the world, chess has cap...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-chess-reflection-of-us",
@@ -946,14 +978,6 @@ news_feed (
          "title" : "Recognizing chess positions"
       },
       {
-         "description" : " The FTX Crypto Cup takes place in Miami Mon 15th Aug to Sun 21st Aug 2022. Players: Aronian, Carlsen, Duda, Firouzja, Giri, Le Quang Liem, Niemann and Praggnanandhaa. Sadly Ding Liren and Wei Yi who had qualified to play this event couldn't get permission to travel.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2022",
-         "pubDate" : "Mon, 15 Aug 2022 13:50:00 +0400",
-         "title" : "FTX Crypto Cup 2022 - Games and Results"
-      },
-      {
          "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1506,14 +1530,6 @@ news_feed (
          "title" : "New - 3.h4 against the King's Indian and Gr&uuml;nfeld"
       },
       {
-         "description" : "In 1982, when he was 15 years old, Simen Agdestein won the Norwegian Championship for the first time and became the youngest Norwegian Champion of all time. Three years later, in 1985, he became a Grandmaster, the first Norwegian ever to secure the title. Now, in the 2022 Norwegian Championship, which took place in mid-July, Agdestein set another record: The 55-year-old won the tournament with 8 out of 9 to become the oldest player ever to win the Championship. | Photo: Anniken Westby",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norwegian-championship-2022-another-record-for-simen-agdestein",
-         "pubDate" : "Tue, 09 Aug 2022 13:46:19 +0100",
-         "title" : "Norwegian Championship 2022: Another record for Simen Agdestein"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/uzbekistan-armenia-india-ii/",
          "pubDate" : "Tue, 09 Aug 2022 10:30:07 +0100",
          "title" : "Uzbekistan, Armenia, India II"
-      },
-      {
-         "description" : "A piece that is attacked does not have to move - that sounds like a trivial little piece of wisdom but it is good to keep it in mind. In the diagrammed position Black just attacked White's rook with 49...Ke5, apparently forgetting that attacked pieces do not have to move. How should White react to Black's attack?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-crushing-counterblow",
-         "pubDate" : "Tue, 09 Aug 2022 09:00:00 +0100",
-         "title" : "A crushing counterblow"
       },
       {
          "description" : " With 1 round to play,the 2022 Chess Olympiad looks to be a 2 horse race between Uzbekistan and Armenia. Armenia bounced back fro it's round 9 loss to score a big win over Azerbaijan 3-1. Uzbekistan looked to be losing to India 2, until a blunder by Gukesh on board 1 of the match saw Uzbekistan escape with a 2-2 draw. USA and India 1 both won their matches, to stay 1 point behind the leaders. In the Women's Olympiad, India hold a 1 point lead going into the final round. Close behind are Poland, Georgia, Azerbaijan, and Ukraine. So a win for India will give them gold, but a draw or loss will open it up for the pursuing teams. Australia beat Albania 3.5-0.5 to move to 13 points, and a win toda",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ben-simon-plays-people",
          "pubDate" : "Mon, 08 Aug 2022 15:03:25 +0000",
          "title" : "Ben Simon Plays The People!"
-      },
-      {
-         "description" : "Good luck to all of the entrants to the British Chess Championships. If you have any questions or last minute changes to your entry over...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-championships-notice-events-start-on-monday-8th-august/",
-         "pubDate" : "Mon, 08 Aug 2022 14:00:41 +0000",
-         "title" : "British Championships Notice - events underway 8/8/22"
       },
       {
          "description" : " A triumphant Arkady Dvorkovich acknowledges victory as Deputy President Viswanathan Anand looks on. Photo by David Llada. Arkady Dvorkovich was reelected at the FIDE General Assembly by an overwhelming electoral vote of 157-16 over competitor Anrdii Baryshpolets. This was after the surprising withdrawal of the Bachar Kouatly and Ian Wilkinson, a ticket that had garnered The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/dvorkovich-reelected-fide-president/\">Dvorkovich reelected FIDE President!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1895",
          "pubDate" : "Mon, 01 Aug 2022 20:00:22 +0000",
          "title" : "Women's Chess Olympiad: Eight teams won all matches after Round 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1894",
-         "pubDate" : "Mon, 01 Aug 2022 19:00:48 +0000",
-         "title" : "USA stumbles in Chennai Olympiad"
       }
    ]
 }
