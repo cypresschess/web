@@ -2072,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1893",
          "pubDate" : "Mon, 01 Aug 2022 12:16:54 +0000",
          "title" : "Nepomniachtchi enters top-3 open in August 2022 rating list"
-      },
-      {
-         "description" : " The third day of the 2022 Chess Olympiad was action packed, both on the board, and around the boards. On the chessboard, the big news was the 3-1 win by Italy over the 3rd seeded Norwegian team. Draws on the top 2 boards, and wins on the bottom 2 saw Italy keep a perfect record, and relegate Norway down to 30th on tie-break. Another big result was the win by Austria over Germany 2.5-1.5, resulting in another top 10 team (on seedings) drop down the table. Both Australian teams played well against tough opposition. The open team narrowly lost 1.5-2.5 to Poland, with a win by Temur Kuybokarov the highlight. The Women's team did a little better, drawing 2-2 with Cuba, and now face the USA team ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-3.html",
-         "pubDate" : "Mon, 01 Aug 2022 02:59:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 3"
       }
    ]
 }
