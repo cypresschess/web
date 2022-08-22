@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hou Yifan defeated GM Valentina Gunina in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Gunina kicked off the match with a shocking six-game winning streak, but Hou made an equally astounding comeback in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-semifinals-hou-gunina",
+         "pubDate" : "Mon, 22 Aug 2022 14:31:00 -0700",
+         "title" : "Women's World No. 1 Makes Astonishing Comeback vs. The Powerful Gunina"
+      },
+      {
+         "description" : "Maurice Ashley is joining the Chessable family with his new course &#8220;The secrets of Chess Geometry&#8220;. GM Ashely commented, &#8220;My first ever Chessable course, The Secrets of Chess Geometry, is now out! A dream come true.&#8221; Grandmaster Maurice Ashley makes his Chessable debut with a unique tactics course that will change the way you see []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maurice-ashley-the-secrets-of-chess-geometry/",
+         "pubDate" : "Mon, 22 Aug 2022 21:01:21 +0000",
+         "title" : "Maurice Ashley - The Secrets of Chess Geometry"
+      },
+      {
+         "description" : "MrDodgy, the CEO of&#xA0;Chefable&#xA0;and the Tournament Director of&#xA0;MrDodgy Invitational 2022, has published his opinion of Hans Niemann's recent interviews during the FTX Crypto Cup. In an article titled &#8220;The 5 Greatest Chess Interviews Ever: A list nobody can argue with&#8221; MrDodgy says, &#8220;Hans Niemann&#x2019;s recent Meltwater Champions Chess Tour interviews led to a kerfuffle. Many []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-the-5-greatest-chess-interviews-ever/",
+         "pubDate" : "Mon, 22 Aug 2022 20:23:00 +0000",
+         "title" : "MrDodgy: The 5 Greatest Chess Interviews Ever"
+      },
+      {
+         "description" : "The autumn edition of the Offerspill Chess Tournament starts this Wednesday, August 24. The tournament is open to all members of the Norwegian Chess Federation and FIDE registered players. The maximum number of participants is 70. Official website of Offerspill Chess Club / Offerspill Twitter / Offerspill Facebook Contact and registration for Offerspill Autumn Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/offerspill-autumn-chess-tournament-2022/",
+         "pubDate" : "Mon, 22 Aug 2022 20:21:31 +0000",
+         "title" : "Offerspill Autumn Chess Tournament 2022"
+      },
+      {
          "description" : "In chess, you learn best by making mistakes. And best of all, through the mistakes of others - because that hurts less. That is the concept of Nicholas Pert, the English grandmaster, who is an experienced trainer and knows the problems at every chess level. In 3 Fritztrainer courses he presents the typical mistakes categorised according to playing strength in order to increase sensitivity to one's own sources of error. This week we offer all 3 courses as a bundle at a special price: instead of €79.90 this week only €59.90",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/deal-of-the-week-niclas-pert-typical-mistakes-vol-1-3",
          "pubDate" : "Mon, 22 Aug 2022 21:00:00 +0100",
          "title" : "Deal of the week - Niclas Pert: Typical mistakes Vol. 1-3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1935",
+         "pubDate" : "Mon, 22 Aug 2022 19:46:32 +0000",
+         "title" : "Two FIDE Trainer Seminars announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1934",
+         "pubDate" : "Mon, 22 Aug 2022 19:27:20 +0000",
+         "title" : "Harry Grieve wins Chessable British Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93716245.cms\" />Young gun R Praggnanandhaa seems to be at his best when playing World No. 1 Magnus Carlsen. After having beaten the Norwegian twice this year - at the Airthings Masters in February and during Chessable Masters in May - Praggu got the better of Carlsen 4-2 in the seventh and final round of the FTX Crypto Cup in Miami on Sunday - an online event part of the Meltwater Champions Chess Tour.",
@@ -158,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-chess-reflection-of-us",
-         "pubDate" : "Sun, 21 Aug 2022 12:17:37 -0700",
+         "pubDate" : "Sun, 21 Aug 2022 12:17:00 -0700",
          "title" : "Chess.com Releases Documentary 'The History Of Chess: A Reflection Of Us'"
       },
       {
@@ -266,36 +314,12 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen beats Firouzja in thrilling match, leads"
       },
       {
-         "description" : "Top Chess Engine Championship Season 23 is going to start this August. The defending champion Stockfish is going to compete with 45 of world's best chess engines for the highest title in computer chess. With the weakest engine in the competition being stronger than any chess player, TCEC is promising once again amazing level of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tcec-season-23-next-level/",
-         "pubDate" : "Sun, 21 Aug 2022 01:21:00 +0000",
-         "title" : "TCEC Season 23 - Next Level! Starts Sunday at 19:00 CET"
-      },
-      {
-         "description" : "The European Women Chess Championship is in full swing. With round 1 bringing a multitude of surprises, the event shapes to be one of the most exciting EIWCC events of the last years. Today is round 2 of the European Women Chess Championship 2022. The pairings of round 2 are bringing some unpredictable fights. Games []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-chess-2022-video-coverage/",
-         "pubDate" : "Sun, 21 Aug 2022 01:01:00 +0000",
-         "title" : "European Women Chess 2022 video coverage"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi won the Winners Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Saturday, defeating GM Hikaru Nakamura in an armageddon playoff. But it&#39;s not over yet! Nakamura will get a second chance in the Losers ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-3",
          "pubDate" : "Sat, 20 Aug 2022 17:14:00 -0700",
          "title" : "Nepomniachtchi Wins On Demand In Epic Armageddon Clash, Advances To Grand Final"
-      },
-      {
-         "description" : "European Women Chess Championship 2022 takes place on August 19th &#x2013; September 1st, 2022 in the Don Giovanni hotel Prague (Czech Republic). 125 players from 27 European federations registered for the event. The event will be played in 11 rounds, Swiss system, with time control 90 minutes for 40 moves plus 30 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-chess-pairings-round-2/",
-         "pubDate" : "Sat, 20 Aug 2022 22:16:23 +0000",
-         "title" : "European Women Chess - pairings round 2"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH276wcT77xQHs2ghvmXGqXNmDAeFXnPUzQ9QA94Jxx36YcvIGWG5CFlFjCIlNGnoC14e5yujqR-pzsFnTP11t7tCnpIqrWwGQ_pGACyMcIbjDtAK0mbSB6mTd/s680/okeche.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH2",
@@ -386,7 +410,7 @@ news_feed (
          "title" : "FTX Crypto Cup: Firouzja in the hunt as Duda beats Carlsen"
       },
       {
-         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad in Chennai, India and was excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed. ZIMBABWE Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad in Chennai, India and was excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed.&#160; ZIMBABWE Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/",
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 9"
       },
       {
-         "description" : "The 14th-seeded young Uzbekistan team with an average age of 20 prevailed over the overnight leader, 12th-seeded Armenia, by a strong 3-1 score to jump into sole lead with 16 match points at the end of the ninth round of the 44th FIDE Chess Olympi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-9",
-         "pubDate" : "Sun, 07 Aug 2022 16:37:00 -0700",
-         "title" : "Uzbekistan Jumps To Lead In Open; Four Share Lead In Women's; Kiolbasa Advances To 9/9"
-      },
-      {
          "description" : "Javokhir Sindarov and Jakhongir Vakhidov grabbed the wins as Uzbekistan beat Armenia to take over as leaders of the Chennai Olympiad with two rounds to go. They face the teen stars of India 2 in Round 10 after Praggnanandhaa rescued a draw against Azerbaijan. In the Women's event Poland's Oliwia Kiolbasa hit 9/9, gave Poland victory over India, and left a 4-way tie for 1st place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2072,14 +2088,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-4.html",
          "pubDate" : "Tue, 02 Aug 2022 02:38:00 +0000",
          "title" : "2022 Chess Olympiad - Day 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1895",
-         "pubDate" : "Mon, 01 Aug 2022 20:00:22 +0000",
-         "title" : "Women's Chess Olympiad: Eight teams won all matches after Round 4"
       }
    ]
 }
