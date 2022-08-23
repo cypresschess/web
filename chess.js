@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1937",
+         "pubDate" : "Tue, 23 Aug 2022 19:02:15 +0000",
+         "title" : "Belgian Championship 2022: Daniel Dardha clinches third title"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares the most famous handicap games, where a weaker player is given a time or material advantage. 2022.08.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/famous-odds-games-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atH_S-xvfFE.jpg?itok=TVHHh4QI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/famous-odds-games-road-2000-nm-caleb-denby-lichessorg",
+         "pubDate" : "Tue, 23 Aug 2022 18:15:30 +0000",
+         "title" : "Famous Odds Games | Road to 2000 - NM Caleb Denby | lichess.org"
+      },
+      {
+         "description" : "GM Sam Sevian won the Qualifier 1 Swiss stage of the 2022 Fischer Random World Championship on Monday, refusing a draw in the last round to go for more. GMs Aleksandr Shimanov and Vladimir Fedoseev finished in second and third with seven points ea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d1",
+         "pubDate" : "Tue, 23 Aug 2022 09:47:22 -0700",
+         "title" : "Sevian Refuses Last-Round Draw Offer, Wins Fischer Random Swiss"
+      },
+      {
+         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272218316-GAEDZ6W8BXBKS0DCCX90/lula.chennai.jpg\" data-image-dimensions=\"680x453\" data-image-focal-point=\"0.5,0.5\" alt=\"lula.chennai.jpg\" data-load=\"false\" data-image-id=\"6305009a0114e12f2e7dde47\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272218316-GAEDZ6W8BXBKS0DCCX90/lula.chennai.jpg?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272233673-UWVDJQ6Q6D8QHNOYW4TZ/467px-JohnDonaldson0301_034.jpg\" data-image-dimensions=\"467x600\" data-image-focal-",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/23/ep-293-olympiad-trip-reports-with-lula-roberts-aka-lularobs-and-team-usa-captain-im-john-donaldson",
+         "pubDate" : "Tue, 23 Aug 2022 16:32:34 +0000",
+         "title" : "EP 293- Olympiad Trip reports with Lula Roberts aka \"LulaRobs\" and Team USA captain, IM John Donaldson"
+      },
+      {
          "description" : "Studying endgame theory can seem like one of those necessary evils, and about as fun as watching paint dry, but sometimes it is all about the teacher. Teachers such as GM Karsten Mueller or Mark Dvoretsky make all the difference, bringing magic and wonder into the lessons. Enjoy this shared moment of discovery.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1658,14 +1690,6 @@ news_feed (
          "title" : "Chennai Olympiad 10: Gukesh despair as Uzbekistan escape"
       },
       {
-         "description" : "The 12th-seeded Armenia defeated the sixth-seeded Azerbaijan with a convincing 3-1 victory to reach 17 match points and become the joint leaders at the end of the 10th and penultimate round of the 44th FIDE Chess Olympiad. Dramatic developments in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-10",
-         "pubDate" : "Mon, 08 Aug 2022 16:01:00 -0700",
-         "title" : "Armenia, Uzbekistan Share Lead In Open; India Leads In Women's"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #9 Sunday, 7 August 2022 While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1704,14 +1728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/time-to-do-more-for-chess-in-india-says-new-fide-deputy-president-viswanathan-anand/articleshow/93436589.cms",
          "pubDate" : "Mon, 08 Aug 2022 15:11:09 +0000",
          "title" : "Time to do more for chess in India, says new FIDE deputy president Anand"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The main event of a nine-hour marathon to raise money for CHESS Cops, Ben Simon plays the viewers and talks about chess ratings, pro wrestling, his disdain for Twitch, and more! The marathon included Danny Machuca&#039;s Steve the Pirate, Jonathan Schrantz, and GM Bryan Smith. Originally on Twitch<br /> 2021.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ben-simon-plays-people\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbna",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ben-simon-plays-people",
-         "pubDate" : "Mon, 08 Aug 2022 15:03:25 +0000",
-         "title" : "Ben Simon Plays The People!"
       },
       {
          "description" : " A triumphant Arkady Dvorkovich acknowledges victory as Deputy President Viswanathan Anand looks on. Photo by David Llada. Arkady Dvorkovich was reelected at the FIDE General Assembly by an overwhelming electoral vote of 157-16 over competitor Anrdii Baryshpolets. This was after the surprising withdrawal of the Bachar Kouatly and Ian Wilkinson, a ticket that had garnered The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/dvorkovich-reelected-fide-president/\">Dvorkovich reelected FIDE President!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -2080,30 +2096,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-5.html",
          "pubDate" : "Wed, 03 Aug 2022 02:33:00 +0000",
          "title" : "2022 Chess Olympiad - Day 5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1897",
-         "pubDate" : "Tue, 02 Aug 2022 19:06:35 +0000",
-         "title" : "Women's Olympiad: Three teams forge ahead with 10 and 9 points each"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1896",
-         "pubDate" : "Tue, 02 Aug 2022 17:28:58 +0000",
-         "title" : "44th Chess Olympiad: Gukesh D scores his fifth win to cross 2715 mark"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1659459900713-RB2BY5XCIEUF2XARC9LL/Jeroen.jpg\" data-image-dimensions=\"160x200\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62e95982c883660944adc83e\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1659459900713-RB2BY5XCIEUF2XARC9LL/Jeroen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">IM Jeroen Bosch </figcaption> </figure> <p class=\"\">This week I talk with a top Dutch trainer, chess player, opening theoretician and prolific author",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/2/ep-290-dutch-trainer-and-author-im-jeroen-bosch-on-how-to-build-an-opening-repertoire",
-         "pubDate" : "Tue, 02 Aug 2022 17:09:40 +0000",
-         "title" : "EP 290- Dutch Trainer and Author IM Jeroen Bosch on How to Build an Opening Repertoire "
       }
    ]
 }
