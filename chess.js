@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1936",
+         "pubDate" : "Tue, 23 Aug 2022 11:02:44 +0000",
+         "title" : "Hou Yifan edges out Valentina Gunina to reach the final"
+      },
+      {
+         "description" : "The video course presents a fine selection of 33 classic chess games, played between the 18th century and the beginning of the second world war. Starting with François-Andr&eacute; Danican Philidor through to Mikhail Botvinnik, these significant games, played by the greatest players of their times, are treasures of chess history. They are also a part of chess culture, and every aspiring chess player or simply lover of the game of chess, should know them.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chess-classics-games-you-must-know",
+         "pubDate" : "Tue, 23 Aug 2022 12:00:00 +0100",
+         "title" : "New: Chess Classics - games you must know"
+      },
+      {
+         "description" : "...but holding a difficult rook endgame at the board is often not easy. In the diagrammed position Black is a pawn down but can draw with precise play. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-endings-are-always-drawn",
+         "pubDate" : "Tue, 23 Aug 2022 09:00:00 +0100",
+         "title" : "Rook endings are always drawn..."
+      },
+      {
          "description" : "GM Ivan Sokolov is well-known for taking on challenging projects as a trainer. This year he turned his attention to the Uzbekistan team, a team that, like Iran (which Sokolov trained before), was very young. How did it so happen that the team surpassed all expectations and clinched the gold in the Chennai chess Olympiad? What was the role of Ivan Sokolov? How much time did he spend with the team? What were his training techniques? All of this and much more in this hour-long interview by IM Sagar Shah. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -47,7 +71,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/deal-of-the-week-niclas-pert-typical-mistakes-vol-1-3",
          "pubDate" : "Mon, 22 Aug 2022 21:00:00 +0100",
-         "title" : "Deal of the week - Niclas Pert: Typical mistakes Vol. 1-3"
+         "title" : "Deal of the week - Nicholas Pert: Typical mistakes Vol. 1-3"
       },
       {
          "description" : "",
@@ -87,7 +111,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/chessable-british-chess-championshipship-prizewinners/",
          "pubDate" : "Mon, 22 Aug 2022 16:31:40 +0000",
-         "title" : "Chessable British Chess Championshipship prizewinners"
+         "title" : "Chessable British Chess Championships prizewinners"
       },
       {
          "description" : "Ever since the F&eacute;d&eacute;ration Internationale des Échecs (FIDE) emerged as chess' governing body, the Candidates' Tournament has been vital to the selection and making of the game's world champion. Remade more than a few times in the seventy-two years that it has been running, the tournament has been a story on its own. Eugene Manlapao traces its history from its first edition in 1950, to its latest in 2022 that may have produced the combatants for the next world championship match. | Photo: The participants of the Candidates Tournament 1956 in Amsterdam | Photo: Herbert Behrens (ANEFO) (Cropped from GaHetNa (Nationaal Archief NL)) [CC0], via Wikimedia Commons",
@@ -1410,14 +1434,6 @@ news_feed (
          "title" : "The winners of the 44th Chess Olympiad (Women's Tournament)"
       },
       {
-         "description" : "In the absence of Russia and China, the young Uzbek team surprised everyone by winning the gold medal at the Chess Olympiad in Chennai. The victory comes at the right time, as the 2026 Chess Olympiad will be held in Tashkent, reports FIDE. But gold for the best individual performances on board 1 and 2 went to Gukesh D. and Nihal Sarin from the team of India 2. | Photos: FIDE (Lennart Ootes, Stev Bonhage)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winners-of-the-44th-chess-olympiad-open",
-         "pubDate" : "Wed, 10 Aug 2022 11:24:10 +0100",
-         "title" : "The winners of the 44th Chess Olympiad (Open)"
-      },
-      {
          "description" : "Do you know the Hippopotamus Defence. It is a series of irregular chess opening systems in which Black moves a number of pawns to the sixth rank, and keeps his pieces on the seventh rank. Many experts considered it basically losing, but it has maintained a solid fifty percent for Black, even at the highest level of competition. In the British Chess Magazine Raymond Keene reviews the book The Hippopotamus Defence by Italian IM Alessio de Santis on the subject. | Picture Samuele Giglio, Unsplash",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1472,14 +1488,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lessons-olympiad-road-2000-nm-caleb-denby-lichessorg",
          "pubDate" : "Wed, 10 Aug 2022 00:03:55 +0000",
          "title" : "Lessons from the Olympiad | Road to 2000 - NM Caleb Denby | lichess.org"
-      },
-      {
-         "description" : "The record-breaking 2022 Chess Olympiad came to an end in Chennai, India. After a fighting eleventh round, Uzbekistan and Ukraine were crowned champions in the open and women's sections respectively. Armenia and India 2 got silver and bronze medals in the open, while Georgia and India completed the podium in the women's tournament. It was a unique competition, which saw how much of a difference an enthusiastic, diligent organization can actually make! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-r11",
-         "pubDate" : "Tue, 09 Aug 2022 23:30:00 +0100",
-         "title" : "Uzbekistan and Ukraine are the 2022 Olympic champions"
       },
       {
          "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai with the Closing ceremony. After a dramatic finish, Uzbekistan won the Open event and Ukraine claimed gold of the Women's tournament. Uzbekistan defeated Netherlands in the last round with a narrow 2.5-1.5 victory, while Armenia took a victory over Spain to join them on the top with 19 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/\">Read More &#187;</a></span>",
