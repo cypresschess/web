@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Studying endgame theory can seem like one of those necessary evils, and about as fun as watching paint dry, but sometimes it is all about the teacher. Teachers such as GM Karsten Mueller or Mark Dvoretsky make all the difference, bringing magic and wonder into the lessons. Enjoy this shared moment of discovery.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/when-studying-endgames-becomes-fun",
+         "pubDate" : "Tue, 23 Aug 2022 17:00:00 +0100",
+         "title" : "When studying endgames becomes fun"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93736289.cms\" />The All India Chess Federation (AICF) on Tuesday appointed Vipnesh Bharadwaj as its interim secretary after the Delhi High Court reiterated its order of removing former chief Bharat Singh Chauhan.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-appoints-vipnesh-bharadwaj-as-interim-secretary-following-delhi-hc-order/articleshow/93736289.cms",
+         "pubDate" : "Tue, 23 Aug 2022 14:11:26 +0000",
+         "title" : "AICF appoints Vipnesh as interim secretary following Delhi HC order"
+      },
+      {
+         "description" : "Jules Moussard claimed his first French championship while Almira Skripchenko (pictured) won a record seventh women's national title at the French championship which was held from August 13 to August 21 in Albi, southern France. Skripchenko, who was tied on six national titles with Sophie Milliet prior to this year's championship, defeated Natacha Benmesbah in the final round while Moussard got the better of Etienne Bacrot in a nail-biting encounter. | Photo: Lars OA Hedlund (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jules-moussard-and-almira-skripchenko-win-french-championships",
+         "pubDate" : "Tue, 23 Aug 2022 15:00:00 +0100",
+         "title" : "Jules Moussard and Almira Skripchenko win French Championships"
+      },
+      {
+         "description" : " The 'Greek Gift' is the well known sacrifice on h7, followed by Ng5+. Although it is thought to be named after the Trojan Horse, the odd thing is that it is the Bishop which is sacrificed, not the knight. Here is a recent game where the Bishop is also offered as a gift, but on h5 rather than h7. But like in the ancient myth, it is an offer that should not have been accepted. <br /> <b>White - Black [A83]</b><br />Gungahlin CC https://lichess.org/WpWIR21U, 23.08.2022 <script>new PgnViewer( { boardName: \"game1346\", movesFormat: \"default\", pgnString:'1.d4 f5 2.Nc3 Nf6 3.e4 fxe4 4.Bg5 e6 5.f3 Bb4 6.fxe4 d6 7.Nf3 O-O 8.e5 dxe5 9.Nxe5 h6 10.Bh4 g5 11.Qd3 gxh4 12.Qg6+ Kh8 13.Qxh6+ Kg8 14.Qg5+ Kh8 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/the-trojan-bishop.html",
+         "pubDate" : "Tue, 23 Aug 2022 13:15:00 +0000",
+         "title" : "The Trojan Bishop?"
+      },
+      {
+         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ Like many new year resolutions I have fallen behind in going over the puzzles from the &#8220;Chess 2022 Day-to-Day Calendar: A <a href=\"https://chessimprover.com/chess-2022-march-top-pics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Top Pics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-top-pics/\">Chess 2022 March Top Pics</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-2022-march-top-pics/",
+         "pubDate" : "Tue, 23 Aug 2022 11:37:31 +0000",
+         "title" : "Chess 2022 - March Top Pics"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1426,14 +1466,6 @@ news_feed (
          "title" : "\"He is not the only one crying\", Chess Olympiad 2022 is over"
       },
       {
-         "description" : "With Russia and China, two top teams were missing from the Women's Tournament at the Chess Olympiad in Chennai. So India was the top favourite and led the field for a long time. But in the last round, the Indians lost to the USA and Ukraine won gold ahead of Georgia while India had to be content with bronze. Oliwia Kiolbasa, who played on board three for Poland, had the best individual performance at the Olympiad, the two best players on board one were chess legend Pia Cramling from Sweden and young Eline Roebers from the Netherlands. | Photos: FIDE (Lennart Ootes, Stev Bonhage)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winners-of-the-44th-chess-olympiad-women-s-tournament",
-         "pubDate" : "Wed, 10 Aug 2022 11:38:33 +0100",
-         "title" : "The winners of the 44th Chess Olympiad (Women's Tournament)"
-      },
-      {
          "description" : "Do you know the Hippopotamus Defence. It is a series of irregular chess opening systems in which Black moves a number of pawns to the sixth rank, and keeps his pieces on the seventh rank. Many experts considered it basically losing, but it has maintained a solid fifty percent for Black, even at the highest level of competition. In the British Chess Magazine Raymond Keene reviews the book The Hippopotamus Defence by Italian IM Alessio de Santis on the subject. | Picture Samuele Giglio, Unsplash",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1920,14 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1902",
          "pubDate" : "Fri, 05 Aug 2022 17:44:11 +0000",
          "title" : "India A Women's team scores another thumping victory to extend sole lead"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93378843.cms\" /> If there's a poll done at the 44th Chess Olympiad on which team is the crowd favourite, Ukraine will win it hands down. Being a part of the former Soviet bloc, they are a strong team, but the emotional connection with this team is about the war that Ukraine has been subjected to since February due to the Russian invasion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-a-happy-diversion-for-besieged-ukraine-players/articleshow/93378843.cms",
-         "pubDate" : "Fri, 05 Aug 2022 17:38:52 +0000",
-         "title" : "Chess Olympiad a happy diversion for besieged Ukraine players"
       },
       {
          "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
