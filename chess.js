@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/17-year-old-nodirbek-abdusattorov-beats-fabiano-ca/",
          "pubDate" : "Tue, 02 Aug 2022 05:53:24 +0000",
          "title" : "Olympiad 2022: 17-year old Nodirbek Abdusattorov beats Fabiano Caruana"
-      },
-      {
-         "description" : " After 4 rounds of the 2022 Chess Olympiad, 5 teams still share first place with 4 wins from 4 matches. Spain, Armenia, England, Israel and India 2 are all on 8 match points, with India 2 ahead on tie-break. Top seeds USA and India are on 7 points (both having drawn yesterday), while Norway have fallen of the pace, despite a brilliant win by Magnus Carlsen against Mongolia on Board 1. The Australian Open team had a 4-0 win of Ecuador, putting them on 6 points. The play Belgium in round 5, a team they are seeded ahead of. A win in this match will likely seem them move into the top 20 reaching the halfway point of the tournament. The Women's team lost 3-1 to the highly ranked USA team, but it ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-4.html",
-         "pubDate" : "Tue, 02 Aug 2022 02:38:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 4"
       }
    ]
 }
