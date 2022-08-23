@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Ivan Sokolov is well-known for taking on challenging projects as a trainer. This year he turned his attention to the Uzbekistan team, a team that, like Iran (which Sokolov trained before), was very young. How did it so happen that the team surpassed all expectations and clinched the gold in the Chennai chess Olympiad? What was the role of Ivan Sokolov? How much time did he spend with the team? What were his training techniques? All of this and much more in this hour-long interview by IM Sagar Shah. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sokolov-interview-2022",
+         "pubDate" : "Tue, 23 Aug 2022 08:45:00 +0100",
+         "title" : "Sokolov: \"Abdusattorov has a lot of similarities to Magnus Carlsen\""
+      },
+      {
          "description" : "GM Hou Yifan defeated GM Valentina Gunina in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Gunina kicked off the match with a shocking six-game winning streak, but Hou made an equally astounding comeback in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1546,14 +1554,6 @@ news_feed (
          "title" : "Students Analysis (10)"
       },
       {
-         "description" : "For some time now, we've known that the strongest chess engines like to push their flank pawns up the board. This has led to an interesting system, with which we can meet the Grunfeld and the King's Indian. Studying the mainlines is time consuming, and it is possible that our opponents may know the typical plans in those openings better than us, right? Therefore, it is a great idea to take Grunfeld and King's Indian players out of their comfort-zone right from the start!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-3-h4-against-the-king-s-indian-and-gruenfeld",
-         "pubDate" : "Tue, 09 Aug 2022 14:00:00 +0100",
-         "title" : "New - 3.h4 against the King's Indian and Gr&uuml;nfeld"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2072,14 +2072,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/2/ep-290-dutch-trainer-and-author-im-jeroen-bosch-on-how-to-build-an-opening-repertoire",
          "pubDate" : "Tue, 02 Aug 2022 17:09:40 +0000",
          "title" : "EP 290- Dutch Trainer and Author IM Jeroen Bosch on How to Build an Opening Repertoire "
-      },
-      {
-         "description" : " <p class=\"lead\">Monday's round in the 44th Chess Olympiad was certainly eventful with Uzbekistan holding the strongest team USA to a draw after 17-year-old Nodirbek Abdusattorov beat Fabiano Caruana on board 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Nodirbek-Abdusattorov-beats-Fabiano-Caruana.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/lennartootes/\">Lennart Ootes</a> // FIDE</div> </div> The chess world applauded Uzbeki GM Nodirbek Abdusattorov earlier in 2021 after beating the World Champion and dethroning him as the World Rapid Champion. Abdusattorov not only became <a href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/17-year-old-nodirbek-abdusattorov-beats-fabiano-ca/",
-         "pubDate" : "Tue, 02 Aug 2022 05:53:24 +0000",
-         "title" : "Olympiad 2022: 17-year old Nodirbek Abdusattorov beats Fabiano Caruana"
       }
    ]
 }
