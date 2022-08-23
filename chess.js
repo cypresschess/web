@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on a topic of his choice. 2022.08.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdrv08xfk6I.jpg?itok=CO4O3yWT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi-lichessorg",
+         "pubDate" : "Tue, 23 Aug 2022 21:15:34 +0000",
+         "title" : "Exciting Sicilian! | Grandmaster's Choice - GM Elshan Moradiabadi | lichess.org"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -58,7 +66,15 @@ news_feed (
          "title" : "Jules Moussard and Almira Skripchenko win French Championships"
       },
       {
-         "description" : " The 'Greek Gift' is the well known sacrifice on h7, followed by Ng5+. Although it is thought to be named after the Trojan Horse, the odd thing is that it is the Bishop which is sacrificed, not the knight. Here is a recent game where the Bishop is also offered as a gift, but on h5 rather than h7. But like in the ancient myth, it is an offer that should not have been accepted. <br /> <b>White - Black [A83]</b><br />Gungahlin CC https://lichess.org/WpWIR21U, 23.08.2022 <script>new PgnViewer( { boardName: \"game1346\", movesFormat: \"default\", pgnString:'1.d4 f5 2.Nc3 Nf6 3.e4 fxe4 4.Bg5 e6 5.f3 Bb4 6.fxe4 d6 7.Nf3 O-O 8.e5 dxe5 9.Nxe5 h6 10.Bh4 g5 11.Qd3 gxh4 12.Qg6+ Kh8 13.Qxh6+ Kg8 14.Qg5+ Kh8 ",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1921",
+         "pubDate" : "Tue, 23 Aug 2022 13:32:48 +0000",
+         "title" : "World Youth U-16 Chess Olympiad: Registration deadline extended "
+      },
+      {
+         "description" : " The 'Greek Gift' is the well known sacrifice on h7, followed by Ng5+. Although it is thought to be named after the Trojan Horse, the odd thing is that it is the Bishop which is sacrificed, not the knight. Here is a recent game where the Bishop is also offered as a gift, but on h5 rather than h7. But like in the ancient myth, it is an offer that should not have been accepted. <br /> <b>White - Black [A83]</b><br />Gungahlin CC, 23.08.2022 <script>new PgnViewer( { boardName: \"game1346\", movesFormat: \"default\", pgnString:'1.d4 f5 2.Nc3 Nf6 3.e4 fxe4 4.Bg5 e6 5.f3 Bb4 6.fxe4 d6 7.Nf3 O-O 8.e5 dxe5 9.Nxe5 h6 10.Bh4 g5 11.Qd3 gxh4 12.Qg6+ Kh8 13.Qxh6+ Kg8 14.Qg5+ Kh8 15.Qxh4+ Nh7 16.Nf7+ 1-0', pa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/08/the-trojan-bishop.html",
@@ -90,20 +106,20 @@ news_feed (
          "title" : "New: Chess Classics - games you must know"
       },
       {
+         "description" : "GM Ivan Sokolov is well-known for taking on challenging projects as a trainer. This year he turned his attention to the Uzbekistan team, a team that, like Iran (which Sokolov trained before), was very young. How did it so happen that the team surpassed all expectations and clinched the gold in the Chennai chess Olympiad? What was the role of Ivan Sokolov? How much time did he spend with the team? What were his training techniques? All of this and much more in this hour-long interview by IM Sagar Shah. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sokolov-interview-2022",
+         "pubDate" : "Tue, 23 Aug 2022 09:15:00 +0100",
+         "title" : "Sokolov: \"Abdusattorov has a lot of similarities to Magnus Carlsen\""
+      },
+      {
          "description" : "...but holding a difficult rook endgame at the board is often not easy. In the diagrammed position Black is a pawn down but can draw with precise play. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rook-endings-are-always-drawn",
          "pubDate" : "Tue, 23 Aug 2022 09:00:00 +0100",
          "title" : "Rook endings are always drawn..."
-      },
-      {
-         "description" : "GM Ivan Sokolov is well-known for taking on challenging projects as a trainer. This year he turned his attention to the Uzbekistan team, a team that, like Iran (which Sokolov trained before), was very young. How did it so happen that the team surpassed all expectations and clinched the gold in the Chennai chess Olympiad? What was the role of Ivan Sokolov? How much time did he spend with the team? What were his training techniques? All of this and much more in this hour-long interview by IM Sagar Shah. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sokolov-interview-2022",
-         "pubDate" : "Tue, 23 Aug 2022 08:45:00 +0100",
-         "title" : "Sokolov: \"Abdusattorov has a lot of similarities to Magnus Carlsen\""
       },
       {
          "description" : "GM Hou Yifan defeated GM Valentina Gunina in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Gunina kicked off the match with a shocking six-game winning streak, but Hou made an equally astounding comeback in ...",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "Giri-Carlsen, Pragg-Firouzja in FTX Crypto Cup"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1921",
-         "pubDate" : "Mon, 15 Aug 2022 10:32:48 +0000",
-         "title" : "World Youth U-16 Chess Olympiad: Registration deadline extended "
-      },
-      {
          "description" : "How fast and how reliably can strong chess players recognize chess positions? How good are world-class grandmasters at identifying games? And how do they compare with amateurs in this respect. The very successful science and engineering channel Veritasium has picked up this subject and made a very interesting video on it. To which we add our own research, conducted almost forty years ago.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1918",
          "pubDate" : "Wed, 10 Aug 2022 00:16:16 +0000",
          "title" : "Mikheil Chkhenkeli granted an honorary award by FIDE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at what can be learned from the 44th Chess Olympiad in Chennai. 2022.08.09<br /> Sam Shankland vs Sunilduth Lyna Narayanan, 44th Olympiad (2022): E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2351907\">https://www.chessgames.com/perl/chessgame?gid=2351907</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lessons-olympiad-road-2000-nm-caleb-denby-lichessorg\"><img src=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lessons-olympiad-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 10 Aug 2022 00:03:55 +0000",
-         "title" : "Lessons from the Olympiad | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai with the Closing ceremony. After a dramatic finish, Uzbekistan won the Open event and Ukraine claimed gold of the Women's tournament. Uzbekistan defeated Netherlands in the last round with a narrow 2.5-1.5 victory, while Armenia took a victory over Spain to join them on the top with 19 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/\">Read More &#187;</a></span>",
