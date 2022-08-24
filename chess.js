@@ -18,7 +18,7 @@ news_feed (
          "title" : "Belgian Championship 2022: Daniel Dardha clinches third title"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares the most famous handicap games, where a weaker player is given a time or material advantage. 2022.08.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/famous-odds-games-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atH_S-xvfFE.jpg?itok=TVHHh4QI\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares the most famous handicap games, where a weaker player is given a time or material advantage. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/famous-odds-games-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atH_S-xvfFE.jpg?itok=TVHHh4QI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/famous-odds-games-road-2000-nm-caleb-denby-lichessorg",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://aicf.in/asian-school-chess-championship-2022-postponed/",
          "pubDate" : "Wed, 03 Aug 2022 06:04:52 +0000",
          "title" : "Asian School Chess Championship 2022 - Postponed"
-      },
-      {
-         "description" : " At the end of round 5 of the 2022 Chess Olympiad, only 2 teams remain on a perfect score. India 2 defeated Spain 2.5-1.5, while Armenia beat England by a similar score*. So there is an Indian team leading the home Olympiad, just not the one that was expected. Tied for third are India 1, USA and a couple of surprises in Uzbekistan and Cuba. Norway bounced back form a couple of poor (and in one case lucky) rounds, to beat Zambia 3.5-0.5 Australia missed a chance to stay in the top 10, drawing with the lower seeded Belgium 2-2. GM Justin Tan suffered his first loss of the tournament, but this was balanced out by a win for GM Zong Yuan Zhao. As a result the Australians now face Norway in Round ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-5.html",
-         "pubDate" : "Wed, 03 Aug 2022 02:33:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 5"
       }
    ]
 }
