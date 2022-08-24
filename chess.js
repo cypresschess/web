@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1938",
+         "pubDate" : "Wed, 24 Aug 2022 21:39:44 +0000",
+         "title" : "Vincent Keymer wins German Masters 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Niemann) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-2",
+         "pubDate" : "Wed, 24 Aug 2022 18:16:45 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates a beautiful thematic Sicilian knight sacrifice and attack! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-sac-and-attack-versus-sicilian\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-sac-and-attack-versus-sicilian",
+         "pubDate" : "Wed, 24 Aug 2022 18:16:45 +0000",
+         "title" : "How to Sac and Attack versus the Sicilian"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #530 Merijn van Delft looks at a fine attacking game by the young German Grandmaster Frederik Svane. At the German Masters Svane won against Daniel Fridman, a player who is notoriously hard to beat. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-530-f-svane-vs-d-fridman",
+         "pubDate" : "Wed, 24 Aug 2022 19:00:00 +0100",
+         "title" : "Game of the Week #530: F. Svane vs D. Fridman"
+      },
+      {
+         "description" : "Play Magnus Group (PMG), that includes chess24, has received an offer from Chess.com that may see the two companies join forces. The offer values PMG at around $82.5 million and will take around two months to finalise, subject to shareholder approval and other closing conditions. Magnus Carlsen commented, \"now we are entering a new era, and the combination of these two companies creates opportunities for the game of chess that no-one has imagined before\".",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/play-magnus-group-receives-chess-com-offer",
+         "pubDate" : "Wed, 24 Aug 2022 17:14:42 +0000",
+         "title" : "Play Magnus Group receives Chess.com offer"
+      },
+      {
+         "description" : "GM-elect Tuan Minh Le won the early Titled Tuesday on August 23 with 9.5/11 and the best tiebreaks ahead of GMs Dmitry Andreikin and Aleskandr Lenderman. In the late event, GM Daniil Dubov finished first in the late event ahead of GM Jeffery Xiong...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-dubov-win-titled-tuesday-august-23-2022",
+         "pubDate" : "Wed, 24 Aug 2022 10:05:00 -0700",
+         "title" : "Magnus Crashes Titled Tuesday Again"
+      },
+      {
          "description" : "Beating weaker opponents is important for having success in chess, and the better you play, the more important this skill is. However, even Magnus Carlsen (pictured), the world's number one since July 2011, sometimes goes wrong when facing much lower-rated opponents. In the 13th installment of his \"Winning Academy\" Jan Markos takes a look at typical mistakes that often occur when facing weaker opponents and indicates how to correct them. | Photo: Magnus Carlsen in Wijk aan Zee 2015 | Photo: Nadja Wittmann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/lami-and-van-den-berg-head-mec/",
          "pubDate" : "Wed, 24 Aug 2022 12:39:59 +0100",
          "title" : "L'Ami and van den Berg head MEC together"
-      },
-      {
-         "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Only 600 Certificates are updated so far",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
-         "pubDate" : "Wed, 24 Aug 2022 11:19:18 +0000",
-         "title" : "Olympiad Curtain Raiser Certificates are out to dwonload"
       },
       {
          "description" : "The 2022 European Women's Chess Championship is taking place on August 20-31 at the Don Giovanni Hotel in Prague, Czech Republic. The tournament is an 11-round Swiss open with 123 participants from 28 different countries. After four rounds, eight players are tied for first place with 3&frac12;/4 scores. Azerbaijan, with three players, is the country with the largest number of representatives in the leading pack. | Photo: ECU",
@@ -898,7 +938,7 @@ news_feed (
          "title" : "Build Your Sicilian Taimanov Repertoire | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, join a host TBA for the opening ceremony and drawing of lots for the 2022 Saint Louis Rapid &amp; Blitz. The field is: Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Rapport, Mamedyarov, Nakamura, and Shankland. Play begins Friday, August 26 at 12:50 P.M. CDT. 2022.08.25<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-openin",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, join a host TBA for the opening ceremony and drawing of lots for the 2022 Saint Louis Rapid &amp; Blitz. The field is: Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Mamedyarov, Nakamura, Shankland, and Niemann. Play begins Friday, August 26 at 12:50 P.M. CDT. 2022.08.25<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-openin",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-opening-ceremony",
@@ -1000,22 +1040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r2",
          "pubDate" : "Wed, 17 Aug 2022 07:55:00 +0100",
          "title" : "FTX Crypto Cup: Carlsen and Pragg in the lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby analyzes the game with the controversial interruption, Hans Niemann vs. Jan-Krzysztof Duda, from the 2022 FTX Crypto Cup, a tournament in the Champions Chess Tour. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1osKY1L8q6I.jpg?itok=IwAm8-7f\" alt=\"\" /></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 17 Aug 2022 03:09:22 +0000",
-         "title" : "Controversy at the FTX Crypto Cup! | Road to 2000 - NM Caleb Denby"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby equips you with the tools to get on the road to a 2000 chess rating. 2022.08.16<br /> Hans Moke Niemann vs Jan-Krzysztof Duda, FTX Crypto Cup (2022): E60 King&#039;s Indian, 3.g3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2356851\">https://www.chessgames.com/perl/chessgame?gid=2356851</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://sain",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/controversy-ftx-crypto-cup-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Wed, 17 Aug 2022 00:09:27 +0000",
-         "title" : "Controversy at the FTX Crypto Cup! | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "The exciting finals of the 2022 Rapid Chess Championship begin on August 18. That means it&#39;s time for another bracket contest! This time, it&#39;s a double elimination bracket&#38;mdash;you will really have to be on your game to make the best selections t...",
@@ -1258,14 +1282,6 @@ news_feed (
          "title" : "Endgames from Chennai (4)"
       },
       {
-         "description" : "GM Ivan Sokolov, a former top player himself, was the coach of the gold-winning Uzbek team at the Olympiad in Chennai, India. In an interview with Chess.com, the Dutch-Bosnian grandmaster reveals what it&#39;s like to work with prodigies who have taug...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/captain-ivan-sokolov-coach-uzbekistan-olympiad",
-         "pubDate" : "Sat, 13 Aug 2022 12:16:00 -0700",
-         "title" : "Interview: Captain Ivan Sokolov On Coaching Gold-Winning Uzbek Chess Squad"
-      },
-      {
          "description" : " There were a number of very quick games at the 2022 Chess Olympiad, although some were just ended with a simple blunder. This one was a little more subtle, with White missing an in between move that brought the game to an abrupt finish. <br /> <br /> <b>Mannhart,Marcel (2110) - Van den Brink,Peter (2167) [B23]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (10.1), 08.08.2022 <script>new PgnViewer( { boardName: \"game1341\", movesFormat: \"default\", pgnString:'1.Nc3 c5 2.e4 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Be3 Nc6 6.Qd2 Bg7 7.f3 d6 8.Bh6 Bxh6 9.Qxh6 Be6 10.O-O-O Qa5 11.Kb1 O-O-O 12.Qd2 d5 13.Nxd5 Nxd5 14.Qxa5 Nc3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1456,14 +1472,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/11/2022-chess-olympiad-closing-ceremonies/",
          "pubDate" : "Thu, 11 Aug 2022 14:34:02 +0000",
          "title" : "2022 Chess Olympiad: Closing Ceremonies"
-      },
-      {
-         "description" : "Andr&eacute; Hollstein is a professor for information technology and digitisation at the International University of Applied Sciences (with over 90,000 enrolled students). In a podcast for his students and for the general public he interviewe ChessBase co-founder Frederic Friedel. The subject of their discussion: the digitization of chess, and the revolutionary changes ChessBase brought to the game. The podcast is in German, but Andr&eacute; sent us a full English transcript.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-and-digitalization-2",
-         "pubDate" : "Thu, 11 Aug 2022 08:47:17 +0100",
-         "title" : "Chess and digitalization"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93490948.cms\" />With a bronze medal in each section, the Chess Olympiad for first-time hosts India was a success. But even the medals warrant some stock-taking and post mortem.",
@@ -2018,52 +2026,12 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 6"
       },
       {
-         "description" : "World Champion Magnus Carlsen will be joined by Alireza Firouzja, Levon Aronian, Anish Giri, Jan-Krzysztof Duda, Liem Le, Hans Niemann and Praggnanandhaa for the FTX Crypto Cup, taking place in Miami, Florida from August 15-21. The 2nd Major on the 2022 Meltwater Champions Chess Tour features a $210,000 prize fund plus a $100,000 bitcoin bonus.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-tops-ftx-crypto-cup-line-up",
-         "pubDate" : "Thu, 04 Aug 2022 09:09:23 +0000",
-         "title" : "Magnus Carlsen tops FTX Crypto Cup line-up"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Last week we looked at a graduation puzzle and the solutions received from three of my students. None of the solutions led me to believe they <a href=\"https://chessimprover.com/students-analysis-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-9/\">Students Analysis (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/students-analysis-9/",
          "pubDate" : "Thu, 04 Aug 2022 04:03:42 +0000",
          "title" : "Students Analysis (9)"
-      },
-      {
-         "description" : "After six played rounds at the 44th Chess Olympiad 2022 in Chennai, teams of Armenia and India emerged as the sole leaders of Open and Women's sections, respectively, scoring the maximum 12 match points. In the tense sixth round, Armenia defeated India 2 taking a narrow 2.5-1.5 victory. Gukesh D won the game for India's team B and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/armenia-and-india-in-the-sole-lead-after-6-played-rounds-at-the-44th-chess-olympiad/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/armenia-and-india-in-the-sole-lead-after-6-played-rounds-at-the-44th-chess-olympiad/",
-         "pubDate" : "Wed, 03 Aug 2022 21:05:22 +0000",
-         "title" : "Armenia and India in the sole lead after 6 played rounds at the 44th Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1901",
-         "pubDate" : "Wed, 03 Aug 2022 20:27:28 +0000",
-         "title" : "Indian eves crush Georgia to jump into sole lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1899",
-         "pubDate" : "Wed, 03 Aug 2022 17:21:27 +0000",
-         "title" : "South Korea to bid for the FIDE World Cup 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1900",
-         "pubDate" : "Wed, 03 Aug 2022 17:17:36 +0000",
-         "title" : "Triple-gold Armenia leads the Olympiad halfway"
       }
    ]
 }
