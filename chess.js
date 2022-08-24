@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Beating weaker opponents is important for having success in chess, and the better you play, the more important this skill is. However, even Magnus Carlsen (pictured), the world's number one since July 2011, sometimes goes wrong when facing much lower-rated opponents. In the 13th installment of his \"Winning Academy\" Jan Markos takes a look at typical mistakes that often occur when facing weaker opponents and indicates how to correct them. | Photo: Magnus Carlsen in Wijk aan Zee 2015 | Photo: Nadja Wittmann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-13-facing-a-weaker-opponent-avoid-these-mistakes",
+         "pubDate" : "Wed, 24 Aug 2022 17:00:00 +0100",
+         "title" : "The Winning Academy 13: Facing a Weaker Opponent? Avoid these mistakes!"
+      },
+      {
+         "description" : "Chess.com is excited to announce that we have submitted an offer for Play Magnus Group (PMG) to join Chess.com. Magnus Carlsen and the management at Play Magnus are enthusiastic and have accepted the offer. We expect that it will take about 6-8 we...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-playmagnus",
+         "pubDate" : "Wed, 24 Aug 2022 07:34:00 -0700",
+         "title" : "Chess.com Makes Offer To Play Magnus Group"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong><a href=\"https://maxeuwe.nl/en/home-english/\">Max Euwe Centrum</a></strong>'s long-term director <strong>Eddy Sibbing</strong> has retired, <a href=\"https://maxeuwe.nl/erwin-lami-en-jeroen-van-den-berg-volgen-eddy-sibbing-op-als-manager-max-euwe-centrum/\">his job is now shared</a> by grandmaster <strong>Erwin l'Ami</strong> and <strong>TataSteelChess</strong> organiser <strong>Jeroen van den Berg</strong>. Chairman of the Amsterdam institution remains grandmaster <strong>Paul van der Sterren</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/lami-and-van-den-berg-head-mec/",
+         "pubDate" : "Wed, 24 Aug 2022 12:39:59 +0100",
+         "title" : "L'Ami and van den Berg head MEC together"
+      },
+      {
          "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Only 600 Certificates are updated so far",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
          "pubDate" : "Wed, 24 Aug 2022 11:19:18 +0000",
          "title" : "Olympiad Curtain Raiser Certificates are out to dwonload"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong><a href=\"https://maxeuwe.nl/en/home-english/\">Max Euwe Centrum</a></strong>'s long-term director <strong>Eddy Sibbing</strong> has retired, <a href=\"https://maxeuwe.nl/erwin-lami-en-jeroen-van-den-berg-volgen-eddy-sibbing-op-als-manager-max-euwe-centrum/\">his job is now shared</a> by grandmaster <strong>Erwin l'Ami</strong> and <strong>TataSteelChess</strong> organiser Jeroen van den Berg. Chairman of the Amsterdam-based institution remains grandmaster <strong>Paul van der Sterren</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/lami-and-van-den-berg-head-mec/",
-         "pubDate" : "Wed, 24 Aug 2022 10:02:13 +0100",
-         "title" : "L'Ami and van den Berg head MEC together"
       },
       {
          "description" : "The 2022 European Women's Chess Championship is taking place on August 20-31 at the Don Giovanni Hotel in Prague, Czech Republic. The tournament is an 11-round Swiss open with 123 participants from 28 different countries. After four rounds, eight players are tied for first place with 3&frac12;/4 scores. Azerbaijan, with three players, is the country with the largest number of representatives in the leading pack. | Photo: ECU",
@@ -1458,14 +1474,6 @@ news_feed (
          "title" : "Chess Olympiad: Post euphoria, time to make next move"
       },
       {
-         "description" : "An important part of chess is about conquering squares! But what do you do once you have gained control over them? How can the advantage of a new stronghold be exploited? All this and much more is shown on this DVD by one of the top five trainers in the world. He tells us how to create weaknesses, how to conquer and exploit important squares, and other related techniques. His package of three DVDs is available in our Discount Week for €49.90 instead of €69.90. Learn from GM Mikhalchishin now.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deal-of-the-week-adrian-mikhalchishin-russian-grandmaster-school",
-         "pubDate" : "Wed, 10 Aug 2022 20:00:00 +0100",
-         "title" : "Deal of the week: Adrian Mikhalchishin Russian Grandmaster School"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93485958.cms\" />India not only hosted what's arguably one of the best editions of the chess Olympiad --- which concluded on Sunday --- but also delivered its strongest-ever show in the competition by winning two bronze medals. The high point of the tournament from India's point of view was young gun D Gukesh's splendid show.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-appreciates-tamil-nadu-people-government-for-being-excellent-hosts-for-chess-olympiad/articleshow/93484509.cms",
          "pubDate" : "Wed, 10 Aug 2022 15:25:10 +0000",
          "title" : "PM Modi appreciates Tamil Nadu people, government for being 'excellent' hosts for Chess Olympiad"
-      },
-      {
-         "description" : "GM Dmitry Andreikin won the late Titled Tuesday event on August 9 with a nearly perfect 10.5/11 score, after GM Alexey Sarana had staged an improbable comeback in the early tournament. GM Hikaru Nakamura rode a 9/9 start to a tie for first (second...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-andreikin-win-titled-tuesday-august-9-2022",
-         "pubDate" : "Wed, 10 Aug 2022 08:17:00 -0700",
-         "title" : "Comebacks and Near-Perfection On Display Tuesday"
       },
       {
          "description" : "",
@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1900",
          "pubDate" : "Wed, 03 Aug 2022 17:17:36 +0000",
          "title" : "Triple-gold Armenia leads the Olympiad halfway"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1898",
-         "pubDate" : "Wed, 03 Aug 2022 12:04:34 +0000",
-         "title" : "Women in Chess to be celebrated at FIDE's first Queens Awards"
       }
    ]
 }
