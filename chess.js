@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Vladimir Fedoseev defeated GM Eric Hansen in the Qualifier 1 final of the 2022 Fischer Random World Championship on Wednesday. These two imaginative and tenacious players fought to an armageddon playoff in this captivating chess variant. The ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d3",
+         "pubDate" : "Wed, 24 Aug 2022 14:56:00 -0700",
+         "title" : "Fedoseev Triumphs In An 'Absolutely Different World'"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sokolov-middlegames-king-on-f8",
          "pubDate" : "Sun, 14 Aug 2022 23:50:00 +0100",
          "title" : "A middlegame lesson by Ivan Sokolov: The king on f8"
-      },
-      {
-         "description" : "This is our quick summary report. Check out our full report after Sunday&#39;s knockout tournament. GM Ian Nepomniachtchi&#38;nbsp;won the week 25 Swiss of the Rapid Chess Championship presented by Coinbase. Participating in the event were 48 competit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-25-swiss",
-         "pubDate" : "Sun, 14 Aug 2022 08:20:23 -0700",
-         "title" : "Nepomniachtchi Wins Week 25 Swiss: Summary Report"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 89th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
