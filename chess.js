@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2022 European Women's Chess Championship is taking place on August 20-31 at the Don Giovanni Hotel in Prague, Czech Republic. The tournament is an 11-round Swiss open with 123 participants from 28 different countries. After four rounds, eight players are tied for first place with 3&frac12;/4 scores. Azerbaijan, with three players, is the country with the largest number of representatives in the leading pack. | Photo:",
+         "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Only 600 Certificates are updated so far",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
+         "pubDate" : "Wed, 24 Aug 2022 11:19:18 +0000",
+         "title" : "Olympiad Curtain Raiser Certificates are out to dwonload"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong><a href=\"https://maxeuwe.nl/en/home-english/\">Max Euwe Centrum</a></strong>'s long-term director <strong>Eddy Sibbing</strong> has retired, <a href=\"https://maxeuwe.nl/erwin-lami-en-jeroen-van-den-berg-volgen-eddy-sibbing-op-als-manager-max-euwe-centrum/\">his job is now shared</a> by grandmaster <strong>Erwin l'Ami</strong> and <strong>TataSteelChess</strong> organiser Jeroen van den Berg. Chairman of the Amsterdam-based institution remains grandmaster <strong>Paul van der Sterren</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/lami-and-van-den-berg-head-mec/",
+         "pubDate" : "Wed, 24 Aug 2022 10:02:13 +0100",
+         "title" : "L'Ami and van den Berg head MEC together"
+      },
+      {
+         "description" : "The 2022 European Women's Chess Championship is taking place on August 20-31 at the Don Giovanni Hotel in Prague, Czech Republic. The tournament is an 11-round Swiss open with 123 participants from 28 different countries. After four rounds, eight players are tied for first place with 3&frac12;/4 scores. Azerbaijan, with three players, is the country with the largest number of representatives in the leading pack. | Photo: ECU",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/eiwcc-2022-r4",
@@ -18,11 +34,19 @@ news_feed (
          "title" : "Chess: Harry Grieve, 21, wins British championship as seven-year-old shines"
       },
       {
+         "description" : "125 players from 27 European federations registered for the European Women Chess Championship 2022, with 7 Grandmasters, 21 International masters, 23 Women grandmasters, 28 Women International masters and a total of 108 titled players. The top 10 seeded players are: GM Dzagnidze Nana (GEO, 2531), IM Javakhishvili Lela (GEO, 2476), GM Stefanova Antoaneta (ECU, 2472), []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-women-chess-championship-2022-live/",
+         "pubDate" : "Wed, 24 Aug 2022 06:57:00 +0000",
+         "title" : "European Women Chess Championship 2022 LIVE"
+      },
+      {
          "description" : "GMs Eric Hansen&#38;nbsp;and Vladimir Fedoseev advanced to the Qualifier 1 final of the 2022 Fischer Random World Championship on Tuesday. Though they achieved the same result, the two players had vastly different journeys. Hansen literally danced to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d2",
-         "pubDate" : "Tue, 23 Aug 2022 21:43:12 -0700",
+         "pubDate" : "Tue, 23 Aug 2022 21:43:00 -0700",
          "title" : "Hansen Dances to 4-0, Fedoseev Fights to Final"
       },
       {
@@ -122,6 +146,14 @@ news_feed (
          "title" : "The Trojan Bishop?"
       },
       {
+         "description" : "The 2022-2023 series of Women&#x2019;s Grand Prix tournaments&#160;features four events which will be held between August 2022 and June 2023. 1st WGP event: 17 &#x2013; 30 September 2022, Nursultan, Kazakhstan; 2nd WGP event: 1 &#x2013; 14 February 2023, Munich, Germany 3rd WGP event: March 2023, India 4th WGP event: May 2023, Bydgoscz, Poland Each tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023-final-list-of-participants-and-players-allocation/",
+         "pubDate" : "Tue, 23 Aug 2022 11:54:00 +0000",
+         "title" : "FIDE Women's Grand Prix 2022-2023 - Final list of participants and players allocation"
+      },
+      {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ Like many new year resolutions I have fallen behind in going over the puzzles from the &#8220;Chess 2022 Day-to-Day Calendar: A <a href=\"https://chessimprover.com/chess-2022-march-top-pics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Top Pics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-top-pics/\">Chess 2022 March Top Pics</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -144,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chess-classics-games-you-must-know",
          "pubDate" : "Tue, 23 Aug 2022 12:00:00 +0100",
          "title" : "New: Chess Classics - games you must know"
+      },
+      {
+         "description" : "FIDE, Azerbaijan Chess Federation and Chess Federation of Nakhchivan Autonomous Republic invite all the national chess federations to participate in the FIDE World Youth U-16 Chess Olympiad 2022, which will take place in Nakhchivan, Azerbaijan, from October 1-11, 2022.&#160;&#160; Each FIDE member federation has the right to send one team. Each team shall comprise 4 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022/",
+         "pubDate" : "Tue, 23 Aug 2022 10:54:00 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad 2022"
       },
       {
          "description" : "GM Ivan Sokolov is well-known for taking on challenging projects as a trainer. This year he turned his attention to the Uzbekistan team, a team that, like Iran (which Sokolov trained before), was very young. How did it so happen that the team surpassed all expectations and clinched the gold in the Chennai chess Olympiad? What was the role of Ivan Sokolov? How much time did he spend with the team? What were his training techniques? All of this and much more in this hour-long interview by IM Sagar Shah. | Photo: Lennart Ootes",
@@ -354,14 +394,6 @@ news_feed (
          "title" : "European Amateur Chess Champions 2022 crowned in Zagreb"
       },
       {
-         "description" : "Do you feel lost against the English Opening, and struggle to reach even a half-decent position? If so, then you&#x2019;ll love this life-saver by Grandmaster Romain Edouard. Edouard was a former 2700+ grandmaster with an impressive string of tournament victories. He won the 2006 U16 European Youth Chess Championship, 2012 French Chess Championship, and 2012 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romain-edouard-play-against-1-c4/",
-         "pubDate" : "Sun, 21 Aug 2022 20:15:53 +0000",
-         "title" : "Romain Edouard - play against 1. c4"
-      },
-      {
          "description" : "Chess has an incredible history that dates back more than a millennia. As one of the oldest board games, chess is surrounded by tradition and grand story. From its origination in India to its diffusion and evolution around the world, chess has cap...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -376,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
          "pubDate" : "Sun, 21 Aug 2022 17:55:00 +0100",
          "title" : "FTX Crypto Cup: Games and standings"
-      },
-      {
-         "description" : "Magnus Carlsen, the world no. 1 for over a decade, is still the World Champion until 2023, and&#xA0;in his announcement that he wouldn&#x2019;t defend the title&#xA0;for a 5th time said of his plans, &#x201C;then to Miami to play one of the real highlights of the year, I feel, the FTX Crypto Cup, which is going []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ftx-crypto-cup-2022-live/",
-         "pubDate" : "Sun, 21 Aug 2022 14:05:00 +0000",
-         "title" : "FTX Crypto Cup 2022 LIVE"
       },
       {
          "description" : "The European Amateur Chess Championship 2022 took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess Champions. 17-year-old&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/\">Read More &#187;</a></span>",
@@ -402,28 +426,12 @@ news_feed (
          "title" : "Playing it safe"
       },
       {
-         "description" : "Felix Blohberger&#160;and&#160;Annika Froewis&#160;emerged as the winners of the Austrian Chess Championship 2022. The event was played in 9 rounds, Swiss system, with classical time control, and took place from August 12-19 in the Vienna Chess House. Both men and women competed in one event but were ranked separately, with the highest-scoring female player claiming the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-felix-blohberger-and-wfm-annika-froewis-win-austrian-chess-championship-2022/",
-         "pubDate" : "Sun, 21 Aug 2022 12:12:57 +0000",
-         "title" : "GM Felix Blohberger and WFM Annika Froewis win Austrian Chess Championship 2022"
-      },
-      {
          "description" : "Pushing the g-pawn early in the game has become so common that when GM Jon Speelman watches Shakhriyar Mamedyarov play, he feels tempted to bet with himself when 'the bayonet' will be deployed. This week's thematic column features a couple of classics (by Paul Keres and Alexei Shirov), an example from Mamedyarov's practice and a remarkable win by Richard Pert from the British Championship. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-176",
          "pubDate" : "Sun, 21 Aug 2022 13:00:00 +0100",
          "title" : "The ubiquitous bayonet"
-      },
-      {
-         "description" : "The 2022-2023 series of Women&#x2019;s Grand Prix tournaments&#160;features four events which will be held between August 2022 and June 2023. 1st WGP event: 17 &#x2013; 30 September 2022, Nursultan, Kazakhstan; 2nd WGP event: 1 &#x2013; 14 February 2023, Munich, Germany 3rd WGP event: March 2023, India 4th WGP event: May 2023, Bydgoscz, Poland Each tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023-final-list-of-participants-and-players-allocation/",
-         "pubDate" : "Sun, 21 Aug 2022 11:54:11 +0000",
-         "title" : "FIDE Women's Grand Prix 2022-2023 - Final list of participants and players allocation"
       },
       {
          "description" : "A field with well-established GMs and young stars is fighting it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller is following the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Anish Giri | Photo: Amruta Mokal",
@@ -1770,14 +1778,6 @@ news_feed (
          "title" : "Chennai Olympiad 9: Uzbekistan & Poland take over"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <a href=\"https://www.fide.com/news/1908\"><strong>Arkady Dvorkovich</strong> remains <strong>FIDE President</strong> until 2026 with 88% of the vote</a>. Only 16 federations voted for the Russian's only challenger, the Ukrainian GM <strong>Andrii Baryshpolets</strong>. Five federations abstained, one vote was invalid. <strong>Bachar Kouatly</strong> of France withdrew his candidacy just before the vote at the ongoing <strong>FIDE Congress</strong> in Chennai. In case of being sanctioned, Dvorkovich has pledged to step down. His deputy <strong>Vishy Anand</strong> would be interim president until new elections take place within six months. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/157-federations-reelect-russian/",
-         "pubDate" : "Sun, 07 Aug 2022 21:57:05 +0100",
-         "title" : "157 federations reelect Russian leader"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,22 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1898",
          "pubDate" : "Wed, 03 Aug 2022 12:04:34 +0000",
          "title" : "Women in Chess to be celebrated at FIDE's first Queens Awards"
-      },
-      {
-         "description" : " <p class=\"lead\">The 44th Chess Olympiad in Chennai, India is currently on Round 6 with India B and Armenia having a perfect 10/10 score at the Open Section. 16-year-old Gukesh and 17-year-old Abdusattorov are victorious so far, winning big against Alexei Shirov and Fabiano Caruana respectively. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.6704730831974\"> <img src=\"https://worldchess.com/news/pictures/1-14.jpg\" width=\"2048\" height=\"1226\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52249368558_42f5e7e23a_k.jpg\" width=\"2048\" height=\"1373\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52257390032_ba6e237382_k.jpg\" width=\"2048\" heigh",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/high-schoolers-are-ruling-the-44th-chess-olympiad/",
-         "pubDate" : "Wed, 03 Aug 2022 08:20:31 +0000",
-         "title" : "High-schoolers are ruling the 44th Chess Olympiad"
-      },
-      {
-         "description" : " <p class=\"lead\"><a href=\"https://chessarena.com\">FIDE Chess Arena</a>, the official gaming platform of the World Chess Federation, is adding challenges feature that allows players to challenge anyone who is active on the platform, including elite grandmasters and friends alike. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2560\" data-ratio=\"1.5667074663403\"> <img src=\"https://worldchess.com/news/pictures/challenge.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/challenge3.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/challenge4.jpg\" width=\"2560\" height=\"1634\" alt=\"\" /> </div> </div> Challen",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/challenge-anyone-on-fide-chess-arena-new-feature/",
-         "pubDate" : "Wed, 03 Aug 2022 08:17:13 +0000",
-         "title" : "Challenge Anyone on FIDE Chess Arena - New Feature"
       }
    ]
 }
