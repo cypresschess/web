@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 European Women's Chess Championship is taking place on August 20-31 at the Don Giovanni Hotel in Prague, Czech Republic. The tournament is an 11-round Swiss open with 123 participants from 28 different countries. After four rounds, eight players are tied for first place with 3&frac12;/4 scores. Azerbaijan, with three players, is the country with the largest number of representatives in the leading pack. | Photo:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2022-r4",
+         "pubDate" : "Wed, 24 Aug 2022 09:00:00 +0100",
+         "title" : "European Women's Championship: Crowded at the top"
+      },
+      {
+         "description" : " Cambridge student and Matthew Wadsworth battle for 75 moves in epic encounter, while Kushal Jakhria targets two world age records The final round game which decided the 2022 British championship at Torquay turned out to be a 75-move epic which had everything. Its protagonists were both Cambridge students: Harry Grieve, 21, mathematics, and Matthew Wadsworth, 22, economics. They were colleagues in their university chess club, but went for each other with zestful imagination in one of the best ever championship deciders. A sharp opening with a material imbalance was followed by a knight retreat from f3 to its starting square g1, two exchange sacrifices, a winning king march, four queens on th",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/aug/24/chess-harry-grieve-21-wins-british-championship-as-seven-year-old-shines",
+         "pubDate" : "Wed, 24 Aug 2022 07:00:28 +0000",
+         "title" : "Chess: Harry Grieve, 21, wins British championship as seven-year-old shines"
+      },
+      {
          "description" : "GMs Eric Hansen&#38;nbsp;and Vladimir Fedoseev advanced to the Qualifier 1 final of the 2022 Fischer Random World Championship on Tuesday. Though they achieved the same result, the two players had vastly different journeys. Hansen literally danced to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1448,14 +1464,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-show-at-chess-olympiad-was-just-breathless-viswanathan-anand/articleshow/93485958.cms",
          "pubDate" : "Wed, 10 Aug 2022 17:19:15 +0000",
          "title" : "Gukesh's show at Chess Olympiad was just breathless: Anand"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #528 Merijn van Delft looks at another impressive game played at the Chess Olympiad in Chennai: Gukesh's convincing win with Black against Fabiano Caruana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-528-caruana-vs-gukesh",
-         "pubDate" : "Wed, 10 Aug 2022 18:00:00 +0100",
-         "title" : "Game of the Week #528: Caruana vs Gukesh"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> India B and India's women team <a href=\"https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-honour-both-medal-winning-indian-chess-teams-with-1-crore-each/article65753052.ece\">each got awarded 10 million rupees</a>, equivalent of €120,000, for winning a medal at the <strong>Chess Olympiad</strong> in Mamallapuram by the government of Tamil Nadu. </div> ",
