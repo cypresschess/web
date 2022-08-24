@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Eric Hansen&#38;nbsp;and Vladimir Fedoseev advanced to the Qualifier 1 final of the 2022 Fischer Random World Championship on Tuesday. Though they achieved the same result, the two players had vastly different journeys. Hansen literally danced to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d2",
+         "pubDate" : "Tue, 23 Aug 2022 21:43:12 -0700",
+         "title" : "Hansen Dances to 4-0, Fedoseev Fights to Final"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares the most famous handicap games, where a weaker player is given a time or material advantage. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/famous-odds-games-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atH_S-xvfFE.jpg?itok=TVHHh4QI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/famous-odds-games-road-2000-nm-caleb-denby",
+         "pubDate" : "Wed, 24 Aug 2022 03:15:50 +0000",
+         "title" : "Famous Odds Games | Road to 2000 - NM Caleb Denby"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi shows Fabiano Caruana's exciting Sicilian defense games at the 2022 Chess Olympiad in Chennai. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabianos-exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdrv08xfk6I.jpg?itok=CO4O3yWT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabianos-exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi",
+         "pubDate" : "Wed, 24 Aug 2022 03:15:50 +0000",
+         "title" : "Fabiano's Exciting Sicilian! | Grandmaster's Choice - GM Elshan Moradiabadi"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on a topic of his choice. 2022.08.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdrv08xfk6I.jpg?itok=CO4O3yWT\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -962,14 +986,6 @@ news_feed (
          "title" : "Predict The Rapid Chess Championship Finals And Win"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/game-analysis-building-repertoire-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z5y7Qm_nu-o.jpg?itok=as9f19sw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/game-analysis-building-repertoire-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Tue, 16 Aug 2022 21:09:12 +0000",
-         "title" : "Game Analysis & Building Repertoire | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
          "description" : "Now that the Uzbekistan team has won the gold medal at the 2022 Chess Olympiad in Chennai, Ivan Sokolov may reflect on his greatest accomplishment as a coach. For ChessBase, the Grandmaster created the Fritztrainer series \"Understanding Middlegame Strategies.\" This week, we offer a summer bundle that includes all 4 episodes for only 69.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1538,14 +1554,6 @@ news_feed (
          "title" : "44th Chess Olympiad ends in a grand style :Uzbekistan & Ukraine bags team gold in open and women respectively , India 2 and India Women secured Bronze in Open & Women."
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby looks at the learning moments from a Sam Shankland game at the 44th Chess Olympiad in Chennai. 2022.08.09<br /> Sam Shankland vs Sunilduth Lyna Narayanan, 44th Olympiad (2022): E36 Nimzo-Indian, classical, Noa variation, 5.a3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2351907\">https://www.chessgames.com/perl/chessgame?gid=2351907</a> Re-uploaded. Original stream had 58 concurrent viewers. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lessons-olympiad-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 10 Aug 2022 03:04:07 +0000",
-         "title" : "Lessons from the Olympiad | Road to 2000 - NM Caleb Denby"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/uzbekistan-and-ukraine-win-chennai-olympiad",
          "pubDate" : "Tue, 09 Aug 2022 15:42:13 +0000",
          "title" : "Uzbekistan and Ukraine win Chennai Olympiad"
-      },
-      {
-         "description" : "Continuing with their good form in the event, Uzbekistan and Armenia prevailed over higher seeds Netherland and Spain respectively in the 11th and final round to tie for first-second places with 19 match points in the 44th FIDE Chess Olympiad, wit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-chess-olympiad-round-11",
-         "pubDate" : "Tue, 09 Aug 2022 08:39:00 -0700",
-         "title" : "Uzbekistan Wins Gold In Open; Ukraine In Women's; India Wins Gaprindashvili Cup"
       },
       {
          "description" : "",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/challenge-anyone-on-fide-chess-arena-new-feature/",
          "pubDate" : "Wed, 03 Aug 2022 08:17:13 +0000",
          "title" : "Challenge Anyone on FIDE Chess Arena - New Feature"
-      },
-      {
-         "description" : "The Asian School Chess Championship 2022 scheduled to be conducted at Kaluthara, Srilanka is postponed. Please wait for further announcement. Intimation: &#160; &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-school-chess-championship-2022-postponed/",
-         "pubDate" : "Wed, 03 Aug 2022 06:04:52 +0000",
-         "title" : "Asian School Chess Championship 2022 - Postponed"
       }
    ]
 }
