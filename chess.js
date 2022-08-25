@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1939",
+         "pubDate" : "Thu, 25 Aug 2022 21:37:41 +0000",
+         "title" : "Carlos Daniel Albornoz wins Mirandela Open 2022"
+      },
+      {
          "description" : "The 28th edition of the Abu Dhabi International Chess Festival concluded today in the United Arab Emirates with 18-year-old Arjun Erigaisi triumphing the Abu Dhabi Masters 2022 (Read more: Arjun Erigaisi wins Abu Dhabi Masters 2022). In the competition of 148 players from 28 countries, 21-year-old WGM Nilufar Yakubbaeva won the first women's prize scoring []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
