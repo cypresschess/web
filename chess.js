@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Jeffery Xiong (pictured) will replace Richard Rapport, who could not make it to Saint Louis due to travel restrictions related to Covid-19. | Photo: Austin Fuller (2021)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-preview",
+         "pubDate" : "Thu, 25 Aug 2022 02:50:00 +0100",
+         "title" : "Starting Friday: Saint Louis Rapid & Blitz"
+      },
+      {
          "description" : "GM Vladimir Fedoseev defeated GM Eric Hansen in the Qualifier 1 final of the 2022 Fischer Random World Championship on Wednesday. These two imaginative and tenacious players fought to an armageddon playoff in this captivating chess variant. The ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/lami-and-van-den-berg-head-mec/",
          "pubDate" : "Wed, 24 Aug 2022 12:39:59 +0100",
          "title" : "L'Ami and van den Berg head MEC together"
+      },
+      {
+         "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Only 600 Certificates are updated so far",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
+         "pubDate" : "Wed, 24 Aug 2022 11:19:18 +0000",
+         "title" : "Olympiad Curtain Raiser Certificates are out to download"
       },
       {
          "description" : "The 2022 European Women's Chess Championship is taking place on August 20-31 at the Don Giovanni Hotel in Prague, Czech Republic. The tournament is an 11-round Swiss open with 123 participants from 28 different countries. After four rounds, eight players are tied for first place with 3&frac12;/4 scores. Azerbaijan, with three players, is the country with the largest number of representatives in the leading pack. | Photo: ECU",
@@ -1440,14 +1456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-205-more-endgame-highlights-from-the-candidates-tournament-2",
          "pubDate" : "Thu, 11 Aug 2022 16:37:33 +0100",
          "title" : "Endgame Magic #206: Endgame highlights from the German Bundesliga"
-      },
-      {
-         "description" : "The French composer and pianist Jason Kouchak is an enthusiastic amateur chess player with considerable playing strength. He has taken part in various Opens, including the Open in Gibraltar in 2009, where he met a famous contemporary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meeting-boris-spassky",
-         "pubDate" : "Thu, 11 Aug 2022 16:25:00 +0100",
-         "title" : "Meeting Boris Spassky"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Uzbek President <strong>Shavkat Mirziyoyev</strong> has <a href=\"https://www.uzdaily.uz/en/post/74831\">praised</a> and awarded each member of the gold-winning Chess Olympiad team with $60,000 and a new car. After winning the Youth Chess Olympiad in 2018, the team members had already <a href=\"https://kun.uz/en/90066718\">picked up a smaller car each</a> even before having reached driving age. </div> ",
