@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After draws in games 14 and 15, Fischer still had a three-point lead in the World Championship match, and the Spassky side was getting nervous. The Champion was fighting hard, but not getting any points. Suspicion arose that Fischer might be using secret weapons: hypnosis, devices planted in the lights or the chairs, and even perhaps assistance from an \"IBM\" (Russian for \"computer\" at the time). All this was formally investigated, while Fischer continued to coast.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/50-years-ago-secret-weapons",
+         "pubDate" : "Thu, 25 Aug 2022 15:00:00 +0100",
+         "title" : "50 years ago: Fischer-Spassky, Secret weapons?"
+      },
+      {
+         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After five rounds Monika Socko from Poland is in sole lead with 4.5/5. Round 6 starts at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
+         "pubDate" : "Thu, 25 Aug 2022 14:50:00 +0100",
+         "title" : "European Women Chess Championship, Round 6 - Live"
+      },
+      {
+         "description" : "Dear All, Please note that the venue for National U-07 from 06-11 October 2022 will be held at Science city -Ahmedabad ,Gujarat .The updated circular",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-under-07-2022-venue-details/",
+         "pubDate" : "Thu, 25 Aug 2022 13:13:21 +0000",
+         "title" : "National Under 07 , 2022 : Venue details"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93779504.cms\" />Indian Grandmaster Arjun Erigaisi clinched the 28th Abu Dhabi Masters chess tournament, beating Spain's David Anton Guijjaro here on Thursday. The 18-year-old emerged victorious over the Spaniard in the ninth and final round with 7.5 points. Arjun also remained unbeaten through all the nine rounds and finished half a point ahead of Uzbekistan's Javokhir Sindarov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teenage-grandmaster-arjun-erigaisi-clinches-abu-dhabi-masters/articleshow/93779504.cms",
+         "pubDate" : "Thu, 25 Aug 2022 12:03:43 +0000",
+         "title" : "Indian teenage Grandmaster Arjun Erigaisi clinches Abu Dhabi Masters"
+      },
+      {
+         "description" : "The&#xA0;28th Abu Dhabi International Chess Festival&#xA0;took place from 17-25 August, 2022, in the United Arab Emirates with participation of 148 players from 31 countries. 18-year-old GM Arjun Erigaisi triumphed in the event scoring unbeaten 7.5/9 points. Erigaisi won the last round against GM David Anton Guijarro to emerge as the sole winner of the event. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-arjun-erigaisi-wins-abu-dhabi-masters-2022/",
+         "pubDate" : "Thu, 25 Aug 2022 11:41:22 +0000",
+         "title" : "GM Arjun Erigaisi wins Abu Dhabi Masters 2022"
+      },
+      {
          "description" : "Saint Louis Rapid and Blitz 2022, the fourth leg of the Grand Chess Tour 2022, starts tomorrow. Due to the continuing US travel restrictions related to Covid19, Richard Rapport will not able to play in the Saint Louis Rapid &#38; Blitz, nor the Sinquefield Cup. GM Jeffery Xiong will replace Rapport in the STL Rapid []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-vincent-keymer-wins-german-chess-masters-2022/",
          "pubDate" : "Thu, 25 Aug 2022 10:32:32 +0000",
          "title" : "GM Vincent Keymer wins German Chess Masters 2022"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz takes place 26th to 30th August starting at 1pm local time, 7pm UK time. Players: Alireza Firouzja, Fabiano Caruana, Levon Aronian, Shakhriyar Mamedyarov, Jeffery Xiong (replacing Richard Rapport who can't make it due to Covid-19 restrictions), Maxime Vachier-Lagrave, Leinier Dominguez, Ian Nepomniachtchi, Hikaru Nakamura andSam Shankland. Three days of Rapid and two of Blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2022",
+         "pubDate" : "Thu, 25 Aug 2022 13:55:00 +0400",
+         "title" : "Saint Louis Rapid & Blitz 2022 - Games and Results"
       },
       {
          "description" : "A field with well-established GMs and young stars fought it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller closely followed the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Levon Aronian | Photo: Amruta Mokal",
@@ -344,14 +392,6 @@ news_feed (
          "link" : "https://www.chessdom.com/mrdodgy-the-5-greatest-chess-interviews-ever/",
          "pubDate" : "Mon, 22 Aug 2022 20:23:00 +0000",
          "title" : "MrDodgy: The 5 Greatest Chess Interviews Ever"
-      },
-      {
-         "description" : "The autumn edition of the Offerspill Chess Tournament starts this Wednesday, August 24. The tournament is open to all members of the Norwegian Chess Federation and FIDE registered players. The maximum number of participants is 70. Official website of Offerspill Chess Club / Offerspill Twitter / Offerspill Facebook Contact and registration for Offerspill Autumn Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/offerspill-autumn-chess-tournament-2022/",
-         "pubDate" : "Mon, 22 Aug 2022 20:21:31 +0000",
-         "title" : "Offerspill Autumn Chess Tournament 2022"
       },
       {
          "description" : "In chess, you learn best by making mistakes. And best of all, through the mistakes of others - because that hurts less. That is the concept of Nicholas Pert, the English grandmaster, who is an experienced trainer and knows the problems at every chess level. In 3 Fritztrainer courses he presents the typical mistakes categorised according to playing strength in order to increase sensitivity to one's own sources of error. This week we offer all 3 courses as a bundle at a special price: instead of €79.90 this week only €59.90",
@@ -1418,14 +1458,6 @@ news_feed (
          "title" : "European Amateur Chess Championship 2022 starts in Zagreb"
       },
       {
-         "description" : "Daniel Eduardo Pulvett, born in Venezuela and now representing Spain, finished second at the Valencia International Open last month to grab his third GM norm. With a rating already above 2500, he is set to receive the grandmaster title. Pulvett, aged 31, has a ninety-percent visual impairment. He had grabbed his second GM norm only four months ago, at a closed tournament in Breña Baja, in the Canary Islands. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-pulvet-gm-title",
-         "pubDate" : "Fri, 12 Aug 2022 09:00:00 +0100",
-         "title" : "Visually impaired player Daniel Pulvett achieves GM title"
-      },
-      {
          "description" : " The New Zealand team finished on 10 points ( 5 wins and 6 losses) which was probably a disappointment for them. However there we some good individual performances, with Daniel Gong scoring 6.5/9 in Board 1, and missing an IM norm by half a point. The New Zealand Women's team exceeded expectations, finishing on 11 points, with not player scoring below 50%. Board 2 player WFM Vyanla Punsalan scored 8/10 to help to team finish with an impressive 27 game points. The battle between the smaller Oceania nations saw Guam, PNG and Palau all finish on 8 match points. Guam had the better tie break so claims the unofficial 'Islands' championship. The PNG team finished strongly after a slow start and ha",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1440,14 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1920",
          "pubDate" : "Thu, 11 Aug 2022 17:56:28 +0000",
          "title" : "FIDE releases Chess for Protection project Curriculum"
-      },
-      {
-         "description" : "This week Robert Ris will have a look at a fine attacking game by Max Warmerdam. The young Dutch Grandmaster used a popular line of a Ragozin-Hybrid to play one of the most spectacular games of the Chess Olympiad in Chennai. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-in-a-ragozin-hybrid",
-         "pubDate" : "Thu, 11 Aug 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Attacking in a Ragozin-Hybrid"
       },
       {
          "description" : " The 44th World Chess Olympiad took place in Chennai, India Friday 29th July to Wednesday 10th August. The top seeds were USA, India, Norway (with World Champion Magnus Carlsen), Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany and England. Missing are Russia and China. Play starts at 15:00 local time which is 10:30am UK time. The event was originally going to take place in Russia until their invasion of Ukraine and is the first Olympiad held since 2018. A youthful Uzbekistan squad took the Gold medal, the key match being against the India 2 team in Round 10. Armenia finished second and India 2 third, the India team finished fourth. In the women's event there was a really close battl",
@@ -1914,14 +1938,6 @@ news_feed (
          "title" : "44th Chess Olympiad: USA toppled by Indian teenagers"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93398050.cms\" />Grandmaster D Gukesh is on a giant-killing spree. The 16-year-old youngster registered his 8th successive victory at the ongoing 44th Olympiad on Saturday as World No. 5 and 2018 World championship challenger Fabiano Caruana lost to him in 45 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-d-gukesh-on-a-giant-killing-spree/articleshow/93398050.cms",
-         "pubDate" : "Sat, 06 Aug 2022 16:38:58 +0000",
-         "title" : "Chess Olympiad: D Gukesh on a giant-killing spree"
-      },
-      {
          "description" : "In the course of my global travels competing in chess tournaments , I once encountered a warning in Continental trains which has stuck in my mind: \"E pericoloso sporgersi.\" Basically it translates as: \"Don't stick your head out of the window!\" A couple of years ago I wrote a column enquiring whether playing chess might be []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2024,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1875",
          "pubDate" : "Thu, 04 Aug 2022 16:45:55 +0000",
          "title" : "FIDE Congress 2022"
-      },
-      {
-         "description" : " Australia was one of the big stories of Round 6, after beating third seeded Norway 2.5-1.5. World Champion Magnus Carlsen defeated Anton Smirnov on board 1, but wins for Kuybokarov and Cheng, plus a tough draw for Tan saw Australia get over the line. The win puts Australia in a tie for 14th place and a match against Iran in round 7. Armenia now lead the tournament after winning their 6th match in a row. Their next opponent is the USA, which now has former Armenian Number 1 Lev Aronian in their ranks. The Indian teams (all 3) continue to do well, and are in a large group of teams tied for third. India leads the Women's Olympiad with 12 points from 6 games. The Australian team was paired agai",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-6.html",
-         "pubDate" : "Thu, 04 Aug 2022 13:24:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 6"
       }
    ]
 }
