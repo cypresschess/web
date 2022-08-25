@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 28th edition of the Abu Dhabi International Chess Festival concluded today in the United Arab Emirates with 18-year-old Arjun Erigaisi triumphing the Abu Dhabi Masters 2022 (Read more: Arjun Erigaisi wins Abu Dhabi Masters 2022). In the competition of 148 players from 28 countries, 21-year-old WGM Nilufar Yakubbaeva won the first women's prize scoring []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wgm-nilufar-yakubbaeva-wins-first-womens-prize-at-the-abu-dhabi-masters/",
+         "pubDate" : "Thu, 25 Aug 2022 19:00:35 +0000",
+         "title" : "WGM Nilufar Yakubbaeva wins the first women's prize at the Abu Dhabi Masters"
+      },
+      {
          "description" : "This week Robert Ris will have a look at an interesting gambit which Black can use to spice things up after 1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4. With 4...e5!? Black indicates that he is ready to give a pawn to get good play. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chess-classics-games-you-must-know",
          "pubDate" : "Tue, 23 Aug 2022 12:00:00 +0100",
          "title" : "New: Chess Classics - games you must know"
-      },
-      {
-         "description" : "FIDE, Azerbaijan Chess Federation and Chess Federation of Nakhchivan Autonomous Republic invite all the national chess federations to participate in the FIDE World Youth U-16 Chess Olympiad 2022, which will take place in Nakhchivan, Azerbaijan, from October 1-11, 2022.&#160;&#160; Each FIDE member federation has the right to send one team. Each team shall comprise 4 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022/",
-         "pubDate" : "Tue, 23 Aug 2022 10:54:00 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad 2022"
       },
       {
          "description" : "GM Ivan Sokolov is well-known for taking on challenging projects as a trainer. This year he turned his attention to the Uzbekistan team, a team that, like Iran (which Sokolov trained before), was very young. How did it so happen that the team surpassed all expectations and clinched the gold in the Chennai chess Olympiad? What was the role of Ivan Sokolov? How much time did he spend with the team? What were his training techniques? All of this and much more in this hour-long interview by IM Sagar Shah. | Photo: Lennart Ootes",
