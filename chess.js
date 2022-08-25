@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A field with well-established GMs and young stars fought it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller closely followed the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Levon Aronian | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-endgames-3",
+         "pubDate" : "Thu, 25 Aug 2022 08:50:00 +0100",
+         "title" : "Endgames from Miami (3)"
+      },
+      {
          "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Jeffery Xiong (pictured) will replace Richard Rapport, who could not make it to Saint Louis due to travel restrictions related to Covid-19. | Photo: Austin Fuller (2021)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1450,14 +1458,6 @@ news_feed (
          "title" : "Throwback Thursday: Vishy Anand wins World Rapid Championship at 48"
       },
       {
-         "description" : "In the Endgame Magic Show #206 Karsten M&uuml;ller and Arne K&auml;hler look at endgame highlights from the \"Bundesliga\". | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-205-more-endgame-highlights-from-the-candidates-tournament-2",
-         "pubDate" : "Thu, 11 Aug 2022 16:37:33 +0100",
-         "title" : "Endgame Magic #206: Endgame highlights from the German Bundesliga"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Uzbek President <strong>Shavkat Mirziyoyev</strong> has <a href=\"https://www.uzdaily.uz/en/post/74831\">praised</a> and awarded each member of the gold-winning Chess Olympiad team with $60,000 and a new car. After winning the Youth Chess Olympiad in 2018, the team members had already <a href=\"https://kun.uz/en/90066718\">picked up a smaller car each</a> even before having reached driving age. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -2032,14 +2032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-6.html",
          "pubDate" : "Thu, 04 Aug 2022 13:24:00 +0000",
          "title" : "2022 Chess Olympiad - Day 6"
-      },
-      {
-         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Last week we looked at a graduation puzzle and the solutions received from three of my students. None of the solutions led me to believe they <a href=\"https://chessimprover.com/students-analysis-9/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (9)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-9/\">Students Analysis (9)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/students-analysis-9/",
-         "pubDate" : "Thu, 04 Aug 2022 04:03:42 +0000",
-         "title" : "Students Analysis (9)"
       }
    ]
 }
