@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris will have a look at an interesting gambit which Black can use to spice things up after 1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4. With 4...e5!? Black indicates that he is ready to give a pawn to get good play. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-interesing-gambit",
+         "pubDate" : "Thu, 25 Aug 2022 20:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: An interesting gambit"
+      },
+      {
+         "description" : "The 4th edition of the International Chess Open San Cristobal de La Laguna 2022 will be held from 27 August to 3 September 2022 in San Cristobal de La Laguna a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event attracted more than 140 players from 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/international-chess-open-san-cristobal-de-la-laguna-2022/",
+         "pubDate" : "Thu, 25 Aug 2022 17:56:12 +0000",
+         "title" : "International Chess Open San Cristobal de La Laguna 2022"
+      },
+      {
+         "description" : "The Mirandela Open 2022 took place from 17-23 August 2022 in Mirandela, Portugal, with participation of more than 130 players coming from 26 countries. The event was played in 9 rounds, swiss system, with time control: 90 minutes for the whole game plus 30 seconds of an increment per each move, starting from the move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-carlos-daniel-albornoz-cabrera-wins-mirandela-open-2022/",
+         "pubDate" : "Thu, 25 Aug 2022 17:14:29 +0000",
+         "title" : "GM Carlos Daniel Albornoz Cabrera wins Mirandela Open 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93784608.cms\" />The wrangling in the All India Chess Federation (AICF) refuses to die down as RN Dongre, who lost election last year, on Thursday claimed that he's the secretary of the body as per the National Sports Code.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-issue-dongre-claims-he-is-secretary-warns-of-contempt-of-court-action/articleshow/93784608.cms",
+         "pubDate" : "Thu, 25 Aug 2022 16:58:03 +0000",
+         "title" : "AICF issue: Dongre claims he is secretary, warns of contempt of court action"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Instructor Alex Moellering breaks down rook endgames all chess players should know, like opposition, the Lucena position, the Philidor position, &quot;building a bridge,&quot; and more! Originally on Twitch.<br /> 2022.08.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgames-you-should-know-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1VHJ8EU2eeE.",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-endgames-you-should-know-beginner-breakdown",
+         "pubDate" : "Thu, 25 Aug 2022 15:16:58 +0000",
+         "title" : "Rook Endgames You Should Know | Beginner Breakdown"
+      },
+      {
          "description" : "After draws in games 14 and 15, Fischer still had a three-point lead in the World Championship match, and the Spassky side was getting nervous. The Champion was fighting hard, but not getting any points. Suspicion arose that Fischer might be using secret weapons: hypnosis, devices planted in the lights or the chairs, and even perhaps assistance from an \"IBM\" (Russian for \"computer\" at the time). All this was formally investigated, while Fischer continued to coast.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "Richard Rapport will not participate in the STL Rapid & Blitz nor the Sinquefield Cup"
       },
       {
-         "description" : "The Women Chess Conference Prague 2022&#xA0;starts tomorrow in Prague&#x2019;s Hotel Don Giovanni, during the&#xA0;European Women&#x2019;s Chess Championship 2022. The Conference will be held from 26-27 August and it's open to all ECU federations (representatives, players, officials, etc) wishing to support and promote women and girls in chess on a national and international level. Some of []",
+         "description" : "The Women Chess Conference Prague 2022&#160;starts tomorrow in Prague&#x2019;s Hotel Don Giovanni, during the&#160;European Women&#x2019;s Chess Championship 2022. The Conference will be held from 26-27 August and it's open to all ECU federations (representatives, players, officials, etc) wishing to support and promote women and girls in chess on a national and international level. Some of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/women-chess-conference-prague-2022-starts-tomorrow/",
@@ -392,22 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-semifinals-hou-gunina",
          "pubDate" : "Mon, 22 Aug 2022 14:31:00 -0700",
          "title" : "Women's World No. 1 Makes Astonishing Comeback vs. The Powerful Gunina"
-      },
-      {
-         "description" : "Maurice Ashley is joining the Chessable family with his new course &#8220;The secrets of Chess Geometry&#8220;. GM Ashely commented, &#8220;My first ever Chessable course, The Secrets of Chess Geometry, is now out! A dream come true.&#8221; Grandmaster Maurice Ashley makes his Chessable debut with a unique tactics course that will change the way you see []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maurice-ashley-the-secrets-of-chess-geometry/",
-         "pubDate" : "Mon, 22 Aug 2022 21:01:21 +0000",
-         "title" : "Maurice Ashley - The Secrets of Chess Geometry"
-      },
-      {
-         "description" : "MrDodgy, the CEO of&#xA0;Chefable&#xA0;and the Tournament Director of&#xA0;MrDodgy Invitational 2022, has published his opinion of Hans Niemann's recent interviews during the FTX Crypto Cup. In an article titled &#8220;The 5 Greatest Chess Interviews Ever: A list nobody can argue with&#8221; MrDodgy says, &#8220;Hans Niemann&#x2019;s recent Meltwater Champions Chess Tour interviews led to a kerfuffle. Many []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-the-5-greatest-chess-interviews-ever/",
-         "pubDate" : "Mon, 22 Aug 2022 20:23:00 +0000",
-         "title" : "MrDodgy: The 5 Greatest Chess Interviews Ever"
       },
       {
          "description" : "In chess, you learn best by making mistakes. And best of all, through the mistakes of others - because that hurts less. That is the concept of Nicholas Pert, the English grandmaster, who is an experienced trainer and knows the problems at every chess level. In 3 Fritztrainer courses he presents the typical mistakes categorised according to playing strength in order to increase sensitivity to one's own sources of error. This week we offer all 3 courses as a bundle at a special price: instead of €79.90 this week only €59.90",
@@ -1034,14 +1058,6 @@ news_feed (
          "title" : "Build Your Sicilian Taimanov Repertoire | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, join a host TBA for the opening ceremony and drawing of lots for the 2022 Saint Louis Rapid &amp; Blitz. The field is: Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Mamedyarov, Nakamura, Shankland, and Niemann. Play begins Friday, August 26 at 12:50 P.M. CDT. 2022.08.25<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-openin",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-opening-ceremony",
-         "pubDate" : "Wed, 17 Aug 2022 18:10:16 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Opening Ceremony"
-      },
-      {
          "description" : "For the second time in three weeks, GMs Oleksandr Bortnyk and Hikaru Nakamura each won an event on Titled Tuesday. In second place this week were GMs Eric Hansen and Daniel Naroditsky, making it a good day for streaming stars. Early Tournament...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1440,14 +1456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-celebrates-the-50th-anniversary-of-the-legendary-1972-world-chess-championship",
          "pubDate" : "Fri, 12 Aug 2022 16:00:00 +0100",
          "title" : "World Chess Hall of Fame Celebrates the 50th Anniversary of the Legendary 1972 World Chess Championship"
-      },
-      {
-         "description" : "Recently, the Exzelsior Verlag published the third and final volume of their huge biography of Emanuel Lasker, mathematician, philosopher, writer, and World Champion from 1894 to 1921. Richard Forster, Michael Negele and Raj Tischbierek edited the three volumes. Like its predecessors, the third volume sheds light on many aspects of Lasker's personality and his wide ranging intellectual interests, and it is a beautiful, carefully designed book well worth reading.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/emanuel-lasker-iii-labors-and-legacy-chess-philosophy-and-psychology",
-         "pubDate" : "Fri, 12 Aug 2022 13:00:00 +0100",
-         "title" : "Emanuel Lasker III: \"Labors and Legacy - Chess, Philosophy, and Psychology\""
       },
       {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 15th...",
@@ -1906,14 +1914,6 @@ news_feed (
          "title" : "Indian chess legend Viswanathan Anand becomes FIDE deputy president"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93407170.cms\" />A Russian former deputy premier was re-elected Sunday as head of the International Chess Federation (FIDE), its electoral chairman said, seeing off a Ukrainian challenger who said his position was untenable because of Moscow's invasion.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/russian-official-re-elected-head-of-chess-body-fide/articleshow/93407170.cms",
-         "pubDate" : "Sun, 07 Aug 2022 08:43:01 +0000",
-         "title" : "Russian official re-elected head of chess body FIDE"
-      },
-      {
          "description" : " Armenia has built their previous Olympiad victories on managing to score a lot of 2.5-1.5 match wins, which is just as good a 4-0 in this kind of team event (tie-break effects non-withstanding). So it wasn't a huge surprise when Armenia did an 'Armenia' and defeated India by this score. Draws on the bottom 3 boards, started the match, before a marathon win on the top board brought home the 2 points. They still lead the tournament by 1 point with 3 rounds to play, but more importantly, they have played India and India 2, plus the USA. They are up against another surprise packet, Uzbekistan, in today's round. The Australian team bounced back with a narrow 2.5-1.5 win over Finland (Armenia sty",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/aug/05/chess-indias-teen-talent-shines-as-chennai-olympiad-breaks-records",
          "pubDate" : "Fri, 05 Aug 2022 07:00:39 +0000",
          "title" : "Chess: India's teen talent shines as Chennai Olympiad breaks records"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1875",
-         "pubDate" : "Thu, 04 Aug 2022 16:45:55 +0000",
-         "title" : "FIDE Congress 2022"
       }
    ]
 }
