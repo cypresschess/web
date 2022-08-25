@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Saint Louis Rapid and Blitz 2022, the fourth leg of the Grand Chess Tour 2022, starts tomorrow. Due to the continuing US travel restrictions related to Covid19, Richard Rapport will not able to play in the Saint Louis Rapid &#38; Blitz, nor the Sinquefield Cup. GM Jeffery Xiong will replace Rapport in the STL Rapid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-will-not-participate-in-the-stl-rapid-blitz-nor-the-sinquefield-cup/",
+         "pubDate" : "Thu, 25 Aug 2022 11:05:18 +0000",
+         "title" : "Richard Rapport will not participate in the STL Rapid & Blitz nor the Sinquefield Cup"
+      },
+      {
+         "description" : "The Women Chess Conference Prague 2022&#xA0;starts tomorrow in Prague&#x2019;s Hotel Don Giovanni, during the&#xA0;European Women&#x2019;s Chess Championship 2022. The Conference will be held from 26-27 August and it's open to all ECU federations (representatives, players, officials, etc) wishing to support and promote women and girls in chess on a national and international level. Some of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-chess-conference-prague-2022-starts-tomorrow/",
+         "pubDate" : "Thu, 25 Aug 2022 10:47:24 +0000",
+         "title" : "Women Chess Conference Prague 2022 starts tomorrow"
+      },
+      {
+         "description" : "The well-known grandmaster and author Lubomir Kavalek passed away last year in January. A prolific writer, he penned dozens of well-read chess columns, including one he shared on ChessBase over the years. Here we reproduce one from February 2017, in which Kavalek shows us a failed queen sacrifice by Jan Timman against him, and Caruana's successful 19.Qxf6!! sac against Nakamura at the London Chess Classic.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-queen-sacrifices",
+         "pubDate" : "Thu, 25 Aug 2022 11:40:00 +0100",
+         "title" : "Throwback Thursday: Kavalek dissects two queen sacrifices"
+      },
+      {
+         "description" : "German Chess Summer in Magdeburg took place from 12-24 August, featuring German Individual Chess Championship, German Women's Individual Chess Championship, German Senior Chess Championships 50+ and 65+, National Blitz Chess Championship, and the most prestigious German Masters event a ten player round-robin tournament with the best German players in the strong line-up. 17-year-old GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-vincent-keymer-wins-german-chess-masters-2022/",
+         "pubDate" : "Thu, 25 Aug 2022 10:32:32 +0000",
+         "title" : "GM Vincent Keymer wins German Chess Masters 2022"
+      },
+      {
          "description" : "A field with well-established GMs and young stars fought it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller closely followed the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Levon Aronian | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,30 +488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1932",
          "pubDate" : "Sun, 21 Aug 2022 21:24:55 +0000",
          "title" : "Magnus Carlsen clinches FTX Crypto Cup"
-      },
-      {
-         "description" : "Magnus Carlsen is the FTX Crypto Cup champion for the second year in a row after holding off a fierce challenge from Indian teen Praggnanandhaa. Norway's World Champion overcame the talented 17-year-old with a game to spare in their final round shootout for the title. All about FTX Crypto Cup 2022: Learn everything about the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-ftx-crypto-cup-2022/",
-         "pubDate" : "Sun, 21 Aug 2022 21:12:40 +0000",
-         "title" : "Magnus Carlsen wins FTX Crypto Cup 2022"
-      },
-      {
-         "description" : "The French Individual Chess Championships 2022&#xA0;took place 13-21 August in the city of Albi. A magnificent city listed as a UNESCO World Heritage Site hosted the&#xA0;95th edition of the French Individual Chess Championship&#xA0;after three years of pause caused by the pandemic of Covid19. The event was played in two sections: Men and Women, with 16 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-jules-moussard-and-im-almira-skripchenko-win-french-chess-championships-2022/",
-         "pubDate" : "Sun, 21 Aug 2022 21:05:30 +0000",
-         "title" : "GM Jules Moussard and IM Almira Skripchenko win French Chess Championships 2022"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2022&#xA0;took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-amateur-chess-champions-2022-crowned-in-zagreb/",
-         "pubDate" : "Sun, 21 Aug 2022 20:36:38 +0000",
-         "title" : "European Amateur Chess Champions 2022 crowned in Zagreb"
       },
       {
          "description" : "Chess has an incredible history that dates back more than a millennia. As one of the oldest board games, chess is surrounded by tradition and grand story. From its origination in India to its diffusion and evolution around the world, chess has cap...",
@@ -1448,14 +1456,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
          "pubDate" : "Thu, 11 Aug 2022 20:57:00 +0400",
          "title" : "44th World Chess Olympiad 2022 - Games and Results"
-      },
-      {
-         "description" : "The 2017 World Rapid and Blitz Championship took place on December 26-30 in Saudi Arabia's capital, Riyadh. The rapid tournament, which included 134 participants, saw Vishy Anand beating Vladimir Fedoseev in a blitz tiebreak after tying for first place with 10&frac12;/15 points. Anand, at 48, outscored his younger opponents, including world champion and rapid-play specialist Magnus Carlsen. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-anand-world-rapid-2017",
-         "pubDate" : "Thu, 11 Aug 2022 17:00:00 +0100",
-         "title" : "Throwback Thursday: Vishy Anand wins World Rapid Championship at 48"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Uzbek President <strong>Shavkat Mirziyoyev</strong> has <a href=\"https://www.uzdaily.uz/en/post/74831\">praised</a> and awarded each member of the gold-winning Chess Olympiad team with $60,000 and a new car. After winning the Youth Chess Olympiad in 2018, the team members had already <a href=\"https://kun.uz/en/90066718\">picked up a smaller car each</a> even before having reached driving age. </div> ",
