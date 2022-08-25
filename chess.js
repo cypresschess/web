@@ -18,6 +18,14 @@ news_feed (
          "title" : "European Women Chess Championship, Round 6 - Live"
       },
       {
+         "description" : " The 2023 Australian Open is being held from the 2nd to the 10th January 2023, in Perth. The Open will be an 11 round event, with 3 double round days. First prize is $3000, and the total prize pool is over $10,000. There is also Minor event (Under 1600) running alongside the Open. Full details for the tournament can be found at <a href=\"https://sites.google.com/view/2023ausopen/home\">https://sites.google.com/view/2023ausopen/home</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2023-australian-open.html",
+         "pubDate" : "Thu, 25 Aug 2022 13:33:00 +0000",
+         "title" : "2023 Australian Open"
+      },
+      {
          "description" : "Dear All, Please note that the venue for National U-07 from 06-11 October 2022 will be held at Science city -Ahmedabad ,Gujarat .The updated circular",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2022",
          "pubDate" : "Thu, 25 Aug 2022 13:55:00 +0400",
          "title" : "Saint Louis Rapid & Blitz 2022 - Games and Results"
+      },
+      {
+         "description" : "The ECF is accepting entries for the 2022 UK Open Blitz Championships. As in previous years there will be 8 one-day regional qualifiers at venues...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-blitz-2022-regional-qualifiers-now-taking-entries/",
+         "pubDate" : "Thu, 25 Aug 2022 08:00:28 +0000",
+         "title" : "Entries open for the UK Blitz - first regional event on Monday 29th August!"
       },
       {
          "description" : "A field with well-established GMs and young stars fought it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller closely followed the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Levon Aronian | Photo: Amruta Mokal",
@@ -1696,14 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1914",
          "pubDate" : "Tue, 09 Aug 2022 12:05:11 +0000",
          "title" : "FIDE Council composition announced"
-      },
-      {
-         "description" : "The ECF is now accepting entries for the 2022 UK Open Blitz Championships.&#160;As in previous years there will be 8 one-day regional qualifiers at venues...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-blitz-2022-regional-qualifiers-now-taking-entries/",
-         "pubDate" : "Tue, 09 Aug 2022 10:59:28 +0000",
-         "title" : "UK Blitz 2022 - regional qualifiers now taking entries"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> None of the top ten seated men teams managed to win a medal at the <strong>Chess Olympiad</strong> in Mamallapuram. Uzbekistan, seated 14th and host of the 2026 Chess Olympiad, wins gold ahead of Armenia, seated 12th, and India II, seated 11th. 16-year old Gukesh blundered a possible gold for the host's junior squad in the penultimate round against Abdusattorov but still claimed the best result on board one ahead of the 17-year old Uzbek. The <strong>Women Chess Olympiad</strong> was won by Ukraine ahead of Georgia and India, who had led throughout but lost their last match against the US. </div> ",
