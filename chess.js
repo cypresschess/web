@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Back-to-back wins in rounds 5 and 6 allowed Polish GM Monika Socko to grab the sole lead at the European Women's Championship in Prague. Two players, Gunay Mammadzada and Maria Gevorgyan, stand a half point back, as the participants will get a rest day before Saturday's seventh round. In round 7, Socko will play white against Gevorgyan, while Mammadzada will face top seed Nana Dzagnidze, also with white, on the second board. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2022-r6",
+         "pubDate" : "Fri, 26 Aug 2022 09:10:00 +0100",
+         "title" : "European Women's Championship: Socko leads midway through"
+      },
+      {
+         "description" : "İş Bankası, one of the biggest commercial companies in Turkey, is celebrating its 98th anniversary on 26th August 2022. It was established by Mustafa Kemal Atat&uuml;rk, the founder of the Turkish Republic (now known as T&uuml;rkiye), on 26th August 1924. The Bank became the sponsor of the Turkish Chess Federation on 24th December 2005.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-turkey-is-bankasi-anniversary",
+         "pubDate" : "Fri, 26 Aug 2022 09:00:00 +0100",
+         "title" : "Chess in Turkey - Is Bankasi anniversary"
+      },
+      {
          "description" : " IM Kassa Korley preparing for the Round 9 game against GM Tiger Hillarp Persson.Photo by Dansk Skak Union. Kassa Korley has been fiercely competing in norm tournaments in an attempt to earn his 3rd and final Grandmaster norm. The New York City (Harlem) native created a stir while earning his second GM norm at the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/\">Kassa Korley seeking 3rd GM Norm</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1458,22 +1474,6 @@ news_feed (
          "title" : "Trent's Tactics - The power of Uhlmann"
       },
       {
-         "description" : "In his \"Power Play Show\" Daniel King features games from the Olympiad. Apart from the usual puzzles, Daniel will take close look at Nihal Sarin versus Sebastian Bogner, a masterful performance by the gold-medal winner on board 2 for India 2. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-nihal-sarin-demonstrates-a-smooth-demolition",
-         "pubDate" : "Fri, 12 Aug 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Nihal Sarin demonstrates a smooth demolition"
-      },
-      {
-         "description" : "The World Chess Hall of Fame (WCHOF) pays homage to American chess phenom Bobby Fischer with the largest exhibition of its kind, 1972 Fischer/Spassky: The Match, Its Origin, and Influence\", on view from August 18, 2022, through April 30, 2023. A public opening reception is happening on Thursday, August 18, 2022, 5-8 pm, with free admission. | Photo: worldchesshof.org",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-celebrates-the-50th-anniversary-of-the-legendary-1972-world-chess-championship",
-         "pubDate" : "Fri, 12 Aug 2022 16:00:00 +0100",
-         "title" : "World Chess Hall of Fame Celebrates the 50th Anniversary of the Legendary 1972 World Chess Championship"
-      },
-      {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 15th...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/5/2fxrbzwc2qxe25ssq9pdnhxjzeyaiq",
          "pubDate" : "Fri, 05 Aug 2022 13:40:03 +0000",
          "title" : "Bonus Pod - Dispatches from the Chennai Olympiad with GM Axel Bachmann and Mr. Dodgy of Chessable"
-      },
-      {
-         "description" : " Armenia lead after seven of the 11 rounds while six teams are half a point behind. Magnus Carlsen has 5.5/6 but his Norwegian team mates have underperformed. Armenia lead by half a point from six chasing teams after seven of the 11 rounds in the 180-nation, $10m Chennai Olympiad, an event which is already unique and in the record books. Its stunning ambiance, eager fans and opulent playing conditions reflect India's ambition to make August 2022 a landmark moment towards its goal of surpassing the three established chess superpowers - USA, Russia and China. The state of Tamil Nadu and its chief minister, MK Stalin, approved a $10m budget which dwarfs any other chess event in history. Familia",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/aug/05/chess-indias-teen-talent-shines-as-chennai-olympiad-breaks-records",
-         "pubDate" : "Fri, 05 Aug 2022 07:00:39 +0000",
-         "title" : "Chess: India's teen talent shines as Chennai Olympiad breaks records"
       }
    ]
 }
