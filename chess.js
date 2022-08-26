@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;Chessable British Chess Championship 2022&#xA0;was held at the Riviera International Centre in&#xA0;Torquay&#xA0;from 8th to 21st August 2022. This was the&#xA0;108th British Chess Championship&#xA0;in a series that has run almost unbroken since 1904, with Torquay having previously hosted the Championships on six occasions, most recently in 2019. The&#xA0;2022 Championship&#xA0;was the main event, sponsored by Chessable, and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-harry-grieve-claims-chessable-british-chess-championship-2022/",
+         "pubDate" : "Fri, 26 Aug 2022 21:30:01 +0000",
+         "title" : "FM Harry Grieve claims Chessable British Chess Championship 2022"
+      },
+      {
          "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-arjun-erigaisi-wins-abu-dhabi-masters-2022/",
          "pubDate" : "Thu, 25 Aug 2022 11:41:22 +0000",
          "title" : "GM Arjun Erigaisi wins Abu Dhabi Masters 2022"
-      },
-      {
-         "description" : "Saint Louis Rapid and Blitz 2022, the fourth leg of the Grand Chess Tour 2022, starts tomorrow. Due to the continuing US travel restrictions related to Covid19, Richard Rapport will not able to play in the Saint Louis Rapid &#38; Blitz, nor the Sinquefield Cup. GM Jeffery Xiong will replace Rapport in the STL Rapid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-will-not-participate-in-the-stl-rapid-blitz-nor-the-sinquefield-cup/",
-         "pubDate" : "Thu, 25 Aug 2022 11:05:18 +0000",
-         "title" : "Richard Rapport will not participate in the STL Rapid & Blitz nor the Sinquefield Cup"
       },
       {
          "description" : "The well-known grandmaster and author Lubomir Kavalek passed away last year in January. A prolific writer, he penned dozens of well-read chess columns, including one he shared on ChessBase over the years. Here we reproduce one from February 2017, in which Kavalek shows us a failed queen sacrifice by Jan Timman against him, and Caruana's successful 19.Qxf6!! sac against Nakamura at the London Chess Classic.",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-7.html",
          "pubDate" : "Sat, 06 Aug 2022 03:06:00 +0000",
          "title" : "2022 Chess Olympiad - Day 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1904",
-         "pubDate" : "Fri, 05 Aug 2022 20:40:19 +0000",
-         "title" : "Monaco to host Pool A of Women's Candidates"
       }
    ]
 }
