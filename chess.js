@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Kassa Korley preparing for the Round 9 game against GM Tiger Hillarp Persson.Photo by Dansk Skak Union. Kassa Korley has been fiercely competing in norm tournaments in an attempt to earn his 3rd and final Grandmaster norm. The New York City (Harlem) native created a stir while earning his second GM norm at the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/\">Kassa Korley seeking 3rd GM Norm</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/",
+         "pubDate" : "Thu, 25 Aug 2022 23:32:57 +0000",
+         "title" : "Kassa Korley seeking 3rd GM Norm"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -186,7 +194,7 @@ news_feed (
          "title" : "Vincent Keymer wins German Masters 2022"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Niemann) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class",
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-2",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1903",
          "pubDate" : "Fri, 05 Aug 2022 18:10:58 +0000",
          "title" : "44th Chess Olympiad: Illegal move gives the lead to Armenia"
-      },
-      {
-         "description" : " Tshepiso Lopang, African Chess Confederation President 2022-2026Photo by Mark Livshitz For the past several months, there was tremendous energy on African social media about the upcoming election for African Chess Confederation (ACC). Africa as a continent is fully engaged in the development process of improving FIDE and these signs bode well for the massive continent. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/05/tshepiso-lopang-wins-acc-presidency/\">Tshepiso Lopang wins ACC Presidency!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/05/tshepiso-lopang-wins-acc-presidency/",
-         "pubDate" : "Fri, 05 Aug 2022 17:47:16 +0000",
-         "title" : "Tshepiso Lopang wins ACC Presidency!"
       },
       {
          "description" : "",
