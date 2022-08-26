@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
+         "pubDate" : "Fri, 26 Aug 2022 19:50:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the first three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-1-lichessorg",
+         "pubDate" : "Fri, 26 Aug 2022 18:18:12 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 1 | lichess.org"
+      },
+      {
+         "description" : "In his Power Play Show, Daniel King examines critical and instructive moments from the exciting match between rising star Praggnanandhaa and world champion Magnus Carlsen from the FTX Crypto Cup tournament in Miami. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-pragg-carlsen",
+         "pubDate" : "Fri, 26 Aug 2022 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Magic moments from Pragg vs Carlsen"
+      },
+      {
          "description" : "Svitlana is showing us some more smart moves from Chennai. We learn a lot about the two openings, plans in the middle game, and some endgame knowledge. The Canadian WIM was able to win against Jenny Astrid Chirivi Castiblanco from Colombia, and achieve a draw against Gulenay Aydin from Turkey.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/beautiful-checkmate-patterns-beginner-breakdown",
          "pubDate" : "Fri, 26 Aug 2022 15:18:00 +0000",
          "title" : "Beautiful Checkmate Patterns | Beginner Breakdown"
+      },
+      {
+         "description" : "İş Bankası, one of the biggest commercial companies in Turkey, is celebrating its 98th anniversary on 26th August 2022. It was established by Mustafa Kemal Atat&uuml;rk, the founder of the Turkish Republic (now known as T&uuml;rkiye), on 26th August 1924. The Bank became the sponsor of the Turkish Chess Federation on 24th December 2005.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-turkey-is-bankasi-anniversary",
+         "pubDate" : "Fri, 26 Aug 2022 16:00:00 +0100",
+         "title" : "Chess in Turkey - Is Bankasi anniversary"
       },
       {
          "description" : "Nick Pert won the British Over-the-Board Championship 2021. This year, he participated again as the title defender. And although he even scored half-a-point more than last year, it wasn't enough to repeat the triumph. His analysis of the most interesting games were very popular, so we walk through the tournament one more time, thanks to Nick Pert.",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eiwcc-2022-r6",
          "pubDate" : "Fri, 26 Aug 2022 09:10:00 +0100",
          "title" : "European Women's Championship: Socko leads midway through"
-      },
-      {
-         "description" : "İş Bankası, one of the biggest commercial companies in Turkey, is celebrating its 98th anniversary on 26th August 2022. It was established by Mustafa Kemal Atat&uuml;rk, the founder of the Turkish Republic (now known as T&uuml;rkiye), on 26th August 1924. The Bank became the sponsor of the Turkish Chess Federation on 24th December 2005.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-turkey-is-bankasi-anniversary",
-         "pubDate" : "Fri, 26 Aug 2022 09:00:00 +0100",
-         "title" : "Chess in Turkey - Is Bankasi anniversary"
       },
       {
          "description" : " IM Kassa Korley preparing for the Round 9 game against GM Tiger Hillarp Persson.Photo by Dansk Skak Union. Kassa Korley has been fiercely competing in norm tournaments in an attempt to earn his 3rd and final Grandmaster norm. The New York City (Harlem) native created a stir while earning his second GM norm at the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/\">Kassa Korley seeking 3rd GM Norm</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1146,14 +1170,6 @@ news_feed (
          "title" : "Fighting Spirit to the End: Lagno Defeats Vaishali"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The main event of a nine-hour marathon to raise money for CHESS Cops, Ben Simon plays the viewers and talks about chess ratings, pro wrestling, his disdain for Twitch, and more! The marathon included Danny Machuca&#039;s Steve the Pirate, Jonathan Schrantz, and GM Bryan Smith. Originally on Twitch<br /> 2021.11.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ben-simon-plays-people-chess-cops\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ben-simon-plays-people-chess-cops",
-         "pubDate" : "Thu, 18 Aug 2022 00:10:32 +0000",
-         "title" : "Ben Simon Plays The People for CHESS Cops!"
-      },
-      {
          "description" : "For the second time in three weeks, GMs Oleksandr Bortnyk and Hikaru Nakamura each won an event on Titled Tuesday. In second place this week were GMs Eric Hansen and Daniel Naroditsky, making it a good day for streaming stars. Early Tournament...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1464,14 +1480,6 @@ news_feed (
          "link" : "https://chessimprover.com/bishop-endings-2/",
          "pubDate" : "Sun, 14 Aug 2022 06:50:03 +0000",
          "title" : "Bishop Endings"
-      },
-      {
-         "description" : "The gold medal at the Chess Olympiad in Chennai was decided in one game: the duel between rising stars Dommaraju Gukesh and Nodirbek Abdusattorov. The 16-year-old Indian grandmaster had a better position after the opening and, in fact, was winning at some point. But then the game gradually slipped out of Gukesh's hands, and a final blunder decided the game in Abdusattorov's favour. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-dramatic-deciding-game",
-         "pubDate" : "Sat, 13 Aug 2022 22:00:00 +0100",
-         "title" : "The dramatic, deciding game"
       },
       {
          "description" : " There were a number of very quick games at the 2022 Chess Olympiad, although some were just ended with a simple blunder. This one was a little more subtle, with White missing an in between move that brought the game to an abrupt finish. <br /> <br /> <b>Mannhart,Marcel (2110) - Van den Brink,Peter (2167) [B23]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (10.1), 08.08.2022 <script>new PgnViewer( { boardName: \"game1341\", movesFormat: \"default\", pgnString:'1.Nc3 c5 2.e4 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Be3 Nc6 6.Qd2 Bg7 7.f3 d6 8.Bh6 Bxh6 9.Qxh6 Be6 10.O-O-O Qa5 11.Kb1 O-O-O 12.Qd2 d5 13.Nxd5 Nxd5 14.Qxa5 Nc3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div ",
@@ -2016,30 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1904",
          "pubDate" : "Fri, 05 Aug 2022 20:40:19 +0000",
          "title" : "Monaco to host Pool A of Women's Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1905",
-         "pubDate" : "Fri, 05 Aug 2022 18:19:38 +0000",
-         "title" : "Year of the Woman in Chess Awards Granted in Chennai"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1903",
-         "pubDate" : "Fri, 05 Aug 2022 18:10:58 +0000",
-         "title" : "44th Chess Olympiad: Illegal move gives the lead to Armenia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1902",
-         "pubDate" : "Fri, 05 Aug 2022 17:44:11 +0000",
-         "title" : "India A Women's team scores another thumping victory to extend sole lead"
       }
    ]
 }
