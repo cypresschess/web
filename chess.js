@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ivan Sokolov has celebrated numerous successes in his career as a player. His greatest coup as a coach came only recently at the Chess Olympiad 2022 in Chennai, when he led the team from Uzbekistan to gold. In his video contribution to the current ChessBase Magazine Extra #208 he presents an idea on how to surprise your opponent in the Sicilian Four Knights Variation: The move 6.g3 may not look particularly aggressive - but when a player like Nodirbek Abdusattorov (Uzbekistan's number one and reigning rapid chess world champion) is on a loss with Black a few moves later, that can easily happen to your opponent too! You can see an excerpt from Sokolov's analysis here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tips-from-the-coach-of-the-olympic-champion",
+         "pubDate" : "Fri, 26 Aug 2022 13:00:00 +0100",
+         "title" : "Tips from the coach of the Olympic champion"
+      },
+      {
+         "description" : "On the 1st September, OTB Blitz ratings will go live on the ECF rating website. Blitz chess for ECF purposes are games where each player...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/over-the-board-blitz-ratings-go-live/",
+         "pubDate" : "Fri, 26 Aug 2022 11:29:15 +0000",
+         "title" : "Over-the-board Blitz ratings go live!"
+      },
+      {
+         "description" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE Saint Louis rapid and blitz 2022: All the information / Live games / Opening ceremony live / Video coverage round 1",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022-day-1-live/",
+         "pubDate" : "Fri, 26 Aug 2022 11:10:00 +0000",
+         "title" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1940",
+         "pubDate" : "Fri, 26 Aug 2022 10:31:24 +0000",
+         "title" : "Arjun Erigaisi clinches Abu Dhabi Masters 2022"
+      },
+      {
+         "description" : "The Russian Grandmaster Vladimir Simagin was considered a tactical genius. His game against Bronstein is famous, and his move to win the game takes some time to be discovered. Furthermore, Lawrence shows us his tactical brilliance, talks about Frederic Svane, and shows us the power of solving tactical puzzles, to recognize patterns better, and quicker. Also, the final tactic which Lawrence and Arne try to solve, ends terribly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-32",
+         "pubDate" : "Fri, 26 Aug 2022 11:00:00 +0100",
+         "title" : "Trent's Tactics - Simagin's tactical stunners"
+      },
+      {
+         "description" : "The Women Chess Conference Prague 2022&#xA0;takes place from 26-27 August at Prague's Hotel Don Giovanni, concurrently with the&#xA0;European Women&#x2019;s Chess Championship 2022.&#xA0;Some of the Invited Guests and Speakers are: the ECU President&#xA0;Mr. Zurab Azmaiparashvili, the ECU Deputy President&#xA0;Ms. Dana Reizniece-Ozola, reigning European Women&#x2019;s Chess Champion&#xA0;Ms. Elina Danielian. The agenda of the Conference can be found []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-chess-conference-prague-2022-live/",
+         "pubDate" : "Fri, 26 Aug 2022 09:17:49 +0000",
+         "title" : "Women Chess Conference Prague 2022 LIVE"
+      },
+      {
+         "description" : "Ian Nepomniachtchi, Alireza Firouzja and Hikaru Nakamura are among the stars in action for the St. Louis Rapid &amp; Blitz, which starts today, while Magnus Carlsen joins for the classical Sinquefield Cup on September 2. The organisers have announced replacements for world #13 Richard Rapport as the Hungarian couldn't meet US Covid travel requirements.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-st-louis-rapid-blitz-starts-today",
+         "pubDate" : "Fri, 26 Aug 2022 08:11:01 +0000",
+         "title" : "The St. Louis Rapid & Blitz starts today! "
+      },
+      {
          "description" : "Back-to-back wins in rounds 5 and 6 allowed Polish GM Monika Socko to grab the sole lead at the European Women's Championship in Prague. Two players, Gunay Mammadzada and Maria Gevorgyan, stand a half point back, as the participants will get a rest day before Saturday's seventh round. In round 7, Socko will play white against Gevorgyan, while Mammadzada will face top seed Nana Dzagnidze, also with white, on the second board. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -298,14 +354,6 @@ news_feed (
          "title" : "Chess: Harry Grieve, 21, wins British championship as seven-year-old shines"
       },
       {
-         "description" : "125 players from 27 European federations registered for the European Women Chess Championship 2022, with 7 Grandmasters, 21 International masters, 23 Women grandmasters, 28 Women International masters and a total of 108 titled players. The top 10 seeded players are: GM Dzagnidze Nana (GEO, 2531), IM Javakhishvili Lela (GEO, 2476), GM Stefanova Antoaneta (ECU, 2472), []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-women-chess-championship-2022-live/",
-         "pubDate" : "Wed, 24 Aug 2022 06:57:00 +0000",
-         "title" : "European Women Chess Championship 2022 LIVE"
-      },
-      {
          "description" : "GMs Eric Hansen&#38;nbsp;and Vladimir Fedoseev advanced to the Qualifier 1 final of the 2022 Fischer Random World Championship on Tuesday. Though they achieved the same result, the two players had vastly different journeys. Hansen literally danced to ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -358,7 +406,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d1",
-         "pubDate" : "Tue, 23 Aug 2022 09:47:22 -0700",
+         "pubDate" : "Tue, 23 Aug 2022 09:47:00 -0700",
          "title" : "Sevian Refuses Last-Round Draw Offer, Wins Fischer Random Swiss"
       },
       {
@@ -408,14 +456,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/the-trojan-bishop.html",
          "pubDate" : "Tue, 23 Aug 2022 13:15:00 +0000",
          "title" : "The Trojan Bishop?"
-      },
-      {
-         "description" : "The 2022-2023 series of Women&#x2019;s Grand Prix tournaments&#160;features four events which will be held between August 2022 and June 2023. 1st WGP event: 17 &#x2013; 30 September 2022, Nursultan, Kazakhstan; 2nd WGP event: 1 &#x2013; 14 February 2023, Munich, Germany 3rd WGP event: March 2023, India 4th WGP event: May 2023, Bydgoscz, Poland Each tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023-final-list-of-participants-and-players-allocation/",
-         "pubDate" : "Tue, 23 Aug 2022 11:54:00 +0000",
-         "title" : "FIDE Women's Grand Prix 2022-2023 - Final list of participants and players allocation"
       },
       {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ Like many new year resolutions I have fallen behind in going over the puzzles from the &#8220;Chess 2022 Day-to-Day Calendar: A <a href=\"https://chessimprover.com/chess-2022-march-top-pics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Top Pics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-top-pics/\">Chess 2022 March Top Pics</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1450,28 +1490,12 @@ news_feed (
          "title" : "Bobby & Boris, Timman & Sir Tim: 50 years since Fischer v Spassky"
       },
       {
-         "description" : "In the diagram position, White has yet to react properly to the black queen's check, then he may happily start searching for mates - feel free to join!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checks-and-mates",
-         "pubDate" : "Sat, 13 Aug 2022 09:00:00 +0100",
-         "title" : "Checks and mates"
-      },
-      {
          "description" : " One of the things I've been mentioning over this series of articles is the idea of studying the games of master level players to aid in your improvement. However, I didn't mention which of the masters you should study. Sorry about that! The reason I'm saying sorry is because not all master games are suitable <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-nine/\">A Foundation for Beginners Sixty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-nine/",
          "pubDate" : "Sat, 13 Aug 2022 07:56:57 +0000",
          "title" : "A Foundation for Beginners Sixty Nine"
-      },
-      {
-         "description" : "Lawrence has prepared some stunning tactics, played by the German legend Wolfgang Uhlmann. The French Defence expert was a masterful chess player for ages, and beat Bobby Fischer in 1960, with this very opening. We continue with our journey to reach a rating of 3000. Meanwhile, we are comfortably sitting around 2550.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-30",
-         "pubDate" : "Fri, 12 Aug 2022 20:00:00 +0100",
-         "title" : "Trent's Tactics - The power of Uhlmann"
       },
       {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 15th...",
@@ -1720,14 +1744,6 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-10/",
          "pubDate" : "Tue, 09 Aug 2022 13:07:33 +0000",
          "title" : "Students Analysis (10)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.ft.com/content/7fec9c27-fd3e-4f00-a1ee-79503c456646#new_tab",
-         "pubDate" : "Tue, 09 Aug 2022 12:27:45 +0000",
-         "title" : "Olympiad gold for Uzbekistan - and David Howell!"
       },
       {
          "description" : "",
@@ -1984,14 +2000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-7.html",
          "pubDate" : "Sat, 06 Aug 2022 03:06:00 +0000",
          "title" : "2022 Chess Olympiad - Day 7"
-      },
-      {
-         "description" : "Armenia remain sole leaders of the Chennai Olympiad after a rollercoaster match against top seeds USA. Wesley So found a stunning queen sac, Fabiano Caruana crashed to defeat against Gabriel Sargissian and Leinier Dominguez hit back only for Sam Shankland to \"pre-move\" and lose just when he was about to give the USA victory. It's Armenia vs. India 1 and USA vs. India 2, for whom Gukesh now has 7/7, in Saturday's Round 7.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-7-shankland-shocker-gukesh-hits-7-7",
-         "pubDate" : "Fri, 05 Aug 2022 23:50:40 +0000",
-         "title" : "Chennai Olympiad 7: Shankland shocker | Gukesh hits 7/7"
       },
       {
          "description" : "",
