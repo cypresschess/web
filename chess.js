@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana is showing us some more smart moves from Chennai. We learn a lot about the two openings, plans in the middle game, and some endgame knowledge. The Canadian WIM was able to win against Jenny Astrid Chirivi Castiblanco from Colombia, and achieve a draw against Gulenay Aydin from Turkey.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-rocks-chennai-ii-caro-kann-queen-s-gambit-with-3-h6",
+         "pubDate" : "Fri, 26 Aug 2022 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai II (Caro-Kann & Queen's Gambit with 3. ...h6!?)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering breaks down infamous queen sacrifices, smothered mates, Anastasia checkmates, and more in Beginner Breakdown. Originally on Twitch<br /> 2022.08.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beautiful-checkmate-patterns-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FhK5hHYie4k.jpg?itok=sJqd12u2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beautiful-checkmate-patterns-beginner-breakdown",
+         "pubDate" : "Fri, 26 Aug 2022 15:18:00 +0000",
+         "title" : "Beautiful Checkmate Patterns | Beginner Breakdown"
+      },
+      {
+         "description" : "Nick Pert won the British Over-the-Board Championship 2021. This year, he participated again as the title defender. And although he even scored half-a-point more than last year, it wasn't enough to repeat the triumph. His analysis of the most interesting games were very popular, so we walk through the tournament one more time, thanks to Nick Pert.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-championship-2022-nick-pert-shows-some-breathtaking-games-to-us",
+         "pubDate" : "Fri, 26 Aug 2022 15:54:04 +0100",
+         "title" : "British Championship 2022 - Nick Pert shows some breathtaking games to us"
+      },
+      {
+         "description" : "The 22nd edition of the Dubai Chess Open kicks off tomorrow at the Dubai Chess &#38; Culture Club and will be played from 27 August 5 September. The tournament will be played in 9 rounds, swiss system, with time control 90 minutes for the whole game + 30 seconds of increment per each move, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/22nd-dubai-chess-open-participants-and-information/",
+         "pubDate" : "Fri, 26 Aug 2022 14:23:42 +0000",
+         "title" : "22nd Dubai Chess Open - participants and information"
+      },
+      {
+         "description" : "<h1 style=\"text-align: left;\">2022 ACT Women's and Girls' Chess Championship - Sunday 11 September 2022</h1>7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List)<br /><br />Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am<br />Lunch Break 1pm-1:30pm<br />Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm<br /><br /><b>Prizes - 1st $250 2nd $125 3rd $75</b> Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10<br /><br />Max. two half-point byes available for Rounds 1-4.<br /><br />Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free.<br /><br />+ <b>Novices event for unrated ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/2022-act-womens-and-girls-championship.html",
+         "pubDate" : "Fri, 26 Aug 2022 13:12:00 +0000",
+         "title" : "2022 ACT Women's and Girls Championship - 11 September 2022"
+      },
+      {
          "description" : "Ivan Sokolov has celebrated numerous successes in his career as a player. His greatest coup as a coach came only recently at the Chess Olympiad 2022 in Chennai, when he led the team from Uzbekistan to gold. In his video contribution to the current ChessBase Magazine Extra #208 he presents an idea on how to surprise your opponent in the Sicilian Four Knights Variation: The move 6.g3 may not look particularly aggressive - but when a player like Nodirbek Abdusattorov (Uzbekistan's number one and reigning rapid chess world champion) is on a loss with Black a few moves later, that can easily happen to your opponent too! You can see an excerpt from Sokolov's analysis here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tips-from-the-coach-of-the-olympic-champion",
          "pubDate" : "Fri, 26 Aug 2022 13:00:00 +0100",
          "title" : "Tips from the coach of the Olympic champion"
+      },
+      {
+         "description" : "The Saint Louis Rapid &#38; Blitz 2022, the fourth leg of the&#xA0;Grand Chess Tour 2022 kicks off today. Eight tour players Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Hikaru Nakamura, Sam Shankland and Jefferey Xiong for a rapid round robin and blitz. Only []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022-pairings-schedule/",
+         "pubDate" : "Fri, 26 Aug 2022 11:44:27 +0000",
+         "title" : "Saint Louis Rapid and Blitz 2022 - Pairings & Schedule"
       },
       {
          "description" : "On the 1st September, OTB Blitz ratings will go live on the ECF rating website. Blitz chess for ECF purposes are games where each player...",
@@ -194,28 +242,12 @@ news_feed (
          "title" : "Richard Rapport will not participate in the STL Rapid & Blitz nor the Sinquefield Cup"
       },
       {
-         "description" : "The Women Chess Conference Prague 2022&#160;starts tomorrow in Prague&#x2019;s Hotel Don Giovanni, during the&#160;European Women&#x2019;s Chess Championship 2022. The Conference will be held from 26-27 August and it's open to all ECU federations (representatives, players, officials, etc) wishing to support and promote women and girls in chess on a national and international level. Some of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-chess-conference-prague-2022-starts-tomorrow/",
-         "pubDate" : "Thu, 25 Aug 2022 10:47:24 +0000",
-         "title" : "Women Chess Conference Prague 2022 starts tomorrow"
-      },
-      {
          "description" : "The well-known grandmaster and author Lubomir Kavalek passed away last year in January. A prolific writer, he penned dozens of well-read chess columns, including one he shared on ChessBase over the years. Here we reproduce one from February 2017, in which Kavalek shows us a failed queen sacrifice by Jan Timman against him, and Caruana's successful 19.Qxf6!! sac against Nakamura at the London Chess Classic.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/throwback-thursday-queen-sacrifices",
          "pubDate" : "Thu, 25 Aug 2022 11:40:00 +0100",
          "title" : "Throwback Thursday: Kavalek dissects two queen sacrifices"
-      },
-      {
-         "description" : "German Chess Summer in Magdeburg took place from 12-24 August, featuring German Individual Chess Championship, German Women's Individual Chess Championship, German Senior Chess Championships 50+ and 65+, National Blitz Chess Championship, and the most prestigious German Masters event a ten player round-robin tournament with the best German players in the strong line-up. 17-year-old GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-vincent-keymer-wins-german-chess-masters-2022/",
-         "pubDate" : "Thu, 25 Aug 2022 10:32:32 +0000",
-         "title" : "GM Vincent Keymer wins German Chess Masters 2022"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz takes place 26th to 30th August starting at 1pm local time, 7pm UK time. Players: Alireza Firouzja, Fabiano Caruana, Levon Aronian, Shakhriyar Mamedyarov, Jeffery Xiong (replacing Richard Rapport who can't make it due to Covid-19 restrictions), Maxime Vachier-Lagrave, Leinier Dominguez, Ian Nepomniachtchi, Hikaru Nakamura andSam Shankland. Three days of Rapid and two of Blitz.",
@@ -1122,14 +1154,6 @@ news_feed (
          "title" : "Ben Simon Plays The People for CHESS Cops!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi analyzes recent games in the Taimanov variation of the Sicilian Defense from MVL, Anand, and Wei Yi. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/build-your-sicilian-taimanov-repertoire-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z5y7Qm_nu-o.jpg?itok=as9f19sw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/build-your-sicilian-taimanov-repertoire-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Wed, 17 Aug 2022 18:10:16 +0000",
-         "title" : "Build Your Sicilian Taimanov Repertoire | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
          "description" : "For the second time in three weeks, GMs Oleksandr Bortnyk and Hikaru Nakamura each won an event on Titled Tuesday. In second place this week were GMs Eric Hansen and Daniel Naroditsky, making it a good day for streaming stars. Early Tournament...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1450,14 +1474,6 @@ news_feed (
          "title" : "The dramatic, deciding game"
       },
       {
-         "description" : "Over 650 games were played daily at the record-breaking Chess Olympiad in Chennai. GM Karsten M&uuml;ller attentively followed the games, looking for instructive endings. Naturally, all sorts of setups and typical patterns showed up with so many encounters running concurrently. Go over our in-house expert's analyses, and you are sure to find something to learn or, at the very least, something to enjoy! | Pictured: Praggnanandhaa beats Javokhir Sindarov after converting a tough technical endgame. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2022-endgames-4",
-         "pubDate" : "Sat, 13 Aug 2022 21:00:00 +0100",
-         "title" : "Endgames from Chennai (4)"
-      },
-      {
          "description" : " There were a number of very quick games at the 2022 Chess Olympiad, although some were just ended with a simple blunder. This one was a little more subtle, with White missing an in between move that brought the game to an abrupt finish. <br /> <br /> <b>Mannhart,Marcel (2110) - Van den Brink,Peter (2167) [B23]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (10.1), 08.08.2022 <script>new PgnViewer( { boardName: \"game1341\", movesFormat: \"default\", pgnString:'1.Nc3 c5 2.e4 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Be3 Nc6 6.Qd2 Bg7 7.f3 d6 8.Bh6 Bxh6 9.Qxh6 Be6 10.O-O-O Qa5 11.Kb1 O-O-O 12.Qd2 d5 13.Nxd5 Nxd5 14.Qxa5 Nc3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1472,14 +1488,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-shri-bharat-singh-chauhan/",
          "pubDate" : "Sat, 13 Aug 2022 13:10:42 +0000",
          "title" : "Congratulations Shri Bharat Singh Chauhan"
-      },
-      {
-         "description" : "After ten games in the World Championship match in Reykjavik, 1972, the score was 6&frac12;-3&frac12; for Challenger Bobby Fischer. The match seemed virtually over - in the last eight games Boris Spassky had only managed to score 1&frac12; points. In game 11 Spassky took on the Poisoned Pawn variation of the Najdorf Sicilian. \"Fighting with the desperation of the doomed: he sensationally crushed his opponent in the 11th game\" (Kasparov). In the twelfth he held Fischer to a comfortable draw. And then came the 13th round. Fischer played, for the first time in a top-level game, the Alekhine Defence. It turned into one of the most exciting battles of the match, and is beautifully annotated by GM",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fifty-years-ago-fischer-leads-8-5",
-         "pubDate" : "Sat, 13 Aug 2022 13:00:00 +0100",
-         "title" : "Fifty years ago: Fischer leads 8:5"
       },
       {
          "description" : "As we know, 2022 is the fiftieth anniversary of the Spassky v Fischer world championship of 1972, which has gone down in chess lore as: the Match of the Century. The anniversary has been marked by a special exhibition at the US Chess Hall of Fame in St Louis, as well as a stupendous new []",
@@ -2032,22 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1902",
          "pubDate" : "Fri, 05 Aug 2022 17:44:11 +0000",
          "title" : "India A Women's team scores another thumping victory to extend sole lead"
-      },
-      {
-         "description" : "&#160; All India Chess Federation on behalf of Asian Chess Federation and FIDE, invites your Federation to participate in the Asian Continental Chess Championships (Open",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-continental-chess-championships-open-and-womens-championships-25-october-04-november-2022-new-delhi/",
-         "pubDate" : "Fri, 05 Aug 2022 14:30:32 +0000",
-         "title" : "Asian Continental Chess Championships (Open and Women's Championships) 25 October - 04 November 2022, New Delhi,"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg\" data-image-dimensions=\"312x319\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62ed1ba5927c2f5194ad5403\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/9fcaa2e3-ea97-495a-a382-e18e8b860b92/Chess_Olympiad_2022_official_logo.jpeg?format=1000w\" /> </figure> <p class=\"\">I have been enjoying the ongoing <a href=\"https://en.wikipedia.org/wiki/44th_Chess_Olympiad\">Chess Olympiad</a> so much th",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/5/2fxrbzwc2qxe25ssq9pdnhxjzeyaiq",
-         "pubDate" : "Fri, 05 Aug 2022 13:40:03 +0000",
-         "title" : "Bonus Pod - Dispatches from the Chennai Olympiad with GM Axel Bachmann and Mr. Dodgy of Chessable"
       }
    ]
 }
