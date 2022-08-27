@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasia Karlovich after defeating Mamedyarov in the fourth rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-structure-favored-me-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fVoOzV8kl5g.jpg?itok=JMco4rfL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-structure-favored-me-day-2",
+         "pubDate" : "Sat, 27 Aug 2022 21:19:15 +0000",
+         "title" : "Nepo: The Structure Favored Me | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasia Karlovich after defeating Firouzja in the fifth rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-alireza%E2%80%99s-weak-moment-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sNlfsRgBasQ.jpg?itok=YkLn8ECD\" alt=\"\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-alireza%E2%80%99s-weak-moment-day-2",
+         "pubDate" : "Sat, 27 Aug 2022 21:19:15 +0000",
+         "title" : "Caruana: Alireza's Weak Moment | Day 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -362,14 +378,6 @@ news_feed (
          "title" : "AICF issue: Dongre claims he is secretary, warns of contempt of court action"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Instructor Alex Moellering breaks down rook endgames all chess players should know, like opposition, the Lucena position, the Philidor position, &quot;building a bridge,&quot; and more! Originally on Twitch.<br /> 2022.08.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgames-you-should-know-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1VHJ8EU2eeE.",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rook-endgames-you-should-know-beginner-breakdown",
-         "pubDate" : "Thu, 25 Aug 2022 15:16:58 +0000",
-         "title" : "Rook Endgames You Should Know | Beginner Breakdown"
-      },
-      {
          "description" : "After draws in games 14 and 15, Fischer still had a three-point lead in the World Championship match, and the Spassky side was getting nervous. The Champion was fighting hard, but not getting any points. Suspicion arose that Fischer might be using secret weapons: hypnosis, devices planted in the lights or the chairs, and even perhaps assistance from an \"IBM\" (Russian for \"computer\" at the time). All this was formally investigated, while Fischer continued to coast.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1938",
          "pubDate" : "Wed, 24 Aug 2022 21:39:44 +0000",
          "title" : "Vincent Keymer wins German Masters 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-2",
-         "pubDate" : "Wed, 24 Aug 2022 18:16:45 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 2"
       },
       {
          "description" : "In his \"Game of the Week\" show #530 Merijn van Delft looks at a fine attacking game by the young German Grandmaster Frederik Svane. At the German Masters Svane won against Daniel Fridman, a player who is notoriously hard to beat. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-8.html",
          "pubDate" : "Sun, 07 Aug 2022 03:20:00 +0000",
          "title" : "2022 Chess Olympiad - Day 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1907",
-         "pubDate" : "Sat, 06 Aug 2022 20:23:43 +0000",
-         "title" : "India A Women's team held to a draw by Ukraine but retains the lead"
       }
    ]
 }
