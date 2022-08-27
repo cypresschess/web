@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top-flight chess returned to one of America&#39;s premier chess venues on Friday with the commencement of the 2022 Saint Louis Rapid &#38;amp; Blitz, the penultimate event of the Grand Chess Tour, with the day&#39;s proceedings going the way of French GM Alir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-1",
+         "pubDate" : "Fri, 26 Aug 2022 19:59:18 -0700",
+         "title" : "Firouzja Asserts Early Lead In St. Louis"
+      },
+      {
+         "description" : "Mark your calendars for August 27-28 at 2 p.m. PT/23:00 CEST:&#38;nbsp;PogChamps star Ludwig will be hosting the &#34;dumbest&#34; chess tournament yet. Yes, you read that right&#38;mdash;Ludwig&#39;s Dumb Chess Tournament is coming this weekend! It is a collaboratio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ludwigs-dumb-chess-tournament",
+         "pubDate" : "Fri, 26 Aug 2022 18:50:00 -0700",
+         "title" : "Introducing Streaming Superstar Ludwig's \"Dumb Chess\" Tournament"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after scoring 5/6 in the first three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-if-i-continue-way-i-have-good-chances-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/llWAc7aFIm4.jpg?itok=2Eb7Dc0z\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-if-i-continue-way-i-have-good-chances-day-1",
+         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
+         "title" : "Firouzja: If I Continue This Way, I Have Good Chances | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> At the end of Day 1 of the 2022 Saint Louis Rapid &amp; Blitz, the team looks back on the prior evening&#039;s Opening Ceremony and drawing of lots. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-opening-ceremony-reel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PEJFBnHSKNE.jpg?itok=Xlf6L",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-opening-ceremony-reel",
+         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Opening Ceremony Reel"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after scoring 4/6 in the first three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nice-day-mvl-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SmDwJC_PR5w.jpg?itok=jn--JPWG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nice-day-mvl-day-1",
+         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
+         "title" : "A Nice Day for MVL | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Cristian Chirila after scoring 4/6 in the first three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-caruana-revenge-was-bonus-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fIKNwT-wxM8.jpg?itok=A90xQEyE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/xiong-caruana-revenge-was-bonus-day-1",
+         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
+         "title" : "Xiong: Caruana Revenge was a Bonus | Day 1"
+      },
+      {
          "description" : "The&#xA0;Chessable British Chess Championship 2022&#xA0;was held at the Riviera International Centre in&#xA0;Torquay&#xA0;from 8th to 21st August 2022. This was the&#xA0;108th British Chess Championship&#xA0;in a series that has run almost unbroken since 1904, with Torquay having previously hosted the Championships on six occasions, most recently in 2019. The&#xA0;2022 Championship&#xA0;was the main event, sponsored by Chessable, and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -426,36 +474,12 @@ news_feed (
          "title" : "Famous Odds Games | Road to 2000 - NM Caleb Denby"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi shows Fabiano Caruana's exciting Sicilian defense games at the 2022 Chess Olympiad in Chennai. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabianos-exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdrv08xfk6I.jpg?itok=CO4O3yWT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabianos-exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Wed, 24 Aug 2022 03:15:50 +0000",
-         "title" : "Fabiano's Exciting Sicilian! | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on a topic of his choice. 2022.08.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zdrv08xfk6I.jpg?itok=CO4O3yWT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exciting-sicilian-grandmasters-choice-gm-elshan-moradiabadi-lichessorg",
-         "pubDate" : "Tue, 23 Aug 2022 21:15:34 +0000",
-         "title" : "Exciting Sicilian! | Grandmaster's Choice - GM Elshan Moradiabadi | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1937",
          "pubDate" : "Tue, 23 Aug 2022 19:02:15 +0000",
          "title" : "Belgian Championship 2022: Daniel Dardha clinches third title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares the most famous handicap games, where a weaker player is given a time or material advantage. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/famous-odds-games-road-2000-nm-caleb-denby-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atH_S-xvfFE.jpg?itok=TVHHh4QI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/famous-odds-games-road-2000-nm-caleb-denby-lichessorg",
-         "pubDate" : "Tue, 23 Aug 2022 18:15:30 +0000",
-         "title" : "Famous Odds Games | Road to 2000 - NM Caleb Denby | lichess.org"
       },
       {
          "description" : "GM Sam Sevian won the Qualifier 1 Swiss stage of the 2022 Fischer Random World Championship on Monday, refusing a draw in the last round to go for more. GMs Aleksandr Shimanov and Vladimir Fedoseev finished in second and third with seven points ea...",
@@ -1090,14 +1114,6 @@ news_feed (
          "title" : "ChessKid Memberships: 20% Off For Back-to-School Season"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Eight Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Rapport, and Mamedyarov) are joined by wildcards (Nakamura and Shankland) for a rapid round robin and blitz double round robin event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila from August 26-30 at 12:50 P.M. CDT. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-ty",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-promo",
-         "pubDate" : "Thu, 18 Aug 2022 15:10:54 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz | PROMO"
-      },
-      {
          "description" : "Fischer leads by three points. The Match of the Century was coming to a head, with Spassky, despite all his efforts, unable to reduce the deficit. \"I felt that Fischer was like a large fish in my hands,\" he lamented, \"one that was slippery and hard to hold on to. At certain moments I let him slip. And then again the psychological torment would begin. Everything had to be begun again from the start ...\" Spassky was beginning to feel despondent. | Photo: Sk&aacute;ksamband Íslands",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1370,14 +1386,6 @@ news_feed (
          "title" : "Carlsen turns up the heat as FTX Crypto Cup gets under way in Miami"
       },
       {
-         "description" : "GM R.B. Ramesh is a name recognized globally in the chess community, thanks to his reputation as a chess trainer. Over the years, he has helped many chess players attain titles and secure medals at International levels. He is the only Indian coach...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/india-2-coach-ramesh-interview-chess-olympiad",
-         "pubDate" : "Mon, 15 Aug 2022 09:58:00 -0700",
-         "title" : "Interview: GM Ramesh On Coaching India 2 At Chess Olympiad, Winning Bronze"
-      },
-      {
          "description" : "In the Endgame Magic Show #207 Karsten M&uuml;ller has a guest: Lara Schulze, one of Germany's most promising female talents, who in 2021 won the European Women's Championship U20 and the German Women's Rapid Championship. In this episode of the Endgame Magic Show Lara and Karsten look at endgame highlights from the Chess Olympiad in Chennai. | Photo: Oliver Koeller | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/",
          "pubDate" : "Mon, 15 Aug 2022 02:00:00 +0000",
          "title" : "The Importance of Analytics for Chess Federations"
-      },
-      {
-         "description" : "GM Wesley So&#38;nbsp;won week 25 of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase, defeating GM Ian Nepomniachtchi in a hard-fought final that culminated in an armageddon playoff.&#38;nbsp; GMs Hikaru Nakamura and Oleksandr Bortnyk made ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rapid-chess-championship-week-25-so-wins",
-         "pubDate" : "Sun, 14 Aug 2022 16:51:00 -0700",
-         "title" : "Wesley So Prevails In Last Knockout"
       },
       {
          "description" : "An experienced trainer, Ivan Sokolov just helped Uzbekistan to win the Chess Olympiad in Chennai. In his FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than on specific lines. In a section focused on positions where Black has not castled but placed his king on f8, Sokolov analyses a game between Fabiano Caruana and Daniel Naroditsky. Out of a French Defence, Caruana never lets go of the initiative, and achieves a remarkable victory. | Photo: Austin Fuller / Saint Louis Chess Club",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/",
          "pubDate" : "Sat, 06 Aug 2022 06:29:47 +0000",
          "title" : "2022 Chess Olympiad: Round #7"
-      },
-      {
-         "description" : " Armenia still lead the 2022 Chess Olympiad, after a somewhat fortunate draw against the USA. They were facing a likely 2.5-1.5 loss, when Sam Shankland touched his king, thinking it was in check, only to realise (a) that it wasn't and (b) any move by the king loses. So he resigned, making the score 2-2. There is a bug tie for 2nd on 12 points, with both Indian teams and Uzbekistan in that group. The big matchup today is Armenia v India on the top board. It was rough day for teams from Oceania, including Australia. The Open team lost 3.5-0.5 to the strong Iran team, while the Women's team lost to Latvia 2.5-1.5. New Zealand had a win in the Open, but 2.5-1.5 over Saint Lucia was closer than ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-7.html",
-         "pubDate" : "Sat, 06 Aug 2022 03:06:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 7"
       }
    ]
 }
