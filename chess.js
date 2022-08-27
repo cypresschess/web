@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Saint Louis Rapid &#38; Blitz kicked off yesterday with the three rapid rounds. Defending the 2021 STL Rapid &#38; Blitz Champion title, Hikaru Nakamura is considered one of the favorites to win the tournament. However, after losing to Leinier Dominguez and Alireza Firouzja during the Day 1, Nakamura ties for the 7th place []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-after-day-1-at-the-2022-saint-louis-rapid-blitz-it-is-what-it-is/",
+         "pubDate" : "Sat, 27 Aug 2022 11:01:12 +0000",
+         "title" : "Hikaru Nakamura after Day 1 at the 2022 Saint Louis Rapid & Blitz: It is what it is"
+      },
+      {
+         "description" : "Researchers of the King's College London conducted a study analyzing data from 79.000 chess games finding that men play 8% longer against women than they would in a same-sex game. The study explains male chess players delay resigning when they play against a Woman to avoid the &#8220;psychological cost&#8221; of losing to a female chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/male-chess-players-delay-resigning-when-playing-against-a-woman-tweetoftheday/",
+         "pubDate" : "Sat, 27 Aug 2022 10:17:00 +0000",
+         "title" : "Male chess players delay resigning when playing against women #TweetOftheDay"
+      },
+      {
+         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 1 Recap By WGM Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule A dream come true We&#x2019;re back in the City of Saint Louis, the chess capital of the United States, for the final two legs of the 2022 Grand Chess Tour []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-takes-the-early-lead-at-the-saint-louis-rapid-blitz-2022/",
+         "pubDate" : "Sat, 27 Aug 2022 10:03:13 +0000",
+         "title" : "Alireza Firouzja takes the early lead at the Saint Louis Rapid & Blitz 2022"
+      },
+      {
+         "description" : "The International chess festival&#xA0;Atyrau Open 2022 took place 16-23 August in Kazakhstan with the Atyrau Chess Open 2022 as the main event of the festival. GM Timur Gareyev won the tournament scoring convincing 7.5/9 points. He was half a point ahead of GM Arseniy Nesterov, GM Sergei Tiviakov, Azamat Utegaliyev and GM Denis Makhnev who []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-timur-gareyev-is-the-winner-of-the-atyrau-chess-open-2022/",
+         "pubDate" : "Sat, 27 Aug 2022 10:02:00 +0000",
+         "title" : "GM Timur Gareyev is the winner of the Atyrau Chess Open 2022"
+      },
+      {
+         "description" : "Saint Louis Rapid and Blitz 2022 day 2 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/ Pairings &#38; Schedule /&#xA0;Opening ceremony live&#xA0;/&#xA0;Video coverage round 1",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-2-live/",
+         "pubDate" : "Sat, 27 Aug 2022 09:55:59 +0000",
+         "title" : "Saint Louis Rapid & Blitz - Day 2 LIVE"
+      },
+      {
+         "description" : "Alireza Firouzja ominously said he felt \"very fresh\" after he beat Shakhriyar Mamedyarov and Hikaru Nakamura to take the sole lead on 5/6 after Day 1 of the St. Louis Rapid and Blitz. Hikaru, who went unbeaten in 27 games to win the 2021 event, lost twice, handing Magnus Carlsen the world rapid no. 1 spot, but he did then bounce back in the final game to beat Levon Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/st-louis-rb-1-firouzja-s-dream-debut",
+         "pubDate" : "Sat, 27 Aug 2022 09:51:14 +0000",
+         "title" : "St Louis RB 1: Firouzja's dream debut"
+      },
+      {
+         "description" : "The 22nd edition of the Dubai Chess Open&#xA0;takes place from 27 August &#x2013; 5 September at the Dubai Chess &#38; Culture Club. . The tournament will be played in 9 rounds, swiss system, with time control 90 minutes for the whole game + 30 seconds of increment per each move, starting from the move one. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/22nd-dubai-chess-open-live/",
+         "pubDate" : "Sat, 27 Aug 2022 09:40:00 +0000",
+         "title" : "22nd Dubai Chess Open - LIVE"
+      },
+      {
+         "description" : "On 30 June 1908, just after 7 AM (all dates correspond to our Gregorian calendar), an explosion occurred in the harsh forests in Siberia near the Tunguska river. The explosion happened over an area that is nearly unpopulated, so apart from an estimated 80 million trees (and, we suppose, the wildlife in that area of 2150 km ²) only three humans died in the event that would likely have been a major catastrophe if it had happened over a densely populated area.| Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-alexander-petrovich-kazantsev-a-life-between-science-fiction-and-science-fiction",
+         "pubDate" : "Sat, 27 Aug 2022 10:30:00 +0100",
+         "title" : "Study of the Month - Alexander Petrovich Kazantsev: A life between science, fiction, and science-fiction"
+      },
+      {
+         "description" : "FIDÃ‰, the governing body of world chess, is now riven with contradictions. As I predicted, its Russian President, Arkady Dvorkovich, has been overwhelmingly re-elected at the vote in Chennai, which coincided with the relocated Chess Olympiad, or international team tournament. Originally scheduled for Moscow, everything was switched to Chennai at virtually the last minute, and by all accounts, it was []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/double-standards-in-world-chess/",
+         "pubDate" : "Sat, 27 Aug 2022 08:00:22 +0000",
+         "title" : "Double standards in world chess"
+      },
+      {
          "description" : "If the idea to snatch a pawn with 14...Nxc3? in the diagrammed position gives you an uneasy feeling, your chess understanding is definitely okay. And now you are invited to show how White refutes this idea!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,14 +258,6 @@ news_feed (
          "title" : "Trent's Tactics - Simagin's tactical stunners"
       },
       {
-         "description" : "The Women Chess Conference Prague 2022&#xA0;takes place from 26-27 August at Prague's Hotel Don Giovanni, concurrently with the&#xA0;European Women&#x2019;s Chess Championship 2022.&#xA0;Some of the Invited Guests and Speakers are: the ECU President&#xA0;Mr. Zurab Azmaiparashvili, the ECU Deputy President&#xA0;Ms. Dana Reizniece-Ozola, reigning European Women&#x2019;s Chess Champion&#xA0;Ms. Elina Danielian. The agenda of the Conference can be found []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-chess-conference-prague-2022-live/",
-         "pubDate" : "Fri, 26 Aug 2022 09:17:49 +0000",
-         "title" : "Women Chess Conference Prague 2022 LIVE"
-      },
-      {
          "description" : "Ian Nepomniachtchi, Alireza Firouzja and Hikaru Nakamura are among the stars in action for the St. Louis Rapid &amp; Blitz, which starts today, while Magnus Carlsen joins for the classical Sinquefield Cup on September 2. The organisers have announced replacements for world #13 Richard Rapport as the Hungarian couldn't meet US Covid travel requirements.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -226,36 +290,12 @@ news_feed (
          "title" : "Carlos Daniel Albornoz wins Mirandela Open 2022"
       },
       {
-         "description" : "The 28th edition of the Abu Dhabi International Chess Festival concluded today in the United Arab Emirates with 18-year-old Arjun Erigaisi triumphing the Abu Dhabi Masters 2022 (Read more: Arjun Erigaisi wins Abu Dhabi Masters 2022). In the competition of 148 players from 28 countries, 21-year-old WGM Nilufar Yakubbaeva won the first women's prize scoring []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wgm-nilufar-yakubbaeva-wins-first-womens-prize-at-the-abu-dhabi-masters/",
-         "pubDate" : "Thu, 25 Aug 2022 19:00:35 +0000",
-         "title" : "WGM Nilufar Yakubbaeva wins the first women's prize at the Abu Dhabi Masters"
-      },
-      {
          "description" : "This week Robert Ris will have a look at an interesting gambit which Black can use to spice things up after 1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4. With 4...e5!? Black indicates that he is ready to give a pawn to get good play. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-interesing-gambit",
          "pubDate" : "Thu, 25 Aug 2022 20:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: An interesting gambit"
-      },
-      {
-         "description" : "The 4th edition of the International Chess Open San Cristobal de La Laguna 2022 will be held from 27 August to 3 September 2022 in San Cristobal de La Laguna a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event attracted more than 140 players from 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/international-chess-open-san-cristobal-de-la-laguna-2022/",
-         "pubDate" : "Thu, 25 Aug 2022 17:56:12 +0000",
-         "title" : "International Chess Open San Cristobal de La Laguna 2022"
-      },
-      {
-         "description" : "The Mirandela Open 2022 took place from 17-23 August 2022 in Mirandela, Portugal, with participation of more than 130 players coming from 26 countries. The event was played in 9 rounds, swiss system, with time control: 90 minutes for the whole game plus 30 seconds of an increment per each move, starting from the move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-carlos-daniel-albornoz-cabrera-wins-mirandela-open-2022/",
-         "pubDate" : "Thu, 25 Aug 2022 17:14:29 +0000",
-         "title" : "GM Carlos Daniel Albornoz Cabrera wins Mirandela Open 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93784608.cms\" />The wrangling in the All India Chess Federation (AICF) refuses to die down as RN Dongre, who lost election last year, on Thursday claimed that he's the secretary of the body as per the National Sports Code.",
@@ -312,14 +352,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teenage-grandmaster-arjun-erigaisi-clinches-abu-dhabi-masters/articleshow/93779504.cms",
          "pubDate" : "Thu, 25 Aug 2022 12:03:43 +0000",
          "title" : "Indian teenage Grandmaster Arjun Erigaisi clinches Abu Dhabi Masters"
-      },
-      {
-         "description" : "The&#xA0;28th Abu Dhabi International Chess Festival&#xA0;took place from 17-25 August, 2022, in the United Arab Emirates with participation of 148 players from 31 countries. 18-year-old GM Arjun Erigaisi triumphed in the event scoring unbeaten 7.5/9 points. Erigaisi won the last round against GM David Anton Guijarro to emerge as the sole winner of the event. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-arjun-erigaisi-wins-abu-dhabi-masters-2022/",
-         "pubDate" : "Thu, 25 Aug 2022 11:41:22 +0000",
-         "title" : "GM Arjun Erigaisi wins Abu Dhabi Masters 2022"
       },
       {
          "description" : "The well-known grandmaster and author Lubomir Kavalek passed away last year in January. A prolific writer, he penned dozens of well-read chess columns, including one he shared on ChessBase over the years. Here we reproduce one from February 2017, in which Kavalek shows us a failed queen sacrifice by Jan Timman against him, and Caruana's successful 19.Qxf6!! sac against Nakamura at the London Chess Classic.",
@@ -1450,14 +1482,6 @@ news_feed (
          "title" : "A middlegame lesson by Ivan Sokolov: The king on f8"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 89th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-2",
-         "pubDate" : "Sun, 14 Aug 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 89: Basics of the Benko Gambit (8)"
-      },
-      {
          "description" : " The next miniature from the 2022 Olympiad involves an old idea that still seems to catch a lot of victims. I've seen shorter versions of this trap work against the Morra Gambit, but in this case it is against a more mainline Sicilian. <br /> <b>Dobrovoljc,Vid (2398) - Diamant,Andre (2538) [B30]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (11.4), 09.08.2022 <script>new PgnViewer( { boardName: \"game1342\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 Be7 9.dxc5 O-O 10.Nbd2 Bxc5 11.Ne4 Be7 12.c4 Nf6 13.Qc2 Qc7 14.Bg5 Ng4 15.h3 Nd4 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1342",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1970,14 +1994,6 @@ news_feed (
          "title" : "2022 Chess Olympiad - Day 8"
       },
       {
-         "description" : "Gukesh beat Fabiano Caruana as India 2 crushed top seeds USA 3:1 in Round 8 of the Chennai Olympiad. That's 8 wins in 8 games for 16-year-old Gukesh, who's now world no. 20 and Indian no. 2 on the live rating list, while Fabiano crashed out of the Top 10. With 3 rounds to go Armenia remain the team to beat, however, as they kept the sole lead by defeating the Indian 1st team.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-8-gukesh-crushes-caruana",
-         "pubDate" : "Sat, 06 Aug 2022 23:29:57 +0000",
-         "title" : "Chennai Olympiad 8: Gukesh crushes Caruana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1992,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1906",
          "pubDate" : "Sat, 06 Aug 2022 17:21:04 +0000",
          "title" : "44th Chess Olympiad: USA toppled by Indian teenagers"
-      },
-      {
-         "description" : "In the course of my global travels competing in chess tournaments , I once encountered a warning in Continental trains which has stuck in my mind: \"E pericoloso sporgersi.\" Basically it translates as: \"Don't stick your head out of the window!\" A couple of years ago I wrote a column enquiring whether playing chess might be []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/perils-of-a-globetrotting-grandmaster/",
-         "pubDate" : "Sat, 06 Aug 2022 09:00:31 +0000",
-         "title" : "Perils of a globetrotting grandmaster"
       }
    ]
 }
