@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If the idea to snatch a pawn with 14...Nxc3? in the diagrammed position gives you an uneasy feeling, your chess understanding is definitely okay. And now you are invited to show how White refutes this idea!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/knight-escapades-2",
+         "pubDate" : "Sat, 27 Aug 2022 09:00:00 +0100",
+         "title" : "Knight escapades"
+      },
+      {
          "description" : "Top-flight chess returned to one of America&#39;s premier chess venues on Friday with the commencement of the 2022 Saint Louis Rapid &#38;amp; Blitz, the penultimate event of the Grand Chess Tour, with the day&#39;s proceedings going the way of French GM Alir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -434,7 +442,7 @@ news_feed (
          "title" : "L'Ami and van den Berg head MEC together"
       },
       {
-         "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Only 600 Certificates are updated so far",
+         "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Any Correction mail at aicfwebmaster2021@gmail.com &#160;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
@@ -1458,14 +1466,6 @@ news_feed (
          "title" : "Old but reliable"
       },
       {
-         "description" : "The FTX Crypto Cup, kicks off next week with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and will be held on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. On offer is $210K plus an additional $100K tied to the price of bitcoin provided by leading cryptocurrency exchange FTX.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-preview",
-         "pubDate" : "Sun, 14 Aug 2022 13:00:00 +0100",
-         "title" : "Carlsen and Firouzja set for FTX Crypto Cup clash in Miami"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "https://www.thearticle.com/perils-of-a-globetrotting-grandmaster/",
          "pubDate" : "Sat, 06 Aug 2022 09:00:31 +0000",
          "title" : "Perils of a globetrotting grandmaster"
-      },
-      {
-         "description" : " 2022 Chess Olympiad: Round #7 Friday, 5 August 2022 After round #7, things are heating up at the 2022 Chess Olympiad in Chennai, India. The Indian women are still holding on to a perfect team score with 7/7 while Dommaraju Gukesh is on a blistering 7/7 for the Open Section. The tournament hall is buzzing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/\">2022 Chess Olympiad: Round #7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/06/2022-chess-olympiad-round-7/",
-         "pubDate" : "Sat, 06 Aug 2022 06:29:47 +0000",
-         "title" : "2022 Chess Olympiad: Round #7"
       }
    ]
 }
