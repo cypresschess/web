@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After six rounds, Monika Socko from Poland is in the sole lead with 5&frac12;/6 points. Round 7 starts Saturday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
+         "pubDate" : "Sat, 27 Aug 2022 14:50:00 +0100",
+         "title" : "European Women Chess Championship, Round 7 - Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1942",
+         "pubDate" : "Sat, 27 Aug 2022 12:43:15 +0000",
+         "title" : "Women Chess Conference kicks off in Prague"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1941",
+         "pubDate" : "Sat, 27 Aug 2022 11:30:13 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz - Day 1 Recap"
+      },
+      {
          "description" : "The 2022 Saint Louis Rapid &#38; Blitz kicked off yesterday with the three rapid rounds. Defending the 2021 STL Rapid &#38; Blitz Champion title, Hikaru Nakamura is considered one of the favorites to win the tournament. However, after losing to Leinier Dominguez and Alireza Firouzja during the Day 1, Nakamura ties for the 7th place []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hikaru-nakamura-after-day-1-at-the-2022-saint-louis-rapid-blitz-it-is-what-it-is/",
          "pubDate" : "Sat, 27 Aug 2022 11:01:12 +0000",
          "title" : "Hikaru Nakamura after Day 1 at the 2022 Saint Louis Rapid & Blitz: It is what it is"
-      },
-      {
-         "description" : "Researchers of the King's College London conducted a study analyzing data from 79.000 chess games finding that men play 8% longer against women than they would in a same-sex game. The study explains male chess players delay resigning when they play against a Woman to avoid the &#8220;psychological cost&#8221; of losing to a female chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/male-chess-players-delay-resigning-when-playing-against-a-woman-tweetoftheday/",
-         "pubDate" : "Sat, 27 Aug 2022 10:17:00 +0000",
-         "title" : "Male chess players delay resigning when playing against women #TweetOftheDay"
       },
       {
          "description" : "2022 Saint Louis Rapid &#38; Blitz Day 1 Recap By WGM Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule A dream come true We&#x2019;re back in the City of Saint Louis, the chess capital of the United States, for the final two legs of the 2022 Grand Chess Tour []",
@@ -138,6 +154,14 @@ news_feed (
          "title" : "FM Harry Grieve claims Chessable British Chess Championship 2022"
       },
       {
+         "description" : "Svitlana is showing us some more smart moves from Chennai. We learn a lot about the two openings, plans in the middle game, and some endgame knowledge. The Canadian WIM was able to win against Jenny Astrid Chirivi Castiblanco from Colombia, and achieve a draw against Gulenay Aydin from Turkey.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-rocks-chennai-ii-caro-kann-queen-s-gambit-with-3-h6",
+         "pubDate" : "Fri, 26 Aug 2022 20:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai II (Caro-Kann & Queen's Gambit with 3. ...h6!?)"
+      },
+      {
          "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-pragg-carlsen",
          "pubDate" : "Fri, 26 Aug 2022 19:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Magic moments from Pragg vs Carlsen"
-      },
-      {
-         "description" : "Svitlana is showing us some more smart moves from Chennai. We learn a lot about the two openings, plans in the middle game, and some endgame knowledge. The Canadian WIM was able to win against Jenny Astrid Chirivi Castiblanco from Colombia, and achieve a draw against Gulenay Aydin from Turkey.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-rocks-chennai-ii-caro-kann-queen-s-gambit-with-3-h6",
-         "pubDate" : "Fri, 26 Aug 2022 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai II (Caro-Kann & Queen's Gambit with 3. ...h6!?)"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering breaks down infamous queen sacrifices, smothered mates, Anastasia checkmates, and more in Beginner Breakdown. Originally on Twitch<br /> 2022.08.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beautiful-checkmate-patterns-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FhK5hHYie4k.jpg?itok=sJqd12u2\" alt=\"\" /></a></div>",
@@ -320,14 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/50-years-ago-secret-weapons",
          "pubDate" : "Thu, 25 Aug 2022 15:00:00 +0100",
          "title" : "50 years ago: Fischer-Spassky, Secret weapons?"
-      },
-      {
-         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After five rounds Monika Socko from Poland is in sole lead with 4.5/5. Round 6 starts at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
-         "pubDate" : "Thu, 25 Aug 2022 14:50:00 +0100",
-         "title" : "European Women Chess Championship, Round 6 - Live"
       },
       {
          "description" : " The 2023 Australian Open is being held from the 2nd to the 10th January 2023, in Perth. The Open will be an 11 round event, with 3 double round days. First prize is $3000, and the total prize pool is over $10,000. There is also Minor event (Under 1600) running alongside the Open. Full details for the tournament can be found at <a href=\"https://sites.google.com/view/2023ausopen/home\">https://sites.google.com/view/2023ausopen/home</a> ",
