@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1944",
+         "pubDate" : "Sat, 27 Aug 2022 19:18:52 +0000",
+         "title" : "2022 2nd FIDE Council meeting: List of decisions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1943",
+         "pubDate" : "Sat, 27 Aug 2022 19:11:18 +0000",
+         "title" : "2022 FIDE General Assembly: List of decisions"
+      },
+      {
+         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
+         "pubDate" : "Sat, 27 Aug 2022 19:50:00 +0100",
+         "title" : "St. Louis Rapid & Blitz, Day 2: Live"
+      },
+      {
+         "description" : "The Saint Louis Rapid & Blitz, part of the Grand Chess Tour, kicked off on Friday. On the first three days of the event, the ten participating world-class players battle it out in a round-robin tournament of 25+10 rapid games. After the first day, on which three rounds were played, Alireza Firouzja is topping the standings with 5 points (a win is worth two points in the rapid). | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d1",
+         "pubDate" : "Sat, 27 Aug 2022 19:45:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Firouzja starts off on the right foot"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-3",
+         "pubDate" : "Sat, 27 Aug 2022 18:19:08 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-2-lichessorg",
+         "pubDate" : "Sat, 27 Aug 2022 18:19:08 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 2 | lichess.org"
+      },
+      {
+         "description" : "The&#160;2022 International Chess Open San Cristobal de La Laguna&#160;takes place from 27 August to 3 September 2022 in San Cristobal de La Laguna, a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event is played in 9 rounds, swiss system, with time control: 90 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/san-cristobal-de-la-laguna-chess-open-2022-live/",
+         "pubDate" : "Sat, 27 Aug 2022 17:49:24 +0000",
+         "title" : "San Cristobal de La Laguna Chess Open 2022 - LIVE"
+      },
+      {
+         "description" : "On 30 June 1908, just after 7 AM (all dates correspond to our Gregorian calendar), an explosion occurred in the harsh forests in Siberia near the Tunguska river. The explosion happened over an area that is nearly unpopulated, so apart from an estimated 80 million trees (and, we suppose, the wildlife in that area of 2150 km ²) only three humans died in the event that would likely have been a major catastrophe if it had happened over a densely populated area.| Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-alexander-petrovich-kazantsev-a-life-between-science-fiction-and-science-fiction",
+         "pubDate" : "Sat, 27 Aug 2022 15:30:00 +0100",
+         "title" : "Study of the Month - Alexander Petrovich Kazantsev: A life between science, fiction, and science-fiction"
+      },
+      {
          "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After six rounds, Monika Socko from Poland is in the sole lead with 5&frac12;/6 points. Round 7 starts Saturday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,14 +138,6 @@ news_feed (
          "title" : "22nd Dubai Chess Open - LIVE"
       },
       {
-         "description" : "On 30 June 1908, just after 7 AM (all dates correspond to our Gregorian calendar), an explosion occurred in the harsh forests in Siberia near the Tunguska river. The explosion happened over an area that is nearly unpopulated, so apart from an estimated 80 million trees (and, we suppose, the wildlife in that area of 2150 km ²) only three humans died in the event that would likely have been a major catastrophe if it had happened over a densely populated area.| Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-alexander-petrovich-kazantsev-a-life-between-science-fiction-and-science-fiction",
-         "pubDate" : "Sat, 27 Aug 2022 10:30:00 +0100",
-         "title" : "Study of the Month - Alexander Petrovich Kazantsev: A life between science, fiction, and science-fiction"
-      },
-      {
          "description" : "FIDÃ‰, the governing body of world chess, is now riven with contradictions. As I predicted, its Russian President, Arkady Dvorkovich, has been overwhelmingly re-elected at the vote in Chennai, which coincided with the relocated Chess Olympiad, or international team tournament. Originally scheduled for Moscow, everything was switched to Chennai at virtually the last minute, and by all accounts, it was []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -102,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-1",
-         "pubDate" : "Fri, 26 Aug 2022 19:59:18 -0700",
+         "pubDate" : "Fri, 26 Aug 2022 19:59:00 -0700",
          "title" : "Firouzja Asserts Early Lead In St. Louis"
       },
       {
@@ -160,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-rocks-chennai-ii-caro-kann-queen-s-gambit-with-3-h6",
          "pubDate" : "Fri, 26 Aug 2022 20:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai II (Caro-Kann & Queen's Gambit with 3. ...h6!?)"
-      },
-      {
-         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
-         "pubDate" : "Fri, 26 Aug 2022 19:50:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the first three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
@@ -248,14 +296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/over-the-board-blitz-ratings-go-live/",
          "pubDate" : "Fri, 26 Aug 2022 11:29:15 +0000",
          "title" : "Over-the-board Blitz ratings go live!"
-      },
-      {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE Saint Louis rapid and blitz 2022: All the information / Live games / Opening ceremony live / Video coverage round 1",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022-day-1-live/",
-         "pubDate" : "Fri, 26 Aug 2022 11:10:00 +0000",
-         "title" : "Saint Louis Rapid and Blitz 2022 day 1 LIVE"
       },
       {
          "description" : "",
@@ -426,14 +466,6 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz: Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Harrison Keyser demonstrates a beautiful thematic Sicilian knight sacrifice and attack! Harrison Keyser:<br /> <a href=\"https://www.youtube.com/c/Arcg3/?sub_confirmation=1\">https://www.youtube.com/c/Arcg3/?sub_confirmation=1</a><br /> <a href=\"https://www.twitch.tv/arcg3\">https://www.twitch.tv/arcg3</a><br /> <a href=\"https://lichess.org/\">https://lichess.org/</a>@/randomchampgamer </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-sac-and-attack-versus-sicilian\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-sac-and-attack-versus-sicilian",
-         "pubDate" : "Wed, 24 Aug 2022 18:16:45 +0000",
-         "title" : "How to Sac and Attack versus the Sicilian"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #530 Merijn van Delft looks at a fine attacking game by the young German Grandmaster Frederik Svane. At the German Masters Svane won against Daniel Fridman, a player who is notoriously hard to beat. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -512,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d2",
          "pubDate" : "Tue, 23 Aug 2022 21:43:00 -0700",
          "title" : "Hansen Dances to 4-0, Fedoseev Fights to Final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby shares the most famous handicap games, where a weaker player is given a time or material advantage. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/famous-odds-games-road-2000-nm-caleb-denby\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atH_S-xvfFE.jpg?itok=TVHHh4QI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/famous-odds-games-road-2000-nm-caleb-denby",
-         "pubDate" : "Wed, 24 Aug 2022 03:15:50 +0000",
-         "title" : "Famous Odds Games | Road to 2000 - NM Caleb Denby"
       },
       {
          "description" : "",
@@ -1482,14 +1506,6 @@ news_feed (
          "title" : "The Importance of Analytics for Chess Federations"
       },
       {
-         "description" : "An experienced trainer, Ivan Sokolov just helped Uzbekistan to win the Chess Olympiad in Chennai. In his FritzTrainer series for ChessBase, he showcases a pragmatic style, focusing on general ideas rather than on specific lines. In a section focused on positions where Black has not castled but placed his king on f8, Sokolov analyses a game between Fabiano Caruana and Daniel Naroditsky. Out of a French Defence, Caruana never lets go of the initiative, and achieves a remarkable victory. | Photo: Austin Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sokolov-middlegames-king-on-f8",
-         "pubDate" : "Sun, 14 Aug 2022 23:50:00 +0100",
-         "title" : "A middlegame lesson by Ivan Sokolov: The king on f8"
-      },
-      {
          "description" : " The next miniature from the 2022 Olympiad involves an old idea that still seems to catch a lot of victims. I've seen shorter versions of this trap work against the Morra Gambit, but in this case it is against a more mainline Sicilian. <br /> <b>Dobrovoljc,Vid (2398) - Diamant,Andre (2538) [B30]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (11.4), 09.08.2022 <script>new PgnViewer( { boardName: \"game1342\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 Be7 9.dxc5 O-O 10.Nbd2 Bxc5 11.Ne4 Be7 12.c4 Nf6 13.Qc2 Qc7 14.Bg5 Ng4 15.h3 Nd4 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1342",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2008,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1907",
          "pubDate" : "Sat, 06 Aug 2022 20:23:43 +0000",
          "title" : "India A Women's team held to a draw by Ukraine but retains the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1906",
-         "pubDate" : "Sat, 06 Aug 2022 17:21:04 +0000",
-         "title" : "44th Chess Olympiad: USA toppled by Indian teenagers"
       }
    ]
 }
