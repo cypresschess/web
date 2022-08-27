@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2022-08-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208260542 target='_blank'>FBCC 8262022</a>",
 "HOUSTON","2022-08-02  - 08-23","21","<a href=http://www.uschess.org/msa/XtblMain.php?202208239312 target='_blank'>AUGUST TUESDAY NIGHT SWISS</a>",
 "PEARLAND","2022-08-23","4","<a href=http://www.uschess.org/msa/XtblMain.php?202208239242 target='_blank'>RCC QUADS AUGUST 23, 2022</a>",
 "HOUSTON","2022-08-20  - 08-21","106","<a href=http://www.uschess.org/msa/XtblMain.php?202208218212 target='_blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2022</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-11-06","15","<a href=http://www.uschess.org/msa/XtblMain.php?202111061142 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-11-05","10","<a href=http://www.uschess.org/msa/XtblMain.php?202111050452 target='_blank'>FBCC 2021 ITALIAN NOVEMBER CLASSICP</a>",
 "CYPRESS","2021-11-05","19","<a href=http://www.uschess.org/msa/XtblMain.php?202111050422 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2021-10-30  - 10-31","12","<a href=http://www.uschess.org/msa/XtblMain.php?202110318712 target='_blank'>HALLOWEEN WEEKEND 2-DAY SWISS</a>",
 ]);
