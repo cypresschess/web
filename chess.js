@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Punk Award Winners for 2022 were announced yesterday. Neal Bruce, the co-founder of the #ChessPunks congratulated the Winners of the awards and thanked the judges who chose the best among the nominated. Best game: @gauss1181Most encouraging: @ChessVonDoomBest content creator: @DoctorScullHonorary Chess Punk: @JenShahade",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-punk-award-winners-2022/",
+         "pubDate" : "Sun, 28 Aug 2022 11:11:54 +0000",
+         "title" : "Chess Punk Award Winners 2022"
+      },
+      {
+         "description" : "The FIDE Congress 2022 took place in Chennai, India between&#xA0;31 July 2022 and 09 August 2022&#xA0;as part of the&#xA0;Chess Olympiad 2022.&#xA0;Part of the FIDE Congress was the FIDE General Assembly, with the&#xA0;FIDE elections on the Agenda. The list of decisions of the 2022 FIDE General Assembly can be found below: GA-2022/01 To approve Treasurer&#x2019;s reportGA-2022/02 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-general-assembly-2022-list-of-decisions/",
+         "pubDate" : "Sun, 28 Aug 2022 10:46:58 +0000",
+         "title" : "FIDE General Assembly 2022 - List of decisions"
+      },
+      {
+         "description" : "The ECU Board meeting took place on Friday, August 26. One of the decisions made was the appointment of the ECU Commissions Chairpersons for the term of four years: ECU Arbiters Council Mr. Geert Bailleul (Belgium)ECU Educational Commission Mr. Jesper Bergmark Hall (Sweden)ECU Events Commission Mr. Paris Klerides (Cyprus)ECU Women's Commission []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-board-appointed-the-ecu-commissions-chairpersons/",
+         "pubDate" : "Sun, 28 Aug 2022 10:35:42 +0000",
+         "title" : "ECU Board appointed the ECU Commissions Chairpersons"
+      },
+      {
+         "description" : "The 2022 Maia International Chess Open kicked off on Friday, 26th of August in Portugal and takes place from August 26 to September 1 in Maia. The tournament is played in 9 rounds, swiss system, with time control: 90 minutes for the whole game + 30 seconds of increment per each move, starting from the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maia-chess-open-2022-live/",
+         "pubDate" : "Sun, 28 Aug 2022 10:15:52 +0000",
+         "title" : "Maia Chess Open 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 Maia International Chess Festival kicked off on Friday, 26th of August in Portugal and takes place from August 26 to September 4 in Maia. The festival features the 2022 Maia Chess Open, International Chess Conference &#8220;Strong Minds&#8221;, Queens event, Summer Chess Camp, and Cobra event. The Open tournament is played in 9 rounds, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maia-chess-festival-2022-kicked-off-in-portugal/",
+         "pubDate" : "Sun, 28 Aug 2022 10:10:14 +0000",
+         "title" : "Maia Chess Festival 2022 kicked off in Portugal"
+      },
+      {
+         "description" : "There were just three decisive games on Day 2 of the St. Louis Rapid and Blitz, and two of them featured Alireza Firouzja. He went down in flames against Fabiano Caruana, but bounced back to beat Leinier Dominguez and regain the sole lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/st-louis-rb-2-firouzja-hits-back-after-loss",
+         "pubDate" : "Sun, 28 Aug 2022 08:45:03 +0000",
+         "title" : "St Louis RB 2: Firouzja hits back after loss"
+      },
+      {
+         "description" : " Just a quick announcement this week: my new book Chess for Schools has just been published by Crown House Publishing. It's a book written for schoolteachers, not for chess players or chess teachers, so it might not be for you. However, if you're in touch with any schools in your area you might want to <a href=\"https://chessimprover.com/chess-for-schools-publication/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools: Publication\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-publication/\">Chess for Schools: Publication</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-for-schools-publication/",
+         "pubDate" : "Sun, 28 Aug 2022 08:41:08 +0000",
+         "title" : "Chess for Schools: Publication"
+      },
+      {
+         "description" : "Saint Louis Rapid &#38; Blitz 2022 Day 2 recap by WGM Anastasiya KarlovichSaint Louis Rapid and Blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule Players fought hard on day two of the Saint Louis Rapid &#38; Blitz tournament, yet very little progress was made. Tough fights and spectacular fireworks on all boards, but we only []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-remains-the-sole-leader-at-the-2022-saint-louis-rapid-blitz/",
+         "pubDate" : "Sun, 28 Aug 2022 08:37:02 +0000",
+         "title" : "Alireza Firouzja remains the sole leader at the 2022 Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "Saint Louis Rapid and Blitz 2022 day 3 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Opening ceremony live&#xA0;/&#xA0;Video coverage day 1 / Video coverage day 2",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-3-live/",
+         "pubDate" : "Sun, 28 Aug 2022 08:31:27 +0000",
+         "title" : "Saint Louis Rapid & Blitz - Day 3 LIVE"
+      },
+      {
+         "description" : "Lex Fridman is a research scientist at MIT working on human-centred AI and deep learning approaches to shared autonomy in self-driving cars. Fridman also hosts a popular podcast, which had, among others, the likes of Roger Penrose, Richard Dawkins and Stephen Wolfram among his guests. On Saturday, Fridman uploaded his latest interview, a conversation lasting two and a half hours with world chess champion Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lex-fridman-interviews-magnus-carlsen",
+         "pubDate" : "Sun, 28 Aug 2022 09:30:00 +0100",
+         "title" : "Lex Fridman interviews Magnus Carlsen"
+      },
+      {
          "description" : "Alireza Firouzja has played in four out of the nine decisive games seen so far at the Saint Louis Rapid & Blitz tournament. On Saturday, the 19-year-old lost to Fabiano Caruana and defeated Leinier Dominguez to keep the sole lead he had attained on the first day of the competition. Ian Nepomniachtchi, Maxime Vachier-Lagrave and Jeffery Xiong - all undefeated in the event - stand one point back. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +178,6 @@ news_feed (
          "title" : "Study of the Month - Alexander Petrovich Kazantsev: A life between science, fiction, and science-fiction"
       },
       {
-         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After six rounds, Monika Socko from Poland is in the sole lead with 5&frac12;/6 points. Round 7 starts Saturday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
-         "pubDate" : "Sat, 27 Aug 2022 14:50:00 +0100",
-         "title" : "European Women Chess Championship, Round 7 - Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -130,44 +202,12 @@ news_feed (
          "title" : "Hikaru Nakamura after Day 1 at the 2022 Saint Louis Rapid & Blitz: It is what it is"
       },
       {
-         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 1 Recap By WGM Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule A dream come true We&#x2019;re back in the City of Saint Louis, the chess capital of the United States, for the final two legs of the 2022 Grand Chess Tour []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-takes-the-early-lead-at-the-saint-louis-rapid-blitz-2022/",
-         "pubDate" : "Sat, 27 Aug 2022 10:03:13 +0000",
-         "title" : "Alireza Firouzja takes the early lead at the Saint Louis Rapid & Blitz 2022"
-      },
-      {
-         "description" : "The International chess festival&#xA0;Atyrau Open 2022 took place 16-23 August in Kazakhstan with the Atyrau Chess Open 2022 as the main event of the festival. GM Timur Gareyev won the tournament scoring convincing 7.5/9 points. He was half a point ahead of GM Arseniy Nesterov, GM Sergei Tiviakov, Azamat Utegaliyev and GM Denis Makhnev who []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-timur-gareyev-is-the-winner-of-the-atyrau-chess-open-2022/",
-         "pubDate" : "Sat, 27 Aug 2022 10:02:00 +0000",
-         "title" : "GM Timur Gareyev is the winner of the Atyrau Chess Open 2022"
-      },
-      {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 2 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/ Pairings &#38; Schedule /&#xA0;Opening ceremony live&#xA0;/&#xA0;Video coverage round 1",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-2-live/",
-         "pubDate" : "Sat, 27 Aug 2022 09:55:59 +0000",
-         "title" : "Saint Louis Rapid & Blitz - Day 2 LIVE"
-      },
-      {
          "description" : "Alireza Firouzja ominously said he felt \"very fresh\" after he beat Shakhriyar Mamedyarov and Hikaru Nakamura to take the sole lead on 5/6 after Day 1 of the St. Louis Rapid and Blitz. Hikaru, who went unbeaten in 27 games to win the 2021 event, lost twice, handing Magnus Carlsen the world rapid no. 1 spot, but he did then bounce back in the final game to beat Levon Aronian.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/st-louis-rb-1-firouzja-s-dream-debut",
          "pubDate" : "Sat, 27 Aug 2022 09:51:14 +0000",
          "title" : "St Louis RB 1: Firouzja's dream debut"
-      },
-      {
-         "description" : "The 22nd edition of the Dubai Chess Open&#xA0;takes place from 27 August &#x2013; 5 September at the Dubai Chess &#38; Culture Club. . The tournament will be played in 9 rounds, swiss system, with time control 90 minutes for the whole game + 30 seconds of increment per each move, starting from the move one. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/22nd-dubai-chess-open-live/",
-         "pubDate" : "Sat, 27 Aug 2022 09:40:00 +0000",
-         "title" : "22nd Dubai Chess Open - LIVE"
       },
       {
          "description" : "FIDÉ, the governing body of world chess, is now riven with contradictions. As I predicted, its Russian President, Arkady Dvorkovich, has been overwhelmingly re-elected at the vote in Chennai, which coincided with the relocated Chess Olympiad, or international team tournament. Originally scheduled for Moscow, everything was switched to Chennai at virtually the last minute, and by all accounts, it was []",
@@ -242,14 +282,6 @@ news_feed (
          "title" : "Xiong: Caruana Revenge was a Bonus | Day 1"
       },
       {
-         "description" : "The&#xA0;Chessable British Chess Championship 2022&#xA0;was held at the Riviera International Centre in&#xA0;Torquay&#xA0;from 8th to 21st August 2022. This was the&#xA0;108th British Chess Championship&#xA0;in a series that has run almost unbroken since 1904, with Torquay having previously hosted the Championships on six occasions, most recently in 2019. The&#xA0;2022 Championship&#xA0;was the main event, sponsored by Chessable, and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-harry-grieve-claims-chessable-british-chess-championship-2022/",
-         "pubDate" : "Fri, 26 Aug 2022 21:30:01 +0000",
-         "title" : "FM Harry Grieve claims Chessable British Chess Championship 2022"
-      },
-      {
          "description" : "Svitlana is showing us some more smart moves from Chennai. We learn a lot about the two openings, plans in the middle game, and some endgame knowledge. The Canadian WIM was able to win against Jenny Astrid Chirivi Castiblanco from Colombia, and achieve a draw against Gulenay Aydin from Turkey.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,14 +314,6 @@ news_feed (
          "title" : "British Championship 2022 - Nick Pert shows some breathtaking games to us"
       },
       {
-         "description" : "The 22nd edition of the Dubai Chess Open kicks off tomorrow at the Dubai Chess &#38; Culture Club and will be played from 27 August 5 September. The tournament will be played in 9 rounds, swiss system, with time control 90 minutes for the whole game + 30 seconds of increment per each move, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/22nd-dubai-chess-open-participants-and-information/",
-         "pubDate" : "Fri, 26 Aug 2022 14:23:42 +0000",
-         "title" : "22nd Dubai Chess Open - participants and information"
-      },
-      {
          "description" : "<h1 style=\"text-align: left;\">2022 ACT Women's and Girls' Chess Championship - Sunday 11 September 2022</h1>7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List)<br /><br />Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am<br />Lunch Break 1pm-1:30pm<br />Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm<br /><br /><b>Prizes - 1st $250 2nd $125 3rd $75</b> Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10<br /><br />Max. two half-point byes available for Rounds 1-4.<br /><br />Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free.<br /><br />+ <b>Novices event for unrated ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -304,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tips-from-the-coach-of-the-olympic-champion",
          "pubDate" : "Fri, 26 Aug 2022 13:00:00 +0100",
          "title" : "Tips from the coach of the Olympic champion"
-      },
-      {
-         "description" : "The Saint Louis Rapid &#38; Blitz 2022, the fourth leg of the&#xA0;Grand Chess Tour 2022 kicks off today. Eight tour players Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Hikaru Nakamura, Sam Shankland and Jefferey Xiong for a rapid round robin and blitz. Only []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-and-blitz-2022-pairings-schedule/",
-         "pubDate" : "Fri, 26 Aug 2022 11:44:27 +0000",
-         "title" : "Saint Louis Rapid and Blitz 2022 - Pairings & Schedule"
       },
       {
          "description" : "On the 1st September, OTB Blitz ratings will go live on the ECF rating website. Blitz chess for ECF purposes are games where each player...",
@@ -1968,46 +1984,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-rook-ending-from-kenilworth/",
          "pubDate" : "Sun, 07 Aug 2022 15:58:01 +0000",
          "title" : "A Rook Ending from Kenilworth"
-      },
-      {
-         "description" : "Arkady Dvorkovich, Russian Deputy Prime Minister from 2012-2018, has been re-elected as President of the World Chess Federation (FIDE) for another four years. He defeated Ukrainian Grandmaster Andrii Baryshpolets by a landslide 157:16 vote at the FIDE General Assembly in Chennai, India, after the remaining candidates all withdrew.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/dvorkovich-re-elected-fide-president-by-157-16-landslide",
-         "pubDate" : "Sun, 07 Aug 2022 12:14:16 +0000",
-         "title" : "Dvorkovich re-elected FIDE President by landslide"
-      },
-      {
-         "description" : "Incumbent president Arkady Dvorkovich was re-elected for a second term and Anand was in his team.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34361833/chess-viswanathan-anand-fide-deputy-president?device=featurephone",
-         "pubDate" : "Sun, 7 Aug 2022 05:25:53 -0500",
-         "title" : "Chess: Viswanathan Anand elected FIDE deputy president"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1908",
-         "pubDate" : "Sun, 07 Aug 2022 10:08:58 +0000",
-         "title" : "Arkady Dvorkovich, reelected as FIDE President"
-      },
-      {
-         "description" : " 2022 Chess Olympiad: Round #8 Saturday, 6 August 2022 The plot thickened in round #8. Armenia toppled India 1 on the strength of Gabriel &#8220;Mr. Olympus&#8221; Sargissian. His win over Pentala Harikrishna continued a surprising run at this Olympiad. Perhaps few outside of Armenia would have picked the team vying for a gold medal without The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/07/2022-chess-olympiad-round-8/\">2022 Chess Olympiad: Round #8</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/07/2022-chess-olympiad-round-8/",
-         "pubDate" : "Sun, 07 Aug 2022 09:23:55 +0000",
-         "title" : "2022 Chess Olympiad: Round #8"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93407296.cms\" />Indian chess legend Viswanathan Anand was on Sunday elected deputy president of FIDE, the sport's world governing body, while incumbent president Arkady Dvorkovich was re-elected for a second term.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-viswanathan-anand-becomes-fide-deputy-president/articleshow/93407296.cms",
-         "pubDate" : "Sun, 07 Aug 2022 08:51:27 +0000",
-         "title" : "Indian chess legend Viswanathan Anand becomes FIDE deputy president"
       }
    ]
 }
