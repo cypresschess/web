@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz continued on Saturday with rounds four-six of the rapid segment taking place, and GM Alireza Firouzja is holding onto the top spot by a single point. An early scare against GM Fabiano Caruana almost saw his l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-day-2",
+         "pubDate" : "Sat, 27 Aug 2022 19:53:00 -0700",
+         "title" : "Firouzja Falters But Maintains Lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-takes-down-firouzja-winner-interview-day-2",
+         "pubDate" : "Sun, 28 Aug 2022 00:19:29 +0000",
+         "title" : "Caruana Takes Down Firouzja | Winner Interview | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-still-number-one-winner-interview-day-2",
+         "pubDate" : "Sun, 28 Aug 2022 00:19:29 +0000",
+         "title" : "Firouzja Still Number One! | Winner Interview | Day 2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasia Karlovich after defeating Mamedyarov in the fourth rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-structure-favored-me-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fVoOzV8kl5g.jpg?itok=JMco4rfL\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -234,28 +258,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai II (Caro-Kann & Queen's Gambit with 3. ...h6!?)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the first three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-1-lichessorg",
-         "pubDate" : "Fri, 26 Aug 2022 18:18:12 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 1 | lichess.org"
-      },
-      {
          "description" : "In his Power Play Show, Daniel King examines critical and instructive moments from the exciting match between rising star Praggnanandhaa and world champion Magnus Carlsen from the FTX Crypto Cup tournament in Miami. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-pragg-carlsen",
          "pubDate" : "Fri, 26 Aug 2022 19:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Magic moments from Pragg vs Carlsen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering breaks down infamous queen sacrifices, smothered mates, Anastasia checkmates, and more in Beginner Breakdown. Originally on Twitch<br /> 2022.08.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beautiful-checkmate-patterns-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FhK5hHYie4k.jpg?itok=sJqd12u2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beautiful-checkmate-patterns-beginner-breakdown",
-         "pubDate" : "Fri, 26 Aug 2022 15:18:00 +0000",
-         "title" : "Beautiful Checkmate Patterns | Beginner Breakdown"
       },
       {
          "description" : "İş Bankası, one of the biggest commercial companies in Turkey, is celebrating its 98th anniversary on 26th August 2022. It was established by Mustafa Kemal Atat&uuml;rk, the founder of the Turkish Republic (now known as T&uuml;rkiye), on 26th August 1924. The Bank became the sponsor of the Turkish Chess Federation on 24th December 2005.",
@@ -1386,14 +1394,6 @@ news_feed (
          "title" : "Praggnanandhaa beats Firouzja in FTX Crypto Cup chess"
       },
       {
-         "description" : "GMs Levon Aronian, Magnus Carlsen, Praggnanandhaa R., and Jan-Krzysztof Duda started with wins in a first round full of fighting chess at the FTX Crypto Cup in Miami. The tournament is the sixth event in the Meltwater Champions Chess Tour and its ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-1",
-         "pubDate" : "Tue, 16 Aug 2022 04:17:00 -0700",
-         "title" : "FTX Crypto Cup: Aronian, Carlsen, Praggnanandhaa, Duda Start With Wins"
-      },
-      {
          "description" : "Ding Liren had a very tough start at the 2022 Candidates Tournament. He lost his first game, and a series of seven draws ensued. At that point, the world number two began to score one win after another, ending with a very impressive 8/14 in second place. We conducted an interview with him, discussing his performance at this elite event, going through the critical positions in each one of his games. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-legend-viswanathan-anand-becomes-fide-deputy-president/articleshow/93407296.cms",
          "pubDate" : "Sun, 07 Aug 2022 08:51:27 +0000",
          "title" : "Indian chess legend Viswanathan Anand becomes FIDE deputy president"
-      },
-      {
-         "description" : " Armenia has built their previous Olympiad victories on managing to score a lot of 2.5-1.5 match wins, which is just as good a 4-0 in this kind of team event (tie-break effects non-withstanding). So it wasn't a huge surprise when Armenia did an 'Armenia' and defeated India by this score. Draws on the bottom 3 boards, started the match, before a marathon win on the top board brought home the 2 points. They still lead the tournament by 1 point with 3 rounds to play, but more importantly, they have played India and India 2, plus the USA. They are up against another surprise packet, Uzbekistan, in today's round. The Australian team bounced back with a narrow 2.5-1.5 win over Finland (Armenia sty",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-8.html",
-         "pubDate" : "Sun, 07 Aug 2022 03:20:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 8"
       }
    ]
 }
