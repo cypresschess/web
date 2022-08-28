@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja has played in four out of the nine decisive games seen so far at the Saint Louis Rapid & Blitz tournament. On Saturday, the 19-year-old lost to Fabiano Caruana and defeated Leinier Dominguez to keep the sole lead he had attained on the first day of the competition. Ian Nepomniachtchi, Maxime Vachier-Lagrave and Jeffery Xiong - all undefeated in the event - stand one point back. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d2",
+         "pubDate" : "Sun, 28 Aug 2022 08:50:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Firouzja loses to Caruana, still leads"
+      },
+      {
          "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz continued on Saturday with rounds four-six of the rapid segment taking place, and GM Alireza Firouzja is holding onto the top spot by a single point. An early scare against GM Fabiano Caruana almost saw his l...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,22 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1943",
          "pubDate" : "Sat, 27 Aug 2022 19:11:18 +0000",
          "title" : "2022 FIDE General Assembly: List of decisions"
-      },
-      {
-         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
-         "pubDate" : "Sat, 27 Aug 2022 19:50:00 +0100",
-         "title" : "St. Louis Rapid & Blitz, Day 2: Live"
-      },
-      {
-         "description" : "The Saint Louis Rapid & Blitz, part of the Grand Chess Tour, kicked off on Friday. On the first three days of the event, the ten participating world-class players battle it out in a round-robin tournament of 25+10 rapid games. After the first day, on which three rounds were played, Alireza Firouzja is topping the standings with 5 points (a win is worth two points in the rapid). | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d1",
-         "pubDate" : "Sat, 27 Aug 2022 19:45:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Firouzja starts off on the right foot"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
@@ -192,6 +184,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/knight-escapades-2",
          "pubDate" : "Sat, 27 Aug 2022 09:00:00 +0100",
          "title" : "Knight escapades"
+      },
+      {
+         "description" : "The Saint Louis Rapid & Blitz, part of the Grand Chess Tour, kicked off on Friday. On the first three days of the event, the ten participating world-class players battle it out in a round-robin tournament of 25+10 rapid games. After the first day, on which three rounds were played, Alireza Firouzja is topping the standings with 5 points (a win is worth two points in the rapid). | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d1",
+         "pubDate" : "Sat, 27 Aug 2022 08:45:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Firouzja starts off on the right foot"
       },
       {
          "description" : "Top-flight chess returned to one of America&#39;s premier chess venues on Friday with the commencement of the 2022 Saint Louis Rapid &#38;amp; Blitz, the penultimate event of the Grand Chess Tour, with the day&#39;s proceedings going the way of French GM Alir...",
