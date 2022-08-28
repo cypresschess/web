@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after defeating Caruana in the seventh rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-my-rooks-were-better-caruana%E2%80%99s-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/b_gGqiEUZwE.jpg?itok=xrPG-dt9\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-my-rooks-were-better-caruana%E2%80%99s-day-3",
+         "pubDate" : "Sun, 28 Aug 2022 21:21:12 +0000",
+         "title" : "MVL: My Rooks Were Better than Caruana's | Day 3"
+      },
+      {
          "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -232,14 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-3",
          "pubDate" : "Sat, 27 Aug 2022 18:19:08 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-2-lichessorg",
-         "pubDate" : "Sat, 27 Aug 2022 18:19:08 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 2 | lichess.org"
       },
       {
          "description" : "The&#160;2022 International Chess Open San Cristobal de La Laguna&#160;takes place from 27 August to 3 September 2022 in San Cristobal de La Laguna, a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event is played in 9 rounds, swiss system, with time control: 90 minutes for the []",
@@ -1960,30 +1960,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-9.html",
          "pubDate" : "Mon, 08 Aug 2022 03:08:00 +0000",
          "title" : "2022 Chess Olympiad - Day 9"
-      },
-      {
-         "description" : "Javokhir Sindarov and Jakhongir Vakhidov grabbed the wins as Uzbekistan beat Armenia to take over as leaders of the Chennai Olympiad with two rounds to go. They face the teen stars of India 2 in Round 10 after Praggnanandhaa rescued a draw against Azerbaijan. In the Women's event Poland's Oliwia Kiolbasa hit 9/9, gave Poland victory over India, and left a 4-way tie for 1st place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-9-uzbekistan-poland-take-over",
-         "pubDate" : "Sun, 07 Aug 2022 22:22:37 +0000",
-         "title" : "Chennai Olympiad 9: Uzbekistan & Poland take over"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1911",
-         "pubDate" : "Sun, 07 Aug 2022 20:57:02 +0000",
-         "title" : "Checkmate Coronavirus: Vanakkam Chennai!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1910",
-         "pubDate" : "Sun, 07 Aug 2022 20:03:54 +0000",
-         "title" : "Women's Olympiad: Four-way tie on the top with two rounds to go"
       }
    ]
 }
