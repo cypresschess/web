@@ -10,6 +10,38 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz, Day 3: Live"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after scoring 6/12 after the middle three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-takes-down-firouzja-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xK04-c2lmiM.jpg?itok=-xciIRLi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-takes-down-firouzja-day-2",
+         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
+         "title" : "Caruana Takes Down Firouzja | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after scoring 8/12 after the middle three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-still-first-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDoakTWg67w.jpg?itok=sIkxKJC8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-still-first-day-2",
+         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
+         "title" : "Firouzja Still in First | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the first blitz round robin, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.29<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-4-lichessorg",
+         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 4 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-3-lichessorg",
+         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 3 | lichess.org"
+      },
+      {
          "description" : " Backing up from his excellent performance at the 2022 Chess Olympiad, GM Bobby Cheng has just tied for 1st in a strong Open event in Barcelona. Winning his last round, he caught the 2 leaders (who drew on the top board) with an impressive score of 8/10. This result, combined with his Olympiad result will see him add around 40 points to his current rating, pushing him to around 2580. Faced with a must win game in the final round, he found a long term piece sacrifice which kept his opponent under pressure, and then finished the game off with a mating attack. <b>Cheng,Bobby (2540) - Terry,Renato (2507) [A55]</b><br />23rd Sants Open chess24.com (10.3), 28.08.2022 <script>new PgnViewer( { board",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -296,38 +328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ludwigs-dumb-chess-tournament",
          "pubDate" : "Fri, 26 Aug 2022 18:50:00 -0700",
          "title" : "Introducing Streaming Superstar Ludwig's \"Dumb Chess\" Tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after scoring 5/6 in the first three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-if-i-continue-way-i-have-good-chances-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/llWAc7aFIm4.jpg?itok=2Eb7Dc0z\" alt=\"\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-if-i-continue-way-i-have-good-chances-day-1",
-         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
-         "title" : "Firouzja: If I Continue This Way, I Have Good Chances | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> At the end of Day 1 of the 2022 Saint Louis Rapid &amp; Blitz, the team looks back on the prior evening&#039;s Opening Ceremony and drawing of lots. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-opening-ceremony-reel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PEJFBnHSKNE.jpg?itok=Xlf6L",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-opening-ceremony-reel",
-         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Opening Ceremony Reel"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after scoring 4/6 in the first three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nice-day-mvl-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SmDwJC_PR5w.jpg?itok=jn--JPWG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nice-day-mvl-day-1",
-         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
-         "title" : "A Nice Day for MVL | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Cristian Chirila after scoring 4/6 in the first three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.26<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-caruana-revenge-was-bonus-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fIKNwT-wxM8.jpg?itok=A90xQEyE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/xiong-caruana-revenge-was-bonus-day-1",
-         "pubDate" : "Sat, 27 Aug 2022 00:18:32 +0000",
-         "title" : "Xiong: Caruana Revenge was a Bonus | Day 1"
       },
       {
          "description" : "Svitlana is showing us some more smart moves from Chennai. We learn a lot about the two openings, plans in the middle game, and some endgame knowledge. The Canadian WIM was able to win against Jenny Astrid Chirivi Castiblanco from Colombia, and achieve a draw against Gulenay Aydin from Turkey.",
