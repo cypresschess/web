@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Backing up from his excellent performance at the 2022 Chess Olympiad, GM Bobby Cheng has just tied for 1st in a strong Open event in Barcelona. Winning his last round, he caught the 2 leaders (who drew on the top board) with an impressive score of 8/10. This result, combined with his Olympiad result will see him add around 40 points to his current rating, pushing him to around 2580. Faced with a must win game in the final round, he found a long term piece sacrifice which kept his opponent under pressure, and then finished the game off with a mating attack. <b>Cheng,Bobby (2540) - Terry,Renato (2507) [A55]</b><br />23rd Sants Open chess24.com (10.3), 28.08.2022 <script>new PgnViewer( { board",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/cheng-wins-in-barcelona.html",
+         "pubDate" : "Sun, 28 Aug 2022 14:06:00 +0000",
+         "title" : "Cheng wins in Barcelona"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 90th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-3",
+         "pubDate" : "Sun, 28 Aug 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 90: Basics of the Benko Gambit (9)"
+      },
+      {
+         "description" : "Lex Fridman is a research scientist at MIT working on human-centred AI and deep learning approaches to shared autonomy in self-driving cars. Fridman also hosts a popular podcast, which had, among others, the likes of Roger Penrose, Richard Dawkins and Stephen Wolfram among his guests. On Saturday, Fridman uploaded his latest interview, a conversation lasting two and a half hours with world chess champion Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lex-fridman-interviews-magnus-carlsen",
+         "pubDate" : "Sun, 28 Aug 2022 14:55:00 +0100",
+         "title" : "Lex Fridman interviews Magnus Carlsen"
+      },
+      {
+         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After six rounds, Monika Socko from Poland is in the sole lead with 5&frac12;/6 points. Round 7 starts Saturday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
+         "pubDate" : "Sun, 28 Aug 2022 14:50:00 +0100",
+         "title" : "European Women's Chess Championship, Round 8 - Live"
+      },
+      {
+         "description" : "The 3rd stage of the Romanian Grand Prix took place from 20-28 August in Miercurea Ciuc. Simultaneously with the Grand Prix event (open to players rated 2200+), the&#xA0;25th jubilee classic chess tournament Caissa&#xA0;(for players rated U2200), and the youth&#xA0;9th Balogh Janos Memorial&#xA0;(for children U12, U10, U8) were held in the same venue of Sapientia University. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/seven-players-shared-the-top-at-the-3rd-stage-of-the-romanian-grand-prix-2022/",
+         "pubDate" : "Sun, 28 Aug 2022 13:36:39 +0000",
+         "title" : "Seven players shared the top at the 3rd stage of the Romanian Grand Prix 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1945",
+         "pubDate" : "Sun, 28 Aug 2022 11:43:17 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz - Day 2 Recap"
+      },
+      {
          "description" : "The Chess Punk Award Winners for 2022 were announced yesterday. Neal Bruce, the co-founder of the #ChessPunks congratulated the Winners of the awards and thanked the judges who chose the best among the nominated. Best game: @gauss1181Most encouraging: @ChessVonDoomBest content creator: @DoctorScullHonorary Chess Punk: @JenShahade",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -72,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-3-live/",
          "pubDate" : "Sun, 28 Aug 2022 08:31:27 +0000",
          "title" : "Saint Louis Rapid & Blitz - Day 3 LIVE"
-      },
-      {
-         "description" : "Lex Fridman is a research scientist at MIT working on human-centred AI and deep learning approaches to shared autonomy in self-driving cars. Fridman also hosts a popular podcast, which had, among others, the likes of Roger Penrose, Richard Dawkins and Stephen Wolfram among his guests. On Saturday, Fridman uploaded his latest interview, a conversation lasting two and a half hours with world chess champion Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lex-fridman-interviews-magnus-carlsen",
-         "pubDate" : "Sun, 28 Aug 2022 09:30:00 +0100",
-         "title" : "Lex Fridman interviews Magnus Carlsen"
       },
       {
          "description" : "Alireza Firouzja has played in four out of the nine decisive games seen so far at the Saint Louis Rapid & Blitz tournament. On Saturday, the 19-year-old lost to Fabiano Caruana and defeated Leinier Dominguez to keep the sole lead he had attained on the first day of the competition. Ian Nepomniachtchi, Maxime Vachier-Lagrave and Jeffery Xiong - all undefeated in the event - stand one point back. | Photo: Grand Chess Tour / Lennart Ootes",
@@ -1474,14 +1514,6 @@ news_feed (
          "title" : "Carlsen turns up the heat as FTX Crypto Cup gets under way in Miami"
       },
       {
-         "description" : "In the Endgame Magic Show #207 Karsten M&uuml;ller has a guest: Lara Schulze, one of Germany's most promising female talents, who in 2021 won the European Women's Championship U20 and the German Women's Rapid Championship. In this episode of the Endgame Magic Show Lara and Karsten look at endgame highlights from the Chess Olympiad in Chennai. | Photo: Oliver Koeller | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-207-with-karsten-mueller-and-lara-schulze-highlights-from-the-olympiad",
-         "pubDate" : "Mon, 15 Aug 2022 17:00:00 +0100",
-         "title" : "Endgame Magic #207 with Karsten M&uuml;ller and Lara Schulze: Highlights from the Olympiad"
-      },
-      {
          "description" : " Toby Brookfield is quite a dangerous player when he gets an attack going, something I discovered when I played him at the 2010 Olympiad. In the most recent Olympiad, he opens with the Centre Game, and when his opponents fails to take in e4 on move 8, is able to directly target the king. Once Brookfield plays h6 he is completely winning, although it took a few more moves before his opponent also realised. <br /> <b>Brookfield,Toby (1815) - Naipal,Hoolan (1785) [C22]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (3.2), 31.07.2022 <script>new PgnViewer( { boardName: \"game1343\", movesFormat: \"default\", pgnString:'1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1504,14 +1536,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/giri-carlsen-pragg-firouzja-in-ftx-crypto-cup",
          "pubDate" : "Mon, 15 Aug 2022 10:50:09 +0000",
          "title" : "Giri-Carlsen, Pragg-Firouzja in FTX Crypto Cup"
-      },
-      {
-         "description" : "How fast and how reliably can strong chess players recognize chess positions? How good are world-class grandmasters at identifying games? And how do they compare with amateurs in this respect. The very successful science and engineering channel Veritasium has picked up this subject and made a very interesting video on it. To which we add our own research, conducted almost forty years ago.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/recognizing-chess-positions",
-         "pubDate" : "Mon, 15 Aug 2022 11:00:00 +0100",
-         "title" : "Recognizing chess positions"
       },
       {
          "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
