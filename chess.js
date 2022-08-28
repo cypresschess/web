@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
+         "pubDate" : "Sun, 28 Aug 2022 19:50:00 +0100",
+         "title" : "St. Louis Rapid & Blitz, Day 3: Live"
+      },
+      {
          "description" : " Backing up from his excellent performance at the 2022 Chess Olympiad, GM Bobby Cheng has just tied for 1st in a strong Open event in Barcelona. Winning his last round, he caught the 2 leaders (who drew on the top board) with an impressive score of 8/10. This result, combined with his Olympiad result will see him add around 40 points to his current rating, pushing him to around 2580. Faced with a must win game in the final round, he found a long term piece sacrifice which kept his opponent under pressure, and then finished the game off with a mating attack. <b>Cheng,Bobby (2540) - Terry,Renato (2507) [A55]</b><br />23rd Sants Open chess24.com (10.3), 28.08.2022 <script>new PgnViewer( { board",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -863,7 +871,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-chess-reflection-of-us",
          "pubDate" : "Sun, 21 Aug 2022 12:17:00 -0700",
-         "title" : "Chess.com Releases Documentary 'The History Of Chess: A Reflection Of Us'"
+         "title" : "Chess.com Releases Documentary 'The History Of Chess: The World Chess Championship'"
       },
       {
          "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
@@ -1498,14 +1506,6 @@ news_feed (
          "title" : "The Mongolian Tactic (3)"
       },
       {
-         "description" : "The FTX Crypto Cup, the second Major of this year's Meltwater Champions Tour, kicked off at the Eden Roc Miami Beach Hotel in Florida. Magnus Carlsen, Praggnanandhaa, Jan-Krzysztof Duda and Levon Aronian all started strong, beating their respective opponents 'in regulation' - i.e. within the first four rapid games of each match. Notably, Pragg defeated Alireza Firouzja in the duel between rising stars.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r1",
-         "pubDate" : "Tue, 16 Aug 2022 07:25:00 +0100",
-         "title" : "FTX Crypto Cup: Pragg beats Firouzja"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,30 +1984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1910",
          "pubDate" : "Sun, 07 Aug 2022 20:03:54 +0000",
          "title" : "Women's Olympiad: Four-way tie on the top with two rounds to go"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1909",
-         "pubDate" : "Sun, 07 Aug 2022 17:36:10 +0000",
-         "title" : "Uzbek kids lead 44th Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93413839.cms\" />For India 2, the ongoing 44th Olympiad, has been all about D Gukesh's splendid run of 8 successive wins. On Sunday, the 16-year-old's win-run came to a close as he drew his 9th round encounter against Azerbaijan's Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-praggnanandhaa-saved-india-2-the-blushes-in-round-9/articleshow/93413839.cms",
-         "pubDate" : "Sun, 07 Aug 2022 16:05:21 +0000",
-         "title" : "Chess Olympiad: Praggnanandhaa saved India 2 the blushes in round 9"
-      },
-      {
-         "description" : " Here's a rook ending from the Chessable English Championships. This is Jacob Watson (1922) Ian Thompson (2074), and we'll pick it up after Black's 66th move. I'm not going to provide a lot of instruction here: I'm not a strong enough player to understand what's happening and all my fairly serious chess was played <a href=\"https://chessimprover.com/a-rook-ending-from-kenilworth/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Rook Ending from Kenilworth\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-rook-ending-from-kenilworth/\">A Rook Ending from Kenilworth</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Im",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-rook-ending-from-kenilworth/",
-         "pubDate" : "Sun, 07 Aug 2022 15:58:01 +0000",
-         "title" : "A Rook Ending from Kenilworth"
       }
    ]
 }
