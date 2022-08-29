@@ -236,7 +236,7 @@ news_feed (
       {
          "description" : "There's no question about it: World Championship chess needs more cartoons. That's this month's theme in the ongoing series on <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). The closest thing I could find to a cartoon in the series was <A HREF=\"https://chessforallages.blogspot.com/2017/03/chess-strategy-woodcut.html\">Chess Strategy Woodcut</A>(March 2017), and that was a serious drawing, not satire. <P>A recent <I>Fischer Friday</I> post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022), featured an excellent example of how poor was Fischer's public image just be",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/was-fischer-avaricious.html",
          "pubDate" : "Sun, 28 Aug 2022 15:37:00 +0000",
          "title" : "Was Fischer Avaricious?"
@@ -468,7 +468,7 @@ news_feed (
       {
          "description" : "One point I've come to realize in this long <I>Fischer Friday</I> series -- last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022) -- is that the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com), was in fact two matches. The first match, which lasted from end-June 1972 through the third game, was all about whether Fischer would play. The first match had little to do with chess. <P>The second match, which started with the fourth game, was all about chess. Starting with the score at 2-1 in Spassky's favor, the players fought some of the most interesting games ever seen at the highest le",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html",
          "pubDate" : "Fri, 26 Aug 2022 15:18:00 +0000",
          "title" : "GM Svetozar Gligoric, Player/Journalist"
@@ -580,7 +580,7 @@ news_feed (
       {
          "description" : "A few weeks ago I posted <A HREF=\"http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-1.html\">2022 CJA Awards - Part 1</A>(August 2022). Now I'll post 'Part 2'. Following the lead from last year's <A HREF=\"http://chessforallages.blogspot.com/2021/09/2021-cja-awards-part-2.html\">2021 CJA Awards - Part 2</A>(September 2021), I'll feature four specific awards:- <UL><LI>Chess Journalist of the Year <LI>Best Chess Book <LI>Best Chess Art <LI>Best Chess Blog </UL> <P>Winner of the most prestigious award, 'Chess Journalist of the Year', was Elshan Moradiabadi. His certificate is reproduced below. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh25.gif\" WIDTH=400 HEIGHT=3",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html",
          "pubDate" : "Thu, 25 Aug 2022 15:42:00 +0000",
          "title" : "2022 CJA Awards - Part 2"
@@ -924,7 +924,7 @@ news_feed (
       {
          "description" : "Of the many names involved in chess engine development, two of them have familiar faces: Larry Kaufman and Mark Lefler. After seeing both in a recent video, <A HREF=\"http://chessforallages.blogspot.com/2022/03/icgaai4s-acg-2021.html\">ICGA/AI4S ACG 2021</A>(March 2022), I was pleased to discover more of the same in a Chessbase article, <A HREF=\"https://en.chessbase.com/post/the-magicians-of-komodo-3-larry-kaufman-and-mark-lefler\">The magicians of Komodo 3 - Larry Kaufman and Mark Lefler</A>(chessbase.com; Arne Kaehler). Unfortunately, viewing the article's two embedded videos... <UL><LI>2022-08-12: <A HREF=\"https://www.youtube.com/watch?v=tfSocovvoDg\">Live stream cut - Larry Kaufman and Mark ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/interviews-with-dragons-developers.html",
          "pubDate" : "Mon, 22 Aug 2022 15:18:00 +0000",
          "title" : "Interviews with Dragon's Developers"
@@ -1028,7 +1028,7 @@ news_feed (
       {
          "description" : "A couple of months ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/06/caissartistic-license.html\">Caissartistic License</A>(June 2022), I wrote, <BLOCKQUOTE>For this month's <I>Flickr Favorite</I>, I had two photos on the short list, neither of which I understood. Since I couldn't decide between them, I used both. </BLOCKQUOTE> <P>It's a nice dilemma to have and this month I had similar. This time it wasn't for two photos; it was for two paintings. And it wasn't for a lack of understanding; it was for choosing between a Ukrainian artist and a Russian artist. What to do? I used Flickr's search function on the photographer -- keyword 'chess', of course -- and came up with the followi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/fun-with-flickr-search.html",
          "pubDate" : "Sun, 21 Aug 2022 15:15:00 +0000",
          "title" : "Fun with Flickr Search"
@@ -1236,7 +1236,7 @@ news_feed (
       {
          "description" : "A few months ago, in an earlier post in this <I>Fischer Friday</I> series, a post titled <A HREF=\"http://chessforallages.blogspot.com/2022/06/hatchet-job.html\">Hatchet Job</A>(June 2022), I quoted Anthony Saidy writing, <BLOCKQUOTE>Brad Darrach, one of the minority of journalists sympathetic to Fischer. </BLOCKQUOTE> <P>That short quote made two points. The first was that Darrach was 'sympathetic to Fischer'. The second was that the same could be said for only a 'minority of journalists'. That might seem surprising, given the legendary proportions the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>has taken over the past 50 years, but Fischer's recalc",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/bags-of-loot.html",
          "pubDate" : "Fri, 19 Aug 2022 15:01:00 +0000",
          "title" : "Bags of Loot"
@@ -1612,7 +1612,7 @@ news_feed (
       {
          "description" : "Another two weeks have passed since the previous report on the world's leading, ongoing engine vs. engine competitions. Titled <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-frc5-leads-ccc18.html\">Stockfish Wins TCEC FRC5, Leads CCC18 Rapid Semifinal</A>(August 2022), the post can be summarized as follows:- <BLOCKQUOTE>TCEC: The site is currently conducting 'DFRC 1'. I'll cover the event on my chess960 blog, where I post twice a month. &#149; CCC: Leading the 'CCC18 Rapid' Semifinal stage are Stockfish, Dragon, and LC0, already by a comfortable margin over the other three engines </BLOCKQUOTE> <P>What's the current status? The TCEC is transitioning from S22 to S23, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html",
          "pubDate" : "Mon, 15 Aug 2022 15:18:00 +0000",
          "title" : "Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final"
@@ -1652,7 +1652,7 @@ news_feed (
       {
          "description" : "This video is not for chess players. I'm not sure who the target audience is, but it would take me several viewings to start to understand it. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/crKNBSpO2_I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Lichess @ Big Techday 22: Serving 5 Million Chess Games a Day with 125 Volunteers and €5 Donations</B> (49:16) &#149; '[Published on] Aug 10, 2022' <P>The description says, <BLOCKQUOTE>T. Alexander Lystad (@arex) spoke about Lichess technology, architecture and scaling at TNG's Big Techday confer",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/inside-lichess.html",
          "pubDate" : "Sun, 14 Aug 2022 15:22:00 +0000",
          "title" : "Inside Lichess"
@@ -1716,7 +1716,7 @@ news_feed (
       {
          "description" : "In <A HREF=\"http://chessforallages.blogspot.com/2022/08/a-wizard-or-god.html\">A Wizard or a God?</A>(August 2022), my most recent post in the series 'Top eBay Chess Items by Price', my short list had a number of items related to the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com). Two of the items were for tickets to the match, shown below. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh12.jpg\" WIDTH=265 HEIGHT=400><BR><B>Top:</B> Game 2 &#149; <B>Bottom:</B> Games 1, 6, and 12 <P>The item on the top was titled '1972 World Chess Championship PSA AUTHENTIC Ticket BOBBY FISCHER Boris Spassky', and sold for $1500.00 'Buy It Now'",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/fischer-spassky-tickets.html",
          "pubDate" : "Fri, 12 Aug 2022 15:02:00 +0000",
          "title" : "Fischer - Spassky Tickets"
@@ -1948,7 +1948,7 @@ news_feed (
       {
          "description" : "A few weeks ago we looked at <A HREF=\"https://chessforallages.blogspot.com/2022/07/2022-cja-award-entries.html\">2022 CJA Award Entries</A>(July 2022), and now we can look at the final awards. Last year I split the discussion into 'Part 1' and 'Part 2' -- see the 2022 kickoff post <A HREF=\"http://chessforallages.blogspot.com/2022/05/2022-cja-awards-announcement.html\">2022 CJA Awards Announcement</A>(May 2022) for background and links. <B>NB:</B>In case you haven't been following the series, the acronym CJA stands for Chess Journalists of America. <P>I haven't seen an announcement that the 2022 awards are available, but they can be found at <A HREF=\"https://www.chessjournalism.org/2022-cja-awa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
+         "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-1.html",
          "pubDate" : "Tue, 09 Aug 2022 15:02:00 +0000",
          "title" : "2022 CJA Awards - Part 1"
