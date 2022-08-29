@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Glorious sacrifices, unexpected tactics and checkmating attacks. The King's Gambit is one of the oldest and most romantic openings in the game of chess. These DVDs contain all you need to know to play the King's Gambit. This week on offer: Power Play 27 & 28 - Instead of €54.90 now only €39.90!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/offer-power-play-27-28-the-king-s-gambit-and-tactic-toolbox",
+         "pubDate" : "Mon, 29 Aug 2022 16:33:49 +0100",
+         "title" : "Offer: Power Play 27 & 28 - The King's Gambit and Tactic Toolbox"
+      },
+      {
+         "description" : "Dear Chess Friends, The ECU Board meeting took place on Friday 29th of August through teleconference: Main information and Decisions The status of ECU staff/officers has been confirmed for the new term Mr. Erald Dervishi (ALB) reappointed as CEO of European Chess Union ECU Board appointed the ECU Commissions Chairpersons for the 4-years term ECU Arbiter Council: Mr.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/",
+         "pubDate" : "Mon, 29 Aug 2022 15:09:46 +0000",
+         "title" : "Communique of the ECU Board Meeting CL No4/2022"
+      },
+      {
+         "description" : "Dear Chess Friends, According to FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will be informed on the ECU directory and they will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-call-of-interest-ecu-fide-commissions-2023-2026/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions-2023-2026/",
+         "pubDate" : "Mon, 29 Aug 2022 15:09:37 +0000",
+         "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2023 - 2026"
+      },
+      {
+         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After eight rounds, Monicka Socko is the sole leader with 7 points. Maria Gevorgyan is in sole second place a half point back. Round 9 starts Monday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
+         "pubDate" : "Mon, 29 Aug 2022 14:50:00 +0100",
+         "title" : "European Women's Chess Championship, Round 9 - Live"
+      },
+      {
+         "description" : " During the Olympiad (and possibly after), there was a lot of commentary about the quality of play on the lower boards. There were a few examples of Scholars Mate, and this was seen as evidence that not everyone had 'earned' the right to be there. As a past Olympiad player (and a recent official), I do not believe lines should be drawn in this way. If you are picked by your Federation to play, then you get to play. Both China and India were considered 'non chess' countries in the not so recent past, an opinion that would not be said out loud these days. And speaking of Scholars Mate, in the following game, White was able to pick up a piece after Black failed to spot how strong simply threate",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/scholars-trap.html",
+         "pubDate" : "Mon, 29 Aug 2022 13:09:00 +0000",
+         "title" : "Scholars Trap"
+      },
+      {
+         "description" : "Frenchmen Alireza Firouzja and Maxime Vachier-Lagrave share the lead after Day 3 of St. Louis Rapid & Blitz, one point ahead of Sam Shankland. Shakhriyar Mamedyarov clearly takes the \"Player of the Day\" award scoring three impressive wins after entering the day in last place, while Hikaru Nakamura continues his horrible run and is shockingly in last place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/st-louis-rb-3-mamedyarov-on-fire-as-frenchmen-share-lead",
+         "pubDate" : "Mon, 29 Aug 2022 11:09:32 +0000",
+         "title" : "St Louis RB 3: Mamedyarov on fire as Frenchmen share lead"
+      },
+      {
+         "description" : "In chess we are taught there are two main ways of thinking about a position: conceptualization for broader overviews of the situation at hand, and calculation/tactics that are the cogs behind every move. These are often taught as choosing one method or the other, yet sometimes this dogmatism must be cast aside and flexibility is required.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/conceptualizing-in-calculation",
+         "pubDate" : "Mon, 29 Aug 2022 11:49:21 +0100",
+         "title" : "Conceptualizing in calculation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1947",
+         "pubDate" : "Mon, 29 Aug 2022 09:44:57 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz - Day 3 Recap"
+      },
+      {
+         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 3 Recap by Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0; Alireza Firouzja and Maxime Vachier-Lagrave win the rapid portion of the 2022 Saint Louis Rapid &#38; Blitz. It was also a big day for Sam Shankland, who moved up the standings and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/firouzja-and-mvl-win-the-rapid-portion-of-the-2022-saint-louis-rapid-blitz/",
+         "pubDate" : "Mon, 29 Aug 2022 08:08:05 +0000",
+         "title" : "Firouzja and MVL win the rapid portion of the 2022 Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "Saint Louis Rapid and Blitz 2022 day 4 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Opening ceremony live&#xA0;/&#xA0;Video coverage day 1&#xA0;/&#xA0;Video coverage day 2",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-4-live/",
+         "pubDate" : "Mon, 29 Aug 2022 08:00:51 +0000",
+         "title" : "Saint Louis Rapid & Blitz - Day 4 LIVE"
+      },
+      {
          "description" : "An action-packed third day of action at the Saint Louis Rapid & Blitz tournament left French representatives Alireza Firouzja and Maxime Vachier-Lagrave in the shared lead going into the blitz section of the event. Sam Shankland beat Ian Nepomniachtchi and Hikaru Nakamura to climb to sole third place, while Shakhriyar Mamedyarov scored three wins in a row to return to a fifty-percent score after a subpar performance in the first six rounds. | Photos: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +128,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mvl-my-rooks-were-better-caruana%E2%80%99s-day-3",
          "pubDate" : "Sun, 28 Aug 2022 21:21:12 +0000",
          "title" : "MVL: My Rooks Were Better than Caruana's | Day 3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1946",
+         "pubDate" : "Sun, 28 Aug 2022 20:23:25 +0000",
+         "title" : "Federations entitled to nominate a player for the FIDE World Cup and Women's World Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after scoring 6/12 after the middle three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-takes-down-firouzja-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xK04-c2lmiM.jpg?itok=-xciIRLi\" alt=\"\" /></a></div>",
@@ -178,7 +266,7 @@ news_feed (
          "title" : "Chess for Schools: Publication"
       },
       {
-         "description" : "Saint Louis Rapid &#38; Blitz 2022 Day 2 recap by WGM Anastasiya KarlovichSaint Louis Rapid and Blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule Players fought hard on day two of the Saint Louis Rapid &#38; Blitz tournament, yet very little progress was made. Tough fights and spectacular fireworks on all boards, but we only []",
+         "description" : "Saint Louis Rapid &#38; Blitz 2022 Day 2 recap by WGM Anastasiya KarlovichSaint Louis Rapid and Blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule Players fought hard on day two of the Saint Louis Rapid &#38; Blitz tournament, yet very little progress was made. Tough fights and spectacular fireworks on all boards, but we only []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/alireza-firouzja-remains-the-sole-leader-at-the-2022-saint-louis-rapid-blitz/",
@@ -186,7 +274,7 @@ news_feed (
          "title" : "Alireza Firouzja remains the sole leader at the 2022 Saint Louis Rapid & Blitz"
       },
       {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 3 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Opening ceremony live&#xA0;/&#xA0;Video coverage day 1 / Video coverage day 2",
+         "description" : "Saint Louis Rapid and Blitz 2022 day 3 LIVE Saint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160;/&#160;Opening ceremony live&#160;/&#160;Video coverage day 1 / Video coverage day 2",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-3-live/",
@@ -250,14 +338,6 @@ news_feed (
          "title" : "2022 FIDE General Assembly: List of decisions"
       },
       {
-         "description" : "The&#160;2022 International Chess Open San Cristobal de La Laguna&#160;takes place from 27 August to 3 September 2022 in San Cristobal de La Laguna, a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event is played in 9 rounds, swiss system, with time control: 90 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/san-cristobal-de-la-laguna-chess-open-2022-live/",
-         "pubDate" : "Sat, 27 Aug 2022 17:49:24 +0000",
-         "title" : "San Cristobal de La Laguna Chess Open 2022 - LIVE"
-      },
-      {
          "description" : "On 30 June 1908, just after 7 AM (all dates correspond to our Gregorian calendar), an explosion occurred in the harsh forests in Siberia near the Tunguska river. The explosion happened over an area that is nearly unpopulated, so apart from an estimated 80 million trees (and, we suppose, the wildlife in that area of 2150 km �) only three humans died in the event that would likely have been a major catastrophe if it had happened over a densely populated area.| Photos: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1941",
          "pubDate" : "Sat, 27 Aug 2022 11:30:13 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 1 Recap"
-      },
-      {
-         "description" : "The 2022 Saint Louis Rapid &#38; Blitz kicked off yesterday with the three rapid rounds. Defending the 2021 STL Rapid &#38; Blitz Champion title, Hikaru Nakamura is considered one of the favorites to win the tournament. However, after losing to Leinier Dominguez and Alireza Firouzja during the Day 1, Nakamura ties for the 7th place []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-after-day-1-at-the-2022-saint-louis-rapid-blitz-it-is-what-it-is/",
-         "pubDate" : "Sat, 27 Aug 2022 11:01:12 +0000",
-         "title" : "Hikaru Nakamura after Day 1 at the 2022 Saint Louis Rapid & Blitz: It is what it is"
       },
       {
          "description" : "Alireza Firouzja ominously said he felt \"very fresh\" after he beat Shakhriyar Mamedyarov and Hikaru Nakamura to take the sole lead on 5/6 after Day 1 of the St. Louis Rapid and Blitz. Hikaru, who went unbeaten in 27 games to win the 2021 event, lost twice, handing Magnus Carlsen the world rapid no. 1 spot, but he did then bounce back in the final game to beat Levon Aronian.",
@@ -1434,14 +1506,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen and Pragg in the lead"
       },
       {
-         "description" : "Now that the Uzbekistan team has won the gold medal at the 2022 Chess Olympiad in Chennai, Ivan Sokolov may reflect on his greatest accomplishment as a coach. For ChessBase, the Grandmaster created the Fritztrainer series \"Understanding Middlegame Strategies.\" This week, we offer a summer bundle that includes all 4 episodes for only 69.90!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-weeks-summer-special-offer-gold-medal-winner-ivan-sokolov",
-         "pubDate" : "Tue, 16 Aug 2022 17:00:00 +0100",
-         "title" : "This week's summer special offer - Gold medal winner Ivan Sokolov"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg\" data-image-dimensions=\"750x563\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62fba7c2ee7391345d82b888\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"> Karen Boyd with her husband, GM Ben Finegold </figcaption> </figure> <p class=\"\">Karen Boyd is a 56 year old mother, wife and chess lover with a b",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1456,14 +1520,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-firouzja-in-ftx-crypto-cup-chess/articleshow/93594503.cms",
          "pubDate" : "Tue, 16 Aug 2022 11:59:29 +0000",
          "title" : "Praggnanandhaa beats Firouzja in FTX Crypto Cup chess"
-      },
-      {
-         "description" : "Ding Liren had a very tough start at the 2022 Candidates Tournament. He lost his first game, and a series of seven draws ensued. At that point, the world number two began to score one win after another, ending with a very impressive 8/14 in second place. We conducted an interview with him, discussing his performance at this elite event, going through the critical positions in each one of his games. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-i-suddenly-got-a-chance",
-         "pubDate" : "Tue, 16 Aug 2022 12:00:00 +0100",
-         "title" : "Ding Liren: \"I suddenly got a chance\""
       },
       {
          "description" : "&#8212; from IPCA General Secretary Olexandr&#160;Prohorov I'd like to inform you that the IPCA (International Physically Disabled Chess Association) will be holding the 2nd IPCA...",
@@ -1488,14 +1544,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-1-carlsen-pragg-aronian-duda-start-with-wins",
          "pubDate" : "Tue, 16 Aug 2022 09:00:18 +0000",
          "title" : "FTX Crypto Cup 1: Carlsen, Pragg, Aronian & Duda win"
-      },
-      {
-         "description" : "In the diagrammed position White is a pawn up and has two powerful passed pawns that are supported by his king. However, White still needs to be precise to win the game. How should he proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pragg-s-powerful-pawns",
-         "pubDate" : "Tue, 16 Aug 2022 09:00:00 +0100",
-         "title" : "Pragg's powerful pawns"
       },
       {
          "description" : " &#8220;I will not return alive if I do not defeat the Jin army!&#8221; General Muqali All chess enthusiasts have been treated royally between the end of July and the beginning of August. The Chennai Chess Olympiad has been exciting, well organized and well presented in the media both live and online. I have been rooting <a href=\"https://chessimprover.com/the-mongolian-tactic-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Mongolian Tactic (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-mongolian-tactic-3/\">The Mongolian Tactic (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1928,30 +1976,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-a-crush-kazakhstan-in-womens-event-india-b-mens-team-draws-with-uzbekistan/articleshow/93437828.cms",
          "pubDate" : "Mon, 08 Aug 2022 16:42:53 +0000",
          "title" : "India 'A' crush Kazakhstan in women's event, India 'B' men's team draws with Uzbekistan"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93436589.cms\" />Indian chess legend Viswanathan Anand, who has been elected deputy president of FIDE, on Monday said it is time to do more for the sport in the country.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/time-to-do-more-for-chess-in-india-says-new-fide-deputy-president-viswanathan-anand/articleshow/93436589.cms",
-         "pubDate" : "Mon, 08 Aug 2022 15:11:09 +0000",
-         "title" : "Time to do more for chess in India, says new FIDE deputy president Anand"
-      },
-      {
-         "description" : " A triumphant Arkady Dvorkovich acknowledges victory as Deputy President Viswanathan Anand looks on. Photo by David Llada. Arkady Dvorkovich was reelected at the FIDE General Assembly by an overwhelming electoral vote of 157-16 over competitor Anrdii Baryshpolets. This was after the surprising withdrawal of the Bachar Kouatly and Ian Wilkinson, a ticket that had garnered The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/dvorkovich-reelected-fide-president/\">Dvorkovich reelected FIDE President!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/08/dvorkovich-reelected-fide-president/",
-         "pubDate" : "Mon, 08 Aug 2022 12:55:19 +0000",
-         "title" : "Dvorkovich reelected FIDE President!"
-      },
-      {
-         "description" : "Fide World Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022 and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-chess-championships-2022-for-open-girls-under-20-to-be-held-at-sardinia-italy-from-october-11-to-23-2022/",
-         "pubDate" : "Mon, 08 Aug 2022 08:11:25 +0000",
-         "title" : "Fide World Junior Chess Championships 2022 (for Open & Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022."
       }
    ]
 }
