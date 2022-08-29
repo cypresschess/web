@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An action-packed third day of action at the Saint Louis Rapid & Blitz tournament left French representatives Alireza Firouzja and Maxime Vachier-Lagrave in the shared lead going into the blitz section of the event. Sam Shankland beat Ian Nepomniachtchi and Hikaru Nakamura to climb to sole third place, while Shakhriyar Mamedyarov scored three wins in a row to return to a fifty-percent score after a subpar performance in the first six rounds. | Photos: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d3",
+         "pubDate" : "Mon, 29 Aug 2022 08:30:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: MVL catches Firouzja"
+      },
+      {
          "description" : "The halfway point of the 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Sunday with GMs Maxime Vachier-Lagrave and Alireza Firouzja perched atop the leaderboard. An undefeated run with two wins was requisite for Vachier-Lagrave to join his ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mvl-my-rooks-were-better-caruana%E2%80%99s-day-3",
          "pubDate" : "Sun, 28 Aug 2022 21:21:12 +0000",
          "title" : "MVL: My Rooks Were Better than Caruana's | Day 3"
-      },
-      {
-         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
-         "pubDate" : "Sun, 28 Aug 2022 19:50:00 +0100",
-         "title" : "St. Louis Rapid & Blitz, Day 3: Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after scoring 6/12 after the middle three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-takes-down-firouzja-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xK04-c2lmiM.jpg?itok=-xciIRLi\" alt=\"\" /></a></div>",
@@ -104,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lex-fridman-interviews-magnus-carlsen",
          "pubDate" : "Sun, 28 Aug 2022 14:55:00 +0100",
          "title" : "Lex Fridman interviews Magnus Carlsen"
-      },
-      {
-         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After six rounds, Monika Socko from Poland is in the sole lead with 5&frac12;/6 points. Round 7 starts Saturday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
-         "pubDate" : "Sun, 28 Aug 2022 14:50:00 +0100",
-         "title" : "European Women's Chess Championship, Round 8 - Live"
       },
       {
          "description" : "The 3rd stage of the Romanian Grand Prix took place from 20-28 August in Miercurea Ciuc. Simultaneously with the Grand Prix event (open to players rated 2200+), the&#xA0;25th jubilee classic chess tournament Caissa&#xA0;(for players rated U2200), and the youth&#xA0;9th Balogh Janos Memorial&#xA0;(for children U12, U10, U8) were held in the same venue of Sapientia University. []",
@@ -1496,6 +1488,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-1-carlsen-pragg-aronian-duda-start-with-wins",
          "pubDate" : "Tue, 16 Aug 2022 09:00:18 +0000",
          "title" : "FTX Crypto Cup 1: Carlsen, Pragg, Aronian & Duda win"
+      },
+      {
+         "description" : "In the diagrammed position White is a pawn up and has two powerful passed pawns that are supported by his king. However, White still needs to be precise to win the game. How should he proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pragg-s-powerful-pawns",
+         "pubDate" : "Tue, 16 Aug 2022 09:00:00 +0100",
+         "title" : "Pragg's powerful pawns"
       },
       {
          "description" : " &#8220;I will not return alive if I do not defeat the Jin army!&#8221; General Muqali All chess enthusiasts have been treated royally between the end of July and the beginning of August. The Chennai Chess Olympiad has been exciting, well organized and well presented in the media both live and online. I have been rooting <a href=\"https://chessimprover.com/the-mongolian-tactic-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Mongolian Tactic (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-mongolian-tactic-3/\">The Mongolian Tactic (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
