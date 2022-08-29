@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
+         "pubDate" : "Mon, 29 Aug 2022 19:50:00 +0100",
+         "title" : "St. Louis Rapid & Blitz, Day 4: Live"
+      },
+      {
+         "description" : "In the latest episode of his popular podcast, the American computer scientist and artificial intelligence researcher Lex Fridman had a fascinating, two-and-a-half-hour conversation with GM Magnus Carlsen. The two discussed a wide variety of topics...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lex-fridman-podcast-magnus-carlsen",
+         "pubDate" : "Mon, 29 Aug 2022 11:24:57 -0700",
+         "title" : "Lex Fridman With Magnus Carlsen: An Interview You Don't Want To Miss"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final blitz round robin, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-5-lichessorg",
+         "pubDate" : "Mon, 29 Aug 2022 18:22:54 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 5 | lichess.org"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave currently plays the 2022 Saint Louis Rapid and Blitz, the fourth leg of the Grand Chess Tour 2022 series of tournaments. Vachier-Lagrave and Firouzja won the rapid portion of the event scoring 11 points, each. In the interview after the Day 3 games, Maxime Vachier-Lagrave commented on a thrilling game against Fabiano Caruana. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-discloses-where-he-was-during-the-olympiad/",
+         "pubDate" : "Mon, 29 Aug 2022 18:02:11 +0000",
+         "title" : "Maxime Vachier-Lagrave discloses where he was during the Olympiad"
+      },
+      {
+         "description" : "The ECU Board meeting took place on Friday 29th&#xA0;of August through teleconference. Main information and decisions can be found below. Main information and Decisions The status of ECU staff/officers has been confirmed for the new term Mr. Erald Dervishi (ALB) reappointed as CEO of European Chess Union ECU Board appointed the ECU Commissions Chairpersons for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-board-meeting-main-information-and-decisions/",
+         "pubDate" : "Mon, 29 Aug 2022 17:23:31 +0000",
+         "title" : "ECU Board Meeting - Main information and decisions"
+      },
+      {
+         "description" : "Jennifer Shahade, two-time US Chess Champion, poker player and commentator is an activist for the role of women in chess and has published several books. Her most recent one is \"Chess Queens\". Tatiana Flores spoke with Jennifer Shahade about women in chess, her passion for writing and \"Chess Queens\". | Jennifer Shahade's \"Chess Queens\" is also availabe as audiobook. | Photo: Maria Emelianova /Chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-wgm-jennifer-shahade",
+         "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
+         "title" : "Interview with WGM Jennifer Shahade"
+      },
+      {
+         "description" : "The tournaments of the Magnus Carlsen Chess Tour always produce lead to fascinating endgames. In the Endgame Magic show #209 Karsten M&uuml;ller looks at endgame highlights from the FTX Crypto Cup in Miami. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-209-endgame-highlights-from-the-ftx-cryto-cup-in-miami",
+         "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #209: Endgame highlights from the FTX Cryto Cup in Miami"
+      },
+      {
+         "description" : "The 23rd Sants Chess Open took place from 19-28 August in Barcelona, Spain. It was a 10-round Swiss tournament, with time control: 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Three players tied for the first place after 10 played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sl-narayanan-clinches-the-23rd-sants-open/",
+         "pubDate" : "Mon, 29 Aug 2022 15:53:44 +0000",
+         "title" : "SL Narayanan clinches the 23rd Sants Open"
+      },
+      {
          "description" : "Glorious sacrifices, unexpected tactics and checkmating attacks. The King's Gambit is one of the oldest and most romantic openings in the game of chess. These DVDs contain all you need to know to play the King's Gambit. This week on offer: Power Play 27 & 28 - Instead of €54.90 now only €39.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,14 +306,6 @@ news_feed (
          "title" : "Maia Chess Open 2022 - LIVE"
       },
       {
-         "description" : "The 2022 Maia International Chess Festival kicked off on Friday, 26th of August in Portugal and takes place from August 26 to September 4 in Maia. The festival features the 2022 Maia Chess Open, International Chess Conference &#8220;Strong Minds&#8221;, Queens event, Summer Chess Camp, and Cobra event. The Open tournament is played in 9 rounds, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maia-chess-festival-2022-kicked-off-in-portugal/",
-         "pubDate" : "Sun, 28 Aug 2022 10:10:14 +0000",
-         "title" : "Maia Chess Festival 2022 kicked off in Portugal"
-      },
-      {
          "description" : "There were just three decisive games on Day 2 of the St. Louis Rapid and Blitz, and two of them featured Alireza Firouzja. He went down in flames against Fabiano Caruana, but bounced back to beat Leinier Dominguez and regain the sole lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -264,22 +320,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-schools-publication/",
          "pubDate" : "Sun, 28 Aug 2022 08:41:08 +0000",
          "title" : "Chess for Schools: Publication"
-      },
-      {
-         "description" : "Saint Louis Rapid &#38; Blitz 2022 Day 2 recap by WGM Anastasiya KarlovichSaint Louis Rapid and Blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule Players fought hard on day two of the Saint Louis Rapid &#38; Blitz tournament, yet very little progress was made. Tough fights and spectacular fireworks on all boards, but we only []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-remains-the-sole-leader-at-the-2022-saint-louis-rapid-blitz/",
-         "pubDate" : "Sun, 28 Aug 2022 08:37:02 +0000",
-         "title" : "Alireza Firouzja remains the sole leader at the 2022 Saint Louis Rapid & Blitz"
-      },
-      {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 3 LIVE Saint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160;/&#160;Opening ceremony live&#160;/&#160;Video coverage day 1 / Video coverage day 2",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-3-live/",
-         "pubDate" : "Sun, 28 Aug 2022 08:31:27 +0000",
-         "title" : "Saint Louis Rapid & Blitz - Day 3 LIVE"
       },
       {
          "description" : "Alireza Firouzja has played in four out of the nine decisive games seen so far at the Saint Louis Rapid & Blitz tournament. On Saturday, the 19-year-old lost to Fabiano Caruana and defeated Leinier Dominguez to keep the sole lead he had attained on the first day of the competition. Ian Nepomniachtchi, Maxime Vachier-Lagrave and Jeffery Xiong - all undefeated in the event - stand one point back. | Photo: Grand Chess Tour / Lennart Ootes",
@@ -312,14 +352,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzja-still-number-one-winner-interview-day-2",
          "pubDate" : "Sun, 28 Aug 2022 00:19:29 +0000",
          "title" : "Firouzja Still Number One! | Winner Interview | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasia Karlovich after defeating Mamedyarov in the fourth rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-structure-favored-me-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fVoOzV8kl5g.jpg?itok=JMco4rfL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-structure-favored-me-day-2",
-         "pubDate" : "Sat, 27 Aug 2022 21:19:15 +0000",
-         "title" : "Nepo: The Structure Favored Me | Day 2"
       },
       {
          "description" : "",
@@ -1418,14 +1450,6 @@ news_feed (
          "title" : "Another Great Tuesday For Streamers"
       },
       {
-         "description" : "In his \"Game of the Week\" show #529 Merijn van Delft looks at another impressive game played at the Chess Olympiad in Chennai: Raunak Sadhwani's win against Leinier Dominguez, in which the young Indian managed to make the of life the American top player surprisingly difficult. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-529-raunak-sadhwani-vs-leinier-dominguez",
-         "pubDate" : "Wed, 17 Aug 2022 17:00:00 +0100",
-         "title" : "Game of the Week #529: Raunak Sadhwani vs Leinier Dominguez"
-      },
-      {
          "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1458,14 +1482,6 @@ news_feed (
          "title" : "FIDE Book Awards 2022"
       },
       {
-         "description" : "After the closing ceremony, well past midnight, IM Sagar Shah made his way to the Grand Sheraton hotel where the Uzbekistan team was staying. Youngsters - Nodirbek Abdusattorov, Nodirbek Yakubboev, Javokhir Sindarov, Shamsiddin Vokhidov, and Jakhongir Vakhidov had just won the gold medal at the Chess Olympiad 2022. The Uzbek team was kind enough to give their time for an interview where all five of them sat together. We asked them about their best moves, and best games, and also spoke about what this victory means to them and their country.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-young-guns-who-ruled-the-olympiad-team-uzbekistan",
-         "pubDate" : "Wed, 17 Aug 2022 12:00:00 +0100",
-         "title" : "The young guns who ruled the Olympiad - Team Uzbekistan"
-      },
-      {
          "description" : "\"The chess speaks for itself!\" said Hans Niemann after crushing Magnus Carlsen in Game 1 of their match, but Magnus stormed back to win 3:1. Anish Giri had joked that he was babysitting Praggnanandhaa, but a blunder in the last game saw the 17-year-old Indian join Magnus on a perfect score. Levon Aronian is 3rd after beating Jan-Krzysztof Duda on tiebreaks while Alireza Firouzja picked up a first win, over Liem Le.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1488,22 +1504,6 @@ news_feed (
          "link" : "https://aicf.in/western-asia-junior-chess-championship-5-15-september-2022-korumdu-issyk-kul-kyrgyzstan/",
          "pubDate" : "Wed, 17 Aug 2022 09:46:22 +0000",
          "title" : "Western Asia Junior Chess Championship 5-15 September 2022 Korumdu, Issyk-Kul, Kyrgyzstan"
-      },
-      {
-         "description" : "GMs&#38;nbsp;Magnus Carlsen and GM Praggnanandhaa R. are in a tie for first place at the FTX Crypto Cup with the maximum score of six points after two days of play. GM Levon Aronian is in second place with five points, ahead of GM Jan-Krzysztof Duda w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-2",
-         "pubDate" : "Wed, 17 Aug 2022 01:54:00 -0700",
-         "title" : "Carlsen, Praggnanandhaa Still Perfect"
-      },
-      {
-         "description" : "Magnus Carlsen and Praggnanandhaa Rameshbabu are the only players who have collected three points in each of the first two rounds at the FTX Crypto Cup in Miami. With 6 out of 6 points, they have a 1-point lead over Levon Aronian in third place. In Tuesday's second round, Carlsen lost the first game against Hans Niemann, but managed to recover magnificently, winning three games in a row to get match victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r2",
-         "pubDate" : "Wed, 17 Aug 2022 07:55:00 +0100",
-         "title" : "FTX Crypto Cup: Carlsen and Pragg in the lead"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg\" data-image-dimensions=\"750x563\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62fba7c2ee7391345d82b888\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"> Karen Boyd with her husband, GM Ben Finegold </figcaption> </figure> <p class=\"\">Karen Boyd is a 56 year old mother, wife and chess lover with a b",
@@ -1944,38 +1944,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chennai-olympiad-10-gukesh-despair-as-uzbekistan-escape",
          "pubDate" : "Mon, 08 Aug 2022 23:34:55 +0000",
          "title" : "Chennai Olympiad 10: Gukesh despair as Uzbekistan escape"
-      },
-      {
-         "description" : " 2022 Chess Olympiad: Round #9 Sunday, 7 August 2022 While Nodirbek Abdusattrov gets the most attention, Javokhir Sindarov has had a solid result and scored a timely victory against Armenia. Photo by Steve Bonhage. Another group of teenagers is leading the 2022 Chess Olympiad. Uzbekistan has broken into the lead in the Chess Olympiad taking The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/\">2022 Chess Olympiad: Round #9</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/08/2022-chess-olympiad-round-9/",
-         "pubDate" : "Mon, 08 Aug 2022 19:13:01 +0000",
-         "title" : "2022 Chess Olympiad: Round #9"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1913",
-         "pubDate" : "Mon, 08 Aug 2022 18:55:15 +0000",
-         "title" : "Women's Chess Olympiad: India A shoots into sole lead "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1912",
-         "pubDate" : "Mon, 08 Aug 2022 17:48:55 +0000",
-         "title" : "Pain and glory in the Chennai Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93437828.cms\" />The top-seeded India 'A' team outclassed Kazakhstan 3.5-0.5 for a crucial win in the 10th and penultimate round of the women's section in the 44th Chess Olympiad here on Monday. Top player Koneru Humpy returned to winning ways, beating Zhansaya Abdumalik while Tania Sachdev and Bhakti Kulkarni scored over Xeniya Balabayeva and Gulikshan Nakhbayeva respectively. R Vaishali drew with Bibisara Assaubayeva on the second board.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-a-crush-kazakhstan-in-womens-event-india-b-mens-team-draws-with-uzbekistan/articleshow/93437828.cms",
-         "pubDate" : "Mon, 08 Aug 2022 16:42:53 +0000",
-         "title" : "India 'A' crush Kazakhstan in women's event, India 'B' men's team draws with Uzbekistan"
       }
    ]
 }
