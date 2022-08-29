@@ -922,14 +922,6 @@ news_feed (
          "title" : "The Candidates Tournament: A History"
       },
       {
-         "description" : "Of the many names involved in chess engine development, two of them have familiar faces: Larry Kaufman and Mark Lefler. After seeing both in a recent video, <A HREF=\"http://chessforallages.blogspot.com/2022/03/icgaai4s-acg-2021.html\">ICGA/AI4S ACG 2021</A>(March 2022), I was pleased to discover more of the same in a Chessbase article, <A HREF=\"https://en.chessbase.com/post/the-magicians-of-komodo-3-larry-kaufman-and-mark-lefler\">The magicians of Komodo 3 - Larry Kaufman and Mark Lefler</A>(chessbase.com; Arne Kaehler). Unfortunately, viewing the article's two embedded videos... <UL><LI>2022-08-12: <A HREF=\"https://www.youtube.com/watch?v=tfSocovvoDg\">Live stream cut - Larry Kaufman and Mark ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/interviews-with-dragons-developers.html",
-         "pubDate" : "Mon, 22 Aug 2022 15:18:00 +0000",
-         "title" : "Interviews with Dragon's Developers"
-      },
-      {
          "description" : "Robocop. This was what GM Yermolinksy dubbed IM Conor Murphy as he followed his superlative result. While the 2022 Olympiad was dominated by the performance of the youthful and brilliant Gukesh, and other stars on the rise, it is also much more than a collection of super grandmasters, so let us sing the praises of the unlikely heroes who rose to the occasion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
