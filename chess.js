@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The halfway point of the 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Sunday with GMs Maxime Vachier-Lagrave and Alireza Firouzja perched atop the leaderboard. An undefeated run with two wins was requisite for Vachier-Lagrave to join his ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-day-3",
+         "pubDate" : "Sun, 28 Aug 2022 20:10:00 -0700",
+         "title" : "Undefeated MVL Moves Into Tied First With Firouzja In Rapid"
+      },
+      {
          "description" : "Arjun Erigaisi won his final-round game against David Anton to clinch first place at the 28th Abu Dhabi Masters. He played with the sole purpose of winning the game, as he kept manoeuvring until his opponent broke and made a mistake. Javokhir Sindarov and Jorden van Foreest claimed second and third place, scoring 7/9 and 6&frac12;/9 points, respectively. Six out out of top ten places were claimed by Indians. | Photo: Rupali Mullick",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1434,14 +1442,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Carlsen and Pragg in the lead"
       },
       {
-         "description" : "The exciting finals of the 2022 Rapid Chess Championship begin on August 18. That means it&#39;s time for another bracket contest! This time, it&#39;s a double elimination bracket&#38;mdash;you will really have to be on your game to make the best selections t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-bracket-fantasy-contest",
-         "pubDate" : "Tue, 16 Aug 2022 15:06:23 -0700",
-         "title" : "Predict The Rapid Chess Championship Finals And Win"
-      },
-      {
          "description" : "Now that the Uzbekistan team has won the gold medal at the 2022 Chess Olympiad in Chennai, Ivan Sokolov may reflect on his greatest accomplishment as a coach. For ChessBase, the Grandmaster created the Fritztrainer series \"Understanding Middlegame Strategies.\" This week, we offer a summer bundle that includes all 4 episodes for only 69.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1952,14 +1952,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-junior-chess-championships-2022-for-open-girls-under-20-to-be-held-at-sardinia-italy-from-october-11-to-23-2022/",
          "pubDate" : "Mon, 08 Aug 2022 08:11:25 +0000",
          "title" : "Fide World Junior Chess Championships 2022 (for Open & Girls under 20) to be held at Sardinia, Italy from October 11 to 23, 2022."
-      },
-      {
-         "description" : " With 2 rounds to play, Uzbekistan has taken the lead in the 2022 Chess Olympiad Open section, after beating previous leaders Armenia 3-1. The young Uzbek team hold a 1 point lead over Armenia, and India 2. Today's round will see India 2 and Uzbekistan play on the top board, with Armenia facing Azerbaijan. Australia went down narrowly to Ukraine 2.5-1.5, although the Australian's had better chances in 2 of the drawn games. Australia plays Albania this round, in a match they are favoured to win. New Zealand scored a win over Sao Tome to reacj 10 points, with Daniel Gong improving his score to 6/8 and giving him a good chance to earn an IM norm. Papua New Guinea scored a 3.5-0.5 win over Laos,",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-9.html",
-         "pubDate" : "Mon, 08 Aug 2022 03:08:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 9"
       }
    ]
 }
