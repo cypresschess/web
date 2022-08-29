@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi won his final-round game against David Anton to clinch first place at the 28th Abu Dhabi Masters. He played with the sole purpose of winning the game, as he kept manoeuvring until his opponent broke and made a mistake. Javokhir Sindarov and Jorden van Foreest claimed second and third place, scoring 7/9 and 6&frac12;/9 points, respectively. Six out out of top ten places were claimed by Indians. | Photo: Rupali Mullick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-abu-dhabi-masters-2022",
+         "pubDate" : "Mon, 29 Aug 2022 02:50:00 +0100",
+         "title" : "Arjun Erigaisi's remarkable win at the Abu Dhabi Masters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after scoring 11/18 after the rapid portion of the 2022 Saint Louis Rapid &amp; Blitz. The commentary team decided to put MVL to work with game analysis after a painfully short draw. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-tortured-extended-commentary-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-tortured-extended-commentary-day-3",
+         "pubDate" : "Mon, 29 Aug 2022 00:21:30 +0000",
+         "title" : "MVL Tortured with Extended Commentary | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shakh-has-perfect-day-day-3",
+         "pubDate" : "Mon, 29 Aug 2022 00:21:30 +0000",
+         "title" : "Shakh has the perfect day! | Day 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after defeating Caruana in the seventh rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-my-rooks-were-better-caruana%E2%80%99s-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/b_gGqiEUZwE.jpg?itok=xrPG-dt9\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -210,14 +234,6 @@ news_feed (
          "title" : "Nepo: The Structure Favored Me | Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasia Karlovich after defeating Firouzja in the fifth rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-alireza%E2%80%99s-weak-moment-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sNlfsRgBasQ.jpg?itok=YkLn8ECD\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-alireza%E2%80%99s-weak-moment-day-2",
-         "pubDate" : "Sat, 27 Aug 2022 21:19:15 +0000",
-         "title" : "Caruana: Alireza's Weak Moment | Day 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1943",
          "pubDate" : "Sat, 27 Aug 2022 19:11:18 +0000",
          "title" : "2022 FIDE General Assembly: List of decisions"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-3",
-         "pubDate" : "Sat, 27 Aug 2022 18:19:08 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 3"
       },
       {
          "description" : "The&#160;2022 International Chess Open San Cristobal de La Laguna&#160;takes place from 27 August to 3 September 2022 in San Cristobal de La Laguna, a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event is played in 9 rounds, swiss system, with time control: 90 minutes for the []",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-1-carlsen-pragg-aronian-duda-start-with-wins",
          "pubDate" : "Tue, 16 Aug 2022 09:00:18 +0000",
          "title" : "FTX Crypto Cup 1: Carlsen, Pragg, Aronian & Duda win"
-      },
-      {
-         "description" : "In the diagrammed position White is a pawn up and has two powerful passed pawns that are supported by his king. However, White still needs to be precise to win the game. How should he proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pragg-s-powerful-pawns",
-         "pubDate" : "Tue, 16 Aug 2022 09:00:00 +0100",
-         "title" : "Pragg's powerful pawns"
       },
       {
          "description" : " &#8220;I will not return alive if I do not defeat the Jin army!&#8221; General Muqali All chess enthusiasts have been treated royally between the end of July and the beginning of August. The Chennai Chess Olympiad has been exciting, well organized and well presented in the media both live and online. I have been rooting <a href=\"https://chessimprover.com/the-mongolian-tactic-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Mongolian Tactic (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-mongolian-tactic-3/\">The Mongolian Tactic (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
