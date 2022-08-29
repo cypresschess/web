@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Cristian Chirila after scoring 9/18 after the rapid portion of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-today-i-played-fighting-chess-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/imFiJy0wLAU.jpg?itok=YsH97Lxl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shakh-today-i-played-fighting-chess-day-3",
+         "pubDate" : "Mon, 29 Aug 2022 21:23:21 +0000",
+         "title" : "Shakh: Today I Played Fighting Chess | Day 3"
+      },
+      {
          "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Offer: Power Play 27 & 28 - The King's Gambit and Tactic Toolbox"
       },
       {
-         "description" : "Dear Chess Friends, The ECU Board meeting took place on Friday 29th of August through teleconference: Main information and Decisions The status of ECU staff/officers has been confirmed for the new term Mr. Erald Dervishi (ALB) reappointed as CEO of European Chess Union ECU Board appointed the ECU Commissions Chairpersons for the 4-years term ECU Arbiter Council: Mr.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/\">Read More &#187;</a></span>",
+         "description" : "Dear Chess Friends, The ECU Board meeting took place on Friday 26th of August through teleconference: Main information and Decisions The status of ECU staff/officers has been confirmed for the new term Mr. Erald Dervishi (ALB) reappointed as CEO of European Chess Union ECU Board appointed the ECU Commissions Chairpersons for the 4-years term ECU Arbiter Council: Mr.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/",
@@ -352,14 +360,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-takes-down-firouzja-winner-interview-day-2",
          "pubDate" : "Sun, 28 Aug 2022 00:19:29 +0000",
          "title" : "Caruana Takes Down Firouzja | Winner Interview | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-still-number-one-winner-interview-day-2",
-         "pubDate" : "Sun, 28 Aug 2022 00:19:29 +0000",
-         "title" : "Firouzja Still Number One! | Winner Interview | Day 2"
       },
       {
          "description" : "",
