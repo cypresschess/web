@@ -234,6 +234,14 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz: Day 3 | lichess.org"
       },
       {
+         "description" : "There's no question about it: World Championship chess needs more cartoons. That's this month's theme in the ongoing series on <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). The closest thing I could find to a cartoon in the series was <A HREF=\"https://chessforallages.blogspot.com/2017/03/chess-strategy-woodcut.html\">Chess Strategy Woodcut</A>(March 2017), and that was a serious drawing, not satire. <P>A recent <I>Fischer Friday</I> post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022), featured an excellent example of how poor was Fischer's public image just be",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/was-fischer-avaricious.html",
+         "pubDate" : "Sun, 28 Aug 2022 15:37:00 +0000",
+         "title" : "Was Fischer Avaricious?"
+      },
+      {
          "description" : " Backing up from his excellent performance at the 2022 Chess Olympiad, GM Bobby Cheng has just tied for 1st in a strong Open event in Barcelona. Winning his last round, he caught the 2 leaders (who drew on the top board) with an impressive score of 8/10. This result, combined with his Olympiad result will see him add around 40 points to his current rating, pushing him to around 2580. Faced with a must win game in the final round, he found a long term piece sacrifice which kept his opponent under pressure, and then finished the game off with a mating attack. <b>Cheng,Bobby (2540) - Terry,Renato (2507) [A55]</b><br />23rd Sants Open chess24.com (10.3), 28.08.2022 <script>new PgnViewer( { board",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -458,6 +466,14 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Magic moments from Pragg vs Carlsen"
       },
       {
+         "description" : "One point I've come to realize in this long <I>Fischer Friday</I> series -- last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022) -- is that the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com), was in fact two matches. The first match, which lasted from end-June 1972 through the third game, was all about whether Fischer would play. The first match had little to do with chess. <P>The second match, which started with the fourth game, was all about chess. Starting with the score at 2-1 in Spassky's favor, the players fought some of the most interesting games ever seen at the highest le",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html",
+         "pubDate" : "Fri, 26 Aug 2022 15:18:00 +0000",
+         "title" : "GM Svetozar Gligoric, Player/Journalist"
+      },
+      {
          "description" : "İş Bankası, one of the biggest commercial companies in Turkey, is celebrating its 98th anniversary on 26th August 2022. It was established by Mustafa Kemal Atat&uuml;rk, the founder of the Turkish Republic (now known as T&uuml;rkiye), on 26th August 1924. The Bank became the sponsor of the Turkish Chess Federation on 24th December 2005.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -560,6 +576,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-issue-dongre-claims-he-is-secretary-warns-of-contempt-of-court-action/articleshow/93784608.cms",
          "pubDate" : "Thu, 25 Aug 2022 16:58:03 +0000",
          "title" : "AICF issue: Dongre claims he is secretary, warns of contempt of court action"
+      },
+      {
+         "description" : "A few weeks ago I posted <A HREF=\"http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-1.html\">2022 CJA Awards - Part 1</A>(August 2022). Now I'll post 'Part 2'. Following the lead from last year's <A HREF=\"http://chessforallages.blogspot.com/2021/09/2021-cja-awards-part-2.html\">2021 CJA Awards - Part 2</A>(September 2021), I'll feature four specific awards:- <UL><LI>Chess Journalist of the Year <LI>Best Chess Book <LI>Best Chess Art <LI>Best Chess Blog </UL> <P>Winner of the most prestigious award, 'Chess Journalist of the Year', was Elshan Moradiabadi. His certificate is reproduced below. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh25.gif\" WIDTH=400 HEIGHT=3",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html",
+         "pubDate" : "Thu, 25 Aug 2022 15:42:00 +0000",
+         "title" : "2022 CJA Awards - Part 2"
       },
       {
          "description" : "After draws in games 14 and 15, Fischer still had a three-point lead in the World Championship match, and the Spassky side was getting nervous. The Champion was fighting hard, but not getting any points. Suspicion arose that Fischer might be using secret weapons: hypnosis, devices planted in the lights or the chairs, and even perhaps assistance from an \"IBM\" (Russian for \"computer\" at the time). All this was formally investigated, while Fischer continued to coast.",
@@ -898,6 +922,14 @@ news_feed (
          "title" : "The Candidates Tournament: A History"
       },
       {
+         "description" : "Of the many names involved in chess engine development, two of them have familiar faces: Larry Kaufman and Mark Lefler. After seeing both in a recent video, <A HREF=\"http://chessforallages.blogspot.com/2022/03/icgaai4s-acg-2021.html\">ICGA/AI4S ACG 2021</A>(March 2022), I was pleased to discover more of the same in a Chessbase article, <A HREF=\"https://en.chessbase.com/post/the-magicians-of-komodo-3-larry-kaufman-and-mark-lefler\">The magicians of Komodo 3 - Larry Kaufman and Mark Lefler</A>(chessbase.com; Arne Kaehler). Unfortunately, viewing the article's two embedded videos... <UL><LI>2022-08-12: <A HREF=\"https://www.youtube.com/watch?v=tfSocovvoDg\">Live stream cut - Larry Kaufman and Mark ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/interviews-with-dragons-developers.html",
+         "pubDate" : "Mon, 22 Aug 2022 15:18:00 +0000",
+         "title" : "Interviews with Dragon's Developers"
+      },
+      {
          "description" : "Robocop. This was what GM Yermolinksy dubbed IM Conor Murphy as he followed his superlative result. While the 2022 Olympiad was dominated by the performance of the youthful and brilliant Gukesh, and other stars on the rise, it is also much more than a collection of super grandmasters, so let us sing the praises of the unlikely heroes who rose to the occasion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,6 +1024,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
          "pubDate" : "Sun, 21 Aug 2022 17:55:00 +0100",
          "title" : "FTX Crypto Cup: Games and standings"
+      },
+      {
+         "description" : "A couple of months ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/06/caissartistic-license.html\">Caissartistic License</A>(June 2022), I wrote, <BLOCKQUOTE>For this month's <I>Flickr Favorite</I>, I had two photos on the short list, neither of which I understood. Since I couldn't decide between them, I used both. </BLOCKQUOTE> <P>It's a nice dilemma to have and this month I had similar. This time it wasn't for two photos; it was for two paintings. And it wasn't for a lack of understanding; it was for choosing between a Ukrainian artist and a Russian artist. What to do? I used Flickr's search function on the photographer -- keyword 'chess', of course -- and came up with the followi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/fun-with-flickr-search.html",
+         "pubDate" : "Sun, 21 Aug 2022 15:15:00 +0000",
+         "title" : "Fun with Flickr Search"
       },
       {
          "description" : "The European Amateur Chess Championship 2022 took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess Champions. 17-year-old&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/\">Read More &#187;</a></span>",
@@ -1192,6 +1232,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-instructive-rook-endgames",
          "pubDate" : "Fri, 19 Aug 2022 19:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Tricks with rooks and pawns"
+      },
+      {
+         "description" : "A few months ago, in an earlier post in this <I>Fischer Friday</I> series, a post titled <A HREF=\"http://chessforallages.blogspot.com/2022/06/hatchet-job.html\">Hatchet Job</A>(June 2022), I quoted Anthony Saidy writing, <BLOCKQUOTE>Brad Darrach, one of the minority of journalists sympathetic to Fischer. </BLOCKQUOTE> <P>That short quote made two points. The first was that Darrach was 'sympathetic to Fischer'. The second was that the same could be said for only a 'minority of journalists'. That might seem surprising, given the legendary proportions the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>has taken over the past 50 years, but Fischer's recalc",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/bags-of-loot.html",
+         "pubDate" : "Fri, 19 Aug 2022 15:01:00 +0000",
+         "title" : "Bags of Loot"
       },
       {
          "description" : "Sipke Ernst has made a successful Fritzrainer last year, tackling the \"flexible Open Spanish\". The Dutch Grandmaster is back again, with \"3.h4 against the King's Indian and Gr&uuml;nfeld\". Time to ask him about when he started to play chess, his feeling when reaching the Grandmaster title, a rating of over 2600, and one of his most passionate hobbies - Arm wrestling! We also analyse one of his favourite games he ever played. Luke Mcshane was the opponent, made a beautiful sacrifice, which Sipke countered wonderfully. | Photo: Sipke Ernst FB",
@@ -1562,6 +1610,14 @@ news_feed (
          "title" : "Carlsen turns up the heat as FTX Crypto Cup gets under way in Miami"
       },
       {
+         "description" : "Another two weeks have passed since the previous report on the world's leading, ongoing engine vs. engine competitions. Titled <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-frc5-leads-ccc18.html\">Stockfish Wins TCEC FRC5, Leads CCC18 Rapid Semifinal</A>(August 2022), the post can be summarized as follows:- <BLOCKQUOTE>TCEC: The site is currently conducting 'DFRC 1'. I'll cover the event on my chess960 blog, where I post twice a month. &#149; CCC: Leading the 'CCC18 Rapid' Semifinal stage are Stockfish, Dragon, and LC0, already by a comfortable margin over the other three engines </BLOCKQUOTE> <P>What's the current status? The TCEC is transitioning from S22 to S23, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html",
+         "pubDate" : "Mon, 15 Aug 2022 15:18:00 +0000",
+         "title" : "Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final"
+      },
+      {
          "description" : " Toby Brookfield is quite a dangerous player when he gets an attack going, something I discovered when I played him at the 2010 Olympiad. In the most recent Olympiad, he opens with the Centre Game, and when his opponents fails to take in e4 on move 8, is able to directly target the king. Once Brookfield plays h6 he is completely winning, although it took a few more moves before his opponent also realised. <br /> <b>Brookfield,Toby (1815) - Naipal,Hoolan (1785) [C22]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (3.2), 31.07.2022 <script>new PgnViewer( { boardName: \"game1343\", movesFormat: \"default\", pgnString:'1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1592,6 +1648,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/",
          "pubDate" : "Mon, 15 Aug 2022 02:00:00 +0000",
          "title" : "The Importance of Analytics for Chess Federations"
+      },
+      {
+         "description" : "This video is not for chess players. I'm not sure who the target audience is, but it would take me several viewings to start to understand it. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/crKNBSpO2_I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Lichess @ Big Techday 22: Serving 5 Million Chess Games a Day with 125 Volunteers and €5 Donations</B> (49:16) &#149; '[Published on] Aug 10, 2022' <P>The description says, <BLOCKQUOTE>T. Alexander Lystad (@arex) spoke about Lichess technology, architecture and scaling at TNG's Big Techday confer",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/inside-lichess.html",
+         "pubDate" : "Sun, 14 Aug 2022 15:22:00 +0000",
+         "title" : "Inside Lichess"
       },
       {
          "description" : " The next miniature from the 2022 Olympiad involves an old idea that still seems to catch a lot of victims. I've seen shorter versions of this trap work against the Morra Gambit, but in this case it is against a more mainline Sicilian. <br /> <b>Dobrovoljc,Vid (2398) - Diamant,Andre (2538) [B30]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (11.4), 09.08.2022 <script>new PgnViewer( { boardName: \"game1342\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 Be7 9.dxc5 O-O 10.Nbd2 Bxc5 11.Ne4 Be7 12.c4 Nf6 13.Qc2 Qc7 14.Bg5 Ng4 15.h3 Nd4 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1342",
@@ -1648,6 +1712,14 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-nine/",
          "pubDate" : "Sat, 13 Aug 2022 07:56:57 +0000",
          "title" : "A Foundation for Beginners Sixty Nine"
+      },
+      {
+         "description" : "In <A HREF=\"http://chessforallages.blogspot.com/2022/08/a-wizard-or-god.html\">A Wizard or a God?</A>(August 2022), my most recent post in the series 'Top eBay Chess Items by Price', my short list had a number of items related to the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com). Two of the items were for tickets to the match, shown below. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh12.jpg\" WIDTH=265 HEIGHT=400><BR><B>Top:</B> Game 2 &#149; <B>Bottom:</B> Games 1, 6, and 12 <P>The item on the top was titled '1972 World Chess Championship PSA AUTHENTIC Ticket BOBBY FISCHER Boris Spassky', and sold for $1500.00 'Buy It Now'",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/fischer-spassky-tickets.html",
+         "pubDate" : "Fri, 12 Aug 2022 15:02:00 +0000",
+         "title" : "Fischer - Spassky Tickets"
       },
       {
          "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 15th...",
@@ -1872,6 +1944,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/uzbekistan-and-ukraine-win-chennai-olympiad",
          "pubDate" : "Tue, 09 Aug 2022 15:42:13 +0000",
          "title" : "Uzbekistan and Ukraine win Chennai Olympiad"
+      },
+      {
+         "description" : "A few weeks ago we looked at <A HREF=\"https://chessforallages.blogspot.com/2022/07/2022-cja-award-entries.html\">2022 CJA Award Entries</A>(July 2022), and now we can look at the final awards. Last year I split the discussion into 'Part 1' and 'Part 2' -- see the 2022 kickoff post <A HREF=\"http://chessforallages.blogspot.com/2022/05/2022-cja-awards-announcement.html\">2022 CJA Awards Announcement</A>(May 2022) for background and links. <B>NB:</B>In case you haven't been following the series, the acronym CJA stands for Chess Journalists of America. <P>I haven't seen an announcement that the 2022 awards are available, but they can be found at <A HREF=\"https://www.chessjournalism.org/2022-cja-awa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-1.html",
+         "pubDate" : "Tue, 09 Aug 2022 15:02:00 +0000",
+         "title" : "2022 CJA Awards - Part 1"
       },
       {
          "description" : "",
