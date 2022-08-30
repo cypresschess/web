@@ -1976,22 +1976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1917",
          "pubDate" : "Tue, 09 Aug 2022 17:25:07 +0000",
          "title" : "Ukraine victorious at the Women's Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93461656.cms\" />The 44th FIDE Chess Olympiad drew to a close on Tuesday amid extravagant cultural events, with India's 'B' team settled for a bronze medal in the Open section.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-chess-olympiad-draws-to-a-close/articleshow/93461656.cms",
-         "pubDate" : "Tue, 09 Aug 2022 16:33:16 +0000",
-         "title" : "FIDE Chess Olympiad draws to a close"
-      },
-      {
-         "description" : "The young Uzbekistan team has won the 2022 Chess Olympiad in Chennai, though it was 27-year-old Jakhongir Vakhidov who clinched victory against the Netherlands. Armenia missed out on tiebreaks after defeating Spain, while India 2 took bronze. The women's event saw an emotional victory for Ukraine, who edged out Georgia, after India fell at the final hurdle to the USA, but still took bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/uzbekistan-and-ukraine-win-chennai-olympiad",
-         "pubDate" : "Tue, 09 Aug 2022 15:42:13 +0000",
-         "title" : "Uzbekistan and Ukraine win Chennai Olympiad"
       }
    ]
 }
