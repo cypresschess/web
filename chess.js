@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "2022 Candidates Tournament: Review with videos by Dorian Rogozenco and Robert Ris - \"Special\" on the Ukrainian sisters and Olympic champions Anna and Mariya Muzychuk: 21 annotated games + contributions on strategy and endgame - Ragosin &agrave; la Keymer: Roven Vogel presents 1. d4 d5 2.c4 e6 2.Nc3 Nf6 4.Nf3 Bb4 5.Qa4+ Nc6 6.e3 - Prague Chess Festival 2022: Annotated games by Harikrishna, Keymer, Navara, Shankland and Vidit - \"Practical Tips for the Tournament Player\": Let Jan Markos show you how to master must-win situations! - In Fischer's footsteps: Yago Santiago attacks Najdorf with 6.Bc4 - \"Shocker\" in the Jobava London System: Daniel King shows the new gambit idea 1.d4 Nf6 2.Nc3 d5 3.B",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-209-special-on-the-muzychuk-sisters-practical-tipps-for-the-tournament-player-and-much-more",
+         "pubDate" : "Tue, 30 Aug 2022 15:00:00 +0100",
+         "title" : "CBM #209: \"Special\" on the Muzychuk sisters, \"Practical Tips for the Tournament Player\" and much more!"
+      },
+      {
+         "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. Cover will begin when the completed...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2022-23/",
+         "pubDate" : "Tue, 30 Aug 2022 13:52:57 +0000",
+         "title" : "Clubs & Congress Insurance 2022/23"
+      },
+      {
+         "description" : "As of Monday, GM Magnus Carlsen is the new number-one blitz player on Chess.com. The world champion played a 57(!)-game match with GM Vladimir Fedoseev and stopped at a rating of 3204, four points more than GM Hikaru Nakamura currently has. Afte...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-claims-1-blitz-spot-on-chess-com",
+         "pubDate" : "Tue, 30 Aug 2022 06:52:00 -0700",
+         "title" : "Carlsen Claims No. 1 Blitz Spot On Chess.com"
+      },
+      {
+         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After nine rounds, Monicka Socko is the sole leader with 7&frac12; points. Gunnay Mammadzada is in sole second place a half point back. Round 10 starts Tuesday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
+         "pubDate" : "Tue, 30 Aug 2022 14:50:00 +0100",
+         "title" : "European Women's Chess Championship, Round 10 - Live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg\" data-image-dimensions=\"408x264\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"630e0dbcc5a0422c7f695dc1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the third highest rated chess player of all time, GM Fabiano Caruana. Fabiano joined me from the St. Louis Chess Club just days before he was set t",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/30/ep-294-ep-294-gm-fabiano-caruana-on-engines-the-evolution-of-chess-the-candidates-tournament-and-the-world-championship-cycle",
+         "pubDate" : "Tue, 30 Aug 2022 13:15:47 +0000",
+         "title" : "EP 294- GM Fabiano Caruana on Engines, The Evolution of Chess, the Candidates Tournament, and the World Championship Cycle. "
+      },
+      {
+         "description" : "World Champion Magnus Carlsen is a long time Real Madrid fan. He has multiple interactions with the club, including the time when he celebrated his 23rd birthday with 68,000 people at the Santiago Bernab&#xE9;u Stadium as he took a ceremonial kick-off in the La Liga match between Real Madrid and Valladolid. In a podcast talk []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-chooses-messi-over-ronaldo-video/",
+         "pubDate" : "Tue, 30 Aug 2022 13:03:51 +0000",
+         "title" : "Carlsen chooses Messi over Ronaldo (VIDEO)"
+      },
+      {
          "description" : "\"Historias de Ajedrez\", \"Chess Stories\", is a movie by the Cuban filmmaker Emmanuel Martin Hernandez. Hernandez is a chess player himself and his film tells the stories of chess players in Santiago de Cuba. Unfortunately, the film was released at the beginning of the pandemic and did not find the audience it deserved. But now you can watch it for free on YouTube.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -94,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-4",
-         "pubDate" : "Mon, 29 Aug 2022 19:05:37 -0700",
+         "pubDate" : "Mon, 29 Aug 2022 19:05:00 -0700",
          "title" : "Nakamura Scores 7.5/9, Firouzja Stretches Lead"
       },
       {
@@ -384,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lex-fridman-interviews-magnus-carlsen",
          "pubDate" : "Sun, 28 Aug 2022 14:55:00 +0100",
          "title" : "Lex Fridman interviews Magnus Carlsen"
-      },
-      {
-         "description" : "The 3rd stage of the Romanian Grand Prix took place from 20-28 August in Miercurea Ciuc. Simultaneously with the Grand Prix event (open to players rated 2200+), the&#xA0;25th jubilee classic chess tournament Caissa&#xA0;(for players rated U2200), and the youth&#xA0;9th Balogh Janos Memorial&#xA0;(for children U12, U10, U8) were held in the same venue of Sapientia University. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/seven-players-shared-the-top-at-the-3rd-stage-of-the-romanian-grand-prix-2022/",
-         "pubDate" : "Sun, 28 Aug 2022 13:36:39 +0000",
-         "title" : "Seven players shared the top at the 3rd stage of the Romanian Grand Prix 2022"
       },
       {
          "description" : "",
@@ -1434,14 +1474,6 @@ news_feed (
          "title" : "World Chess Announces Armageddon, The Most Dramatic Tournament Series in Chess"
       },
       {
-         "description" : "With three rounds to go at the FTX Crypto Cup in Miami, Magnus Carlsen and Praggnanandhaa Rameshbabu continue to dominate the field, as they both won a fourth consecutive match on Thursday. Carlsen defeated Le Quang Liem, while Pragg got the better of Levon Aronian. Alireza Firouzja, who beat Jan-Krzysztof Duda, stands in sole third place, four points behind the leaders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r4",
-         "pubDate" : "Fri, 19 Aug 2022 08:15:00 +0100",
-         "title" : "FTX Crypto Cup: Carlsen and Pragg runaway leaders"
-      },
-      {
          "description" : " Keith Arkell and Harry Grieve lead after six of nine rounds, while Harrow schoolgirl scores remarkably well in Open Rapid Torquay is the most popular venue for the English Chess Federation's annual congress and its 2022 version has attracted over 1,000 entrants. The learning company <a href=\"https://www.chessable.com/\">Chessable</a>, part of the Play Magnus Group, is the sponsor. Due to a near overlap of dates none of the five grandmasters who represented England at the Chennai Olympiad is taking part in Torquay. In their absence the defending champion GM, Nick Pert, is the top seed in a contest where many have chances. <a href=\"https://www.theguardian.com/sport/2022/aug/19/chess-british-ch",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1490,14 +1522,6 @@ news_feed (
          "title" : "ChessKid Memberships: 20% Off For Back-to-School Season"
       },
       {
-         "description" : "Fischer leads by three points. The Match of the Century was coming to a head, with Spassky, despite all his efforts, unable to reduce the deficit. \"I felt that Fischer was like a large fish in my hands,\" he lamented, \"one that was slippery and hard to hold on to. At certain moments I let him slip. And then again the psychological torment would begin. Everything had to be begun again from the start ...\" Spassky was beginning to feel despondent. | Photo: Sk&aacute;ksamband Íslands",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/50-years-ago-fischer-leads-9-6",
-         "pubDate" : "Thu, 18 Aug 2022 15:00:00 +0100",
-         "title" : "50 years ago: Fischer leads 9:6"
-      },
-      {
          "description" : " The European Summer Chess Tour is a well known destination for Antipodean players, although Covid has restricted playing opportunities in the last few years. It does look like it is back to normal this year, and on young Canberran, FM Albert Winkelman, is giving it a go. He started with the Czech Open, before moving onto a GM event in Olomouc. Being the bottom seed in the GM group is always going to be a tough ask, and his current score of 1.5/6 doesn't reflect how close he was in some games. While looking through the games I did spot one very nice attack by Jonasz Baum, where a rook sacrifice lead to a position where White had to walk the tight-rope to avoid a loss. He did for a while, but",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1528,14 +1552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1926",
          "pubDate" : "Thu, 18 Aug 2022 09:37:26 +0000",
          "title" : "Carlsen and Praggnanandhaa neck-and-neck in FTX Crypto Cup"
-      },
-      {
-         "description" : "GMs&#38;nbsp;Magnus Carlsen and GM Praggnanandhaa R. continue to lead the FTX Crypto Cup in Miami, now with the maximum score of nine points after three days of play. In second place, four points behind, are GM Levon Aronian and GM Alireza Firouzja. T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-3",
-         "pubDate" : "Thu, 18 Aug 2022 01:44:00 -0700",
-         "title" : "Carlsen, Praggnanandhaa Lead As FTX Crypto Cup Sees 1st Armageddon"
       },
       {
          "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
@@ -1770,14 +1786,6 @@ news_feed (
          "title" : "ECF AGM - call for nominations"
       },
       {
-         "description" : "The 2022 Annual General Meeting will be held on Saturday 15th October 2022 and will meet in Birmingham (venue still to be determined) with access...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-motions/",
-         "pubDate" : "Fri, 12 Aug 2022 11:22:47 +0000",
-         "title" : "ECF AGM - call for motions"
-      },
-      {
          "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in the playing venue&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1984,46 +1992,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/uzbekistan-and-ukraine-win-chennai-olympiad",
          "pubDate" : "Tue, 09 Aug 2022 15:42:13 +0000",
          "title" : "Uzbekistan and Ukraine win Chennai Olympiad"
-      },
-      {
-         "description" : "A few weeks ago we looked at <A HREF=\"https://chessforallages.blogspot.com/2022/07/2022-cja-award-entries.html\">2022 CJA Award Entries</A>(July 2022), and now we can look at the final awards. Last year I split the discussion into 'Part 1' and 'Part 2' -- see the 2022 kickoff post <A HREF=\"http://chessforallages.blogspot.com/2022/05/2022-cja-awards-announcement.html\">2022 CJA Awards Announcement</A>(May 2022) for background and links. <B>NB:</B>In case you haven't been following the series, the acronym CJA stands for Chess Journalists of America. <P>I haven't seen an announcement that the 2022 awards are available, but they can be found at <A HREF=\"https://www.chessjournalism.org/2022-cja-awa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-1.html",
-         "pubDate" : "Tue, 09 Aug 2022 15:02:00 +0000",
-         "title" : "2022 CJA Awards - Part 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1915",
-         "pubDate" : "Tue, 09 Aug 2022 13:36:36 +0000",
-         "title" : "Uzbekistan youngsters surprise winners of the Chess Olympiad"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg\" data-image-dimensions=\"404x267\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62f25b1c6db49e6646cd1211\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/f05cc6d1-3e18-48c7-b039-2d23866ab7f2/Fishbein2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Maureen Grimaud via <a href=\"https://www.facebook.com/photo/?fbid=10156176924240020&amp;set=pob.100001706066219\">GM Fishbein's Fac",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/9/ep-291-gm-alex-fishbein-on-maintaining-a-passion-for-chess-into-ones-50s-plus-great-korchnoi-and-tal-stories",
-         "pubDate" : "Tue, 09 Aug 2022 13:13:42 +0000",
-         "title" : "EP 291- GM Alex Fishbein on Maintaining a Passion for Chess into One's 50s, (Plus great Korchnoi and Tal stories.)"
-      },
-      {
-         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart The third and last foray into our graduation exam for level 5 looks at how the students delivered the winning combination. It is important to keep <a href=\"https://chessimprover.com/students-analysis-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-10/\">Students Analysis (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/students-analysis-10/",
-         "pubDate" : "Tue, 09 Aug 2022 13:07:33 +0000",
-         "title" : "Students Analysis (10)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1914",
-         "pubDate" : "Tue, 09 Aug 2022 12:05:11 +0000",
-         "title" : "FIDE Council composition announced"
       }
    ]
 }
