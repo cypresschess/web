@@ -1984,22 +1984,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/uzbekistan-armenia-india-ii/",
          "pubDate" : "Tue, 09 Aug 2022 10:30:07 +0100",
          "title" : "Uzbekistan, Armenia, India II"
-      },
-      {
-         "description" : " With 1 round to play,the 2022 Chess Olympiad looks to be a 2 horse race between Uzbekistan and Armenia. Armenia bounced back fro it's round 9 loss to score a big win over Azerbaijan 3-1. Uzbekistan looked to be losing to India 2, until a blunder by Gukesh on board 1 of the match saw Uzbekistan escape with a 2-2 draw. USA and India 1 both won their matches, to stay 1 point behind the leaders. In the Women's Olympiad, India hold a 1 point lead going into the final round. Close behind are Poland, Georgia, Azerbaijan, and Ukraine. So a win for India will give them gold, but a draw or loss will open it up for the pursuing teams. Australia beat Albania 3.5-0.5 to move to 13 points, and a win toda",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-10.html",
-         "pubDate" : "Tue, 09 Aug 2022 05:50:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 10"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93445832.cms\" />Former India cricket captain and Chennai Super Kings' skipper Mahendra Singh Dhoni is expected to attend the closing ceremony and be the star attraction. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-to-conclude-today-ms-dhoni-expected-at-closing-ceremony/articleshow/93445832.cms",
-         "pubDate" : "Tue, 09 Aug 2022 05:32:39 +0000",
-         "title" : "Chess Olympiad set to conclude, Dhoni expected at closing ceremony"
       }
    ]
 }
