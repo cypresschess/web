@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first day of blitz games at the 2022 Saint Louis Rapid &#38;amp; Blitz saw quick chess superstars GM Hikaru Nakamura, Alireza Firouzja, and Levon Aronian pick up the most points in a day of decisive results, tactical brawls, and a loss by an illeg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-4",
+         "pubDate" : "Mon, 29 Aug 2022 19:05:37 -0700",
+         "title" : "Nakamura Scores 7.5/9, Firouzja Stretches Lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r3",
          "pubDate" : "Thu, 18 Aug 2022 07:55:00 +0100",
          "title" : "FTX Crypto Cup: Pragg keeps pace with Carlsen"
-      },
-      {
-         "description" : "GM Kateryna Lagno defeated IM Vaishali R in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Wednesday. Lagno&#39;s experience faced off against Vaishali&#39;s fighting spirit to produce a match of many dynamic battles.&#38;nbsp; ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-semifinals-lagno-vaishali",
-         "pubDate" : "Wed, 17 Aug 2022 18:53:00 -0700",
-         "title" : "Fighting Spirit to the End: Lagno Defeats Vaishali"
       },
       {
          "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
