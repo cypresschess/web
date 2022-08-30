@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
+         "pubDate" : "Tue, 30 Aug 2022 19:50:00 +0100",
+         "title" : "St. Louis Rapid & Blitz, Day 5: Live"
+      },
+      {
          "description" : "2022 Candidates Tournament: Review with videos by Dorian Rogozenco and Robert Ris - \"Special\" on the Ukrainian sisters and Olympic champions Anna and Mariya Muzychuk: 21 annotated games + contributions on strategy and endgame - Ragosin &agrave; la Keymer: Roven Vogel presents 1. d4 d5 2.c4 e6 2.Nc3 Nf6 4.Nf3 Bb4 5.Qa4+ Nc6 6.e3 - Prague Chess Festival 2022: Annotated games by Harikrishna, Keymer, Navara, Shankland and Vidit - \"Practical Tips for the Tournament Player\": Let Jan Markos show you how to master must-win situations! - In Fischer's footsteps: Yago Santiago attacks Najdorf with 6.Bc4 - \"Shocker\" in the Jobava London System: Daniel King shows the new gambit idea 1.d4 Nf6 2.Nc3 d5 3.B",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1442,14 +1450,6 @@ news_feed (
          "title" : "FTX Crypto Cup 4: Pragg beats Aronian to match Magnus"
       },
       {
-         "description" : "This week Robert Ris will have a look at a model game in the Sveshnikov, played by Fabiano Caruana (with Black) against Greek GM Dimitris Mastrovasilis at the Chess Olympiad 2022 in Chennai. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-model-game-in-the-sveshnikov",
-         "pubDate" : "Fri, 19 Aug 2022 11:14:29 +0100",
-         "title" : "Robert Ris' Fast and Furious: A model game in the Sveshnikov"
-      },
-      {
          "description" : "Also on the fourth day of play at the FTX Crypto Cup in Miami, GMs Magnus Carlsen and Praggnanandhaa R. won their matches without needing a tiebreak. The duo is now four points ahead of GM Alireza Firouzja, who is on eight points, followed by GM L...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1960,22 +1960,6 @@ news_feed (
          "link" : "https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/",
          "pubDate" : "Tue, 09 Aug 2022 21:43:48 +0000",
          "title" : "Uzbekistan and Ukraine claim the 44th Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93462455.cms\" />Eight years after they won their maiden Olympiad medal, a group of talented teenagers have ensured that the rising superpower of the sport has a team on the podium in their own backyard.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-teen-spirit-gets-india-2-open-team-bronze/articleshow/93462455.cms",
-         "pubDate" : "Tue, 09 Aug 2022 17:28:45 +0000",
-         "title" : "Historic double bronze at Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1917",
-         "pubDate" : "Tue, 09 Aug 2022 17:25:07 +0000",
-         "title" : "Ukraine victorious at the Women's Chess Olympiad"
       }
    ]
 }
