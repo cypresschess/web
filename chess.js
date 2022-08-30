@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Monika Socko remains in the sole lead of the European Women's Championship after scoring a crucial win over Gunay Mammadzada and drawing Ulviyya Fataliyeva (from a clearly superior position). Mammadzada bounced back from her loss against the leader by beating Maria Gevorgyan and stands a half point behind the Polish grandmaster with two rounds to go. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2022-r9",
+         "pubDate" : "Tue, 30 Aug 2022 06:35:00 +0100",
+         "title" : "European Women's Championship: Socko leads with two rounds to go"
+      },
+      {
          "description" : "The first day of blitz games at the 2022 Saint Louis Rapid &#38;amp; Blitz saw quick chess superstars GM Hikaru Nakamura, Alireza Firouzja, and Levon Aronian pick up the most points in a day of decisive results, tactical brawls, and a loss by an illeg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions-2023-2026/",
          "pubDate" : "Mon, 29 Aug 2022 15:09:37 +0000",
          "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2023 - 2026"
-      },
-      {
-         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After eight rounds, Monicka Socko is the sole leader with 7 points. Maria Gevorgyan is in sole second place a half point back. Round 9 starts Monday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
-         "pubDate" : "Mon, 29 Aug 2022 14:50:00 +0100",
-         "title" : "European Women's Chess Championship, Round 9 - Live"
       },
       {
          "description" : " During the Olympiad (and possibly after), there was a lot of commentary about the quality of play on the lower boards. There were a few examples of Scholars Mate, and this was seen as evidence that not everyone had 'earned' the right to be there. As a past Olympiad player (and a recent official), I do not believe lines should be drawn in this way. If you are picked by your Federation to play, then you get to play. Both China and India were considered 'non chess' countries in the not so recent past, an opinion that would not be said out loud these days. And speaking of Scholars Mate, in the following game, White was able to pick up a piece after Black failed to spot how strong simply threate",
@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-to-conclude-today-ms-dhoni-expected-at-closing-ceremony/articleshow/93445832.cms",
          "pubDate" : "Tue, 09 Aug 2022 05:32:39 +0000",
          "title" : "Chess Olympiad set to conclude, Dhoni expected at closing ceremony"
-      },
-      {
-         "description" : " 2022 Chess Olympiad: Round #10 Monday, 8 August 2022 One day Dommaraju Gukesh was touted as a national hero having won eight straight games; a couple of days later, he was the culprit for India losing a crucial match in round 10. Chess can be brutal as a sporting activity. Gukesh was riding high off The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/\">2022 Chess Olympiad: Round #10</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/",
-         "pubDate" : "Tue, 09 Aug 2022 04:46:03 +0000",
-         "title" : "2022 Chess Olympiad: Round #10"
       }
    ]
 }
