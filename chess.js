@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Historias de Ajedrez\", \"Chess Stories\", is a movie by the Cuban filmmaker Emmanuel Martin Hernandez. Hernandez is a chess player himself and his film tells the stories of chess players in Santiago de Cuba. Unfortunately, the film was released at the beginning of the pandemic and did not find the audience it deserved. But now you can watch it for free on YouTube.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/historias-de-ajedrez-now-on-youtube",
+         "pubDate" : "Tue, 30 Aug 2022 13:00:00 +0100",
+         "title" : "Historias de Ajedrez - now on YouTube"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1950",
+         "pubDate" : "Tue, 30 Aug 2022 10:57:40 +0000",
+         "title" : "Inmates around the world getting ready for Intercontinental Chess Championship for Prisoners"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1949",
+         "pubDate" : "Tue, 30 Aug 2022 10:08:55 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz - Day 4 Recap"
+      },
+      {
+         "description" : "After nine played rounds at the European Women&#x2019;s Chess Championship 2022, GM Monika Socko (POL, 2423) is the sole leader of the event with score of 7.5 points. Monika Socko (POL, 2423) drew in the ninth round against WGM Fataliyeva Ulviyya (AZE, 2413) to maintain the sole leadership with only two rounds to go. IM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/two-rounds-to-go-at-the-european-womens-chess-championship-2022/",
+         "pubDate" : "Tue, 30 Aug 2022 09:36:38 +0000",
+         "title" : "Two rounds to go at the European Women's Chess Championship"
+      },
+      {
+         "description" : "Alireza Firouzja has a 3-point lead over Maxime Vachier-Lagrave going into the final nine rounds of blitz at the Saint Louis Rapid & Blitz tournament. A half point behind MVL stands Hikaru Nakamura, who finished the rapid section in last place and climbed to sole third place by scoring 7&frac12;/9 points on Monday. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d4",
+         "pubDate" : "Tue, 30 Aug 2022 10:25:00 +0100",
+         "title" : "St. Louis Rapid & Blitz: Firouzja leads, Naka climbs to third place"
+      },
+      {
+         "description" : "It was an exciting day yesterday at the Saint Louis Rapid &#38; Blitz 2022 with 9 blitz rounds on the schedule. (Read more Day 4 recap) It was intense, but funny day for the players, especially for Shakhriyar Mamedyarov and Ian Nepomniachtchi who met in the third round. Mamedyarov performed two illegal moves in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-performed-two-illegal-moves-in-one-game-tweetoftheday/",
+         "pubDate" : "Tue, 30 Aug 2022 09:03:16 +0000",
+         "title" : "Shakhriyar Mamedyarov performed two illegal moves in one game #TweetOftheDay"
+      },
+      {
+         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 4 recap by WGM Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160; After 9 rounds of blitz, the tournament has the sole leader again &#x2013; Alireza Firouzja! Coming into the day, both Frenchmen Maxime Vachier-Lagrave and Alireza Firouzja were tied for the lead []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-again-in-the-sole-lead-saint-louis-rapid-blitz-2022-day-4-recap/",
+         "pubDate" : "Tue, 30 Aug 2022 08:49:50 +0000",
+         "title" : "Alireza Firouzja again in the sole lead; Saint Louis Rapid & Blitz 2022 - Day 4 recap"
+      },
+      {
+         "description" : "Saint Louis Rapid and Blitz 2022 day 5 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Opening ceremony live&#xA0;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-5-live/",
+         "pubDate" : "Tue, 30 Aug 2022 08:36:52 +0000",
+         "title" : "Saint Louis Rapid & Blitz - Day 5 LIVE"
+      },
+      {
+         "description" : "After nine played rounds at the European Women's Chess Championship 2022, GM Monika Socko (POL, 2423) is the sole leader of the event with score of 7.5 points. Monika Socko (POL, 2423) drew in the ninth round against WGM Fataliyeva Ulviyya (AZE, 2413) to maintain the sole leadership with only two rounds to go. IM Gunay Mammadzada (AZE,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-r9-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2022-r9-report/",
+         "pubDate" : "Tue, 30 Aug 2022 08:15:22 +0000",
+         "title" : "European Women's Chess Championship 2022 - R9 report"
+      },
+      {
+         "description" : "In the diagrammed position it is Black to move and on first sight things look bleak for him. His rook has to fight against two minor pieces and White's b-pawn is far advanced. However, Black can save himself. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-tactics-and-a-clumsy-knight",
+         "pubDate" : "Tue, 30 Aug 2022 09:00:00 +0100",
+         "title" : "Endgame tactics and a clumsy knight"
+      },
+      {
          "description" : "Monika Socko remains in the sole lead of the European Women's Championship after scoring a crucial win over Gunay Mammadzada and drawing Ulviyya Fataliyeva (from a clearly superior position). Mammadzada bounced back from her loss against the leader by beating Maria Gevorgyan and stands a half point behind the Polish grandmaster with two rounds to go. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,20 +162,20 @@ news_feed (
          "title" : "IM Pranav Overtakes GMs in Second Fischer Random Swiss"
       },
       {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;What is it that makes Magnus Carlsen the strongest chess player in the world? Why do Carlsen's opponents, the best players around, fail to see his moves coming? Moves that, when you replay his games, look natural and self-evident? Emmanuel Neiman has been studying Carlsen's <a href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/",
+         "pubDate" : "Tue, 30 Aug 2022 00:10:21 +0000",
+         "title" : "The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Cristian Chirila after scoring 9/18 after the rapid portion of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-today-i-played-fighting-chess-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/imFiJy0wLAU.jpg?itok=YsH97Lxl\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/shakh-today-i-played-fighting-chess-day-3",
          "pubDate" : "Mon, 29 Aug 2022 21:23:21 +0000",
          "title" : "Shakh: Today I Played Fighting Chess | Day 3"
-      },
-      {
-         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
-         "pubDate" : "Mon, 29 Aug 2022 19:50:00 +0100",
-         "title" : "St. Louis Rapid & Blitz, Day 4: Live"
       },
       {
          "description" : "In the latest episode of his popular podcast, the American computer scientist and artificial intelligence researcher Lex Fridman had a fascinating, two-and-a-half-hour conversation with GM Magnus Carlsen. The two discussed a wide variety of topics...",
@@ -130,20 +210,20 @@ news_feed (
          "title" : "ECU Board Meeting - Main information and decisions"
       },
       {
-         "description" : "Jennifer Shahade, two-time US Chess Champion, poker player and commentator is an activist for the role of women in chess and has published several books. Her most recent one is \"Chess Queens\". Tatiana Flores spoke with Jennifer Shahade about women in chess, her passion for writing and \"Chess Queens\". | Jennifer Shahade's \"Chess Queens\" is also availabe as audiobook. | Photo: Maria Emelianova /Chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-wgm-jennifer-shahade",
-         "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
-         "title" : "Interview with WGM Jennifer Shahade"
-      },
-      {
          "description" : "The tournaments of the Magnus Carlsen Chess Tour always produce lead to fascinating endgames. In the Endgame Magic show #209 Karsten M&uuml;ller looks at endgame highlights from the FTX Crypto Cup in Miami. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-209-endgame-highlights-from-the-ftx-cryto-cup-in-miami",
          "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
          "title" : "Endgame Magic #209: Endgame highlights from the FTX Cryto Cup in Miami"
+      },
+      {
+         "description" : "Jennifer Shahade, two-time US Chess Champion, poker player and commentator is an activist for the role of women in chess and has published several books. Her most recent one is \"Chess Queens\". Tatiana Flores spoke with Jennifer Shahade about women in chess, her passion for writing and \"Chess Queens\". | Jennifer Shahade's \"Chess Queens\" is also availabe as audiobook. | Photo: Maria Emelianova /Chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-wgm-jennifer-shahade",
+         "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
+         "title" : "Interview with WGM Jennifer Shahade"
       },
       {
          "description" : "The 23rd Sants Chess Open took place from 19-28 August in Barcelona, Spain. It was a 10-round Swiss tournament, with time control: 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Three players tied for the first place after 10 played []",
@@ -160,6 +240,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/offer-power-play-27-28-the-king-s-gambit-and-tactic-toolbox",
          "pubDate" : "Mon, 29 Aug 2022 16:33:49 +0100",
          "title" : "Offer: Power Play 27 & 28 - The King's Gambit and Tactic Toolbox"
+      },
+      {
+         "description" : "The wheel of time continues to turn on the world's two foremost, continuous engine vs. engine competitions. Two weeks ago the headline said, <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html\">Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final</A>(August 2022). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In DFRC1 ('Double Fischer Random Chess: 960*960 possible starting positions'), Stockfish and LCZero finished tied for 1st/2nd places with 16.0/22, 1.5 points ahead of KomodoDragon, which was 2.0 points ahead of Stoofvlees. In the 50 game final match, Stockfish beat LCZero 29.5-20.5 (+18-9=23). After DFRC1, the site launched 'S23 - Chess Bonu",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/08/tcec-s23-leagues-underway-ccc-rudderless.html",
+         "pubDate" : "Mon, 29 Aug 2022 15:31:00 +0000",
+         "title" : "TCEC S23 Leagues Underway; CCC Rudderless?"
       },
       {
          "description" : "Dear Chess Friends, The ECU Board meeting took place on Friday 26th of August through teleconference: Main information and Decisions The status of ECU staff/officers has been confirmed for the new term Mr. Erald Dervishi (ALB) reappointed as CEO of European Chess Union ECU Board appointed the ECU Commissions Chairpersons for the 4-years term ECU Arbiter Council: Mr.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/\">Read More &#187;</a></span>",
@@ -210,7 +298,7 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz - Day 3 Recap"
       },
       {
-         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 3 Recap by Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0; Alireza Firouzja and Maxime Vachier-Lagrave win the rapid portion of the 2022 Saint Louis Rapid &#38; Blitz. It was also a big day for Sam Shankland, who moved up the standings and []",
+         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 3 Recap by Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160; Alireza Firouzja and Maxime Vachier-Lagrave win the rapid portion of the 2022 Saint Louis Rapid &#38; Blitz. It was also a big day for Sam Shankland, who moved up the standings and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/firouzja-and-mvl-win-the-rapid-portion-of-the-2022-saint-louis-rapid-blitz/",
@@ -218,7 +306,7 @@ news_feed (
          "title" : "Firouzja and MVL win the rapid portion of the 2022 Saint Louis Rapid & Blitz"
       },
       {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 4 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Opening ceremony live&#xA0;/&#xA0;Video coverage day 1&#xA0;/&#xA0;Video coverage day 2",
+         "description" : "Saint Louis Rapid and Blitz 2022 day 4 LIVE Saint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160;/&#160;Opening ceremony live&#160;/&#160;Video coverage day 1&#160;/&#160;Video coverage day 2",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-4-live/",
@@ -312,38 +400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1945",
          "pubDate" : "Sun, 28 Aug 2022 11:43:17 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 2 Recap"
-      },
-      {
-         "description" : "The Chess Punk Award Winners for 2022 were announced yesterday. Neal Bruce, the co-founder of the #ChessPunks congratulated the Winners of the awards and thanked the judges who chose the best among the nominated. Best game: @gauss1181Most encouraging: @ChessVonDoomBest content creator: @DoctorScullHonorary Chess Punk: @JenShahade",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-punk-award-winners-2022/",
-         "pubDate" : "Sun, 28 Aug 2022 11:11:54 +0000",
-         "title" : "Chess Punk Award Winners 2022"
-      },
-      {
-         "description" : "The FIDE Congress 2022 took place in Chennai, India between&#xA0;31 July 2022 and 09 August 2022&#xA0;as part of the&#xA0;Chess Olympiad 2022.&#xA0;Part of the FIDE Congress was the FIDE General Assembly, with the&#xA0;FIDE elections on the Agenda. The list of decisions of the 2022 FIDE General Assembly can be found below: GA-2022/01 To approve Treasurer&#x2019;s reportGA-2022/02 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-general-assembly-2022-list-of-decisions/",
-         "pubDate" : "Sun, 28 Aug 2022 10:46:58 +0000",
-         "title" : "FIDE General Assembly 2022 - List of decisions"
-      },
-      {
-         "description" : "The ECU Board meeting took place on Friday, August 26. One of the decisions made was the appointment of the ECU Commissions Chairpersons for the term of four years: ECU Arbiters Council Mr. Geert Bailleul (Belgium)ECU Educational Commission Mr. Jesper Bergmark Hall (Sweden)ECU Events Commission Mr. Paris Klerides (Cyprus)ECU Women's Commission []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-board-appointed-the-ecu-commissions-chairpersons/",
-         "pubDate" : "Sun, 28 Aug 2022 10:35:42 +0000",
-         "title" : "ECU Board appointed the ECU Commissions Chairpersons"
-      },
-      {
-         "description" : "The 2022 Maia International Chess Open kicked off on Friday, 26th of August in Portugal and takes place from August 26 to September 1 in Maia. The tournament is played in 9 rounds, swiss system, with time control: 90 minutes for the whole game + 30 seconds of increment per each move, starting from the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maia-chess-open-2022-live/",
-         "pubDate" : "Sun, 28 Aug 2022 10:15:52 +0000",
-         "title" : "Maia Chess Open 2022 - LIVE"
       },
       {
          "description" : "There were just three decisive games on Day 2 of the St. Louis Rapid and Blitz, and two of them featured Alireza Firouzja. He went down in flames against Fabiano Caruana, but bounced back to beat Leinier Dominguez and regain the sole lead.",
@@ -768,6 +824,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d2",
          "pubDate" : "Tue, 23 Aug 2022 21:43:00 -0700",
          "title" : "Hansen Dances to 4-0, Fedoseev Fights to Final"
+      },
+      {
+         "description" : " From the publisher: &#8220;Chris Ross has come a long way from the back streets of Middlesbrough to a senior administrative role at Sheffield Hallam University, helping the education of those with a wide range of disabilities. A former teacher, Chris's natural ability to educate has developed many of his colleagues in UK chess clubs - <a href=\"http://britishchessnews.com/2022/08/24/blind-faith/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Blind Faith</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/24/blind-faith/\">Blind Faith</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/08/24/blind-faith/",
+         "pubDate" : "Wed, 24 Aug 2022 00:10:50 +0000",
+         "title" : "Blind Faith"
       },
       {
          "description" : "",
@@ -1442,14 +1506,6 @@ news_feed (
          "title" : "Czech Summer Chess"
       },
       {
-         "description" : "Finally, the beloved WIM from Canada is back, and shows us a couple of games from the Olympiad in Chennai. In the first game, she crushed the strong female Dutch GM Peng Zhaoqin with the London system. In preparation, she discovered the interesting manoeuvre 11. Qa4!?, which you can add to your repertoire now. In the second game, Svitlana used the peculiar Horwitz attack against the French Defense. The Gambit is also known as \"Papa-Ticulat Gambit\". Due to a pretty knight sacrifice, she succeeded in her game against the Puerto-Ricon player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-episode-47",
-         "pubDate" : "Thu, 18 Aug 2022 13:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai (London System & Papa-Ticulat Gambit)"
-      },
-      {
          "description" : "FIDE Chess for Protection is a project that helps refugees learn the game of chess and acquire new important life skills, socialize, and release stress through it. One of the essential parts of the Chess for Protection project is Girls Club, aiming to educate girls and women. The pilot by FIDE and UNCHR was launched in Kakuma, Kenya,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-releases-chess-for-protection-project-curriculum/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1480,14 +1536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-3",
          "pubDate" : "Thu, 18 Aug 2022 01:44:00 -0700",
          "title" : "Carlsen, Praggnanandhaa Lead As FTX Crypto Cup Sees 1st Armageddon"
-      },
-      {
-         "description" : "Praggnanandhaa and Magnus Carlsen are sharing the lead with perfect scores at the FTX Crypto Cup in Miami. In Wednesday's third round, Pragg defeated Hans Niemann while Carlsen got the better of Levon Aronian. Le Quang Liem and Alireza Firouzja were the remaining winners of the day, with the latter climbing to shared third place after beating Anish Giri in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r3",
-         "pubDate" : "Thu, 18 Aug 2022 07:55:00 +0100",
-         "title" : "FTX Crypto Cup: Pragg keeps pace with Carlsen"
       },
       {
          "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
@@ -1976,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1914",
          "pubDate" : "Tue, 09 Aug 2022 12:05:11 +0000",
          "title" : "FIDE Council composition announced"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> None of the top ten seated men teams managed to win a medal at the <strong>Chess Olympiad</strong> in Mamallapuram. Uzbekistan, seated 14th and host of the 2026 Chess Olympiad, wins gold ahead of Armenia, seated 12th, and India II, seated 11th. 16-year old Gukesh blundered a possible gold for the host's junior squad in the penultimate round against Abdusattorov but still claimed the best result on board one ahead of the 17-year old Uzbek. The <strong>Women Chess Olympiad</strong> was won by Ukraine ahead of Georgia and India, who had led throughout but lost their last match against the US. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/uzbekistan-armenia-india-ii/",
-         "pubDate" : "Tue, 09 Aug 2022 10:30:07 +0100",
-         "title" : "Uzbekistan, Armenia, India II"
       }
    ]
 }
