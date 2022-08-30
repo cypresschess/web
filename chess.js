@@ -102,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lex-fridman-podcast-magnus-carlsen",
-         "pubDate" : "Mon, 29 Aug 2022 11:24:57 -0700",
+         "pubDate" : "Mon, 29 Aug 2022 11:24:00 -0700",
          "title" : "Lex Fridman With Magnus Carlsen: An Interview You Don't Want To Miss"
       },
       {
