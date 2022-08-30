@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-1",
+         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
+         "title" : "2022 Sinquefield Cup: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, join GM Cristian Chirila for the closing ceremony and trophy presentation for the 2022 Saint Louis Rapid &amp; Blitz. The field was: Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Mamedyarov, Nakamura, Shankland, and Xiong. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-closing-ceremony\"><img src=\"https://saintlo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-closing-ceremony",
+         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Closing Ceremony"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World's Fair Pavilion, join GM Cristian Chirila for the opening ceremony of the 2022 Sinquefield Cup. The field is: Carlsen, Nepomniachtchi, Wesley So, Caruana, Vachier-Lagrave, Aronian, Firouzja, Mamedyarov, Dominguez, and Niemann. Plus, celebrate the 50th anniversary of Bobby Fischer's victory over Boris Spassky in the 1972 World Chess Championship with a one-of-a-kind musical performance curated by World Chess Hall of Fame's Music Director Brian Owens. Play begins Friday, September 2 at 12:50 P.M. CDT. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-opening-ceremony-fischer-spassky-anniversary-celebration",
+         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
+         "title" : "2022 Sinquefield Cup: Opening Ceremony & Fischer-Spassky Anniversary Celebration"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players what they believe are the three most important attributes to make a good rapid and blitz chess player. This aired during Day 4. 2022.08.25<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-best-rb-attributes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q9xP",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-best-rb-attributes",
+         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Best R&B Attributes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after scoring 14.5/27 after the first blitz round robin of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.29<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-pineapple-shirt-did-not-play-huge-role-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4faIw8CYTg.jpg?itok=2B0BJML4\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-pineapple-shirt-did-not-play-huge-role-day-4",
+         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
+         "title" : "Nakamura: Pineapple Shirt Did Not Play a Huge Role | Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after scoring 18/27 after the first blitz round robin of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.29<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-good-mood-good-performance-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zmYQjsN7gnM.jpg?itok=wqzGrlJ-\" alt=\"\" /></a>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-good-mood-good-performance-day-4",
+         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
+         "title" : "Firouzja: Good Mood = Good Performance | Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the first blitz round robin, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.29<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-4",
+         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
+         "title" : "2022 Saint Louis Rapid & Blitz: Day 4"
+      },
+      {
+         "description" : "IM V Pranav won the Qualifier 2 Swiss stage of the 2022 Fischer Random World Championship on Monday, making him the only non-GM to advance to the knockout in either qualifier. GMs Alexey Sarana, Vladislav Kovalev, Vincent Keymer, David Navara, a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d1",
+         "pubDate" : "Mon, 29 Aug 2022 17:14:00 -0700",
+         "title" : "IM Pranav Overtakes GMs in Second Fischer Random Swiss"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Cristian Chirila after scoring 9/18 after the rapid portion of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shakh-today-i-played-fighting-chess-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/imFiJy0wLAU.jpg?itok=YsH97Lxl\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -186,60 +250,12 @@ news_feed (
          "title" : "MVL Tortured with Extended Commentary | Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shakh-has-perfect-day-day-3",
-         "pubDate" : "Mon, 29 Aug 2022 00:21:30 +0000",
-         "title" : "Shakh has the perfect day! | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after defeating Caruana in the seventh rapid round of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-my-rooks-were-better-caruana%E2%80%99s-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/b_gGqiEUZwE.jpg?itok=xrPG-dt9\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-my-rooks-were-better-caruana%E2%80%99s-day-3",
-         "pubDate" : "Sun, 28 Aug 2022 21:21:12 +0000",
-         "title" : "MVL: My Rooks Were Better than Caruana's | Day 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1946",
          "pubDate" : "Sun, 28 Aug 2022 20:23:25 +0000",
          "title" : "Federations entitled to nominate a player for the FIDE World Cup and Women's World Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after scoring 6/12 after the middle three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-takes-down-firouzja-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xK04-c2lmiM.jpg?itok=-xciIRLi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-takes-down-firouzja-day-2",
-         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
-         "title" : "Caruana Takes Down Firouzja | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after scoring 8/12 after the middle three rapid rounds of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-still-first-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZDoakTWg67w.jpg?itok=sIkxKJC8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-still-first-day-2",
-         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
-         "title" : "Firouzja Still in First | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the first blitz round robin, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.29<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-4-lichessorg",
-         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 4 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-3-lichessorg",
-         "pubDate" : "Sun, 28 Aug 2022 18:20:50 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 3 | lichess.org"
       },
       {
          "description" : "There's no question about it: World Championship chess needs more cartoons. That's this month's theme in the ongoing series on <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). The closest thing I could find to a cartoon in the series was <A HREF=\"https://chessforallages.blogspot.com/2017/03/chess-strategy-woodcut.html\">Chess Strategy Woodcut</A>(March 2017), and that was a serious drawing, not satire. <P>A recent <I>Fischer Friday</I> post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022), featured an excellent example of how poor was Fischer's public image just be",
@@ -352,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-day-2",
          "pubDate" : "Sat, 27 Aug 2022 19:53:00 -0700",
          "title" : "Firouzja Falters But Maintains Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the middle three rapid rounds, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.27<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-takes-down-firouzja-winner-interview-day-2",
-         "pubDate" : "Sun, 28 Aug 2022 00:19:29 +0000",
-         "title" : "Caruana Takes Down Firouzja | Winner Interview | Day 2"
       },
       {
          "description" : "",
@@ -1482,14 +1490,6 @@ news_feed (
          "title" : "Fighting Spirit to the End: Lagno Defeats Vaishali"
       },
       {
-         "description" : "For the second time in three weeks, GMs Oleksandr Bortnyk and Hikaru Nakamura each won an event on Titled Tuesday. In second place this week were GMs Eric Hansen and Daniel Naroditsky, making it a good day for streaming stars. Early Tournament...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bortnyk-nakamura-win-titled-tuesday-august-16-2022",
-         "pubDate" : "Wed, 17 Aug 2022 09:33:37 -0700",
-         "title" : "Another Great Tuesday For Streamers"
-      },
-      {
          "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/09/2022-chess-olympiad-round-10/",
          "pubDate" : "Tue, 09 Aug 2022 04:46:03 +0000",
          "title" : "2022 Chess Olympiad: Round #10"
-      },
-      {
-         "description" : "Gukesh has been the star of the Chennai Olympiad and was about to beat Nodirbek Abdusattorov, move to a staggering 9.5/10, and give India 2 the co-lead before the final round. Instead he crashed to defeat, and it's Uzbekistan who lead with Armenia, who defeated Azerbaijan 3:1.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chennai-olympiad-10-gukesh-despair-as-uzbekistan-escape",
-         "pubDate" : "Mon, 08 Aug 2022 23:34:55 +0000",
-         "title" : "Chennai Olympiad 10: Gukesh despair as Uzbekistan escape"
       }
    ]
 }
