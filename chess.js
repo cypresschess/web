@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is the flash report summarizing the main results. The full report will be added to this page soon. GM Alireza Firouzja won the 2022 Saint Louis Rapid &#38;amp; Blitz with a final score of 26 points. He not only won the event with four rounds to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-5",
+         "pubDate" : "Tue, 30 Aug 2022 15:47:46 -0700",
+         "title" : "Flash Report: Dominant Firouzja Clinches Victory With Four Rounds To Spare"
+      },
+      {
+         "description" : "Grandmasters Praggnanandhaa and Rinat Jumabayev lead the 2022 edition of Dubai Open with perfect 4,0/4 score. The 22nd edition of the Dubai Chess Open is taking place at the Dubai Chess &#38; Culture Club and will be played from 27 August &#x2013; 5 September. More than 180 players from 35 countries will fight for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pragg-and-jumbayev-lead-dubai-open-2022-with-perfect-score/",
+         "pubDate" : "Tue, 30 Aug 2022 21:34:16 +0000",
+         "title" : "Pragg and Jumbayev lead Dubai Open 2022 with perfect score"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Peter Svidler talk about their visit to the World Chess Hall of Fame&#039;s new exhibition &quot;1972 Fischer/Spassky: The Match, Its Origin, and Influence,&quot; on view until April 30, 2023. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yas-peter-visit-wchofs-fischer-spassky-exhibition-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yas-peter-visit-wchofs-fischer-spassky-exhibition-day-5",
+         "pubDate" : "Tue, 30 Aug 2022 21:24:09 +0000",
+         "title" : "Yas & Peter Visit WCHOF's Fischer-Spassky Exhibition | Day 5"
+      },
+      {
+         "description" : "Valeriy Grinev is the winner of the 31st Independence Cup 2022 3rd Memorial Sergiy Shystariov. The event took place in Kyiv this 27-28 August. A total of 96 players participated in the event, among which 6 GMs, 6 IMs, 3 FMs, and 1 WFM. A total of seven players finished with 7,0/9, with IM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/valeriy-grinev-wins-independence-cup-2022/",
+         "pubDate" : "Tue, 30 Aug 2022 21:03:20 +0000",
+         "title" : "Valeriy Grinev wins Independence Cup 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1951",
+         "pubDate" : "Tue, 30 Aug 2022 20:32:00 +0000",
+         "title" : "Filip Haring wins FIDE Slovak Open"
+      },
+      {
          "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,22 +394,6 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz - Day 3 Recap"
       },
       {
-         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 3 Recap by Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160; Alireza Firouzja and Maxime Vachier-Lagrave win the rapid portion of the 2022 Saint Louis Rapid &#38; Blitz. It was also a big day for Sam Shankland, who moved up the standings and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/firouzja-and-mvl-win-the-rapid-portion-of-the-2022-saint-louis-rapid-blitz/",
-         "pubDate" : "Mon, 29 Aug 2022 08:08:05 +0000",
-         "title" : "Firouzja and MVL win the rapid portion of the 2022 Saint Louis Rapid & Blitz"
-      },
-      {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 4 LIVE Saint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160;/&#160;Opening ceremony live&#160;/&#160;Video coverage day 1&#160;/&#160;Video coverage day 2",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-4-live/",
-         "pubDate" : "Mon, 29 Aug 2022 08:00:51 +0000",
-         "title" : "Saint Louis Rapid & Blitz - Day 4 LIVE"
-      },
-      {
          "description" : "An action-packed third day of action at the Saint Louis Rapid & Blitz tournament left French representatives Alireza Firouzja and Maxime Vachier-Lagrave in the shared lead going into the blitz section of the event. Sam Shankland beat Ian Nepomniachtchi and Hikaru Nakamura to climb to sole third place, while Shakhriyar Mamedyarov scored three wins in a row to return to a fifty-percent score after a subpar performance in the first six rounds. | Photos: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -392,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-abu-dhabi-masters-2022",
          "pubDate" : "Mon, 29 Aug 2022 02:50:00 +0100",
          "title" : "Arjun Erigaisi's remarkable win at the Abu Dhabi Masters"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after scoring 11/18 after the rapid portion of the 2022 Saint Louis Rapid &amp; Blitz. The commentary team decided to put MVL to work with game analysis after a painfully short draw. 2022.08.28<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-tortured-extended-commentary-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-tortured-extended-commentary-day-3",
-         "pubDate" : "Mon, 29 Aug 2022 00:21:30 +0000",
-         "title" : "MVL Tortured with Extended Commentary | Day 3"
       },
       {
          "description" : "",
@@ -1514,14 +1530,6 @@ news_feed (
          "title" : "Announcing The 2022 FIDE Fischer Random World Chess Championship"
       },
       {
-         "description" : "The summer holidays are coming to an end, and ChessKid is giving all parents and educators a 20% discount on Gold memberships to make sure young chess players can get easy access to child-friendly game analysis, puzzles, video lessons, and more. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-back-to-school-sale",
-         "pubDate" : "Thu, 18 Aug 2022 10:05:15 -0700",
-         "title" : "ChessKid Memberships: 20% Off For Back-to-School Season"
-      },
-      {
          "description" : " The European Summer Chess Tour is a well known destination for Antipodean players, although Covid has restricted playing opportunities in the last few years. It does look like it is back to normal this year, and on young Canberran, FM Albert Winkelman, is giving it a go. He started with the Czech Open, before moving onto a GM event in Olomouc. Being the bottom seed in the GM group is always going to be a tough ask, and his current score of 1.5/6 doesn't reflect how close he was in some games. While looking through the games I did spot one very nice attack by Jonasz Baum, where a rook sacrifice lead to a position where White had to walk the tight-rope to avoid a loss. He did for a while, but",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1918",
          "pubDate" : "Wed, 10 Aug 2022 00:16:16 +0000",
          "title" : "Mikheil Chkhenkeli granted an honorary award by FIDE"
-      },
-      {
-         "description" : "The 44th Chess Olympiad 2022 concluded today in Chennai with the Closing ceremony. After a dramatic finish, Uzbekistan won the Open event and Ukraine claimed gold of the Women's tournament. Uzbekistan defeated Netherlands in the last round with a narrow 2.5-1.5 victory, while Armenia took a victory over Spain to join them on the top with 19 match&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/chess-olympiad-2022-concluded-in-chennai/",
-         "pubDate" : "Tue, 09 Aug 2022 21:43:48 +0000",
-         "title" : "Uzbekistan and Ukraine claim the 44th Chess Olympiad"
       }
    ]
 }
