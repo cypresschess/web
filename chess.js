@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja was unstoppable and cruised to victory on the last day of the Saint Louis Rapid & Blitz, winning his first event on the Grand Chess Tour. The 19-year-old dominated and clinched victory with four rounds to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/unstoppable-alireza-firouzja-demolishes-field-to-win-in-st-louis",
+         "pubDate" : "Wed, 31 Aug 2022 07:28:42 +0000",
+         "title" : "Unstoppable Alireza Firouzja demolishes field to win in St Louis"
+      },
+      {
+         "description" : "There was no stopping Alireza Firouzja at the Saint Louis Rapid & Blitz tournament, as the 19-year-old won the event with four rounds to spare! In his first-ever participation at a tournament in Saint Louis, Firouzja finished with an astonishing 26/36 score, five points ahead of second-placed Hikaru Nakamura. The youngster gained over a hundred rating points in blitz (he now sits at a stratospheric 2902.6), which prompted him to climb to second place in the live ratings list, only six points behind Nakamura. | Photo: Grand Chess Tour / Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d5",
+         "pubDate" : "Wed, 31 Aug 2022 08:25:00 +0100",
+         "title" : "Stunning: Firouzja wins St. Louis Rapid & Blitz with four rounds to spare!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1952",
+         "pubDate" : "Wed, 31 Aug 2022 07:13:09 +0000",
+         "title" : "Alireza Firouzja wins 2022 Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "Alireza Firouzja has opened up a gap to his competitors after an impressive display on the first day of blitz in Saint Louis. Meanwhile, Hikaru Nakamura is playing catch up, showing off his brilliant speed chess skills that were lacking on Day 3.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/firouzja-grabs-sole-lead-as-nakamura-plays-catch-up-with-7-5-9",
+         "pubDate" : "Wed, 31 Aug 2022 07:09:53 +0000",
+         "title" : "Firouzja grabs sole lead as Nakamura plays \"catch up\" with 7.5/9"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-60/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (60)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-60/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (60)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-60/",
+         "pubDate" : "Wed, 31 Aug 2022 07:02:58 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (60)"
+      },
+      {
+         "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-2022-saint-louis-rapid-and-blitz",
+         "pubDate" : "Tue, 30 Aug 2022 23:59:00 -0700",
+         "title" : "Dominant Firouzja Clinches Saint Louis Rapid & Blitz With 4 Rounds To Spare"
+      },
+      {
+         "description" : "GMs Matthias Bluebaum and David Navara advanced to the Qualifier 2 final of the 2022 Fischer Random World Championship on Tuesday. Practically every matchup featured wild games from four queens roaming the board to compelling rook sacrifices to in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d2",
+         "pubDate" : "Tue, 30 Aug 2022 22:36:42 -0700",
+         "title" : "Quadruple Queens and Raining Rooks: Bluebaum and Navara Advance to Final"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://perlenvombodensee.de/2022/08/29/meyer-dunker-verlaesst-den-dsb/\">is losing</a> its Tournament Director <strong>Gregor Johann</strong> and its Social Media Director <strong>Paul Meyer-Dunker</strong>. While the operations are now managed by <strong>Anja Giering</strong>, the tasks of Executive Director <strong>Marcus Fenner</strong> are now described as strategy, fundraising and representation. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/german-federation-in-disarray/",
+         "pubDate" : "Wed, 31 Aug 2022 06:33:56 +0100",
+         "title" : "German Federation in disarray"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after winning the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-promised-myself-i%E2%80%99d-win-saint-louis-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9pv3pmpgxBY.jpg?itok=z2VPrl10\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,12 +138,12 @@ news_feed (
          "title" : "Filip Haring wins FIDE Slovak Open"
       },
       {
-         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Follow the games live, starting at 20.00 CEST (14.00 EDT, 23.30 IST) | Photo: Lennart Ootes",
+         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, was played on August 26-30. The last rapid and blitz event of the series hosted ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
          "pubDate" : "Tue, 30 Aug 2022 19:50:00 +0100",
-         "title" : "St. Louis Rapid & Blitz, Day 5: Live"
+         "title" : "St. Louis Rapid & Blitz: Games and standings"
       },
       {
          "description" : "2022 Candidates Tournament: Review with videos by Dorian Rogozenco and Robert Ris - \"Special\" on the Ukrainian sisters and Olympic champions Anna and Mariya Muzychuk: 21 annotated games + contributions on strategy and endgame - Ragosin &agrave; la Keymer: Roven Vogel presents 1. d4 d5 2.c4 e6 2.Nc3 Nf6 4.Nf3 Bb4 5.Qa4+ Nc6 6.e3 - Prague Chess Festival 2022: Annotated games by Harikrishna, Keymer, Navara, Shankland and Vidit - \"Practical Tips for the Tournament Player\": Let Jan Markos show you how to master must-win situations! - In Fischer's footsteps: Yago Santiago attacks Najdorf with 6.Bc4 - \"Shocker\" in the Jobava London System: Daniel King shows the new gambit idea 1.d4 Nf6 2.Nc3 d5 3.B",
@@ -104,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-claims-1-blitz-spot-on-chess-com",
          "pubDate" : "Tue, 30 Aug 2022 06:52:00 -0700",
          "title" : "Carlsen Claims No. 1 Blitz Spot On Chess.com"
-      },
-      {
-         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. After nine rounds, Monicka Socko is the sole leader with 7&frac12; points. Gunnay Mammadzada is in sole second place a half point back. Round 10 starts Tuesday at 15.00 CEST (9.00 ET, 13.UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
-         "pubDate" : "Tue, 30 Aug 2022 14:50:00 +0100",
-         "title" : "European Women's Chess Championship, Round 10 - Live"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg\" data-image-dimensions=\"408x264\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"630e0dbcc5a0422c7f695dc1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the third highest rated chess player of all time, GM Fabiano Caruana. Fabiano joined me from the St. Louis Chess Club just days before he was set t",
@@ -1514,22 +1570,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Praggnanandhaa, Carlsen share lead after Round 4"
       },
       {
-         "description" : "The finals series of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase commenced on Thursday with matchups that featured the 12 top point-scorers across the inaugural season and four invited players&#38;mdash;GMs Ding Liren, Ian Nepomniacht...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-1",
-         "pubDate" : "Thu, 18 Aug 2022 19:43:00 -0700",
-         "title" : "Day Of Sacrifices And Blunders En Route To RCC Winners Semifinals"
-      },
-      {
-         "description" : "Chess.com is excited to announce that the FIDE Fischer Random World Championship is back, brought to you by the Government of Iceland and the City of Reykjavik! Top players from around the world will compete in a series of classical Fischer Random...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2022-fide-fischer-random-world-chess-championship",
-         "pubDate" : "Thu, 18 Aug 2022 10:22:00 -0700",
-         "title" : "Announcing The 2022 FIDE Fischer Random World Chess Championship"
-      },
-      {
          "description" : " The European Summer Chess Tour is a well known destination for Antipodean players, although Covid has restricted playing opportunities in the last few years. It does look like it is back to normal this year, and on young Canberran, FM Albert Winkelman, is giving it a go. He started with the Czech Open, before moving onto a GM event in Olomouc. Being the bottom seed in the GM group is always going to be a tough ask, and his current score of 1.5/6 doesn't reflect how close he was in some games. While looking through the games I did spot one very nice attack by Jonasz Baum, where a rook sacrifice lead to a position where White had to walk the tight-rope to avoid a loss. He did for a while, but",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1928,14 +1968,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/behold-now-behemoth",
          "pubDate" : "Wed, 10 Aug 2022 09:00:00 +0100",
          "title" : "Behold now behemoth!"
-      },
-      {
-         "description" : " Central Asian state, seeded 14, wins the 180-nation team event ahead of Armenia and India 2, while Howell's 7.5/8 total echoes the 1980s The premier team competition in chess, the 180-nation Chennai Olympiad, ended on Tuesday with a shock result. Uzbekistan, who had an average age of 20 and were seeded only 14th, edged to gold ahead of the three-time winners Armenia and India's teenagers, while the top seeded United States finished out of the medals. India's Gukesh D, 16, and the Uzbek Nodirbek Abdusattorov, 17, stood out as fast-rising talents destined for the world top. The pair took gold and silver for the first board, leaving the world champion, Magnus Carlsen, with the bronze. Carlsen ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/aug/10/chess-uzbekistan-win-olympiad-while-david-howell-takes-performance-gold",
-         "pubDate" : "Wed, 10 Aug 2022 07:00:45 +0000",
-         "title" : "Chess: Uzbekistan win Olympiad while David Howell takes performance gold"
       }
    ]
 }
