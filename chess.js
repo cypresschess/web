@@ -1936,22 +1936,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/aug/10/chess-uzbekistan-win-olympiad-while-david-howell-takes-performance-gold",
          "pubDate" : "Wed, 10 Aug 2022 07:00:45 +0000",
          "title" : "Chess: Uzbekistan win Olympiad while David Howell takes performance gold"
-      },
-      {
-         "description" : "The closing ceremony for the #ChessOlympiad2022 was as magnificent as was the main event. Check out here some glimpses of closing ceremony and individual brilliances",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/44th-chess-olympiad-closing-ceremony-glimpses/",
-         "pubDate" : "Wed, 10 Aug 2022 04:14:23 +0000",
-         "title" : "44th Chess Olympiad: Closing Ceremony Glimpses"
-      },
-      {
-         "description" : "The 44th Chess Olympiad ends in a grand note at JLN Stadium in Chennai on 09 August 2022 .Team Uzbekistan &#38; Ukraine bags team gold",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/44th-chess-olympiad-ends-in-a-grand-style-uzbekistan-ukraine-bags-team-gold-in-open-and-women-respectively-india-2-and-india-women-secured-bronze-in-open-women/",
-         "pubDate" : "Wed, 10 Aug 2022 03:56:30 +0000",
-         "title" : "44th Chess Olympiad ends in a grand style :Uzbekistan & Ukraine bags team gold in open and women respectively , India 2 and India Women secured Bronze in Open & Women."
       }
    ]
 }
