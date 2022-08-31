@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #531 Merijn van Delft looks at one of his own games - a loss, in which he fell victim to a fine queen sacrifice and a violent attack by the Cuban GM Omar Almeida Quintana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-531-m-van-delft-vs-o-almeida-quintana",
+         "pubDate" : "Wed, 31 Aug 2022 19:00:00 +0100",
+         "title" : "Game of the Week #531: M. Van Delft vs O. Almeida Quintana"
+      },
+      {
+         "description" : "GM Matthias Bluebaum overcame GM David Navara&#38;nbsp;in the Qualifier 2 final of the 2022 Fischer Random World Championship on Wednesday. Navara displayed a high understanding of the opening stages of Fischer Random, often gaining an advantage with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d3",
+         "pubDate" : "Wed, 31 Aug 2022 10:23:00 -0700",
+         "title" : "Opening Understanding vs. Counterstrike Ability: Bluebaum Defeats Navara"
+      },
+      {
          "description" : "Starting an attack against the opponent is often more fun, than defending. But converting an attack to a winning position, or a checkmate, is not always an easy task. It can fade away quickly, and we are left with less pieces, and a lost position. Good for us, Svitlana knows quite well how to convert an attack to a win, and gives us plenty of good hints, on how to proceed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-converting-an-attack-correctly",
          "pubDate" : "Wed, 31 Aug 2022 17:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Converting an attack correctly"
+      },
+      {
+         "description" : "On a day where several players, including GM Hikaru Nakamura, were preoccupied with the last day of the 2022 Saint Louis Rapid &#38;amp; Blitz tournament, the August 30, 2022 editions of Titled Tuesday were won by GM Jose Martinez and GM-elect Denis L...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-lazavik-win-titled-tuesday-august-30-2022",
+         "pubDate" : "Wed, 31 Aug 2022 08:41:46 -0700",
+         "title" : "Martinez Beats The Crowd, Young IM Wins Again"
       },
       {
          "description" : "Eight years ago, in ChessBase Magazine #160, Dorian Rogozenco started his video series \"The Classic\". With his contribution in the new issue CBM #209 on the game Pillsbury-Lasker (St. Petersburg 1896), the round number of 50 selected top games from the time up to 1945 has been reached. A nice anniversary, for which we present Rogozenco's video in full length. Enjoy!",
@@ -1482,14 +1506,6 @@ news_feed (
          "title" : "Nakamura, Nepomniachtchi Break Through To Face Off In RCC Winners Final"
       },
       {
-         "description" : "A field with well-established GMs and young stars is fighting it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller is following the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Praggnanandhaa in 2018 | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-endgames-1",
-         "pubDate" : "Sat, 20 Aug 2022 00:25:00 +0100",
-         "title" : "Endgames from Miami (1)"
-      },
-      {
          "description" : "A few months ago, in an earlier post in this <I>Fischer Friday</I> series, a post titled <A HREF=\"http://chessforallages.blogspot.com/2022/06/hatchet-job.html\">Hatchet Job</A>(June 2022), I quoted Anthony Saidy writing, <BLOCKQUOTE>Brad Darrach, one of the minority of journalists sympathetic to Fischer. </BLOCKQUOTE> <P>That short quote made two points. The first was that Darrach was 'sympathetic to Fischer'. The second was that the same could be said for only a 'minority of journalists'. That might seem surprising, given the legendary proportions the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>has taken over the past 50 years, but Fischer's recalc",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1554,14 +1570,6 @@ news_feed (
          "title" : "FTX Crypto Cup 4: Pragg beats Aronian to match Magnus"
       },
       {
-         "description" : "Also on the fourth day of play at the FTX Crypto Cup in Miami, GMs Magnus Carlsen and Praggnanandhaa R. won their matches without needing a tiebreak. The duo is now four points ahead of GM Alireza Firouzja, who is on eight points, followed by GM L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-4",
-         "pubDate" : "Fri, 19 Aug 2022 03:13:00 -0700",
-         "title" : "Carlsen, Praggnanandhaa Storm On As Niemann's Suffering Continues"
-      },
-      {
          "description" : "The 22nd edition of the European Women's Individual Chess Championship starts tomorrow at Don Giovanni hotel in Prague, Czech Republic, and will be played from 20 30 August. 125 players from 27 European federations registered for the event, with 7 Grandmasters, 21 International masters, 23 Women grandmasters, 28 Women International masters and a total of 108 titled&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-starts-in-prague/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-r-praggnanandhaa-magnus-carlsen-share-lead-after-round-4/articleshow/93651655.cms",
          "pubDate" : "Fri, 19 Aug 2022 04:06:42 +0000",
          "title" : "FTX Crypto Cup: Praggnanandhaa, Carlsen share lead after Round 4"
-      },
-      {
-         "description" : "The finals series of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase commenced on Thursday with matchups that featured the 12 top point-scorers across the inaugural season and four invited players&#38;mdash;GMs Ding Liren, Ian Nepomniacht...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-1",
-         "pubDate" : "Thu, 18 Aug 2022 19:43:00 -0700",
-         "title" : "Day Of Sacrifices And Blunders En Route To RCC Winners Semifinals"
       },
       {
          "description" : " The European Summer Chess Tour is a well known destination for Antipodean players, although Covid has restricted playing opportunities in the last few years. It does look like it is back to normal this year, and on young Canberran, FM Albert Winkelman, is giving it a go. He started with the Czech Open, before moving onto a GM event in Olomouc. Being the bottom seed in the GM group is always going to be a tough ask, and his current score of 1.5/6 doesn't reflect how close he was in some games. While looking through the games I did spot one very nice attack by Jonasz Baum, where a rook sacrifice lead to a position where White had to walk the tight-rope to avoid a loss. He did for a while, but",
@@ -1928,22 +1928,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-post-euphoria-time-to-make-next-move/articleshow/93490948.cms",
          "pubDate" : "Thu, 11 Aug 2022 03:04:22 +0000",
          "title" : "Chess Olympiad: Post euphoria, time to make next move"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93485958.cms\" />India not only hosted what's arguably one of the best editions of the chess Olympiad --- which concluded on Sunday --- but also delivered its strongest-ever show in the competition by winning two bronze medals. The high point of the tournament from India's point of view was young gun D Gukesh's splendid show.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukeshs-show-at-chess-olympiad-was-just-breathless-viswanathan-anand/articleshow/93485958.cms",
-         "pubDate" : "Wed, 10 Aug 2022 17:19:15 +0000",
-         "title" : "Gukesh's show at Chess Olympiad was just breathless: Anand"
-      },
-      {
-         "description" : " 2022 Chess Olympiad: Round #11 Tuesday, 9 August 2022 The famous Uzbek talents we've heard about for so long have arrived! Photo by Stev Bonhage Before round 11, there was a lot of tension in the hall as the finale of the 2022 Chess Olympiad unfolded. The young team from Uzbekistan was leading along with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/10/2022-chess-olympiad-uzbekistan-ukraine-win/\">2022 Chess Olympiad: Uzbekistan, Ukraine win!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/10/2022-chess-olympiad-uzbekistan-ukraine-win/",
-         "pubDate" : "Wed, 10 Aug 2022 15:48:10 +0000",
-         "title" : "2022 Chess Olympiad: Uzbekistan, Ukraine win!"
       }
    ]
 }
