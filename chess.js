@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are many ways to train tactics, from methodical themes, to deep positions, and while all have their place in a player's arsenal of training tools, there is one that specifically targets speed of recognition and play: the Tactics Sprint. If you feel like you want a method to improve your ability to see and play tactics in minimal time see this intro with video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tactics-sprint-training-at-the-speed-of-a-bullet",
+         "pubDate" : "Wed, 31 Aug 2022 13:00:00 +0100",
+         "title" : "Tactics Sprint - Training at the speed of a bullet (with video!)"
+      },
+      {
+         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. Going into the final round, Monicka Socko is the sole leader with 8 points. Three players stand a half point back, including Lilit Mkrtchian, Socko's final opponent. Round 11 starts Wednesday at 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
+         "pubDate" : "Wed, 31 Aug 2022 12:50:00 +0100",
+         "title" : "European Women's Chess Championship, Round 11 - Live"
+      },
+      {
+         "description" : "Challengers Chess Tour 2022 will return next month with a line-up of the world&#x2019;s top juniors. The all-star junior chess section of the Tour will include two events and a final four. The Julius Baer Challenge (September 3 to 4) will be followed by the Magnus Academy Challenge (October 8 to 9) before the overall []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/challengers-chess-tour-2022-is-an-all-star-juniors-event/",
+         "pubDate" : "Wed, 31 Aug 2022 11:29:46 +0000",
+         "title" : "Challengers Chess Tour 2022 is an all-star juniors event"
+      },
+      {
+         "description" : "2022 Saint Louis Rapid &#38; Blitz &#x2013; Day 5 recap by WGM Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule The fifth day of Saint Louis Rapid &#38; Blitz was smooth sailing for Alireza Firouzja, who made it to the top of the standings and won the 2022 St Louis Grand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-is-the-winner-of-saint-louis-rapid-blitz-2022/",
+         "pubDate" : "Wed, 31 Aug 2022 11:06:14 +0000",
+         "title" : "Alireza Firouzja is the winner of Saint Louis Rapid & Blitz 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1954",
+         "pubDate" : "Wed, 31 Aug 2022 10:36:42 +0000",
+         "title" : "Asian Chess Federation and VADR Media create Checkmate Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Italian brand manager <strong>Marco Verdoia</strong> is leaving FIDE who is <a href=\"https://www.dropbox.com/transfer/AAAAAB7akYPSWULcentyYyu5v3I8TT01kmF7Hnl-YhIakCwT-e3LZfc\">appointing a new Marketing Director</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fide-seeks-marketing-director/",
+         "pubDate" : "Wed, 31 Aug 2022 08:54:02 +0100",
+         "title" : "FIDE seeks Marketing Director"
+      },
+      {
          "description" : "Alireza Firouzja was unstoppable and cruised to victory on the last day of the Saint Louis Rapid & Blitz, winning his first event on the Grand Chess Tour. The 19-year-old dominated and clinched victory with four rounds to spare.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -40,14 +88,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-60/",
          "pubDate" : "Wed, 31 Aug 2022 07:02:58 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (60)"
-      },
-      {
-         "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-2022-saint-louis-rapid-and-blitz",
-         "pubDate" : "Tue, 30 Aug 2022 23:59:00 -0700",
-         "title" : "Dominant Firouzja Clinches Saint Louis Rapid & Blitz With 4 Rounds To Spare"
       },
       {
          "description" : "GMs Matthias Bluebaum and David Navara advanced to the Qualifier 2 final of the 2022 Fischer Random World Championship on Tuesday. Practically every matchup featured wild games from four queens roaming the board to compelling rook sacrifices to in...",
@@ -98,12 +138,12 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz: Day 5"
       },
       {
-         "description" : "This is the flash report summarizing the main results. The full report will be added to this page soon. GM Alireza Firouzja won the 2022 Saint Louis Rapid &#38;amp; Blitz with a final score of 26 points. He not only won the event with four rounds to...",
+         "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-5",
-         "pubDate" : "Tue, 30 Aug 2022 15:47:46 -0700",
-         "title" : "Flash Report: Dominant Firouzja Clinches Victory With Four Rounds To Spare"
+         "link" : "https://www.chess.com/news/view/firouzja-wins-2022-saint-louis-rapid-and-blitz",
+         "pubDate" : "Tue, 30 Aug 2022 15:47:00 -0700",
+         "title" : "Dominant Firouzja Clinches Saint Louis Rapid & Blitz With 4 Rounds To Spare"
       },
       {
          "description" : "Grandmasters Praggnanandhaa and Rinat Jumabayev lead the 2022 edition of Dubai Open with perfect 4,0/4 score. The 22nd edition of the Dubai Chess Open is taking place at the Dubai Chess &#38; Culture Club and will be played from 27 August &#x2013; 5 September. More than 180 players from 35 countries will fight for the []",
@@ -146,6 +186,14 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz: Games and standings"
       },
       {
+         "description" : "It's Yahoo time again (see the footnote for an explanation of Yahoos) and what a great month it's been for chess stories in the mainstream press. Last month we had <A HREF=\"http://chessforallages.blogspot.com/2022/07/candidate-and-olympiad-yahoos.html\">Candidate and Olympiad Yahoos</A>(July 2022), when the Olympiad was just getting started. This month we had nearly 20 stories related to the Olympiad, but I'm getting ahead of myself. Let's first have the top level stats. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh30.gif\" WIDTH=190 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> <I>Google News</I> returned 99 stories of which 95 were for the current month. The 11 sources with more than two st",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/08/olympiad-business-and-political-yahoos.html",
+         "pubDate" : "Tue, 30 Aug 2022 15:31:00 +0000",
+         "title" : "Olympiad, Business, and Political Yahoos"
+      },
+      {
          "description" : "2022 Candidates Tournament: Review with videos by Dorian Rogozenco and Robert Ris - \"Special\" on the Ukrainian sisters and Olympic champions Anna and Mariya Muzychuk: 21 annotated games + contributions on strategy and endgame - Ragosin &agrave; la Keymer: Roven Vogel presents 1. d4 d5 2.c4 e6 2.Nc3 Nf6 4.Nf3 Bb4 5.Qa4+ Nc6 6.e3 - Prague Chess Festival 2022: Annotated games by Harikrishna, Keymer, Navara, Shankland and Vidit - \"Practical Tips for the Tournament Player\": Let Jan Markos show you how to master must-win situations! - In Fischer's footsteps: Yago Santiago attacks Najdorf with 6.Bc4 - \"Shocker\" in the Jobava London System: Daniel King shows the new gambit idea 1.d4 Nf6 2.Nc3 d5 3.B",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -159,7 +207,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2022-23/",
          "pubDate" : "Tue, 30 Aug 2022 13:52:57 +0000",
-         "title" : "Clubs & Congress Insurance 2022/23"
+         "title" : "Clubs & Congress Insurance 2022/23 - amended 31/8/22"
       },
       {
          "description" : "As of Monday, GM Magnus Carlsen is the new number-one blitz player on Chess.com. The world champion played a 57(!)-game match with GM Vladimir Fedoseev and stopped at a rating of 3204, four points more than GM Hikaru Nakamura currently has. Afte...",
@@ -354,14 +402,6 @@ news_feed (
          "title" : "Maxime Vachier-Lagrave discloses where he was during the Olympiad"
       },
       {
-         "description" : "The ECU Board meeting took place on Friday 29th&#xA0;of August through teleconference. Main information and decisions can be found below. Main information and Decisions The status of ECU staff/officers has been confirmed for the new term Mr. Erald Dervishi (ALB) reappointed as CEO of European Chess Union ECU Board appointed the ECU Commissions Chairpersons for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-board-meeting-main-information-and-decisions/",
-         "pubDate" : "Mon, 29 Aug 2022 17:23:31 +0000",
-         "title" : "ECU Board Meeting - Main information and decisions"
-      },
-      {
          "description" : "The tournaments of the Magnus Carlsen Chess Tour always produce lead to fascinating endgames. In the Endgame Magic show #209 Karsten M&uuml;ller looks at endgame highlights from the FTX Crypto Cup in Miami. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-wgm-jennifer-shahade",
          "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
          "title" : "Interview with WGM Jennifer Shahade"
-      },
-      {
-         "description" : "The 23rd Sants Chess Open took place from 19-28 August in Barcelona, Spain. It was a 10-round Swiss tournament, with time control: 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Three players tied for the first place after 10 played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sl-narayanan-clinches-the-23rd-sants-open/",
-         "pubDate" : "Mon, 29 Aug 2022 15:53:44 +0000",
-         "title" : "SL Narayanan clinches the 23rd Sants Open"
       },
       {
          "description" : "Glorious sacrifices, unexpected tactics and checkmating attacks. The King's Gambit is one of the oldest and most romantic openings in the game of chess. These DVDs contain all you need to know to play the King's Gambit. This week on offer: Power Play 27 & 28 - Instead of €54.90 now only €39.90!",
@@ -1442,28 +1474,12 @@ news_feed (
          "title" : "Meet The Fritztrainer - Sipke Ernst"
       },
       {
-         "description" : "Viktor Kupreichik was a top chess player. The Grandmaster won the Belarusian Championship in 1972, and 31 years later as well, in 2003. His four tactics, which Lawrence has found for us to solve, are fun puzzles. Furthermore, when Lawrence and Arne try to solve the ChessBase tactics, you can witness their worst fail ever! It is painful to watch, but the questions remains: Can you find the mistake they made in their calculation?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-31",
-         "pubDate" : "Fri, 19 Aug 2022 15:17:41 +0100",
-         "title" : "Trent's Tactics - Cute tactics by Kupreichik"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanandan-seven-shines#new_tab",
          "pubDate" : "Fri, 19 Aug 2022 14:13:50 +0000",
          "title" : "Bodhana and the BCC - from Leonard Barden"
-      },
-      {
-         "description" : "High-stakes 1v1 competition is pretty rare in the chess world. But just before the Olympiad in Chennai top Dutch grandmaster Anish Giri faced off against India's Number Three Vidit Gujrathi in the first ChessBase India Original Death Match: Blindfold, Blitz and Bullet. You can follow all the action in a six-hour Death Match video - which so far has had over 350,000 views. | Report by Himank Ghosh.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/death-match-anish-defeated-vidit",
-         "pubDate" : "Fri, 19 Aug 2022 15:00:00 +0100",
-         "title" : "Death Match: Anish defeated Vidit"
       },
       {
          "description" : "We are now in the final stages of the Chessable British Championships, with Round 7 this afternoon, Round 8 on Saturday and Round 9 starting...",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1928",
          "pubDate" : "Fri, 19 Aug 2022 11:39:21 +0000",
          "title" : "Spanish Championship: Iturrizaga Bonelli and Garcia Martin claim titles"
-      },
-      {
-         "description" : "The junior players impressed at the Chess Olympiad in Chennai. 13 of the world's top 20 juniors played on their countries' national teams. And ten of these 13 juniors improved their ratings significantly. But a few \"oldies\" also had remarkable results.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/looking-back-to-chennai-juniors-impress-at-the-olympiad",
-         "pubDate" : "Fri, 19 Aug 2022 12:00:00 +0100",
-         "title" : "Looking back to Chennai: Juniors impress at the Olympiad"
       },
       {
          "description" : "",
@@ -1568,6 +1576,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-r-praggnanandhaa-magnus-carlsen-share-lead-after-round-4/articleshow/93651655.cms",
          "pubDate" : "Fri, 19 Aug 2022 04:06:42 +0000",
          "title" : "FTX Crypto Cup: Praggnanandhaa, Carlsen share lead after Round 4"
+      },
+      {
+         "description" : "The finals series of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase commenced on Thursday with matchups that featured the 12 top point-scorers across the inaugural season and four invited players&#38;mdash;GMs Ding Liren, Ian Nepomniacht...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-1",
+         "pubDate" : "Thu, 18 Aug 2022 19:43:00 -0700",
+         "title" : "Day Of Sacrifices And Blunders En Route To RCC Winners Semifinals"
       },
       {
          "description" : " The European Summer Chess Tour is a well known destination for Antipodean players, although Covid has restricted playing opportunities in the last few years. It does look like it is back to normal this year, and on young Canberran, FM Albert Winkelman, is giving it a go. He started with the Czech Open, before moving onto a GM event in Olomouc. Being the bottom seed in the GM group is always going to be a tough ask, and his current score of 1.5/6 doesn't reflect how close he was in some games. While looking through the games I did spot one very nice attack by Jonasz Baum, where a rook sacrifice lead to a position where White had to walk the tight-rope to avoid a loss. He did for a while, but",
@@ -1906,14 +1922,6 @@ news_feed (
          "title" : "Gukesh's show at Chess Olympiad was just breathless: Anand"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> India B and India's women team <a href=\"https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-honour-both-medal-winning-indian-chess-teams-with-1-crore-each/article65753052.ece\">each got awarded 10 million rupees</a>, equivalent of €120,000, for winning a medal at the <strong>Chess Olympiad</strong> in Mamallapuram by the government of Tamil Nadu. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/tamil-nadu-wards-medal-winning-teams/",
-         "pubDate" : "Wed, 10 Aug 2022 17:50:57 +0100",
-         "title" : "Tamil Nadu awards medal winning teams"
-      },
-      {
          "description" : " 2022 Chess Olympiad: Round #11 Tuesday, 9 August 2022 The famous Uzbek talents we've heard about for so long have arrived! Photo by Stev Bonhage Before round 11, there was a lot of tension in the hall as the finale of the 2022 Chess Olympiad unfolded. The young team from Uzbekistan was leading along with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/10/2022-chess-olympiad-uzbekistan-ukraine-win/\">2022 Chess Olympiad: Uzbekistan, Ukraine win!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/he-is-not-the-only-one-crying-chess-olympiad-2022-is-over/",
          "pubDate" : "Wed, 10 Aug 2022 11:55:10 +0000",
          "title" : "\"He is not the only one crying\", Chess Olympiad 2022 is over"
-      },
-      {
-         "description" : "Do you know the Hippopotamus Defence. It is a series of irregular chess opening systems in which Black moves a number of pawns to the sixth rank, and keeps his pieces on the seventh rank. Many experts considered it basically losing, but it has maintained a solid fifty percent for Black, even at the highest level of competition. In the British Chess Magazine Raymond Keene reviews the book The Hippopotamus Defence by Italian IM Alessio de Santis on the subject. | Picture Samuele Giglio, Unsplash",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behold-now-behemoth",
-         "pubDate" : "Wed, 10 Aug 2022 09:00:00 +0100",
-         "title" : "Behold now behemoth!"
       }
    ]
 }
