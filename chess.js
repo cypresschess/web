@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Starting an attack against the opponent is often more fun, than defending. But converting an attack to a winning position, or a checkmate, is not always an easy task. It can fade away quickly, and we are left with less pieces, and a lost position. Good for us, Svitlana knows quite well how to convert an attack to a win, and gives us plenty of good hints, on how to proceed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-converting-an-attack-correctly",
+         "pubDate" : "Wed, 31 Aug 2022 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Converting an attack correctly"
+      },
+      {
+         "description" : "Eight years ago, in ChessBase Magazine #160, Dorian Rogozenco started his video series \"The Classic\". With his contribution in the new issue CBM #209 on the game Pillsbury-Lasker (St. Petersburg 1896), the round number of 50 selected top games from the time up to 1945 has been reached. A nice anniversary, for which we present Rogozenco's video in full length. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-classic-in-cbm-209-pillsbury-lasker-1896",
+         "pubDate" : "Wed, 31 Aug 2022 16:00:00 +0100",
+         "title" : "\"The Classic\" in CBM #209: Pillsbury-Lasker (1896)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1955",
+         "pubDate" : "Wed, 31 Aug 2022 14:44:36 +0000",
+         "title" : "FIDE to compensate for airfare losses at Rapid & Blitz 2021"
+      },
+      {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AAe8Lg2jxkq5O1g4hgm-GCUdmP9rzbRhjjmnQtcVDGmdhuRm5DSWjzxLKS-3GAb4AsKd1oxImouhxTUSylNddl6Ud5RTPopfokVehPF5hBYkGaE8pbQJWyyANaXeaD3Mxd3WLOWMPfP8We9nGJMYHGzYaEYUfTxqHkXaYW1E6F8e_X2RdVfdC32S/s680/prokes2.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AAe8Lg2jxkq5O1g4hgm-GCUdmP9rzbRhjjmnQtcVDGmdhuRm5DSWjzxLKS-3GAb4AsKd1oxImouhxTUSylNddl6Ud5RTPopfokVehPF5hBYkGaE8pbQJWyyANaXe",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/08/how-good-are-your-rooks.html",
+         "pubDate" : "Wed, 31 Aug 2022 13:28:00 +0000",
+         "title" : "How good are your rooks?"
+      },
+      {
          "description" : "There are many ways to train tactics, from methodical themes, to deep positions, and while all have their place in a player's arsenal of training tools, there is one that specifically targets speed of recognition and play: the Tactics Sprint. If you feel like you want a method to improve your ability to see and play tactics in minimal time see this intro with video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
          "pubDate" : "Wed, 31 Aug 2022 12:50:00 +0100",
          "title" : "European Women's Chess Championship, Round 11 - Live"
+      },
+      {
+         "description" : "Many of the high quality books received this year concentrated on chess training; perhaps reflecting current anxieties the emphasis was not only on chess positions,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/book-of-the-year-2022-shortlist/",
+         "pubDate" : "Wed, 31 Aug 2022 11:41:19 +0000",
+         "title" : "Book of the Year 2022 - shortlist"
+      },
+      {
+         "description" : "The fifth day of Saint Louis Rapid &#38; Blitz was smooth sailing for Alireza Firouzja, who made it to the top of the standings and won the 2022 St Louis Grand Chess Tour with four rounds to spare. It was clear, Alireza Firouzja is the winner of Saint Louis Rapid &#38; Blitz 2022. Here is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-with-his-trophy-from-the-saint-louis-rapid-blitz-2022/",
+         "pubDate" : "Wed, 31 Aug 2022 11:41:15 +0000",
+         "title" : "Alireza Firouzja with his trophy from the Saint Louis Rapid & Blitz 2022"
       },
       {
          "description" : "Challengers Chess Tour 2022 will return next month with a line-up of the world&#x2019;s top juniors. The all-star junior chess section of the Tour will include two events and a final four. The Julius Baer Challenge (September 3 to 4) will be followed by the Magnus Academy Challenge (October 8 to 9) before the overall []",
@@ -90,12 +138,12 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (60)"
       },
       {
-         "description" : "GMs Matthias Bluebaum and David Navara advanced to the Qualifier 2 final of the 2022 Fischer Random World Championship on Tuesday. Practically every matchup featured wild games from four queens roaming the board to compelling rook sacrifices to in...",
+         "description" : "GMs Matthias Bluebaum and David Navara advanced to the Qualifier 2 final of the 2022 Fischer Random World Championship on Tuesday. Practically every matchup featured wild games&#38;mdash;from four queens roaming the board, to compelling rook sacrifice...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d2",
-         "pubDate" : "Tue, 30 Aug 2022 22:36:42 -0700",
-         "title" : "Quadruple Queens and Raining Rooks: Bluebaum and Navara Advance to Final"
+         "pubDate" : "Tue, 30 Aug 2022 22:36:00 -0700",
+         "title" : "Quadruple Queens And Raining Rooks: Bluebaum, Navara Advance To Final"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://perlenvombodensee.de/2022/08/29/meyer-dunker-verlaesst-den-dsb/\">is losing</a> its Tournament Director <strong>Gregor Johann</strong> and its Social Media Director <strong>Paul Meyer-Dunker</strong>. While the operations are now managed by <strong>Anja Giering</strong>, the tasks of Executive Director <strong>Marcus Fenner</strong> are now described as strategy, fundraising and representation. </div> ",
@@ -392,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lex-fridman-podcast-magnus-carlsen",
          "pubDate" : "Mon, 29 Aug 2022 11:24:00 -0700",
          "title" : "Lex Fridman With Magnus Carlsen: An Interview You Don't Want To Miss"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave currently plays the 2022 Saint Louis Rapid and Blitz, the fourth leg of the Grand Chess Tour 2022 series of tournaments. Vachier-Lagrave and Firouzja won the rapid portion of the event scoring 11 points, each. In the interview after the Day 3 games, Maxime Vachier-Lagrave commented on a thrilling game against Fabiano Caruana. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-discloses-where-he-was-during-the-olympiad/",
-         "pubDate" : "Mon, 29 Aug 2022 18:02:11 +0000",
-         "title" : "Maxime Vachier-Lagrave discloses where he was during the Olympiad"
       },
       {
          "description" : "The tournaments of the Magnus Carlsen Chess Tour always produce lead to fascinating endgames. In the Endgame Magic show #209 Karsten M&uuml;ller looks at endgame highlights from the FTX Crypto Cup in Miami. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1450,28 +1490,12 @@ news_feed (
          "title" : "Endgames from Miami (1)"
       },
       {
-         "description" : "In his Power Play Show, Daniel King finds inspiration in a game from the Women's Olympiad. Tournament sensation Oliwia Kiolbasa defeated Indian rising star Vaishali after converting her advantage in a fascinating rook endgame. This is the starting point for a discussion with related games. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-instructive-rook-endgames",
-         "pubDate" : "Fri, 19 Aug 2022 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Tricks with rooks and pawns"
-      },
-      {
          "description" : "A few months ago, in an earlier post in this <I>Fischer Friday</I> series, a post titled <A HREF=\"http://chessforallages.blogspot.com/2022/06/hatchet-job.html\">Hatchet Job</A>(June 2022), I quoted Anthony Saidy writing, <BLOCKQUOTE>Brad Darrach, one of the minority of journalists sympathetic to Fischer. </BLOCKQUOTE> <P>That short quote made two points. The first was that Darrach was 'sympathetic to Fischer'. The second was that the same could be said for only a 'minority of journalists'. That might seem surprising, given the legendary proportions the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>has taken over the past 50 years, but Fischer's recalc",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/08/bags-of-loot.html",
          "pubDate" : "Fri, 19 Aug 2022 15:01:00 +0000",
          "title" : "Bags of Loot"
-      },
-      {
-         "description" : "Sipke Ernst has made a successful Fritzrainer last year, tackling the \"flexible Open Spanish\". The Dutch Grandmaster is back again, with \"3.h4 against the King's Indian and Gr&uuml;nfeld\". Time to ask him about when he started to play chess, his feeling when reaching the Grandmaster title, a rating of over 2600, and one of his most passionate hobbies - Arm wrestling! We also analyse one of his favourite games he ever played. Luke Mcshane was the opponent, made a beautiful sacrifice, which Sipke countered wonderfully. | Photo: Sipke Ernst FB",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-sipke-ernst",
-         "pubDate" : "Fri, 19 Aug 2022 16:00:00 +0100",
-         "title" : "Meet The Fritztrainer - Sipke Ernst"
       },
       {
          "description" : "",
@@ -1842,14 +1866,6 @@ news_feed (
          "title" : "Fischer - Spassky Tickets"
       },
       {
-         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 15th...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations/",
-         "pubDate" : "Fri, 12 Aug 2022 11:31:19 +0000",
-         "title" : "ECF AGM - call for nominations"
-      },
-      {
          "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in the playing venue&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1928,46 +1944,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/10/2022-chess-olympiad-uzbekistan-ukraine-win/",
          "pubDate" : "Wed, 10 Aug 2022 15:48:10 +0000",
          "title" : "2022 Chess Olympiad: Uzbekistan, Ukraine win!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93484509.cms\" />Prime Minister Narendra Modi on Wednesday appreciated the people and government of Tamil Nadu for being \"excellent\" hosts for the 44th Chess Olympiad and congratulated the Indian teams for winning the bronze medal in their categories.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pm-modi-appreciates-tamil-nadu-people-government-for-being-excellent-hosts-for-chess-olympiad/articleshow/93484509.cms",
-         "pubDate" : "Wed, 10 Aug 2022 15:25:10 +0000",
-         "title" : "PM Modi appreciates Tamil Nadu people, government for being 'excellent' hosts for Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1919",
-         "pubDate" : "Wed, 10 Aug 2022 14:26:32 +0000",
-         "title" : "Winners crowned at 44th Chennai Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93483365.cms\" />India's top players including Koneru Humpy and D Harika, apart from the fast-rising R Vaishali, will be the star attractions in the women's event being introduced in the 4th edition of Tata Steel Chess India tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tata-steel-chess-to-have-womens-event-for-first-time-prize-money-will-be-equal/articleshow/93483365.cms",
-         "pubDate" : "Wed, 10 Aug 2022 14:18:33 +0000",
-         "title" : "Tata Steel Chess to have women's event for first time; prize money will be equal"
-      },
-      {
-         "description" : " Uzbekistan has won the Chess Olympiad for the first time, finishing first in 2002 tournament on tie-break over Armenia. Both teams won their final round matches to score 19 match points, but Uzbekistan were well ahead on the Olympiad-SB tie-break. India 2 finished third after beating Germany 3-1, finishing a point ahead of India 1 and the USA. Ukraine won the Women's Olympiad, also on tie-break, after finishing alongside Georgia, with 18 MP. India finished in 3rd place, and the Indian teams won the Gaprindashvili Cup for the best combined finishes in the Open and Women's section. Australia drew 2-2 with Chile in the final round to score 14 points and tie for 25th. The women's team score 13 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-11.html",
-         "pubDate" : "Wed, 10 Aug 2022 12:36:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 11"
-      },
-      {
-         "description" : " <p class=\"lead\">The Chess Olympiad 2022 in Chennai, India is officially over but will definitely stay alive in our minds as one of the most impressive, heartwarming, intense, refreshing, and promising chess events of all time. Uzbekistan won the Open Section of the Olympiad, while in the Women's section the Ukrainian anthem had a great impact in all of us. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"2048\" data-ratio=\"1.5937743190661\"> <img src=\"https://worldchess.com/news/pictures/1-15.jpg\" width=\"2048\" height=\"1285\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/52272463682_54665f3a8c_k.jpg\" width=\"2048\" height=\"1485\" alt=\"\" /> <img src=\"https://worldchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/he-is-not-the-only-one-crying-chess-olympiad-2022-is-over/",
-         "pubDate" : "Wed, 10 Aug 2022 11:55:10 +0000",
-         "title" : "\"He is not the only one crying\", Chess Olympiad 2022 is over"
       }
    ]
 }
