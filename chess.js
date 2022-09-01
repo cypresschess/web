@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Polish grandmaster Monika Socko was the clear winner of the European Women's Championship which took place at the Don Giovanni Hotel in Prague. Socko scored 8&frac12;/11 points to leave a 5-player chasing pack a half point back. Azerbaijani representatives Gunay Mammadzada and Ulviyya Fataliyeva grabbed second and third place, respectively. Nine players gained spots in next year's Women's World Cup. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2022-r11",
+         "pubDate" : "Thu, 01 Sep 2022 09:00:00 +0100",
+         "title" : "Monicka Socko wins the European Women's Chess Championship"
+      },
+      {
+         "description" : "The Virgos Nodirbek Abdussatarov, Kirill Shevchenko, and Arjun Erigaisi are considered upcoming chess superstars. Chess legends Johannes Zukertort, Adolf Albin, George Koltanowski, and Friedrich Saemisch, fulfilled their destiny long ago. When chess players born in Virgo want to find the perfect move, the result can be quite fantastic, were it not for the time limit, which can spoil the fun.| Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/virgo-and-their-strategy",
+         "pubDate" : "Thu, 01 Sep 2022 08:00:00 +0100",
+         "title" : "Virgo and their strategy"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez from September 2-12 at 12:50 P.M. CDT.. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1482,28 +1498,12 @@ news_feed (
          "title" : "Iturrizaga and Garc&iacute;a are the 2022 Spanish champions"
       },
       {
-         "description" : "In this King's Indian position, it's Black to move - and he can quickly take the full point if White isn't careful. You have been warned!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-jones-trap",
-         "pubDate" : "Sat, 20 Aug 2022 09:00:00 +0100",
-         "title" : "The Jones trap"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-winning-streak-in-ftx-crypto-cup-ends-with-loss-to-liem-le/articleshow/93671859.cms",
          "pubDate" : "Sat, 20 Aug 2022 04:49:42 +0000",
          "title" : "Praggu's winning run in FTX Crypto Cup ends with loss to Liem Le"
-      },
-      {
-         "description" : "With two rounds to go, Magnus Carlsen is in the sole lead at the FTX Crypto Cup in Miami. Carlsen lost his match against Jan-Krzysztof Duda in blitz tiebreaks -gaining 1 point in the standings- while former co-leader Praggnanandhaa was defeated by Le Quang Liem in the rapid section of their match. What had become a two-horse race for first place has now three players fighting for tournament victory, as Alireza Firouzja won a fourth match in a row and now stands two points behind the leader. | Pictured: Jan-Krzysztof Duda at the opening ceremony",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r5",
-         "pubDate" : "Sat, 20 Aug 2022 05:45:00 +0100",
-         "title" : "FTX Crypto Cup: Firouzja in the hunt as Duda beats Carlsen"
       },
       {
          "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad in Chennai, India and was excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed.&#160; ZIMBABWE Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
