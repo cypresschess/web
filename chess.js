@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After twenty games the score was 11&frac12;-8&frac12; for Challenger Bobby Fischer, who needed 12&frac12; to win the title. In game 21 he had the black pieces, gained a distinct advantage, but then allowed Boris Spassky to get a drawn position. However, when the still-reigning World Champion adjourned, he sealed a losing move. The next day, September 1st, 1972, resigned by telephone on. At 2:35 p.m. Chief Arbiter Lothar Schmid congratulated Fischer and announced in the hall that Bobby was the new champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/50-years-ago-bobby-fischer-is-the-11th-world-champion",
+         "pubDate" : "Thu, 01 Sep 2022 16:35:00 +0100",
+         "title" : "50 years ago: Bobby Fischer is the 11th World Champion!"
+      },
+      {
+         "description" : "The Chess Olympiad has brought movement into the world rankings. The top junior players in particular gained a lot of rating points while a number of established top players lost rating points. Magnus Carlsen remains the clear number one by a large margin.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-september-2022",
+         "pubDate" : "Thu, 01 Sep 2022 14:36:32 +0100",
+         "title" : "FIDE ratings September 2022"
+      },
+      {
+         "description" : "From now on buyers of Fritztrainer DVDs can unlock and install a download version! So if you don't have a DVD drive (anymore), you can still buy a Fritztrainer on DVD-ROM. You can also install your previously purchased Fritztrainer DVDs on your new computer with the unlocked download. And you can give away a DVD with a clear conscience, because the download is always included. In addition, the stream is unlocked in the ChessBase video portal for iPads & Co! And of course you can buy the download directly in the ChessBase Shop and get it immediately!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/buying-dvds-and-installing-download",
+         "pubDate" : "Thu, 01 Sep 2022 14:00:00 +0100",
+         "title" : "Buying DVDs and installing download"
+      },
+      {
+         "description" : "GM Monika Socko won the 22nd European Women&#39;s Chess Championship, held August 20-31, 2022 in Prague. The 44-year-old Polish grandmaster was the only player to score 8.5 out of 11 rounds in a field of 123 players. Socko, the seventh seed, finishe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/monika-socko-wins-2022-european-women-chess-championship",
+         "pubDate" : "Thu, 01 Sep 2022 05:27:00 -0700",
+         "title" : "Monika Socko Wins European Women's Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1957",
+         "pubDate" : "Thu, 01 Sep 2022 11:25:34 +0000",
+         "title" : "Three youngsters cross 2700 mark in September rating list"
+      },
+      {
+         "description" : "London 1922 is a historically significant event that gathered the day's greatest players and produced the London Rules of 1922. They were designed by the then reigning World Champion Capablanca (pictured) and laid down what players had to do - and how much money they had to come up with - who wanted to challenge the World Champion. Eugene Manlapao revisits this tournament on the occasion of its recent centennial anniversary.| Photo: Screenshot from the film \"Chess Fever\" from 1925",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-hundred-years-ago-london-1922-july-31-august-19-1922",
+         "pubDate" : "Thu, 01 Sep 2022 10:00:00 +0100",
+         "title" : "A Hundred Years Ago: London 1922, (July 31-August 19, 1922)"
+      },
+      {
+         "description" : " <p class=\"lead\">Alireza Firouzja dominated the St. Louis Rapid & Blitz tournament, winning his first ever Grand Chess Tour event with four rounds to spare (!) and surpassing 2900 blitz rating points, only 6 points away from Hikaru Nakamura. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Alireza-Firouzja-chess-grand-chess-tour.jpeg\" width=\"2250\" height=\"1475\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / Grand Chess Tour</div> </div> Alireza Firouzja came like a storm at the St. Louis Rapid & Blitz tournament. The teenage sensation lost only one of his 18 games, and was undefeated in the blitz to hit the third best overall score in the Grand Ches",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/firouzja-crossed-2900-in-blitz-after-winning-the-saint-louis-rap/",
+         "pubDate" : "Thu, 01 Sep 2022 08:31:32 +0000",
+         "title" : "Firouzja crossed 2900 in blitz after winning the Saint Louis Rapid & Blitz"
+      },
+      {
          "description" : "Polish grandmaster Monika Socko was the clear winner of the European Women's Championship which took place at the Don Giovanni Hotel in Prague. Socko scored 8&frac12;/11 points to leave a 5-player chasing pack a half point back. Azerbaijani representatives Gunay Mammadzada and Ulviyya Fataliyeva grabbed second and third place, respectively. Nine players gained spots in next year's Women's World Cup. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/eiwcc-2022-r11",
          "pubDate" : "Thu, 01 Sep 2022 09:00:00 +0100",
          "title" : "Monicka Socko wins the European Women's Chess Championship"
+      },
+      {
+         "description" : "The 2022 European Individual Women's Chess Championship concluded yesterday in Prague, Czech Republic. More than 120 players from 28 European federations competed over 11 swiss rounds for the title of European Champion and 9 qualification spots for the next FIDE Women's World Cup. GM Monika Socko (POL, 2423) claimed the European Women's Chess Championship scoring 8.5 points. Socko&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/monika-socko-claims-european-womens-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/monika-socko-claims-european-womens-chess-championship-2022/",
+         "pubDate" : "Thu, 01 Sep 2022 07:51:00 +0000",
+         "title" : "Monika Socko claims European Women's Chess Championship 2022"
       },
       {
          "description" : "The Virgos Nodirbek Abdussatarov, Kirill Shevchenko, and Arjun Erigaisi are considered upcoming chess superstars. Chess legends Johannes Zukertort, Adolf Albin, George Koltanowski, and Friedrich Saemisch, fulfilled their destiny long ago. When chess players born in Virgo want to find the perfect move, the result can be quite fantastic, were it not for the time limit, which can spoil the fun.| Photo: Pixabay",
@@ -1378,14 +1442,6 @@ news_feed (
          "title" : "The ubiquitous bayonet"
       },
       {
-         "description" : "A field with well-established GMs and young stars is fighting it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller is following the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Anish Giri | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-endgames-2",
-         "pubDate" : "Sun, 21 Aug 2022 12:00:00 +0100",
-         "title" : "Endgames from Miami (2)"
-      },
-      {
          "description" : "Magnus Carlsen beat Alireza Firouzja in playoffs to take a 2-point lead over Praggnanandhaa into the final round of the FTX Crypto Cup in Miami. Pragg suffered the heartbreak of blundering mate-in-1 against Jan-Krzysztof Duda, but the 17-year-old still knows that if he beats Magnus in rapid chess he'll clinch victory. Firouzja is out of contention, as are Liem Le and Levon Aronian, who beat Anish Giri and Hans Niemann.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1416,14 +1472,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-loses-to-polands-jan-krzystof-duda-in-ftx-crypto-cup/articleshow/93687945.cms",
          "pubDate" : "Sun, 21 Aug 2022 05:49:09 +0000",
          "title" : "R Praggnanandhaa loses to Poland's Duda in FTX Crypto Cup"
-      },
-      {
-         "description" : "Magnus Carlsen has a 2-point lead on Praggnanandhaa going into Sunday's final round. The young Indian star will get a chance to win the whole thing if he beats the world champion in the rapid section of their direct encounter - winning in tiebreaks will not cut it for Pragg. In round 6, Carlsen beat Alireza Firouzja in an exciting match that went to tiebreaks, while Jan-Krzysztof Duda defeated Pragg, also in tiebreaks.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r6",
-         "pubDate" : "Sun, 21 Aug 2022 06:00:00 +0100",
-         "title" : "FTX Crypto Cup: Carlsen beats Firouzja in thrilling match, leads"
       },
       {
          "description" : "GM Ian Nepomniachtchi won the Winners Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Saturday, defeating GM Hikaru Nakamura in an armageddon playoff. But it&#39;s not over yet! Nakamura will get a second chance in the Losers ...",
@@ -1466,36 +1514,12 @@ news_feed (
          "title" : "The Legacy of Howard Staunton"
       },
       {
-         "description" : "World Chess, a chess gaming company, has announced the inaugural edition of Armageddon Championship Series, a brand-new format of chess tournaments where the world's top grandmasters compete under immense time pressure in blitz and Armageddon time controls. Prize fund: 460,000 EUR - anyone can participate. The format has been developed for television and will be televised globally from a purpose-built Argamgeddon studio in Berlin. That is where the final over-the-board stage will be held.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-announces-armageddon",
-         "pubDate" : "Sat, 20 Aug 2022 12:00:00 +0100",
-         "title" : "World Chess announces Armageddon"
-      },
-      {
          "description" : "It was a strange day for Magnus Carlsen in Round 5 of the FTX Crypto Cup. He lost four games to Jan-Krzysztof Duda and called it a \"horrible day of chess\", but since he reached tiebreaks while Praggnanandhaa lost to Liem Le in rapid chess he gained a point to take the sole lead. The other matches were all over in three games, with Alireza Firouzja firmly in the race for 1st place after defeating Hans Niemann.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-5-duda-beats-carlsen-4-times-but-magnus-takes-sole-lead",
          "pubDate" : "Sat, 20 Aug 2022 10:21:23 +0000",
          "title" : "FTX Crypto Cup 5: Duda beats Carlsen 4 times"
-      },
-      {
-         "description" : "The FTX Crypto Cup is no longer a two-horse race as both GMs Magnus Carlsen and Praggnanandhaa R. lost their matches in round five. Whereas Pragg went down in three games vs. GM Le Quang Liem, Carlsen took the sole lead as he got one point for los...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-5",
-         "pubDate" : "Sat, 20 Aug 2022 02:55:00 -0700",
-         "title" : "Carlsen Takes Pole Position In Miami Despite Loss To Duda"
-      },
-      {
-         "description" : "Eduardo Iturrizaga and Marta Garc&iacute;a won the 2022 Spanish Championships. The event was a 9-round Swiss open played on August 11-19 at the RL An&iacute;bal Hotel in Linares, Andalusia. Iturrizaga, who transferred to Spain only last year, won his second consecutive title, while Garcia, 22, achieved her first triumph in the women's championship. | Photos: Spanish Chess Federation Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/iturrizaga-garcia-spanish-champions-2022",
-         "pubDate" : "Sat, 20 Aug 2022 10:00:00 +0100",
-         "title" : "Iturrizaga and Garc&iacute;a are the 2022 Spanish champions"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
@@ -1904,30 +1928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
          "pubDate" : "Thu, 11 Aug 2022 20:57:00 +0400",
          "title" : "44th World Chess Olympiad 2022 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Uzbek President <strong>Shavkat Mirziyoyev</strong> has <a href=\"https://www.uzdaily.uz/en/post/74831\">praised</a> and awarded each member of the gold-winning Chess Olympiad team with $60,000 and a new car. After winning the Youth Chess Olympiad in 2018, the team members had already <a href=\"https://kun.uz/en/90066718\">picked up a smaller car each</a> even before having reached driving age. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/60000-dollars-and-a-car/",
-         "pubDate" : "Thu, 11 Aug 2022 16:03:18 +0100",
-         "title" : "60,000 dollars and a car"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After 17 years as a board member of <strong>US Chess,</strong> overseeing finance, <strong>Randall Bauer</strong>, a public budget consultant, has moved up and been <a href=\"https://new.uschess.org/news/randy-bauer-named-president-us-chess\">elected as president</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/randall-bauer-heads-us-chess/",
-         "pubDate" : "Thu, 11 Aug 2022 15:37:51 +0100",
-         "title" : "Randall Bauer heads US Chess"
-      },
-      {
-         "description" : " Uzbekistan proved that a new chess era has unfolded. The closing of the 2022 Chess Olympiad happened with an exciting future ahead. As the generations of players drop from elite status or retire, new stars are rising. This reality was on full display when Uzbekistan and India 2 stood on the medal stand with the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/11/2022-chess-olympiad-closing-ceremonies/\">2022 Chess Olympiad: Closing Ceremonies</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/11/2022-chess-olympiad-closing-ceremonies/",
-         "pubDate" : "Thu, 11 Aug 2022 14:34:02 +0000",
-         "title" : "2022 Chess Olympiad: Closing Ceremonies"
       }
    ]
 }
