@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez from September 2-12 at 12:50 P.M. CDT.. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-promo",
+         "pubDate" : "Thu, 01 Sep 2022 00:25:21 +0000",
+         "title" : "2022 Sinquefield Cup | PROMO"
+      },
+      {
+         "description" : "11-year-old FM Yagiz Erdogmus, in case you have not heard of him before, is a name you should expect to hear again. The young Turkish player is an IM-elect (meaning he has earned the title, only waiting for it to be approved) and number 13 nationa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/erdogmus-wins-2022-chesskid-youth-scc",
+         "pubDate" : "Wed, 31 Aug 2022 16:50:45 -0700",
+         "title" : "11-Year-Old Erdogmus Earns IM Title And Wins ChessKid Youth SCC"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1956",
+         "pubDate" : "Wed, 31 Aug 2022 23:15:42 +0000",
+         "title" : "European Women's Championship 2022: Monika Socko clinches title"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #531 Merijn van Delft looks at one of his own games - a loss, in which he fell victim to a fine queen sacrifice and a violent attack by the Cuban GM Omar Almeida Quintana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -432,14 +456,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-best-rb-attributes",
          "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz: Best R&B Attributes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after scoring 14.5/27 after the first blitz round robin of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.29<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-pineapple-shirt-did-not-play-huge-role-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4faIw8CYTg.jpg?itok=2B0BJML4\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-pineapple-shirt-did-not-play-huge-role-day-4",
-         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
-         "title" : "Nakamura: Pineapple Shirt Did Not Play a Huge Role | Day 4"
       },
       {
          "description" : "IM V Pranav won the Qualifier 2 Swiss stage of the 2022 Fischer Random World Championship on Monday, making him the only non-GM to advance to the knockout in either qualifier. GMs Alexey Sarana, Vladislav Kovalev, Vincent Keymer, David Navara, a...",
@@ -1498,14 +1514,6 @@ news_feed (
          "title" : "IM norm for Zimbabwe's Zhemba Jemusse!"
       },
       {
-         "description" : "The Winners Semifinals of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase transpired on Friday in two colossal clashes that saw GMs Hikaru Nakamura and Ian Nepomniachtchi progress to the Winners Final. GMs Wesley So and Vladimir Fed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-2",
-         "pubDate" : "Fri, 19 Aug 2022 18:17:00 -0700",
-         "title" : "Nakamura, Nepomniachtchi Break Through To Face Off In RCC Winners Final"
-      },
-      {
          "description" : "A few months ago, in an earlier post in this <I>Fischer Friday</I> series, a post titled <A HREF=\"http://chessforallages.blogspot.com/2022/06/hatchet-job.html\">Hatchet Job</A>(June 2022), I quoted Anthony Saidy writing, <BLOCKQUOTE>Brad Darrach, one of the minority of journalists sympathetic to Fischer. </BLOCKQUOTE> <P>That short quote made two points. The first was that Darrach was 'sympathetic to Fischer'. The second was that the same could be said for only a 'minority of journalists'. That might seem surprising, given the legendary proportions the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>has taken over the past 50 years, but Fischer's recalc",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/11/2022-chess-olympiad-closing-ceremonies/",
          "pubDate" : "Thu, 11 Aug 2022 14:34:02 +0000",
          "title" : "2022 Chess Olympiad: Closing Ceremonies"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93490948.cms\" />With a bronze medal in each section, the Chess Olympiad for first-time hosts India was a success. But even the medals warrant some stock-taking and post mortem.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-post-euphoria-time-to-make-next-move/articleshow/93490948.cms",
-         "pubDate" : "Thu, 11 Aug 2022 03:04:22 +0000",
-         "title" : "Chess Olympiad: Post euphoria, time to make next move"
       }
    ]
 }
