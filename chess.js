@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five days of rapid and blitz saw Alireza Firouzja achieving a magnificent result in his first outing at the Saint Louis Chess Club. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Shakhriyar Mamedyarov | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-endgames",
+         "pubDate" : "Thu, 01 Sep 2022 23:30:00 +0100",
+         "title" : "Endgames from Saint Louis"
+      },
+      {
+         "description" : "The September FIDE rating list, published today on the website of the International Chess Federation, shows the rise of the new generation of chess. Especially India is doing well, with big jumps for GMs Gukesh D, Arjun Erigaisi, as well as GM Nih...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/september-2022-fide-ratings-list",
+         "pubDate" : "Thu, 01 Sep 2022 12:35:49 -0700",
+         "title" : "September FIDE Ratings: The New Power Generation"
+      },
+      {
+         "description" : " The 9th Sinquefield Cup takes place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
+         "pubDate" : "Thu, 1 Sep 2022 23:34:00 +0400",
+         "title" : "9th Sinquefield Cup 2022 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -126,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/erdogmus-wins-2022-chesskid-youth-scc",
-         "pubDate" : "Wed, 31 Aug 2022 16:50:45 -0700",
+         "pubDate" : "Wed, 31 Aug 2022 16:50:00 -0700",
          "title" : "11-Year-Old Erdogmus Earns IM Title And Wins ChessKid Youth SCC"
       },
       {
@@ -1418,14 +1442,6 @@ news_feed (
          "title" : "Chess.com Releases Documentary 'The History Of Chess: The World Chess Championship'"
       },
       {
-         "description" : "The FTX Crypto Cup kicked off on Monday with world champion Magnus Carlsen and new rival Alireza Firouzja topping a stellar line-up. The all-play-all tournament is the Meltwater Champions Chess Tour's second Major of the season and is taking place on-site at the Eden Roc Miami Beach in Miami, Florida, from August 15 to 21. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-live",
-         "pubDate" : "Sun, 21 Aug 2022 17:55:00 +0100",
-         "title" : "FTX Crypto Cup: Games and standings"
-      },
-      {
          "description" : "A couple of months ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/06/caissartistic-license.html\">Caissartistic License</A>(June 2022), I wrote, <BLOCKQUOTE>For this month's <I>Flickr Favorite</I>, I had two photos on the short list, neither of which I understood. Since I couldn't decide between them, I used both. </BLOCKQUOTE> <P>It's a nice dilemma to have and this month I had similar. This time it wasn't for two photos; it was for two paintings. And it wasn't for a lack of understanding; it was for choosing between a Ukrainian artist and a Russian artist. What to do? I used Flickr's search function on the photographer -- keyword 'chess', of course -- and came up with the followi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1480,14 +1496,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-loses-to-polands-jan-krzystof-duda-in-ftx-crypto-cup/articleshow/93687945.cms",
          "pubDate" : "Sun, 21 Aug 2022 05:49:09 +0000",
          "title" : "R Praggnanandhaa loses to Poland's Duda in FTX Crypto Cup"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi won the Winners Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Saturday, defeating GM Hikaru Nakamura in an armageddon playoff. But it&#39;s not over yet! Nakamura will get a second chance in the Losers ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-3",
-         "pubDate" : "Sat, 20 Aug 2022 17:14:00 -0700",
-         "title" : "Nepomniachtchi Wins On Demand In Epic Armageddon Clash, Advances To Grand Final"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH276wcT77xQHs2ghvmXGqXNmDAeFXnPUzQ9QA94Jxx36YcvIGWG5CFlFjCIlNGnoC14e5yujqR-pzsFnTP11t7tCnpIqrWwGQ_pGACyMcIbjDtAK0mbSB6mTd/s680/okeche.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH2",
