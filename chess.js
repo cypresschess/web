@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1958",
+         "pubDate" : "Thu, 01 Sep 2022 19:13:33 +0000",
+         "title" : "Chessable Seeks Applicants for Chessable Research Awards"
+      },
+      {
          "description" : "This week Robert Ris will have a look at a modern and bold gambit that the young Indian Grandmaster Praggnanandhaa tried twice - and with success - when playing with Black against Levon Aronian at the FTX Crypto Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
