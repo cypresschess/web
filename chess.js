@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris will have a look at a modern and bold gambit that the young Indian Grandmaster Praggnanandhaa tried twice - and with success - when playing with Black against Levon Aronian at the FTX Crypto Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-modern-gambit-against-1-c4",
+         "pubDate" : "Thu, 01 Sep 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A modern gambit against 1.c4"
+      },
+      {
+         "description" : "The 2022 Sinquefield Cup, the final event of the 2022 Grand Chess Tour, kicks off tomorrow and takes place 1-13 September in Saint Louis, USA. The field is headlined by World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominguez, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-opening-ceremony-live/",
+         "pubDate" : "Thu, 01 Sep 2022 16:34:58 +0000",
+         "title" : "Sinquefield Cup 2022 - Opening ceremony LIVE"
+      },
+      {
+         "description" : "The 2022 European Individual Women&#x2019;s Chess Championship concluded yesterday in Prague, Czech Republic. More than 120 players from 28 European federations competed over 11 swiss rounds for the title of European Champion and 9 qualification spots for the next FIDE Women&#x2019;s World Cup. GM Monika Socko (POL, 2423) claimed the European Women&#x2019;s Chess Championship scoring []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/monika-socko-wins-european-womens-chess-championship-2022/",
+         "pubDate" : "Thu, 01 Sep 2022 16:13:06 +0000",
+         "title" : "Monika Socko wins European Women's Chess Championship 2022"
+      },
+      {
          "description" : "After twenty games the score was 11&frac12;-8&frac12; for Challenger Bobby Fischer, who needed 12&frac12; to win the title. In game 21 he had the black pieces, gained a distinct advantage, but then allowed Boris Spassky to get a drawn position. However, when the still-reigning World Champion adjourned, he sealed a losing move. The next day, September 1st, 1972, resigned by telephone on. At 2:35 p.m. Chief Arbiter Lothar Schmid congratulated Fischer and announced in the hall that Bobby was the new champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -456,22 +480,6 @@ news_feed (
          "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-performed-two-illegal-moves-in-one-game-tweetoftheday/",
          "pubDate" : "Tue, 30 Aug 2022 09:03:16 +0000",
          "title" : "Shakhriyar Mamedyarov performed two illegal moves in one game #TweetOftheDay"
-      },
-      {
-         "description" : "2022 Saint Louis Rapid &#38; Blitz Day 4 recap by WGM Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#160;All the information&#160;/&#160;Live games&#160;/&#160;Pairings &#38; Schedule&#160; After 9 rounds of blitz, the tournament has the sole leader again &#x2013; Alireza Firouzja! Coming into the day, both Frenchmen Maxime Vachier-Lagrave and Alireza Firouzja were tied for the lead []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-again-in-the-sole-lead-saint-louis-rapid-blitz-2022-day-4-recap/",
-         "pubDate" : "Tue, 30 Aug 2022 08:49:50 +0000",
-         "title" : "Alireza Firouzja again in the sole lead; Saint Louis Rapid & Blitz 2022 - Day 4 recap"
-      },
-      {
-         "description" : "Saint Louis Rapid and Blitz 2022 day 5 LIVE Saint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Opening ceremony live&#xA0;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-rapid-blitz-day-5-live/",
-         "pubDate" : "Tue, 30 Aug 2022 08:36:52 +0000",
-         "title" : "Saint Louis Rapid & Blitz - Day 5 LIVE"
       },
       {
          "description" : "After nine played rounds at the European Women's Chess Championship 2022, GM Monika Socko (POL, 2423) is the sole leader of the event with score of 7.5 points. Monika Socko (POL, 2423) drew in the ninth round against WGM Fataliyeva Ulviyya (AZE, 2413) to maintain the sole leadership with only two rounds to go. IM Gunay Mammadzada (AZE,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-r9-report/\">Read More &#187;</a></span>",
@@ -1434,14 +1442,6 @@ news_feed (
          "title" : "Playing it safe"
       },
       {
-         "description" : "Pushing the g-pawn early in the game has become so common that when GM Jon Speelman watches Shakhriyar Mamedyarov play, he feels tempted to bet with himself when 'the bayonet' will be deployed. This week's thematic column features a couple of classics (by Paul Keres and Alexei Shirov), an example from Mamedyarov's practice and a remarkable win by Richard Pert from the British Championship. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-176",
-         "pubDate" : "Sun, 21 Aug 2022 13:00:00 +0100",
-         "title" : "The ubiquitous bayonet"
-      },
-      {
          "description" : "Magnus Carlsen beat Alireza Firouzja in playoffs to take a 2-point lead over Praggnanandhaa into the final round of the FTX Crypto Cup in Miami. Pragg suffered the heartbreak of blundering mate-in-1 against Jan-Krzysztof Duda, but the 17-year-old still knows that if he beats Magnus in rapid chess he'll clinch victory. Firouzja is out of contention, as are Liem Le and Levon Aronian, who beat Anish Giri and Hans Niemann.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1912,22 +1912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-11-part-2.html",
          "pubDate" : "Thu, 11 Aug 2022 23:59:00 +0000",
          "title" : "2022 Chess Olympiad - Day 11 (Part 2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1920",
-         "pubDate" : "Thu, 11 Aug 2022 17:56:28 +0000",
-         "title" : "FIDE releases Chess for Protection project Curriculum"
-      },
-      {
-         "description" : " The 44th World Chess Olympiad took place in Chennai, India Friday 29th July to Wednesday 10th August. The top seeds were USA, India, Norway (with World Champion Magnus Carlsen), Spain, Poland, Azerbaijan, Netherlands, Ukraine, Germany and England. Missing are Russia and China. Play starts at 15:00 local time which is 10:30am UK time. The event was originally going to take place in Russia until their invasion of Ukraine and is the first Olympiad held since 2018. A youthful Uzbekistan squad took the Gold medal, the key match being against the India 2 team in Round 10. Armenia finished second and India 2 third, the India team finished fourth. In the women's event there was a really close battl",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/44th-world-chess-olympiad-2022",
-         "pubDate" : "Thu, 11 Aug 2022 20:57:00 +0400",
-         "title" : "44th World Chess Olympiad 2022 - Games and Results"
       }
    ]
 }
