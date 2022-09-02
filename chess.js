@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the only remaining destination to be part of every Grand Chess Tour since its first edition in 2015, the Sinquefield Cup continues to be an essential element of the GCT circuit. This year's edition is set to take place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars will be fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-preview",
+         "pubDate" : "Fri, 02 Sep 2022 04:00:00 +0100",
+         "title" : "Magnus Carlsen heads stellar lineup at the Sinquefield Cup"
+      },
+      {
          "description" : "Five days of rapid and blitz saw Alireza Firouzja achieving a magnificent result in his first outing at the Saint Louis Chess Club. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Shakhriyar Mamedyarov | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -562,7 +570,7 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz: Closing Ceremony"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World's Fair Pavilion, join GM Cristian Chirila for the opening ceremony of the 2022 Sinquefield Cup. The field is: Carlsen, Nepomniachtchi, Wesley So, Caruana, Vachier-Lagrave, Aronian, Firouzja, Mamedyarov, Dominguez, and Niemann. Plus, celebrate the 50th anniversary of Bobby Fischer's victory over Boris Spassky in the 1972 World Chess Championship with a one-of-a-kind musical performance curated by World Chess Hall of Fame's Music Director Brian Owens. Play begins Friday, September 2 at 12:50 P.M. CDT. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field fi",
+         "description" : "<div class=\"body text-secondary\"> Live from the World's Fair Pavilion, join GM Alejandro Ramirez for the opening ceremony of the 2022 Sinquefield Cup. The field is: Carlsen, Nepomniachtchi, Wesley So, Caruana, Vachier-Lagrave, Aronian, Firouzja, Mamedyarov, Dominguez, and Niemann. Plus, celebrate the 50th anniversary of Bobby Fischer's victory over Boris Spassky in the 1972 World Chess Championship with a one-of-a-kind musical performance curated by World Chess Hall of Fame's Music Director Brian Owens. Play begins Friday, September 2 at 12:50 P.M. CDT. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-opening-ceremony-fischer-spassky-anniversary-celebration",
@@ -1402,14 +1410,6 @@ news_feed (
          "title" : "Magnus Carlsen wins FTX Crypto Cup despite Praggnanandhaa comeback"
       },
       {
-         "description" : "Magnus Carlsen won the FTX Crypto Cup in Miami after losing in tiebreaks against Praggnanandhaa in the final-round tournament-deciding match. Pragg stood two points behind the world champion before the round, so his victory was not enough to claim first place (he gained 2 points to Carlsen's 1). The youngster nonetheless finished in second place, despite tying on points with Alireza Firouzja, as he had defeated the Frenchman in their round-1's direct encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-r7",
-         "pubDate" : "Mon, 22 Aug 2022 07:20:00 +0100",
-         "title" : "Carlsen wins FTX Crypto Cup, Pragg impresses by securing second place"
-      },
-      {
          "description" : "GM Magnus Carlsen won the FTX Crypto Cup on Sunday despite losing his final match in a tiebreak to GM Praggnanandhaa R., who thereby secured second place in the tournament. GM Alireza Firouzja finished in third place. How to watch? The games of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1920,14 +1920,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/",
          "pubDate" : "Fri, 12 Aug 2022 10:20:54 +0000",
          "title" : "European Amateur Chess Championship 2022 starts in Zagreb"
-      },
-      {
-         "description" : " The New Zealand team finished on 10 points ( 5 wins and 6 losses) which was probably a disappointment for them. However there we some good individual performances, with Daniel Gong scoring 6.5/9 in Board 1, and missing an IM norm by half a point. The New Zealand Women's team exceeded expectations, finishing on 11 points, with not player scoring below 50%. Board 2 player WFM Vyanla Punsalan scored 8/10 to help to team finish with an impressive 27 game points. The battle between the smaller Oceania nations saw Guam, PNG and Palau all finish on 8 match points. Guam had the better tie break so claims the unofficial 'Islands' championship. The PNG team finished strongly after a slow start and ha",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-chess-olympiad-day-11-part-2.html",
-         "pubDate" : "Thu, 11 Aug 2022 23:59:00 +0000",
-         "title" : "2022 Chess Olympiad - Day 11 (Part 2)"
       }
    ]
 }
