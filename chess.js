@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Kateryna Lagno defeated defending champion, GM Hou Yifan, in the final of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. The determination and attacking styles of these two grandmasters made this match a riveting duel of mi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-wscc-finals-lagno-hou",
+         "pubDate" : "Fri, 02 Sep 2022 15:09:00 -0700",
+         "title" : "Infinite Fight: Lagno Overcomes Hou, Clinches WSCC Crown"
+      },
+      {
+         "description" : "The first leg of the FIDE Women&#x2019;s Grand Prix 2022/2023 series&#160;will take place from 17-30 September 2022 in Nursultan, Kazakhstan. The event will be played as a twelve-player round-robin tournament with time control: 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game with an increment of 30 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022/",
+         "pubDate" : "Fri, 02 Sep 2022 22:05:19 +0000",
+         "title" : "FIDE Women's Grand Prix Nur-Sultan 2022"
+      },
+      {
+         "description" : "The first leg of the FIDE Women's Grand Prix 2022/2023 series will take place from 17-30 September 2022 in Nursultan, Kazakhstan. Twelve players qualified for the FIDE Women&#x2019;s Grand Prix series through the Women&#x2019;s World Chess Championship, Women&#x2019;s World Cup, FIDE Women&#x2019;s Grand swiss, and by the rating. The last four spots were completed by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-koneru-humpy-drops-out-from-the-1st-fide-womens-grand-prix-2022-tournament/",
+         "pubDate" : "Fri, 02 Sep 2022 21:42:13 +0000",
+         "title" : "GM Koneru Humpy drops out from the 1st FIDE Women's Grand Prix 2022 tournament"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> During Round 1 of the 2022 Sinquefield Cup, the team looks back on the prior evening&#039;s Opening Ceremony, Fischer-Spassky Anniversary Celebration, and simul. 2022.09.01<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-sinquefield-cup-opening-ceremony-reel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p1LYgV6q5pY.jpg?itok=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-opening-ceremony-reel",
+         "pubDate" : "Fri, 02 Sep 2022 21:26:42 +0000",
+         "title" : "2022 Sinquefield Cup: Opening Ceremony Reel"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players how it feels to be in Saint Louis, playing in the Sinquefield Cup. This aired during Round 1. 2022.09.01<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-sinquefield-cup-playing-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yTNJ5jtY0rw.jpg?itok=gHBEdH5f\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-playing-saint-louis",
+         "pubDate" : "Fri, 02 Sep 2022 21:26:42 +0000",
+         "title" : "2022 Sinquefield Cup: Playing in Saint Louis"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1961",
+         "pubDate" : "Fri, 02 Sep 2022 21:12:00 +0000",
+         "title" : "FIDE Congress 2022: Key decisions "
+      },
+      {
          "description" : "In his Power Play Show, Daniel King returns to the King's Gambit, looking at some fascinating recent games from one of the strongest players in the world: Ian Nepomniachtchi. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-queens-by-jennifer-shahade-a-review",
          "pubDate" : "Fri, 02 Sep 2022 14:00:00 +0100",
          "title" : "\"Chess Queens\" by Jennifer Shahade - A review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1959",
+         "pubDate" : "Fri, 02 Sep 2022 12:37:09 +0000",
+         "title" : "Winners crowned at Independence Cup 2022"
       },
       {
          "description" : "Manager of Chess in Prisons Carl Portman recently visited HMP Wakefield here is his report",
@@ -450,22 +506,6 @@ news_feed (
          "title" : "Alireza Firouzja with his trophy from the Saint Louis Rapid & Blitz 2022"
       },
       {
-         "description" : "Challengers Chess Tour 2022 will return next month with a line-up of the world&#x2019;s top juniors. The all-star junior chess section of the Tour will include two events and a final four. The Julius Baer Challenge (September 3 to 4) will be followed by the Magnus Academy Challenge (October 8 to 9) before the overall []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/challengers-chess-tour-2022-is-an-all-star-juniors-event/",
-         "pubDate" : "Wed, 31 Aug 2022 11:29:46 +0000",
-         "title" : "Challengers Chess Tour 2022 is an all-star juniors event"
-      },
-      {
-         "description" : "2022 Saint Louis Rapid &#38; Blitz &#x2013; Day 5 recap by WGM Anastasiya KarlovichSaint Louis rapid and blitz 2022:&#xA0;All the information&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Pairings &#38; Schedule The fifth day of Saint Louis Rapid &#38; Blitz was smooth sailing for Alireza Firouzja, who made it to the top of the standings and won the 2022 St Louis Grand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-is-the-winner-of-saint-louis-rapid-blitz-2022/",
-         "pubDate" : "Wed, 31 Aug 2022 11:06:14 +0000",
-         "title" : "Alireza Firouzja is the winner of Saint Louis Rapid & Blitz 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -704,22 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-4",
          "pubDate" : "Mon, 29 Aug 2022 19:05:00 -0700",
          "title" : "Nakamura Scores 7.5/9, Firouzja Stretches Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-1",
-         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
-         "title" : "2022 Sinquefield Cup: Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, join GM Cristian Chirila for the closing ceremony and trophy presentation for the 2022 Saint Louis Rapid &amp; Blitz. The field was: Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Mamedyarov, Nakamura, Shankland, and Xiong. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-closing-ceremony\"><img src=\"https://saintlo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-closing-ceremony",
-         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Closing Ceremony"
       },
       {
          "description" : "IM V Pranav won the Qualifier 2 Swiss stage of the 2022 Fischer Random World Championship on Monday, making him the only non-GM to advance to the knockout in either qualifier. GMs Alexey Sarana, Vladislav Kovalev, Vincent Keymer, David Navara, a...",
@@ -1552,14 +1576,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-6-magnus-faces-final-pragg-test",
          "pubDate" : "Sun, 21 Aug 2022 09:33:28 +0000",
          "title" : "FTX Crypto Cup 6: Magnus faces final Pragg test"
-      },
-      {
-         "description" : "GM Magnus Carlsen increased his lead at the FTX Crypto Cup to two points on Saturday thanks to beating GM Alireza Firouzja in the tiebreak. The leader will face the runner-up in Sunday&#39;s final round: Praggnanandhaa R., who lost to GM Jan-Krzysztof...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ftx-crypto-cup-2022-round-6",
-         "pubDate" : "Sun, 21 Aug 2022 01:57:49 -0700",
-         "title" : "Carlsen Increases Lead Before Facing Praggnanandhaa In Final Round"
       },
       {
          "description" : " Playing a training game against a student this morning, I reached this position in which I was a pawn down, having blundered in the opening. For all reasonably experienced players, the next three moves will be automatic. They'll have seen the idea many times before. If you're not so experienced, or your students aren't so <a href=\"https://chessimprover.com/stock-sacrifices-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stock Sacrifices (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stock-sacrifices-1/\">Stock Sacrifices (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
