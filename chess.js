@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Ukrainian women's team achieved something truly spectacular when they won the gold medal in the women's section at the 44th Chess Olympiad 2022. We speak to board no. 1 and 2 of the team and two of the best chess players of the country for several years now - Mariya and Anna Muzychuk. They talk about their experience of playing in India, how tough it was to win the Olympiad, and also show us the critical moments in their games. The entire country of Ukraine has been through tough times recently. This Gold medal is a dedication to the mental strength of these champions of the nation. | Photo: FIDE/Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/against-all-odds-how-ukraine-women-won-gold-at-the-44th-chess-olympiad-2022",
+         "pubDate" : "Fri, 02 Sep 2022 16:00:00 +0100",
+         "title" : "Against all odds - How the Ukrainian Women won Gold at the 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "The first round of the Sinquefield Cup 2022 features the clash of the World Chess Champion Magnus Carlsen and the 2021 World Chess Championship challenger Ian Nepomniachtchi. The drawing of lots determined Carlsen-Nepo match to be played at the very beginning of the event, just as it happened at the Grand Chess Tour Croatia a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-ian-nepomniachtchi-sinquefield-cup-2022-r1-live/",
+         "pubDate" : "Fri, 02 Sep 2022 14:20:14 +0000",
+         "title" : "Magnus Carlsen vs Ian Nepomniachtchi, Sinquefield Cup 2022 R1 LIVE"
+      },
+      {
+         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022 and takes place from 1-13 September 2022 in Saint Louis, USA. Eight Tour players Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-pairings-schedule/",
+         "pubDate" : "Fri, 02 Sep 2022 13:57:56 +0000",
+         "title" : "Sinquefield Cup 2022 - Pairings & Schedule"
+      },
+      {
+         "description" : "The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour 2022. Eight Tour players (Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov) are joined by wildcards (Magnus Carlsen and Hans Niemann) for a classical chess event which will be []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-1-live/",
+         "pubDate" : "Fri, 02 Sep 2022 13:24:33 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 1 LIVE"
+      },
+      {
+         "description" : "Two-time US Women's Champion Jennifer Shahade has often championed women's chess in the past. After \"Chess Bitch\" she has now published another book on women's chess, \"Chess Queens\". Tatiana Flores has taken a look at it. | Photo: Courtesy Jennifer Shahade",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-queens-by-jennifer-shahade-a-review",
+         "pubDate" : "Fri, 02 Sep 2022 14:00:00 +0100",
+         "title" : "\"Chess Queens\" by Jennifer Shahade - A review"
+      },
+      {
+         "description" : "Manager of Chess in Prisons Carl Portman recently visited HMP Wakefield here is his report",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/a-visit-to-hmp-wakefield-carl-portman/",
+         "pubDate" : "Fri, 02 Sep 2022 12:30:24 +0000",
+         "title" : "A visit to HMP Wakefield - Carl Portman"
+      },
+      {
+         "description" : " Alan Turing once invented a version of chess called 'Round the House Chess'. After you moved you had to run around the outside of the house, and if you returned before your opponent had moved, you had another move (and another run). A good way to keep fit, but apparently not the only one. Someone has invented a version of chess called \"Chesst\". Every time you capture an opponents piece, you have to do a set number of push-ups, based on the 'point value' of each piece. (Pawn = 1, Rook = 5 etc). Possible modifications include making your opponent do the push-ups as punishment for having pieces captured, and adding a pushup penalty for being in check. An even crueller version would be to repla",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/getting-fit-playing-chess.html",
+         "pubDate" : "Fri, 02 Sep 2022 12:10:00 +0000",
+         "title" : "Getting fit playing chess"
+      },
+      {
          "description" : "One of the most magnificent collections of historical chess sets is currently on display at the Museum of Ancient Art in Lisbon. The collection is part of an exhibition on games and cultural exchange between Europe and Asia, reports Stefan L&ouml;ffler from Portugal. The exhibition, curated by Ulrich Sch&auml;dler and Thomas Thomsen, can be seen until 25 September. | Photos: Museo Nacional De Arte Antiga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +106,28 @@ news_feed (
          "title" : "Carlsen-Nepo & Firouzja-Caruana as Sinquefield Cup begins"
       },
       {
+         "description" : "Sinquefield Cup 2022 is going to take place 1-13 September in Saint Louis, USA. It will feature 10 Grandmasters including World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, US players Fabiano Caruana, Wesley So, Levon Aronian, and Leinier Dominguez, as well as Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and Hans Niemann. Sinqufield Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-live/",
+         "pubDate" : "Fri, 02 Sep 2022 03:46:00 +0000",
+         "title" : "Sinquefield Cup 2022 LIVE"
+      },
+      {
          "description" : "As the only remaining destination to be part of every Grand Chess Tour since its first edition in 2015, the Sinquefield Cup continues to be an essential element of the GCT circuit. This year's edition is set to take place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars will be fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-preview",
          "pubDate" : "Fri, 02 Sep 2022 04:00:00 +0100",
          "title" : "Magnus Carlsen heads stellar lineup at the Sinquefield Cup"
+      },
+      {
+         "description" : "The 2022 Maia International Chess Open&#xA0;took place from August 26 to September 1 in Maia. The tournament was played in 9 rounds, swiss system, with time control: 90 minutes for the whole game + 30 seconds of increment per each move, starting from the move one, featuring the total prize fund of 4.000 euros. GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-omar-almeida-quintana-is-the-winner-of-the-maia-chess-open-2022/",
+         "pubDate" : "Fri, 02 Sep 2022 01:21:00 +0000",
+         "title" : "GM Omar Almeida Quintana is the Winner of the Maia Chess Open 2022"
       },
       {
          "description" : "Five days of rapid and blitz saw Alireza Firouzja achieving a magnificent result in his first outing at the Saint Louis Chess Club. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Shakhriyar Mamedyarov | Photo: Grand Chess Tour / Lennart Ootes",
@@ -112,6 +184,14 @@ news_feed (
          "link" : "https://www.chessdom.com/monika-socko-wins-european-womens-chess-championship-2022/",
          "pubDate" : "Thu, 01 Sep 2022 16:13:06 +0000",
          "title" : "Monika Socko wins European Women's Chess Championship 2022"
+      },
+      {
+         "description" : "In last month's post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/august-1972-1997-on-cover.html\">August 1972 & 1997 'On the Cover'</A>(August 2022), the most recent in this blog's long running series about American chess magazines 50 and 25 years ago, I asked and answered, <BLOCKQUOTE>And what about the other championship that was taking place 50 years ago? A one page story, 'The Match: Fischer Leading!' by Burt Hochberg, gave the raw game scores for the first six games, where the sixth game had been played on 23 July. </BLOCKQUOTE> <P>Jumping ahead a month to its September 1972 issue, <I>CL&R</I> couldn't yet report the final result of the match. The five page lead story, 'The Mat",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html",
+         "pubDate" : "Thu, 01 Sep 2022 15:37:00 +0000",
+         "title" : "September 1972 & 1997 'On the Cover'"
       },
       {
          "description" : "After twenty games the score was 11&frac12;-8&frac12; for Challenger Bobby Fischer, who needed 12&frac12; to win the title. In game 21 he had the black pieces, gained a distinct advantage, but then allowed Boris Spassky to get a drawn position. However, when the still-reigning World Champion adjourned, he sealed a losing move. The next day, September 1st, 1972, resigned by telephone on. At 2:35 p.m. Chief Arbiter Lothar Schmid congratulated Fischer and announced in the hall that Bobby was the new champion.",
@@ -434,28 +514,12 @@ news_feed (
          "title" : "Dominant Firouzja Clinches Saint Louis Rapid & Blitz With 4 Rounds To Spare"
       },
       {
-         "description" : "Grandmasters Praggnanandhaa and Rinat Jumabayev lead the 2022 edition of Dubai Open with perfect 4,0/4 score. The 22nd edition of the Dubai Chess Open is taking place at the Dubai Chess &#38; Culture Club and will be played from 27 August &#x2013; 5 September. More than 180 players from 35 countries will fight for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pragg-and-jumbayev-lead-dubai-open-2022-with-perfect-score/",
-         "pubDate" : "Tue, 30 Aug 2022 21:34:16 +0000",
-         "title" : "Pragg and Jumbayev lead Dubai Open 2022 with perfect score"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Peter Svidler talk about their visit to the World Chess Hall of Fame&#039;s new exhibition &quot;1972 Fischer/Spassky: The Match, Its Origin, and Influence,&quot; on view until April 30, 2023. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yas-peter-visit-wchofs-fischer-spassky-exhibition-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/yas-peter-visit-wchofs-fischer-spassky-exhibition-day-5",
          "pubDate" : "Tue, 30 Aug 2022 21:24:09 +0000",
          "title" : "Yas & Peter Visit WCHOF's Fischer-Spassky Exhibition | Day 5"
-      },
-      {
-         "description" : "Valeriy Grinev is the winner of the 31st Independence Cup 2022 3rd Memorial Sergiy Shystariov. The event took place in Kyiv this 27-28 August. A total of 96 players participated in the event, among which 6 GMs, 6 IMs, 3 FMs, and 1 WFM. A total of seven players finished with 7,0/9, with IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/valeriy-grinev-wins-independence-cup-2022/",
-         "pubDate" : "Tue, 30 Aug 2022 21:03:20 +0000",
-         "title" : "Valeriy Grinev wins Independence Cup 2022"
       },
       {
          "description" : "",
@@ -514,14 +578,6 @@ news_feed (
          "title" : "EP 294- GM Fabiano Caruana on Engines, The Evolution of Chess, the Candidates Tournament, and the World Championship Cycle. "
       },
       {
-         "description" : "World Champion Magnus Carlsen is a long time Real Madrid fan. He has multiple interactions with the club, including the time when he celebrated his 23rd birthday with 68,000 people at the Santiago Bernab&#xE9;u Stadium as he took a ceremonial kick-off in the La Liga match between Real Madrid and Valladolid. In a podcast talk []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-chooses-messi-over-ronaldo-video/",
-         "pubDate" : "Tue, 30 Aug 2022 13:03:51 +0000",
-         "title" : "Carlsen chooses Messi over Ronaldo (VIDEO)"
-      },
-      {
          "description" : "\"Historias de Ajedrez\", \"Chess Stories\", is a movie by the Cuban filmmaker Emmanuel Martin Hernandez. Hernandez is a chess player himself and his film tells the stories of chess players in Santiago de Cuba. Unfortunately, the film was released at the beginning of the pandemic and did not find the audience it deserved. But now you can watch it for free on YouTube.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -546,28 +602,12 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz - Day 4 Recap"
       },
       {
-         "description" : "After nine played rounds at the European Women&#x2019;s Chess Championship 2022, GM Monika Socko (POL, 2423) is the sole leader of the event with score of 7.5 points. Monika Socko (POL, 2423) drew in the ninth round against WGM Fataliyeva Ulviyya (AZE, 2413) to maintain the sole leadership with only two rounds to go. IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/two-rounds-to-go-at-the-european-womens-chess-championship-2022/",
-         "pubDate" : "Tue, 30 Aug 2022 09:36:38 +0000",
-         "title" : "Two rounds to go at the European Women's Chess Championship"
-      },
-      {
          "description" : "Alireza Firouzja has a 3-point lead over Maxime Vachier-Lagrave going into the final nine rounds of blitz at the Saint Louis Rapid & Blitz tournament. A half point behind MVL stands Hikaru Nakamura, who finished the rapid section in last place and climbed to sole third place by scoring 7&frac12;/9 points on Monday. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d4",
          "pubDate" : "Tue, 30 Aug 2022 10:25:00 +0100",
          "title" : "St. Louis Rapid & Blitz: Firouzja leads, Naka climbs to third place"
-      },
-      {
-         "description" : "It was an exciting day yesterday at the Saint Louis Rapid &#38; Blitz 2022 with 9 blitz rounds on the schedule. (Read more Day 4 recap) It was intense, but funny day for the players, especially for Shakhriyar Mamedyarov and Ian Nepomniachtchi who met in the third round. Mamedyarov performed two illegal moves in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-performed-two-illegal-moves-in-one-game-tweetoftheday/",
-         "pubDate" : "Tue, 30 Aug 2022 09:03:16 +0000",
-         "title" : "Shakhriyar Mamedyarov performed two illegal moves in one game #TweetOftheDay"
       },
       {
          "description" : "After nine played rounds at the European Women's Chess Championship 2022, GM Monika Socko (POL, 2423) is the sole leader of the event with score of 7.5 points. Monika Socko (POL, 2423) drew in the ninth round against WGM Fataliyeva Ulviyya (AZE, 2413) to maintain the sole leadership with only two rounds to go. IM Gunay Mammadzada (AZE,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-r9-report/\">Read More &#187;</a></span>",
@@ -1354,14 +1394,6 @@ news_feed (
          "title" : "Women's World No. 1 Makes Astonishing Comeback vs. The Powerful Gunina"
       },
       {
-         "description" : "In chess, you learn best by making mistakes. And best of all, through the mistakes of others - because that hurts less. That is the concept of Nicholas Pert, the English grandmaster, who is an experienced trainer and knows the problems at every chess level. In 3 Fritztrainer courses he presents the typical mistakes categorised according to playing strength in order to increase sensitivity to one's own sources of error. This week we offer all 3 courses as a bundle at a special price: instead of €79.90 this week only €59.90",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deal-of-the-week-niclas-pert-typical-mistakes-vol-1-3",
-         "pubDate" : "Mon, 22 Aug 2022 21:00:00 +0100",
-         "title" : "Deal of the week - Nicholas Pert: Typical mistakes Vol. 1-3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1384,14 +1416,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-praggnanandhaa-beats-carlsen-again-to-finish-2nd/articleshow/93716245.cms",
          "pubDate" : "Mon, 22 Aug 2022 17:34:18 +0000",
          "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen again to finish 2nd"
-      },
-      {
-         "description" : "In the Endgame Magic show #208 Karsten M&uuml;ller and Arne K&auml;hler take a look at endgame highlights from the Chess Olympiad in Chennai. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-208-endgame-highlights-from-the-olympiad",
-         "pubDate" : "Mon, 22 Aug 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #208: Endgame highlights from the Olympiad"
       },
       {
          "description" : "Congratulations to all Chessable British Chess Championshipships prizewinners.&#160; The Chessable British Chess Championships finished yesterday (Sunday 21/08) with FM Harry Grieve winning the main Championship...",
@@ -1928,14 +1952,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-nine/",
          "pubDate" : "Sat, 13 Aug 2022 07:56:57 +0000",
          "title" : "A Foundation for Beginners Sixty Nine"
-      },
-      {
-         "description" : "In <A HREF=\"http://chessforallages.blogspot.com/2022/08/a-wizard-or-god.html\">A Wizard or a God?</A>(August 2022), my most recent post in the series 'Top eBay Chess Items by Price', my short list had a number of items related to the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com). Two of the items were for tickets to the match, shown below. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh12.jpg\" WIDTH=265 HEIGHT=400><BR><B>Top:</B> Game 2 &#149; <B>Bottom:</B> Games 1, 6, and 12 <P>The item on the top was titled '1972 World Chess Championship PSA AUTHENTIC Ticket BOBBY FISCHER Boris Spassky', and sold for $1500.00 'Buy It Now'",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/fischer-spassky-tickets.html",
-         "pubDate" : "Fri, 12 Aug 2022 15:02:00 +0000",
-         "title" : "Fischer - Spassky Tickets"
       }
    ]
 }
