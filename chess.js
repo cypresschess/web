@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The merger between the two largest online chess groups will give the US-backed chess.com a dominant position, while the seven-year-old has set a record for the youngest ever 2000 national rating Chess.com is set to take over the <a href=\"https://playmagnusgroup.com/\" title=\"\">Play Magnus Group</a> in an $82m merger between major chess organisations that will leave the US-backed <a href=\"https://www.chess.com/is\" title=\"\">chess.com</a> as the dominant force in online events. PMG, which went public on the Oslo market in 2020, began with a flourish as a growth stock, but its revenues failed to grow at the hoped for rate, and its share price has halved from its peak. It appears that PMG's busin",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/sep/02/chesscom-swallows-play-magnus-while-kushal-jakhria-sets-new-world-mark",
+         "pubDate" : "Fri, 02 Sep 2022 07:00:43 +0000",
+         "title" : "Chess.com swallows Play Magnus while Kushal Jakhria sets new world mark"
+      },
+      {
+         "description" : " <p class=\"lead\">The final event of the Grand Chess Tour 2022 is the Sinquefield Cup which takes place on September 2-12 in St. Louis. The tournament features eight all-star players with the World Champion being the wildcard! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Magnus-Carlsen-Grand-chess-Tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes, Grand Chess Tour</div> </div> The Sinquefield Cup starts today in St. Louis with the players having the last opportunity to earn points and win the Grand Chess Tour. After four tournaments of the tour, Maxime Vachier-Lagrave is leading with 26&frac12; points. but Alireza ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-a-wildcard-for-the-sinquefield-cup-that-starts/",
+         "pubDate" : "Fri, 02 Sep 2022 06:24:49 +0000",
+         "title" : "Magnus Carlsen is a wildcard for the Sinquefield Cup that starts today"
+      },
+      {
+         "description" : "Magnus Carlsen gets a wildcard for the Sinquefield Cup that starts in Saint Louis on Friday and, just as in his last Grand Chess Tour event in Croatia, he plays his World Championship challenger Ian Nepomniachtchi in Round 1. The other stand-out pairing is Firouzja-Caruana, with Alireza looking to use his victory in the St. Louis Rapid & Blitz as a stepping stone to winning the Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nepo-firouzja-caruana-as-sinquefield-cup-begins",
+         "pubDate" : "Fri, 02 Sep 2022 06:08:57 +0000",
+         "title" : "Carlsen-Nepo & Firouzja-Caruana as Sinquefield Cup begins"
+      },
+      {
          "description" : "As the only remaining destination to be part of every Grand Chess Tour since its first edition in 2015, the Sinquefield Cup continues to be an essential element of the GCT circuit. This year's edition is set to take place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars will be fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1824,14 +1848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-awards-2022/",
          "pubDate" : "Mon, 15 Aug 2022 11:24:20 +0000",
          "title" : "ECF Awards 2022"
-      },
-      {
-         "description" : "Magnus Carlsen will take on Anish Giri in Round 1 of the FTX Crypto Cup, while Praggnanandhaa, fresh from winning team and individual bronze at the Chess Olympiad, will play Alireza Firouzja. It's also Niemann-Duda and Aronian-Le on Monday, August 15 at 12:00 ET (18:00 CEST) as the $210,000 FTX Crypto Cup starts in Miami, Florida.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/giri-carlsen-pragg-firouzja-in-ftx-crypto-cup",
-         "pubDate" : "Mon, 15 Aug 2022 10:50:09 +0000",
-         "title" : "Giri-Carlsen, Pragg-Firouzja in FTX Crypto Cup"
       },
       {
          "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
