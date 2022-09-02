@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most magnificent collections of historical chess sets is currently on display at the Museum of Ancient Art in Lisbon. The collection is part of an exhibition on games and cultural exchange between Europe and Asia, reports Stefan L&ouml;ffler from Portugal. The exhibition, curated by Ulrich Sch&auml;dler and Thomas Thomsen, can be seen until 25 September. | Photos: Museo Nacional De Arte Antiga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crossing-games-an-exhibition-in-lisbon-on-chess-games-and-cultural-exchange",
+         "pubDate" : "Fri, 02 Sep 2022 11:51:39 +0100",
+         "title" : "\"Crossing Games\": an exhibition in Lisbon on chess, games and cultural exchange"
+      },
+      {
+         "description" : "Today we start with an experiment. We will be presenting you with some unusual and interesting studies. They are clever and rather difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where there will be an engine that will defend against your attempts to win (or draw), as the studies demand. The solutions with full explanations will be provided in a few days.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment",
+         "pubDate" : "Fri, 02 Sep 2022 10:00:00 +0100",
+         "title" : "Studies for fun and entertainment"
+      },
+      {
+         "description" : " Last week, we started analyzing a game using our newly developed skill set. As I mentioned in the previous article, your job is to analyze each move (by both players) and determine that move's merit based on the games principles. While I haven't covered the endgame in this series of articles, the game we're playing <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-one/\">A Foundation for Beginners Seventy One</a> appeared first on <a rel=\"nofollow\" href=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-one/",
+         "pubDate" : "Fri, 02 Sep 2022 08:36:05 +0000",
+         "title" : "A Foundation for Beginners Seventy One"
+      },
+      {
          "description" : " The merger between the two largest online chess groups will give the US-backed chess.com a dominant position, while the seven-year-old has set a record for the youngest ever 2000 national rating Chess.com is set to take over the <a href=\"https://playmagnusgroup.com/\" title=\"\">Play Magnus Group</a> in an $82m merger between major chess organisations that will leave the US-backed <a href=\"https://www.chess.com/is\" title=\"\">chess.com</a> as the dominant force in online events. PMG, which went public on the Oslo market in 2020, began with a flourish as a growth stock, but its revenues failed to grow at the hoped for rate, and its share price has halved from its peak. It appears that PMG's busin",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1378,22 +1402,6 @@ news_feed (
          "title" : "Chessable British Chess Championships prizewinners"
       },
       {
-         "description" : "Ever since the F&eacute;d&eacute;ration Internationale des Échecs (FIDE) emerged as chess' governing body, the Candidates' Tournament has been vital to the selection and making of the game's world champion. Remade more than a few times in the seventy-two years that it has been running, the tournament has been a story on its own. Eugene Manlapao traces its history from its first edition in 1950, to its latest in 2022 that may have produced the combatants for the next world championship match. | Photo: The participants of the Candidates Tournament 1956 in Amsterdam | Photo: Herbert Behrens (ANEFO) (Cropped from GaHetNa (Nationaal Archief NL)) [CC0], via Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-candidates-tournament-a-history",
-         "pubDate" : "Mon, 22 Aug 2022 17:00:00 +0100",
-         "title" : "The Candidates Tournament: A History"
-      },
-      {
-         "description" : "Robocop. This was what GM Yermolinksy dubbed IM Conor Murphy as he followed his superlative result. While the 2022 Olympiad was dominated by the performance of the youthful and brilliant Gukesh, and other stars on the rise, it is also much more than a collection of super grandmasters, so let us sing the praises of the unlikely heroes who rose to the occasion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/underdog-overachievers-in-chennai",
-         "pubDate" : "Mon, 22 Aug 2022 13:30:00 +0100",
-         "title" : "Underdog Overachievers in Chennai"
-      },
-      {
          "description" : "R Praggnanandhaa earned a win over eventual champion Magnus Carlsen to finish second at the FTX Crypto Cup. This is the third time he's beaten Carlsen in 2022.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/fischer-spassky-tickets.html",
          "pubDate" : "Fri, 12 Aug 2022 15:02:00 +0000",
          "title" : "Fischer - Spassky Tickets"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2022 starts on Sunday, 14th of August in Zagreb, Croatia. The event is played in three rating categories: U2300, U2000, and U1700, taking place from 14 21 August in Hotel Aristos****. The Opening ceremony of the event will be held shortly before the start of the first round in the playing venue&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2022-starts-in-zagreb/",
-         "pubDate" : "Fri, 12 Aug 2022 10:20:54 +0000",
-         "title" : "European Amateur Chess Championship 2022 starts in Zagreb"
       }
    ]
 }
