@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, Daniel King returns to the King's Gambit, looking at some fascinating recent games from one of the strongest players in the world: Ian Nepomniachtchi. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-gambit-return",
+         "pubDate" : "Fri, 02 Sep 2022 20:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The King's Gambit strikes again"
+      },
+      {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Fri, 02 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-2-lichessorg",
+         "pubDate" : "Fri, 02 Sep 2022 18:26:38 +0000",
+         "title" : "2022 Sinquefield Cup: Round 2 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-1-lichessorg",
+         "pubDate" : "Fri, 02 Sep 2022 18:26:38 +0000",
+         "title" : "2022 Sinquefield Cup: Round 1 | lichess.org"
+      },
+      {
+         "description" : "Grigori Jakowlewitsch L&ouml;wenfisch was born in the 19th century, and advanced to one of the strongest chess players in the world in 1939. The Grandmaster was an avid writer for several chess books, and magazines. Loewenfisch had some venomous tactics up his sleeve, which Lawrence Trent is presenting to us.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-33",
+         "pubDate" : "Fri, 02 Sep 2022 18:00:00 +0100",
+         "title" : "Trent's Tactics - The poisonous L&ouml;wenfisch"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1960",
+         "pubDate" : "Fri, 02 Sep 2022 16:31:16 +0000",
+         "title" : "Women's Grand Prix Nur-Sultan 2022: Pairings announced"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93956140.cms\" />Grandmasters D Gukesh, R Praggnanandhaa and Arjun Erigaisi aren't the only players to be making waves on the international circuit in recent times.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-girl-savitha-shri-becomes-junior-world-no-3/articleshow/93956140.cms",
+         "pubDate" : "Fri, 02 Sep 2022 15:57:20 +0000",
+         "title" : "Chennai girl Savitha Shri becomes junior World No. 3"
+      },
+      {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Fri, 02 Sep 2022 15:44:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
          "description" : "The Ukrainian women's team achieved something truly spectacular when they won the gold medal in the women's section at the 44th Chess Olympiad 2022. We speak to board no. 1 and 2 of the team and two of the best chess players of the country for several years now - Mariya and Anna Muzychuk. They talk about their experience of playing in India, how tough it was to win the Olympiad, and also show us the critical moments in their games. The entire country of Ukraine has been through tough times recently. This Gold medal is a dedication to the mental strength of these champions of the nation. | Photo: FIDE/Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -656,22 +720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-closing-ceremony",
          "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz: Closing Ceremony"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World's Fair Pavilion, join GM Alejandro Ramirez for the opening ceremony of the 2022 Sinquefield Cup. The field is: Carlsen, Nepomniachtchi, Wesley So, Caruana, Vachier-Lagrave, Aronian, Firouzja, Mamedyarov, Dominguez, and Niemann. Plus, celebrate the 50th anniversary of Bobby Fischer's victory over Boris Spassky in the 1972 World Chess Championship with a one-of-a-kind musical performance curated by World Chess Hall of Fame's Music Director Brian Owens. Play begins Friday, September 2 at 12:50 P.M. CDT. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-opening-ceremony-fischer-spassky-anniversary-celebration",
-         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
-         "title" : "2022 Sinquefield Cup: Opening Ceremony & Fischer-Spassky Anniversary Celebration"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players what they believe are the three most important attributes to make a good rapid and blitz chess player. This aired during Day 4. 2022.08.25<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-saint-louis-rapid-blitz-best-rb-attributes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q9xP",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-best-rb-attributes",
-         "pubDate" : "Tue, 30 Aug 2022 00:23:14 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Best R&B Attributes"
       },
       {
          "description" : "IM V Pranav won the Qualifier 2 Swiss stage of the 2022 Fischer Random World Championship on Monday, making him the only non-GM to advance to the knockout in either qualifier. GMs Alexey Sarana, Vladislav Kovalev, Vincent Keymer, David Navara, a...",
@@ -1362,30 +1410,6 @@ news_feed (
          "title" : "Hou Yifan edges out Valentina Gunina to reach the final"
       },
       {
-         "description" : "The video course presents a fine selection of 33 classic chess games, played between the 18th century and the beginning of the second world war. Starting with François-Andr&eacute; Danican Philidor through to Mikhail Botvinnik, these significant games, played by the greatest players of their times, are treasures of chess history. They are also a part of chess culture, and every aspiring chess player or simply lover of the game of chess, should know them.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chess-classics-games-you-must-know",
-         "pubDate" : "Tue, 23 Aug 2022 12:00:00 +0100",
-         "title" : "New: Chess Classics - games you must know"
-      },
-      {
-         "description" : "GM Ivan Sokolov is well-known for taking on challenging projects as a trainer. This year he turned his attention to the Uzbekistan team, a team that, like Iran (which Sokolov trained before), was very young. How did it so happen that the team surpassed all expectations and clinched the gold in the Chennai chess Olympiad? What was the role of Ivan Sokolov? How much time did he spend with the team? What were his training techniques? All of this and much more in this hour-long interview by IM Sagar Shah. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sokolov-interview-2022",
-         "pubDate" : "Tue, 23 Aug 2022 09:15:00 +0100",
-         "title" : "Sokolov: \"Abdusattorov has a lot of similarities to Magnus Carlsen\""
-      },
-      {
-         "description" : "...but holding a difficult rook endgame at the board is often not easy. In the diagrammed position Black is a pawn down but can draw with precise play. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-endings-are-always-drawn",
-         "pubDate" : "Tue, 23 Aug 2022 09:00:00 +0100",
-         "title" : "Rook endings are always drawn..."
-      },
-      {
          "description" : "GM Hou Yifan defeated GM Valentina Gunina in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Gunina kicked off the match with a shocking six-game winning streak, but Hou made an equally astounding comeback in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1872,14 +1896,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/through-centre-then-left-at-h-file.html",
          "pubDate" : "Mon, 15 Aug 2022 13:09:00 +0000",
          "title" : "Through the centre then left at the h file"
-      },
-      {
-         "description" : "The Committee have agreed the following eleven awards in seven categories which the ECF Board have ratified. All winners will be presented with an engraved...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-2022/",
-         "pubDate" : "Mon, 15 Aug 2022 11:24:20 +0000",
-         "title" : "ECF Awards 2022"
       },
       {
          "description" : " Data can be represented in so many forms, but its proper use can make a major difference in an organization's productivity. Following is an op-ed piece highlighting the importance of data and its use in serving the chess community. The era of &#8220;big data&#8221; is upon us and being able to make use of it The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/\">The Importance of Analytics for Chess Federations</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
