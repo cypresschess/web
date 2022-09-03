@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only two pawns left on each side, equal material - and yet from the diagram position White wins by force. Five moves, one leitmotif - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/outmaneuvered",
+         "pubDate" : "Sat, 03 Sep 2022 09:00:00 +0100",
+         "title" : "Outmaneuvered"
+      },
+      {
+         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#160;series&#160;will take place from 17-30 September 2022 in Nursultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#160;Aleksandra Goryachkina&#160;and includes&#160;Katerina Lagno,&#160;Tan Zhongyi,&#160;Alexandra Kosteniuk,&#160;Polina Shuvalova,&#160;Alina Kashlinskaya,&#160;Zhansaya Abdumalik,&#160;Elisabeth Paehtz,&#160;Zhu Jiner,&#160;Bibisara Assaubayeva,&#160;Dinara Wagner&#160;and&#160;Vaishali R&#160;who&#160;replaced Koneru Humpy. FIDE Women's Grand Prix 2022-2023: All information&#160;/&#160;Final list of participants and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022-pairings-timetable/",
+         "pubDate" : "Sat, 03 Sep 2022 07:07:36 +0000",
+         "title" : "FIDE Women's Grand Prix Nur-Sultan 2022 - Pairings & Timetable"
+      },
+      {
+         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which will be played in 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-2-live/",
+         "pubDate" : "Sat, 03 Sep 2022 06:49:25 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 2 LIVE"
+      },
+      {
+         "description" : "The 2022 Sinquefield Cup kicked off with a bang today as World Champion Magnus Carlsen defeated World No.3 Ian Nepomniachtchi in a clean first round game. Meanwhile, all four other games in the round were drawn, netting Carlsen the early lead in the final stop of the 2022 Grand Chess Tour. Check out the full []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-takes-early-lead-in-the-sinquefield-cup-2022-day-1-recap/",
+         "pubDate" : "Sat, 03 Sep 2022 06:42:47 +0000",
+         "title" : "Carlsen takes early lead in the Sinquefield Cup 2022 - Day 1 Recap"
+      },
+      {
+         "description" : "Magnus Carlsen has now won 5 of his last 7 classical games against Ian Nepomniachtchi as he eased to victory against his World Championship challenger in Round 1 of the Sinquefield Cup. All the other games were drawn, with Fabiano Caruana and Levon Aronian given scares by 19-year-olds Alireza Firouzja and Hans Niemann.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-1-carlsen-crushes-nepo",
+         "pubDate" : "Sat, 03 Sep 2022 06:35:33 +0000",
+         "title" : "Sinquefield Cup 1: Carlsen crushes Nepo"
+      },
+      {
+         "description" : "The 2022 Sinquefield Cup came off to a good start with one win and four draws. The win came courtesy of World Champion Magnus Carlsen who in convincing fashion took down the recent winner of the 2022 Candidates Tournament, GM Ian Nepomniachtchi. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-1",
+         "pubDate" : "Fri, 02 Sep 2022 21:05:00 -0700",
+         "title" : "Machine-like Efficiency By Carlsen To Crush Nepomniachtchi"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after a draw against Caruana in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-misevaluated-rook-endgame-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qgN4p8HBL3A.jpg?itok=P6TB3iRq\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -34,7 +82,7 @@ news_feed (
          "title" : "Infinite Fight: Lagno Overcomes Hou, Clinches WSCC Crown"
       },
       {
-         "description" : "The first leg of the FIDE Women&#x2019;s Grand Prix 2022/2023 series&#160;will take place from 17-30 September 2022 in Nursultan, Kazakhstan. The event will be played as a twelve-player round-robin tournament with time control: 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game with an increment of 30 []",
+         "description" : "The first leg of the FIDE Women&#x2019;s Grand Prix 2022/2023 series&#xA0;will take place from 17-30 September 2022 in Nursultan, Kazakhstan. The event will be played as a twelve-player round-robin tournament with time control: 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game with an increment of 30 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022/",
@@ -314,22 +362,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A modern gambit against 1.c4"
       },
       {
-         "description" : "The 2022 Sinquefield Cup, the final event of the 2022 Grand Chess Tour, kicks off tomorrow and takes place 1-13 September in Saint Louis, USA. The field is headlined by World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, Fabiano Caruana, Wesley So, Levon Aronian, Leinier Dominguez, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-opening-ceremony-live/",
-         "pubDate" : "Thu, 01 Sep 2022 16:34:58 +0000",
-         "title" : "Sinquefield Cup 2022 - Opening ceremony LIVE"
-      },
-      {
-         "description" : "The 2022 European Individual Women&#x2019;s Chess Championship concluded yesterday in Prague, Czech Republic. More than 120 players from 28 European federations competed over 11 swiss rounds for the title of European Champion and 9 qualification spots for the next FIDE Women&#x2019;s World Cup. GM Monika Socko (POL, 2423) claimed the European Women&#x2019;s Chess Championship scoring []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/monika-socko-wins-european-womens-chess-championship-2022/",
-         "pubDate" : "Thu, 01 Sep 2022 16:13:06 +0000",
-         "title" : "Monika Socko wins European Women's Chess Championship 2022"
-      },
-      {
          "description" : "In last month's post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/august-1972-1997-on-cover.html\">August 1972 & 1997 'On the Cover'</A>(August 2022), the most recent in this blog's long running series about American chess magazines 50 and 25 years ago, I asked and answered, <BLOCKQUOTE>And what about the other championship that was taking place 50 years ago? A one page story, 'The Match: Fischer Leading!' by Burt Hochberg, gave the raw game scores for the first six games, where the sixth game had been played on 23 July. </BLOCKQUOTE> <P>Jumping ahead a month to its September 1972 issue, <I>CL&R</I> couldn't yet report the final result of the match. The five page lead story, 'The Mat",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -520,14 +552,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/book-of-the-year-2022-shortlist/",
          "pubDate" : "Wed, 31 Aug 2022 11:41:19 +0000",
          "title" : "Book of the Year 2022 - shortlist"
-      },
-      {
-         "description" : "The fifth day of Saint Louis Rapid &#38; Blitz was smooth sailing for Alireza Firouzja, who made it to the top of the standings and won the 2022 St Louis Grand Chess Tour with four rounds to spare. It was clear, Alireza Firouzja is the winner of Saint Louis Rapid &#38; Blitz 2022. Here is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-with-his-trophy-from-the-saint-louis-rapid-blitz-2022/",
-         "pubDate" : "Wed, 31 Aug 2022 11:41:15 +0000",
-         "title" : "Alireza Firouzja with his trophy from the Saint Louis Rapid & Blitz 2022"
       },
       {
          "description" : "",
@@ -1394,14 +1418,6 @@ news_feed (
          "title" : "AICF appoints Vipnesh as interim secretary following Delhi HC order"
       },
       {
-         "description" : "Jules Moussard claimed his first French championship while Almira Skripchenko (pictured) won a record seventh women's national title at the French championship which was held from August 13 to August 21 in Albi, southern France. Skripchenko, who was tied on six national titles with Sophie Milliet prior to this year's championship, defeated Natacha Benmesbah in the final round while Moussard got the better of Etienne Bacrot in a nail-biting encounter. | Photo: Lars OA Hedlund (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jules-moussard-and-almira-skripchenko-win-french-championships",
-         "pubDate" : "Tue, 23 Aug 2022 15:00:00 +0100",
-         "title" : "Jules Moussard and Almira Skripchenko win French Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1536,14 +1552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1932",
          "pubDate" : "Sun, 21 Aug 2022 21:24:55 +0000",
          "title" : "Magnus Carlsen clinches FTX Crypto Cup"
-      },
-      {
-         "description" : "Chess has an incredible history that dates back more than a millennia. As one of the oldest board games, chess is surrounded by tradition and grand story. From its origination in India to its diffusion and evolution around the world, chess has cap...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-chess-reflection-of-us",
-         "pubDate" : "Sun, 21 Aug 2022 12:17:00 -0700",
-         "title" : "Chess.com Releases Documentary 'The History Of Chess: The World Chess Championship'"
       },
       {
          "description" : "A couple of months ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/06/caissartistic-license.html\">Caissartistic License</A>(June 2022), I wrote, <BLOCKQUOTE>For this month's <I>Flickr Favorite</I>, I had two photos on the short list, neither of which I understood. Since I couldn't decide between them, I used both. </BLOCKQUOTE> <P>It's a nice dilemma to have and this month I had similar. This time it wasn't for two photos; it was for two paintings. And it wasn't for a lack of understanding; it was for choosing between a Ukrainian artist and a Russian artist. What to do? I used Flickr's search function on the photographer -- keyword 'chess', of course -- and came up with the followi",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-july-2022/",
          "pubDate" : "Tue, 16 Aug 2022 10:40:08 +0000",
          "title" : "ECU E-Magazine July 2022"
-      },
-      {
-         "description" : "Magnus Carlsen summed up Round 1 of the FTX Crypto Cup with \"we played really, really fighting games\". He lived dangerously for two games before beating Anish Giri 3:1, and there were also hard-fought victories for Praggnanandhaa, who defeated Alireza Firouzja 2.5:1.5, and Levon Aronian, who beat Liem Le by the same scoreline. The one blowout saw Jan-Krzysztof Duda defeat Hans Niemann 3:0 after the young US star never recovered from a technical glitch.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-1-carlsen-pragg-aronian-duda-start-with-wins",
-         "pubDate" : "Tue, 16 Aug 2022 09:00:18 +0000",
-         "title" : "FTX Crypto Cup 1: Carlsen, Pragg, Aronian & Duda win"
       },
       {
          "description" : " &#8220;I will not return alive if I do not defeat the Jin army!&#8221; General Muqali All chess enthusiasts have been treated royally between the end of July and the beginning of August. The Chennai Chess Olympiad has been exciting, well organized and well presented in the media both live and online. I have been rooting <a href=\"https://chessimprover.com/the-mongolian-tactic-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Mongolian Tactic (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-mongolian-tactic-3/\">The Mongolian Tactic (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
