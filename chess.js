@@ -10,6 +10,14 @@ news_feed (
          "title" : "Outmaneuvered"
       },
       {
+         "description" : "The 2022 Sinquefield Cup kicked off yesterday in Saint Louis, USA. World Chess Champion Magnus Carlsen had a perfect start and defeated Ian Nepomniachtchi taking the early lead in the tournament. (Replay the game here)Carlsen today meets Levon Aronian and has Black pieces. Sinquefield Cup 2022: Pairings &#38; Schedule / Live games / Day 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-vs-magnus-carlsen-sinquefield-cup-2022-r2-live/",
+         "pubDate" : "Sat, 03 Sep 2022 07:21:26 +0000",
+         "title" : "Levon Aronian vs Magnus Carlsen, Sinquefield Cup 2022 R2 LIVE"
+      },
+      {
          "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#160;series&#160;will take place from 17-30 September 2022 in Nursultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#160;Aleksandra Goryachkina&#160;and includes&#160;Katerina Lagno,&#160;Tan Zhongyi,&#160;Alexandra Kosteniuk,&#160;Polina Shuvalova,&#160;Alina Kashlinskaya,&#160;Zhansaya Abdumalik,&#160;Elisabeth Paehtz,&#160;Zhu Jiner,&#160;Bibisara Assaubayeva,&#160;Dinara Wagner&#160;and&#160;Vaishali R&#160;who&#160;replaced Koneru Humpy. FIDE Women's Grand Prix 2022-2023: All information&#160;/&#160;Final list of participants and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -312,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-preview",
          "pubDate" : "Fri, 02 Sep 2022 04:00:00 +0100",
          "title" : "Magnus Carlsen heads stellar lineup at the Sinquefield Cup"
-      },
-      {
-         "description" : "The 2022 Maia International Chess Open&#xA0;took place from August 26 to September 1 in Maia. The tournament was played in 9 rounds, swiss system, with time control: 90 minutes for the whole game + 30 seconds of increment per each move, starting from the move one, featuring the total prize fund of 4.000 euros. GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-omar-almeida-quintana-is-the-winner-of-the-maia-chess-open-2022/",
-         "pubDate" : "Fri, 02 Sep 2022 01:21:00 +0000",
-         "title" : "GM Omar Almeida Quintana is the Winner of the Maia Chess Open 2022"
       },
       {
          "description" : "Five days of rapid and blitz saw Alireza Firouzja achieving a magnificent result in his first outing at the Saint Louis Chess Club. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Shakhriyar Mamedyarov | Photo: Grand Chess Tour / Lennart Ootes",
