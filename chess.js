@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The surprise winner of the most recent world rapid chess championships was the new 17-year-old superstar Nodirbek Abdusattorov from Uzbekistan. Far from being a flash in the pan, the Uzbek teenager then led his team to an equally astounding victory in the recently concluded Chennai Olympiad, or international team tournament. This impressive triumph took place ahead of the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/egregious-viceroys-the-uzbek-impact-on-chess/",
+         "pubDate" : "Sat, 03 Sep 2022 10:20:50 +0000",
+         "title" : "Egregious viceroys: the Uzbek impact on chess"
+      },
+      {
+         "description" : "Happy birthday to&#xA0;Arjun Erigaisi! Chessdom.com wishes him a bright future and beautiful games on the chess board!&#xA0;The 19-year-old Indian grandmaster&#xA0;joined the 2700 club last month, after an outstanding performance at the Chess Olympiad 2022. Erigaisi was the second best individual player of Board 3 at the Olympiad (see the list of best individual players here) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/happy-19th-birthday-to-arjun-erigaisi/",
+         "pubDate" : "Sat, 03 Sep 2022 10:06:43 +0000",
+         "title" : "Happy 19th birthday to Arjun Erigaisi!"
+      },
+      {
+         "description" : "American Rapper and record producer, Sir Robert Bryson Hall known professionally as&#160;Logic, yesterday paid a visit to the 2022 Sinquefield Chess Cup. The American Rapper who has released seven studio albums and received two Grammy Award nominations was spotted playing chess against Robert Thomas, a Canadian professional ice hockey centre for the St. Louis Blues []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/american-rapper-logic-and-famous-hockey-player-robert-thomas-paid-a-visit-to-the-2022-sinquefield-cup/",
+         "pubDate" : "Sat, 03 Sep 2022 09:49:22 +0000",
+         "title" : "American Rapper Logic and famous hockey player Robert Thomas paid a visit to the 2022 Sinquefield Cup"
+      },
+      {
+         "description" : "7-year-old Kushal Jakhria is the youngest English player to reach a 2000 national rating! With two victories and one draw at the Leyland Open U2200, Kushal crossed the 2000 ECF national rating, breaking the age record of Abhimanyu Mishra who became the youngest US player to get the rating of 2000. Mishra crossed this rating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kushal-jakhria-becomes-the-youngest-player-to-reach-a-2000-national-rating/",
+         "pubDate" : "Sat, 03 Sep 2022 09:25:08 +0000",
+         "title" : "Kushal Jakhria becomes the youngest player to reach a 2000 national rating"
+      },
+      {
+         "description" : "In a rematch of the latest confrontation for the World Championship title, Magnus Carlsen took down Ian Nepomniachtchi to grab the early lead at the Sinquefield Cup in Saint Louis. All remaining games finished drawn. Carlsen will face Levon Aronian with black in the second round, while Nepo will try to bounce back in his game with white against Alireza Firouzja. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022",
+         "pubDate" : "Sat, 03 Sep 2022 10:00:00 +0100",
+         "title" : "Sinquefield Cup: Carlsen beats Nepo"
+      },
+      {
+         "description" : " <p class=\"lead\">The final event of the Grand Chess Tour, the Sinquefield Cup, started yesterday with the wildcard, Magnus Carlsen, crushing Ian Nepomniachtchi in Round 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Ian-Neponiachchi-Magnus-Carlsen-Grand-Chess-tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Bryan Adams, Grand Chess Tour</div> </div> A bit more than a month ago the reigning World Champion Magnus Carlsen announced that he will not defend his title in 2023 against Nepo, who had just won the Candidates 2022. Many talked about a foolish decision but would the Championship match be any different than the previous o",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/would-the-world-championship-match-between-carlsen-and-nepo-be-t/",
+         "pubDate" : "Sat, 03 Sep 2022 08:58:04 +0000",
+         "title" : "Would the World Championship match between Carlsen and Nepo be that indifferent?"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen had a perfect start at the 2022 Sinquefield Cup. He defeated Ian Nepomniachtchi taking the early lead in the event as the only player who delivered a victory in the Round 1 (Replay the game here). Analyzing the game against Nepo, Magnus explained that Ian made lots of inaccuracies during []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-analyzes-his-victory-over-nepo-he-played-too-fast-at-critical-moments/",
+         "pubDate" : "Sat, 03 Sep 2022 08:10:48 +0000",
+         "title" : "Magnus Carlsen analyzes his victory over Nepo: He played too fast at critical moments"
+      },
+      {
          "description" : "Only two pawns left on each side, equal material - and yet from the diagram position White wins by force. Five moves, one leitmotif - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/outmaneuvered",
          "pubDate" : "Sat, 03 Sep 2022 09:00:00 +0100",
          "title" : "Outmaneuvered"
+      },
+      {
+         "description" : "The final leg of the 2022 Grand Chess Tour series of tournaments the Sinquefield Cup&#xA0;kicked off yesterday in Saint Louis, USA.&#xA0;Only one game of the first round finished with a decisive result. It was World Chess Champion Magnus Carlsen who delivered a victory against Ian Nepomniachtchi taking the early lead in the event. Day []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-vs-alireza-firouzja-sinquefield-cup-2022-r2-live/",
+         "pubDate" : "Sat, 03 Sep 2022 07:48:54 +0000",
+         "title" : "Ian Nepomniachtchi vs Alireza Firouzja, Sinquefield Cup 2022 R2 LIVE"
+      },
+      {
+         "description" : "The 2022 Sinquefield Cup came off to a good start with one win and four draws. The win came courtesy of World Champion Magnus Carlsen who in convincing fashion took down the recent winner of the 2022 Candidates Tournament, GM Ian Nepomniachtchi. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-1",
+         "pubDate" : "Sat, 03 Sep 2022 00:34:00 -0700",
+         "title" : "Machine-like Efficiency By Carlsen To Beat Nepomniachtchi"
       },
       {
          "description" : "The 2022 Sinquefield Cup kicked off yesterday in Saint Louis, USA. World Chess Champion Magnus Carlsen had a perfect start and defeated Ian Nepomniachtchi taking the early lead in the tournament. (Replay the game here)Carlsen today meets Levon Aronian and has Black pieces. Sinquefield Cup 2022: Pairings &#38; Schedule / Live games / Day 2 []",
@@ -50,14 +122,6 @@ news_feed (
          "title" : "Sinquefield Cup 1: Carlsen crushes Nepo"
       },
       {
-         "description" : "The 2022 Sinquefield Cup came off to a good start with one win and four draws. The win came courtesy of World Champion Magnus Carlsen who in convincing fashion took down the recent winner of the 2022 Candidates Tournament, GM Ian Nepomniachtchi. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-1",
-         "pubDate" : "Fri, 02 Sep 2022 21:05:00 -0700",
-         "title" : "Machine-like Efficiency By Carlsen To Crush Nepomniachtchi"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after a draw against Caruana in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-misevaluated-rook-endgame-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qgN4p8HBL3A.jpg?itok=P6TB3iRq\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -98,14 +162,6 @@ news_feed (
          "title" : "FIDE Women's Grand Prix Nur-Sultan 2022"
       },
       {
-         "description" : "The first leg of the FIDE Women's Grand Prix 2022/2023 series will take place from 17-30 September 2022 in Nursultan, Kazakhstan. Twelve players qualified for the FIDE Women&#x2019;s Grand Prix series through the Women&#x2019;s World Chess Championship, Women&#x2019;s World Cup, FIDE Women&#x2019;s Grand swiss, and by the rating. The last four spots were completed by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-koneru-humpy-drops-out-from-the-1st-fide-womens-grand-prix-2022-tournament/",
-         "pubDate" : "Fri, 02 Sep 2022 21:42:13 +0000",
-         "title" : "GM Koneru Humpy drops out from the 1st FIDE Women's Grand Prix 2022 tournament"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> During Round 1 of the 2022 Sinquefield Cup, the team looks back on the prior evening&#039;s Opening Ceremony, Fischer-Spassky Anniversary Celebration, and simul. 2022.09.01<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-sinquefield-cup-opening-ceremony-reel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p1LYgV6q5pY.jpg?itok=",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -136,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-gambit-return",
          "pubDate" : "Fri, 02 Sep 2022 20:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The King's Gambit strikes again"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Fri, 02 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup: Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
@@ -194,36 +242,20 @@ news_feed (
          "title" : "Rolling membership introduction"
       },
       {
+         "description" : "Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html\">September 1972 & 1997 'On the Cover'</A>(September 2022), fell on an important anniversary in chess history:- <BLOCKQUOTE>The date of today's post, 1 September, marks 50 years since the historic match ended. </BLOCKQUOTE> <P>The historic match, as many online chess resources have been reminding us for the past two months, was the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Title Match</A>(m-w.com).The subtitle for that page says, 'Reykjavik, VII-VIII, 1972'; perhaps it should say, 'VII-IX'. <P>One of the early posts in this <I>Fischer Friday</I> series ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html",
+         "pubDate" : "Fri, 02 Sep 2022 15:29:00 +0000",
+         "title" : "Benson Called Bobby"
+      },
+      {
          "description" : "The Ukrainian women's team achieved something truly spectacular when they won the gold medal in the women's section at the 44th Chess Olympiad 2022. We speak to board no. 1 and 2 of the team and two of the best chess players of the country for several years now - Mariya and Anna Muzychuk. They talk about their experience of playing in India, how tough it was to win the Olympiad, and also show us the critical moments in their games. The entire country of Ukraine has been through tough times recently. This Gold medal is a dedication to the mental strength of these champions of the nation. | Photo: FIDE/Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/against-all-odds-how-ukraine-women-won-gold-at-the-44th-chess-olympiad-2022",
          "pubDate" : "Fri, 02 Sep 2022 16:00:00 +0100",
          "title" : "Against all odds - How the Ukrainian Women won Gold at the 44th Chess Olympiad 2022"
-      },
-      {
-         "description" : "The first round of the Sinquefield Cup 2022 features the clash of the World Chess Champion Magnus Carlsen and the 2021 World Chess Championship challenger Ian Nepomniachtchi. The drawing of lots determined Carlsen-Nepo match to be played at the very beginning of the event, just as it happened at the Grand Chess Tour Croatia a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-ian-nepomniachtchi-sinquefield-cup-2022-r1-live/",
-         "pubDate" : "Fri, 02 Sep 2022 14:20:14 +0000",
-         "title" : "Magnus Carlsen vs Ian Nepomniachtchi, Sinquefield Cup 2022 R1 LIVE"
-      },
-      {
-         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022 and takes place from 1-13 September 2022 in Saint Louis, USA. Eight Tour players Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-pairings-schedule/",
-         "pubDate" : "Fri, 02 Sep 2022 13:57:56 +0000",
-         "title" : "Sinquefield Cup 2022 - Pairings & Schedule"
-      },
-      {
-         "description" : "The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour 2022. Eight Tour players (Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov) are joined by wildcards (Magnus Carlsen and Hans Niemann) for a classical chess event which will be []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-1-live/",
-         "pubDate" : "Fri, 02 Sep 2022 13:24:33 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 1 LIVE"
       },
       {
          "description" : "Two-time US Women's Champion Jennifer Shahade has often championed women's chess in the past. After \"Chess Bitch\" she has now published another book on women's chess, \"Chess Queens\". Tatiana Flores has taken a look at it. | Photo: Courtesy Jennifer Shahade",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-firouzja-caruana-as-sinquefield-cup-begins",
          "pubDate" : "Fri, 02 Sep 2022 06:08:57 +0000",
          "title" : "Carlsen-Nepo & Firouzja-Caruana as Sinquefield Cup begins"
-      },
-      {
-         "description" : "Sinquefield Cup 2022 is going to take place 1-13 September in Saint Louis, USA. It will feature 10 Grandmasters including World Champion Magnus Carlsen, the number 1 junior Alireza Firouzja, US players Fabiano Caruana, Wesley So, Levon Aronian, and Leinier Dominguez, as well as Ian Nepomniachtchi, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave and Hans Niemann. Sinqufield Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-live/",
-         "pubDate" : "Fri, 02 Sep 2022 03:46:00 +0000",
-         "title" : "Sinquefield Cup 2022 LIVE"
       },
       {
          "description" : "As the only remaining destination to be part of every Grand Chess Tour since its first edition in 2015, the Sinquefield Cup continues to be an essential element of the GCT circuit. This year's edition is set to take place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars will be fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Photo: Grand Chess Tour / Lennart Ootes",
@@ -1968,22 +1992,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-shri-bharat-singh-chauhan/",
          "pubDate" : "Sat, 13 Aug 2022 13:10:42 +0000",
          "title" : "Congratulations Shri Bharat Singh Chauhan"
-      },
-      {
-         "description" : "As we know, 2022 is the fiftieth anniversary of the Spassky v Fischer world championship of 1972, which has gone down in chess lore as: the Match of the Century. The anniversary has been marked by a special exhibition at the US Chess Hall of Fame in St Louis, as well as a stupendous new []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/bobby-boris-timman-sir-tim-50-years-since-fischer-v-spassky/",
-         "pubDate" : "Sat, 13 Aug 2022 09:00:26 +0000",
-         "title" : "Bobby & Boris, Timman & Sir Tim: 50 years since Fischer v Spassky"
-      },
-      {
-         "description" : " One of the things I've been mentioning over this series of articles is the idea of studying the games of master level players to aid in your improvement. However, I didn't mention which of the masters you should study. Sorry about that! The reason I'm saying sorry is because not all master games are suitable <a href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Sixty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-sixty-nine/\">A Foundation for Beginners Sixty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-sixty-nine/",
-         "pubDate" : "Sat, 13 Aug 2022 07:56:57 +0000",
-         "title" : "A Foundation for Beginners Sixty Nine"
       }
    ]
 }
