@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2002 Sinquefield Cup started with one decisive game, and 4 draws. The one decisive game involved Magnus Carlsen and Ian Nepomniachtchi , and resulted in another victory for Carlsen. Having gone through the game a few times, I'm still not sure what really happened, as Carlsen's position did not look appreciably better, until Nepo kind of fell apart. If I had to criticise a move 23 ... c5 did not look right to me, although Stockfish thinks it is perfectly fine. The problem I had with this move was that it created a target for White to aim at, and eventually Black misplayed the defence. Of course just sitting on the position might have resulted in a different set of problems for Black, and",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/sinquefield-cup-2022.html",
+         "pubDate" : "Sat, 03 Sep 2022 14:20:00 +0000",
+         "title" : "Sinquefield Cup 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1962",
+         "pubDate" : "Sat, 03 Sep 2022 13:12:43 +0000",
+         "title" : "Kateryna Lagno wins FIDE Chess.com 2022 Women's Speed Chess Championship"
+      },
+      {
+         "description" : "Last week BBC Four brought together a group of personalities that, 25 years ago, were part of the epic struggle between the reigning World Champion and a million-dollar computer built by IBM. The broadcast reunited the chess masters and AI pioneers who went into battle at the time, to test the limits of human and artificial intelligence. You can listen to the 42-minute discussion and read experts.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/25-years-later-deep-blue-vs-kasparov",
+         "pubDate" : "Sat, 03 Sep 2022 14:00:00 +0100",
+         "title" : "25 years later: Deep Blue vs Kasparov"
+      },
+      {
          "description" : "The surprise winner of the most recent world rapid chess championships was the new 17-year-old superstar Nodirbek Abdusattorov from Uzbekistan. Far from being a flash in the pan, the Uzbek teenager then led his team to an equally astounding victory in the recently concluded Chennai Olympiad, or international team tournament. This impressive triumph took place ahead of the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -354,6 +378,14 @@ news_feed (
          "title" : "Endgames from Saint Louis"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1957",
+         "pubDate" : "Thu, 01 Sep 2022 20:25:34 +0000",
+         "title" : "Three youngsters cross 2700 mark in September rating list"
+      },
+      {
          "description" : "The September FIDE rating list, published today on the website of the International Chess Federation, shows the rise of the new generation of chess. Especially India is doing well, with big jumps for GMs Gukesh D, Arjun Erigaisi, as well as GM Nih...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -424,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/monika-socko-wins-2022-european-women-chess-championship",
          "pubDate" : "Thu, 01 Sep 2022 05:27:00 -0700",
          "title" : "Monika Socko Wins European Women's Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1957",
-         "pubDate" : "Thu, 01 Sep 2022 11:25:34 +0000",
-         "title" : "Three youngsters cross 2700 mark in September rating list"
       },
       {
          "description" : "London 1922 is a historically significant event that gathered the day's greatest players and produced the London Rules of 1922. They were designed by the then reigning World Champion Capablanca (pictured) and laid down what players had to do - and how much money they had to come up with - who wanted to challenge the World Champion. Eugene Manlapao revisits this tournament on the occasion of its recent centennial anniversary.| Photo: Screenshot from the film \"Chess Fever\" from 1925",
@@ -1426,14 +1450,6 @@ news_feed (
          "title" : "EP 293- Olympiad Trip reports with Lula Roberts aka \"LulaRobs\" and Team USA captain, IM John Donaldson"
       },
       {
-         "description" : "Studying endgame theory can seem like one of those necessary evils, and about as fun as watching paint dry, but sometimes it is all about the teacher. Teachers such as GM Karsten Mueller or Mark Dvoretsky make all the difference, bringing magic and wonder into the lessons. Enjoy this shared moment of discovery.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/when-studying-endgames-becomes-fun",
-         "pubDate" : "Tue, 23 Aug 2022 17:00:00 +0100",
-         "title" : "When studying endgames becomes fun"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93736289.cms\" />The All India Chess Federation (AICF) on Tuesday appointed Vipnesh Bharadwaj as its interim secretary after the Delhi High Court reiterated its order of removing former chief Bharat Singh Chauhan.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1976,22 +1992,6 @@ news_feed (
          "link" : "https://chessimprover.com/bishop-endings-2/",
          "pubDate" : "Sun, 14 Aug 2022 06:50:03 +0000",
          "title" : "Bishop Endings"
-      },
-      {
-         "description" : " There were a number of very quick games at the 2022 Chess Olympiad, although some were just ended with a simple blunder. This one was a little more subtle, with White missing an in between move that brought the game to an abrupt finish. <br /> <br /> <b>Mannhart,Marcel (2110) - Van den Brink,Peter (2167) [B23]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (10.1), 08.08.2022 <script>new PgnViewer( { boardName: \"game1341\", movesFormat: \"default\", pgnString:'1.Nc3 c5 2.e4 g6 3.d4 cxd4 4.Qxd4 Nf6 5.Be3 Nc6 6.Qd2 Bg7 7.f3 d6 8.Bh6 Bxh6 9.Qxh6 Be6 10.O-O-O Qa5 11.Kb1 O-O-O 12.Qd2 d5 13.Nxd5 Nxd5 14.Qxa5 Nc3+ 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/olympiad-minatures.html",
-         "pubDate" : "Sat, 13 Aug 2022 14:09:00 +0000",
-         "title" : "Olympiad Minatures"
-      },
-      {
-         "description" : "All India Chess Federation congratulate Hony Secretary Shri Bharat Singh Chauhan for his re-election as President of Commonwealth Chess Association as well as becomes the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-shri-bharat-singh-chauhan/",
-         "pubDate" : "Sat, 13 Aug 2022 13:10:42 +0000",
-         "title" : "Congratulations Shri Bharat Singh Chauhan"
       }
    ]
 }
