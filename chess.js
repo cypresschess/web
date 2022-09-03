@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Sat, 03 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-3",
+         "pubDate" : "Sat, 03 Sep 2022 18:27:20 +0000",
+         "title" : "2022 Sinquefield Cup: Round 3"
+      },
+      {
          "description" : " The 2002 Sinquefield Cup started with one decisive game, and 4 draws. The one decisive game involved Magnus Carlsen and Ian Nepomniachtchi , and resulted in another victory for Carlsen. Having gone through the game a few times, I'm still not sure what really happened, as Carlsen's position did not look appreciably better, until Nepo kind of fell apart. If I had to criticise a move 23 ... c5 did not look right to me, although Stockfish thinks it is perfectly fine. The problem I had with this move was that it created a target for White to aim at, and eventually Black misplayed the defence. Of course just sitting on the position might have resulted in a different set of problems for Black, and",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -218,7 +234,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The King's Gambit strikes again"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-2-lichessorg",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzja-promised-myself-i%E2%80%99d-win-saint-louis-day-5",
          "pubDate" : "Wed, 31 Aug 2022 00:24:06 +0000",
          "title" : "Firouzja: Promised Myself I'd Win in Saint Louis! | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila at the end of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-tried-remember-how-play-chess-today-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qrDdjUEwO2g.jpg?itok=8wGZTRoV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-tried-remember-how-play-chess-today-day-5",
-         "pubDate" : "Wed, 31 Aug 2022 00:24:06 +0000",
-         "title" : "Nakamura: Tried to Remember How to Play Chess Today | Day 5"
       },
       {
          "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
          "pubDate" : "Wed, 24 Aug 2022 11:19:18 +0000",
          "title" : "Olympiad Curtain Raiser Certificates are out to download"
-      },
-      {
-         "description" : "The 2022 European Women's Chess Championship is taking place on August 20-31 at the Don Giovanni Hotel in Prague, Czech Republic. The tournament is an 11-round Swiss open with 123 participants from 28 different countries. After four rounds, eight players are tied for first place with 3&frac12;/4 scores. Azerbaijan, with three players, is the country with the largest number of representatives in the leading pack. | Photo: ECU",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2022-r4",
-         "pubDate" : "Wed, 24 Aug 2022 09:00:00 +0100",
-         "title" : "European Women's Championship: Crowded at the top"
       },
       {
          "description" : " Cambridge student and Matthew Wadsworth battle for 75 moves in epic encounter, while Kushal Jakhria targets two world age records The final round game which decided the 2022 British championship at Torquay turned out to be a 75-move epic which had everything. Its protagonists were both Cambridge students: Harry Grieve, 21, mathematics, and Matthew Wadsworth, 22, economics. They were colleagues in their university chess club, but went for each other with zestful imagination in one of the best ever championship deciders. A sharp opening with a material imbalance was followed by a knight retreat from f3 to its starting square g1, two exchange sacrifices, a winning king march, four queens on th",
