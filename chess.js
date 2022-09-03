@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after a draw against Caruana in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-misevaluated-rook-endgame-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qgN4p8HBL3A.jpg?itok=P6TB3iRq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-misevaluated-rook-endgame-round-1",
+         "pubDate" : "Sat, 03 Sep 2022 00:26:46 +0000",
+         "title" : "Firouzja: Misevaluated the Rook Endgame | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Alejandro Ramirez after defeating Nepomniachtchi in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-not-shape-played-too-fast-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VHWkpg16owI.jpg?itok=0-wQzrwN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-not-shape-played-too-fast-round-1",
+         "pubDate" : "Sat, 03 Sep 2022 00:26:46 +0000",
+         "title" : "Carlsen: Nepo Not in Shape, Played Too Fast | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with Aronian in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-feels-right-home-here-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GbC53qflVS4.jpg?itok=zRWLiNXy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-feels-right-home-here-round-1",
+         "pubDate" : "Sat, 03 Sep 2022 00:26:46 +0000",
+         "title" : "Niemann: Feels Right at Home Here | Round 1"
+      },
+      {
          "description" : "GM Kateryna Lagno defeated defending champion, GM Hou Yifan, in the final of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. The determination and attacking styles of these two grandmasters made this match a riveting duel of mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -594,36 +618,12 @@ news_feed (
          "title" : "Nakamura: Tried to Remember How to Play Chess Today | Day 5"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after a late surge at the end of the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-ending-high-note-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IRqzGRNcgIM.jpg?itok=GJcrQidy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-ending-high-note-day-5",
-         "pubDate" : "Wed, 31 Aug 2022 00:24:06 +0000",
-         "title" : "Caruana: Ending on a High Note | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The sixth annual Saint Louis Rapid &amp; Blitz is also the fourth leg of the Grand Chess Tour. Seven Tour players (Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Nakamura, Shankland, and Xiong) for a rapid round robin and blitz double round robin event. Today has the final blitz round robin, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Cristian Chirila for the move-by-move. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-saint-louis-rapid-blitz-day-5",
-         "pubDate" : "Wed, 31 Aug 2022 00:24:06 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz: Day 5"
-      },
-      {
          "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-wins-2022-saint-louis-rapid-and-blitz",
          "pubDate" : "Tue, 30 Aug 2022 15:47:00 -0700",
          "title" : "Dominant Firouzja Clinches Saint Louis Rapid & Blitz With 4 Rounds To Spare"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmasters Yasser Seirawan and Peter Svidler talk about their visit to the World Chess Hall of Fame&#039;s new exhibition &quot;1972 Fischer/Spassky: The Match, Its Origin, and Influence,&quot; on view until April 30, 2023. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yas-peter-visit-wchofs-fischer-spassky-exhibition-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yas-peter-visit-wchofs-fischer-spassky-exhibition-day-5",
-         "pubDate" : "Tue, 30 Aug 2022 21:24:09 +0000",
-         "title" : "Yas & Peter Visit WCHOF's Fischer-Spassky Exhibition | Day 5"
       },
       {
          "description" : "",
