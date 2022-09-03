@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> American rapper Logic talks to Anastasiya Karlovich during the first round of the 2022 Sinquefield Cup. This aired during Round 2. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/logic-we-all-love-magnus-right-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BEK-D4P5MMs.jpg?itok=dfPysTuF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/logic-we-all-love-magnus-right-round-1",
+         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
+         "title" : "Logic: We All Love Magnus, Right? | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Alejandro Ramirez after a draw with Aronian in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-aronian-wasn%E2%80%99t-aiming-play-aggressively-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QM7VyPQdVMY.jpg?itok=4Tae2SsD\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-aronian-wasn%E2%80%99t-aiming-play-aggressively-round-2",
+         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
+         "title" : "Carlsen: Aronian Wasn't Aiming to Play Aggressively | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after a draw with Carlsen in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-had-play-solidly-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vLBPjl9SfHc.jpg?itok=UeXZx0N4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-had-play-solidly-round-2",
+         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
+         "title" : "Aronian: Had to Play Solidly | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> St. Louis Blues Forward Robert Thomas talks to Anastasiya Karlovich during the first round of the 2022 Sinquefield Cup. This aired during Round 2. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stl-blues-robert-thomas-followed-carlsen-longest-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qhmSf0XrZBc.jpg?itok=h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/stl-blues-robert-thomas-followed-carlsen-longest-round-1",
+         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
+         "title" : "STL Blues Robert Thomas: Followed Carlsen the Longest | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after a draw with Wesley So in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i-didnt-see-29-ke2-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EsgAehu3IZI.jpg?itok=pZgye_56\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-i-didnt-see-29-ke2-round-2",
+         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
+         "title" : "MVL: I didn't see 29. Ke2! | Round 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1963",
+         "pubDate" : "Sat, 03 Sep 2022 21:11:01 +0000",
+         "title" : "2022 Sinquefield Cup - Day 1 Recap"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,14 +258,6 @@ news_feed (
          "title" : "2022 Sinquefield Cup: Opening Ceremony Reel"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players how it feels to be in Saint Louis, playing in the Sinquefield Cup. This aired during Round 1. 2022.09.01<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-sinquefield-cup-playing-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yTNJ5jtY0rw.jpg?itok=gHBEdH5f\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-playing-saint-louis",
-         "pubDate" : "Fri, 02 Sep 2022 21:26:42 +0000",
-         "title" : "2022 Sinquefield Cup: Playing in Saint Louis"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,22 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-gambit-return",
          "pubDate" : "Fri, 02 Sep 2022 20:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The King's Gambit strikes again"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-2-lichessorg",
-         "pubDate" : "Fri, 02 Sep 2022 18:26:38 +0000",
-         "title" : "2022 Sinquefield Cup: Round 2 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez for the move-by-move. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-1-lichessorg",
-         "pubDate" : "Fri, 02 Sep 2022 18:26:38 +0000",
-         "title" : "2022 Sinquefield Cup: Round 1 | lichess.org"
       },
       {
          "description" : "Grigori Jakowlewitsch L&ouml;wenfisch was born in the 19th century, and advanced to one of the strongest chess players in the world in 1939. The Grandmaster was an avid writer for several chess books, and magazines. Loewenfisch had some venomous tactics up his sleeve, which Lawrence Trent is presenting to us.",
@@ -514,14 +538,6 @@ news_feed (
          "title" : "Virgo and their strategy"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, and Alejandro Ramirez from September 2-12 at 12:50 P.M. CDT.. KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-promo",
-         "pubDate" : "Thu, 01 Sep 2022 00:25:21 +0000",
-         "title" : "2022 Sinquefield Cup | PROMO"
-      },
-      {
          "description" : "11-year-old FM Yagiz Erdogmus, in case you have not heard of him before, is a name you should expect to hear again. The young Turkish player is an IM-elect (meaning he has earned the title, only waiting for it to be approved) and number 13 nationa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/german-federation-in-disarray/",
          "pubDate" : "Wed, 31 Aug 2022 06:33:56 +0100",
          "title" : "German Federation in disarray"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after winning the 2022 Saint Louis Rapid &amp; Blitz. 2022.08.30<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-promised-myself-i%E2%80%99d-win-saint-louis-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9pv3pmpgxBY.jpg?itok=z2VPrl10\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-promised-myself-i%E2%80%99d-win-saint-louis-day-5",
-         "pubDate" : "Wed, 31 Aug 2022 00:24:06 +0000",
-         "title" : "Firouzja: Promised Myself I'd Win in Saint Louis! | Day 5"
       },
       {
          "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
