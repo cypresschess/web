@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann joined Magnus Carlsen in the lead of the Sinquefield Cup by beating Shakhriyar Mamedyarov with the white pieces in Saturday's second round. The tournament underdog kicked off the event with two whites and is set to face Carlsen with black in round 3. Meanwhile, Ian Nepomniachtchi bounced back from his first-round loss against the world champion by beating the winner of the Saint Louis Rapid & Blitz tournament, Alireza Firouzja. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r2",
+         "pubDate" : "Sun, 04 Sep 2022 05:20:00 +0100",
+         "title" : "Sinquefield Cup: Niemann joins the lead, Nepo beats Firouzja"
+      },
+      {
+         "description" : "In round two of the 2022 Sinquefield Cup, the games went in two directions: solid, sensible play for some, and complicated battles for others. The sole winner of round one, World Champion GM Magnus Carlsen, played a solid draw, allowing the Amer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-2",
+         "pubDate" : "Sat, 03 Sep 2022 18:55:55 -0700",
+         "title" : "King Hans Lets Chess Speak For Itself"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Hans Niemann talks to Alejandro Ramirez after a beating GM Shakhriyar Mamedyarov in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-live-rating-2695-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O1EZ84kK3Ps.jpg?itok=AdiNXWvG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hans-niemann-live-rating-2695-day-2",
+         "pubDate" : "Sun, 04 Sep 2022 00:27:38 +0000",
+         "title" : "Hans Niemann: Live rating 2695! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after a draw with Leinier Dominguez in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-disappointed-i-missed-multiple-wins-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/l0Pp7nGDq50.jpg?itok=_ILAQoDe\" alt=\"\" /></a></di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-disappointed-i-missed-multiple-wins-day-2",
+         "pubDate" : "Sun, 04 Sep 2022 00:27:38 +0000",
+         "title" : "Fabiano: \"Disappointed I missed multiple wins\" | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Ian Nepomniachtchi talks to Alejandro Ramirez after a beating GM Alireza Firouzja in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-major-success-catalan-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LuIqPcYnhKA.jpg?itok=9K22r53E\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-major-success-catalan-day-2",
+         "pubDate" : "Sun, 04 Sep 2022 00:27:38 +0000",
+         "title" : "Nepo: Major Success with the Catalan! | Day 2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> American rapper Logic talks to Anastasiya Karlovich during the first round of the 2022 Sinquefield Cup. This aired during Round 2. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/logic-we-all-love-magnus-right-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BEK-D4P5MMs.jpg?itok=dfPysTuF\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1963",
          "pubDate" : "Sat, 03 Sep 2022 21:11:01 +0000",
          "title" : "2022 Sinquefield Cup - Day 1 Recap"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Sat, 03 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup: Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
@@ -122,14 +154,6 @@ news_feed (
          "title" : "Kushal Jakhria becomes the youngest player to reach a 2000 national rating"
       },
       {
-         "description" : "In a rematch of the latest confrontation for the World Championship title, Magnus Carlsen took down Ian Nepomniachtchi to grab the early lead at the Sinquefield Cup in Saint Louis. All remaining games finished drawn. Carlsen will face Levon Aronian with black in the second round, while Nepo will try to bounce back in his game with white against Alireza Firouzja. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022",
-         "pubDate" : "Sat, 03 Sep 2022 10:00:00 +0100",
-         "title" : "Sinquefield Cup: Carlsen beats Nepo"
-      },
-      {
          "description" : " <p class=\"lead\">The final event of the Grand Chess Tour, the Sinquefield Cup, started yesterday with the wildcard, Magnus Carlsen, crushing Ian Nepomniachtchi in Round 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Ian-Neponiachchi-Magnus-Carlsen-Grand-Chess-tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Bryan Adams, Grand Chess Tour</div> </div> A bit more than a month ago the reigning World Champion Magnus Carlsen announced that he will not defend his title in 2023 against Nepo, who had just won the Candidates 2022. Many talked about a foolish decision but would the Championship match be any different than the previous o",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -152,6 +176,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/outmaneuvered",
          "pubDate" : "Sat, 03 Sep 2022 09:00:00 +0100",
          "title" : "Outmaneuvered"
+      },
+      {
+         "description" : "The Ukrainian women's team achieved something truly spectacular when they won the gold medal in the women's section at the 44th Chess Olympiad 2022. We speak to board no. 1 and 2 of the team and two of the best chess players of the country for several years now - Mariya and Anna Muzychuk. They talk about their experience of playing in India, how tough it was to win the Olympiad, and also show us the critical moments in their games. The entire country of Ukraine has been through tough times recently. This Gold medal is a dedication to the mental strength of these champions of the nation. | Photo: FIDE/Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/against-all-odds-how-ukraine-women-won-gold-at-the-44th-chess-olympiad-2022",
+         "pubDate" : "Sat, 03 Sep 2022 08:55:00 +0100",
+         "title" : "Against all odds - How the Ukrainian Women won Gold at the 44th Chess Olympiad 2022"
+      },
+      {
+         "description" : "In a rematch of the latest confrontation for the World Championship title, Magnus Carlsen took down Ian Nepomniachtchi to grab the early lead at the Sinquefield Cup in Saint Louis. All remaining games finished drawn. Carlsen will face Levon Aronian with black in the second round, while Nepo will try to bounce back in his game with white against Alireza Firouzja. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022",
+         "pubDate" : "Sat, 03 Sep 2022 08:50:00 +0100",
+         "title" : "Sinquefield Cup: Carlsen beats Nepo"
       },
       {
          "description" : "The final leg of the 2022 Grand Chess Tour series of tournaments the Sinquefield Cup&#xA0;kicked off yesterday in Saint Louis, USA.&#xA0;Only one game of the first round finished with a decisive result. It was World Chess Champion Magnus Carlsen who delivered a victory against Ian Nepomniachtchi taking the early lead in the event. Day []",
@@ -218,22 +258,6 @@ news_feed (
          "title" : "Firouzja: Misevaluated the Rook Endgame | Round 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Alejandro Ramirez after defeating Nepomniachtchi in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-nepo-not-shape-played-too-fast-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VHWkpg16owI.jpg?itok=0-wQzrwN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-nepo-not-shape-played-too-fast-round-1",
-         "pubDate" : "Sat, 03 Sep 2022 00:26:46 +0000",
-         "title" : "Carlsen: Nepo Not in Shape, Played Too Fast | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with Aronian in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-feels-right-home-here-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GbC53qflVS4.jpg?itok=zRWLiNXy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-feels-right-home-here-round-1",
-         "pubDate" : "Sat, 03 Sep 2022 00:26:46 +0000",
-         "title" : "Niemann: Feels Right at Home Here | Round 1"
-      },
-      {
          "description" : "GM Kateryna Lagno defeated defending champion, GM Hou Yifan, in the final of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. The determination and attacking styles of these two grandmasters made this match a riveting duel of mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022/",
          "pubDate" : "Fri, 02 Sep 2022 22:05:19 +0000",
          "title" : "FIDE Women's Grand Prix Nur-Sultan 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> During Round 1 of the 2022 Sinquefield Cup, the team looks back on the prior evening&#039;s Opening Ceremony, Fischer-Spassky Anniversary Celebration, and simul. 2022.09.01<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-sinquefield-cup-opening-ceremony-reel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p1LYgV6q5pY.jpg?itok=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-opening-ceremony-reel",
-         "pubDate" : "Fri, 02 Sep 2022 21:26:42 +0000",
-         "title" : "2022 Sinquefield Cup: Opening Ceremony Reel"
       },
       {
          "description" : "",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html",
          "pubDate" : "Fri, 02 Sep 2022 15:29:00 +0000",
          "title" : "Benson Called Bobby"
-      },
-      {
-         "description" : "The Ukrainian women's team achieved something truly spectacular when they won the gold medal in the women's section at the 44th Chess Olympiad 2022. We speak to board no. 1 and 2 of the team and two of the best chess players of the country for several years now - Mariya and Anna Muzychuk. They talk about their experience of playing in India, how tough it was to win the Olympiad, and also show us the critical moments in their games. The entire country of Ukraine has been through tough times recently. This Gold medal is a dedication to the mental strength of these champions of the nation. | Photo: FIDE/Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/against-all-odds-how-ukraine-women-won-gold-at-the-44th-chess-olympiad-2022",
-         "pubDate" : "Fri, 02 Sep 2022 16:00:00 +0100",
-         "title" : "Against all odds - How the Ukrainian Women won Gold at the 44th Chess Olympiad 2022"
       },
       {
          "description" : "Two-time US Women's Champion Jennifer Shahade has often championed women's chess in the past. After \"Chess Bitch\" she has now published another book on women's chess, \"Chess Queens\". Tatiana Flores has taken a look at it. | Photo: Courtesy Jennifer Shahade",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-wins-ftx-crypto-cup-2022",
          "pubDate" : "Sun, 21 Aug 2022 22:09:00 -0700",
          "title" : "Magnus Carlsen Wins FTX Crypto Cup"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi proved to be invincible, clinching&#38;nbsp;the Grand Final of the 2022 Rapid Chess Championship&#38;nbsp;presented by Coinbase on Sunday. He defeated GM Dmitry Andreikin, who had an incredible run, overcoming GMs Hikaru Nakamura and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-rapid-chess-championship-finals-day-4",
-         "pubDate" : "Sun, 21 Aug 2022 21:10:00 -0700",
-         "title" : "Nepomniachtchi Can't Stop Winning, Clinches 2022 RCC Title"
       },
       {
          "description" : "",
