@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1965",
+         "pubDate" : "Sun, 04 Sep 2022 21:52:41 +0000",
+         "title" : "Esipenko racks up huge score to win first Challengers Chess Tour event"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after defeating Mamedyarov in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-live-rating-2695-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O1EZ84kK3Ps.jpg?itok=AdiNXWvG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-live-rating-2695-day-2",
+         "pubDate" : "Sun, 04 Sep 2022 21:28:05 +0000",
+         "title" : "Niemann: Live Rating 2695! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after a draw with Leinier Dominguez in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-disappointed-i-missed-multiple-wins-day-2-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/l0Pp7nGDq50.jpg?itok=_ILAQoDe\" alt=\"\" /></a></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-disappointed-i-missed-multiple-wins-day-2-0",
+         "pubDate" : "Sun, 04 Sep 2022 21:28:05 +0000",
+         "title" : "Fabiano: Disappointed I Missed Multiple Wins | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Alejandro Ramirez after a draw with MVL in the third round of the 2022 Sinquefield Cup. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-no-chance-play-win-today-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pi-JstFJeQY.jpg?itok=yU4q6Fzx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mamedyarov-no-chance-play-win-today-round-3",
+         "pubDate" : "Sun, 04 Sep 2022 21:28:05 +0000",
+         "title" : "Mamedyarov: No Chance to Play for a Win Today | Round 3"
+      },
+      {
+         "description" : "The Julius Baer Challenge was the first event of the Challengers Chess Tour 2022 and it was a 16-player blitz round-robin taking place on chess24 from September 3-4. The event gathered 16 of the world&#x2019;s top Under 12, 14 and 16 age group players, alongside Under 18 and 20 stars such as Raunak Sadhwani, Jonas []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/andrey-esipenko-dominated-the-julius-baer-challenge/",
+         "pubDate" : "Sun, 04 Sep 2022 20:23:27 +0000",
+         "title" : "Andrey Esipenko dominated the Julius Baer Challenge"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -102,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-177",
-         "pubDate" : "Sun, 04 Sep 2022 13:00:00 +0100",
+         "pubDate" : "Sun, 04 Sep 2022 13:05:00 +0100",
          "title" : "Murder in a vacuum"
       },
       {
@@ -186,14 +226,6 @@ news_feed (
          "title" : "Aravindh Chithambaram in the sole lead at the Dubai Chess Open 2022"
       },
       {
-         "description" : "19-year-old USA grandmaster Hans Niemann yesterday scored his first ever victory against a player who is rated 2750+. He defeated Shakhriyar Mamedyarov in the 2nd round of the Sinquefield Cup 2022, and after a wild game, showed a perfect technique in the Queens endgame in the end. In the post-game interview, Niemann was surprised with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-its-not-a-surprise-for-me-that-i-am-beating-the-top-level-players/",
-         "pubDate" : "Sun, 04 Sep 2022 06:13:00 +0000",
-         "title" : "Hans Niemann: It's not a surprise for me that I am beating the top-level players"
-      },
-      {
          "description" : "Hans Niemann joined Magnus Carlsen in the lead of the Sinquefield Cup by beating Shakhriyar Mamedyarov with the white pieces in Saturday's second round. The tournament underdog kicked off the event with two whites and is set to face Carlsen with black in round 3. Meanwhile, Ian Nepomniachtchi bounced back from his first-round loss against the world champion by beating the winner of the Saint Louis Rapid & Blitz tournament, Alireza Firouzja. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,36 +258,12 @@ news_feed (
          "title" : "Fabiano: \"Disappointed I missed multiple wins\" | Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Ian Nepomniachtchi talks to Alejandro Ramirez after a beating GM Alireza Firouzja in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-major-success-catalan-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LuIqPcYnhKA.jpg?itok=9K22r53E\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after defeating Firouzja in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-major-success-catalan-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LuIqPcYnhKA.jpg?itok=9K22r53E\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/nepo-major-success-catalan-day-2",
          "pubDate" : "Sun, 04 Sep 2022 00:27:38 +0000",
          "title" : "Nepo: Major Success with the Catalan! | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> American rapper Logic talks to Anastasiya Karlovich during the first round of the 2022 Sinquefield Cup. This aired during Round 2. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/logic-we-all-love-magnus-right-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BEK-D4P5MMs.jpg?itok=dfPysTuF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/logic-we-all-love-magnus-right-round-1",
-         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
-         "title" : "Logic: We All Love Magnus, Right? | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen talks to Alejandro Ramirez after a draw with Aronian in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-aronian-wasn%E2%80%99t-aiming-play-aggressively-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QM7VyPQdVMY.jpg?itok=4Tae2SsD\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-aronian-wasn%E2%80%99t-aiming-play-aggressively-round-2",
-         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
-         "title" : "Carlsen: Aronian Wasn't Aiming to Play Aggressively | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after a draw with Carlsen in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-had-play-solidly-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vLBPjl9SfHc.jpg?itok=UeXZx0N4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-had-play-solidly-round-2",
-         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
-         "title" : "Aronian: Had to Play Solidly | Round 2"
       },
       {
          "description" : "",
