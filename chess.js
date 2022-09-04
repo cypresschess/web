@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are some ideas which the meanest members of the 'silicon brotherhood' will flag up immediately but are way beyond our normal human compass. The move that inspired this column is one which is hard to imagine ever being found in a blitz game but might be within the range of a world-class player in a classical game if not in time trouble: Vasyl Ivanchuk, say. | Pictured: Jos&eacute; Ra&uacute;l Capablanca",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-177",
+         "pubDate" : "Sun, 04 Sep 2022 13:00:00 +0100",
+         "title" : "Murder in a vacuum"
+      },
+      {
+         "description" : "The ChessBase Magazine offers a window to the world of professional chess and it provides arsenal for the tournament player. The latest issue, CBM #209, is just out. Meanwhile here is a review of the recent issue, CBM #208. It offers games from two major events, Superbet Chess Classic, Bucharest 2022 and European Individual Championship. 2055 games (49 annotated), 11 opening surveys, 12 demo lectures and exercises for training. Annotators include Anish Giri, Matthias Bl&uuml;baum, Gabriel Sargissian, Yuriy Kuzubov and Karsten M&uuml;ller among others. The icing on the cake is a flashback on the 1997 FIDE World Championship Special with 323 games and a commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-208-maxime-shines-and-matthias-scores-review-by-nagesh-havanur",
+         "pubDate" : "Sun, 04 Sep 2022 13:00:00 +0100",
+         "title" : "CBM 208: Maxime shines and Matthias scores - Review by Nagesh Havanur"
+      },
+      {
+         "description" : "Hans Niemann took down Shakhriyar Mamedyarov in Round 2 of the Sinquefield Cup to catch Magnus Carlsen in the lead after the World Champion made a quiet draw against Levon Aronian. Ian Nepomniachtchi bounced back to beat Alireza Firouzja, while Fabiano Caruana missed two huge chances against Leinier Dominguez.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-2-niemann-catches-carlsen",
+         "pubDate" : "Sun, 04 Sep 2022 07:49:04 +0000",
+         "title" : "Sinquefield Cup 2: Niemann catches Carlsen"
+      },
+      {
          "description" : "The final leg of the 2022 Grand Chess Tour Sinquefield Cup reaches the third round today. The R3 features a clash between the two USA elite grandmasters Wesley So and Fabiano Caruana. Both players drew the first two rounds, scoring 1/2 points to tie for the third place on the current rankings. Sinquefield Cup []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -70,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-2",
-         "pubDate" : "Sat, 03 Sep 2022 18:55:55 -0700",
+         "pubDate" : "Sat, 03 Sep 2022 18:55:00 -0700",
          "title" : "King Hans Lets Chess Speak For Itself"
       },
       {
@@ -215,7 +239,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/would-the-world-championship-match-between-carlsen-and-nepo-be-t/",
          "pubDate" : "Sat, 03 Sep 2022 08:58:04 +0000",
-         "title" : "Would the World Championship match between Carlsen and Nepo be that indifferent?"
+         "title" : "Another Championship Match Between Carlsen and Nepo Would Be Boring"
       },
       {
          "description" : "Only two pawns left on each side, equal material - and yet from the diagram position White wins by force. Five moves, one leitmotif - enjoy!",
@@ -1362,14 +1386,6 @@ news_feed (
          "title" : "Vincent Keymer wins German Masters 2022"
       },
       {
-         "description" : "In his \"Game of the Week\" show #530 Merijn van Delft looks at a fine attacking game by the young German Grandmaster Frederik Svane. At the German Masters Svane won against Daniel Fridman, a player who is notoriously hard to beat. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-530-f-svane-vs-d-fridman",
-         "pubDate" : "Wed, 24 Aug 2022 19:00:00 +0100",
-         "title" : "Game of the Week #530: F. Svane vs D. Fridman"
-      },
-      {
          "description" : "Play Magnus Group (PMG), that includes chess24, has received an offer from Chess.com that may see the two companies join forces. The offer values PMG at around $82.5 million and will take around two months to finalise, subject to shareholder approval and other closing conditions. Magnus Carlsen commented, \"now we are entering a new era, and the combination of these two companies creates opportunities for the game of chess that no-one has imagined before\".",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/minh-le-dubov-win-titled-tuesday-august-23-2022",
          "pubDate" : "Wed, 24 Aug 2022 10:05:00 -0700",
          "title" : "Magnus Crashes Titled Tuesday Again"
-      },
-      {
-         "description" : "Beating weaker opponents is important for having success in chess, and the better you play, the more important this skill is. However, even Magnus Carlsen (pictured), the world's number one since July 2011, sometimes goes wrong when facing much lower-rated opponents. In the 13th installment of his \"Winning Academy\" Jan Markos takes a look at typical mistakes that often occur when facing weaker opponents and indicates how to correct them. | Photo: Magnus Carlsen in Wijk aan Zee 2015 | Photo: Nadja Wittmann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-13-facing-a-weaker-opponent-avoid-these-mistakes",
-         "pubDate" : "Wed, 24 Aug 2022 17:00:00 +0100",
-         "title" : "The Winning Academy 13: Facing a Weaker Opponent? Avoid these mistakes!"
       },
       {
          "description" : "Chess.com is excited to announce that we have submitted an offer for Play Magnus Group (PMG) to join Chess.com. Magnus Carlsen and the management at Play Magnus are enthusiastic and have accepted the offer. We expect that it will take about 6-8 we...",
@@ -1874,14 +1882,6 @@ news_feed (
          "title" : "FIDE Book Awards 2022"
       },
       {
-         "description" : "\"The chess speaks for itself!\" said Hans Niemann after crushing Magnus Carlsen in Game 1 of their match, but Magnus stormed back to win 3:1. Anish Giri had joked that he was babysitting Praggnanandhaa, but a blunder in the last game saw the 17-year-old Indian join Magnus on a perfect score. Levon Aronian is 3rd after beating Jan-Krzysztof Duda on tiebreaks while Alireza Firouzja picked up a first win, over Liem Le.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-2-carlsen-plays-1-a3-leads-with-pragg",
-         "pubDate" : "Wed, 17 Aug 2022 10:27:50 +0000",
-         "title" : "FTX Crypto Cup 2: Carlsen plays 1.a3, leads with Pragg"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/old-but-reliable.html",
          "pubDate" : "Sun, 14 Aug 2022 13:39:00 +0000",
          "title" : "Old but reliable"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1916",
-         "pubDate" : "Sun, 14 Aug 2022 08:33:35 +0000",
-         "title" : "FIDE establishes an Advisory Board"
       }
    ]
 }
