@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Sun, 04 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after a draw with Wesley So in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i-didnt-see-29ke2-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EsgAehu3IZI.jpg?itok=pZgye_56\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-i-didnt-see-29ke2-round-2",
+         "pubDate" : "Sun, 04 Sep 2022 18:27:58 +0000",
+         "title" : "MVL: I Didn't See 29.Ke2! | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-2",
+         "pubDate" : "Sun, 04 Sep 2022 18:27:58 +0000",
+         "title" : "2022 Sinquefield Cup: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-4-lichessorg",
+         "pubDate" : "Sun, 04 Sep 2022 18:27:58 +0000",
+         "title" : "2022 Sinquefield Cup: Round 4 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-3-lichessorg",
+         "pubDate" : "Sun, 04 Sep 2022 18:27:58 +0000",
+         "title" : "2022 Sinquefield Cup: Round 3 | lichess.org"
+      },
+      {
+         "description" : " What do you make of this position? This position was displayed recently by popular chess Twitter personality and adult improver Neal Bruce, taken from Silman's Reassess Your Chess (4th edition). It's suitable for players rated 1600-2000. White to move: what would you play and why? Well, what do you think? This position interested me for <a href=\"https://chessimprover.com/a-positional-question/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Positional Question\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-positional-question/\">A Positional Question</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-positional-question/",
+         "pubDate" : "Sun, 04 Sep 2022 18:22:52 +0000",
+         "title" : "A Positional Question"
+      },
+      {
+         "description" : "Finally, we can experience the very first Fritztrainer by GM Dorian Rogozenco. And what a Fritztrainer it is. More than 8 hours of material, featuring some of the greatest classical games ever played! Time to meet the Fritztrainer, and ask him what he is doing besides chess. As a little special, Dorian will give us a sneak peek of his Fritztrainer, and talk about the ideas, and inspirations of the classical games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-dorian-rogozenco",
+         "pubDate" : "Sun, 04 Sep 2022 17:00:00 +0100",
+         "title" : "Meet The Fritztrainer - Dorian Rogozenco"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93988206.cms\" />Grandmaster Aravindh Chithambaram clinched the 22nd Dubai Open on Sunday after drawing his final round against compatriot R Praggnanandhaa. Aravindh finished with 7.5 points from 9 rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/tns-aravindh-chithambaram-wins-dubai-open/articleshow/93988206.cms",
+         "pubDate" : "Sun, 04 Sep 2022 15:38:39 +0000",
+         "title" : "TN's Aravindh Chithambaram wins Dubai Open"
+      },
+      {
+         "description" : "The two \"heroines\" of ChessBase Magazine #209 were already decided before the Chennai Olympiad had even started. And then the Ukrainian sisters Anna and Mariya Muzychuk actually led their team to gold! One more reason to pay tribute to the two top players in CBM. In the new issue, a selection of 21 games with detailed commentary awaits you, as well as Mihail Marin's strategy article \"The Muzychuk sisters\" and an endgame Special by Karsten Mueller (both including videos). Krisztian Szabo has chosen the encounter Mariya Muzychuk - Alexander Bagrationi (2018) for his analysis - certainly also because of the \"great finish\". Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-209-special-anna-and-mariya-muzychuk",
+         "pubDate" : "Sun, 04 Sep 2022 16:00:00 +0100",
+         "title" : "CBM #209 \"Special\": Anna and Mariya Muzychuk"
+      },
+      {
+         "description" : "The 22nd edition of the Dubai Chess Open 2022 took place from 27 August &#x2013; 5 September at the Dubai Chess &#38; Culture Club. The tournament was played in 9 rounds, swiss system, with time control 90 minutes for the whole game + 30 seconds of increment per each move, starting from the move one. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-aravindh-chithambaram-clinches-dubai-chess-open-2022/",
+         "pubDate" : "Sun, 04 Sep 2022 14:47:32 +0000",
+         "title" : "GM Aravindh Chithambaram clinches Dubai Chess Open 2022"
+      },
+      {
+         "description" : "The 4th edition of the&#160;International Chess Open San Cristobal de La Laguna 2022&#160;took place from 27 August to 3 September 2022 in San Cristobal de La Laguna, a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event attracted more than 140 players from 15 countries who competed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-tomas-sosa-wins-the-international-chess-open-san-cristobal-de-la-laguna-2022/",
+         "pubDate" : "Sun, 04 Sep 2022 14:30:58 +0000",
+         "title" : "IM Tomas Sosa wins the International Chess Open San Cristobal de La Laguna 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93985590.cms\" />Six-year-old Anishka Biyani won gold medal in the Malaysian Age Group Rapid Chess Championship at Kuala Lumpur on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/mumbai-girl-anishka-biyani-wins-gold-medal-in-malaysian-chess-meet/articleshow/93985590.cms",
+         "pubDate" : "Sun, 04 Sep 2022 12:37:33 +0000",
+         "title" : "Mumbai girl Anishka Biyani wins gold medal in Malaysian Chess Meet"
+      },
+      {
          "description" : "There are some ideas which the meanest members of the 'silicon brotherhood' will flag up immediately but are way beyond our normal human compass. The move that inspired this column is one which is hard to imagine ever being found in a blitz game but might be within the range of a world-class player in a classical game if not in time trouble: Vasyl Ivanchuk, say. | Pictured: Jos&eacute; Ra&uacute;l Capablanca",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +112,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-208-maxime-shines-and-matthias-scores-review-by-nagesh-havanur",
          "pubDate" : "Sun, 04 Sep 2022 13:00:00 +0100",
          "title" : "CBM 208: Maxime shines and Matthias scores - Review by Nagesh Havanur"
+      },
+      {
+         "description" : "World No. 13 GM Richard Rapport has officially transferred to Romanian Chess Federation today. The transfer started in late May and concluded today with the Hungarian Chess Federation losing one of its greatest chess geniuses. Together with Richard, his wife WGM Jovana Rapport completed the transfer from Serbian to Romanian Chess Federation earlier in August. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/breaking-richard-rapport-will-play-for-romania/",
+         "pubDate" : "Sun, 04 Sep 2022 11:53:38 +0000",
+         "title" : "BREAKING: Richard Rapport will play for Romania"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1964",
+         "pubDate" : "Sun, 04 Sep 2022 09:22:12 +0000",
+         "title" : "2022 Sinquefield Cup - Day 2 Recap"
       },
       {
          "description" : "Hans Niemann took down Shakhriyar Mamedyarov in Round 2 of the Sinquefield Cup to catch Magnus Carlsen in the lead after the World Champion made a quiet draw against Levon Aronian. Ian Nepomniachtchi bounced back to beat Alireza Firouzja, while Fabiano Caruana missed two huge chances against Leinier Dominguez.",
@@ -146,36 +258,12 @@ news_feed (
          "title" : "Aronian: Had to Play Solidly | Round 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> St. Louis Blues Forward Robert Thomas talks to Anastasiya Karlovich during the first round of the 2022 Sinquefield Cup. This aired during Round 2. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/stl-blues-robert-thomas-followed-carlsen-longest-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qhmSf0XrZBc.jpg?itok=h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/stl-blues-robert-thomas-followed-carlsen-longest-round-1",
-         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
-         "title" : "STL Blues Robert Thomas: Followed Carlsen the Longest | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after a draw with Wesley So in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i-didnt-see-29-ke2-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EsgAehu3IZI.jpg?itok=pZgye_56\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-i-didnt-see-29-ke2-round-2",
-         "pubDate" : "Sat, 03 Sep 2022 21:27:31 +0000",
-         "title" : "MVL: I didn't see 29. Ke2! | Round 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1963",
          "pubDate" : "Sat, 03 Sep 2022 21:11:01 +0000",
          "title" : "2022 Sinquefield Cup - Day 1 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-3",
-         "pubDate" : "Sat, 03 Sep 2022 18:27:20 +0000",
-         "title" : "2022 Sinquefield Cup: Round 3"
       },
       {
          "description" : " The 2002 Sinquefield Cup started with one decisive game, and 4 draws. The one decisive game involved Magnus Carlsen and Ian Nepomniachtchi , and resulted in another victory for Carlsen. Having gone through the game a few times, I'm still not sure what really happened, as Carlsen's position did not look appreciably better, until Nepo kind of fell apart. If I had to criticise a move 23 ... c5 did not look right to me, although Stockfish thinks it is perfectly fine. The problem I had with this move was that it created a target for White to aim at, and eventually Black misplayed the defence. Of course just sitting on the position might have resulted in a different set of problems for Black, and",
@@ -208,30 +296,6 @@ news_feed (
          "link" : "https://www.thearticle.com/egregious-viceroys-the-uzbek-impact-on-chess/",
          "pubDate" : "Sat, 03 Sep 2022 10:20:50 +0000",
          "title" : "Egregious viceroys: the Uzbek impact on chess"
-      },
-      {
-         "description" : "Happy birthday to&#xA0;Arjun Erigaisi! Chessdom.com wishes him a bright future and beautiful games on the chess board!&#xA0;The 19-year-old Indian grandmaster&#xA0;joined the 2700 club last month, after an outstanding performance at the Chess Olympiad 2022. Erigaisi was the second best individual player of Board 3 at the Olympiad (see the list of best individual players here) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-19th-birthday-to-arjun-erigaisi/",
-         "pubDate" : "Sat, 03 Sep 2022 10:06:43 +0000",
-         "title" : "Happy 19th birthday to Arjun Erigaisi!"
-      },
-      {
-         "description" : "American Rapper and record producer, Sir Robert Bryson Hall known professionally as&#160;Logic, yesterday paid a visit to the 2022 Sinquefield Chess Cup. The American Rapper who has released seven studio albums and received two Grammy Award nominations was spotted playing chess against Robert Thomas, a Canadian professional ice hockey centre for the St. Louis Blues []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/american-rapper-logic-and-famous-hockey-player-robert-thomas-paid-a-visit-to-the-2022-sinquefield-cup/",
-         "pubDate" : "Sat, 03 Sep 2022 09:49:22 +0000",
-         "title" : "American Rapper Logic and famous hockey player Robert Thomas paid a visit to the 2022 Sinquefield Cup"
-      },
-      {
-         "description" : "7-year-old Kushal Jakhria is the youngest English player to reach a 2000 national rating! With two victories and one draw at the Leyland Open U2200, Kushal crossed the 2000 ECF national rating, breaking the age record of Abhimanyu Mishra who became the youngest US player to get the rating of 2000. Mishra crossed this rating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kushal-jakhria-becomes-the-youngest-player-to-reach-a-2000-national-rating/",
-         "pubDate" : "Sat, 03 Sep 2022 09:25:08 +0000",
-         "title" : "Kushal Jakhria becomes the youngest player to reach a 2000 national rating"
       },
       {
          "description" : " <p class=\"lead\">The final event of the Grand Chess Tour, the Sinquefield Cup, started yesterday with the wildcard, Magnus Carlsen, crushing Ian Nepomniachtchi in Round 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Ian-Neponiachchi-Magnus-Carlsen-Grand-Chess-tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Bryan Adams, Grand Chess Tour</div> </div> A bit more than a month ago the reigning World Champion Magnus Carlsen announced that he will not defend his title in 2023 against Nepo, who had just won the Candidates 2022. Many talked about a foolish decision but would the Championship match be any different than the previous o",
@@ -280,14 +344,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-1-carlsen-crushes-nepo",
          "pubDate" : "Sat, 03 Sep 2022 06:35:33 +0000",
          "title" : "Sinquefield Cup 1: Carlsen crushes Nepo"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after a draw against Caruana in the first round of the 2022 Sinquefield Cup. 2022.09.02<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-misevaluated-rook-endgame-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qgN4p8HBL3A.jpg?itok=P6TB3iRq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-misevaluated-rook-endgame-round-1",
-         "pubDate" : "Sat, 03 Sep 2022 00:26:46 +0000",
-         "title" : "Firouzja: Misevaluated the Rook Endgame | Round 1"
       },
       {
          "description" : "GM Kateryna Lagno defeated defending champion, GM Hou Yifan, in the final of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. The determination and attacking styles of these two grandmasters made this match a riveting duel of mi...",
@@ -1330,14 +1386,6 @@ news_feed (
          "title" : "Indian teenage Grandmaster Arjun Erigaisi clinches Abu Dhabi Masters"
       },
       {
-         "description" : "The well-known grandmaster and author Lubomir Kavalek passed away last year in January. A prolific writer, he penned dozens of well-read chess columns, including one he shared on ChessBase over the years. Here we reproduce one from February 2017, in which Kavalek shows us a failed queen sacrifice by Jan Timman against him, and Caruana's successful 19.Qxf6!! sac against Nakamura at the London Chess Classic.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-queen-sacrifices",
-         "pubDate" : "Thu, 25 Aug 2022 11:40:00 +0100",
-         "title" : "Throwback Thursday: Kavalek dissects two queen sacrifices"
-      },
-      {
          "description" : " The Saint Louis Rapid & Blitz takes place 26th to 30th August starting at 1pm local time, 7pm UK time. Players: Alireza Firouzja, Fabiano Caruana, Levon Aronian, Shakhriyar Mamedyarov, Jeffery Xiong (replacing Richard Rapport who can't make it due to Covid-19 restrictions), Maxime Vachier-Lagrave, Leinier Dominguez, Ian Nepomniachtchi, Hikaru Nakamura andSam Shankland. Three days of Rapid and two of Blitz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1352,22 +1400,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-blitz-2022-regional-qualifiers-now-taking-entries/",
          "pubDate" : "Thu, 25 Aug 2022 08:00:28 +0000",
          "title" : "Entries open for the UK Blitz - first regional event on Monday 29th August!"
-      },
-      {
-         "description" : "A field with well-established GMs and young stars fought it off in Miami at the FTX Crypto Cup. Our in-house expert Karsten M&uuml;ller closely followed the games looking to find the most intriguing and instructive ending positions. Do not miss his on-point analyses! | Pictured: Levon Aronian | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ftx-crypto-cup-2022-endgames-3",
-         "pubDate" : "Thu, 25 Aug 2022 08:50:00 +0100",
-         "title" : "Endgames from Miami (3)"
-      },
-      {
-         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, will be played on August 26-30. The last rapid and blitz event of the series will host ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. Jeffery Xiong (pictured) will replace Richard Rapport, who could not make it to Saint Louis due to travel restrictions related to Covid-19. | Photo: Austin Fuller (2021)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-preview",
-         "pubDate" : "Thu, 25 Aug 2022 02:50:00 +0100",
-         "title" : "Starting Friday: Saint Louis Rapid & Blitz"
       },
       {
          "description" : "GM Vladimir Fedoseev defeated GM Eric Hansen in the Qualifier 1 final of the 2022 Fischer Random World Championship on Wednesday. These two imaginative and tenacious players fought to an armageddon playoff in this captivating chess variant. The ...",
@@ -1968,22 +2000,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/14/the-importance-of-chess-analytics/",
          "pubDate" : "Mon, 15 Aug 2022 02:00:00 +0000",
          "title" : "The Importance of Analytics for Chess Federations"
-      },
-      {
-         "description" : "This video is not for chess players. I'm not sure who the target audience is, but it would take me several viewings to start to understand it. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/crKNBSpO2_I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Lichess @ Big Techday 22: Serving 5 Million Chess Games a Day with 125 Volunteers and €5 Donations</B> (49:16) &#149; '[Published on] Aug 10, 2022' <P>The description says, <BLOCKQUOTE>T. Alexander Lystad (@arex) spoke about Lichess technology, architecture and scaling at TNG's Big Techday confer",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/inside-lichess.html",
-         "pubDate" : "Sun, 14 Aug 2022 15:22:00 +0000",
-         "title" : "Inside Lichess"
-      },
-      {
-         "description" : " The next miniature from the 2022 Olympiad involves an old idea that still seems to catch a lot of victims. I've seen shorter versions of this trap work against the Morra Gambit, but in this case it is against a more mainline Sicilian. <br /> <b>Dobrovoljc,Vid (2398) - Diamant,Andre (2538) [B30]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (11.4), 09.08.2022 <script>new PgnViewer( { boardName: \"game1342\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Nxd5 8.d4 Be7 9.dxc5 O-O 10.Nbd2 Bxc5 11.Ne4 Be7 12.c4 Nf6 13.Qc2 Qc7 14.Bg5 Ng4 15.h3 Nd4 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1342",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/old-but-reliable.html",
-         "pubDate" : "Sun, 14 Aug 2022 13:39:00 +0000",
-         "title" : "Old but reliable"
       }
    ]
 }
