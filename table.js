@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2022-09-02","27","<a href=http://www.uschess.org/msa/XtblMain.php?202209024112 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2022-09-02","26","<a href=http://www.uschess.org/msa/XtblMain.php?202209024032 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-08-30","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208302912 target='_blank'>RCC QUADS AUGUST 30, 2022</a>",
 "HOUSTON","2022-08-28","17","<a href=http://www.uschess.org/msa/XtblMain.php?202208281832 target='_blank'>AUGUST 28 SUNDAY SWISS</a>",
 "HOUSTON","2022-08-27","42","<a href=http://www.uschess.org/msa/XtblMain.php?202208272642 target='_blank'>AUGUST SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2021-11-13  - 11-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202111145652 target='_blank'>HOUSTON $1,000 TURKEY SHOOT</a>",
 "SPRING","2021-11-12","17","<a href=http://www.uschess.org/msa/XtblMain.php?202111123662 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-11-12","8","<a href=http://www.uschess.org/msa/XtblMain.php?202111123622 target='_blank'>FBCC 2021 NOVEMBER JOY OPEN</a>",
-"CYPRESS","2021-11-12","28","<a href=http://www.uschess.org/msa/XtblMain.php?202111123582 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2021-11-07","4","<a href=http://www.uschess.org/msa/XtblMain.php?202111072392 target='_blank'>NOVEMBER 7 SUNDAY SWISS</a>",
 ]);
