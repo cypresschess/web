@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final leg of the 2022 Grand Chess Tour Sinquefield Cup reaches the third round today. The R3 features a clash between the two USA elite grandmasters Wesley So and Fabiano Caruana. Both players drew the first two rounds, scoring 1/2 points to tie for the third place on the current rankings. Sinquefield Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-vs-fabiano-caruana-sinquefield-cup-2022-r3-live/",
+         "pubDate" : "Sun, 04 Sep 2022 06:46:31 +0000",
+         "title" : "Wesley So vs Fabiano Caruana, Sinquefield Cup 2022 R3 LIVE"
+      },
+      {
+         "description" : "The third round of the 2022 Sinquefield Cup is scheduled for today and starts at 13:00 CDT. One of the five interesting matches will be seen between World Chess Champion Magnus Carlsen and 19-year-old USA grandmaster Hans Niemann. After yesterday's victory over Shakhriyar Mamedyarov, Hans Niemann has joined Magnus Carlsen in the co-lead of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hans-moke-niemann-sinquefield-cup-2022-r3-live/",
+         "pubDate" : "Sun, 04 Sep 2022 06:44:49 +0000",
+         "title" : "Magnus Carlsen vs Hans Moke Niemann, Sinquefield Cup 2022 R3 LIVE"
+      },
+      {
+         "description" : "Round 2 of the 2022 Sinquefield Cup saw tournament underdog Hans Niemann score his first win of the event, defeating Shakhriyar Mamedyarov to join the early lead alongside Magnus Carlsen, who drew with Levon Aronian. Meanwhile the 2022 FIDE Candidates winner, Ian Nepomniachtchi bounced back from yesterday&#x2019;s loss to defeat Alireza Firouzja in fine technical []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-and-magnus-carlsen-in-the-joint-lead-at-the-sinquefield-cup-2022-day-2-recap/",
+         "pubDate" : "Sun, 04 Sep 2022 06:42:08 +0000",
+         "title" : "Hans Niemann and Magnus Carlsen in the joint lead at the Sinquefield Cup 2022"
+      },
+      {
+         "description" : "Magnus Carlsen maintained the leadership of the 2022 Sinquefield Cup as he drew the 2nd round game against Levon Aronian. The game finished in an uneventful draw, without many chances for any of the players to seek for a better result. In the post-game interview, Carlsen explained that he used the same variation in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-after-the-quick-draw-against-aronian-i-used-the-same-line-against-him-in-the-2013-candidates/",
+         "pubDate" : "Sun, 04 Sep 2022 06:35:04 +0000",
+         "title" : "Magnus Carlsen after the quick draw against Aronian: I used the same line against him in the 2013 Candidates"
+      },
+      {
+         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which will be played in 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-3-live/",
+         "pubDate" : "Sun, 04 Sep 2022 06:31:59 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 3 LIVE"
+      },
+      {
+         "description" : "The 22nd edition of the Dubai Chess Open&#160;is currently ongoing at the Dubai Chess &#38; Culture Club and eight rounds have been already played. More than 180 players from 35 countries fight for the total prize fund of 50.000$, and with only one round to go, Indian grandmaster Aravindh Chithambaram emerged as the sole leader []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aravindh-chithambaram-in-the-sole-lead-at-the-dubai-chess-open-2022/",
+         "pubDate" : "Sun, 04 Sep 2022 06:26:53 +0000",
+         "title" : "Aravindh Chithambaram in the sole lead at the Dubai Chess Open 2022"
+      },
+      {
+         "description" : "19-year-old USA grandmaster Hans Niemann yesterday scored his first ever victory against a player who is rated 2750+. He defeated Shakhriyar Mamedyarov in the 2nd round of the Sinquefield Cup 2022, and after a wild game, showed a perfect technique in the Queens endgame in the end. In the post-game interview, Niemann was surprised with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-its-not-a-surprise-for-me-that-i-am-beating-the-top-level-players/",
+         "pubDate" : "Sun, 04 Sep 2022 06:13:00 +0000",
+         "title" : "Hans Niemann: It's not a surprise for me that I am beating the top-level players"
+      },
+      {
          "description" : "Hans Niemann joined Magnus Carlsen in the lead of the Sinquefield Cup by beating Shakhriyar Mamedyarov with the white pieces in Saturday's second round. The tournament underdog kicked off the event with two whites and is set to face Carlsen with black in round 3. Meanwhile, Ian Nepomniachtchi bounced back from his first-round loss against the world champion by beating the winner of the Saint Louis Rapid & Blitz tournament, Alireza Firouzja. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,14 +218,6 @@ news_feed (
          "title" : "Would the World Championship match between Carlsen and Nepo be that indifferent?"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen had a perfect start at the 2022 Sinquefield Cup. He defeated Ian Nepomniachtchi taking the early lead in the event as the only player who delivered a victory in the Round 1 (Replay the game here). Analyzing the game against Nepo, Magnus explained that Ian made lots of inaccuracies during []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-analyzes-his-victory-over-nepo-he-played-too-fast-at-critical-moments/",
-         "pubDate" : "Sat, 03 Sep 2022 08:10:48 +0000",
-         "title" : "Magnus Carlsen analyzes his victory over Nepo: He played too fast at critical moments"
-      },
-      {
          "description" : "Only two pawns left on each side, equal material - and yet from the diagram position White wins by force. Five moves, one leitmotif - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,52 +242,12 @@ news_feed (
          "title" : "Sinquefield Cup: Carlsen beats Nepo"
       },
       {
-         "description" : "The final leg of the 2022 Grand Chess Tour series of tournaments the Sinquefield Cup&#xA0;kicked off yesterday in Saint Louis, USA.&#xA0;Only one game of the first round finished with a decisive result. It was World Chess Champion Magnus Carlsen who delivered a victory against Ian Nepomniachtchi taking the early lead in the event. Day []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-vs-alireza-firouzja-sinquefield-cup-2022-r2-live/",
-         "pubDate" : "Sat, 03 Sep 2022 07:48:54 +0000",
-         "title" : "Ian Nepomniachtchi vs Alireza Firouzja, Sinquefield Cup 2022 R2 LIVE"
-      },
-      {
          "description" : "The 2022 Sinquefield Cup came off to a good start with one win and four draws. The win came courtesy of World Champion Magnus Carlsen who in convincing fashion took down the recent winner of the 2022 Candidates Tournament, GM Ian Nepomniachtchi. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-1",
          "pubDate" : "Sat, 03 Sep 2022 00:34:00 -0700",
          "title" : "Machine-like Efficiency By Carlsen To Beat Nepomniachtchi"
-      },
-      {
-         "description" : "The 2022 Sinquefield Cup kicked off yesterday in Saint Louis, USA. World Chess Champion Magnus Carlsen had a perfect start and defeated Ian Nepomniachtchi taking the early lead in the tournament. (Replay the game here)Carlsen today meets Levon Aronian and has Black pieces. Sinquefield Cup 2022: Pairings &#38; Schedule / Live games / Day 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-vs-magnus-carlsen-sinquefield-cup-2022-r2-live/",
-         "pubDate" : "Sat, 03 Sep 2022 07:21:26 +0000",
-         "title" : "Levon Aronian vs Magnus Carlsen, Sinquefield Cup 2022 R2 LIVE"
-      },
-      {
-         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#160;series&#160;will take place from 17-30 September 2022 in Nursultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#160;Aleksandra Goryachkina&#160;and includes&#160;Katerina Lagno,&#160;Tan Zhongyi,&#160;Alexandra Kosteniuk,&#160;Polina Shuvalova,&#160;Alina Kashlinskaya,&#160;Zhansaya Abdumalik,&#160;Elisabeth Paehtz,&#160;Zhu Jiner,&#160;Bibisara Assaubayeva,&#160;Dinara Wagner&#160;and&#160;Vaishali R&#160;who&#160;replaced Koneru Humpy. FIDE Women's Grand Prix 2022-2023: All information&#160;/&#160;Final list of participants and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022-pairings-timetable/",
-         "pubDate" : "Sat, 03 Sep 2022 07:07:36 +0000",
-         "title" : "FIDE Women's Grand Prix Nur-Sultan 2022 - Pairings & Timetable"
-      },
-      {
-         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which will be played in 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-2-live/",
-         "pubDate" : "Sat, 03 Sep 2022 06:49:25 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 2 LIVE"
-      },
-      {
-         "description" : "The 2022 Sinquefield Cup kicked off with a bang today as World Champion Magnus Carlsen defeated World No.3 Ian Nepomniachtchi in a clean first round game. Meanwhile, all four other games in the round were drawn, netting Carlsen the early lead in the final stop of the 2022 Grand Chess Tour. Check out the full []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-takes-early-lead-in-the-sinquefield-cup-2022-day-1-recap/",
-         "pubDate" : "Sat, 03 Sep 2022 06:42:47 +0000",
-         "title" : "Carlsen takes early lead in the Sinquefield Cup 2022 - Day 1 Recap"
       },
       {
          "description" : "Magnus Carlsen has now won 5 of his last 7 classical games against Ian Nepomniachtchi as he eased to victory against his World Championship challenger in Round 1 of the Sinquefield Cup. All the other games were drawn, with Fabiano Caruana and Levon Aronian given scares by 19-year-olds Alireza Firouzja and Hans Niemann.",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-wscc-finals-lagno-hou",
          "pubDate" : "Fri, 02 Sep 2022 15:09:00 -0700",
          "title" : "Infinite Fight: Lagno Overcomes Hou, Clinches WSCC Crown"
-      },
-      {
-         "description" : "The first leg of the FIDE Women&#x2019;s Grand Prix 2022/2023 series&#xA0;will take place from 17-30 September 2022 in Nursultan, Kazakhstan. The event will be played as a twelve-player round-robin tournament with time control: 90 minutes for the first 40 moves, followed by 30 minutes for the rest of the game with an increment of 30 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022/",
-         "pubDate" : "Fri, 02 Sep 2022 22:05:19 +0000",
-         "title" : "FIDE Women's Grand Prix Nur-Sultan 2022"
       },
       {
          "description" : "",
@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1916",
          "pubDate" : "Sun, 14 Aug 2022 08:33:35 +0000",
          "title" : "FIDE establishes an Advisory Board"
-      },
-      {
-         "description" : " Some thoughts from my good friend Ray Cannon on bishop endings. It is often mentioned that you shouldn't put pawns on the same colour the bishop controls but I don't ever recall hearing mentioned that you shouldn't put your king on the same colour as your bishop in the endgame! In my opinion doing so <a href=\"https://chessimprover.com/bishop-endings-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Endings\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-endings-2/\">Bishop Endings</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/bishop-endings-2/",
-         "pubDate" : "Sun, 14 Aug 2022 06:50:03 +0000",
-         "title" : "Bishop Endings"
       }
    ]
 }
