@@ -1,6 +1,7 @@
 jtable([
 "HOUSTON","2022-09-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202209044942 target='_blank'>SEPT 4 SUNDAY SWISS</a>",
 "HOUSTON","2022-09-03","19","<a href=http://www.uschess.org/msa/XtblMain.php?202209035102 target='_blank'>SEPT 3 SATURDAY CHESS SATURNIGHT BL</a>",
+"HOUSTON","2022-09-03","18","<a href=http://www.uschess.org/msa/XtblMain.php?202209034722 target='_blank'>SATURNIGHT BLITZ</a>",
 "SPRING","2022-09-02","27","<a href=http://www.uschess.org/msa/XtblMain.php?202209024112 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-09-02","26","<a href=http://www.uschess.org/msa/XtblMain.php?202209024032 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-08-30","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208302912 target='_blank'>RCC QUADS AUGUST 30, 2022</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-11-20","202","<a href=http://www.uschess.org/msa/XtblMain.php?202111207892 target='_blank'>TCR: NOVEMBER CHESS FLURRY</a>",
 "SPRING","2021-11-19","30","<a href=http://www.uschess.org/msa/XtblMain.php?202111197432 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-11-19","16","<a href=http://www.uschess.org/msa/XtblMain.php?202111197382 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2021-11-13  - 11-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202111145652 target='_blank'>HOUSTON $1,000 TURKEY SHOOT</a>",
 ]);
