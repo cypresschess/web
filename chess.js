@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The August issue of BCM is dedicated to the centenary of the great London 1922 tournament which saw the greatest players in the world take part, including Jose Raul Capablanca who appeared in public for the first time since winning the World Title. With century-old comments about the tournament and photos, and with contemporary reviews of the event and the opening theory, the August issue of BCM includes everything you need to know about the great London 1922 event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/t-r-dawson-impressions-and-gossip",
+         "pubDate" : "Mon, 05 Sep 2022 16:00:00 +0100",
+         "title" : "T.R.Dawson: Impressions and Gossip"
+      },
+      {
+         "description" : "There are three 16 year old players in world's top 20 junior list and all of them had a spectacular month of August. GM Gukesh impressed at the Chess Olympiad 2022 scoring 8,0/8 at the start. GM Javokhir Sindarov won the gold medal at the Chess Olympiad and won the key point for Uzbekistan in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/daniel-dardha-i-am-excited-about-crossing-the-2600-mark/",
+         "pubDate" : "Mon, 05 Sep 2022 14:41:13 +0000",
+         "title" : "Daniel Dardha, \"I am excited about crossing the 2600 mark\""
+      },
+      {
+         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after two rounds KSz Hetman Plock and GKS Katowice lead with 4/4. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 3 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
+         "pubDate" : "Mon, 05 Sep 2022 14:45:00 +0100",
+         "title" : "Polish \"Ekstraliga\" - live"
+      },
+      {
+         "description" : "Entries for this course https://www.englishchess.org.uk/ecf-arbiter-course-registration/ &#8212; will close at 5.00pm tomorrow September 6th. Please enter now if you plan to.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/level-1-arbiter-course-september-2022-closing-date/",
+         "pubDate" : "Mon, 05 Sep 2022 13:14:44 +0000",
+         "title" : "Level 1 Arbiter Course September 2022 closing date"
+      },
+      {
+         "description" : "The 5th edition of the Concello de Carballo Clasico took place from 26 August 3 September in Carballo, Spain. The event was played in 9 rounds, swiss system, and featured a prize fund of 5.000 euros. After 9 played rounds, four players tied for the first place scoring 7 points each. GM Vladimir Petkov []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-vladimir-petkov-wins-5th-concello-de-carballo-clasico/",
+         "pubDate" : "Mon, 05 Sep 2022 12:27:00 +0000",
+         "title" : "GM Vladimir Petkov wins 5th Concello de Carballo Clasico"
+      },
+      {
          "description" : "In his two-volume course \"Winning Chess Strategies\", French Grandmaster Romain Édouard shows how to play for a win, even when the position seems to be balanced and equal. Stefan Liebig reviewed the course for the German chess magazine \"Schachmagazin 64\" and liked what he saw.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/romain-edouard-s-winning-chess-strategies-a-review",
          "pubDate" : "Mon, 05 Sep 2022 13:19:52 +0100",
          "title" : "Romain Edouard's \"Winning Chess Strategies\" - a review"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94006369.cms\" />Grandmaster Aravindh Chithambaram was in the form of his life during the 22nd Dubai Open which concluded on Sunday. The 22-year-old, who won the tournament with 7.5 points from 9 rounds, spoke to TOI on the importance of the victory, taking inspiration from the young guns like R Praggnanandhaa, D Gukesh, Arjun Erigaisi and others and more.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/wasnt-expecting-to-win-the-dubai-open-aravindh-chithambaram/articleshow/94006369.cms",
+         "pubDate" : "Mon, 05 Sep 2022 12:07:53 +0000",
+         "title" : "Wasn't expecting to win the Dubai Open: Aravindh Chithambaram"
+      },
+      {
+         "description" : " In the 2006 Chess Olympiad I went through the event with 1 win, 3 losses and 9 draws(!). On reflection this was probably too many draws, and I should have made a greater effort to convert my advantages. However this was topped by a player at a recent schools event I ran. The player in question drew his first 6 games, and was well on his way to a 7th draw when his opponent instead lost on time. What was remarkable about these draws were that they were all stalemates and I'm pretty sure the player in question was winning in each position. As some of you might now suspect, they seemed to be K+Q v K positions that 'went wrong'. Certainly the two positions I observed fitted this description, and",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/the-draw-master.html",
+         "pubDate" : "Mon, 05 Sep 2022 12:04:00 +0000",
+         "title" : "The Draw Master"
+      },
+      {
+         "description" : " <p class=\"lead\">The lowest rating player of the Sinquefield Cup 2022, Hans Niemann, outplayed the World Champion Magnus Carlsen with the black pieces in Round 3 to cross 2700 in live ratings and grab sole lead of the tournament! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-Grand-Chess-Tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Grand Chess Tour</div> </div> \"Chess speaks for itself\" Hans Niemann stated after beating Magnus Carlsen at Crypto Cup 2022 in Miami. <a href=\"https://twitter.com/ChampChessTour/status/1559582921735938048\">https://twitter.com/ChampChessTour/status/15595829",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hans-niemann-beats-carlsen-to-cross-2700-at-the-sinquefield-cup/",
+         "pubDate" : "Mon, 05 Sep 2022 11:44:59 +0000",
+         "title" : "Hans Niemann beats Carlsen to cross 2700 at the Sinquefield Cup 2022"
       },
       {
          "description" : "The Poble de Montserrat Chess Open 2022 took place from August 29th September 4th in Montserrat, Spain. The event was played in 9 rounds, swiss system, with a total prize fund of ~2.500 euros. FM Nahun Gavarrete was the sole winner of the event as he scored convincing 7.5 points. After five consecutive victories []",
@@ -232,22 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-209-special-anna-and-mariya-muzychuk",
          "pubDate" : "Sun, 04 Sep 2022 16:00:00 +0100",
          "title" : "CBM #209 \"Special\": Anna and Mariya Muzychuk"
-      },
-      {
-         "description" : "The 22nd edition of the Dubai Chess Open 2022 took place from 27 August &#x2013; 5 September at the Dubai Chess &#38; Culture Club. The tournament was played in 9 rounds, swiss system, with time control 90 minutes for the whole game + 30 seconds of increment per each move, starting from the move one. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-aravindh-chithambaram-clinches-dubai-chess-open-2022/",
-         "pubDate" : "Sun, 04 Sep 2022 14:47:32 +0000",
-         "title" : "GM Aravindh Chithambaram clinches Dubai Chess Open 2022"
-      },
-      {
-         "description" : "The 4th edition of the&#160;International Chess Open San Cristobal de La Laguna 2022&#160;took place from 27 August to 3 September 2022 in San Cristobal de La Laguna, a city in the northern part of the island of Tenerife on the Canary Islands, Spain. The event attracted more than 140 players from 15 countries who competed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-tomas-sosa-wins-the-international-chess-open-san-cristobal-de-la-laguna-2022/",
-         "pubDate" : "Sun, 04 Sep 2022 14:30:58 +0000",
-         "title" : "IM Tomas Sosa wins the International Chess Open San Cristobal de La Laguna 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93985590.cms\" />Six-year-old Anishka Biyani won gold medal in the Malaysian Age Group Rapid Chess Championship at Kuala Lumpur on Sunday.",
@@ -1354,14 +1402,6 @@ news_feed (
          "title" : "The St. Louis Rapid & Blitz starts today! "
       },
       {
-         "description" : "Back-to-back wins in rounds 5 and 6 allowed Polish GM Monika Socko to grab the sole lead at the European Women's Championship in Prague. Two players, Gunay Mammadzada and Maria Gevorgyan, stand a half point back, as the participants will get a rest day before Saturday's seventh round. In round 7, Socko will play white against Gevorgyan, while Mammadzada will face top seed Nana Dzagnidze, also with white, on the second board. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2022-r6",
-         "pubDate" : "Fri, 26 Aug 2022 09:10:00 +0100",
-         "title" : "European Women's Championship: Socko leads midway through"
-      },
-      {
          "description" : " IM Kassa Korley preparing for the Round 9 game against GM Tiger Hillarp Persson.Photo by Dansk Skak Union. Kassa Korley has been fiercely competing in norm tournaments in an attempt to earn his 3rd and final Grandmaster norm. The New York City (Harlem) native created a stir while earning his second GM norm at the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/\">Kassa Korley seeking 3rd GM Norm</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1376,14 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1939",
          "pubDate" : "Thu, 25 Aug 2022 21:37:41 +0000",
          "title" : "Carlos Daniel Albornoz wins Mirandela Open 2022"
-      },
-      {
-         "description" : "This week Robert Ris will have a look at an interesting gambit which Black can use to spice things up after 1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4. With 4...e5!? Black indicates that he is ready to give a pawn to get good play. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-an-interesing-gambit",
-         "pubDate" : "Thu, 25 Aug 2022 20:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: An interesting gambit"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93784608.cms\" />The wrangling in the All India Chess Federation (AICF) refuses to die down as RN Dongre, who lost election last year, on Thursday claimed that he's the secretary of the body as per the National Sports Code.",
@@ -1970,14 +2002,6 @@ news_feed (
          "title" : "Praggnanandhaa beats Firouzja in FTX Crypto Cup chess"
       },
       {
-         "description" : "&#8212; from IPCA General Secretary Olexandr&#160;Prohorov I'd like to inform you that the IPCA (International Physically Disabled Chess Association) will be holding the 2nd IPCA...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2nd-ipca-world-individual-chess-championship-rapid-and-blitz/",
-         "pubDate" : "Tue, 16 Aug 2022 10:54:56 +0000",
-         "title" : "2nd IPCA World Individual Chess Championship Rapid and Blitz"
-      },
-      {
          "description" : "The ECU E-Magazine July 2022 is out! In the July 2022 edition of the ECU E-Magazine you may read about: Chess Olympiad 2022 in Chennai, India ECU General Assembly &#38; Elections 2022 FIDE General Assembly &#38; Elections 2022 European Senior Chess Championship 2022 European Youth Team Chess Championship 2022 European Youth Rapid&#38;Blitz Chess Championship 2022 European Amateur Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-july-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2000,22 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1922",
          "pubDate" : "Mon, 15 Aug 2022 22:07:39 +0000",
          "title" : "Carlsen turns up the heat as FTX Crypto Cup gets under way in Miami"
-      },
-      {
-         "description" : "Another two weeks have passed since the previous report on the world's leading, ongoing engine vs. engine competitions. Titled <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-frc5-leads-ccc18.html\">Stockfish Wins TCEC FRC5, Leads CCC18 Rapid Semifinal</A>(August 2022), the post can be summarized as follows:- <BLOCKQUOTE>TCEC: The site is currently conducting 'DFRC 1'. I'll cover the event on my chess960 blog, where I post twice a month. &#149; CCC: Leading the 'CCC18 Rapid' Semifinal stage are Stockfish, Dragon, and LC0, already by a comfortable margin over the other three engines </BLOCKQUOTE> <P>What's the current status? The TCEC is transitioning from S22 to S23, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html",
-         "pubDate" : "Mon, 15 Aug 2022 15:18:00 +0000",
-         "title" : "Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final"
-      },
-      {
-         "description" : " Toby Brookfield is quite a dangerous player when he gets an attack going, something I discovered when I played him at the 2010 Olympiad. In the most recent Olympiad, he opens with the Centre Game, and when his opponents fails to take in e4 on move 8, is able to directly target the king. Once Brookfield plays h6 he is completely winning, although it took a few more moves before his opponent also realised. <br /> <b>Brookfield,Toby (1815) - Naipal,Hoolan (1785) [C22]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (3.2), 31.07.2022 <script>new PgnViewer( { boardName: \"game1343\", movesFormat: \"default\", pgnString:'1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/through-centre-then-left-at-h-file.html",
-         "pubDate" : "Mon, 15 Aug 2022 13:09:00 +0000",
-         "title" : "Through the centre then left at the h file"
       }
    ]
 }
