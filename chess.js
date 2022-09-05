@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the tournament. Hans Niemann today played against Alireza Firouzja and missed his winning chances. The game ended in a draw with the perpetual check on the board. Replay the game here In the post-game interview, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-at-least-i-got-to-beat-magnus-carlsen-before-he-left/",
+         "pubDate" : "Mon, 05 Sep 2022 22:32:08 +0000",
+         "title" : "Hans Niemann: At least I got to beat Magnus Carlsen before he left"
+      },
+      {
+         "description" : "Magnus Carlsen withdrew from the Sinquefield Cup 2022 without a detailed explanation. The chess world was shaken by the breaking news and the rumors of Carlsen's possible reasons for withdrawal started spreading over social media. After the quick round 4 draw against Wesley So, Ian Nepomniachtchi gave a short post-game interview and commented on Magnus's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cups-players-and-organizers-react-to-carlsens-withdrawal-from-the-tournament/",
+         "pubDate" : "Mon, 05 Sep 2022 22:09:08 +0000",
+         "title" : "Sinquefield Cup's players and organizers react to Carlsen's withdrawal from the tournament"
+      },
+      {
          "description" : "Last Friday we showed you some unusual and interesting studies. You may have found them somewhat difficult to solve, on our replay diagrams, where in some cases an engine would defend against your attempts to win. Today we bring you the solutions, with full explanations, provided in video streams that anyone can follow.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,52 @@ news_feed (
          "title" : "Entertaining studies - solutions"
       },
       {
+         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022. With no detailed explanations, Carlsen said that Saint Louis Chess Club is one of the places he's always enjoyed playing, and that he hopes to be back in the future. On short notice, social medias were overwhelmed with rumors and Carlsen's possible reasons for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/possible-reasons-of-magnus-carlsens-withdrawal-from-the-sinquefield-cup-2022/",
+         "pubDate" : "Mon, 05 Sep 2022 21:44:10 +0000",
+         "title" : "Possible reasons of Magnus Carlsen's withdrawal from the Sinquefield Cup 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team reacts to the news that Magnus Carlsen has withdrawn from the event at the start of the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-magnus-carlsen-withdraws-sinquefield-cup-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CzCZYxAouCI.jpg?itok=rjqeodld",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/breaking-magnus-carlsen-withdraws-sinquefield-cup-round-4",
+         "pubDate" : "Mon, 05 Sep 2022 21:28:57 +0000",
+         "title" : "BREAKING: Magnus Carlsen Withdraws from Sinquefield Cup | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after his draw with Wesley So in the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-carlsen-niemann-%E2%80%9Cmore-impressive%E2%80%9D-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cEPmminIC7g.jpg?itok=QUToVG-e\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-carlsen-niemann-%E2%80%9Cmore-impressive%E2%80%9D-round-4",
+         "pubDate" : "Mon, 05 Sep 2022 21:28:57 +0000",
+         "title" : "Nepo: Carlsen-Niemann \"More Than Impressive\" | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after his draw with Dominguez in the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-all-my-colleagues-are-paranoid-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LUoc1PgJgRA.jpg?itok=q86wEcXZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-all-my-colleagues-are-paranoid-round-4",
+         "pubDate" : "Mon, 05 Sep 2022 21:28:57 +0000",
+         "title" : "Aronian: All My Colleagues are Paranoid | Round 4"
+      },
+      {
          "description" : " The 9th Sinquefield Cup takes place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
          "pubDate" : "Mon, 5 Sep 2022 23:34:00 +0400",
          "title" : "9th Sinquefield Cup 2022 - Games and Results"
+      },
+      {
+         "description" : "On Monday, GM Magnus Carlsen surprised the chess world by announcing that he was withdrawing from the 2022 Sinquefield Cup, tweeting his decision at the beginning of round four. I&#39;ve withdrawn from the tournament. I&#39;ve always enjoyed playing i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-withdraws-from-sinquefield-cup",
+         "pubDate" : "Mon, 05 Sep 2022 12:25:00 -0700",
+         "title" : "Magnus Carlsen Withdraws From Sinquefield Cup"
       },
       {
          "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament halfway. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5E80C7B1-CFA0-4697-847F-4FA496FCD632.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in New York during the World Chess Championship Match</div> </div> A day before, Carlsen lost to <a href=\"https://chessarena.com/profile/211968\">Hans Niemann</a>, a much lower-ranked player. According to chess-news, Niemann has been accused of cheating earlier in his career",
@@ -42,7 +98,7 @@ news_feed (
          "title" : "BREAKING: Magnus Carlsen Will Not Play Today | Round 4"
       },
       {
-         "description" : "After yesterday's tough loss to 19-year-old Hans Niemann, World Chess Champion Magnus Carlsen decided to withdraw from the Sinquefield Cup 2022. Carlsen didn't explain his reasons for withdrawal but only said that he always enjoyed playing in the Saint Louis Chess Club and that he hopes he will be back in the future. The first []",
+         "description" : "After yesterday's tough loss to 19-year-old Hans Niemann, World Chess Champion Magnus Carlsen decided to withdraw from the Sinquefield Cup 2022. Carlsen didn't explain his reasons for withdrawal but only said that he always enjoyed playing in the Saint Louis Chess Club and that he hopes he will be back in the future. Possible reasons []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/breaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022/",
@@ -202,36 +258,12 @@ news_feed (
          "title" : "Hans Niemann beats Magnus Carlsen to be in the sole lead of the Sinquefield Cup 2022"
       },
       {
-         "description" : "19-year-old USA grandmaster Hans Niemann yesterday defeated World Chess Champion Magnus Carlsen in the third round of the Sinquefield Cup 2022. Niemann broke Carlsen's strike of 53 unbeaten classical games, passed 2700 ELO on the live rating list, and emerged as the sole leader of the event. In the post-game interview, Hansen enjoyed the analysis []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-it-must-be-embarrassing-for-the-world-champion-to-lose-to-me/",
-         "pubDate" : "Mon, 05 Sep 2022 06:47:21 +0000",
-         "title" : "Hans Niemann: It must be embarrassing for the World Champion to lose to me"
-      },
-      {
          "description" : "\"It must be embarrassing for the World Champion to lose to me - I feel bad for him!\" said Hans Niemann after an incredible Round 3 of the Sinquefield Cup. He not only beat Magnus with the black pieces, ending a 53-game unbeaten streak, but also crossed 2700 on the live rating list and took the sole lead. That overshadowed big wins for Alireza Firouzja (over Levon Aronian) and Wesley So (over Fabiano Caruana).",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-3-niemann-beats-carlsen-to-cross-2700",
          "pubDate" : "Mon, 05 Sep 2022 06:20:37 +0000",
          "title" : "Sinquefield Cup 3: Niemann beats Carlsen to cross 2700"
-      },
-      {
-         "description" : "The Polish Prime Minister Mr. Mateusz Morawiecki congratulated GM Monika Socko on her triumph in the European Women's Chess Championship 2022 during the opening ceremony of the Polish Team Chess Championship 2022 (Enea Polish Ekstraliga). Monika Socko clinched the title of European Women's Individual Chess Champion for the first time in her career. With a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polish-pm-congratulated-gm-monika-socko-on-her-triumph-in-the-european-womens-chess-championship-2022/",
-         "pubDate" : "Mon, 05 Sep 2022 06:00:51 +0000",
-         "title" : "Polish PM congratulated GM Monika Socko on her triumph in the European Women's Chess Championship 2022"
-      },
-      {
-         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which will be played in 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-4-live/",
-         "pubDate" : "Mon, 05 Sep 2022 05:59:35 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 4 LIVE"
       },
       {
          "description" : "Never a dull moment at the 2022 Sinquefield Cup: In the matchup between the two leaders, World Champion GM Magnus Carlsen&#38;nbsp;and GM Hans Niemann, the young American caused a massive sensation by outplaying and eventually beating the Norwegian. ...",
@@ -296,30 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/niemann-live-rating-2695-day-2",
          "pubDate" : "Sun, 04 Sep 2022 21:28:05 +0000",
          "title" : "Niemann: Live Rating 2695! | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after a draw with Leinier Dominguez in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-disappointed-i-missed-multiple-wins-day-2-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/l0Pp7nGDq50.jpg?itok=_ILAQoDe\" alt=\"\" /></a></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-disappointed-i-missed-multiple-wins-day-2-0",
-         "pubDate" : "Sun, 04 Sep 2022 21:28:05 +0000",
-         "title" : "Fabiano: Disappointed I Missed Multiple Wins | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Alejandro Ramirez after a draw with MVL in the third round of the 2022 Sinquefield Cup. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-no-chance-play-win-today-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pi-JstFJeQY.jpg?itok=yU4q6Fzx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mamedyarov-no-chance-play-win-today-round-3",
-         "pubDate" : "Sun, 04 Sep 2022 21:28:05 +0000",
-         "title" : "Mamedyarov: No Chance to Play for a Win Today | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after a draw with Wesley So in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i-didnt-see-29ke2-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EsgAehu3IZI.jpg?itok=pZgye_56\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-i-didnt-see-29ke2-round-2",
-         "pubDate" : "Sun, 04 Sep 2022 18:27:58 +0000",
-         "title" : "MVL: I Didn't See 29.Ke2! | Round 2"
       },
       {
          "description" : " What do you make of this position? This position was displayed recently by popular chess Twitter personality and adult improver Neal Bruce, taken from Silman's Reassess Your Chess (4th edition). It's suitable for players rated 1600-2000. White to move: what would you play and why? Well, what do you think? This position interested me for <a href=\"https://chessimprover.com/a-positional-question/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Positional Question\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-positional-question/\">A Positional Question</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
@@ -1650,14 +1658,6 @@ news_feed (
          "title" : "Hou Yifan edges out Valentina Gunina to reach the final"
       },
       {
-         "description" : "GM Hou Yifan defeated GM Valentina Gunina in the semifinals of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Monday. Gunina kicked off the match with a shocking six-game winning streak, but Hou made an equally astounding comeback in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-wscc-semifinals-hou-gunina",
-         "pubDate" : "Mon, 22 Aug 2022 14:31:00 -0700",
-         "title" : "Women's World No. 1 Makes Astonishing Comeback vs. The Powerful Gunina"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-mongolian-tactic-3/",
          "pubDate" : "Tue, 16 Aug 2022 07:30:00 +0000",
          "title" : "The Mongolian Tactic (3)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1922",
-         "pubDate" : "Mon, 15 Aug 2022 22:07:39 +0000",
-         "title" : "Carlsen turns up the heat as FTX Crypto Cup gets under way in Miami"
       }
    ]
 }
