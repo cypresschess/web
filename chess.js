@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament before the event has been finished. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/",
+         "pubDate" : "Mon, 05 Sep 2022 19:12:28 +0000",
+         "title" : "Magnus Carlsen Walks Out the Sinquefield Cup"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
          "pubDate" : "Mon, 05 Sep 2022 19:50:00 +0100",
          "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team reacts to the news that Magnus Carlsen will not play his game against Mamedyarov at the start of the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-magnus-carlsen-will-not-play-today-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kiD2uT5V8A.jpg?itok=3",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/breaking-magnus-carlsen-will-not-play-today-round-4",
+         "pubDate" : "Mon, 05 Sep 2022 18:28:47 +0000",
+         "title" : "BREAKING: Magnus Carlsen Will Not Play Today | Round 4"
+      },
+      {
+         "description" : "After yesterday's tough loss to 19-year-old Hans Niemann, World Chess Champion Magnus Carlsen decided to withdraw from the Sinquefield Cup 2022. Carlsen didn't explain his reasons for withdrawal but only said that he always enjoyed playing in the Saint Louis Chess Club and that he hopes he will be back in the future. The first []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/breaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022/",
+         "pubDate" : "Mon, 05 Sep 2022 18:24:37 +0000",
+         "title" : "BREAKING: Magnus Carlsen withdraws from the Sinquefield Cup 2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Before the fourth round <strong>Magnus Carlsen</strong> withdrew from the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Moke Niemann</strong> whose earli",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsen-withdraws/",
+         "pubDate" : "Mon, 05 Sep 2022 19:00:35 +0100",
+         "title" : "Carlsen withdraws"
       },
       {
          "description" : "In the Endgame Magic Show #210 Arne K&auml;hler and Karsten M&uuml;ller look at endgame highlights from the St. Louis Rapid & Blitz tournament, which Alireza Firouzja won with four rounds to spare. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -266,28 +298,12 @@ news_feed (
          "title" : "Mamedyarov: No Chance to Play for a Win Today | Round 3"
       },
       {
-         "description" : "The Julius Baer Challenge was the first event of the Challengers Chess Tour 2022 and it was a 16-player blitz round-robin taking place on chess24 from September 3-4. The event gathered 16 of the world&#x2019;s top Under 12, 14 and 16 age group players, alongside Under 18 and 20 stars such as Raunak Sadhwani, Jonas []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/andrey-esipenko-dominated-the-julius-baer-challenge/",
-         "pubDate" : "Sun, 04 Sep 2022 20:23:27 +0000",
-         "title" : "Andrey Esipenko dominated the Julius Baer Challenge"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after a draw with Wesley So in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i-didnt-see-29ke2-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EsgAehu3IZI.jpg?itok=pZgye_56\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/mvl-i-didnt-see-29ke2-round-2",
          "pubDate" : "Sun, 04 Sep 2022 18:27:58 +0000",
          "title" : "MVL: I Didn't See 29.Ke2! | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-2",
-         "pubDate" : "Sun, 04 Sep 2022 18:27:58 +0000",
-         "title" : "2022 Sinquefield Cup: Round 2"
       },
       {
          "description" : " What do you make of this position? This position was displayed recently by popular chess Twitter personality and adult improver Neal Bruce, taken from Silman's Reassess Your Chess (4th edition). It's suitable for players rated 1600-2000. White to move: what would you play and why? Well, what do you think? This position interested me for <a href=\"https://chessimprover.com/a-positional-question/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Positional Question\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-positional-question/\">A Positional Question</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
