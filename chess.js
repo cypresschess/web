@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament before the event has been finished. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. ",
+         "description" : " The 9th Sinquefield Cup takes place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
+         "pubDate" : "Mon, 5 Sep 2022 23:34:00 +0400",
+         "title" : "9th Sinquefield Cup 2022 - Games and Results"
+      },
+      {
+         "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament halfway. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5E80C7B1-CFA0-4697-847F-4FA496FCD632.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in New York during the World Chess Championship Match</div> </div> A day before, Carlsen lost to Hans Niemann, a much lower-ranked player. According to chess-news, Niemann has been accused of cheating earlier in his career, and Carlsen likely walked out because he felt that",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/",
          "pubDate" : "Mon, 05 Sep 2022 19:12:28 +0000",
-         "title" : "Magnus Carlsen Walks Out the Sinquefield Cup"
+         "title" : "Magnus Carlsen Walks Out Of the Sinquefield Cup"
       },
       {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/september-2022-fide-ratings-list",
          "pubDate" : "Thu, 01 Sep 2022 12:35:49 -0700",
          "title" : "September FIDE Ratings: The New Power Generation"
-      },
-      {
-         "description" : " The 9th Sinquefield Cup takes place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
-         "pubDate" : "Thu, 1 Sep 2022 23:34:00 +0400",
-         "title" : "9th Sinquefield Cup 2022 - Games and Results"
       },
       {
          "description" : "",
