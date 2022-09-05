@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Mon, 05 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "In the Endgame Magic Show #210 Arne K&auml;hler and Karsten M&uuml;ller look at endgame highlights from the St. Louis Rapid & Blitz tournament, which Alireza Firouzja won with four rounds to spare. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-210-endgame-highlights-from-the-st-louis-rapid-blitz-tournament-ftx-cryto-cup-in-miami",
+         "pubDate" : "Mon, 05 Sep 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #210: Endgame highlights from the St. Louis Rapid & Blitz Tournament FTX Cryto Cup in Miami"
+      },
+      {
+         "description" : "Click here https://www.englishchess.org.uk/uk-open-blitz-2022-results-and-qualifiers/ for the results and qualifiers as at 4th September",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-results-and-qulaifiers/",
+         "pubDate" : "Mon, 05 Sep 2022 15:49:50 +0000",
+         "title" : "UK Open Blitz results and qulaifiers"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Students and graduate students with chess-related, staff-supervised research projects <a href=\"https://www.chessable.com/blog/chessable-research-awards/\">can apply</a> for the <strong>Chessable Research Awards</strong> until 1 October. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/research-stipendia-by-chessable/",
+         "pubDate" : "Mon, 05 Sep 2022 16:25:25 +0100",
+         "title" : "Research stipendia by Chessable"
+      },
+      {
          "description" : "The August issue of BCM is dedicated to the centenary of the great London 1922 tournament which saw the greatest players in the world take part, including Jose Raul Capablanca who appeared in public for the first time since winning the World Title. With century-old comments about the tournament and photos, and with contemporary reviews of the event and the opening theory, the August issue of BCM includes everything you need to know about the great London 1922 event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1362,14 +1394,6 @@ news_feed (
          "title" : "2022 ACT Women's and Girls Championship - 11 September 2022"
       },
       {
-         "description" : "Ivan Sokolov has celebrated numerous successes in his career as a player. His greatest coup as a coach came only recently at the Chess Olympiad 2022 in Chennai, when he led the team from Uzbekistan to gold. In his video contribution to the current ChessBase Magazine Extra #208 he presents an idea on how to surprise your opponent in the Sicilian Four Knights Variation: The move 6.g3 may not look particularly aggressive - but when a player like Nodirbek Abdusattorov (Uzbekistan's number one and reigning rapid chess world champion) is on a loss with Black a few moves later, that can easily happen to your opponent too! You can see an excerpt from Sokolov's analysis here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tips-from-the-coach-of-the-olympic-champion",
-         "pubDate" : "Fri, 26 Aug 2022 13:00:00 +0100",
-         "title" : "Tips from the coach of the Olympic champion"
-      },
-      {
          "description" : "On the 1st September, OTB Blitz ratings will go live on the ECF rating website. Blitz chess for ECF purposes are games where each player...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1940",
          "pubDate" : "Fri, 26 Aug 2022 10:31:24 +0000",
          "title" : "Arjun Erigaisi clinches Abu Dhabi Masters 2022"
-      },
-      {
-         "description" : "The Russian Grandmaster Vladimir Simagin was considered a tactical genius. His game against Bronstein is famous, and his move to win the game takes some time to be discovered. Furthermore, Lawrence shows us his tactical brilliance, talks about Frederic Svane, and shows us the power of solving tactical puzzles, to recognize patterns better, and quicker. Also, the final tactic which Lawrence and Arne try to solve, ends terribly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-32",
-         "pubDate" : "Fri, 26 Aug 2022 11:00:00 +0100",
-         "title" : "Trent's Tactics - Simagin's tactical stunners"
       },
       {
          "description" : "Ian Nepomniachtchi, Alireza Firouzja and Hikaru Nakamura are among the stars in action for the St. Louis Rapid &amp; Blitz, which starts today, while Magnus Carlsen joins for the classical Sinquefield Cup on September 2. The organisers have announced replacements for world #13 Richard Rapport as the Hungarian couldn't meet US Covid travel requirements.",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanandan-seven-shines#new_tab",
          "pubDate" : "Fri, 19 Aug 2022 14:13:50 +0000",
          "title" : "Bodhana and the BCC - from Leonard Barden"
-      },
-      {
-         "description" : "We are now in the final stages of the Chessable British Championships, with Round 7 this afternoon, Round 8 on Saturday and Round 9 starting...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessable-british-championship-final-stages/",
-         "pubDate" : "Fri, 19 Aug 2022 13:31:37 +0000",
-         "title" : "Chessable British Championship - final stages"
       },
       {
          "description" : " Last week, we examined the idea of studying the games of master level players from the 1800s. To recap, this specific period of time works well for beginners because the games demonstrate basic principles more clearly than games in which computer software was used to train the players. They also tend to be more exciting <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginner's Seventy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\">A Foundation for Beginner's Seventy</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
