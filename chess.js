@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Friday we showed you some unusual and interesting studies. You may have found them somewhat difficult to solve, on our replay diagrams, where in some cases an engine would defend against your attempts to win. Today we bring you the solutions, with full explanations, provided in video streams that anyone can follow.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/entertaining-studies-solutions",
+         "pubDate" : "Mon, 05 Sep 2022 22:55:37 +0100",
+         "title" : "Entertaining studies - solutions"
+      },
+      {
          "description" : " The 9th Sinquefield Cup takes place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "9th Sinquefield Cup 2022 - Games and Results"
       },
       {
-         "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament halfway. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5E80C7B1-CFA0-4697-847F-4FA496FCD632.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in New York during the World Chess Championship Match</div> </div> A day before, Carlsen lost to Hans Niemann, a much lower-ranked player. According to chess-news, Niemann has been accused of cheating earlier in his career, and Carlsen likely walked out because he felt that",
+         "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament halfway. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5E80C7B1-CFA0-4697-847F-4FA496FCD632.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in New York during the World Chess Championship Match</div> </div> A day before, Carlsen lost to <a href=\"https://chessarena.com/profile/211968\">Hans Niemann</a>, a much lower-ranked player. According to chess-news, Niemann has been accused of cheating earlier in his career",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/",
@@ -138,7 +146,7 @@ news_feed (
          "title" : "The Draw Master"
       },
       {
-         "description" : " <p class=\"lead\">The lowest rating player of the Sinquefield Cup 2022, Hans Niemann, outplayed the World Champion Magnus Carlsen with the black pieces in Round 3 to cross 2700 in live ratings and grab sole lead of the tournament! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-Grand-Chess-Tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Grand Chess Tour</div> </div> \"Chess speaks for itself\" Hans Niemann stated after beating Magnus Carlsen at Crypto Cup 2022 in Miami. <a href=\"https://twitter.com/ChampChessTour/status/1559582921735938048\">https://twitter.com/ChampChessTour/status/15595829",
+         "description" : " <p class=\"lead\">The lowest-rated player in the Sinquefield Cup 2022, Hans Niemann, outplayed the World Champion Magnus Carlsen with the black pieces in Round 3 to cross 2700 in live ratings and grab sole lead of the tournament. That happens well&hellip; never. At least since 2011. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-Grand-Chess-Tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Grand Chess Tour</div> </div> \"Chess speaks for itself\" Hans Niemann stated after beating Magnus Carlsen at Crypto Cup 2022 in Miami. <a href=\"https://twitter.com/ChampChessTour/status/155958292173593804",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/hans-niemann-beats-carlsen-to-cross-2700-at-the-sinquefield-cup/",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-in-turkey-is-bankasi-anniversary",
          "pubDate" : "Fri, 26 Aug 2022 16:00:00 +0100",
          "title" : "Chess in Turkey - Is Bankasi anniversary"
-      },
-      {
-         "description" : "Nick Pert won the British Over-the-Board Championship 2021. This year, he participated again as the title defender. And although he even scored half-a-point more than last year, it wasn't enough to repeat the triumph. His analysis of the most interesting games were very popular, so we walk through the tournament one more time, thanks to Nick Pert.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-championship-2022-nick-pert-shows-some-breathtaking-games-to-us",
-         "pubDate" : "Fri, 26 Aug 2022 15:54:04 +0100",
-         "title" : "British Championship 2022 - Nick Pert shows some breathtaking games to us"
       },
       {
          "description" : "<h1 style=\"text-align: left;\">2022 ACT Women's and Girls' Chess Championship - Sunday 11 September 2022</h1>7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List)<br /><br />Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am<br />Lunch Break 1pm-1:30pm<br />Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm<br /><br /><b>Prizes - 1st $250 2nd $125 3rd $75</b> Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10<br /><br />Max. two half-point byes available for Rounds 1-4.<br /><br />Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free.<br /><br />+ <b>Novices event for unrated ",
