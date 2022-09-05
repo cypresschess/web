@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen had an interesting start at the Sinquefield Cup 2022, as he defeated Ian Nepomniachtchi in the first round, drew against Levon Aronian on the second day, losing to 19-year-old Hans Niemann in the round 3. Carlsen today faces Shakhriyar Mamedyarov who scores 1/3 points. Sinquefield Cup 2022:&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Day []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-shakhriyar-mamedyarov-sinquefield-cup-2022-r4-live/",
+         "pubDate" : "Mon, 05 Sep 2022 06:53:48 +0000",
+         "title" : "Magnus Carlsen vs Shakhriyar Mamedyarov, Sinquefield Cup 2022 R4 LIVE"
+      },
+      {
+         "description" : "Hans Niemann is having a blast at the 2022 Sinquefield Cup as he scores 2/3 points. Niemann scored his first-ever victory against a 2750+ player in the second round of the event, explaining that he is not surprised that he is beating the top-level players. He then beat the World Chess Champion Magnus Carlsen in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-alireza-firouzja-sinquefield-cup-2022-r4-live/",
+         "pubDate" : "Mon, 05 Sep 2022 06:49:54 +0000",
+         "title" : "Hans Niemann vs Alireza Firouzja, Sinquefield Cup 2022 R4 LIVE"
+      },
+      {
+         "description" : "In a sensational upset GM Hans Niemann defeated World Champion Magnus Carlsen with the Black pieces in their first ever classical encounter, overtaking the sole lead in the 2022 Sinquefield Cup and crossing 2700 for the first time in his career. In the meantime, Alireza Firouzja won a brilliant game against Levon Aronian, while Wesley []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-beats-magnus-carlsen-to-be-in-the-sole-lead-of-the-sinquefield-cup-2022/",
+         "pubDate" : "Mon, 05 Sep 2022 06:48:00 +0000",
+         "title" : "Hans Niemann beats Magnus Carlsen to be in the sole lead of the Sinquefield Cup 2022"
+      },
+      {
+         "description" : "19-year-old USA grandmaster Hans Niemann yesterday defeated World Chess Champion Magnus Carlsen in the third round of the Sinquefield Cup 2022. Niemann broke Carlsen's strike of 53 unbeaten classical games, passed 2700 ELO on the live rating list, and emerged as the sole leader of the event. In the post-game interview, Hansen enjoyed the analysis []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-it-must-be-embarrassing-for-the-world-champion-to-lose-to-me/",
+         "pubDate" : "Mon, 05 Sep 2022 06:47:21 +0000",
+         "title" : "Hans Niemann: It must be embarrassing for the World Champion to lose to me"
+      },
+      {
+         "description" : "\"It must be embarrassing for the World Champion to lose to me - I feel bad for him!\" said Hans Niemann after an incredible Round 3 of the Sinquefield Cup. He not only beat Magnus with the black pieces, ending a 53-game unbeaten streak, but also crossed 2700 on the live rating list and took the sole lead. That overshadowed big wins for Alireza Firouzja (over Levon Aronian) and Wesley So (over Fabiano Caruana).",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-3-niemann-beats-carlsen-to-cross-2700",
+         "pubDate" : "Mon, 05 Sep 2022 06:20:37 +0000",
+         "title" : "Sinquefield Cup 3: Niemann beats Carlsen to cross 2700"
+      },
+      {
+         "description" : "The Polish Prime Minister Mr. Mateusz Morawiecki congratulated GM Monika Socko on her triumph in the European Women's Chess Championship 2022 during the opening ceremony of the Polish Team Chess Championship 2022 (Enea Polish Ekstraliga). Monika Socko clinched the title of European Women's Individual Chess Champion for the first time in her career. With a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polish-pm-congratulated-gm-monika-socko-on-her-triumph-in-the-european-womens-chess-championship-2022/",
+         "pubDate" : "Mon, 05 Sep 2022 06:00:51 +0000",
+         "title" : "Polish PM congratulated GM Monika Socko on her triumph in the European Women's Chess Championship 2022"
+      },
+      {
+         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which will be played in 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-4-live/",
+         "pubDate" : "Mon, 05 Sep 2022 05:59:35 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 4 LIVE"
+      },
+      {
+         "description" : "Never a dull moment at the 2022 Sinquefield Cup: In the matchup between the two leaders, World Champion GM Magnus Carlsen&#38;nbsp;and GM Hans Niemann, the young American caused a massive sensation by outplaying and eventually beating the Norwegian. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-3",
+         "pubDate" : "Sun, 04 Sep 2022 21:07:00 -0700",
+         "title" : "Niemann Outplays Carlsen, Claims Lead, Crosses 2700"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Alejandro Ramirez after a draw with Nepomniachtchi in the third round of the 2022 Sinquefield Cup. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-couldn%E2%80%99t-find-killing-blow-nepo-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RVHtp7cS8Wk.jpg?itok=PFrAH9GD\" alt=\"\" /></",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -200,54 +264,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-2-niemann-catches-carlsen",
          "pubDate" : "Sun, 04 Sep 2022 07:49:04 +0000",
          "title" : "Sinquefield Cup 2: Niemann catches Carlsen"
-      },
-      {
-         "description" : "The final leg of the 2022 Grand Chess Tour Sinquefield Cup reaches the third round today. The R3 features a clash between the two USA elite grandmasters Wesley So and Fabiano Caruana. Both players drew the first two rounds, scoring 1/2 points to tie for the third place on the current rankings. Sinquefield Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-vs-fabiano-caruana-sinquefield-cup-2022-r3-live/",
-         "pubDate" : "Sun, 04 Sep 2022 06:46:31 +0000",
-         "title" : "Wesley So vs Fabiano Caruana, Sinquefield Cup 2022 R3 LIVE"
-      },
-      {
-         "description" : "The third round of the 2022 Sinquefield Cup is scheduled for today and starts at 13:00 CDT. One of the five interesting matches will be seen between World Chess Champion Magnus Carlsen and 19-year-old USA grandmaster Hans Niemann. After yesterday's victory over Shakhriyar Mamedyarov, Hans Niemann has joined Magnus Carlsen in the co-lead of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hans-moke-niemann-sinquefield-cup-2022-r3-live/",
-         "pubDate" : "Sun, 04 Sep 2022 06:44:49 +0000",
-         "title" : "Magnus Carlsen vs Hans Moke Niemann, Sinquefield Cup 2022 R3 LIVE"
-      },
-      {
-         "description" : "Round 2 of the 2022 Sinquefield Cup saw tournament underdog Hans Niemann score his first win of the event, defeating Shakhriyar Mamedyarov to join the early lead alongside Magnus Carlsen, who drew with Levon Aronian. Meanwhile the 2022 FIDE Candidates winner, Ian Nepomniachtchi bounced back from yesterday&#x2019;s loss to defeat Alireza Firouzja in fine technical []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-and-magnus-carlsen-in-the-joint-lead-at-the-sinquefield-cup-2022-day-2-recap/",
-         "pubDate" : "Sun, 04 Sep 2022 06:42:08 +0000",
-         "title" : "Hans Niemann and Magnus Carlsen in the joint lead at the Sinquefield Cup 2022"
-      },
-      {
-         "description" : "Magnus Carlsen maintained the leadership of the 2022 Sinquefield Cup as he drew the 2nd round game against Levon Aronian. The game finished in an uneventful draw, without many chances for any of the players to seek for a better result. In the post-game interview, Carlsen explained that he used the same variation in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-after-the-quick-draw-against-aronian-i-used-the-same-line-against-him-in-the-2013-candidates/",
-         "pubDate" : "Sun, 04 Sep 2022 06:35:04 +0000",
-         "title" : "Magnus Carlsen after the quick draw against Aronian: I used the same line against him in the 2013 Candidates"
-      },
-      {
-         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which will be played in 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-3-live/",
-         "pubDate" : "Sun, 04 Sep 2022 06:31:59 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 3 LIVE"
-      },
-      {
-         "description" : "The 22nd edition of the Dubai Chess Open&#160;is currently ongoing at the Dubai Chess &#38; Culture Club and eight rounds have been already played. More than 180 players from 35 countries fight for the total prize fund of 50.000$, and with only one round to go, Indian grandmaster Aravindh Chithambaram emerged as the sole leader []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aravindh-chithambaram-in-the-sole-lead-at-the-dubai-chess-open-2022/",
-         "pubDate" : "Sun, 04 Sep 2022 06:26:53 +0000",
-         "title" : "Aravindh Chithambaram in the sole lead at the Dubai Chess Open 2022"
       },
       {
          "description" : "Hans Niemann joined Magnus Carlsen in the lead of the Sinquefield Cup by beating Shakhriyar Mamedyarov with the white pieces in Saturday's second round. The tournament underdog kicked off the event with two whites and is set to face Carlsen with black in round 3. Meanwhile, Ian Nepomniachtchi bounced back from his first-round loss against the world champion by beating the winner of the Saint Louis Rapid & Blitz tournament, Alireza Firouzja. | Photo: Lennart Ootes",
@@ -1634,14 +1650,6 @@ news_feed (
          "title" : "Magnus Carlsen wins FTX Crypto Cup despite Praggnanandhaa comeback"
       },
       {
-         "description" : "GM Magnus Carlsen won the FTX Crypto Cup on Sunday despite losing his final match in a tiebreak to GM Praggnanandhaa R., who thereby secured second place in the tournament. GM Alireza Firouzja finished in third place. How to watch? The games of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-wins-ftx-crypto-cup-2022",
-         "pubDate" : "Sun, 21 Aug 2022 22:09:00 -0700",
-         "title" : "Magnus Carlsen Wins FTX Crypto Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-releases-chess-for-protection-project-curriculum/",
          "pubDate" : "Thu, 18 Aug 2022 09:57:20 +0000",
          "title" : "FIDE releases Chess for Protection project Curriculum"
-      },
-      {
-         "description" : "Magnus Carlsen and Praggnanandhaa lead the FTX Crypto Cup by 4 points after winning again on Wednesday in Miami. Magnus beat Levon Aronian 2.5:1.5 after winning the first game, while Pragg won by the same scoreline despite starting with a loss to Hans Niemann. Liem Le got off the mark in style by beating Jan-Krzysztof Duda with a game to spare, while Alireza Firouzja beat Anish Giri only in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-3-carlsen-pragg-still-perfect",
-         "pubDate" : "Thu, 18 Aug 2022 09:42:45 +0000",
-         "title" : "FTX Crypto Cup 3: Carlsen & Pragg still perfect"
       },
       {
          "description" : "",
