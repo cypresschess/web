@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his two-volume course \"Winning Chess Strategies\", French Grandmaster Romain Édouard shows how to play for a win, even when the position seems to be balanced and equal. Stefan Liebig reviewed the course for the German chess magazine \"Schachmagazin 64\" and liked what he saw.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/romain-edouard-s-winning-chess-strategies-a-review",
+         "pubDate" : "Mon, 05 Sep 2022 13:19:52 +0100",
+         "title" : "Romain Edouard's \"Winning Chess Strategies\" - a review"
+      },
+      {
+         "description" : "The Poble de Montserrat Chess Open 2022 took place from August 29th September 4th in Montserrat, Spain. The event was played in 9 rounds, swiss system, with a total prize fund of ~2.500 euros. FM Nahun Gavarrete was the sole winner of the event as he scored convincing 7.5 points. After five consecutive victories []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fm-nahun-gavarrete-is-the-winner-of-poble-de-montserrat-open-2022/",
+         "pubDate" : "Mon, 05 Sep 2022 11:14:00 +0000",
+         "title" : "FM Nahun Gavarrete is the winner of Poble de Montserrat Open 2022"
+      },
+      {
+         "description" : "In a shocking development, Hans Niemann, the tournament underdog, defeated Magnus Carlsen with the black pieces to take the sole lead at the Sinquefield Cup. Niemann's victory prompted him to cross the 2700-rating barrier. Alireza Firouzja and Wesley So also won in round 3, with Firouzja set to face the in-form Niemann in Monday's fourth round. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r3",
+         "pubDate" : "Mon, 05 Sep 2022 10:15:00 +0100",
+         "title" : "Sinquefield Cup: Niemann shocks Carlsen, crosses 2700"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1966",
+         "pubDate" : "Mon, 05 Sep 2022 08:18:42 +0000",
+         "title" : "2022 Sinquefield Cup: Niemann beat Carlsen to grab the lead"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen had an interesting start at the Sinquefield Cup 2022, as he defeated Ian Nepomniachtchi in the first round, drew against Levon Aronian on the second day, losing to 19-year-old Hans Niemann in the round 3. Carlsen today faces Shakhriyar Mamedyarov who scores 1/3 points. Sinquefield Cup 2022:&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Day []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -146,14 +178,6 @@ news_feed (
          "title" : "Andrey Esipenko dominated the Julius Baer Challenge"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Sun, 04 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup: Live"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after a draw with Wesley So in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-i-didnt-see-29ke2-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EsgAehu3IZI.jpg?itok=pZgye_56\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -192,6 +216,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/tns-aravindh-chithambaram-wins-dubai-open/articleshow/93988206.cms",
          "pubDate" : "Sun, 04 Sep 2022 15:38:39 +0000",
          "title" : "TN's Aravindh Chithambaram wins Dubai Open"
+      },
+      {
+         "description" : "While I was compiling the short list for this month's edition of <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), eBay proposed other chess items under the heading 'Similar sponsored items'. I looked at several that reminded me of an old post titled, <A HREF=\"http://chessforallages.blogspot.com/2010/07/chess-art-chinese-copies.html\">Chess Art, Chinese Copies</A>(July 2010). <P>The item pictured below was titled, 'The Spanish Forger - museum piece old master oil panel - medieval chess players'. It sold for US $2725 after a single bid. Before I get into the details of the piece sold at auction, I'll mention ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/the-spanish-forger-liked-chess.html",
+         "pubDate" : "Sun, 04 Sep 2022 15:36:00 +0000",
+         "title" : "The Spanish Forger Liked Chess"
       },
       {
          "description" : "The two \"heroines\" of ChessBase Magazine #209 were already decided before the Chennai Olympiad had even started. And then the Ukrainian sisters Anna and Mariya Muzychuk actually led their team to gold! One more reason to pay tribute to the two top players in CBM. In the new issue, a selection of 21 games with detailed commentary awaits you, as well as Mihail Marin's strategy article \"The Muzychuk sisters\" and an endgame Special by Karsten Mueller (both including videos). Krisztian Szabo has chosen the encounter Mariya Muzychuk - Alexander Bagrationi (2018) for his analysis - certainly also because of the \"great finish\". Take a look!",
@@ -240,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-208-maxime-shines-and-matthias-scores-review-by-nagesh-havanur",
          "pubDate" : "Sun, 04 Sep 2022 13:00:00 +0100",
          "title" : "CBM 208: Maxime shines and Matthias scores - Review by Nagesh Havanur"
-      },
-      {
-         "description" : "World No. 13 GM Richard Rapport has officially transferred to Romanian Chess Federation today. The transfer started in late May and concluded today with the Hungarian Chess Federation losing one of its greatest chess geniuses. Together with Richard, his wife WGM Jovana Rapport completed the transfer from Serbian to Romanian Chess Federation earlier in August. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/breaking-richard-rapport-will-play-for-romania/",
-         "pubDate" : "Sun, 04 Sep 2022 11:53:38 +0000",
-         "title" : "BREAKING: Richard Rapport will play for Romania"
       },
       {
          "description" : "",
@@ -1376,14 +1400,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html",
          "pubDate" : "Thu, 25 Aug 2022 15:42:00 +0000",
          "title" : "2022 CJA Awards - Part 2"
-      },
-      {
-         "description" : "After draws in games 14 and 15, Fischer still had a three-point lead in the World Championship match, and the Spassky side was getting nervous. The Champion was fighting hard, but not getting any points. Suspicion arose that Fischer might be using secret weapons: hypnosis, devices planted in the lights or the chairs, and even perhaps assistance from an \"IBM\" (Russian for \"computer\" at the time). All this was formally investigated, while Fischer continued to coast.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/50-years-ago-secret-weapons",
-         "pubDate" : "Thu, 25 Aug 2022 15:00:00 +0100",
-         "title" : "50 years ago: Fischer-Spassky, Secret weapons?"
       },
       {
          "description" : " The 2023 Australian Open is being held from the 2nd to the 10th January 2023, in Perth. The Open will be an 11 round event, with 3 double round days. First prize is $3000, and the total prize pool is over $10,000. There is also Minor event (Under 1600) running alongside the Open. Full details for the tournament can be found at <a href=\"https://sites.google.com/view/2023ausopen/home\">https://sites.google.com/view/2023ausopen/home</a> ",
