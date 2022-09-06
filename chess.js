@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Until now, Fabiano Caruana's popular Fritztrainer series \"Navigating the Ruy Lopez\" was only available as download or on DVD and ran only on Windows or Mac OS. But since a few days the video series is also available as stream on the ChessBase video page and can also be accessed on mobile devices. Now, after ordering a download you can start the videos immediately in your browser. And customers who bought DVDs months ago can also enjoy the new streaming function!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/caruana-s-navigating-the-ruy-lopez-now-available-as-stream",
+         "pubDate" : "Tue, 06 Sep 2022 14:00:00 +0100",
+         "title" : "Caruana's \"Navigating the Ruy Lopez\" - now available as stream!"
+      },
+      {
+         "description" : "20-year old Andrey Esipenko was top seed in the first tournament of this year's Julius Baer Challenge and he lived up to his role: With two draws and 13 wins, he finished clear first with 41 from 45 possible points (winning a game in the Julius B&auml;r Challenge yielded 3 points). Ten points behind Raunak Sadhwani from India finished second with 31/45. | Images: Julius B&auml;r Challenge",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-challenge-andrey-esipenko-wins-with-41-45",
+         "pubDate" : "Tue, 06 Sep 2022 13:43:28 +0100",
+         "title" : "Julius B&auml;r Challenge: Andrey Esipenko wins with 41/45"
+      },
+      {
+         "description" : "After 19-year-old Hans Niemann defeated Magnus Carlsen in the third round of the Sinquefield Cup 2022, the day 4 started with shocking news that&#xA0;World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen did not yet give a specific reason for his withdrawal,&#xA0;tweeting that he hopes to be back in Saint Louis in the future. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/leinier-dominguez-vs-hans-niemann-sinquefield-cup-2022-r5-live/",
+         "pubDate" : "Tue, 06 Sep 2022 11:57:52 +0000",
+         "title" : "Leinier Dominguez vs Hans Niemann, Sinquefield Cup 2022 R5 LIVE"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022. With no detailed explanations, Carlsen said that Saint Louis Chess Club is one of the places he&#x2019;s always enjoyed playing, and that he hopes to be back in the future. On short notice, social medias were overwhelmed with rumors and Carlsen&#x2019;s possible reasons for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reactions-to-magnus-carlsens-withdrawal-from-the-sinquefield-cup-2022/",
+         "pubDate" : "Tue, 06 Sep 2022 11:44:06 +0000",
+         "title" : "Reactions to Magnus Carlsen's withdrawal from the Sinquefield Cup 2022"
+      },
+      {
          "description" : "On the last weekend of August, the 31. \"Ukrainian Independence Cup\" was organised in Kiev to time to celebrate Ukrainian independence. Almost a 100 players took part in the event which featured a rapid (15'+10\") and a blitz (3'+2\" ) tournament. IM Valeriy Grinev won both tournaments. Olexandr Prohorov reports. | Photo: The champions, among them tournament winner IM Valeriy Grinev with his trophy. | Photos: Oleksandr Prohorov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,14 +266,6 @@ news_feed (
          "title" : "BREAKING: Magnus Carlsen Will Not Play Today | Round 4"
       },
       {
-         "description" : "After yesterday's tough loss to 19-year-old Hans Niemann, World Chess Champion Magnus Carlsen decided to withdraw from the Sinquefield Cup 2022. Carlsen didn't explain his reasons for withdrawal but only said that he always enjoyed playing in the Saint Louis Chess Club and that he hopes he will be back in the future. The first []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/breaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022/",
-         "pubDate" : "Mon, 05 Sep 2022 18:24:37 +0000",
-         "title" : "BREAKING: Magnus Carlsen withdraws from the Sinquefield Cup 2022"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Before the fourth round <strong>Magnus Carlsen</strong> withdrew from the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Moke Niemann</strong> whose earli",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/t-r-dawson-impressions-and-gossip",
          "pubDate" : "Mon, 05 Sep 2022 16:00:00 +0100",
          "title" : "T.R.Dawson: Impressions and Gossip"
-      },
-      {
-         "description" : "There are three 16 year old players in world's top 20 junior list and all of them had a spectacular month of August. GM Gukesh impressed at the Chess Olympiad 2022 scoring 8,0/8 at the start. GM Javokhir Sindarov won the gold medal at the Chess Olympiad and won the key point for Uzbekistan in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/daniel-dardha-i-am-excited-about-crossing-the-2600-mark/",
-         "pubDate" : "Mon, 05 Sep 2022 14:41:13 +0000",
-         "title" : "Daniel Dardha, \"I am excited about crossing the 2600 mark\""
       },
       {
          "description" : "Entries for this course https://www.englishchess.org.uk/ecf-arbiter-course-registration/ &#8212; will close at 5.00pm tomorrow September 6th. Please enter now if you plan to.",
@@ -1434,22 +1450,6 @@ news_feed (
          "title" : "Introducing Streaming Superstar Ludwig's \"Dumb Chess\" Tournament"
       },
       {
-         "description" : "Svitlana is showing us some more smart moves from Chennai. We learn a lot about the two openings, plans in the middle game, and some endgame knowledge. The Canadian WIM was able to win against Jenny Astrid Chirivi Castiblanco from Colombia, and achieve a draw against Gulenay Aydin from Turkey.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-rocks-chennai-ii-caro-kann-queen-s-gambit-with-3-h6",
-         "pubDate" : "Fri, 26 Aug 2022 20:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Svitlana rocks Chennai II (Caro-Kann & Queen's Gambit with 3. ...h6!?)"
-      },
-      {
-         "description" : "In his Power Play Show, Daniel King examines critical and instructive moments from the exciting match between rising star Praggnanandhaa and world champion Magnus Carlsen from the FTX Crypto Cup tournament in Miami. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-pragg-carlsen",
-         "pubDate" : "Fri, 26 Aug 2022 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Magic moments from Pragg vs Carlsen"
-      },
-      {
          "description" : "One point I've come to realize in this long <I>Fischer Friday</I> series -- last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022) -- is that the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com), was in fact two matches. The first match, which lasted from end-June 1972 through the third game, was all about whether Fischer would play. The first match had little to do with chess. <P>The second match, which started with the fourth game, was all about chess. Starting with the score at 2-1 in Spassky's favor, the players fought some of the most interesting games ever seen at the highest le",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/16/ep-292-adult-improver-karen-boyd-on-what-she-learned-from-a-busy-summer-of-tournament-chess-and-why-she-always-plays-up-against-tougher-competition",
          "pubDate" : "Tue, 16 Aug 2022 14:23:33 +0000",
          "title" : "EP 292- Adult Improver Karen Boyd on What She Learned from a Busy Summer of Tournament Chess, and Why she Always \"Plays Up\" Against Tougher Competition "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93594503.cms\" />Teenage Indian Grandmaster R Praggnanandhaa on Tuesday opened his campaign in the FTX Crypto Cup, the American finale of Champions Chess Tour, with a 2.5-1.5 win over the world's top junior player Alireza Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-firouzja-in-ftx-crypto-cup-chess/articleshow/93594503.cms",
-         "pubDate" : "Tue, 16 Aug 2022 11:59:29 +0000",
-         "title" : "Praggnanandhaa beats Firouzja in FTX Crypto Cup chess"
       }
    ]
 }
