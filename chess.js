@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Chess Union and European Chess Academy, supported by FIDE Development Fund, announce the annual training program in period from November 27th 2022 to May 20th 2023. The lecturers are: GM and FST Adrian Mikhalchishin, GM and FST Georg Mohr, and IM and FT Tadej Sakelsek. The ECU annual training program is open for all ages and levels&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/",
+         "pubDate" : "Tue, 06 Sep 2022 06:35:47 +0000",
+         "title" : "3rd ECU annual training program - Develop practical way of thinking"
+      },
+      {
+         "description" : "Major drama in connection with the Monday round at the 2022 Sinquefield Cup:&#38;nbsp;World Champion GM Magnus Carlsen withdrew from the event without explaining publicly the reason, but from the overall reaction, it seemed clear that accusations of f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-4",
+         "pubDate" : "Mon, 05 Sep 2022 20:30:20 -0700",
+         "title" : "Wesley So Leads Sinquefield Cup After Carlsen Withdraws"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-4",
+         "pubDate" : "Tue, 06 Sep 2022 03:29:07 +0000",
+         "title" : "2022 Sinquefield Cup: Round 4"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich talks to Alejandro Ramirez after Magnus Carlsen's withdrawal during the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tony-rich-magnus%E2%80%99s-decision-personal-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VElLYxf",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -159,7 +183,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-results-and-qulaifiers/",
          "pubDate" : "Mon, 05 Sep 2022 15:49:50 +0000",
-         "title" : "UK Open Blitz results and qulaifiers"
+         "title" : "UK Blitz 2022 - results and qualifiers"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Students and graduate students with chess-related, staff-supervised research projects <a href=\"https://www.chessable.com/blog/chessable-research-awards/\">can apply</a> for the <strong>Chessable Research Awards</strong> until 1 October. </div> ",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dominguez-couldn%E2%80%99t-find-killing-blow-nepo-round-3",
          "pubDate" : "Mon, 05 Sep 2022 00:28:16 +0000",
          "title" : "Dominguez: Couldn't Find Killing Blow on Nepo | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Aronian in the third round of the 2022 Sinquefield Cup. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-brilliancy-prize-contender-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G4wnI2AU-BA.jpg?itok=wHIjmWqv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-brilliancy-prize-contender-round-3",
-         "pubDate" : "Mon, 05 Sep 2022 00:28:16 +0000",
-         "title" : "Firouzja: Brilliancy Prize Contender? | Round 3"
       },
       {
          "description" : "",
@@ -1600,14 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1937",
          "pubDate" : "Tue, 23 Aug 2022 19:02:15 +0000",
          "title" : "Belgian Championship 2022: Daniel Dardha clinches third title"
-      },
-      {
-         "description" : "GM Sam Sevian won the Qualifier 1 Swiss stage of the 2022 Fischer Random World Championship on Monday, refusing a draw in the last round to go for more. GMs Aleksandr Shimanov and Vladimir Fedoseev finished in second and third with seven points ea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d1",
-         "pubDate" : "Tue, 23 Aug 2022 09:47:00 -0700",
-         "title" : "Sevian Refuses Last-Round Draw Offer, Wins Fischer Random Swiss"
       },
       {
          "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272218316-GAEDZ6W8BXBKS0DCCX90/lula.chennai.jpg\" data-image-dimensions=\"680x453\" data-image-focal-point=\"0.5,0.5\" alt=\"lula.chennai.jpg\" data-load=\"false\" data-image-id=\"6305009a0114e12f2e7dde47\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272218316-GAEDZ6W8BXBKS0DCCX90/lula.chennai.jpg?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272233673-UWVDJQ6Q6D8QHNOYW4TZ/467px-JohnDonaldson0301_034.jpg\" data-image-dimensions=\"467x600\" data-image-focal-",
