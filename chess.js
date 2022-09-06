@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich talks to Alejandro Ramirez after Magnus Carlsen's withdrawal during the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tony-rich-magnus%E2%80%99s-decision-personal-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VElLYxf",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tony-rich-magnus%E2%80%99s-decision-personal-round-4",
+         "pubDate" : "Tue, 06 Sep 2022 00:29:04 +0000",
+         "title" : "Tony Rich: Magnus's Decision is Personal | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with Firouzja during the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-least-i-got-beat-carlsen-he-left-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rI9jAU0jhJU.jpg?itok=A2inAJPA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-least-i-got-beat-carlsen-he-left-round-4",
+         "pubDate" : "Tue, 06 Sep 2022 00:29:04 +0000",
+         "title" : "Niemann: At Least I Got to Beat Carlsen Before He Left | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after a draw with Niemann during the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-niemann%E2%80%99s-really-good-shape-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xT9orNSgk5w.jpg?itok=VBWqU-eI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-niemann%E2%80%99s-really-good-shape-round-4",
+         "pubDate" : "Tue, 06 Sep 2022 00:29:04 +0000",
+         "title" : "Firouzja: Niemann's in Really Good Shape | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after defeating MVL during the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-mvl-victory-exactly-what-i-needed-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KIlYdPjn8xM.jpg?itok=MUDhht_P\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-mvl-victory-exactly-what-i-needed-round-4",
+         "pubDate" : "Tue, 06 Sep 2022 00:29:04 +0000",
+         "title" : "Caruana: MVL Victory is Exactly What I Needed | Round 4"
+      },
+      {
          "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the tournament. Hans Niemann today played against Alireza Firouzja and missed his winning chances. The game ended in a draw with the perpetual check on the board. Replay the game here In the post-game interview, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -290,44 +322,12 @@ news_feed (
          "title" : "Firouzja: Brilliancy Prize Contender? | Round 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-5-lichessorg",
-         "pubDate" : "Mon, 05 Sep 2022 00:28:16 +0000",
-         "title" : "2022 Sinquefield Cup: Round 5 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after defeating Carlsen in the third round of the 2022 Sinquefield Cup. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-magnus-must-be-embarrassed-lose-me-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DCeJrItfQqw.jpg?itok=xD1OOKuL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-magnus-must-be-embarrassed-lose-me-round-3",
-         "pubDate" : "Mon, 05 Sep 2022 00:28:16 +0000",
-         "title" : "Niemann: Magnus Must Be Embarrassed to Lose to Me | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Alejandro Ramirez after defeating Caruana in the third round of the 2022 Sinquefield Cup. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-grinds-caruana-marathon-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XisssVaw0TQ.jpg?itok=WPJW1qPc\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-grinds-caruana-marathon-round-3",
-         "pubDate" : "Mon, 05 Sep 2022 00:28:16 +0000",
-         "title" : "Wesley So Grinds Caruana in a Marathon | Round 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1965",
          "pubDate" : "Sun, 04 Sep 2022 21:52:41 +0000",
          "title" : "Esipenko racks up huge score to win first Challengers Chess Tour event"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after defeating Mamedyarov in the second round of the 2022 Sinquefield Cup. 2022.09.03<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-live-rating-2695-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O1EZ84kK3Ps.jpg?itok=AdiNXWvG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-live-rating-2695-day-2",
-         "pubDate" : "Sun, 04 Sep 2022 21:28:05 +0000",
-         "title" : "Niemann: Live Rating 2695! | Day 2"
       },
       {
          "description" : " What do you make of this position? This position was displayed recently by popular chess Twitter personality and adult improver Neal Bruce, taken from Silman's Reassess Your Chess (4th edition). It's suitable for players rated 1600-2000. White to move: what would you play and why? Well, what do you think? This position interested me for <a href=\"https://chessimprover.com/a-positional-question/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Positional Question\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-positional-question/\">A Positional Question</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
