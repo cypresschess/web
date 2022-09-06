@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, and thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this! On this Fritztrainer, IM Oliver Reeh has compiled his favorites from the CBM column \" Tune your Tactics\" issues 186 to 208.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-master-class-tactics-train-your-combination-skills-vol-1-and-vol-2",
+         "pubDate" : "Tue, 06 Sep 2022 16:00:00 +0100",
+         "title" : "New: Master Class Tactics - Train your combination skills! Vol.1 and Vol. 2"
+      },
+      {
+         "description" : " The Sinquefield Cup was rocked after world champion Magnus Carlsen withdrew from the tournament after losing to Hans Moke Niemann the previous round. Carlsen tweeted his decision and included a video of Jos&eacute; Mourinho, head coach of Italian Serie A Club Roma. In that case, Mourinho had accused referees of cheating against his team with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/\">Carlsen bolts Sinquefield after loss; rumors swirl</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/",
+         "pubDate" : "Tue, 06 Sep 2022 14:43:58 +0000",
+         "title" : "Carlsen bolts Sinquefield after loss; rumors swirl"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO</strong> (September 5, 2022) - On Monday, September 5, 2022, Magnus Carlsen, the reigning world chess champion and Grand Chess Tour wildcard player, elected to withdraw from the Sinquefield Cup, currently being held at the Saint Louis Chess Club in Saint Louis, MO through September 12, 2022. \"A player's decision to withdraw from a tournament is a personal decision, and we respect Magnus' choice, '' said Tony Rich, Executive Director of the Saint Louis Chess Club. \"We look forward to hosting Magnus at a future event in Saint Louis.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/reigning-world-chess-champion-magnus-carlsen-withdraws-sinquefield-cup-currently-being-held",
+         "pubDate" : "Tue, 06 Sep 2022 14:24:57 +0000",
+         "title" : "Reigning World Chess Champion Magnus Carlsen Withdraws from Sinquefield Cup Currently Being Held at the Saint Louis Chess Club"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94032884.cms\" />World no. 1 Magnus Carlsen caused a major drama late on Monday night as he withdrew from the Sinquefield Cup, a classical format tournament being held at St Louis, Missouri.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-withdraws-from-sinquefield-cup-raises-eyebrows/articleshow/94032884.cms",
+         "pubDate" : "Tue, 06 Sep 2022 13:54:12 +0000",
+         "title" : "Magnus Carlsen withdraws from Sinquefield Cup, raises eyebrows"
+      },
+      {
+         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after three rounds the number one seed Wasko Hetman GKS Katowice is sole leader with 6/6. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 4 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
+         "pubDate" : "Tue, 06 Sep 2022 14:45:00 +0100",
+         "title" : "Polish \"Ekstraliga\" - live"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1f04081b-386d-49de-9b9d-61750da98636/_1121218-Edit.jpg\" data-image-dimensions=\"1400x1050\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63174863f0dd8e41fc5f054b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1f04081b-386d-49de-9b9d-61750da98636/_1121218-Edit.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Gregory Kaidanov </figcaption> </figure> <p class=\"\">This week our guest is a renowned trainer, and one of t",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/6/episode-295-gm-gregory-kaidanov-one-of-the-us-top-players-and-trainers-on-maintaining-motivation-imparting-lessons-to-students-and-his-long-journey-from-the-ussr-to-the-us",
+         "pubDate" : "Tue, 06 Sep 2022 13:20:03 +0000",
+         "title" : "Episode 295- GM Gregory Kaidanov- One of the US' top players and trainers on Maintaining Motivation, Imparting Lessons to Students, and his Long Journey from the USSR to the US. "
+      },
+      {
          "description" : "Until now, Fabiano Caruana's popular Fritztrainer series \"Navigating the Ruy Lopez\" was only available as download or on DVD and ran only on Windows or Mac OS. But since a few days the video series is also available as stream on the ChessBase video page and can also be accessed on mobile devices. Now, after ordering a download you can start the videos immediately in your browser. And customers who bought DVDs months ago can also enjoy the new streaming function!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/caruana-s-navigating-the-ruy-lopez-now-available-as-stream",
          "pubDate" : "Tue, 06 Sep 2022 14:00:00 +0100",
          "title" : "Caruana's \"Navigating the Ruy Lopez\" - now available as stream!"
+      },
+      {
+         "description" : " The decision by Magnus Carlsen to withdrew from the 2022 Sinquefield Cup is big news, but the supposed reason behind it is definitely bigger news. Carlsen himself was very careful not say more than the minimum, but online commentators have been freely speculating about what happened in game against Hans Neimann. At this stage I will not comment on whether the implied reason for withdrawing was valid, but I will point out that accusations of outside assistance seem to carry more weight if they come from a top 10 player than if they come from a lower rated player. Wesley So received a very quick hearing after his game against Petrosian in the online World Club Cup, but other cases have either",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/this-is-big.html",
+         "pubDate" : "Tue, 06 Sep 2022 12:58:00 +0000",
+         "title" : "This is big"
       },
       {
          "description" : "20-year old Andrey Esipenko was top seed in the first tournament of this year's Julius Baer Challenge and he lived up to his role: With two draws and 13 wins, he finished clear first with 41 from 45 possible points (winning a game in the Julius B&auml;r Challenge yielded 3 points). Ten points behind Raunak Sadhwani from India finished second with 31/45. | Images: Julius B&auml;r Challenge",
@@ -384,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-3",
          "pubDate" : "Sun, 04 Sep 2022 21:07:00 -0700",
          "title" : "Niemann Outplays Carlsen, Claims Lead, Crosses 2700"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Alejandro Ramirez after a draw with Nepomniachtchi in the third round of the 2022 Sinquefield Cup. 2022.09.04<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-couldn%E2%80%99t-find-killing-blow-nepo-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RVHtp7cS8Wk.jpg?itok=PFrAH9GD\" alt=\"\" /></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-couldn%E2%80%99t-find-killing-blow-nepo-round-3",
-         "pubDate" : "Mon, 05 Sep 2022 00:28:16 +0000",
-         "title" : "Dominguez: Couldn't Find Killing Blow on Nepo | Round 3"
       },
       {
          "description" : "",
@@ -1418,22 +1466,6 @@ news_feed (
          "title" : "Double standards in world chess"
       },
       {
-         "description" : "If the idea to snatch a pawn with 14...Nxc3? in the diagrammed position gives you an uneasy feeling, your chess understanding is definitely okay. And now you are invited to show how White refutes this idea!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/knight-escapades-2",
-         "pubDate" : "Sat, 27 Aug 2022 09:00:00 +0100",
-         "title" : "Knight escapades"
-      },
-      {
-         "description" : "The Saint Louis Rapid & Blitz, part of the Grand Chess Tour, kicked off on Friday. On the first three days of the event, the ten participating world-class players battle it out in a round-robin tournament of 25+10 rapid games. After the first day, on which three rounds were played, Alireza Firouzja is topping the standings with 5 points (a win is worth two points in the rapid). | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d1",
-         "pubDate" : "Sat, 27 Aug 2022 08:45:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Firouzja starts off on the right foot"
-      },
-      {
          "description" : "Top-flight chess returned to one of America&#39;s premier chess venues on Friday with the commencement of the 2022 Saint Louis Rapid &#38;amp; Blitz, the penultimate event of the Grand Chess Tour, with the day&#39;s proceedings going the way of French GM Alir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2040,14 +2072,6 @@ news_feed (
          "link" : "https://aicf.in/western-asia-junior-chess-championship-5-15-september-2022-korumdu-issyk-kul-kyrgyzstan/",
          "pubDate" : "Wed, 17 Aug 2022 09:46:22 +0000",
          "title" : "Western Asia Junior Chess Championship 5-15 September 2022 Korumdu, Issyk-Kul, Kyrgyzstan"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg\" data-image-dimensions=\"750x563\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"62fba7c2ee7391345d82b888\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0014c1d2-d685-421e-a7c3-f1a49d079644/Karen.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\"> Karen Boyd with her husband, GM Ben Finegold </figcaption> </figure> <p class=\"\">Karen Boyd is a 56 year old mother, wife and chess lover with a b",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/16/ep-292-adult-improver-karen-boyd-on-what-she-learned-from-a-busy-summer-of-tournament-chess-and-why-she-always-plays-up-against-tougher-competition",
-         "pubDate" : "Tue, 16 Aug 2022 14:23:33 +0000",
-         "title" : "EP 292- Adult Improver Karen Boyd on What She Learned from a Busy Summer of Tournament Chess, and Why she Always \"Plays Up\" Against Tougher Competition "
       }
    ]
 }
