@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two minor pieces that fight against a rook like it if both sides still have their second rook as this offers tactical possibilities. In the diagrammed position it is White to move and win. What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-are-more-than-one",
+         "pubDate" : "Tue, 06 Sep 2022 09:00:00 +0100",
+         "title" : "Two are more than one"
+      },
+      {
          "description" : "European Chess Union and European Chess Academy, supported by FIDE Development Fund, announce the annual training program in period from November 27th 2022 to May 20th 2023. The lecturers are: GM and FST Adrian Mikhalchishin, GM and FST Georg Mohr, and IM and FT Tadej Sakelsek. The ECU annual training program is open for all ages and levels&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1418,14 +1426,6 @@ news_feed (
          "title" : "GM Svetozar Gligoric, Player/Journalist"
       },
       {
-         "description" : "İş Bankası, one of the biggest commercial companies in Turkey, is celebrating its 98th anniversary on 26th August 2022. It was established by Mustafa Kemal Atat&uuml;rk, the founder of the Turkish Republic (now known as T&uuml;rkiye), on 26th August 1924. The Bank became the sponsor of the Turkish Chess Federation on 24th December 2005.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-turkey-is-bankasi-anniversary",
-         "pubDate" : "Fri, 26 Aug 2022 16:00:00 +0100",
-         "title" : "Chess in Turkey - Is Bankasi anniversary"
-      },
-      {
          "description" : "<h1 style=\"text-align: left;\">2022 ACT Women's and Girls' Chess Championship - Sunday 11 September 2022</h1>7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List)<br /><br />Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am<br />Lunch Break 1pm-1:30pm<br />Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm<br /><br /><b>Prizes - 1st $250 2nd $125 3rd $75</b> Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10<br /><br />Max. two half-point byes available for Rounds 1-4.<br /><br />Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free.<br /><br />+ <b>Novices event for unrated ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-july-2022/",
          "pubDate" : "Tue, 16 Aug 2022 10:40:08 +0000",
          "title" : "ECU E-Magazine July 2022"
-      },
-      {
-         "description" : " &#8220;I will not return alive if I do not defeat the Jin army!&#8221; General Muqali All chess enthusiasts have been treated royally between the end of July and the beginning of August. The Chennai Chess Olympiad has been exciting, well organized and well presented in the media both live and online. I have been rooting <a href=\"https://chessimprover.com/the-mongolian-tactic-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Mongolian Tactic (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-mongolian-tactic-3/\">The Mongolian Tactic (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-mongolian-tactic-3/",
-         "pubDate" : "Tue, 16 Aug 2022 07:30:00 +0000",
-         "title" : "The Mongolian Tactic (3)"
       }
    ]
 }
