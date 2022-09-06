@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ It is possible you will find below selection easy to solve. In anticipation of that, I am adding one more challenge. <a href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\">Chess 2022 March Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-2022-march-exotic-wackos/",
+         "pubDate" : "Tue, 06 Sep 2022 22:35:35 +0000",
+         "title" : "Chess 2022 - March Exotic Wackos"
+      },
+      {
          "description" : " <p class=\"lead\">Jose Mourinho, celebrated football manager, made an unexpected (yet dramatic) appearance in the world of elite chess, and now has a <a href=\"https://chessarena.com/tournaments/21645\">tournament</a> named after him and his statement \"If I speak, I will be in big trouble\". <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0095EC32-9216-4B0A-9532-8DB1AAD08124.jpeg\" width=\"1000\" height=\"1000\" alt=\"\" /> </div> Mourinho's cameo in chess is due to Magnus Carlsen, the World Champion, who suprisingly dropped out of the elite St. Louis Rapid and Blitz Tournament. The only explanation for this unprecedented action was Carlsen's very cryptic clip of Jose's sta",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
