@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> withdrew for the first time during a tournament before round four of the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Mo",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsen-withdraws/",
+         "pubDate" : "Tue, 06 Sep 2022 19:56:08 +0100",
+         "title" : "Carlsen withdraws"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "New: Master Class Tactics - Train your combination skills! Vol.1 and Vol. 2"
       },
       {
-         "description" : " The Sinquefield Cup was rocked after world champion Magnus Carlsen withdrew from the tournament after losing to Hans Moke Niemann the previous round. Carlsen tweeted his decision and included a video of Jos&eacute; Mourinho, head coach of Italian Serie A Club Roma. In that case, Mourinho had accused referees of cheating against his team with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/\">Carlsen bolts Sinquefield after loss; rumors swirl</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Sinquefield Cup was rocked after world champion Magnus Carlsen withdrew from the tournament after losing to Hans Moke Niemann the previous round. Carlsen tweeted his decision and included a video of Jos&eacute; Mourinho, head coach of Italian Serie A Club Roma. Mourinho has a history of accusing referees of cheating against his team with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/\">Carlsen bolts Sinquefield after loss; rumors swirl</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/",
@@ -328,14 +336,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/",
          "pubDate" : "Mon, 05 Sep 2022 19:12:28 +0000",
          "title" : "Magnus Carlsen Walks Out Of the Sinquefield Cup"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Before the fourth round <strong>Magnus Carlsen</strong> withdrew from the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Moke Niemann</strong> whose earli",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-withdraws/",
-         "pubDate" : "Mon, 05 Sep 2022 19:00:35 +0100",
-         "title" : "Carlsen withdraws"
       },
       {
          "description" : "In the Endgame Magic Show #210 Arne K&auml;hler and Karsten M&uuml;ller look at endgame highlights from the St. Louis Rapid & Blitz tournament, which Alireza Firouzja won with four rounds to spare. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
