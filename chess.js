@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the last weekend of August, the 31. \"Ukrainian Independence Cup\" was organised in Kiev to time to celebrate Ukrainian independence. Almost a 100 players took part in the event which featured a rapid (15'+10\") and a blitz (3'+2\" ) tournament. IM Valeriy Grinev won both tournaments. Olexandr Prohorov reports. | Photo: The champions, among them tournament winner IM Valeriy Grinev with his trophy. | Photos: Oleksandr Prohorov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ukrainian-independence-cup-2022",
+         "pubDate" : "Tue, 06 Sep 2022 11:42:12 +0100",
+         "title" : "Valeriy Grinev wins Ukrainian Independence Cup 2022"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022. With no detailed explanations, Carlsen tweeted that Saint Louis Chess Club is one of the places he&#x2019;s always enjoyed playing, and that he hopes to be back in the future. On short notice, social medias were overwhelmed with rumors and Carlsen&#x2019;s possible reasons for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-improves-anti-cheating-measures-after-carlsens-withdrawal/",
+         "pubDate" : "Tue, 06 Sep 2022 10:37:11 +0000",
+         "title" : "Sinquefield Cup 2022 improves anti-cheating measures after Carlsen's withdrawal"
+      },
+      {
+         "description" : "The day 4 of the Sinquefield Cup 2022 started with shocking news as it was announced that&#xA0;World Champion Magnus Carlsen withdrew from the 2022 tournament&#xA0;prior to the start of his Round 4 game against Shakhriyar Mamedyarov. Carlsen did not yet give a specific reason for his withdrawal, tweeting that he hopes to be back in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-was-thoroughly-checked-before-the-fourth-round-of-the-sinquefield-cup-video/",
+         "pubDate" : "Tue, 06 Sep 2022 10:14:59 +0000",
+         "title" : "Hans Niemann was thoroughly checked before the fourth round of the Sinquefield Cup (VIDEO)"
+      },
+      {
+         "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen withdrew from the Sinquefield Cup 2022 after his loss to Hans Niemann in Round 3. Multiple tweets, streams, comments, and security checks later, the accusation of Niemann cheating is pretty obvious! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PIulWkTHuu0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Let's start from the beginning (shout out to <a href=\"https://www.reddit.com/r/chess/comments/x6xdk0/the_whole_hans_niemannmagnus_carlsen_withdrawal/\">u/BKtheInfamous on reddit</a> who created a dope saga) <p class=\"lead\">1. Magnus Carlsen <a href=\"https://worldchess.com/news/all/hans-niemann-",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/did-hans-niemann-actually-cheat-all-the-info-so-far/",
+         "pubDate" : "Tue, 06 Sep 2022 09:47:03 +0000",
+         "title" : "Did Hans Niemann actually cheat? All the info so far"
+      },
+      {
+         "description" : "For the first time in his career, world champion Magnus Carlsen has withdrawn from a professional tournament. Before the start of the Sinquefield Cup's fourth round, the Norwegian shared his decision on Twitter, adding a short clip in which football coach Jos&eacute; Mourinho says, \"If I speak I'm in big trouble\". Since the withdrawal came before the halfway point, Carlsen's results will not be considered. As for the chess, round 4 saw Fabiano Caruana beating Maxime Vachier-Lagrave, while Wesley So is now the sole leader with 2&frac12;/4 points. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r4",
+         "pubDate" : "Tue, 06 Sep 2022 10:00:00 +0100",
+         "title" : "Sinquefield Cup: Carlsen withdraws, Caruana scores"
+      },
+      {
+         "description" : "The day started with shocking news as it was announced that World Champion Magnus Carlsen withdrew from the 2022 Sinquefield Cup prior to the start of his Round 4 game against Shakhriyar Mamedyarov. Carlsen did not yet give a specific reason for his withdrawal, tweeting the following statement. The story so far: Magnus Carlsen withdrew []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-takes-the-lead-in-the-sinquefield-cup-2022-as-carlsens-results-get-annulled/",
+         "pubDate" : "Tue, 06 Sep 2022 08:10:34 +0000",
+         "title" : "Wesley So takes the lead in the Sinquefield Cup 2022 as Carlsen's results get annulled"
+      },
+      {
+         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-5-live/",
+         "pubDate" : "Tue, 06 Sep 2022 08:06:59 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 5 LIVE"
+      },
+      {
          "description" : "Two minor pieces that fight against a rook like it if both sides still have their second rook as this offers tactical possibilities. In the diagrammed position it is White to move and win. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/two-are-more-than-one",
          "pubDate" : "Tue, 06 Sep 2022 09:00:00 +0100",
          "title" : "Two are more than one"
+      },
+      {
+         "description" : "Magnus Carlsen's shock withdrawal from the Sinquefield Cup overshadowed everything else in Round 4, but the chess went on. Fabiano Caruana scored the only win, defeating Maxime Vachier-Lagrave in 92 moves, while Hans Niemann lost his lead to Wesley So after failing to convert a winning position against Alireza Firouzja.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-4-fabi-wins-so-leads-as-life-goes-on-without-magnus",
+         "pubDate" : "Tue, 06 Sep 2022 07:53:29 +0000",
+         "title" : "Sinquefield Cup 4: Fabi wins, So leads, as life goes on without Magnus"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1967",
+         "pubDate" : "Tue, 06 Sep 2022 07:52:28 +0000",
+         "title" : "2022 Sinquefield Cup: Carlsen withdraws, So in the lead"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022 yesterday as he didn't show up for the game against Shakhriyar Mamedyarov. The chess community was stunned by Carlsen's withdrawal and the rumors have overwhelmed social media. However, Carlsen didn't publish a public statement on the matter. The story so far: Magnus Carlsen withdrew []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-cant-wait-to-hear-more-about-the-hans-effect-on-the-magnus-effect/",
+         "pubDate" : "Tue, 06 Sep 2022 07:52:15 +0000",
+         "title" : "Fabiano Caruana: Can't wait to hear more about the Hans effect on The Magnus Effect #TweetOftheDay"
       },
       {
          "description" : "European Chess Union and European Chess Academy, supported by FIDE Development Fund, announce the annual training program in period from November 27th 2022 to May 20th 2023. The lecturers are: GM and FST Adrian Mikhalchishin, GM and FST Georg Mohr, and IM and FT Tadej Sakelsek. The ECU annual training program is open for all ages and levels&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/\">Read More &#187;</a></span>",
@@ -22,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-4",
-         "pubDate" : "Mon, 05 Sep 2022 20:30:20 -0700",
+         "pubDate" : "Mon, 05 Sep 2022 20:30:00 -0700",
          "title" : "Wesley So Leads Sinquefield Cup After Carlsen Withdraws"
       },
       {
@@ -66,7 +146,7 @@ news_feed (
          "title" : "Caruana: MVL Victory is Exactly What I Needed | Round 4"
       },
       {
-         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the tournament. Hans Niemann today played against Alireza Firouzja and missed his winning chances. The game ended in a draw with the perpetual check on the board. Replay the game here In the post-game interview, []",
+         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the tournament. Hans Niemann today played against Alireza Firouzja and missed his winning chances. The game ended in a draw with the perpetual check on the board. Replay the game here The story so far: []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hans-niemann-at-least-i-got-to-beat-magnus-carlsen-before-he-left/",
@@ -74,7 +154,7 @@ news_feed (
          "title" : "Hans Niemann: At least I got to beat Magnus Carlsen before he left"
       },
       {
-         "description" : "Magnus Carlsen withdrew from the Sinquefield Cup 2022 without a detailed explanation. The chess world was shaken by the breaking news and the rumors of Carlsen's possible reasons for withdrawal started spreading over social media. After the quick round 4 draw against Wesley So, Ian Nepomniachtchi gave a short post-game interview and commented on Magnus's []",
+         "description" : "Magnus Carlsen withdrew from the Sinquefield Cup 2022 without a detailed explanation. The chess world was shaken by the breaking news and the rumors of Carlsen's possible reasons for withdrawal started spreading over social media. The story so far: Magnus Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations. Possible reasons of Magnus Carlsen's []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/sinquefield-cups-players-and-organizers-react-to-carlsens-withdrawal-from-the-tournament/",
@@ -146,14 +226,6 @@ news_feed (
          "title" : "Magnus Carlsen Walks Out Of the Sinquefield Cup"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Mon, 05 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup: Live"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The team reacts to the news that Magnus Carlsen will not play his game against Mamedyarov at the start of the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-magnus-carlsen-will-not-play-today-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kiD2uT5V8A.jpg?itok=3",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -162,7 +234,7 @@ news_feed (
          "title" : "BREAKING: Magnus Carlsen Will Not Play Today | Round 4"
       },
       {
-         "description" : "After yesterday's tough loss to 19-year-old Hans Niemann, World Chess Champion Magnus Carlsen decided to withdraw from the Sinquefield Cup 2022. Carlsen didn't explain his reasons for withdrawal but only said that he always enjoyed playing in the Saint Louis Chess Club and that he hopes he will be back in the future. Possible reasons []",
+         "description" : "After yesterday's tough loss to 19-year-old Hans Niemann, World Chess Champion Magnus Carlsen decided to withdraw from the Sinquefield Cup 2022. Carlsen didn't explain his reasons for withdrawal but only said that he always enjoyed playing in the Saint Louis Chess Club and that he hopes he will be back in the future. The first []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/breaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022/",
@@ -191,7 +263,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-results-and-qulaifiers/",
          "pubDate" : "Mon, 05 Sep 2022 15:49:50 +0000",
-         "title" : "UK Blitz 2022 - results and qualifiers"
+         "title" : "UK Blitz 2022 - results and qualifiers to date"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Students and graduate students with chess-related, staff-supervised research projects <a href=\"https://www.chessable.com/blog/chessable-research-awards/\">can apply</a> for the <strong>Chessable Research Awards</strong> until 1 October. </div> ",
@@ -200,6 +272,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/research-stipendia-by-chessable/",
          "pubDate" : "Mon, 05 Sep 2022 16:25:25 +0100",
          "title" : "Research stipendia by Chessable"
+      },
+      {
+         "description" : "The most recent post on my chess960 blog, <A HREF=\"http://chess960frc.blogspot.com/2022/08/tcec-dfrc1.html\">TCEC DFRC1</A>(August 2022), mentioned a new idea in the specialized world of chess engines:- <BLOCKQUOTE>'!chess324 &#149; A subset of DFRC where the Kings and the Rooks are at the usual starting position. Since castling is standard, this allows all engines to play.' For more about that definition, see <I>Chess324</I> (talkchess.com; lkaufman, aka Larry Kaufman of Komodo++ fame). </BLOCKQUOTE> <P>That Talkchess thread ran its course and eventually died out, then came roaring back with a follow-up post by the same lkaufman: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=8048",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/chess324-is-thing.html",
+         "pubDate" : "Mon, 05 Sep 2022 15:07:00 +0000",
+         "title" : "Chess324 Is a Thing"
       },
       {
          "description" : "The August issue of BCM is dedicated to the centenary of the great London 1922 tournament which saw the greatest players in the world take part, including Jose Raul Capablanca who appeared in public for the first time since winning the World Title. With century-old comments about the tournament and photos, and with contemporary reviews of the event and the opening theory, the August issue of BCM includes everything you need to know about the great London 1922 event.",
@@ -218,28 +298,12 @@ news_feed (
          "title" : "Daniel Dardha, \"I am excited about crossing the 2600 mark\""
       },
       {
-         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after two rounds KSz Hetman Plock and GKS Katowice lead with 4/4. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 3 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
-         "pubDate" : "Mon, 05 Sep 2022 14:45:00 +0100",
-         "title" : "Polish \"Ekstraliga\" - live"
-      },
-      {
          "description" : "Entries for this course https://www.englishchess.org.uk/ecf-arbiter-course-registration/ &#8212; will close at 5.00pm tomorrow September 6th. Please enter now if you plan to.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/level-1-arbiter-course-september-2022-closing-date/",
          "pubDate" : "Mon, 05 Sep 2022 13:14:44 +0000",
          "title" : "Level 1 Arbiter Course September 2022 closing date"
-      },
-      {
-         "description" : "The 5th edition of the Concello de Carballo Clasico took place from 26 August 3 September in Carballo, Spain. The event was played in 9 rounds, swiss system, and featured a prize fund of 5.000 euros. After 9 played rounds, four players tied for the first place scoring 7 points each. GM Vladimir Petkov []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-vladimir-petkov-wins-5th-concello-de-carballo-clasico/",
-         "pubDate" : "Mon, 05 Sep 2022 12:27:00 +0000",
-         "title" : "GM Vladimir Petkov wins 5th Concello de Carballo Clasico"
       },
       {
          "description" : "In his two-volume course \"Winning Chess Strategies\", French Grandmaster Romain Édouard shows how to play for a win, even when the position seems to be balanced and equal. Stefan Liebig reviewed the course for the German chess magazine \"Schachmagazin 64\" and liked what he saw.",
@@ -274,14 +338,6 @@ news_feed (
          "title" : "Hans Niemann beats Carlsen to cross 2700 at the Sinquefield Cup 2022"
       },
       {
-         "description" : "The Poble de Montserrat Chess Open 2022 took place from August 29th September 4th in Montserrat, Spain. The event was played in 9 rounds, swiss system, with a total prize fund of ~2.500 euros. FM Nahun Gavarrete was the sole winner of the event as he scored convincing 7.5 points. After five consecutive victories []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fm-nahun-gavarrete-is-the-winner-of-poble-de-montserrat-open-2022/",
-         "pubDate" : "Mon, 05 Sep 2022 11:14:00 +0000",
-         "title" : "FM Nahun Gavarrete is the winner of Poble de Montserrat Open 2022"
-      },
-      {
          "description" : "In a shocking development, Hans Niemann, the tournament underdog, defeated Magnus Carlsen with the black pieces to take the sole lead at the Sinquefield Cup. Niemann's victory prompted him to cross the 2700-rating barrier. Alireza Firouzja and Wesley So also won in round 3, with Firouzja set to face the in-form Niemann in Monday's fourth round. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,30 +352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1966",
          "pubDate" : "Mon, 05 Sep 2022 08:18:42 +0000",
          "title" : "2022 Sinquefield Cup: Niemann beat Carlsen to grab the lead"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen had an interesting start at the Sinquefield Cup 2022, as he defeated Ian Nepomniachtchi in the first round, drew against Levon Aronian on the second day, losing to 19-year-old Hans Niemann in the round 3. Carlsen today faces Shakhriyar Mamedyarov who scores 1/3 points. Sinquefield Cup 2022:&#xA0;Pairings &#38; Schedule&#xA0;/&#xA0;Live games&#xA0;/&#xA0;Day []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-shakhriyar-mamedyarov-sinquefield-cup-2022-r4-live/",
-         "pubDate" : "Mon, 05 Sep 2022 06:53:48 +0000",
-         "title" : "Magnus Carlsen vs Shakhriyar Mamedyarov, Sinquefield Cup 2022 R4 LIVE"
-      },
-      {
-         "description" : "Hans Niemann is having a blast at the 2022 Sinquefield Cup as he scores 2/3 points. Niemann scored his first-ever victory against a 2750+ player in the second round of the event, explaining that he is not surprised that he is beating the top-level players. He then beat the World Chess Champion Magnus Carlsen in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-alireza-firouzja-sinquefield-cup-2022-r4-live/",
-         "pubDate" : "Mon, 05 Sep 2022 06:49:54 +0000",
-         "title" : "Hans Niemann vs Alireza Firouzja, Sinquefield Cup 2022 R4 LIVE"
-      },
-      {
-         "description" : "In a sensational upset GM Hans Niemann defeated World Champion Magnus Carlsen with the Black pieces in their first ever classical encounter, overtaking the sole lead in the 2022 Sinquefield Cup and crossing 2700 for the first time in his career. In the meantime, Alireza Firouzja won a brilliant game against Levon Aronian, while Wesley []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-beats-magnus-carlsen-to-be-in-the-sole-lead-of-the-sinquefield-cup-2022/",
-         "pubDate" : "Mon, 05 Sep 2022 06:48:00 +0000",
-         "title" : "Hans Niemann beats Magnus Carlsen to be in the sole lead of the Sinquefield Cup 2022"
       },
       {
          "description" : "\"It must be embarrassing for the World Champion to lose to me - I feel bad for him!\" said Hans Niemann after an incredible Round 3 of the Sinquefield Cup. He not only beat Magnus with the black pieces, ending a 53-game unbeaten streak, but also crossed 2700 on the live rating list and took the sole lead. That overshadowed big wins for Alireza Firouzja (over Levon Aronian) and Wesley So (over Fabiano Caruana).",
@@ -1898,14 +1930,6 @@ news_feed (
          "title" : "Lagno defeats Vaishali to advance into the final"
       },
       {
-         "description" : "Praggnanandhaa survived a thrilling final game to clinch a 3:1 victory over Levon Aronian and move to a perfect 12/12 after Round 4 of the FTX Crypto Cup. Pragg is still level with Magnus Carlsen, who pounced on blunders to beat Liem Le 3:1, while Alireza Firouzja is 4 points behind in 3rd place after winning a rollercoaster battle with Jan-Krzysztof Duda. Hans Niemann talked about ways to \"numb the pain\" as he went on to lose to Anish Giri.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-4-pragg-beats-aronian-to-match-magnus",
-         "pubDate" : "Fri, 19 Aug 2022 10:31:37 +0000",
-         "title" : "FTX Crypto Cup 4: Pragg beats Aronian to match Magnus"
-      },
-      {
          "description" : "The 22nd edition of the European Women's Individual Chess Championship starts tomorrow at Don Giovanni hotel in Prague, Czech Republic, and will be played from 20 30 August. 125 players from 27 European federations registered for the event, with 7 Grandmasters, 21 International masters, 23 Women grandmasters, 28 Women International masters and a total of 108 titled&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-starts-in-prague/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2032,14 +2056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-beats-firouzja-in-ftx-crypto-cup-chess/articleshow/93594503.cms",
          "pubDate" : "Tue, 16 Aug 2022 11:59:29 +0000",
          "title" : "Praggnanandhaa beats Firouzja in FTX Crypto Cup chess"
-      },
-      {
-         "description" : "The ECU E-Magazine July 2022 is out! In the July 2022 edition of the ECU E-Magazine you may read about: Chess Olympiad 2022 in Chennai, India ECU General Assembly &#38; Elections 2022 FIDE General Assembly &#38; Elections 2022 European Senior Chess Championship 2022 European Youth Team Chess Championship 2022 European Youth Rapid&#38;Blitz Chess Championship 2022 European Amateur Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-july-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-july-2022/",
-         "pubDate" : "Tue, 16 Aug 2022 10:40:08 +0000",
-         "title" : "ECU E-Magazine July 2022"
       }
    ]
 }
