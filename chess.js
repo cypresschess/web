@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Tue, 06 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-6-lichessorg",
+         "pubDate" : "Tue, 06 Sep 2022 18:29:47 +0000",
+         "title" : "2022 Sinquefield Cup: Round 6 | lichess.org"
+      },
+      {
+         "description" : "The top German player and one of the best juniors in the world Vincent Keymer is now officially part of the 2700 club. With the win against IM Micha&#x142; Luch in the Polish Ekstraliga, Vincent Keymer breaks the magic mark of 2700 Elo points for the first time and moves up to 42nd place in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vincent-keymer-is-now-part-of-the-2700-club/",
+         "pubDate" : "Tue, 06 Sep 2022 17:19:10 +0000",
+         "title" : "Vincent Keymer is now part of the 2700 club"
+      },
+      {
+         "description" : "In the Semi-Slav, Black enjoys clear-cut development, a rock-solid position free of weaknesses, and the ability to switch gears between razor-sharp and quiet positional chess. Contrast that to White, who now faces a &#x201C;darned if you do, darned if you don&#x2019;t&#x201D; dilemma. Inside Seriously Shock The Semi-Slav, GM Sipke Ernst rediscovers an anti Semi-Slav sideline []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/semi-slav-by-gm-sipke-ernst/",
+         "pubDate" : "Tue, 06 Sep 2022 17:01:40 +0000",
+         "title" : "Semi-Slav by GM Sipke Ernst"
+      },
+      {
          "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, and thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this! On this Fritztrainer, IM Oliver Reeh has compiled his favorites from the CBM column \" Tune your Tactics\" issues 186 to 208.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,28 +274,12 @@ news_feed (
          "title" : "Hans Niemann: At least I got to beat Magnus Carlsen before he left"
       },
       {
-         "description" : "Magnus Carlsen withdrew from the Sinquefield Cup 2022 without a detailed explanation. The chess world was shaken by the breaking news and the rumors of Carlsen's possible reasons for withdrawal started spreading over social media. The story so far: Magnus Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations. Possible reasons of Magnus Carlsen's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cups-players-and-organizers-react-to-carlsens-withdrawal-from-the-tournament/",
-         "pubDate" : "Mon, 05 Sep 2022 22:09:08 +0000",
-         "title" : "Sinquefield Cup's players and organizers react to Carlsen's withdrawal from the tournament"
-      },
-      {
          "description" : "Last Friday we showed you some unusual and interesting studies. You may have found them somewhat difficult to solve, on our replay diagrams, where in some cases an engine would defend against your attempts to win. Today we bring you the solutions, with full explanations, provided in video streams that anyone can follow.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/entertaining-studies-solutions",
          "pubDate" : "Mon, 05 Sep 2022 22:55:37 +0100",
          "title" : "Entertaining studies - solutions"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022. With no detailed explanations, Carlsen said that Saint Louis Chess Club is one of the places he's always enjoyed playing, and that he hopes to be back in the future. On short notice, social medias were overwhelmed with rumors and Carlsen's possible reasons for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/possible-reasons-of-magnus-carlsens-withdrawal-from-the-sinquefield-cup-2022/",
-         "pubDate" : "Mon, 05 Sep 2022 21:44:10 +0000",
-         "title" : "Possible reasons of Magnus Carlsen's withdrawal from the Sinquefield Cup 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team reacts to the news that Magnus Carlsen has withdrawn from the event at the start of the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-magnus-carlsen-withdraws-sinquefield-cup-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CzCZYxAouCI.jpg?itok=rjqeodld",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/",
          "pubDate" : "Mon, 05 Sep 2022 19:12:28 +0000",
          "title" : "Magnus Carlsen Walks Out Of the Sinquefield Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team reacts to the news that Magnus Carlsen will not play his game against Mamedyarov at the start of the fourth round of the 2022 Sinquefield Cup. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-magnus-carlsen-will-not-play-today-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kiD2uT5V8A.jpg?itok=3",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/breaking-magnus-carlsen-will-not-play-today-round-4",
-         "pubDate" : "Mon, 05 Sep 2022 18:28:47 +0000",
-         "title" : "BREAKING: Magnus Carlsen Will Not Play Today | Round 4"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Before the fourth round <strong>Magnus Carlsen</strong> withdrew from the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Moke Niemann</strong> whose earli",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1943",
          "pubDate" : "Sat, 27 Aug 2022 19:11:18 +0000",
          "title" : "2022 FIDE General Assembly: List of decisions"
-      },
-      {
-         "description" : "On 30 June 1908, just after 7 AM (all dates correspond to our Gregorian calendar), an explosion occurred in the harsh forests in Siberia near the Tunguska river. The explosion happened over an area that is nearly unpopulated, so apart from an estimated 80 million trees (and, we suppose, the wildlife in that area of 2150 km ²) only three humans died in the event that would likely have been a major catastrophe if it had happened over a densely populated area.| Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-alexander-petrovich-kazantsev-a-life-between-science-fiction-and-science-fiction",
-         "pubDate" : "Sat, 27 Aug 2022 15:30:00 +0100",
-         "title" : "Study of the Month - Alexander Petrovich Kazantsev: A life between science, fiction, and science-fiction"
       },
       {
          "description" : "",
