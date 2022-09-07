@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just one game in round five of the 2022 Sinquefield Cup was close to seeing a winner, and that was in the encounter between the two American GMs Leinier Dominguez and Hans Niemann. Dominguez had an overwhelming position but let Niemann off the hoo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-round-5",
+         "pubDate" : "Tue, 06 Sep 2022 18:06:52 -0700",
+         "title" : "Dominguez Squeezes Niemann But No Winners"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with Dominguez during the fifth round of the 2022 Sinquefield Cup. Hans defends himself on rumors of cheating, his accent, and much more. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-i-have-never-cheated-over-board-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbn",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-i-have-never-cheated-over-board-round-5",
+         "pubDate" : "Wed, 07 Sep 2022 00:30:07 +0000",
+         "title" : "Niemann: I Have NEVER Cheated Over The Board | Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-5",
+         "pubDate" : "Wed, 07 Sep 2022 00:30:07 +0000",
+         "title" : "2022 Sinquefield Cup: Round 5"
+      },
+      {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ It is possible you will find below selection easy to solve. In anticipation of that, I am adding one more challenge. <a href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\">Chess 2022 March Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/",
          "pubDate" : "Tue, 06 Sep 2022 14:43:58 +0000",
          "title" : "Carlsen bolts Sinquefield after loss; rumors swirl"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO</strong> (September 5, 2022) - On Monday, September 5, 2022, Magnus Carlsen, the reigning world chess champion and Grand Chess Tour wildcard player, elected to withdraw from the Sinquefield Cup, currently being held at the Saint Louis Chess Club in Saint Louis, MO through September 12, 2022. \"A player's decision to withdraw from a tournament is a personal decision, and we respect Magnus' choice, '' said Tony Rich, Executive Director of the Saint Louis Chess Club. \"We look forward to hosting Magnus at a future event in Saint Louis.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/reigning-world-chess-champion-magnus-carlsen-withdraws-sinquefield-cup-currently-being-held",
-         "pubDate" : "Tue, 06 Sep 2022 14:24:57 +0000",
-         "title" : "Reigning World Chess Champion Magnus Carlsen Withdraws from Sinquefield Cup Currently Being Held at the Saint Louis Chess Club"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94032884.cms\" />World no. 1 Magnus Carlsen caused a major drama late on Monday night as he withdrew from the Sinquefield Cup, a classical format tournament being held at St Louis, Missouri.",
@@ -304,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-4",
          "pubDate" : "Mon, 05 Sep 2022 20:30:00 -0700",
          "title" : "Wesley So Leads Sinquefield Cup After Carlsen Withdraws"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.05<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-4",
-         "pubDate" : "Tue, 06 Sep 2022 03:29:07 +0000",
-         "title" : "2022 Sinquefield Cup: Round 4"
       },
       {
          "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the tournament. Hans Niemann today played against Alireza Firouzja and missed his winning chances. The game ended in a draw with the perpetual check on the board. Replay the game here The story so far: []",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/aug/24/chess-harry-grieve-21-wins-british-championship-as-seven-year-old-shines",
          "pubDate" : "Wed, 24 Aug 2022 07:00:28 +0000",
          "title" : "Chess: Harry Grieve, 21, wins British championship as seven-year-old shines"
-      },
-      {
-         "description" : "GMs Eric Hansen&#38;nbsp;and Vladimir Fedoseev advanced to the Qualifier 1 final of the 2022 Fischer Random World Championship on Tuesday. Though they achieved the same result, the two players had vastly different journeys. Hansen literally danced to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d2",
-         "pubDate" : "Tue, 23 Aug 2022 21:43:00 -0700",
-         "title" : "Hansen Dances to 4-0, Fedoseev Fights to Final"
       },
       {
          "description" : " From the publisher: &#8220;Chris Ross has come a long way from the back streets of Middlesbrough to a senior administrative role at Sheffield Hallam University, helping the education of those with a wide range of disabilities. A former teacher, Chris's natural ability to educate has developed many of his colleagues in UK chess clubs - <a href=\"http://britishchessnews.com/2022/08/24/blind-faith/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Blind Faith</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/24/blind-faith/\">Blind Faith</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com",
