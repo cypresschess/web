@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann&#xA0;passionately responded to the recent speculations made about him following Carlsen&#x2019;s withdrawal from the Sinquefield Cup.&#xA0;In the round 5 post-game interview of the Sinquefield Cup 2022, Niemann confessed he was cheating on chess.com and said it was the biggest mistake in his life. He added that he will not let chesscom, Magnus Carlsen and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-id-like-to-see-what-nakamura-has-to-say-now/",
+         "pubDate" : "Wed, 07 Sep 2022 09:06:31 +0000",
+         "title" : "Hans Niemann: I'd like to see what Nakamura has to say now"
+      },
+      {
+         "description" : "Hans Niemann passionately responded to the recent speculations made about him following Carlsen&#x2019;s withdrawal from the Sinquefield Cup.&#xA0;In the round 5 post-game interview of the Sinquefield Cup 2022, Niemann confessed he was cheating on chess.com and said it was the biggest mistake in his life. Niemann&#x2019;s emotional confession: I cheated in random games on chess.com []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reactions-to-hans-niemanns-interview/",
+         "pubDate" : "Wed, 07 Sep 2022 08:57:10 +0000",
+         "title" : "Reactions to Hans Niemann's interview"
+      },
+      {
+         "description" : " <p class=\"lead\">Hans Niemann is on the quest to save his reputation from the collective innuendo that resulted in Magnus Carlsen walking away from a major tournament following an embarrassing loss to Niemann. But the new chess star is actually doing more than defending. He is aggressively building up his chess reputation and going after the three names synonymous with chess: Carlsen, Nakamura, and chess.com. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2402B427-CB05-466C-A6C5-C154B3703348.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> </div> <a href=\"https://twitter.com/HansMokeNiemann/status/1567301263267696640\">https://twitter.com/HansMokeNiemann/status/15673012",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hans-niemann-on-quest-to-actually-build-his-reputation-from-the/",
+         "pubDate" : "Wed, 07 Sep 2022 08:28:58 +0000",
+         "title" : "Hans Niemann On Quest To Actually Build His Reputation From the Drama"
+      },
+      {
          "description" : "Following Magnus Carlsen's intriguing withdrawal, the Sinquefield Cup continued in Saint Louis, now as a 9-player single round-robin. All four games finished drawn in round 5, with Wesley So keeping the sole lead after splitting the point with Levon Aronian. Wendesday is a much-needed rest day, as we look forward to impressive chess games regaining centre stage as soon as possible. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r4-2",
          "pubDate" : "Wed, 07 Sep 2022 09:00:00 +0100",
          "title" : "Sinquefield Cup: Four draws"
+      },
+      {
+         "description" : "GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix has been settled, with no further details provided by either party. The settlement came eight months after a judge dismissed the streaming and production company&#39;s claim that because The ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/netflix-settles-gaprindashvili-queens-gambit-lawsuit",
+         "pubDate" : "Wed, 07 Sep 2022 00:55:00 -0700",
+         "title" : "Gaprindhashvili's 'Queen's Gambit' Lawsuit Vs. Netflix Settled"
+      },
+      {
+         "description" : "The English Chess Federation's Junior Development Pathway is a new initiative by the ECF to create a structured and formal progression plan for junior chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/junior-development-pathway/",
+         "pubDate" : "Wed, 07 Sep 2022 07:54:36 +0000",
+         "title" : "Junior Development Pathway"
+      },
+      {
+         "description" : "While all four games of the Sinquefield Cup fifth round were drawn, it seems the biggest move of the day happened during the post-game interview with Hans Niemann. He passionately responded to the recent speculations made about him following Carlsen&#x2019;s withdrawal from the Sinquefield Cup.&#xA0;Hans Niemann first analyzed his round 5 game against Leinier Dominguez []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niemanns-emotional-confession-i-cheated-in-random-games-on-chess-com-and-this-was-the-biggest-mistake-in-my-life/",
+         "pubDate" : "Wed, 07 Sep 2022 07:39:10 +0000",
+         "title" : "Niemann's emotional confession: I cheated in random games on chess.com and this was the biggest mistake in my life"
+      },
+      {
+         "description" : "Hans Niemann pulled off a great escape against Leinier Dominguez in Round 5 of the Sinquefield Cup, but chess fans had stuck around not for the chess but the post-game interview. It didn't disappoint, as Hans admitted cheating online in the past but denied ever cheating over-the-board. He hit out at Magnus Carlsen, Hikaru Nakamura and Chesscom, who he revealed had banned him after Carlsen's withdrawal.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/hans-niemann-hits-back-at-his-critics",
+         "pubDate" : "Wed, 07 Sep 2022 07:34:05 +0000",
+         "title" : "Hans Niemann hits back at his critics"
       },
       {
          "description" : "While all four games of the round were drawn it seems the biggest move of the day happened during the post-game interview with GM Hans Niemann, as he passionately responded to the recent speculations made about him following Carlsen&#x2019;s departure from the Sinquefield Cup.&#xA0; The story so far:&#xA0;Magnus Carlsen withdrew from the Sinquefield Cup 2022 []",
@@ -18,7 +74,7 @@ news_feed (
          "title" : "Calm before the storm; Four draws at the Sinquefield Cup 2022 - R5 recap"
       },
       {
-         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
+         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-6-live/",
@@ -250,36 +306,12 @@ news_feed (
          "title" : "Julius B&auml;r Challenge: Andrey Esipenko wins with 41/45"
       },
       {
-         "description" : "After 19-year-old Hans Niemann defeated Magnus Carlsen in the third round of the Sinquefield Cup 2022, the day 4 started with shocking news that&#xA0;World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen did not yet give a specific reason for his withdrawal,&#xA0;tweeting that he hopes to be back in Saint Louis in the future. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/leinier-dominguez-vs-hans-niemann-sinquefield-cup-2022-r5-live/",
-         "pubDate" : "Tue, 06 Sep 2022 11:57:52 +0000",
-         "title" : "Leinier Dominguez vs Hans Niemann, Sinquefield Cup 2022 R5 LIVE"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022. With no detailed explanations, Carlsen said that Saint Louis Chess Club is one of the places he&#x2019;s always enjoyed playing, and that he hopes to be back in the future. On short notice, social medias were overwhelmed with rumors and Carlsen&#x2019;s possible reasons for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reactions-to-magnus-carlsens-withdrawal-from-the-sinquefield-cup-2022/",
-         "pubDate" : "Tue, 06 Sep 2022 11:44:06 +0000",
-         "title" : "Reactions to Magnus Carlsen's withdrawal from the Sinquefield Cup 2022"
-      },
-      {
          "description" : "On the last weekend of August, the 31. \"Ukrainian Independence Cup\" was organised in Kiev to time to celebrate Ukrainian independence. Almost a 100 players took part in the event which featured a rapid (15'+10\") and a blitz (3'+2\" ) tournament. IM Valeriy Grinev won both tournaments. Olexandr Prohorov reports. | Photo: The champions, among them tournament winner IM Valeriy Grinev with his trophy. | Photos: Oleksandr Prohorov",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ukrainian-independence-cup-2022",
          "pubDate" : "Tue, 06 Sep 2022 11:42:12 +0100",
          "title" : "Valeriy Grinev wins Ukrainian Independence Cup 2022"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022. With no detailed explanations, Carlsen tweeted that Saint Louis Chess Club is one of the places he&#x2019;s always enjoyed playing, and that he hopes to be back in the future. On short notice, social medias were overwhelmed with rumors and Carlsen&#x2019;s possible reasons for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-improves-anti-cheating-measures-after-carlsens-withdrawal/",
-         "pubDate" : "Tue, 06 Sep 2022 10:37:11 +0000",
-         "title" : "Sinquefield Cup 2022 improves anti-cheating measures after Carlsen's withdrawal"
       },
       {
          "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen withdrew from the Sinquefield Cup 2022 after his loss to Hans Niemann in Round 3. Multiple tweets, streams, comments, and security checks later, the accusation of Niemann cheating is pretty obvious! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PIulWkTHuu0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Let's start from the beginning (shout out to <a href=\"https://www.reddit.com/r/chess/comments/x6xdk0/the_whole_hans_niemannmagnus_carlsen_withdrawal/\">u/BKtheInfamous on reddit</a> who created a dope saga) <p class=\"lead\">1. Magnus Carlsen <a href=\"https://worldchess.com/news/all/hans-niemann-",
@@ -1658,14 +1690,6 @@ news_feed (
          "title" : "Magnus Crashes Titled Tuesday Again"
       },
       {
-         "description" : "Chess.com is excited to announce that we have submitted an offer for Play Magnus Group (PMG) to join Chess.com. Magnus Carlsen and the management at Play Magnus are enthusiastic and have accepted the offer. We expect that it will take about 6-8 we...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-playmagnus",
-         "pubDate" : "Wed, 24 Aug 2022 07:34:00 -0700",
-         "title" : "Chess.com Makes Offer To Play Magnus Group"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong><a href=\"https://maxeuwe.nl/en/home-english/\">Max Euwe Centrum</a></strong>'s long-term director <strong>Eddy Sibbing</strong> has retired, <a href=\"https://maxeuwe.nl/erwin-lami-en-jeroen-van-den-berg-volgen-eddy-sibbing-op-als-manager-max-euwe-centrum/\">his job is now shared</a> by grandmaster <strong>Erwin l'Ami</strong> and <strong>TataSteelChess</strong> organiser <strong>Jeroen van den Berg</strong>. Chairman of the Amsterdam institution remains grandmaster <strong>Paul van der Sterren</strong>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1914,14 +1938,6 @@ news_feed (
          "title" : "The Legacy of Howard Staunton"
       },
       {
-         "description" : "It was a strange day for Magnus Carlsen in Round 5 of the FTX Crypto Cup. He lost four games to Jan-Krzysztof Duda and called it a \"horrible day of chess\", but since he reached tiebreaks while Praggnanandhaa lost to Liem Le in rapid chess he gained a point to take the sole lead. The other matches were all over in three games, with Alireza Firouzja firmly in the race for 1st place after defeating Hans Niemann.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ftx-crypto-cup-5-duda-beats-carlsen-4-times-but-magnus-takes-sole-lead",
-         "pubDate" : "Sat, 20 Aug 2022 10:21:23 +0000",
-         "title" : "FTX Crypto Cup 5: Duda beats Carlsen 4 times"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/bags-of-loot.html",
          "pubDate" : "Fri, 19 Aug 2022 15:01:00 +0000",
          "title" : "Bags of Loot"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.theguardian.com/sport/2022/aug/19/chess-british-championships-this-week-as-bodhana-sivanandan-seven-shines#new_tab",
-         "pubDate" : "Fri, 19 Aug 2022 14:13:50 +0000",
-         "title" : "Bodhana and the BCC - from Leonard Barden"
       },
       {
          "description" : " Last week, we examined the idea of studying the games of master level players from the 1800s. To recap, this specific period of time works well for beginners because the games demonstrate basic principles more clearly than games in which computer software was used to train the players. They also tend to be more exciting <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginner's Seventy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\">A Foundation for Beginner's Seventy</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
