@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;World Youth Chess Championships U14, U16, and U18&#xA0;are taking place from September 05-17, 2022 in Mamaia, Romania. The 11-round Swiss System tournaments, organized by International Chess Federation and Romanian Chess Federation together with Chess Club Universul and Chess Club Juniorul Constanta, are being held in Constanta Exhibition Centre. The event gathered 620 players from more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-u14-u16-and-u18-chess-championships-2022-started-in-mamaia/",
+         "pubDate" : "Wed, 07 Sep 2022 22:22:46 +0000",
+         "title" : "FIDE World Youth U14, U16 and U18 Chess Championships 2022 started in Mamaia"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -328,14 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/vincent-keymer-is-now-part-of-the-2700-club/",
          "pubDate" : "Tue, 06 Sep 2022 17:19:10 +0000",
          "title" : "Vincent Keymer is now part of the 2700 club"
-      },
-      {
-         "description" : "In the Semi-Slav, Black enjoys clear-cut development, a rock-solid position free of weaknesses, and the ability to switch gears between razor-sharp and quiet positional chess. Contrast that to White, who now faces a &#x201C;darned if you do, darned if you don&#x2019;t&#x201D; dilemma. Inside Seriously Shock The Semi-Slav, GM Sipke Ernst rediscovers an anti Semi-Slav sideline []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/semi-slav-by-gm-sipke-ernst/",
-         "pubDate" : "Tue, 06 Sep 2022 17:01:40 +0000",
-         "title" : "Semi-Slav by GM Sipke Ernst"
       },
       {
          "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, and thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this! On this Fritztrainer, IM Oliver Reeh has compiled his favorites from the CBM column \" Tune your Tactics\" issues 186 to 208.",
