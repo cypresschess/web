@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1923",
          "pubDate" : "Wed, 17 Aug 2022 10:09:31 +0000",
          "title" : "Carlsen and Praggnanandhaa share FTX Crypto Cup lead"
-      },
-      {
-         "description" : "Western Asia Junior Chess Championship 5-15 September 2022 Korumdu, Issyk-Kul, Kyrgyzstan and players participated in the National Junior Chess Championships-2022 and finished as top 50",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asia-junior-chess-championship-5-15-september-2022-korumdu-issyk-kul-kyrgyzstan/",
-         "pubDate" : "Wed, 17 Aug 2022 09:46:22 +0000",
-         "title" : "Western Asia Junior Chess Championship 5-15 September 2022 Korumdu, Issyk-Kul, Kyrgyzstan"
       }
    ]
 }
