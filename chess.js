@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our ineffable Karsten Mueller brings this lovely set of endgames for both your entertainment and enjoyment as well as one more learning lesson. Be sure to check out how to beat a 2800 in a rook endgame, not to mention scary positions you should not be afraid of, and when sending a knight to a corner can be a saving maneuver. The last position has some aesthetic ideas that serve as the cherry on top.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-2",
+         "pubDate" : "Wed, 07 Sep 2022 12:09:20 +0100",
+         "title" : "Karsten M&uuml;ller: Topical Endgames"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1969",
+         "pubDate" : "Wed, 07 Sep 2022 11:04:55 +0000",
+         "title" : "Chess for Refugees project enters its second year"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94050454.cms\" />Viswanathan Anand firmly believes that India has enough talent to produce the next Chess World Champion but not before 2025 since there is no \"quicker pathway\" and the process to create one will take that much time.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-can-have-next-chess-world-champion-from-india-by-2025-viswanathan-anand/articleshow/94050454.cms",
+         "pubDate" : "Wed, 07 Sep 2022 10:00:36 +0000",
+         "title" : "We can have next Chess World Champion from India by 2025: Anand"
+      },
+      {
          "description" : "Hans Niemann&#xA0;passionately responded to the recent speculations made about him following Carlsen&#x2019;s withdrawal from the Sinquefield Cup.&#xA0;In the round 5 post-game interview of the Sinquefield Cup 2022, Niemann confessed he was cheating on chess.com and said it was the biggest mistake in his life. He added that he will not let chesscom, Magnus Carlsen and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -118,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sinquefield-cup-round-5",
-         "pubDate" : "Tue, 06 Sep 2022 18:06:52 -0700",
+         "pubDate" : "Tue, 06 Sep 2022 18:06:00 -0700",
          "title" : "Dominguez Squeezes Niemann But No Winners"
       },
       {
@@ -1490,14 +1514,6 @@ news_feed (
          "title" : "2022 FIDE General Assembly: List of decisions"
       },
       {
-         "description" : "On 30 June 1908, just after 7 AM (all dates correspond to our Gregorian calendar), an explosion occurred in the harsh forests in Siberia near the Tunguska river. The explosion happened over an area that is nearly unpopulated, so apart from an estimated 80 million trees (and, we suppose, the wildlife in that area of 2150 km ²) only three humans died in the event that would likely have been a major catastrophe if it had happened over a densely populated area.| Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-alexander-petrovich-kazantsev-a-life-between-science-fiction-and-science-fiction",
-         "pubDate" : "Sat, 27 Aug 2022 15:30:00 +0100",
-         "title" : "Study of the Month - Alexander Petrovich Kazantsev: A life between science, fiction, and science-fiction"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2080,22 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1925",
          "pubDate" : "Wed, 17 Aug 2022 12:25:12 +0000",
          "title" : "Intercontinental Online Chess Championship for Prisoners: Registration continues"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1924",
-         "pubDate" : "Wed, 17 Aug 2022 11:11:57 +0000",
-         "title" : "FIDE Book Awards 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1923",
-         "pubDate" : "Wed, 17 Aug 2022 10:09:31 +0000",
-         "title" : "Carlsen and Praggnanandhaa share FTX Crypto Cup lead"
       }
    ]
 }
