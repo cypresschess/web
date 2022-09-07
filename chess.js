@@ -266,14 +266,6 @@ news_feed (
          "title" : "Magnus Carlsen withdraws from Sinquefield Cup, raises eyebrows"
       },
       {
-         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after three rounds the number one seed Wasko Hetman GKS Katowice is sole leader with 6/6. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 4 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
-         "pubDate" : "Tue, 06 Sep 2022 14:45:00 +0100",
-         "title" : "Polish \"Ekstraliga\" - live"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1f04081b-386d-49de-9b9d-61750da98636/_1121218-Edit.jpg\" data-image-dimensions=\"1400x1050\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63174863f0dd8e41fc5f054b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1f04081b-386d-49de-9b9d-61750da98636/_1121218-Edit.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Gregory Kaidanov </figcaption> </figure> <p class=\"\">This week our guest is a renowned trainer, and one of t",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1496,6 +1488,14 @@ news_feed (
          "link" : "https://www.fide.com/news/1943",
          "pubDate" : "Sat, 27 Aug 2022 19:11:18 +0000",
          "title" : "2022 FIDE General Assembly: List of decisions"
+      },
+      {
+         "description" : "On 30 June 1908, just after 7 AM (all dates correspond to our Gregorian calendar), an explosion occurred in the harsh forests in Siberia near the Tunguska river. The explosion happened over an area that is nearly unpopulated, so apart from an estimated 80 million trees (and, we suppose, the wildlife in that area of 2150 km ²) only three humans died in the event that would likely have been a major catastrophe if it had happened over a densely populated area.| Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-alexander-petrovich-kazantsev-a-life-between-science-fiction-and-science-fiction",
+         "pubDate" : "Sat, 27 Aug 2022 15:30:00 +0100",
+         "title" : "Study of the Month - Alexander Petrovich Kazantsev: A life between science, fiction, and science-fiction"
       },
       {
          "description" : "",
