@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94057419.cms\" />Hans Niemann has been in the middle of a storm at the ongoing Sinquefield Cup in St Louis, Missouri, after Magnus Carlsen withdrew from the tournament on Monday. With accusations of cheating being levelled against Niemann, the 19-year-old responded by denying any wrongdoing in the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/hans-niemann-hits-back-at-magnus-carlsen-hikaru-nakamura/articleshow/94057419.cms",
+         "pubDate" : "Wed, 07 Sep 2022 15:01:57 +0000",
+         "title" : "Hans Niemann hits back at Magnus Carlsen & Hikaru Nakamura"
+      },
+      {
+         "description" : "A major highlight of this year's Chess Olympiad was the stellar performance by the team India 2. Composed mostly of teenage grandmasters, it finished third and narrowly missed gold. Grandmaster RB Ramesh was the coach of the young team. When he recently was in the Paris suburb of Asnieres to share his experience with 25 French coaches, he talked to Dhananjay Khadilkar about the Olympiad, his career, his students, the secrets of becoming a good coach, and more. | Photos: Dhananjay Khadilkar",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/unless-you-are-emotionally-invested-it-s-tough-to-become-a-good-coach-an-interview-with-top-coach",
+         "pubDate" : "Wed, 07 Sep 2022 16:00:00 +0100",
+         "title" : "\"Unless you are emotionally invested, it's tough to become a good coach\" - An interview with top coach RB Ramesh"
+      },
+      {
+         "description" : "On August 27-28, during the Independence Day weekend, the first big chess tournament since the start of the war was held in Kyiv, Ukraine. A 30-year-long chess tradition was continued in the Ukrainian capital, where the war has moved away, but nev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cup-of-independence-kyiv-chess-2022",
+         "pubDate" : "Wed, 07 Sep 2022 07:00:00 -0700",
+         "title" : "Chess Returns To Kyiv, Where The War Is Never Far Away"
+      },
+      {
+         "description" : "In the Ragozin Variation of the Queen's Gambit (1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4) Black takes an active path with 4&hellip;Bb4. In his theory article in the current ChessBase magazine, Roven Vogel examines the continuation 5.Qa4+ Nc6 6.e3, which has already been tested many times by Vincent Keymer. Our author has processed no less than eight games of the German number one in his article and shows that \"both sides have possibilities to create interesting play in many places\" and sees this \"as a chance to play an interesting game of chess\". Who wouldn't want that? Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-ragozin--la-keymer",
+         "pubDate" : "Wed, 07 Sep 2022 15:00:00 +0100",
+         "title" : "The Ragozin &agrave; la Keymer"
+      },
+      {
+         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after four rounds the number one seed Wasko Hetman GKS Katowice is sole leader with 8/8. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 5 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
+         "pubDate" : "Wed, 07 Sep 2022 14:45:00 +0100",
+         "title" : "Polish \"Ekstraliga\" - live"
+      },
+      {
+         "description" : " Moving on from the short games at the Olympiad, I decided to have a look at the longer ones. While waiting for the round to finish, I did witness a number of interesting endings, including R+B v R, N+R v R, and in the following game, K+N+B v K. White was winning in the late middlegame, but gave Black drawing chances once the ending was reached. However Black missed the best moves, and as his position crumbled, decided to sacrifice his last two pieces for the remaining pawns, hoping to escape in a B+N ending. However, White knew exactly how to play this, and only took 21 moves to checkmate Black. For those who have never played this ending, it is well worth studying the approach that White u",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/bn-v-k.html",
+         "pubDate" : "Wed, 07 Sep 2022 13:20:00 +0000",
+         "title" : "B+N v K "
+      },
+      {
+         "description" : "At the end of the 22nd Dubai Open, no fewer than seven Indians were among the top ten, the best of them was Aravindh Chithambaram who was sole first with 7.5/9. Five players - Alexandr Predke, Pragg, Abhijeet Gupta, Sammed Jaykumar Shete and S.P. Sethuraman - followed half a point behind with 7.0/9 and shared second place. | Photo: Rupali Mullick",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aravindh-wins-dubai-open",
+         "pubDate" : "Wed, 07 Sep 2022 13:35:55 +0100",
+         "title" : "Aravindh wins Dubai Open"
+      },
+      {
          "description" : "Our ineffable Karsten Mueller brings this lovely set of endgames for both your entertainment and enjoyment as well as one more learning lesson. Be sure to check out how to beat a 2800 in a rook endgame, not to mention scary positions you should not be afraid of, and when sending a knight to a corner can be a saving maneuver. The last position has some aesthetic ideas that serve as the cherry on top.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +114,7 @@ news_feed (
          "title" : "Sinquefield Cup: Four draws"
       },
       {
-         "description" : "GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix has been settled, with no further details provided by either party. The settlement came eight months after a judge dismissed the streaming and production company&#39;s claim that because The ...",
+         "description" : "GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix has been settled with no further details provided by either party. The settlement came eight months after a judge dismissed the streaming and production company&#39;s claim that because The Q...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/netflix-settles-gaprindashvili-queens-gambit-lawsuit",
@@ -1410,14 +1466,6 @@ news_feed (
          "title" : "Undefeated MVL Moves Into Tied First With Firouzja In Rapid"
       },
       {
-         "description" : "Arjun Erigaisi won his final-round game against David Anton to clinch first place at the 28th Abu Dhabi Masters. He played with the sole purpose of winning the game, as he kept manoeuvring until his opponent broke and made a mistake. Javokhir Sindarov and Jorden van Foreest claimed second and third place, scoring 7/9 and 6&frac12;/9 points, respectively. Six out out of top ten places were claimed by Indians. | Photo: Rupali Mullick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-abu-dhabi-masters-2022",
-         "pubDate" : "Mon, 29 Aug 2022 02:50:00 +0100",
-         "title" : "Arjun Erigaisi's remarkable win at the Abu Dhabi Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1442,22 +1490,6 @@ news_feed (
          "title" : "Cheng wins in Barcelona"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 90th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-88-basics-of-the-benko-gambit-3",
-         "pubDate" : "Sun, 28 Aug 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 90: Basics of the Benko Gambit (9)"
-      },
-      {
-         "description" : "Lex Fridman is a research scientist at MIT working on human-centred AI and deep learning approaches to shared autonomy in self-driving cars. Fridman also hosts a popular podcast, which had, among others, the likes of Roger Penrose, Richard Dawkins and Stephen Wolfram among his guests. On Saturday, Fridman uploaded his latest interview, a conversation lasting two and a half hours with world chess champion Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lex-fridman-interviews-magnus-carlsen",
-         "pubDate" : "Sun, 28 Aug 2022 14:55:00 +0100",
-         "title" : "Lex Fridman interviews Magnus Carlsen"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1480,14 +1512,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-schools-publication/",
          "pubDate" : "Sun, 28 Aug 2022 08:41:08 +0000",
          "title" : "Chess for Schools: Publication"
-      },
-      {
-         "description" : "Alireza Firouzja has played in four out of the nine decisive games seen so far at the Saint Louis Rapid & Blitz tournament. On Saturday, the 19-year-old lost to Fabiano Caruana and defeated Leinier Dominguez to keep the sole lead he had attained on the first day of the competition. Ian Nepomniachtchi, Maxime Vachier-Lagrave and Jeffery Xiong - all undefeated in the event - stand one point back. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d2",
-         "pubDate" : "Sun, 28 Aug 2022 08:50:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Firouzja loses to Caruana, still leads"
       },
       {
          "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz continued on Saturday with rounds four-six of the rapid segment taking place, and GM Alireza Firouzja is holding onto the top spot by a single point. An early scare against GM Fabiano Caruana almost saw his l...",
@@ -1696,14 +1720,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/play-magnus-group-receives-chess-com-offer",
          "pubDate" : "Wed, 24 Aug 2022 17:14:42 +0000",
          "title" : "Play Magnus Group receives Chess.com offer"
-      },
-      {
-         "description" : "GM-elect Tuan Minh Le won the early Titled Tuesday on August 23 with 9.5/11 and the best tiebreaks ahead of GMs Dmitry Andreikin and Aleskandr Lenderman. In the late event, GM Daniil Dubov finished first in the late event ahead of GM Jeffery Xiong...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-dubov-win-titled-tuesday-august-23-2022",
-         "pubDate" : "Wed, 24 Aug 2022 10:05:00 -0700",
-         "title" : "Magnus Crashes Titled Tuesday Again"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong><a href=\"https://maxeuwe.nl/en/home-english/\">Max Euwe Centrum</a></strong>'s long-term director <strong>Eddy Sibbing</strong> has retired, <a href=\"https://maxeuwe.nl/erwin-lami-en-jeroen-van-den-berg-volgen-eddy-sibbing-op-als-manager-max-euwe-centrum/\">his job is now shared</a> by grandmaster <strong>Erwin l'Ami</strong> and <strong>TataSteelChess</strong> organiser <strong>Jeroen van den Berg</strong>. Chairman of the Amsterdam institution remains grandmaster <strong>Paul van der Sterren</strong>. </div> ",
@@ -2072,30 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1926",
          "pubDate" : "Thu, 18 Aug 2022 09:37:26 +0000",
          "title" : "Carlsen and Praggnanandhaa neck-and-neck in FTX Crypto Cup"
-      },
-      {
-         "description" : " The 2022 British Championship is well underway, and while it is happening on the other side of the world, there are a couple of participants who may interest readers of this blog. IM Gary Lane is taking part, and has all picked up first place in the Week 1 Open event. He scored 6.5/7 to win ahead of a small but strong field. He is also taking part in the championship as well, and is 3/4. One of the players tied for 1st is IM Brandon Clarke, who spent a few years in Sydney before returning to the UK. Stewart Reuben is also taking part, albeit in the Seniors events. In the over 50 section he scored 3.5/6 before missing the final round (which had a 10am start!). He then backed up for the Over ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-british-championship.html",
-         "pubDate" : "Wed, 17 Aug 2022 13:51:00 +0000",
-         "title" : "2022 British Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93620331.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/blogs/ruminations/chess-baby-beats-the-babysitter/",
-         "pubDate" : "Wed, 17 Aug 2022 12:56:25 +0000",
-         "title" : "Blog: Chess - baby beats the babysitter"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1925",
-         "pubDate" : "Wed, 17 Aug 2022 12:25:12 +0000",
-         "title" : "Intercontinental Online Chess Championship for Prisoners: Registration continues"
       }
    ]
 }
