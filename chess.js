@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following Magnus Carlsen's intriguing withdrawal, the Sinquefield Cup continued in Saint Louis, now as a 9-player single round-robin. All four games finished drawn in round 5, with Wesley So keeping the sole lead after splitting the point with Levon Aronian. Wendesday is a much-needed rest day, as we look forward to impressive chess games regaining centre stage as soon as possible. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r4-2",
+         "pubDate" : "Wed, 07 Sep 2022 09:00:00 +0100",
+         "title" : "Sinquefield Cup: Four draws"
+      },
+      {
+         "description" : "While all four games of the round were drawn it seems the biggest move of the day happened during the post-game interview with GM Hans Niemann, as he passionately responded to the recent speculations made about him following Carlsen&#x2019;s departure from the Sinquefield Cup.&#xA0; The story so far:&#xA0;Magnus Carlsen withdrew from the Sinquefield Cup 2022 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/calm-before-the-storm-four-draws-at-the-sinquefield-cup-2022-r5-recap/",
+         "pubDate" : "Wed, 07 Sep 2022 06:41:34 +0000",
+         "title" : "Calm before the storm; Four draws at the Sinquefield Cup 2022 - R5 recap"
+      },
+      {
+         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-6-live/",
+         "pubDate" : "Wed, 07 Sep 2022 06:31:29 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 6 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1968",
+         "pubDate" : "Wed, 07 Sep 2022 05:31:41 +0000",
+         "title" : "2022 Sinquefield Cup - Day 5 Recap"
+      },
+      {
+         "description" : "The 2nd International Chess Tournament for the prizes of the President of the Republic of Uzbekistan is going to take place in Tashkent 6th September &#x2013; 14th September 2022. Games will be daily on Chessdom.com, follow the live games here Round 1 pairings 1 GM Martirosyan Haik M. 2666 IM Zhalmakhanov Ramazan 2391 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/presidents-chess-cup-uzbekistan-round-1-pairings/",
+         "pubDate" : "Wed, 07 Sep 2022 05:06:08 +0000",
+         "title" : "President's Chess Cup Uzbekistan - round 1 pairings"
+      },
+      {
+         "description" : "The 2nd International Chess Tournament for the prizes of the President of the Republic of Uzbekistan is going to take place in Tashkent 6th September &#x2013; 14th September 2022. The event boasts a prize fund of 100 000 USD and has collected 51 titled players from 19 countries. Top seeded is Haik Martirosyan and his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/presidents-chess-cup-2022-in-uzbekistan/",
+         "pubDate" : "Wed, 07 Sep 2022 04:50:54 +0000",
+         "title" : "Presidents Chess Cup 2022 in Uzbekistan"
+      },
+      {
+         "description" : "The 2nd International Chess Tournament for the prizes of the President of the Republic of Uzbekistan is going to take place in Tashkent 6th September &#x2013; 14th September 2022. Top seeded is Haik Martirosyan and his main challenge comes from the 2022 Chess Olympiad winners players from Uzbekistan Nodirbek Yakubboev, Javokhir Sindarov, Jakhongir Vakhidov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/presidents-cup-uzbekistan-2022-live/",
+         "pubDate" : "Wed, 07 Sep 2022 04:46:32 +0000",
+         "title" : "President's Cup Uzbekistan 2022 LIVE"
+      },
+      {
          "description" : "Just one game in round five of the 2022 Sinquefield Cup was close to seeing a winner, and that was in the encounter between the two American GMs Leinier Dominguez and Hans Niemann. Dominguez had an overwhelming position but let Niemann off the hoo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +160,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/carlsen-withdraws/",
          "pubDate" : "Tue, 06 Sep 2022 19:56:08 +0100",
          "title" : "Carlsen withdraws"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Tue, 06 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup: Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
@@ -234,14 +282,6 @@ news_feed (
          "title" : "Sinquefield Cup 2022 improves anti-cheating measures after Carlsen's withdrawal"
       },
       {
-         "description" : "The day 4 of the Sinquefield Cup 2022 started with shocking news as it was announced that&#xA0;World Champion Magnus Carlsen withdrew from the 2022 tournament&#xA0;prior to the start of his Round 4 game against Shakhriyar Mamedyarov. Carlsen did not yet give a specific reason for his withdrawal, tweeting that he hopes to be back in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-was-thoroughly-checked-before-the-fourth-round-of-the-sinquefield-cup-video/",
-         "pubDate" : "Tue, 06 Sep 2022 10:14:59 +0000",
-         "title" : "Hans Niemann was thoroughly checked before the fourth round of the Sinquefield Cup (VIDEO)"
-      },
-      {
          "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen withdrew from the Sinquefield Cup 2022 after his loss to Hans Niemann in Round 3. Multiple tweets, streams, comments, and security checks later, the accusation of Niemann cheating is pretty obvious! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PIulWkTHuu0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Let's start from the beginning (shout out to <a href=\"https://www.reddit.com/r/chess/comments/x6xdk0/the_whole_hans_niemannmagnus_carlsen_withdrawal/\">u/BKtheInfamous on reddit</a> who created a dope saga) <p class=\"lead\">1. Magnus Carlsen <a href=\"https://worldchess.com/news/all/hans-niemann-",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -256,22 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r4",
          "pubDate" : "Tue, 06 Sep 2022 10:00:00 +0100",
          "title" : "Sinquefield Cup: Carlsen withdraws, Caruana scores"
-      },
-      {
-         "description" : "The day started with shocking news as it was announced that World Champion Magnus Carlsen withdrew from the 2022 Sinquefield Cup prior to the start of his Round 4 game against Shakhriyar Mamedyarov. Carlsen did not yet give a specific reason for his withdrawal, tweeting the following statement. The story so far: Magnus Carlsen withdrew []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-takes-the-lead-in-the-sinquefield-cup-2022-as-carlsens-results-get-annulled/",
-         "pubDate" : "Tue, 06 Sep 2022 08:10:34 +0000",
-         "title" : "Wesley So takes the lead in the Sinquefield Cup 2022 as Carlsen's results get annulled"
-      },
-      {
-         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-5-live/",
-         "pubDate" : "Tue, 06 Sep 2022 08:06:59 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 5 LIVE"
       },
       {
          "description" : "Two minor pieces that fight against a rook like it if both sides still have their second rook as this offers tactical possibilities. In the diagrammed position it is White to move and win. What would you do?",
@@ -298,14 +322,6 @@ news_feed (
          "title" : "2022 Sinquefield Cup: Carlsen withdraws, So in the lead"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen withdrew from the Sinquefield Cup 2022 yesterday as he didn't show up for the game against Shakhriyar Mamedyarov. The chess community was stunned by Carlsen's withdrawal and the rumors have overwhelmed social media. However, Carlsen didn't publish a public statement on the matter. The story so far: Magnus Carlsen withdrew []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-cant-wait-to-hear-more-about-the-hans-effect-on-the-magnus-effect/",
-         "pubDate" : "Tue, 06 Sep 2022 07:52:15 +0000",
-         "title" : "Fabiano Caruana: Can't wait to hear more about the Hans effect on The Magnus Effect #TweetOftheDay"
-      },
-      {
          "description" : "European Chess Union and European Chess Academy, supported by FIDE Development Fund, announce the annual training program in period from November 27th 2022 to May 20th 2023. The lecturers are: GM and FST Adrian Mikhalchishin, GM and FST Georg Mohr, and IM and FT Tadej Sakelsek. The ECU annual training program is open for all ages and levels&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -320,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-4",
          "pubDate" : "Mon, 05 Sep 2022 20:30:00 -0700",
          "title" : "Wesley So Leads Sinquefield Cup After Carlsen Withdraws"
-      },
-      {
-         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the tournament. Hans Niemann today played against Alireza Firouzja and missed his winning chances. The game ended in a draw with the perpetual check on the board. Replay the game here The story so far: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-at-least-i-got-to-beat-magnus-carlsen-before-he-left/",
-         "pubDate" : "Mon, 05 Sep 2022 22:32:08 +0000",
-         "title" : "Hans Niemann: At least I got to beat Magnus Carlsen before he left"
       },
       {
          "description" : "Last Friday we showed you some unusual and interesting studies. You may have found them somewhat difficult to solve, on our replay diagrams, where in some cases an engine would defend against your attempts to win. Today we bring you the solutions, with full explanations, provided in video streams that anyone can follow.",
