@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-7-lichessorg",
+         "pubDate" : "Wed, 07 Sep 2022 18:30:38 +0000",
+         "title" : "2022 Sinquefield Cup: Round 7 | lichess.org"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #532 Merijn van Delft looks at the controversial game between Magnus Carlsen and Hans Niemann at the Sinquefield Cup 2022. Carlsen lost with White and then withdrew from the tournament. The tweet, with which Carlsen announced his withdrawal caused a fervent and on-going debate whether Niemann cheated when he won against Carlsen. But what about the game? | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-532-m-carlsen-vs-o-h-niemann",
+         "pubDate" : "Wed, 07 Sep 2022 18:00:00 +0100",
+         "title" : "Game of the Week #532: M. Carlsen vs O. H. Niemann"
+      },
+      {
+         "description" : "GMs Hikaru Nakamura and Daniil Dubov were big winners in Titled Tuesday on September 6, both winning a tournament and finishing top three in the other. Nakamura began the early tournament with 9/9 before drawing his last two games against GM Vasyl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-dubov-win-titled-tuesday-september-6-2022",
+         "pubDate" : "Wed, 07 Sep 2022 09:37:58 -0700",
+         "title" : "Nakamura Nearly Perfect Early, Nearly Sweeps Late"
+      },
+      {
+         "description" : "Our ineffable Karsten Mueller brings this lovely set of endgames for both your entertainment and enjoyment as well as one more learning lesson. Be sure to check out how to beat a 2800 in a rook endgame, not to mention scary positions you should not be afraid of, and when sending a knight to a corner can be a saving maneuver. The last position has some aesthetic ideas that serve as the cherry on top.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-2",
+         "pubDate" : "Wed, 07 Sep 2022 17:15:00 +0100",
+         "title" : "Karsten M&uuml;ller: Topical Endgames"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94057419.cms\" />Hans Niemann has been in the middle of a storm at the ongoing Sinquefield Cup in St Louis, Missouri, after Magnus Carlsen withdrew from the tournament on Monday. With accusations of cheating being levelled against Niemann, the 19-year-old responded by denying any wrongdoing in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Hans Niemann hits back at Magnus Carlsen & Hikaru Nakamura"
       },
       {
-         "description" : "A major highlight of this year's Chess Olympiad was the stellar performance by the team India 2. Composed mostly of teenage grandmasters, it finished third and narrowly missed gold. Grandmaster RB Ramesh was the coach of the young team. When he recently was in the Paris suburb of Asnieres to share his experience with 25 French coaches, he talked to Dhananjay Khadilkar about the Olympiad, his career, his students, the secrets of becoming a good coach, and more. | Photos: Dhananjay Khadilkar",
+         "description" : "A major highlight of this year's Chess Olympiad was the stellar performance of the India 2 team. Composed mostly of teenage grandmasters, it finished third and narrowly missed gold. Grandmaster RB Ramesh was the coach of the young team. When he recently was in the Paris suburb of Asnieres to share his experience with 25 French coaches, he talked to Dhananjay Khadilkar about the Olympiad, his career, his students, the secrets of becoming a good coach, and more. | Photos: Dhananjay Khadilkar",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/unless-you-are-emotionally-invested-it-s-tough-to-become-a-good-coach-an-interview-with-top-coach",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aravindh-wins-dubai-open",
          "pubDate" : "Wed, 07 Sep 2022 13:35:55 +0100",
          "title" : "Aravindh wins Dubai Open"
-      },
-      {
-         "description" : "Our ineffable Karsten Mueller brings this lovely set of endgames for both your entertainment and enjoyment as well as one more learning lesson. Be sure to check out how to beat a 2800 in a rook endgame, not to mention scary positions you should not be afraid of, and when sending a knight to a corner can be a saving maneuver. The last position has some aesthetic ideas that serve as the cherry on top.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-2",
-         "pubDate" : "Wed, 07 Sep 2022 12:09:20 +0100",
-         "title" : "Karsten M&uuml;ller: Topical Endgames"
       },
       {
          "description" : "",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/carlsen-withdraws/",
          "pubDate" : "Tue, 06 Sep 2022 19:56:08 +0100",
          "title" : "Carlsen withdraws"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-6-lichessorg",
-         "pubDate" : "Tue, 06 Sep 2022 18:29:47 +0000",
-         "title" : "2022 Sinquefield Cup: Round 6 | lichess.org"
       },
       {
          "description" : "The top German player and one of the best juniors in the world Vincent Keymer is now officially part of the 2700 club. With the win against IM Micha&#x142; Luch in the Polish Ekstraliga, Vincent Keymer breaks the magic mark of 2700 Elo points for the first time and moves up to 42nd place in []",
@@ -1450,14 +1466,6 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz - Day 3 Recap"
       },
       {
-         "description" : "An action-packed third day of action at the Saint Louis Rapid & Blitz tournament left French representatives Alireza Firouzja and Maxime Vachier-Lagrave in the shared lead going into the blitz section of the event. Sam Shankland beat Ian Nepomniachtchi and Hikaru Nakamura to climb to sole third place, while Shakhriyar Mamedyarov scored three wins in a row to return to a fifty-percent score after a subpar performance in the first six rounds. | Photos: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d3",
-         "pubDate" : "Mon, 29 Aug 2022 08:30:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: MVL catches Firouzja"
-      },
-      {
          "description" : "The halfway point of the 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Sunday with GMs Maxime Vachier-Lagrave and Alireza Firouzja perched atop the leaderboard. An undefeated run with two wins was requisite for Vachier-Lagrave to join his ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-blitz-2022-regional-qualifiers-now-taking-entries/",
          "pubDate" : "Thu, 25 Aug 2022 08:00:28 +0000",
          "title" : "Entries open for the UK Blitz - first regional event on Monday 29th August!"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev defeated GM Eric Hansen in the Qualifier 1 final of the 2022 Fischer Random World Championship on Wednesday. These two imaginative and tenacious players fought to an armageddon playoff in this captivating chess variant. The ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-1-d3",
-         "pubDate" : "Wed, 24 Aug 2022 14:56:00 -0700",
-         "title" : "Fedoseev Triumphs In An 'Absolutely Different World'"
       },
       {
          "description" : "",
