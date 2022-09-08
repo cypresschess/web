@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 19-year-old Hans Niemann defeated Magnus Carlsen in the third round of the Sinquefield Cup 2022, World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#xA0;reacted to Carlsen&#x2019;s decision&#xA0;with Fabiano Caruana tweeting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-wesley-so-sinquefield-cup-2022-r6-live/",
+         "pubDate" : "Thu, 08 Sep 2022 08:10:38 +0000",
+         "title" : "Hans Niemann vs Wesley So, Sinquefield Cup 2022 R6 LIVE"
+      },
+      {
+         "description" : "In the round 5 post-game interview of the Sinquefield Cup 2022, Hans Niemann&#160;passionately responded to the speculations made about him following Carlsen&#x2019;s withdrawal from the tournament. He added that he will not let chesscom, Magnus Carlsen and Hikaru Nakamura slander his reputation. Niemann&#x2019;s emotional confession:&#160;I cheated in random games on chess.com and this was the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-the-silence-of-my-critics-speaks-for-itself/",
+         "pubDate" : "Thu, 08 Sep 2022 07:55:25 +0000",
+         "title" : "Hans Niemann: The silence of my critics speaks for itself"
+      },
+      {
          "description" : "Vincent Keymer's win in round 4 of the Polish Ekstraliga took him past the 2700-rating mark for the first time in his career, at age 17. Matthias Bluebaum also obtained a nice victory, as he defeated India's number three Pentala Harikrishna. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://aicf.in/world-youth-chess-championship-2022-round-1-and-round-2-report/",
          "pubDate" : "Thu, 08 Sep 2022 07:13:57 +0000",
          "title" : "World Youth Chess championship 2022 :Round 1 and Round 2 Report"
+      },
+      {
+         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-6-live/",
+         "pubDate" : "Thu, 08 Sep 2022 06:15:00 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 6 LIVE"
       },
       {
          "description" : "&#160; CLICK HERE FOR MORE DETAILS",
@@ -210,14 +234,6 @@ news_feed (
          "title" : "Calm before the storm; Four draws at the Sinquefield Cup 2022 - R5 recap"
       },
       {
-         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-6-live/",
-         "pubDate" : "Wed, 07 Sep 2022 06:31:29 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 6 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/presidents-chess-cup-2022-in-uzbekistan/",
          "pubDate" : "Wed, 07 Sep 2022 04:50:54 +0000",
          "title" : "Presidents Chess Cup 2022 in Uzbekistan"
-      },
-      {
-         "description" : "The 2nd International Chess Tournament for the prizes of the President of the Republic of Uzbekistan is going to take place in Tashkent 6th September &#x2013; 14th September 2022. Top seeded is Haik Martirosyan and his main challenge comes from the 2022 Chess Olympiad winners players from Uzbekistan Nodirbek Yakubboev, Javokhir Sindarov, Jakhongir Vakhidov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/presidents-cup-uzbekistan-2022-live/",
-         "pubDate" : "Wed, 07 Sep 2022 04:46:32 +0000",
-         "title" : "President's Cup Uzbekistan 2022 LIVE"
       },
       {
          "description" : "Just one game in round five of the 2022 Sinquefield Cup was close to seeing a winner, and that was in the encounter between the two American GMs Leinier Dominguez and Hans Niemann. Dominguez had an overwhelming position but let Niemann off the hoo...",
@@ -352,14 +360,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/carlsen-withdraws/",
          "pubDate" : "Tue, 06 Sep 2022 19:56:08 +0100",
          "title" : "Carlsen withdraws"
-      },
-      {
-         "description" : "The top German player and one of the best juniors in the world Vincent Keymer is now officially part of the 2700 club. With the win against IM Micha&#x142; Luch in the Polish Ekstraliga, Vincent Keymer breaks the magic mark of 2700 Elo points for the first time and moves up to 42nd place in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vincent-keymer-is-now-part-of-the-2700-club/",
-         "pubDate" : "Tue, 06 Sep 2022 17:19:10 +0000",
-         "title" : "Vincent Keymer is now part of the 2700 club"
       },
       {
          "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, and thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this! On this Fritztrainer, IM Oliver Reeh has compiled his favorites from the CBM column \" Tune your Tactics\" issues 186 to 208.",
