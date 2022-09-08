@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vincent Keymer's win in round 4 of the Polish Ekstraliga took him past the 2700-rating mark for the first time in his career, at age 17. Matthias Bluebaum also obtained a nice victory, as he defeated India's number three Pentala Harikrishna. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vincent-keymer-crosses-2700",
+         "pubDate" : "Thu, 08 Sep 2022 08:30:00 +0100",
+         "title" : "Vincent Keymer crosses 2700"
+      },
+      {
+         "description" : "The much awaited World Youth Chess championship 2022 kick starts in Romania. Most of the Indians had a smooth sailing in the first 2 games.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-youth-chess-championship-2022-round-1-and-round-2-report/",
+         "pubDate" : "Thu, 08 Sep 2022 07:13:57 +0000",
+         "title" : "World Youth Chess championship 2022 :Round 1 and Round 2 Report"
+      },
+      {
+         "description" : "&#160; CLICK HERE FOR MORE DETAILS",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/ongc-sports-scholarship-scheme-2022-23/",
+         "pubDate" : "Thu, 08 Sep 2022 05:30:05 +0000",
+         "title" : "ONGC Sports Scholarship Scheme 2022-23"
+      },
+      {
          "description" : "The&#xA0;World Youth Chess Championships U14, U16, and U18&#xA0;are taking place from September 05-17, 2022 in Mamaia, Romania. The 11-round Swiss System tournaments, organized by International Chess Federation and Romanian Chess Federation together with Chess Club Universul and Chess Club Juniorul Constanta, are being held in Constanta Exhibition Centre. The event gathered 620 players from more []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1448,14 +1472,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/st-louis-rb-3-mamedyarov-on-fire-as-frenchmen-share-lead",
          "pubDate" : "Mon, 29 Aug 2022 11:09:32 +0000",
          "title" : "St Louis RB 3: Mamedyarov on fire as Frenchmen share lead"
-      },
-      {
-         "description" : "In chess we are taught there are two main ways of thinking about a position: conceptualization for broader overviews of the situation at hand, and calculation/tactics that are the cogs behind every move. These are often taught as choosing one method or the other, yet sometimes this dogmatism must be cast aside and flexibility is required.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/conceptualizing-in-calculation",
-         "pubDate" : "Mon, 29 Aug 2022 11:49:21 +0100",
-         "title" : "Conceptualizing in calculation"
       },
       {
          "description" : "",
