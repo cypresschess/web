@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Thu, 08 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "After 19-year-old&#160;Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations.&#160;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#160;reacted to Carlsen&#x2019;s decision&#160;with Fabiano Caruana tweeting that&#160;he can&#x2019;t wait []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/garry-kasparov-about-carlsens-withdrawal-its-an-act-with-no-precedent-in-the-past-50-years/",
+         "pubDate" : "Thu, 08 Sep 2022 18:07:53 +0000",
+         "title" : "Garry Kasparov about Carlsen's withdrawal: It's an act with no precedent in the past 50 years"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A defamation lawsuit brought by former women's world champion <strong>Nona Gaprindashvili</strong> against <strong>Netflix</strong> based on a line in The Queen's Gambit series that Gaprindashvili had \"never faced men\" has been <a href=\"https://www.nytimes.com/2022/09/06/arts/television/netflix-queens-gambit-nona-gaprindashvili.html?referringSource=articleShare\">settled out of court without disclosure</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/gaprindashvili-and-netflix-settle/",
+         "pubDate" : "Thu, 08 Sep 2022 18:44:41 +0100",
+         "title" : "Gaprindashvili and Netflix settle"
+      },
+      {
+         "description" : "This week Robert Ris will have a look at the recent developments in the Italian Two Knights - an old system that still leads to interesting and dynamic play. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-italian-two-knights-1-e4-e5-2-nf3-nc6-3-bc4-nf6-4-ng5",
+         "pubDate" : "Thu, 08 Sep 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Italian Two Knights (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5)"
+      },
+      {
+         "description" : "20 years ago today, on September 8, 2002, the match Russia vs. The Rest of the World began in Moscow. It was a rapid match with the world's best players at that time. The Russians wanted to follow up on the USSR vs. the World matches from 1970 and 1984, but things did not go as desired. Dagobert Kohlmeyer was in Moscow in 2002 and now shares memories of a better time. | Photo: Evgeny Bareev, Vladimir Kramnik and Garry Kasparow wonder what's going. | Photo: Boris Dolmatovsky | All other photos: D. Kohlmeyer",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/20-years-ago-russia-vs-the-rest-of-the-world",
+         "pubDate" : "Thu, 08 Sep 2022 17:40:36 +0100",
+         "title" : "20 years ago: Russia vs The Rest of the World"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Marcus Fenner</strong> is <a href=\"https://www.schachbund.de/news/personelle-veraenderungen-in-der-geschaeftsstelle-2022-09.html\">leaving the</a> <strong>German Chess Federation.</strong> <strong>Anja Gering</strong>, head of finance and administration, is promoted to Executive Director. The staff is about to vote a representative for the first time, and Sport Director <strong>Kevin H&ouml;gy</strong> is tipped to take this role. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -274,14 +314,6 @@ news_feed (
          "title" : "2022 Sinquefield Cup - Day 5 Recap"
       },
       {
-         "description" : "The 2nd International Chess Tournament for the prizes of the President of the Republic of Uzbekistan is going to take place in Tashkent 6th September &#x2013; 14th September 2022. Games will be daily on Chessdom.com, follow the live games here Round 1 pairings 1 GM Martirosyan Haik M. 2666 IM Zhalmakhanov Ramazan 2391 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/presidents-chess-cup-uzbekistan-round-1-pairings/",
-         "pubDate" : "Wed, 07 Sep 2022 05:06:08 +0000",
-         "title" : "President's Chess Cup Uzbekistan - round 1 pairings"
-      },
-      {
          "description" : "Just one game in round five of the 2022 Sinquefield Cup was close to seeing a winner, and that was in the encounter between the two American GMs Leinier Dominguez and Hans Niemann. Dominguez had an overwhelming position but let Niemann off the hoo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -394,7 +426,7 @@ news_feed (
          "title" : "New: Master Class Tactics - Train your combination skills! Vol.1 and Vol. 2"
       },
       {
-         "description" : " The Sinquefield Cup was rocked after world champion Magnus Carlsen withdrew from the tournament after losing to Hans Moke Niemann the previous round. Carlsen tweeted his decision and included a video of Jos&eacute; Mourinho, head coach of Italian Serie A Club Roma. Mourinho has a history of accusing referees of cheating against his team with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/\">Carlsen bolts Sinquefield after loss; rumors swirl</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Sinquefield Cup was rocked after world champion Magnus Carlsen withdrew from the tournament after losing to Hans Moke Niemann the previous round. Carlsen tweeted his decision and included a video of Jos&eacute; Mourinho, head coach of Italian Serie A Club Roma. Mourinho has a history of accusing referees of cheating against his teams with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/\">Carlsen bolts Sinquefield after loss; rumors swirl</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/",
@@ -1274,14 +1306,6 @@ news_feed (
          "title" : "Quadruple Queens And Raining Rooks: Bluebaum, Navara Advance To Final"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://perlenvombodensee.de/2022/08/29/meyer-dunker-verlaesst-den-dsb/\">is losing</a> its Tournament Director <strong>Gregor Johann</strong> and its Social Media Director <strong>Paul Meyer-Dunker</strong>. While the operations are now managed by <strong>Anja Giering</strong>, the tasks of Executive Director <strong>Marcus Fenner</strong> are now described as strategy, fundraising and representation. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/german-federation-in-disarray/",
-         "pubDate" : "Wed, 31 Aug 2022 06:33:56 +0100",
-         "title" : "German Federation in disarray"
-      },
-      {
          "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1394,14 +1418,6 @@ news_feed (
          "title" : "Endgame tactics and a clumsy knight"
       },
       {
-         "description" : "Monika Socko remains in the sole lead of the European Women's Championship after scoring a crucial win over Gunay Mammadzada and drawing Ulviyya Fataliyeva (from a clearly superior position). Mammadzada bounced back from her loss against the leader by beating Maria Gevorgyan and stands a half point behind the Polish grandmaster with two rounds to go. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2022-r9",
-         "pubDate" : "Tue, 30 Aug 2022 06:35:00 +0100",
-         "title" : "European Women's Championship: Socko leads with two rounds to go"
-      },
-      {
          "description" : "The first day of blitz games at the 2022 Saint Louis Rapid &#38;amp; Blitz saw quick chess superstars GM Hikaru Nakamura, Alireza Firouzja, and Levon Aronian pick up the most points in a day of decisive results, tactical brawls, and a loss by an illeg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1432,22 +1448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lex-fridman-podcast-magnus-carlsen",
          "pubDate" : "Mon, 29 Aug 2022 11:24:00 -0700",
          "title" : "Lex Fridman With Magnus Carlsen: An Interview You Don't Want To Miss"
-      },
-      {
-         "description" : "The tournaments of the Magnus Carlsen Chess Tour always produce lead to fascinating endgames. In the Endgame Magic show #209 Karsten M&uuml;ller looks at endgame highlights from the FTX Crypto Cup in Miami. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-209-endgame-highlights-from-the-ftx-cryto-cup-in-miami",
-         "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #209: Endgame highlights from the FTX Cryto Cup in Miami"
-      },
-      {
-         "description" : "Jennifer Shahade, two-time US Chess Champion, poker player and commentator is an activist for the role of women in chess and has published several books. Her most recent one is \"Chess Queens\". Tatiana Flores spoke with Jennifer Shahade about women in chess, her passion for writing and \"Chess Queens\". | Jennifer Shahade's \"Chess Queens\" is also availabe as audiobook. | Photo: Maria Emelianova /Chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-wgm-jennifer-shahade",
-         "pubDate" : "Mon, 29 Aug 2022 18:00:00 +0100",
-         "title" : "Interview with WGM Jennifer Shahade"
       },
       {
          "description" : "The wheel of time continues to turn on the world's two foremost, continuous engine vs. engine competitions. Two weeks ago the headline said, <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html\">Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final</A>(August 2022). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In DFRC1 ('Double Fischer Random Chess: 960*960 possible starting positions'), Stockfish and LCZero finished tied for 1st/2nd places with 16.0/22, 1.5 points ahead of KomodoDragon, which was 2.0 points ahead of Stoofvlees. In the 50 game final match, Stockfish beat LCZero 29.5-20.5 (+18-9=23). After DFRC1, the site launched 'S23 - Chess Bonu",
