@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Marcus Fenner</strong> is <a href=\"https://www.schachbund.de/news/personelle-veraenderungen-in-der-geschaeftsstelle-2022-09.html\">leaving the</a> <strong>German Chess Federation.</strong> <strong>Anja Gering</strong>, head of finance and administration, is promoted to Executive Director. The staff is about to vote a representative for the first time, and Sport Director <strong>Kevin H&ouml;gy</strong> is tipped to take this role. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/anja-gering-directs-german/",
+         "pubDate" : "Thu, 08 Sep 2022 15:27:34 +0100",
+         "title" : "Anja Gering directs German federation"
+      },
+      {
+         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after five rounds three teams share the lead with 8 out of 10 each: KSz Hetman Plock, Wasko Hetman GKS Katowice and Votum SA Polonia Wroclaw. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 5 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
+         "pubDate" : "Thu, 08 Sep 2022 14:45:00 +0100",
+         "title" : "Polish \"Ekstraliga\" - live"
+      },
+      {
+         "description" : " <p class=\"lead\">After a couple of loud days full of tweets, streams, and drama, Hans Niemann decided to respond to his critics and directly ask Nakamura's comments on his late interview, and - maybe - his apology. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-Hikaru-Nakamura-Grand-Chess-tour-cheating.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes, Grand Chess Tour</div> </div> <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-all-the-info-so-far/\">You know what happened!</a> Magnus Carlsen lost with white against Hans Niemann in Round 3 of the Sinquefield Cup 2022, ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hans-niemann-publicly-blaming-hikaru-nakamura-is-it-payback/",
+         "pubDate" : "Thu, 08 Sep 2022 13:37:21 +0000",
+         "title" : "Hans Niemann publicly blaming Hikaru Nakamura. Is it payback?"
+      },
+      {
          "description" : "In the last few days the chess world has been in enormous upheaval after the World Champion Magnus Carlsen withdrew from the Sinquefield Cup in protest after three rounds, with an unspoken accusation of cheating of the player who had defeated him, US rising star Hans Niemann. Lines were drawn, accusations made and defenses stated. Here is a full overview of both sides of this explosive controversy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,14 +1450,6 @@ news_feed (
          "title" : "Interview with WGM Jennifer Shahade"
       },
       {
-         "description" : "Glorious sacrifices, unexpected tactics and checkmating attacks. The King's Gambit is one of the oldest and most romantic openings in the game of chess. These DVDs contain all you need to know to play the King's Gambit. This week on offer: Power Play 27 & 28 - Instead of €54.90 now only €39.90!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/offer-power-play-27-28-the-king-s-gambit-and-tactic-toolbox",
-         "pubDate" : "Mon, 29 Aug 2022 16:33:49 +0100",
-         "title" : "Offer: Power Play 27 & 28 - The King's Gambit and Tactic Toolbox"
-      },
-      {
          "description" : "The wheel of time continues to turn on the world's two foremost, continuous engine vs. engine competitions. Two weeks ago the headline said, <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html\">Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final</A>(August 2022). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In DFRC1 ('Double Fischer Random Chess: 960*960 possible starting positions'), Stockfish and LCZero finished tied for 1st/2nd places with 16.0/22, 1.5 points ahead of KomodoDragon, which was 2.0 points ahead of Stoofvlees. In the 50 game final match, Stockfish beat LCZero 29.5-20.5 (+18-9=23). After DFRC1, the site launched 'S23 - Chess Bonu",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/play-magnus-group-receives-chess-com-offer",
          "pubDate" : "Wed, 24 Aug 2022 17:14:42 +0000",
          "title" : "Play Magnus Group receives Chess.com offer"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After the <strong><a href=\"https://maxeuwe.nl/en/home-english/\">Max Euwe Centrum</a></strong>'s long-term director <strong>Eddy Sibbing</strong> has retired, <a href=\"https://maxeuwe.nl/erwin-lami-en-jeroen-van-den-berg-volgen-eddy-sibbing-op-als-manager-max-euwe-centrum/\">his job is now shared</a> by grandmaster <strong>Erwin l'Ami</strong> and <strong>TataSteelChess</strong> organiser <strong>Jeroen van den Berg</strong>. Chairman of the Amsterdam institution remains grandmaster <strong>Paul van der Sterren</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/lami-and-van-den-berg-head-mec/",
-         "pubDate" : "Wed, 24 Aug 2022 12:39:59 +0100",
-         "title" : "L'Ami and van den Berg head MEC together"
       },
       {
          "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Any Correction mail at aicfwebmaster2021@gmail.com &#160;",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-r-praggnanandhaa-magnus-carlsen-share-lead-after-round-4/articleshow/93651655.cms",
          "pubDate" : "Fri, 19 Aug 2022 04:06:42 +0000",
          "title" : "FTX Crypto Cup: Praggnanandhaa, Carlsen share lead after Round 4"
-      },
-      {
-         "description" : " The European Summer Chess Tour is a well known destination for Antipodean players, although Covid has restricted playing opportunities in the last few years. It does look like it is back to normal this year, and on young Canberran, FM Albert Winkelman, is giving it a go. He started with the Czech Open, before moving onto a GM event in Olomouc. Being the bottom seed in the GM group is always going to be a tough ask, and his current score of 1.5/6 doesn't reflect how close he was in some games. While looking through the games I did spot one very nice attack by Jonasz Baum, where a rook sacrifice lead to a position where White had to walk the tight-rope to avoid a loss. He did for a while, but",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/czech-summer-chess.html",
-         "pubDate" : "Thu, 18 Aug 2022 13:34:00 +0000",
-         "title" : "Czech Summer Chess"
       }
    ]
 }
