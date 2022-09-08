@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the last few days the chess world has been in enormous upheaval after the World Champion Magnus Carlsen withdrew from the Sinquefield Cup in protest after three rounds, with an unspoken accusation of cheating of the player who had defeated him, US rising star Hans Niemann. Lines were drawn, accusations made and defenses stated. Here is a full overview of both sides of this explosive controversy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-carlsen-niemann-affair",
+         "pubDate" : "Thu, 08 Sep 2022 11:33:29 +0100",
+         "title" : "The Carlsen-Niemann Affair"
+      },
+      {
+         "description" : "After 19-year-old&#160;Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations.&#160;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#160;reacted to Carlsen&#x2019;s decision&#160;with Fabiano Caruana tweeting that&#160;he can&#x2019;t wait []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elon-musk-comments-on-accusations-towards-hans-niemann-tweetoftheday/",
+         "pubDate" : "Thu, 08 Sep 2022 10:12:16 +0000",
+         "title" : "Elon Musk comments on accusations towards Hans Niemann #TweetOftheDay"
+      },
+      {
          "description" : "After 19-year-old Hans Niemann defeated Magnus Carlsen in the third round of the Sinquefield Cup 2022, World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#xA0;reacted to Carlsen&#x2019;s decision&#xA0;with Fabiano Caruana tweeting []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "The Ragozin &agrave; la Keymer"
       },
       {
-         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after four rounds the number one seed Wasko Hetman GKS Katowice is sole leader with 8/8. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 5 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
-         "pubDate" : "Wed, 07 Sep 2022 14:45:00 +0100",
-         "title" : "Polish \"Ekstraliga\" - live"
-      },
-      {
          "description" : " Moving on from the short games at the Olympiad, I decided to have a look at the longer ones. While waiting for the round to finish, I did witness a number of interesting endings, including R+B v R, N+R v R, and in the following game, K+N+B v K. White was winning in the late middlegame, but gave Black drawing chances once the ending was reached. However Black missed the best moves, and as his position crumbled, decided to sacrifice his last two pieces for the remaining pawns, hoping to escape in a B+N ending. However, White knew exactly how to play this, and only took 21 moves to checkmate Black. For those who have never played this ending, it is well worth studying the approach that White u",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/presidents-chess-cup-uzbekistan-round-1-pairings/",
          "pubDate" : "Wed, 07 Sep 2022 05:06:08 +0000",
          "title" : "President's Chess Cup Uzbekistan - round 1 pairings"
-      },
-      {
-         "description" : "The 2nd International Chess Tournament for the prizes of the President of the Republic of Uzbekistan is going to take place in Tashkent 6th September &#x2013; 14th September 2022. The event boasts a prize fund of 100 000 USD and has collected 51 titled players from 19 countries. Top seeded is Haik Martirosyan and his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/presidents-chess-cup-2022-in-uzbekistan/",
-         "pubDate" : "Wed, 07 Sep 2022 04:50:54 +0000",
-         "title" : "Presidents Chess Cup 2022 in Uzbekistan"
       },
       {
          "description" : "Just one game in round five of the 2022 Sinquefield Cup was close to seeing a winner, and that was in the encounter between the two American GMs Leinier Dominguez and Hans Niemann. Dominguez had an overwhelming position but let Niemann off the hoo...",
@@ -2088,22 +2088,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/czech-summer-chess.html",
          "pubDate" : "Thu, 18 Aug 2022 13:34:00 +0000",
          "title" : "Czech Summer Chess"
-      },
-      {
-         "description" : "FIDE Chess for Protection is a project that helps refugees learn the game of chess and acquire new important life skills, socialize, and release stress through it. One of the essential parts of the Chess for Protection project is Girls Club, aiming to educate girls and women. The pilot by FIDE and UNCHR was launched in Kakuma, Kenya,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-releases-chess-for-protection-project-curriculum/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-releases-chess-for-protection-project-curriculum/",
-         "pubDate" : "Thu, 18 Aug 2022 09:57:20 +0000",
-         "title" : "FIDE releases Chess for Protection project Curriculum"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1926",
-         "pubDate" : "Thu, 18 Aug 2022 09:37:26 +0000",
-         "title" : "Carlsen and Praggnanandhaa neck-and-neck in FTX Crypto Cup"
       }
    ]
 }
