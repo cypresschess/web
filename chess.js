@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1970",
+         "pubDate" : "Thu, 08 Sep 2022 19:33:13 +0000",
+         "title" : "Arvindh Chitambaram crowned champion of 22nd Dubai Open Chess"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
