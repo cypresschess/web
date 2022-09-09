@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Fri, 09 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-9-lichessorg",
+         "pubDate" : "Fri, 09 Sep 2022 18:32:07 +0000",
+         "title" : "2022 Sinquefield Cup: Round 9 | lichess.org"
+      },
+      {
+         "description" : "In his Power Play Show, Daniel King looks in detail at the game Alireza Firouzja v. Levon Aronian from the Sinquefield Cup - a fascinating attacking game! You will be able to test your attacking and calculating skills. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-firouzja-aronian",
+         "pubDate" : "Fri, 09 Sep 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Alireza attacks"
+      },
+      {
          "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon has a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/elon-musk-weighs-in",
          "pubDate" : "Fri, 09 Sep 2022 17:10:19 +0100",
          "title" : "Elon Musk weighs in"
+      },
+      {
+         "description" : "The 2022 FISU World University Chess Championship will take place from 12-17 September at the University of Antwerp Hof van Liere, Belgium. The event is played in Open and Women's sections separately, with participation of 71 players from 15 countries. Both tournaments will be played in 9 rounds, swiss system, with time control 90 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fisu-world-university-chess-championship-2022/",
+         "pubDate" : "Fri, 09 Sep 2022 15:03:00 +0000",
+         "title" : "FISU World University Chess Championship 2022"
       },
       {
          "description" : "",
@@ -282,22 +314,6 @@ news_feed (
          "title" : "The Carlsen-Niemann Affair"
       },
       {
-         "description" : "After 19-year-old&#xA0;Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#xA0;reacted to Carlsen&#x2019;s decision&#xA0;with Fabiano Caruana tweeting that&#xA0;he can&#x2019;t wait []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elon-musk-comments-on-accusations-towards-hans-niemann-tweetoftheday/",
-         "pubDate" : "Thu, 08 Sep 2022 10:12:16 +0000",
-         "title" : "Elon Musk comments on accusations towards Hans Niemann #TweetOftheDay"
-      },
-      {
-         "description" : "After 19-year-old Hans Niemann defeated Magnus Carlsen in the third round of the Sinquefield Cup 2022, World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#xA0;reacted to Carlsen&#x2019;s decision&#xA0;with Fabiano Caruana tweeting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-wesley-so-sinquefield-cup-2022-r6-live/",
-         "pubDate" : "Thu, 08 Sep 2022 08:10:38 +0000",
-         "title" : "Hans Niemann vs Wesley So, Sinquefield Cup 2022 R6 LIVE"
-      },
-      {
          "description" : "Vincent Keymer's win in round 4 of the Polish Ekstraliga took him past the 2700-rating mark for the first time in his career, at age 17. Matthias Bluebaum also obtained a nice victory, as he defeated India's number three Pentala Harikrishna. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,14 +520,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/thank-you-jose-mourinho-we-named-a-tournament-after-you/",
          "pubDate" : "Tue, 06 Sep 2022 21:43:41 +0000",
          "title" : "Thank You, Jose Mourinho! We Named a Tournament After You"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players how they feel they have performed so far in the Grand Chess Tour, before the Sinquefield Cup. This aired during Round 5. 2022.09.01<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-sinquefield-cup-gct-journey\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/62DS8BxzMRo.jpg?itok=bUxQ3",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-gct-journey",
-         "pubDate" : "Tue, 06 Sep 2022 21:29:47 +0000",
-         "title" : "2022 Sinquefield Cup: GCT Journey"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> withdrew for the first time during a tournament before round four of the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Mo",
@@ -1474,14 +1482,6 @@ news_feed (
          "title" : "EP 294- GM Fabiano Caruana on Engines, The Evolution of Chess, the Candidates Tournament, and the World Championship Cycle. "
       },
       {
-         "description" : "\"Historias de Ajedrez\", \"Chess Stories\", is a movie by the Cuban filmmaker Emmanuel Martin Hernandez. Hernandez is a chess player himself and his film tells the stories of chess players in Santiago de Cuba. Unfortunately, the film was released at the beginning of the pandemic and did not find the audience it deserved. But now you can watch it for free on YouTube.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/historias-de-ajedrez-now-on-youtube",
-         "pubDate" : "Tue, 30 Aug 2022 13:00:00 +0100",
-         "title" : "Historias de Ajedrez - now on YouTube"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1496,14 +1496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1949",
          "pubDate" : "Tue, 30 Aug 2022 10:08:55 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 4 Recap"
-      },
-      {
-         "description" : "Alireza Firouzja has a 3-point lead over Maxime Vachier-Lagrave going into the final nine rounds of blitz at the Saint Louis Rapid & Blitz tournament. A half point behind MVL stands Hikaru Nakamura, who finished the rapid section in last place and climbed to sole third place by scoring 7&frac12;/9 points on Monday. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d4",
-         "pubDate" : "Tue, 30 Aug 2022 10:25:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Firouzja leads, Naka climbs to third place"
       },
       {
          "description" : "After nine played rounds at the European Women's Chess Championship 2022, GM Monika Socko (POL, 2423) is the sole leader of the event with score of 7.5 points. Monika Socko (POL, 2423) drew in the ninth round against WGM Fataliyeva Ulviyya (AZE, 2413) to maintain the sole leadership with only two rounds to go. IM Gunay Mammadzada (AZE,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-r9-report/\">Read More &#187;</a></span>",
