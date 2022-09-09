@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon has a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elon-musk-weighs-in",
+         "pubDate" : "Fri, 09 Sep 2022 17:10:19 +0100",
+         "title" : "Elon Musk weighs in"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1974",
+         "pubDate" : "Fri, 09 Sep 2022 14:00:52 +0000",
+         "title" : "Serbia prepares for second Intercontinental Online Chess Championship for Prisoners"
+      },
+      {
+         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after six rounds VOTUM SA POLONIA WROCLAW leads with 10/12. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 7 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
+         "pubDate" : "Fri, 09 Sep 2022 14:45:00 +0100",
+         "title" : "Polish \"Ekstraliga\" - live"
+      },
+      {
+         "description" : "The English Chess Federation offers its condolences on the death of Her Majesty, Queen Elizabeth the Second. Our thoughts are with her family at this...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/hrh-queen-elizabeth-ii-rip/",
+         "pubDate" : "Fri, 09 Sep 2022 13:30:30 +0000",
+         "title" : "HRH Queen Elizabeth II RIP"
+      },
+      {
+         "description" : " For those looking for good second hand chess books (in Canberra), this years Lifeline Bookfair has a good selection. There were around 30 books for sale when I passed through this morning, including a number that I already have in my own collection. I grabbed a couple of books (including a 2nd Edition of Basic Chess Endings by Reuben Fine), but I left plenty on the table. There was even at least one more box of books under the table, but the rules of etiquette frown on 'accidently' knocking it over! The only issue for this year is that prices on some books have gone up. This may to be discourage commercial re-sellers from buying in bulk, or simply to reflect a fairer value, so it may be a m",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/spring-bookfair.html",
+         "pubDate" : "Fri, 09 Sep 2022 13:25:00 +0000",
+         "title" : "Spring Bookfair"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a381545e-5010-4df5-8513-015965e6d307/abae9491-56f2-4d0c-a208-821993571619_800x452.jpg\" data-image-dimensions=\"800x452\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"631b32c42ed097161e9ef6fd\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a381545e-5010-4df5-8513-015965e6d307/abae9491-56f2-4d0c-a208-821993571619_800x452.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.google.com/url?cad=rja&amp;cd=&amp;esrc=s&",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/9/bonus-pod-chess-world-in-turmoil-as-magnus-carlsen-suddenly-withdraws-from-sinquefield-cup-amid-speculation-that-gm-hans-niemann-used-engine-assistance",
+         "pubDate" : "Fri, 09 Sep 2022 12:37:38 +0000",
+         "title" : "Bonus Pod- Chess World in Turmoil as Magnus Carlsen Suddenly withdraws from Sinquefield Cup Amid Speculation that GM Hans Niemann used Engine Assistance "
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1466,22 +1514,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2022 - R9 report"
       },
       {
-         "description" : "In the diagrammed position it is Black to move and on first sight things look bleak for him. His rook has to fight against two minor pieces and White's b-pawn is far advanced. However, Black can save himself. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-tactics-and-a-clumsy-knight",
-         "pubDate" : "Tue, 30 Aug 2022 09:00:00 +0100",
-         "title" : "Endgame tactics and a clumsy knight"
-      },
-      {
-         "description" : "Monika Socko remains in the sole lead of the European Women's Championship after scoring a crucial win over Gunay Mammadzada and drawing Ulviyya Fataliyeva (from a clearly superior position). Mammadzada bounced back from her loss against the leader by beating Maria Gevorgyan and stands a half point behind the Polish grandmaster with two rounds to go. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2022-r9",
-         "pubDate" : "Tue, 30 Aug 2022 06:35:00 +0100",
-         "title" : "European Women's Championship: Socko leads with two rounds to go"
-      },
-      {
          "description" : "The first day of blitz games at the 2022 Saint Louis Rapid &#38;amp; Blitz saw quick chess superstars GM Hikaru Nakamura, Alireza Firouzja, and Levon Aronian pick up the most points in a day of decisive results, tactical brawls, and a loss by an illeg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1914,14 +1946,6 @@ news_feed (
          "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen again to finish 2nd"
       },
       {
-         "description" : "Congratulations to all Chessable British Chess Championshipships prizewinners.&#160; The Chessable British Chess Championships finished yesterday (Sunday 21/08) with FM Harry Grieve winning the main Championship...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessable-british-chess-championshipship-prizewinners/",
-         "pubDate" : "Mon, 22 Aug 2022 16:31:40 +0000",
-         "title" : "Chessable British Chess Championships prizewinners"
-      },
-      {
          "description" : "R Praggnanandhaa earned a win over eventual champion Magnus Carlsen to finish second at the FTX Crypto Cup. This is the third time he's beaten Carlsen in 2022.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2048,38 +2072,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/",
          "pubDate" : "Sat, 20 Aug 2022 04:43:01 +0000",
          "title" : "IM norm for Zimbabwe's Zhemba Jemusse!"
-      },
-      {
-         "description" : "A few months ago, in an earlier post in this <I>Fischer Friday</I> series, a post titled <A HREF=\"http://chessforallages.blogspot.com/2022/06/hatchet-job.html\">Hatchet Job</A>(June 2022), I quoted Anthony Saidy writing, <BLOCKQUOTE>Brad Darrach, one of the minority of journalists sympathetic to Fischer. </BLOCKQUOTE> <P>That short quote made two points. The first was that Darrach was 'sympathetic to Fischer'. The second was that the same could be said for only a 'minority of journalists'. That might seem surprising, given the legendary proportions the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>has taken over the past 50 years, but Fischer's recalc",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/bags-of-loot.html",
-         "pubDate" : "Fri, 19 Aug 2022 15:01:00 +0000",
-         "title" : "Bags of Loot"
-      },
-      {
-         "description" : " Last week, we examined the idea of studying the games of master level players from the 1800s. To recap, this specific period of time works well for beginners because the games demonstrate basic principles more clearly than games in which computer software was used to train the players. They also tend to be more exciting <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginner's Seventy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy/\">A Foundation for Beginner's Seventy</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy/",
-         "pubDate" : "Fri, 19 Aug 2022 12:56:45 +0000",
-         "title" : "A Foundation for Beginner's Seventy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1929",
-         "pubDate" : "Fri, 19 Aug 2022 12:42:07 +0000",
-         "title" : "FIDE WGP Series 2022-23: Players allocation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1928",
-         "pubDate" : "Fri, 19 Aug 2022 11:39:21 +0000",
-         "title" : "Spanish Championship: Iturrizaga Bonelli and Garcia Martin claim titles"
       }
    ]
 }
