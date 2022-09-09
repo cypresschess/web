@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Article by Low League 2 of TCEC Season 23 has ended. Minic emerges victorious, comfortably ahead of the competition, while Arasan, World Computer Chess Champion Fritz, and Nemorino promoting alongside the division winner. See the final L2 standings here With a new season comes a new lineup, as inactive engines are removed and new ones []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/minic-convincingly-wins-tcec-league-2/",
+         "pubDate" : "Fri, 09 Sep 2022 02:17:18 +0000",
+         "title" : "Minic convincingly wins TCEC League 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after defeating MVL during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-losing-patience-not-winning-classical-game-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOCjPXIy8Oo.jpg?itok=HLZ8NoZt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-losing-patience-not-winning-classical-game-round-6",
+         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
+         "title" : "Aronian: Losing Patience on Not Winning Classical Game | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-8-lichessorg",
+         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
+         "title" : "2022 Sinquefield Cup: Round 8 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after a draw with Nepomniachtchi during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-entire-game-played-gct-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/b7diN_9ZV-k.jpg?itok=saObaNLN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-entire-game-played-gct-round-6",
+         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
+         "title" : "Caruana: Entire Game Played Before in GCT! | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Alejandro Ramirez after defeating Niemann during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-way-2nd-sinquefield-cup-title-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/02Mq5mcxXIs.jpg?itok=y0B_hOMS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-way-2nd-sinquefield-cup-title-round-6",
+         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
+         "title" : "Wesley So on the Way to 2nd Sinquefield Cup Title? | Round 6"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Mamedyarov during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-two-rest-days-shaky-game-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LWEwUtlxQNQ.jpg?itok=h0Z52z6d\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -314,14 +354,6 @@ news_feed (
          "title" : "Hans Niemann hits back at his critics"
       },
       {
-         "description" : "While all four games of the round were drawn it seems the biggest move of the day happened during the post-game interview with GM Hans Niemann, as he passionately responded to the recent speculations made about him following Carlsen&#x2019;s departure from the Sinquefield Cup.&#xA0; The story so far:&#xA0;Magnus Carlsen withdrew from the Sinquefield Cup 2022 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/calm-before-the-storm-four-draws-at-the-sinquefield-cup-2022-r5-recap/",
-         "pubDate" : "Wed, 07 Sep 2022 06:41:34 +0000",
-         "title" : "Calm before the storm; Four draws at the Sinquefield Cup 2022 - R5 recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -384,38 +416,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/maurice-ashley-fun-being-chess-fan-round-5",
          "pubDate" : "Tue, 06 Sep 2022 21:29:47 +0000",
          "title" : "Maurice Ashley: Fun Being a Chess Fan | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after a draw with MVL during the fifth round of the 2022 Sinquefield Cup. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-all-about-evidence-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOdyOPgRRGQ.jpg?itok=VSWCtbur\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-all-about-evidence-round-5",
-         "pubDate" : "Tue, 06 Sep 2022 21:29:47 +0000",
-         "title" : "Nepo: All About Evidence | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Alejandro Ramirez after a draw with Nepomniachtchi during the fifth round of the 2022 Sinquefield Cup. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-scandal-has-become-witch-hunt-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WhYFKRUWmTQ.jpg?itok=qd1CtVcw\" alt=\"\" /></a></div",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-scandal-has-become-witch-hunt-round-5",
-         "pubDate" : "Tue, 06 Sep 2022 21:29:47 +0000",
-         "title" : "MVL: Scandal Has Become a Witch-Hunt | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Alejandro Ramirez after a draw with Caruana during the fifth round of the 2022 Sinquefield Cup. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-nf1-might-be-okay-not-today-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f5cRDvVOvVM.jpg?itok=3prD0tGA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mamedyarov-nf1-might-be-okay-not-today-round-5",
-         "pubDate" : "Tue, 06 Sep 2022 21:29:47 +0000",
-         "title" : "Mamedyarov: Nf1 Might Be Okay, But Not Today! | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Alejandro Ramirez after a draw with Aronian during the fifth round of the 2022 Sinquefield Cup. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-lost-sleep-over-drama-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kr1Btm8wd4w.jpg?itok=57qp-HLE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-lost-sleep-over-drama-round-5",
-         "pubDate" : "Tue, 06 Sep 2022 21:29:47 +0000",
-         "title" : "Wesley So: Lost Sleep Over Drama | Round 5"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> withdrew for the first time during a tournament before round four of the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Mo",
