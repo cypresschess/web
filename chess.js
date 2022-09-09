@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann today drew his round 7 game against French grandmaster Maxime Vachier-Lagrave. In the post-game interview, Niemann disclosed that he and MVL have played many blitz games and that they know each other pretty well. He also explained that he didn't expect 1.Nf3 to be on the board, and that he took some time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-it-is-absolutely-ridiculous-to-play-chess-under-these-conditions/",
+         "pubDate" : "Fri, 09 Sep 2022 22:46:24 +0000",
+         "title" : "Hans Niemann: It is absolutely ridiculous to play chess under these conditions"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after a draw with Mamedyarov during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-accepts-his-early-draw-%E2%80%9Cpunishment%E2%80%9D-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0WV2Y-mgPz0.jpg?itok=s_C0jOV2\" a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-accepts-his-early-draw-%E2%80%9Cpunishment%E2%80%9D-round-7",
+         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
+         "title" : "Nepo Accepts his Early Draw \"Punishment\" | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after a draw with Caruana during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-fabi-knew-it-was-draw-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JcxP2M8PmYM.jpg?itok=DlnWROze\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-fabi-knew-it-was-draw-round-7",
+         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
+         "title" : "Aronian: Fabi Knew It Was a Draw | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after a draw with Aronian during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-line-might-be-running-out-steam-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y_Xi-xfR7hE.jpg?itok=2G9vSvn9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-line-might-be-running-out-steam-round-7",
+         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
+         "title" : "Caruana: This Line Might Be Running Out of Steam | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with MVL during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-no-one-can-play-under-these-conditions-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/35aoMHzSMsQ.jpg?itok=u35CeMIC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-no-one-can-play-under-these-conditions-round-7",
+         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
+         "title" : "Niemann: No One Can Play Under These Conditions! | Round 7"
+      },
+      {
+         "description" : "19-year-old Hans Niemann drew to Maxime Vachier-Lagrave in the seventh round of the Sinquefield Cup 2022. The French grandmaster had a better position from the opening, but missed his chances and the game ended in a draw (Replay the game here). With new anti-cheating measures, all the players are being thoroughly checked. An interesting situation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niemann-keeps-analyzing-his-game-with-mvl-while-getting-checked-with-the-anti-cheating-device-video/",
+         "pubDate" : "Fri, 09 Sep 2022 21:19:58 +0000",
+         "title" : "Niemann keeps analyzing his game with MVL while getting checked with the anti-cheating device (VIDEO)"
+      },
+      {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and Hikaru Nakamura claimed in his live stream that Niemann has done &#x201C;unallowed things&#x201D; during the online []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/garry-kasparov-unless-the-chess-world-is-to-be-dragged-down-into-endless-pathetic-rumors-clear-statements-must-be-made/",
+         "pubDate" : "Fri, 09 Sep 2022 20:49:24 +0000",
+         "title" : "Garry Kasparov: Unless the chess world is to be dragged down into endless pathetic rumors, clear statements must be made"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +82,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Alireza attacks"
       },
       {
-         "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon has a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
+         "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon had a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/elon-musk-weighs-in",
@@ -162,14 +218,6 @@ news_feed (
          "title" : "Sinquefield 6: So, Firouzja and Aronian strike"
       },
       {
-         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-7-live/",
-         "pubDate" : "Fri, 09 Sep 2022 06:31:39 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 7 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -200,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-6",
          "pubDate" : "Fri, 09 Sep 2022 03:31:49 +0000",
          "title" : "2022 Sinquefield Cup: Round 6"
-      },
-      {
-         "description" : "Article by Low League 2 of TCEC Season 23 has ended. Minic emerges victorious, comfortably ahead of the competition, while Arasan, World Computer Chess Champion Fritz, and Nemorino promoting alongside the division winner. See the final L2 standings here With a new season comes a new lineup, as inactive engines are removed and new ones []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/minic-convincingly-wins-tcec-league-2/",
-         "pubDate" : "Fri, 09 Sep 2022 02:17:18 +0000",
-         "title" : "Minic convincingly wins TCEC League 2"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after defeating MVL during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-losing-patience-not-winning-classical-game-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOCjPXIy8Oo.jpg?itok=HLZ8NoZt\" alt=\"\" /></a></div>",
@@ -242,28 +282,12 @@ news_feed (
          "title" : "Wesley So on the Way to 2nd Sinquefield Cup Title? | Round 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Mamedyarov during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-two-rest-days-shaky-game-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LWEwUtlxQNQ.jpg?itok=h0Z52z6d\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-two-rest-days-shaky-game-round-6",
-         "pubDate" : "Thu, 08 Sep 2022 21:31:36 +0000",
-         "title" : "Firouzja: Two Rest Days = Shaky Game | Round 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1970",
          "pubDate" : "Thu, 08 Sep 2022 19:33:13 +0000",
          "title" : "Arvindh Chitambaram crowned champion of 22nd Dubai Open Chess"
-      },
-      {
-         "description" : "After 19-year-old&#160;Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;World Champion Magnus Carlsen withdrew from the 2022 tournament. Carlsen withdrew from the Sinquefield Cup 2022 without detailed explanations.&#160;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#160;reacted to Carlsen&#x2019;s decision&#160;with Fabiano Caruana tweeting that&#160;he can&#x2019;t wait []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-about-carlsens-withdrawal-its-an-act-with-no-precedent-in-the-past-50-years/",
-         "pubDate" : "Thu, 08 Sep 2022 18:07:53 +0000",
-         "title" : "Garry Kasparov about Carlsen's withdrawal: It's an act with no precedent in the past 50 years"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A defamation lawsuit brought by former women's world champion <strong>Nona Gaprindashvili</strong> against <strong>Netflix</strong> based on a line in The Queen's Gambit series that Gaprindashvili had \"never faced men\" has been <a href=\"https://www.nytimes.com/2022/09/06/arts/television/netflix-queens-gambit-nona-gaprindashvili.html?referringSource=articleShare\">settled out of court without disclosure</a>. </div> ",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://aicf.in/ongc-sports-scholarship-scheme-2022-23/",
          "pubDate" : "Thu, 08 Sep 2022 05:30:05 +0000",
          "title" : "ONGC Sports Scholarship Scheme 2022-23"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-7-lichessorg",
-         "pubDate" : "Wed, 07 Sep 2022 18:30:38 +0000",
-         "title" : "2022 Sinquefield Cup: Round 7 | lichess.org"
       },
       {
          "description" : "In his \"Game of the Week\" show #532 Merijn van Delft looks at the controversial game between Magnus Carlsen and Hans Niemann at the Sinquefield Cup 2022. Carlsen lost with White and then withdrew from the tournament. The tweet, with which Carlsen announced his withdrawal caused a fervent and on-going debate whether Niemann cheated when he won against Carlsen. But what about the game? | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -488,22 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-round-5",
          "pubDate" : "Tue, 06 Sep 2022 18:06:00 -0700",
          "title" : "Dominguez Squeezes Niemann But No Winners"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with Dominguez during the fifth round of the 2022 Sinquefield Cup. Hans defends himself on rumors of cheating, his accent, and much more. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-i-have-never-cheated-over-board-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbn",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-i-have-never-cheated-over-board-round-5",
-         "pubDate" : "Wed, 07 Sep 2022 00:30:07 +0000",
-         "title" : "Niemann: I Have NEVER Cheated Over The Board | Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.06<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-5",
-         "pubDate" : "Wed, 07 Sep 2022 00:30:07 +0000",
-         "title" : "2022 Sinquefield Cup: Round 5"
       },
       {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ It is possible you will find below selection easy to solve. In anticipation of that, I am adding one more challenge. <a href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\">Chess 2022 March Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href",
