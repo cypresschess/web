@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Friday last week, Croatian grandmaster Miso Cebalo passed away in Zagreb. In his younger years, Cebalo was one of Yugoslavia's best bridge players. He was also a linguistic genius. Cebalo was a national player for Yugoslavia, then Croatia, and in later years was active as an author, commentator and coach. Miso Cebalo was 77 years old.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/miso-cebalo-1945-2022",
+         "pubDate" : "Sat, 10 Sep 2022 13:00:00 +0100",
+         "title" : "Miso Cebalo (1945-2022)"
+      },
+      {
+         "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r7",
+         "pubDate" : "Sat, 10 Sep 2022 11:40:00 +0100",
+         "title" : "Sinquefield Cup: Theoretical lines"
+      },
+      {
+         "description" : "Round seven at the 2022 Sinquefield Cup seemed like the complete counterpoint to the exciting sixth round. Leader GM Wesley So had a bye but with no winners in Friday&#39;s round, nobody caught up to him. So leads with four points from six games. GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-7",
+         "pubDate" : "Sat, 10 Sep 2022 01:18:15 -0700",
+         "title" : "8 Handshakes, No Winners In Round 7"
+      },
+      {
          "description" : "In the diagram position, Black can ensure the promotion of her passed d-pawn with three precise queen moves, the last one being the trickiest. Technique meets tactics - your call!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dancing-queen",
          "pubDate" : "Sat, 10 Sep 2022 09:00:00 +0100",
          "title" : "Dancing queen"
+      },
+      {
+         "description" : "After yesterday's draw against Maxime Vachier-Lagrave, Hans Niemann spoke in the R7 post-game interview about the mental pressure he is facing over the past few days. He concluded that it is ridiculous t play chess under those conditions. The eighth penultimate round of the Sinquefield Cup 2022 features the encounter between 19-year-old Niemann and Fabiano []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-sinquefield-cup-2022-r8-live/",
+         "pubDate" : "Sat, 10 Sep 2022 07:49:37 +0000",
+         "title" : "Hans Niemann vs Fabiano Caruana, Sinquefield Cup 2022 R8 LIVE"
+      },
+      {
+         "description" : "With only two rounds to go at the Sinquefield Cup 2022, Wesley So continues to lead the event. The American grandmaster scores 4 points to be ahead of Fabiano Caruana, Alireza Firouzja and Ian Nepomniachtchi who tie for the second place with 3.5 points, each. The penultimate eighth round of the Sinquefield Cup brings the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-vs-wesley-so-sinquefield-cup-2022-r8-live/",
+         "pubDate" : "Sat, 10 Sep 2022 07:39:32 +0000",
+         "title" : "Alireza Firouzja vs Wesley So, Sinquefield Cup 2022 R8 LIVE"
       },
       {
          "description" : "GM Daniel Naroditsky yesterday joined GM Hikaru Nakamura's live stream yesterday where they analyzed the games from the Sinquefield Cup 2022 and talked about recent happenings connected with Carlsen's first-ever withdrawal from the tournament. Nakamura and Naroditsky spoke about cheating in chess, how often it is, and is it really possible to cheat in the []",
@@ -138,14 +178,6 @@ news_feed (
          "title" : "Garry Kasparov: Unless the chess world is to be dragged down into endless pathetic rumors, clear statements must be made"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Fri, 09 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup: Live"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -154,20 +186,20 @@ news_feed (
          "title" : "2022 Sinquefield Cup: Round 9 | lichess.org"
       },
       {
+         "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon had a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elon-musk-weighs-in",
+         "pubDate" : "Fri, 09 Sep 2022 18:10:00 +0100",
+         "title" : "Elon Musk weighs in"
+      },
+      {
          "description" : "In his Power Play Show, Daniel King looks in detail at the game Alireza Firouzja v. Levon Aronian from the Sinquefield Cup - a fascinating attacking game! You will be able to test your attacking and calculating skills. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-firouzja-aronian",
          "pubDate" : "Fri, 09 Sep 2022 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Alireza attacks"
-      },
-      {
-         "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon had a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elon-musk-weighs-in",
-         "pubDate" : "Fri, 09 Sep 2022 17:10:19 +0100",
-         "title" : "Elon Musk weighs in"
       },
       {
          "description" : "The 2022 FISU World University Chess Championship will take place from 12-17 September at the University of Antwerp Hof van Liere, Belgium. The event is played in Open and Women's sections separately, with participation of 71 players from 15 countries. Both tournaments will be played in 9 rounds, swiss system, with time control 90 minutes []",
@@ -226,28 +258,12 @@ news_feed (
          "title" : "FIDE Trainers Commission (TRG): Five FIDE Trainers Seminars announced"
       },
       {
-         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen withdrew from the event without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Rumors started spreading over social medias that Hans Niemann has a history of cheating and&#xA0;Hikaru Nakamura&#xA0;confirmed in his live stream that Niemann has []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-reacts-to-hans-niemanns-interview/",
-         "pubDate" : "Fri, 09 Sep 2022 08:36:33 +0000",
-         "title" : "Hikaru Nakamura reacts to Hans Niemann's interview"
-      },
-      {
          "description" : "Wesley So is the only player with a +2 score at the Sinquefield Cup after his win over Hans Niemann in Thursday's sixth round. With three rounds to go, two players stand close behind on +1: Ian Nepomniachtchi and Alireza Firouzja. While Nepo drew Fabiano Caruana in round 6, Firouzja got a rather quick, albeit bumpy, victory over Shakhriyar Mamedyarov. Levon Aronian also scored a full point, as he defeated Maxime Vachier-Lagrave to return to a fifty-percent score. | Photo: Grand Chess Tour / Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r6",
          "pubDate" : "Fri, 09 Sep 2022 09:35:00 +0100",
          "title" : "Sinquefield Cup: So in pole position, Firouzja wins rollercoaster"
-      },
-      {
-         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen withdrew from the event without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#xA0;reacted to Carlsen&#x2019;s decision&#xA0;with Fabiano Caruana tweeting that&#xA0;he can&#x2019;t wait to see the Hans effect on The Magnus Effect. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-vs-hans-niemann-sinquefield-cup-2022-r7-live/",
-         "pubDate" : "Fri, 09 Sep 2022 07:23:51 +0000",
-         "title" : "Maxime Vachier-Lagrave vs Hans Niemann, Sinquefield Cup 2022 R7 LIVE"
       },
       {
          "description" : "It was a lively day at round six of the 2022 Sinquefield Cup.&#38;nbsp;The first to put a full point on the scoreboard was GM Alireza Firouzja. Eventually, also GMs Levon Aronian and leader GM Wesley So scored victories. This means that So remains i...",
@@ -336,6 +352,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/20-years-ago-russia-vs-the-rest-of-the-world",
          "pubDate" : "Thu, 08 Sep 2022 17:40:36 +0100",
          "title" : "20 years ago: Russia vs The Rest of the World"
+      },
+      {
+         "description" : "The game:- <UL><LI>2022-09-04: <A HREF=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">Magnus Carlsen vs Hans Moke Niemann; Sinquefield Cup (2022), Saint Louis, MO USA, rd 3</A>(chessgames.com) <LI>2022-09-07: <A HREF=\"https://www.youtube.com/watch?v=Iq2DJJ_1Nu4\">The Game That Broke the Internet - Carlsen vs Niemann</A>(youtube.com; Epic Chess; analysis: James Gardner) </UL> <P>The players:- <UL><LI>2022-09-05: <A HREF=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523\">Magnus Carlsen on Twitter: \"I've withdrawn from the tournament...\"</A>(twitter.com/MagnusCarlsen) &#149; '...I've always enjoyed playing in the @STLChessClub, and hope to be back in the future.' <LI>2022-09",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html",
+         "pubDate" : "Thu, 08 Sep 2022 15:53:00 +0000",
+         "title" : "Chess Players Behaving Very, Very Badly"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Marcus Fenner</strong> is <a href=\"https://www.schachbund.de/news/personelle-veraenderungen-in-der-geschaeftsstelle-2022-09.html\">leaving the</a> <strong>German Chess Federation.</strong> <strong>Anja Gering</strong>, head of finance and administration, is promoted to Executive Director. The staff is about to vote a representative for the first time, and Sport Director <strong>Kevin H&ouml;gy</strong> is tipped to take this role. </div> ",
@@ -1458,14 +1482,6 @@ news_feed (
          "title" : "Filip Haring wins FIDE Slovak Open"
       },
       {
-         "description" : "The fourth leg of this year's Grand Chess Tour, the Saint Louis Rapid & Blitz, was played on August 26-30. The last rapid and blitz event of the series hosted ten top players from around the world, including wunderkind Alireza Firouzja, World Championship challenger Ian Nepomniachtchi and defending champion Hikaru Nakamura. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-live-2",
-         "pubDate" : "Tue, 30 Aug 2022 19:50:00 +0100",
-         "title" : "St. Louis Rapid & Blitz: Games and standings"
-      },
-      {
          "description" : "It's Yahoo time again (see the footnote for an explanation of Yahoos) and what a great month it's been for chess stories in the mainstream press. Last month we had <A HREF=\"http://chessforallages.blogspot.com/2022/07/candidate-and-olympiad-yahoos.html\">Candidate and Olympiad Yahoos</A>(July 2022), when the Olympiad was just getting started. This month we had nearly 20 stories related to the Olympiad, but I'm getting ahead of myself. Let's first have the top level stats. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh30.gif\" WIDTH=190 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> <I>Google News</I> returned 99 stories of which 95 were for the current month. The 11 sources with more than two st",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "https://www.thearticle.com/double-standards-in-world-chess/",
          "pubDate" : "Sat, 27 Aug 2022 08:00:22 +0000",
          "title" : "Double standards in world chess"
-      },
-      {
-         "description" : "Top-flight chess returned to one of America&#39;s premier chess venues on Friday with the commencement of the 2022 Saint Louis Rapid &#38;amp; Blitz, the penultimate event of the Grand Chess Tour, with the day&#39;s proceedings going the way of French GM Alir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-1",
-         "pubDate" : "Fri, 26 Aug 2022 19:59:00 -0700",
-         "title" : "Firouzja Asserts Early Lead In St. Louis"
       },
       {
          "description" : "One point I've come to realize in this long <I>Fischer Friday</I> series -- last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022) -- is that the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com), was in fact two matches. The first match, which lasted from end-June 1972 through the third game, was all about whether Fischer would play. The first match had little to do with chess. <P>The second match, which started with the fourth game, was all about chess. Starting with the score at 2-1 in Spassky's favor, the players fought some of the most interesting games ever seen at the highest le",
