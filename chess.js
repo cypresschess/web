@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, Black can ensure the promotion of her passed d-pawn with three precise queen moves, the last one being the trickiest. Technique meets tactics - your call!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dancing-queen",
+         "pubDate" : "Sat, 10 Sep 2022 09:00:00 +0100",
+         "title" : "Dancing queen"
+      },
+      {
+         "description" : "GM Daniel Naroditsky yesterday joined GM Hikaru Nakamura's live stream yesterday where they analyzed the games from the Sinquefield Cup 2022 and talked about recent happenings connected with Carlsen's first-ever withdrawal from the tournament. Nakamura and Naroditsky spoke about cheating in chess, how often it is, and is it really possible to cheat in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-and-daniel-naroditsky-speak-about-cheating-in-chess/",
+         "pubDate" : "Sat, 10 Sep 2022 07:26:45 +0000",
+         "title" : "Hikaru Nakamura and Daniel Naroditsky speak about cheating in chess"
+      },
+      {
+         "description" : "\"This tournament is broken,\" said Jan Gustafsson after all four games were drawn in Round 7 of the Sinquefield Cup. It was a day of long theoretical battles that never looked likely to burst into life, though Alireza Firouzja at least showed fighting spirit by playing on - in vain - against Leinier Dominguez. Wesley So didn't play, but maintained the sole lead with just two rounds to go.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-7-wesley-the-only-winner",
+         "pubDate" : "Sat, 10 Sep 2022 06:47:10 +0000",
+         "title" : "Sinquefield Cup 7: Wesley the only winner"
+      },
+      {
+         "description" : "It was a hard-fought day with four draws as GM Wesley So continues to lead the Sinquefield Cup, the final leg of the 2022 Grand Chess Tour. With So having a bye round today it was an opportunity for his competitors to close the distance, but with just two rounds left it&#x2019;s only Alireza Firouzja []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-continues-to-lead-the-sinquefield-cup-2022/",
+         "pubDate" : "Sat, 10 Sep 2022 06:38:04 +0000",
+         "title" : "Wesley So continues to lead the Sinquefield Cup 2022"
+      },
+      {
+         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-8-live/",
+         "pubDate" : "Sat, 10 Sep 2022 06:23:51 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 8 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1975",
+         "pubDate" : "Sat, 10 Sep 2022 05:10:40 +0000",
+         "title" : "2022 Sinquefield Cup - So stays in front"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> After the Sinquefield Cup, it&#039;s time for team chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and an opponent TBA draft the world&#039;s best players to join them on their teams. Join a host TBA for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: To Be Drafted TEAM ???: To Be Drafted 2022.09.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\">",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -210,36 +258,12 @@ news_feed (
          "title" : "Knife Fight Alongside Positional Squeezes As Wesley So Takes Charge"
       },
       {
-         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen withdrew from the event without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. The rumors started spreading over social medias that Hans Niemann has a history of cheating and Hikaru Nakamura&#xA0;confirmed in his live stream that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/daniel-rensch-about-chess-coms-statement-this-tweet-speaks-for-itself/",
-         "pubDate" : "Fri, 09 Sep 2022 07:16:28 +0000",
-         "title" : "Daniel Rensch about chess.com's statement: This tweet speaks for itself"
-      },
-      {
          "description" : " The 19-year-old grandmaster, whose win against the world champion led to Magnus Carlsen withdrawing from a tournament for the first time, says there is a campaign against him Magnus Carlsen's shock withdrawal from the $350,000 Sinquefield Cup in St Louis following his third-round defeat to the newcomer Hans Niemann has triggered a variety of \"cheating\" claims. It is potentially the most serious such case for international chess since the 2005 Toiletgate world championship match, when Veselin Topalov accused Vlad Kramnik of analysing games in the lavatory. Carlsen's loss to Niemann, 19, was his first for several years with White to a much lower rated opponent, and it was the first withdrawal",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/sep/09/chess-hans-niemann-hits-back-over-cheating-controversy-in-st-louis",
          "pubDate" : "Fri, 09 Sep 2022 07:00:26 +0000",
          "title" : "Chess: Hans Niemann hits back over 'cheating' controversy in St Louis"
-      },
-      {
-         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen withdrew from the event without detailed explanations.&#xA0;Possible reasons of Magnus Carlsen&#x2019;s withdrawal can be found here. Sinquefield Cup&#x2019;s players and organizers&#xA0;reacted to Carlsen&#x2019;s decision&#xA0;with Fabiano Caruana tweeting that&#xA0;he can&#x2019;t wait to see the Hans effect on The Magnus Effect. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-explains-its-decision-to-remove-hans-niemann-from-the-platform-in-the-official-statement/",
-         "pubDate" : "Fri, 09 Sep 2022 06:56:35 +0000",
-         "title" : "Chess.com explains its decision to remove Hans Niemann from the platform in the official statement"
-      },
-      {
-         "description" : "It was an exciting day with three decisive games as Wesley So defeated Hans Niemann to take a full point lead in the tournament with just three rounds left to play. Meanwhile, Levon Aronian utilized good preparation to earn a win over Maxime Vachier-Lagrave, and Alireza Firouzja swindled Shakhriyar Mamedyarov after he blundered a pawn []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-defeats-hans-niemann-taking-a-full-point-lead-in-the-sinquefield-cup-2022/",
-         "pubDate" : "Fri, 09 Sep 2022 06:41:09 +0000",
-         "title" : "Wesley So defeats Hans Niemann taking a full point lead in the Sinquefield Cup 2022"
       },
       {
          "description" : "Wesley So inflicted a first defeat on Hans Niemann in Round 6 of the Sinquefield Cup to take a 1-point lead. Wesley sits out Round 7, so can be caught by Alireza Firouzja, who won a topsy-turvy clash against Shakhriyar Mamedyarov, or by Ian Nepomniachtchi and Fabiano Caruana, who drew their game. The day's other winner was Levon Aronian, who took down Maxime Vachier-Lagrave.",
@@ -1450,14 +1474,6 @@ news_feed (
          "title" : "Olympiad, Business, and Political Yahoos"
       },
       {
-         "description" : "2022 Candidates Tournament: Review with videos by Dorian Rogozenco and Robert Ris - \"Special\" on the Ukrainian sisters and Olympic champions Anna and Mariya Muzychuk: 21 annotated games + contributions on strategy and endgame - Ragosin &agrave; la Keymer: Roven Vogel presents 1. d4 d5 2.c4 e6 2.Nc3 Nf6 4.Nf3 Bb4 5.Qa4+ Nc6 6.e3 - Prague Chess Festival 2022: Annotated games by Harikrishna, Keymer, Navara, Shankland and Vidit - \"Practical Tips for the Tournament Player\": Let Jan Markos show you how to master must-win situations! - In Fischer's footsteps: Yago Santiago attacks Najdorf with 6.Bc4 - \"Shocker\" in the Jobava London System: Daniel King shows the new gambit idea 1.d4 Nf6 2.Nc3 d5 3.B",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-209-special-on-the-muzychuk-sisters-practical-tipps-for-the-tournament-player-and-much-more",
-         "pubDate" : "Tue, 30 Aug 2022 15:00:00 +0100",
-         "title" : "CBM #209: \"Special\" on the Muzychuk sisters, \"Practical Tips for the Tournament Player\" and much more!"
-      },
-      {
          "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. Cover will begin when the completed...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1938",
          "pubDate" : "Wed, 24 Aug 2022 21:39:44 +0000",
          "title" : "Vincent Keymer wins German Masters 2022"
-      },
-      {
-         "description" : "Play Magnus Group (PMG), that includes chess24, has received an offer from Chess.com that may see the two companies join forces. The offer values PMG at around $82.5 million and will take around two months to finalise, subject to shareholder approval and other closing conditions. Magnus Carlsen commented, \"now we are entering a new era, and the combination of these two companies creates opportunities for the game of chess that no-one has imagined before\".",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/play-magnus-group-receives-chess-com-offer",
-         "pubDate" : "Wed, 24 Aug 2022 17:14:42 +0000",
-         "title" : "Play Magnus Group receives Chess.com offer"
       },
       {
          "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Any Correction mail at aicfwebmaster2021@gmail.com &#160;",
