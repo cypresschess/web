@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Sat, 10 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "Chinese grandmaster Ding Liren is now the number one Rapid player in the World! Ding Liren currently plays the Chinese Chess league which includes combined rapid and classical events. Scoring 3.5/4 points in the first four rounds, Ding Liren earned 2.6 rapid ELO points to overpass Magnus Carlsen on the live rapid rating list. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-is-now-the-no-1-rapid-player-in-the-world/",
+         "pubDate" : "Sat, 10 Sep 2022 16:24:41 +0000",
+         "title" : "Ding Liren is now the No 1 Rapid player in the world"
+      },
+      {
          "description" : "Famous grandmaster and FIDE Senior Trainer Ivan Sokolov is one of the lecturers at the FIDE Training Seminar that is ongoing in Mamaia, Romania, concurrently with the FIDE World Youth U14, U16 and U18 Chess Championships. The seminar takes place from 7-12 September, in English language, with GM Ivan Sokolov and GM R.B. Ramesh as []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,20 +34,20 @@ news_feed (
          "title" : "What Is Creative Transmutation in Computing?"
       },
       {
-         "description" : "Kicking off Sept. 14, the Chess.com Global Chess Championship will see legendary chess players such as GM Viswanathan Anand, GM Vasyl Ivanchuk, GM Vladimir Kramnik, and GM Veselin Topalov compete against today&#39;s best (online) players, including GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-chess-championship-knockout-participants",
-         "pubDate" : "Sat, 10 Sep 2022 06:25:31 -0700",
-         "title" : "Anand, Ivanchuk, Kramnik, Topalov Among Global Chess Championship Participants"
-      },
-      {
          "description" : "The Chess.com Global Championship Knockout phase begins on September 14. An event that started with thousands of participants is down to a field of 64. In the next few weeks, there will only be 32, then 16, and then eight hopefuls. By November? On...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-global-championship-100k-bracket-contest",
-         "pubDate" : "Sat, 10 Sep 2022 06:25:22 -0700",
+         "pubDate" : "Sat, 10 Sep 2022 06:25:00 -0700",
          "title" : "Announcing The $100,000 CGC Bracket Contest"
+      },
+      {
+         "description" : "Kicking off Sept. 14, the Chess.com Global Chess Championship will see legendary chess players such as GM Viswanathan Anand, GM Vasyl Ivanchuk, GM Vladimir Kramnik, and GM Veselin Topalov compete against today&#39;s best (online) players, including GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-chess-championship-knockout-participants",
+         "pubDate" : "Sat, 10 Sep 2022 06:25:00 -0700",
+         "title" : "Anand, Ivanchuk, Kramnik, Topalov Among Global Chess Championship Participants"
       },
       {
          "description" : "More by GM Simon Williams: The Iron English &#x2013; Botvinnik Variation / The Hippopotamus Defence Do you ever feel like you&#x2019;re spinning your wheels &#x2014; spending hours on training with very little to show for it? Worse, still, do you keep sliding back down the rating ladder because of losing streaks and plateaus? If so, []",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/niemann-no-one-can-play-under-these-conditions-round-7",
          "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
          "title" : "Niemann: No One Can Play Under These Conditions! | Round 7"
-      },
-      {
-         "description" : "19-year-old Hans Niemann drew to Maxime Vachier-Lagrave in the seventh round of the Sinquefield Cup 2022. The French grandmaster had a better position from the opening, but missed his chances and the game ended in a draw (Replay the game here). With new anti-cheating measures, all the players are being thoroughly checked. An interesting situation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/niemann-keeps-analyzing-his-game-with-mvl-while-getting-checked-with-the-anti-cheating-device-video/",
-         "pubDate" : "Fri, 09 Sep 2022 21:19:58 +0000",
-         "title" : "Niemann keeps analyzing his game with MVL while getting checked with the anti-cheating device (VIDEO)"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
