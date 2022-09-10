@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Famous grandmaster and FIDE Senior Trainer Ivan Sokolov is one of the lecturers at the FIDE Training Seminar that is ongoing in Mamaia, Romania, concurrently with the FIDE World Youth U14, U16 and U18 Chess Championships. The seminar takes place from 7-12 September, in English language, with GM Ivan Sokolov and GM R.B. Ramesh as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ivan-sokolov-i-will-no-longer-work-at-seminars-or-any-actions-at-fide/",
+         "pubDate" : "Sat, 10 Sep 2022 15:28:47 +0000",
+         "title" : "Ivan Sokolov: I will no longer work at seminars or any actions at FIDE"
+      },
+      {
+         "description" : "That is the question, as it were. Put simply, it is the automated extraction of creative characteristics or 'elements' from one domain for application into another. Human brains do this all the time. Dr. Azlan Iqbal, computer scientist from Malaysia, with research interests in computational aesthetics and creativity in games, uses his problem composing software Chesthetica to illustrate transmutation in computing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/what-is-creative-transmutation-in-computing",
+         "pubDate" : "Sat, 10 Sep 2022 15:00:00 +0100",
+         "title" : "What Is Creative Transmutation in Computing?"
+      },
+      {
+         "description" : "Kicking off Sept. 14, the Chess.com Global Chess Championship will see legendary chess players such as GM Viswanathan Anand, GM Vasyl Ivanchuk, GM Vladimir Kramnik, and GM Veselin Topalov compete against today&#39;s best (online) players, including GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-chess-championship-knockout-participants",
+         "pubDate" : "Sat, 10 Sep 2022 06:25:31 -0700",
+         "title" : "Anand, Ivanchuk, Kramnik, Topalov Among Global Chess Championship Participants"
+      },
+      {
+         "description" : "The Chess.com Global Championship Knockout phase begins on September 14. An event that started with thousands of participants is down to a field of 64. In the next few weeks, there will only be 32, then 16, and then eight hopefuls. By November? On...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-global-championship-100k-bracket-contest",
+         "pubDate" : "Sat, 10 Sep 2022 06:25:22 -0700",
+         "title" : "Announcing The $100,000 CGC Bracket Contest"
+      },
+      {
+         "description" : "More by GM Simon Williams: The Iron English &#x2013; Botvinnik Variation / The Hippopotamus Defence Do you ever feel like you&#x2019;re spinning your wheels &#x2014; spending hours on training with very little to show for it? Worse, still, do you keep sliding back down the rating ladder because of losing streaks and plateaus? If so, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/accelerate-your-chess-with-ginger-gm/",
+         "pubDate" : "Sat, 10 Sep 2022 12:36:56 +0000",
+         "title" : "Accelerate Your Chess with Ginger GM"
+      },
+      {
+         "description" : "Are you a university student or faculty member who is already researching chess or who would like to begin researching a chess topic? The Chessable Research Awards are for you! Designed to inspire new chess research or aid ongoing chess research, applications for the Chessable Research Awards are being accepted now. The application process continues []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-research-awards-2022/",
+         "pubDate" : "Sat, 10 Sep 2022 12:16:43 +0000",
+         "title" : "Chessable research awards 2022"
+      },
+      {
          "description" : "On Friday last week, Croatian grandmaster Miso Cebalo passed away in Zagreb. In his younger years, Cebalo was one of Yugoslavia's best bridge players. He was also a linguistic genius. Cebalo was a national player for Yugoslavia, then Croatia, and in later years was active as an author, commentator and coach. Miso Cebalo was 77 years old.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/miso-cebalo-1945-2022",
          "pubDate" : "Sat, 10 Sep 2022 13:00:00 +0100",
          "title" : "Miso Cebalo (1945-2022)"
+      },
+      {
+         "description" : "Daniel Johnson is the founding editor of our online platform TheArticle where I contribute the weekly chess column every Saturday. In a previous incarnation Daniel edited the monthly Standpoint magazine, where one of his innovations was to introduce a regular Underrated/Overrated feature. Inspired by this format I shall be devoting my column this week to the theme of one of the most unfairly denigrated of the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/underrated-masters-of-the-chess-world/",
+         "pubDate" : "Sat, 10 Sep 2022 11:44:24 +0000",
+         "title" : "Underrated masters of the chess world"
       },
       {
          "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
@@ -74,7 +130,7 @@ news_feed (
          "title" : "Wesley So continues to lead the Sinquefield Cup 2022"
       },
       {
-         "description" : "The ninth annual&#xA0;Sinquefield Cup&#xA0;is also the fifth and final leg of the&#xA0;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
+         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-8-live/",
@@ -170,14 +226,6 @@ news_feed (
          "title" : "Niemann keeps analyzing his game with MVL while getting checked with the anti-cheating device (VIDEO)"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and Hikaru Nakamura claimed in his live stream that Niemann has done &#x201C;unallowed things&#x201D; during the online []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-unless-the-chess-world-is-to-be-dragged-down-into-endless-pathetic-rumors-clear-statements-must-be-made/",
-         "pubDate" : "Fri, 09 Sep 2022 20:49:24 +0000",
-         "title" : "Garry Kasparov: Unless the chess world is to be dragged down into endless pathetic rumors, clear statements must be made"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -200,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-firouzja-aronian",
          "pubDate" : "Fri, 09 Sep 2022 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Alireza attacks"
-      },
-      {
-         "description" : "The 2022 FISU World University Chess Championship will take place from 12-17 September at the University of Antwerp Hof van Liere, Belgium. The event is played in Open and Women's sections separately, with participation of 71 players from 15 countries. Both tournaments will be played in 9 rounds, swiss system, with time control 90 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fisu-world-university-chess-championship-2022/",
-         "pubDate" : "Fri, 09 Sep 2022 15:03:00 +0000",
-         "title" : "FISU World University Chess Championship 2022"
       },
       {
          "description" : "",
@@ -1426,14 +1466,6 @@ news_feed (
          "title" : "Unstoppable Alireza Firouzja demolishes field to win in St Louis"
       },
       {
-         "description" : "There was no stopping Alireza Firouzja at the Saint Louis Rapid & Blitz tournament, as the 19-year-old won the event with four rounds to spare! In his first-ever participation at a tournament in Saint Louis, Firouzja finished with an astonishing 26/36 score, five points ahead of second-placed Hikaru Nakamura. The youngster gained over a hundred rating points in blitz (he now sits at a stratospheric 2902.6), which prompted him to climb to second place in the live ratings list, only six points behind Nakamura. | Photo: Grand Chess Tour / Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-d5",
-         "pubDate" : "Wed, 31 Aug 2022 08:25:00 +0100",
-         "title" : "Stunning: Firouzja wins St. Louis Rapid & Blitz with four rounds to spare!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1618,14 +1650,6 @@ news_feed (
          "title" : "2022 Saint Louis Rapid & Blitz - Day 3 Recap"
       },
       {
-         "description" : "The halfway point of the 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Sunday with GMs Maxime Vachier-Lagrave and Alireza Firouzja perched atop the leaderboard. An undefeated run with two wins was requisite for Vachier-Lagrave to join his ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-day-3",
-         "pubDate" : "Sun, 28 Aug 2022 20:10:00 -0700",
-         "title" : "Undefeated MVL Moves Into Tied First With Firouzja In Rapid"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1672,14 +1696,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-schools-publication/",
          "pubDate" : "Sun, 28 Aug 2022 08:41:08 +0000",
          "title" : "Chess for Schools: Publication"
-      },
-      {
-         "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz continued on Saturday with rounds four-six of the rapid segment taking place, and GM Alireza Firouzja is holding onto the top spot by a single point. An early scare against GM Fabiano Caruana almost saw his l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-day-2",
-         "pubDate" : "Sat, 27 Aug 2022 19:53:00 -0700",
-         "title" : "Firouzja Falters But Maintains Lead"
       },
       {
          "description" : "",
@@ -2032,38 +2048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-loses-to-polands-jan-krzystof-duda-in-ftx-crypto-cup/articleshow/93687945.cms",
          "pubDate" : "Sun, 21 Aug 2022 05:49:09 +0000",
          "title" : "R Praggnanandhaa loses to Poland's Duda in FTX Crypto Cup"
-      },
-      {
-         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH276wcT77xQHs2ghvmXGqXNmDAeFXnPUzQ9QA94Jxx36YcvIGWG5CFlFjCIlNGnoC14e5yujqR-pzsFnTP11t7tCnpIqrWwGQ_pGACyMcIbjDtAK0mbSB6mTd/s680/okeche.png\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-6Gr04PBY8IRTTfQQWHRTu2136WnOZeXV16EDG1PMsj5AsQDMpHwKkpCXtullraH2",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/not-one-but-two-ideas.html",
-         "pubDate" : "Sat, 20 Aug 2022 13:53:00 +0000",
-         "title" : "Not one but two ideas"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1931",
-         "pubDate" : "Sat, 20 Aug 2022 13:44:26 +0000",
-         "title" : "Felix Blohberger and Annika Fr&ouml;wis win Austrian Championship"
-      },
-      {
-         "description" : "All India Chess Federation congratulate Shri Ajay H Patel for being elected as the President of International Chess Federation Zone 3.7",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-shri-ajay-h-patel/",
-         "pubDate" : "Sat, 20 Aug 2022 12:45:07 +0000",
-         "title" : "Congratulations Shri Ajay H Patel"
-      },
-      {
-         "description" : "Howard Staunton was the man who put London on the global chess map. A virtuoso of many different careers, Staunton was a coruscating example of the Victorian polymath. Shakespearean actor, world chess champion, author of many chess books and columns, eponymous name giver of the Staunton Chess pieces, Shakespearean scholar, organiser of the first ever []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-legacy-of-howard-staunton/",
-         "pubDate" : "Sat, 20 Aug 2022 12:31:15 +0000",
-         "title" : "The Legacy of Howard Staunton"
       }
    ]
 }
