@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja defeated Wesley So in the 8th penultimate round of the Sinquefield Cup 2022 and overtook the lead in the event. With today's victory, Firouzja might overtake the lead of the overall Grand Chess Tour standings and the chance for possible tiebreaks is increasing. See the standings after 7 played rounds here In the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-after-beating-wesley-so-somehow-i-am-getting-lucky/",
+         "pubDate" : "Sat, 10 Sep 2022 21:52:32 +0000",
+         "title" : "Alireza Firouzja after beating Wesley So: Somehow I am getting lucky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with MVL during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-no-one-can-play-under-these-conditions-round-7-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/35aoMHzSMsQ.jpg?itok=u35CeMIC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-no-one-can-play-under-these-conditions-round-7-0",
+         "pubDate" : "Sat, 10 Sep 2022 21:33:06 +0000",
+         "title" : "Niemann: No One Can Play Under These Conditions | Round 7"
+      },
+      {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and Hikaru Nakamura claimed in his live stream that Niemann has done &#x201C;unallowed things&#x201D; during the online []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-chief-arbiters-statement-we-currently-have-no-indication-that-any-player-has-been-playing-unfairly-in-the-2022-sinquefield-cup/",
+         "pubDate" : "Sat, 10 Sep 2022 19:38:17 +0000",
+         "title" : "Sinquefield Cup Chief Arbiter's statement: We currently have no indication that any player has been playing unfairly in the 2022 Sinquefield Cup"
+      },
+      {
          "description" : "Hans Niemann&#x2019;s fans gathered today in front of the Saint Louis Chess Club upon the start of the 8th penultimate round of the Sinquefield Cup 2022. A few girls were standing in front of the building to show support to Hans Niemann holding banners with different signs: &#x201C;We love Hans&#x201D;, &#x201C;Checkmate Magnus&#x201D;, &#x201C;Hans has cool []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -144,22 +168,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-7-wesley-the-only-winner",
          "pubDate" : "Sat, 10 Sep 2022 06:47:10 +0000",
          "title" : "Sinquefield Cup 7: Wesley the only winner"
-      },
-      {
-         "description" : "It was a hard-fought day with four draws as GM Wesley So continues to lead the Sinquefield Cup, the final leg of the 2022 Grand Chess Tour. With So having a bye round today it was an opportunity for his competitors to close the distance, but with just two rounds left it&#x2019;s only Alireza Firouzja []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-continues-to-lead-the-sinquefield-cup-2022/",
-         "pubDate" : "Sat, 10 Sep 2022 06:38:04 +0000",
-         "title" : "Wesley So continues to lead the Sinquefield Cup 2022"
-      },
-      {
-         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-8-live/",
-         "pubDate" : "Sat, 10 Sep 2022 06:23:51 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 8 LIVE"
       },
       {
          "description" : "",
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1971",
          "pubDate" : "Fri, 09 Sep 2022 04:57:05 +0000",
          "title" : "World Youth U14, U16, and U18 Championships kick off in Mamaia, Romania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-6",
-         "pubDate" : "Fri, 09 Sep 2022 03:31:49 +0000",
-         "title" : "2022 Sinquefield Cup: Round 6"
       },
       {
          "description" : "",
