@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> After the Sinquefield Cup, it&#039;s time for team chess! Ultimate Moves is a casual team-based event where teammates &quot;tag in&quot; every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and an opponent TBA draft the world&#039;s best players to join them on their teams. Join a host TBA for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: To Be Drafted TEAM ???: To Be Drafted 2022.09.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-ultimate-moves",
+         "pubDate" : "Sat, 10 Sep 2022 03:32:23 +0000",
+         "title" : "2022 Sinquefield Cup: Ultimate Moves"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, join GM Alejandro Ramirez for the closing ceremony and trophy presentation for the 2022 Sinquefield Cup and the entire Grand Chess Tour. The field was: Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, Mamedyarov, Niemann, and Carlsen (who withdrew early). 2022.09.12<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-sinquefield-cup-closing-ce",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-closing-ceremony",
+         "pubDate" : "Sat, 10 Sep 2022 03:32:23 +0000",
+         "title" : "2022 Sinquefield Cup: Closing Ceremony"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Eric Rosen talks to Anastasiya Karlovich during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eric-rosen-importance-compassion-patience-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mNATjNQbXpA.jpg?itok=4QmgcYWL\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -264,22 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-6",
          "pubDate" : "Fri, 09 Sep 2022 03:31:49 +0000",
          "title" : "2022 Sinquefield Cup: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after defeating MVL during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-losing-patience-not-winning-classical-game-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOCjPXIy8Oo.jpg?itok=HLZ8NoZt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-losing-patience-not-winning-classical-game-round-6",
-         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
-         "title" : "Aronian: Losing Patience on Not Winning Classical Game | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-8-lichessorg",
-         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
-         "title" : "2022 Sinquefield Cup: Round 8 | lichess.org"
       },
       {
          "description" : "",
@@ -2048,22 +2048,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-legacy-of-howard-staunton/",
          "pubDate" : "Sat, 20 Aug 2022 12:31:15 +0000",
          "title" : "The Legacy of Howard Staunton"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93671859.cms\" />Liem Le scored an emphatic 2.5-0.5 win over the teenaged Indian GM, securing victories in games two and three after the opener ended in a draw. World No.1 Magnus Carlsen, meanwhile, went down 2-4 in a tie-break to Jan-Krzystof Duda of Poland.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-winning-streak-in-ftx-crypto-cup-ends-with-loss-to-liem-le/articleshow/93671859.cms",
-         "pubDate" : "Sat, 20 Aug 2022 04:49:42 +0000",
-         "title" : "Praggu's winning run in FTX Crypto Cup ends with loss to Liem Le"
-      },
-      {
-         "description" : " Zhemba Jemusse, an untitled player, was competing in his first Olympiad in Chennai, India and was excited to experience the world's biggest stage. Team Zimbabwe was looking smart in their suits and matching accessories with &#8220;Zimbabwe Chess&#8221; proudly displayed.&#160; ZIMBABWE Left to Right: IM Rodwell Makoto, Tapiwa Gora (ZCF Technical Director), Erik Takawira (captain), Zhemba The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/\">IM norm for Zimbabwe's Zhemba Jemusse!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/20/im-norm-for-zimbabwes-zhemba-jemusse/",
-         "pubDate" : "Sat, 20 Aug 2022 04:43:01 +0000",
-         "title" : "IM norm for Zimbabwe's Zhemba Jemusse!"
       }
    ]
 }
