@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Eric Rosen talks to Anastasiya Karlovich during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eric-rosen-importance-compassion-patience-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mNATjNQbXpA.jpg?itok=4QmgcYWL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/eric-rosen-importance-compassion-patience-round-7",
+         "pubDate" : "Sat, 10 Sep 2022 00:32:12 +0000",
+         "title" : "Eric Rosen: The Importance of Compassion & Patience | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-7",
+         "pubDate" : "Sat, 10 Sep 2022 00:32:12 +0000",
+         "title" : "2022 Sinquefield Cup: Round 7"
+      },
+      {
          "description" : "Hans Niemann today drew his round 7 game against French grandmaster Maxime Vachier-Lagrave. In the post-game interview, Niemann disclosed that he and MVL have played many blitz games and that they know each other pretty well. He also explained that he didn't expect 1.Nf3 to be on the board, and that he took some time []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,22 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-8-lichessorg",
          "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
          "title" : "2022 Sinquefield Cup: Round 8 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after a draw with Nepomniachtchi during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-entire-game-played-gct-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/b7diN_9ZV-k.jpg?itok=saObaNLN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-entire-game-played-gct-round-6",
-         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
-         "title" : "Caruana: Entire Game Played Before in GCT! | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Alejandro Ramirez after defeating Niemann during the sixth round of the 2022 Sinquefield Cup. 2022.09.08<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-way-2nd-sinquefield-cup-title-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/02Mq5mcxXIs.jpg?itok=y0B_hOMS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-way-2nd-sinquefield-cup-title-round-6",
-         "pubDate" : "Fri, 09 Sep 2022 00:31:38 +0000",
-         "title" : "Wesley So on the Way to 2nd Sinquefield Cup Title? | Round 6"
       },
       {
          "description" : "",
