@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann&#x2019;s fans gathered today in front of the Saint Louis Chess Club upon the start of the 8th penultimate round of the Sinquefield Cup 2022. A few girls were standing in front of the building to show support to Hans Niemann holding banners with different signs: &#x201C;We love Hans&#x201D;, &#x201C;Checkmate Magnus&#x201D;, &#x201C;Hans has cool []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemanns-fans-gather-in-front-of-the-saint-louis-chess-club/",
+         "pubDate" : "Sat, 10 Sep 2022 18:54:38 +0000",
+         "title" : "Hans Niemann's fans gather in front of the Saint Louis Chess Club"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-7",
          "pubDate" : "Sat, 10 Sep 2022 00:32:12 +0000",
          "title" : "2022 Sinquefield Cup: Round 7"
-      },
-      {
-         "description" : "Hans Niemann today drew his round 7 game against French grandmaster Maxime Vachier-Lagrave. In the post-game interview, Niemann disclosed that he and MVL have played many blitz games and that they know each other pretty well. He also explained that he didn't expect 1.Nf3 to be on the board, and that he took some time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-it-is-absolutely-ridiculous-to-play-chess-under-these-conditions/",
-         "pubDate" : "Fri, 09 Sep 2022 22:46:24 +0000",
-         "title" : "Hans Niemann: It is absolutely ridiculous to play chess under these conditions"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after a draw with Mamedyarov during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-accepts-his-early-draw-%E2%80%9Cpunishment%E2%80%9D-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0WV2Y-mgPz0.jpg?itok=s_C0jOV2\" a",
