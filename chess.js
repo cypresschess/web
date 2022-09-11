@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " WFM Alana Chibnall is the 2022 ACT Women's Champion, after winning todays tournament with a perfect 7 from 7. 25 players took part in the tournament, which has returned to the ACT chess calendar after a gap of 8 years. The tournament was a 7 round Rapid, with a time control of 15m+5s. Tied for 2nd place were Shriya Karthik and Jo Mason, who finished 5.5, drawing their Round 6 game, after both losing to Chibnall earlier in the tournament. Unrated newcomer Kenisha Gaind won the Best Under 14 Years player, while 7 year old Echo Feng finished in a tie for 5th, and won the Best Under 12 Years player. With Gain picking up a medal for the Under 14 title, Claire Bradbery was the best Unrated player",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-womens-championship.html",
+         "pubDate" : "Sun, 11 Sep 2022 13:37:00 +0000",
+         "title" : "2022 ACT Women's Championship"
+      },
+      {
          "description" : "Max Euwe was the first of the twelve World Chess Champions whom Frederic met in the late before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2040,30 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1932",
          "pubDate" : "Sun, 21 Aug 2022 21:24:55 +0000",
          "title" : "Magnus Carlsen clinches FTX Crypto Cup"
-      },
-      {
-         "description" : "A couple of months ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/06/caissartistic-license.html\">Caissartistic License</A>(June 2022), I wrote, <BLOCKQUOTE>For this month's <I>Flickr Favorite</I>, I had two photos on the short list, neither of which I understood. Since I couldn't decide between them, I used both. </BLOCKQUOTE> <P>It's a nice dilemma to have and this month I had similar. This time it wasn't for two photos; it was for two paintings. And it wasn't for a lack of understanding; it was for choosing between a Ukrainian artist and a Russian artist. What to do? I used Flickr's search function on the photographer -- keyword 'chess', of course -- and came up with the followi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/fun-with-flickr-search.html",
-         "pubDate" : "Sun, 21 Aug 2022 15:15:00 +0000",
-         "title" : "Fun with Flickr Search"
-      },
-      {
-         "description" : "The European Amateur Chess Championship 2022 took place from 14th-21st August 2022 in Zagreb, Croatia. The event was played in three rating categories: U2300, U2000 and U1700, 9 rounds, swiss system. More than 170 players from more than 20 European federations competed in the Championship and the best ranked were crowned the 2022 European Amateur Chess Champions. 17-year-old&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-champions-2022-announced-in-zagreb/",
-         "pubDate" : "Sun, 21 Aug 2022 13:41:55 +0000",
-         "title" : "European Amateur Chess Champions 2022 announced in Zagreb"
-      },
-      {
-         "description" : " My ongoing trawl through games from the Olympiad has left me somewhat disappointed with the choice of openings. There were very few Kings Gambit's and most of the Two Knight's Defence's were met with the tame d3. Probably the best of the few Two Knight's proper was the following game, where White got tangled up on the e file, and dropped a piece due to a miscalculation. <br /> <b>Sharikhan,Shawal (1789) - Asllani,Muhamet (2235) [C59]</b><br />44th Olympiad Chennai 2022 Mahabalipuram, Chennai (1.3), 29.07.2022 <script>new PgnViewer( { boardName: \"game1345\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 Bc5 11",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/playing-it-safe.html",
-         "pubDate" : "Sun, 21 Aug 2022 13:38:00 +0000",
-         "title" : "Playing it safe"
       }
    ]
 }
