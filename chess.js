@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Wesley So during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-incredible-turn-around-against-wesley-so-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9EnTb0rVr8.jpg?itok=09jTRJhO\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-incredible-turn-around-against-wesley-so-round-8",
+         "pubDate" : "Sun, 11 Sep 2022 00:33:06 +0000",
+         "title" : "Firouzja: Incredible Turn Around Against Wesley So! | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich talks to some Hans Niemann chess fans during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fans-we-love-hans-niemann-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8aCNTN8oU5Q.jpg?itok=FIwcf5RN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fans-we-love-hans-niemann-round-8",
+         "pubDate" : "Sun, 11 Sep 2022 00:33:06 +0000",
+         "title" : "Fans: We Love Hans Niemann! | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after defeating Levon Aronian during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-shameful-victory-or-brilliant-tactical-victory-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aOyLymU3lxY.jpg?itok=Km96pIwD\" alt=\"\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-shameful-victory-or-brilliant-tactical-victory-round-8",
+         "pubDate" : "Sun, 11 Sep 2022 00:33:06 +0000",
+         "title" : "Nepo: \"Shameful Victory\" or Brilliant Tactical Victory? | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after defeating Hans Niemann during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-hans-very-interesting-player-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DEhFGCY9HFU.jpg?itok=7avsf6_8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-hans-very-interesting-player-round-8",
+         "pubDate" : "Sun, 11 Sep 2022 00:33:06 +0000",
+         "title" : "Fabi: Hans Is A Very Interesting Player | Round 8"
+      },
+      {
          "description" : "Alireza Firouzja defeated Wesley So in the 8th penultimate round of the Sinquefield Cup 2022 and overtook the lead in the event. With today's victory, Firouzja might overtake the lead of the overall Grand Chess Tour standings and the chance for possible tiebreaks is increasing. See the standings after 7 played rounds here In the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -216,38 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepo-accepts-his-early-draw-%E2%80%9Cpunishment%E2%80%9D-round-7",
          "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
          "title" : "Nepo Accepts his Early Draw \"Punishment\" | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after a draw with Caruana during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-fabi-knew-it-was-draw-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JcxP2M8PmYM.jpg?itok=DlnWROze\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-fabi-knew-it-was-draw-round-7",
-         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
-         "title" : "Aronian: Fabi Knew It Was a Draw | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Alejandro Ramirez after a draw with Aronian during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-line-might-be-running-out-steam-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y_Xi-xfR7hE.jpg?itok=2G9vSvn9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-line-might-be-running-out-steam-round-7",
-         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
-         "title" : "Caruana: This Line Might Be Running Out of Steam | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with MVL during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-no-one-can-play-under-these-conditions-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/35aoMHzSMsQ.jpg?itok=u35CeMIC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-no-one-can-play-under-these-conditions-round-7",
-         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
-         "title" : "Niemann: No One Can Play Under These Conditions! | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-9-lichessorg",
-         "pubDate" : "Fri, 09 Sep 2022 18:32:07 +0000",
-         "title" : "2022 Sinquefield Cup: Round 9 | lichess.org"
       },
       {
          "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon had a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
