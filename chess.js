@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A remarkable penultimate round at the Sinquefield Cup saw Ian Nepomniachtchi, Fabiano Caruana and Alireza Firouzja scoring full points to climb to shared first place with 4&frac12; points each. For Caruana, however, it is all but impossible to win the event, as he will not play in Sunday's final round, when he was supposed to face Magnus Carlsen. In the one draw of the day, Shakhriyar Mamedyarov managed to escape with a half point from an inferior position against Leinier Dominguez. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r8",
+         "pubDate" : "Sun, 11 Sep 2022 07:25:00 +0100",
+         "title" : "Sinquefield Cup: Exciting round leaves Nepo, Caruana and Firouzja in the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1976",
+         "pubDate" : "Sun, 11 Sep 2022 06:03:32 +0000",
+         "title" : "2022 Sinquefield Cup - Day 8 Recap"
+      },
+      {
+         "description" : "BOOM! If the somewhat flaccid round seven at the 2022 Sinquefield Cup was a disappointment, then round eight delivered in a big way. Tournament leader GM Wesley So was taken down in a dramatic game by GM Alireza Firouzja. As GMs Ian Nepomniachtc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-8",
+         "pubDate" : "Sat, 10 Sep 2022 22:49:21 -0700",
+         "title" : "Sleepless in St. Louis"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Wesley So during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-incredible-turn-around-against-wesley-so-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9EnTb0rVr8.jpg?itok=09jTRJhO\" alt=\"\" /></a><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemanns-fans-gather-in-front-of-the-saint-louis-chess-club/",
          "pubDate" : "Sat, 10 Sep 2022 18:54:38 +0000",
          "title" : "Hans Niemann's fans gather in front of the Saint Louis Chess Club"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Sat, 10 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup: Live"
       },
       {
          "description" : "Chinese grandmaster Ding Liren is now the number one Rapid player in the World! Ding Liren currently plays the Chinese Chess league which includes combined rapid and classical events. Scoring 3.5/4 points in the first four rounds, Ding Liren earned 2.6 rapid ELO points to overpass Magnus Carlsen on the live rapid rating list. The []",
@@ -146,14 +162,6 @@ news_feed (
          "title" : "Underrated masters of the chess world"
       },
       {
-         "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r7",
-         "pubDate" : "Sat, 10 Sep 2022 11:40:00 +0100",
-         "title" : "Sinquefield Cup: Theoretical lines"
-      },
-      {
          "description" : "Round seven at the 2022 Sinquefield Cup seemed like the complete counterpoint to the exciting sixth round. Leader GM Wesley So had a bye but with no winners in Friday&#39;s round, nobody caught up to him. So leads with four points from six games. GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -176,6 +184,14 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-sinquefield-cup-2022-r8-live/",
          "pubDate" : "Sat, 10 Sep 2022 07:49:37 +0000",
          "title" : "Hans Niemann vs Fabiano Caruana, Sinquefield Cup 2022 R8 LIVE"
+      },
+      {
+         "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r7",
+         "pubDate" : "Sat, 10 Sep 2022 08:40:00 +0100",
+         "title" : "Sinquefield Cup: Theoretical lines"
       },
       {
          "description" : "With only two rounds to go at the Sinquefield Cup 2022, Wesley So continues to lead the event. The American grandmaster scores 4 points to be ahead of Fabiano Caruana, Alireza Firouzja and Ian Nepomniachtchi who tie for the second place with 3.5 points, each. The penultimate eighth round of the Sinquefield Cup brings the []",
@@ -1602,14 +1618,6 @@ news_feed (
          "title" : "The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained"
       },
       {
-         "description" : "In the latest episode of his popular podcast, the American computer scientist and artificial intelligence researcher Lex Fridman had a fascinating, two-and-a-half-hour conversation with GM Magnus Carlsen. The two discussed a wide variety of topics...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lex-fridman-podcast-magnus-carlsen",
-         "pubDate" : "Mon, 29 Aug 2022 11:24:00 -0700",
-         "title" : "Lex Fridman With Magnus Carlsen: An Interview You Don't Want To Miss"
-      },
-      {
          "description" : "The wheel of time continues to turn on the world's two foremost, continuous engine vs. engine competitions. Two weeks ago the headline said, <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html\">Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final</A>(August 2022). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In DFRC1 ('Double Fischer Random Chess: 960*960 possible starting positions'), Stockfish and LCZero finished tied for 1st/2nd places with 16.0/22, 1.5 points ahead of KomodoDragon, which was 2.0 points ahead of Stoofvlees. In the 50 game final match, Stockfish beat LCZero 29.5-20.5 (+18-9=23). After DFRC1, the site launched 'S23 - Chess Bonu",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2040,22 +2048,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/playing-it-safe.html",
          "pubDate" : "Sun, 21 Aug 2022 13:38:00 +0000",
          "title" : "Playing it safe"
-      },
-      {
-         "description" : " Playing a training game against a student this morning, I reached this position in which I was a pawn down, having blundered in the opening. For all reasonably experienced players, the next three moves will be automatic. They'll have seen the idea many times before. If you're not so experienced, or your students aren't so <a href=\"https://chessimprover.com/stock-sacrifices-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Stock Sacrifices (1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/stock-sacrifices-1/\">Stock Sacrifices (1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/stock-sacrifices-1/",
-         "pubDate" : "Sun, 21 Aug 2022 07:09:07 +0000",
-         "title" : "Stock Sacrifices (1)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93687945.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa went down to Poland's Jan-Krzystof Duda via the tie-break in the sixth round of the FTX Crypto Cup, the American finale of Champions Chess Tour, here on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-loses-to-polands-jan-krzystof-duda-in-ftx-crypto-cup/articleshow/93687945.cms",
-         "pubDate" : "Sun, 21 Aug 2022 05:49:09 +0000",
-         "title" : "R Praggnanandhaa loses to Poland's Duda in FTX Crypto Cup"
       }
    ]
 }
