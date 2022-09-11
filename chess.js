@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and each day brings new theories on the case. Just today New allegations on Niemann &#x2013; Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nigel-davies-if-carlsen-does-not-speak-soon-the-fide-ethics-commission-should-act/",
+         "pubDate" : "Sun, 11 Sep 2022 11:15:37 +0000",
+         "title" : "Nigel Davies, \"If Carlsen does not speak soon, the FIDE Ethics Commission should act\""
+      },
+      {
          "description" : "Magnus Carlsen's withdrawal from the Sinquefield Cup 2022 caused different reactions on social medias. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading, and each day is bringing new theories on the case. Alexander Grischuk commented on Carlsen's withdrawal in the interview for championat.com: &#8220;There is nothing supernatural in the fact that Niemann, playing []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemanns-fans-gather-in-front-of-the-saint-louis-chess-club/",
          "pubDate" : "Sat, 10 Sep 2022 18:54:38 +0000",
          "title" : "Hans Niemann's fans gather in front of the Saint Louis Chess Club"
-      },
-      {
-         "description" : "Chinese grandmaster Ding Liren is now the number one Rapid player in the World! Ding Liren currently plays the Chinese Chess league which includes combined rapid and classical events. Scoring 3.5/4 points in the first four rounds, Ding Liren earned 2.6 rapid ELO points to overpass Magnus Carlsen on the live rapid rating list. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-is-now-the-no-1-rapid-player-in-the-world/",
-         "pubDate" : "Sat, 10 Sep 2022 16:24:41 +0000",
-         "title" : "Ding Liren is now the No 1 Rapid player in the world"
       },
       {
          "description" : "That is the question, as it were. Put simply, it is the automated extraction of creative characteristics or 'elements' from one domain for application into another. Human brains do this all the time. Dr. Azlan Iqbal, computer scientist from Malaysia, with research interests in computational aesthetics and creativity in games, uses his problem composing software Chesthetica to illustrate transmutation in computing.",
