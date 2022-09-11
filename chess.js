@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Max Euwe was the first of the twelve World Chess Champions whom Frederic met in the late before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe",
+         "pubDate" : "Sun, 11 Sep 2022 14:00:00 +0100",
+         "title" : "Frederic's mates - Max Euwe"
+      },
+      {
          "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and each day brings new theories on the case. Just today New allegations on Niemann &#x2013; Carlsen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "The First Round"
       },
       {
-         "description" : "A controversy over the Hans Niemann Magnus Carlsen case is not stopping. After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and each day brings []",
+         "description" : "The controversy over the Hans Niemann Magnus Carlsen case is not stopping. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day brings []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/new-allegations-within-niemann-carlsen-case-hans-niemann-performs-much-better-with-live-dgt-boards/",
@@ -1472,14 +1480,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tactics-sprint-training-at-the-speed-of-a-bullet",
          "pubDate" : "Wed, 31 Aug 2022 13:00:00 +0100",
          "title" : "Tactics Sprint - Training at the speed of a bullet (with video!)"
-      },
-      {
-         "description" : "From August 19 to September 1 the European Women's Championship will take place in Prague, and besides titles, prestige and money the qualification for the Women's World Championship 2023 is at stake. Going into the final round, Monicka Socko is the sole leader with 8 points. Three players stand a half point back, including Lilit Mkrtchian, Socko's final opponent. Round 11 starts Wednesday at 13.00 CEST (7.00 ET, 11.00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-chess-championship-round-6-live",
-         "pubDate" : "Wed, 31 Aug 2022 12:50:00 +0100",
-         "title" : "European Women's Chess Championship, Round 11 - Live"
       },
       {
          "description" : "Many of the high quality books received this year concentrated on chess training; perhaps reflecting current anxieties the emphasis was not only on chess positions,...",
