@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen's withdrawal from the Sinquefield Cup 2022 caused different reactions on social medias. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading, and each day is bringing new theories on the case. Alexander Grischuk commented on Carlsen's withdrawal in the interview for championat.com: &#8220;There is nothing supernatural in the fact that Niemann, playing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexander-grischuk-about-niemann-carlsen-case-magnus-freaked-out-for-a-reason/",
+         "pubDate" : "Sun, 11 Sep 2022 10:14:08 +0000",
+         "title" : "Alexander Grischuk about Niemann - Carlsen case: Magnus freaked out for a reason"
+      },
+      {
+         "description" : " In my personal experience, it's usually the last round of a tournament where strange things happen. But, looking at the games from last month's British Championship, I was struck by how many strange things happened in the first round. As usual, the upper half were paired against the lower half, and there were several games <a href=\"https://chessimprover.com/the-first-round-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The First Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-first-round-2/\">The First Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-first-round-2/",
+         "pubDate" : "Sun, 11 Sep 2022 09:29:01 +0000",
+         "title" : "The First Round"
+      },
+      {
+         "description" : "A controversy over the Hans Niemann Magnus Carlsen case is not stopping. After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and each day brings []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-allegations-within-niemann-carlsen-case-hans-niemann-performs-much-better-with-live-dgt-boards/",
+         "pubDate" : "Sun, 11 Sep 2022 08:57:33 +0000",
+         "title" : "New allegations within Niemann - Carlsen case: Hans Niemann performs much better with live DGT boards"
+      },
+      {
+         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after six rounds VOTUM SA POLONIA WROCLAW leads with 10/12. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 7 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
+         "pubDate" : "Sun, 11 Sep 2022 09:45:00 +0100",
+         "title" : "Polish \"Ekstraliga\" - Final round"
+      },
+      {
+         "description" : "Hans Niemann lost his game yesterday against Fabiano Caruana as he missed his chances to escape with a draw. Niemann now scores 3/7 points, tying for the 5th place in the Sinquefield Cup. In the last round of the event, Niemann faces Ian Nepomniachtchi Magnus Carlsen's challenger in the 2021 World Chess Championship Match []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-vs-hans-niemann-sinquefield-cup-2022-r9-live/",
+         "pubDate" : "Sun, 11 Sep 2022 08:42:06 +0000",
+         "title" : "Ian Nepomniachtchi vs Hans Niemann, Sinquefield Cup 2022 R9 LIVE"
+      },
+      {
+         "description" : "After yesterday's victory over Wesley So, Alireza Firouzja overtook the lead in the Sinquefield Cup 2022 and he is now a heavy favorite to become the Winner of the 2022 Grand Chess Tour. Firouzja ties for the first place with Fabiano Caruana and Ian Nepomniachtchi, but Caruana doesn't play the last round as he was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-vs-alireza-firouzja-sinquefield-cup-2022-r9-live/",
+         "pubDate" : "Sun, 11 Sep 2022 08:29:18 +0000",
+         "title" : "Maxime Vachier-Lagrave vs Alireza Firouzja, Sinquefield Cup 2022 R9 LIVE"
+      },
+      {
+         "description" : "Alireza Firouzja won a lost position to beat Wesley So in Round 8 of the Sinquefield Cup, putting him on the verge of a $100,000 bonus for winning the Grand Chess Tour. Firouzja is level with Ian Nepomniachtchi, who beat Levon Aronian, and Fabiano Caruana, who ended his Sinquefield Cup by knocking Hans Niemann out of the 2700 club.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sinquefield-cup-8-firouzja-leapfrogs-so",
+         "pubDate" : "Sun, 11 Sep 2022 08:13:43 +0000",
+         "title" : "Sinquefield Cup 8: Firouzja leapfrogs So"
+      },
+      {
+         "description" : "It was a pivotal day for the standings as Alireza Firouzja survived a difficult position to score an important victory over Wesley So, overtaking the lead in the penultimate round of the Sinquefield Cup. It was then not long after that Ian Nepomniachtchi joined Firouzja in first place, after he defeated Levon Aronian in a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-is-now-a-heavy-favorite-to-win-the-2022-grand-chess-tour-sinquefield-cup-r8-recap/",
+         "pubDate" : "Sun, 11 Sep 2022 08:02:19 +0000",
+         "title" : "Alireza Firouzja is now a heavy favorite to win the Grand Chess Tour - Sinquefield Cup R8 recap"
+      },
+      {
+         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-9-live/",
+         "pubDate" : "Sun, 11 Sep 2022 07:47:46 +0000",
+         "title" : "Sinquefield Cup 2022 - Day 9 LIVE"
+      },
+      {
          "description" : "A remarkable penultimate round at the Sinquefield Cup saw Ian Nepomniachtchi, Fabiano Caruana and Alireza Firouzja scoring full points to climb to shared first place with 4&frac12; points each. For Caruana, however, it is all but impossible to win the event, as he will not play in Sunday's final round, when he was supposed to face Magnus Carlsen. In the one draw of the day, Shakhriyar Mamedyarov managed to escape with a half point from an inferior position against Leinier Dominguez. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +146,7 @@ news_feed (
          "title" : "Niemann: No One Can Play Under These Conditions | Round 7"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and Hikaru Nakamura claimed in his live stream that Niemann has done &#x201C;unallowed things&#x201D; during the online []",
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and Hikaru Nakamura claimed in his live stream that Niemann has done &#x201C;unallowed things&#x201D; during the online []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/sinquefield-cup-chief-arbiters-statement-we-currently-have-no-indication-that-any-player-has-been-playing-unfairly-in-the-2022-sinquefield-cup/",
@@ -96,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ding-liren-is-now-the-no-1-rapid-player-in-the-world/",
          "pubDate" : "Sat, 10 Sep 2022 16:24:41 +0000",
          "title" : "Ding Liren is now the No 1 Rapid player in the world"
-      },
-      {
-         "description" : "Famous grandmaster and FIDE Senior Trainer Ivan Sokolov is one of the lecturers at the FIDE Training Seminar that is ongoing in Mamaia, Romania, concurrently with the FIDE World Youth U14, U16 and U18 Chess Championships. The seminar takes place from 7-12 September, in English language, with GM Ivan Sokolov and GM R.B. Ramesh as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ivan-sokolov-i-will-no-longer-work-at-seminars-or-any-actions-at-fide/",
-         "pubDate" : "Sat, 10 Sep 2022 15:28:47 +0000",
-         "title" : "Ivan Sokolov: I will no longer work at seminars or any actions at FIDE"
       },
       {
          "description" : "That is the question, as it were. Put simply, it is the automated extraction of creative characteristics or 'elements' from one domain for application into another. Human brains do this all the time. Dr. Azlan Iqbal, computer scientist from Malaysia, with research interests in computational aesthetics and creativity in games, uses his problem composing software Chesthetica to illustrate transmutation in computing.",
@@ -128,22 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-chess-championship-knockout-participants",
          "pubDate" : "Sat, 10 Sep 2022 06:25:00 -0700",
          "title" : "Anand, Ivanchuk, Kramnik, Topalov Among Global Chess Championship Participants"
-      },
-      {
-         "description" : "More by GM Simon Williams: The Iron English &#x2013; Botvinnik Variation / The Hippopotamus Defence Do you ever feel like you&#x2019;re spinning your wheels &#x2014; spending hours on training with very little to show for it? Worse, still, do you keep sliding back down the rating ladder because of losing streaks and plateaus? If so, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/accelerate-your-chess-with-ginger-gm/",
-         "pubDate" : "Sat, 10 Sep 2022 12:36:56 +0000",
-         "title" : "Accelerate Your Chess with Ginger GM"
-      },
-      {
-         "description" : "Are you a university student or faculty member who is already researching chess or who would like to begin researching a chess topic? The Chessable Research Awards are for you! Designed to inspire new chess research or aid ongoing chess research, applications for the Chessable Research Awards are being accepted now. The application process continues []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-research-awards-2022/",
-         "pubDate" : "Sat, 10 Sep 2022 12:16:43 +0000",
-         "title" : "Chessable research awards 2022"
       },
       {
          "description" : "On Friday last week, Croatian grandmaster Miso Cebalo passed away in Zagreb. In his younger years, Cebalo was one of Yugoslavia's best bridge players. He was also a linguistic genius. Cebalo was a national player for Yugoslavia, then Croatia, and in later years was active as an author, commentator and coach. Miso Cebalo was 77 years old.",
@@ -178,36 +226,12 @@ news_feed (
          "title" : "Dancing queen"
       },
       {
-         "description" : "After yesterday's draw against Maxime Vachier-Lagrave, Hans Niemann spoke in the R7 post-game interview about the mental pressure he is facing over the past few days. He concluded that it is ridiculous t play chess under those conditions. The eighth penultimate round of the Sinquefield Cup 2022 features the encounter between 19-year-old Niemann and Fabiano []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-sinquefield-cup-2022-r8-live/",
-         "pubDate" : "Sat, 10 Sep 2022 07:49:37 +0000",
-         "title" : "Hans Niemann vs Fabiano Caruana, Sinquefield Cup 2022 R8 LIVE"
-      },
-      {
          "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r7",
          "pubDate" : "Sat, 10 Sep 2022 08:40:00 +0100",
          "title" : "Sinquefield Cup: Theoretical lines"
-      },
-      {
-         "description" : "With only two rounds to go at the Sinquefield Cup 2022, Wesley So continues to lead the event. The American grandmaster scores 4 points to be ahead of Fabiano Caruana, Alireza Firouzja and Ian Nepomniachtchi who tie for the second place with 3.5 points, each. The penultimate eighth round of the Sinquefield Cup brings the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-vs-wesley-so-sinquefield-cup-2022-r8-live/",
-         "pubDate" : "Sat, 10 Sep 2022 07:39:32 +0000",
-         "title" : "Alireza Firouzja vs Wesley So, Sinquefield Cup 2022 R8 LIVE"
-      },
-      {
-         "description" : "GM Daniel Naroditsky yesterday joined GM Hikaru Nakamura's live stream yesterday where they analyzed the games from the Sinquefield Cup 2022 and talked about recent happenings connected with Carlsen's first-ever withdrawal from the tournament. Nakamura and Naroditsky spoke about cheating in chess, how often it is, and is it really possible to cheat in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-and-daniel-naroditsky-speak-about-cheating-in-chess/",
-         "pubDate" : "Sat, 10 Sep 2022 07:26:45 +0000",
-         "title" : "Hikaru Nakamura and Daniel Naroditsky speak about cheating in chess"
       },
       {
          "description" : "\"This tournament is broken,\" said Jan Gustafsson after all four games were drawn in Round 7 of the Sinquefield Cup. It was a day of long theoretical battles that never looked likely to burst into life, though Alireza Firouzja at least showed fighting spirit by playing on - in vain - against Leinier Dominguez. Wesley So didn't play, but maintained the sole lead with just two rounds to go.",
@@ -282,20 +306,20 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Alireza attacks"
       },
       {
+         "description" : "Last week's post in the <I>Fischer Friday</I> series, <A HREF=\"http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html\">Benson Called Bobby</A>(September 2022), was about the 21st and final game of the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com):- <BLOCKQUOTE>Brad Darrach described the transition from the 10th World Champion to the 11th in his usual colorful style. </BLOCKQUOTE> <P>A more straightforward account of the end of the match can be found in the book I introduced in an earlier post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html\">GM Svetozar Gligoric, Player/Journalis",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/fischer-spassky-zeitgeist.html",
+         "pubDate" : "Fri, 09 Sep 2022 15:12:00 +0000",
+         "title" : "Fischer - Spassky Zeitgeist"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1974",
          "pubDate" : "Fri, 09 Sep 2022 14:00:52 +0000",
          "title" : "Serbia prepares for second Intercontinental Online Chess Championship for Prisoners"
-      },
-      {
-         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after six rounds VOTUM SA POLONIA WROCLAW leads with 10/12. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 7 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
-         "pubDate" : "Fri, 09 Sep 2022 14:45:00 +0100",
-         "title" : "Polish \"Ekstraliga\" - live"
       },
       {
          "description" : "The English Chess Federation offers its condolences on the death of Her Majesty, Queen Elizabeth the Second. Our thoughts are with her family at this...",
@@ -1792,14 +1816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1940",
          "pubDate" : "Fri, 26 Aug 2022 10:31:24 +0000",
          "title" : "Arjun Erigaisi clinches Abu Dhabi Masters 2022"
-      },
-      {
-         "description" : "Ian Nepomniachtchi, Alireza Firouzja and Hikaru Nakamura are among the stars in action for the St. Louis Rapid &amp; Blitz, which starts today, while Magnus Carlsen joins for the classical Sinquefield Cup on September 2. The organisers have announced replacements for world #13 Richard Rapport as the Hungarian couldn't meet US Covid travel requirements.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-st-louis-rapid-blitz-starts-today",
-         "pubDate" : "Fri, 26 Aug 2022 08:11:01 +0000",
-         "title" : "The St. Louis Rapid & Blitz starts today! "
       },
       {
          "description" : " IM Kassa Korley preparing for the Round 9 game against GM Tiger Hillarp Persson.Photo by Dansk Skak Union. Kassa Korley has been fiercely competing in norm tournaments in an attempt to earn his 3rd and final Grandmaster norm. The New York City (Harlem) native created a stir while earning his second GM norm at the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/\">Kassa Korley seeking 3rd GM Norm</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
