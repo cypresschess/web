@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Sun, 11 Sep 2022 19:50:00 +0100",
+         "title" : "Sinquefield Cup: Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich talks to some Hans Niemann chess fans during the eighth round of the 2022 Sinquefield Cup. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fans-we-love-hans-niemann-round-8-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8aCNTN8oU5Q.jpg?itok=FIwcf5RN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fans-we-love-hans-niemann-round-8-0",
+         "pubDate" : "Sun, 11 Sep 2022 18:33:24 +0000",
+         "title" : "Fans: We Love Hans Niemann! | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-8",
+         "pubDate" : "Sun, 11 Sep 2022 18:33:24 +0000",
+         "title" : "2022 Sinquefield Cup: Round 8"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1977",
+         "pubDate" : "Sun, 11 Sep 2022 18:25:52 +0000",
+         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The controversy over the Hans Niemann &#x2013; Magnus Carlsen case is not stopping. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament giving no detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/richard-rapport-suggests-a-polygraph-test-to-manage-cheating-in-chess-and-protect-players-who-are-falsely-accused-tweetoftheday/",
+         "pubDate" : "Sun, 11 Sep 2022 16:59:06 +0000",
+         "title" : "Richard Rapport suggests a polygraph test to manage cheating in chess and protect players who are falsely accused #TweetOftheDay"
+      },
+      {
          "description" : " WFM Alana Chibnall is the 2022 ACT Women's Champion, after winning todays tournament with a perfect 7 from 7. 25 players took part in the tournament, which has returned to the ACT chess calendar after a gap of 8 years. The tournament was a 7 round Rapid, with a time control of 15m+5s. Tied for 2nd place were Shriya Karthik and Jo Mason, who finished 5.5, drawing their Round 6 game, after both losing to Chibnall earlier in the tournament. Unrated newcomer Kenisha Gaind won the Best Under 14 Years player, while 7 year old Echo Feng finished in a tie for 5th, and won the Best Under 12 Years player. With Gain picking up a medal for the Under 14 title, Claire Bradbery was the best Unrated player",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -122,7 +162,7 @@ news_feed (
          "title" : "Sleepless in St. Louis"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Wesley So during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-incredible-turn-around-against-wesley-so-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9EnTb0rVr8.jpg?itok=09jTRJhO\" alt=\"\" /></a><",
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Wesley So during the eighth round of the 2022 Sinquefield Cup. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-incredible-turn-around-against-wesley-so-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9EnTb0rVr8.jpg?itok=09jTRJhO\" alt=\"\" /></a><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/firouzja-incredible-turn-around-against-wesley-so-round-8",
@@ -138,7 +178,7 @@ news_feed (
          "title" : "Fans: We Love Hans Niemann! | Round 8"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after defeating Levon Aronian during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-shameful-victory-or-brilliant-tactical-victory-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aOyLymU3lxY.jpg?itok=Km96pIwD\" alt=\"\"",
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after defeating Levon Aronian during the eighth round of the 2022 Sinquefield Cup. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-shameful-victory-or-brilliant-tactical-victory-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aOyLymU3lxY.jpg?itok=Km96pIwD\" alt=\"\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/nepo-shameful-victory-or-brilliant-tactical-victory-round-8",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sinquefield-cup-chief-arbiters-statement-we-currently-have-no-indication-that-any-player-has-been-playing-unfairly-in-the-2022-sinquefield-cup/",
          "pubDate" : "Sat, 10 Sep 2022 19:38:17 +0000",
          "title" : "Sinquefield Cup Chief Arbiter's statement: We currently have no indication that any player has been playing unfairly in the 2022 Sinquefield Cup"
-      },
-      {
-         "description" : "Hans Niemann&#x2019;s fans gathered today in front of the Saint Louis Chess Club upon the start of the 8th penultimate round of the Sinquefield Cup 2022. A few girls were standing in front of the building to show support to Hans Niemann holding banners with different signs: &#x201C;We love Hans&#x201D;, &#x201C;Checkmate Magnus&#x201D;, &#x201C;Hans has cool []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemanns-fans-gather-in-front-of-the-saint-louis-chess-club/",
-         "pubDate" : "Sat, 10 Sep 2022 18:54:38 +0000",
-         "title" : "Hans Niemann's fans gather in front of the Saint Louis Chess Club"
       },
       {
          "description" : "That is the question, as it were. Put simply, it is the automated extraction of creative characteristics or 'elements' from one domain for application into another. Human brains do this all the time. Dr. Azlan Iqbal, computer scientist from Malaysia, with research interests in computational aesthetics and creativity in games, uses his problem composing software Chesthetica to illustrate transmutation in computing.",
@@ -288,22 +320,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/eric-rosen-importance-compassion-patience-round-7",
          "pubDate" : "Sat, 10 Sep 2022 00:32:12 +0000",
          "title" : "Eric Rosen: The Importance of Compassion & Patience | Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-7",
-         "pubDate" : "Sat, 10 Sep 2022 00:32:12 +0000",
-         "title" : "2022 Sinquefield Cup: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after a draw with Mamedyarov during the seventh round of the 2022 Sinquefield Cup. 2022.09.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-accepts-his-early-draw-%E2%80%9Cpunishment%E2%80%9D-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0WV2Y-mgPz0.jpg?itok=s_C0jOV2\" a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-accepts-his-early-draw-%E2%80%9Cpunishment%E2%80%9D-round-7",
-         "pubDate" : "Fri, 09 Sep 2022 21:32:09 +0000",
-         "title" : "Nepo Accepts his Early Draw \"Punishment\" | Round 7"
       },
       {
          "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon had a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
@@ -1482,14 +1498,6 @@ news_feed (
          "title" : "How good are your rooks?"
       },
       {
-         "description" : "There are many ways to train tactics, from methodical themes, to deep positions, and while all have their place in a player's arsenal of training tools, there is one that specifically targets speed of recognition and play: the Tactics Sprint. If you feel like you want a method to improve your ability to see and play tactics in minimal time see this intro with video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tactics-sprint-training-at-the-speed-of-a-bullet",
-         "pubDate" : "Wed, 31 Aug 2022 13:00:00 +0100",
-         "title" : "Tactics Sprint - Training at the speed of a bullet (with video!)"
-      },
-      {
          "description" : "Many of the high quality books received this year concentrated on chess training; perhaps reflecting current anxieties the emphasis was not only on chess positions,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-praggnanandhaa-beats-carlsen-again-to-finish-2nd/articleshow/93716245.cms",
          "pubDate" : "Mon, 22 Aug 2022 17:34:18 +0000",
          "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen again to finish 2nd"
-      },
-      {
-         "description" : "R Praggnanandhaa earned a win over eventual champion Magnus Carlsen to finish second at the FTX Crypto Cup. This is the third time he's beaten Carlsen in 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34439725/praggnanandhaa-beats-carlsen-finishes-second-ftx-crypto-cup-chess?device=featurephone",
-         "pubDate" : "Mon, 22 Aug 2022 05:41:04 -0500",
-         "title" : "Praggnanandhaa beats Carlsen in final round, finishes second in FTX Crypto Cup"
       },
       {
          "description" : " The FTX Crypto Cup took place in Miami Mon 15th Aug to Sun 21st Aug 2022. Players: Aronian, Carlsen, Duda, Firouzja, Giri, Le Quang Liem, Niemann and Praggnanandhaa. Magnus Carlsen took first place by a point from R Praggnanandhaa and Alireza Firouzja. Carlsen faced Praggnanandhaa in the final round and needed to draw the first four rounds 2-2, this he secured by winning game three, he lost game four and both tie-break games however which allowed Praggnanandhaa to finish second. ",
