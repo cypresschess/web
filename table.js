@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2022-09-10","36","<a href=http://www.uschess.org/msa/XtblMain.php?202209107162 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-09-09","22","<a href=http://www.uschess.org/msa/XtblMain.php?202209097092 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-09-09","12","<a href=http://www.uschess.org/msa/XtblMain.php?202209097062 target='_blank'>FBCC LABOR DAY CHAMPIONSHIP</a>",
 "HOUSTON","2022-09-04","6","<a href=http://www.uschess.org/msa/XtblMain.php?202209044942 target='_blank'>SEPT 4 SUNDAY SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-11-26","21","<a href=http://www.uschess.org/msa/XtblMain.php?202111260392 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-11-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202111260352 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-11-02  - 11-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202111239782 target='_blank'>NOVEMBER TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2021-11-20","202","<a href=http://www.uschess.org/msa/XtblMain.php?202111207892 target='_blank'>TCR: NOVEMBER CHESS FLURRY</a>",
 ]);
