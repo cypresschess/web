@@ -2056,14 +2056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1935",
          "pubDate" : "Mon, 22 Aug 2022 19:46:32 +0000",
          "title" : "Two FIDE Trainer Seminars announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1934",
-         "pubDate" : "Mon, 22 Aug 2022 19:27:20 +0000",
-         "title" : "Harry Grieve wins Chessable British Chess Championship"
       }
    ]
 }
