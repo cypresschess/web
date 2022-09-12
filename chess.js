@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This is a flash report to summarize the results. The full report will be published on this page soon. After nine eventful rounds of play and lots of surrounding tumult, the 2022 Sinquefield Cup came to a conclusion on Sunday in Saint Louis. Af...",
+         "description" : "Some endgames crop up more often than others as will be seen in this article. In this excellent taster, you will see classics such as Vancura's Draw, as well as a Knight Hunt set forth by Wojtaszek against his opponent. Finally there is a powerful 1-2 punch that breaks down the final barrier to victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-4",
+         "pubDate" : "Mon, 12 Sep 2022 07:30:00 +0100",
+         "title" : "Karsten M&uuml;ller: Topical Endgames Week 37"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Nepomniachtchi in the playoff of the 2022 Sinquefield Cup. Firouzja is the first person to win the Saint Louis Rapid &amp; Blitz, Sinquefield Cup, and the entire Grand Chess Tour all in the same season. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-sweeps-saint-louis-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-sweeps-saint-louis-playoff",
+         "pubDate" : "Mon, 12 Sep 2022 03:33:30 +0000",
+         "title" : "Firouzja Sweeps in Saint Louis! | Playoff"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovich for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-day-1",
+         "pubDate" : "Mon, 12 Sep 2022 03:33:30 +0000",
+         "title" : "2022 Chess 9LX: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. This full quality entry was initially Private. Analytics for original copy are: 8508 peak concurrent, 1129 views (low due to immediate switchover to this copy). </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-9-playoff",
+         "pubDate" : "Mon, 12 Sep 2022 03:33:30 +0000",
+         "title" : "2022 Sinquefield Cup: Round 9 & Playoff"
+      },
+      {
+         "description" : "After nine eventful rounds of play and lots of surrounding tumult, the 2022 Sinquefield Cup came to a conclusion on Sunday in Saint Louis. After four draws in the regulation games of round nine, a play-off, consisting of two rapid games, between...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-wins-2022-sinquefield-cup",
          "pubDate" : "Sun, 11 Sep 2022 18:34:00 -0700",
-         "title" : "Flash Report: Firouzja Wins Sinquefield Cup"
+         "title" : "Firouzja Wins Sinquefield Cup & The Grand Chess Tour"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
@@ -82,22 +114,6 @@ news_feed (
          "title" : "Dominguez: \"Annoying\" Missed Chances | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Alejandro Ramirez after a draw with Aronian in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-played-too-much-year-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6t4jiYvfHsI.jpg?itok=I9S1AM5x\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mamedyarov-played-too-much-year-round-9",
-         "pubDate" : "Sun, 11 Sep 2022 21:33:24 +0000",
-         "title" : "Mamedyarov: Played Too Much This Year | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Alejandro Ramirez after a draw with Mamedyarov in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-waiting-cloud-pass%E2%80%A6-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JzRVUAzgPfY.jpg?itok=Eh5F0TZj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-waiting-cloud-pass%E2%80%A6-round-9",
-         "pubDate" : "Sun, 11 Sep 2022 21:33:24 +0000",
-         "title" : "Aronian: Waiting for the Cloud to Pass&hellip; | Round 9"
-      },
-      {
          "description" : "With a quick draw against Maxime Vachier-Lagrave in the last round of the Sinquefield Cup 2022, Alireza Firouzja secured the throne of the overall Grand Chess Tour 2022 standings. With the 2022 Grand Chess Tour victory, Firouzja pocketed a money prize of 100.000$. Firouzja's performance at the Grand Chess Tour 2022 started clumsy, as he []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
          "pubDate" : "Sun, 11 Sep 2022 19:50:00 +0100",
          "title" : "Sinquefield Cup Playoff: Live"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich talks to some Hans Niemann chess fans during the eighth round of the 2022 Sinquefield Cup. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fans-we-love-hans-niemann-round-8-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8aCNTN8oU5Q.jpg?itok=FIwcf5RN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fans-we-love-hans-niemann-round-8-0",
-         "pubDate" : "Sun, 11 Sep 2022 18:33:24 +0000",
-         "title" : "Fans: We Love Hans Niemann! | Round 8"
       },
       {
          "description" : "",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-lazavik-win-titled-tuesday-august-30-2022",
          "pubDate" : "Wed, 31 Aug 2022 08:41:46 -0700",
          "title" : "Martinez Beats The Crowd, Young IM Wins Again"
-      },
-      {
-         "description" : "Eight years ago, in ChessBase Magazine #160, Dorian Rogozenco started his video series \"The Classic\". With his contribution in the new issue CBM #209 on the game Pillsbury-Lasker (St. Petersburg 1896), the round number of 50 selected top games from the time up to 1945 has been reached. A nice anniversary, for which we present Rogozenco's video in full length. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-classic-in-cbm-209-pillsbury-lasker-1896",
-         "pubDate" : "Wed, 31 Aug 2022 16:00:00 +0100",
-         "title" : "\"The Classic\" in CBM #209: Pillsbury-Lasker (1896)"
       },
       {
          "description" : "",
