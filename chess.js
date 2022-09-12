@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi lost the rapid playoff match to Alireza Firouzja finishing second in the Sinquefield Cup 2022. After the first game of the playoffs finished in a draw, Nepo blundered a piece in the game two and the match finished with 1.5-0.5 result in favor of Firouzja. See the final report &#38; results here After []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-a-sad-end-to-a-sad-tournament/",
+         "pubDate" : "Mon, 12 Sep 2022 07:10:48 +0000",
+         "title" : "Ian Nepomniachtchi: A sad end to a sad tournament"
+      },
+      {
+         "description" : "World No. 4 Alireza Firouzja clinched victory in the 2022 Sinquefield Cup after defeating Ian Nepomniachtchi 1.5-0.5 in a rapid playoff for the title, earning an extra $10,000 in addition to his $87,500 first place prize. With his result in the Sinquefield Cup, Firouzja also emerged as the overall winner of the 2022 Grand Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-wins-sinquefield-cup-2022-after-defeating-ian-nepomniachtchi-in-a-rapid-playoff/",
+         "pubDate" : "Mon, 12 Sep 2022 06:54:39 +0000",
+         "title" : "Alireza Firouzja wins Sinquefield Cup 2022 after defeating Ian Nepomniachtchi in a rapid playoff"
+      },
+      {
          "description" : "Some endgames crop up more often than others as will be seen in this article. In this excellent taster, you will see classics such as Vancura's Draw, as well as a Knight Hunt set forth by Wojtaszek against his opponent. Finally there is a powerful 1-2 punch that breaks down the final barrier to victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-4",
          "pubDate" : "Mon, 12 Sep 2022 07:30:00 +0100",
          "title" : "Karsten M&uuml;ller: Topical Endgames Week 37"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1978",
+         "pubDate" : "Mon, 12 Sep 2022 06:26:59 +0000",
+         "title" : "Alireza Firouzja wins 2022 Sinquefield Cup"
+      },
+      {
+         "description" : "Alireza Firouzja beat Ian Nepomniachtchi in a playoff to complete a stunning debut in St. Louis. The 19-year-old added victory in the Sinquefield Cup and Grand Chess Tour to his crushing victory in the St. Louis Rapid and Blitz, picking up $227,500 in the space of just over two weeks.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/alireza-firouzja-wins-it-all-in-st-louis",
+         "pubDate" : "Mon, 12 Sep 2022 06:04:14 +0000",
+         "title" : "Alireza Firouzja wins it all in St. Louis"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Nepomniachtchi in the playoff of the 2022 Sinquefield Cup. Firouzja is the first person to win the Saint Louis Rapid &amp; Blitz, Sinquefield Cup, and the entire Grand Chess Tour all in the same season. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-sweeps-saint-louis-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files",
@@ -224,22 +256,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-8-firouzja-leapfrogs-so",
          "pubDate" : "Sun, 11 Sep 2022 08:13:43 +0000",
          "title" : "Sinquefield Cup 8: Firouzja leapfrogs So"
-      },
-      {
-         "description" : "It was a pivotal day for the standings as Alireza Firouzja survived a difficult position to score an important victory over Wesley So, overtaking the lead in the penultimate round of the Sinquefield Cup. It was then not long after that Ian Nepomniachtchi joined Firouzja in first place, after he defeated Levon Aronian in a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-is-now-a-heavy-favorite-to-win-the-2022-grand-chess-tour-sinquefield-cup-r8-recap/",
-         "pubDate" : "Sun, 11 Sep 2022 08:02:19 +0000",
-         "title" : "Alireza Firouzja is now a heavy favorite to win the Grand Chess Tour - Sinquefield Cup R8 recap"
-      },
-      {
-         "description" : "The ninth annual&#160;Sinquefield Cup&#160;is also the fifth and final leg of the&#160;Grand Chess Tour 2022. Eight Tour players: Wesley So, Maxime Vachier-Lagrave, Levon Aronian, Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Leinier Dominguez, and Shakhriyar Mamedyarov are joined by wildcards Magnus Carlsen and Hans Niemann for a classical chess event which is played in 9 round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sinquefield-cup-2022-day-9-live/",
-         "pubDate" : "Sun, 11 Sep 2022 07:47:46 +0000",
-         "title" : "Sinquefield Cup 2022 - Day 9 LIVE"
       },
       {
          "description" : "A remarkable penultimate round at the Sinquefield Cup saw Ian Nepomniachtchi, Fabiano Caruana and Alireza Firouzja scoring full points to climb to shared first place with 4&frac12; points each. For Caruana, however, it is all but impossible to win the event, as he will not play in Sunday's final round, when he was supposed to face Magnus Carlsen. In the one draw of the day, Shakhriyar Mamedyarov managed to escape with a half point from an inferior position against Leinier Dominguez. | Photo: Grand Chess Tour / Lennart Ootes",
@@ -1792,14 +1808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1941",
          "pubDate" : "Sat, 27 Aug 2022 11:30:13 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 1 Recap"
-      },
-      {
-         "description" : "Alireza Firouzja ominously said he felt \"very fresh\" after he beat Shakhriyar Mamedyarov and Hikaru Nakamura to take the sole lead on 5/6 after Day 1 of the St. Louis Rapid and Blitz. Hikaru, who went unbeaten in 27 games to win the 2021 event, lost twice, handing Magnus Carlsen the world rapid no. 1 spot, but he did then bounce back in the final game to beat Levon Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/st-louis-rb-1-firouzja-s-dream-debut",
-         "pubDate" : "Sat, 27 Aug 2022 09:51:14 +0000",
-         "title" : "St Louis RB 1: Firouzja's dream debut"
       },
       {
          "description" : "FIDÉ, the governing body of world chess, is now riven with contradictions. As I predicted, its Russian President, Arkady Dvorkovich, has been overwhelmingly re-elected at the vote in Chennai, which coincided with the relocated Chess Olympiad, or international team tournament. Originally scheduled for Moscow, everything was switched to Chennai at virtually the last minute, and by all accounts, it was []",
