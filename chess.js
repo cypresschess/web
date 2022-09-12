@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Imagine you could sit down with one of the strongest players in the world for your tactics training. After every problem, you compare notes what you saw, what he saw. You talk about your thought processes and tips for solving the problems. Every exercise, you get this same detailed explanation from a 2700+ rated []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sam-shankland-chess-calculation-workbook/",
+         "pubDate" : "Mon, 12 Sep 2022 22:47:37 +0000",
+         "title" : "Sam Shankland: Chess Calculation Workbook"
+      },
+      {
+         "description" : "FIDE has entered into a partnership with the German company WR Group Holding GmbH to launch together a new major competition: the World Open Teams Championship 2023. The first tournament is planned to take place in D&#xFC;sseldorf in May-June 2023, played over three days under rapid time control. It will be open to clubs from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-open-teams-chess-championship-2023/",
+         "pubDate" : "Mon, 12 Sep 2022 21:27:31 +0000",
+         "title" : "World Open Teams Chess Championship 2023"
+      },
+      {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series will kick off on September 18 in Nur-Sultan, the capital of Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix will consist of four tournaments (to be played in Kazakhstan, Germany, India and Poland). Each player will participate in three out of the four tournaments. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-preview",
+         "pubDate" : "Mon, 12 Sep 2022 22:00:00 +0100",
+         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random), which will feature the world&#x2019;s top Grandmasters including legendary 13th World Champion Garry Kasparov, World Number 3, Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/garry-kasparov-in-the-chess-960-fischer-random-event-of-saint-louis-chess-club/",
+         "pubDate" : "Mon, 12 Sep 2022 20:38:13 +0000",
+         "title" : "Garry Kasparov in the Chess 960 Fischer Random event of Saint Louis Chess Club"
+      },
+      {
+         "description" : " The 9th Sinquefield Cup took place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4. Alireza Firouzja won the event by beating Ian Nepomniachtchi in a tie-break. Nepomniachtchi failed to convert a winning position against Niemann in the final round. Firouzja also won the Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
+         "pubDate" : "Mon, 12 Sep 2022 23:34:00 +0400",
+         "title" : "9th Sinquefield Cup 2022 - Games and Results"
+      },
+      {
          "description" : "In the Endgame Magic Show #211 Arne K&auml;hler and Karsten M&uuml;ller continue to look at endgame highlights from the Candidates Tournament. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,14 +330,6 @@ news_feed (
          "title" : "All set for the first leg of the FIDE Women's Grand Prix"
       },
       {
-         "description" : "The controversy over the Hans Niemann &#x2013; Magnus Carlsen case is not stopping. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament giving no detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/richard-rapport-suggests-a-polygraph-test-to-manage-cheating-in-chess-and-protect-players-who-are-falsely-accused-tweetoftheday/",
-         "pubDate" : "Sun, 11 Sep 2022 16:59:06 +0000",
-         "title" : "Richard Rapport suggests a polygraph test to manage cheating in chess and protect players who are falsely accused #TweetOftheDay"
-      },
-      {
          "description" : "After all the anti-social behavior documented in the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), it's easy to forget that there are still role models in the game. GM Anand is one of the classiest. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/z1jQ7aCri1s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How Vishy is changing the Landscape of Chess in India | WACA Chess</B> (4:52) &#149; '[Published on] Sep 8, 2022' <P>",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -320,22 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe",
          "pubDate" : "Sun, 11 Sep 2022 14:00:00 +0100",
          "title" : "Frederic's mates - Max Euwe"
-      },
-      {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and each day brings new theories on the case. Just today New allegations on Niemann &#x2013; Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nigel-davies-if-carlsen-does-not-speak-soon-the-fide-ethics-commission-should-act/",
-         "pubDate" : "Sun, 11 Sep 2022 11:15:37 +0000",
-         "title" : "Nigel Davies, \"If Carlsen does not speak soon, the FIDE Ethics Commission should act\""
-      },
-      {
-         "description" : "Magnus Carlsen's withdrawal from the Sinquefield Cup 2022 caused different reactions on social medias. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading, and each day is bringing new theories on the case. Alexander Grischuk commented on Carlsen's withdrawal in the interview for championat.com: &#8220;There is nothing supernatural in the fact that Niemann, playing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexander-grischuk-about-niemann-carlsen-case-magnus-freaked-out-for-a-reason/",
-         "pubDate" : "Sun, 11 Sep 2022 10:14:08 +0000",
-         "title" : "Alexander Grischuk about Niemann - Carlsen case: Magnus freaked out for a reason"
       },
       {
          "description" : " In my personal experience, it's usually the last round of a tournament where strange things happen. But, looking at the games from last month's British Championship, I was struck by how many strange things happened in the first round. As usual, the upper half were paired against the lower half, and there were several games <a href=\"https://chessimprover.com/the-first-round-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The First Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-first-round-2/\">The First Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -978,14 +994,6 @@ news_feed (
          "title" : "Entertaining studies - solutions"
       },
       {
-         "description" : " The 9th Sinquefield Cup takes place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
-         "pubDate" : "Mon, 5 Sep 2022 23:34:00 +0400",
-         "title" : "9th Sinquefield Cup 2022 - Games and Results"
-      },
-      {
          "description" : "On Monday, GM Magnus Carlsen surprised the chess world by announcing that he was withdrawing from the 2022 Sinquefield Cup, tweeting his decision at the beginning of round four. I&#39;ve withdrawn from the tournament. I&#39;ve always enjoyed playing i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1514,14 +1522,6 @@ news_feed (
          "title" : "FIDE ratings September 2022"
       },
       {
-         "description" : "From now on buyers of Fritztrainer DVDs can unlock and install a download version! So if you don't have a DVD drive (anymore), you can still buy a Fritztrainer on DVD-ROM. You can also install your previously purchased Fritztrainer DVDs on your new computer with the unlocked download. And you can give away a DVD with a clear conscience, because the download is always included. In addition, the stream is unlocked in the ChessBase video portal for iPads & Co! And of course you can buy the download directly in the ChessBase Shop and get it immediately!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/buying-dvds-and-installing-download",
-         "pubDate" : "Thu, 01 Sep 2022 14:00:00 +0100",
-         "title" : "Buying DVDs and installing download"
-      },
-      {
          "description" : "GM Monika Socko won the 22nd European Women&#39;s Chess Championship, held August 20-31, 2022 in Prague. The 44-year-old Polish grandmaster was the only player to score 8.5 out of 11 rounds in a field of 123 players. Socko, the seventh seed, finishe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1730,7 +1730,7 @@ news_feed (
          "title" : "Nakamura Scores 7.5/9, Firouzja Stretches Lead"
       },
       {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;What is it that makes Magnus Carlsen the strongest chess player in the world? Why do Carlsen's opponents, the best players around, fail to see his moves coming? Moves that, when you replay his games, look natural and self-evident? Emmanuel Neiman has been studying Carlsen's <a href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;What is it that makes Magnus Carlsen the strongest chess player in the world? Why do Carlsen's opponents, the best <a href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-an",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/",
@@ -1986,7 +1986,7 @@ news_feed (
          "title" : "Chess: Harry Grieve, 21, wins British championship as seven-year-old shines"
       },
       {
-         "description" : " From the publisher: &#8220;Chris Ross has come a long way from the back streets of Middlesbrough to a senior administrative role at Sheffield Hallam University, helping the education of those with a wide range of disabilities. A former teacher, Chris's natural ability to educate has developed many of his colleagues in UK chess clubs - <a href=\"http://britishchessnews.com/2022/08/24/blind-faith/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Blind Faith</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/24/blind-faith/\">Blind Faith</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com",
+         "description" : " From the publisher: &#8220;Chris Ross has come a long way from the back streets of Middlesbrough to a senior administrative role at Sheffield Hallam University, helping the education of those <a href=\"http://britishchessnews.com/2022/08/24/blind-faith/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Blind Faith</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/24/blind-faith/\">Blind Faith</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/08/24/blind-faith/",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1936",
          "pubDate" : "Tue, 23 Aug 2022 11:02:44 +0000",
          "title" : "Hou Yifan edges out Valentina Gunina to reach the final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1935",
-         "pubDate" : "Mon, 22 Aug 2022 19:46:32 +0000",
-         "title" : "Two FIDE Trainer Seminars announced"
       }
    ]
 }
