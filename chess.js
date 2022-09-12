@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour is launching a new ground-breaking tournament this month focused on the clash of ages. The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, will feature 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-preview",
+         "pubDate" : "Mon, 12 Sep 2022 11:20:00 +0100",
+         "title" : "Carlsen and Niemann to face off in Julius Baer Generation Cup"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour, the world&#x2019;s leading year-round chess circuit, is launching a new ground-breaking tournament this month focused on the clash of ages. The eight-day Julius Baer Generation Cup, the seventh leg of the $1.6 million Tour running from September 18 to 25, will feature 16 world-class players spanning the age spectrum. World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hans-niemann-coming-up-this-month-with-the-julius-baer-generation-cup/",
+         "pubDate" : "Mon, 12 Sep 2022 09:57:35 +0000",
+         "title" : "Magnus Carlsen vs Hans Niemann coming up this month with the Julius Baer Generation Cup"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After winning the <strong>St Louis Blitz &amp; Rapid</strong>, <strong>Alireza Firouzja</strong> also <a href=\"https://grandchesstour.org\">claimed first place</a> in the classical control <strong>Sinquefield Cup</strong> after beating <strong>Ian Nepomniachtchi</strong> in the tie-break. The 19-year old also came first ahead of <strong>Maxime Vachier-Lagrave</strong> in the <strong>Grand Chess Tour</strong>, adding an extra $100,000 to his $40,000+$100,000 tournaments' prize money. The event was overshadowed by wildcard <strong>Magnus Carlsen</strong> walking out after a loss against last-minute replacement <strong>Hans Niemann</strong> who finished",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/firouzja-grabs-gct/",
+         "pubDate" : "Mon, 12 Sep 2022 10:06:30 +0100",
+         "title" : "Firouzja grabs GCT"
+      },
+      {
+         "description" : "Alireza Firouzja beat Ian Nepomniachtchi in play-offs to win the ninth edition of the Sinquefield Cup. Firouzja also grabbed an extra $100,000 for winning this year's Grand Chess Tour. The youngster came from winning the Saint Louis Rapid & Blitz Tournament a couple of weeks ago. This was Firouzja's first trip to Saint Louis, one that he is sure to remember for time to come! | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r9",
+         "pubDate" : "Mon, 12 Sep 2022 10:05:00 +0100",
+         "title" : "Alireza Firouzja conquers Saint Louis!"
+      },
+      {
+         "description" : "53-year-old Ukrainian chess legend Vasyl Ivanchuk takes on 17-year-old Indian prodigy Praggnanandhaa when the Julius Baer Generation Cup, the 7th event on the $1.6 million Meltwater Champions Chess Tour, starts Sunday, September 18th. World Champion Magnus Carlsen, who faces one of his potential successors Arjun Erigaisi in Round 1, tops a field that spans the generations.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ivanchuk-pragg-and-erigaisi-carlsen-to-kick-off-julius-baer-generation-cup",
+         "pubDate" : "Mon, 12 Sep 2022 09:00:00 +0000",
+         "title" : "Ivanchuk-Pragg and Erigaisi-Carlsen to kick off Julius Baer Generation Cup"
+      },
+      {
+         "description" : "The 2022 Sinquefield Cup concluded yesterday in Saint Louis with Alireza Firouzja winning the event after a rapid playoff match against Ian Nepomniachtchi. With a draw in the last round against Maxime Vachier-Lagrave, Firouzja emerged as the winner of the 2022 Grand Chess Tour. The Closing ceremony of the Sinquefield Cup 2022 will be held []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sinquefield-cup-2022-closing-ceremony-live/",
+         "pubDate" : "Mon, 12 Sep 2022 08:13:38 +0000",
+         "title" : "Sinquefield Cup 2022 - Closing ceremony LIVE"
+      },
+      {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen withdrew from the event&#xA0;giving no detailed explanations. Carlsen&#x2019;s results got annulled and the event continued with 9 players. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day brings new theories on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-after-the-end-of-the-sinquefield-cup-2022-it-was-a-lot-to-handle-and-i-wasnt-able-to-manage-my-nerves/",
+         "pubDate" : "Mon, 12 Sep 2022 08:04:22 +0000",
+         "title" : "Hans Niemann after the end of the Sinquefield Cup 2022: It was a lot to handle and I wasn't able to manage my nerves"
+      },
+      {
          "description" : "Ian Nepomniachtchi lost the rapid playoff match to Alireza Firouzja finishing second in the Sinquefield Cup 2022. After the first game of the playoffs finished in a draw, Nepo blundered a piece in the game two and the match finished with 1.5-0.5 result in favor of Firouzja. See the final report &#38; results here After []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,7 +154,7 @@ news_feed (
          "title" : "Niemann: The Fact I Survived is a Miracle | Round 9"
       },
       {
-         "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
+         "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection project&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2022/",
@@ -154,14 +210,6 @@ news_feed (
          "title" : "Alireza Firouzja is the Winner of the Grand Chess Tour 2022"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Sun, 11 Sep 2022 19:50:00 +0100",
-         "title" : "Sinquefield Cup Playoff: Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -194,7 +242,7 @@ news_feed (
          "title" : "Frederic's mates - Max Euwe"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and each day brings new theories on the case. Just today New allegations on Niemann &#x2013; Carlsen []",
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and each day brings new theories on the case. Just today New allegations on Niemann &#x2013; Carlsen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/nigel-davies-if-carlsen-does-not-speak-soon-the-fide-ethics-commission-should-act/",
@@ -218,14 +266,6 @@ news_feed (
          "title" : "The First Round"
       },
       {
-         "description" : "The controversy over the Hans Niemann Magnus Carlsen case is not stopping. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day brings []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-allegations-within-niemann-carlsen-case-hans-niemann-performs-much-better-with-live-dgt-boards/",
-         "pubDate" : "Sun, 11 Sep 2022 08:57:33 +0000",
-         "title" : "New allegations within Niemann - Carlsen case: Hans Niemann performs much better with live DGT boards"
-      },
-      {
          "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after six rounds VOTUM SA POLONIA WROCLAW leads with 10/12. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 7 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,20 +274,12 @@ news_feed (
          "title" : "Polish \"Ekstraliga\" - Final round"
       },
       {
-         "description" : "Hans Niemann lost his game yesterday against Fabiano Caruana as he missed his chances to escape with a draw. Niemann now scores 3/7 points, tying for the 5th place in the Sinquefield Cup. In the last round of the event, Niemann faces Ian Nepomniachtchi Magnus Carlsen's challenger in the 2021 World Chess Championship Match []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-vs-hans-niemann-sinquefield-cup-2022-r9-live/",
-         "pubDate" : "Sun, 11 Sep 2022 08:42:06 +0000",
-         "title" : "Ian Nepomniachtchi vs Hans Niemann, Sinquefield Cup 2022 R9 LIVE"
-      },
-      {
-         "description" : "After yesterday's victory over Wesley So, Alireza Firouzja overtook the lead in the Sinquefield Cup 2022 and he is now a heavy favorite to become the Winner of the 2022 Grand Chess Tour. Firouzja ties for the first place with Fabiano Caruana and Ian Nepomniachtchi, but Caruana doesn't play the last round as he was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-vs-alireza-firouzja-sinquefield-cup-2022-r9-live/",
-         "pubDate" : "Sun, 11 Sep 2022 08:29:18 +0000",
-         "title" : "Maxime Vachier-Lagrave vs Alireza Firouzja, Sinquefield Cup 2022 R9 LIVE"
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Sun, 11 Sep 2022 09:30:00 +0100",
+         "title" : "Sinquefield Cup: Games and results"
       },
       {
          "description" : "Alireza Firouzja won a lost position to beat Wesley So in Round 8 of the Sinquefield Cup, putting him on the verge of a $100,000 bonus for winning the Grand Chess Tour. Firouzja is level with Ian Nepomniachtchi, who beat Levon Aronian, and Fabiano Caruana, who ended his Sinquefield Cup by knocking Hans Niemann out of the 2700 club.",
@@ -1482,28 +1514,12 @@ news_feed (
          "title" : "European Women's Championship 2022: Monika Socko clinches title"
       },
       {
-         "description" : "In his \"Game of the Week\" show #531 Merijn van Delft looks at one of his own games - a loss, in which he fell victim to a fine queen sacrifice and a violent attack by the Cuban GM Omar Almeida Quintana. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-531-m-van-delft-vs-o-almeida-quintana",
-         "pubDate" : "Wed, 31 Aug 2022 19:00:00 +0100",
-         "title" : "Game of the Week #531: M. Van Delft vs O. Almeida Quintana"
-      },
-      {
          "description" : "GM Matthias Bluebaum overcame GM David Navara&#38;nbsp;in the Qualifier 2 final of the 2022 Fischer Random World Championship on Wednesday. Navara displayed a high understanding of the opening stages of Fischer Random, often gaining an advantage with ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d3",
          "pubDate" : "Wed, 31 Aug 2022 10:23:00 -0700",
          "title" : "Opening Understanding vs. Counterstrike Ability: Bluebaum Defeats Navara"
-      },
-      {
-         "description" : "Starting an attack against the opponent is often more fun, than defending. But converting an attack to a winning position, or a checkmate, is not always an easy task. It can fade away quickly, and we are left with less pieces, and a lost position. Good for us, Svitlana knows quite well how to convert an attack to a win, and gives us plenty of good hints, on how to proceed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-converting-an-attack-correctly",
-         "pubDate" : "Wed, 31 Aug 2022 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Converting an attack correctly"
       },
       {
          "description" : "On a day where several players, including GM Hikaru Nakamura, were preoccupied with the last day of the 2022 Saint Louis Rapid &#38;amp; Blitz tournament, the August 30, 2022 editions of Titled Tuesday were won by GM Jose Martinez and GM-elect Denis L...",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1954",
          "pubDate" : "Wed, 31 Aug 2022 10:36:42 +0000",
          "title" : "Asian Chess Federation and VADR Media create Checkmate Live"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Italian brand manager <strong>Marco Verdoia</strong> is leaving FIDE who is <a href=\"https://www.dropbox.com/transfer/AAAAAB7akYPSWULcentyYyu5v3I8TT01kmF7Hnl-YhIakCwT-e3LZfc\">appointing a new Marketing Director</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fide-seeks-marketing-director/",
-         "pubDate" : "Wed, 31 Aug 2022 08:54:02 +0100",
-         "title" : "FIDE seeks Marketing Director"
       },
       {
          "description" : "Alireza Firouzja was unstoppable and cruised to victory on the last day of the Saint Louis Rapid & Blitz, winning his first event on the Grand Chess Tour. The 19-year-old dominated and clinched victory with four rounds to spare.",
@@ -1760,14 +1768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1945",
          "pubDate" : "Sun, 28 Aug 2022 11:43:17 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 2 Recap"
-      },
-      {
-         "description" : "There were just three decisive games on Day 2 of the St. Louis Rapid and Blitz, and two of them featured Alireza Firouzja. He went down in flames against Fabiano Caruana, but bounced back to beat Leinier Dominguez and regain the sole lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/st-louis-rb-2-firouzja-hits-back-after-loss",
-         "pubDate" : "Sun, 28 Aug 2022 08:45:03 +0000",
-         "title" : "St Louis RB 2: Firouzja hits back after loss"
       },
       {
          "description" : " Just a quick announcement this week: my new book Chess for Schools has just been published by Crown House Publishing. It's a book written for schoolteachers, not for chess players or chess teachers, so it might not be for you. However, if you're in touch with any schools in your area you might want to <a href=\"https://chessimprover.com/chess-for-schools-publication/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools: Publication\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-publication/\">Chess for Schools: Publication</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
@@ -2040,30 +2040,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34439725/praggnanandhaa-beats-carlsen-finishes-second-ftx-crypto-cup-chess?device=featurephone",
          "pubDate" : "Mon, 22 Aug 2022 05:41:04 -0500",
          "title" : "Praggnanandhaa beats Carlsen in final round, finishes second in FTX Crypto Cup"
-      },
-      {
-         "description" : " The FTX Crypto Cup took place in Miami Mon 15th Aug to Sun 21st Aug 2022. Players: Aronian, Carlsen, Duda, Firouzja, Giri, Le Quang Liem, Niemann and Praggnanandhaa. Magnus Carlsen took first place by a point from R Praggnanandhaa and Alireza Firouzja. Carlsen faced Praggnanandhaa in the final round and needed to draw the first four rounds 2-2, this he secured by winning game three, he lost game four and both tie-break games however which allowed Praggnanandhaa to finish second. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/ftx-crypto-cup-2022",
-         "pubDate" : "Mon, 22 Aug 2022 13:50:00 +0400",
-         "title" : "FTX Crypto Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1933",
-         "pubDate" : "Mon, 22 Aug 2022 09:48:35 +0000",
-         "title" : "French Championship: Jules Moussard and Almira Skripchenko win titles"
-      },
-      {
-         "description" : "ASIAN YOUTH CHESS CHAMPIONSHIPS 2022 will be started from 13th - 22nd OCTOBER 2022, Bali-Indonesia and players participated in the Over the Board National Age",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-youth-chess-championships-2022-at-bali-indonesia-from-13th-22nd-october-2022/",
-         "pubDate" : "Mon, 22 Aug 2022 09:00:02 +0000",
-         "title" : "ASIAN YOUTH CHESS CHAMPIONSHIPS 2022 at Bali-Indonesia from 13th - 22nd OCTOBER 2022."
       }
    ]
 }
