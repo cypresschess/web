@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report to summarize the results. The full report will be published on this page soon. After nine eventful rounds of play and lots of surrounding tumult, the 2022 Sinquefield Cup came to a conclusion on Sunday in Saint Louis. Af...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wins-2022-sinquefield-cup",
+         "pubDate" : "Sun, 11 Sep 2022 18:34:00 -0700",
+         "title" : "Flash Report: Firouzja Wins Sinquefield Cup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-4",
          "pubDate" : "Mon, 29 Aug 2022 19:05:00 -0700",
          "title" : "Nakamura Scores 7.5/9, Firouzja Stretches Lead"
-      },
-      {
-         "description" : "IM V Pranav won the Qualifier 2 Swiss stage of the 2022 Fischer Random World Championship on Monday, making him the only non-GM to advance to the knockout in either qualifier. GMs Alexey Sarana, Vladislav Kovalev, Vincent Keymer, David Navara, a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d1",
-         "pubDate" : "Mon, 29 Aug 2022 17:14:00 -0700",
-         "title" : "IM Pranav Overtakes GMs in Second Fischer Random Swiss"
       },
       {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;What is it that makes Magnus Carlsen the strongest chess player in the world? Why do Carlsen's opponents, the best players around, fail to see his moves coming? Moves that, when you replay his games, look natural and self-evident? Emmanuel Neiman has been studying Carlsen's <a href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained</span> <span class=\"meta-nav\">&#8594;</span></a>",
