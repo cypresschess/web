@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-9-playoff-lichessorg",
+         "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
+         "title" : "2022 Sinquefield Cup: Round 9 & Playoff | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after a draw with Niemann in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-visibly-upset-playoff-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iljJbRWaXAg.jpg?itok=ZabD5ptj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-visibly-upset-playoff-round-9",
+         "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
+         "title" : "Nepo Visibly Upset before Playoff | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with Nepomniachtchi in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-fact-i-survived-miracle-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N82pw7bhOHA.jpg?itok=05ALNNjZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-fact-i-survived-miracle-round-9",
+         "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
+         "title" : "Niemann: The Fact I Survived is a Miracle | Round 9"
+      },
+      {
          "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fans-we-love-hans-niemann-round-8-0",
          "pubDate" : "Sun, 11 Sep 2022 18:33:24 +0000",
          "title" : "Fans: We Love Hans Niemann! | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-8",
-         "pubDate" : "Sun, 11 Sep 2022 18:33:24 +0000",
-         "title" : "2022 Sinquefield Cup: Round 8"
       },
       {
          "description" : "",
@@ -232,22 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-8",
          "pubDate" : "Sat, 10 Sep 2022 22:49:21 -0700",
          "title" : "Sleepless in St. Louis"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Wesley So during the eighth round of the 2022 Sinquefield Cup. 2022.09.10<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-incredible-turn-around-against-wesley-so-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9EnTb0rVr8.jpg?itok=09jTRJhO\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-incredible-turn-around-against-wesley-so-round-8",
-         "pubDate" : "Sun, 11 Sep 2022 00:33:06 +0000",
-         "title" : "Firouzja: Incredible Turn Around Against Wesley So! | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich talks to some Hans Niemann chess fans during the eighth round of the 2022 Sinquefield Cup. 2022.10.09<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fans-we-love-hans-niemann-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8aCNTN8oU5Q.jpg?itok=FIwcf5RN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fans-we-love-hans-niemann-round-8",
-         "pubDate" : "Sun, 11 Sep 2022 00:33:06 +0000",
-         "title" : "Fans: We Love Hans Niemann! | Round 8"
       },
       {
          "description" : "That is the question, as it were. Put simply, it is the automated extraction of creative characteristics or 'elements' from one domain for application into another. Human brains do this all the time. Dr. Azlan Iqbal, computer scientist from Malaysia, with research interests in computational aesthetics and creativity in games, uses his problem composing software Chesthetica to illustrate transmutation in computing.",
