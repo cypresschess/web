@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1979",
+         "pubDate" : "Mon, 12 Sep 2022 10:45:37 +0000",
+         "title" : "FIDE and WR Group announce the World Open Teams Championship"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour is launching a new ground-breaking tournament this month focused on the clash of ages. The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, will feature 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-vs-hans-niemann-coming-up-this-month-with-the-julius-baer-generation-cup/",
          "pubDate" : "Mon, 12 Sep 2022 09:57:35 +0000",
          "title" : "Magnus Carlsen vs Hans Niemann coming up this month with the Julius Baer Generation Cup"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A new study <a href=\"https://qeconomics.org/ojs/forth/1404/1404-3.pdf\">\"Gender, Competition and Performance\"</a> by <strong>Peter Backus</strong> et al analysed competitive games between men and women and found that men become more competitive compared to when they face other men, eg delaying resignation in lost positions against women, whereas women tend to become less competitive and slightly underperform. This is in line with <a href=\"https://dobetter.esade.edu/en/men-women-competitive\">earlier findings</a> that women underperform against men in fields that are supposed to favour men. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/men-get-more-competitive-against/",
+         "pubDate" : "Mon, 12 Sep 2022 10:48:32 +0100",
+         "title" : "Men get more competitive against women"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After winning the <strong>St Louis Blitz &amp; Rapid</strong>, <strong>Alireza Firouzja</strong> also <a href=\"https://grandchesstour.org\">claimed first place</a> in the classical control <strong>Sinquefield Cup</strong> after beating <strong>Ian Nepomniachtchi</strong> in the tie-break. The 19-year old also came first ahead of <strong>Maxime Vachier-Lagrave</strong> in the <strong>Grand Chess Tour</strong>, adding an extra $100,000 to his $40,000+$100,000 tournaments' prize money. The event was overshadowed by wildcard <strong>Magnus Carlsen</strong> walking out after a loss against last-minute replacement <strong>Hans Niemann</strong> who finished",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-results-and-qulaifiers/",
          "pubDate" : "Mon, 05 Sep 2022 15:49:50 +0000",
          "title" : "UK Blitz 2022 - results and qualifiers to date"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Students and graduate students with chess-related, staff-supervised research projects <a href=\"https://www.chessable.com/blog/chessable-research-awards/\">can apply</a> for the <strong>Chessable Research Awards</strong> until 1 October. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/research-stipendia-by-chessable/",
-         "pubDate" : "Mon, 05 Sep 2022 16:25:25 +0100",
-         "title" : "Research stipendia by Chessable"
       },
       {
          "description" : "The most recent post on my chess960 blog, <A HREF=\"http://chess960frc.blogspot.com/2022/08/tcec-dfrc1.html\">TCEC DFRC1</A>(August 2022), mentioned a new idea in the specialized world of chess engines:- <BLOCKQUOTE>'!chess324 &#149; A subset of DFRC where the Kings and the Rooks are at the usual starting position. Since castling is standard, this allows all engines to play.' For more about that definition, see <I>Chess324</I> (talkchess.com; lkaufman, aka Larry Kaufman of Komodo++ fame). </BLOCKQUOTE> <P>That Talkchess thread ran its course and eventually died out, then came roaring back with a follow-up post by the same lkaufman: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=8048",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-praggnanandhaa-beats-carlsen-again-to-finish-2nd/articleshow/93716245.cms",
          "pubDate" : "Mon, 22 Aug 2022 17:34:18 +0000",
          "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen again to finish 2nd"
-      },
-      {
-         "description" : "R Praggnanandhaa earned a win over eventual champion Magnus Carlsen to finish second at the FTX Crypto Cup. This is the third time he's beaten Carlsen in 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34439725/praggnanandhaa-beats-carlsen-finishes-second-ftx-crypto-cup-chess?device=featurephone",
-         "pubDate" : "Mon, 22 Aug 2022 05:41:04 -0500",
-         "title" : "Praggnanandhaa beats Carlsen in final round, finishes second in FTX Crypto Cup"
       }
    ]
 }
