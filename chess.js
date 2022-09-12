@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE Chess for Protection is a project that helps refugees learn the game of chess and acquire new important life skills, socialize, and release stress through it. Second report: Being an arbiter is not a solitary journey, it is more of a team effort. We cooperate in tournaments, share experience, get together in seminars and workshops. An arbiter is a member of a pack, not a lone wolf. Read about this in the latest ECU Magazine. | Photo FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ecu-magazie-chess-for-protection-arbiter-s-advice",
+         "pubDate" : "Mon, 12 Sep 2022 17:00:00 +0100",
+         "title" : "ECU Magazine: Chess for Protection + Arbiter's Advice"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 9, 2022 -</strong> The top international chess superstars are set to battle it out over the board from September 13-16 in <a href=\"https://www.uschesschamps.com/2022-champions-showdown-chess-9lx/overview\">Champions Showdown: Chess 9LX™</a>, which will feature the world's top grandmasters including legendary 13th World Champion Garry Kasparov, World Number 3, Ian Nepomniachtchi, World Number 4 and 2022 Saint Louis Rapid &amp; Blitz, Sinquefield Cup, and 2022 Grand Chess Tour winner, Alireza Firouzja and returning 2021 Chess9LX Champion, Leinier Dominguez. </div><div class=\"field field-name-field-author field-type-list-text fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx",
+         "pubDate" : "Mon, 12 Sep 2022 14:50:51 +0000",
+         "title" : "2022 Champions Showdown: Chess 9LX"
+      },
+      {
+         "description" : "Chair of Council David Eustace Nominated by Non-Executive Director Stephen Woodhouse, Past Chair of Council Non-Executive Chairman of the Board Tim Wall Nominated by Northern...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/nominations-for-election-at-the-agm/",
+         "pubDate" : "Mon, 12 Sep 2022 14:24:02 +0000",
+         "title" : "Nominations for election at the AGM"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1981",
+         "pubDate" : "Mon, 12 Sep 2022 14:02:42 +0000",
+         "title" : "Sami Khader, new Chairman of the FIDE Trainer's Commission"
+      },
+      {
+         "description" : " In a few days, Africa's top players will trek to Africa's most populous city (25 million) Lagos for the African Individual Chess Championship (AICC). According to Africa Chess Media's Babatunde Ogunsiku has been counting down to the day of the tournament's start. The marquee tournament on the continent comes in the aftermath of the Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/\">Nigeria to host AICC 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/",
+         "pubDate" : "Mon, 12 Sep 2022 13:05:44 +0000",
+         "title" : "Nigeria to host AICC 2022!"
+      },
+      {
+         "description" : "Alongside a variety of videos and training columns, ChessBase Magazine #209 offers 32 deeply annotated games. One focus of these analyses is the Prague Chess Festival 2022 with contributions by Pentala Harikrishna, Vincent Keymer, David Navara and Sam Shankland. Another is the \"Special\" with 21 games of Anna and Mariya Muzychuk with analyses by various CBM authors. \"The Analysis\" of the current issue comes from David Navara: in his encounter with Saleh Salem an unusual structure came on the board, which had already proved comfortable for White in Navara's preparation. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-209-the-analysis",
+         "pubDate" : "Mon, 12 Sep 2022 14:00:00 +0100",
+         "title" : "CBM #209: \"The Analysis\""
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After winning the <strong>St Louis Blitz &amp; Rapid</strong>, <strong>Alireza Firouzja</strong> also <a href=\"https://grandchesstour.org\">claimed first place</a> in the classical control <strong>Sinquefield Cup</strong> after beating <strong>Ian Nepomniachtchi</strong> in the tie-break. The 19-year old also came first ahead of <strong>Maxime Vachier-Lagrave</strong> in the <strong>Grand Chess Tour</strong>, adding an extra $100,000 to his $40,000+$97,500 tournaments' prize money. The event was overshadowed by wildcard <strong>Magnus Carlsen</strong> walking out after a loss against last-minute replacement <strong>Hans Niemann</strong> who finished ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/firouzja-grabs-gct/",
+         "pubDate" : "Mon, 12 Sep 2022 13:37:46 +0100",
+         "title" : "Firouzja grabs GCT"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,20 +82,20 @@ news_feed (
          "title" : "Magnus Carlsen vs Hans Niemann coming up this month with the Julius Baer Generation Cup"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1980",
+         "pubDate" : "Mon, 12 Sep 2022 09:49:39 +0000",
+         "title" : "World Youth Chess Championships cross halfway"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A new study <a href=\"https://qeconomics.org/ojs/forth/1404/1404-3.pdf\">\"Gender, Competition and Performance\"</a> by <strong>Peter Backus</strong> et al analysed competitive games between men and women and found that men become more competitive compared to when they face other men, eg delaying resignation in lost positions against women, whereas women tend to become less competitive and slightly underperform. This is in line with <a href=\"https://dobetter.esade.edu/en/men-women-competitive\">earlier findings</a> that women underperform against men in fields that are supposed to favour men. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2022/men-get-more-competitive-against/",
          "pubDate" : "Mon, 12 Sep 2022 10:48:32 +0100",
          "title" : "Men get more competitive against women"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After winning the <strong>St Louis Blitz &amp; Rapid</strong>, <strong>Alireza Firouzja</strong> also <a href=\"https://grandchesstour.org\">claimed first place</a> in the classical control <strong>Sinquefield Cup</strong> after beating <strong>Ian Nepomniachtchi</strong> in the tie-break. The 19-year old also came first ahead of <strong>Maxime Vachier-Lagrave</strong> in the <strong>Grand Chess Tour</strong>, adding an extra $100,000 to his $40,000+$100,000 tournaments' prize money. The event was overshadowed by wildcard <strong>Magnus Carlsen</strong> walking out after a loss against last-minute replacement <strong>Hans Niemann</strong> who finished",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/firouzja-grabs-gct/",
-         "pubDate" : "Mon, 12 Sep 2022 10:06:30 +0100",
-         "title" : "Firouzja grabs GCT"
       },
       {
          "description" : "Alireza Firouzja beat Ian Nepomniachtchi in play-offs to win the ninth edition of the Sinquefield Cup. Firouzja also grabbed an extra $100,000 for winning this year's Grand Chess Tour. The youngster came from winning the Saint Louis Rapid & Blitz Tournament a couple of weeks ago. This was Firouzja's first trip to Saint Louis, one that he is sure to remember for time to come! | Photo: Grand Chess Tour / Lennart Ootes",
@@ -210,14 +266,6 @@ news_feed (
          "title" : "Wesley So: Happy with a Draw for GCT 2nd Place | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Alejandro Ramirez after a draw with Wesley So in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-%E2%80%9Cannoying%E2%80%9D-missed-chances-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cIX5MeM9Stg.jpg?itok=BFy9O9Rb\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-%E2%80%9Cannoying%E2%80%9D-missed-chances-round-9",
-         "pubDate" : "Sun, 11 Sep 2022 21:33:24 +0000",
-         "title" : "Dominguez: \"Annoying\" Missed Chances | Round 9"
-      },
-      {
          "description" : "With a quick draw against Maxime Vachier-Lagrave in the last round of the Sinquefield Cup 2022, Alireza Firouzja secured the throne of the overall Grand Chess Tour 2022 standings. With the 2022 Grand Chess Tour victory, Firouzja pocketed a money prize of 100.000$. Firouzja's performance at the Grand Chess Tour 2022 started clumsy, as he []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -240,6 +288,14 @@ news_feed (
          "link" : "https://www.chessdom.com/richard-rapport-suggests-a-polygraph-test-to-manage-cheating-in-chess-and-protect-players-who-are-falsely-accused-tweetoftheday/",
          "pubDate" : "Sun, 11 Sep 2022 16:59:06 +0000",
          "title" : "Richard Rapport suggests a polygraph test to manage cheating in chess and protect players who are falsely accused #TweetOftheDay"
+      },
+      {
+         "description" : "After all the anti-social behavior documented in the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), it's easy to forget that there are still role models in the game. GM Anand is one of the classiest. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/z1jQ7aCri1s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How Vishy is changing the Landscape of Chess in India | WACA Chess</B> (4:52) &#149; '[Published on] Sep 8, 2022' <P>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/chess-players-with-class.html",
+         "pubDate" : "Sun, 11 Sep 2022 15:30:00 +0000",
+         "title" : "Chess Players with Class"
       },
       {
          "description" : " WFM Alana Chibnall is the 2022 ACT Women's Champion, after winning todays tournament with a perfect 7 from 7. 25 players took part in the tournament, which has returned to the ACT chess calendar after a gap of 8 years. The tournament was a 7 round Rapid, with a time control of 15m+5s. Tied for 2nd place were Shriya Karthik and Jo Mason, who finished 5.5, drawing their Round 6 game, after both losing to Chibnall earlier in the tournament. Unrated newcomer Kenisha Gaind won the Best Under 14 Years player, while 7 year old Echo Feng finished in a tie for 5th, and won the Best Under 12 Years player. With Gain picking up a medal for the Under 14 title, Claire Bradbery was the best Unrated player",
@@ -326,7 +382,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-8",
-         "pubDate" : "Sat, 10 Sep 2022 22:49:21 -0700",
+         "pubDate" : "Sat, 10 Sep 2022 22:49:00 -0700",
          "title" : "Sleepless in St. Louis"
       },
       {
@@ -447,7 +503,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/hrh-queen-elizabeth-ii-rip/",
          "pubDate" : "Fri, 09 Sep 2022 13:30:30 +0000",
-         "title" : "HRH Queen Elizabeth II RIP"
+         "title" : "HM Queen Elizabeth II RIP"
       },
       {
          "description" : " For those looking for good second hand chess books (in Canberra), this years Lifeline Bookfair has a good selection. There were around 30 books for sale when I passed through this morning, including a number that I already have in my own collection. I grabbed a couple of books (including a 2nd Edition of Basic Chess Endings by Reuben Fine), but I left plenty on the table. There was even at least one more box of books under the table, but the rules of etiquette frown on 'accidently' knocking it over! The only issue for this year is that prices on some books have gone up. This may to be discourage commercial re-sellers from buying in bulk, or simply to reflect a fairer value, so it may be a m",
@@ -1482,28 +1538,12 @@ news_feed (
          "title" : "Firouzja crossed 2900 in blitz after winning the Saint Louis Rapid & Blitz"
       },
       {
-         "description" : "Polish grandmaster Monika Socko was the clear winner of the European Women's Championship which took place at the Don Giovanni Hotel in Prague. Socko scored 8&frac12;/11 points to leave a 5-player chasing pack a half point back. Azerbaijani representatives Gunay Mammadzada and Ulviyya Fataliyeva grabbed second and third place, respectively. Nine players gained spots in next year's Women's World Cup. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2022-r11",
-         "pubDate" : "Thu, 01 Sep 2022 09:00:00 +0100",
-         "title" : "Monicka Socko wins the European Women's Chess Championship"
-      },
-      {
          "description" : "The 2022 European Individual Women's Chess Championship concluded yesterday in Prague, Czech Republic. More than 120 players from 28 European federations competed over 11 swiss rounds for the title of European Champion and 9 qualification spots for the next FIDE Women's World Cup. GM Monika Socko (POL, 2423) claimed the European Women's Chess Championship scoring 8.5 points. Socko&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/monika-socko-claims-european-womens-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/monika-socko-claims-european-womens-chess-championship-2022/",
          "pubDate" : "Thu, 01 Sep 2022 07:51:00 +0000",
          "title" : "Monika Socko claims European Women's Chess Championship 2022"
-      },
-      {
-         "description" : "The Virgos Nodirbek Abdussatarov, Kirill Shevchenko, and Arjun Erigaisi are considered upcoming chess superstars. Chess legends Johannes Zukertort, Adolf Albin, George Koltanowski, and Friedrich Saemisch, fulfilled their destiny long ago. When chess players born in Virgo want to find the perfect move, the result can be quite fantastic, were it not for the time limit, which can spoil the fun.| Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/virgo-and-their-strategy",
-         "pubDate" : "Thu, 01 Sep 2022 08:00:00 +0100",
-         "title" : "Virgo and their strategy"
       },
       {
          "description" : "11-year-old FM Yagiz Erdogmus, in case you have not heard of him before, is a name you should expect to hear again. The young Turkish player is an IM-elect (meaning he has earned the title, only waiting for it to be approved) and number 13 nationa...",
@@ -1920,14 +1960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2022",
          "pubDate" : "Thu, 25 Aug 2022 13:55:00 +0400",
          "title" : "Saint Louis Rapid & Blitz 2022 - Games and Results"
-      },
-      {
-         "description" : "The ECF is accepting entries for the 2022 UK Open Blitz Championships. As in previous years there will be 8 one-day regional qualifiers at venues...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-blitz-2022-regional-qualifiers-now-taking-entries/",
-         "pubDate" : "Thu, 25 Aug 2022 08:00:28 +0000",
-         "title" : "Entries open for the UK Blitz - first regional event on Monday 29th August!"
       },
       {
          "description" : "",
