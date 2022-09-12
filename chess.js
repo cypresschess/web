@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #211 Arne K&auml;hler and Karsten M&uuml;ller continue to look at endgame highlights from the Candidates Tournament. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-210-endgame-highlights-from-the-st-louis-rapid-blitz-tournament-ftx-cryto-cup-in-miami-2",
+         "pubDate" : "Mon, 12 Sep 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #211: More Highlights from the Candidates Tournament"
+      },
+      {
          "description" : "FIDE Chess for Protection is a project that helps refugees learn the game of chess and acquire new important life skills, socialize, and release stress through it. Second report: Being an arbiter is not a solitary journey, it is more of a team effort. We cooperate in tournaments, share experience, get together in seminars and workshops. An arbiter is a member of a pack, not a lone wolf. Read about this in the latest ECU Magazine. | Photo FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "ECU Magazine: Chess for Protection + Arbiter's Advice"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, September 9, 2022 -</strong> The top international chess superstars are set to battle it out over the board from September 13-16 in <a href=\"https://www.uschesschamps.com/2022-champions-showdown-chess-9lx/overview\">Champions Showdown: Chess 9LX™</a>, which will feature the world's top grandmasters including legendary 13th World Champion Garry Kasparov, World Number 3, Ian Nepomniachtchi, World Number 4 and 2022 Saint Louis Rapid &amp; Blitz, Sinquefield Cup, and 2022 Grand Chess Tour winner, Alireza Firouzja and returning 2021 Chess9LX Champion, Leinier Dominguez. </div><div class=\"field field-name-field-author field-type-list-text fie",
+         "description" : "<div class=\"body text-secondary\"><p style=\"text-align: justify;\"><strong>SAINT LOUIS, September 12, 2022 -</strong> The top international chess superstars are set to battle it out over the board from September 13-16 in <a href=\"https://www.uschesschamps.com/2022-champions-showdown-chess-9lx/overview\">Champions Showdown: Chess 9LX™</a>, which will feature the world's top grandmasters including legendary 13th World Champion Garry Kasparov, World Number 3, Ian Nepomniachtchi, World Number 4 and 2022 Saint Louis Rapid &amp; Blitz, Sinquefield Cup winner, and 2022 Grand Chess Tour champion, Alireza Firouzja and returning 2021 Ches </div><div class=\"field field-name-field-author field-type-list-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/",
          "pubDate" : "Mon, 12 Sep 2022 13:05:44 +0000",
          "title" : "Nigeria to host AICC 2022!"
+      },
+      {
+         "description" : "Alireza Firouzja beat Ian Nepomniachtchi in play-offs to win the ninth edition of the Sinquefield Cup. Firouzja also grabbed an extra $100,000 for winning this year's Grand Chess Tour. The youngster came from winning the Saint Louis Rapid & Blitz Tournament a couple of weeks ago. This was Firouzja's first trip to Saint Louis, one that he is sure to remember for time to come! | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r9",
+         "pubDate" : "Mon, 12 Sep 2022 14:05:00 +0100",
+         "title" : "Alireza Firouzja conquers Saint Louis!"
       },
       {
          "description" : "Alongside a variety of videos and training columns, ChessBase Magazine #209 offers 32 deeply annotated games. One focus of these analyses is the Prague Chess Festival 2022 with contributions by Pentala Harikrishna, Vincent Keymer, David Navara and Sam Shankland. Another is the \"Special\" with 21 games of Anna and Mariya Muzychuk with analyses by various CBM authors. \"The Analysis\" of the current issue comes from David Navara: in his encounter with Saleh Salem an unusual structure came on the board, which had already proved comfortable for White in Navara's preparation. Take a look!",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/men-get-more-competitive-against/",
          "pubDate" : "Mon, 12 Sep 2022 10:48:32 +0100",
          "title" : "Men get more competitive against women"
-      },
-      {
-         "description" : "Alireza Firouzja beat Ian Nepomniachtchi in play-offs to win the ninth edition of the Sinquefield Cup. Firouzja also grabbed an extra $100,000 for winning this year's Grand Chess Tour. The youngster came from winning the Saint Louis Rapid & Blitz Tournament a couple of weeks ago. This was Firouzja's first trip to Saint Louis, one that he is sure to remember for time to come! | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r9",
-         "pubDate" : "Mon, 12 Sep 2022 10:05:00 +0100",
-         "title" : "Alireza Firouzja conquers Saint Louis!"
       },
       {
          "description" : "53-year-old Ukrainian chess legend Vasyl Ivanchuk takes on 17-year-old Indian prodigy Praggnanandhaa when the Julius Baer Generation Cup, the 7th event on the $1.6 million Meltwater Champions Chess Tour, starts Sunday, September 18th. World Champion Magnus Carlsen, who faces one of his potential successors Arjun Erigaisi in Round 1, tops a field that spans the generations.",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "Monika Socko Wins European Women's Chess Championship"
       },
       {
-         "description" : "London 1922 is a historically significant event that gathered the day's greatest players and produced the London Rules of 1922. They were designed by the then reigning World Champion Capablanca (pictured) and laid down what players had to do - and how much money they had to come up with - who wanted to challenge the World Champion. Eugene Manlapao revisits this tournament on the occasion of its recent centennial anniversary.| Photo: Screenshot from the film \"Chess Fever\" from 1925",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-hundred-years-ago-london-1922-july-31-august-19-1922",
-         "pubDate" : "Thu, 01 Sep 2022 10:00:00 +0100",
-         "title" : "A Hundred Years Ago: London 1922, (July 31-August 19, 1922)"
-      },
-      {
          "description" : " <p class=\"lead\">Alireza Firouzja dominated the St. Louis Rapid & Blitz tournament, winning his first ever Grand Chess Tour event with four rounds to spare (!) and surpassing 2900 blitz rating points, only 6 points away from Hikaru Nakamura. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Alireza-Firouzja-chess-grand-chess-tour.jpeg\" width=\"2250\" height=\"1475\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / Grand Chess Tour</div> </div> Alireza Firouzja came like a storm at the St. Louis Rapid & Blitz tournament. The teenage sensation lost only one of his 18 games, and was undefeated in the blitz to hit the third best overall score in the Grand Ches",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1934",
          "pubDate" : "Mon, 22 Aug 2022 19:27:20 +0000",
          "title" : "Harry Grieve wins Chessable British Chess Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93716245.cms\" />Young gun R Praggnanandhaa seems to be at his best when playing World No. 1 Magnus Carlsen. After having beaten the Norwegian twice this year - at the Airthings Masters in February and during Chessable Masters in May - Praggu got the better of Carlsen 4-2 in the seventh and final round of the FTX Crypto Cup in Miami on Sunday - an online event part of the Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ftx-crypto-cup-praggnanandhaa-beats-carlsen-again-to-finish-2nd/articleshow/93716245.cms",
-         "pubDate" : "Mon, 22 Aug 2022 17:34:18 +0000",
-         "title" : "FTX Crypto Cup: Praggnanandhaa beats Carlsen again to finish 2nd"
       }
    ]
 }
