@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Before Chess 9LX, it's time for team standard chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-ultimate-moves",
+         "pubDate" : "Tue, 13 Sep 2022 21:35:00 +0000",
+         "title" : "2022 Chess 9LX: Ultimate Moves"
+      },
+      {
          "description" : "Between the Sinquefield Cup and the Chess 9LX Champions Showdown, the focus today is on fun, as the Ultimate Moves friendly game takes place at the Saint Louis Chess Center. Two teams made up of world-class players and enthusiastic amateurs take turns at the board after every five moves. | Follow the games live with commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2022/",
          "pubDate" : "Sun, 11 Sep 2022 22:39:26 +0000",
          "title" : "ECU E-Magazine August 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after a draw with MVL in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-2022-grand-chess-tour-champion-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XJZ2b0henEQ.jpg?itok=Lm8qQA6g\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-2022-grand-chess-tour-champion-round-9",
-         "pubDate" : "Sun, 11 Sep 2022 21:33:24 +0000",
-         "title" : "Firouzja: 2022 Grand Chess Tour Champion! | Round 9"
       },
       {
          "description" : "",
