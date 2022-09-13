@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Between the Sinquefield Cup and the Chess 9LX Champions Showdown, the focus today is on fun, as the Ultimate Moves friendly game takes place at the Saint Louis Chess Center. Two teams made up of world-class players and enthusiastic amateurs take turns at the board after every five moves. | Follow the games live with commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-chess-club-ultimate-moves",
+         "pubDate" : "Tue, 13 Sep 2022 20:00:00 +0100",
+         "title" : "Saint Louis Chess Club: Ultimate Moves"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen The first game below is proof that Magnus follows his own advice. Let's see it: Magnus claimed the draw to the arbiter without playing 19. Ke2. Is this a correct <a href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD 5.Bf4, repetition Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\">Need sure points? QGD 5.Bf4, repetition Edition</a> appeared firs",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
+         "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
+         "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#xA0;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random), which will feature the world&#x2019;s top Grandmasters including legendary&#xA0;13th World Champion Garry Kasparov, World Number 3,&#xA0;Ian Nepomniachtchi, World Number 4 and&#xA0;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-champions-showdown-ultimate-moves-live/",
+         "pubDate" : "Tue, 13 Sep 2022 18:42:58 +0000",
+         "title" : "2022 Champions Showdown - Ultimate moves LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the middle three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-day-2",
+         "pubDate" : "Tue, 13 Sep 2022 18:34:41 +0000",
+         "title" : "2022 Chess 9LX: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> After the Sinquefield Cup, it's time for team chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-ultimate-moves-lichessorg",
+         "pubDate" : "Tue, 13 Sep 2022 18:34:41 +0000",
+         "title" : "2022 Sinquefield Cup: Ultimate Moves | lichess.org"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Anja Gering</strong>, head of finance and administration, is promoted to Executive Director of <strong>German Chess Federation</strong> as <strong>Marcus Fenner</strong> is <a href=\"https://www.schachbund.de/news/personelle-veraenderungen-in-der-geschaeftsstelle-2022-09.html\">leaving</a>. As a consequence (update) <strong>Paul Meyer-Duncker</strong> <a href=\"https://www.schachbund.de/news/paul-meyer-dunker-bleibt-beim-deutschen-schachbund.html\">could be convinced</a> to return as Social Media Director and <strong>Gregor Johann</strong> is reconsidering another term as Tournament Director. The staff has voted a representative for the first ti",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/anja-gering-directs-german/",
+         "pubDate" : "Tue, 13 Sep 2022 17:00:57 +0100",
+         "title" : "Anja Gering directs German federation"
+      },
+      {
          "description" : "Ten international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX. Chess 960 is a variant of chess created by Bobby Fischer in the late 1990s in which the pieces on the home rank are randomized, with 960 representing the number of possible starting positions. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Photo: Crystal Fuller (2021)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hikaru-nakamura-in-9lx-live/",
          "pubDate" : "Tue, 13 Sep 2022 05:54:35 +0000",
          "title" : "Hikaru Nakamura in 9LX LIVE"
-      },
-      {
-         "description" : "Imagine you could sit down with one of the strongest players in the world for your tactics training. After every problem, you compare notes what you saw, what he saw. You talk about your thought processes and tips for solving the problems. Every exercise, you get this same detailed explanation from a 2700+ rated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sam-shankland-chess-calculation-workbook/",
-         "pubDate" : "Mon, 12 Sep 2022 22:47:37 +0000",
-         "title" : "Sam Shankland: Chess Calculation Workbook"
       },
       {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series will kick off on September 18 in Nur-Sultan, the capital of Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix will consist of four tournaments (to be played in Kazakhstan, Germany, India and Poland). Each player will participate in three out of the four tournaments. | Photo: FIDE / David Llada",
@@ -298,7 +338,7 @@ news_feed (
          "title" : "Firouzja Sweeps in Saint Louis! | Playoff"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovich for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-day-1",
@@ -360,22 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzja-2022-grand-chess-tour-champion-round-9",
          "pubDate" : "Sun, 11 Sep 2022 21:33:24 +0000",
          "title" : "Firouzja: 2022 Grand Chess Tour Champion! | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Alejandro Ramirez during the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-players-have-bounced-back-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qkLP8Ged6o0.jpg?itok=UgwIavuG\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-players-have-bounced-back-round-9",
-         "pubDate" : "Sun, 11 Sep 2022 21:33:24 +0000",
-         "title" : "Rex Sinquefield: Players Have Bounced Back | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Alejandro Ramirez after a draw with Dominguez in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-happy-draw-gct-2nd-place-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IEMFIL4gOGc.jpg?itok=x_Kow7RH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-happy-draw-gct-2nd-place-round-9",
-         "pubDate" : "Sun, 11 Sep 2022 21:33:24 +0000",
-         "title" : "Wesley So: Happy with a Draw for GCT 2nd Place | Round 9"
       },
       {
          "description" : "",
@@ -704,14 +728,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html",
          "pubDate" : "Thu, 08 Sep 2022 15:53:00 +0000",
          "title" : "Chess Players Behaving Very, Very Badly"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Marcus Fenner</strong> is <a href=\"https://www.schachbund.de/news/personelle-veraenderungen-in-der-geschaeftsstelle-2022-09.html\">leaving the</a> <strong>German Chess Federation.</strong> <strong>Anja Gering</strong>, head of finance and administration, is promoted to Executive Director. The staff is about to vote a representative for the first time, and Sport Director <strong>Kevin H&ouml;gy</strong> is tipped to take this role. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/anja-gering-directs-german/",
-         "pubDate" : "Thu, 08 Sep 2022 15:27:34 +0100",
-         "title" : "Anja Gering directs German federation"
       },
       {
          "description" : " <p class=\"lead\">After a couple of loud days full of tweets, streams, and drama, Hans Niemann decided to respond to his critics and directly ask Nakamura's comments on his late interview, and - maybe - his apology. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-Hikaru-Nakamura-Grand-Chess-tour-cheating.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes, Grand Chess Tour</div> </div> <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-all-the-info-so-far/\">You know what happened!</a> Magnus Carlsen lost with white against Hans Niemann in Round 3 of the Sinquefield Cup 2022, ",
@@ -1506,14 +1522,6 @@ news_feed (
          "title" : "Magnus Carlsen heads stellar lineup at the Sinquefield Cup"
       },
       {
-         "description" : "Five days of rapid and blitz saw Alireza Firouzja achieving a magnificent result in his first outing at the Saint Louis Chess Club. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Shakhriyar Mamedyarov | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2022-endgames",
-         "pubDate" : "Thu, 01 Sep 2022 23:30:00 +0100",
-         "title" : "Endgames from Saint Louis"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2016,22 +2024,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/08/24/blind-faith/",
          "pubDate" : "Wed, 24 Aug 2022 00:10:50 +0000",
          "title" : "Blind Faith"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1937",
-         "pubDate" : "Tue, 23 Aug 2022 19:02:15 +0000",
-         "title" : "Belgian Championship 2022: Daniel Dardha clinches third title"
-      },
-      {
-         "description" : "<img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272218316-GAEDZ6W8BXBKS0DCCX90/lula.chennai.jpg\" data-image-dimensions=\"680x453\" data-image-focal-point=\"0.5,0.5\" alt=\"lula.chennai.jpg\" data-load=\"false\" data-image-id=\"6305009a0114e12f2e7dde47\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272218316-GAEDZ6W8BXBKS0DCCX90/lula.chennai.jpg?format=1000w\" /><br> <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1661272233673-UWVDJQ6Q6D8QHNOYW4TZ/467px-JohnDonaldson0301_034.jpg\" data-image-dimensions=\"467x600\" data-image-focal-",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/23/ep-293-olympiad-trip-reports-with-lula-roberts-aka-lularobs-and-team-usa-captain-im-john-donaldson",
-         "pubDate" : "Tue, 23 Aug 2022 16:32:34 +0000",
-         "title" : "EP 293- Olympiad Trip reports with Lula Roberts aka \"LulaRobs\" and Team USA captain, IM John Donaldson"
       }
    ]
 }
