@@ -10,6 +10,14 @@ news_feed (
          "title" : "Chess 9LX: Kasparov joins the fun in Saint Louis"
       },
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG\" data-image-dimensions=\"899x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6320966cc31a2106e1d89e25\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we are joined by award winning chess author and renowned trainer, <a href=\"https://en.wikipedia.org/wiki/Jacob_Aagaard\" target=\"_blank\">GM Jacob ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/13/mslqyy6qqfn9bi4rocj98xkid48phy",
+         "pubDate" : "Tue, 13 Sep 2022 14:42:56 +0000",
+         "title" : "EP 296- Award Winning Author/Trainer, GM Jacob Aagaard on Endgame \"Rules of Thumb\", the Wave of Young Phenoms, and the World Championship Format "
+      },
+      {
          "description" : "Sunilduth Lyna Narayanan is currently 88th in the world and one of India's top Grandmasters. Just recently he won in a brilliant fashion the third leg of the MPL Indian Chess Tour, qualifying to the Julius Baer Generation Cup. However, S.L. Narayanan will skip the event, &#8220;It is indeed a big opportunity for me to []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
