@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX. Chess 960 is a variant of chess created by Bobby Fischer in the late 1990s in which the pieces on the home rank are randomized, with 960 representing the number of possible starting positions. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Photo: Crystal Fuller (2021)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-preview",
+         "pubDate" : "Tue, 13 Sep 2022 16:00:00 +0100",
+         "title" : "Chess 9LX: Kasparov joins the fun in Saint Louis"
+      },
+      {
+         "description" : "Sunilduth Lyna Narayanan is currently 88th in the world and one of India's top Grandmasters. Just recently he won in a brilliant fashion the third leg of the MPL Indian Chess Tour, qualifying to the Julius Baer Generation Cup. However, S.L. Narayanan will skip the event, &#8220;It is indeed a big opportunity for me to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/s-l-narayanan-i-wish-to-cross-2700-by-the-first-half-of-the-next-year/",
+         "pubDate" : "Tue, 13 Sep 2022 14:27:39 +0000",
+         "title" : "S.L. Narayanan: I wish to cross 2700 by the first half of the next year"
+      },
+      {
          "description" : "This year&#x2019;s AGM (Annual General Meeting) of the English Chess Federation takes place on Saturday October 15th starting at 1.30pm at the Simister Hall, The Signing Tree Conference Centre, Ladywood Road, Birmingham B16 8SZ; The Annual General Meeting will conduct the election of Directors, the Chairman of the Council, the FIDE Delegate and members of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sam-shankland-chess-calculation-workbook/",
          "pubDate" : "Mon, 12 Sep 2022 22:47:37 +0000",
          "title" : "Sam Shankland: Chess Calculation Workbook"
-      },
-      {
-         "description" : "FIDE has entered into a partnership with the German company WR Group Holding GmbH to launch together a new major competition: the World Open Teams Championship 2023. The first tournament is planned to take place in D&#xFC;sseldorf in May-June 2023, played over three days under rapid time control. It will be open to clubs from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-open-teams-chess-championship-2023/",
-         "pubDate" : "Mon, 12 Sep 2022 21:27:31 +0000",
-         "title" : "World Open Teams Chess Championship 2023"
       },
       {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series will kick off on September 18 in Nur-Sultan, the capital of Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix will consist of four tournaments (to be played in Kazakhstan, Germany, India and Poland). Each player will participate in three out of the four tournaments. | Photo: FIDE / David Llada",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "Chessable Seeks Applicants for Chessable Research Awards"
       },
       {
-         "description" : "This week Robert Ris will have a look at a modern and bold gambit that the young Indian Grandmaster Praggnanandhaa tried twice - and with success - when playing with Black against Levon Aronian at the FTX Crypto Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-modern-gambit-against-1-c4",
-         "pubDate" : "Thu, 01 Sep 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A modern gambit against 1.c4"
-      },
-      {
          "description" : "In last month's post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/august-1972-1997-on-cover.html\">August 1972 & 1997 'On the Cover'</A>(August 2022), the most recent in this blog's long running series about American chess magazines 50 and 25 years ago, I asked and answered, <BLOCKQUOTE>And what about the other championship that was taking place 50 years ago? A one page story, 'The Match: Fischer Leading!' by Burt Hochberg, gave the raw game scores for the first six games, where the sixth game had been played on 23 July. </BLOCKQUOTE> <P>Jumping ahead a month to its September 1972 issue, <I>CL&R</I> couldn't yet report the final result of the match. The five page lead story, 'The Mat",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2024,22 +2024,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/23/ep-293-olympiad-trip-reports-with-lula-roberts-aka-lularobs-and-team-usa-captain-im-john-donaldson",
          "pubDate" : "Tue, 23 Aug 2022 16:32:34 +0000",
          "title" : "EP 293- Olympiad Trip reports with Lula Roberts aka \"LulaRobs\" and Team USA captain, IM John Donaldson"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93736289.cms\" />The All India Chess Federation (AICF) on Tuesday appointed Vipnesh Bharadwaj as its interim secretary after the Delhi High Court reiterated its order of removing former chief Bharat Singh Chauhan.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-appoints-vipnesh-bharadwaj-as-interim-secretary-following-delhi-hc-order/articleshow/93736289.cms",
-         "pubDate" : "Tue, 23 Aug 2022 14:11:26 +0000",
-         "title" : "AICF appoints Vipnesh as interim secretary following Delhi HC order"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1921",
-         "pubDate" : "Tue, 23 Aug 2022 13:32:48 +0000",
-         "title" : "World Youth U-16 Chess Olympiad: Registration deadline extended "
       }
    ]
 }
