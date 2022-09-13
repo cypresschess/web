@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The US Chess Championship 2022 is going to take place October 4-14 in the Saint Louis Chess Club. It will feature 14 of the strongest US chess players. The event boasts a prize fund of 250 000$ with additional $64,000 &#8220;Fischer Bonus Prize&#8221; available if a player finishes with a perfect score. The current US []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022/",
+         "pubDate" : "Tue, 13 Sep 2022 11:01:47 +0000",
+         "title" : "US Chess Championship 2022"
+      },
+      {
+         "description" : "The US Chess Championship 2022 is going to take place October 4-14 in the Saint Louis Chess Club. It will feature 14 of the strongest US chess players. Live games with analysis will be daily on Chessdom.com &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-live/",
+         "pubDate" : "Tue, 13 Sep 2022 10:58:19 +0000",
+         "title" : "US Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>WR Group</strong>, a special logistics company whose business is mainly in Russia and its energy sector, <a href=\"https://fide.com/news/1979\">has been announced as sponsor</a> of the first <strong>World Open Teams Championship</strong> to be held over three days in May or June 2023 in D&uuml;sseldorf, where they have their headquarter. The event with an \"expected\" prize fund of €250,000 will probably replace the <strong>Corporate World Championship</strong> that had been held online. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/logistics-in-russia-specialist/",
+         "pubDate" : "Tue, 13 Sep 2022 10:26:37 +0100",
+         "title" : "Logistics-in-Russia specialist sponsors FIDE event"
+      },
+      {
          "description" : "In rook endgames, activity is (almost) everything. In the diagrammed position it is White to move. How should he proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,14 +210,6 @@ news_feed (
          "title" : "Carlsen and Niemann to face off in Julius Baer Generation Cup"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour, the world&#x2019;s leading year-round chess circuit, is launching a new ground-breaking tournament this month focused on the clash of ages. The eight-day Julius Baer Generation Cup, the seventh leg of the $1.6 million Tour running from September 18 to 25, will feature 16 world-class players spanning the age spectrum. World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hans-niemann-coming-up-this-month-with-the-julius-baer-generation-cup/",
-         "pubDate" : "Mon, 12 Sep 2022 09:57:35 +0000",
-         "title" : "Magnus Carlsen vs Hans Niemann coming up this month with the Julius Baer Generation Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -216,14 +232,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/ivanchuk-pragg-and-erigaisi-carlsen-to-kick-off-julius-baer-generation-cup",
          "pubDate" : "Mon, 12 Sep 2022 09:00:00 +0000",
          "title" : "Ivanchuk-Pragg and Erigaisi-Carlsen to kick off Julius Baer Generation Cup"
-      },
-      {
-         "description" : "The controversy over the Hans Niemann Magnus Carlsen case is not stopping. After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day brings []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-allegations-within-niemann-carlsen-case-hans-niemann-performs-much-better-with-live-dgt-boards/",
-         "pubDate" : "Mon, 12 Sep 2022 08:57:00 +0000",
-         "title" : "New allegations within Niemann - Carlsen case: Hans Niemann performs much better with live DGT boards"
       },
       {
          "description" : "Some endgames crop up more often than others as will be seen in this article. In this excellent taster, you will see classics such as Vancura's Draw, as well as a Knight Hunt set forth by Wojtaszek against his opponent. Finally there is a powerful 1-2 punch that breaks down the final barrier to victory.",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/thank-you-jose-mourinho-we-named-a-tournament-after-you/",
          "pubDate" : "Tue, 06 Sep 2022 21:43:41 +0000",
          "title" : "Thank You, Jose Mourinho! We Named a Tournament After You"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> withdrew for the first time during a tournament before round four of the <strong>Sinquefield Cup</strong> in Saint Louis not mentioning a reason but <a href=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1566848734616555523%7Ctwgr%5E89dc8cf1ee7bb5361020de066fc29f8ba16fc78c%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chessdom.com%2Fbreaking-magnus-carlsen-withdraws-from-the-sinquefield-cup-2022%2F\">quoting Jos&eacute; Mourinho</a> that if he would speak he would be in trouble. On the day before he had lost with White against 19-year-old <strong>Hans Mo",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-withdraws/",
-         "pubDate" : "Tue, 06 Sep 2022 19:56:08 +0100",
-         "title" : "Carlsen withdraws"
       },
       {
          "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, and thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this! On this Fritztrainer, IM Oliver Reeh has compiled his favorites from the CBM column \" Tune your Tactics\" issues 186 to 208.",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-2022-march-top-pics/",
          "pubDate" : "Tue, 23 Aug 2022 11:37:31 +0000",
          "title" : "Chess 2022 - March Top Pics"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1936",
-         "pubDate" : "Tue, 23 Aug 2022 11:02:44 +0000",
-         "title" : "Hou Yifan edges out Valentina Gunina to reach the final"
       }
    ]
 }
