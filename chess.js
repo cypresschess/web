@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This year&#x2019;s AGM (Annual General Meeting) of the English Chess Federation takes place on Saturday October 15th starting at 1.30pm at the Simister Hall, The Signing Tree Conference Centre, Ladywood Road, Birmingham B16 8SZ; The Annual General Meeting will conduct the election of Directors, the Chairman of the Council, the FIDE Delegate and members of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/annual-general-meeting-of-the-english-chess-federation-2022/",
+         "pubDate" : "Tue, 13 Sep 2022 13:12:11 +0000",
+         "title" : "Annual General Meeting of the English Chess Federation 2022"
+      },
+      {
+         "description" : " For anyone who has tried to teach young kids how to play chess, the clip below is amazingly accurate. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/q6ILdW5i0L4\" width=\"320\" youtube-src-id=\"q6ILdW5i0L4\"></iframe></div><br /> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/chest.html",
+         "pubDate" : "Tue, 13 Sep 2022 12:51:00 +0000",
+         "title" : "Chest"
+      },
+      {
          "description" : "The US Chess Championship 2022 is going to take place October 4-14 in the Saint Louis Chess Club. It will feature 14 of the strongest US chess players. The event boasts a prize fund of 250 000$ with additional $64,000 &#8220;Fischer Bonus Prize&#8221; available if a player finishes with a perfect score. The current US []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -106,14 +122,6 @@ news_feed (
          "title" : "All set for the first leg of the FIDE Women's Grand Prix"
       },
       {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random), which will feature the world&#x2019;s top Grandmasters including legendary 13th World Champion Garry Kasparov, World Number 3, Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-in-the-chess-960-fischer-random-event-of-saint-louis-chess-club/",
-         "pubDate" : "Mon, 12 Sep 2022 20:38:13 +0000",
-         "title" : "Garry Kasparov in the Chess 960 Fischer Random event of Saint Louis Chess Club"
-      },
-      {
          "description" : " The 9th Sinquefield Cup took place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4. Alireza Firouzja won the event by beating Ian Nepomniachtchi in a tie-break. Nepomniachtchi failed to convert a winning position against Niemann in the final round. Firouzja also won the Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -136,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ecu-magazie-chess-for-protection-arbiter-s-advice",
          "pubDate" : "Mon, 12 Sep 2022 17:00:00 +0100",
          "title" : "ECU Magazine: Chess for Protection + Arbiter's Advice"
+      },
+      {
+         "description" : "The summer season is traditionally a slow season for chess, but the world's two foremost engine vs. engine competitions keep chugging along at the same speed as during the other seasons. Let's start our fortnightly post with a summary of the previous post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/tcec-s23-leagues-underway-ccc-rudderless.html\">TCEC S23 Leagues Underway; CCC Rudderless?</A>(August 2022):- <BLOCKQUOTE>TCEC: S23 QL has finished and L2 is just getting started. &#149; CCC: Stockfish beat Lc0 in the 300 game 'CCC18 Rapid Final', after which the site launched a 'CCC18 Rapid Challenger' 300-game consolation match between Dragon and Lc0. The CCC has deviated from the seque",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/tcec-s23-l1-ccc19-blitz-both-underway.html",
+         "pubDate" : "Mon, 12 Sep 2022 15:35:00 +0000",
+         "title" : "TCEC S23 L1, CCC19 Blitz - Both Underway"
       },
       {
          "description" : "<div class=\"body text-secondary\"><p style=\"text-align: justify;\"><strong>SAINT LOUIS, September 12, 2022 -</strong> The top international chess superstars are set to battle it out over the board from September 13-16 in <a href=\"https://www.uschesschamps.com/2022-champions-showdown-chess-9lx/overview\">Champions Showdown: Chess 9LX™</a>, which will feature the world's top grandmasters including legendary 13th World Champion Garry Kasparov, World Number 3, Ian Nepomniachtchi, World Number 4 and 2022 Saint Louis Rapid &amp; Blitz, Sinquefield Cup winner, and 2022 Grand Chess Tour champion, Alireza Firouzja and returning 2021 Ches </div><div class=\"field field-name-field-author field-type-list-",
@@ -2024,22 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1921",
          "pubDate" : "Tue, 23 Aug 2022 13:32:48 +0000",
          "title" : "World Youth U-16 Chess Olympiad: Registration deadline extended "
-      },
-      {
-         "description" : " The 'Greek Gift' is the well known sacrifice on h7, followed by Ng5+. Although it is thought to be named after the Trojan Horse, the odd thing is that it is the Bishop which is sacrificed, not the knight. Here is a recent game where the Bishop is also offered as a gift, but on h5 rather than h7. But like in the ancient myth, it is an offer that should not have been accepted. <br /> <b>White - Black [A83]</b><br />Gungahlin CC, 23.08.2022 <script>new PgnViewer( { boardName: \"game1346\", movesFormat: \"default\", pgnString:'1.d4 f5 2.Nc3 Nf6 3.e4 fxe4 4.Bg5 e6 5.f3 Bb4 6.fxe4 d6 7.Nf3 O-O 8.e5 dxe5 9.Nxe5 h6 10.Bh4 g5 11.Qd3 gxh4 12.Qg6+ Kh8 13.Qxh6+ Kg8 14.Qg5+ Kh8 15.Qxh4+ Nh7 16.Nf7+ 1-0', pa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/the-trojan-bishop.html",
-         "pubDate" : "Tue, 23 Aug 2022 13:15:00 +0000",
-         "title" : "The Trojan Bishop?"
-      },
-      {
-         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ Like many new year resolutions I have fallen behind in going over the puzzles from the &#8220;Chess 2022 Day-to-Day Calendar: A <a href=\"https://chessimprover.com/chess-2022-march-top-pics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Top Pics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-top-pics/\">Chess 2022 March Top Pics</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-2022-march-top-pics/",
-         "pubDate" : "Tue, 23 Aug 2022 11:37:31 +0000",
-         "title" : "Chess 2022 - March Top Pics"
       }
    ]
 }
