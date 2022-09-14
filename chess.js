@@ -2,36 +2,124 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The year was 2013. Magnus Carlsen was about to play his first match against Viswanathan Anand, and he was knee-deep in preparation. Amid this process, Magnus shared an endgame study on Facebook. He captioned the image, \"More preparation. White to move and win, shown from black's side\". A few days later, GM Vidit Gujarathi asked me if I had solved Carlsen's challenge, which was extremely interesting. Dear reader, can you solve the Carlsen challenge?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/solving-carlsen-challenge",
+         "pubDate" : "Wed, 14 Sep 2022 17:00:00 +0100",
+         "title" : "Solving Carlsen's challenge"
+      },
+      {
+         "description" : "The Champions showdown 2022 Chess 9LX Fischer random tournament will take place from 13-16 September in Saint Louis Chess Club. Top international chess superstars will battle it out over the board:&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup winner, and Grand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-2022-pairings-schedule/",
+         "pubDate" : "Wed, 14 Sep 2022 15:23:00 +0000",
+         "title" : "Chess 9LX Champions Showdown 2022 - Pairings & Schedule"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event's line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-1-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:23:00 +0000",
+         "title" : "Chess 9LX Champions Showdown - Day 1 LIVE"
+      },
+      {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-a-hikarus-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:18:23 +0000",
+         "title" : "Chess.com Global Chess Championship - Group A (Hikaru's group) LIVE"
+      },
+      {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-b-dudas-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:16:15 +0000",
+         "title" : "Chess.com Global Chess Championship - Group B (Duda's group) LIVE"
+      },
+      {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-c-wesley-sos-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:16:10 +0000",
+         "title" : "Chess.com Global Chess Championship - Group C (Wesley So's group) LIVE"
+      },
+      {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-d-caruanas-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:16:06 +0000",
+         "title" : "Chess.com Global Chess Championship - Group D (Caruana's group) LIVE"
+      },
+      {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-e-nepos-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:16:02 +0000",
+         "title" : "Chess.com Global Chess Championship - Group E (Nepo's group) LIVE"
+      },
+      {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-f-giris-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:15:57 +0000",
+         "title" : "Chess.com Global Chess Championship - Group F (Giri's group) LIVE"
+      },
+      {
          "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-g-ding-lirens-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 11:25:33 +0000",
+         "pubDate" : "Wed, 14 Sep 2022 15:15:00 +0000",
          "title" : "Chess.com Global Chess Championship - Group G (Ding Liren's group) LIVE"
       },
       {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship starts on September 14 and ends on October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will move on to []",
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-knockout-phase/",
-         "pubDate" : "Wed, 14 Sep 2022 10:36:19 +0000",
-         "title" : "Chess.com Global Chess Championship - Knockout phase"
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-h-aronians-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 15:14:40 +0000",
+         "title" : "Chess.com Global Chess Championship - Group H (Aronian's group) LIVE"
       },
       {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-h-aronians-group/",
-         "pubDate" : "Wed, 14 Sep 2022 10:18:47 +0000",
-         "title" : "Chess.com Global Chess Championship - Group H (Aronian's group)"
+         "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/19-year-old-alireza-firouzja-sweeps-last-two-legs-and-2022-grand-chess-tour",
+         "pubDate" : "Wed, 14 Sep 2022 14:47:42 +0000",
+         "title" : "19 Year Old Alireza Firouzja sweeps the last two legs and the 2022 Grand Chess Tour"
       },
       {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-g-ding-lirens-group/",
-         "pubDate" : "Wed, 14 Sep 2022 10:09:45 +0000",
-         "title" : "Chess.com Global Chess Championship - Group G (Ding Liren's group)"
+         "description" : "In World Youth Championship being played at Romania, Indians had mixed results. Girls Under-18 S.Kanishka of India continued to maintain her winning streak and moved",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-youth-chess-championship-2022round-8-report/",
+         "pubDate" : "Wed, 14 Sep 2022 13:49:53 +0000",
+         "title" : "World Youth Chess championship 2022:Round 8 Report"
+      },
+      {
+         "description" : " The new version of the FIDE Laws of Chess are to be published soon, and will go into effect on the 1st January 2023. As a member of the FIDE Rules Commission, I have been involved in a bit of proofreading, hopefully to eliminate any glaring errors in both language and meaning. This stands in stark contrast to my experiences earlier in the day. Visiting one of the Canberra schools i coach at, I had a number of interesting rules explained to me by 5 and 6 year old chess players. The main thing they had in common was that the 'rules' allowed my opponents to escape from fairly dicey positions. One example was having played Qh4+ (as Black) to attack the White king on e1, I was told that my queen",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/theory-v-practice.html",
+         "pubDate" : "Wed, 14 Sep 2022 13:34:00 +0000",
+         "title" : "Theory v Practice"
+      },
+      {
+         "description" : "It is with great sadness that we have to announce the death of Andrew Leadbetter following a road traffic accident last Thursday. Andrew was a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/andrew-leadbetter-rip/",
+         "pubDate" : "Wed, 14 Sep 2022 13:27:54 +0000",
+         "title" : "Andrew Leadbetter RIP"
       },
       {
          "description" : "When the organisation of the 2022 Sinquefield Cup decided, after Round 3, to implement a fifteen-minute delay for the broadcast of moves, we felt some gratification. Hadn't we suggested exactly this to FIDE, seventeen years ago, as one possible measure to counteract cheating in chess? At least to make it more difficult? Not everybody was happy with the proposal and with its implementation in Saint Louis. What do you think?",
@@ -42,30 +130,6 @@ news_feed (
          "title" : "Revisited: 15-minute broadcast delay"
       },
       {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-f-giris-group/",
-         "pubDate" : "Wed, 14 Sep 2022 09:58:36 +0000",
-         "title" : "Chess.com Global Chess Championship - Group F (Giri's group)"
-      },
-      {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-e-nepos-group/",
-         "pubDate" : "Wed, 14 Sep 2022 09:51:08 +0000",
-         "title" : "Chess.com Global Chess Championship - Group E (Nepo's group)"
-      },
-      {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-d-caruanas-group/",
-         "pubDate" : "Wed, 14 Sep 2022 09:40:35 +0000",
-         "title" : "Chess.com Global Chess Championship - Group D (Caruana's group)"
-      },
-      {
          "description" : "FIDE, jointly with the Cook County (Chicago) Sheriff's office, will hold the second Intercontinental Online Chess Championship for Prisoners. The tournament is set to take place on the International Day of Education in Prison, from 13-14 October. The online event is open to male, female and youth teams representing correctional facilities. So far, prisons and correctional facilities from 20 countries have registered for the competition.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,36 +138,12 @@ news_feed (
          "title" : "Inmates around the world getting ready for Prisoners Online Chess Championship"
       },
       {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-c-wesley-sos-group/",
-         "pubDate" : "Wed, 14 Sep 2022 09:28:18 +0000",
-         "title" : "Chess.com Global Chess Championship - Group C (Wesley So's group)"
-      },
-      {
          "description" : "ECU Board decided to establish two new Commissions the &#8220;Media &#38; Communication Commission&#8221; and the Social Commission. ECU Media and Communication Commission &#8220;MCC&#8221; has as main task to develop strategies and propose measures to improve ECU &#8216;s communication with mainstream media and press coverage of ECU events as also to propose actions to improve ECU social media accounts&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-establishes-media-and-social-commissions/",
          "pubDate" : "Wed, 14 Sep 2022 09:26:17 +0000",
          "title" : "ECU establishes Media and Social Commissions"
-      },
-      {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-b-dudas-group/",
-         "pubDate" : "Wed, 14 Sep 2022 09:19:28 +0000",
-         "title" : "Chess.com Global Chess Championship - Group B (Duda's group)"
-      },
-      {
-         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-a-hikarus-group/",
-         "pubDate" : "Wed, 14 Sep 2022 09:07:11 +0000",
-         "title" : "Chess.com Global Chess Championship - Group A (Hikaru's group)"
       },
       {
          "description" : "Alexander Alekhine was one of the greatest in chess. The skill of the world champion, who died under mysterious circumstances in 1946, emanates to this day, as proved by a letter that chess enthusiast Ludger Br&ouml;ring discovered on Alekhine's grave at the Cimetière du Montparnasse in Paris.",
@@ -424,14 +464,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepo-visibly-upset-playoff-round-9",
          "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
          "title" : "Nepo Visibly Upset before Playoff | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Alejandro Ramirez after a draw with Nepomniachtchi in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-fact-i-survived-miracle-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/N82pw7bhOHA.jpg?itok=05ALNNjZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-fact-i-survived-miracle-round-9",
-         "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
-         "title" : "Niemann: The Fact I Survived is a Miracle | Round 9"
       },
       {
          "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection project&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
@@ -1466,14 +1498,6 @@ news_feed (
          "title" : "Benson Called Bobby"
       },
       {
-         "description" : "Two-time US Women's Champion Jennifer Shahade has often championed women's chess in the past. After \"Chess Bitch\" she has now published another book on women's chess, \"Chess Queens\". Tatiana Flores has taken a look at it. | Photo: Courtesy Jennifer Shahade",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-queens-by-jennifer-shahade-a-review",
-         "pubDate" : "Fri, 02 Sep 2022 14:00:00 +0100",
-         "title" : "\"Chess Queens\" by Jennifer Shahade - A review"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1920,14 +1944,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-act-womens-and-girls-championship.html",
          "pubDate" : "Fri, 26 Aug 2022 13:12:00 +0000",
          "title" : "2022 ACT Women's and Girls Championship - 11 September 2022"
-      },
-      {
-         "description" : "On the 1st September, OTB Blitz ratings will go live on the ECF rating website. Blitz chess for ECF purposes are games where each player...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/over-the-board-blitz-ratings-go-live/",
-         "pubDate" : "Fri, 26 Aug 2022 11:29:15 +0000",
-         "title" : "Over-the-board Blitz ratings go live!"
       },
       {
          "description" : "",
