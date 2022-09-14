@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-g-ding-lirens-group-live/",
+         "pubDate" : "Wed, 14 Sep 2022 11:25:33 +0000",
+         "title" : "Chess.com Global Chess Championship - Group G (Ding Liren's group) LIVE"
+      },
+      {
+         "description" : "The knockout phase of the Chess.com Global Chess Championship starts on September 14 and ends on October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will move on to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-knockout-phase/",
+         "pubDate" : "Wed, 14 Sep 2022 10:36:19 +0000",
+         "title" : "Chess.com Global Chess Championship - Knockout phase"
+      },
+      {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-h-aronians-group/",
+         "pubDate" : "Wed, 14 Sep 2022 10:18:47 +0000",
+         "title" : "Chess.com Global Chess Championship - Group H (Aronian's group)"
+      },
+      {
          "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -80,30 +104,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-a-hikarus-group/",
          "pubDate" : "Wed, 14 Sep 2022 09:07:11 +0000",
          "title" : "Chess.com Global Chess Championship - Group A (Hikaru's group)"
-      },
-      {
-         "description" : "The International round-robin tournament &#8220;Chess stars 2022&#8221; will be held from 29 September 5 October in Moscow, Russia. The event will gather more than 100 players, among whom are 10 world-known grandmasters from Russia, Azerbaijan, India and Spain: Sergey Karjakin, Vladimir Kramnik, Teimour Radjabov, Alexander Grischuk, Francisco Vallejo, Vladislav Artemiev, Ernesto Inarkiev, Raunak Sadhwani, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-stars-2022-tournament-in-moscow-with-karjakin-and-230-000-eur-prize-fund/",
-         "pubDate" : "Wed, 14 Sep 2022 07:56:26 +0000",
-         "title" : "\"Chess stars 2022\" tournament in Moscow, with Karjakin and 230.000 eur prize fund"
-      },
-      {
-         "description" : "The Champions showdown 2022 Chess 9LX Fischer random tournament will take place from 13-16 September in Saint Louis Chess Club. Top international chess superstars will battle it out over the board:&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup winner, and Grand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-2022-pairings-schedule/",
-         "pubDate" : "Wed, 14 Sep 2022 07:27:10 +0000",
-         "title" : "Chess 9LX Champions Showdown 2022 - Pairings & Schedule"
-      },
-      {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event's line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-1-live/",
-         "pubDate" : "Wed, 14 Sep 2022 07:03:36 +0000",
-         "title" : "Chess 9LX Champions Showdown - Day 1 LIVE"
       },
       {
          "description" : "Alexander Alekhine was one of the greatest in chess. The skill of the world champion, who died under mysterious circumstances in 1946, emanates to this day, as proved by a letter that chess enthusiast Ludger Br&ouml;ring discovered on Alekhine's grave at the Cimetière du Montparnasse in Paris.",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1938",
          "pubDate" : "Wed, 24 Aug 2022 21:39:44 +0000",
          "title" : "Vincent Keymer wins German Masters 2022"
-      },
-      {
-         "description" : "Olympiad Curtain Raiser FIDE Rating Rapid Chess Tournament 2022 Certificates Download using the link given below: Link : https://aicf.online/Curtain-raiser.html Any Correction mail at aicfwebmaster2021@gmail.com &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
-         "pubDate" : "Wed, 24 Aug 2022 11:19:18 +0000",
-         "title" : "Olympiad Curtain Raiser Certificates are out to download"
       }
    ]
 }
