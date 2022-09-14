@@ -298,14 +298,6 @@ news_feed (
          "title" : "Carlsen and Niemann to face off in Julius Baer Generation Cup"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1980",
-         "pubDate" : "Mon, 12 Sep 2022 09:49:39 +0000",
-         "title" : "World Youth Chess Championships cross halfway"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A new study <a href=\"https://qeconomics.org/ojs/forth/1404/1404-3.pdf\">\"Gender, Competition and Performance\"</a> by <strong>Peter Backus</strong> et al analysed competitive games between men and women and found that men become more competitive compared to when they face other men, eg delaying resignation in lost positions against women, whereas women tend to become less competitive and slightly underperform. This is in line with <a href=\"https://dobetter.esade.edu/en/men-women-competitive\">earlier findings</a> that women underperform against men in fields that are supposed to favour men. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -338,12 +330,28 @@ news_feed (
          "title" : "Alireza Firouzja wins 2022 Sinquefield Cup"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1977",
+         "pubDate" : "Mon, 12 Sep 2022 06:25:52 +0000",
+         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
+      },
+      {
          "description" : "Alireza Firouzja beat Ian Nepomniachtchi in a playoff to complete a stunning debut in St. Louis. The 19-year-old added victory in the Sinquefield Cup and Grand Chess Tour to his crushing victory in the St. Louis Rapid and Blitz, picking up $227,500 in the space of just over two weeks.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/alireza-firouzja-wins-it-all-in-st-louis",
          "pubDate" : "Mon, 12 Sep 2022 06:04:14 +0000",
          "title" : "Alireza Firouzja wins it all in St. Louis"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1980",
+         "pubDate" : "Mon, 12 Sep 2022 05:49:39 +0000",
+         "title" : "World Youth Chess Championships cross halfway"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Nepomniachtchi in the playoff of the 2022 Sinquefield Cup. Firouzja is the first person to win the Saint Louis Rapid &amp; Blitz, Sinquefield Cup, and the entire Grand Chess Tour all in the same season. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-sweeps-saint-louis-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2022/",
          "pubDate" : "Sun, 11 Sep 2022 22:39:26 +0000",
          "title" : "ECU E-Magazine August 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1977",
-         "pubDate" : "Sun, 11 Sep 2022 18:25:52 +0000",
-         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
       },
       {
          "description" : "After all the anti-social behavior documented in the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), it's easy to forget that there are still role models in the game. GM Anand is one of the classiest. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/z1jQ7aCri1s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How Vishy is changing the Landscape of Chess in India | WACA Chess</B> (4:52) &#149; '[Published on] Sep 8, 2022' <P>",
