@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-2",
+         "pubDate" : "Wed, 14 Sep 2022 21:35:31 +0000",
+         "title" : "2022 Champions Showdown | Chess 9LX: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-1-lichessorg",
+         "pubDate" : "Wed, 14 Sep 2022 21:35:31 +0000",
+         "title" : "2022 Champions Showdown | Chess 9LX: Day 1 | lichess.org"
+      },
+      {
+         "description" : "Champions Showdown Chess 9LX tournament kicked off today in Saint Louis. The battlefield of a super GM Fischer Random tournament includes&#xA0;Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja,&#xA0;Levon Aronian,&#xA0;Fabiano Caruana,&#xA0;Leinier Dominguez,&#xA0;Hikaru Nakamura,&#xA0;Wesley So,&#xA0;Shakhriyar Mamedyarov, and&#xA0;Peter Svidler. Shakhriyar Mamedyarov went against Hikaru Nakamura in the first round of the event, and he got an interesting position on the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-asks-the-arbiter-if-he-can-castle-tweetoftheday/",
+         "pubDate" : "Wed, 14 Sep 2022 20:05:13 +0000",
+         "title" : "Shakhriyar Mamedyarov asks the arbiter if he can castle #TweetOftheDay"
+      },
+      {
          "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemann-to-be-back-at-the-saint-louis-chess-club-for-the-2022-fall-chess-classic/",
          "pubDate" : "Wed, 14 Sep 2022 18:09:48 +0000",
          "title" : "Hans Niemann to be back at the Saint Louis Chess Club for the 2022 Fall Chess Classic"
+      },
+      {
+         "description" : " The Champions Showdown 9LX takes place Wed 14th Sep to Fri 16th Sep 2022 in Saint Louis. The event is a 10 player Round Robin with: Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja, Hikaru Nakamura, Levon Aronian, Fabiano Caruana, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Peter Svidler and Wesley So. As usual I'm not setup to display the actual games because the viewer I use can't handle it. I will have the PGN.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2022",
+         "pubDate" : "Wed, 14 Sep 2022 21:23:00 +0400",
+         "title" : "Champions Showdown 9LX 2022 - Games and Results"
       },
       {
          "description" : "GM Jeffery Xiong and GM Dmitry Andreikin, the two players with more Titled Tuesday victories than anyone not named GM Hikaru Nakamura, both won another event on September 13. Meanwhile, brothers IM Mykola and GM Oleksandr Bortnyk finished second a...",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-f-giris-group-live/",
          "pubDate" : "Wed, 14 Sep 2022 15:15:57 +0000",
          "title" : "Chess.com Global Chess Championship - Group F (Giri's group) LIVE"
-      },
-      {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-g-ding-lirens-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:15:00 +0000",
-         "title" : "Chess.com Global Chess Championship - Group G (Ding Liren's group) LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
@@ -466,28 +490,12 @@ news_feed (
          "title" : "2022 Chess 9LX: Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. This full quality entry was initially Private. Analytics for original copy are: 8508 peak concurrent, 1129 views (low due to immediate switchover to this copy). </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-9-playoff",
-         "pubDate" : "Mon, 12 Sep 2022 03:33:30 +0000",
-         "title" : "2022 Sinquefield Cup: Round 9 & Playoff"
-      },
-      {
          "description" : "After nine eventful rounds of play and lots of surrounding tumult, the 2022 Sinquefield Cup came to a conclusion on Sunday in Saint Louis. After four draws in the regulation games of round nine, a play-off, consisting of two rapid games, between...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-wins-2022-sinquefield-cup",
          "pubDate" : "Sun, 11 Sep 2022 18:34:00 -0700",
          "title" : "Firouzja Wins Sinquefield Cup & The Grand Chess Tour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ninth annual Sinquefield Cup is also the fifth and final leg of the Grand Chess Tour. Eight Tour players (Wesley So, Vachier-Lagrave, Aronian, Caruana, Firouzja, Nepomniachtchi, Dominguez, and Mamedyarov) are joined by wildcards (Carlsen and Niemann) for a classical chess event, live from 308 N Euclid Ave. Join GMs Peter Svidler, Yasser Seirawan, Alejandro Ramirez, and WGM Anastasiya Karlovich for the move-by-move. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-9-playoff-lichessorg",
-         "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
-         "title" : "2022 Sinquefield Cup: Round 9 & Playoff | lichess.org"
       },
       {
          "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection project&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2022",
          "pubDate" : "Thu, 25 Aug 2022 13:55:00 +0400",
          "title" : "Saint Louis Rapid & Blitz 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1938",
-         "pubDate" : "Wed, 24 Aug 2022 21:39:44 +0000",
-         "title" : "Vincent Keymer wins German Masters 2022"
       }
    ]
 }
