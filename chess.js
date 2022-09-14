@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Champions showdown 2022 Chess 9LX Fischer random tournament will take place from 13-16 September in Saint Louis Chess Club. Top international chess superstars will battle it out over the board:&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup winner, and Grand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-2022-pairings-schedule/",
+         "pubDate" : "Wed, 14 Sep 2022 07:27:10 +0000",
+         "title" : "Chess 9LX Champions Showdown 2022 - Pairings & Schedule"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event's line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-1-live/",
+         "pubDate" : "Wed, 14 Sep 2022 07:03:36 +0000",
+         "title" : "Chess 9LX Champions Showdown - Day 1 LIVE"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#xA0;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random), which will feature the world&#x2019;s top Grandmasters including legendary&#xA0;13th World Champion Garry Kasparov, World Number 3,&#xA0;Ian Nepomniachtchi, World Number 4 and&#xA0;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-champions-showdown-chess-9lx-live/",
+         "pubDate" : "Wed, 14 Sep 2022 06:55:56 +0000",
+         "title" : "2022 Champions Showdown - Chess 9LX LIVE"
+      },
+      {
          "description" : "Alexander Alekhine was one of the greatest in chess. The skill of the world champion, who died under mysterious circumstances in 1946, emanates to this day, as proved by a letter that chess enthusiast Ludger Br&ouml;ring discovered on Alekhine's grave at the Cimetière du Montparnasse in Paris.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,30 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-pairings-schedule/",
          "pubDate" : "Tue, 13 Sep 2022 06:56:30 +0000",
          "title" : "Julius Baer Generation Cup - Pairings & Schedule"
-      },
-      {
-         "description" : "Alireza Firouzja is having a wonderful moment in his career. He won the Saint Louis Rapid and blitz and crossed blitz 2900 ELO, followed by winning Sinquefield Cup 2022 and the overall title in the Grand Chess Tour 2022, thus bagging over 250 000 USD. But one thing is clear for Alireza Firouzja: Kasparov is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-kasparov-is-the-goat/",
-         "pubDate" : "Tue, 13 Sep 2022 06:47:45 +0000",
-         "title" : "Alireza Firouzja: Kasparov is the GOAT #TweetOftheDay"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;will headline the field and meet again with 19-year-old&#xA0;Hans Niemann. The field includes also the six-time World Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-live/",
-         "pubDate" : "Tue, 13 Sep 2022 06:15:30 +0000",
-         "title" : "Julius Baer Generation Cup LIVE"
-      },
-      {
-         "description" : "Hikaru Nakamura will participate in the Saint Louis 9LX Chess 960 event, starting this Wednesday in USA. In all play days of the event, Nakamura will provide live show on his Twitch channel together with GM Irina Krush, GM Benjamin Bok, and WIM Fiona Steil-Antoni. More Chess 960: Stockfish wins TCEC Chess 960",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-in-9lx-live/",
-         "pubDate" : "Tue, 13 Sep 2022 05:54:35 +0000",
-         "title" : "Hikaru Nakamura in 9LX LIVE"
       },
       {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series will kick off on September 18 in Nur-Sultan, the capital of Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix will consist of four tournaments (to be played in Kazakhstan, Germany, India and Poland). Each player will participate in three out of the four tournaments. | Photo: FIDE / David Llada",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://aicf.in/olympiad-curtain-raiser-certificates-are-out-to-dwonload/",
          "pubDate" : "Wed, 24 Aug 2022 11:19:18 +0000",
          "title" : "Olympiad Curtain Raiser Certificates are out to download"
-      },
-      {
-         "description" : " Cambridge student and Matthew Wadsworth battle for 75 moves in epic encounter, while Kushal Jakhria targets two world age records The final round game which decided the 2022 British championship at Torquay turned out to be a 75-move epic which had everything. Its protagonists were both Cambridge students: Harry Grieve, 21, mathematics, and Matthew Wadsworth, 22, economics. They were colleagues in their university chess club, but went for each other with zestful imagination in one of the best ever championship deciders. A sharp opening with a material imbalance was followed by a knight retreat from f3 to its starting square g1, two exchange sacrifices, a winning king march, four queens on th",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/aug/24/chess-harry-grieve-21-wins-british-championship-as-seven-year-old-shines",
-         "pubDate" : "Wed, 24 Aug 2022 07:00:28 +0000",
-         "title" : "Chess: Harry Grieve, 21, wins British championship as seven-year-old shines"
       }
    ]
 }
