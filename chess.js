@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexander Alekhine was one of the greatest in chess. The skill of the world champion, who died under mysterious circumstances in 1946, emanates to this day, as proved by a letter that chess enthusiast Ludger Br&ouml;ring discovered on Alekhine's grave at the Cimetière du Montparnasse in Paris.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-letter-to-alekhine",
+         "pubDate" : "Wed, 14 Sep 2022 07:00:00 +0100",
+         "title" : "A letter to Alekhine"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Before Chess 9LX, it's time for team standard chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1512,14 +1520,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-nepo-firouzja-caruana-as-sinquefield-cup-begins",
          "pubDate" : "Fri, 02 Sep 2022 06:08:57 +0000",
          "title" : "Carlsen-Nepo & Firouzja-Caruana as Sinquefield Cup begins"
-      },
-      {
-         "description" : "As the only remaining destination to be part of every Grand Chess Tour since its first edition in 2015, the Sinquefield Cup continues to be an essential element of the GCT circuit. This year's edition is set to take place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars will be fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-preview",
-         "pubDate" : "Fri, 02 Sep 2022 04:00:00 +0100",
-         "title" : "Magnus Carlsen heads stellar lineup at the Sinquefield Cup"
       },
       {
          "description" : "",
