@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-g-ding-lirens-group/",
+         "pubDate" : "Wed, 14 Sep 2022 10:09:45 +0000",
+         "title" : "Chess.com Global Chess Championship - Group G (Ding Liren's group)"
+      },
+      {
+         "description" : "When the organisation of the 2022 Sinquefield Cup decided, after Round 3, to implement a fifteen-minute delay for the broadcast of moves, we felt some gratification. Hadn't we suggested exactly this to FIDE, seventeen years ago, as one possible measure to counteract cheating in chess? At least to make it more difficult? Not everybody was happy with the proposal and with its implementation in Saint Louis. What do you think?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/revisited-15-minute-broadcast-delay",
+         "pubDate" : "Wed, 14 Sep 2022 11:00:00 +0100",
+         "title" : "Revisited: 15-minute broadcast delay"
+      },
+      {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-f-giris-group/",
+         "pubDate" : "Wed, 14 Sep 2022 09:58:36 +0000",
+         "title" : "Chess.com Global Chess Championship - Group F (Giri's group)"
+      },
+      {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-e-nepos-group/",
+         "pubDate" : "Wed, 14 Sep 2022 09:51:08 +0000",
+         "title" : "Chess.com Global Chess Championship - Group E (Nepo's group)"
+      },
+      {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-d-caruanas-group/",
+         "pubDate" : "Wed, 14 Sep 2022 09:40:35 +0000",
+         "title" : "Chess.com Global Chess Championship - Group D (Caruana's group)"
+      },
+      {
+         "description" : "FIDE, jointly with the Cook County (Chicago) Sheriff's office, will hold the second Intercontinental Online Chess Championship for Prisoners. The tournament is set to take place on the International Day of Education in Prison, from 13-14 October. The online event is open to male, female and youth teams representing correctional facilities. So far, prisons and correctional facilities from 20 countries have registered for the competition.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/inmates-preparing-for-prisoners-chess-championship",
+         "pubDate" : "Wed, 14 Sep 2022 10:30:00 +0100",
+         "title" : "Inmates around the world getting ready for Prisoners Online Chess Championship"
+      },
+      {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-c-wesley-sos-group/",
+         "pubDate" : "Wed, 14 Sep 2022 09:28:18 +0000",
+         "title" : "Chess.com Global Chess Championship - Group C (Wesley So's group)"
+      },
+      {
+         "description" : "ECU Board decided to establish two new Commissions the &#8220;Media &#38; Communication Commission&#8221; and the Social Commission. ECU Media and Communication Commission &#8220;MCC&#8221; has as main task to develop strategies and propose measures to improve ECU &#8216;s communication with mainstream media and press coverage of ECU events as also to propose actions to improve ECU social media accounts&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-establishes-media-and-social-commissions/",
+         "pubDate" : "Wed, 14 Sep 2022 09:26:17 +0000",
+         "title" : "ECU establishes Media and Social Commissions"
+      },
+      {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-b-dudas-group/",
+         "pubDate" : "Wed, 14 Sep 2022 09:19:28 +0000",
+         "title" : "Chess.com Global Chess Championship - Group B (Duda's group)"
+      },
+      {
+         "description" : "The&#xA0;2022 Chess.com Global Championship&#xA0;(CGC) events started this May determining 64 players of the knockout phase. The knockout phase starts on September 14 and ends on October 9 featuring 32 players who qualified from the Play-in chess.com tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-a-hikarus-group/",
+         "pubDate" : "Wed, 14 Sep 2022 09:07:11 +0000",
+         "title" : "Chess.com Global Chess Championship - Group A (Hikaru's group)"
+      },
+      {
+         "description" : "The International round-robin tournament &#8220;Chess stars 2022&#8221; will be held from 29 September 5 October in Moscow, Russia. The event will gather more than 100 players, among whom are 10 world-known grandmasters from Russia, Azerbaijan, India and Spain: Sergey Karjakin, Vladimir Kramnik, Teimour Radjabov, Alexander Grischuk, Francisco Vallejo, Vladislav Artemiev, Ernesto Inarkiev, Raunak Sadhwani, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-stars-2022-tournament-in-moscow-with-karjakin-and-230-000-eur-prize-fund/",
+         "pubDate" : "Wed, 14 Sep 2022 07:56:26 +0000",
+         "title" : "\"Chess stars 2022\" tournament in Moscow, with Karjakin and 230.000 eur prize fund"
+      },
+      {
          "description" : "The Champions showdown 2022 Chess 9LX Fischer random tournament will take place from 13-16 September in Saint Louis Chess Club. Top international chess superstars will battle it out over the board:&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup winner, and Grand []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,14 +104,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-1-live/",
          "pubDate" : "Wed, 14 Sep 2022 07:03:36 +0000",
          "title" : "Chess 9LX Champions Showdown - Day 1 LIVE"
-      },
-      {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#xA0;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random), which will feature the world&#x2019;s top Grandmasters including legendary&#xA0;13th World Champion Garry Kasparov, World Number 3,&#xA0;Ian Nepomniachtchi, World Number 4 and&#xA0;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-champions-showdown-chess-9lx-live/",
-         "pubDate" : "Wed, 14 Sep 2022 06:55:56 +0000",
-         "title" : "2022 Champions Showdown - Chess 9LX LIVE"
       },
       {
          "description" : "Alexander Alekhine was one of the greatest in chess. The skill of the world champion, who died under mysterious circumstances in 1946, emanates to this day, as proved by a letter that chess enthusiast Ludger Br&ouml;ring discovered on Alekhine's grave at the Cimetière du Montparnasse in Paris.",
@@ -42,28 +122,12 @@ news_feed (
          "title" : "2022 Chess 9LX: Ultimate Moves"
       },
       {
-         "description" : "Between the Sinquefield Cup and the Chess 9LX Champions Showdown, the focus today is on fun, as the Ultimate Moves friendly game takes place at the Saint Louis Chess Center. Two teams made up of world-class players and enthusiastic amateurs take turns at the board after every five moves. | Follow the games live with commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-chess-club-ultimate-moves",
-         "pubDate" : "Tue, 13 Sep 2022 20:00:00 +0100",
-         "title" : "Saint Louis Chess Club: Ultimate Moves"
-      },
-      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen The first game below is proof that Magnus follows his own advice. Let's see it: Magnus claimed the draw to the arbiter without playing 19. Ke2. Is this a correct <a href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD 5.Bf4, repetition Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\">Need sure points? QGD 5.Bf4, repetition Edition</a> appeared firs",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
          "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
          "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
-      },
-      {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#xA0;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random), which will feature the world&#x2019;s top Grandmasters including legendary&#xA0;13th World Champion Garry Kasparov, World Number 3,&#xA0;Ian Nepomniachtchi, World Number 4 and&#xA0;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-champions-showdown-ultimate-moves-live/",
-         "pubDate" : "Tue, 13 Sep 2022 18:42:58 +0000",
-         "title" : "2022 Champions Showdown - Ultimate moves LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the middle three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
@@ -106,44 +170,12 @@ news_feed (
          "title" : "EP 296- Award Winning Author/Trainer, GM Jacob Aagaard on Endgame \"Rules of Thumb\", the Wave of Young Phenoms, and the World Championship Format "
       },
       {
-         "description" : "Sunilduth Lyna Narayanan is currently 88th in the world and one of India's top Grandmasters. Just recently he won in a brilliant fashion the third leg of the MPL Indian Chess Tour, qualifying to the Julius Baer Generation Cup. However, S.L. Narayanan will skip the event, &#8220;It is indeed a big opportunity for me to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/s-l-narayanan-i-wish-to-cross-2700-by-the-first-half-of-the-next-year/",
-         "pubDate" : "Tue, 13 Sep 2022 14:27:39 +0000",
-         "title" : "S.L. Narayanan: I wish to cross 2700 by the first half of the next year"
-      },
-      {
-         "description" : "This year&#x2019;s AGM (Annual General Meeting) of the English Chess Federation takes place on Saturday October 15th starting at 1.30pm at the Simister Hall, The Signing Tree Conference Centre, Ladywood Road, Birmingham B16 8SZ; The Annual General Meeting will conduct the election of Directors, the Chairman of the Council, the FIDE Delegate and members of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/annual-general-meeting-of-the-english-chess-federation-2022/",
-         "pubDate" : "Tue, 13 Sep 2022 13:12:11 +0000",
-         "title" : "Annual General Meeting of the English Chess Federation 2022"
-      },
-      {
          "description" : " For anyone who has tried to teach young kids how to play chess, the clip below is amazingly accurate. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/q6ILdW5i0L4\" width=\"320\" youtube-src-id=\"q6ILdW5i0L4\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/09/chest.html",
          "pubDate" : "Tue, 13 Sep 2022 12:51:00 +0000",
          "title" : "Chest"
-      },
-      {
-         "description" : "The US Chess Championship 2022 is going to take place October 4-14 in the Saint Louis Chess Club. It will feature 14 of the strongest US chess players. The event boasts a prize fund of 250 000$ with additional $64,000 &#8220;Fischer Bonus Prize&#8221; available if a player finishes with a perfect score. The current US []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022/",
-         "pubDate" : "Tue, 13 Sep 2022 11:01:47 +0000",
-         "title" : "US Chess Championship 2022"
-      },
-      {
-         "description" : "The US Chess Championship 2022 is going to take place October 4-14 in the Saint Louis Chess Club. It will feature 14 of the strongest US chess players. Live games with analysis will be daily on Chessdom.com &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-live/",
-         "pubDate" : "Tue, 13 Sep 2022 10:58:19 +0000",
-         "title" : "US Chess Championship 2022 LIVE"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>WR Group</strong>, a special logistics company whose business is mainly in Russia and its energy sector, <a href=\"https://fide.com/news/1979\">has been announced as sponsor</a> of the first <strong>World Open Teams Championship</strong> to be held over three days in May or June 2023 in D&uuml;sseldorf, where they have their headquarter. The event with an \"expected\" prize fund of €250,000 will probably replace the <strong>Corporate World Championship</strong> that had been held online. </div> ",
@@ -162,12 +194,20 @@ news_feed (
          "title" : "Let's go!"
       },
       {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;will headline the field and meet again with 19-year-old&#160;Hans Niemann. After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-magnus-carlsen-julius-baer-generation-cup-live/",
-         "pubDate" : "Tue, 13 Sep 2022 07:11:49 +0000",
-         "title" : "Hans Niemann vs Magnus Carlsen, Julius Baer Generation Cup LIVE"
+         "description" : "The Meltwater Champions Chess Tour is launching a new ground-breaking tournament this month focused on the clash of ages. The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, will feature 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-preview",
+         "pubDate" : "Tue, 13 Sep 2022 08:55:00 +0100",
+         "title" : "Carlsen and Niemann to face off in Julius Baer Generation Cup"
+      },
+      {
+         "description" : "Between the Sinquefield Cup and the Chess 9LX Champions Showdown, the focus today is on fun, as the Ultimate Moves friendly game takes place at the Saint Louis Chess Center. Two teams made up of world-class players and enthusiastic amateurs take turns at the board after every five moves. | Follow the games live with commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saint-louis-chess-club-ultimate-moves",
+         "pubDate" : "Tue, 13 Sep 2022 08:55:00 +0100",
+         "title" : "Saint Louis Chess Club: Ultimate Moves"
       },
       {
          "description" : "Hastings 1895 was a grand tournament that gathered the day's greatest players without exception. At the time it was played, it was arguably the greatest tournament in history. On the occasion of its recent 127th anniversary, Eugene Manlapao revisits the tournament that introduced the brilliant and perennial title contender, Harry Nelson Pillsbury.",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-hastings-1895",
          "pubDate" : "Tue, 13 Sep 2022 08:00:00 +0100",
          "title" : "The Battles of Hastings: Remembering the Hastings Tournament of 1895"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum:&#xA0;Magnus Carlsen,&#xA0;Hans Niemann,&#xA0;Boris Gelfand, Vassily Ivanchuk, Christopher Yoo,&#xA0;Praggnanandhaa,&#xA0;Vincent Keymer,&#xA0;Arjun Erigaisi,&#xA0;Anish Giri,&#xA0;Levon Aronian,&#xA0;Liem Le,&#xA0;Radoslaw Wojtaszek,&#xA0;David Navara&#xA0;and&#xA0;Ivan Saric. The final name will be the winner of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-pairings-schedule/",
-         "pubDate" : "Tue, 13 Sep 2022 06:56:30 +0000",
-         "title" : "Julius Baer Generation Cup - Pairings & Schedule"
       },
       {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series will kick off on September 18 in Nur-Sultan, the capital of Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix will consist of four tournaments (to be played in Kazakhstan, Germany, India and Poland). Each player will participate in three out of the four tournaments. | Photo: FIDE / David Llada",
@@ -234,12 +266,12 @@ news_feed (
          "title" : "2022 Champions Showdown: Chess 9LX"
       },
       {
-         "description" : "Chair of Council David Eustace Nominated by Non-Executive Director Stephen Woodhouse, Past Chair of Council Non-Executive Chairman of the Board Tim Wall Nominated by Northern...",
+         "description" : "The nominations for election at the forthcoming AGM are listed below. Election addresses can be found on the Council database via this link http://ecfcouncillive.ndlazi.uk/index.php?command=MeetingRecord&#38;page=B...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/nominations-for-election-at-the-agm/",
          "pubDate" : "Mon, 12 Sep 2022 14:24:02 +0000",
-         "title" : "Nominations for election at the AGM"
+         "title" : "Nominations for election at the AGM - updated 14/9/22"
       },
       {
          "description" : "",
@@ -288,14 +320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1979",
          "pubDate" : "Mon, 12 Sep 2022 10:45:37 +0000",
          "title" : "FIDE and WR Group announce the World Open Teams Championship"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour is launching a new ground-breaking tournament this month focused on the clash of ages. The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, will feature 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-preview",
-         "pubDate" : "Mon, 12 Sep 2022 11:20:00 +0100",
-         "title" : "Carlsen and Niemann to face off in Julius Baer Generation Cup"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A new study <a href=\"https://qeconomics.org/ojs/forth/1404/1404-3.pdf\">\"Gender, Competition and Performance\"</a> by <strong>Peter Backus</strong> et al analysed competitive games between men and women and found that men become more competitive compared to when they face other men, eg delaying resignation in lost positions against women, whereas women tend to become less competitive and slightly underperform. This is in line with <a href=\"https://dobetter.esade.edu/en/men-women-competitive\">earlier findings</a> that women underperform against men in fields that are supposed to favour men. </div> ",
@@ -1472,22 +1496,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/getting-fit-playing-chess.html",
          "pubDate" : "Fri, 02 Sep 2022 12:10:00 +0000",
          "title" : "Getting fit playing chess"
-      },
-      {
-         "description" : "One of the most magnificent collections of historical chess sets is currently on display at the Museum of Ancient Art in Lisbon. The collection is part of an exhibition on games and cultural exchange between Europe and Asia, reports Stefan L&ouml;ffler from Portugal. The exhibition, curated by Ulrich Sch&auml;dler and Thomas Thomsen, can be seen until 25 September. | Photos: Museo Nacional De Arte Antiga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crossing-games-an-exhibition-in-lisbon-on-chess-games-and-cultural-exchange",
-         "pubDate" : "Fri, 02 Sep 2022 11:51:39 +0100",
-         "title" : "\"Crossing Games\": an exhibition in Lisbon on chess, games and cultural exchange"
-      },
-      {
-         "description" : "Today we start with an experiment. We will be presenting you with some unusual and interesting studies. They are clever and rather difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where there will be an engine that will defend against your attempts to win (or draw), as the studies demand. The solutions with full explanations will be provided in a few days.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment",
-         "pubDate" : "Fri, 02 Sep 2022 10:00:00 +0100",
-         "title" : "Studies for fun and entertainment"
       },
       {
          "description" : " Last week, we started analyzing a game using our newly developed skill set. As I mentioned in the previous article, your job is to analyze each move (by both players) and determine that move's merit based on the games principles. While I haven't covered the endgame in this series of articles, the game we're playing <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-one/\">A Foundation for Beginners Seventy One</a> appeared first on <a rel=\"nofollow\" href=\"h",
