@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/aug/24/chess-harry-grieve-21-wins-british-championship-as-seven-year-old-shines",
          "pubDate" : "Wed, 24 Aug 2022 07:00:28 +0000",
          "title" : "Chess: Harry Grieve, 21, wins British championship as seven-year-old shines"
-      },
-      {
-         "description" : " From the publisher: &#8220;Chris Ross has come a long way from the back streets of Middlesbrough to a senior administrative role at Sheffield Hallam University, helping the education of those <a href=\"http://britishchessnews.com/2022/08/24/blind-faith/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Blind Faith</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/24/blind-faith/\">Blind Faith</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/08/24/blind-faith/",
-         "pubDate" : "Wed, 24 Aug 2022 00:10:50 +0000",
-         "title" : "Blind Faith"
       }
    ]
 }
