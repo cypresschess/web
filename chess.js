@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
+         "pubDate" : "Wed, 14 Sep 2022 20:50:00 +0100",
+         "title" : "Chess 9LX: Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-day-1-lichessorg",
+         "pubDate" : "Wed, 14 Sep 2022 18:35:18 +0000",
+         "title" : "2022 Chess 9LX: Day 1 | lichess.org"
+      },
+      {
+         "description" : "After taking part in his first-ever super-tournament 2022 Sinquefield Cup, 19-year-old Hans Niemann will be back in Saint Louis Chess Club in November playing the Saint Louis Chess Club Fall Chess Classic, confirmed Tony Rich, the executive director of the Saint Louis Chess Club. The event will take place from 1-11 November and will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-to-be-back-at-the-saint-louis-chess-club-for-the-2022-fall-chess-classic/",
+         "pubDate" : "Wed, 14 Sep 2022 18:09:48 +0000",
+         "title" : "Hans Niemann to be back at the Saint Louis Chess Club for the 2022 Fall Chess Classic"
+      },
+      {
+         "description" : "GM Jeffery Xiong and GM Dmitry Andreikin, the two players with more Titled Tuesday victories than anyone not named GM Hikaru Nakamura, both won another event on September 13. Meanwhile, brothers IM Mykola and GM Oleksandr Bortnyk finished second a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-andreikin-win-titled-tuesday-september-13-2022",
+         "pubDate" : "Wed, 14 Sep 2022 09:12:00 -0700",
+         "title" : "Ukrainian Brothers Push Hard For First Among Familiar Winners"
+      },
+      {
          "description" : "The year was 2013. Magnus Carlsen was about to play his first match against Viswanathan Anand, and he was knee-deep in preparation. Amid this process, Magnus shared an endgame study on Facebook. He captioned the image, \"More preparation. White to move and win, shown from black's side\". A few days later, GM Vidit Gujarathi asked me if I had solved Carlsen's challenge, which was extremely interesting. Dear reader, can you solve the Carlsen challenge?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/solving-carlsen-challenge",
          "pubDate" : "Wed, 14 Sep 2022 17:00:00 +0100",
          "title" : "Solving Carlsen's challenge"
+      },
+      {
+         "description" : "\"Alireza could repeat, following Julius Caesar, veni, vidi, vici, I came, I saw and I won\", said Garry Kasparov at the Closing Ceremony of the Sinquefield Cup in St. Louis. Alireza Firouzja had won it all, but there's still a major event to go, Chess9LX, where Kasparov, Hikaru Nakamura and Peter Svidler will be joining for a battle in Chess960.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kasparov-is-back-as-firouzja-picks-up-trophies",
+         "pubDate" : "Wed, 14 Sep 2022 15:46:51 +0000",
+         "title" : "Kasparov is back as Firouzja picks up trophies"
       },
       {
          "description" : "The Champions showdown 2022 Chess 9LX Fischer random tournament will take place from 13-16 September in Saint Louis Chess Club. Top international chess superstars will battle it out over the board:&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup winner, and Grand []",
@@ -82,20 +122,20 @@ news_feed (
          "title" : "Chess.com Global Chess Championship - Group G (Ding Liren's group) LIVE"
       },
       {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-h-aronians-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:14:40 +0000",
-         "title" : "Chess.com Global Chess Championship - Group H (Aronian's group) LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/19-year-old-alireza-firouzja-sweeps-last-two-legs-and-2022-grand-chess-tour",
          "pubDate" : "Wed, 14 Sep 2022 14:47:42 +0000",
          "title" : "19 Year Old Alireza Firouzja sweeps the last two legs and the 2022 Grand Chess Tour"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Sami Khader</strong>, an IM and coach from Jordan, <a href=\"https://www.fide.com/news/1981\">replaces</a> the Russian <strong>Mihail Kobalia</strong> as chairman of <strong>FIDE</strong>'s <strong>Trainers Commission</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/khader-heads-trainers-commission/",
+         "pubDate" : "Wed, 14 Sep 2022 15:42:59 +0100",
+         "title" : "Khader heads Trainers Commission"
       },
       {
          "description" : "In World Youth Championship being played at Romania, Indians had mixed results. Girls Under-18 S.Kanishka of India continued to maintain her winning streak and moved",
@@ -184,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-ultimate-moves-lichessorg",
          "pubDate" : "Tue, 13 Sep 2022 18:34:41 +0000",
          "title" : "2022 Sinquefield Cup: Ultimate Moves | lichess.org"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Anja Gering</strong>, head of finance and administration, is promoted to Executive Director of <strong>German Chess Federation</strong> as <strong>Marcus Fenner</strong> is <a href=\"https://www.schachbund.de/news/personelle-veraenderungen-in-der-geschaeftsstelle-2022-09.html\">leaving</a>. As a consequence (update) <strong>Paul Meyer-Duncker</strong> <a href=\"https://www.schachbund.de/news/paul-meyer-dunker-bleibt-beim-deutschen-schachbund.html\">could be convinced</a> to return as Social Media Director and <strong>Gregor Johann</strong> is reconsidering another term as Tournament Director. The staff has voted a representative for the first ti",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/anja-gering-directs-german/",
-         "pubDate" : "Tue, 13 Sep 2022 17:00:57 +0100",
-         "title" : "Anja Gering directs German federation"
       },
       {
          "description" : "Ten international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX. Chess 960 is a variant of chess created by Bobby Fischer in the late 1990s in which the pieces on the home rank are randomized, with 960 representing the number of possible starting positions. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Photo: Crystal Fuller (2021)",
@@ -456,14 +488,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-round-9-playoff-lichessorg",
          "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
          "title" : "2022 Sinquefield Cup: Round 9 & Playoff | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Alejandro Ramirez after a draw with Niemann in the ninth round of the 2022 Sinquefield Cup. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-visibly-upset-playoff-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iljJbRWaXAg.jpg?itok=ZabD5ptj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-visibly-upset-playoff-round-9",
-         "pubDate" : "Mon, 12 Sep 2022 00:33:32 +0000",
-         "title" : "Nepo Visibly Upset before Playoff | Round 9"
       },
       {
          "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection project&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1970",
          "pubDate" : "Thu, 08 Sep 2022 19:33:13 +0000",
          "title" : "Arvindh Chitambaram crowned champion of 22nd Dubai Open Chess"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A defamation lawsuit brought by former women's world champion <strong>Nona Gaprindashvili</strong> against <strong>Netflix</strong> based on a line in The Queen's Gambit series that Gaprindashvili had \"never faced men\" has been <a href=\"https://www.nytimes.com/2022/09/06/arts/television/netflix-queens-gambit-nona-gaprindashvili.html?referringSource=articleShare\">settled out of court without disclosure</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/gaprindashvili-and-netflix-settle/",
-         "pubDate" : "Thu, 08 Sep 2022 18:44:41 +0100",
-         "title" : "Gaprindashvili and Netflix settle"
       },
       {
          "description" : "This week Robert Ris will have a look at the recent developments in the Italian Two Knights - an old system that still leads to interesting and dynamic play. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1458,14 +1474,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The King's Gambit strikes again"
       },
       {
-         "description" : "Grigori Jakowlewitsch L&ouml;wenfisch was born in the 19th century, and advanced to one of the strongest chess players in the world in 1939. The Grandmaster was an avid writer for several chess books, and magazines. Loewenfisch had some venomous tactics up his sleeve, which Lawrence Trent is presenting to us.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-33",
-         "pubDate" : "Fri, 02 Sep 2022 18:00:00 +0100",
-         "title" : "Trent's Tactics - The poisonous L&ouml;wenfisch"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1786,14 +1794,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2022 - R9 report"
       },
       {
-         "description" : "The first day of blitz games at the 2022 Saint Louis Rapid &#38;amp; Blitz saw quick chess superstars GM Hikaru Nakamura, Alireza Firouzja, and Levon Aronian pick up the most points in a day of decisive results, tactical brawls, and a loss by an illeg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-saint-louis-rapid-and-blitz-day-4",
-         "pubDate" : "Mon, 29 Aug 2022 19:05:00 -0700",
-         "title" : "Nakamura Scores 7.5/9, Firouzja Stretches Lead"
-      },
-      {
          "description" : " Here is the publishers blurb from the rear cover : &#8220;What is it that makes Magnus Carlsen the strongest chess player in the world? Why do Carlsen's opponents, the best <a href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-an",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1832,14 +1832,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/scholars-trap.html",
          "pubDate" : "Mon, 29 Aug 2022 13:09:00 +0000",
          "title" : "Scholars Trap"
-      },
-      {
-         "description" : "Frenchmen Alireza Firouzja and Maxime Vachier-Lagrave share the lead after Day 3 of St. Louis Rapid & Blitz, one point ahead of Sam Shankland. Shakhriyar Mamedyarov clearly takes the \"Player of the Day\" award scoring three impressive wins after entering the day in last place, while Hikaru Nakamura continues his horrible run and is shockingly in last place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/st-louis-rb-3-mamedyarov-on-fire-as-frenchmen-share-lead",
-         "pubDate" : "Mon, 29 Aug 2022 11:09:32 +0000",
-         "title" : "St Louis RB 3: Mamedyarov on fire as Frenchmen share lead"
       },
       {
          "description" : "",
