@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1982",
+         "pubDate" : "Thu, 15 Sep 2022 06:18:34 +0000",
+         "title" : "Champions Showdown Chess 9LX: Day 1 Recap"
+      },
+      {
+         "description" : "The 2022 Champions Showdown: Chess 9LX kicked off today with an elite 10-player rapid round-robin featuring Chess960 (Fischer Random), a rich variant where the starting arrangement of the pieces is shuffled on the back rank. After the first day of action, 2022 FIDE Candidates winner Ian Nepomniachtchi leads the field with a perfect 3/3 score, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepomniachtchi-leads-saint-louis-9lx-with-a-perfect-3-3-score/",
+         "pubDate" : "Thu, 15 Sep 2022 05:38:25 +0000",
+         "title" : "Nepomniachtchi leads Saint Louis 9LX with a perfect 3/3 score"
+      },
+      {
+         "description" : "Sinquefield Cup improved anti-cheating measures after&#xA0;Carlsen decided to withdraw. As a result, today the legendary Grandmaster Garry Kasparov was subjected to one of the strictest anti-cheating controls in his life before the 9LX tournament. The video below speaks for itself. Kasparov on Carlsen-Niemann case: Unless the chess world is to be dragged down into endless []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kasparov-undergoes-strict-anti-cheating-control-at-the-9lx-tournament/",
+         "pubDate" : "Thu, 15 Sep 2022 05:14:17 +0000",
+         "title" : "Kasparov undergoes strict anti-cheating control at the 9LX tournament"
+      },
+      {
          "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations, but alluding to possible cheating case. Fabiano Caruana was one of the first to comment the Carlsen Niemann cheating allegations scandal with the famous quote Can&#x2019;t wait to hear []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -176,22 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-c-wesley-sos-group-live/",
          "pubDate" : "Wed, 14 Sep 2022 15:16:10 +0000",
          "title" : "Chess.com Global Chess Championship - Group C (Wesley So's group) LIVE"
-      },
-      {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-d-caruanas-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:16:06 +0000",
-         "title" : "Chess.com Global Chess Championship - Group D (Caruana's group) LIVE"
-      },
-      {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-e-nepos-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:16:02 +0000",
-         "title" : "Chess.com Global Chess Championship - Group E (Nepo's group) LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
@@ -474,6 +482,14 @@ news_feed (
          "title" : "Ivanchuk-Pragg and Erigaisi-Carlsen to kick off Julius Baer Generation Cup"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1977",
+         "pubDate" : "Mon, 12 Sep 2022 07:25:52 +0000",
+         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
+      },
+      {
          "description" : "Some endgames crop up more often than others as will be seen in this article. In this excellent taster, you will see classics such as Vancura's Draw, as well as a Knight Hunt set forth by Wojtaszek against his opponent. Finally there is a powerful 1-2 punch that breaks down the final barrier to victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1978",
          "pubDate" : "Mon, 12 Sep 2022 06:26:59 +0000",
          "title" : "Alireza Firouzja wins 2022 Sinquefield Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1977",
-         "pubDate" : "Mon, 12 Sep 2022 06:25:52 +0000",
-         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
       },
       {
          "description" : "Alireza Firouzja beat Ian Nepomniachtchi in a playoff to complete a stunning debut in St. Louis. The 19-year-old added victory in the Sinquefield Cup and Grand Chess Tour to his crushing victory in the St. Louis Rapid and Blitz, picking up $227,500 in the space of just over two weeks.",
