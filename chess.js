@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After yesterday's bad start at the Champions Showdown 9LX tournament in the Saint Louis Chess Club, Hikaru Nakamura made a video recap of his three games. Hikaru lost to Shakhriyar Mamedyarov after an interesting situation when Shakh asked the arbiter if he can castle in the game, and in the third round suffered a loss []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-to-put-it-mildly-not-the-greatest-of-days-chess-9lx-day-1-recap/",
+         "pubDate" : "Thu, 15 Sep 2022 11:30:31 +0000",
+         "title" : "Hikaru Nakamura: To put it mildly, not the greatest of days - Chess 9LX Day 1 recap"
+      },
+      {
          "description" : "The first three rounds of the Champions Showdown tournament were played at the Saint Louis Chess Club on Wednesday. The event featuring the Chess960 variant saw Ian Nepomniachtchi winning all three of his games, while Garry Kasparov and Peter Svidler did not manage to score on the first day of action. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-a-hikarus-group-live/",
          "pubDate" : "Wed, 14 Sep 2022 15:18:23 +0000",
          "title" : "Chess.com Global Chess Championship - Group A (Hikaru's group) LIVE"
-      },
-      {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-b-dudas-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:16:15 +0000",
-         "title" : "Chess.com Global Chess Championship - Group B (Duda's group) LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://aicf.in/national-under-07-2022-venue-details/",
          "pubDate" : "Thu, 25 Aug 2022 13:13:21 +0000",
          "title" : "National Under 07 , 2022 : Venue details"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93779504.cms\" />Indian Grandmaster Arjun Erigaisi clinched the 28th Abu Dhabi Masters chess tournament, beating Spain's David Anton Guijjaro here on Thursday. The 18-year-old emerged victorious over the Spaniard in the ninth and final round with 7.5 points. Arjun also remained unbeaten through all the nine rounds and finished half a point ahead of Uzbekistan's Javokhir Sindarov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teenage-grandmaster-arjun-erigaisi-clinches-abu-dhabi-masters/articleshow/93779504.cms",
-         "pubDate" : "Thu, 25 Aug 2022 12:03:43 +0000",
-         "title" : "Indian teenage Grandmaster Arjun Erigaisi clinches Abu Dhabi Masters"
       }
    ]
 }
