@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
+         "pubDate" : "Thu, 15 Sep 2022 20:50:00 +0100",
+         "title" : "Chess 9LX: Rounds 4-6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the middle three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vide",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-2-lichessorg",
+         "pubDate" : "Thu, 15 Sep 2022 18:36:20 +0000",
+         "title" : "2022 Champions Showdown | Chess 9LX: Day 2 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the final three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-3-lichessorg",
+         "pubDate" : "Thu, 15 Sep 2022 18:36:20 +0000",
+         "title" : "2022 Champions Showdown | Chess 9LX: Day 3 | lichess.org"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at a razor-sharp encounter between Alireza Firouzja and Wesley So. A crucial game which shed some light on current top-level chess trends. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-533-firouzja-so",
+         "pubDate" : "Thu, 15 Sep 2022 19:00:00 +0100",
+         "title" : "Game of the Week #533: Firouzja vs. So"
+      },
+      {
+         "description" : "Dutch IM and well-known trainer Robert Ris has recorded a two-volume FritzTrainer in which he presents a complete Black repertoire against the opening moves 1.d4,c4 and 1.Nf3. His repertoire is based on the Queen's Gambit Accepted after 1.d4 d5 2.c4. Free piece play is the idea. Philipp Hillebrand took an in-depth look at the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-complete-black-repertoire-against-1-d4-a-review",
+         "pubDate" : "Thu, 15 Sep 2022 18:45:00 +0100",
+         "title" : "Robert Ris' complete black repertoire against 1.d4 - A review"
+      },
+      {
+         "description" : "Ian Nepomniachtchi has taken the sole lead in the Champions Showdown: Chess 9LX tournament in St Louis with a perfect 3/3 start. A rusty Garry Kasparov could not convert a promising position and remains without a point.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nepomniachtchi-gets-flying-start-in-chess-9lx-while-kasparov-suffers",
+         "pubDate" : "Thu, 15 Sep 2022 17:03:18 +0000",
+         "title" : "Nepomniachtchi gets flying start in Chess 9LX while Kasparov suffers"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1984",
+         "pubDate" : "Thu, 15 Sep 2022 16:35:13 +0000",
+         "title" : "Second Intercontinental Online Chess Championship for Prisoners: Registration deadline approaches"
+      },
+      {
          "description" : "Legendary grandmaster and former World Chess Champion Garry Kasparov competes in the 2022 Champions Showdown Chess 9LX tournament in Saint Louis Chess Club. He suffered three losses during the Day 1 and bottoms the crosstable after three played rounds. After watching Day 1 games, Jamaican-American grandmaster and famous commentator Maurice Ashley tweeted that Kasparov would []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/garry-kasparov-with-so-many-elite-players-saint-louis-is-no-gangstas-paradise/",
          "pubDate" : "Thu, 15 Sep 2022 16:02:21 +0000",
          "title" : "Garry Kasparov: With so many elite players, Saint Louis is no gangsta's paradise!"
+      },
+      {
+         "description" : "When you are solving an exercise in a book, or guessing a move in Solitaire Chess, and your move is wrong, the first thing you want to know is why it was wrong, and what the refutation was, but unless the author included your exact choice, you will be left scratching your head. A new feature in ChessBase solves this brilliantly and can become a powerful tool to your improvement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/replay-training-a-hidden-gem-in-chessbase",
+         "pubDate" : "Thu, 15 Sep 2022 16:15:00 +0100",
+         "title" : "Replay Training: a hidden gem in ChessBase"
       },
       {
          "description" : "World Champion Alexander Alekhine successfully played an unusual opening in the 1920s, one that would later be named after him. For White, the opening is annoying because, although it looks unplayable for Black at first, it is very much playable for his opponent. Furthermore, although it is called \"Alekhine's Defence\" it is seemingly more suitable for attacking players, which we will learn from today's video. Svitlana enjoys this opening big time, and shares her knowledge with us.",
@@ -80,14 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fabiano-caruana-on-carlsens-withdrawal-i-do-not-think-niemann-cheated-in-this-tournament/",
          "pubDate" : "Thu, 15 Sep 2022 04:49:35 +0000",
          "title" : "Fabiano Caruana on Carlsen's withdrawal: I do not think Niemann cheated in this tournament"
-      },
-      {
-         "description" : "When you are solving an exercise in a book, or guessing a move in Solitaire Chess, and your move is wrong, the first thing you want to know is why it was wrong, and what the refutation was, but unless the author included your exact choice, you will be left scratching your head. A new feature in ChessBase solves this brilliantly and can become a powerful tool to your improvement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/replay-training-a-hidden-gem-in-chessbase",
-         "pubDate" : "Thu, 15 Sep 2022 04:00:00 +0100",
-         "title" : "Replay Training: a hidden gem in ChessBase"
       },
       {
          "description" : "The 2022 Champions Showdown: Chess 9LX commenced at the Saint Louis Chess Club on Wednesday with three rounds of electrifying Chess960 (or Fischer Random) games, pitting the world&#39;s best chess players against each other on unfamiliar playing field...",
@@ -304,22 +360,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
          "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
          "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the middle three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-day-2",
-         "pubDate" : "Tue, 13 Sep 2022 18:34:41 +0000",
-         "title" : "2022 Chess 9LX: Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After the Sinquefield Cup, it's time for team chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-sinquefield-cup-ultimate-moves-lichessorg",
-         "pubDate" : "Tue, 13 Sep 2022 18:34:41 +0000",
-         "title" : "2022 Sinquefield Cup: Ultimate Moves | lichess.org"
       },
       {
          "description" : "Ten international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX. Chess 960 is a variant of chess created by Bobby Fischer in the late 1990s in which the pieces on the home rank are randomized, with 960 representing the number of possible starting positions. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Photo: Crystal Fuller (2021)",
@@ -1442,14 +1482,6 @@ news_feed (
          "title" : "Kateryna Lagno wins FIDE Chess.com 2022 Women's Speed Chess Championship"
       },
       {
-         "description" : "Last week BBC Four brought together a group of personalities that, 25 years ago, were part of the epic struggle between the reigning World Champion and a million-dollar computer built by IBM. The broadcast reunited the chess masters and AI pioneers who went into battle at the time, to test the limits of human and artificial intelligence. You can listen to the 42-minute discussion and read experts.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/25-years-later-deep-blue-vs-kasparov",
-         "pubDate" : "Sat, 03 Sep 2022 14:00:00 +0100",
-         "title" : "25 years later: Deep Blue vs Kasparov"
-      },
-      {
          "description" : "The surprise winner of the most recent world rapid chess championships was the new 17-year-old superstar Nodirbek Abdusattorov from Uzbekistan. Far from being a flash in the pan, the Uzbek teenager then led his team to an equally astounding victory in the recently concluded Chennai Olympiad, or international team tournament. This impressive triumph took place ahead of the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1464,22 +1496,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/would-the-world-championship-match-between-carlsen-and-nepo-be-t/",
          "pubDate" : "Sat, 03 Sep 2022 08:58:04 +0000",
          "title" : "Another Championship Match Between Carlsen and Nepo Would Be Boring"
-      },
-      {
-         "description" : "Only two pawns left on each side, equal material - and yet from the diagram position White wins by force. Five moves, one leitmotif - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/outmaneuvered",
-         "pubDate" : "Sat, 03 Sep 2022 09:00:00 +0100",
-         "title" : "Outmaneuvered"
-      },
-      {
-         "description" : "The Ukrainian women's team achieved something truly spectacular when they won the gold medal in the women's section at the 44th Chess Olympiad 2022. We speak to board no. 1 and 2 of the team and two of the best chess players of the country for several years now - Mariya and Anna Muzychuk. They talk about their experience of playing in India, how tough it was to win the Olympiad, and also show us the critical moments in their games. The entire country of Ukraine has been through tough times recently. This Gold medal is a dedication to the mental strength of these champions of the nation. | Photo: FIDE/Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/against-all-odds-how-ukraine-women-won-gold-at-the-44th-chess-olympiad-2022",
-         "pubDate" : "Sat, 03 Sep 2022 08:55:00 +0100",
-         "title" : "Against all odds - How the Ukrainian Women won Gold at the 44th Chess Olympiad 2022"
       },
       {
          "description" : "The 2022 Sinquefield Cup came off to a good start with one win and four draws. The win came courtesy of World Champion Magnus Carlsen who in convincing fashion took down the recent winner of the 2022 Candidates Tournament, GM Ian Nepomniachtchi. ...",
@@ -1738,14 +1754,6 @@ news_feed (
          "title" : "Alireza Firouzja wins 2022 Saint Louis Rapid & Blitz"
       },
       {
-         "description" : "Alireza Firouzja has opened up a gap to his competitors after an impressive display on the first day of blitz in Saint Louis. Meanwhile, Hikaru Nakamura is playing catch up, showing off his brilliant speed chess skills that were lacking on Day 3.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/firouzja-grabs-sole-lead-as-nakamura-plays-catch-up-with-7-5-9",
-         "pubDate" : "Wed, 31 Aug 2022 07:09:53 +0000",
-         "title" : "Firouzja grabs sole lead as Nakamura plays \"catch up\" with 7.5/9"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-60/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (60)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-60/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (60)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1939",
          "pubDate" : "Thu, 25 Aug 2022 21:37:41 +0000",
          "title" : "Carlos Daniel Albornoz wins Mirandela Open 2022"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93784608.cms\" />The wrangling in the All India Chess Federation (AICF) refuses to die down as RN Dongre, who lost election last year, on Thursday claimed that he's the secretary of the body as per the National Sports Code.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-issue-dongre-claims-he-is-secretary-warns-of-contempt-of-court-action/articleshow/93784608.cms",
-         "pubDate" : "Thu, 25 Aug 2022 16:58:03 +0000",
-         "title" : "AICF issue: Dongre claims he is secretary, warns of contempt of court action"
       }
    ]
 }
