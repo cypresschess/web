@@ -1,4 +1,7 @@
 jtable([
+"PEARLAND","2022-09-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202209139312 target='_blank'>RCC QUADS SEPTEMBER 13, 2022</a>",
+"HOUSTON","2022-09-11","6","<a href=http://www.uschess.org/msa/XtblMain.php?202209118942 target='_blank'>SEPT 11 SUNDAY SWISS</a>",
+"HOUSTON","2022-09-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202209108222 target='_blank'>SEPT 10 SATURDAY CHESS</a>",
 "CYPRESS","2022-09-10","36","<a href=http://www.uschess.org/msa/XtblMain.php?202209107162 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-09-09","22","<a href=http://www.uschess.org/msa/XtblMain.php?202209097092 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-09-09","12","<a href=http://www.uschess.org/msa/XtblMain.php?202209097062 target='_blank'>FBCC LABOR DAY CHAMPIONSHIP</a>",
@@ -196,7 +199,4 @@ jtable([
 "CYPRESS","2021-12-03","15","<a href=http://www.uschess.org/msa/XtblMain.php?202112032912 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2021-12-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202112032882 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2021-12-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202112032812 target='_blank'>FBCC 2021 ADVENT OPEN</a>",
-"SPRING","2021-11-26","21","<a href=http://www.uschess.org/msa/XtblMain.php?202111260392 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2021-11-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202111260352 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2021-11-02  - 11-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202111239782 target='_blank'>NOVEMBER TUESDAY NIGHT SWISS</a>",
 ]);
