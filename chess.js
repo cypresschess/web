@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Collegiate Chess League&#39;s Fall 2022 Season begins on September 24, with college chess players from all over the world competing for their share of the $20,000 prize fund and school pride. If you&#39;re a college student, Chess.com invites you to s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sign-up-ccl-fall-season",
+         "pubDate" : "Thu, 15 Sep 2022 16:16:49 -0700",
+         "title" : "Sign Up For The 2022 Collegiate Chess League Fall Season"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1985",
+         "pubDate" : "Thu, 15 Sep 2022 20:23:57 +0000",
+         "title" : "FIDE World Cadet Chess Championships kick off in Batumi, Georgia"
+      },
+      {
          "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -150,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-champions-showdown-9lx-day-1",
-         "pubDate" : "Wed, 14 Sep 2022 18:15:22 -0700",
+         "pubDate" : "Wed, 14 Sep 2022 18:15:00 -0700",
          "title" : "Nepomniachtchi Claims Perfect Chess960 Start"
       },
       {
@@ -1762,14 +1778,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (60)"
       },
       {
-         "description" : "GMs Matthias Bluebaum and David Navara advanced to the Qualifier 2 final of the 2022 Fischer Random World Championship on Tuesday. Practically every matchup featured wild games&#38;mdash;from four queens roaming the board, to compelling rook sacrifice...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d2",
-         "pubDate" : "Tue, 30 Aug 2022 22:36:00 -0700",
-         "title" : "Quadruple Queens And Raining Rooks: Bluebaum, Navara Advance To Final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/",
          "pubDate" : "Thu, 25 Aug 2022 23:32:57 +0000",
          "title" : "Kassa Korley seeking 3rd GM Norm"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1939",
-         "pubDate" : "Thu, 25 Aug 2022 21:37:41 +0000",
-         "title" : "Carlos Daniel Albornoz wins Mirandela Open 2022"
       }
    ]
 }
