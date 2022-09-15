@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Champion Alexander Alekhine successfully played an unusual opening in the 1920s, one that would later be named after him. For White, the opening is annoying because, although it looks unplayable for Black at first, it is very much playable for his opponent. Furthermore, although it is called \"Alekhine's Defence\" it is seemingly more suitable for attacking players, which we will learn from today's video. Svitlana enjoys this opening big time, and shares her knowledge with us.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-alekhine-defense",
+         "pubDate" : "Thu, 15 Sep 2022 16:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Alekhine's Defense"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1983",
+         "pubDate" : "Thu, 15 Sep 2022 13:52:35 +0000",
+         "title" : "FIDE World Junior Championship: Deadline extended"
+      },
+      {
          "description" : "After yesterday's bad start at the Champions Showdown 9LX tournament in the Saint Louis Chess Club, Hikaru Nakamura made a video recap of his three games. Hikaru lost to Shakhriyar Mamedyarov after an interesting situation when Shakh asked the arbiter if he can castle in the game, and in the third round suffered a loss []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Nepomniachtchi Claims Perfect Chess960 Start"
       },
       {
-         "description" : "The Chess.com Global Chess Championship commenced on Wednesday with the first batch of round of 64 matches. Former world champion Vladimir Kramnik and GM Sam Sevian swept their matches with perfect 3-0 scores. GM Eric Hansen upset World Number 21 ...",
+         "description" : "The Chess.com Global Chess Championship commenced on Wednesday with the first batch of round of 64 matches. Former World Champion Vladimir Kramnik and GM Sam Sevian swept their matches with perfect 3-0 scores. GM Eric Hansen upset world number 21 ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d1",
@@ -1466,14 +1482,6 @@ news_feed (
          "title" : "Against all odds - How the Ukrainian Women won Gold at the 44th Chess Olympiad 2022"
       },
       {
-         "description" : "In a rematch of the latest confrontation for the World Championship title, Magnus Carlsen took down Ian Nepomniachtchi to grab the early lead at the Sinquefield Cup in Saint Louis. All remaining games finished drawn. Carlsen will face Levon Aronian with black in the second round, while Nepo will try to bounce back in his game with white against Alireza Firouzja. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022",
-         "pubDate" : "Sat, 03 Sep 2022 08:50:00 +0100",
-         "title" : "Sinquefield Cup: Carlsen beats Nepo"
-      },
-      {
          "description" : "The 2022 Sinquefield Cup came off to a good start with one win and four draws. The win came courtesy of World Champion Magnus Carlsen who in convincing fashion took down the recent winner of the 2022 Candidates Tournament, GM Ian Nepomniachtchi. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1992,22 +2000,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html",
          "pubDate" : "Thu, 25 Aug 2022 15:42:00 +0000",
          "title" : "2022 CJA Awards - Part 2"
-      },
-      {
-         "description" : " The 2023 Australian Open is being held from the 2nd to the 10th January 2023, in Perth. The Open will be an 11 round event, with 3 double round days. First prize is $3000, and the total prize pool is over $10,000. There is also Minor event (Under 1600) running alongside the Open. Full details for the tournament can be found at <a href=\"https://sites.google.com/view/2023ausopen/home\">https://sites.google.com/view/2023ausopen/home</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2023-australian-open.html",
-         "pubDate" : "Thu, 25 Aug 2022 13:33:00 +0000",
-         "title" : "2023 Australian Open"
-      },
-      {
-         "description" : "Dear All, Please note that the venue for National U-07 from 06-11 October 2022 will be held at Science city -Ahmedabad ,Gujarat .The updated circular",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-under-07-2022-venue-details/",
-         "pubDate" : "Thu, 25 Aug 2022 13:13:21 +0000",
-         "title" : "National Under 07 , 2022 : Venue details"
       }
    ]
 }
