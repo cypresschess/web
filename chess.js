@@ -10,7 +10,7 @@ news_feed (
          "title" : "Chess 9LX: Nepo's perfect start"
       },
       {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#xA0;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event&#x2019;s line-up features the world&#x2019;s top Grandmasters including legendary&#xA0;13th World Champion Garry Kasparov, World Number 3,&#xA0;Ian Nepomniachtchi, World Number 4 and&#xA0;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event&#x2019;s line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-2-live/",
