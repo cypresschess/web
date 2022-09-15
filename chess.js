@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you are solving an exercise in a book, or guessing a move in Solitaire Chess, and your move is wrong, the first thing you want to know is why it was wrong, and what the refutation was, but unless the author included your exact choice, you will be left scratching your head. A new feature in ChessBase solves this brilliantly and can become a powerful tool to your improvement.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/replay-training-a-hidden-gem-in-chessbase",
+         "pubDate" : "Thu, 15 Sep 2022 04:00:00 +0100",
+         "title" : "Replay Training: a hidden gem in ChessBase"
+      },
+      {
          "description" : "The 2022 Champions Showdown: Chess 9LX commenced at the Saint Louis Chess Club on Wednesday with three rounds of electrifying Chess960 (or Fischer Random) games, pitting the world&#39;s best chess players against each other on unfamiliar playing field...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -71,7 +79,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
          "pubDate" : "Wed, 14 Sep 2022 20:50:00 +0100",
-         "title" : "Chess 9LX: Live!"
+         "title" : "Chess 9LX: Rounds 1-3"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1961",
          "pubDate" : "Fri, 02 Sep 2022 21:12:00 +0000",
          "title" : "FIDE Congress 2022: Key decisions "
-      },
-      {
-         "description" : "In his Power Play Show, Daniel King returns to the King's Gambit, looking at some fascinating recent games from one of the strongest players in the world: Ian Nepomniachtchi. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-gambit-return",
-         "pubDate" : "Fri, 02 Sep 2022 20:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The King's Gambit strikes again"
       },
       {
          "description" : "",
