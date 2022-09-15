@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Legendary grandmaster and former World Chess Champion Garry Kasparov competes in the 2022 Champions Showdown Chess 9LX tournament in Saint Louis Chess Club. He suffered three losses during the Day 1 and bottoms the crosstable after three played rounds. After watching Day 1 games, Jamaican-American grandmaster and famous commentator Maurice Ashley tweeted that Kasparov would []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/garry-kasparov-with-so-many-elite-players-saint-louis-is-no-gangstas-paradise/",
+         "pubDate" : "Thu, 15 Sep 2022 16:02:21 +0000",
+         "title" : "Garry Kasparov: With so many elite players, Saint Louis is no gangsta's paradise!"
+      },
+      {
          "description" : "World Champion Alexander Alekhine successfully played an unusual opening in the 1920s, one that would later be named after him. For White, the opening is annoying because, although it looks unplayable for Black at first, it is very much playable for his opponent. Furthermore, although it is called \"Alekhine's Defence\" it is seemingly more suitable for attacking players, which we will learn from today's video. Svitlana enjoys this opening big time, and shares her knowledge with us.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-1-live/",
          "pubDate" : "Wed, 14 Sep 2022 15:23:00 +0000",
          "title" : "Chess 9LX Champions Showdown - Day 1 LIVE"
-      },
-      {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-a-hikarus-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:18:23 +0000",
-         "title" : "Chess.com Global Chess Championship - Group A (Hikaru's group) LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-issue-dongre-claims-he-is-secretary-warns-of-contempt-of-court-action/articleshow/93784608.cms",
          "pubDate" : "Thu, 25 Aug 2022 16:58:03 +0000",
          "title" : "AICF issue: Dongre claims he is secretary, warns of contempt of court action"
-      },
-      {
-         "description" : "A few weeks ago I posted <A HREF=\"http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-1.html\">2022 CJA Awards - Part 1</A>(August 2022). Now I'll post 'Part 2'. Following the lead from last year's <A HREF=\"http://chessforallages.blogspot.com/2021/09/2021-cja-awards-part-2.html\">2021 CJA Awards - Part 2</A>(September 2021), I'll feature four specific awards:- <UL><LI>Chess Journalist of the Year <LI>Best Chess Book <LI>Best Chess Art <LI>Best Chess Blog </UL> <P>Winner of the most prestigious award, 'Chess Journalist of the Year', was Elshan Moradiabadi. His certificate is reproduced below. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh25.gif\" WIDTH=400 HEIGHT=3",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html",
-         "pubDate" : "Thu, 25 Aug 2022 15:42:00 +0000",
-         "title" : "2022 CJA Awards - Part 2"
       }
    ]
 }
