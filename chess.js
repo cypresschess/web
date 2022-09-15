@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Champions Showdown: Chess 9LX commenced at the Saint Louis Chess Club on Wednesday with three rounds of electrifying Chess960 (or Fischer Random) games, pitting the world&#39;s best chess players against each other on unfamiliar playing field...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-champions-showdown-9lx-day-1",
+         "pubDate" : "Wed, 14 Sep 2022 18:15:22 -0700",
+         "title" : "Nepomniachtchi Claims Perfect Chess960 Start"
+      },
+      {
+         "description" : "The Chess.com Global Chess Championship commenced on Wednesday with the first batch of round of 64 matches. Former world champion Vladimir Kramnik and GM Sam Sevian swept their matches with perfect 3-0 scores. GM Eric Hansen upset World Number 21 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d1",
+         "pubDate" : "Wed, 14 Sep 2022 18:10:00 -0700",
+         "title" : "Kramnik and Sevian Sweep Inaugural Matches"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-how-i-prepare-chess-9lx-day-1",
+         "pubDate" : "Thu, 15 Sep 2022 00:35:32 +0000",
+         "title" : "Nepo: How I prepare for Chess 9LX | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-beating-kasparov-day-1",
+         "pubDate" : "Thu, 15 Sep 2022 00:35:32 +0000",
+         "title" : "Aronian: Beating Kasparov | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-three-intense-successful-games-day-1",
+         "pubDate" : "Thu, 15 Sep 2022 00:35:32 +0000",
+         "title" : "Caruana: Three Intense But Successful Games | Day 1"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -354,14 +394,6 @@ news_feed (
          "title" : "TCEC S23 L1, CCC19 Blitz - Both Underway"
       },
       {
-         "description" : "<div class=\"body text-secondary\"><p style=\"text-align: justify;\"><strong>SAINT LOUIS, September 12, 2022 -</strong> The top international chess superstars are set to battle it out over the board from September 13-16 in <a href=\"https://www.uschesschamps.com/2022-champions-showdown-chess-9lx/overview\">Champions Showdown: Chess 9LX™</a>, which will feature the world's top grandmasters including legendary 13th World Champion Garry Kasparov, World Number 3, Ian Nepomniachtchi, World Number 4 and 2022 Saint Louis Rapid &amp; Blitz, Sinquefield Cup winner, and 2022 Grand Chess Tour champion, Alireza Firouzja and returning 2021 Ches </div><div class=\"field field-name-field-author field-type-list-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx",
-         "pubDate" : "Mon, 12 Sep 2022 14:50:51 +0000",
-         "title" : "2022 Champions Showdown: Chess 9LX"
-      },
-      {
          "description" : "The nominations for election at the forthcoming AGM are listed below. Election addresses can be found on the Council database via this link http://ecfcouncillive.ndlazi.uk/index.php?command=MeetingRecord&#38;page=B...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -472,22 +504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1980",
          "pubDate" : "Mon, 12 Sep 2022 05:49:39 +0000",
          "title" : "World Youth Chess Championships cross halfway"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Alejandro Ramirez after defeating Nepomniachtchi in the playoff of the 2022 Sinquefield Cup. Firouzja is the first person to win the Saint Louis Rapid &amp; Blitz, Sinquefield Cup, and the entire Grand Chess Tour all in the same season. 2022.09.11<br /> KasparovChess.com<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-sweeps-saint-louis-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-sweeps-saint-louis-playoff",
-         "pubDate" : "Mon, 12 Sep 2022 03:33:30 +0000",
-         "title" : "Firouzja Sweeps in Saint Louis! | Playoff"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-day-1",
-         "pubDate" : "Mon, 12 Sep 2022 03:33:30 +0000",
-         "title" : "2022 Chess 9LX: Day 1"
       },
       {
          "description" : "After nine eventful rounds of play and lots of surrounding tumult, the 2022 Sinquefield Cup came to a conclusion on Sunday in Saint Louis. After four draws in the regulation games of round nine, a play-off, consisting of two rapid games, between...",
@@ -1730,14 +1746,6 @@ news_feed (
          "title" : "Quadruple Queens And Raining Rooks: Bluebaum, Navara Advance To Final"
       },
       {
-         "description" : "The 2022 Saint Louis Rapid &#38;amp; Blitz came to a close on Tuesday with a historic victory from GM Alireza Firouzja. The blitz superstar accrued 26 points out of a possible 36, marking a 22-game undefeated streak that saw him soar 107 rating points...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-2022-saint-louis-rapid-and-blitz",
-         "pubDate" : "Tue, 30 Aug 2022 15:47:00 -0700",
-         "title" : "Dominant Firouzja Clinches Saint Louis Rapid & Blitz With 4 Rounds To Spare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1760,14 +1768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2022-23/",
          "pubDate" : "Tue, 30 Aug 2022 13:52:57 +0000",
          "title" : "Clubs & Congress Insurance 2022/23 - amended 31/8/22"
-      },
-      {
-         "description" : "As of Monday, GM Magnus Carlsen is the new number-one blitz player on Chess.com. The world champion played a 57(!)-game match with GM Vladimir Fedoseev and stopped at a rating of 3204, four points more than GM Hikaru Nakamura currently has. Afte...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-claims-1-blitz-spot-on-chess-com",
-         "pubDate" : "Tue, 30 Aug 2022 06:52:00 -0700",
-         "title" : "Carlsen Claims No. 1 Blitz Spot On Chess.com"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg\" data-image-dimensions=\"408x264\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"630e0dbcc5a0422c7f695dc1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the third highest rated chess player of all time, GM Fabiano Caruana. Fabiano joined me from the St. Louis Chess Club just days before he was set t",
