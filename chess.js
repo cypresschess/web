@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first three rounds of the Champions Showdown tournament were played at the Saint Louis Chess Club on Wednesday. The event featuring the Chess960 variant saw Ian Nepomniachtchi winning all three of his games, while Garry Kasparov and Peter Svidler did not manage to score on the first day of action. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d1",
+         "pubDate" : "Thu, 15 Sep 2022 11:30:00 +0100",
+         "title" : "Chess 9LX: Nepo's perfect start"
+      },
+      {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#xA0;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event&#x2019;s line-up features the world&#x2019;s top Grandmasters including legendary&#xA0;13th World Champion Garry Kasparov, World Number 3,&#xA0;Ian Nepomniachtchi, World Number 4 and&#xA0;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-2-live/",
+         "pubDate" : "Thu, 15 Sep 2022 09:33:03 +0000",
+         "title" : "Chess 9LX Champions Showdown - Day 2 LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -106,14 +122,6 @@ news_feed (
          "title" : "Shakhriyar Mamedyarov asks the arbiter if he can castle #TweetOftheDay"
       },
       {
-         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
-         "pubDate" : "Wed, 14 Sep 2022 20:50:00 +0100",
-         "title" : "Chess 9LX: Rounds 1-3"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-b-dudas-group-live/",
          "pubDate" : "Wed, 14 Sep 2022 15:16:15 +0000",
          "title" : "Chess.com Global Chess Championship - Group B (Duda's group) LIVE"
-      },
-      {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-c-wesley-sos-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:16:10 +0000",
-         "title" : "Chess.com Global Chess Championship - Group C (Wesley So's group) LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-teenage-grandmaster-arjun-erigaisi-clinches-abu-dhabi-masters/articleshow/93779504.cms",
          "pubDate" : "Thu, 25 Aug 2022 12:03:43 +0000",
          "title" : "Indian teenage Grandmaster Arjun Erigaisi clinches Abu Dhabi Masters"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz takes place 26th to 30th August starting at 1pm local time, 7pm UK time. Players: Alireza Firouzja, Fabiano Caruana, Levon Aronian, Shakhriyar Mamedyarov, Jeffery Xiong (replacing Richard Rapport who can't make it due to Covid-19 restrictions), Maxime Vachier-Lagrave, Leinier Dominguez, Ian Nepomniachtchi, Hikaru Nakamura andSam Shankland. Three days of Rapid and two of Blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2022",
-         "pubDate" : "Thu, 25 Aug 2022 13:55:00 +0400",
-         "title" : "Saint Louis Rapid & Blitz 2022 - Games and Results"
       }
    ]
 }
