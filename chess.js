@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations, but alluding to possible cheating case. Fabiano Caruana was one of the first to comment the Carlsen Niemann cheating allegations scandal with the famous quote Can&#x2019;t wait to hear []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-on-carlsens-withdrawal-i-do-not-think-niemann-cheated-in-this-tournament/",
+         "pubDate" : "Thu, 15 Sep 2022 04:49:35 +0000",
+         "title" : "Fabiano Caruana on Carlsen's withdrawal: I do not think Niemann cheated in this tournament"
+      },
+      {
          "description" : "When you are solving an exercise in a book, or guessing a move in Solitaire Chess, and your move is wrong, the first thing you want to know is why it was wrong, and what the refutation was, but unless the author included your exact choice, you will be left scratching your head. A new feature in ChessBase solves this brilliantly and can become a powerful tool to your improvement.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-e-nepos-group-live/",
          "pubDate" : "Wed, 14 Sep 2022 15:16:02 +0000",
          "title" : "Chess.com Global Chess Championship - Group E (Nepo's group) LIVE"
-      },
-      {
-         "description" : "The knockout phase of the Chess.com Global Chess Championship&#xA0;kicked off today and it will be played from September 14 to October 9. The Knockout part of the event features 32 players who qualified from the Play-in CGC tournaments and 32 invited players. 64 players are divided in eight groups, and the Winners of each group []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-global-chess-championship-group-f-giris-group-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:15:57 +0000",
-         "title" : "Chess.com Global Chess Championship - Group F (Giri's group) LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
