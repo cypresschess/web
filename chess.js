@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In ChessBase Magazine #208, our new author, GM Jan Markos, started his video training series \"Practical Tips for the Tournament Player\" with an article on \"Time Management\". In the new issue, CBM #209, he reveals how you should play in must-win situations. You certainly know such situations too - what would you tend to do? Play a risky opening line? Seek sacrifices? Try to put your opponent under time pressure? Jan Markos' recommendations go in a completely different direction. You can watch an excerpt from his video here. Have a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/must-win-situations",
+         "pubDate" : "Fri, 16 Sep 2022 08:30:00 +0100",
+         "title" : "Must-win situations"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94240825.cms\" />Bengaluru teenager Pranav Anand became India's 76th Grandmaster after he crossed the 2,500 Elo mark in the ongoing World Youth Chess Championship in Mamaia, Romania.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengaluru-teen-pranav-anand-becomes-indias-76th-chess-grandmaster/articleshow/94240825.cms",
+         "pubDate" : "Fri, 16 Sep 2022 07:06:58 +0000",
+         "title" : "Bengaluru teen Pranav becomes India's 76th chess Grandmaster"
+      },
+      {
+         "description" : " The 19-year-old won the Sinquefield Cup and the Grand Tour in St Louis, while fresh cheating allegations form the backdrop to next Monday's game between the world champion and the US teen Alireza Firouzja strengthened his position among the world top last weekend when the former Iranian, now French, 19-year-old made a clean sweep at St Louis where he won the rapid, the blitz, the classical Sinquefield Cup and the overall Grand Tour. He collected $272,000 in prize money, and defeated the Candidates winner, Ian Nepomniachtchi, in the final tie-break. <a href=\"https://www.theguardian.com/sport/2022/sep/16/chess-firouzja-sweeps-grand-tour-while-carlsen-v-niemann-saga-continues\">Continue reading",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/sep/16/chess-firouzja-sweeps-grand-tour-while-carlsen-v-niemann-saga-continues",
+         "pubDate" : "Fri, 16 Sep 2022 07:00:08 +0000",
+         "title" : "Chess: Firouzja sweeps Grand Tour while Carlsen v Niemann saga continues"
+      },
+      {
+         "description" : "The Azerbaijani grandmaster Shakhriyar Mamedyarov yesterday scored 3/3 at the Saint Louis 9LX Chess to join Alireza Firouzja on the top of the rankings. In the post-games interview, Mamedyarov said that he enjoys Fischer Random: &#8220;Normally in classical chess, I just try to play interesting chess and I try to get an interesting position from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-its-much-better-to-play-fischer-random-chess/",
+         "pubDate" : "Fri, 16 Sep 2022 06:54:32 +0000",
+         "title" : "Shakhriyar Mamedyarov: It's much better to play Fischer Random Chess"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov scored perfect 3/3 during the second day of the Saint Louis 9XL Chess heading into the last day as the co-leader of the tournament. Mamedyarov confessed in the post-game interview that he enjoys 960 Chess (Fischer Random) more than classical chess, though he is not always sure how to castle thus he consults []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-promotes-knight-to-defeat-nepo-in-style-video/",
+         "pubDate" : "Fri, 16 Sep 2022 06:48:44 +0000",
+         "title" : "Shakhriyar Mamedyarov promotes Knight to defeat Nepo in style (VIDEO)"
+      },
+      {
          "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event&#x2019;s line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -280,22 +320,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-1-lichessorg",
          "pubDate" : "Wed, 14 Sep 2022 21:35:31 +0000",
          "title" : "2022 Champions Showdown | Chess 9LX: Day 1 | lichess.org"
-      },
-      {
-         "description" : "Champions Showdown Chess 9LX tournament kicked off today in Saint Louis. The battlefield of a super GM Fischer Random tournament includes&#xA0;Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja,&#xA0;Levon Aronian,&#xA0;Fabiano Caruana,&#xA0;Leinier Dominguez,&#xA0;Hikaru Nakamura,&#xA0;Wesley So,&#xA0;Shakhriyar Mamedyarov, and&#xA0;Peter Svidler. Shakhriyar Mamedyarov went against Hikaru Nakamura in the first round of the event, and he got an interesting position on the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-asks-the-arbiter-if-he-can-castle-tweetoftheday/",
-         "pubDate" : "Wed, 14 Sep 2022 20:05:13 +0000",
-         "title" : "Shakhriyar Mamedyarov asks the arbiter if he can castle #TweetOftheDay"
-      },
-      {
-         "description" : "After taking part in his first-ever super-tournament 2022 Sinquefield Cup, 19-year-old Hans Niemann will be back in Saint Louis Chess Club in November playing the Saint Louis Chess Club Fall Chess Classic, confirmed Tony Rich, the executive director of the Saint Louis Chess Club. The event will take place from 1-11 November and will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-to-be-back-at-the-saint-louis-chess-club-for-the-2022-fall-chess-classic/",
-         "pubDate" : "Wed, 14 Sep 2022 18:09:48 +0000",
-         "title" : "Hans Niemann to be back at the Saint Louis Chess Club for the 2022 Fall Chess Classic"
       },
       {
          "description" : " The Champions Showdown 9LX takes place Wed 14th Sep to Fri 16th Sep 2022 in Saint Louis. The event is a 10 player Round Robin with: Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja, Hikaru Nakamura, Levon Aronian, Fabiano Caruana, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Peter Svidler and Wesley So. As usual I'm not setup to display the actual games because the viewer I use can't handle it. I will have the PGN.",
@@ -1480,14 +1504,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-2-niemann-catches-carlsen",
          "pubDate" : "Sun, 04 Sep 2022 07:49:04 +0000",
          "title" : "Sinquefield Cup 2: Niemann catches Carlsen"
-      },
-      {
-         "description" : "Hans Niemann joined Magnus Carlsen in the lead of the Sinquefield Cup by beating Shakhriyar Mamedyarov with the white pieces in Saturday's second round. The tournament underdog kicked off the event with two whites and is set to face Carlsen with black in round 3. Meanwhile, Ian Nepomniachtchi bounced back from his first-round loss against the world champion by beating the winner of the Saint Louis Rapid & Blitz tournament, Alireza Firouzja. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r2",
-         "pubDate" : "Sun, 04 Sep 2022 05:20:00 +0100",
-         "title" : "Sinquefield Cup: Niemann joins the lead, Nepo beats Firouzja"
       },
       {
          "description" : "In round two of the 2022 Sinquefield Cup, the games went in two directions: solid, sensible play for some, and complicated battles for others. The sole winner of round one, World Champion GM Magnus Carlsen, played a solid draw, allowing the Amer...",
