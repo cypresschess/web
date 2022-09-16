@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94253874.cms\" />India's Pranav Anand and AR Ilamparthi emerged champions in the Open under-16 and under-14 categories respectively in the World Youth Chess Championship here on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-players-pranav-anand-ilamparthi-win-titles/articleshow/94253874.cms",
+         "pubDate" : "Fri, 16 Sep 2022 16:20:07 +0000",
+         "title" : "Indian chess players Pranav Anand, Ilamparthi win titles"
+      },
+      {
          "description" : "Fritz has fascinated the chess world for thirty years. And the success story continues. In Vienna, the most popular chess program ever was once again able to underline its premier position: the newly developed neural engine with NNUE technology won the official Chess Software World Championship! With Power Fritz 18 you have the world champion program on your PC!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
