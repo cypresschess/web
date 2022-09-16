@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fritz has fascinated the chess world for thirty years. And the success story continues. In Vienna, the most popular chess program ever was once again able to underline its premier position: the newly developed neural engine with NNUE technology won the official Chess Software World Championship! With Power Fritz 18 you have the world champion program on your PC!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-power-fritz-18-the-chess-software-world-champion-2022",
+         "pubDate" : "Fri, 16 Sep 2022 15:30:00 +0100",
+         "title" : "NEW: Power Fritz 18 - The Chess Software World Champion 2022"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e89a3300-6440-4ded-8e0e-ae9d0e24a1ee/Niemann2.jpg\" data-image-dimensions=\"228x300\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63248649421e7523ae2e3e38\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e89a3300-6440-4ded-8e0e-ae9d0e24a1ee/Niemann2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of <a href=\"https://forum.killerchesstraining.com/t/paranoia-and-insanity-by-jacob-aagaard/856\">GM Jacob Aagaard</a> </figcapt",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/16/bonus-pod-gm-jacob-aagaard-joins-for-an-update-on-the-sinquefield-cup-controversy",
+         "pubDate" : "Fri, 16 Sep 2022 14:25:41 +0000",
+         "title" : "Bonus Pod- GM Jacob Aagaard joins for an update on the Sinquefield Cup Controversy"
+      },
+      {
+         "description" : "After 19-year-old&#xA0;Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;World Champion Magnus Carlsen withdrew from the 2022 tournament without detailed explanations. &#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day brings new theories on the case. Elon Musk tweeted on the case sharing a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stephen-colbert-jokes-about-the-latest-accusations-against-hans-niemann-in-his-late-night-talk-show/",
+         "pubDate" : "Fri, 16 Sep 2022 13:48:55 +0000",
+         "title" : "Stephen Colbert jokes about the latest accusations against Hans Niemann in his late night talk show"
+      },
+      {
+         "description" : " If you live in Canberra (or close enough to it) and are a junior player, then there are a number of events coming up. The 2022 ACT Junior Championship is being held between the 26th and 30th September. It is being run in different age groups, but the format is designed to allow younger players to play more than one event. (Fun fact: I played in the 1982 ACT Junior Championship, my first serious event) The following week is the Spring Bootcamp, which is a week of coaching and chess. On this case the events are Lightning, Rapid and Standard, and the schedule allows players to play in 1, 2 or all 3 events. You can register for the Championship <a href=\"https://www.trybooking.com/CCPDI\">here</a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/upcoming-junior-events.html",
+         "pubDate" : "Fri, 16 Sep 2022 13:37:00 +0000",
+         "title" : "Upcoming Junior Events"
+      },
+      {
          "description" : "Ian Nepomniachtchi could not keep up the pace he had shown on Wednesday, as he is now standing in third place at the Champions Showdown tournament. Nepo was replaced at the top of the standings by Alireza Firouzja and Shakhriyar Mamedyarov. Garry Kasparov has lost all his games so far in Saint Louis. Do not miss GM Karsten M&uuml;ller's endgame analysis. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-9lx-2022-d2",
          "pubDate" : "Fri, 16 Sep 2022 13:15:00 +0100",
          "title" : "Chess 9LX: Firouzja and Mamedyarov share the lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Next Friday, 23 September, teams meet in Lviv, the capital of Western Ukraine, and in Berlin to play a <a href=\"https://perlenvombodensee.de/2022/09/15/vor-dem-ukraine-benefiz-match-wir-kaempfen-wir-bekommen-viel-hilfe-wir-haben-erfolge/\">hybrid rapid match</a> in front of spectators and presence of arbiters, <a href=\"https://www.betterplace.org/de/fundraising-events/42762-chess-for-ukraine-wir-spielen-du-spendest\">raising funds for <strong>Unicef</strong></a> and testing the <strong>Millennium Supreme Tournament</strong> 55 electronic boards. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/lviv-vs-berlin/",
+         "pubDate" : "Fri, 16 Sep 2022 13:02:27 +0100",
+         "title" : "Lviv vs Berlin"
+      },
+      {
+         "description" : "FIDE President Arkady Dvorkovich appointed IM Sami Khader as the new Chairman of the FIDE Trainer's Commission. Only a few days ago, a famous grandmaster and FIDE Senior Trainer who coached Olympiad 2022 Champions, Ivan Sokolov announced he will no longer work at seminars or any actions with FIDE. Peter Heine Nielsen connects the dots []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-heine-nielsen-connects-sokolovs-announcement-to-no-longer-work-with-fide-with-khaders-appointment-in-the-fide-trg/",
+         "pubDate" : "Fri, 16 Sep 2022 12:01:55 +0000",
+         "title" : "Peter Heine Nielsen connects Sokolov's announcement to no longer work with FIDE with Khader's appointment in the FIDE TRG"
+      },
+      {
+         "description" : "The FIDE President has appointed IM&#xA0;Sami Khader&#xA0;as the new Chairman of the FIDE Trainers' Commission.&#xA0;Khader has been a Councilor for the Commission since 2016, and during this time he has been a valuable contributor, demonstrating valuable managing and organisation skills. His predecessor, Mikhail Kobalia, will remain involved&#xA0;with the Commission as Councilor, engaged with FIDE Chessable []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sami-khader-is-the-new-chairman-of-the-fide-trainers-commission/",
+         "pubDate" : "Fri, 16 Sep 2022 11:48:49 +0000",
+         "title" : "Sami Khader is the new Chairman of the FIDE Trainer's Commission"
+      },
+      {
+         "description" : "English chess master Leonard Barden, The Guardian's weekly chess columnist, asks for FIDE to take action in the Niemann Carlsen case after the controversy caused by Carlsen's withdrawal from the Sinquefield Cup 2022. Following Carlsen's withdrawal from the prestigious Saint Louis tournament and speculations that are spreading over the social medias, Barden writes: &#8220;It []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/leonard-barden-for-guardian-on-niemann-carlsen-case-it-is-time-for-fide-to-step-in/",
+         "pubDate" : "Fri, 16 Sep 2022 11:44:17 +0000",
+         "title" : "Leonard Barden for Guardian on Niemann - Carlsen case: It is time for FIDE to step in"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> <a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">added two commissions</a>: The <strong>Media and Communications Commission</strong> is chaired by <strong>Pavel Matocha</strong>, a journalist and organiser from Prague, while the <strong>Social Commission</strong> is chaired by <strong>Franck Droin</strong>, a Parisian health business consultant who started a similar commission in France. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/matocha-and-droin-appointed-by-ecu/",
+         "pubDate" : "Fri, 16 Sep 2022 12:14:18 +0100",
+         "title" : "Matocha and Droin appointed by ECU"
       },
       {
          "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
@@ -74,30 +146,6 @@ news_feed (
          "title" : "26th HIT Chess Open in Nova Gorica, Slovenia"
       },
       {
-         "description" : "The FIDE World Cadets Chess Championships 2022, organized by FIDE, the Georgian Chess Federation and the Georgian Chess Club &#x201C;64&#x201D;, start today in Batumi, Georgia. The event will be played from 16-28 September, in three age groups &#x2013; Under 8, 10, 12 and 2 sections &#x2013; open and girls. Read more: FIDE World Youth U14, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cadet-u8-u10-and-u12-chess-championships-start-in-batumi-georgia/",
-         "pubDate" : "Fri, 16 Sep 2022 08:48:06 +0000",
-         "title" : "FIDE World Cadet U8, U10 and U12 Chess Championships start in Batumi, Georgia"
-      },
-      {
-         "description" : "The Egyptian Women's National Chess Championship 2022 took place from 10-14 September at the 6th of October City Club. The event gathered 63 players who competed in 9 swiss rounds for the title of the National Champion. 12-year-old Salma Ahmed convincingly clinched the title as she scored unbeaten 7.5 points to be a full point []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/12-year-old-salma-ahmed-becomes-the-youngest-egyptian-womens-chess-champion-ever/",
-         "pubDate" : "Fri, 16 Sep 2022 08:04:51 +0000",
-         "title" : "12-year-old Salma Ahmed becomes the youngest Egyptian Women's Chess Champion ever"
-      },
-      {
-         "description" : "19-year-old Alireza Firouzja is having his own show in Saint Louis Chess Club. After winning Saint Louis Rapid &#38; Blitz, Firouzja clinched the title in the 2022 Sinquefield Cup and emerged as the Winner of the 2022 Grand Chess Tour. He now leads the Saint Louis 9LX Chess tournament tying for the top with Shakhriyar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alireza-firouzja-it-is-weird-for-me-to-analyze-with-other-players-before-the-game/",
-         "pubDate" : "Fri, 16 Sep 2022 07:38:40 +0000",
-         "title" : "Alireza Firouzja: It is weird for me to analyze with other players before the game"
-      },
-      {
          "description" : "In ChessBase Magazine #208, our new author, GM Jan Markos, started his video training series \"Practical Tips for the Tournament Player\" with an article on \"Time Management\". In the new issue, CBM #209, he reveals how you should play in must-win situations. You certainly know such situations too - what would you tend to do? Play a risky opening line? Seek sacrifices? Try to put your opponent under time pressure? Jan Markos' recommendations go in a completely different direction. You can watch an excerpt from his video here. Have a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +168,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/sep/16/chess-firouzja-sweeps-grand-tour-while-carlsen-v-niemann-saga-continues",
          "pubDate" : "Fri, 16 Sep 2022 07:00:08 +0000",
          "title" : "Chess: Firouzja sweeps Grand Tour while Carlsen v Niemann saga continues"
-      },
-      {
-         "description" : "The Azerbaijani grandmaster Shakhriyar Mamedyarov yesterday scored 3/3 at the Saint Louis 9LX Chess to join Alireza Firouzja on the top of the rankings. In the post-games interview, Mamedyarov said that he enjoys Fischer Random: &#8220;Normally in classical chess, I just try to play interesting chess and I try to get an interesting position from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-its-much-better-to-play-fischer-random-chess/",
-         "pubDate" : "Fri, 16 Sep 2022 06:54:32 +0000",
-         "title" : "Shakhriyar Mamedyarov: It's much better to play Fischer Random Chess"
       },
       {
          "description" : "",
@@ -586,28 +626,12 @@ news_feed (
          "title" : "CBM #209: \"The Analysis\""
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After winning the <strong>St Louis Blitz &amp; Rapid</strong>, <strong>Alireza Firouzja</strong> also <a href=\"https://grandchesstour.org\">claimed first place</a> in the classical control <strong>Sinquefield Cup</strong> after beating <strong>Ian Nepomniachtchi</strong> in the tie-break. The 19-year old also came first ahead of <strong>Maxime Vachier-Lagrave</strong> in the <strong>Grand Chess Tour</strong>, adding an extra $100,000 to his $40,000+$97,500 tournaments' prize money. The event was overshadowed by wildcard <strong>Magnus Carlsen</strong> walking out after a loss against last-minute replacement <strong>Hans Niemann</strong> who finished ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/firouzja-grabs-gct/",
-         "pubDate" : "Mon, 12 Sep 2022 13:37:46 +0100",
-         "title" : "Firouzja grabs GCT"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1979",
          "pubDate" : "Mon, 12 Sep 2022 10:45:37 +0000",
          "title" : "FIDE and WR Group announce the World Open Teams Championship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A new study <a href=\"https://qeconomics.org/ojs/forth/1404/1404-3.pdf\">\"Gender, Competition and Performance\"</a> by <strong>Peter Backus</strong> et al analysed competitive games between men and women and found that men become more competitive compared to when they face other men, eg delaying resignation in lost positions against women, whereas women tend to become less competitive and slightly underperform. This is in line with <a href=\"https://dobetter.esade.edu/en/men-women-competitive\">earlier findings</a> that women underperform against men in fields that are supposed to favour men. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/men-get-more-competitive-against/",
-         "pubDate" : "Mon, 12 Sep 2022 10:48:32 +0100",
-         "title" : "Men get more competitive against women"
       },
       {
          "description" : "53-year-old Ukrainian chess legend Vasyl Ivanchuk takes on 17-year-old Indian prodigy Praggnanandhaa when the Julius Baer Generation Cup, the 7th event on the $1.6 million Meltwater Champions Chess Tour, starts Sunday, September 18th. World Champion Magnus Carlsen, who faces one of his potential successors Arjun Erigaisi in Round 1, tops a field that spans the generations.",
@@ -1490,14 +1514,6 @@ news_feed (
          "title" : "Mumbai girl Anishka Biyani wins gold medal in Malaysian Chess Meet"
       },
       {
-         "description" : "There are some ideas which the meanest members of the 'silicon brotherhood' will flag up immediately but are way beyond our normal human compass. The move that inspired this column is one which is hard to imagine ever being found in a blitz game but might be within the range of a world-class player in a classical game if not in time trouble: Vasyl Ivanchuk, say. | Pictured: Jos&eacute; Ra&uacute;l Capablanca",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-177",
-         "pubDate" : "Sun, 04 Sep 2022 13:05:00 +0100",
-         "title" : "Murder in a vacuum"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html",
          "pubDate" : "Fri, 26 Aug 2022 15:18:00 +0000",
          "title" : "GM Svetozar Gligoric, Player/Journalist"
-      },
-      {
-         "description" : "<h1 style=\"text-align: left;\">2022 ACT Women's and Girls' Chess Championship - Sunday 11 September 2022</h1>7 rounds, 15m+ 5s per game. Rated by the Australian Chess Federation (Quickplay List)<br /><br />Schedule: Sunday 11th September - Check-in 9.30am Round 1 10am Round 2 10:45am Round 3 11:30am Round 4 12:15am<br />Lunch Break 1pm-1:30pm<br />Round 5 1:30pm Round 6 2:15 pm Round 7 3pm Prize Giving 3:45pm<br /><br /><b>Prizes - 1st $250 2nd $125 3rd $75</b> Trophies for 1st, 2nd, 3rd + Medals for U14, U12, and U10<br /><br />Max. two half-point byes available for Rounds 1-4.<br /><br />Entry fee $20 Adults, $10 Junior. WGM, WIM, WFM and WCM Free.<br /><br />+ <b>Novices event for unrated ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/2022-act-womens-and-girls-championship.html",
-         "pubDate" : "Fri, 26 Aug 2022 13:12:00 +0000",
-         "title" : "2022 ACT Women's and Girls Championship - 11 September 2022"
       }
    ]
 }
