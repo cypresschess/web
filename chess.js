@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-battle-sargissian-harikrishna",
+         "pubDate" : "Fri, 16 Sep 2022 11:15:00 +0100",
+         "title" : "An epic endgame battle"
+      },
+      {
+         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0;are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/72nd-russian-womens-chess-championship-superfinal-live/",
+         "pubDate" : "Fri, 16 Sep 2022 10:02:07 +0000",
+         "title" : "72nd Russian Women's Chess Championship Superfinal LIVE"
+      },
+      {
+         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0;are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/75th-russian-chess-championship-superfinals-live/",
+         "pubDate" : "Fri, 16 Sep 2022 09:58:51 +0000",
+         "title" : "75th Russian Chess Championship Superfinals LIVE"
+      },
+      {
+         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0;are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-marina-guseva-in-the-sole-lead-of-the-russian-womens-superfinals/",
+         "pubDate" : "Fri, 16 Sep 2022 09:54:14 +0000",
+         "title" : "IM Marina Guseva in the sole lead of the Russian Women's Superfinals"
+      },
+      {
+         "description" : "GM Alireza Firouzja continued his fine run of form in St. Louis in the 2022 Champions Showdown: Chess 9LX on Thursday with two key victories over GM Garry Kasparov and previous tournament leader GM Ian Nepomniachtchi. Firouzja&#39;s 2.5/3 score on day...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-champions-showdown-9lx-day-2",
+         "pubDate" : "Fri, 16 Sep 2022 02:48:00 -0700",
+         "title" : "Firouzja, Mamedyarov Storm To The Lead"
+      },
+      {
+         "description" : "The Superfinals of the 75th Russian Chess Championship and the 72nd Russian Women's Chess Championship are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chigaev-dubov-and-artemiev-leading-the-russian-superfinals-after-5-rounds/",
+         "pubDate" : "Fri, 16 Sep 2022 09:32:12 +0000",
+         "title" : "Chigaev, Dubov and Artemiev leading the Russian Superfinals after 5 rounds"
+      },
+      {
+         "description" : "The 26th edition of the HIT Open&#xA0;will take place from 16-22 September 2022 in Nova Gorica, Slovenia. The tournament will be played 2 sections: A (for players rated 1500+) and B (for players rated U1600), in 9 rounds, swiss system, with time control 90 minutes for the entire game, plus a 30-second increment starting from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/26th-hit-chess-open-live/",
+         "pubDate" : "Fri, 16 Sep 2022 09:09:51 +0000",
+         "title" : "26th HIT Chess Open LIVE"
+      },
+      {
+         "description" : "The 26th edition of the HIT Open will take place from 16-22 September 2022 in Nova Gorica, Slovenia. The tournament will be played 2 sections: A (for players rated 1500+) and B (for players rated U1600), in 9 rounds, swiss system, with time control 90 minutes for the entire game, plus a 30-second increment starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/26th-hit-chess-open-in-nova-gorica-slovenia/",
+         "pubDate" : "Fri, 16 Sep 2022 09:06:19 +0000",
+         "title" : "26th HIT Chess Open in Nova Gorica, Slovenia"
+      },
+      {
+         "description" : "The FIDE World Cadets Chess Championships 2022, organized by FIDE, the Georgian Chess Federation and the Georgian Chess Club &#x201C;64&#x201D;, start today in Batumi, Georgia. The event will be played from 16-28 September, in three age groups &#x2013; Under 8, 10, 12 and 2 sections &#x2013; open and girls. Read more: FIDE World Youth U14, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cadet-u8-u10-and-u12-chess-championships-start-in-batumi-georgia/",
+         "pubDate" : "Fri, 16 Sep 2022 08:48:06 +0000",
+         "title" : "FIDE World Cadet U8, U10 and U12 Chess Championships start in Batumi, Georgia"
+      },
+      {
          "description" : "The Egyptian Women's National Chess Championship 2022 took place from 10-14 September at the 6th of October City Club. The event gathered 63 players who competed in 9 swiss rounds for the title of the National Champion. 12-year-old Salma Ahmed convincingly clinched the title as she scored unbeaten 7.5 points to be a full point []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -48,30 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-its-much-better-to-play-fischer-random-chess/",
          "pubDate" : "Fri, 16 Sep 2022 06:54:32 +0000",
          "title" : "Shakhriyar Mamedyarov: It's much better to play Fischer Random Chess"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov scored perfect 3/3 during the second day of the Saint Louis 9XL Chess heading into the last day as the co-leader of the tournament. Mamedyarov confessed in the post-game interview that he enjoys 960 Chess (Fischer Random) more than classical chess, though he is not always sure how to castle thus he consults []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-promotes-knight-to-defeat-nepo-in-style-video/",
-         "pubDate" : "Fri, 16 Sep 2022 06:48:44 +0000",
-         "title" : "Shakhriyar Mamedyarov promotes Knight to defeat Nepo in style (VIDEO)"
-      },
-      {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event&#x2019;s line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-3-live/",
-         "pubDate" : "Fri, 16 Sep 2022 06:21:44 +0000",
-         "title" : "Chess 9LX Champions Showdown - Day 3 LIVE"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov surged ahead today in the Champions Showdown, winning all three of his games to finish tied for first with Alireza Firouzja, both on 4.5/6. Yesterday&#x2019;s leader Ian Nepomniachtchi slipped to third place with 4.0/6, while former World Champion Garry Kasparov was unfortunately once again shut out from scoring any points. Check out the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/firouzja-and-mamedyarov-tie-for-the-top-of-the-saint-louis-9lx-chess-day-2-recap/",
-         "pubDate" : "Fri, 16 Sep 2022 06:15:59 +0000",
-         "title" : "Firouzja and Mamedyarov tie for the top of the Saint Louis 9LX Chess - Day 2 recap"
       },
       {
          "description" : "",
@@ -194,14 +242,6 @@ news_feed (
          "title" : "Second Intercontinental Online Chess Championship for Prisoners: Registration deadline approaches"
       },
       {
-         "description" : "Legendary grandmaster and former World Chess Champion Garry Kasparov competes in the 2022 Champions Showdown Chess 9LX tournament in Saint Louis Chess Club. He suffered three losses during the Day 1 and bottoms the crosstable after three played rounds. After watching Day 1 games, Jamaican-American grandmaster and famous commentator Maurice Ashley tweeted that Kasparov would []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-with-so-many-elite-players-saint-louis-is-no-gangstas-paradise/",
-         "pubDate" : "Thu, 15 Sep 2022 16:02:21 +0000",
-         "title" : "Garry Kasparov: With so many elite players, Saint Louis is no gangsta's paradise!"
-      },
-      {
          "description" : "When you are solving an exercise in a book, or guessing a move in Solitaire Chess, and your move is wrong, the first thing you want to know is why it was wrong, and what the refutation was, but unless the author included your exact choice, you will be left scratching your head. A new feature in ChessBase solves this brilliantly and can become a powerful tool to your improvement.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,14 +266,6 @@ news_feed (
          "title" : "FIDE World Junior Championship: Deadline extended"
       },
       {
-         "description" : "After yesterday's bad start at the Champions Showdown 9LX tournament in the Saint Louis Chess Club, Hikaru Nakamura made a video recap of his three games. Hikaru lost to Shakhriyar Mamedyarov after an interesting situation when Shakh asked the arbiter if he can castle in the game, and in the third round suffered a loss []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-to-put-it-mildly-not-the-greatest-of-days-chess-9lx-day-1-recap/",
-         "pubDate" : "Thu, 15 Sep 2022 11:30:31 +0000",
-         "title" : "Hikaru Nakamura: To put it mildly, not the greatest of days - Chess 9LX Day 1 recap"
-      },
-      {
          "description" : "The first three rounds of the Champions Showdown tournament were played at the Saint Louis Chess Club on Wednesday. The event featuring the Chess960 variant saw Ian Nepomniachtchi winning all three of his games, while Garry Kasparov and Peter Svidler did not manage to score on the first day of action. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,28 +274,12 @@ news_feed (
          "title" : "Chess 9LX: Nepo's perfect start"
       },
       {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event&#x2019;s line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-2-live/",
-         "pubDate" : "Thu, 15 Sep 2022 09:33:03 +0000",
-         "title" : "Chess 9LX Champions Showdown - Day 2 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1982",
          "pubDate" : "Thu, 15 Sep 2022 06:18:34 +0000",
          "title" : "Champions Showdown Chess 9LX: Day 1 Recap"
-      },
-      {
-         "description" : "The 2022 Champions Showdown: Chess 9LX kicked off today with an elite 10-player rapid round-robin featuring Chess960 (Fischer Random), a rich variant where the starting arrangement of the pieces is shuffled on the back rank. After the first day of action, 2022 FIDE Candidates winner Ian Nepomniachtchi leads the field with a perfect 3/3 score, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepomniachtchi-leads-saint-louis-9lx-with-a-perfect-3-3-score/",
-         "pubDate" : "Thu, 15 Sep 2022 05:38:25 +0000",
-         "title" : "Nepomniachtchi leads Saint Louis 9LX with a perfect 3/3 score"
       },
       {
          "description" : "The 2022 Champions Showdown: Chess 9LX commenced at the Saint Louis Chess Club on Wednesday with three rounds of electrifying Chess960 (or Fischer Random) games, pitting the world&#39;s best chess players against each other on unfamiliar playing field...",
@@ -1482,14 +1498,6 @@ news_feed (
          "title" : "Murder in a vacuum"
       },
       {
-         "description" : "The ChessBase Magazine offers a window to the world of professional chess and it provides arsenal for the tournament player. The latest issue, CBM #209, is just out. Meanwhile here is a review of the recent issue, CBM #208. It offers games from two major events, Superbet Chess Classic, Bucharest 2022 and European Individual Championship. 2055 games (49 annotated), 11 opening surveys, 12 demo lectures and exercises for training. Annotators include Anish Giri, Matthias Bl&uuml;baum, Gabriel Sargissian, Yuriy Kuzubov and Karsten M&uuml;ller among others. The icing on the cake is a flashback on the 1997 FIDE World Championship Special with 323 games and a commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-208-maxime-shines-and-matthias-scores-review-by-nagesh-havanur",
-         "pubDate" : "Sun, 04 Sep 2022 13:00:00 +0100",
-         "title" : "CBM 208: Maxime shines and Matthias scores - Review by Nagesh Havanur"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1746,14 +1754,6 @@ news_feed (
          "title" : "European Women's Championship 2022: Monika Socko clinches title"
       },
       {
-         "description" : "GM Matthias Bluebaum overcame GM David Navara&#38;nbsp;in the Qualifier 2 final of the 2022 Fischer Random World Championship on Wednesday. Navara displayed a high understanding of the opening stages of Fischer Random, often gaining an advantage with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d3",
-         "pubDate" : "Wed, 31 Aug 2022 10:23:00 -0700",
-         "title" : "Opening Understanding vs. Counterstrike Ability: Bluebaum Defeats Navara"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/2022-act-womens-and-girls-championship.html",
          "pubDate" : "Fri, 26 Aug 2022 13:12:00 +0000",
          "title" : "2022 ACT Women's and Girls Championship - 11 September 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1940",
-         "pubDate" : "Fri, 26 Aug 2022 10:31:24 +0000",
-         "title" : "Arjun Erigaisi clinches Abu Dhabi Masters 2022"
       }
    ]
 }
