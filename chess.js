@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Egyptian Women's National Chess Championship 2022 took place from 10-14 September at the 6th of October City Club. The event gathered 63 players who competed in 9 swiss rounds for the title of the National Champion. 12-year-old Salma Ahmed convincingly clinched the title as she scored unbeaten 7.5 points to be a full point []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/12-year-old-salma-ahmed-becomes-the-youngest-egyptian-womens-chess-champion-ever/",
+         "pubDate" : "Fri, 16 Sep 2022 08:04:51 +0000",
+         "title" : "12-year-old Salma Ahmed becomes the youngest Egyptian Women's Chess Champion ever"
+      },
+      {
+         "description" : "19-year-old Alireza Firouzja is having his own show in Saint Louis Chess Club. After winning Saint Louis Rapid &#38; Blitz, Firouzja clinched the title in the 2022 Sinquefield Cup and emerged as the Winner of the 2022 Grand Chess Tour. He now leads the Saint Louis 9LX Chess tournament tying for the top with Shakhriyar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alireza-firouzja-it-is-weird-for-me-to-analyze-with-other-players-before-the-game/",
+         "pubDate" : "Fri, 16 Sep 2022 07:38:40 +0000",
+         "title" : "Alireza Firouzja: It is weird for me to analyze with other players before the game"
+      },
+      {
          "description" : "In ChessBase Magazine #208, our new author, GM Jan Markos, started his video training series \"Practical Tips for the Tournament Player\" with an article on \"Time Management\". In the new issue, CBM #209, he reveals how you should play in must-win situations. You certainly know such situations too - what would you tend to do? Play a risky opening line? Seek sacrifices? Try to put your opponent under time pressure? Jan Markos' recommendations go in a completely different direction. You can watch an excerpt from his video here. Have a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,22 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nepomniachtchi-leads-saint-louis-9lx-with-a-perfect-3-3-score/",
          "pubDate" : "Thu, 15 Sep 2022 05:38:25 +0000",
          "title" : "Nepomniachtchi leads Saint Louis 9LX with a perfect 3/3 score"
-      },
-      {
-         "description" : "Sinquefield Cup improved anti-cheating measures after&#xA0;Carlsen decided to withdraw. As a result, today the legendary Grandmaster Garry Kasparov was subjected to one of the strictest anti-cheating controls in his life before the 9LX tournament. The video below speaks for itself. Kasparov on Carlsen-Niemann case: Unless the chess world is to be dragged down into endless []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kasparov-undergoes-strict-anti-cheating-control-at-the-9lx-tournament/",
-         "pubDate" : "Thu, 15 Sep 2022 05:14:17 +0000",
-         "title" : "Kasparov undergoes strict anti-cheating control at the 9LX tournament"
-      },
-      {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations, but alluding to possible cheating case. Fabiano Caruana was one of the first to comment the Carlsen Niemann cheating allegations scandal with the famous quote Can&#x2019;t wait to hear []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-on-carlsens-withdrawal-i-do-not-think-niemann-cheated-in-this-tournament/",
-         "pubDate" : "Thu, 15 Sep 2022 04:49:35 +0000",
-         "title" : "Fabiano Caruana on Carlsen's withdrawal: I do not think Niemann cheated in this tournament"
       },
       {
          "description" : "The 2022 Champions Showdown: Chess 9LX commenced at the Saint Louis Chess Club on Wednesday with three rounds of electrifying Chess960 (or Fischer Random) games, pitting the world&#39;s best chess players against each other on unfamiliar playing field...",
