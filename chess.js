@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi could not keep up the pace he had shown on Wednesday, as he is now standing in third place at the Champions Showdown tournament. Nepo was replaced at the top of the standings by Alireza Firouzja and Shakhriyar Mamedyarov. Garry Kasparov has lost all his games so far in Saint Louis. Do not miss GM Karsten M&uuml;ller's endgame analysis. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d2",
+         "pubDate" : "Fri, 16 Sep 2022 13:15:00 +0100",
+         "title" : "Chess 9LX: Firouzja and Mamedyarov share the lead"
+      },
+      {
          "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,14 +194,6 @@ news_feed (
          "title" : "FIDE World Cadet Chess Championships kick off in Batumi, Georgia"
       },
       {
-         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
-         "pubDate" : "Thu, 15 Sep 2022 20:50:00 +0100",
-         "title" : "Chess 9LX: Rounds 4-6"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the middle three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vide",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -210,20 +210,20 @@ news_feed (
          "title" : "2022 Champions Showdown | Chess 9LX: Day 3 | lichess.org"
       },
       {
-         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at a razor-sharp encounter between Alireza Firouzja and Wesley So. A crucial game which shed some light on current top-level chess trends. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-533-firouzja-so",
-         "pubDate" : "Thu, 15 Sep 2022 19:00:00 +0100",
-         "title" : "Game of the Week #533: Firouzja vs. So"
-      },
-      {
          "description" : "Dutch IM and well-known trainer Robert Ris has recorded a two-volume FritzTrainer in which he presents a complete Black repertoire against the opening moves 1.d4,c4 and 1.Nf3. His repertoire is based on the Queen's Gambit Accepted after 1.d4 d5 2.c4. Free piece play is the idea. Philipp Hillebrand took an in-depth look at the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-complete-black-repertoire-against-1-d4-a-review",
          "pubDate" : "Thu, 15 Sep 2022 18:45:00 +0100",
          "title" : "Robert Ris' complete black repertoire against 1.d4 - A review"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at a razor-sharp encounter between Alireza Firouzja and Wesley So. A crucial game which shed some light on current top-level chess trends. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-533-firouzja-so",
+         "pubDate" : "Thu, 15 Sep 2022 18:30:00 +0100",
+         "title" : "Game of the Week #533: Firouzja vs. So"
       },
       {
          "description" : "Ian Nepomniachtchi has taken the sole lead in the Champions Showdown: Chess 9LX tournament in St Louis with a perfect 3/3 start. A rusty Garry Kasparov could not convert a promising position and remains without a point.",
