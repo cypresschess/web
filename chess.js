@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event&#x2019;s line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-3-live/",
+         "pubDate" : "Fri, 16 Sep 2022 06:21:44 +0000",
+         "title" : "Chess 9LX Champions Showdown - Day 3 LIVE"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov surged ahead today in the Champions Showdown, winning all three of his games to finish tied for first with Alireza Firouzja, both on 4.5/6. Yesterday&#x2019;s leader Ian Nepomniachtchi slipped to third place with 4.0/6, while former World Champion Garry Kasparov was unfortunately once again shut out from scoring any points. Check out the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/firouzja-and-mamedyarov-tie-for-the-top-of-the-saint-louis-9lx-chess-day-2-recap/",
+         "pubDate" : "Fri, 16 Sep 2022 06:15:59 +0000",
+         "title" : "Firouzja and Mamedyarov tie for the top of the Saint Louis 9LX Chess - Day 2 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1986",
+         "pubDate" : "Fri, 16 Sep 2022 05:56:50 +0000",
+         "title" : "Champions Showdown Chess 9LX: Day 2 Recap"
+      },
+      {
+         "description" : "All India Chess Federation congratulate Pranav Anand for completing all the requirements to become 76th Grandmaster of the country. We are proud of you!! &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-pranav-anand/",
+         "pubDate" : "Fri, 16 Sep 2022 05:36:18 +0000",
+         "title" : "Congratulations Pranav Anand!!"
+      },
+      {
+         "description" : "Day two of the Chess.com Global Chess Championship featured epic battles between today&#39;s up-and-comers and icons of chess history. Teenage GMs Nodirbek Abdusattorov and Raunak Sadhwani defeated their respective veteran opponents, GMs Boris Gelfand...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d2",
+         "pubDate" : "Thu, 15 Sep 2022 21:56:00 -0700",
+         "title" : "Legends Fall, Prodigies Prevail"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Alireza Firouzja -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-computer-over-exaggerating\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jAI2txUVcuM.jpg?itok=nCY4s3Kh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-computer-over-exaggerating",
+         "pubDate" : "Fri, 16 Sep 2022 03:36:35 +0000",
+         "title" : "Firouzja: The Computer is Over-Exaggerating"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Hikaru Nakamura -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-opening-decides-everything\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QiIZxBH7tGs.jpg?itok=faELXUrv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-opening-decides-everything",
+         "pubDate" : "Fri, 16 Sep 2022 03:36:35 +0000",
+         "title" : "Nakamura: The Opening Decides Everything"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Shakhriyar Mamedyarov -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-brilliant-day-officeim-ready-go-eat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Fa3FgX8vzc.jpg?itok=p1udWisU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -234,14 +290,6 @@ news_feed (
          "title" : "Shakhriyar Mamedyarov asks the arbiter if he can castle #TweetOftheDay"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today. Join GMs Alejandro Ramirez, Yasser Seirawan, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-vi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-day-1-lichessorg",
-         "pubDate" : "Wed, 14 Sep 2022 18:35:18 +0000",
-         "title" : "2022 Chess 9LX: Day 1 | lichess.org"
-      },
-      {
          "description" : "After taking part in his first-ever super-tournament 2022 Sinquefield Cup, 19-year-old Hans Niemann will be back in Saint Louis Chess Club in November playing the Saint Louis Chess Club Fall Chess Classic, confirmed Tony Rich, the executive director of the Saint Louis Chess Club. The event will take place from 1-11 November and will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -280,30 +328,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/kasparov-is-back-as-firouzja-picks-up-trophies",
          "pubDate" : "Wed, 14 Sep 2022 15:46:51 +0000",
          "title" : "Kasparov is back as Firouzja picks up trophies"
-      },
-      {
-         "description" : "The Champions showdown 2022 Chess 9LX Fischer random tournament will take place from 13-16 September in Saint Louis Chess Club. Top international chess superstars will battle it out over the board:&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield Cup winner, and Grand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-2022-pairings-schedule/",
-         "pubDate" : "Wed, 14 Sep 2022 15:23:00 +0000",
-         "title" : "Chess 9LX Champions Showdown 2022 - Pairings & Schedule"
-      },
-      {
-         "description" : "The top international chess superstars are set to battle it out over the board from September 13-16 in&#160;Champions Showdown: Chess 9LX&#x2122; (aka Chess 960 Fischer Random). The event's line-up features the world&#x2019;s top Grandmasters including legendary&#160;13th World Champion Garry Kasparov, World Number 3,&#160;Ian Nepomniachtchi, World Number 4 and&#160;2022 Saint Louis Rapid &#38; Blitz winner, Sinquefield []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-9lx-champions-showdown-day-1-live/",
-         "pubDate" : "Wed, 14 Sep 2022 15:23:00 +0000",
-         "title" : "Chess 9LX Champions Showdown - Day 1 LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\">SAINT LOUIS, Wednesday, September 14</span></span></span></span></span><span style=\"font-size:11pt; font-variant:normal; white-space:pre-wrap\"><span style=\"font-family:Arial\"><span style=\"font-weight:400\"><span style=\"font-style:normal\"><span style=\"text-decoration:none\"> - This month, 13 of the world's best chess grandmasters participated in the Saint Louis Rapid &amp; Blitz and Sinquefield C</span></span></span></span></span> </div><div class=\"field field-nam",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/19-year-old-alireza-firouzja-sweeps-last-two-legs-and-2022-grand-chess-tour",
-         "pubDate" : "Wed, 14 Sep 2022 14:47:42 +0000",
-         "title" : "19 Year Old Alireza Firouzja sweeps the last two legs and the 2022 Grand Chess Tour"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Sami Khader</strong>, an IM and coach from Jordan, <a href=\"https://www.fide.com/news/1981\">replaces</a> the Russian <strong>Mihail Kobalia</strong> as chairman of <strong>FIDE</strong>'s <strong>Trainers Commission</strong>. </div> ",
@@ -1712,14 +1736,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-qualifier-2-d3",
          "pubDate" : "Wed, 31 Aug 2022 10:23:00 -0700",
          "title" : "Opening Understanding vs. Counterstrike Ability: Bluebaum Defeats Navara"
-      },
-      {
-         "description" : "On a day where several players, including GM Hikaru Nakamura, were preoccupied with the last day of the 2022 Saint Louis Rapid &#38;amp; Blitz tournament, the August 30, 2022 editions of Titled Tuesday were won by GM Jose Martinez and GM-elect Denis L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-lazavik-win-titled-tuesday-august-30-2022",
-         "pubDate" : "Wed, 31 Aug 2022 08:41:46 -0700",
-         "title" : "Martinez Beats The Crowd, Young IM Wins Again"
       },
       {
          "description" : "",
