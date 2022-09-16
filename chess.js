@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://www.thearticle.com/double-standards-in-world-chess/",
          "pubDate" : "Sat, 27 Aug 2022 08:00:22 +0000",
          "title" : "Double standards in world chess"
-      },
-      {
-         "description" : "One point I've come to realize in this long <I>Fischer Friday</I> series -- last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022) -- is that the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com), was in fact two matches. The first match, which lasted from end-June 1972 through the third game, was all about whether Fischer would play. The first match had little to do with chess. <P>The second match, which started with the fourth game, was all about chess. Starting with the score at 2-1 in Spassky's favor, the players fought some of the most interesting games ever seen at the highest le",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html",
-         "pubDate" : "Fri, 26 Aug 2022 15:18:00 +0000",
-         "title" : "GM Svetozar Gligoric, Player/Journalist"
       }
    ]
 }
