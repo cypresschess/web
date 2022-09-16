@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Shakhriyar Mamedyarov -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-brilliant-day-officeim-ready-go-eat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Fa3FgX8vzc.jpg?itok=p1udWisU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mamedyarov-brilliant-day-officeim-ready-go-eat",
+         "pubDate" : "Fri, 16 Sep 2022 00:36:21 +0000",
+         "title" : "Mamedyarov: A Brilliant Day At the Office...I'm Ready to Go Eat"
+      },
+      {
          "description" : "The Collegiate Chess League&#39;s Fall 2022 Season begins on September 24, with college chess players from all over the world competing for their share of the $20,000 prize fund and school pride. If you&#39;re a college student, Chess.com invites you to s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sign-up-ccl-fall-season",
-         "pubDate" : "Thu, 15 Sep 2022 16:16:49 -0700",
+         "pubDate" : "Thu, 15 Sep 2022 16:16:00 -0700",
          "title" : "Sign Up For The 2022 Collegiate Chess League Fall Season"
       },
       {
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-letter-to-alekhine",
          "pubDate" : "Wed, 14 Sep 2022 07:00:00 +0100",
          "title" : "A letter to Alekhine"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Before Chess 9LX, it's time for team standard chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-chess-9lx-ultimate-moves",
-         "pubDate" : "Tue, 13 Sep 2022 21:35:00 +0000",
-         "title" : "2022 Chess 9LX: Ultimate Moves"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen The first game below is proof that Magnus follows his own advice. Let's see it: Magnus claimed the draw to the arbiter without playing 19. Ke2. Is this a correct <a href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD 5.Bf4, repetition Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\">Need sure points? QGD 5.Bf4, repetition Edition</a> appeared firs",
@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1940",
          "pubDate" : "Fri, 26 Aug 2022 10:31:24 +0000",
          "title" : "Arjun Erigaisi clinches Abu Dhabi Masters 2022"
-      },
-      {
-         "description" : " IM Kassa Korley preparing for the Round 9 game against GM Tiger Hillarp Persson.Photo by Dansk Skak Union. Kassa Korley has been fiercely competing in norm tournaments in an attempt to earn his 3rd and final Grandmaster norm. The New York City (Harlem) native created a stir while earning his second GM norm at the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/\">Kassa Korley seeking 3rd GM Norm</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/08/25/kassa-korley-seeking-3rd-gm-norm/",
-         "pubDate" : "Thu, 25 Aug 2022 23:32:57 +0000",
-         "title" : "Kassa Korley seeking 3rd GM Norm"
       }
    ]
 }
