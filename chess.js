@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
+         "pubDate" : "Fri, 16 Sep 2022 20:50:00 +0100",
+         "title" : "Chess 9LX: Rounds 7-9"
+      },
+      {
+         "description" : "Teenage sensation Alireza Firouzja has already won two events in St Louis. Having taken over the lead on Day 2 of the Champions Showdown: Chess 9LX along with Shakhriyar Mamedyarov, the 19-year-old could complete an incredible hat-trick of victories.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/firouzja-eyes-st-louis-hat-trick-as-nepo-is-stopped",
+         "pubDate" : "Fri, 16 Sep 2022 19:17:11 +0000",
+         "title" : "Firouzja eyes St Louis hat-trick as Nepo is stopped"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94253874.cms\" />India's Pranav Anand and AR Ilamparthi emerged champions in the Open under-16 and under-14 categories respectively in the World Youth Chess Championship here on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1506,14 +1522,6 @@ news_feed (
          "title" : "The Spanish Forger Liked Chess"
       },
       {
-         "description" : "The two \"heroines\" of ChessBase Magazine #209 were already decided before the Chennai Olympiad had even started. And then the Ukrainian sisters Anna and Mariya Muzychuk actually led their team to gold! One more reason to pay tribute to the two top players in CBM. In the new issue, a selection of 21 games with detailed commentary awaits you, as well as Mihail Marin's strategy article \"The Muzychuk sisters\" and an endgame Special by Karsten Mueller (both including videos). Krisztian Szabo has chosen the encounter Mariya Muzychuk - Alexander Bagrationi (2018) for his analysis - certainly also because of the \"great finish\". Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-209-special-anna-and-mariya-muzychuk",
-         "pubDate" : "Sun, 04 Sep 2022 16:00:00 +0100",
-         "title" : "CBM #209 \"Special\": Anna and Mariya Muzychuk"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93985590.cms\" />Six-year-old Anishka Biyani won gold medal in the Malaysian Age Group Rapid Chess Championship at Kuala Lumpur on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1954",
          "pubDate" : "Wed, 31 Aug 2022 10:36:42 +0000",
          "title" : "Asian Chess Federation and VADR Media create Checkmate Live"
-      },
-      {
-         "description" : "Alireza Firouzja was unstoppable and cruised to victory on the last day of the Saint Louis Rapid & Blitz, winning his first event on the Grand Chess Tour. The 19-year-old dominated and clinched victory with four rounds to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/unstoppable-alireza-firouzja-demolishes-field-to-win-in-st-louis",
-         "pubDate" : "Wed, 31 Aug 2022 07:28:42 +0000",
-         "title" : "Unstoppable Alireza Firouzja demolishes field to win in St Louis"
       },
       {
          "description" : "",
