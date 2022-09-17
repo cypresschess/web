@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana won the Champions Showdown Chess 9LX tournament in Saint Louis. Caruana headed into the last day lagging behind Firouzja, Mamedyarov and Nepo for a pull point, and confessed in the interview that he thought there are no chances to win the event. However, Fabi managed to catch Firouzja, scheduling playoffs which determined the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-it-was-a-total-mess-of-a-playoff-and-it-was-super-difficult/",
+         "pubDate" : "Sat, 17 Sep 2022 06:12:28 +0000",
+         "title" : "Fabiano Caruana: It was a total mess of a playoff and it was super difficult"
+      },
+      {
+         "description" : "Fabiano Caruana was crowned the winner of the 2022 Champions Showdown: Chess 9LX after defeating Alireza Firouzja in Armageddon during their rapid playoff match. The victory capped off an incredible day for Caruana, who won his final three games in regulation to finish with 6.5/9 and catch Firouzja to force a playoff tiebreaker. Read more: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-defeats-firouzja-in-armageddon-to-win-chess-9lx/",
+         "pubDate" : "Sat, 17 Sep 2022 05:50:13 +0000",
+         "title" : "Fabiano Caruana defeats Firouzja in Armageddon to win Chess 9LX"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1987",
+         "pubDate" : "Sat, 17 Sep 2022 05:06:41 +0000",
+         "title" : "Winners crowned at World Youth U14, U16, and U18 Championships"
+      },
+      {
+         "description" : "Round 1 (16.09.2022 ; 15:00) Playing Venue : Open Category : Hotel Euphoria, Batumi, Georgia Girls Category : Hotel Legend, Batumi, Georgia &#160; The Opening",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cadets-chess-championships-2022-batumi-georgia-round-1/",
+         "pubDate" : "Sat, 17 Sep 2022 05:03:00 +0000",
+         "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 1"
+      },
+      {
+         "description" : "All India Chess Federation congratulate Pranav Anand and Ilamparathi A R for becoming World Champions in Under-16 and Under-14 categories respectively. We are proud of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-pranav-anand-ilamparthi-a-r/",
+         "pubDate" : "Sat, 17 Sep 2022 04:23:19 +0000",
+         "title" : "Congratulations Pranav Anand & Ilamparthi A R"
+      },
+      {
          "description" : "On day three of the Chess.com Global Chess Championship, GM Peter Svidler triumphed vs. GM Alexei Shirov in their veteran face-off, scoring the only 3-0 sweep of the day. World championship challenger GM Ian Nepomniachtchi and nineteen-year-old GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -184,22 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chigaev-dubov-and-artemiev-leading-the-russian-superfinals-after-5-rounds/",
          "pubDate" : "Fri, 16 Sep 2022 09:32:12 +0000",
          "title" : "Chigaev, Dubov and Artemiev leading the Russian Superfinals after 5 rounds"
-      },
-      {
-         "description" : "The 26th edition of the HIT Open&#xA0;will take place from 16-22 September 2022 in Nova Gorica, Slovenia. The tournament will be played 2 sections: A (for players rated 1500+) and B (for players rated U1600), in 9 rounds, swiss system, with time control 90 minutes for the entire game, plus a 30-second increment starting from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/26th-hit-chess-open-live/",
-         "pubDate" : "Fri, 16 Sep 2022 09:09:51 +0000",
-         "title" : "26th HIT Chess Open LIVE"
-      },
-      {
-         "description" : "The 26th edition of the HIT Open will take place from 16-22 September 2022 in Nova Gorica, Slovenia. The tournament will be played 2 sections: A (for players rated 1500+) and B (for players rated U1600), in 9 rounds, swiss system, with time control 90 minutes for the entire game, plus a 30-second increment starting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/26th-hit-chess-open-in-nova-gorica-slovenia/",
-         "pubDate" : "Fri, 16 Sep 2022 09:06:19 +0000",
-         "title" : "26th HIT Chess Open in Nova Gorica, Slovenia"
       },
       {
          "description" : "In ChessBase Magazine #208, our new author, GM Jan Markos, started his video training series \"Practical Tips for the Tournament Player\" with an article on \"Time Management\". In the new issue, CBM #209, he reveals how you should play in must-win situations. You certainly know such situations too - what would you tend to do? Play a risky opening line? Seek sacrifices? Try to put your opponent under time pressure? Jan Markos' recommendations go in a completely different direction. You can watch an excerpt from his video here. Have a look!",
