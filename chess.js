@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The opening ceremony of the 2022-2023 Kazakhstan leg of the Women&#x2019;s Grand Prix was held this evening at the Astana International Financial Centre.&#160;Pending the President&#x2019;s discretion, the capital Nur-Sultan will very soon be renamed back to Astana&#160;after yesterday&#x2019;s Parliament session endorsed the draft law on the constitutional amendment. Side by side in the front row []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023-officially-opened-in-nur-sultan/",
+         "pubDate" : "Sat, 17 Sep 2022 19:21:11 +0000",
+         "title" : "FIDE Women's Grand Prix 2022-2023 opened in Nur-Sultan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-1",
+         "pubDate" : "Sat, 17 Sep 2022 18:38:30 +0000",
+         "title" : "2022 Champions Showdown | Chess 9LX: Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after scoring 2.5/3 on the first day of Chess 9LX. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-three-intense-successful-games-day-1-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UxjehVA6tgg.jpg?itok=hZBP-y-L\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-three-intense-successful-games-day-1-0",
+         "pubDate" : "Sat, 17 Sep 2022 18:38:30 +0000",
+         "title" : "Caruana: Three Intense, but Successful Games | Day 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1989",
+         "pubDate" : "Sat, 17 Sep 2022 18:37:05 +0000",
+         "title" : "Women's Grand Prix 2022-2023 officially opened"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> won the <strong>9LX</strong> aka Fischer Random <a href=\"https://chess24.com/en/read/news/caruana-stops-firouzja-from-winning-everything-in-st-louis\">tournament</a> at the <strong>St Louis Chess Club</strong> after a tie-break against <strong>Alireza Firouzja</strong>. One month before the Fischer Random World Championship in Reykjavik world champion <strong>Wesley So</strong> scored 50%. The inactive former world champion <strong>Garry Kasparov</strong> clinched only one draw in nine games. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/caruana-wins-fischer-tournament-in/",
+         "pubDate" : "Sat, 17 Sep 2022 19:09:42 +0100",
+         "title" : "Caruana wins Fischer tournament in St. Louis"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>International Society for Applied Chess</strong> celebrates its fifth anniversary with an <a href=\"https://www.chess-science.com/wp-content/uploads/2022/08/ISACchess-conference-2022.pdf\">online conference</a> on \"Bio-psycho social applications of the game chess\" held online on 15 October. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/social-applications-conference-on-15/",
+         "pubDate" : "Sat, 17 Sep 2022 18:28:29 +0100",
+         "title" : "Social applications conference on 15 October"
+      },
+      {
          "description" : "Some readers may have heard of this special tactics training regime, while others will wonder about the gimmicky sounding name. This is the name given to an intensive but very effective training method by the Finnish grandmaster Tikkanen, which just so happens to be a dream fit for the Replay Training feature in ChessBase 16. See how you can get this best of both worlds and watch the video to demonstrate!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,14 +306,6 @@ news_feed (
          "title" : "Lviv vs Berlin"
       },
       {
-         "description" : "FIDE President Arkady Dvorkovich appointed IM Sami Khader as the new Chairman of the FIDE Trainer's Commission. Only a few days ago, a famous grandmaster and FIDE Senior Trainer who coached Olympiad 2022 Champions, Ivan Sokolov announced he will no longer work at seminars or any actions with FIDE. Peter Heine Nielsen connects the dots []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-heine-nielsen-connects-sokolovs-announcement-to-no-longer-work-with-fide-with-khaders-appointment-in-the-fide-trg/",
-         "pubDate" : "Fri, 16 Sep 2022 12:01:55 +0000",
-         "title" : "Peter Heine Nielsen connects Sokolov's announcement to no longer work with FIDE with Khader's appointment in the FIDE TRG"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> <a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">added two commissions</a>: The <strong>Media and Communications Commission</strong> is chaired by <strong>Pavel Matocha</strong>, a journalist and organiser from Prague, while the <strong>Social Commission</strong> is chaired by <strong>Franck Droin</strong>, a Parisian health business consultant who started a similar commission in France. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -498,22 +538,6 @@ news_feed (
          "title" : "Kramnik and Sevian Sweep Inaugural Matches"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-how-i-prepare-chess-9lx-day-1",
-         "pubDate" : "Thu, 15 Sep 2022 00:35:32 +0000",
-         "title" : "Nepo: How I prepare for Chess 9LX | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-beating-kasparov-day-1",
-         "pubDate" : "Thu, 15 Sep 2022 00:35:32 +0000",
-         "title" : "Aronian: Beating Kasparov | Day 1"
-      },
-      {
          "description" : " The Champions Showdown 9LX takes place Wed 14th Sep to Fri 16th Sep 2022 in Saint Louis. The event is a 10 player Round Robin with: Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja, Hikaru Nakamura, Levon Aronian, Fabiano Caruana, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Peter Svidler and Wesley So. As usual I'm not setup to display the actual games because the viewer I use can't handle it. I will have the PGN.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -544,14 +568,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/kasparov-is-back-as-firouzja-picks-up-trophies",
          "pubDate" : "Wed, 14 Sep 2022 15:46:51 +0000",
          "title" : "Kasparov is back as Firouzja picks up trophies"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Sami Khader</strong>, an IM and coach from Jordan, <a href=\"https://www.fide.com/news/1981\">replaces</a> the Russian <strong>Mihail Kobalia</strong> as chairman of <strong>FIDE</strong>'s <strong>Trainers Commission</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/khader-heads-trainers-commission/",
-         "pubDate" : "Wed, 14 Sep 2022 15:42:59 +0100",
-         "title" : "Khader heads Trainers Commission"
       },
       {
          "description" : "In World Youth Championship being played at Romania, Indians had mixed results. Girls Under-18 S.Kanishka of India continued to maintain her winning streak and moved",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/chest.html",
          "pubDate" : "Tue, 13 Sep 2022 12:51:00 +0000",
          "title" : "Chest"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>WR Group</strong>, a special logistics company whose business is mainly in Russia and its energy sector, <a href=\"https://fide.com/news/1979\">has been announced as sponsor</a> of the first <strong>World Open Teams Championship</strong> to be held over three days in May or June 2023 in D&uuml;sseldorf, where they have their headquarter. The event with an \"expected\" prize fund of €250,000 will probably replace the <strong>Corporate World Championship</strong> that had been held online. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/logistics-in-russia-specialist/",
-         "pubDate" : "Tue, 13 Sep 2022 10:26:37 +0100",
-         "title" : "Logistics-in-Russia specialist sponsors FIDE event"
       },
       {
          "description" : "In rook endgames, activity is (almost) everything. In the diagrammed position it is White to move. How should he proceed?",
@@ -2024,22 +2032,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-schools-publication/",
          "pubDate" : "Sun, 28 Aug 2022 08:41:08 +0000",
          "title" : "Chess for Schools: Publication"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1944",
-         "pubDate" : "Sat, 27 Aug 2022 19:18:52 +0000",
-         "title" : "2022 2nd FIDE Council meeting: List of decisions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1943",
-         "pubDate" : "Sat, 27 Aug 2022 19:11:18 +0000",
-         "title" : "2022 FIDE General Assembly: List of decisions"
       }
    ]
 }
