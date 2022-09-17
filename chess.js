@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, Daniel King returns to the romantic King's Gambit, using examples from recent games. How to resist?! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-gambit-lunacy",
+         "pubDate" : "Sat, 17 Sep 2022 11:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: More King's Gambit lunacy"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum:&#xA0;Magnus Carlsen,&#xA0;Hans Niemann,&#xA0;Boris Gelfand, Vassily Ivanchuk, Christopher Yoo,&#xA0;Praggnanandhaa,&#xA0;Vincent Keymer,&#xA0;Arjun Erigaisi,&#xA0;Anish Giri,&#xA0;Levon Aronian,&#xA0;Liem Le,&#xA0;Radoslaw Wojtaszek,&#xA0;David Navara&#xA0;and&#xA0;Ivan Saric. The final name will be the winner of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-pairings-schedule/",
+         "pubDate" : "Sat, 17 Sep 2022 09:56:00 +0000",
+         "title" : "Julius Baer Generation Cup - Pairings & Schedule"
+      },
+      {
+         "description" : "Fabiano Caruana scored three wins in a row on Friday to catch Alireza Firouzja in the lead of the Champions Showdown event in Saint Louis. The American star then defeated his young opponent in play-offs, choosing white in the Armageddon decider and converting a better knight endgame into a win with little time on the clock. Shakhriyar Mamedyarov and Ian Nepomniachtchi shared third place after finishing a half point behind the winners. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d3",
+         "pubDate" : "Sat, 17 Sep 2022 10:30:00 +0100",
+         "title" : "Caruana beats Firouzja in Armageddon, wins Champions Showdown"
+      },
+      {
+         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;series&#xA0;will take place from 17-30 September 2022 in Nur-Sultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara Assaubayeva,&#xA0;Dinara Wagner&#xA0;and&#xA0;Vaishali R&#xA0;who&#xA0;replaced Koneru Humpy. FIDE Women&#x2019;s Grand Prix 2022-2023:&#xA0;All information&#xA0;/&#xA0;Final list of participants and players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022-starts-tomorrow/",
+         "pubDate" : "Sat, 17 Sep 2022 09:16:08 +0000",
+         "title" : "FIDE Women's Grand Prix Nur-Sultan 2022 starts tomorrow"
+      },
+      {
+         "description" : "The&#160;FIDE World Youth Chess Championships U14, U16, and U18&#160;took from September 05-17, 2022 in Mamaia, Romania, with the participation of 620 players from more than 70 countries. The 11-round Swiss System tournaments were organized by International Chess Federation and Romanian Chess Federation together with Chess Club Universul and Chess Club Juniorul Constanta, are being held []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-youth-u14-u16-and-u18-chess-champions-crowned-in-mamaia-romania/",
+         "pubDate" : "Sat, 17 Sep 2022 08:47:07 +0000",
+         "title" : "World Youth U14, U16 and U18 Chess Champions crowned in Mamaia, Romania"
+      },
+      {
+         "description" : "Comparing the records of the world chess champions has become a popular pursuit. Such investigations have been fuelled by the fiftieth anniversary of Bobby Fischer's conquest of the championship, which fell precisely at the end of last month. Debate has been intensified by the announcement from the reigning champion, Magnus Carlsen, that he will retire []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-secrets-from-lasker-to-carlsen/",
+         "pubDate" : "Sat, 17 Sep 2022 08:13:53 +0000",
+         "title" : "Chess secrets: from Lasker to Carlsen"
+      },
+      {
+         "description" : "Ian Nepomniachtchi had last three weeks very busy as he competed in Saint Louis Rapid &#38; Blitz, Sinquefield Cup 2022, and then Champions Showdown Chess 9LX tournament. He also participates in Chess.com Global Chess Championship, and yesterday played three games at the Chess 9LX and three games of the first knockout round of the CGC []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-sums-up-his-three-week-chess-marathon/",
+         "pubDate" : "Sat, 17 Sep 2022 08:12:17 +0000",
+         "title" : "Ian Nepomniachtchi sums up his three-week chess marathon"
+      },
+      {
          "description" : "In the diagram position, Black has active heavy pieces, and his bishops are dying to join in. Help them to do so - and win the game!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,14 +162,6 @@ news_feed (
          "title" : "Kasparov: Analyzes First Game Of Playoffs | Day 3"
       },
       {
-         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
-         "pubDate" : "Fri, 16 Sep 2022 20:50:00 +0100",
-         "title" : "Chess 9LX: Rounds 7-9"
-      },
-      {
          "description" : "Teenage sensation Alireza Firouzja has already won two events in St Louis. Having taken over the lead on Day 2 of the Champions Showdown: Chess 9LX along with Shakhriyar Mamedyarov, the 19-year-old could complete an incredible hat-trick of victories.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -162,14 +210,6 @@ news_feed (
          "title" : "Upcoming Junior Events"
       },
       {
-         "description" : "Ian Nepomniachtchi could not keep up the pace he had shown on Wednesday, as he is now standing in third place at the Champions Showdown tournament. Nepo was replaced at the top of the standings by Alireza Firouzja and Shakhriyar Mamedyarov. Garry Kasparov has lost all his games so far in Saint Louis. Do not miss GM Karsten M&uuml;ller's endgame analysis. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d2",
-         "pubDate" : "Fri, 16 Sep 2022 13:15:00 +0100",
-         "title" : "Chess 9LX: Firouzja and Mamedyarov share the lead"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Next Friday, 23 September, teams meet in Lviv, the capital of Western Ukraine, and in Berlin to play a <a href=\"https://perlenvombodensee.de/2022/09/15/vor-dem-ukraine-benefiz-match-wir-kaempfen-wir-bekommen-viel-hilfe-wir-haben-erfolge/\">hybrid rapid match</a> in front of spectators and presence of arbiters, <a href=\"https://www.betterplace.org/de/fundraising-events/42762-chess-for-ukraine-wir-spielen-du-spendest\">raising funds for <strong>Unicef</strong></a> and testing the <strong>Millennium Supreme Tournament</strong> 55 electronic boards. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -184,22 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/peter-heine-nielsen-connects-sokolovs-announcement-to-no-longer-work-with-fide-with-khaders-appointment-in-the-fide-trg/",
          "pubDate" : "Fri, 16 Sep 2022 12:01:55 +0000",
          "title" : "Peter Heine Nielsen connects Sokolov's announcement to no longer work with FIDE with Khader's appointment in the FIDE TRG"
-      },
-      {
-         "description" : "The FIDE President has appointed IM&#xA0;Sami Khader&#xA0;as the new Chairman of the FIDE Trainers' Commission.&#xA0;Khader has been a Councilor for the Commission since 2016, and during this time he has been a valuable contributor, demonstrating valuable managing and organisation skills. His predecessor, Mikhail Kobalia, will remain involved&#xA0;with the Commission as Councilor, engaged with FIDE Chessable []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sami-khader-is-the-new-chairman-of-the-fide-trainers-commission/",
-         "pubDate" : "Fri, 16 Sep 2022 11:48:49 +0000",
-         "title" : "Sami Khader is the new Chairman of the FIDE Trainer's Commission"
-      },
-      {
-         "description" : "English chess master Leonard Barden, The Guardian's weekly chess columnist, asks for FIDE to take action in the Niemann Carlsen case after the controversy caused by Carlsen's withdrawal from the Sinquefield Cup 2022. Following Carlsen's withdrawal from the prestigious Saint Louis tournament and speculations that are spreading over the social medias, Barden writes: &#8220;It []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/leonard-barden-for-guardian-on-niemann-carlsen-case-it-is-time-for-fide-to-step-in/",
-         "pubDate" : "Fri, 16 Sep 2022 11:44:17 +0000",
-         "title" : "Leonard Barden for Guardian on Niemann - Carlsen case: It is time for FIDE to step in"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> <a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">added two commissions</a>: The <strong>Media and Communications Commission</strong> is chaired by <strong>Pavel Matocha</strong>, a journalist and organiser from Prague, while the <strong>Social Commission</strong> is chaired by <strong>Franck Droin</strong>, a Parisian health business consultant who started a similar commission in France. </div> ",
@@ -218,20 +242,12 @@ news_feed (
          "title" : "An epic endgame battle"
       },
       {
-         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0;are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/72nd-russian-womens-chess-championship-superfinal-live/",
-         "pubDate" : "Fri, 16 Sep 2022 10:02:07 +0000",
-         "title" : "72nd Russian Women's Chess Championship Superfinal LIVE"
-      },
-      {
-         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0;are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/75th-russian-chess-championship-superfinals-live/",
-         "pubDate" : "Fri, 16 Sep 2022 09:58:51 +0000",
-         "title" : "75th Russian Chess Championship Superfinals LIVE"
+         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
+         "pubDate" : "Fri, 16 Sep 2022 11:00:00 +0100",
+         "title" : "Chess 9LX: Games and standings"
       },
       {
          "description" : "GM Alireza Firouzja continued his fine run of form in St. Louis in the 2022 Champions Showdown: Chess 9LX on Thursday with two key victories over GM Garry Kasparov and previous tournament leader GM Ian Nepomniachtchi. Firouzja&#39;s 2.5/3 score on day...",
@@ -352,6 +368,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-complete-black-repertoire-against-1-d4-a-review",
          "pubDate" : "Thu, 15 Sep 2022 18:45:00 +0100",
          "title" : "Robert Ris' complete black repertoire against 1.d4 - A review"
+      },
+      {
+         "description" : "Ian Nepomniachtchi could not keep up the pace he had shown on Wednesday, as he is now standing in third place at the Champions Showdown tournament. Nepo was replaced at the top of the standings by Alireza Firouzja and Shakhriyar Mamedyarov. Garry Kasparov has lost all his games so far in Saint Louis. Do not miss GM Karsten M&uuml;ller's endgame analysis. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d2",
+         "pubDate" : "Thu, 15 Sep 2022 18:35:00 +0100",
+         "title" : "Chess 9LX: Firouzja and Mamedyarov share the lead"
       },
       {
          "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at a razor-sharp encounter between Alireza Firouzja and Wesley So. A crucial game which shed some light on current top-level chess trends. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "Level 1 Arbiter Course September 2022 closing date"
       },
       {
-         "description" : "In his two-volume course \"Winning Chess Strategies\", French Grandmaster Romain Édouard shows how to play for a win, even when the position seems to be balanced and equal. Stefan Liebig reviewed the course for the German chess magazine \"Schachmagazin 64\" and liked what he saw.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/romain-edouard-s-winning-chess-strategies-a-review",
-         "pubDate" : "Mon, 05 Sep 2022 13:19:52 +0100",
-         "title" : "Romain Edouard's \"Winning Chess Strategies\" - a review"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94006369.cms\" />Grandmaster Aravindh Chithambaram was in the form of his life during the 22nd Dubai Open which concluded on Sunday. The 22-year-old, who won the tournament with 7.5 points from 9 rounds, spoke to TOI on the importance of the victory, taking inspiration from the young guns like R Praggnanandhaa, D Gukesh, Arjun Erigaisi and others and more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hans-niemann-beats-carlsen-to-cross-2700-at-the-sinquefield-cup/",
          "pubDate" : "Mon, 05 Sep 2022 11:44:59 +0000",
          "title" : "Hans Niemann beats Carlsen to cross 2700 at the Sinquefield Cup 2022"
-      },
-      {
-         "description" : "In a shocking development, Hans Niemann, the tournament underdog, defeated Magnus Carlsen with the black pieces to take the sole lead at the Sinquefield Cup. Niemann's victory prompted him to cross the 2700-rating barrier. Alireza Firouzja and Wesley So also won in round 3, with Firouzja set to face the in-form Niemann in Monday's fourth round. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r3",
-         "pubDate" : "Mon, 05 Sep 2022 10:15:00 +0100",
-         "title" : "Sinquefield Cup: Niemann shocks Carlsen, crosses 2700"
       },
       {
          "description" : "",
@@ -2032,22 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1942",
          "pubDate" : "Sat, 27 Aug 2022 12:43:15 +0000",
          "title" : "Women Chess Conference kicks off in Prague"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1941",
-         "pubDate" : "Sat, 27 Aug 2022 11:30:13 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz - Day 1 Recap"
-      },
-      {
-         "description" : "FIDÉ, the governing body of world chess, is now riven with contradictions. As I predicted, its Russian President, Arkady Dvorkovich, has been overwhelmingly re-elected at the vote in Chennai, which coincided with the relocated Chess Olympiad, or international team tournament. Originally scheduled for Moscow, everything was switched to Chennai at virtually the last minute, and by all accounts, it was []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/double-standards-in-world-chess/",
-         "pubDate" : "Sat, 27 Aug 2022 08:00:22 +0000",
-         "title" : "Double standards in world chess"
       }
    ]
 }
