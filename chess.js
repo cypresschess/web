@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the fourth episode of \"Olympiad Stories with Saravanan\", we focus on the 14th world champion, Vladimir Kramnik. Kramnik arrived at the world scene in 1992 at the Manila Olympiad, with a score of 8&frac12;/9. His performance rating was over 2900! This was the stage where he broke through, before eventually defeating Garry Kasparov in the World Championship. In this episode, you get to know not only about the 1992 Olympiad and Kramnik's games, but also about Vladimir's personality.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/saravanan-olympiad-stories-vladimir-kramnik",
+         "pubDate" : "Sat, 17 Sep 2022 23:50:00 +0100",
+         "title" : "The man who took down Garry Kasparov: Vladimir Kramnik"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Cristian Chirila after scoring 3/3 on the second day of Chess 9LX. 2022.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-brilliant-day-officeim-ready-go-eat-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Fa3FgX8vzc.jpg?itok=p1udWisU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mamedyarov-brilliant-day-officeim-ready-go-eat-day-2",
+         "pubDate" : "Sat, 17 Sep 2022 21:38:31 +0000",
+         "title" : "Mamedyarov: A Brilliant Day at the Office...I'm Ready to Go Eat | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after scoring 2.5/3 on the second day of Chess 9LX. 2022.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-computer-over-exaggerating-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jAI2txUVcuM.jpg?itok=nCY4s3Kh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-computer-over-exaggerating-day-2",
+         "pubDate" : "Sat, 17 Sep 2022 21:38:31 +0000",
+         "title" : "Firouzja: The Computer is Over-Exaggerating | Day 2"
+      },
+      {
+         "description" : " The cheating scandal that dominated the 2022 Sinquefield Cup saw GM Hans Niemann fall into controversial spotlight in his first supertournament. The incident was precipitated by Magnus Carlsen's withdrawal from the tournament and a tweet that included a reference to cheating. Many commenting on the matter did not understand the tweet and figured it only The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/\">After the Carlsen-Niemann firestorm, what now?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/",
+         "pubDate" : "Sat, 17 Sep 2022 21:05:15 +0000",
+         "title" : "After the Carlsen-Niemann firestorm, what now?"
+      },
+      {
          "description" : "The opening ceremony of the 2022-2023 Kazakhstan leg of the Women&#x2019;s Grand Prix was held this evening at the Astana International Financial Centre.&#160;Pending the President&#x2019;s discretion, the capital Nur-Sultan will very soon be renamed back to Astana&#160;after yesterday&#x2019;s Parliament session endorsed the draft law on the constitutional amendment. Side by side in the front row []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -424,22 +456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1985",
          "pubDate" : "Thu, 15 Sep 2022 20:23:57 +0000",
          "title" : "FIDE World Cadet Chess Championships kick off in Batumi, Georgia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the middle three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vide",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-2-lichessorg",
-         "pubDate" : "Thu, 15 Sep 2022 18:36:20 +0000",
-         "title" : "2022 Champions Showdown | Chess 9LX: Day 2 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the final three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-3-lichessorg",
-         "pubDate" : "Thu, 15 Sep 2022 18:36:20 +0000",
-         "title" : "2022 Champions Showdown | Chess 9LX: Day 3 | lichess.org"
       },
       {
          "description" : "Dutch IM and well-known trainer Robert Ris has recorded a two-volume FritzTrainer in which he presents a complete Black repertoire against the opening moves 1.d4,c4 and 1.Nf3. His repertoire is based on the Queen's Gambit Accepted after 1.d4 d5 2.c4. Free piece play is the idea. Philipp Hillebrand took an in-depth look at the course.",
@@ -1472,14 +1488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-4",
          "pubDate" : "Mon, 05 Sep 2022 20:30:00 -0700",
          "title" : "Wesley So Leads Sinquefield Cup After Carlsen Withdraws"
-      },
-      {
-         "description" : "Last Friday we showed you some unusual and interesting studies. You may have found them somewhat difficult to solve, on our replay diagrams, where in some cases an engine would defend against your attempts to win. Today we bring you the solutions, with full explanations, provided in video streams that anyone can follow.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/entertaining-studies-solutions",
-         "pubDate" : "Mon, 05 Sep 2022 22:55:37 +0100",
-         "title" : "Entertaining studies - solutions"
       },
       {
          "description" : "On Monday, GM Magnus Carlsen surprised the chess world by announcing that he was withdrawing from the 2022 Sinquefield Cup, tweeting his decision at the beginning of round four. I&#39;ve withdrawn from the tournament. I&#39;ve always enjoyed playing i...",
