@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On day three of the Chess.com Global Chess Championship, GM Peter Svidler triumphed vs. GM Alexei Shirov in their veteran face-off, scoring the only 3-0 sweep of the day. World championship challenger GM Ian Nepomniachtchi and nineteen-year-old GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d3",
+         "pubDate" : "Fri, 16 Sep 2022 18:00:05 -0700",
+         "title" : "Svidler Sweeps Shirov, Favorites Triumph"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-wins-it-all-day-3",
+         "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
+         "title" : "Fabi: Wins It All | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-titanic-struggle-playoff-day-3",
+         "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
+         "title" : "Firouzja: Titanic Struggle In Playoff | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-first-game-playoffs-day-3",
+         "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
+         "title" : "Kasparov: Analyzes First Game Of Playoffs | Day 3"
+      },
+      {
          "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,30 +408,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-beating-kasparov-day-1",
          "pubDate" : "Thu, 15 Sep 2022 00:35:32 +0000",
          "title" : "Aronian: Beating Kasparov | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-three-intense-successful-games-day-1",
-         "pubDate" : "Thu, 15 Sep 2022 00:35:32 +0000",
-         "title" : "Caruana: Three Intense But Successful Games | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-2",
-         "pubDate" : "Wed, 14 Sep 2022 21:35:31 +0000",
-         "title" : "2022 Champions Showdown | Chess 9LX: Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-1-lichessorg",
-         "pubDate" : "Wed, 14 Sep 2022 21:35:31 +0000",
-         "title" : "2022 Champions Showdown | Chess 9LX: Day 1 | lichess.org"
       },
       {
          "description" : " The Champions Showdown 9LX takes place Wed 14th Sep to Fri 16th Sep 2022 in Saint Louis. The event is a 10 player Round Robin with: Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja, Hikaru Nakamura, Levon Aronian, Fabiano Caruana, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Peter Svidler and Wesley So. As usual I'm not setup to display the actual games because the viewer I use can't handle it. I will have the PGN.",
@@ -1768,14 +1776,6 @@ news_feed (
          "link" : "https://www.europechess.org/monika-socko-claims-european-womens-chess-championship-2022/",
          "pubDate" : "Thu, 01 Sep 2022 07:51:00 +0000",
          "title" : "Monika Socko claims European Women's Chess Championship 2022"
-      },
-      {
-         "description" : "11-year-old FM Yagiz Erdogmus, in case you have not heard of him before, is a name you should expect to hear again. The young Turkish player is an IM-elect (meaning he has earned the title, only waiting for it to be approved) and number 13 nationa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/erdogmus-wins-2022-chesskid-youth-scc",
-         "pubDate" : "Wed, 31 Aug 2022 16:50:00 -0700",
-         "title" : "11-Year-Old Erdogmus Earns IM Title And Wins ChessKid Youth SCC"
       },
       {
          "description" : "",
