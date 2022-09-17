@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, Black has active heavy pieces, and his bishops are dying to join in. Help them to do so - and win the game!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bishops-unleashed",
+         "pubDate" : "Sat, 17 Sep 2022 09:00:00 +0100",
+         "title" : "Bishops unleashed"
+      },
+      {
+         "description" : "Fabiano Caruana defeated Alireza Firouzja in a thrilling playoff to clinch Champions Showdown Chess 9LX. Firouzja had an impressive performance in Saint Louis, winning three tournaments in a row: Saint Louis Rapid &#38; Blitz, Sinquefield Cup, thus emerging as the Grand Chess Tour 2022 Winner. Fabiano Caruana stopped the 19-year-old from taking the fourth title []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caruana-is-global-chess-9lx-champion-of-st-louis-tweetoftheday/",
+         "pubDate" : "Sat, 17 Sep 2022 07:15:31 +0000",
+         "title" : "Caruana is Global Chess 9LX Champion of St. Louis #TweetOftheDay"
+      },
+      {
+         "description" : "Legendary grandmaster and 13th World Chess Champion Garry Kasparov did not perform well in the Champions Showdown Chess 9LX tournament. Kasparov scored 0.5 points after nine rounds and spoke about the result in the final interview: &#8220;I think there were very high expectations after my performance last year here, but last year I did some []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/garry-kasparov-firouzja-might-be-a-real-contender-for-the-world-champion-title/",
+         "pubDate" : "Sat, 17 Sep 2022 06:51:02 +0000",
+         "title" : "Garry Kasparov: Firouzja might be a real contender for the World Champion title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1988",
+         "pubDate" : "Sat, 17 Sep 2022 06:31:48 +0000",
+         "title" : "Fabiano Caruana wins 2022 Champions Showdown: Chess 9LX"
+      },
+      {
          "description" : "Fabiano Caruana won the Champions Showdown Chess 9LX tournament in Saint Louis. Caruana headed into the last day lagging behind Firouzja, Mamedyarov and Nepo for a pull point, and confessed in the interview that he thought there are no chances to win the event. However, Fabi managed to catch Firouzja, scheduling playoffs which determined the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -46,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d3",
-         "pubDate" : "Fri, 16 Sep 2022 18:00:05 -0700",
+         "pubDate" : "Fri, 16 Sep 2022 18:00:00 -0700",
          "title" : "Svidler Sweeps Shirov, Favorites Triumph"
       },
       {
@@ -202,28 +234,12 @@ news_feed (
          "title" : "75th Russian Chess Championship Superfinals LIVE"
       },
       {
-         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0;are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-marina-guseva-in-the-sole-lead-of-the-russian-womens-superfinals/",
-         "pubDate" : "Fri, 16 Sep 2022 09:54:14 +0000",
-         "title" : "IM Marina Guseva in the sole lead of the Russian Women's Superfinals"
-      },
-      {
          "description" : "GM Alireza Firouzja continued his fine run of form in St. Louis in the 2022 Champions Showdown: Chess 9LX on Thursday with two key victories over GM Garry Kasparov and previous tournament leader GM Ian Nepomniachtchi. Firouzja&#39;s 2.5/3 score on day...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-champions-showdown-9lx-day-2",
          "pubDate" : "Fri, 16 Sep 2022 02:48:00 -0700",
          "title" : "Firouzja, Mamedyarov Storm To The Lead"
-      },
-      {
-         "description" : "The Superfinals of the 75th Russian Chess Championship and the 72nd Russian Women's Chess Championship are simultaneously taking place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chigaev-dubov-and-artemiev-leading-the-russian-superfinals-after-5-rounds/",
-         "pubDate" : "Fri, 16 Sep 2022 09:32:12 +0000",
-         "title" : "Chigaev, Dubov and Artemiev leading the Russian Superfinals after 5 rounds"
       },
       {
          "description" : "In ChessBase Magazine #208, our new author, GM Jan Markos, started his video training series \"Practical Tips for the Tournament Player\" with an article on \"Time Management\". In the new issue, CBM #209, he reveals how you should play in must-win situations. You certainly know such situations too - what would you tend to do? Play a risky opening line? Seek sacrifices? Try to put your opponent under time pressure? Jan Markos' recommendations go in a completely different direction. You can watch an excerpt from his video here. Have a look!",
@@ -1528,14 +1544,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-positional-question/",
          "pubDate" : "Sun, 04 Sep 2022 18:22:52 +0000",
          "title" : "A Positional Question"
-      },
-      {
-         "description" : "Finally, we can experience the very first Fritztrainer by GM Dorian Rogozenco. And what a Fritztrainer it is. More than 8 hours of material, featuring some of the greatest classical games ever played! Time to meet the Fritztrainer, and ask him what he is doing besides chess. As a little special, Dorian will give us a sneak peek of his Fritztrainer, and talk about the ideas, and inspirations of the classical games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-dorian-rogozenco",
-         "pubDate" : "Sun, 04 Sep 2022 17:00:00 +0100",
-         "title" : "Meet The Fritztrainer - Dorian Rogozenco"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93988206.cms\" />Grandmaster Aravindh Chithambaram clinched the 22nd Dubai Open on Sunday after drawing his final round against compatriot R Praggnanandhaa. Aravindh finished with 7.5 points from 9 rounds.",
