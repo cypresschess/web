@@ -178,6 +178,14 @@ news_feed (
          "title" : "Indian chess players Pranav Anand, Ilamparthi win titles"
       },
       {
+         "description" : "For the last few months I've been running a <I>Fischer Friday</I> series, focused on the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Title Match</A>(m-w.com). Now it's time to change the subject, if only for a few weeks. Twenty years to the day after Spassky resigned the 1972 match, a new match began:- <UL><LI><A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch; Sveti Stefan/Belgrade</A> (m-w.com) <LI><A HREF=\"https://www.mark-weeks.com/chess/92fs$$.htm\">1992 Fischer - Spassky Rematch; Highlights</A> (ditto) </UL> <P>Unfortunately, I don't have much in my photo archive about the 1992 match. The following composite image sh",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html",
+         "pubDate" : "Fri, 16 Sep 2022 15:49:00 +0000",
+         "title" : "FS 1972 + 20 = FS 1992"
+      },
+      {
          "description" : "Fritz has fascinated the chess world for thirty years. And the success story continues. In Vienna, the most popular chess program ever was once again able to underline its premier position: the newly developed neural engine with NNUE technology won the official Chess Software World Championship! With Power Fritz 18 you have the world champion program on your PC!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
