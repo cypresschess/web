@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some readers may have heard of this special tactics training regime, while others will wonder about the gimmicky sounding name. This is the name given to an intensive but very effective training method by the Finnish grandmaster Tikkanen, which just so happens to be a dream fit for the Replay Training feature in ChessBase 16. See how you can get this best of both worlds and watch the video to demonstrate!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-woodpecker-method-how-to-get-the-best-of-both-worlds",
+         "pubDate" : "Sat, 17 Sep 2022 16:00:00 +0100",
+         "title" : "The Woodpecker Method: How to get the best of both worlds"
+      },
+      {
+         "description" : "Fabiano Caruana scored three wins in a row on Friday to catch Alireza Firouzja in the lead of the Champions Showdown event in Saint Louis. The American star then defeated his young opponent in play-offs, choosing white in the Armageddon decider and converting a better knight endgame into a win with little time on the clock. Shakhriyar Mamedyarov and Ian Nepomniachtchi shared third place after finishing a half point behind the winners. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d3",
+         "pubDate" : "Sat, 17 Sep 2022 15:30:00 +0100",
+         "title" : "Caruana beats Firouzja in Armageddon, wins Champions Showdown"
+      },
+      {
+         "description" : "You might think that an event such as the Chess960 event in St Louis would somehow be devoid of endgame articles, but as the good doctor explained, \"for endgames Chess 960 does not make a difference\". Of course world class players will lead to world class endgame tussles such as Svidler's masterclass. Enjoy this latest entry and commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-in-st-louis",
+         "pubDate" : "Sat, 17 Sep 2022 15:00:00 +0100",
+         "title" : "Karsten M&uuml;ller: Topical Endgames in St Louis"
+      },
+      {
+         "description" : "Alireza Firouzja was on the verge of scoring a sensational triple victory in St Louis, but Fabiano Caruana stopped the teenage sensation and won a dramatic Armageddon game to take the title in the Champions Showdown: Chess 9LX.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/caruana-stops-firouzja-from-winning-everything-in-st-louis",
+         "pubDate" : "Sat, 17 Sep 2022 12:38:22 +0000",
+         "title" : "Caruana beats Firouzja in Armageddon to win Chess 9LX"
+      },
+      {
          "description" : "In his Power Play Show, Daniel King returns to the romantic King's Gambit, using examples from recent games. How to resist?! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-pairings-schedule/",
          "pubDate" : "Sat, 17 Sep 2022 09:56:00 +0000",
          "title" : "Julius Baer Generation Cup - Pairings & Schedule"
-      },
-      {
-         "description" : "Fabiano Caruana scored three wins in a row on Friday to catch Alireza Firouzja in the lead of the Champions Showdown event in Saint Louis. The American star then defeated his young opponent in play-offs, choosing white in the Armageddon decider and converting a better knight endgame into a win with little time on the clock. Shakhriyar Mamedyarov and Ian Nepomniachtchi shared third place after finishing a half point behind the winners. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d3",
-         "pubDate" : "Sat, 17 Sep 2022 10:30:00 +0100",
-         "title" : "Caruana beats Firouzja in Armageddon, wins Champions Showdown"
       },
       {
          "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;series&#xA0;will take place from 17-30 September 2022 in Nur-Sultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara Assaubayeva,&#xA0;Dinara Wagner&#xA0;and&#xA0;Vaishali R&#xA0;who&#xA0;replaced Koneru Humpy. FIDE Women&#x2019;s Grand Prix 2022-2023:&#xA0;All information&#xA0;/&#xA0;Final list of participants and players []",
@@ -160,6 +184,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-first-game-playoffs-day-3",
          "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
          "title" : "Kasparov: Analyzes First Game Of Playoffs | Day 3"
+      },
+      {
+         "description" : "GM Fabiano Caruana soared from behind on the final day of the 2022 Champions Showdown: Chess 9LX to equal GM Alireza Firouzja&#39;s impressive 6.5/9, before beating him in a playoff that required an armageddon game to determine the winner.&#38;nbsp; Fir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-champions-showdown-chess9lx-day-3",
+         "pubDate" : "Fri, 16 Sep 2022 13:27:00 -0700",
+         "title" : "Caruana Wins Armaggedon Playoff Thriller"
       },
       {
          "description" : "Teenage sensation Alireza Firouzja has already won two events in St Louis. Having taken over the lead on Day 2 of the Champions Showdown: Chess 9LX along with Shakhriyar Mamedyarov, the 19-year-old could complete an incredible hat-trick of victories.",
@@ -1458,14 +1490,6 @@ news_feed (
          "title" : "Magnus Carlsen Walks Out Of the Sinquefield Cup"
       },
       {
-         "description" : "In the Endgame Magic Show #210 Arne K&auml;hler and Karsten M&uuml;ller look at endgame highlights from the St. Louis Rapid & Blitz tournament, which Alireza Firouzja won with four rounds to spare. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-210-endgame-highlights-from-the-st-louis-rapid-blitz-tournament-ftx-cryto-cup-in-miami",
-         "pubDate" : "Mon, 05 Sep 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #210: Endgame highlights from the St. Louis Rapid & Blitz Tournament FTX Cryto Cup in Miami"
-      },
-      {
          "description" : "Click here https://www.englishchess.org.uk/uk-open-blitz-2022-results-and-qualifiers/ for the results and qualifiers as at 4th September",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1480,14 +1504,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/chess324-is-thing.html",
          "pubDate" : "Mon, 05 Sep 2022 15:07:00 +0000",
          "title" : "Chess324 Is a Thing"
-      },
-      {
-         "description" : "The August issue of BCM is dedicated to the centenary of the great London 1922 tournament which saw the greatest players in the world take part, including Jose Raul Capablanca who appeared in public for the first time since winning the World Title. With century-old comments about the tournament and photos, and with contemporary reviews of the event and the opening theory, the August issue of BCM includes everything you need to know about the great London 1922 event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/t-r-dawson-impressions-and-gossip",
-         "pubDate" : "Mon, 05 Sep 2022 16:00:00 +0100",
-         "title" : "T.R.Dawson: Impressions and Gossip"
       },
       {
          "description" : "Entries for this course https://www.englishchess.org.uk/ecf-arbiter-course-registration/ &#8212; will close at 5.00pm tomorrow September 6th. Please enter now if you plan to.",
@@ -1762,14 +1778,6 @@ news_feed (
          "title" : "Magnus Carlsen is a wildcard for the Sinquefield Cup that starts today"
       },
       {
-         "description" : "Magnus Carlsen gets a wildcard for the Sinquefield Cup that starts in Saint Louis on Friday and, just as in his last Grand Chess Tour event in Croatia, he plays his World Championship challenger Ian Nepomniachtchi in Round 1. The other stand-out pairing is Firouzja-Caruana, with Alireza looking to use his victory in the St. Louis Rapid & Blitz as a stepping stone to winning the Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nepo-firouzja-caruana-as-sinquefield-cup-begins",
-         "pubDate" : "Fri, 02 Sep 2022 06:08:57 +0000",
-         "title" : "Carlsen-Nepo & Firouzja-Caruana as Sinquefield Cup begins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html",
          "pubDate" : "Thu, 01 Sep 2022 15:37:00 +0000",
          "title" : "September 1972 & 1997 'On the Cover'"
-      },
-      {
-         "description" : "GM Monika Socko won the 22nd European Women&#39;s Chess Championship, held August 20-31, 2022 in Prague. The 44-year-old Polish grandmaster was the only player to score 8.5 out of 11 rounds in a field of 123 players. Socko, the seventh seed, finishe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/monika-socko-wins-2022-european-women-chess-championship",
-         "pubDate" : "Thu, 01 Sep 2022 05:27:00 -0700",
-         "title" : "Monika Socko Wins European Women's Chess Championship"
       },
       {
          "description" : " <p class=\"lead\">Alireza Firouzja dominated the St. Louis Rapid & Blitz tournament, winning his first ever Grand Chess Tour event with four rounds to spare (!) and surpassing 2900 blitz rating points, only 6 points away from Hikaru Nakamura. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Alireza-Firouzja-chess-grand-chess-tour.jpeg\" width=\"2250\" height=\"1475\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / Grand Chess Tour</div> </div> Alireza Firouzja came like a storm at the St. Louis Rapid & Blitz tournament. The teenage sensation lost only one of his 18 games, and was undefeated in the blitz to hit the third best overall score in the Grand Ches",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1943",
          "pubDate" : "Sat, 27 Aug 2022 19:11:18 +0000",
          "title" : "2022 FIDE General Assembly: List of decisions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1942",
-         "pubDate" : "Sat, 27 Aug 2022 12:43:15 +0000",
-         "title" : "Women Chess Conference kicks off in Prague"
       }
    ]
 }
