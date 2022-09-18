@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Before Chess 9LX, it's time for team standard chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-ultimate-moves",
+         "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
+         "title" : "2022 Champions Showdown | Chess 9LX: Ultimate Moves"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his armageddon playoff win over Firouzja to finish Chess 9LX. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-chess-9lx-champion-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jPeEcQKzv8M.jpg?itok=ctirfG4J\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-chess-9lx-champion-day-3",
+         "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
+         "title" : "Fabi: Chess 9LX Champion! | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Garry Kasparov talks to Cristian Chirila after scoring 0.5/9 to finish Chess 9LX, and stays to analyze Firouzja vs. Caruana in the first rapid playoff game. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-analyzes-first-playoff-game-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/23HSQfCiPYo.jpg?itok=2bE3aOjX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-first-playoff-game-day-3",
+         "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
+         "title" : "Kasparov Analyzes First Playoff Game | Day 3"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;will headline the field and meet again with 19-year-old&#160;Hans Niemann. The field includes also the six-time World Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-live/",
+         "pubDate" : "Sun, 18 Sep 2022 06:15:00 +0000",
+         "title" : "Julius Baer Generation Cup LIVE"
+      },
+      {
+         "description" : "The 2022 FISU World University Chess Championship&#xA0;was played from 12-17 September at the University of Antwerp Hof van Liere, Belgium. The event was played in Open and Women&#x2019;s sections separately, with participation of around 70 players from 15 countries. The participants competed in classical and blitz tournament, and the best teams were announced combining results []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fisu-world-university-chess-champions-crowned-in-antwerp/",
+         "pubDate" : "Sun, 18 Sep 2022 06:00:00 +0000",
+         "title" : "FISU World University Chess Champions crowned in Antwerp"
+      },
+      {
          "description" : "Day four of the Chess.com Global Chess Championship&#38;nbsp;featured electrifying matchups, remarkable upset victories, and inspiring tales of vengeance.&#38;nbsp;GM Benjamin Bok knocked out GM Alexander Grischuk, one of the overall tournament favorites....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -226,14 +266,6 @@ news_feed (
          "title" : "Fabiano Caruana: It was a total mess of a playoff and it was super difficult"
       },
       {
-         "description" : "Fabiano Caruana was crowned the winner of the 2022 Champions Showdown: Chess 9LX after defeating Alireza Firouzja in Armageddon during their rapid playoff match. The victory capped off an incredible day for Caruana, who won his final three games in regulation to finish with 6.5/9 and catch Firouzja to force a playoff tiebreaker. Read more: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-defeats-firouzja-in-armageddon-to-win-chess-9lx/",
-         "pubDate" : "Sat, 17 Sep 2022 05:50:13 +0000",
-         "title" : "Fabiano Caruana defeats Firouzja in Armageddon to win Chess 9LX"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -272,22 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabi-wins-it-all-day-3",
          "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
          "title" : "Fabi: Wins It All | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-titanic-struggle-playoff-day-3",
-         "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
-         "title" : "Firouzja: Titanic Struggle In Playoff | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-first-game-playoffs-day-3",
-         "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
-         "title" : "Kasparov: Analyzes First Game Of Playoffs | Day 3"
       },
       {
          "description" : "GM Fabiano Caruana soared from behind on the final day of the 2022 Champions Showdown: Chess 9LX to equal GM Alireza Firouzja&#39;s impressive 6.5/9, before beating him in a playoff that required an armageddon game to determine the winner.&#38;nbsp; Fir...",
@@ -336,14 +352,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/16/bonus-pod-gm-jacob-aagaard-joins-for-an-update-on-the-sinquefield-cup-controversy",
          "pubDate" : "Fri, 16 Sep 2022 14:25:41 +0000",
          "title" : "Bonus Pod- GM Jacob Aagaard joins for an update on the Sinquefield Cup Controversy"
-      },
-      {
-         "description" : "After 19-year-old&#xA0;Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;World Champion Magnus Carlsen withdrew from the 2022 tournament without detailed explanations. &#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media, and each day brings new theories on the case. Elon Musk tweeted on the case sharing a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stephen-colbert-jokes-about-the-latest-accusations-against-hans-niemann-in-his-late-night-talk-show/",
-         "pubDate" : "Fri, 16 Sep 2022 13:48:55 +0000",
-         "title" : "Stephen Colbert jokes about the latest accusations against Hans Niemann in his late night talk show"
       },
       {
          "description" : " If you live in Canberra (or close enough to it) and are a junior player, then there are a number of events coming up. The 2022 ACT Junior Championship is being held between the 26th and 30th September. It is being run in different age groups, but the format is designed to allow younger players to play more than one event. (Fun fact: I played in the 1982 ACT Junior Championship, my first serious event) The following week is the Spring Bootcamp, which is a week of coaching and chess. On this case the events are Lightning, Rapid and Standard, and the schedule allows players to play in 1, 2 or all 3 events. You can register for the Championship <a href=\"https://www.trybooking.com/CCPDI\">here</a",
@@ -440,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d2",
          "pubDate" : "Thu, 15 Sep 2022 21:56:00 -0700",
          "title" : "Legends Fall, Prodigies Prevail"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Alireza Firouzja -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-computer-over-exaggerating\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jAI2txUVcuM.jpg?itok=nCY4s3Kh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-computer-over-exaggerating",
-         "pubDate" : "Fri, 16 Sep 2022 03:36:35 +0000",
-         "title" : "Firouzja: The Computer is Over-Exaggerating"
       },
       {
          "description" : "The Collegiate Chess League&#39;s Fall 2022 Season begins on September 24, with college chess players from all over the world competing for their share of the $20,000 prize fund and school pride. If you&#39;re a college student, Chess.com invites you to s...",
