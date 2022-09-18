@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1990",
+         "pubDate" : "Sun, 18 Sep 2022 18:40:58 +0000",
+         "title" : "FIDE WGP Astana: Goryachkina and Paehtz lead the dance"
+      },
+      {
          "description" : "The first round of the first leg of the 2022-2023 Women's Grand Prix kicked off this afternoon in Astana. Undoubtedly, a very special day in the history of the ninth largest country in the world, since the name change of the capital &#x2013; Astana for Nur-Sultan was legally confirmed. Definitely, a fitting moment for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -42,6 +50,22 @@ news_feed (
          "title" : "Julius Baer Generation Cup 2022 - Day 1 live with David Howell, Jovanka Houska, Kaja Snare & Simon Williams"
       },
       {
+         "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#xA0;kicked off today in Kazakhstan. The first round finished with two decisive games with&#xA0;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#xA0;/&#xA0;Pairings &#38; Timetable GM Zhansaya Abdumalik met in the first round with her compatriot IM Bibisara Assaubayeva. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhansaya-abdumalik-i-didnt-know-what-to-do-after-i-won-the-pawn/",
+         "pubDate" : "Sun, 18 Sep 2022 15:20:00 +0000",
+         "title" : "Zhansaya Abdumalik: I didn't know what to do after I won the pawn"
+      },
+      {
+         "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#xA0;kicked off today in Kazakhstan. The first round finished with two decisive games with&#xA0;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#xA0;/&#xA0;Pairings &#38; Timetable Seed number one, and winner of the previous Women&#x2019;s Grand Prix Aleksandra Goryachkina drew against []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-i-think-we-surprised-each-other/",
+         "pubDate" : "Sun, 18 Sep 2022 15:19:00 +0000",
+         "title" : "Aleksandra Goryachkina: I think we surprised each other"
+      },
+      {
          "description" : "FIDE Women's Grand Prix Astana 2022 kicked off today in Kazakhstan. The first round finished with two decisive games with Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#160;/&#160;Pairings &#38; Timetable IM Vaishali R, who replaced Koneru Humpy for the first FIDE Women's Grand []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "Women's Grand Prix Astana: Live"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 90th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why playing the Benko Gambit might be a good choice for club players. | Photo: Pascal Simon",
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 91st instalment of his ChessBase show \"Understanding before Moving\", Herman discuss the structures from the 1.e4 e5 openings. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-91",
@@ -114,28 +138,12 @@ news_feed (
          "title" : "Shusha Chess 2022 (Women's section) - LIVE"
       },
       {
-         "description" : "The &#8220;Shusha Chess 2022&#8221; international tournament takes place from 21-25 September 2022 in Shusha, Azerbaijan. The event is played in two categories Open and Women with the total prize fund of 80.000$, and each tournament features 10 invited players. The Open event gathers 10 world-known grandmasters: World No 10&#xA0;Shakhriyar Mamedyarov, World No 15&#xA0;Teimour Radjabov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shusha-chess-2022-mens-section-live/",
-         "pubDate" : "Sun, 18 Sep 2022 11:03:25 +0000",
-         "title" : "Shusha Chess 2022 (Men's section) - LIVE"
-      },
-      {
          "description" : " I have a question for you. Here are some positions from a tournament in which 30 games were played. How strong do you think the players were? In position 1 White played 29. Qf3??, losing at once to Nd3, winning the exchange as both Nxc1 and Ne5 are threatened. In position 2 40. Rb1 or <a href=\"https://chessimprover.com/wrong-said-fred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Said Fred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-said-fred/\">Wrong Said Fred</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/wrong-said-fred/",
          "pubDate" : "Sun, 18 Sep 2022 10:00:53 +0000",
          "title" : "Wrong Said Fred"
-      },
-      {
-         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;takes place from 17-30 September 2022 in Astana, Kazakhstan, despite the event opened yesterday in Nur-Sultan. The city was renamed yesterday by decree of President Qasym-Jomart Toqayev and the FIDE Women's Grand Prix Nur-Sultan 2022 becomes FIDE Women's Grand Prix Astana 2022! FIDE Women&#x2019;s Grand Prix []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023-opened-in-nur-sultan-and-started-in-astana/",
-         "pubDate" : "Sun, 18 Sep 2022 09:39:03 +0000",
-         "title" : "FIDE Women's Grand Prix 2022-2023 opened in Nur-Sultan and started in Astana"
       },
       {
          "description" : " The Julius Baer Generation Cup takes place on chess24 18th to 25th September 2022. Play starts at 17:00 BST each day. The event is part of the Meltwater Champions Chess Tour. The field has a deliberate mix of generations. Players: Magnus Carlsen, Jan-Krzysztof Duda, Quang Liem Le, R Praggnanandhaa, Levon Aronian, Arjun Erigaisi, Anish Giri, David Navara, Vincent Keymer, Radoslaw Wojtaszek, Vasyl Ivanchuk, Ivan Saric, Boris Gelfand, Hans Moke Niemann, Baskaran Adhiban andChristopher Woojin Yoo. There will obviously be a lot of attention on the day 2 round 6 game between Carlsen and Niemann. ",
