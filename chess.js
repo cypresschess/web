@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen burst out of the blocks to take a 1pt lead on the opening day of the&#xA0;Julius Baer Generation Cup, the star-studded seventh leg of the $1.6 million&#xA0;Meltwater Champions Chess Tour. The World Champion racked up an unbeaten 10/12 pts with wins over Arjun Erigaisi, Adhiban Baskaran and Liem Quang Le with only&#xA0;Dutch No.1 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-in-the-sole-lead-ahead-of-pragg-ivanchuk-niemann-and-erigaisi-julius-baer-generation-cup-day-1-recap/",
+         "pubDate" : "Sun, 18 Sep 2022 21:08:50 +0000",
+         "title" : "Carlsen in the sole lead ahead of Pragg, Ivanchuk, Niemann, and Erigaisi - Julius Baer Generation Cup Day 1 recap"
+      },
+      {
+         "description" : "Magnus Carlsen burst out of the blocks to take a 1pt lead on the opening day of the Julius Baer Generation Cup, the star-studded seventh leg of the $1.6 million Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-grabs-sole-lead-in-julius-baer-generation-cup",
+         "pubDate" : "Sun, 18 Sep 2022 21:04:52 +0000",
+         "title" : "Carlsen grabs sole lead in Julius Baer Generation Cup"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;kicked off today with the Preliminary stage featuring 16 players&#xA0;spanning the age spectrum. After intense fights and lots of exciting games, the first day of the event finished with Magnus Carlsen taking the sole lead with 10 points, while Praggnanandhaa, Vassily Ivanchuk, Hans Niemann and Arjun Erigaisi follow with 9 points. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-funniest-reactions-of-players-during-the-julius-baer-generation-cup-day-1-tweetoftheday/",
+         "pubDate" : "Sun, 18 Sep 2022 20:43:11 +0000",
+         "title" : "The funniest reactions of players during the Julius Baer Generation Cup Day 1 #TweetOftheDay"
+      },
+      {
+         "description" : "Julius Baer Generation Cup kicked off today with the Preliminary stage featuring 16 players&#xA0;spanning the age spectrum. The first day of the event finished with Magnus Carlsen taking the sole lead with 10 points, while Praggnanandhaa, Vassily Ivanchuk, Hans Niemann and Arjun Erigaisi follow with 9 points. Julius Baer Generation Cup Pairings &#38; Schedule / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vassily-ivanchuk-i-am-waiting-for-the-opportunity-to-actively-come-back-to-chess/",
+         "pubDate" : "Sun, 18 Sep 2022 20:25:07 +0000",
+         "title" : "Vassily Ivanchuk: I am waiting for the opportunity to actively come back to chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,28 +82,28 @@ news_feed (
          "title" : "Julius Baer Generation Cup 2022 - Day 1 live with David Howell, Jovanka Houska, Kaja Snare & Simon Williams"
       },
       {
+         "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#160;kicked off today in Kazakhstan. The first round finished with two decisive games with&#160;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#160;/&#160;Pairings &#38; Timetable Alexandra Kosteniuk and Alina Kashlinskaya played the longest game of the first round. Kashlinskaya had []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-i-am-almost-certain-i-had-a-losing-position/",
+         "pubDate" : "Sun, 18 Sep 2022 15:32:00 +0000",
+         "title" : "Alexandra Kosteniuk: I am almost certain I had a losing position"
+      },
+      {
+         "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#160;kicked off today in Kazakhstan. The first round finished with two decisive games with&#160;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#160;/&#160;Pairings &#38; Timetable Elisabeth Paehtz defeated her compatriot Dinara Wagner in the first round of the event and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elisabeth-paehtz-it-is-not-the-victory-i-can-be-happy-about/",
+         "pubDate" : "Sun, 18 Sep 2022 15:23:00 +0000",
+         "title" : "Elisabeth Paehtz: It is not the victory I can be happy about"
+      },
+      {
          "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#xA0;kicked off today in Kazakhstan. The first round finished with two decisive games with&#xA0;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#xA0;/&#xA0;Pairings &#38; Timetable GM Zhansaya Abdumalik met in the first round with her compatriot IM Bibisara Assaubayeva. The []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/zhansaya-abdumalik-i-didnt-know-what-to-do-after-i-won-the-pawn/",
          "pubDate" : "Sun, 18 Sep 2022 15:20:00 +0000",
          "title" : "Zhansaya Abdumalik: I didn't know what to do after I won the pawn"
-      },
-      {
-         "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#xA0;kicked off today in Kazakhstan. The first round finished with two decisive games with&#xA0;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#xA0;/&#xA0;Pairings &#38; Timetable Seed number one, and winner of the previous Women&#x2019;s Grand Prix Aleksandra Goryachkina drew against []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-i-think-we-surprised-each-other/",
-         "pubDate" : "Sun, 18 Sep 2022 15:19:00 +0000",
-         "title" : "Aleksandra Goryachkina: I think we surprised each other"
-      },
-      {
-         "description" : "FIDE Women's Grand Prix Astana 2022 kicked off today in Kazakhstan. The first round finished with two decisive games with Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#160;/&#160;Pairings &#38; Timetable IM Vaishali R, who replaced Koneru Humpy for the first FIDE Women's Grand []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vaishali-i-was-very-excited-about-my-first-grand-prix-tournament/",
-         "pubDate" : "Sun, 18 Sep 2022 15:18:00 +0000",
-         "title" : "Vaishali: I was very excited about my first Grand Prix tournament"
       },
       {
          "description" : "European Chess Union opens an additional call of interest for the two (2) new ECU Commissions. ECU Media &#38; Communication Commission (Journalists, media &#38; social media experts, streamers). ECU Social Commission (individuals with experience and activities in social projects, specialists in sports for people with disabilities). National Federations members or interested applicants shall submit the online form&#160;https://forms.gle/QVSY8KT7dUk9gxFp9 till&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-call-of-interest-for-media-and-social-commissions/\">Read More &#187;</a></span>",
@@ -112,30 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-178",
          "pubDate" : "Sun, 18 Sep 2022 14:00:00 +0100",
          "title" : "First catch your rabbit!"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum:&#160;Magnus Carlsen, &#160;Hans Niemann,&#160;Boris Gelfand,&#160;Vassily Ivanchuk,&#160;Christopher Yoo, &#160;Praggnanandhaa,&#160;&#160;Vincent Keymer,&#160;Arjun Erigaisi,&#160;Anish Giri,&#160;Levon Aronian,&#160;Liem Le,&#160;Radoslaw Wojtaszek,&#160;David Navara,&#160;Ivan Saric&#160;and&#160;Adhiban Baskaran. The first day of the Preliminary []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-vs-magnus-carlsen-julius-baer-generation-cup-r2-live/",
-         "pubDate" : "Sun, 18 Sep 2022 12:57:21 +0000",
-         "title" : "Anish Giri vs Magnus Carlsen, Julius Baer Generation Cup R2 LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum: Magnus Carlsen, &#xA0;Hans Niemann,&#xA0;Boris Gelfand,&#xA0;Vassily Ivanchuk,&#xA0;Christopher Yoo, &#xA0;Praggnanandhaa,&#xA0; Vincent Keymer,&#xA0;Arjun Erigaisi,&#xA0;Anish Giri,&#xA0;Levon Aronian,&#xA0;Liem Le,&#xA0;Radoslaw Wojtaszek,&#xA0;David Navara, Ivan Saric and Adhiban Baskaran. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/boris-gelfand-vs-hans-niemann-julius-baer-generation-cup-r1-live/",
-         "pubDate" : "Sun, 18 Sep 2022 12:43:17 +0000",
-         "title" : "Boris Gelfand vs Hans Niemann, Julius Baer Generation Cup R1 LIVE"
-      },
-      {
-         "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#xA0;takes place from 21-25 September 2022 in Shusha, Azerbaijan. The event is played in two categories &#x2013; Open and Women with the total prize fund of 80.000$, and each tournament features 10 invited players. The women&#x2019;s competition features the 2022 European Women&#x2019;s Chess Champion medalists&#xA0;Gunay Mammadzada&#xA0; and&#xA0;Ulviyya Fataliyeva,&#xA0;Gulnar Mammadova,&#xA0;Khanim Balajayeva,&#xA0;Govhar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shusha-chess-2022-womens-section-live/",
-         "pubDate" : "Sun, 18 Sep 2022 11:05:58 +0000",
-         "title" : "Shusha Chess 2022 (Women's section) - LIVE"
       },
       {
          "description" : " I have a question for you. Here are some positions from a tournament in which 30 games were played. How strong do you think the players were? In position 1 White played 29. Qf3??, losing at once to Nd3, winning the exchange as both Nxc1 and Ne5 are threatened. In position 2 40. Rb1 or <a href=\"https://chessimprover.com/wrong-said-fred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Said Fred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-said-fred/\">Wrong Said Fred</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1762,14 +1770,6 @@ news_feed (
          "title" : "Machine-like Efficiency By Carlsen To Beat Nepomniachtchi"
       },
       {
-         "description" : "Magnus Carlsen has now won 5 of his last 7 classical games against Ian Nepomniachtchi as he eased to victory against his World Championship challenger in Round 1 of the Sinquefield Cup. All the other games were drawn, with Fabiano Caruana and Levon Aronian given scares by 19-year-olds Alireza Firouzja and Hans Niemann.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-1-carlsen-crushes-nepo",
-         "pubDate" : "Sat, 03 Sep 2022 06:35:33 +0000",
-         "title" : "Sinquefield Cup 1: Carlsen crushes Nepo"
-      },
-      {
          "description" : "GM Kateryna Lagno defeated defending champion, GM Hou Yifan, in the final of the FIDE Chess.com 2022 Women&#39;s Speed Chess Championship on Friday. The determination and attacking styles of these two grandmasters made this match a riveting duel of mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1947",
          "pubDate" : "Mon, 29 Aug 2022 09:44:57 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 3 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1946",
-         "pubDate" : "Sun, 28 Aug 2022 20:23:25 +0000",
-         "title" : "Federations entitled to nominate a player for the FIDE World Cup and Women's World Cup"
       }
    ]
 }
