@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first round of the first leg of the 2022-2023 Women's Grand Prix kicked off this afternoon in Astana. Undoubtedly, a very special day in the history of the ninth largest country in the world, since the name change of the capital &#x2013; Astana for Nur-Sultan was legally confirmed. Definitely, a fitting moment for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/goryachkina-and-paehtz-take-early-lead-in-the-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Sun, 18 Sep 2022 17:57:26 +0000",
+         "title" : "Goryachkina and Paehtz take early lead in the FIDE Women's Grand Prix Astana 2022"
+      },
+      {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations but alluding to a possible cheating case. GM Alejandro Ramirez was one of the commentators of the Sinquefield Cup 2022 and now shared his insights on Carlsen's withdrawal from the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alejandro-ramirez-shares-his-insights-on-carlsens-withdrawal-i-dont-think-hans-cheated/",
+         "pubDate" : "Sun, 18 Sep 2022 16:58:05 +0000",
+         "title" : "Alejandro Ramirez shares his insights on Carlsen's withdrawal: I don't think Hans cheated"
+      },
+      {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Sun, 18 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup: Live"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;will headline the field and meet again with 19-year-old&#xA0;Hans Niemann. The field includes also the six-time World Championship candidate&#xA0;Boris []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-2022-day-1-live-with-tania-sachdev-peter-leko-and-alejandro-ramirez/",
+         "pubDate" : "Sun, 18 Sep 2022 16:36:27 +0000",
+         "title" : "Julius Baer Generation Cup 2022 - Day 1 live with Tania Sachdev, Peter Leko and Alejandro Ramirez"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;will headline the field and meet again with 19-year-old&#160;Hans Niemann. The field includes also the six-time World Championship candidate&#160;Boris []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-2022-day-1-live-video-coverage/",
+         "pubDate" : "Sun, 18 Sep 2022 16:05:28 +0000",
+         "title" : "Julius Baer Generation Cup 2022 - Day 1 live with David Howell, Jovanka Houska, Kaja Snare & Simon Williams"
+      },
+      {
+         "description" : "FIDE Women's Grand Prix Astana 2022 kicked off today in Kazakhstan. The first round finished with two decisive games with Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#160;/&#160;Pairings &#38; Timetable IM Vaishali R, who replaced Koneru Humpy for the first FIDE Women's Grand []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vaishali-i-was-very-excited-about-my-first-grand-prix-tournament/",
+         "pubDate" : "Sun, 18 Sep 2022 15:18:00 +0000",
+         "title" : "Vaishali: I was very excited about my first Grand Prix tournament"
+      },
+      {
          "description" : "European Chess Union opens an additional call of interest for the two (2) new ECU Commissions. ECU Media &#38; Communication Commission (Journalists, media &#38; social media experts, streamers). ECU Social Commission (individuals with experience and activities in social projects, specialists in sports for people with disabilities). National Federations members or interested applicants shall submit the online form&#160;https://forms.gle/QVSY8KT7dUk9gxFp9 till&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-call-of-interest-for-media-and-social-commissions/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -90,22 +138,6 @@ news_feed (
          "title" : "FIDE Women's Grand Prix 2022-2023 opened in Nur-Sultan and started in Astana"
       },
       {
-         "description" : "The FIDE Women&#x2019;s Grand Prix series 2022/2023&#xA0;opened in Astana, Kazakhstan with the first event of the series which is played place from 17-30 September 2022. Read more: FIDE Women&#x2019;s Grand Prix 2022-2023 opened in Nur-Sultan A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-day-1-live-video-coverage/",
-         "pubDate" : "Sun, 18 Sep 2022 09:24:18 +0000",
-         "title" : "FIDE Women's Grand Prix Astana 2022 - Day 1 live video coverage"
-      },
-      {
-         "description" : "The international chess tournament &#x201C;Shusha Chess 2022&#x201D;, dedicated to the 190th&#xA0;anniversary of prominent poet and philanthropist Khurshidbanu Natavan, will be held in Shusha, Azerbaijan from 21-25 September. The event is organized by the Ministry of Youth and Sport of the Azerbaijan Republic and the Azerbaijan Chess Federation, and features the total prize fund of 88.000$. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shusha-chess-2022-all-information/",
-         "pubDate" : "Sun, 18 Sep 2022 08:54:49 +0000",
-         "title" : "Shusha Chess 2022 - All information"
-      },
-      {
          "description" : " The Julius Baer Generation Cup takes place on chess24 18th to 25th September 2022. Play starts at 17:00 BST each day. The event is part of the Meltwater Champions Chess Tour. The field has a deliberate mix of generations. Players: Magnus Carlsen, Jan-Krzysztof Duda, Quang Liem Le, R Praggnanandhaa, Levon Aronian, Arjun Erigaisi, Anish Giri, David Navara, Vincent Keymer, Radoslaw Wojtaszek, Vasyl Ivanchuk, Ivan Saric, Boris Gelfand, Hans Moke Niemann, Baskaran Adhiban andChristopher Woojin Yoo. There will obviously be a lot of attention on the day 2 round 6 game between Carlsen and Niemann. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -160,30 +192,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/where-are-the-ukrainian-kids/",
          "pubDate" : "Sun, 18 Sep 2022 07:35:26 +0100",
          "title" : "Where are the Ukrainian kids?"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;will headline the field and meet again with 19-year-old&#xA0;Hans Niemann. The field includes also the six-time World Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-live/",
-         "pubDate" : "Sun, 18 Sep 2022 06:15:00 +0000",
-         "title" : "Julius Baer Generation Cup LIVE"
-      },
-      {
-         "description" : "The African Individual Chess Championships 2022 will take place from 18-27 September in Lagos, Nigeria. The event will be played in Open and Women's sections separately, with 110 participants from 27 African countries. Both tournaments will be played in 9 rounds, swiss system, with time control: 90 minutes for 40 moves + 30 minutes for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/african-individual-chess-championships-2022-information-list-of-participants/",
-         "pubDate" : "Sun, 18 Sep 2022 06:02:00 +0000",
-         "title" : "African Individual Chess Championships 2022 - Information & List of participants"
-      },
-      {
-         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;takes place from 17-30 September 2022 in Astana, Kazakhstan. A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara Assaubayeva,&#xA0;Dinara Wagner&#xA0;and&#xA0;Vaishali R&#xA0;who&#xA0;replaced Koneru Humpy. FIDE Women&#x2019;s Grand Prix 2022-2023: All information&#xA0;/&#xA0;Final list of participants and players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-live/",
-         "pubDate" : "Sun, 18 Sep 2022 06:01:00 +0000",
-         "title" : "FIDE Women's Grand Prix Astana 2022 LIVE"
       },
       {
          "description" : "Day four of the Chess.com Global Chess Championship&#38;nbsp;featured electrifying matchups, remarkable upset victories, and inspiring tales of vengeance.&#38;nbsp;GM Benjamin Bok knocked out GM Alexander Grischuk, one of the overall tournament favorites....",
@@ -1506,14 +1514,6 @@ news_feed (
          "title" : "This is big"
       },
       {
-         "description" : "20-year old Andrey Esipenko was top seed in the first tournament of this year's Julius Baer Challenge and he lived up to his role: With two draws and 13 wins, he finished clear first with 41 from 45 possible points (winning a game in the Julius B&auml;r Challenge yielded 3 points). Ten points behind Raunak Sadhwani from India finished second with 31/45. | Images: Julius B&auml;r Challenge",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-challenge-andrey-esipenko-wins-with-41-45",
-         "pubDate" : "Tue, 06 Sep 2022 13:43:28 +0100",
-         "title" : "Julius B&auml;r Challenge: Andrey Esipenko wins with 41/45"
-      },
-      {
          "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen withdrew from the Sinquefield Cup 2022 after his loss to Hans Niemann in Round 3. Multiple tweets, streams, comments, and security checks later, the accusation of Niemann cheating is pretty obvious! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PIulWkTHuu0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Let's start from the beginning (shout out to <a href=\"https://www.reddit.com/r/chess/comments/x6xdk0/the_whole_hans_niemannmagnus_carlsen_withdrawal/\">u/BKtheInfamous on reddit</a> who created a dope saga) <p class=\"lead\">1. Magnus Carlsen <a href=\"https://worldchess.com/news/all/hans-niemann-",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1946",
          "pubDate" : "Sun, 28 Aug 2022 20:23:25 +0000",
          "title" : "Federations entitled to nominate a player for the FIDE World Cup and Women's World Cup"
-      },
-      {
-         "description" : "There's no question about it: World Championship chess needs more cartoons. That's this month's theme in the ongoing series on <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). The closest thing I could find to a cartoon in the series was <A HREF=\"https://chessforallages.blogspot.com/2017/03/chess-strategy-woodcut.html\">Chess Strategy Woodcut</A>(March 2017), and that was a serious drawing, not satire. <P>A recent <I>Fischer Friday</I> post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/bags-of-loot.html\">Bags of Loot</A>(August 2022), featured an excellent example of how poor was Fischer's public image just be",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/was-fischer-avaricious.html",
-         "pubDate" : "Sun, 28 Aug 2022 15:37:00 +0000",
-         "title" : "Was Fischer Avaricious?"
       }
    ]
 }
