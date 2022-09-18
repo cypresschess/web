@@ -26,12 +26,28 @@ news_feed (
          "title" : "Kasparov Analyzes First Playoff Game | Day 3"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>U8-12 World Championships</strong> that are going on in Batumi until 28 September have <a href=\"https://chess-results.com/tnr670151.aspx?lan=1&amp;art=25&amp;fedb=FID&amp;flag=30\">76 participants with a <strong>FIDE</strong> designation</a>, 59 of which are listed for Russia in the FIDE rating list, but not a single kid from Ukraine. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/where-are-the-ukrainian-kids/",
+         "pubDate" : "Sun, 18 Sep 2022 07:35:26 +0100",
+         "title" : "Where are the Ukrainian kids?"
+      },
+      {
          "description" : "The Julius Baer Generation Cup is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;will headline the field and meet again with 19-year-old&#160;Hans Niemann. The field includes also the six-time World Championship []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-live/",
          "pubDate" : "Sun, 18 Sep 2022 06:15:00 +0000",
          "title" : "Julius Baer Generation Cup LIVE"
+      },
+      {
+         "description" : "The African Individual Chess Championships 2022 will take place from 18-27 September in Lagos, Nigeria. The event will be played in Open and Women's sections separately, with 110 participants from 27 African countries. Both tournaments will be played in 9 rounds, swiss system, with time control: 90 minutes for 40 moves + 30 minutes for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/african-individual-chess-championships-2022-information-list-of-participants/",
+         "pubDate" : "Sun, 18 Sep 2022 06:02:00 +0000",
+         "title" : "African Individual Chess Championships 2022 - Information & List of participants"
       },
       {
          "description" : "The 2022 FISU World University Chess Championship&#xA0;was played from 12-17 September at the University of Antwerp Hof van Liere, Belgium. The event was played in Open and Women&#x2019;s sections separately, with participation of around 70 players from 15 countries. The participants competed in classical and blitz tournament, and the best teams were announced combining results []",
@@ -256,14 +272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1988",
          "pubDate" : "Sat, 17 Sep 2022 06:31:48 +0000",
          "title" : "Fabiano Caruana wins 2022 Champions Showdown: Chess 9LX"
-      },
-      {
-         "description" : "Fabiano Caruana won the Champions Showdown Chess 9LX tournament in Saint Louis. Caruana headed into the last day lagging behind Firouzja, Mamedyarov and Nepo for a pull point, and confessed in the interview that he thought there are no chances to win the event. However, Fabi managed to catch Firouzja, scheduling playoffs which determined the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-it-was-a-total-mess-of-a-playoff-and-it-was-super-difficult/",
-         "pubDate" : "Sat, 17 Sep 2022 06:12:28 +0000",
-         "title" : "Fabiano Caruana: It was a total mess of a playoff and it was super difficult"
       },
       {
          "description" : "",
@@ -2032,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1945",
          "pubDate" : "Sun, 28 Aug 2022 11:43:17 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 2 Recap"
-      },
-      {
-         "description" : " Just a quick announcement this week: my new book Chess for Schools has just been published by Crown House Publishing. It's a book written for schoolteachers, not for chess players or chess teachers, so it might not be for you. However, if you're in touch with any schools in your area you might want to <a href=\"https://chessimprover.com/chess-for-schools-publication/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Schools: Publication\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-schools-publication/\">Chess for Schools: Publication</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-for-schools-publication/",
-         "pubDate" : "Sun, 28 Aug 2022 08:41:08 +0000",
-         "title" : "Chess for Schools: Publication"
       }
    ]
 }
