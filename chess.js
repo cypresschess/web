@@ -106,7 +106,7 @@ news_feed (
          "title" : "Social applications conference on 15 October"
       },
       {
-         "description" : "Some readers may have heard of this special tactics training regime, while others will wonder about the gimmicky sounding name. This is the name given to an intensive but very effective training method by the Finnish grandmaster Tikkanen, which just so happens to be a dream fit for the Replay Training feature in ChessBase 16. See how you can get this best of both worlds and watch the video to demonstrate!",
+         "description" : "Some readers may have heard of this special tactics training regime, while others will wonder about the gimmicky sounding name. This is the name given to an intensive but very effective training method by the Swedish grandmaster Tikkanen, which just so happens to be a dream fit for the Replay Training feature in ChessBase 16. See how you can get this best of both worlds and watch the video to demonstrate!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-woodpecker-method-how-to-get-the-best-of-both-worlds",
