@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d4",
-         "pubDate" : "Sat, 17 Sep 2022 18:55:48 -0700",
+         "pubDate" : "Sat, 17 Sep 2022 18:55:00 -0700",
          "title" : "Sweet Revenge, Stunning Upsets"
       },
       {
