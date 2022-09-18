@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Chess Union opens an additional call of interest for the two (2) new ECU Commissions. ECU Media &#38; Communication Commission (Journalists, media &#38; social media experts, streamers). ECU Social Commission (individuals with experience and activities in social projects, specialists in sports for people with disabilities). National Federations members or interested applicants shall submit the online form&#160;https://forms.gle/QVSY8KT7dUk9gxFp9 till&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-call-of-interest-for-media-and-social-commissions/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/open-call-of-interest-for-media-and-social-commissions/",
+         "pubDate" : "Sun, 18 Sep 2022 14:25:35 +0000",
+         "title" : "Open Call of Interest for Media and Social Commissions"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/was-fischer-avaricious.html",
          "pubDate" : "Sun, 28 Aug 2022 15:37:00 +0000",
          "title" : "Was Fischer Avaricious?"
-      },
-      {
-         "description" : " Backing up from his excellent performance at the 2022 Chess Olympiad, GM Bobby Cheng has just tied for 1st in a strong Open event in Barcelona. Winning his last round, he caught the 2 leaders (who drew on the top board) with an impressive score of 8/10. This result, combined with his Olympiad result will see him add around 40 points to his current rating, pushing him to around 2580. Faced with a must win game in the final round, he found a long term piece sacrifice which kept his opponent under pressure, and then finished the game off with a mating attack. <b>Cheng,Bobby (2540) - Terry,Renato (2507) [A55]</b><br />23rd Sants Open chess24.com (10.3), 28.08.2022 <script>new PgnViewer( { board",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/cheng-wins-in-barcelona.html",
-         "pubDate" : "Sun, 28 Aug 2022 14:06:00 +0000",
-         "title" : "Cheng wins in Barcelona"
       }
    ]
 }
