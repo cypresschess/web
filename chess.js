@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#xA0;takes place from 21-25 September 2022 in Shusha, Azerbaijan. The event is played in two categories &#x2013; Open and Women with the total prize fund of 80.000$, and each tournament features 10 invited players. The women&#x2019;s competition features the 2022 European Women&#x2019;s Chess Champion medalists&#xA0;Gunay Mammadzada&#xA0; and&#xA0;Ulviyya Fataliyeva,&#xA0;Gulnar Mammadova,&#xA0;Khanim Balajayeva,&#xA0;Govhar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shusha-chess-2022-womens-section-live/",
+         "pubDate" : "Sun, 18 Sep 2022 11:05:58 +0000",
+         "title" : "Shusha Chess 2022 (Women's section) - LIVE"
+      },
+      {
+         "description" : "The &#8220;Shusha Chess 2022&#8221; international tournament takes place from 21-25 September 2022 in Shusha, Azerbaijan. The event is played in two categories Open and Women with the total prize fund of 80.000$, and each tournament features 10 invited players. The Open event gathers 10 world-known grandmasters: World No 10&#xA0;Shakhriyar Mamedyarov, World No 15&#xA0;Teimour Radjabov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shusha-chess-2022-mens-section-live/",
+         "pubDate" : "Sun, 18 Sep 2022 11:03:25 +0000",
+         "title" : "Shusha Chess 2022 (Men's section) - LIVE"
+      },
+      {
+         "description" : " I have a question for you. Here are some positions from a tournament in which 30 games were played. How strong do you think the players were? In position 1 White played 29. Qf3??, losing at once to Nd3, winning the exchange as both Nxc1 and Ne5 are threatened. In position 2 40. Rb1 or <a href=\"https://chessimprover.com/wrong-said-fred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Said Fred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-said-fred/\">Wrong Said Fred</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/wrong-said-fred/",
+         "pubDate" : "Sun, 18 Sep 2022 10:00:53 +0000",
+         "title" : "Wrong Said Fred"
+      },
+      {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Sun, 18 Sep 2022 10:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
+         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;takes place from 17-30 September 2022 in Astana, Kazakhstan, despite the event opened yesterday in Nur-Sultan. The city was renamed yesterday by decree of President Qasym-Jomart Toqayev and the FIDE Women's Grand Prix Nur-Sultan 2022 becomes FIDE Women's Grand Prix Astana 2022! FIDE Women&#x2019;s Grand Prix []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-2022-2023-opened-in-nur-sultan-and-started-in-astana/",
+         "pubDate" : "Sun, 18 Sep 2022 09:39:03 +0000",
+         "title" : "FIDE Women's Grand Prix 2022-2023 opened in Nur-Sultan and started in Astana"
+      },
+      {
+         "description" : "The FIDE Women&#x2019;s Grand Prix series 2022/2023&#xA0;opened in Astana, Kazakhstan with the first event of the series which is played place from 17-30 September 2022. Read more: FIDE Women&#x2019;s Grand Prix 2022-2023 opened in Nur-Sultan A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-day-1-live-video-coverage/",
+         "pubDate" : "Sun, 18 Sep 2022 09:24:18 +0000",
+         "title" : "FIDE Women's Grand Prix Astana 2022 - Day 1 live video coverage"
+      },
+      {
+         "description" : "The international chess tournament &#x201C;Shusha Chess 2022&#x201D;, dedicated to the 190th&#xA0;anniversary of prominent poet and philanthropist Khurshidbanu Natavan, will be held in Shusha, Azerbaijan from 21-25 September. The event is organized by the Ministry of Youth and Sport of the Azerbaijan Republic and the Azerbaijan Chess Federation, and features the total prize fund of 88.000$. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shusha-chess-2022-all-information/",
+         "pubDate" : "Sun, 18 Sep 2022 08:54:49 +0000",
+         "title" : "Shusha Chess 2022 - All information"
+      },
+      {
+         "description" : " The Astana FIDE Women's Grand Prix takes place Sat 17th Sep to Fri 30th Sep 2022. The city in which the event is being held was renamed from Astana to Nur-Sultan in 2019 but yesterday a decree was signed to restore the city to the name of Astana, so I went with that. This is the first of four Women's Grand Prix events as part of the FIDE Women's World Championship cycle, three are next year. There are 16 players in the series, each play 3 of the 4 events. Players: Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno, R Vaishali, Alina Kashlinskaya, Alexandra Kosteniuk, Bibisara Assaubayeva, Zhansaya Abdumalik, Zhongyi Tan, Jiner Zhu, Dinara Wagner and Elisabeth Paehtz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/astana-fide-womens-grand-prix-2022",
+         "pubDate" : "Sun, 18 Sep 2022 12:19:00 +0400",
+         "title" : "Astana FIDE Women's Grand Prix 2022\t - Games and Results"
+      },
+      {
+         "description" : " The Russian Championship Superfinals take place in Cheboksary 11th to 23rd September 2022. The event is much weaker than usual due to the war, it remains to be seen whether some of the stronger players will ever be back. Players: Vladislav Artemiev, Maksim Chigaev, Sanan Sjugirov, Evgeny Tomashevsky, Aleksandr Rakhmanov, Daniil Dubov, Evgeniy Najer, Maxim Matlakov, Ilia Iljiushenok, Volodar Murzin, Andrey Esipenko and Arseniy Nesterov. The players in the women's event: Marina Guseva, Leya Garifullina, Alina Bivol, Olga Girya, Daria Charochkina, Alisa Galliamova, Evgenija Ovod, Ekaterina Goltseva, Yana Zhapova, Valentina Gunina, Mariya Yakimova and Natalija Pogonina.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/75th-russian-chess-championship-2022",
+         "pubDate" : "Sun, 18 Sep 2022 11:59:00 +0400",
+         "title" : "75th Russian Chess Championship 2022 - Games and Results"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Before Chess 9LX, it's time for team standard chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/african-individual-chess-championships-2022-information-list-of-participants/",
          "pubDate" : "Sun, 18 Sep 2022 06:02:00 +0000",
          "title" : "African Individual Chess Championships 2022 - Information & List of participants"
+      },
+      {
+         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;takes place from 17-30 September 2022 in Astana, Kazakhstan. A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara Assaubayeva,&#xA0;Dinara Wagner&#xA0;and&#xA0;Vaishali R&#xA0;who&#xA0;replaced Koneru Humpy. FIDE Women&#x2019;s Grand Prix 2022-2023: All information&#xA0;/&#xA0;Final list of participants and players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-live/",
+         "pubDate" : "Sun, 18 Sep 2022 06:01:00 +0000",
+         "title" : "FIDE Women's Grand Prix Astana 2022 LIVE"
       },
       {
          "description" : "The 2022 FISU World University Chess Championship&#xA0;was played from 12-17 September at the University of Antwerp Hof van Liere, Belgium. The event was played in Open and Women&#x2019;s sections separately, with participation of around 70 players from 15 countries. The participants competed in classical and blitz tournament, and the best teams were announced combining results []",
@@ -202,30 +282,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: More King's Gambit lunacy"
       },
       {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum:&#xA0;Magnus Carlsen,&#xA0;Hans Niemann,&#xA0;Boris Gelfand, Vassily Ivanchuk, Christopher Yoo,&#xA0;Praggnanandhaa,&#xA0;Vincent Keymer,&#xA0;Arjun Erigaisi,&#xA0;Anish Giri,&#xA0;Levon Aronian,&#xA0;Liem Le,&#xA0;Radoslaw Wojtaszek,&#xA0;David Navara&#xA0;and&#xA0;Ivan Saric. The final name will be the winner of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-pairings-schedule/",
-         "pubDate" : "Sat, 17 Sep 2022 09:56:00 +0000",
-         "title" : "Julius Baer Generation Cup - Pairings & Schedule"
-      },
-      {
-         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;series&#xA0;will take place from 17-30 September 2022 in Nur-Sultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara Assaubayeva,&#xA0;Dinara Wagner&#xA0;and&#xA0;Vaishali R&#xA0;who&#xA0;replaced Koneru Humpy. FIDE Women&#x2019;s Grand Prix 2022-2023:&#xA0;All information&#xA0;/&#xA0;Final list of participants and players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-nur-sultan-2022-starts-tomorrow/",
-         "pubDate" : "Sat, 17 Sep 2022 09:16:08 +0000",
-         "title" : "FIDE Women's Grand Prix Nur-Sultan 2022 starts tomorrow"
-      },
-      {
-         "description" : "The&#160;FIDE World Youth Chess Championships U14, U16, and U18&#160;took from September 05-17, 2022 in Mamaia, Romania, with the participation of 620 players from more than 70 countries. The 11-round Swiss System tournaments were organized by International Chess Federation and Romanian Chess Federation together with Chess Club Universul and Chess Club Juniorul Constanta, are being held []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-youth-u14-u16-and-u18-chess-champions-crowned-in-mamaia-romania/",
-         "pubDate" : "Sat, 17 Sep 2022 08:47:07 +0000",
-         "title" : "World Youth U14, U16 and U18 Chess Champions crowned in Mamaia, Romania"
-      },
-      {
          "description" : "Comparing the records of the world chess champions has become a popular pursuit. Such investigations have been fuelled by the fiftieth anniversary of Bobby Fischer's conquest of the championship, which fell precisely at the end of last month. Debate has been intensified by the announcement from the reigning champion, Magnus Carlsen, that he will retire []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -234,36 +290,12 @@ news_feed (
          "title" : "Chess secrets: from Lasker to Carlsen"
       },
       {
-         "description" : "Ian Nepomniachtchi had last three weeks very busy as he competed in Saint Louis Rapid &#38; Blitz, Sinquefield Cup 2022, and then Champions Showdown Chess 9LX tournament. He also participates in Chess.com Global Chess Championship, and yesterday played three games at the Chess 9LX and three games of the first knockout round of the CGC []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-sums-up-his-three-week-chess-marathon/",
-         "pubDate" : "Sat, 17 Sep 2022 08:12:17 +0000",
-         "title" : "Ian Nepomniachtchi sums up his three-week chess marathon"
-      },
-      {
          "description" : "In the diagram position, Black has active heavy pieces, and his bishops are dying to join in. Help them to do so - and win the game!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bishops-unleashed",
          "pubDate" : "Sat, 17 Sep 2022 09:00:00 +0100",
          "title" : "Bishops unleashed"
-      },
-      {
-         "description" : "Fabiano Caruana defeated Alireza Firouzja in a thrilling playoff to clinch Champions Showdown Chess 9LX. Firouzja had an impressive performance in Saint Louis, winning three tournaments in a row: Saint Louis Rapid &#38; Blitz, Sinquefield Cup, thus emerging as the Grand Chess Tour 2022 Winner. Fabiano Caruana stopped the 19-year-old from taking the fourth title []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-is-global-chess-9lx-champion-of-st-louis-tweetoftheday/",
-         "pubDate" : "Sat, 17 Sep 2022 07:15:31 +0000",
-         "title" : "Caruana is Global Chess 9LX Champion of St. Louis #TweetOftheDay"
-      },
-      {
-         "description" : "Legendary grandmaster and 13th World Chess Champion Garry Kasparov did not perform well in the Champions Showdown Chess 9LX tournament. Kasparov scored 0.5 points after nine rounds and spoke about the result in the final interview: &#8220;I think there were very high expectations after my performance last year here, but last year I did some []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-firouzja-might-be-a-real-contender-for-the-world-champion-title/",
-         "pubDate" : "Sat, 17 Sep 2022 06:51:02 +0000",
-         "title" : "Garry Kasparov: Firouzja might be a real contender for the World Champion title"
       },
       {
          "description" : "",
@@ -1464,14 +1496,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r4",
          "pubDate" : "Tue, 06 Sep 2022 10:00:00 +0100",
          "title" : "Sinquefield Cup: Carlsen withdraws, Caruana scores"
-      },
-      {
-         "description" : "Two minor pieces that fight against a rook like it if both sides still have their second rook as this offers tactical possibilities. In the diagrammed position it is White to move and win. What would you do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-are-more-than-one",
-         "pubDate" : "Tue, 06 Sep 2022 09:00:00 +0100",
-         "title" : "Two are more than one"
       },
       {
          "description" : "Magnus Carlsen's shock withdrawal from the Sinquefield Cup overshadowed everything else in Round 4, but the chess went on. Fabiano Caruana scored the only win, defeating Maxime Vachier-Lagrave in 92 moves, while Hans Niemann lost his lead to Wesley So after failing to convert a winning position against Alireza Firouzja.",
