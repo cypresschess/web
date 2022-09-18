@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day four of the Chess.com Global Chess Championship&#38;nbsp;featured electrifying matchups, remarkable upset victories, and inspiring tales of vengeance.&#38;nbsp;GM Benjamin Bok knocked out GM Alexander Grischuk, one of the overall tournament favorites....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d4",
+         "pubDate" : "Sat, 17 Sep 2022 18:55:48 -0700",
+         "title" : "Sweet Revenge, Stunning Upsets"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after scoring 2.5/3 on the second day of Chess 9LX. 2022.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-opening-decides-everything-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QiIZxBH7tGs.jpg?itok=faELXUrv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-opening-decides-everything-day-2",
+         "pubDate" : "Sun, 18 Sep 2022 00:38:39 +0000",
+         "title" : "Nakamura: The Opening Decides Everything | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the final three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-3",
+         "pubDate" : "Sun, 18 Sep 2022 00:38:39 +0000",
+         "title" : "2022 Champions Showdown | Chess 9LX: Day 3"
+      },
+      {
          "description" : "In the fourth episode of \"Olympiad Stories with Saravanan\", we focus on the 14th world champion, Vladimir Kramnik. Kramnik arrived at the world scene in 1992 at the Manila Olympiad, with a score of 8&frac12;/9. His performance rating was over 2900! This was the stage where he broke through, before eventually defeating Garry Kasparov in the World Championship. In this episode, you get to know not only about the 1992 Olympiad and Kramnik's games, but also about Vladimir's personality.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,22 +448,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzja-computer-over-exaggerating",
          "pubDate" : "Fri, 16 Sep 2022 03:36:35 +0000",
          "title" : "Firouzja: The Computer is Over-Exaggerating"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Hikaru Nakamura -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-opening-decides-everything\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QiIZxBH7tGs.jpg?itok=faELXUrv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-opening-decides-everything",
-         "pubDate" : "Fri, 16 Sep 2022 03:36:35 +0000",
-         "title" : "Nakamura: The Opening Decides Everything"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Shakhriyar Mamedyarov -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-brilliant-day-officeim-ready-go-eat\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Fa3FgX8vzc.jpg?itok=p1udWisU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mamedyarov-brilliant-day-officeim-ready-go-eat",
-         "pubDate" : "Fri, 16 Sep 2022 00:36:21 +0000",
-         "title" : "Mamedyarov: A Brilliant Day At the Office...I'm Ready to Go Eat"
       },
       {
          "description" : "The Collegiate Chess League&#39;s Fall 2022 Season begins on September 24, with college chess players from all over the world competing for their share of the $20,000 prize fund and school pride. If you&#39;re a college student, Chess.com invites you to s...",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1957",
          "pubDate" : "Thu, 01 Sep 2022 20:25:34 +0000",
          "title" : "Three youngsters cross 2700 mark in September rating list"
-      },
-      {
-         "description" : "The September FIDE rating list, published today on the website of the International Chess Federation, shows the rise of the new generation of chess. Especially India is doing well, with big jumps for GMs Gukesh D, Arjun Erigaisi, as well as GM Nih...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/september-2022-fide-ratings-list",
-         "pubDate" : "Thu, 01 Sep 2022 12:35:49 -0700",
-         "title" : "September FIDE Ratings: The New Power Generation"
       },
       {
          "description" : "",
