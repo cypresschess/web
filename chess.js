@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kenneth Regan, a UB faculty expert with expertise in&#160;chess, with a focus on identifying cheaters, joined the live studio of Julius Baer Generation Cup commenting on the recent happenings of the Niemann Carlsen case. Regan first commented on Carlsen's resignation in the second move saying that Carlsen's reaction is not appropriate, especially taking into []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fair-play-specialist-kenneth-regan-niemann-played-well-but-not-too-well/",
+         "pubDate" : "Mon, 19 Sep 2022 19:09:51 +0000",
+         "title" : "Fair-Play specialist Kenneth Regan: Niemann played well, but not too well"
+      },
+      {
+         "description" : " <p class=\"lead\">The Niemann-Carlsen game at the Julius Baer Generation Cup was the most anticipated one after the recent chess cheating scandal, but the World Champion chose to resign on move 2, log off, and leave everyone speechless and confused. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> It comes without saying that after <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Carlsen's withdrawal</a> from the Sinquefield Cup 2022, and the <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-a",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/",
+         "pubDate" : "Mon, 19 Sep 2022 18:58:33 +0000",
+         "title" : "Carlsen chose drama against Niemann, resigned after move 2"
+      },
+      {
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned.&#xA0;Replay the game Hans Niemann &#x2013; Magnus Carlsen here Norwegian Chess grandmaster and a member of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hammer-says-carlsen-should-be-sanctioned-in-live-norwegian-tv-program/",
+         "pubDate" : "Mon, 19 Sep 2022 18:43:01 +0000",
+         "title" : "Hammer says Carlsen should be sanctioned in live Norwegian TV program"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1991",
+         "pubDate" : "Mon, 19 Sep 2022 18:20:09 +0000",
+         "title" : "Tactics and time trouble in Astana"
+      },
+      {
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, and it is questionable if he will continue playing the Julius Baer Generation Cup. Replay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-resignation-speaks-for-itself-tweetoftheday/",
+         "pubDate" : "Mon, 19 Sep 2022 17:39:41 +0000",
+         "title" : "The resignation speaks for itself #TweetOftheDay"
+      },
+      {
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as&#xA0;Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, and it is questionable if he will continue playing the Julius Baer Generation Cup.&#xA0;Replay the game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reactions-to-magnus-carlsens-resignation/",
+         "pubDate" : "Mon, 19 Sep 2022 17:37:31 +0000",
+         "title" : "Reactions to Magnus Carlsen's resignation"
+      },
+      {
          "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann after the Sinquefield Cup 2022. After&#xA0;Hans Niemann defeated the World []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,6 +146,14 @@ news_feed (
          "title" : "Carlsen Leads Julius Baer Generation Cup Ahead Of Clash With Niemann"
       },
       {
+         "description" : " The Julius Baer Generation Cup takes place on chess24 18th to 25th September 2022. Play starts at 17:00 BST each day. The event is part of the Meltwater Champions Chess Tour. The field has a deliberate mix of generations. Players: Magnus Carlsen, Jan-Krzysztof Duda, Quang Liem Le, R Praggnanandhaa, Levon Aronian, Arjun Erigaisi, Anish Giri, David Navara, Vincent Keymer, Radoslaw Wojtaszek, Vasyl Ivanchuk, Ivan Saric, Boris Gelfand, Hans Moke Niemann, Baskaran Adhiban and Christopher Woojin Yoo. There will obviously be a lot of attention on the day 2 round 6 game between Carlsen and Niemann (update Carlsen resigned on move 2). ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2022",
+         "pubDate" : "Mon, 19 Sep 2022 12:35:00 +0400",
+         "title" : "Julius Baer Generation Cup 2022 - Games and Results"
+      },
+      {
          "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;will headline the field and meet again with 19-year-old&#xA0;Hans Niemann. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -120,46 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/arjun-erigaisi-vs-praggnanandhaa-julius-baer-generation-cup-r7-live/",
          "pubDate" : "Mon, 19 Sep 2022 07:47:07 +0000",
          "title" : "Arjun Erigaisi vs Praggnanandhaa, Julius Baer Generation Cup R7 LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum:&#160;Magnus Carlsen, &#160;Hans Niemann,&#160;Boris Gelfand,&#160;Vassily Ivanchuk,&#160;Christopher Yoo, &#160;Praggnanandhaa,&#160;&#160;Vincent Keymer,&#160;Arjun Erigaisi,&#160;Anish Giri,&#160;Levon Aronian,&#160;Liem Le,&#160;Radoslaw Wojtaszek,&#160;David Navara,&#160;Ivan Saric&#160;and&#160;Adhiban Baskaran. After the first day and four []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-vs-vincent-keymer-julius-baer-generation-cup-r6-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:41:52 +0000",
-         "title" : "Praggnanandhaa vs Vincent Keymer, Julius Baer Generation Cup R6 LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum:&#xA0;Magnus Carlsen, &#xA0;Hans Niemann,&#xA0;Boris Gelfand,&#xA0;Vassily Ivanchuk,&#xA0;Christopher Yoo, &#xA0;Praggnanandhaa,&#xA0;&#xA0;Vincent Keymer,&#xA0; Arjun Erigaisi, Anish Giri,&#xA0;Levon Aronian,&#xA0;Liem Le,&#xA0;Radoslaw Wojtaszek,&#xA0;David Navara,&#xA0;Ivan Saric&#xA0;and&#xA0;Adhiban Baskaran. After the first day []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-david-navara-julius-baer-generation-cup-r5-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:37:41 +0000",
-         "title" : "Magnus Carlsen vs David Navara, Julius Baer Generation Cup R5 LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum:&#xA0;Magnus Carlsen, &#xA0;Hans Niemann,&#xA0;Boris Gelfand,&#xA0;Vassily Ivanchuk,&#xA0;Christopher Yoo, &#xA0;Praggnanandhaa,&#xA0;&#xA0;Vincent Keymer,&#xA0;Arjun Erigaisi,&#xA0;Anish Giri,&#xA0;Levon Aronian,&#xA0;Liem Le,&#xA0;Radoslaw Wojtaszek,&#xA0;David Navara,&#xA0;Ivan Saric&#xA0;and&#xA0;Adhiban Baskaran. After the first day and four []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-vs-hans-niemann-julius-baer-generation-cup-r5-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:32:22 +0000",
-         "title" : "Arjun Erigaisi vs Hans Niemann, Julius Baer Generation Cup R5 LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and meet again with 19-year-old&#xA0;Hans Niemann. The field includes also the six-time World Championship candidate&#xA0;Boris Gelfand, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-2022-day-2-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:17:27 +0000",
-         "title" : "Julius Baer Generation Cup 2022 - Day 2 live"
-      },
-      {
-         "description" : "FIDE Women's Grand Prix Astana 2022 kicked off yesterday in Kazakhstan. With two decisive games in the first round of the event, Aleksandra Goryachkina and Elisabeth Paehtz took the early lead in the tournament. The second round starts at 11:00 CEST and brings another six interesting encounters: Shuvalova Polina &#x2013; Paehtz Elisabeth&#xA0;Zhu Jiner &#x2013; Wagner []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-day-2-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:06:07 +0000",
-         "title" : "FIDE Women's Grand Prix Astana 2022 - Day 2 live"
       },
       {
          "description" : "Magnus Carlsen ended day 1 of the Julius Baer Generation Cup in the sole lead with 10/12 points. Carlsen won three games and drew Anish Giri on Sunday. Four players stand close behind on 9/12 - Praggnanandhaa, Arjun Erigaisi, Hans Niemann and Vasyl Ivanchuk. Eight out of the sixteen participants will move on to the knockout stage, which is set to kick off on Thursday. | Photo: Anna Shtourman / FIDE",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://chessimprover.com/wrong-said-fred/",
          "pubDate" : "Sun, 18 Sep 2022 10:00:53 +0000",
          "title" : "Wrong Said Fred"
-      },
-      {
-         "description" : " The Julius Baer Generation Cup takes place on chess24 18th to 25th September 2022. Play starts at 17:00 BST each day. The event is part of the Meltwater Champions Chess Tour. The field has a deliberate mix of generations. Players: Magnus Carlsen, Jan-Krzysztof Duda, Quang Liem Le, R Praggnanandhaa, Levon Aronian, Arjun Erigaisi, Anish Giri, David Navara, Vincent Keymer, Radoslaw Wojtaszek, Vasyl Ivanchuk, Ivan Saric, Boris Gelfand, Hans Moke Niemann, Baskaran Adhiban andChristopher Woojin Yoo. There will obviously be a lot of attention on the day 2 round 6 game between Carlsen and Niemann. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2022",
-         "pubDate" : "Sun, 18 Sep 2022 12:35:00 +0400",
-         "title" : "Julius Baer Generation Cup 2022 - Games and Results"
       },
       {
          "description" : " The Astana FIDE Women's Grand Prix takes place Sat 17th Sep to Fri 30th Sep 2022. The city in which the event is being held was renamed from Astana to Nur-Sultan in 2019 but yesterday a decree was signed to restore the city to the name of Astana, so I went with that. This is the first of four Women's Grand Prix events as part of the FIDE Women's World Championship cycle, three are next year. There are 16 players in the series, each play 3 of the 4 events. Players: Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno, R Vaishali, Alina Kashlinskaya, Alexandra Kosteniuk, Bibisara Assaubayeva, Zhansaya Abdumalik, Zhongyi Tan, Jiner Zhu, Dinara Wagner and Elisabeth Paehtz.",
