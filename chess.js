@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four decisive games in the second round of the Astana Grand Prix left four players tied for first place on 1&frac12;/2 points. Bibisara Assaubayeva, Alina Kashlinskaya and Zhu Jiner won to join Aleksandra Goryachkina in the lead, while Polina Shuvalova bounced back from her loss on Sunday to return to a fifty-percent score. | Photos: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r2",
+         "pubDate" : "Mon, 19 Sep 2022 22:15:00 +0100",
+         "title" : "Astana GP: Four decisive results, four co-leaders"
+      },
+      {
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as&#160;Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he came back online for the game against Levon Aronian and continued competing in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niemanns-and-carlsens-facial-expressions-during-their-2-move-game/",
+         "pubDate" : "Mon, 19 Sep 2022 20:35:13 +0000",
+         "title" : "Niemann's and Carlsen's facial expressions during their 2-move game"
+      },
+      {
          "description" : "Kenneth Regan, a UB faculty expert with expertise in&#160;chess, with a focus on identifying cheaters, joined the live studio of Julius Baer Generation Cup commenting on the recent happenings of the Niemann Carlsen case. Regan first commented on Carlsen's resignation in the second move saying that Carlsen's reaction is not appropriate, especially taking into []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Ivan Cheparinov - the Sicilian Najdorf"
       },
       {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Mon, 19 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
-      },
-      {
          "description" : "Round 3 (18.09.2022 ) U-8 Open: http://chess-results.com/tnr670148.aspx?lan=1&#038;art=2&#038;rd=3&#038;flag=30 AFM Safin Safarullakhan lost on the 2nd board against the 3rd seeded player Shogdzhiev Roman Sav. It was",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-vs-levon-aronian-julius-baer-generation-cup-r7-live/",
          "pubDate" : "Mon, 19 Sep 2022 07:49:48 +0000",
          "title" : "Magnus Carlsen vs Levon Aronian, Julius Baer Generation Cup R7 LIVe"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum:&#xA0;Magnus Carlsen, &#xA0;Hans Niemann,&#xA0;Boris Gelfand,&#xA0;Vassily Ivanchuk,&#xA0;Christopher Yoo, &#xA0;Praggnanandhaa,&#xA0;&#xA0;Vincent Keymer,&#xA0;Arjun Erigaisi,&#xA0;Anish Giri,&#xA0;Levon Aronian,&#xA0;Liem Le,&#xA0;Radoslaw Wojtaszek,&#xA0;David Navara,&#xA0;Ivan Saric&#xA0;and&#xA0;Adhiban Baskaran. After the first day and four []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-vs-praggnanandhaa-julius-baer-generation-cup-r7-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:47:07 +0000",
-         "title" : "Arjun Erigaisi vs Praggnanandhaa, Julius Baer Generation Cup R7 LIVE"
       },
       {
          "description" : "Magnus Carlsen ended day 1 of the Julius Baer Generation Cup in the sole lead with 10/12 points. Carlsen won three games and drew Anish Giri on Sunday. Four players stand close behind on 9/12 - Praggnanandhaa, Arjun Erigaisi, Hans Niemann and Vasyl Ivanchuk. Eight out of the sixteen participants will move on to the knockout stage, which is set to kick off on Thursday. | Photo: Anna Shtourman / FIDE",
