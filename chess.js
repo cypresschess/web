@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen ended day 1 of the Julius Baer Generation Cup in the sole lead with 10/12 points. Carlsen won three games and drew Anish Giri on Sunday. Four players stand close behind on 9/12 - Praggnanandhaa, Arjun Erigaisi, Hans Niemann and Vasyl Ivanchuk. Eight out of the sixteen participants will move on to the knockout stage, which is set to kick off on Thursday. | Photo: Anna Shtourman / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d1",
+         "pubDate" : "Mon, 19 Sep 2022 02:05:00 +0100",
+         "title" : "Generation Cup: Carlsen leads, Ivanchuk among close chasers"
+      },
+      {
          "description" : "Magnus Carlsen burst out of the blocks to take a 1pt lead on the opening day of the&#xA0;Julius Baer Generation Cup, the star-studded seventh leg of the $1.6 million&#xA0;Meltwater Champions Chess Tour. The World Champion racked up an unbeaten 10/12 pts with wins over Arjun Erigaisi, Adhiban Baskaran and Liem Quang Le with only&#xA0;Dutch No.1 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.chessdom.com/alejandro-ramirez-shares-his-insights-on-carlsens-withdrawal-i-dont-think-hans-cheated/",
          "pubDate" : "Sun, 18 Sep 2022 16:58:05 +0000",
          "title" : "Alejandro Ramirez shares his insights on Carlsen's withdrawal: I don't think Hans cheated"
-      },
-      {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Sun, 18 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup: Live"
       },
       {
          "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;will headline the field and meet again with 19-year-old&#xA0;Hans Niemann. The field includes also the six-time World Championship candidate&#xA0;Boris []",
