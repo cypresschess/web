@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris will have a look at the current state of the good old Dilworth Variation in the Open Ruy Lopez. The material imbalance of two minor pieces vs a rook and pawn (or two) leads to fascinating play with chances for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-attractions-of-the-dilworth-variation",
+         "pubDate" : "Mon, 19 Sep 2022 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The attractions of the Dilworth Variation"
+      },
+      {
+         "description" : " Former World Champion Garry Kasparov had a tough time of it in the Chess 960 event in St Louis, finishing with a single draw over 9 games. He did acknowledge that the main reason for his showing was a lack of recent activity. Usually a decline in ability is attributed to the effects of aging, but it is more likely that simply playing less is the real culprit. Both Korchnoi and Smyslov were able to play high level chess well into their 70's, outlasting much younger players who had retired earlier. The JB Generation Cup is currently running, pitting new stars against old. Although the younger generation looks to have the upper hand, 53 year old Vasyl Ivanchuk did strike a blow for the seniors",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/activity-not-age.html",
+         "pubDate" : "Mon, 19 Sep 2022 13:47:00 +0000",
+         "title" : "Activity not age"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94305762.cms\" />India's teenaged Grandmaster R Praggnanandhaa began his campaign in the star-studded Julius Baer Generation Cup online rapid tournament, the seventh leg of the USD 1.6 million Meltwater Champions Chess Tour, with wins over veteran Vasyl Ivanchuk and Jan Kryzstof Duda of Poland.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1474,14 +1490,6 @@ news_feed (
          "title" : "Hans Niemann On Quest To Actually Build His Reputation From the Drama"
       },
       {
-         "description" : "Following Magnus Carlsen's intriguing withdrawal, the Sinquefield Cup continued in Saint Louis, now as a 9-player single round-robin. All four games finished drawn in round 5, with Wesley So keeping the sole lead after splitting the point with Levon Aronian. Wendesday is a much-needed rest day, as we look forward to impressive chess games regaining centre stage as soon as possible. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r4-2",
-         "pubDate" : "Wed, 07 Sep 2022 09:00:00 +0100",
-         "title" : "Sinquefield Cup: Four draws"
-      },
-      {
          "description" : "GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix has been settled with no further details provided by either party. The settlement came eight months after a judge dismissed the streaming and production company&#39;s claim that because The Q...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2064,22 +2072,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/tcec-s23-leagues-underway-ccc-rudderless.html",
          "pubDate" : "Mon, 29 Aug 2022 15:31:00 +0000",
          "title" : "TCEC S23 Leagues Underway; CCC Rudderless?"
-      },
-      {
-         "description" : "Dear Chess Friends, The ECU Board meeting took place on Friday 26th of August through teleconference: Main information and Decisions The status of ECU staff/officers has been confirmed for the new term Mr. Erald Dervishi (ALB) reappointed as CEO of European Chess Union ECU Board appointed the ECU Commissions Chairpersons for the 4-years term ECU Arbiter Council: Mr.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no4-2022/",
-         "pubDate" : "Mon, 29 Aug 2022 15:09:46 +0000",
-         "title" : "Communique of the ECU Board Meeting CL No4/2022"
-      },
-      {
-         "description" : "Dear Chess Friends, According to FIDE regulations, each Continent has the right to nominate one non-voting member to each of 16 FIDE non-Elected Commissions. The 16 ECU representatives in the FIDE Commissions will be informed on the ECU directory and they will have the special duty to communicate and interact the ECU positions to the FIDE structures. https://handbook.fide.com/chapter/NonElectedCommissions2022&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-call-of-interest-ecu-fide-commissions-2023-2026/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions-2023-2026/",
-         "pubDate" : "Mon, 29 Aug 2022 15:09:37 +0000",
-         "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2023 - 2026"
       }
    ]
 }
