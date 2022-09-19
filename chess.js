@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and meet again with 19-year-old&#xA0;Hans Niemann. The field includes also the six-time World Championship candidate&#xA0;Boris Gelfand, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-2022-day-2-live/",
+         "pubDate" : "Mon, 19 Sep 2022 07:17:27 +0000",
+         "title" : "Julius Baer Generation Cup 2022 - Day 2 live"
+      },
+      {
+         "description" : "FIDE Women's Grand Prix Astana 2022 kicked off yesterday in Kazakhstan. With two decisive games in the first round of the event, Aleksandra Goryachkina and Elisabeth Paehtz took the early lead in the tournament. The second round starts at 11:00 CEST and brings another six interesting encounters: Shuvalova Polina &#x2013; Paehtz Elisabeth&#xA0;Zhu Jiner &#x2013; Wagner []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-day-2-live/",
+         "pubDate" : "Mon, 19 Sep 2022 07:06:07 +0000",
+         "title" : "FIDE Women's Grand Prix Astana 2022 - Day 2 live"
+      },
+      {
          "description" : "Magnus Carlsen ended day 1 of the Julius Baer Generation Cup in the sole lead with 10/12 points. Carlsen won three games and drew Anish Giri on Sunday. Four players stand close behind on 9/12 - Praggnanandhaa, Arjun Erigaisi, Hans Niemann and Vasyl Ivanchuk. Eight out of the sixteen participants will move on to the knockout stage, which is set to kick off on Thursday. | Photo: Anna Shtourman / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,20 +106,12 @@ news_feed (
          "title" : "Alexandra Kosteniuk: I am almost certain I had a losing position"
       },
       {
-         "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#160;kicked off today in Kazakhstan. The first round finished with two decisive games with&#160;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#160;/&#160;Pairings &#38; Timetable Elisabeth Paehtz defeated her compatriot Dinara Wagner in the first round of the event and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elisabeth-paehtz-it-is-not-the-victory-i-can-be-happy-about/",
-         "pubDate" : "Sun, 18 Sep 2022 15:23:00 +0000",
-         "title" : "Elisabeth Paehtz: It is not the victory I can be happy about"
-      },
-      {
-         "description" : "FIDE Women&#x2019;s Grand Prix Astana 2022&#xA0;kicked off today in Kazakhstan. The first round finished with two decisive games with&#xA0;Aleksandra Goryachkina and Elisabeth Paehtz taking the early lead in the event. FIDE Women&#x2019;s Grand Prix Nur-Sultan 2022 all information&#xA0;/&#xA0;Pairings &#38; Timetable GM Zhansaya Abdumalik met in the first round with her compatriot IM Bibisara Assaubayeva. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhansaya-abdumalik-i-didnt-know-what-to-do-after-i-won-the-pawn/",
-         "pubDate" : "Sun, 18 Sep 2022 15:20:00 +0000",
-         "title" : "Zhansaya Abdumalik: I didn't know what to do after I won the pawn"
+         "description" : "Chess is so popular in Armenia that the title of this photo, 'Chess School Yerevan', doesn't tell us much. Yerevan is the capital of Armenia. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi18.jpg\" WIDTH=400 HEIGHT=300><BR><A HREF=\"https://www.flickr.com/photos/mcfarlandmo/52310265216/\">The Chess School Yerevan</A>&#169; Flickr user <I>mcfarlandmo</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <P>Thanks to Google I found a similar photo on Wikipedia's page <A HREF=\"https://en.wikipedia.org/wiki/Tigran_Petrosian_Chess_House\">Tigran Petrosian Chess House</A>. The page starts, <BLOCKQUOTE><I>Tigran Petrosian Chess House</I>, officially the",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/world-champion-petrosian-chess-school.html",
+         "pubDate" : "Sun, 18 Sep 2022 15:19:00 +0000",
+         "title" : "World Champion Petrosian Chess 'School'"
       },
       {
          "description" : "European Chess Union opens an additional call of interest for the two (2) new ECU Commissions. ECU Media &#38; Communication Commission (Journalists, media &#38; social media experts, streamers). ECU Social Commission (individuals with experience and activities in social projects, specialists in sports for people with disabilities). National Federations members or interested applicants shall submit the online form&#160;https://forms.gle/QVSY8KT7dUk9gxFp9 till&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-call-of-interest-for-media-and-social-commissions/\">Read More &#187;</a></span>",
