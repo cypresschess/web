@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94305762.cms\" />India's teenaged Grandmaster R Praggnanandhaa began his campaign in the star-studded Julius Baer Generation Cup online rapid tournament, the seventh leg of the USD 1.6 million Meltwater Champions Chess Tour, with wins over veteran Vasyl Ivanchuk and Jan Kryzstof Duda of Poland.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-generation-cup-praggnanandhaa-posts-three-wins-before-losing-to-fellow-teen-yoo/articleshow/94305762.cms",
+         "pubDate" : "Mon, 19 Sep 2022 12:38:08 +0000",
+         "title" : "Praggnanandhaa posts three wins before losing to fellow teen Yoo"
+      },
+      {
          "description" : "The Jobava London System (1.d4 Nf6 2.Nc3 d5 3.Bf4) is itself still a young opening. In his video, Daniel King presents a fairly new gambit within this system: with 4.e4! (instead of the usual 4.e3) White offers a pawn sacrifice. A \"shocker\" for every player with the black pieces who sees the move on the board for the first time, says Daniel King in his contribution to ChessBase Magazine #209. You can watch an excerpt from his almost half-hour video analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-shocker-in-the-jobava-london-system",
          "pubDate" : "Mon, 19 Sep 2022 13:00:00 +0100",
          "title" : "A \"shocker\" in the Jobava London System"
+      },
+      {
+         "description" : " Nigerian International Master Odion Aikhoje finally receives the gold medal he earned on board two at the Elista Olympiad in 1998. Twenty-four years is short in terms of age, but to wait on something for 24 years is another matter. The Chess Drum reported on Aikhoje's triumph in the very first issue of the website The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/19/aikhoje-gets-98-olympiad-gold-medal/\">Aikhoje gets '98 Olympiad gold medal!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/09/19/aikhoje-gets-98-olympiad-gold-medal/",
+         "pubDate" : "Mon, 19 Sep 2022 11:33:02 +0000",
+         "title" : "Aikhoje gets '98 Olympiad gold medal!"
       },
       {
          "description" : "Ivan Cheparinov has been Veselin Topalov's second for some of his best years and we all know one of the favorite weapons of Topalov the Sicilian Najdorf. Now Cheparinov shares his knowledge with the chess world via a Chessable course Lifetime Repertoires: Cheparinov's Najdorf. Lifetime Repertoires: Cheparinov&#x2019;s Najdorf infuses Black&#x2019;s best weapon against []",
@@ -2064,14 +2080,6 @@ news_feed (
          "link" : "https://www.europechess.org/open-call-of-interest-ecu-fide-commissions-2023-2026/",
          "pubDate" : "Mon, 29 Aug 2022 15:09:37 +0000",
          "title" : "OPEN CALL OF INTEREST ECU/FIDE Commissions 2023 - 2026"
-      },
-      {
-         "description" : " During the Olympiad (and possibly after), there was a lot of commentary about the quality of play on the lower boards. There were a few examples of Scholars Mate, and this was seen as evidence that not everyone had 'earned' the right to be there. As a past Olympiad player (and a recent official), I do not believe lines should be drawn in this way. If you are picked by your Federation to play, then you get to play. Both China and India were considered 'non chess' countries in the not so recent past, an opinion that would not be said out loud these days. And speaking of Scholars Mate, in the following game, White was able to pick up a piece after Black failed to spot how strong simply threate",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/scholars-trap.html",
-         "pubDate" : "Mon, 29 Aug 2022 13:09:00 +0000",
-         "title" : "Scholars Trap"
       }
    ]
 }
