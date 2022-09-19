@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Mon, 19 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup: Live"
+      },
+      {
          "description" : "This week Robert Ris will have a look at the current state of the good old Dilworth Variation in the Open Ruy Lopez. The material imbalance of two minor pieces vs a rook and pawn (or two) leads to fascinating play with chances for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1458,14 +1466,6 @@ news_feed (
          "title" : "B+N v K "
       },
       {
-         "description" : "At the end of the 22nd Dubai Open, no fewer than seven Indians were among the top ten, the best of them was Aravindh Chithambaram who was sole first with 7.5/9. Five players - Alexandr Predke, Pragg, Abhijeet Gupta, Sammed Jaykumar Shete and S.P. Sethuraman - followed half a point behind with 7.0/9 and shared second place. | Photo: Rupali Mullick",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aravindh-wins-dubai-open",
-         "pubDate" : "Wed, 07 Sep 2022 13:35:55 +0100",
-         "title" : "Aravindh wins Dubai Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/",
          "pubDate" : "Tue, 30 Aug 2022 00:10:21 +0000",
          "title" : "The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained"
-      },
-      {
-         "description" : "The wheel of time continues to turn on the world's two foremost, continuous engine vs. engine competitions. Two weeks ago the headline said, <A HREF=\"http://chessforallages.blogspot.com/2022/08/stockfish-wins-tcec-dfrc1-leads-ccc18.html\">Stockfish Wins TCEC DFRC1, Leads CCC18 Rapid Final</A>(August 2022). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In DFRC1 ('Double Fischer Random Chess: 960*960 possible starting positions'), Stockfish and LCZero finished tied for 1st/2nd places with 16.0/22, 1.5 points ahead of KomodoDragon, which was 2.0 points ahead of Stoofvlees. In the 50 game final match, Stockfish beat LCZero 29.5-20.5 (+18-9=23). After DFRC1, the site launched 'S23 - Chess Bonu",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/tcec-s23-leagues-underway-ccc-rudderless.html",
-         "pubDate" : "Mon, 29 Aug 2022 15:31:00 +0000",
-         "title" : "TCEC S23 Leagues Underway; CCC Rudderless?"
       }
    ]
 }
