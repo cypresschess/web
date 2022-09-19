@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Monday World Chess Champion Magnus Carlsen resigned after making the first move in his game against Hans Niemann. He has hinted that the young grandmaster may have cheated in his previous game between the two grandmasters. Now Carlsen action is really hitting the news pages of the World mainstream press. Full report to follow soon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-news-magnus-resigns-after-move-one",
+         "pubDate" : "Tue, 20 Sep 2022 00:18:28 +0100",
+         "title" : "Breaking news: Magnus resigns after move one"
+      },
+      {
+         "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d2",
+         "pubDate" : "Tue, 20 Sep 2022 00:05:00 +0100",
+         "title" : "Generation Cup: Drama takes centre stage as Arjun grabs the lead"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann after the Sinquefield Cup 2022. After&#160;Hans Niemann defeated the World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-resigns-against-hans-niemann-in-the-second-move/",
+         "pubDate" : "Mon, 19 Sep 2022 21:30:00 +0000",
+         "title" : "Magnus Carlsen resigns against Hans Niemann on move 2!"
+      },
+      {
+         "description" : "The American higher seeds, GMs Hikaru Nakamura, Fabiano Caruana, and Jeffery Xiong, won the last of the round of 64 matches on day five of the Chess.com Global Chess Championship. Although the favorites ultimately won, the underdogs gave them seri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d5",
+         "pubDate" : "Mon, 19 Sep 2022 14:27:00 -0700",
+         "title" : "American Favorites Clean House"
+      },
+      {
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#xA0;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-will-not-give-any-interviews-during-the-tournament/",
+         "pubDate" : "Mon, 19 Sep 2022 21:26:46 +0000",
+         "title" : "Carlsen will not give any interviews during the tournament"
+      },
+      {
          "description" : "Four decisive games in the second round of the Astana Grand Prix left four players tied for first place on 1&frac12;/2 points. Bibisara Assaubayeva, Alina Kashlinskaya and Zhu Jiner won to join Aleksandra Goryachkina in the lead, while Polina Shuvalova bounced back from her loss on Sunday to return to a fifty-percent score. | Photos: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r2",
          "pubDate" : "Mon, 19 Sep 2022 22:15:00 +0100",
          "title" : "Astana GP: Four decisive results, four co-leaders"
+      },
+      {
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#xA0;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-applauds-pragg-for-the-fantastic-game/",
+         "pubDate" : "Mon, 19 Sep 2022 21:05:28 +0000",
+         "title" : "Magnus Carlsen applauds Pragg for the fantastic game"
+      },
+      {
+         "description" : "Levon Aronian is one of the competitors in the Julius Baer Generation Cup 2022 and he joined the live studio after the second portion of four rounds which were played today. After eight played rounds, Levon Aronian ties for the 9th place with Vincent Keymer as both score 11 points. Aronian shortly commented: &#8220;It was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-i-believe-niemann-hasnt-been-the-cleanest-person-when-it-comes-to-online-chess/",
+         "pubDate" : "Mon, 19 Sep 2022 20:36:23 +0000",
+         "title" : "Levon Aronian: I believe Niemann hasn't been the cleanest person when it comes to online chess"
       },
       {
          "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as&#160;Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he came back online for the game against Levon Aronian and continued competing in the []",
@@ -50,6 +106,14 @@ news_feed (
          "title" : "Tactics and time trouble in Astana"
       },
       {
+         "description" : "This is a flash report. The full report will be added to this page soon. After leading the Julius Baer Generation Cup on the first day, GM Magnus Carlsen sent waves through the chess world by playing only one move vs. GM Hans Niemann in their an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-2",
+         "pubDate" : "Mon, 19 Sep 2022 10:53:00 -0700",
+         "title" : "Flash Report: World Champion Resigns After 1 Move Vs. Niemann, Erigaisi Leads"
+      },
+      {
          "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, and it is questionable if he will continue playing the Julius Baer Generation Cup. Replay []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,22 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/reactions-to-magnus-carlsens-resignation/",
          "pubDate" : "Mon, 19 Sep 2022 17:37:31 +0000",
          "title" : "Reactions to Magnus Carlsen's resignation"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann after the Sinquefield Cup 2022. After&#xA0;Hans Niemann defeated the World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-resigns-against-hans-niemann-in-the-second-move/",
-         "pubDate" : "Mon, 19 Sep 2022 17:05:20 +0000",
-         "title" : "Magnus Carlsen resigns against Hans Niemann in the second move!"
-      },
-      {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Mon, 19 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup: Live"
       },
       {
          "description" : "This week Robert Ris will have a look at the current state of the good old Dilworth Variation in the Open Ruy Lopez. The material imbalance of two minor pieces vs a rook and pawn (or two) leads to fascinating play with chances for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -122,14 +170,6 @@ news_feed (
          "title" : "Aikhoje gets '98 Olympiad gold medal!"
       },
       {
-         "description" : "Ivan Cheparinov has been Veselin Topalov's second for some of his best years and we all know one of the favorite weapons of Topalov the Sicilian Najdorf. Now Cheparinov shares his knowledge with the chess world via a Chessable course Lifetime Repertoires: Cheparinov's Najdorf. Lifetime Repertoires: Cheparinov&#x2019;s Najdorf infuses Black&#x2019;s best weapon against []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ivan-cheparinov-the-sicilian-najdorf/",
-         "pubDate" : "Mon, 19 Sep 2022 10:05:13 +0000",
-         "title" : "Ivan Cheparinov - the Sicilian Najdorf"
-      },
-      {
          "description" : "Round 3 (18.09.2022 ) U-8 Open: http://chess-results.com/tnr670148.aspx?lan=1&#038;art=2&#038;rd=3&#038;flag=30 AFM Safin Safarullakhan lost on the 2nd board against the 3rd seeded player Shogdzhiev Roman Sav. It was",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -160,22 +200,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2022",
          "pubDate" : "Mon, 19 Sep 2022 12:35:00 +0400",
          "title" : "Julius Baer Generation Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;will headline the field and meet again with 19-year-old&#xA0;Hans Niemann. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-magnus-carlsen-julius-baer-generation-cup-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:50:00 +0000",
-         "title" : "Hans Niemann vs Magnus Carlsen, Julius Baer Generation Cup LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum:&#160;Magnus Carlsen, &#160;Hans Niemann,&#160;Boris Gelfand,&#160;Vassily Ivanchuk,&#160;Christopher Yoo, &#160;Praggnanandhaa,&#160;&#160;Vincent Keymer,&#160;Arjun Erigaisi,&#160;Anish Giri,&#160;Levon Aronian,&#160;Liem Le,&#160;Radoslaw Wojtaszek,&#160;David Navara,&#160;Ivan Saric&#160;and&#160;Adhiban Baskaran. After the first day and four []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-levon-aronian-julius-baer-generation-cup-r7-live/",
-         "pubDate" : "Mon, 19 Sep 2022 07:49:48 +0000",
-         "title" : "Magnus Carlsen vs Levon Aronian, Julius Baer Generation Cup R7 LIVe"
       },
       {
          "description" : "Magnus Carlsen ended day 1 of the Julius Baer Generation Cup in the sole lead with 10/12 points. Carlsen won three games and drew Anish Giri on Sunday. Four players stand close behind on 9/12 - Praggnanandhaa, Arjun Erigaisi, Hans Niemann and Vasyl Ivanchuk. Eight out of the sixteen participants will move on to the knockout stage, which is set to kick off on Thursday. | Photo: Anna Shtourman / FIDE",
@@ -1458,14 +1482,6 @@ news_feed (
          "title" : "Chess Returns To Kyiv, Where The War Is Never Far Away"
       },
       {
-         "description" : "In the Ragozin Variation of the Queen's Gambit (1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4) Black takes an active path with 4&hellip;Bb4. In his theory article in the current ChessBase magazine, Roven Vogel examines the continuation 5.Qa4+ Nc6 6.e3, which has already been tested many times by Vincent Keymer. Our author has processed no less than eight games of the German number one in his article and shows that \"both sides have possibilities to create interesting play in many places\" and sees this \"as a chance to play an interesting game of chess\". Who wouldn't want that? Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-ragozin--la-keymer",
-         "pubDate" : "Wed, 07 Sep 2022 15:00:00 +0100",
-         "title" : "The Ragozin &agrave; la Keymer"
-      },
-      {
          "description" : " Moving on from the short games at the Olympiad, I decided to have a look at the longer ones. While waiting for the round to finish, I did witness a number of interesting endings, including R+B v R, N+R v R, and in the following game, K+N+B v K. White was winning in the late middlegame, but gave Black drawing chances once the ending was reached. However Black missed the best moves, and as his position crumbled, decided to sacrifice his last two pieces for the remaining pawns, hoping to escape in a B+N ending. However, White knew exactly how to play this, and only took 21 moves to checkmate Black. For those who have never played this ending, it is well worth studying the approach that White u",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1770,14 +1786,6 @@ news_feed (
          "title" : "Sinquefield Cup 2: Niemann catches Carlsen"
       },
       {
-         "description" : "In round two of the 2022 Sinquefield Cup, the games went in two directions: solid, sensible play for some, and complicated battles for others. The sole winner of round one, World Champion GM Magnus Carlsen, played a solid draw, allowing the Amer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-2",
-         "pubDate" : "Sat, 03 Sep 2022 18:55:00 -0700",
-         "title" : "King Hans Lets Chess Speak For Itself"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/would-the-world-championship-match-between-carlsen-and-nepo-be-t/",
          "pubDate" : "Sat, 03 Sep 2022 08:58:04 +0000",
          "title" : "Another Championship Match Between Carlsen and Nepo Would Be Boring"
-      },
-      {
-         "description" : "The 2022 Sinquefield Cup came off to a good start with one win and four draws. The win came courtesy of World Champion Magnus Carlsen who in convincing fashion took down the recent winner of the 2022 Candidates Tournament, GM Ian Nepomniachtchi. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-1",
-         "pubDate" : "Sat, 03 Sep 2022 00:34:00 -0700",
-         "title" : "Machine-like Efficiency By Carlsen To Beat Nepomniachtchi"
       },
       {
          "description" : "",
