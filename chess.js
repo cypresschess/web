@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Tue, 20 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup: Live"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94333783.cms\" />Norwegian world chess champion Magnus Carlsen abruptly withdrew from a game against American Hans Niemann, reigniting an ongoing cheating controversy in the sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -626,7 +634,7 @@ news_feed (
          "title" : "Congratulations Pranav Anand & Ilamparthi A R"
       },
       {
-         "description" : "On day three of the Chess.com Global Chess Championship, GM Peter Svidler triumphed vs. GM Alexei Shirov in their veteran face-off, scoring the only 3-0 sweep of the day. World championship challenger GM Ian Nepomniachtchi and nineteen-year-old GM...",
+         "description" : "On day three of the Chess.com Global Chess Championship, GM Peter Svidler triumphed vs. GM Alexei Shirov in their veteran face-off, scoring the only 3-0 sweep of the day. World championship challenger GM Ian Nepomniachtchi and 19-year-old GM Arjun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d3",
@@ -1530,14 +1538,6 @@ news_feed (
          "title" : "Hans Niemann publicly blaming Hikaru Nakamura. Is it payback?"
       },
       {
-         "description" : "In the last few days the chess world has been in enormous upheaval after the World Champion Magnus Carlsen withdrew from the Sinquefield Cup in protest after three rounds, with an unspoken accusation of cheating of the player who had defeated him, US rising star Hans Niemann. Lines were drawn, accusations made and defenses stated. Here is a full overview of both sides of this explosive controversy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-carlsen-niemann-affair",
-         "pubDate" : "Thu, 08 Sep 2022 11:33:29 +0100",
-         "title" : "The Carlsen-Niemann Affair"
-      },
-      {
          "description" : "The much awaited World Youth Chess championship 2022 kick starts in Romania. Most of the Indians had a smooth sailing in the first 2 games.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1951",
          "pubDate" : "Tue, 30 Aug 2022 20:32:00 +0000",
          "title" : "Filip Haring wins FIDE Slovak Open"
-      },
-      {
-         "description" : "It's Yahoo time again (see the footnote for an explanation of Yahoos) and what a great month it's been for chess stories in the mainstream press. Last month we had <A HREF=\"http://chessforallages.blogspot.com/2022/07/candidate-and-olympiad-yahoos.html\">Candidate and Olympiad Yahoos</A>(July 2022), when the Olympiad was just getting started. This month we had nearly 20 stories related to the Olympiad, but I'm getting ahead of myself. Let's first have the top level stats. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mh30.gif\" WIDTH=190 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> <I>Google News</I> returned 99 stories of which 95 were for the current month. The 11 sources with more than two st",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/08/olympiad-business-and-political-yahoos.html",
-         "pubDate" : "Tue, 30 Aug 2022 15:31:00 +0000",
-         "title" : "Olympiad, Business, and Political Yahoos"
       }
    ]
 }
