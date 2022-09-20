@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94333783.cms\" />Norwegian world chess champion Magnus Carlsen abruptly withdrew from a game against American Hans Niemann, reigniting an ongoing cheating controversy in the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-magnus-carlsen-quits-game-amid-cheating-allegations/articleshow/94333783.cms",
+         "pubDate" : "Tue, 20 Sep 2022 15:25:27 +0000",
+         "title" : "World champion Magnus Carlsen quits game amid cheating allegations"
+      },
+      {
          "description" : "In the diagram position Black played the seemingly innocuous move 31...b5?, which gave White a surprising opportunity to win the game and to show the art of simplification at its best - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/small-move-big-effect",
          "pubDate" : "Tue, 20 Sep 2022 16:00:00 +0100",
          "title" : "Small move, big effect!"
+      },
+      {
+         "description" : "19-year-old Hans Niemann yesterday AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as&#xA0;Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#xA0;See the timetable of happenings related to Niemann &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-day-3-live/",
+         "pubDate" : "Tue, 20 Sep 2022 14:54:54 +0000",
+         "title" : "Julius Baer Generation Cup - Day 3 live"
+      },
+      {
+         "description" : "19-year-old Hans Niemann yesterday AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#xA0;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/naroditsky-i-am-pretty-confident-that-magnus-believes-niemann-has-cheated-over-the-board-before-saint-louis/",
+         "pubDate" : "Tue, 20 Sep 2022 14:42:43 +0000",
+         "title" : "Naroditsky: I am pretty confident that Magnus believes Niemann has cheated over the board before Saint Louis"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG\" data-image-dimensions=\"377x227\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6329ca793a885d55577fa0e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the 2021 US Women's Champion and one of the top junior female players in the world,<a href=\"https://en.wikipedia.org/wiki/Carissa_Yip\" ta",
@@ -136,22 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/carlsens-resignation-is-the-top-story-in-norwegian-newspapers/",
          "pubDate" : "Tue, 20 Sep 2022 07:10:19 +0000",
          "title" : "Carlsen's resignation is the top story in Norwegian newspapers"
-      },
-      {
-         "description" : "Magnus Carlsen stocked controversy in the&#xA0;Julius Baer Generation Cup today as he sensationally quit his game with American star Hans Niemann after playing just one move. The World Champion caused a wave of shock when he pulled out of a match for the second time in two weeks, seemingly in protest at alleged cheating. Replay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/erigaisi-takes-sole-lead-in-julius-baer-generation-cup-as-carlsen-resigns/",
-         "pubDate" : "Tue, 20 Sep 2022 06:27:14 +0000",
-         "title" : "Erigaisi takes sole lead in Julius Baer Generation Cup as Carlsen resigns"
-      },
-      {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament. Replay the game Hans Niemann &#x2013; Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/martin-b-justesen-carlsen-is-handling-the-chess-com-merger-like-elon-musk-did-with-the-purchase-of-twitter/",
-         "pubDate" : "Tue, 20 Sep 2022 06:04:29 +0000",
-         "title" : "Martin B. Justesen: Carlsen is handling the Chess.com merger like Elon Musk did with the purchase of Twitter"
       },
       {
          "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
