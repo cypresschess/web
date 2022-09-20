@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Time trouble is a serious problem for chess players. Understanding how to balance thinking enough to avoid mistakes during the game, with not thinking too much and getting into time trouble is a talent in itself. This afternoon, none less than four of the games were essentially decided between moves thirty and forty, when players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-takes-sole-lead-at-the-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Tue, 20 Sep 2022 18:58:42 +0000",
+         "title" : "Aleksandra Goryachkina takes sole lead at the FIDE Women's Grand Prix Astana 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1993",
+         "pubDate" : "Tue, 20 Sep 2022 18:42:23 +0000",
+         "title" : "Registration for the 3rd FIDE Educational Seminar \"Chess for children with ASD. Learn & teach\" is open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1992",
+         "pubDate" : "Tue, 20 Sep 2022 18:08:34 +0000",
+         "title" : "FIDE WGP Astana: Goryachkina leads after three rounds"
+      },
+      {
          "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/why-was-hans-niemann-invited-to-the-julius-baer-generation-cup/",
          "pubDate" : "Tue, 20 Sep 2022 08:40:18 +0000",
          "title" : "Why was Hans Niemann invited to the Julius Baer Generation Cup?"
-      },
-      {
-         "description" : "&#x201C;Today was a bloody round&#x201D; were GM Ilya Smirin&#x2019;s first words to me when we left the venue this evening. None less than four out of the six games of the round had a decisive result: a huge percentage for this type of event. But the official commentator's considerations had more to do with the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-bloody-round-2-at-the-fide-womens-grand-prix-astana-2022/",
-         "pubDate" : "Tue, 20 Sep 2022 08:06:53 +0000",
-         "title" : "The bloody Round 2 at the FIDE Women's Grand Prix Astana 2022"
       },
       {
          "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
