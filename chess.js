@@ -18,6 +18,14 @@ news_feed (
          "title" : "The Carlsen - Niemann conflict is more recent than everyone thinks?"
       },
       {
+         "description" : " Yesterday, Magnus Carlsen quit against Hans Niemann after playing his first move after 1.d4 Nf6 2.c4 1-0. The cheating insinuation by Carlsen had been simmering down, but this latest action has thrown gasoline on the fire of a controversy leaving it open to more speculation than before. The last six months have been quite a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/\">Carlsen quits against Niemann the saga continues</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/",
+         "pubDate" : "Tue, 20 Sep 2022 16:13:27 +0000",
+         "title" : "Carlsen quits against Niemann&hellip; the saga continues"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94333783.cms\" />Norwegian world chess champion Magnus Carlsen abruptly withdrew from a game against American Hans Niemann, reigniting an ongoing cheating controversy in the sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
