@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During The Julius Baer Generation Cup []",
+         "description" : "With three rounds to go, a combative final day of preliminaries awaits us in the Generation Cup, as most participants still have chances to reach the knockout stage. Meanwhile, Magnus Carlsen already clinched a spot in the knockout after retaking the lead ahead of Arjun Erigaisi, who nonetheless continues to impress in the online event. | Photo: FIDE / Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d3",
+         "pubDate" : "Wed, 21 Sep 2022 00:50:00 +0100",
+         "title" : "Generation Cup: Carlsen shines, retakes the lead"
+      },
+      {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During The Julius Baer Generation Cup []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/what-if-magnus-carlsen-and-hans-niemann-meet-in-the-julius-baer-generation-cup-knockout-phase/",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1992",
          "pubDate" : "Tue, 20 Sep 2022 18:08:34 +0000",
          "title" : "FIDE WGP Astana: Goryachkina leads after three rounds"
-      },
-      {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Tue, 20 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup: Live"
       },
       {
          "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
