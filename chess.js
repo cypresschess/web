@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/boris-gelfand-vs-magnus-carlsen-julius-baer-generation-cup-r12-live/",
+         "pubDate" : "Tue, 20 Sep 2022 10:09:11 +0000",
+         "title" : "Boris Gelfand vs Magnus Carlsen, Julius Baer Generation Cup R12 LIVE"
+      },
+      {
+         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-levon-aronian-julius-baer-generation-cup-r11-live/",
+         "pubDate" : "Tue, 20 Sep 2022 10:03:17 +0000",
+         "title" : "Hans Niemann vs Levon Aronian, Julius Baer Generation Cup R11 LIVE"
+      },
+      {
+         "description" : "Vaz Ethan and Goutham Krishna H (U-12 Open), Shubhi Gupta (U-12 Girls) , Charvi A (U-8 Girls) jointly leading with 4 points out of 4",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-cadets-chess-championships-2022-batumi-georgia-round-4-19-09-2022/",
+         "pubDate" : "Tue, 20 Sep 2022 09:57:53 +0000",
+         "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 4 (19.09.2022)"
+      },
+      {
+         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-vs-hans-niemann-julius-baer-generation-cup-r10-live/",
+         "pubDate" : "Tue, 20 Sep 2022 09:53:14 +0000",
+         "title" : "Anish Giri vs Hans Niemann, Julius Baer Generation Cup R10 LIVE"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +55,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/world-youth-chess-championship-2022-mamaiaromania-from-september-5-to-september-172022/",
          "pubDate" : "Tue, 20 Sep 2022 09:09:45 +0000",
-         "title" : "World Youth Chess Championship 2022 Mamaia,Romania from September 5 to September 17,2022"
+         "title" : "Final Report:World Youth Chess Championship 2022 Mamaia,Romania from September 5 to September 17,2022"
       },
       {
          "description" : "It was the bloody day yesterday at the FIDE Women&#x2019;s Grand Prix Astana 2022 with four decisive results in the second round of the event.&#xA0;Four players are in the co-lead after the Day 2, and the third round brings another six interesting encounters: Lagno, Kateryna &#x2014; Shuvalova, PolinaKashlinskaya, Alina &#x2014; Goryachkina, AleksandraAssaubayeva, Bibisara &#x2014; Vaishali, []",
@@ -98,28 +130,12 @@ news_feed (
          "title" : "Rolling membership introduction"
       },
       {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament. Replay the game Hans Niemann &#x2013; Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-on-carlsen-nieman-julius-baer-game/",
-         "pubDate" : "Tue, 20 Sep 2022 05:28:28 +0000",
-         "title" : "Nakamura on Carlsen - Nieman Julius Baer game"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94317346.cms\" />India's teenaged Grandmaster Arjun Erigaisi jumped to the top position with 17 points after eight rounds, while his compatriot R Praggnanandhaa is in second place with 15 points at the Julius Baer Cup. The much-awaited Praggnanandhaa-Magnus Carlsen clash in round eight ended in a draw. The Indian had beaten the Norwegian ace twice earlier this season in online matches.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-on-top-r-praggnanandhaa-in-2nd-spot/articleshow/94317346.cms",
          "pubDate" : "Tue, 20 Sep 2022 05:00:29 +0000",
          "title" : "Julius Baer Cup: Arjun Erigaisi on top, R Praggnanandhaa in 2nd spot"
-      },
-      {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament. Replay the game Hans Niemann &#x2013; Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-we-know-about-online-cheating-by-multiple-other-chess-players/",
-         "pubDate" : "Tue, 20 Sep 2022 04:41:22 +0000",
-         "title" : "Anish Giri: we know about online cheating by multiple other chess players"
       },
       {
          "description" : "Magnus Carlsen resigned after 1 move against Hans Niemann in Round 6 of the Julius Baer Generation Cup, ensuring the rest of the day's chess was a mere footnote to that drama. Magnus beat Levon Aronian and survived a scare against Praggnanandhaa to join the young Indian in second place, while a 5-game winning streak took Arjun Erigaisi into the sole lead.",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/breaking-news-magnus-resigns-after-move-one",
          "pubDate" : "Mon, 19 Sep 2022 23:18:28 +0100",
          "title" : "Breaking news: Magnus resigns after move one"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann after the Sinquefield Cup 2022. After&#xA0;Hans Niemann defeated the World []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-resigns-against-hans-niemann-in-the-second-move/",
-         "pubDate" : "Mon, 19 Sep 2022 21:30:00 +0000",
-         "title" : "Magnus Carlsen resigns against Hans Niemann on move 2!"
       },
       {
          "description" : "The American higher seeds, GMs Hikaru Nakamura, Fabiano Caruana, and Jeffery Xiong, won the last of the round of 64 matches on day five of the Chess.com Global Chess Championship. Although the favorites ultimately won, the underdogs gave them seri...",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1950",
          "pubDate" : "Tue, 30 Aug 2022 10:57:40 +0000",
          "title" : "Inmates around the world getting ready for Intercontinental Chess Championship for Prisoners"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1949",
-         "pubDate" : "Tue, 30 Aug 2022 10:08:55 +0000",
-         "title" : "2022 Saint Louis Rapid & Blitz - Day 4 Recap"
       }
    ]
 }
