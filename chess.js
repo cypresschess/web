@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Tue, 20 Sep 2022 10:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
+         "description" : "After a dramatical day two at the Julius Baer Generation Cup, Arjun Erigaisi took the sole lead in the event as Carlsen gifted three points to Hans Niemann resigning in the second move. Erigaisi started his second day defeating Niemann, Aronian, followed by two draws against Praggnanandhaa and Saric.&#xA0;Replay games:&#xA0;Arjun Erigaisi vs Hans Niemann 1-0&#xA0;/&#xA0;Arjun []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaisi-vs-vassily-ivanchuk-julius-baer-generation-cup-r9-live/",
+         "pubDate" : "Tue, 20 Sep 2022 09:46:05 +0000",
+         "title" : "Arjun Erigaisi vs Vassily Ivanchuk, Julius Baer Generation Cup R9 LIVE"
+      },
+      {
+         "description" : "World Youth Chess Championship for the age groups Under 18 (Boys and Girls),Under 16 (Boys and Girls) and Under 14(Boys and Girls) for the year",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-youth-chess-championship-2022-mamaiaromania-from-september-5-to-september-172022/",
+         "pubDate" : "Tue, 20 Sep 2022 09:09:45 +0000",
+         "title" : "World Youth Chess Championship 2022 Mamaia,Romania from September 5 to September 17,2022"
+      },
+      {
+         "description" : "It was the bloody day yesterday at the FIDE Women&#x2019;s Grand Prix Astana 2022 with four decisive results in the second round of the event.&#xA0;Four players are in the co-lead after the Day 2, and the third round brings another six interesting encounters: Lagno, Kateryna &#x2014; Shuvalova, PolinaKashlinskaya, Alina &#x2014; Goryachkina, AleksandraAssaubayeva, Bibisara &#x2014; Vaishali, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-day-3-live/",
+         "pubDate" : "Tue, 20 Sep 2022 08:53:15 +0000",
+         "title" : "FIDE Women's Grand Prix Astana 2022 - Day 3 live"
+      },
+      {
+         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/why-was-hans-niemann-invited-to-the-julius-baer-generation-cup/",
+         "pubDate" : "Tue, 20 Sep 2022 08:40:18 +0000",
+         "title" : "Why was Hans Niemann invited to the Julius Baer Generation Cup?"
+      },
+      {
          "description" : "&#x201C;Today was a bloody round&#x201D; were GM Ilya Smirin&#x2019;s first words to me when we left the venue this evening. None less than four out of the six games of the round had a decisive result: a huge percentage for this type of event. But the official commentator's considerations had more to do with the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -128,30 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d5",
          "pubDate" : "Mon, 19 Sep 2022 14:27:00 -0700",
          "title" : "American Favorites Clean House"
-      },
-      {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#160;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-will-not-give-any-interviews-during-the-tournament/",
-         "pubDate" : "Mon, 19 Sep 2022 21:26:46 +0000",
-         "title" : "Carlsen will not give any interviews during the tournament"
-      },
-      {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#160;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-applauds-pragg-for-the-fantastic-game/",
-         "pubDate" : "Mon, 19 Sep 2022 21:05:28 +0000",
-         "title" : "Magnus Carlsen applauds Pragg for the fantastic game"
-      },
-      {
-         "description" : "Levon Aronian is one of the competitors in the Julius Baer Generation Cup 2022 and he joined the live studio after the second portion of four rounds which were played today. After eight played rounds, Levon Aronian ties for the 9th place with Vincent Keymer as both score 11 points. Aronian shortly commented: &#8220;It was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-i-believe-niemann-hasnt-been-the-cleanest-person-when-it-comes-to-online-chess/",
-         "pubDate" : "Mon, 19 Sep 2022 20:36:23 +0000",
-         "title" : "Levon Aronian: I believe Niemann hasn't been the cleanest person when it comes to online chess"
       },
       {
          "description" : " <p class=\"lead\">The Niemann-Carlsen game at the Julius Baer Generation Cup was the most anticipated one after the recent chess cheating scandal, but the World Champion chose to resign on move 2, log off, and leave everyone speechless and confused. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> It comes without saying that after <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Carlsen's withdrawal</a> from the Sinquefield Cup 2022, and the <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-a",
@@ -986,6 +1002,14 @@ news_feed (
          "title" : "The Battles of Hastings: Remembering the Hastings Tournament of 1895"
       },
       {
+         "description" : " From the publisher's blurb: &#8220;As late as 1950, many chess clubs in America excluded women. The Marshall Chess Club in New York City was an exception, organizing the U.S. Women's Chess Championship beginning in the late 1930s. Since the 1980s, the average rating of the players has increased. The Saint Louis Chess Club has organized <a href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">United States Women's Chess Champions, 1937-2020</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/",
+         "pubDate" : "Tue, 13 Sep 2022 00:10:03 +0000",
+         "title" : "United States Women's Chess Champions, 1937-2020"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series will kick off on September 18 in Nur-Sultan, the capital of Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix will consist of four tournaments (to be played in Kazakhstan, Germany, India and Poland). Each player will participate in three out of the four tournaments. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1488,14 +1512,6 @@ news_feed (
          "link" : "https://aicf.in/ongc-sports-scholarship-scheme-2022-23/",
          "pubDate" : "Thu, 08 Sep 2022 05:30:05 +0000",
          "title" : "ONGC Sports Scholarship Scheme 2022-23"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #532 Merijn van Delft looks at the controversial game between Magnus Carlsen and Hans Niemann at the Sinquefield Cup 2022. Carlsen lost with White and then withdrew from the tournament. The tweet, with which Carlsen announced his withdrawal caused a fervent and on-going debate whether Niemann cheated when he won against Carlsen. But what about the game? | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-532-m-carlsen-vs-o-h-niemann",
-         "pubDate" : "Wed, 07 Sep 2022 18:00:00 +0100",
-         "title" : "Game of the Week #532: M. Carlsen vs O. H. Niemann"
       },
       {
          "description" : "GMs Hikaru Nakamura and Daniil Dubov were big winners in Titled Tuesday on September 6, both winning a tournament and finishing top three in the other. Nakamura began the early tournament with 9/9 before drawing his last two games against GM Vasyl...",
