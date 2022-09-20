@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position, which shows the end of a game Magnus Carlsen and Maxime Vachier-Lagrave played at the Norway Chess Tournament 2022, it is Black to move and he has to find a way to make use of his far advanced pawns before White manages to coordinate his forces. But what exactly should Black do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/what-to-do-where-to-go",
+         "pubDate" : "Tue, 20 Sep 2022 09:00:00 +0100",
+         "title" : "What to do, where to go?"
+      },
+      {
+         "description" : "It is the story that refuses to die, and with the renewed silent protest by World Champion Magnus Carlsen it is little wonder too. Could he be justified in these dramatic gestures? The world's greatest expert on cheating detection in chess, Professor Kenneth Regan, has analyzed all of Hans Niemann's games over the last two years, online and offline, and renders his verdict.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/is-hans-niemann-cheating-world-renowned-expert-ken-regan-analyzes",
+         "pubDate" : "Tue, 20 Sep 2022 08:57:13 +0100",
+         "title" : "Is Hans Niemann cheating? - World renowned expert Ken Regan analyzes"
+      },
+      {
+         "description" : "Julius Baer Generation Cup gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between Hans Niemann and Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when Carlsen withdrew from the event after losing to Niemann in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsens-resignation-is-the-top-story-in-norwegian-newspapers/",
+         "pubDate" : "Tue, 20 Sep 2022 07:10:19 +0000",
+         "title" : "Carlsen's resignation is the top story in Norwegian newspapers"
+      },
+      {
+         "description" : "Magnus Carlsen stocked controversy in the&#xA0;Julius Baer Generation Cup today as he sensationally quit his game with American star Hans Niemann after playing just one move. The World Champion caused a wave of shock when he pulled out of a match for the second time in two weeks, seemingly in protest at alleged cheating. Replay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/erigaisi-takes-sole-lead-in-julius-baer-generation-cup-as-carlsen-resigns/",
+         "pubDate" : "Tue, 20 Sep 2022 06:27:14 +0000",
+         "title" : "Erigaisi takes sole lead in Julius Baer Generation Cup as Carlsen resigns"
+      },
+      {
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament. Replay the game Hans Niemann &#x2013; Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/martin-b-justesen-carlsen-is-handling-the-chess-com-merger-like-elon-musk-did-with-the-purchase-of-twitter/",
+         "pubDate" : "Tue, 20 Sep 2022 06:04:29 +0000",
+         "title" : "Martin B. Justesen: Carlsen is handling the Chess.com merger like Elon Musk did with the purchase of Twitter"
+      },
+      {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Tue, 20 Sep 2022 06:00:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
          "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament. Replay the game Hans Niemann &#x2013; Magnus []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,20 +82,20 @@ news_feed (
          "title" : "Generation Cup 2: Carlsen resigns after 1 move, Erigaisi leads"
       },
       {
-         "description" : "On Monday World Chess Champion Magnus Carlsen resigned after making the first move in his game against Hans Niemann. He has hinted that the young grandmaster may have cheated in his previous game between the two grandmasters. Now Carlsen action is really hitting the news pages of the World mainstream press. Full report to follow soon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-news-magnus-resigns-after-move-one",
-         "pubDate" : "Tue, 20 Sep 2022 00:18:28 +0100",
-         "title" : "Breaking news: Magnus resigns after move one"
-      },
-      {
          "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/generation-cup-2022-d2",
          "pubDate" : "Tue, 20 Sep 2022 00:05:00 +0100",
          "title" : "Generation Cup: Drama takes centre stage as Arjun grabs the lead"
+      },
+      {
+         "description" : "On Monday World Chess Champion Magnus Carlsen resigned after making the first move in his game against Hans Niemann. He has hinted that the young grandmaster may have cheated in his previous game between the two grandmasters. Now Carlsen action is really hitting the news pages of the World mainstream press. Full report to follow soon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-news-magnus-resigns-after-move-one",
+         "pubDate" : "Mon, 19 Sep 2022 23:18:28 +0100",
+         "title" : "Breaking news: Magnus resigns after move one"
       },
       {
          "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event will feature 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann after the Sinquefield Cup 2022. After&#xA0;Hans Niemann defeated the World []",
@@ -82,7 +130,7 @@ news_feed (
          "title" : "Astana GP: Four decisive results, four co-leaders"
       },
       {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#xA0;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
+         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#160;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-applauds-pragg-for-the-fantastic-game/",
@@ -106,28 +154,12 @@ news_feed (
          "title" : "Niemann's and Carlsen's facial expressions during their 2-move game"
       },
       {
-         "description" : "Kenneth Regan, a UB faculty expert with expertise in&#160;chess, with a focus on identifying cheaters, joined the live studio of Julius Baer Generation Cup commenting on the recent happenings of the Niemann Carlsen case. Regan first commented on Carlsen's resignation in the second move saying that Carlsen's reaction is not appropriate, especially taking into []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fair-play-specialist-kenneth-regan-niemann-played-well-but-not-too-well/",
-         "pubDate" : "Mon, 19 Sep 2022 19:09:51 +0000",
-         "title" : "Fair-Play specialist Kenneth Regan: Niemann played well, but not too well"
-      },
-      {
          "description" : " <p class=\"lead\">The Niemann-Carlsen game at the Julius Baer Generation Cup was the most anticipated one after the recent chess cheating scandal, but the World Champion chose to resign on move 2, log off, and leave everyone speechless and confused. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> It comes without saying that after <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Carlsen's withdrawal</a> from the Sinquefield Cup 2022, and the <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-a",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/",
          "pubDate" : "Mon, 19 Sep 2022 18:58:33 +0000",
          "title" : "Carlsen chose drama against Niemann, resigned after move 2"
-      },
-      {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned.&#xA0;Replay the game Hans Niemann &#x2013; Magnus Carlsen here Norwegian Chess grandmaster and a member of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hammer-says-carlsen-should-be-sanctioned-in-live-norwegian-tv-program/",
-         "pubDate" : "Mon, 19 Sep 2022 18:43:01 +0000",
-         "title" : "Hammer says Carlsen should be sanctioned in live Norwegian TV program"
       },
       {
          "description" : "",
@@ -138,20 +170,12 @@ news_feed (
          "title" : "Tactics and time trouble in Astana"
       },
       {
-         "description" : "This is a flash report. The full report will be added to this page soon. After leading the Julius Baer Generation Cup on the first day, GM Magnus Carlsen sent waves through the chess world by playing only one move vs. GM Hans Niemann in their an...",
+         "description" : "On the second day of the Julius Baer Generation Cup, GM Magnus Carlsen sent waves through the chess world by playing only one move vs. GM Hans Niemann in their anticipated game before resigning. GM Arjun Erigaisi leads the event with 17 points, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-2",
          "pubDate" : "Mon, 19 Sep 2022 10:53:00 -0700",
-         "title" : "Flash Report: World Champion Resigns After 1 Move Vs. Niemann, Erigaisi Leads"
-      },
-      {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, and it is questionable if he will continue playing the Julius Baer Generation Cup. Replay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-resignation-speaks-for-itself-tweetoftheday/",
-         "pubDate" : "Mon, 19 Sep 2022 17:39:41 +0000",
-         "title" : "The resignation speaks for itself #TweetOftheDay"
+         "title" : "World Champion Resigns After 1 Move Vs. Niemann, Erigaisi Leads"
       },
       {
          "description" : "This week Robert Ris will have a look at the current state of the good old Dilworth Variation in the Open Ruy Lopez. The material imbalance of two minor pieces vs a rook and pawn (or two) leads to fascinating play with chances for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1474,28 +1498,12 @@ news_feed (
          "title" : "Nakamura Nearly Perfect Early, Nearly Sweeps Late"
       },
       {
-         "description" : "Our ineffable Karsten Mueller brings this lovely set of endgames for both your entertainment and enjoyment as well as one more learning lesson. Be sure to check out how to beat a 2800 in a rook endgame, not to mention scary positions you should not be afraid of, and when sending a knight to a corner can be a saving maneuver. The last position has some aesthetic ideas that serve as the cherry on top.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-2",
-         "pubDate" : "Wed, 07 Sep 2022 17:15:00 +0100",
-         "title" : "Karsten M&uuml;ller: Topical Endgames"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94057419.cms\" />Hans Niemann has been in the middle of a storm at the ongoing Sinquefield Cup in St Louis, Missouri, after Magnus Carlsen withdrew from the tournament on Monday. With accusations of cheating being levelled against Niemann, the 19-year-old responded by denying any wrongdoing in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hans-niemann-hits-back-at-magnus-carlsen-hikaru-nakamura/articleshow/94057419.cms",
          "pubDate" : "Wed, 07 Sep 2022 15:01:57 +0000",
          "title" : "Hans Niemann hits back at Magnus Carlsen & Hikaru Nakamura"
-      },
-      {
-         "description" : "A major highlight of this year's Chess Olympiad was the stellar performance of the India 2 team. Composed mostly of teenage grandmasters, it finished third and narrowly missed gold. Grandmaster RB Ramesh was the coach of the young team. When he recently was in the Paris suburb of Asnieres to share his experience with 25 French coaches, he talked to Dhananjay Khadilkar about the Olympiad, his career, his students, the secrets of becoming a good coach, and more. | Photos: Dhananjay Khadilkar",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/unless-you-are-emotionally-invested-it-s-tough-to-become-a-good-coach-an-interview-with-top-coach",
-         "pubDate" : "Wed, 07 Sep 2022 16:00:00 +0100",
-         "title" : "\"Unless you are emotionally invested, it's tough to become a good coach\" - An interview with top coach RB Ramesh"
       },
       {
          "description" : "On August 27-28, during the Independence Day weekend, the first big chess tournament since the start of the war was held in Kyiv, Ukraine. A 30-year-long chess tradition was continued in the Ukrainian capital, where the war has moved away, but nev...",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-girl-savitha-shri-becomes-junior-world-no-3/articleshow/93956140.cms",
          "pubDate" : "Fri, 02 Sep 2022 15:57:20 +0000",
          "title" : "Chennai girl Savitha Shri becomes junior World No. 3"
-      },
-      {
-         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
-         "pubDate" : "Fri, 02 Sep 2022 15:44:45 +0000",
-         "title" : "Rolling membership introduction"
       },
       {
          "description" : "Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html\">September 1972 & 1997 'On the Cover'</A>(September 2022), fell on an important anniversary in chess history:- <BLOCKQUOTE>The date of today's post, 1 September, marks 50 years since the historic match ended. </BLOCKQUOTE> <P>The historic match, as many online chess resources have been reminding us for the past two months, was the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Title Match</A>(m-w.com).The subtitle for that page says, 'Reykjavik, VII-VIII, 1972'; perhaps it should say, 'VII-IX'. <P>One of the early posts in this <I>Fischer Friday</I> series ",
