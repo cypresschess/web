@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During The Julius Baer Generation Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/what-if-magnus-carlsen-and-hans-niemann-meet-in-the-julius-baer-generation-cup-knockout-phase/",
+         "pubDate" : "Tue, 20 Sep 2022 20:47:31 +0000",
+         "title" : "What if Magnus Carlsen and Hans Niemann meet in the Julius Baer Generation Cup Knockout phase?"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French start-up <strong>Immortal Game</strong> that is bringing Play2Earn to online chess based on monetization through NFT pieces has raised $3,5 million a few months ago and $12 million now from <strong>The Chernin Group</strong> (TCG) Crypto Fund and <strong>Greenfield</strong>, another investment company specializing in crypto companies. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/immortal-game-raised-155-million/",
+         "pubDate" : "Tue, 20 Sep 2022 20:46:40 +0100",
+         "title" : "Immortal Game raised $15,5 million"
+      },
+      {
          "description" : "Time trouble is a serious problem for chess players. Understanding how to balance thinking enough to avoid mistakes during the game, with not thinking too much and getting into time trouble is a talent in itself. This afternoon, none less than four of the games were essentially decided between moves thirty and forty, when players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -176,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-day-3-live/",
          "pubDate" : "Tue, 20 Sep 2022 08:53:15 +0000",
          "title" : "FIDE Women's Grand Prix Astana 2022 - Day 3 live"
-      },
-      {
-         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/why-was-hans-niemann-invited-to-the-julius-baer-generation-cup/",
-         "pubDate" : "Tue, 20 Sep 2022 08:40:18 +0000",
-         "title" : "Why was Hans Niemann invited to the Julius Baer Generation Cup?"
       },
       {
          "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/lviv-vs-berlin/",
          "pubDate" : "Fri, 16 Sep 2022 13:02:27 +0100",
          "title" : "Lviv vs Berlin"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>ECU</strong> <a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">added two commissions</a>: The <strong>Media and Communications Commission</strong> is chaired by <strong>Pavel Matocha</strong>, a journalist and organiser from Prague, while the <strong>Social Commission</strong> is chaired by <strong>Franck Droin</strong>, a Parisian health business consultant who started a similar commission in France. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/matocha-and-droin-appointed-by-ecu/",
-         "pubDate" : "Fri, 16 Sep 2022 12:14:18 +0100",
-         "title" : "Matocha and Droin appointed by ECU"
       },
       {
          "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-60/",
          "pubDate" : "Wed, 31 Aug 2022 07:02:58 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (60)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1951",
-         "pubDate" : "Tue, 30 Aug 2022 20:32:00 +0000",
-         "title" : "Filip Haring wins FIDE Slovak Open"
       }
    ]
 }
