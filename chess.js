@@ -18,6 +18,14 @@ news_feed (
          "title" : "Hans Niemann vs Levon Aronian, Julius Baer Generation Cup R11 LIVE"
       },
       {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-61/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (61)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-61/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (61)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-61/",
+         "pubDate" : "Tue, 20 Sep 2022 10:00:12 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (61)"
+      },
+      {
          "description" : "Vaz Ethan and Goutham Krishna H (U-12 Open), Shubhi Gupta (U-12 Girls) , Charvi A (U-8 Girls) jointly leading with 4 points out of 4",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2088,14 +2096,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/30/ep-294-ep-294-gm-fabiano-caruana-on-engines-the-evolution-of-chess-the-candidates-tournament-and-the-world-championship-cycle",
          "pubDate" : "Tue, 30 Aug 2022 13:15:47 +0000",
          "title" : "EP 294- GM Fabiano Caruana on Engines, The Evolution of Chess, the Candidates Tournament, and the World Championship Cycle. "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1950",
-         "pubDate" : "Tue, 30 Aug 2022 10:57:40 +0000",
-         "title" : "Inmates around the world getting ready for Intercontinental Chess Championship for Prisoners"
       }
    ]
 }
