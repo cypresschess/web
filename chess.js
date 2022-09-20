@@ -10,12 +10,12 @@ news_feed (
          "title" : "Generation Cup: Live"
       },
       {
-         "description" : " Yesterday, Magnus Carlsen quit against Hans Niemann after playing his first move after 1.d4 Nf6 2.c4 1-0. The cheating insinuation by Carlsen had been simmering down, but this latest action has thrown gasoline on the fire of a controversy leaving it open to more speculation than before. The last six months have been quite a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/\">Carlsen quits against Niemann at the end?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/",
-         "pubDate" : "Tue, 20 Sep 2022 16:13:27 +0000",
-         "title" : "Carlsen quits against Niemann&hellip; at the end?"
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-carlsen-niemann-conflict-is-more-recent-than-everyone-thinks/",
+         "pubDate" : "Tue, 20 Sep 2022 16:22:41 +0000",
+         "title" : "The Carlsen - Niemann conflict is more recent than everyone thinks?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94333783.cms\" />Norwegian world chess champion Magnus Carlsen abruptly withdrew from a game against American Hans Niemann, reigniting an ongoing cheating controversy in the sport.",
@@ -24,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-magnus-carlsen-quits-game-amid-cheating-allegations/articleshow/94333783.cms",
          "pubDate" : "Tue, 20 Sep 2022 15:25:27 +0000",
          "title" : "World champion Magnus Carlsen quits game amid cheating allegations"
+      },
+      {
+         "description" : "It is the story that refuses to die, and with the renewed silent protest by World Champion Magnus Carlsen it is little wonder too. Could he be justified in these dramatic gestures? The world's greatest expert on cheating detection in chess, Professor Kenneth Regan, has analyzed all of Hans Niemann's games over the last two years, online and offline, and renders his verdict.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/is-hans-niemann-cheating-world-renowned-expert-ken-regan-analyzes",
+         "pubDate" : "Tue, 20 Sep 2022 16:05:00 +0100",
+         "title" : "Is Hans Niemann cheating? - World renowned expert Ken Regan analyzes"
       },
       {
          "description" : "In the diagram position Black played the seemingly innocuous move 31...b5?, which gave White a surprising opportunity to win the game and to show the art of simplification at its best - enjoy!",
@@ -154,28 +162,20 @@ news_feed (
          "title" : "The bloody Round 2 at the FIDE Women's Grand Prix Astana 2022"
       },
       {
+         "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d2",
+         "pubDate" : "Tue, 20 Sep 2022 09:05:00 +0100",
+         "title" : "Generation Cup: Drama takes centre stage as Arjun grabs the lead"
+      },
+      {
          "description" : "In the diagrammed position, which shows the end of a game Magnus Carlsen and Maxime Vachier-Lagrave played at the Norway Chess Tournament 2022, it is Black to move and he has to find a way to make use of his far advanced pawns before White manages to coordinate his forces. But what exactly should Black do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/what-to-do-where-to-go",
          "pubDate" : "Tue, 20 Sep 2022 09:00:00 +0100",
          "title" : "What to do, where to go?"
-      },
-      {
-         "description" : "It is the story that refuses to die, and with the renewed silent protest by World Champion Magnus Carlsen it is little wonder too. Could he be justified in these dramatic gestures? The world's greatest expert on cheating detection in chess, Professor Kenneth Regan, has analyzed all of Hans Niemann's games over the last two years, online and offline, and renders his verdict.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/is-hans-niemann-cheating-world-renowned-expert-ken-regan-analyzes",
-         "pubDate" : "Tue, 20 Sep 2022 08:57:13 +0100",
-         "title" : "Is Hans Niemann cheating? - World renowned expert Ken Regan analyzes"
-      },
-      {
-         "description" : "Julius Baer Generation Cup gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between Hans Niemann and Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when Carlsen withdrew from the event after losing to Niemann in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsens-resignation-is-the-top-story-in-norwegian-newspapers/",
-         "pubDate" : "Tue, 20 Sep 2022 07:10:19 +0000",
-         "title" : "Carlsen's resignation is the top story in Norwegian newspapers"
       },
       {
          "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
@@ -200,14 +200,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/jb-generation-cup-2-carlsen-resigns-after-1-move-erigaisi-leads",
          "pubDate" : "Tue, 20 Sep 2022 04:20:57 +0000",
          "title" : "Generation Cup 2: Carlsen resigns after 1 move, Erigaisi leads"
-      },
-      {
-         "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d2",
-         "pubDate" : "Tue, 20 Sep 2022 00:05:00 +0100",
-         "title" : "Generation Cup: Drama takes centre stage as Arjun grabs the lead"
       },
       {
          "description" : "Four decisive games in the second round of the Astana Grand Prix left four players tied for first place on 1&frac12;/2 points. Bibisara Assaubayeva, Alina Kashlinskaya and Zhu Jiner won to join Aleksandra Goryachkina in the lead, while Polina Shuvalova bounced back from her loss on Sunday to return to a fifty-percent score. | Photos: FIDE / Anna Shtourman",
