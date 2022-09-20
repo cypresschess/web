@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#x201C;Today was a bloody round&#x201D; were GM Ilya Smirin&#x2019;s first words to me when we left the venue this evening. None less than four out of the six games of the round had a decisive result: a huge percentage for this type of event. But the official commentator's considerations had more to do with the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-bloody-round-2-at-the-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Tue, 20 Sep 2022 08:06:53 +0000",
+         "title" : "The bloody Round 2 at the FIDE Women's Grand Prix Astana 2022"
+      },
+      {
          "description" : "In the diagrammed position, which shows the end of a game Magnus Carlsen and Maxime Vachier-Lagrave played at the Norway Chess Tournament 2022, it is Black to move and he has to find a way to make use of his far advanced pawns before White manages to coordinate his forces. But what exactly should Black do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,6 +98,14 @@ news_feed (
          "title" : "Generation Cup: Drama takes centre stage as Arjun grabs the lead"
       },
       {
+         "description" : "Four decisive games in the second round of the Astana Grand Prix left four players tied for first place on 1&frac12;/2 points. Bibisara Assaubayeva, Alina Kashlinskaya and Zhu Jiner won to join Aleksandra Goryachkina in the lead, while Polina Shuvalova bounced back from her loss on Sunday to return to a fifty-percent score. | Photos: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r2",
+         "pubDate" : "Mon, 19 Sep 2022 23:30:00 +0100",
+         "title" : "Astana GP: Four decisive results, four co-leaders"
+      },
+      {
          "description" : "On Monday World Chess Champion Magnus Carlsen resigned after making the first move in his game against Hans Niemann. He has hinted that the young grandmaster may have cheated in his previous game between the two grandmasters. Now Carlsen action is really hitting the news pages of the World mainstream press. Full report to follow soon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "Carlsen will not give any interviews during the tournament"
       },
       {
-         "description" : "Four decisive games in the second round of the Astana Grand Prix left four players tied for first place on 1&frac12;/2 points. Bibisara Assaubayeva, Alina Kashlinskaya and Zhu Jiner won to join Aleksandra Goryachkina in the lead, while Polina Shuvalova bounced back from her loss on Sunday to return to a fifty-percent score. | Photos: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r2",
-         "pubDate" : "Mon, 19 Sep 2022 22:15:00 +0100",
-         "title" : "Astana GP: Four decisive results, four co-leaders"
-      },
-      {
          "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#160;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/levon-aronian-i-believe-niemann-hasnt-been-the-cleanest-person-when-it-comes-to-online-chess/",
          "pubDate" : "Mon, 19 Sep 2022 20:36:23 +0000",
          "title" : "Levon Aronian: I believe Niemann hasn't been the cleanest person when it comes to online chess"
-      },
-      {
-         "description" : "19-year-old Hans Niemann today AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as&#160;Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he came back online for the game against Levon Aronian and continued competing in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/niemanns-and-carlsens-facial-expressions-during-their-2-move-game/",
-         "pubDate" : "Mon, 19 Sep 2022 20:35:13 +0000",
-         "title" : "Niemann's and Carlsen's facial expressions during their 2-move game"
       },
       {
          "description" : " <p class=\"lead\">The Niemann-Carlsen game at the Julius Baer Generation Cup was the most anticipated one after the recent chess cheating scandal, but the World Champion chose to resign on move 2, log off, and leave everyone speechless and confused. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> It comes without saying that after <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Carlsen's withdrawal</a> from the Sinquefield Cup 2022, and the <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-a",
@@ -184,6 +184,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-attractions-of-the-dilworth-variation",
          "pubDate" : "Mon, 19 Sep 2022 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: The attractions of the Dilworth Variation"
+      },
+      {
+         "description" : "The buzz in the chess world has been dominated for the last two weeks by the Carlsen/Nakamura vs. Niemann affair. Finding it impossible to ignore, I documented it in the post <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022). Talkchess members discussed the technical possibilities for cheating in two related threads:- <UL><LI>2022-12-06: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=80630\">Carlsen withdrawal after loss to Niemann</A>(talkchess.com; lkaufman) &#149; 'I am posting here to ask those who are technologically knowledgeable how they would go about getting computer",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/talkchess-talks-current-topics.html",
+         "pubDate" : "Mon, 19 Sep 2022 15:30:00 +0000",
+         "title" : "Talkchess Talks Current Topics"
       },
       {
          "description" : " Former World Champion Garry Kasparov had a tough time of it in the Chess 960 event in St Louis, finishing with a single draw over 9 games. He did acknowledge that the main reason for his showing was a lack of recent activity. Usually a decline in ability is attributed to the effects of aging, but it is more likely that simply playing less is the real culprit. Both Korchnoi and Smyslov were able to play high level chess well into their 70's, outlasting much younger players who had retired earlier. The JB Generation Cup is currently running, pitting new stars against old. Although the younger generation looks to have the upper hand, 53 year old Vasyl Ivanchuk did strike a blow for the seniors",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1949",
          "pubDate" : "Tue, 30 Aug 2022 10:08:55 +0000",
          "title" : "2022 Saint Louis Rapid & Blitz - Day 4 Recap"
-      },
-      {
-         "description" : "After nine played rounds at the European Women's Chess Championship 2022, GM Monika Socko (POL, 2423) is the sole leader of the event with score of 7.5 points. Monika Socko (POL, 2423) drew in the ninth round against WGM Fataliyeva Ulviyya (AZE, 2413) to maintain the sole leadership with only two rounds to go. IM Gunay Mammadzada (AZE,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2022-r9-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2022-r9-report/",
-         "pubDate" : "Tue, 30 Aug 2022 08:15:22 +0000",
-         "title" : "European Women's Chess Championship 2022 - R9 report"
       }
    ]
 }
