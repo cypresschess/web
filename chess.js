@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2022-r9-report/",
          "pubDate" : "Tue, 30 Aug 2022 08:15:22 +0000",
          "title" : "European Women's Chess Championship 2022 - R9 report"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;What is it that makes Magnus Carlsen the strongest chess player in the world? Why do Carlsen's opponents, the best <a href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-an",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/08/30/the-magnus-method-the-singular-skills-of-the-worlds-strongest-chess-player-uncovered-and-explained/",
-         "pubDate" : "Tue, 30 Aug 2022 00:10:21 +0000",
-         "title" : "The Magnus Method: The Singular Skills of the World's Strongest Chess Player Uncovered and Explained"
       }
    ]
 }
