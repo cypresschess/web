@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black played the seemingly innocuous move 31...b5?, which gave White a surprising opportunity to win the game and to show the art of simplification at its best - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/small-move-big-effect",
+         "pubDate" : "Tue, 20 Sep 2022 16:00:00 +0100",
+         "title" : "Small move, big effect!"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG\" data-image-dimensions=\"377x227\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6329ca793a885d55577fa0e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the 2021 US Women's Champion and one of the top junior female players in the world,<a href=\"https://en.wikipedia.org/wiki/Carissa_Yip\" ta",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/20/ep-297-im-carissa-yip-on-her-love-for-the-kings-indian-defense-why-levon-aronian-is-her-favorite-player-and-the-ups-and-downs-of-her-first-chess-olympiad",
+         "pubDate" : "Tue, 20 Sep 2022 14:16:53 +0000",
+         "title" : "EP 297- IM Carissa Yip on her love for the King's Indian Defense, Why Levon Aronian is her favorite player and the ups and downs of her first Chess Olympiad. "
+      },
+      {
+         "description" : " Following the latest opening theory I tried to finish tonight's game with 2.c4. Instead my opponent decided to resist for a few more moves, but eventually the pawer of the c pawn did the business. <br /> <b>Press,Shaun - Cheng,Larry [E65]</b><br />Gungahlin CC (6), 20.09.2022 <script>new PgnViewer( { boardName: \"game1352\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.Nc3 c5 7.O-O e6 8.Bg5 Qc7 9.Nb5 Qb6 10.a4 a6 11.dxc5 Qxc5 12.Qxd6 Ne4 13.Qxc5 Nxc5 14.Nc7 Ra7 15.Be7 b6 16.Bxf8 Kxf8 17.Nb5 axb5 18.axb5 Rc7 19.Ra8 Nbd7 20.b4 Ne4 21.Rd1 Ke7 22.Nd4 Bb7 23.Nc6+ Bxc6 24.bxc6 Ndf6 25.b5 Nc3 26.Rd2 Nce4 27.Rc2 Nc5 28.Rb8 Na4 29.Rb7 Kd8 30.Rxc7 Kxc7 31.Ra2 Nc3 32",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/apparently-2c4-doesnt-win-instantly.html",
+         "pubDate" : "Tue, 20 Sep 2022 12:32:00 +0000",
+         "title" : "Apparently 2.c4 doesn't win instantly"
+      },
+      {
          "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -202,7 +226,7 @@ news_feed (
          "title" : "Tactics and time trouble in Astana"
       },
       {
-         "description" : "On the second day of the Julius Baer Generation Cup, GM Magnus Carlsen sent waves through the chess world by playing only one move vs. GM Hans Niemann in their anticipated game before resigning. GM Arjun Erigaisi leads the event with 17 points, ...",
+         "description" : "On the second day of the Julius Baer Generation Cup, GM Magnus Carlsen sent waves through the chess world by playing just one move vs. GM Hans Niemann in their anticipated game before resigning. GM Arjun Erigaisi leads the event with 17 points, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-2",
@@ -1506,14 +1530,6 @@ news_feed (
          "title" : "The Carlsen-Niemann Affair"
       },
       {
-         "description" : "Vincent Keymer's win in round 4 of the Polish Ekstraliga took him past the 2700-rating mark for the first time in his career, at age 17. Matthias Bluebaum also obtained a nice victory, as he defeated India's number three Pentala Harikrishna. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vincent-keymer-crosses-2700",
-         "pubDate" : "Thu, 08 Sep 2022 08:30:00 +0100",
-         "title" : "Vincent Keymer crosses 2700"
-      },
-      {
          "description" : "The much awaited World Youth Chess championship 2022 kick starts in Romania. Most of the Indians had a smooth sailing in the first 2 games.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2080,22 +2096,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/08/olympiad-business-and-political-yahoos.html",
          "pubDate" : "Tue, 30 Aug 2022 15:31:00 +0000",
          "title" : "Olympiad, Business, and Political Yahoos"
-      },
-      {
-         "description" : "Clubs and other chess organisations can now renew their insurance through Greens Insurance, using the renewal/application form linked below. Cover will begin when the completed...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/clubs-congress-insurance-2022-23/",
-         "pubDate" : "Tue, 30 Aug 2022 13:52:57 +0000",
-         "title" : "Clubs & Congress Insurance 2022/23 - amended 31/8/22"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg\" data-image-dimensions=\"408x264\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"630e0dbcc5a0422c7f695dc1\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/3b82416e-0e7c-47c9-807e-b864ba9e72f8/Fabiano2.jpg?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the third highest rated chess player of all time, GM Fabiano Caruana. Fabiano joined me from the St. Louis Chess Club just days before he was set t",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/8/30/ep-294-ep-294-gm-fabiano-caruana-on-engines-the-evolution-of-chess-the-candidates-tournament-and-the-world-championship-cycle",
-         "pubDate" : "Tue, 30 Aug 2022 13:15:47 +0000",
-         "title" : "EP 294- GM Fabiano Caruana on Engines, The Evolution of Chess, the Candidates Tournament, and the World Championship Cycle. "
       }
    ]
 }
