@@ -58,7 +58,7 @@ news_feed (
          "title" : "The Carlsen - Niemann conflict is more recent than everyone thinks?"
       },
       {
-         "description" : " Yesterday, Magnus Carlsen quit against Hans Niemann after playing his first move after 1.d4 Nf6 2.c4 1-0. The cheating insinuation by Carlsen had been simmering down, but this latest action has thrown gasoline on the fire of a controversy leaving it open to more speculation than before. The last six months have been quite a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/\">Carlsen quits against Niemann the saga continues</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Yesterday, Magnus Carlsen quit against Hans Niemann after playing his first move. Playing black after 1.d4 Nf6 2.c4 Carlsen resigned and simply logged off abruptly. The cheating insinuation by Carlsen had been simmering down, but this latest action has thrown gasoline on the fire of a controversy leaving it open to more speculation than before. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/\">Carlsen quits against Niemann the saga continues</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/",
