@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Monday, the Chinese Team Championship, a round-robin tournament with 12 teams, ended in Fuling, which is a district of Chongqing. The team of Hangzhou Bank, in which Hou Yifan played on the first women's board, won both the Championship and the subsequent Rapid Championship. | Photos: Chinese Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hangzhou-bank-wins-chinese-team-championship",
+         "pubDate" : "Wed, 21 Sep 2022 12:13:19 +0100",
+         "title" : "Hangzhou Bank wins Chinese Team Championship"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-italian-two-knights-1-e4-e5-2-nf3-nc6-3-bc4-nf6-4-ng5",
          "pubDate" : "Thu, 08 Sep 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: The Italian Two Knights (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5)"
-      },
-      {
-         "description" : "20 years ago today, on September 8, 2002, the match Russia vs. The Rest of the World began in Moscow. It was a rapid match with the world's best players at that time. The Russians wanted to follow up on the USSR vs. the World matches from 1970 and 1984, but things did not go as desired. Dagobert Kohlmeyer was in Moscow in 2002 and now shares memories of a better time. | Photo: Evgeny Bareev, Vladimir Kramnik and Garry Kasparow wonder what's going. | Photo: Boris Dolmatovsky | All other photos: D. Kohlmeyer",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/20-years-ago-russia-vs-the-rest-of-the-world",
-         "pubDate" : "Thu, 08 Sep 2022 17:40:36 +0100",
-         "title" : "20 years ago: Russia vs The Rest of the World"
       },
       {
          "description" : "The game:- <UL><LI>2022-09-04: <A HREF=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">Magnus Carlsen vs Hans Moke Niemann; Sinquefield Cup (2022), Saint Louis, MO USA, rd 3</A>(chessgames.com) <LI>2022-09-07: <A HREF=\"https://www.youtube.com/watch?v=Iq2DJJ_1Nu4\">The Game That Broke the Internet - Carlsen vs Niemann</A>(youtube.com; Epic Chess; analysis: James Gardner) </UL> <P>The players:- <UL><LI>2022-09-05: <A HREF=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523\">Magnus Carlsen on Twitter: \"I've withdrawn from the tournament...\"</A>(twitter.com/MagnusCarlsen) &#149; '...I've always enjoyed playing in the @STLChessClub, and hope to be back in the future.' <LI>2022-09",
