@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top seed Aleksandra Goryachkina (pictured) and Chinese youngster Zhu Jiner are sharing the lead on 3/4 points at the first leg of the Women's Grand Prix in Astana. Zhu, aged 19, has so far defeated Dinara Wagner and Polina Shuvalova after playing three out of her four first games with the black pieces. Bibisara Assaubayeva and Kateryna Lagno stand a half point behind the co-leaders. | Photos: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r4",
+         "pubDate" : "Wed, 21 Sep 2022 21:45:00 +0100",
+         "title" : "Astana GP: Goryachkina and Zhu share the lead"
+      },
+      {
+         "description" : "Magnus Carlsen gave the interview after the Prelims stage of the Julius Baer Generation Cup. Carlsen qualified for the Knockout phase of the event and he might meet with Hans Niemann again in the Grand finale! Julius Baer Generation Cup Knockout phase &#x2013; Pairings &#38; timetable can be found here. Asked about his withdrawal from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/breaking-magnus-carlsen-cheaters-should-not-be-taken-lightly-either-online-or-otb/",
+         "pubDate" : "Wed, 21 Sep 2022 19:31:50 +0000",
+         "title" : "BREAKING! Magnus Carlsen: cheaters should not be taken lightly either online or OTB"
+      },
+      {
          "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;was topping the field and met again with 19-year-old&#xA0;Hans Niemann. Carlsen resigned his game against Niemann after only two played []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-closely-follows-carlsen-niemann-case-a-statement-to-come/",
          "pubDate" : "Wed, 21 Sep 2022 08:25:12 +0000",
          "title" : "FIDE closely follows Carlsen - Niemann case, a statement to come"
-      },
-      {
-         "description" : "Heading into the last day of the Julius Baer Generation Cup Prelims, Levon Aronian holds the 13th position in the rankings while only the top eight players advance to the Knockout stage of the event. Levon Aronian yesterday had a hard day as he lost the first three games to Le Quang Liem, Navara, and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-on-21-move-loss-to-niemann-hans-played-very-strange-moves/",
-         "pubDate" : "Wed, 21 Sep 2022 07:44:28 +0000",
-         "title" : "Levon Aronian on 21-move loss to Niemann: Hans played very strange moves"
       },
       {
          "description" : "Magnus Carlsen was in imperious form as he top scored on Day 3 to take the lead and ensure qualification for the Julius Baer Generation Cup knockout stages, but there may still be trouble ahead. Statistically his most likely quarterfinal opponent is Hans Niemann, though the battle for the Top 8 places is set to be intense.",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1975",
          "pubDate" : "Sat, 10 Sep 2022 05:10:40 +0000",
          "title" : "2022 Sinquefield Cup - So stays in front"
-      },
-      {
-         "description" : "Now, jumping on the bandwagon, Tesla CEO Elon Musk, the richest and arguably most successful innovator on the surface of the planet, has weighed on the conspiracy theory surrounding the cheating allegations in Saint Louis. In a recent interview, Hans Niemann said that in order to prove himself innocent, he was prepared to play naked. The ever provocative Elon had a comment on that as well. It is quite embarrassing to describe. | Photo of Musk by Andrew Kelly / REUTERS",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elon-musk-weighs-in",
-         "pubDate" : "Fri, 09 Sep 2022 18:10:00 +0100",
-         "title" : "Elon Musk weighs in"
       },
       {
          "description" : "Last week's post in the <I>Fischer Friday</I> series, <A HREF=\"http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html\">Benson Called Bobby</A>(September 2022), was about the 21st and final game of the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com):- <BLOCKQUOTE>Brad Darrach described the transition from the 10th World Champion to the 11th in his usual colorful style. </BLOCKQUOTE> <P>A more straightforward account of the end of the match can be found in the book I introduced in an earlier post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html\">GM Svetozar Gligoric, Player/Journalis",
