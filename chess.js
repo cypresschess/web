@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94339279.cms\" />Magnus Carlsen's decision to resign after just one move against Hans Niemann, the 19-year-old American GM, in the sixth round of the online Generation Cup on Monday night created quite a stir and taken away the spotlight from two Indians (Arjun and Praggu), who are leading at the half-way mark of the league phase.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pune-magnus-carlsens-resignation-gambit-kicks-up-row/city/pune/pune-magnus-carlsens-resignation-gambit-kicks-up-row/articleshow/94337713.cms",
+         "pubDate" : "Wed, 21 Sep 2022 00:23:35 +0000",
+         "title" : "Magnus Carlsen's resignation gambit kicks up row"
+      },
+      {
          "description" : "With three rounds to go, a combative final day of preliminaries awaits us in the Generation Cup, as most participants still have chances to reach the knockout stage. Meanwhile, Magnus Carlsen already clinched a spot in the knockout after retaking the lead ahead of Arjun Erigaisi, who nonetheless continues to impress in the online event. | Photo: FIDE / Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/",
          "pubDate" : "Tue, 20 Sep 2022 16:13:27 +0000",
          "title" : "Carlsen quits against Niemann&hellip; the saga continues"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94333783.cms\" />Norwegian world chess champion Magnus Carlsen abruptly withdrew from a game against American Hans Niemann, reigniting an ongoing cheating controversy in the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-magnus-carlsen-quits-game-amid-cheating-allegations/articleshow/94333783.cms",
-         "pubDate" : "Tue, 20 Sep 2022 15:25:27 +0000",
-         "title" : "World champion Magnus Carlsen quits game amid cheating allegations"
       },
       {
          "description" : "It is the story that refuses to die, and with the renewed silent protest by World Champion Magnus Carlsen it is little wonder too. Could he be justified in these dramatic gestures? The world's greatest expert on cheating detection in chess, Professor Kenneth Regan, has analyzed all of Hans Niemann's games over the last two years, online and offline, and renders his verdict.",
