@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Aron Nimzowitsch, theoretician, author of \"My System\", and one of the world's best players at the end of the 1920s, liked to answer 1.e4 with the provocative move 1...Nc6, the \"Nimzowitsch Defence\". The move is slightly offbeat but offers Black good chances as the French GM Christian Bauer shows on his ChessBase course \"The Nasty Nimzowitsch Defence\", published in 2019. Paul Kane, who runs the website \"The Caissa Kid\", had a look at Bauer's course and concludes: \"'The Nasty Nimzowitsch Defence' is a quality piece of work which was a great pleasure to study.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christian-bauer-the-nasty-nimzowitsch-defence-a-review",
+         "pubDate" : "Wed, 21 Sep 2022 13:22:54 +0100",
+         "title" : "Christian Bauer: The Nasty Nimzowitsch Defence - A review"
+      },
+      {
          "description" : "On Monday, the Chinese Team Championship, a round-robin tournament with 12 teams, ended in Fuling, which is a district of Chongqing. The team of Hangzhou Bank, in which Hou Yifan played on the first women's board, won both the Championship and the subsequent Rapid Championship. | Photos: Chinese Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1970",
          "pubDate" : "Thu, 08 Sep 2022 19:33:13 +0000",
          "title" : "Arvindh Chitambaram crowned champion of 22nd Dubai Open Chess"
-      },
-      {
-         "description" : "This week Robert Ris will have a look at the recent developments in the Italian Two Knights - an old system that still leads to interesting and dynamic play. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-italian-two-knights-1-e4-e5-2-nf3-nc6-3-bc4-nf6-4-ng5",
-         "pubDate" : "Thu, 08 Sep 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Italian Two Knights (1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5)"
       },
       {
          "description" : "The game:- <UL><LI>2022-09-04: <A HREF=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">Magnus Carlsen vs Hans Moke Niemann; Sinquefield Cup (2022), Saint Louis, MO USA, rd 3</A>(chessgames.com) <LI>2022-09-07: <A HREF=\"https://www.youtube.com/watch?v=Iq2DJJ_1Nu4\">The Game That Broke the Internet - Carlsen vs Niemann</A>(youtube.com; Epic Chess; analysis: James Gardner) </UL> <P>The players:- <UL><LI>2022-09-05: <A HREF=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523\">Magnus Carlsen on Twitter: \"I've withdrawn from the tournament...\"</A>(twitter.com/MagnusCarlsen) &#149; '...I've always enjoyed playing in the @STLChessClub, and hope to be back in the future.' <LI>2022-09",
