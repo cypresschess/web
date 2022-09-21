@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1956",
          "pubDate" : "Wed, 31 Aug 2022 23:15:42 +0000",
          "title" : "European Women's Championship 2022: Monika Socko clinches title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1955",
-         "pubDate" : "Wed, 31 Aug 2022 14:44:36 +0000",
-         "title" : "FIDE to compensate for airfare losses at Rapid & Blitz 2021"
       }
    ]
 }
