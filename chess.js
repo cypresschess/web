@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Wed, 21 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup: Live"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #534 Merijn van Delft looks at a nice win by rising Indian star Gukesh who defeated English Grandmaster Gawain Jones in a fine attacking game played in the Spanish League. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-534-gukesh-vs-g-jones",
          "pubDate" : "Wed, 21 Sep 2022 17:00:00 +0100",
          "title" : "Game of the Week #534: Gukesh vs. G. Jones"
+      },
+      {
+         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Niemann &#x2013; Carlsen R6 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/compilation-of-reactions-to-niemann-carlsen-2-move-game-video/",
+         "pubDate" : "Wed, 21 Sep 2022 15:49:00 +0000",
+         "title" : "Compilation of reactions to Niemann - Carlsen 2-move game (VIDEO)"
       },
       {
          "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/generation-cup-2022-d3",
          "pubDate" : "Wed, 21 Sep 2022 00:50:00 +0100",
          "title" : "Generation Cup: Carlsen shines, retakes the lead"
-      },
-      {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During The Julius Baer Generation Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/what-if-magnus-carlsen-and-hans-niemann-meet-in-the-julius-baer-generation-cup-knockout-phase/",
-         "pubDate" : "Tue, 20 Sep 2022 20:47:31 +0000",
-         "title" : "What if Magnus Carlsen and Hans Niemann meet in the Julius Baer Generation Cup Knockout phase?"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French start-up <strong>Immortal Game</strong> that is bringing Play2Earn to online chess based on monetization through NFT pieces has raised $3,5 million a few months ago and $12 million now from <strong>The Chernin Group</strong> (TCG) Crypto Fund and <strong>Greenfield</strong>, another investment company specializing in crypto companies. </div> ",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/elon-musk-weighs-in",
          "pubDate" : "Fri, 09 Sep 2022 18:10:00 +0100",
          "title" : "Elon Musk weighs in"
-      },
-      {
-         "description" : "In his Power Play Show, Daniel King looks in detail at the game Alireza Firouzja v. Levon Aronian from the Sinquefield Cup - a fascinating attacking game! You will be able to test your attacking and calculating skills. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-firouzja-aronian",
-         "pubDate" : "Fri, 09 Sep 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Alireza attacks"
       },
       {
          "description" : "Last week's post in the <I>Fischer Friday</I> series, <A HREF=\"http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html\">Benson Called Bobby</A>(September 2022), was about the 21st and final game of the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com):- <BLOCKQUOTE>Brad Darrach described the transition from the 10th World Champion to the 11th in his usual colorful style. </BLOCKQUOTE> <P>A more straightforward account of the end of the match can be found in the book I introduced in an earlier post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html\">GM Svetozar Gligoric, Player/Journalis",
