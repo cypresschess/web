@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-vincent-keymer-julius-baer-generation-cup-r15-live/",
+         "pubDate" : "Wed, 21 Sep 2022 12:40:55 +0000",
+         "title" : "Magnus Carlsen vs Vincent Keymer, Julius Baer Generation Cup R15 live"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vincent-keymer-vs-arjun-erigaisi-julius-baer-generation-cup-r14-live/",
+         "pubDate" : "Wed, 21 Sep 2022 12:38:29 +0000",
+         "title" : "Vincent Keymer vs Arjun Erigaisi, Julius Baer Generation Cup R14 live"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann, resigning his game after only two moves of play (Read more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vassily-ivanchuk-vs-hans-niemann-julius-baer-generation-cup-r14-live/",
+         "pubDate" : "Wed, 21 Sep 2022 12:33:27 +0000",
+         "title" : "Vassily Ivanchuk vs Hans Niemann, Julius Baer Generation Cup R14 live"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-vs-praggnanandhaa-julius-baer-generation-cup-r13-live/",
+         "pubDate" : "Wed, 21 Sep 2022 12:27:54 +0000",
+         "title" : "Levon Aronian vs Praggnanandhaa, Julius Baer Generation Cup R13 LIVE"
+      },
+      {
          "description" : "Aron Nimzowitsch, theoretician, author of \"My System\", and one of the world's best players at the end of the 1920s, liked to answer 1.e4 with the provocative move 1...Nc6, the \"Nimzowitsch Defence\". The move is slightly offbeat but offers Black good chances as the French GM Christian Bauer shows on his ChessBase course \"The Nasty Nimzowitsch Defence\", published in 2019. Paul Kane, who runs the website \"The Caissa Kid\", had a look at Bauer's course and concludes: \"'The Nasty Nimzowitsch Defence' is a quality piece of work which was a great pleasure to study.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christian-bauer-the-nasty-nimzowitsch-defence-a-review",
          "pubDate" : "Wed, 21 Sep 2022 13:22:54 +0100",
          "title" : "Christian Bauer: The Nasty Nimzowitsch Defence - A review"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann, resigning his game after only two moves of play (Read more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-day-4-live/",
+         "pubDate" : "Wed, 21 Sep 2022 12:19:35 +0000",
+         "title" : "Julius Baer Generation Cup - Day 4 live"
       },
       {
          "description" : "On Monday, the Chinese Team Championship, a round-robin tournament with 12 teams, ended in Fuling, which is a district of Chongqing. The team of Hangzhou Bank, in which Hou Yifan played on the first women's board, won both the Championship and the subsequent Rapid Championship. | Photos: Chinese Chess Federation",
@@ -30,8 +70,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-3",
-         "pubDate" : "Wed, 21 Sep 2022 01:31:03 -0700",
-         "title" : "Carlsen Back On Top, Niemann Possible New Opponent"
+         "pubDate" : "Wed, 21 Sep 2022 01:31:00 -0700",
+         "title" : "Carlsen Back On Top, Niemann Possible Opponent Again"
       },
       {
          "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During&#160;The Julius Baer Generation Cup&#160;&#x2013; the 7th []",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "Generation Cup 3: Carlsen cruises into quarterfinals"
       },
       {
-         "description" : " Both hope for a quarter-final place at the Julius Baer Generation Cup so a possible third encounter could lie in wait <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4. But then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father, Henrik Carlsen, had already announced that his normally media-friendly son would give no press interviews during the tournament. The action w",
+         "description" : " After two controversies, a possible third encounter could lie in wait in the quarter-finals of the Julius Baer Generation Cup <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4. But then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father, Henrik Carlsen, had already announced that his normally media-friendly son would give no press interviews during the tournament. The ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/sep/21/magnus-carlsen-v-hans-niemann-world-champion-resigns-after-one-move-chess-julius-baer-generation-cup",
@@ -138,14 +178,6 @@ news_feed (
          "title" : "Immortal Game raised $15,5 million"
       },
       {
-         "description" : "Time trouble is a serious problem for chess players. Understanding how to balance thinking enough to avoid mistakes during the game, with not thinking too much and getting into time trouble is a talent in itself. This afternoon, none less than four of the games were essentially decided between moves thirty and forty, when players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-takes-sole-lead-at-the-fide-womens-grand-prix-astana-2022/",
-         "pubDate" : "Tue, 20 Sep 2022 18:58:42 +0000",
-         "title" : "Aleksandra Goryachkina takes sole lead at the FIDE Women's Grand Prix Astana 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1992",
          "pubDate" : "Tue, 20 Sep 2022 18:08:34 +0000",
          "title" : "FIDE WGP Astana: Goryachkina leads after three rounds"
-      },
-      {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-carlsen-niemann-conflict-is-more-recent-than-everyone-thinks/",
-         "pubDate" : "Tue, 20 Sep 2022 16:22:41 +0000",
-         "title" : "The Carlsen - Niemann conflict is more recent than everyone thinks?"
       },
       {
          "description" : " Yesterday, Magnus Carlsen quit against Hans Niemann after playing his first move. Playing black after 1.d4 Nf6 2.c4 Carlsen resigned and simply logged off abruptly. The cheating insinuation by Carlsen had been simmering down, but this latest action has thrown gasoline on the fire of a controversy leaving it open to more speculation than before. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/\">Carlsen quits against Niemann the saga continues</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -194,22 +218,6 @@ news_feed (
          "title" : "Small move, big effect!"
       },
       {
-         "description" : "19-year-old Hans Niemann yesterday AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as&#xA0;Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#xA0;See the timetable of happenings related to Niemann &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-day-3-live/",
-         "pubDate" : "Tue, 20 Sep 2022 14:54:54 +0000",
-         "title" : "Julius Baer Generation Cup - Day 3 live"
-      },
-      {
-         "description" : "19-year-old Hans Niemann yesterday AGAIN defeated the World Chess Champion Magnus Carlsen, in the 6th round of the Julius Baer Generation Cup, as Magnus Carlsen resigned his game in the second move. Carlsen went offline as soon as he resigned, but he has not withdrawn from the tournament.&#xA0;Replay the game Hans Niemann &#x2013; Magnus Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/naroditsky-i-am-pretty-confident-that-magnus-believes-niemann-has-cheated-over-the-board-before-saint-louis/",
-         "pubDate" : "Tue, 20 Sep 2022 14:42:43 +0000",
-         "title" : "Naroditsky: I am pretty confident that Magnus believes Niemann has cheated over the board before Saint Louis"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG\" data-image-dimensions=\"377x227\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6329ca793a885d55577fa0e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the 2021 US Women's Champion and one of the top junior female players in the world,<a href=\"https://en.wikipedia.org/wiki/Carissa_Yip\" ta",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/apparently-2c4-doesnt-win-instantly.html",
          "pubDate" : "Tue, 20 Sep 2022 12:32:00 +0000",
          "title" : "Apparently 2.c4 doesn't win instantly"
-      },
-      {
-         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/boris-gelfand-vs-magnus-carlsen-julius-baer-generation-cup-r12-live/",
-         "pubDate" : "Tue, 20 Sep 2022 10:09:11 +0000",
-         "title" : "Boris Gelfand vs Magnus Carlsen, Julius Baer Generation Cup R12 LIVE"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-61/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (61)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-61/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (61)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1955",
          "pubDate" : "Wed, 31 Aug 2022 14:44:36 +0000",
          "title" : "FIDE to compensate for airfare losses at Rapid & Blitz 2021"
-      },
-      {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AAe8Lg2jxkq5O1g4hgm-GCUdmP9rzbRhjjmnQtcVDGmdhuRm5DSWjzxLKS-3GAb4AsKd1oxImouhxTUSylNddl6Ud5RTPopfokVehPF5hBYkGaE8pbQJWyyANaXeaD3Mxd3WLOWMPfP8We9nGJMYHGzYaEYUfTxqHkXaYW1E6F8e_X2RdVfdC32S/s680/prokes2.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0AAe8Lg2jxkq5O1g4hgm-GCUdmP9rzbRhjjmnQtcVDGmdhuRm5DSWjzxLKS-3GAb4AsKd1oxImouhxTUSylNddl6Ud5RTPopfokVehPF5hBYkGaE8pbQJWyyANaXe",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/08/how-good-are-your-rooks.html",
-         "pubDate" : "Wed, 31 Aug 2022 13:28:00 +0000",
-         "title" : "How good are your rooks?"
       }
    ]
 }
