@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/08/how-good-are-your-rooks.html",
          "pubDate" : "Wed, 31 Aug 2022 13:28:00 +0000",
          "title" : "How good are your rooks?"
-      },
-      {
-         "description" : "Many of the high quality books received this year concentrated on chess training; perhaps reflecting current anxieties the emphasis was not only on chess positions,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/book-of-the-year-2022-shortlist/",
-         "pubDate" : "Wed, 31 Aug 2022 11:41:19 +0000",
-         "title" : "Book of the Year 2022 - shortlist"
       }
    ]
 }
