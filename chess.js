@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Right after dominating the preliminary stage of the Generation Cup, Magnus Carlsen gave his first interview since his sudden withdrawal from the Sinquefield Cup. Carlsen did not confirm he had resigned his game against Hans Niemann due to suspicious of cheating, but added that \"people can draw their own conclusions, and they certainly have\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-speaks-after-cheating-scandal",
+         "pubDate" : "Wed, 21 Sep 2022 22:20:00 +0100",
+         "title" : "Breaking: Carlsen speaks after winning Generation Cup prelims"
+      },
+      {
+         "description" : "The fourth round of the Astana Grand Prix was no less exciting than any of the previous rounds, even though only two games had a decisive result. After a third of the tournament has been played, pre-event favourite Aleksandra Goryachkina shares the lead with up-and-coming talent Zhu Jiner: both of them are still undefeated. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/goryachkina-and-zhu-jiner-leading-at-the-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Wed, 21 Sep 2022 20:57:36 +0000",
+         "title" : "Goryachkina and Zhu Jiner leading at the FIDE Women's Grand Prix Astana 2022"
+      },
+      {
          "description" : "Top seed Aleksandra Goryachkina (pictured) and Chinese youngster Zhu Jiner are sharing the lead on 3/4 points at the first leg of the Women's Grand Prix in Astana. Zhu, aged 19, has so far defeated Dinara Wagner and Polina Shuvalova after playing three out of her four first games with the black pieces. Bibisara Assaubayeva and Kateryna Lagno stand a half point behind the co-leaders. | Photos: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r4",
          "pubDate" : "Wed, 21 Sep 2022 21:45:00 +0100",
          "title" : "Astana GP: Goryachkina and Zhu share the lead"
+      },
+      {
+         "description" : "Magnus Carlsen&#160;today gave his first interview after his withdrawal from the Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves. Carlsen in the interview mentioned that he is very impressed by Niemann's play and that he believes Niemann's mentor Maxim Dlugy must have been doing a great job. Carlsen added in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niemanns-mentor-whom-carlsen-mentions-in-the-interview-was-banned-from-chess-com-for-cheating/",
+         "pubDate" : "Wed, 21 Sep 2022 20:27:56 +0000",
+         "title" : "Niemann's mentor whom Carlsen mentions in the interview was banned from chess.com for cheating?!"
+      },
+      {
+         "description" : "Anish Giri did not qualify for the Julius Baer Generation Cup Knockout stage due to unfortunate results in the last round of the prelims. Giri won his last game against Arjun Erigaisi to score 21 points and it was almost certain he will take the seat for the Knockout. However, Levon Aronian won the losing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-i-am-not-allowed-to-mess-with-the-carlsen-niemann-final-tweetoftheday/",
+         "pubDate" : "Wed, 21 Sep 2022 20:04:08 +0000",
+         "title" : "Anish Giri: I am not allowed to mess with the Carlsen-Niemann final #TweetOftheDay"
       },
       {
          "description" : "Magnus Carlsen gave the interview after the Prelims stage of the Julius Baer Generation Cup. Carlsen qualified for the Knockout phase of the event and he might meet with Hans Niemann again in the Grand finale! Julius Baer Generation Cup Knockout phase &#x2013; Pairings &#38; timetable can be found here. Asked about his withdrawal from []",
@@ -98,28 +130,12 @@ news_feed (
          "title" : "Vassily Ivanchuk vs Hans Niemann, Julius Baer Generation Cup R14 live"
       },
       {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-vs-praggnanandhaa-julius-baer-generation-cup-r13-live/",
-         "pubDate" : "Wed, 21 Sep 2022 12:27:54 +0000",
-         "title" : "Levon Aronian vs Praggnanandhaa, Julius Baer Generation Cup R13 LIVE"
-      },
-      {
          "description" : "Aron Nimzowitsch, theoretician, author of \"My System\", and one of the world's best players at the end of the 1920s, liked to answer 1.e4 with the provocative move 1...Nc6, the \"Nimzowitsch Defence\". The move is slightly offbeat but offers Black good chances as the French GM Christian Bauer shows on his ChessBase course \"The Nasty Nimzowitsch Defence\", published in 2019. Paul Kane, who runs the website \"The Caissa Kid\", had a look at Bauer's course and concludes: \"'The Nasty Nimzowitsch Defence' is a quality piece of work which was a great pleasure to study.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christian-bauer-the-nasty-nimzowitsch-defence-a-review",
          "pubDate" : "Wed, 21 Sep 2022 13:22:54 +0100",
          "title" : "Christian Bauer: The Nasty Nimzowitsch Defence - A review"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann, resigning his game after only two moves of play (Read more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-day-4-live/",
-         "pubDate" : "Wed, 21 Sep 2022 12:19:35 +0000",
-         "title" : "Julius Baer Generation Cup - Day 4 live"
       },
       {
          "description" : "On Monday, the Chinese Team Championship, a round-robin tournament with 12 teams, ended in Fuling, which is a district of Chongqing. The team of Hangzhou Bank, in which Hou Yifan played on the first women's board, won both the Championship and the subsequent Rapid Championship. | Photos: Chinese Chess Federation",
@@ -146,14 +162,6 @@ news_feed (
          "title" : "Carlsen Back On Top, Niemann Possible Opponent Again"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During&#xA0;The Julius Baer Generation Cup&#xA0;&#x2013; the 7th []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-closely-follows-carlsen-niemann-case-a-statement-to-come/",
-         "pubDate" : "Wed, 21 Sep 2022 08:25:12 +0000",
-         "title" : "FIDE closely follows Carlsen - Niemann case, a statement to come"
-      },
-      {
          "description" : "Magnus Carlsen was in imperious form as he top scored on Day 3 to take the lead and ensure qualification for the Julius Baer Generation Cup knockout stages, but there may still be trouble ahead. Statistically his most likely quarterfinal opponent is Hans Niemann, though the battle for the Top 8 places is set to be intense.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -162,7 +170,7 @@ news_feed (
          "title" : "Generation Cup 3: Carlsen cruises into quarterfinals"
       },
       {
-         "description" : " After two controversies, a possible third encounter could lie in wait in the quarter-finals of the Julius Baer Generation Cup <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4. But then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father, Henrik Carlsen, had already announced that his normally media-friendly son would give no press interviews during the tournament. The ",
+         "description" : " After two controversies, a possible but unlikely third encounter could lie in wait in the final of the Julius Baer Generation Cup <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4. But then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father, Henrik Carlsen, had already announced that his normally media-friendly son would give no press interviews during the tournament. ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/sep/21/magnus-carlsen-v-hans-niemann-world-champion-resigns-after-one-move-chess-julius-baer-generation-cup",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dancing-queen",
          "pubDate" : "Sat, 10 Sep 2022 09:00:00 +0100",
          "title" : "Dancing queen"
-      },
-      {
-         "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r7",
-         "pubDate" : "Sat, 10 Sep 2022 08:40:00 +0100",
-         "title" : "Sinquefield Cup: Theoretical lines"
       },
       {
          "description" : "\"This tournament is broken,\" said Jan Gustafsson after all four games were drawn in Round 7 of the Sinquefield Cup. It was a day of long theoretical battles that never looked likely to burst into life, though Alireza Firouzja at least showed fighting spirit by playing on - in vain - against Leinier Dominguez. Wesley So didn't play, but maintained the sole lead with just two rounds to go.",
