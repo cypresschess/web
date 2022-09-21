@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #534 Merijn van Delft looks at a nice win by rising Indian star Gukesh who defeated English Grandmaster Gawain Jones in a fine attacking game played in the Spanish League. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-534-gukesh-vs-g-jones",
+         "pubDate" : "Wed, 21 Sep 2022 17:00:00 +0100",
+         "title" : "Game of the Week #534: Gukesh vs. G. Jones"
+      },
+      {
          "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1973",
          "pubDate" : "Fri, 09 Sep 2022 10:42:47 +0000",
          "title" : "FIDE Trainers Commission (TRG): Five FIDE Trainers Seminars announced"
-      },
-      {
-         "description" : "Wesley So is the only player with a +2 score at the Sinquefield Cup after his win over Hans Niemann in Thursday's sixth round. With three rounds to go, two players stand close behind on +1: Ian Nepomniachtchi and Alireza Firouzja. While Nepo drew Fabiano Caruana in round 6, Firouzja got a rather quick, albeit bumpy, victory over Shakhriyar Mamedyarov. Levon Aronian also scored a full point, as he defeated Maxime Vachier-Lagrave to return to a fifty-percent score. | Photo: Grand Chess Tour / Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r6",
-         "pubDate" : "Fri, 09 Sep 2022 09:35:00 +0100",
-         "title" : "Sinquefield Cup: So in pole position, Firouzja wins rollercoaster"
       },
       {
          "description" : "It was a lively day at round six of the 2022 Sinquefield Cup.&#38;nbsp;The first to put a full point on the scoreboard was GM Alireza Firouzja. Eventually, also GMs Levon Aronian and leader GM Wesley So scored victories. This means that So remains i...",
