@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;was topping the field and met again with 19-year-old&#xA0;Hans Niemann. Carlsen resigned his game against Niemann after only two played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-knockout-phase-pairings-timetable/",
+         "pubDate" : "Wed, 21 Sep 2022 19:06:09 +0000",
+         "title" : "Julius Baer Generation Cup Knockout phase - Pairings & timetable"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1996",
+         "pubDate" : "Wed, 21 Sep 2022 18:41:03 +0000",
+         "title" : "FIDE WGP Astana: Up-and-coming Zhu Jiner joins the lead"
+      },
+      {
          "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/sep/21/magnus-carlsen-v-hans-niemann-world-champion-resigns-after-one-move-chess-julius-baer-generation-cup",
          "pubDate" : "Wed, 21 Sep 2022 07:00:22 +0000",
          "title" : "Carlsen v Niemann debate rages on after world champion resigns after one move"
-      },
-      {
-         "description" : "The&#xA0;Julius Baer Generation Cup focused on chess instead of cheating today as World Champion Magnus Carlsen wrestled himself back into the lead. Ahead of the final day of the prelim stage, the Norwegian overhauled Indian youngster Arjun Erigaisi on the leaderboard with three wins and a draw to finish with 25/36. Carlsen managed it despite []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-secures-his-spot-in-julius-baer-generation-cup-knockout-stage-day-3-recap/",
-         "pubDate" : "Wed, 21 Sep 2022 06:37:24 +0000",
-         "title" : "Carlsen secures his spot in Julius Baer Generation Cup Knockout stage - Day 3 recap"
       },
       {
          "description" : "",
