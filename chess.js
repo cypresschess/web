@@ -10,6 +10,14 @@ news_feed (
          "title" : "Generation Cup: Live"
       },
       {
+         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Niemann &#x2013; Carlsen R6 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/emil-sutovsky-fide-is-concerned-about-recent-developments-of-carlsen-niemann-case/",
+         "pubDate" : "Wed, 21 Sep 2022 16:09:29 +0000",
+         "title" : "Emil Sutovsky: FIDE is concerned about recent developments of Carlsen - Niemann case"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #534 Merijn van Delft looks at a nice win by rising Indian star Gukesh who defeated English Grandmaster Gawain Jones in a fine attacking game played in the Spanish League. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +106,7 @@ news_feed (
          "title" : "Carlsen Back On Top, Niemann Possible Opponent Again"
       },
       {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During&#160;The Julius Baer Generation Cup&#160;&#x2013; the 7th []",
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During&#xA0;The Julius Baer Generation Cup&#xA0;&#x2013; the 7th []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-closely-follows-carlsen-niemann-case-a-statement-to-come/",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-in-2nd-spot-r-praggnanandhaa-in-fourth-place/articleshow/94342047.cms",
          "pubDate" : "Wed, 21 Sep 2022 05:46:10 +0000",
          "title" : "Julius Baer Cup: Arjun Erigaisi in 2nd spot; R Praggnanandhaa in fourth place"
-      },
-      {
-         "description" : "Chess requires a multitude of skills to succeed, and not all of them are about the moves. Calculation. Time management. Endgame prowess. Understanding yourself and your opponent. They're all vital. And when you know how to approach improving these skills, no rating level is off limits. Just ask &#x201C;super GM&#x201D;, 3-time British Champion, and Olympiad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/david-howell-how-i-reached-2700-elo/",
-         "pubDate" : "Wed, 21 Sep 2022 05:29:38 +0000",
-         "title" : "David Howell: How I reached 2700 ELO"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94339279.cms\" />Magnus Carlsen's decision to resign after just one move against Hans Niemann, the 19-year-old American GM, in the sixth round of the online Generation Cup on Monday night created quite a stir and taken away the spotlight from two Indians (Arjun and Praggu), who are leading at the half-way mark of the league phase.",
