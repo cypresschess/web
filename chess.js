@@ -10,6 +10,14 @@ news_feed (
          "title" : "Generation Cup: Live"
       },
       {
+         "description" : "GM Hikaru Nakamura and GM Jeffery Xiong, the most successful and one of the most successful players in the history of Titled Tuesday, each added another victory feather to their caps in the September 20, 2022 editions.&#38;nbsp;&#38;nbsp; IM Anna Sargsy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-xiong-win-titled-tuesday-september-20-2022",
+         "pubDate" : "Wed, 21 Sep 2022 09:31:00 -0700",
+         "title" : "Nakamura Adds Another Tournament Victory"
+      },
+      {
          "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Niemann &#x2013; Carlsen R6 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-4",
          "pubDate" : "Mon, 05 Sep 2022 20:30:00 -0700",
          "title" : "Wesley So Leads Sinquefield Cup After Carlsen Withdraws"
-      },
-      {
-         "description" : "On Monday, GM Magnus Carlsen surprised the chess world by announcing that he was withdrawing from the 2022 Sinquefield Cup, tweeting his decision at the beginning of round four. I&#39;ve withdrawn from the tournament. I&#39;ve always enjoyed playing i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-withdraws-from-sinquefield-cup",
-         "pubDate" : "Mon, 05 Sep 2022 12:25:00 -0700",
-         "title" : "Magnus Carlsen Withdraws From Sinquefield Cup"
       },
       {
          "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament halfway. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5E80C7B1-CFA0-4697-847F-4FA496FCD632.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in New York during the World Chess Championship Match</div> </div> A day before, Carlsen lost to <a href=\"https://chessarena.com/profile/211968\">Hans Niemann</a>, a much lower-ranked player. According to chess-news, Niemann has been accused of cheating earlier in his career",
