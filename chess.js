@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Heading into the last day of the Julius Baer Generation Cup Prelims, Levon Aronian holds the 13th position in the rankings while only the top eight players advance to the Knockout stage of the event. Levon Aronian yesterday had a hard day as he lost the first three games to Le Quang Liem, Navara, and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-on-21-move-loss-to-niemann-hans-played-very-strange-moves/",
+         "pubDate" : "Wed, 21 Sep 2022 07:44:28 +0000",
+         "title" : "Levon Aronian on 21-move loss to Niemann: Hans played very strange moves"
+      },
+      {
+         "description" : "Magnus Carlsen was in imperious form as he top scored on Day 3 to take the lead and ensure qualification for the Julius Baer Generation Cup knockout stages, but there may still be trouble ahead. Statistically his most likely quarterfinal opponent is Hans Niemann, though the battle for the Top 8 places is set to be intense.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/generation-cup-3-carlsen-cruises-into-quarterfinals",
+         "pubDate" : "Wed, 21 Sep 2022 07:36:56 +0000",
+         "title" : "Generation Cup 3: Carlsen cruises into quarterfinals"
+      },
+      {
          "description" : " Both hope for a quarter-final place at the Julius Baer Generation Cup so a possible third encounter could lie in wait <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4, but then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father Henrik Carlsen had already announced that his normally media-friendly son would give no press interviews during the tournament. The action was",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -200,22 +216,6 @@ news_feed (
          "link" : "https://aicf.in/world-cadets-chess-championships-2022-batumi-georgia-round-4-19-09-2022/",
          "pubDate" : "Tue, 20 Sep 2022 09:57:53 +0000",
          "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 4 (19.09.2022)"
-      },
-      {
-         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Rumors that Magnus Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-vs-hans-niemann-julius-baer-generation-cup-r10-live/",
-         "pubDate" : "Tue, 20 Sep 2022 09:53:14 +0000",
-         "title" : "Anish Giri vs Hans Niemann, Julius Baer Generation Cup R10 LIVE"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Tue, 20 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : "World Youth Chess Championship for the age groups Under 18 (Boys and Girls),Under 16 (Boys and Girls) and Under 14(Boys and Girls) for the year",
@@ -1594,6 +1594,14 @@ news_feed (
          "title" : "Hans Niemann publicly blaming Hikaru Nakamura. Is it payback?"
       },
       {
+         "description" : "In the last few days the chess world has been in enormous upheaval after the World Champion Magnus Carlsen withdrew from the Sinquefield Cup in protest after three rounds, with an unspoken accusation of cheating of the player who had defeated him, US rising star Hans Niemann. Lines were drawn, accusations made and defenses stated. Here is a full overview of both sides of this explosive controversy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-carlsen-niemann-affair",
+         "pubDate" : "Thu, 08 Sep 2022 11:33:29 +0100",
+         "title" : "The Carlsen-Niemann Affair"
+      },
+      {
          "description" : "The much awaited World Youth Chess championship 2022 kick starts in Romania. Most of the Indians had a smooth sailing in the first 2 games.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1966",
          "pubDate" : "Mon, 05 Sep 2022 08:18:42 +0000",
          "title" : "2022 Sinquefield Cup: Niemann beat Carlsen to grab the lead"
-      },
-      {
-         "description" : "\"It must be embarrassing for the World Champion to lose to me - I feel bad for him!\" said Hans Niemann after an incredible Round 3 of the Sinquefield Cup. He not only beat Magnus with the black pieces, ending a 53-game unbeaten streak, but also crossed 2700 on the live rating list and took the sole lead. That overshadowed big wins for Alireza Firouzja (over Levon Aronian) and Wesley So (over Fabiano Caruana).",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-3-niemann-beats-carlsen-to-cross-2700",
-         "pubDate" : "Mon, 05 Sep 2022 06:20:37 +0000",
-         "title" : "Sinquefield Cup 3: Niemann beats Carlsen to cross 2700"
       },
       {
          "description" : "Never a dull moment at the 2022 Sinquefield Cup: In the matchup between the two leaders, World Champion GM Magnus Carlsen&#38;nbsp;and GM Hans Niemann, the young American caused a massive sensation by outplaying and eventually beating the Norwegian. ...",
