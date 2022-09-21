@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/book-of-the-year-2022-shortlist/",
          "pubDate" : "Wed, 31 Aug 2022 11:41:19 +0000",
          "title" : "Book of the Year 2022 - shortlist"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1954",
-         "pubDate" : "Wed, 31 Aug 2022 10:36:42 +0000",
-         "title" : "Asian Chess Federation and VADR Media create Checkmate Live"
       }
    ]
 }
