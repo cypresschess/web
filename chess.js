@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Both hope for a quarter-final place at the Julius Baer Generation Cup so a possible third encounter could lie in wait <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4, but then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father Henrik Carlsen had already announced that his normally media-friendly son would give no press interviews during the tournament. The action was",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/sep/21/magnus-carlsen-v-hans-niemann-world-champion-resigns-after-one-move-chess-julius-baer-generation-cup",
+         "pubDate" : "Wed, 21 Sep 2022 07:00:22 +0000",
+         "title" : "Carlsen v Niemann debate rages on after world champion resigns after one move"
+      },
+      {
+         "description" : "The&#xA0;Julius Baer Generation Cup focused on chess instead of cheating today as World Champion Magnus Carlsen wrestled himself back into the lead. Ahead of the final day of the prelim stage, the Norwegian overhauled Indian youngster Arjun Erigaisi on the leaderboard with three wins and a draw to finish with 25/36. Carlsen managed it despite []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-secures-his-spot-in-julius-baer-generation-cup-knockout-stage-day-3-recap/",
+         "pubDate" : "Wed, 21 Sep 2022 06:37:24 +0000",
+         "title" : "Carlsen secures his spot in Julius Baer Generation Cup Knockout stage - Day 3 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1995",
+         "pubDate" : "Wed, 21 Sep 2022 06:25:49 +0000",
+         "title" : "Lviv and Berlin to play charity match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1994",
+         "pubDate" : "Wed, 21 Sep 2022 06:12:53 +0000",
+         "title" : "Portuguese Championship: Andr&eacute; Sousa and Mariana Silva clinch titles"
+      },
+      {
+         "description" : "India's teenaged Grandmasters Arjun Erigaisi and R Praggnanandhaa are placed second and joint fourth respectively after 12 rounds in the preliminary phase of Julius Baer Generation Cup online rapid chess tournament. World champion Magnus Carlsen is on top of the standings with 25 points, one ahead of Erigiasi, while Quang Liem Le (China) is third on 20 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-in-2nd-spot-r-praggnanandhaa-in-fourth-place/articleshow/94342047.cms",
+         "pubDate" : "Wed, 21 Sep 2022 05:46:10 +0000",
+         "title" : "Julius Baer Cup: Arjun Erigaisi in 2nd spot; R Praggnanandhaa in fourth place"
+      },
+      {
+         "description" : "Chess requires a multitude of skills to succeed, and not all of them are about the moves. Calculation. Time management. Endgame prowess. Understanding yourself and your opponent. They're all vital. And when you know how to approach improving these skills, no rating level is off limits. Just ask &#x201C;super GM&#x201D;, 3-time British Champion, and Olympiad []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/david-howell-how-i-reached-2700-elo/",
+         "pubDate" : "Wed, 21 Sep 2022 05:29:38 +0000",
+         "title" : "David Howell: How I reached 2700 ELO"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94339279.cms\" />Magnus Carlsen's decision to resign after just one move against Hans Niemann, the 19-year-old American GM, in the sixth round of the online Generation Cup on Monday night created quite a stir and taken away the spotlight from two Indians (Arjun and Praggu), who are leading at the half-way mark of the league phase.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,7 +66,7 @@ news_feed (
          "title" : "Generation Cup: Carlsen shines, retakes the lead"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During The Julius Baer Generation Cup []",
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. During The Julius Baer Generation Cup []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/what-if-magnus-carlsen-and-hans-niemann-meet-in-the-julius-baer-generation-cup-knockout-phase/",
@@ -58,7 +106,7 @@ news_feed (
          "title" : "FIDE WGP Astana: Goryachkina leads after three rounds"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/the-carlsen-niemann-conflict-is-more-recent-than-everyone-thinks/",
@@ -170,28 +218,12 @@ news_feed (
          "title" : "Women's Grand Prix Astana: Live"
       },
       {
-         "description" : "After a dramatical day two at the Julius Baer Generation Cup, Arjun Erigaisi took the sole lead in the event as Carlsen gifted three points to Hans Niemann resigning in the second move. Erigaisi started his second day defeating Niemann, Aronian, followed by two draws against Praggnanandhaa and Saric.&#xA0;Replay games:&#xA0;Arjun Erigaisi vs Hans Niemann 1-0&#xA0;/&#xA0;Arjun []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-vs-vassily-ivanchuk-julius-baer-generation-cup-r9-live/",
-         "pubDate" : "Tue, 20 Sep 2022 09:46:05 +0000",
-         "title" : "Arjun Erigaisi vs Vassily Ivanchuk, Julius Baer Generation Cup R9 LIVE"
-      },
-      {
          "description" : "World Youth Chess Championship for the age groups Under 18 (Boys and Girls),Under 16 (Boys and Girls) and Under 14(Boys and Girls) for the year",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/world-youth-chess-championship-2022-mamaiaromania-from-september-5-to-september-172022/",
          "pubDate" : "Tue, 20 Sep 2022 09:09:45 +0000",
          "title" : "Final Report:World Youth Chess Championship 2022 Mamaia,Romania from September 5 to September 17,2022"
-      },
-      {
-         "description" : "It was the bloody day yesterday at the FIDE Women&#x2019;s Grand Prix Astana 2022 with four decisive results in the second round of the event.&#xA0;Four players are in the co-lead after the Day 2, and the third round brings another six interesting encounters: Lagno, Kateryna &#x2014; Shuvalova, PolinaKashlinskaya, Alina &#x2014; Goryachkina, AleksandraAssaubayeva, Bibisara &#x2014; Vaishali, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-astana-2022-day-3-live/",
-         "pubDate" : "Tue, 20 Sep 2022 08:53:15 +0000",
-         "title" : "FIDE Women's Grand Prix Astana 2022 - Day 3 live"
       },
       {
          "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
@@ -2096,22 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1954",
          "pubDate" : "Wed, 31 Aug 2022 10:36:42 +0000",
          "title" : "Asian Chess Federation and VADR Media create Checkmate Live"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1952",
-         "pubDate" : "Wed, 31 Aug 2022 07:13:09 +0000",
-         "title" : "Alireza Firouzja wins 2022 Saint Louis Rapid & Blitz"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-60/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (60)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-60/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (60)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-60/",
-         "pubDate" : "Wed, 31 Aug 2022 07:02:58 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (60)"
       }
    ]
 }
