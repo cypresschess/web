@@ -1,5 +1,6 @@
 jtable([
 "PEARLAND","2022-09-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202209202632 target='_blank'>RCC QUADS SEPTEMBER 20, 2022</a>",
+"HOUSTON","2022-09-17  - 09-18","52","<a href=http://www.uschess.org/msa/XtblMain.php?202209182832 target='_blank'>$3,000 HOUSTON CHESS STUDIO SEPTEMB</a>",
 "CYPRESS","2022-09-16","24","<a href=http://www.uschess.org/msa/XtblMain.php?202209160432 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-09-16","23","<a href=http://www.uschess.org/msa/XtblMain.php?202209160202 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-09-16","10","<a href=http://www.uschess.org/msa/XtblMain.php?202209160172 target='_blank'>FBCC 2022 END OF SUMMER OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2021-12-11  - 12-12","230","<a href=http://www.uschess.org/msa/XtblMain.php?202112126662 target='_blank'>TCR: HOUSTON WINTER CHAMPIONSHIP 2021</a>",
 "HOUSTON","2021-12-11","126","<a href=http://www.uschess.org/msa/XtblMain.php?202112116142 target='_blank'>CHESSTERS CANDY CANE SCHOLASTIC</a>",
 "CYPRESS","2021-12-10","16","<a href=http://www.uschess.org/msa/XtblMain.php?202112105332 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2021-12-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202112105212 target='_blank'>F7 SCHOLASTIC TOURNEY & WARMUP</a>",
 ]);
