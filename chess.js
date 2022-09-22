@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Thu, 22 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup: Live"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sinquefield-cup-8-firouzja-leapfrogs-so",
          "pubDate" : "Sun, 11 Sep 2022 08:13:43 +0000",
          "title" : "Sinquefield Cup 8: Firouzja leapfrogs So"
-      },
-      {
-         "description" : "A remarkable penultimate round at the Sinquefield Cup saw Ian Nepomniachtchi, Fabiano Caruana and Alireza Firouzja scoring full points to climb to shared first place with 4&frac12; points each. For Caruana, however, it is all but impossible to win the event, as he will not play in Sunday's final round, when he was supposed to face Magnus Carlsen. In the one draw of the day, Shakhriyar Mamedyarov managed to escape with a half point from an inferior position against Leinier Dominguez. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r8",
-         "pubDate" : "Sun, 11 Sep 2022 07:25:00 +0100",
-         "title" : "Sinquefield Cup: Exciting round leaves Nepo, Caruana and Firouzja in the lead"
       },
       {
          "description" : "",
