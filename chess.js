@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Magnus Carlsen is currently thriving at the Julius Baer Generation Cup Prelims but his <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resignation on move 2</a> against Niemann a couple of days ago overshadowed all success. On the final day Magnus decided to break his silence! But he actually say anything?! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24 Oslo broadcast</div> </div> First he [Carlsen] <a href=\"https://worldchess.com/news/all/",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/i-cannot-particularly-speak-on-that-magnus-carlsen-on-hans-niema/",
+         "pubDate" : "Thu, 22 Sep 2022 07:29:18 +0000",
+         "title" : "\"I cannot particularly speak on that\" Magnus Carlsen on Hans Niemann"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-knockout-stage-live/",
+         "pubDate" : "Thu, 22 Sep 2022 07:23:01 +0000",
+         "title" : "Julius Baer Generation Cup - Knockout stage LIVE"
+      },
+      {
+         "description" : " <p class=\"lead\">In a cryptic interview full of smiles and innuendo, Magnus Carlsen said that Hans Niemann cheated. At least that's what we can understand from 'drawing our own conclusions'. Watch the video and try to read Carlsen's mind. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/c50PJmOj2-U?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> In what turned out to be the most talked-about chess drama in years, the World Champion walks a fine line between openly accusing Niemann of fair play violations and adding suspense to an already complicated storyline. It has it all: erratic behavior, Elon Mask's tweet, conspiracy theories, huge ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-asks-everyone-to-read-his-mind/",
+         "pubDate" : "Thu, 22 Sep 2022 07:12:19 +0000",
+         "title" : "Magnus Carlsen Asks Everyone to Read His Mind"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94367349.cms\" />Teenaged Indian Grandmasters Arjun Erigaisi and R Praggnanandhaa moved to the quarterfinals after finishing second and fourth respectively in the preliminary phase of the Julius Baer Generation Cup online rapid chess tournament early on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-indian-gms-erigaisi-praggnanandhaa-sail-to-quarterfinals/articleshow/94367349.cms",
+         "pubDate" : "Thu, 22 Sep 2022 05:54:47 +0000",
+         "title" : "Julius Baer Cup: Indian GMs Erigaisi, Praggnanandhaa sail to quarterfinals"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94364001.cms\" />Neutral followers of any sport may feel premature acceptance of defeat or pre-arranged draw is not sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d1",
-         "pubDate" : "Wed, 21 Sep 2022 19:03:37 -0700",
+         "pubDate" : "Wed, 21 Sep 2022 19:03:00 -0700",
          "title" : "Sevian Scores Spectacular Upset; Caruana, Andreikin Advance"
       },
       {
@@ -144,22 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-vs-vincent-keymer-julius-baer-generation-cup-r15-live/",
          "pubDate" : "Wed, 21 Sep 2022 12:40:55 +0000",
          "title" : "Magnus Carlsen vs Vincent Keymer, Julius Baer Generation Cup R15 live"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vincent-keymer-vs-arjun-erigaisi-julius-baer-generation-cup-r14-live/",
-         "pubDate" : "Wed, 21 Sep 2022 12:38:29 +0000",
-         "title" : "Vincent Keymer vs Arjun Erigaisi, Julius Baer Generation Cup R14 live"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;headlines the field and met again with 19-year-old&#xA0;Hans Niemann, resigning his game after only two moves of play (Read more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vassily-ivanchuk-vs-hans-niemann-julius-baer-generation-cup-r14-live/",
-         "pubDate" : "Wed, 21 Sep 2022 12:33:27 +0000",
-         "title" : "Vassily Ivanchuk vs Hans Niemann, Julius Baer Generation Cup R14 live"
       },
       {
          "description" : "Aron Nimzowitsch, theoretician, author of \"My System\", and one of the world's best players at the end of the 1920s, liked to answer 1.e4 with the provocative move 1...Nc6, the \"Nimzowitsch Defence\". The move is slightly offbeat but offers Black good chances as the French GM Christian Bauer shows on his ChessBase course \"The Nasty Nimzowitsch Defence\", published in 2019. Paul Kane, who runs the website \"The Caissa Kid\", had a look at Bauer's course and concludes: \"'The Nasty Nimzowitsch Defence' is a quality piece of work which was a great pleasure to study.\"",
