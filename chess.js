@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1957",
          "pubDate" : "Thu, 01 Sep 2022 20:25:34 +0000",
          "title" : "Three youngsters cross 2700 mark in September rating list"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1958",
-         "pubDate" : "Thu, 01 Sep 2022 19:13:33 +0000",
-         "title" : "Chessable Seeks Applicants for Chessable Research Awards"
       }
    ]
 }
