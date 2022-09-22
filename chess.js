@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/le-quang-liem-vs-arjun-erigaisi-julius-baer-generation-cup-semi-finals-live/",
+         "pubDate" : "Thu, 22 Sep 2022 21:53:21 +0000",
+         "title" : "Le Quang Liem vs Arjun Erigaisi, Julius Baer Generation Cup semi-finals LIVE"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-vincent-keymer-julius-baer-generation-cup-semi-finals-live/",
+         "pubDate" : "Thu, 22 Sep 2022 21:50:11 +0000",
+         "title" : "Magnus Carlsen vs Vincent Keymer, Julius Baer Generation Cup semi-finals LIVE"
+      },
+      {
+         "description" : "The top eight players of the Julius Baer Generation Cup continued their competition in the event in the quarterfinals which were played today on chess24.com. Magnus Carlsen, Le Quang Liem, Vincent Keymer and Arjun Erigaisi qualified for the semi-finals which will be played tomorrow as two four-game rapid matches. Julius Baer Generation Cup &#x2013; Knockout []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-liem-le-keymer-and-erigaisi-are-the-semi-finalists-of-the-julius-baer-generation-cup/",
+         "pubDate" : "Thu, 22 Sep 2022 21:04:24 +0000",
+         "title" : "Carlsen, Liem Le, Keymer and Erigaisi are the semi-finalists of the Julius Baer Generation Cup"
+      },
+      {
+         "description" : "Magnus Carlsen today gave his second interview after his withdrawal from the Sinquefield Cup 2022 and resignation to Hans Niemann after only two played moves. Magnus defeated Levon Aronian in the quarterfinals of the Julius Baer Generation Cup and said he was happy with his play today. Being asked if he experienced a lot of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-some-people-were-more-supportive-privately-than-publicly/",
+         "pubDate" : "Thu, 22 Sep 2022 20:49:55 +0000",
+         "title" : "Magnus Carlsen: Some people were more supportive privately than publicly"
+      },
+      {
+         "description" : "GMs Wesley So and Leinier Dominguez won their round of 32 matches in the Chess.com Global Chess Championship&#38;nbsp;on Thursday, defeating the legendary GM Vasyl Ivanchuk and the popular streamer GM Eric Hansen respectively. The round of 32 contin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d2",
+         "pubDate" : "Thu, 22 Sep 2022 12:55:00 -0700",
+         "title" : "So Sweeps Ivanchuk, Dominguez Defeats Hansen"
+      },
+      {
          "description" : "The FIDE Women's Grand Prix began in 2009-2011 as a series of six chess tournaments exclusively for women, forming part of the qualification cycle for the 2011 Women&#x2019;s World Chess Championship. Subsequent Women&#x2019;s Grand Prix series were held in 2011-2012 and 2013-2014. Chinese star GM Hou Yifan, currently number one on the FIDE Women&#x2019;s rating []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -186,14 +226,6 @@ news_feed (
          "title" : "\"I cannot particularly speak on that\" Magnus Carlsen on Hans Niemann"
       },
       {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-knockout-stage-live/",
-         "pubDate" : "Thu, 22 Sep 2022 07:23:01 +0000",
-         "title" : "Julius Baer Generation Cup - Knockout stage LIVE"
-      },
-      {
          "description" : " <p class=\"lead\">In a cryptic interview full of smiles and innuendo, Magnus Carlsen said that Hans Niemann cheated. At least that's what we can understand from 'drawing our own conclusions'. Watch the video and try to read Carlsen's mind. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/c50PJmOj2-U?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> In what turned out to be the most talked-about chess drama in years, the World Champion walks a fine line between openly accusing Niemann of fair play violations and adding suspense to an already complicated storyline. It has it all: erratic behavior, Elon Mask's tweet, conspiracy theories, huge ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -258,28 +290,12 @@ news_feed (
          "title" : "Breaking: Carlsen speaks after winning Generation Cup prelims"
       },
       {
-         "description" : "The fourth round of the Astana Grand Prix was no less exciting than any of the previous rounds, even though only two games had a decisive result. After a third of the tournament has been played, pre-event favourite Aleksandra Goryachkina shares the lead with up-and-coming talent Zhu Jiner: both of them are still undefeated. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/goryachkina-and-zhu-jiner-leading-at-the-fide-womens-grand-prix-astana-2022/",
-         "pubDate" : "Wed, 21 Sep 2022 20:57:36 +0000",
-         "title" : "Goryachkina and Zhu Jiner leading at the FIDE Women's Grand Prix Astana 2022"
-      },
-      {
          "description" : "Top seed Aleksandra Goryachkina (pictured) and Chinese youngster Zhu Jiner are sharing the lead on 3/4 points at the first leg of the Women's Grand Prix in Astana. Zhu, aged 19, has so far defeated Dinara Wagner and Polina Shuvalova after playing three out of her four first games with the black pieces. Bibisara Assaubayeva and Kateryna Lagno stand a half point behind the co-leaders. | Photos: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r4",
          "pubDate" : "Wed, 21 Sep 2022 21:45:00 +0100",
          "title" : "Astana GP: Goryachkina and Zhu share the lead"
-      },
-      {
-         "description" : "Magnus Carlsen&#160;today gave his first interview after his withdrawal from the Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves. Carlsen in the interview mentioned that he is very impressed by Niemann's play and that he believes Niemann's mentor Maxim Dlugy must have been doing a great job. Carlsen added in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/niemanns-mentor-whom-carlsen-mentions-in-the-interview-was-banned-from-chess-com-for-cheating/",
-         "pubDate" : "Wed, 21 Sep 2022 20:27:56 +0000",
-         "title" : "Niemann's mentor whom Carlsen mentions in the interview was banned from chess.com for cheating?!"
       },
       {
          "description" : "",
@@ -1808,14 +1824,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hans-niemann-on-quest-to-actually-build-his-reputation-from-the/",
          "pubDate" : "Wed, 07 Sep 2022 08:28:58 +0000",
          "title" : "Hans Niemann On Quest To Actually Build His Reputation From the Drama"
-      },
-      {
-         "description" : "GM Nona Gaprindashvili&#39;s defamation lawsuit against Netflix has been settled with no further details provided by either party. The settlement came eight months after a judge dismissed the streaming and production company&#39;s claim that because The Q...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/netflix-settles-gaprindashvili-queens-gambit-lawsuit",
-         "pubDate" : "Wed, 07 Sep 2022 00:55:00 -0700",
-         "title" : "Gaprindashvili's 'Queen's Gambit' Lawsuit Vs. Netflix Settled"
       },
       {
          "description" : "The English Chess Federation's Junior Development Pathway is a new initiative by the ECF to create a structured and formal progression plan for junior chess...",
