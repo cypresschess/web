@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1958",
          "pubDate" : "Thu, 01 Sep 2022 19:13:33 +0000",
          "title" : "Chessable Seeks Applicants for Chessable Research Awards"
-      },
-      {
-         "description" : "In last month's post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/august-1972-1997-on-cover.html\">August 1972 & 1997 'On the Cover'</A>(August 2022), the most recent in this blog's long running series about American chess magazines 50 and 25 years ago, I asked and answered, <BLOCKQUOTE>And what about the other championship that was taking place 50 years ago? A one page story, 'The Match: Fischer Leading!' by Burt Hochberg, gave the raw game scores for the first six games, where the sixth game had been played on 23 July. </BLOCKQUOTE> <P>Jumping ahead a month to its September 1972 issue, <I>CL&R</I> couldn't yet report the final result of the match. The five page lead story, 'The Mat",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html",
-         "pubDate" : "Thu, 01 Sep 2022 15:37:00 +0000",
-         "title" : "September 1972 & 1997 'On the Cover'"
       }
    ]
 }
