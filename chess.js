@@ -154,6 +154,14 @@ news_feed (
          "title" : "ECU appoints members of ECU/FIDE Commissions"
       },
       {
+         "description" : " The Russian Championship Superfinals took place in Cheboksary 11th to 22nd September 2022. The event is much weaker than usual due to the war, it remains to be seen whether some of the stronger players will ever be back. Players: Vladislav Artemiev, Maksim Chigaev, Sanan Sjugirov, Evgeny Tomashevsky, Aleksandr Rakhmanov, Daniil Dubov, Evgeniy Najer, Maxim Matlakov, Ilia Iljiushenok, Volodar Murzin, Andrey Esipenko and Arseniy Nesterov. The players in the women's event: Marina Guseva, Leya Garifullina, Alina Bivol, Olga Girya, Daria Charochkina, Alisa Galliamova, Evgenija Ovod, Ekaterina Goltseva, Yana Zhapova, Valentina Gunina, Mariya Yakimova and Natalija Pogonina. Daniil Dubov won an Arma",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/75th-russian-chess-championship-2022",
+         "pubDate" : "Thu, 22 Sep 2022 11:59:00 +0400",
+         "title" : "75th Russian Chess Championship 2022 - Games and Results"
+      },
+      {
          "description" : "Anish Giri&#xA0;did not qualify for the&#xA0;Julius Baer Generation Cup Knockout stage&#xA0;due to unfortunate results in the last round of the prelims. Giri won his last game against&#xA0;Arjun Erigaisi&#xA0;to score 21 points and it was almost certain he will take the seat for the Knockout. However,&#xA0;&#xA0;Christopher Yoo and Levon Aronian took the last two Knockout spots []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -234,7 +242,7 @@ news_feed (
          "title" : "Generation Cup 4: Carlsen breaks record, talks about Niemann"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Lol4i4fTQuo.jpg?itok=-KnI0NZE\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at games from former world championship challenger Peter Leko and new 2700 German grandmaster Vincent Keymer, and the similarities shared between the teacher Leko and the student Keymer. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Lol4i",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros",
@@ -330,7 +338,7 @@ news_feed (
          "title" : "Generation Cup 3: Carlsen cruises into quarterfinals"
       },
       {
-         "description" : " After two controversies, a possible but unlikely third encounter could lie in wait in the final of the Julius Baer Generation Cup <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4. But then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father, Henrik Carlsen, had already announced that his normally media-friendly son would give no press interviews during the tournament. ",
+         "description" : " Round three between the pair disappeared off the radar in the quarter-finals of the online Julius Baer Generation Cup <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4. But then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father, Henrik Carlsen, had already announced that his normally media-friendly son would give no press interviews during the tournament. The action w",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/sep/21/magnus-carlsen-v-hans-niemann-world-champion-resigns-after-one-move-chess-julius-baer-generation-cup",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/astana-fide-womens-grand-prix-2022",
          "pubDate" : "Sun, 18 Sep 2022 12:19:00 +0400",
          "title" : "Astana FIDE Women's Grand Prix 2022\t - Games and Results"
-      },
-      {
-         "description" : " The Russian Championship Superfinals take place in Cheboksary 11th to 23rd September 2022. The event is much weaker than usual due to the war, it remains to be seen whether some of the stronger players will ever be back. Players: Vladislav Artemiev, Maksim Chigaev, Sanan Sjugirov, Evgeny Tomashevsky, Aleksandr Rakhmanov, Daniil Dubov, Evgeniy Najer, Maxim Matlakov, Ilia Iljiushenok, Volodar Murzin, Andrey Esipenko and Arseniy Nesterov. The players in the women's event: Marina Guseva, Leya Garifullina, Alina Bivol, Olga Girya, Daria Charochkina, Alisa Galliamova, Evgenija Ovod, Ekaterina Goltseva, Yana Zhapova, Valentina Gunina, Mariya Yakimova and Natalija Pogonina.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/75th-russian-chess-championship-2022",
-         "pubDate" : "Sun, 18 Sep 2022 11:59:00 +0400",
-         "title" : "75th Russian Chess Championship 2022 - Games and Results"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Before Chess 9LX, it's time for team standard chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
