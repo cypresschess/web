@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris will have a look at the Modern Defence with 4...a6, which World Champion Magnus Carlsen tried with Black in two interesting games against Arjun Erigaisi and Praggnanandhaa in the Julius B&auml;r Generation Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-carlsen-playing-the-modern-defence",
+         "pubDate" : "Thu, 22 Sep 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Carlsen playing the Modern Defence"
+      },
+      {
          "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
          "pubDate" : "Sun, 11 Sep 2022 09:45:00 +0100",
          "title" : "Polish \"Ekstraliga\" - Final round"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
-         "pubDate" : "Sun, 11 Sep 2022 09:30:00 +0100",
-         "title" : "Sinquefield Cup: Games and results"
       },
       {
          "description" : "Alireza Firouzja won a lost position to beat Wesley So in Round 8 of the Sinquefield Cup, putting him on the verge of a $100,000 bonus for winning the Grand Chess Tour. Firouzja is level with Ian Nepomniachtchi, who beat Levon Aronian, and Fabiano Caruana, who ended his Sinquefield Cup by knocking Hans Niemann out of the 2700 club.",
