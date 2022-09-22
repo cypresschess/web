@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The English Chess Federation is extremely proud that our Director of Women's Chess Aga Milewska has been selected to be a Councillor on the European...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/aga-milewska-fide-councillor/",
+         "pubDate" : "Thu, 22 Sep 2022 11:17:37 +0000",
+         "title" : "Aga Milewska - FIDE Councillor"
+      },
+      {
+         "description" : "It's like having Carlsen and Anand at your disposal. Komodo Dragon and Power Fritz both won the World Championship, each in a separate section. Both are products you can get in the ChessBase shop. They are arguably the most powerful chess programs in the world, and will do wonders for your study of the game. Komodo Dragon 3 owners can rejoice: they now automatically receive the World Champion Engine as a free update. For Fritz users there is an attractive update price.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/getting-advice-from-the-very-best",
+         "pubDate" : "Thu, 22 Sep 2022 12:00:00 +0100",
+         "title" : "Getting advice from the very best"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94375114.cms\" />Chess world champion Magnus Carlsen remained vague on Thursday about whether or not he thought Hans Niemann was a cheat after he abruptly conceded his contest against the American at the Julius Baer Generation Cup online tournament following one move.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-champion-magnus-carlsen-refuses-to-clarify-cheating-claims/articleshow/94375114.cms",
+         "pubDate" : "Thu, 22 Sep 2022 10:49:44 +0000",
+         "title" : "Chess world champion Magnus Carlsen refuses to clarify cheating claims"
+      },
+      {
+         "description" : "The Carlsen Niemann case that started with Magnus Carlsen's withdraw from the Sinquefield Cup 2022 is generating huge attention worldwide. On Chessdom.com more than 2 million page views on the case related articles so far, but 56 articles later (scroll down for a chronological list) there are more questions than answers as to why []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/10-questions-to-magnus-carlsen-regarding-the-carlsen-niemann-case/",
+         "pubDate" : "Thu, 22 Sep 2022 10:16:30 +0000",
+         "title" : "10 questions to Magnus Carlsen regarding the Carlsen - Niemann case"
+      },
+      {
+         "description" : "The Carlsen Niemann case that started with Magnus Carlsen's withdraw from the Sinquefield Cup 2022 is generating huge attention worldwide. On Chessdom.com more than 2 million page views on the case related articles so far, but 56 articles later (scroll down for a chronological list) there are more questions than answers as to why []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/10-questions-to-hans-niemann-regarding-the-carlsen-niemann-case/",
+         "pubDate" : "Thu, 22 Sep 2022 10:16:27 +0000",
+         "title" : "10 questions to Hans Niemann regarding the Carlsen - Niemann case"
+      },
+      {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Thu, 22 Sep 2022 10:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
+         "description" : "Ethereal and Berserk are the promoting engines from League One of the premier computer chess event the Top Chess Engine Championship. Ethereal crushed its way through the division with a 30/44 score, 3.5 points ahead of Berserk, who in turn finished 1.5 points ahead of League Two winner Minic. Unfortunately for the other engines []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ethereal-trailblazes-tcec-league-1/",
+         "pubDate" : "Thu, 22 Sep 2022 08:14:03 +0000",
+         "title" : "Ethereal trailblazes TCEC League 1"
+      },
+      {
+         "description" : "The agenda and papers for the upcoming AGM can be found via this link &#8212; http://ecfcouncillive.ndlazi.uk/",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-2022-papers/",
+         "pubDate" : "Thu, 22 Sep 2022 08:05:06 +0000",
+         "title" : "ECF AGM 2022 - papers"
+      },
+      {
+         "description" : "After concluded the open call of interest for the 16 FIDE Commissions' members and for the 4 existing ECU Commissions, while the call of interest for the two new ECU Commissions (ECU Media &#38; Communication Commission and ECU Social Commission) remains open till 26th of September. ECU taking in account the received applications, the proposals and selections by&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-appoints-members-of-ecu-fide-commissions/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-appoints-members-of-ecu-fide-commissions/",
+         "pubDate" : "Thu, 22 Sep 2022 08:04:46 +0000",
+         "title" : "ECU appoints members of ECU/FIDE Commissions"
+      },
+      {
+         "description" : "Anish Giri&#xA0;did not qualify for the&#xA0;Julius Baer Generation Cup Knockout stage&#xA0;due to unfortunate results in the last round of the prelims. Giri won his last game against&#xA0;Arjun Erigaisi&#xA0;to score 21 points and it was almost certain he will take the seat for the Knockout. However,&#xA0;&#xA0;Christopher Yoo and Levon Aronian took the last two Knockout spots []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-about-the-recent-chess-drama-its-moving-in-circles-a-little-bit/",
+         "pubDate" : "Thu, 22 Sep 2022 07:49:38 +0000",
+         "title" : "Anish Giri about the recent chess drama: It's moving in circles a little bit"
+      },
+      {
+         "description" : "GM Magnus Carlsen was in a class of his own at the preliminaries of the Julius Baer Generation Cup. Ending with three more victories, he finished first with a 2937 performance rating, before giving his first interview since withdrawing from the Si...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-4",
+         "pubDate" : "Thu, 22 Sep 2022 00:46:00 -0700",
+         "title" : "Carlsen Reigns Supreme, Finally Speaks Out"
+      },
+      {
          "description" : " <p class=\"lead\">Magnus Carlsen is currently thriving at the Julius Baer Generation Cup Prelims but his <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resignation on move 2</a> against Niemann a couple of days ago overshadowed all success. On the final day Magnus decided to break his silence! But he actually say anything?! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24 Oslo broadcast</div> </div> First he [Carlsen] <a href=\"https://worldchess.com/news/all/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -122,14 +210,6 @@ news_feed (
          "title" : "BREAKING! Magnus Carlsen: cheaters should not be taken lightly either online or OTB"
       },
       {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum. World Chess Champion&#xA0;Magnus Carlsen&#xA0;was topping the field and met again with 19-year-old&#xA0;Hans Niemann. Carlsen resigned his game against Niemann after only two played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-knockout-phase-pairings-timetable/",
-         "pubDate" : "Wed, 21 Sep 2022 19:06:09 +0000",
-         "title" : "Julius Baer Generation Cup Knockout phase - Pairings & timetable"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -146,36 +226,12 @@ news_feed (
          "title" : "Nakamura Adds Another Tournament Victory"
       },
       {
-         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Niemann &#x2013; Carlsen R6 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/emil-sutovsky-fide-is-concerned-about-recent-developments-of-carlsen-niemann-case/",
-         "pubDate" : "Wed, 21 Sep 2022 16:09:29 +0000",
-         "title" : "Emil Sutovsky: FIDE is concerned about recent developments of Carlsen - Niemann case"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #534 Merijn van Delft looks at a nice win by rising Indian star Gukesh who defeated English Grandmaster Gawain Jones in a fine attacking game played in the Spanish League. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-534-gukesh-vs-g-jones",
          "pubDate" : "Wed, 21 Sep 2022 17:00:00 +0100",
          "title" : "Game of the Week #534: Gukesh vs. G. Jones"
-      },
-      {
-         "description" : "Julius Baer Generation Cup&#xA0;gathers 16 world-class players spanning the age spectrum and set the chess world on fire as it featured the encounter between&#xA0;Hans Niemann&#xA0;and&#xA0;Magnus Carlsen. It was their first game to be played after the Sinquefield Cup 2022 when&#xA0;Carlsen withdrew from the event&#xA0;after losing to Niemann in the third round. Niemann &#x2013; Carlsen R6 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/compilation-of-reactions-to-niemann-carlsen-2-move-game-video/",
-         "pubDate" : "Wed, 21 Sep 2022 15:49:00 +0000",
-         "title" : "Compilation of reactions to Niemann - Carlsen 2-move game (VIDEO)"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event features 16 world-class players spanning the age spectrum. World Chess Champion&#160;Magnus Carlsen&#160;headlines the field and met again with 19-year-old&#160;Hans Niemann, resigning his game after only two moves of play (Read more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-vincent-keymer-julius-baer-generation-cup-r15-live/",
-         "pubDate" : "Wed, 21 Sep 2022 12:40:55 +0000",
-         "title" : "Magnus Carlsen vs Vincent Keymer, Julius Baer Generation Cup R15 live"
       },
       {
          "description" : "Aron Nimzowitsch, theoretician, author of \"My System\", and one of the world's best players at the end of the 1920s, liked to answer 1.e4 with the provocative move 1...Nc6, the \"Nimzowitsch Defence\". The move is slightly offbeat but offers Black good chances as the French GM Christian Bauer shows on his ChessBase course \"The Nasty Nimzowitsch Defence\", published in 2019. Paul Kane, who runs the website \"The Caissa Kid\", had a look at Bauer's course and concludes: \"'The Nasty Nimzowitsch Defence' is a quality piece of work which was a great pleasure to study.\"",
@@ -1514,22 +1570,6 @@ news_feed (
          "title" : "8 Handshakes, No Winners In Round 7"
       },
       {
-         "description" : "In the diagram position, Black can ensure the promotion of her passed d-pawn with three precise queen moves, the last one being the trickiest. Technique meets tactics - your call!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dancing-queen",
-         "pubDate" : "Sat, 10 Sep 2022 09:00:00 +0100",
-         "title" : "Dancing queen"
-      },
-      {
-         "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r7",
-         "pubDate" : "Sat, 10 Sep 2022 08:40:00 +0100",
-         "title" : "Sinquefield Cup: Theoretical lines"
-      },
-      {
          "description" : "\"This tournament is broken,\" said Jan Gustafsson after all four games were drawn in Round 7 of the Sinquefield Cup. It was a day of long theoretical battles that never looked likely to burst into life, though Alireza Firouzja at least showed fighting spirit by playing on - in vain - against Leinier Dominguez. Wesley So didn't play, but maintained the sole lead with just two rounds to go.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1768,14 +1808,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1968",
          "pubDate" : "Wed, 07 Sep 2022 05:31:41 +0000",
          "title" : "2022 Sinquefield Cup - Day 5 Recap"
-      },
-      {
-         "description" : "Just one game in round five of the 2022 Sinquefield Cup was close to seeing a winner, and that was in the encounter between the two American GMs Leinier Dominguez and Hans Niemann. Dominguez had an overwhelming position but let Niemann off the hoo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-round-5",
-         "pubDate" : "Tue, 06 Sep 2022 18:06:00 -0700",
-         "title" : "Dominguez Squeezes Niemann But No Winners"
       },
       {
          "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ It is possible you will find below selection easy to solve. In anticipation of that, I am adding one more challenge. <a href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\">Chess 2022 March Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href",
@@ -2104,22 +2136,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html",
          "pubDate" : "Thu, 01 Sep 2022 15:37:00 +0000",
          "title" : "September 1972 & 1997 'On the Cover'"
-      },
-      {
-         "description" : " <p class=\"lead\">Alireza Firouzja dominated the St. Louis Rapid & Blitz tournament, winning his first ever Grand Chess Tour event with four rounds to spare (!) and surpassing 2900 blitz rating points, only 6 points away from Hikaru Nakamura. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Alireza-Firouzja-chess-grand-chess-tour.jpeg\" width=\"2250\" height=\"1475\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / Grand Chess Tour</div> </div> Alireza Firouzja came like a storm at the St. Louis Rapid & Blitz tournament. The teenage sensation lost only one of his 18 games, and was undefeated in the blitz to hit the third best overall score in the Grand Ches",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/firouzja-crossed-2900-in-blitz-after-winning-the-saint-louis-rap/",
-         "pubDate" : "Thu, 01 Sep 2022 08:31:32 +0000",
-         "title" : "Firouzja crossed 2900 in blitz after winning the Saint Louis Rapid & Blitz"
-      },
-      {
-         "description" : "The 2022 European Individual Women's Chess Championship concluded yesterday in Prague, Czech Republic. More than 120 players from 28 European federations competed over 11 swiss rounds for the title of European Champion and 9 qualification spots for the next FIDE Women's World Cup. GM Monika Socko (POL, 2423) claimed the European Women's Chess Championship scoring 8.5 points. Socko&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/monika-socko-claims-european-womens-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/monika-socko-claims-european-womens-chess-championship-2022/",
-         "pubDate" : "Thu, 01 Sep 2022 07:51:00 +0000",
-         "title" : "Monika Socko claims European Women's Chess Championship 2022"
       }
    ]
 }
