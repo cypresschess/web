@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94364001.cms\" />Neutral followers of any sport may feel premature acceptance of defeat or pre-arranged draw is not sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/battle-for-fair-play-has-few-takers-in-chess/articleshow/94364001.cms",
+         "pubDate" : "Thu, 22 Sep 2022 03:23:21 +0000",
+         "title" : "Battle for fair play has few takers in chess"
+      },
+      {
          "description" : "Magnus Carlsen won all three of his games on Wednesday to finish a whole nine points ahead of second-placed Arjun Erigaisi at the preliminary stage of the Generation Cup. Besides Arjun, four other under-20 players made it to the quarterfinals, including the youngest participant in the field, Christopher Yoo (pictured). As for the elite grandmasters, Levon Aronian barely made it through, while Anish Giri fell just short. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
