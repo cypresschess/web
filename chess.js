@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the ChessBase Magazine column \"All in one\" you can learn everything you need to know about a specific opening variation on the basis of a single, extensively annotated game in order to be able to add it to your repertoire or even try it out directly in practice! In the current CBM #209, for example, the Ukrainian GM Yuriy Kuzubov presents a surprise weapon against the Alekhine Defence. 4.a4 followed by 5.Ra3 - have you ever seen that before? You can find a short version of his analysis here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-in-one-a-crazy-alekhine",
+         "pubDate" : "Thu, 22 Sep 2022 14:00:00 +0100",
+         "title" : "\"All in one\": A crazy Alekhine"
+      },
+      {
+         "description" : "Fabiano Caruana yesterday evening joined the C-squared podcast where he extensively spoke about his recent tournaments in Saint Louis, but also commented on the Carlsen Niemann controversial case which every day gets new developments. Caruana shared his insights on the case, adding that he had a personal experience with a cheater who was exonerated []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-i-would-take-regans-analysis-with-a-large-grain-of-salt/",
+         "pubDate" : "Thu, 22 Sep 2022 12:40:39 +0000",
+         "title" : "Fabiano Caruana: I would take Regan's analysis with a large grain of salt"
+      },
+      {
+         "description" : " After a break of a few years, the 2022 ACT Teams Championship is being held on Sunday, 23rd October, at Campbell High School. It will be a team of 4 tournament, played with a time limit of G15m+5s. It will be FIDE rated (Rapid) and there will be 7 rounds. Cost for the team is $10 per player, with trophies and medals being awarded. The last time it was held (in 2019) there were 10 teams, and hopefully this year will see more players (especially given the larger numbers at each of the clubs). One interesting innovation this year is that a teams average rating is based on Boards 2,3 and 4 (and not board 1). The average limit is 1700, but this rule means you can have a strong board 1 player wit",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-teams-championship.html",
+         "pubDate" : "Thu, 22 Sep 2022 12:34:00 +0000",
+         "title" : "2022 ACT Teams Championship"
+      },
+      {
          "description" : "The English Chess Federation is extremely proud that our Director of Women's Chess Aga Milewska has been selected to be a Councillor on the European...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "ECF AGM 2022 - papers"
       },
       {
-         "description" : "After concluded the open call of interest for the 16 FIDE Commissions' members and for the 4 existing ECU Commissions, while the call of interest for the two new ECU Commissions (ECU Media &#38; Communication Commission and ECU Social Commission) remains open till 26th of September. ECU taking in account the received applications, the proposals and selections by&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-appoints-members-of-ecu-fide-commissions/\">Read More &#187;</a></span>",
+         "description" : "ECU taking in account the received applications, the proposals and selections by the Chairpersons, the wider representation, appointed the following members for ECU Commissions: ECU Arbiters Council: Geert Bailleul (BEL), Chairperson Tania Karali (GRE), Secretary Alon Shulman (ISR), Councillor Alexander Sokolski (POL), Councilor Tamas Gyomber (HUN), Councilor Marco Biagioli (ITA) ECU Legal Advisor, Data protectionAd, -hoc member&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-appoints-members-of-ecu-fide-commissions/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-appoints-members-of-ecu-fide-commissions/",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Anish Giri about the recent chess drama: It's moving in circles a little bit"
       },
       {
-         "description" : "GM Magnus Carlsen was in a class of his own at the preliminaries of the Julius Baer Generation Cup. Ending with three more victories, he finished first with a 2937 performance rating, before giving his first interview since withdrawing from the Si...",
+         "description" : "GM Magnus Carlsen was in a class of his own at the preliminaries of the Julius Baer Generation Cup. Ending with three more victories, he finished first with a 2937 performance rating before giving his first interview since withdrawing from the Sin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-4",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/anish-giri-i-am-not-allowed-to-mess-with-the-carlsen-niemann-final-tweetoftheday/",
          "pubDate" : "Wed, 21 Sep 2022 20:04:08 +0000",
          "title" : "Anish Giri: I am not allowed to mess with the Carlsen-Niemann final #TweetOftheDay"
-      },
-      {
-         "description" : "Magnus Carlsen gave the interview after the Prelims stage of the Julius Baer Generation Cup. Carlsen qualified for the Knockout phase of the event and he might meet with Hans Niemann again in the Grand finale! Julius Baer Generation Cup Knockout phase &#x2013; Pairings &#38; timetable can be found here. Asked about his withdrawal from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/breaking-magnus-carlsen-cheaters-should-not-be-taken-lightly-either-online-or-otb/",
-         "pubDate" : "Wed, 21 Sep 2022 19:31:50 +0000",
-         "title" : "BREAKING! Magnus Carlsen: cheaters should not be taken lightly either online or OTB"
       },
       {
          "description" : "",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-chess-championship-knockout-participants",
          "pubDate" : "Sat, 10 Sep 2022 06:25:00 -0700",
          "title" : "Anand, Ivanchuk, Kramnik, Topalov Among Global Chess Championship Participants"
-      },
-      {
-         "description" : "On Friday last week, Croatian grandmaster Miso Cebalo passed away in Zagreb. In his younger years, Cebalo was one of Yugoslavia's best bridge players. He was also a linguistic genius. Cebalo was a national player for Yugoslavia, then Croatia, and in later years was active as an author, commentator and coach. Miso Cebalo was 77 years old.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/miso-cebalo-1945-2022",
-         "pubDate" : "Sat, 10 Sep 2022 13:00:00 +0100",
-         "title" : "Miso Cebalo (1945-2022)"
       },
       {
          "description" : "Daniel Johnson is the founding editor of our online platform TheArticle where I contribute the weekly chess column every Saturday. In a previous incarnation Daniel edited the monthly Standpoint magazine, where one of his innovations was to introduce a regular Underrated/Overrated feature. Inspired by this format I shall be devoting my column this week to the theme of one of the most unfairly denigrated of the []",
