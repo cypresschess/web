@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1997",
+         "pubDate" : "Thu, 22 Sep 2022 15:00:11 +0000",
+         "title" : "World Cadets Championships are halfway through"
+      },
+      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/86aa3b59-2fbe-46da-b19d-6a91aceab79a/Lennart.Magnus2.jpg\" data-image-dimensions=\"293x221\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"632c7153e1eafa00f1794f6f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/86aa3b59-2fbe-46da-b19d-6a91aceab79a/Lennart.Magnus2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Lennart Ootes <a href=\"https://www.instagram.com/p/CiBGH9FOnRc/?hl=en\">via Grand Chess Tour</a> </figcaption> </figure",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
