@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Women's Grand Prix began in 2009-2011 as a series of six chess tournaments exclusively for women, forming part of the qualification cycle for the 2011 Women&#x2019;s World Chess Championship. Subsequent Women&#x2019;s Grand Prix series were held in 2011-2012 and 2013-2014. Chinese star GM Hou Yifan, currently number one on the FIDE Women&#x2019;s rating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/goryachkina-and-zhu-jiner-extend-their-lead-in-fide-womens-grand-prix-astana/",
+         "pubDate" : "Thu, 22 Sep 2022 18:10:36 +0000",
+         "title" : "Goryachkina and Zhu Jiner extend their lead in FIDE Women's Grand Prix Astana"
+      },
+      {
          "description" : "This week Robert Ris will have a look at the Modern Defence with 4...a6, which World Champion Magnus Carlsen tried with Black in two interesting games against Arjun Erigaisi and Praggnanandhaa in the Julius B&auml;r Generation Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/niemanns-mentor-whom-carlsen-mentions-in-the-interview-was-banned-from-chess-com-for-cheating/",
          "pubDate" : "Wed, 21 Sep 2022 20:27:56 +0000",
          "title" : "Niemann's mentor whom Carlsen mentions in the interview was banned from chess.com for cheating?!"
-      },
-      {
-         "description" : "Anish Giri did not qualify for the Julius Baer Generation Cup Knockout stage due to unfortunate results in the last round of the prelims. Giri won his last game against Arjun Erigaisi to score 21 points and it was almost certain he will take the seat for the Knockout. However, Levon Aronian won the losing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-i-am-not-allowed-to-mess-with-the-carlsen-niemann-final-tweetoftheday/",
-         "pubDate" : "Wed, 21 Sep 2022 20:04:08 +0000",
-         "title" : "Anish Giri: I am not allowed to mess with the Carlsen-Niemann final #TweetOftheDay"
       },
       {
          "description" : "",
