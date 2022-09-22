@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-is-a-wildcard-for-the-sinquefield-cup-that-starts/",
          "pubDate" : "Fri, 02 Sep 2022 06:24:49 +0000",
          "title" : "Magnus Carlsen is a wildcard for the Sinquefield Cup that starts today"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1957",
-         "pubDate" : "Thu, 01 Sep 2022 20:25:34 +0000",
-         "title" : "Three youngsters cross 2700 mark in September rating list"
       }
    ]
 }
