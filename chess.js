@@ -13,6 +13,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1998",
+         "pubDate" : "Thu, 22 Sep 2022 16:22:04 +0000",
+         "title" : "Astana WGP: Goryachkina and Zhu Jiner extend their lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1997",
          "pubDate" : "Thu, 22 Sep 2022 15:00:11 +0000",
          "title" : "World Cadets Championships are halfway through"
