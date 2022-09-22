@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won all three of his games on Wednesday to finish a whole nine points ahead of second-placed Arjun Erigaisi at the preliminary stage of the Generation Cup. Besides Arjun, four other under-20 players made it to the quarterfinals, including the youngest participant in the field, Christopher Yoo (pictured). As for the elite grandmasters, Levon Aronian barely made it through, while Anish Giri fell just short. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d4",
+         "pubDate" : "Thu, 22 Sep 2022 03:30:00 +0100",
+         "title" : "Generation Cup: Carlsen dominates prelims, five juniors make the cut"
+      },
+      {
+         "description" : "GM Sam Sevian achieved a spectacular upset against GM Maxime Vachier-Lagrave to kick off the round of 32 matches in the Chess.com Global Chess Championship. Additionally, GM Dmitry Andreikin defeated GM Gata Kamsky in armageddon while GM Fabiano C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d1",
+         "pubDate" : "Wed, 21 Sep 2022 19:03:37 -0700",
+         "title" : "Sevian Scores Spectacular Upset; Caruana, Andreikin Advance"
+      },
+      {
+         "description" : "Magnus Carlsen won all three games on the final day of the Julius Baer Generation Cup to finish a massive 9 points ahead of 2nd placed Arjun Erigaisi. Carlsen plays Levon Aronian next, but could still meet Hans Niemann in the final. We've also got Keymer-Pragg, Niemann-Le and Yoo-Erigaisi in the quarterfinals, while Anish Giri just missed out.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/generation-cup-4-carlsen-scores-record-win-talks-about-niemann",
+         "pubDate" : "Thu, 22 Sep 2022 01:35:52 +0000",
+         "title" : "Generation Cup 4: Carlsen breaks record, talks about Niemann"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches a chess class on a topic of his choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Lol4i4fTQuo.jpg?itok=-KnI0NZE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros",
+         "pubDate" : "Thu, 22 Sep 2022 00:41:43 +0000",
+         "title" : "Like Teacher, Like Pupil: Leko & Keymer | How To Become a Grandmaster - GM Denes Boros"
+      },
+      {
          "description" : "Right after dominating the preliminary stage of the Generation Cup, Magnus Carlsen gave his first interview since his sudden withdrawal from the Sinquefield Cup. Carlsen did not confirm he had resigned his game against Hans Niemann due to suspicious of cheating, but added that \"people can draw their own conclusions, and they certainly have\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1996",
          "pubDate" : "Wed, 21 Sep 2022 18:41:03 +0000",
          "title" : "FIDE WGP Astana: Up-and-coming Zhu Jiner joins the lead"
-      },
-      {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Wed, 21 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup: Live"
       },
       {
          "description" : "GM Hikaru Nakamura and GM Jeffery Xiong, the most successful and one of the most successful players in the history of Titled Tuesday, each added another victory feather to their caps in the September 20, 2022 editions.&#38;nbsp;&#38;nbsp; IM Anna Sargsy...",
@@ -144,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hangzhou-bank-wins-chinese-team-championship",
          "pubDate" : "Wed, 21 Sep 2022 12:13:19 +0100",
          "title" : "Hangzhou Bank wins Chinese Team Championship"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Wed, 21 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : "GM Magnus Carlsen is back in the lead at the Julius Baer Generation Cup after scoring three wins and a draw on the third day of the preliminaries. GM Hans Niemann is still in contention of qualifying for the knockout phase and might be paired with...",
@@ -784,14 +800,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d3",
          "pubDate" : "Fri, 16 Sep 2022 18:00:00 -0700",
          "title" : "Svidler Sweeps Shirov, Favorites Triumph"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-wins-it-all-day-3",
-         "pubDate" : "Sat, 17 Sep 2022 00:37:52 +0000",
-         "title" : "Fabi: Wins It All | Day 3"
       },
       {
          "description" : "GM Fabiano Caruana soared from behind on the final day of the 2022 Champions Showdown: Chess 9LX to equal GM Alireza Firouzja&#39;s impressive 6.5/9, before beating him in a playoff that required an armageddon game to determine the winner.&#38;nbsp; Fir...",
@@ -1490,6 +1498,14 @@ news_feed (
          "title" : "Dancing queen"
       },
       {
+         "description" : "Four theory-heavy draws were seen in round 7 of the Sinquefield Cup. Wesley So did not play on Friday - he was paired up against Magnus Carlsen - but kept the sole lead nonetheless. With two rounds to go, Alireza Firouzja and Ian Nepomniachtchi are the leader's closest chasers. So is set to face Firouzja with black on Saturday. | Photo: Grand Chess Tour / Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r7",
+         "pubDate" : "Sat, 10 Sep 2022 08:40:00 +0100",
+         "title" : "Sinquefield Cup: Theoretical lines"
+      },
+      {
          "description" : "\"This tournament is broken,\" said Jan Gustafsson after all four games were drawn in Round 7 of the Sinquefield Cup. It was a day of long theoretical battles that never looked likely to burst into life, though Alireza Firouzja at least showed fighting spirit by playing on - in vain - against Leinier Dominguez. Wesley So didn't play, but maintained the sole lead with just two rounds to go.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1794,14 +1810,6 @@ news_feed (
          "title" : "Did Hans Niemann actually cheat? All the info so far"
       },
       {
-         "description" : "Magnus Carlsen's shock withdrawal from the Sinquefield Cup overshadowed everything else in Round 4, but the chess went on. Fabiano Caruana scored the only win, defeating Maxime Vachier-Lagrave in 92 moves, while Hans Niemann lost his lead to Wesley So after failing to convert a winning position against Alireza Firouzja.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-4-fabi-wins-so-leads-as-life-goes-on-without-magnus",
-         "pubDate" : "Tue, 06 Sep 2022 07:53:29 +0000",
-         "title" : "Sinquefield Cup 4: Fabi wins, So leads, as life goes on without Magnus"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/",
          "pubDate" : "Tue, 06 Sep 2022 06:35:47 +0000",
          "title" : "3rd ECU annual training program - Develop practical way of thinking"
-      },
-      {
-         "description" : "Major drama in connection with the Monday round at the 2022 Sinquefield Cup:&#38;nbsp;World Champion GM Magnus Carlsen withdrew from the event without explaining publicly the reason, but from the overall reaction, it seemed clear that accusations of f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-4",
-         "pubDate" : "Mon, 05 Sep 2022 20:30:00 -0700",
-         "title" : "Wesley So Leads Sinquefield Cup After Carlsen Withdraws"
       },
       {
          "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament halfway. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5E80C7B1-CFA0-4697-847F-4FA496FCD632.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in New York during the World Chess Championship Match</div> </div> A day before, Carlsen lost to <a href=\"https://chessarena.com/profile/211968\">Hans Niemann</a>, a much lower-ranked player. According to chess-news, Niemann has been accused of cheating earlier in his career",
