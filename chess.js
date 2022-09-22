@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/86aa3b59-2fbe-46da-b19d-6a91aceab79a/Lennart.Magnus2.jpg\" data-image-dimensions=\"293x221\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"632c7153e1eafa00f1794f6f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/86aa3b59-2fbe-46da-b19d-6a91aceab79a/Lennart.Magnus2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Lennart Ootes <a href=\"https://www.instagram.com/p/CiBGH9FOnRc/?hl=en\">via Grand Chess Tour</a> </figcaption> </figure",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/22/bonus-pod-gm-alex-fishbein-and-im-greg-shahade-discuss-the-latest-developments-in-the-carlsenniemann-controversy",
+         "pubDate" : "Thu, 22 Sep 2022 14:32:42 +0000",
+         "title" : "Bonus Pod- GM Alex Fishbein and IM Greg Shahade discuss the latest developments in the Carlsen/Niemann Controversy "
+      },
+      {
+         "description" : "Rapid events are exciting to watch especially with the World Champion in play, controversy aside, and one of the reasons for the excitement is also the larger number of mistakes leading to more decisive games. But another way of looking at it is that there are more opportunities for a good lesson as Karsten Mueller shows. Don't miss Keymer's knight underpromotion to beat Saric!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-in-meltwater",
+         "pubDate" : "Thu, 22 Sep 2022 15:00:00 +0100",
+         "title" : "Karsten M&uuml;ller: Topical Endgames in Meltwater"
+      },
+      {
          "description" : "In the ChessBase Magazine column \"All in one\" you can learn everything you need to know about a specific opening variation on the basis of a single, extensively annotated game in order to be able to add it to your repertoire or even try it out directly in practice! In the current CBM #209, for example, the Ukrainian GM Yuriy Kuzubov presents a surprise weapon against the Alekhine Defence. 4.a4 followed by 5.Ra3 - have you ever seen that before? You can find a short version of his analysis here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-8",
          "pubDate" : "Sat, 10 Sep 2022 22:49:00 -0700",
          "title" : "Sleepless in St. Louis"
-      },
-      {
-         "description" : "That is the question, as it were. Put simply, it is the automated extraction of creative characteristics or 'elements' from one domain for application into another. Human brains do this all the time. Dr. Azlan Iqbal, computer scientist from Malaysia, with research interests in computational aesthetics and creativity in games, uses his problem composing software Chesthetica to illustrate transmutation in computing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-is-creative-transmutation-in-computing",
-         "pubDate" : "Sat, 10 Sep 2022 15:00:00 +0100",
-         "title" : "What Is Creative Transmutation in Computing?"
       },
       {
          "description" : "The Chess.com Global Championship Knockout phase begins on September 14. An event that started with thousands of participants is down to a field of 64. In the next few weeks, there will only be 32, then 16, and then eight hopefuls. By November? On...",
