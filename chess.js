@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We won't get a Carlsen-Niemann final in the Julius Baer Generation Cup after Liem Le beat Hans Niemann 2.5:1.5 in the quarterfinals. Magnus did progress, storming back to beat Levon Aronian 3:1 after losing the first game, and now plays Vincent Keymer, who defeated Praggnanandhaa. Arjun Erigaisi faces Le in the semis after edging a thrilling battle against Christopher Yoo.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/generation-cup-qfs-carlsen-through-but-niemann-knocked-out",
+         "pubDate" : "Fri, 23 Sep 2022 06:35:48 +0000",
+         "title" : "Generation Cup QFs: Carlsen through but Niemann out"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94388291.cms\" />Magnus Carlsen is still not explaining his one move resignation. But he has now added a name. That of Hans Niemann's coach GM Maxim Dlugy.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -128,6 +136,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-teams-championship.html",
          "pubDate" : "Thu, 22 Sep 2022 12:34:00 +0000",
          "title" : "2022 ACT Teams Championship"
+      },
+      {
+         "description" : "The English Chess Federation is extremely proud that our Director of Women's Chess Aga Milewska has been selected to be a Councillor on the European...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/aga-milewska-fide-councillor/",
+         "pubDate" : "Thu, 22 Sep 2022 11:17:37 +0000",
+         "title" : "Aga Milewska - ECU Women's Commission Councillor"
       },
       {
          "description" : "It's like having Carlsen and Anand at your disposal. Komodo Dragon and Power Fritz both won the World Championship, each in a separate section. Both are products you can get in the ChessBase shop. They are arguably the most powerful chess programs in the world, and will do wonders for your study of the game. Komodo Dragon 3 owners can rejoice: they now automatically receive the World Champion Engine as a free update. For Fritz users there is an attractive update price.",
@@ -1834,14 +1850,6 @@ news_feed (
          "title" : "Junior Development Pathway"
       },
       {
-         "description" : "Hans Niemann pulled off a great escape against Leinier Dominguez in Round 5 of the Sinquefield Cup, but chess fans had stuck around not for the chess but the post-game interview. It didn't disappoint, as Hans admitted cheating online in the past but denied ever cheating over-the-board. He hit out at Magnus Carlsen, Hikaru Nakamura and Chesscom, who he revealed had banned him after Carlsen's withdrawal.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/hans-niemann-hits-back-at-his-critics",
-         "pubDate" : "Wed, 07 Sep 2022 07:34:05 +0000",
-         "title" : "Hans Niemann hits back at his critics"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2136,22 +2144,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-one/",
          "pubDate" : "Fri, 02 Sep 2022 08:36:05 +0000",
          "title" : "A Foundation for Beginners Seventy One"
-      },
-      {
-         "description" : " The merger between the two largest online chess groups will give the US-backed chess.com a dominant position, while the seven-year-old has set a record for the youngest ever 2000 national rating Chess.com is set to take over the <a href=\"https://playmagnusgroup.com/\" title=\"\">Play Magnus Group</a> in an $82m merger between major chess organisations that will leave the US-backed <a href=\"https://www.chess.com/is\" title=\"\">chess.com</a> as the dominant force in online events. PMG, which went public on the Oslo market in 2020, began with a flourish as a growth stock, but its revenues failed to grow at the hoped for rate, and its share price has halved from its peak. It appears that PMG's busin",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/sep/02/chesscom-swallows-play-magnus-while-kushal-jakhria-sets-new-world-mark",
-         "pubDate" : "Fri, 02 Sep 2022 07:00:43 +0000",
-         "title" : "Chess.com swallows Play Magnus while Kushal Jakhria sets new world mark"
-      },
-      {
-         "description" : " <p class=\"lead\">The final event of the Grand Chess Tour 2022 is the Sinquefield Cup which takes place on September 2-12 in St. Louis. The tournament features eight all-star players with the World Champion being the wildcard! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Magnus-Carlsen-Grand-chess-Tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes, Grand Chess Tour</div> </div> The Sinquefield Cup starts today in St. Louis with the players having the last opportunity to earn points and win the Grand Chess Tour. After four tournaments of the tour, Maxime Vachier-Lagrave is leading with 26&frac12; points. but Alireza ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-is-a-wildcard-for-the-sinquefield-cup-that-starts/",
-         "pubDate" : "Fri, 02 Sep 2022 06:24:49 +0000",
-         "title" : "Magnus Carlsen is a wildcard for the Sinquefield Cup that starts today"
       }
    ]
 }
