@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 29 September Anna and Mariya Muzychuk will give a simultaneous event against 30 opponents in the European Parliament in Brussels. On this occasion, the two Ukrainians will also receive an award from the Emanuel Lasker Society.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anna-and-mariya-muzychuk-simul-and-award-in-bruxelles",
+         "pubDate" : "Fri, 23 Sep 2022 15:00:00 +0100",
+         "title" : "Anna and Mariya Muzychuk: Simul and award in Bruxelles"
+      },
+      {
+         "description" : "FIDE has announced a new world championship: an Open World Team Championship in which club teams can participate. The partner of the World Championship, which will offer a prize fund of 250,000 euros, is the logistics company WR Group based in D&uuml;sseldorf, Germany, where the tournament is \"tentatively\" scheduled to be played in May 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-and-wr-group-announce-world-open-teams-championship",
+         "pubDate" : "Fri, 23 Sep 2022 13:40:19 +0100",
+         "title" : "FIDE and WR Group announce World Open Teams Championship"
+      },
+      {
+         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0; simultaneously took place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/daniil-dubov-and-valentina-gunina-are-russian-chess-champions-2022/",
+         "pubDate" : "Fri, 23 Sep 2022 12:17:52 +0000",
+         "title" : "Daniil Dubov and Valentina Gunina are Russian Chess Champions 2022"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "Sergey Karjakin's ban from FIDE events has expired"
       },
       {
-         "description" : "A final between GM Magnus Carlsen and GM Hans Niemann is not possible anymore at the Julius Baer Generation Cup after Niemann lost to GM Le Quang Liem in Thursday&#39;s&#38;nbsp; quarterfinals. Carlsen eliminated GM Levon Aronian and now plays GM Vincent ...",
+         "description" : "A final between GM Magnus Carlsen and GM Hans Niemann is not possible anymore at the Julius Baer Generation Cup after Niemann lost to GM Le Quang Liem in Thursday&#39;s quarterfinals. Carlsen eliminated GM Levon Aronian and now plays GM Vincent Keymer...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-quaterfinals",
-         "pubDate" : "Fri, 23 Sep 2022 02:06:29 -0700",
-         "title" : "Carlsen Through, Niemann Eliminated"
+         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-quarterfinals",
+         "pubDate" : "Fri, 23 Sep 2022 02:06:00 -0700",
+         "title" : "Carlsen Advances, Niemann Eliminated"
       },
       {
          "description" : "Ian Nepomniachtchi published a video on his official youtube account where he speaks about tournaments in Saint Louis, the recent happenings related to Carlsen Niemann case, cheating in chess Nepo said that he was not happy when he heard Hans Niemann will replace Richard Rapport in the Sinquefield Cup as Rapport couldn't make it []",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/10-questions-to-magnus-carlsen-regarding-the-carlsen-niemann-case/",
          "pubDate" : "Thu, 22 Sep 2022 10:16:30 +0000",
          "title" : "10 questions to Magnus Carlsen regarding the Carlsen - Niemann case"
-      },
-      {
-         "description" : "The Carlsen Niemann case that started with Magnus Carlsen's withdraw from the Sinquefield Cup 2022 is generating huge attention worldwide. On Chessdom.com more than 2 million page views on the case related articles so far, but 56 articles later (scroll down for a chronological list) there are more questions than answers as to why []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/10-questions-to-hans-niemann-regarding-the-carlsen-niemann-case/",
-         "pubDate" : "Thu, 22 Sep 2022 10:16:27 +0000",
-         "title" : "10 questions to Hans Niemann regarding the Carlsen - Niemann case"
       },
       {
          "description" : "The agenda and papers for the upcoming AGM can be found via this link &#8212; http://ecfcouncillive.ndlazi.uk/",
@@ -1450,12 +1466,12 @@ news_feed (
          "title" : "Sami Khader, new Chairman of the FIDE Trainer's Commission"
       },
       {
-         "description" : " In a few days, Africa's top players will trek to Africa's most populous city (25 million) Lagos for the African Individual Chess Championship (AICC). According to Africa Chess Media's Babatunde Ogunsiku has been counting down to the day of the tournament's start. The marquee tournament on the continent comes in the aftermath of the Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/\">Nigeria to host AICC 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " In a few days, Africa's top players will trek to Africa's most populous city (25 million) Lagos for the African Individual Chess Championship (AICC). According to Africa Chess Media's Babatunde Ogunsiku has been counting down to the day of the tournament's start. The marquee tournament on the continent comes in the aftermath of the Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/\">2022 African Individual Championships (Lagos, Nigeria)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/",
          "pubDate" : "Mon, 12 Sep 2022 13:05:44 +0000",
-         "title" : "Nigeria to host AICC 2022!"
+         "title" : "2022 African Individual Championships (Lagos, Nigeria)"
       },
       {
          "description" : "Alireza Firouzja beat Ian Nepomniachtchi in play-offs to win the ninth edition of the Sinquefield Cup. Firouzja also grabbed an extra $100,000 for winning this year's Grand Chess Tour. The youngster came from winning the Saint Louis Rapid & Blitz Tournament a couple of weeks ago. This was Firouzja's first trip to Saint Louis, one that he is sure to remember for time to come! | Photo: Grand Chess Tour / Lennart Ootes",
@@ -1562,28 +1578,12 @@ news_feed (
          "title" : "2022 ACT Women's Championship"
       },
       {
-         "description" : "Max Euwe was the first of the twelve World Chess Champions whom Frederic met in the late before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe",
-         "pubDate" : "Sun, 11 Sep 2022 14:00:00 +0100",
-         "title" : "Frederic's mates - Max Euwe"
-      },
-      {
          "description" : " In my personal experience, it's usually the last round of a tournament where strange things happen. But, looking at the games from last month's British Championship, I was struck by how many strange things happened in the first round. As usual, the upper half were paired against the lower half, and there were several games <a href=\"https://chessimprover.com/the-first-round-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The First Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-first-round-2/\">The First Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/the-first-round-2/",
          "pubDate" : "Sun, 11 Sep 2022 09:29:01 +0000",
          "title" : "The First Round"
-      },
-      {
-         "description" : "From September 2 to 11 the Polish team championship, the \"Ekstraliga\", takes place in Bydgoszcz. The tournament is a round-robin event with ten teams, and after six rounds VOTUM SA POLONIA WROCLAW leads with 10/12. The best Polish players start in the \"Ekstraliga\" but also international stars such as Pentala Harikrishna, Nils Grandelius, Vincent Keymer, Lucas Van Foreest, Anton Korobov, David Navara, and others. Round 7 starts at 15:00 local time (9:00 ET, 13:00 UTC). Follow the games live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
-         "pubDate" : "Sun, 11 Sep 2022 09:45:00 +0100",
-         "title" : "Polish \"Ekstraliga\" - Final round"
       },
       {
          "description" : "Alireza Firouzja won a lost position to beat Wesley So in Round 8 of the Sinquefield Cup, putting him on the verge of a $100,000 bonus for winning the Grand Chess Tour. Firouzja is level with Ian Nepomniachtchi, who beat Levon Aronian, and Fabiano Caruana, who ended his Sinquefield Cup by knocking Hans Niemann out of the 2700 club.",
@@ -2112,30 +2112,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html",
          "pubDate" : "Fri, 02 Sep 2022 15:29:00 +0000",
          "title" : "Benson Called Bobby"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1959",
-         "pubDate" : "Fri, 02 Sep 2022 12:37:09 +0000",
-         "title" : "Winners crowned at Independence Cup 2022"
-      },
-      {
-         "description" : "Manager of Chess in Prisons Carl Portman recently visited HMP Wakefield here is his report",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/a-visit-to-hmp-wakefield-carl-portman/",
-         "pubDate" : "Fri, 02 Sep 2022 12:30:24 +0000",
-         "title" : "A visit to HMP Wakefield - Carl Portman"
-      },
-      {
-         "description" : " Alan Turing once invented a version of chess called 'Round the House Chess'. After you moved you had to run around the outside of the house, and if you returned before your opponent had moved, you had another move (and another run). A good way to keep fit, but apparently not the only one. Someone has invented a version of chess called \"Chesst\". Every time you capture an opponents piece, you have to do a set number of push-ups, based on the 'point value' of each piece. (Pawn = 1, Rook = 5 etc). Possible modifications include making your opponent do the push-ups as punishment for having pieces captured, and adding a pushup penalty for being in check. An even crueller version would be to repla",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/getting-fit-playing-chess.html",
-         "pubDate" : "Fri, 02 Sep 2022 12:10:00 +0000",
-         "title" : "Getting fit playing chess"
       }
    ]
 }
