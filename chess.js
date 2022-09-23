@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94405344.cms\" />The International Chess Federation (FIDE) has rebuked world champion Magnus Carlsen for abruptly conceding an online game against Hans Niemann while adding it shared the Norwegian's concerns surrounding cheating in the sport.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-shares-carlsens-concerns-about-the-damage-of-cheating-in-the-sport/articleshow/94405344.cms",
+         "pubDate" : "Fri, 23 Sep 2022 17:22:28 +0000",
+         "title" : "FIDE shares Carlsen's concerns about the damage of cheating in the sport"
+      },
+      {
+         "description" : "In a statement released on Friday about the alleged cheating scandal, FIDE President Arkady Dvorkovich has criticized GM Magnus Carlsen for withdrawing from the Sinquefield Cup and resigning after two moves vs. GM Hans Niemann in the Julius Baer G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dvorkovich-fide-statement-carlsen-niemann",
+         "pubDate" : "Fri, 23 Sep 2022 10:11:02 -0700",
+         "title" : "Dvorkovich Criticizes Carlsen, Tasks Fair Play Committee To Investigate"
+      },
+      {
          "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
          "pubDate" : "Fri, 23 Sep 2022 17:50:00 +0100",
          "title" : "Generation Cup: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2000",
+         "pubDate" : "Fri, 23 Sep 2022 16:43:33 +0000",
+         "title" : "FIDE WGP Astana: Kashlinskaya and Lagno close the gap"
+      },
+      {
+         "description" : "The sixth round of the Astana Women&#x2019;s Grand Prix proved to be one of the most exciting, with four decisive games and two hard-fought draws. Tomorrow will be a well-deserved rest day and play will resume on Sunday. After this afternoon&#x2019;s results, Aleksandra Goryachkina and Zhu Jiner still lead the event with 4.5/6.0 but both []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/four-decisive-games-before-the-resting-day-at-the-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Fri, 23 Sep 2022 16:29:39 +0000",
+         "title" : "Four decisive games before the resting day at the FIDE Women's Grand Prix Astana 2022"
       },
       {
          "description" : "In his Power Play Show, Daniel King looks at a couple of recent games featuring brilliant attacks - simply stunning. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d2",
          "pubDate" : "Thu, 22 Sep 2022 12:55:00 -0700",
          "title" : "So Sweeps Ivanchuk, Dominguez Defeats Hansen"
-      },
-      {
-         "description" : "The FIDE Women's Grand Prix began in 2009-2011 as a series of six chess tournaments exclusively for women, forming part of the qualification cycle for the 2011 Women&#x2019;s World Chess Championship. Subsequent Women&#x2019;s Grand Prix series were held in 2011-2012 and 2013-2014. Chinese star GM Hou Yifan, currently number one on the FIDE Women&#x2019;s rating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/goryachkina-and-zhu-jiner-extend-their-lead-in-fide-womens-grand-prix-astana/",
-         "pubDate" : "Thu, 22 Sep 2022 18:10:36 +0000",
-         "title" : "Goryachkina and Zhu Jiner extend their lead in FIDE Women's Grand Prix Astana"
       },
       {
          "description" : "This week Robert Ris will have a look at the Modern Defence with 4...a6, which World Champion Magnus Carlsen tried with Black in two interesting games against Arjun Erigaisi and Praggnanandhaa in the Julius B&auml;r Generation Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1794,14 +1818,6 @@ news_feed (
          "title" : "ONGC Sports Scholarship Scheme 2022-23"
       },
       {
-         "description" : "GMs Hikaru Nakamura and Daniil Dubov were big winners in Titled Tuesday on September 6, both winning a tournament and finishing top three in the other. Nakamura began the early tournament with 9/9 before drawing his last two games against GM Vasyl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-dubov-win-titled-tuesday-september-6-2022",
-         "pubDate" : "Wed, 07 Sep 2022 09:37:58 -0700",
-         "title" : "Nakamura Nearly Perfect Early, Nearly Sweeps Late"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94057419.cms\" />Hans Niemann has been in the middle of a storm at the ongoing Sinquefield Cup in St Louis, Missouri, after Magnus Carlsen withdrew from the tournament on Monday. With accusations of cheating being levelled against Niemann, the 19-year-old responded by denying any wrongdoing in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2088,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1961",
          "pubDate" : "Fri, 02 Sep 2022 21:12:00 +0000",
          "title" : "FIDE Congress 2022: Key decisions "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1960",
-         "pubDate" : "Fri, 02 Sep 2022 16:31:16 +0000",
-         "title" : "Women's Grand Prix Nur-Sultan 2022: Pairings announced"
       }
    ]
 }
