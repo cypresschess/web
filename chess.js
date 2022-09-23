@@ -1514,14 +1514,6 @@ news_feed (
          "title" : "All set for the first leg of the FIDE Women's Grand Prix"
       },
       {
-         "description" : "Some endgames crop up more often than others as will be seen in this article. In this excellent taster, you will see classics such as Vancura's Draw, as well as a Knight Hunt set forth by Wojtaszek against his opponent. Finally there is a powerful 1-2 punch that breaks down the final barrier to victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-4",
-         "pubDate" : "Mon, 12 Sep 2022 07:30:00 +0100",
-         "title" : "Karsten M&uuml;ller: Topical Endgames Week 37"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
