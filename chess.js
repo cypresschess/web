@@ -106,6 +106,14 @@ news_feed (
          "title" : "Daniil Dubov and Valentina Gunina are Russian Chess Champions 2022"
       },
       {
+         "description" : " We'll continue the game we start playing through a few weeks ago. I'm looking at this game and the moves we analyze through the eyes of a beginning player rather than a seasoned professional. What I mean is that we'll look at each move and the reasoning behind those moves as if a beginner was <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\">A Foundation for Beginners Seventy Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-two/",
+         "pubDate" : "Fri, 23 Sep 2022 10:00:40 +0000",
+         "title" : "A Foundation for Beginners Seventy Two"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
