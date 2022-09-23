@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen, Vincent Keymer (pictured), Arjun Erigaisi and Le Quang Liem advanced to the semifinals of the Generation Cup. All four quarterfinal matchups offered a dose of excitement, as every single semifinalist lost at least one game on Thursday. While Le is set to play Arjun in semis, Keymer will have the tough task of facing Carlsen in a 4-game confrontation. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d5",
+         "pubDate" : "Fri, 23 Sep 2022 01:35:00 +0100",
+         "title" : "Generation Cup: Carlsen, Keymer, Arjun and Le in semis"
+      },
+      {
          "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-carlsen-playing-the-modern-defence",
          "pubDate" : "Thu, 22 Sep 2022 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Carlsen playing the Modern Defence"
-      },
-      {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Thu, 22 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup: Live"
       },
       {
          "description" : "",
@@ -160,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/10-questions-to-hans-niemann-regarding-the-carlsen-niemann-case/",
          "pubDate" : "Thu, 22 Sep 2022 10:16:27 +0000",
          "title" : "10 questions to Hans Niemann regarding the Carlsen - Niemann case"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Thu, 22 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : "Ethereal and Berserk are the promoting engines from League One of the premier computer chess event the Top Chess Engine Championship. Ethereal crushed its way through the division with a 30/44 score, 3.5 points ahead of Berserk, who in turn finished 1.5 points ahead of League Two winner Minic. Unfortunately for the other engines []",
@@ -1560,6 +1552,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/polish-ekstraliga-live",
          "pubDate" : "Sun, 11 Sep 2022 09:45:00 +0100",
          "title" : "Polish \"Ekstraliga\" - Final round"
+      },
+      {
+         "description" : "The Sinquefield Cup is taking place on September 2-12 at the Saint Louis Chess Club. Magnus Carlsen heads a star-studded field, which includes eight 'tour regulars'. The regulars are fighting for an extra $175,000 in prize money reserved for the three top-ranked players of the series. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-live",
+         "pubDate" : "Sun, 11 Sep 2022 09:30:00 +0100",
+         "title" : "Sinquefield Cup: Games and results"
       },
       {
          "description" : "Alireza Firouzja won a lost position to beat Wesley So in Round 8 of the Sinquefield Cup, putting him on the verge of a $100,000 bonus for winning the Grand Chess Tour. Firouzja is level with Ian Nepomniachtchi, who beat Levon Aronian, and Fabiano Caruana, who ended his Sinquefield Cup by knocking Hans Niemann out of the 2700 club.",
