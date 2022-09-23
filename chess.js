@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dvorkovich-fide-statement-carlsen-niemann",
-         "pubDate" : "Fri, 23 Sep 2022 10:11:02 -0700",
+         "pubDate" : "Fri, 23 Sep 2022 10:11:00 -0700",
          "title" : "Dvorkovich Criticizes Carlsen, Tasks Fair Play Committee To Investigate"
       },
       {
