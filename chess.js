@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, Daniel King looks at a couple of recent games featuring brilliant attacks - simply stunning. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautiful-kingside-attacks",
+         "pubDate" : "Fri, 23 Sep 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Beautiful kingside attacks"
+      },
+      {
+         "description" : "The International Chess Federation has shared a statement regarding the scandal that has taken over the chess over. FIDE wrote: \"As the world's chess governing body, it is our duty to protect the integrity of the game and its image, and in view that the incident keeps escalating, we find it necessary to take a step forward\". | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-statement-carlsen-niemann-polemic",
+         "pubDate" : "Fri, 23 Sep 2022 16:30:00 +0100",
+         "title" : "FIDE Statement on the Carlsen - Niemann polemic"
+      },
+      {
+         "description" : "The top eight players of the&#xA0;Julius Baer Generation Cup&#xA0;continued their competition in the event in the quarterfinals which were played yesterday on chess24.com. Magnus Carlsen, Le Quang Liem, Vincent Keymer and Arjun Erigaisi qualified for the semi-finals which will be played tomorrow as two four-game rapid matches. Semi-finals pairings:S1: Magnus Carlsen vs Vincent KeymerS2: Le []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-semi-finals-live/",
+         "pubDate" : "Fri, 23 Sep 2022 14:45:54 +0000",
+         "title" : "Julius Baer Generation Cup semi-finals LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1999",
+         "pubDate" : "Fri, 23 Sep 2022 14:21:03 +0000",
+         "title" : "FIDE Statement on the Carlsen - Niemann polemic "
+      },
+      {
          "description" : "On 29 September Anna and Mariya Muzychuk will give a simultaneous event against 30 opponents in the European Parliament in Brussels. On this occasion, the two Ukrainians will also receive an award from the Emanuel Lasker Society.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,14 +248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-champion-magnus-carlsen-refuses-to-clarify-cheating-claims/articleshow/94375114.cms",
          "pubDate" : "Thu, 22 Sep 2022 10:49:44 +0000",
          "title" : "Chess world champion Magnus Carlsen refuses to clarify cheating claims"
-      },
-      {
-         "description" : "The Carlsen Niemann case that started with Magnus Carlsen's withdraw from the Sinquefield Cup 2022 is generating huge attention worldwide. On Chessdom.com more than 2 million page views on the case related articles so far, but 56 articles later (scroll down for a chronological list) there are more questions than answers as to why []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/10-questions-to-magnus-carlsen-regarding-the-carlsen-niemann-case/",
-         "pubDate" : "Thu, 22 Sep 2022 10:16:30 +0000",
-         "title" : "10 questions to Magnus Carlsen regarding the Carlsen - Niemann case"
       },
       {
          "description" : "The agenda and papers for the upcoming AGM can be found via this link &#8212; http://ecfcouncillive.ndlazi.uk/",
@@ -1472,22 +1496,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/",
          "pubDate" : "Mon, 12 Sep 2022 13:05:44 +0000",
          "title" : "2022 African Individual Championships (Lagos, Nigeria)"
-      },
-      {
-         "description" : "Alireza Firouzja beat Ian Nepomniachtchi in play-offs to win the ninth edition of the Sinquefield Cup. Firouzja also grabbed an extra $100,000 for winning this year's Grand Chess Tour. The youngster came from winning the Saint Louis Rapid & Blitz Tournament a couple of weeks ago. This was Firouzja's first trip to Saint Louis, one that he is sure to remember for time to come! | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2022-r9",
-         "pubDate" : "Mon, 12 Sep 2022 14:05:00 +0100",
-         "title" : "Alireza Firouzja conquers Saint Louis!"
-      },
-      {
-         "description" : "Alongside a variety of videos and training columns, ChessBase Magazine #209 offers 32 deeply annotated games. One focus of these analyses is the Prague Chess Festival 2022 with contributions by Pentala Harikrishna, Vincent Keymer, David Navara and Sam Shankland. Another is the \"Special\" with 21 games of Anna and Mariya Muzychuk with analyses by various CBM authors. \"The Analysis\" of the current issue comes from David Navara: in his encounter with Saleh Salem an unusual structure came on the board, which had already proved comfortable for White in Navara's preparation. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-209-the-analysis",
-         "pubDate" : "Mon, 12 Sep 2022 14:00:00 +0100",
-         "title" : "CBM #209: \"The Analysis\""
       },
       {
          "description" : "",
