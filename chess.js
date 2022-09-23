@@ -10,6 +10,22 @@ news_feed (
          "title" : "Women's Grand Prix Astana: Live"
       },
       {
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) banned Russian grandmaster Sergey Karjakin from taking part in FIDE events for six months. EDC found Sergey Karjakin guilty of breach of article 2.2.10 of the FIDE Code of Ethics on March 21st, 2022 and the 6-month ban expired yesterday. Sergey Karjakin appealed to FIDE's decision, but his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sergey-karjakins-ban-from-fide-events-has-expired/",
+         "pubDate" : "Fri, 23 Sep 2022 09:21:13 +0000",
+         "title" : "Sergey Karjakin's ban from FIDE events has expired"
+      },
+      {
+         "description" : "A final between GM Magnus Carlsen and GM Hans Niemann is not possible anymore at the Julius Baer Generation Cup after Niemann lost to GM Le Quang Liem in Thursday&#39;s&#38;nbsp; quarterfinals. Carlsen eliminated GM Levon Aronian and now plays GM Vincent ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-quaterfinals",
+         "pubDate" : "Fri, 23 Sep 2022 02:06:29 -0700",
+         "title" : "Carlsen Through, Niemann Eliminated"
+      },
+      {
          "description" : "Ian Nepomniachtchi published a video on his official youtube account where he speaks about tournaments in Saint Louis, the recent happenings related to Carlsen Niemann case, cheating in chess Nepo said that he was not happy when he heard Hans Niemann will replace Richard Rapport in the Sinquefield Cup as Rapport couldn't make it []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/10-questions-to-hans-niemann-regarding-the-carlsen-niemann-case/",
          "pubDate" : "Thu, 22 Sep 2022 10:16:27 +0000",
          "title" : "10 questions to Hans Niemann regarding the Carlsen - Niemann case"
-      },
-      {
-         "description" : "Ethereal and Berserk are the promoting engines from League One of the premier computer chess event the Top Chess Engine Championship. Ethereal crushed its way through the division with a 30/44 score, 3.5 points ahead of Berserk, who in turn finished 1.5 points ahead of League Two winner Minic. Unfortunately for the other engines []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ethereal-trailblazes-tcec-league-1/",
-         "pubDate" : "Thu, 22 Sep 2022 08:14:03 +0000",
-         "title" : "Ethereal trailblazes TCEC League 1"
       },
       {
          "description" : "The agenda and papers for the upcoming AGM can be found via this link &#8212; http://ecfcouncillive.ndlazi.uk/",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hans-niemann-hits-back-at-magnus-carlsen-hikaru-nakamura/articleshow/94057419.cms",
          "pubDate" : "Wed, 07 Sep 2022 15:01:57 +0000",
          "title" : "Hans Niemann hits back at Magnus Carlsen & Hikaru Nakamura"
-      },
-      {
-         "description" : "On August 27-28, during the Independence Day weekend, the first big chess tournament since the start of the war was held in Kyiv, Ukraine. A 30-year-long chess tradition was continued in the Ukrainian capital, where the war has moved away, but nev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cup-of-independence-kyiv-chess-2022",
-         "pubDate" : "Wed, 07 Sep 2022 07:00:00 -0700",
-         "title" : "Chess Returns To Kyiv, Where The War Is Never Far Away"
       },
       {
          "description" : " Moving on from the short games at the Olympiad, I decided to have a look at the longer ones. While waiting for the round to finish, I did witness a number of interesting endings, including R+B v R, N+R v R, and in the following game, K+N+B v K. White was winning in the late middlegame, but gave Black drawing chances once the ending was reached. However Black missed the best moves, and as his position crumbled, decided to sacrifice his last two pieces for the remaining pawns, hoping to escape in a B+N ending. However, White knew exactly how to play this, and only took 21 moves to checkmate Black. For those who have never played this ending, it is well worth studying the approach that White u",
