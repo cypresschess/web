@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94388291.cms\" />Magnus Carlsen is still not explaining his one move resignation. But he has now added a name. That of Hans Niemann's coach GM Maxim Dlugy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-now-adds-name-of-teens-mentor-to-the-drama/articleshow/94388291.cms",
+         "pubDate" : "Fri, 23 Sep 2022 04:22:43 +0000",
+         "title" : "Magnus Carlsen now adds name of teen's mentor to the drama"
+      },
+      {
          "description" : "Magnus Carlsen, Vincent Keymer (pictured), Arjun Erigaisi and Le Quang Liem advanced to the semifinals of the Generation Cup. All four quarterfinal matchups offered a dose of excitement, as every single semifinalist lost at least one game on Thursday. While Le is set to play Arjun in semis, Keymer will have the tough task of facing Carlsen in a 4-game confrontation. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-teams-championship.html",
          "pubDate" : "Thu, 22 Sep 2022 12:34:00 +0000",
          "title" : "2022 ACT Teams Championship"
-      },
-      {
-         "description" : "The English Chess Federation is extremely proud that our Director of Women's Chess Aga Milewska has been selected to be a Councillor on the European...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/aga-milewska-fide-councillor/",
-         "pubDate" : "Thu, 22 Sep 2022 11:17:37 +0000",
-         "title" : "Aga Milewska - FIDE Councillor"
       },
       {
          "description" : "It's like having Carlsen and Anand at your disposal. Komodo Dragon and Power Fritz both won the World Championship, each in a separate section. Both are products you can get in the ChessBase shop. They are arguably the most powerful chess programs in the world, and will do wonders for your study of the game. Komodo Dragon 3 owners can rejoice: they now automatically receive the World Champion Engine as a free update. For Fritz users there is an attractive update price.",
