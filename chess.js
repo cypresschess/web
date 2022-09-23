@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE Statement on the Carlsen - Niemann polemic"
       },
       {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-publishes-the-official-statement-on-the-carlsen-niemann-case/",
+         "pubDate" : "Fri, 23 Sep 2022 15:26:05 +0000",
+         "title" : "FIDE publishes the official statement on the Carlsen - Niemann case"
+      },
+      {
          "description" : "The top eight players of the&#xA0;Julius Baer Generation Cup&#xA0;continued their competition in the event in the quarterfinals which were played yesterday on chess24.com. Magnus Carlsen, Le Quang Liem, Vincent Keymer and Arjun Erigaisi qualified for the semi-finals which will be played tomorrow as two four-game rapid matches. Semi-finals pairings:S1: Magnus Carlsen vs Vincent KeymerS2: Le []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -208,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/all-in-one-a-crazy-alekhine",
          "pubDate" : "Thu, 22 Sep 2022 14:00:00 +0100",
          "title" : "\"All in one\": A crazy Alekhine"
-      },
-      {
-         "description" : "Fabiano Caruana yesterday evening joined the C-squared podcast where he extensively spoke about his recent tournaments in Saint Louis, but also commented on the Carlsen Niemann controversial case which every day gets new developments. Caruana shared his insights on the case, adding that he had a personal experience with a cheater who was exonerated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-i-would-take-regans-analysis-with-a-large-grain-of-salt/",
-         "pubDate" : "Thu, 22 Sep 2022 12:40:39 +0000",
-         "title" : "Fabiano Caruana: I would take Regan's analysis with a large grain of salt"
       },
       {
          "description" : " After a break of a few years, the 2022 ACT Teams Championship is being held on Sunday, 23rd October, at Campbell High School. It will be a team of 4 tournament, played with a time limit of G15m+5s. It will be FIDE rated (Rapid) and there will be 7 rounds. Cost for the team is $10 per player, with trophies and medals being awarded. The last time it was held (in 2019) there were 10 teams, and hopefully this year will see more players (especially given the larger numbers at each of the clubs). One interesting innovation this year is that a teams average rating is based on Boards 2,3 and 4 (and not board 1). The average limit is 1700, but this rule means you can have a strong board 1 player wit",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-girl-savitha-shri-becomes-junior-world-no-3/articleshow/93956140.cms",
          "pubDate" : "Fri, 02 Sep 2022 15:57:20 +0000",
          "title" : "Chennai girl Savitha Shri becomes junior World No. 3"
-      },
-      {
-         "description" : "Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html\">September 1972 & 1997 'On the Cover'</A>(September 2022), fell on an important anniversary in chess history:- <BLOCKQUOTE>The date of today's post, 1 September, marks 50 years since the historic match ended. </BLOCKQUOTE> <P>The historic match, as many online chess resources have been reminding us for the past two months, was the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Title Match</A>(m-w.com).The subtitle for that page says, 'Reykjavik, VII-VIII, 1972'; perhaps it should say, 'VII-IX'. <P>One of the early posts in this <I>Fischer Friday</I> series ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html",
-         "pubDate" : "Fri, 02 Sep 2022 15:29:00 +0000",
-         "title" : "Benson Called Bobby"
       }
    ]
 }
