@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Fri, 23 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup: Live"
+      },
+      {
          "description" : "In his Power Play Show, Daniel King looks at a couple of recent games featuring brilliant attacks - simply stunning. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1458,14 +1466,6 @@ news_feed (
          "title" : "Endgame Magic #211: More Highlights from the Candidates Tournament"
       },
       {
-         "description" : "FIDE Chess for Protection is a project that helps refugees learn the game of chess and acquire new important life skills, socialize, and release stress through it. Second report: Being an arbiter is not a solitary journey, it is more of a team effort. We cooperate in tournaments, share experience, get together in seminars and workshops. An arbiter is a member of a pack, not a lone wolf. Read about this in the latest ECU Magazine. | Photo FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ecu-magazie-chess-for-protection-arbiter-s-advice",
-         "pubDate" : "Mon, 12 Sep 2022 17:00:00 +0100",
-         "title" : "ECU Magazine: Chess for Protection + Arbiter's Advice"
-      },
-      {
          "description" : "The summer season is traditionally a slow season for chess, but the world's two foremost engine vs. engine competitions keep chugging along at the same speed as during the other seasons. Let's start our fortnightly post with a summary of the previous post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/tcec-s23-leagues-underway-ccc-rudderless.html\">TCEC S23 Leagues Underway; CCC Rudderless?</A>(August 2022):- <BLOCKQUOTE>TCEC: S23 QL has finished and L2 is just getting started. &#149; CCC: Stockfish beat Lc0 in the 300 game 'CCC18 Rapid Final', after which the site launched a 'CCC18 Rapid Challenger' 300-game consolation match between Dragon and Lc0. The CCC has deviated from the seque",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1960",
          "pubDate" : "Fri, 02 Sep 2022 16:31:16 +0000",
          "title" : "Women's Grand Prix Nur-Sultan 2022: Pairings announced"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93956140.cms\" />Grandmasters D Gukesh, R Praggnanandhaa and Arjun Erigaisi aren't the only players to be making waves on the international circuit in recent times.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chennai-girl-savitha-shri-becomes-junior-world-no-3/articleshow/93956140.cms",
-         "pubDate" : "Fri, 02 Sep 2022 15:57:20 +0000",
-         "title" : "Chennai girl Savitha Shri becomes junior World No. 3"
       }
    ]
 }
