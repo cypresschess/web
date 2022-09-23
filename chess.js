@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Jan-Krzysztof Duda, Jeffery Xiong, and Alexey Sarana were the three victorious players in their round of 32 matches on Friday as the Chess.com Global Championship continued. Favorites Duda and Xiong had to shake off the nerves early against th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d3",
+         "pubDate" : "Fri, 23 Sep 2022 16:19:39 -0700",
+         "title" : "Sarana \"Immortal\" Upsets Mamedyarov; Duda, Xiong Cruise Through"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women&#039;s title is decided in an identical format with $40,000 at stake. Join commentators TBA for the move-by-move. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/file",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-1",
+         "pubDate" : "Fri, 23 Sep 2022 21:43:47 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 1"
+      },
+      {
+         "description" : "Magnus Carlsen and Arjun Erigaisi will play the finals of the Julius Baer Generation Cup! The exciting semi-final matches between Magnus Carlsen and Vincent Keymer, and Arjun Erigaisi and Le Quang Liem were played today on chess24.com. Replay all games here / Semi-finals video coverage S1: Magnus Carlsen vs Vincent Keymer 3-1 World Chess Champion []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-and-arjun-erigaisi-are-the-finalists-of-the-julius-baer-generation-cup/",
+         "pubDate" : "Fri, 23 Sep 2022 20:05:01 +0000",
+         "title" : "Magnus Carlsen and Arjun Erigaisi are the finalists of the Julius Baer Generation Cup"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94405344.cms\" />The International Chess Federation (FIDE) has rebuked world champion Magnus Carlsen for abruptly conceding an online game against Hans Niemann while adding it shared the Norwegian's concerns surrounding cheating in the sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/carlsen-liem-le-keymer-and-erigaisi-are-the-semi-finalists-of-the-julius-baer-generation-cup/",
          "pubDate" : "Thu, 22 Sep 2022 21:04:24 +0000",
          "title" : "Carlsen, Liem Le, Keymer and Erigaisi are the semi-finalists of the Julius Baer Generation Cup"
-      },
-      {
-         "description" : "Magnus Carlsen today gave his second interview after his withdrawal from the Sinquefield Cup 2022 and resignation to Hans Niemann after only two played moves. Magnus defeated Levon Aronian in the quarterfinals of the Julius Baer Generation Cup and said he was happy with his play today. Being asked if he experienced a lot of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-some-people-were-more-supportive-privately-than-publicly/",
-         "pubDate" : "Thu, 22 Sep 2022 20:49:55 +0000",
-         "title" : "Magnus Carlsen: Some people were more supportive privately than publicly"
       },
       {
          "description" : "GMs Wesley So and Leinier Dominguez won their round of 32 matches in the Chess.com Global Chess Championship&#38;nbsp;on Thursday, defeating the legendary GM Vasyl Ivanchuk and the popular streamer GM Eric Hansen respectively. The round of 32 contin...",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-1",
          "pubDate" : "Sat, 17 Sep 2022 18:38:30 +0000",
          "title" : "2022 Champions Showdown | Chess 9LX: Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after scoring 2.5/3 on the first day of Chess 9LX. 2022.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-three-intense-successful-games-day-1-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UxjehVA6tgg.jpg?itok=hZBP-y-L\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-three-intense-successful-games-day-1-0",
-         "pubDate" : "Sat, 17 Sep 2022 18:38:30 +0000",
-         "title" : "Caruana: Three Intense, but Successful Games | Day 1"
       },
       {
          "description" : "",
@@ -1738,14 +1746,6 @@ news_feed (
          "title" : "FIDE Trainers Commission (TRG): Five FIDE Trainers Seminars announced"
       },
       {
-         "description" : "It was a lively day at round six of the 2022 Sinquefield Cup.&#38;nbsp;The first to put a full point on the scoreboard was GM Alireza Firouzja. Eventually, also GMs Levon Aronian and leader GM Wesley So scored victories. This means that So remains i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-6",
-         "pubDate" : "Fri, 09 Sep 2022 00:23:00 -0700",
-         "title" : "Knife Fight Alongside Positional Squeezes As Wesley So Takes Charge"
-      },
-      {
          "description" : " The 19-year-old grandmaster, whose win against the world champion led to Magnus Carlsen withdrawing from a tournament for the first time, says there is a campaign against him Magnus Carlsen's shock withdrawal from the $350,000 Sinquefield Cup in St Louis following his third-round defeat to the newcomer Hans Niemann has triggered a variety of \"cheating\" claims. It is potentially the most serious such case for international chess since the 2005 Toiletgate world championship match, when Veselin Topalov accused Vlad Kramnik of analysing games in the lavatory. Carlsen's loss to Niemann, 19, was his first for several years with White to a much lower rated opponent, and it was the first withdrawal",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/would-the-world-championship-match-between-carlsen-and-nepo-be-t/",
          "pubDate" : "Sat, 03 Sep 2022 08:58:04 +0000",
          "title" : "Another Championship Match Between Carlsen and Nepo Would Be Boring"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1961",
-         "pubDate" : "Fri, 02 Sep 2022 21:12:00 +0000",
-         "title" : "FIDE Congress 2022: Key decisions "
       }
    ]
 }
