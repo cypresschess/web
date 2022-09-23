@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi published a video on his official youtube account where he speaks about tournaments in Saint Louis, the recent happenings related to Carlsen Niemann case, cheating in chess Nepo said that he was not happy when he heard Hans Niemann will replace Richard Rapport in the Sinquefield Cup as Rapport couldn't make it []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-i-was-unhappy-to-hear-hans-niemann-will-replace-rapport-in-sinquefield-cup/",
+         "pubDate" : "Fri, 23 Sep 2022 08:42:45 +0000",
+         "title" : "Ian Nepomniachtchi: I was unhappy to hear Hans Niemann will replace Rapport in Sinquefield Cup"
+      },
+      {
          "description" : "We won't get a Carlsen-Niemann final in the Julius Baer Generation Cup after Liem Le beat Hans Niemann 2.5:1.5 in the quarterfinals. Magnus did progress, storming back to beat Levon Aronian 3:1 after losing the first game, and now plays Vincent Keymer, who defeated Praggnanandhaa. Arjun Erigaisi faces Le in the semis after edging a thrilling battle against Christopher Yoo.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -208,14 +216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/75th-russian-chess-championship-2022",
          "pubDate" : "Thu, 22 Sep 2022 11:59:00 +0400",
          "title" : "75th Russian Chess Championship 2022 - Games and Results"
-      },
-      {
-         "description" : "Anish Giri&#xA0;did not qualify for the&#xA0;Julius Baer Generation Cup Knockout stage&#xA0;due to unfortunate results in the last round of the prelims. Giri won his last game against&#xA0;Arjun Erigaisi&#xA0;to score 21 points and it was almost certain he will take the seat for the Knockout. However,&#xA0;&#xA0;Christopher Yoo and Levon Aronian took the last two Knockout spots []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-about-the-recent-chess-drama-its-moving-in-circles-a-little-bit/",
-         "pubDate" : "Thu, 22 Sep 2022 07:49:38 +0000",
-         "title" : "Anish Giri about the recent chess drama: It's moving in circles a little bit"
       },
       {
          "description" : "GM Magnus Carlsen was in a class of his own at the preliminaries of the Julius Baer Generation Cup. Ending with three more victories, he finished first with a 2937 performance rating before giving his first interview since withdrawing from the Sin...",
@@ -2136,14 +2136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/getting-fit-playing-chess.html",
          "pubDate" : "Fri, 02 Sep 2022 12:10:00 +0000",
          "title" : "Getting fit playing chess"
-      },
-      {
-         "description" : " Last week, we started analyzing a game using our newly developed skill set. As I mentioned in the previous article, your job is to analyze each move (by both players) and determine that move's merit based on the games principles. While I haven't covered the endgame in this series of articles, the game we're playing <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-one/\">A Foundation for Beginners Seventy One</a> appeared first on <a rel=\"nofollow\" href=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-one/",
-         "pubDate" : "Fri, 02 Sep 2022 08:36:05 +0000",
-         "title" : "A Foundation for Beginners Seventy One"
       }
    ]
 }
