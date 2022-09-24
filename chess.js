@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;4th ESNA European Small Nations Individual Chess Championship 2022&#xA0;takes place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in 9 rounds, and the field is headlined by:&#xA0;GM Henderson de la Fuente Lance&#xA0;(AND, 2504),&#xA0;GM Efimov Igor&#xA0;(MNC, 2360) and&#xA0;FM Michaelides Konstantinos&#xA0;(CYP, 2304). []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/4th-esna-european-small-nations-individual-chess-championship-live/",
+         "pubDate" : "Sat, 24 Sep 2022 19:01:57 +0000",
+         "title" : "4th ESNA European Small Nations Individual Chess Championship LIVE"
+      },
+      {
+         "description" : "After the exciting semi-finals of the Julius Baer Generation Cup, World Chess Champion Magnus Carlsen and 19-year-old Indian prodigy Arjun Erigaisi advanced to the finals which are played over two days with two 4-game rapid matches. Magnus Carlsen convincingly won the first final match with a final result 2.5-0.5. Carlsen had a more active position []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-the-first-match-in-the-julius-baer-generation-cup-final/",
+         "pubDate" : "Sat, 24 Sep 2022 18:31:28 +0000",
+         "title" : "Magnus Carlsen wins the first match in the Julius Baer Generation Cup final"
+      },
+      {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Sat, 24 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup Finals: Live"
+      },
+      {
          "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;will play the finals of the&#xA0;Julius Baer Generation Cup! The exciting semi-final matches between Magnus Carlsen and Vincent Keymer, and Arjun Erigaisi and Le Quang Liem were played yesterday on chess24.com. World Chess Champion Magnus Carlsen&#xA0;defeated 17-year-old German grandmaster Vincent Keymer with a convincing 3-1 result, while the other finalist of the Julius []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Hans Niemann is innocent until proven guilty"
       },
       {
-         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions whom Frederic met in the late before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions, the first of whom Frederic met in the late 1970s and in the 1980s, before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
@@ -82,6 +106,14 @@ news_feed (
          "title" : "Carlsen, Erigaisi To Play In Generation Cup Final"
       },
       {
+         "description" : "Magnus Carlsen and Arjun Erigaisi moved on to the final of the Julius Baer Generation Cup after beating Vincent Keymer and Le Quang Liem, respectively. The match between Arjun and Le went to tiebreaks, while Carlsen got a 3-1 victory over Keymer. A 2-set match will decide the winner of the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d6",
+         "pubDate" : "Sat, 24 Sep 2022 08:50:00 +0100",
+         "title" : "Generation Cup: Carlsen and Arjun reach the final"
+      },
+      {
          "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 starts tomorrow and will take place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in the 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -90,7 +122,7 @@ news_feed (
          "title" : "4th ESNA European Small Nations Individual Chess Championship starts"
       },
       {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
+         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-vs-arjun-erigaisi-julius-baer-generation-cup-final-live/",
@@ -112,6 +144,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/generation-cup-sfs-it-s-a-carlsen-erigaisi-final",
          "pubDate" : "Sat, 24 Sep 2022 06:09:55 +0000",
          "title" : "Generation Cup SFs: It's a Carlsen-Erigaisi final!"
+      },
+      {
+         "description" : "The&#xA0;4th ESNA European Small Nations Individual Chess Championship 2022&#xA0;starts tomorrow and will take place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/4th-esna-european-small-nations-individual-chess-championship-starts/",
+         "pubDate" : "Sat, 24 Sep 2022 05:52:00 +0000",
+         "title" : "4th ESNA European Small Nations Individual Chess Championship starts"
       },
       {
          "description" : "GMs Jan-Krzysztof Duda, Jeffery Xiong, and Alexey Sarana were the three victorious players in their round of 32 matches on Friday as the Chess.com Global Championship continued. Favorites Duda and Xiong had to shake off the nerves early against th...",
@@ -154,14 +194,6 @@ news_feed (
          "title" : "Dvorkovich Criticizes Carlsen, Tasks Fair Play Committee To Investigate"
       },
       {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Fri, 23 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup: Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -194,22 +226,6 @@ news_feed (
          "title" : "1992 Fischer - Spassky 'Under the Weather'"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-publishes-the-official-statement-on-the-carlsen-niemann-case/",
-         "pubDate" : "Fri, 23 Sep 2022 15:26:05 +0000",
-         "title" : "FIDE publishes the official statement on the Carlsen - Niemann case"
-      },
-      {
-         "description" : "The top eight players of the&#xA0;Julius Baer Generation Cup&#xA0;continued their competition in the event in the quarterfinals which were played yesterday on chess24.com. Magnus Carlsen, Le Quang Liem, Vincent Keymer and Arjun Erigaisi qualified for the semi-finals which will be played tomorrow as two four-game rapid matches. Semi-finals pairings:S1: Magnus Carlsen vs Vincent KeymerS2: Le []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-semi-finals-live/",
-         "pubDate" : "Fri, 23 Sep 2022 14:45:54 +0000",
-         "title" : "Julius Baer Generation Cup semi-finals LIVE"
-      },
-      {
          "description" : "The International Chess Federation has shared a statement regarding the scandal that has taken over the chess over. FIDE wrote: \"As the world's chess governing body, it is our duty to protect the integrity of the game and its image, and in view that the incident keeps escalating, we find it necessary to take a step forward\". | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-and-wr-group-announce-world-open-teams-championship",
          "pubDate" : "Fri, 23 Sep 2022 13:40:19 +0100",
          "title" : "FIDE and WR Group announce World Open Teams Championship"
-      },
-      {
-         "description" : "The Superfinals of the 75th Russian Chess Championship&#xA0;and the&#xA0;72nd Russian Women&#x2019;s Chess Championship&#xA0; simultaneously took place in Cheboksary from 10-23 September. The events are being held at the Chuvash State Art Museum, being held as part of the Chess in Museums program carried out by the Chess Federation of Russia and the Elena and Gennady []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/daniil-dubov-and-valentina-gunina-are-russian-chess-champions-2022/",
-         "pubDate" : "Fri, 23 Sep 2022 12:17:52 +0000",
-         "title" : "Daniil Dubov and Valentina Gunina are Russian Chess Champions 2022"
       },
       {
          "description" : " We'll continue the game we start playing through a few weeks ago. I'm looking at this game and the moves we analyze through the eyes of a beginning player rather than a seasoned professional. What I mean is that we'll look at each move and the reasoning behind those moves as if a beginner was <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\">A Foundation for Beginners Seventy Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/generation-cup-2022-preview",
          "pubDate" : "Tue, 13 Sep 2022 08:55:00 +0100",
          "title" : "Carlsen and Niemann to face off in Julius Baer Generation Cup"
-      },
-      {
-         "description" : "Between the Sinquefield Cup and the Chess 9LX Champions Showdown, the focus today is on fun, as the Ultimate Moves friendly game takes place at the Saint Louis Chess Center. Two teams made up of world-class players and enthusiastic amateurs take turns at the board after every five moves. | Follow the games live with commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-chess-club-ultimate-moves",
-         "pubDate" : "Tue, 13 Sep 2022 08:55:00 +0100",
-         "title" : "Saint Louis Chess Club: Ultimate Moves"
       },
       {
          "description" : " From the publisher's blurb: &#8220;As late as 1950, many chess clubs in America excluded women. The Marshall Chess Club in New York City was an exception, organizing the U.S. Women's Chess Championship beginning in the late 1930s. Since the 1980s, the average rating of the players has increased. The Saint Louis Chess Club has organized <a href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">United States Women's Chess Champions, 1937-2020</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess",
