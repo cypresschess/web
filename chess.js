@@ -10,6 +10,14 @@ news_feed (
          "title" : "Study of the Month - Jan Sprenger: Philosopher and Problemist"
       },
       {
+         "description" : " This years AFL grand Final has been run and done, with the Sydney Swans getting smashed by Geelong. During (or after) the coverage, I did see an advertisement for an insurance company which had a bit of chess in it. AFL legend Kevin Sheedy was one of the players, although the game was halted when someone ran through the game, smashing board, table, pieces etc. I'd post a link but I can't find one at the moment. If anyone does have a link, please post in the comments section. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/advertising.html",
+         "pubDate" : "Sat, 24 Sep 2022 14:14:00 +0000",
+         "title" : "Advertising"
+      },
+      {
          "description" : "After the 19-year-old American grandmaster Hans Niemann defeated the World Chess Champion in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the event. The chess world was overwhelmed with the rumors (scroll down for full timeline) that Carlsen suspected Niemann was cheating in the tournament, and only two weeks []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1963",
          "pubDate" : "Sat, 03 Sep 2022 21:11:01 +0000",
          "title" : "2022 Sinquefield Cup - Day 1 Recap"
-      },
-      {
-         "description" : " The 2002 Sinquefield Cup started with one decisive game, and 4 draws. The one decisive game involved Magnus Carlsen and Ian Nepomniachtchi , and resulted in another victory for Carlsen. Having gone through the game a few times, I'm still not sure what really happened, as Carlsen's position did not look appreciably better, until Nepo kind of fell apart. If I had to criticise a move 23 ... c5 did not look right to me, although Stockfish thinks it is perfectly fine. The problem I had with this move was that it created a target for White to aim at, and eventually Black misplayed the defence. Of course just sitting on the position might have resulted in a different set of problems for Black, and",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/sinquefield-cup-2022.html",
-         "pubDate" : "Sat, 03 Sep 2022 14:20:00 +0000",
-         "title" : "Sinquefield Cup 2022"
       }
    ]
 }
