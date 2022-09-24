@@ -55,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-semifinals",
          "pubDate" : "Sat, 24 Sep 2022 00:57:00 -0700",
-         "title" : "Carlsen, Erigaisi To Play Generation Cup Final"
+         "title" : "Carlsen, Erigaisi To Play In Generation Cup Final"
       },
       {
          "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 starts tomorrow and will take place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in the 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/\">Read More &#187;</a></span>",
