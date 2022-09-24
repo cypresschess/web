@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-jan-sprenger-philospher-and-problemist",
+         "pubDate" : "Sat, 24 Sep 2022 16:00:00 +0100",
+         "title" : "Study of the Month - Jan Sprenger: Philosopher and Problemist"
+      },
+      {
          "description" : "After the 19-year-old American grandmaster Hans Niemann defeated the World Chess Champion in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the event. The chess world was overwhelmed with the rumors (scroll down for full timeline) that Carlsen suspected Niemann was cheating in the tournament, and only two weeks []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/saint-louis-chess-club-ultimate-moves",
          "pubDate" : "Tue, 13 Sep 2022 08:55:00 +0100",
          "title" : "Saint Louis Chess Club: Ultimate Moves"
-      },
-      {
-         "description" : "Hastings 1895 was a grand tournament that gathered the day's greatest players without exception. At the time it was played, it was arguably the greatest tournament in history. On the occasion of its recent 127th anniversary, Eugene Manlapao revisits the tournament that introduced the brilliant and perennial title contender, Harry Nelson Pillsbury.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-hastings-1895",
-         "pubDate" : "Tue, 13 Sep 2022 08:00:00 +0100",
-         "title" : "The Battles of Hastings: Remembering the Hastings Tournament of 1895"
       },
       {
          "description" : " From the publisher's blurb: &#8220;As late as 1950, many chess clubs in America excluded women. The Marshall Chess Club in New York City was an exception, organizing the U.S. Women's Chess Championship beginning in the late 1930s. Since the 1980s, the average rating of the players has increased. The Saint Louis Chess Club has organized <a href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">United States Women's Chess Champions, 1937-2020</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess",
