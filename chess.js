@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position, White has a clever way to destabilize Black's minor piece block and win material. Have a go!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/forward-and-back",
+         "pubDate" : "Sat, 24 Sep 2022 09:00:00 +0100",
+         "title" : "Forward and back"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-arjun-erigaisi-julius-baer-generation-cup-final-live/",
+         "pubDate" : "Sat, 24 Sep 2022 07:06:21 +0000",
+         "title" : "Magnus Carlsen vs Arjun Erigaisi, Julius Baer Generation Cup Final LIVE"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94413132.cms\" />Young Indian Grandmaster Arjun Erigaisi got the better of Liem Quang Le (Vietnam) to set up a final clash with world no.1 Magnus Carlsen in the Julius Baer Generation Cup online rapid chess tournament. While the 19-year old Erigaisi had to fight hard to subdue the challenge of his Vietnamese rival, Carlsen won 3-1.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-to-meet-magnus-carlsen-in-final/articleshow/94413132.cms",
+         "pubDate" : "Sat, 24 Sep 2022 06:51:27 +0000",
+         "title" : "Julius Baer Cup: Arjun Erigaisi to meet Magnus Carlsen in final"
+      },
+      {
+         "description" : "Magnus Carlsen will face 19-year-old Arjun Erigaisi, who he described as \"amazingly strong\", in the final of the Julius Baer Generation Cup after overcoming tough resistance from Vincent Keymer in the semi-final. Arjun made it past Liem Le, but only after getting taken to tiebreaks for a second day in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/generation-cup-sfs-it-s-a-carlsen-erigaisi-final",
+         "pubDate" : "Sat, 24 Sep 2022 06:09:55 +0000",
+         "title" : "Generation Cup SFs: It's a Carlsen-Erigaisi final!"
+      },
+      {
          "description" : "GMs Jan-Krzysztof Duda, Jeffery Xiong, and Alexey Sarana were the three victorious players in their round of 32 matches on Friday as the Chess.com Global Championship continued. Favorites Duda and Xiong had to shake off the nerves early against th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -74,14 +106,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Beautiful kingside attacks"
       },
       {
-         "description" : "The International Chess Federation has shared a statement regarding the scandal that has taken over the chess over. FIDE wrote: \"As the world's chess governing body, it is our duty to protect the integrity of the game and its image, and in view that the incident keeps escalating, we find it necessary to take a step forward\". | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-statement-carlsen-niemann-polemic",
-         "pubDate" : "Fri, 23 Sep 2022 16:30:00 +0100",
-         "title" : "FIDE Statement on the Carlsen - Niemann polemic"
-      },
-      {
          "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,6 +122,14 @@ news_feed (
          "title" : "Julius Baer Generation Cup semi-finals LIVE"
       },
       {
+         "description" : "The International Chess Federation has shared a statement regarding the scandal that has taken over the chess over. FIDE wrote: \"As the world's chess governing body, it is our duty to protect the integrity of the game and its image, and in view that the incident keeps escalating, we find it necessary to take a step forward\". | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-statement-carlsen-niemann-polemic",
+         "pubDate" : "Fri, 23 Sep 2022 15:30:00 +0100",
+         "title" : "FIDE Statement on the Carlsen - Niemann polemic"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -111,7 +143,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/anna-and-mariya-muzychuk-simul-and-award-in-bruxelles",
          "pubDate" : "Fri, 23 Sep 2022 15:00:00 +0100",
-         "title" : "Anna and Mariya Muzychuk: Simul and award in Bruxelles"
+         "title" : "Anna and Mariya Muzychuk: Simul and award in Brussels"
       },
       {
          "description" : "FIDE has announced a new world championship: an Open World Team Championship in which club teams can participate. The partner of the World Championship, which will offer a prize fund of 250,000 euros, is the logistics company WR Group based in D&uuml;sseldorf, Germany, where the tournament is \"tentatively\" scheduled to be played in May 2023.",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-vs-vincent-keymer-julius-baer-generation-cup-semi-finals-live/",
          "pubDate" : "Thu, 22 Sep 2022 21:50:11 +0000",
          "title" : "Magnus Carlsen vs Vincent Keymer, Julius Baer Generation Cup semi-finals LIVE"
-      },
-      {
-         "description" : "The top eight players of the Julius Baer Generation Cup continued their competition in the event in the quarterfinals which were played today on chess24.com. Magnus Carlsen, Le Quang Liem, Vincent Keymer and Arjun Erigaisi qualified for the semi-finals which will be played tomorrow as two four-game rapid matches. Julius Baer Generation Cup &#x2013; Knockout []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-liem-le-keymer-and-erigaisi-are-the-semi-finalists-of-the-julius-baer-generation-cup/",
-         "pubDate" : "Thu, 22 Sep 2022 21:04:24 +0000",
-         "title" : "Carlsen, Liem Le, Keymer and Erigaisi are the semi-finalists of the Julius Baer Generation Cup"
       },
       {
          "description" : "GMs Wesley So and Leinier Dominguez won their round of 32 matches in the Chess.com Global Chess Championship&#38;nbsp;on Thursday, defeating the legendary GM Vasyl Ivanchuk and the popular streamer GM Eric Hansen respectively. The round of 32 contin...",
@@ -1498,14 +1522,6 @@ news_feed (
          "title" : "9th Sinquefield Cup 2022 - Games and Results"
       },
       {
-         "description" : "In the Endgame Magic Show #211 Arne K&auml;hler and Karsten M&uuml;ller continue to look at endgame highlights from the Candidates Tournament. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-210-endgame-highlights-from-the-st-louis-rapid-blitz-tournament-ftx-cryto-cup-in-miami-2",
-         "pubDate" : "Mon, 12 Sep 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #211: More Highlights from the Candidates Tournament"
-      },
-      {
          "description" : "The summer season is traditionally a slow season for chess, but the world's two foremost engine vs. engine competitions keep chugging along at the same speed as during the other seasons. Let's start our fortnightly post with a summary of the previous post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/tcec-s23-leagues-underway-ccc-rudderless.html\">TCEC S23 Leagues Underway; CCC Rudderless?</A>(August 2022):- <BLOCKQUOTE>TCEC: S23 QL has finished and L2 is just getting started. &#149; CCC: Stockfish beat Lc0 in the 300 game 'CCC18 Rapid Final', after which the site launched a 'CCC18 Rapid Challenger' 300-game consolation match between Dragon and Lc0. The CCC has deviated from the seque",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1972",
          "pubDate" : "Fri, 09 Sep 2022 05:52:11 +0000",
          "title" : "2022 Sinquefield Cup - Day 6 Recap"
-      },
-      {
-         "description" : "When Hans Niemann was interviewed after Round 5 of the Sinquefield Cup he criticised Chess.com for banning him from their site in the wake of Magnus Carlsen's withdrawal from the event. Chess.com have now responded.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chess-com-and-nakamura-respond-to-hans-niemann-s-interview",
-         "pubDate" : "Fri, 09 Sep 2022 05:50:23 +0000",
-         "title" : "Chess.com and Nakamura respond to Hans Niemann's interview"
       },
       {
          "description" : "",
