@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/sinquefield-cup-2022.html",
          "pubDate" : "Sat, 03 Sep 2022 14:20:00 +0000",
          "title" : "Sinquefield Cup 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1962",
-         "pubDate" : "Sat, 03 Sep 2022 13:12:43 +0000",
-         "title" : "Kateryna Lagno wins FIDE Chess.com 2022 Women's Speed Chess Championship"
       }
    ]
 }
