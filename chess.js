@@ -154,6 +154,14 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Beautiful kingside attacks"
       },
       {
+         "description" : "This post could have been the next in the 'under the weather' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2021/11/not-under-weather-channel.html\">Not the 'Under the Weather' Channel</A>(November 2021), but I've found that keeping busy is a good medicine for a bad cold. That and lots of sleep. <P>Instead I'll continue the 'Fischer Friday' series, seen last week in <A HREF=\"http://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html\">FS 1972 + 20 = FS 1992</A>(September 2022). In that post I wrote, <BLOCKQUOTE>I don't have much in my photo archive about the 1992 [Fischer - Spassky] match. The following composite image shows the wirephotos that I found. These are b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html",
+         "pubDate" : "Fri, 23 Sep 2022 15:39:00 +0000",
+         "title" : "1992 Fischer - Spassky 'Under the Weather'"
+      },
+      {
          "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
