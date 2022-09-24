@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the event. Two weeks later he refused to play against Niemann and resigned his game in the Julius Baer Generation Cup after only two played moves. The controversy over the Carlsen Niemann case was []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/top-grandmasters-take-carlsens-side-in-the-carlsen-niemann-case/",
+         "pubDate" : "Sat, 24 Sep 2022 09:00:49 +0000",
+         "title" : "Top grandmasters take Carlsen's side in the Carlsen - Niemann case?!"
+      },
+      {
+         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria. The event sets a new participation record with 87 registered teams: 70 in the open section and 17 in the Women's event. The event with gather 600 players from 45 countries who will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-sets-a-participation-record/",
+         "pubDate" : "Sat, 24 Sep 2022 08:50:46 +0000",
+         "title" : "European Chess Club Cup 2022 sets a participation record"
+      },
+      {
          "description" : "In the diagrammed position, White has a clever way to destabilize Black's minor piece block and win material. Have a go!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/forward-and-back",
          "pubDate" : "Sat, 24 Sep 2022 09:00:00 +0100",
          "title" : "Forward and back"
+      },
+      {
+         "description" : "The two-day final of the Julius Baer Generation Cup will be played between GM Magnus Carlsen and GM Arjun Erigaisi. After Carlsen knocked out GM Vincent Keymer, Erigaisi reached his first Tour final by beating GM Le Quang Liem in a&#38;nbsp;blitz play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-semifinals",
+         "pubDate" : "Sat, 24 Sep 2022 00:57:00 -0700",
+         "title" : "Carlsen, Erigaisi To Play Generation Cup Final"
+      },
+      {
+         "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 starts tomorrow and will take place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in the 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/",
+         "pubDate" : "Sat, 24 Sep 2022 07:30:52 +0000",
+         "title" : "4th ESNA European Small Nations Individual Chess Championship starts"
       },
       {
          "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
@@ -224,22 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/generation-cup-2022-d5",
          "pubDate" : "Fri, 23 Sep 2022 01:35:00 +0100",
          "title" : "Generation Cup: Carlsen, Keymer, Arjun and Le in semis"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/le-quang-liem-vs-arjun-erigaisi-julius-baer-generation-cup-semi-finals-live/",
-         "pubDate" : "Thu, 22 Sep 2022 21:53:21 +0000",
-         "title" : "Le Quang Liem vs Arjun Erigaisi, Julius Baer Generation Cup semi-finals LIVE"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-vincent-keymer-julius-baer-generation-cup-semi-finals-live/",
-         "pubDate" : "Thu, 22 Sep 2022 21:50:11 +0000",
-         "title" : "Magnus Carlsen vs Vincent Keymer, Julius Baer Generation Cup semi-finals LIVE"
       },
       {
          "description" : "GMs Wesley So and Leinier Dominguez won their round of 32 matches in the Chess.com Global Chess Championship&#38;nbsp;on Thursday, defeating the legendary GM Vasyl Ivanchuk and the popular streamer GM Eric Hansen respectively. The round of 32 contin...",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Underrated masters of the chess world"
       },
       {
-         "description" : "Round seven at the 2022 Sinquefield Cup seemed like the complete counterpoint to the exciting sixth round. Leader GM Wesley So had a bye but with no winners in Friday&#39;s round, nobody caught up to him. So leads with four points from six games. GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-7",
-         "pubDate" : "Sat, 10 Sep 2022 01:18:15 -0700",
-         "title" : "8 Handshakes, No Winners In Round 7"
-      },
-      {
          "description" : "\"This tournament is broken,\" said Jan Gustafsson after all four games were drawn in Round 7 of the Sinquefield Cup. It was a day of long theoretical battles that never looked likely to burst into life, though Alireza Firouzja at least showed fighting spirit by playing on - in vain - against Leinier Dominguez. Wesley So didn't play, but maintained the sole lead with just two rounds to go.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/egregious-viceroys-the-uzbek-impact-on-chess/",
          "pubDate" : "Sat, 03 Sep 2022 10:20:50 +0000",
          "title" : "Egregious viceroys: the Uzbek impact on chess"
-      },
-      {
-         "description" : " <p class=\"lead\">The final event of the Grand Chess Tour, the Sinquefield Cup, started yesterday with the wildcard, Magnus Carlsen, crushing Ian Nepomniachtchi in Round 1. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Ian-Neponiachchi-Magnus-Carlsen-Grand-Chess-tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Bryan Adams, Grand Chess Tour</div> </div> A bit more than a month ago the reigning World Champion Magnus Carlsen announced that he will not defend his title in 2023 against Nepo, who had just won the Candidates 2022. Many talked about a foolish decision but would the Championship match be any different than the previous o",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/would-the-world-championship-match-between-carlsen-and-nepo-be-t/",
-         "pubDate" : "Sat, 03 Sep 2022 08:58:04 +0000",
-         "title" : "Another Championship Match Between Carlsen and Nepo Would Be Boring"
       }
    ]
 }
