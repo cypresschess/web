@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the 19-year-old American grandmaster Hans Niemann defeated the World Chess Champion in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the event. The chess world was overwhelmed with the rumors (scroll down for full timeline) that Carlsen suspected Niemann was cheating in the tournament, and only two weeks []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-is-innocent-until-proven-guilty/",
+         "pubDate" : "Sat, 24 Sep 2022 11:19:36 +0000",
+         "title" : "Hans Niemann is innocent until proven guilty"
+      },
+      {
          "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions whom Frederic met in the late before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-quarterfinals",
          "pubDate" : "Fri, 23 Sep 2022 02:06:00 -0700",
          "title" : "Carlsen Advances, Niemann Eliminated"
-      },
-      {
-         "description" : "Ian Nepomniachtchi published a video on his official youtube account where he speaks about tournaments in Saint Louis, the recent happenings related to Carlsen Niemann case, cheating in chess Nepo said that he was not happy when he heard Hans Niemann will replace Richard Rapport in the Sinquefield Cup as Rapport couldn't make it []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-i-was-unhappy-to-hear-hans-niemann-will-replace-rapport-in-sinquefield-cup/",
-         "pubDate" : "Fri, 23 Sep 2022 08:42:45 +0000",
-         "title" : "Ian Nepomniachtchi: I was unhappy to hear Hans Niemann will replace Rapport in Sinquefield Cup"
       },
       {
          "description" : "We won't get a Carlsen-Niemann final in the Julius Baer Generation Cup after Liem Le beat Hans Niemann 2.5:1.5 in the quarterfinals. Magnus did progress, storming back to beat Levon Aronian 3:1 after losing the first game, and now plays Vincent Keymer, who defeated Praggnanandhaa. Arjun Erigaisi faces Le in the semis after edging a thrilling battle against Christopher Yoo.",
