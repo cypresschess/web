@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions whom Frederic met in the late before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
+         "pubDate" : "Sat, 24 Sep 2022 12:00:00 +0100",
+         "title" : "Frederic's mates - How I met Mikhail Botvinnik"
+      },
+      {
+         "description" : "Everything that follows this preamble proceeds from a common cognisance of the presumption of innocence: Ei incumbit probatio qui dicit, non qui negat. (\"The burden of proof lies upon him who affirms, not he who denies.)\" The reigning, though shortly retiring, World Chess Champion Magnus Carlsen has established a record for the longest sequence of games without loss []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/cheating-in-grandmaster-chess/",
+         "pubDate" : "Sat, 24 Sep 2022 10:23:45 +0000",
+         "title" : "Cheating in grandmaster chess?"
+      },
+      {
          "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the event. Two weeks later he refused to play against Niemann and resigned his game in the Julius Baer Generation Cup after only two played moves. The controversy over the Carlsen Niemann case was []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "United States Women's Chess Champions, 1937-2020"
       },
       {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series will kick off on September 18 in Nur-Sultan, the capital of Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix will consist of four tournaments (to be played in Kazakhstan, Germany, India and Poland). Each player will participate in three out of the four tournaments. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-preview",
-         "pubDate" : "Mon, 12 Sep 2022 22:00:00 +0100",
-         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
-      },
-      {
          "description" : " The 9th Sinquefield Cup took place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4. Alireza Firouzja won the event by beating Ian Nepomniachtchi in a tie-break. Nepomniachtchi failed to convert a winning position against Niemann in the final round. Firouzja also won the Grand Chess Tour.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2104,14 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1962",
          "pubDate" : "Sat, 03 Sep 2022 13:12:43 +0000",
          "title" : "Kateryna Lagno wins FIDE Chess.com 2022 Women's Speed Chess Championship"
-      },
-      {
-         "description" : "The surprise winner of the most recent world rapid chess championships was the new 17-year-old superstar Nodirbek Abdusattorov from Uzbekistan. Far from being a flash in the pan, the Uzbek teenager then led his team to an equally astounding victory in the recently concluded Chennai Olympiad, or international team tournament. This impressive triumph took place ahead of the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/egregious-viceroys-the-uzbek-impact-on-chess/",
-         "pubDate" : "Sat, 03 Sep 2022 10:20:50 +0000",
-         "title" : "Egregious viceroys: the Uzbek impact on chess"
       }
    ]
 }
