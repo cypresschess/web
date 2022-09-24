@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d3",
-         "pubDate" : "Fri, 23 Sep 2022 16:19:39 -0700",
+         "pubDate" : "Fri, 23 Sep 2022 16:19:00 -0700",
          "title" : "Sarana \"Immortal\" Upsets Mamedyarov; Duda, Xiong Cruise Through"
       },
       {
