@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen was an accurate move or two away from making it 4 wins in a row against Arjun Erigaisi in the Julius Baer Generation Cup, but despite winning Day 1 of the final with a game to spare, the World Champion drew attention to \"some pretty bad moments\". Asked to give a positive, he replied, \"I'm winning, that's positive!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/generation-cup-final-1-magnus-far-from-satisfied-despite-win",
+         "pubDate" : "Sat, 24 Sep 2022 22:31:44 +0000",
+         "title" : "Generation Cup Final: Magnus \"far from satisfied\" despite win"
+      },
+      {
+         "description" : "The Elegant English doubles as a pro-level opening guide and a playbook of winning chess strategies &#x2014; enabling you to climb the ranks faster. It&#x2019;s based on a highly instructive variation in the English Opening (1.c4). And with Grandmaster Michael Roiz shedding light on its diverse tactical ideas and positional themes, you&#x2019;ll come out of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-michael-roiz-the-elegant-english/",
+         "pubDate" : "Sat, 24 Sep 2022 22:15:26 +0000",
+         "title" : "GM Michael Roiz - The Elegant English"
+      },
+      {
          "description" : "The&#xA0;4th ESNA European Small Nations Individual Chess Championship 2022&#xA0;takes place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in 9 rounds, and the field is headlined by:&#xA0;GM Henderson de la Fuente Lance&#xA0;(AND, 2504),&#xA0;GM Efimov Igor&#xA0;(MNC, 2360) and&#xA0;FM Michaelides Konstantinos&#xA0;(CYP, 2304). []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2000",
          "pubDate" : "Fri, 23 Sep 2022 16:43:33 +0000",
          "title" : "FIDE WGP Astana: Kashlinskaya and Lagno close the gap"
-      },
-      {
-         "description" : "The sixth round of the Astana Women&#x2019;s Grand Prix proved to be one of the most exciting, with four decisive games and two hard-fought draws. Tomorrow will be a well-deserved rest day and play will resume on Sunday. After this afternoon&#x2019;s results, Aleksandra Goryachkina and Zhu Jiner still lead the event with 4.5/6.0 but both []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/four-decisive-games-before-the-resting-day-at-the-fide-womens-grand-prix-astana-2022/",
-         "pubDate" : "Fri, 23 Sep 2022 16:29:39 +0000",
-         "title" : "Four decisive games before the resting day at the FIDE Women's Grand Prix Astana 2022"
       },
       {
          "description" : "In his Power Play Show, Daniel King looks at a couple of recent games featuring brilliant attacks - simply stunning. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1802,14 +1810,6 @@ news_feed (
          "title" : "Chess: Hans Niemann hits back over 'cheating' controversy in St Louis"
       },
       {
-         "description" : "Wesley So inflicted a first defeat on Hans Niemann in Round 6 of the Sinquefield Cup to take a 1-point lead. Wesley sits out Round 7, so can be caught by Alireza Firouzja, who won a topsy-turvy clash against Shakhriyar Mamedyarov, or by Ian Nepomniachtchi and Fabiano Caruana, who drew their game. The day's other winner was Levon Aronian, who took down Maxime Vachier-Lagrave.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-6-so-firouzja-and-aronian-strike",
-         "pubDate" : "Fri, 09 Sep 2022 06:32:50 +0000",
-         "title" : "Sinquefield 6: So, Firouzja and Aronian strike"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1964",
          "pubDate" : "Sun, 04 Sep 2022 09:22:12 +0000",
          "title" : "2022 Sinquefield Cup - Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1963",
-         "pubDate" : "Sat, 03 Sep 2022 21:11:01 +0000",
-         "title" : "2022 Sinquefield Cup - Day 1 Recap"
       }
    ]
 }
