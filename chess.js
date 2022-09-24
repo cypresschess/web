@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;will play the finals of the&#xA0;Julius Baer Generation Cup! The exciting semi-final matches between Magnus Carlsen and Vincent Keymer, and Arjun Erigaisi and Le Quang Liem were played yesterday on chess24.com. World Chess Champion Magnus Carlsen&#xA0;defeated 17-year-old German grandmaster Vincent Keymer with a convincing 3-1 result, while the other finalist of the Julius []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-final-match-day-1-live/",
+         "pubDate" : "Sat, 24 Sep 2022 15:33:15 +0000",
+         "title" : "Julius Baer Generation Cup final match - Day 1 LIVE"
+      },
+      {
          "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
          "pubDate" : "Fri, 23 Sep 2022 10:50:00 +0100",
          "title" : "Women's Grand Prix Astana: Live"
-      },
-      {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) banned Russian grandmaster Sergey Karjakin from taking part in FIDE events for six months. EDC found Sergey Karjakin guilty of breach of article 2.2.10 of the FIDE Code of Ethics on March 21st, 2022 and the 6-month ban expired yesterday. Sergey Karjakin appealed to FIDE's decision, but his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sergey-karjakins-ban-from-fide-events-has-expired/",
-         "pubDate" : "Fri, 23 Sep 2022 09:21:13 +0000",
-         "title" : "Sergey Karjakin's ban from FIDE events has expired"
       },
       {
          "description" : "A final between GM Magnus Carlsen and GM Hans Niemann is not possible anymore at the Julius Baer Generation Cup after Niemann lost to GM Le Quang Liem in Thursday&#39;s quarterfinals. Carlsen eliminated GM Levon Aronian and now plays GM Vincent Keymer...",
