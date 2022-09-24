@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Now that the coronavirus pandemic has subsided, there&#38;rsquo;s no reason that we can&#38;rsquo;t get up close and personal over a chessboard &#38;hellip; or with chessboxing. Yes, chessboxing! This sport is making a grand return by none other than Ludwig A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ludwig-mogul-chessboxing-championship-pogchamps",
+         "pubDate" : "Sat, 24 Sep 2022 16:18:00 -0700",
+         "title" : "Ludwig Announces Mogul Chessboxing Championship, Hambleton Vs. Trent Headlines"
+      },
+      {
          "description" : "Magnus Carlsen was an accurate move or two away from making it 4 wins in a row against Arjun Erigaisi in the Julius Baer Generation Cup, but despite winning Day 1 of the final with a game to spare, the World Champion drew attention to \"some pretty bad moments\". Asked to give a positive, he replied, \"I'm winning, that's positive!\"",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1712,14 +1720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-8",
          "pubDate" : "Sat, 10 Sep 2022 22:49:00 -0700",
          "title" : "Sleepless in St. Louis"
-      },
-      {
-         "description" : "The Chess.com Global Championship Knockout phase begins on September 14. An event that started with thousands of participants is down to a field of 64. In the next few weeks, there will only be 32, then 16, and then eight hopefuls. By November? On...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-global-championship-100k-bracket-contest",
-         "pubDate" : "Sat, 10 Sep 2022 06:25:00 -0700",
-         "title" : "Announcing The $100,000 CGC Bracket Contest"
       },
       {
          "description" : "Kicking off Sept. 14, the Chess.com Global Chess Championship will see legendary chess players such as GM Viswanathan Anand, GM Vasyl Ivanchuk, GM Vladimir Kramnik, and GM Veselin Topalov compete against today&#39;s best (online) players, including GM...",
