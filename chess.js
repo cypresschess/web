@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen said he played \"anti-young-player chess\" to beat Arjun Erigaisi 2:0 on Day 2 of the Julius Baer Generation Cup final and win the tournament with two games to spare. Arjun never got a chance, but had a great run and has qualified for the final Tour event this year in San Francisco.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-beats-erigaisi-to-win-the-julius-baer-generation-cup",
+         "pubDate" : "Sun, 25 Sep 2022 23:15:54 +0000",
+         "title" : "Carlsen beats Erigaisi to win the Julius Baer Generation Cup"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1768,14 +1776,6 @@ news_feed (
          "link" : "https://www.thearticle.com/underrated-masters-of-the-chess-world/",
          "pubDate" : "Sat, 10 Sep 2022 11:44:24 +0000",
          "title" : "Underrated masters of the chess world"
-      },
-      {
-         "description" : "\"This tournament is broken,\" said Jan Gustafsson after all four games were drawn in Round 7 of the Sinquefield Cup. It was a day of long theoretical battles that never looked likely to burst into life, though Alireza Firouzja at least showed fighting spirit by playing on - in vain - against Leinier Dominguez. Wesley So didn't play, but maintained the sole lead with just two rounds to go.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-7-wesley-the-only-winner",
-         "pubDate" : "Sat, 10 Sep 2022 06:47:10 +0000",
-         "title" : "Sinquefield Cup 7: Wesley the only winner"
       },
       {
          "description" : "",
