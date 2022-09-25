@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An action-packed day that saw most of the favorites proceed through their round of 32 matchups took place on Saturday in the Chess.com Global Championships. GM Anish Giri was the standout and was able to win all three of his games with flair again...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d4",
+         "pubDate" : "Sat, 24 Sep 2022 21:08:00 -0700",
+         "title" : "Favorites Advance; Abdusattorov, Kramnik Eliminated"
+      },
+      {
          "description" : "Now that the coronavirus pandemic has subsided, there&#38;rsquo;s no reason that we can&#38;rsquo;t get up close and personal over a chessboard &#38;hellip; or with chessboxing. Yes, chessboxing! This sport is making a grand return by none other than Ludwig A...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-8",
          "pubDate" : "Sat, 10 Sep 2022 22:49:00 -0700",
          "title" : "Sleepless in St. Louis"
-      },
-      {
-         "description" : "Kicking off Sept. 14, the Chess.com Global Chess Championship will see legendary chess players such as GM Viswanathan Anand, GM Vasyl Ivanchuk, GM Vladimir Kramnik, and GM Veselin Topalov compete against today&#39;s best (online) players, including GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-chess-championship-knockout-participants",
-         "pubDate" : "Sat, 10 Sep 2022 06:25:00 -0700",
-         "title" : "Anand, Ivanchuk, Kramnik, Topalov Among Global Chess Championship Participants"
       },
       {
          "description" : "Daniel Johnson is the founding editor of our online platform TheArticle where I contribute the weekly chess column every Saturday. In a previous incarnation Daniel edited the monthly Standpoint magazine, where one of his innovations was to introduce a regular Underrated/Overrated feature. Inspired by this format I shall be devoting my column this week to the theme of one of the most unfairly denigrated of the []",
