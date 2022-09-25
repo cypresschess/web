@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-09-24","45","<a href=http://www.uschess.org/msa/XtblMain.php?202209244162 target='_blank'>SEPTEMBER SCHOLASTIC</a>",
 "SPRING","2022-09-23","20","<a href=http://www.uschess.org/msa/XtblMain.php?202209233762 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-09-23","7","<a href=http://www.uschess.org/msa/XtblMain.php?202209233732 target='_blank'>FBCC 2022 START OF FALL OPEN/FBCC 2</a>",
 "PEARLAND","2022-09-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202209202632 target='_blank'>RCC QUADS SEPTEMBER 20, 2022</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2021-12-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202112179402 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2021-12-17","15","<a href=http://www.uschess.org/msa/XtblMain.php?202112178982 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2021-12-12","4","<a href=http://www.uschess.org/msa/XtblMain.php?202112127132 target='_blank'>DECSUNSWISS12</a>",
-"HOUSTON","2021-12-11  - 12-12","230","<a href=http://www.uschess.org/msa/XtblMain.php?202112126662 target='_blank'>TCR: HOUSTON WINTER CHAMPIONSHIP 2021</a>",
 ]);
