@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1966",
          "pubDate" : "Mon, 05 Sep 2022 08:18:42 +0000",
          "title" : "2022 Sinquefield Cup: Niemann beat Carlsen to grab the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1965",
-         "pubDate" : "Sun, 04 Sep 2022 21:52:41 +0000",
-         "title" : "Esipenko racks up huge score to win first Challengers Chess Tour event"
       }
    ]
 }
