@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;are the finalists of the&#xA0;Julius Baer Generation Cup! The final match of the Julius Baer Generation Cup is played over two days 24-25 September, with two 4-game rapid matches. With a convincing 2.5-0.5 result, Magnus Carlsen took an important victory in the first match of the finals. Arjun Erigaisi now needs to win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/julius-baer-generation-cup-final-match-day-2-live/",
+         "pubDate" : "Sun, 25 Sep 2022 14:50:00 +0000",
+         "title" : "Julius Baer Generation Cup final match - Day 2 LIVE"
+      },
+      {
+         "description" : "Famous musician, singer, and songwriter Gordon Matthew Thomas Sumner, known as&#xA0;Sting, published an interesting photo with the former World Chess Champion Garry Kasparov. &#8220;Breakfast in Helsinki with Garry Kasparov, one of my heroes&#8220;, wrote Sting. Garry Kasparov tweeted that he is glad to see his friend Sting in Helsinki, adding that they had more fun []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sting-kasparov-is-one-of-my-heroes-tweetoftheday/",
+         "pubDate" : "Sun, 25 Sep 2022 14:18:43 +0000",
+         "title" : "Sting: Kasparov is one of my heroes! #TweetOftheDay"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 92nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,22 +176,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cheating-in-grandmaster-chess/",
          "pubDate" : "Sat, 24 Sep 2022 10:23:45 +0000",
          "title" : "Cheating in grandmaster chess?"
-      },
-      {
-         "description" : "After losing to Hans Niemann in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the event. Two weeks later he refused to play against Niemann and resigned his game in the Julius Baer Generation Cup after only two played moves. The controversy over the Carlsen Niemann case was []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/top-grandmasters-take-carlsens-side-in-the-carlsen-niemann-case/",
-         "pubDate" : "Sat, 24 Sep 2022 09:00:49 +0000",
-         "title" : "Top grandmasters take Carlsen's side in the Carlsen - Niemann case?!"
-      },
-      {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria. The event sets a new participation record with 87 registered teams: 70 in the open section and 17 in the Women's event. The event with gather 600 players from 45 countries who will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-sets-a-participation-record/",
-         "pubDate" : "Sat, 24 Sep 2022 08:50:46 +0000",
-         "title" : "European Chess Club Cup 2022 sets a participation record"
       },
       {
          "description" : "In the diagrammed position, White has a clever way to destabilize Black's minor piece block and win material. Have a go!",
