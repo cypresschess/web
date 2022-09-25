@@ -226,14 +226,6 @@ news_feed (
          "title" : "Generation Cup SFs: It's a Carlsen-Erigaisi final!"
       },
       {
-         "description" : "The&#xA0;4th ESNA European Small Nations Individual Chess Championship 2022&#xA0;starts tomorrow and will take place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/4th-esna-european-small-nations-individual-chess-championship-starts/",
-         "pubDate" : "Sat, 24 Sep 2022 05:52:00 +0000",
-         "title" : "4th ESNA European Small Nations Individual Chess Championship starts"
-      },
-      {
          "description" : "GMs Jan-Krzysztof Duda, Jeffery Xiong, and Alexey Sarana were the three victorious players in their round of 32 matches on Friday as the Chess.com Global Championship continued. Favorites Duda and Xiong had to shake off the nerves early against th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
