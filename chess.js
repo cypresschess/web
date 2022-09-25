@@ -18,6 +18,14 @@ news_feed (
          "title" : "Generation Cup Finals: Carlsen gets clear first-set win"
       },
       {
+         "description" : " This example probably falls under the heading of \"Do as I do, not as I say\". I've always told young players to spend their time on understanding openings, rather than simply memorising moves. On the other hand, when I was young, I spent a lot of time memorising lines, especially lines which contained a number of traps. If White had followed my example, but not my advice, they may not have had their queen trapped so quickly. <br /> <b>White - Black</b><br />Street Chess, 24.09.2022 <script>new PgnViewer( { boardName: \"game1353\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nc6 6.Nxe4 Nd4 7.Qc3 dxe4 8.Be2 Bb4 9.Qc4 Be6 0-1', pauseBetweenMoves: 500, pieceSize:",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/try-and-avoid-this.html",
+         "pubDate" : "Sun, 25 Sep 2022 13:08:00 +0000",
+         "title" : "Try and avoid this"
+      },
+      {
          "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#xA0;was held from 21-25 September 2022 in Shusha, Azerbaijan with 10 world-class grandmasters competing in the Open section, and 10 world-known female players competing in the Women's event. The event was dedicated to the 190th&#xA0;anniversary of prominent poet and philanthropist Khurshidbanu Natavan and featured a total prize fund of 80.000$. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
