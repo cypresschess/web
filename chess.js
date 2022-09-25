@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "An action-packed day that saw most of the favorites proceed through their round of 32 matchups took place on Saturday in the Chess.com Global Championships. GM Anish Giri was the standout and was able to win all three of his games with flair again...",
+         "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#xA0;was held from 21-25 September 2022 in Shusha, Azerbaijan with 10 world-class grandmasters competing in the Open section, and 10 world-known female players competing in the Women's event. The event was dedicated to the 190th&#xA0;anniversary of prominent poet and philanthropist Khurshidbanu Natavan and featured a total prize fund of 80.000$. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-and-meri-arabidze-win-shusha-chess-2022/",
+         "pubDate" : "Sun, 25 Sep 2022 10:00:30 +0000",
+         "title" : "Shakhriyar Mamedyarov and Meri Arabidze win Shusha Chess 2022"
+      },
+      {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Sun, 25 Sep 2022 10:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
+         "description" : "Halfway through the tournament, GM Aleksandra Goryachkina of Russia and WGM Zhu Jiner of China are sharing the lead at the first leg of the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan. The top two players of the Grand Prix will qualify for the n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-astana-fide-women-grand-prix-round-6",
+         "pubDate" : "Sun, 25 Sep 2022 02:49:00 -0700",
+         "title" : "Goryachkina, Zhu Lead 1st Leg Of FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the first match vs. GM Arjun Erigaisi in the final of the Julius Baer Generation Cup on Saturday. Winning two games and finishing with a draw, the world champion needs only a tie in Sunday&#39;s match to win the tournament. How...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-final-day-1",
+         "pubDate" : "Sun, 25 Sep 2022 01:05:00 -0700",
+         "title" : "Carlsen Leads In Final vs. Erigaisi"
+      },
+      {
+         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-arjun-erigaisi-julius-baer-generation-cup-final-live/",
+         "pubDate" : "Sun, 25 Sep 2022 07:06:00 +0000",
+         "title" : "Magnus Carlsen vs Arjun Erigaisi, Julius Baer Generation Cup Final LIVE"
+      },
+      {
+         "description" : "An action-packed day that saw most of the favorites proceed through their round of 32 matchups took place on Saturday in the Chess.com Global Championship. GM Anish Giri was the standout and was able to win all three of his games with flair agains...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d4",
@@ -66,6 +106,14 @@ news_feed (
          "title" : "Julius Baer Generation Cup final match - Day 1 LIVE"
       },
       {
+         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions, the first of whom Frederic met in the late 1970s and in the 1980s, before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
+         "pubDate" : "Sat, 24 Sep 2022 16:05:00 +0100",
+         "title" : "Frederic's mates - How I met Mikhail Botvinnik"
+      },
+      {
          "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemann-is-innocent-until-proven-guilty/",
          "pubDate" : "Sat, 24 Sep 2022 11:19:36 +0000",
          "title" : "Hans Niemann is innocent until proven guilty"
-      },
-      {
-         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions, the first of whom Frederic met in the late 1970s and in the 1980s, before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
-         "pubDate" : "Sat, 24 Sep 2022 12:00:00 +0100",
-         "title" : "Frederic's mates - How I met Mikhail Botvinnik"
       },
       {
          "description" : "Everything that follows this preamble proceeds from a common cognisance of the presumption of innocence: Ei incumbit probatio qui dicit, non qui negat. (\"The burden of proof lies upon him who affirms, not he who denies.)\" The reigning, though shortly retiring, World Chess Champion Magnus Carlsen has established a record for the longest sequence of games without loss []",
@@ -154,14 +194,6 @@ news_feed (
          "title" : "4th ESNA European Small Nations Individual Chess Championship starts"
       },
       {
-         "description" : "The Julius Baer Generation Cup&#160;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-arjun-erigaisi-julius-baer-generation-cup-final-live/",
-         "pubDate" : "Sat, 24 Sep 2022 07:06:21 +0000",
-         "title" : "Magnus Carlsen vs Arjun Erigaisi, Julius Baer Generation Cup Final LIVE"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94413132.cms\" />Young Indian Grandmaster Arjun Erigaisi got the better of Liem Quang Le (Vietnam) to set up a final clash with world no.1 Magnus Carlsen in the Julius Baer Generation Cup online rapid chess tournament. While the 19-year old Erigaisi had to fight hard to subdue the challenge of his Vietnamese rival, Carlsen won 3-1.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -200,14 +232,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-1",
          "pubDate" : "Fri, 23 Sep 2022 21:43:47 +0000",
          "title" : "2022 U.S. Chess Championships: Round 1"
-      },
-      {
-         "description" : "Magnus Carlsen and Arjun Erigaisi will play the finals of the Julius Baer Generation Cup! The exciting semi-final matches between Magnus Carlsen and Vincent Keymer, and Arjun Erigaisi and Le Quang Liem were played today on chess24.com. Replay all games here / Semi-finals video coverage S1: Magnus Carlsen vs Vincent Keymer 3-1 World Chess Champion []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-and-arjun-erigaisi-are-the-finalists-of-the-julius-baer-generation-cup/",
-         "pubDate" : "Fri, 23 Sep 2022 20:05:01 +0000",
-         "title" : "Magnus Carlsen and Arjun Erigaisi are the finalists of the Julius Baer Generation Cup"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94405344.cms\" />The International Chess Federation (FIDE) has rebuked world champion Magnus Carlsen for abruptly conceding an online game against Hans Niemann while adding it shared the Norwegian's concerns surrounding cheating in the sport.",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-two/",
          "pubDate" : "Fri, 23 Sep 2022 10:00:40 +0000",
          "title" : "A Foundation for Beginners Seventy Two"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Fri, 23 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : "A final between GM Magnus Carlsen and GM Hans Niemann is not possible anymore at the Julius Baer Generation Cup after Niemann lost to GM Le Quang Liem in Thursday&#39;s quarterfinals. Carlsen eliminated GM Levon Aronian and now plays GM Vincent Keymer...",
@@ -1666,14 +1682,6 @@ news_feed (
          "title" : "World Youth Chess Championships cross halfway"
       },
       {
-         "description" : "After nine eventful rounds of play and lots of surrounding tumult, the 2022 Sinquefield Cup came to a conclusion on Sunday in Saint Louis. After four draws in the regulation games of round nine, a play-off, consisting of two rapid games, between...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wins-2022-sinquefield-cup",
-         "pubDate" : "Sun, 11 Sep 2022 18:34:00 -0700",
-         "title" : "Firouzja Wins Sinquefield Cup & The Grand Chess Tour"
-      },
-      {
          "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection project&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1976",
          "pubDate" : "Sun, 11 Sep 2022 06:03:32 +0000",
          "title" : "2022 Sinquefield Cup - Day 8 Recap"
-      },
-      {
-         "description" : "BOOM! If the somewhat flaccid round seven at the 2022 Sinquefield Cup was a disappointment, then round eight delivered in a big way. Tournament leader GM Wesley So was taken down in a dramatic game by GM Alireza Firouzja. As GMs Ian Nepomniachtc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-sinquefield-cup-round-8",
-         "pubDate" : "Sat, 10 Sep 2022 22:49:00 -0700",
-         "title" : "Sleepless in St. Louis"
       },
       {
          "description" : "Daniel Johnson is the founding editor of our online platform TheArticle where I contribute the weekly chess column every Saturday. In a previous incarnation Daniel edited the monthly Standpoint magazine, where one of his innovations was to introduce a regular Underrated/Overrated feature. Inspired by this format I shall be devoting my column this week to the theme of one of the most unfairly denigrated of the []",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/mumbai-girl-anishka-biyani-wins-gold-medal-in-malaysian-chess-meet/articleshow/93985590.cms",
          "pubDate" : "Sun, 04 Sep 2022 12:37:33 +0000",
          "title" : "Mumbai girl Anishka Biyani wins gold medal in Malaysian Chess Meet"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1964",
-         "pubDate" : "Sun, 04 Sep 2022 09:22:12 +0000",
-         "title" : "2022 Sinquefield Cup - Day 2 Recap"
       }
    ]
 }
