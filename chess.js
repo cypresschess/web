@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the Julius Baer Generation Cup today after he convincingly defeated his younger opponent Arjun Erigaisi in the two-day final match. Being asked if the whole &#8220;Carlsen Niemann controversy&#8221; motivated him more to play good, Magnus said: &#8220;I cannot say that 100%, but I haven't felt less motivated&#8220;. He added that he []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-announces-his-statements-for-the-coming-days-i-want-cheating-in-chess-to-be-dealt-with-seriously/",
+         "pubDate" : "Sun, 25 Sep 2022 18:18:00 +0000",
+         "title" : "Magnus Carlsen announces his statement(s) for the coming days: I want cheating in chess to be dealt with seriously"
+      },
+      {
          "description" : "After defeating Arjun Erigaisi in the two-day Julius Baer Generation Cup match with a convincing 2-0 score, Magnus Carlsen clinched the Julius Baer Generation Cup the 7th event of the Meltwater Champions Chess Tour! The first final match was played yesterday and ended with a 2.5-0.5 result in favor of the World Chess Champion. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,7 +98,7 @@ news_feed (
          "title" : "Try and avoid this"
       },
       {
-         "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#xA0;was held from 21-25 September 2022 in Shusha, Azerbaijan with 10 world-class grandmasters competing in the Open section, and 10 world-known female players competing in the Women's event. The event was dedicated to the 190th&#xA0;anniversary of prominent poet and philanthropist Khurshidbanu Natavan and featured a total prize fund of 80.000$. []",
+         "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#160;was held from 21-25 September 2022 in Shusha, Azerbaijan with 10 world-class grandmasters competing in the Open section, and 10 world-known female players competing in the Women's event. The event was dedicated to the 190th&#160;anniversary of prominent poet and philanthropist Khurshidbanu Natavan and featured a total prize fund of 80.000$. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-and-meri-arabidze-win-shusha-chess-2022/",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/4th-esna-european-small-nations-individual-chess-championship-live/",
          "pubDate" : "Sat, 24 Sep 2022 19:01:57 +0000",
          "title" : "4th ESNA European Small Nations Individual Chess Championship LIVE"
-      },
-      {
-         "description" : "After the exciting semi-finals of the Julius Baer Generation Cup, World Chess Champion Magnus Carlsen and 19-year-old Indian prodigy Arjun Erigaisi advanced to the finals which are played over two days with two 4-game rapid matches. Magnus Carlsen convincingly won the first final match with a final result 2.5-0.5. Carlsen had a more active position []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-the-first-match-in-the-julius-baer-generation-cup-final/",
-         "pubDate" : "Sat, 24 Sep 2022 18:31:28 +0000",
-         "title" : "Magnus Carlsen wins the first match in the Julius Baer Generation Cup final"
       },
       {
          "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1965",
          "pubDate" : "Sun, 04 Sep 2022 21:52:41 +0000",
          "title" : "Esipenko racks up huge score to win first Challengers Chess Tour event"
-      },
-      {
-         "description" : " What do you make of this position? This position was displayed recently by popular chess Twitter personality and adult improver Neal Bruce, taken from Silman's Reassess Your Chess (4th edition). It's suitable for players rated 1600-2000. White to move: what would you play and why? Well, what do you think? This position interested me for <a href=\"https://chessimprover.com/a-positional-question/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Positional Question\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-positional-question/\">A Positional Question</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-positional-question/",
-         "pubDate" : "Sun, 04 Sep 2022 18:22:52 +0000",
-         "title" : "A Positional Question"
       }
    ]
 }
