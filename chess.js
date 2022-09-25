@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2003",
+         "pubDate" : "Sun, 25 Sep 2022 20:02:24 +0000",
+         "title" : "Magnus Carlsen wins Julius Baer Generation Cup"
+      },
+      {
+         "description" : "Grand Prix events are long and tiring. Eleven games plus travel essentially means two full weeks abroad, in addition to time allocated for training purposes. The free day at the halfway point of the event is very much appreciated by the players &#x2013; and officials/volunteers &#x2013; to recharge their batteries for the last rounds. Most []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lagno-joins-goryachkina-and-zhu-jiner-in-the-lead-of-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Sun, 25 Sep 2022 19:38:58 +0000",
+         "title" : "Lagno joins Goryachkina and Zhu Jiner in the lead of FIDE Women's Grand Prix Astana 2022"
+      },
+      {
          "description" : "Magnus Carlsen won the Julius Baer Generation Cup today after he convincingly defeated his younger opponent Arjun Erigaisi in the two-day final match. Being asked if the whole &#8220;Carlsen Niemann controversy&#8221; motivated him more to play good, Magnus said: &#8220;I cannot say that 100%, but I haven't felt less motivated&#8220;. He added that he []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -170,12 +186,12 @@ news_feed (
          "title" : "GM Michael Roiz - The Elegant English"
       },
       {
-         "description" : "The&#xA0;4th ESNA European Small Nations Individual Chess Championship 2022&#xA0;takes place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in 9 rounds, and the field is headlined by:&#xA0;GM Henderson de la Fuente Lance&#xA0;(AND, 2504),&#xA0;GM Efimov Igor&#xA0;(MNC, 2360) and&#xA0;FM Michaelides Konstantinos&#xA0;(CYP, 2304). []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/4th-esna-european-small-nations-individual-chess-championship-live/",
-         "pubDate" : "Sat, 24 Sep 2022 19:01:57 +0000",
-         "title" : "4th ESNA European Small Nations Individual Chess Championship LIVE"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2002",
+         "pubDate" : "Sat, 24 Sep 2022 19:26:41 +0000",
+         "title" : "Free day of WCCC 2022 filled with chess activities"
       },
       {
          "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
