@@ -10,12 +10,28 @@ news_feed (
          "title" : "Generation Cup Finals: Live"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, join a host TBA for the opening ceremony of the 2022 U.S. &amp; U.S. Women&#039;s Championships. The field is: TBA. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions\"><img src=\"https://s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions",
+         "pubDate" : "Sun, 25 Sep 2022 15:44:29 +0000",
+         "title" : "2022 U.S. Chess Championships: Opening Ceremony & Hall of Fame Inductions"
+      },
+      {
          "description" : "The 26th edition of the HIT Open&#xA0;took place from 16-22 September 2022 in Nova Gorica, Slovenia. The tournament was played in2 sections: A (for players rated 1500+) and B (for players rated U1600), in 9 rounds, swiss system, with a total prize fund of 5560 euros. IM Matthew Wadsworth won the A tournament scoring unbeaten []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/im-matthew-wadsworth-wins-26th-hit-chess-open/",
          "pubDate" : "Sun, 25 Sep 2022 15:40:56 +0000",
          "title" : "IM Matthew Wadsworth wins 26th HIT Chess Open"
+      },
+      {
+         "description" : " Here's another example of how far we've come in the past century. This is the final position in the game Bogoljubov Thomas, played in the Hastings 6 Masters Tournament on 13 September 1922. Sir George has just checked his opponent, and like the perfect English gentleman he was, has offered a draw. Bogo, on <a href=\"https://chessimprover.com/bogo-meet-lucy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bogo, Meet Lucy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bogo-meet-lucy/\">Bogo, Meet Lucy</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/bogo-meet-lucy/",
+         "pubDate" : "Sun, 25 Sep 2022 15:36:12 +0000",
+         "title" : "Bogo, Meet Lucy"
       },
       {
          "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;are the finalists of the&#xA0;Julius Baer Generation Cup! The final match of the Julius Baer Generation Cup is played over two days 24-25 September, with two 4-game rapid matches. With a convincing 2.5-0.5 result, Magnus Carlsen took an important victory in the first match of the finals. Arjun Erigaisi now needs to win []",
@@ -1088,14 +1104,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/",
          "pubDate" : "Sat, 17 Sep 2022 21:05:15 +0000",
          "title" : "After the Carlsen-Niemann firestorm, what now?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the first three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-1",
-         "pubDate" : "Sat, 17 Sep 2022 18:38:30 +0000",
-         "title" : "2022 Champions Showdown | Chess 9LX: Day 1"
       },
       {
          "description" : "",
