@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Sun, 25 Sep 2022 17:50:00 +0100",
+         "title" : "Generation Cup Finals: Live"
+      },
+      {
+         "description" : "The 26th edition of the HIT Open&#xA0;took place from 16-22 September 2022 in Nova Gorica, Slovenia. The tournament was played in2 sections: A (for players rated 1500+) and B (for players rated U1600), in 9 rounds, swiss system, with a total prize fund of 5560 euros. IM Matthew Wadsworth won the A tournament scoring unbeaten []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-matthew-wadsworth-wins-26th-hit-chess-open/",
+         "pubDate" : "Sun, 25 Sep 2022 15:40:56 +0000",
+         "title" : "IM Matthew Wadsworth wins 26th HIT Chess Open"
+      },
+      {
          "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;are the finalists of the&#xA0;Julius Baer Generation Cup! The final match of the Julius Baer Generation Cup is played over two days 24-25 September, with two 4-game rapid matches. With a convincing 2.5-0.5 result, Magnus Carlsen took an important victory in the first match of the finals. Arjun Erigaisi now needs to win []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/advertising.html",
          "pubDate" : "Sat, 24 Sep 2022 14:14:00 +0000",
          "title" : "Advertising"
-      },
-      {
-         "description" : "After the 19-year-old American grandmaster Hans Niemann defeated the World Chess Champion in the third round of the Sinquefield Cup 2022, Magnus Carlsen decided to withdraw from the event. The chess world was overwhelmed with the rumors (scroll down for full timeline) that Carlsen suspected Niemann was cheating in the tournament, and only two weeks []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-is-innocent-until-proven-guilty/",
-         "pubDate" : "Sat, 24 Sep 2022 11:19:36 +0000",
-         "title" : "Hans Niemann is innocent until proven guilty"
       },
       {
          "description" : "Everything that follows this preamble proceeds from a common cognisance of the presumption of innocence: Ei incumbit probatio qui dicit, non qui negat. (\"The burden of proof lies upon him who affirms, not he who denies.)\" The reigning, though shortly retiring, World Chess Champion Magnus Carlsen has established a record for the longest sequence of games without loss []",
@@ -1578,14 +1586,6 @@ news_feed (
          "title" : "Chest"
       },
       {
-         "description" : "In rook endgames, activity is (almost) everything. In the diagrammed position it is White to move. How should he proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-s-go",
-         "pubDate" : "Tue, 13 Sep 2022 09:00:00 +0100",
-         "title" : "Let's go!"
-      },
-      {
          "description" : " From the publisher's blurb: &#8220;As late as 1950, many chess clubs in America excluded women. The Marshall Chess Club in New York City was an exception, organizing the U.S. Women's Chess Championship beginning in the late 1930s. Since the 1980s, the average rating of the players has increased. The Saint Louis Chess Club has organized <a href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">United States Women's Chess Champions, 1937-2020</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2072,22 +2072,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-positional-question/",
          "pubDate" : "Sun, 04 Sep 2022 18:22:52 +0000",
          "title" : "A Positional Question"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93988206.cms\" />Grandmaster Aravindh Chithambaram clinched the 22nd Dubai Open on Sunday after drawing his final round against compatriot R Praggnanandhaa. Aravindh finished with 7.5 points from 9 rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/tns-aravindh-chithambaram-wins-dubai-open/articleshow/93988206.cms",
-         "pubDate" : "Sun, 04 Sep 2022 15:38:39 +0000",
-         "title" : "TN's Aravindh Chithambaram wins Dubai Open"
-      },
-      {
-         "description" : "While I was compiling the short list for this month's edition of <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), eBay proposed other chess items under the heading 'Similar sponsored items'. I looked at several that reminded me of an old post titled, <A HREF=\"http://chessforallages.blogspot.com/2010/07/chess-art-chinese-copies.html\">Chess Art, Chinese Copies</A>(July 2010). <P>The item pictured below was titled, 'The Spanish Forger - museum piece old master oil panel - medieval chess players'. It sold for US $2725 after a single bid. Before I get into the details of the piece sold at auction, I'll mention ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/the-spanish-forger-liked-chess.html",
-         "pubDate" : "Sun, 04 Sep 2022 15:36:00 +0000",
-         "title" : "The Spanish Forger Liked Chess"
       }
    ]
 }
