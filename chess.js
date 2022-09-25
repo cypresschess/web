@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 92nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-92-backgrounds-of-structures-2",
+         "pubDate" : "Sun, 25 Sep 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 92: Backgrounds of structures (2)"
+      },
+      {
+         "description" : "Magnus Carlsen only needed three games to win the first set of the final match against Arjun Erigaisi at the Julius Baer Generation Cup. The world champion now only needs 2 out of 4 points in Sunday's second set to get a remarkable victory in one of his best showings at an online tournament ever.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d7",
+         "pubDate" : "Sun, 25 Sep 2022 14:45:00 +0100",
+         "title" : "Generation Cup Finals: Carlsen gets clear first-set win"
+      },
+      {
          "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#xA0;was held from 21-25 September 2022 in Shusha, Azerbaijan with 10 world-class grandmasters competing in the Open section, and 10 world-known female players competing in the Women's event. The event was dedicated to the 190th&#xA0;anniversary of prominent poet and philanthropist Khurshidbanu Natavan and featured a total prize fund of 80.000$. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "Magnus Carlsen wins the first match in the Julius Baer Generation Cup final"
       },
       {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Sat, 24 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup Finals: Live"
-      },
-      {
          "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;will play the finals of the&#xA0;Julius Baer Generation Cup! The exciting semi-final matches between Magnus Carlsen and Vincent Keymer, and Arjun Erigaisi and Le Quang Liem were played yesterday on chess24.com. World Chess Champion Magnus Carlsen&#xA0;defeated 17-year-old German grandmaster Vincent Keymer with a convincing 3-1 result, while the other finalist of the Julius []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -106,20 +114,20 @@ news_feed (
          "title" : "Julius Baer Generation Cup final match - Day 1 LIVE"
       },
       {
-         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions, the first of whom Frederic met in the late 1970s and in the 1980s, before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
-         "pubDate" : "Sat, 24 Sep 2022 16:05:00 +0100",
-         "title" : "Frederic's mates - How I met Mikhail Botvinnik"
-      },
-      {
          "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/study-of-the-month-jan-sprenger-philospher-and-problemist",
          "pubDate" : "Sat, 24 Sep 2022 16:00:00 +0100",
          "title" : "Study of the Month - Jan Sprenger: Philosopher and Problemist"
+      },
+      {
+         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions, the first of whom Frederic met in the late 1970s and in the 1980s, before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
+         "pubDate" : "Sat, 24 Sep 2022 15:55:00 +0100",
+         "title" : "Frederic's mates - How I met Mikhail Botvinnik"
       },
       {
          "description" : " This years AFL grand Final has been run and done, with the Sydney Swans getting smashed by Geelong. During (or after) the coverage, I did see an advertisement for an insurance company which had a bit of chess in it. AFL legend Kevin Sheedy was one of the players, although the game was halted when someone ran through the game, smashing board, table, pieces etc. I'd post a link but I can't find one at the moment. If anyone does have a link, please post in the comments section. ",
@@ -223,7 +231,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d3",
          "pubDate" : "Fri, 23 Sep 2022 16:19:00 -0700",
-         "title" : "Sarana \"Immortal\" Upsets Mamedyarov; Duda, Xiong Cruise Through"
+         "title" : "Sarana 'Immortal' Upsets Mamedyarov; Duda, Xiong Cruise Through"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women&#039;s title is decided in an identical format with $40,000 at stake. Join commentators TBA for the move-by-move. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/file",
@@ -1578,14 +1586,6 @@ news_feed (
          "title" : "Let's go!"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour is launching a new ground-breaking tournament this month focused on the clash of ages. The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, will feature 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-preview",
-         "pubDate" : "Tue, 13 Sep 2022 08:55:00 +0100",
-         "title" : "Carlsen and Niemann to face off in Julius Baer Generation Cup"
-      },
-      {
          "description" : " From the publisher's blurb: &#8220;As late as 1950, many chess clubs in America excluded women. The Marshall Chess Club in New York City was an exception, organizing the U.S. Women's Chess Championship beginning in the late 1930s. Since the 1980s, the average rating of the players has increased. The Saint Louis Chess Club has organized <a href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">United States Women's Chess Champions, 1937-2020</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/the-spanish-forger-liked-chess.html",
          "pubDate" : "Sun, 04 Sep 2022 15:36:00 +0000",
          "title" : "The Spanish Forger Liked Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/93985590.cms\" />Six-year-old Anishka Biyani won gold medal in the Malaysian Age Group Rapid Chess Championship at Kuala Lumpur on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/mumbai-girl-anishka-biyani-wins-gold-medal-in-malaysian-chess-meet/articleshow/93985590.cms",
-         "pubDate" : "Sun, 04 Sep 2022 12:37:33 +0000",
-         "title" : "Mumbai girl Anishka Biyani wins gold medal in Malaysian Chess Meet"
       }
    ]
 }
