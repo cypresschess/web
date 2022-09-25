@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After defeating Arjun Erigaisi in the two-day Julius Baer Generation Cup match with a convincing 2-0 score, Magnus Carlsen clinched the Julius Baer Generation Cup the 7th event of the Meltwater Champions Chess Tour! The first final match was played yesterday and ended with a 2.5-0.5 result in favor of the World Chess Champion. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-julius-baer-generation-cup/",
+         "pubDate" : "Sun, 25 Sep 2022 18:00:13 +0000",
+         "title" : "Magnus Carlsen wins Julius Baer Generation Cup"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-wins-the-first-match-in-the-julius-baer-generation-cup-final/",
          "pubDate" : "Sat, 24 Sep 2022 18:31:28 +0000",
          "title" : "Magnus Carlsen wins the first match in the Julius Baer Generation Cup final"
-      },
-      {
-         "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;will play the finals of the&#xA0;Julius Baer Generation Cup! The exciting semi-final matches between Magnus Carlsen and Vincent Keymer, and Arjun Erigaisi and Le Quang Liem were played yesterday on chess24.com. World Chess Champion Magnus Carlsen&#xA0;defeated 17-year-old German grandmaster Vincent Keymer with a convincing 3-1 result, while the other finalist of the Julius []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-final-match-day-1-live/",
-         "pubDate" : "Sat, 24 Sep 2022 15:33:15 +0000",
-         "title" : "Julius Baer Generation Cup final match - Day 1 LIVE"
       },
       {
          "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
