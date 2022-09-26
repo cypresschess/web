@@ -2072,14 +2072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-results-and-qulaifiers/",
          "pubDate" : "Mon, 05 Sep 2022 15:49:50 +0000",
          "title" : "UK Blitz 2022 - results and qualifiers to date"
-      },
-      {
-         "description" : "The most recent post on my chess960 blog, <A HREF=\"http://chess960frc.blogspot.com/2022/08/tcec-dfrc1.html\">TCEC DFRC1</A>(August 2022), mentioned a new idea in the specialized world of chess engines:- <BLOCKQUOTE>'!chess324 &#149; A subset of DFRC where the Kings and the Rooks are at the usual starting position. Since castling is standard, this allows all engines to play.' For more about that definition, see <I>Chess324</I> (talkchess.com; lkaufman, aka Larry Kaufman of Komodo++ fame). </BLOCKQUOTE> <P>That Talkchess thread ran its course and eventually died out, then came roaring back with a follow-up post by the same lkaufman: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=8048",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/chess324-is-thing.html",
-         "pubDate" : "Mon, 05 Sep 2022 15:07:00 +0000",
-         "title" : "Chess324 Is a Thing"
       }
    ]
 }
