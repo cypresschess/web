@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Once again we will be presenting you with some unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where you can move the pieces to analyse. In one case there will be an engine that will defend against your attempts to win. The solutions with full explanations will be provided in a few days.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment-2",
+         "pubDate" : "Mon, 26 Sep 2022 13:00:00 +0100",
+         "title" : "Studies for fun and entertainment (2)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Education Commission</strong> has announced a conference on chess for preschoolers in cooperation with the <strong><a href=\"https://chesstudy.com\">Chess Scientific Research Institute</a></strong> of Armenia to be held on 10 December and is calling for papers. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/preschool-chess-conference-on-10/",
+         "pubDate" : "Mon, 26 Sep 2022 10:59:39 +0100",
+         "title" : "Preschool chess conference on 10 December"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "FIDE WGP Astana: Kateryna Lagno joins the lead"
       },
       {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Sun, 25 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup Finals: Games and standings"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, join a host TBA for the opening ceremony of the 2022 U.S. &amp; U.S. Women&#039;s Championships. The field is: TBA. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions\"><img src=\"https://s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -184,6 +192,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-92-backgrounds-of-structures-2",
          "pubDate" : "Sun, 25 Sep 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 92: Backgrounds of structures (2)"
+      },
+      {
+         "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-jan-sprenger-philospher-and-problemist",
+         "pubDate" : "Sun, 25 Sep 2022 14:55:00 +0100",
+         "title" : "Study of the Month - Jan Sprenger: Philosopher and Problemist"
+      },
+      {
+         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
+         "pubDate" : "Sun, 25 Sep 2022 14:50:00 +0100",
+         "title" : "Generation Cup Finals: Games and standings"
       },
       {
          "description" : "Magnus Carlsen only needed three games to win the first set of the final match against Arjun Erigaisi at the Julius Baer Generation Cup. The world champion now only needs 2 out of 4 points in Sunday's second set to get a remarkable victory in one of his best showings at an online tournament ever.",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2002",
          "pubDate" : "Sat, 24 Sep 2022 19:26:41 +0000",
          "title" : "Free day of WCCC 2022 filled with chess activities"
-      },
-      {
-         "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-jan-sprenger-philospher-and-problemist",
-         "pubDate" : "Sat, 24 Sep 2022 16:00:00 +0100",
-         "title" : "Study of the Month - Jan Sprenger: Philosopher and Problemist"
       },
       {
          "description" : "Mikhail Botvinnik is one of twelve world chess champions Frederic Friedel has met over the years. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
@@ -1346,14 +1362,6 @@ news_feed (
          "title" : "Upcoming Junior Events"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Next Friday, 23 September, teams meet in Lviv, the capital of Western Ukraine, and in Berlin to play a <a href=\"https://perlenvombodensee.de/2022/09/15/vor-dem-ukraine-benefiz-match-wir-kaempfen-wir-bekommen-viel-hilfe-wir-haben-erfolge/\">hybrid rapid match</a> in front of spectators and presence of arbiters, <a href=\"https://www.betterplace.org/de/fundraising-events/42762-chess-for-ukraine-wir-spielen-du-spendest\">raising funds for <strong>Unicef</strong></a> and testing the <strong>Millennium Supreme Tournament</strong> 55 electronic boards. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/lviv-vs-berlin/",
-         "pubDate" : "Fri, 16 Sep 2022 13:02:27 +0100",
-         "title" : "Lviv vs Berlin"
-      },
-      {
          "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
          "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
          "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
-      },
-      {
-         "description" : "Ten international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX. Chess 960 is a variant of chess created by Bobby Fischer in the late 1990s in which the pieces on the home rank are randomized, with 960 representing the number of possible starting positions. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Photo: Crystal Fuller (2021)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-preview",
-         "pubDate" : "Tue, 13 Sep 2022 16:00:00 +0100",
-         "title" : "Chess 9LX: Kasparov joins the fun in Saint Louis"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG\" data-image-dimensions=\"899x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6320966cc31a2106e1d89e25\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we are joined by award winning chess author and renowned trainer, <a href=\"https://en.wikipedia.org/wiki/Jacob_Aagaard\" target=\"_blank\">GM Jacob ",
