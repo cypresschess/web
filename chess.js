@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The amount of decisive results in this tournament is staggering. Not a round has gone by without at least two decisive games, most rounds have between three and four and today no less than five of the six games finished with a winner. Compared to most of the top elite events, the drawing percentage is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/goryachkina-and-lagno-co-lead-fide-womens-grand-prix-astana-2022-with-three-rounds-to-go/",
+         "pubDate" : "Mon, 26 Sep 2022 18:51:53 +0000",
+         "title" : "Goryachkina and Lagno co-lead FIDE Women's Grand Prix Astana 2022 with three rounds to go"
+      },
+      {
          "description" : "Today, Svitlana takes her \"smart moves\" very literal, and presents to us an opening, which you might not have heard of yet. The two knights tango is not a Gambit, but a quite solid offbeat opening, focusing on the power of very early knight development, and asking the opponent to push the pawns forward too hasty. If the opponent commits to pawn moves, the tango knights can dance around the board, and cause some havoc. A fine opening for Black. Other names for this opening are: Black Knights' Tango, Mexican Defence or Kevitz-Trajkovic Defence",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions",
          "pubDate" : "Sun, 25 Sep 2022 15:44:29 +0000",
          "title" : "2022 U.S. Chess Championships: Opening Ceremony & Hall of Fame Inductions"
-      },
-      {
-         "description" : "The 26th edition of the HIT Open&#xA0;took place from 16-22 September 2022 in Nova Gorica, Slovenia. The tournament was played in2 sections: A (for players rated 1500+) and B (for players rated U1600), in 9 rounds, swiss system, with a total prize fund of 5560 euros. IM Matthew Wadsworth won the A tournament scoring unbeaten []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-matthew-wadsworth-wins-26th-hit-chess-open/",
-         "pubDate" : "Sun, 25 Sep 2022 15:40:56 +0000",
-         "title" : "IM Matthew Wadsworth wins 26th HIT Chess Open"
       },
       {
          "description" : " Here's another example of how far we've come in the past century. This is the final position in the game Bogoljubov Thomas, played in the Hastings 6 Masters Tournament on 13 September 1922. Sir George has just checked his opponent, and like the perfect English gentleman he was, has offered a draw. Bogo, on <a href=\"https://chessimprover.com/bogo-meet-lucy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bogo, Meet Lucy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bogo-meet-lucy/\">Bogo, Meet Lucy</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
