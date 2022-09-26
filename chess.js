@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#34;I believe that Niemann has cheated more - and more recently - than he has publicly admitted,&#34; GM Magnus Carlsen wrote in a much-anticipated statement about GM Hans Niemann&#39;s alleged cheating. The world champion posted the statement on Twitter jus...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-statement-niemann-cheating",
+         "pubDate" : "Mon, 26 Sep 2022 12:42:00 -0700",
+         "title" : "Carlsen Comes With Statement: 'I Believe Niemann Has Cheated More'"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen today published the official statement on the controversy related to the cheating allegations against Hans Niemann. Magnus Carlsen withdrew from the Sinquefield Cup 2022 after losing to Hans Niemann in the third round of the event, and two weeks later refused to play against Niemann in the Julius Baer Generation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/breaking-magnus-carlsen-publishes-official-statement-i-believe-that-niemann-has-cheated-more/",
+         "pubDate" : "Mon, 26 Sep 2022 19:41:24 +0000",
+         "title" : "BREAKING! Magnus Carlsen publishes the official statement: I believe that Niemann has cheated more"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "ECU appoints members of ECU/FIDE Commissions"
       },
       {
-         "description" : "American live streamer, YouTuber, esports commentator and competition Ludwig Anders Ahgren, known simply as Ludwig, announced the Mogul Chessboxing Championship, a hybrid event where participants play alternating rounds of chess and boxing until one side wins either by checkmate or knockout.&#xA0; The main event of the Championship features the chessboxing match between GM Aman Hambleton []",
+         "description" : "American live streamer, YouTuber, esports commentator and competition Ludwig Anders Ahgren, known simply as Ludwig, announced the Mogul Chessboxing Championship, a hybrid event where participants play alternating rounds of chess and boxing until one side wins either by checkmate or knockout.&#160; The main event of the Championship features the chessboxing match between GM Aman Hambleton []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/mogul-chessboxing-championship-trent-vs-hambleton/",
@@ -178,20 +194,12 @@ news_feed (
          "title" : "Lagno joins Goryachkina and Zhu Jiner in the lead of FIDE Women's Grand Prix Astana 2022"
       },
       {
-         "description" : "Magnus Carlsen won the Julius Baer Generation Cup today after he convincingly defeated his younger opponent Arjun Erigaisi in the two-day final match. Being asked if the whole &#8220;Carlsen Niemann controversy&#8221; motivated him more to play good, Magnus said: &#8220;I cannot say that 100%, but I haven't felt less motivated&#8220;. He added that he []",
+         "description" : "Magnus Carlsen won the Julius Baer Generation Cup today after he convincingly defeated his younger opponent Arjun Erigaisi in the two-day final match. BREAKING! Magnus Carlsen publishes the official statement: I believe that Niemann has cheated more Being asked if the whole &#8220;Carlsen Niemann controversy&#8221; motivated him more to play good, Magnus said: &#8220;I []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-announces-his-statements-for-the-coming-days-i-want-cheating-in-chess-to-be-dealt-with-seriously/",
          "pubDate" : "Sun, 25 Sep 2022 18:18:00 +0000",
          "title" : "Magnus Carlsen announces his statement(s) for the coming days: I want cheating in chess to be dealt with seriously"
-      },
-      {
-         "description" : "After defeating Arjun Erigaisi in the two-day Julius Baer Generation Cup match with a convincing 2-0 score, Magnus Carlsen clinched the Julius Baer Generation Cup the 7th event of the Meltwater Champions Chess Tour! The first final match was played yesterday and ended with a 2.5-0.5 result in favor of the World Chess Champion. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-julius-baer-generation-cup/",
-         "pubDate" : "Sun, 25 Sep 2022 18:00:13 +0000",
-         "title" : "Magnus Carlsen wins Julius Baer Generation Cup"
       },
       {
          "description" : "",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-champions-showdown-9lx-day-1",
          "pubDate" : "Wed, 14 Sep 2022 18:15:00 -0700",
          "title" : "Nepomniachtchi Claims Perfect Chess960 Start"
-      },
-      {
-         "description" : "The Chess.com Global Chess Championship commenced on Wednesday with the first batch of round of 64 matches. Former World Champion Vladimir Kramnik and GM Sam Sevian swept their matches with perfect 3-0 scores. GM Eric Hansen upset world number 21 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d1",
-         "pubDate" : "Wed, 14 Sep 2022 18:10:00 -0700",
-         "title" : "Kramnik and Sevian Sweep Inaugural Matches"
       },
       {
          "description" : " The Champions Showdown 9LX takes place Wed 14th Sep to Fri 16th Sep 2022 in Saint Louis. The event is a 10 player Round Robin with: Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja, Hikaru Nakamura, Levon Aronian, Fabiano Caruana, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Peter Svidler and Wesley So. As usual I'm not setup to display the actual games because the viewer I use can't handle it. I will have the PGN.",
