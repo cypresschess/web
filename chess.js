@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Mon, 26 Sep 2022 10:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
+         "description" : " <p class=\"lead\">After posting a record score in the Julius Baer Generation Cup Prelims, Magnus Carlsen won the final against 19-year-old Arjun Erigaisi in the minimum possible number of games! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-arjun-erigaisi-julius-baer-generation-cup.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24</div> </div> The Julius Baer Generation Cup 2022 started unorthodoxically for the World Champion, who chose to <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resign on move 2</a> against Hans Niemann. Despite gifting Hans 3 whole po",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-won-against-erigaisi-with-anti-young-player-chess/",
+         "pubDate" : "Mon, 26 Sep 2022 09:23:50 +0000",
+         "title" : "Carlsen won against Erigaisi with \"Anti-young-player chess\""
+      },
+      {
+         "description" : "European Chess Union, taking in account the received applications, the proposals and selections by the Chairpersons, and the wider representation, appointed the following members for ECU Commissions: ECU Arbiters Council: Geert Bailleul (BEL), Chairperson Tania Karali (GRE), Secretary Alon Shulman (ISR), Councillor Alexander Sokolski (POL), Councilor Tamas Gyomber (HUN), Councilor Marco Biagioli (ITA) &#x2013; ECU []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-appoints-members-of-ecu-fide-commissions/",
+         "pubDate" : "Mon, 26 Sep 2022 09:15:08 +0000",
+         "title" : "ECU appoints members of ECU/FIDE Commissions"
+      },
+      {
+         "description" : "American live streamer, YouTuber, esports commentator and competition Ludwig Anders Ahgren, known simply as Ludwig, announced the Mogul Chessboxing Championship, a hybrid event where participants play alternating rounds of chess and boxing until one side wins either by checkmate or knockout.&#xA0; The main event of the Championship features the chessboxing match between GM Aman Hambleton []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mogul-chessboxing-championship-trent-vs-hambleton/",
+         "pubDate" : "Mon, 26 Sep 2022 08:09:17 +0000",
+         "title" : "Mogul Chessboxing Championship - Trent vs Hambleton"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the Julius Baer Generation Cup on Sunday, needing only two games vs. GM Arjun Erigaisi. It was one of the most dominating performances in recent years for the world champion, who announced that he will make a statement about ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2022-julius-baer-generation-cup",
+         "pubDate" : "Mon, 26 Sep 2022 00:45:00 -0700",
+         "title" : "Carlsen Wins Julius Baer Generation Cup, Announces Statement"
+      },
+      {
          "description" : " <p class=\"lead\">World Chess, a global gaming company, will from now on plant a tree for each chess set sold. Beautiful chess sets and beautiful forests can co-exist. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600h900.png\" width=\"1601\" height=\"901\" alt=\"\" /> </div> This environment-conscious initiative is a collaboration with <a href=\"https://onetreeplanted.org\">One Tree Planted</a>, a nonprofit dedicated to global reforestation. The main goal is to plant 10,000 trees over the next 5 years, restoring deforested and fire-affected areas. For every chess set purchased, World Chess will plant one tree in India where its main manufacturing site is located. \"We w",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -162,22 +202,6 @@ news_feed (
          "title" : "Try and avoid this"
       },
       {
-         "description" : "The &#x201C;Shusha Chess 2022&#x201D; international tournament&#160;was held from 21-25 September 2022 in Shusha, Azerbaijan with 10 world-class grandmasters competing in the Open section, and 10 world-known female players competing in the Women's event. The event was dedicated to the 190th&#160;anniversary of prominent poet and philanthropist Khurshidbanu Natavan and featured a total prize fund of 80.000$. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-and-meri-arabidze-win-shusha-chess-2022/",
-         "pubDate" : "Sun, 25 Sep 2022 10:00:30 +0000",
-         "title" : "Shakhriyar Mamedyarov and Meri Arabidze win Shusha Chess 2022"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Sun, 25 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
-      },
-      {
          "description" : "Halfway through the tournament, GM Aleksandra Goryachkina of Russia and WGM Zhu Jiner of China are sharing the lead at the first leg of the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan. The top two players of the Grand Prix will qualify for the n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-final-day-1",
          "pubDate" : "Sun, 25 Sep 2022 01:05:00 -0700",
          "title" : "Carlsen Leads In Final vs. Erigaisi"
-      },
-      {
-         "description" : "The Julius Baer Generation Cup&#xA0;is the 7th event of the Meltwater Champions Chess Tour and takes place from 18-25 September on chess24.com. The event featured 16 world-class players spanning the age spectrum, but the field got cut in half yesterday as the preliminary stage of the event concluded. The top eight players advanced to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-arjun-erigaisi-julius-baer-generation-cup-final-live/",
-         "pubDate" : "Sun, 25 Sep 2022 07:06:00 +0000",
-         "title" : "Magnus Carlsen vs Arjun Erigaisi, Julius Baer Generation Cup Final LIVE"
       },
       {
          "description" : "An action-packed day that saw most of the favorites proceed through their round of 32 matchups took place on Saturday in the Chess.com Global Championship. GM Anish Giri was the standout and was able to win all three of his games with flair agains...",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/generation-cup-final-1-magnus-far-from-satisfied-despite-win",
          "pubDate" : "Sat, 24 Sep 2022 22:31:44 +0000",
          "title" : "Generation Cup Final: Magnus \"far from satisfied\" despite win"
-      },
-      {
-         "description" : "The Elegant English doubles as a pro-level opening guide and a playbook of winning chess strategies &#x2014; enabling you to climb the ranks faster. It&#x2019;s based on a highly instructive variation in the English Opening (1.c4). And with Grandmaster Michael Roiz shedding light on its diverse tactical ideas and positional themes, you&#x2019;ll come out of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-michael-roiz-the-elegant-english/",
-         "pubDate" : "Sat, 24 Sep 2022 22:15:26 +0000",
-         "title" : "GM Michael Roiz - The Elegant English"
       },
       {
          "description" : "",
@@ -1538,14 +1546,6 @@ news_feed (
          "title" : "Champions Showdown 9LX 2022 - Games and Results"
       },
       {
-         "description" : "GM Jeffery Xiong and GM Dmitry Andreikin, the two players with more Titled Tuesday victories than anyone not named GM Hikaru Nakamura, both won another event on September 13. Meanwhile, brothers IM Mykola and GM Oleksandr Bortnyk finished second a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-andreikin-win-titled-tuesday-september-13-2022",
-         "pubDate" : "Wed, 14 Sep 2022 09:12:00 -0700",
-         "title" : "Ukrainian Brothers Push Hard For First Among Familiar Winners"
-      },
-      {
          "description" : "The year was 2013. Magnus Carlsen was about to play his first match against Viswanathan Anand, and he was knee-deep in preparation. Amid this process, Magnus shared an endgame study on Facebook. He captioned the image, \"More preparation. White to move and win, shown from black's side\". A few days later, GM Vidit Gujarathi asked me if I had solved Carlsen's challenge, which was extremely interesting. Dear reader, can you solve the Carlsen challenge?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hans-niemann-beats-carlsen-to-cross-2700-at-the-sinquefield-cup/",
          "pubDate" : "Mon, 05 Sep 2022 11:44:59 +0000",
          "title" : "Hans Niemann beats Carlsen to cross 2700 at the Sinquefield Cup 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1966",
-         "pubDate" : "Mon, 05 Sep 2022 08:18:42 +0000",
-         "title" : "2022 Sinquefield Cup: Niemann beat Carlsen to grab the lead"
       }
    ]
 }
