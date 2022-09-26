@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2005",
+         "pubDate" : "Mon, 26 Sep 2022 19:06:47 +0000",
+         "title" : "FIDE WGP: Goryachkina and Lagno head-to-head in Astana "
+      },
+      {
          "description" : "The amount of decisive results in this tournament is staggering. Not a round has gone by without at least two decisive games, most rounds have between three and four and today no less than five of the six games finished with a winner. Compared to most of the top elite events, the drawing percentage is []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -2056,14 +2064,6 @@ news_feed (
          "link" : "https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/",
          "pubDate" : "Tue, 06 Sep 2022 06:35:47 +0000",
          "title" : "3rd ECU annual training program - Develop practical way of thinking"
-      },
-      {
-         "description" : " For the first time in his career, World Chess Champion Magnus Carlsen leaves the tournament halfway. Surprised commentators and experts debate whether this unprecedented decision is due to Carlsen's suspicions of foul play. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5E80C7B1-CFA0-4697-847F-4FA496FCD632.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen in New York during the World Chess Championship Match</div> </div> A day before, Carlsen lost to <a href=\"https://chessarena.com/profile/211968\">Hans Niemann</a>, a much lower-ranked player. According to chess-news, Niemann has been accused of cheating earlier in his career",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/",
-         "pubDate" : "Mon, 05 Sep 2022 19:12:28 +0000",
-         "title" : "Magnus Carlsen Walks Out Of the Sinquefield Cup"
       }
    ]
 }
