@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the final match of the Julius Baer Generation Cup in the lowest possible number of games. The world champion beat Arjun Erigaisi 2&frac12;-&frac12; in the first set, and then scored back-to-back wins in the second set to secure tournament victory as quickly as it is allowed by the rules. Despite losing the match, Arjun gained a spot in the final major of the Champions Chess Tour season, set to take place in November in San Francisco.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/generation-cup-2022-d8",
+         "pubDate" : "Mon, 26 Sep 2022 04:40:00 +0100",
+         "title" : "Magnus Carlsen rushes to Generation Cup victory"
+      },
+      {
          "description" : "Magnus Carlsen said he played \"anti-young-player chess\" to beat Arjun Erigaisi 2:0 on Day 2 of the Julius Baer Generation Cup final and win the tournament with two games to spare. Arjun never got a chance, but had a great run and has qualified for the final Tour event this year in San Francisco.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -55,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
          "pubDate" : "Sun, 25 Sep 2022 17:50:00 +0100",
-         "title" : "Generation Cup Finals: Live"
+         "title" : "Generation Cup Finals: Games and standings"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, join a host TBA for the opening ceremony of the 2022 U.S. &amp; U.S. Women&#039;s Championships. The field is: TBA. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions\"><img src=\"https://s",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
          "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
          "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
-      },
-      {
-         "description" : "Ten international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX. Chess 960 is a variant of chess created by Bobby Fischer in the late 1990s in which the pieces on the home rank are randomized, with 960 representing the number of possible starting positions. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Photo: Crystal Fuller (2021)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-preview",
-         "pubDate" : "Tue, 13 Sep 2022 16:00:00 +0100",
-         "title" : "Chess 9LX: Kasparov joins the fun in Saint Louis"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG\" data-image-dimensions=\"899x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6320966cc31a2106e1d89e25\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we are joined by award winning chess author and renowned trainer, <a href=\"https://en.wikipedia.org/wiki/Jacob_Aagaard\" target=\"_blank\">GM Jacob ",
