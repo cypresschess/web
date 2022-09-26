@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, Svitlana takes her \"smart moves\" very literal, and presents to us an opening, which you might not have heard of yet. The two knights tango is not a Gambit, but a quite solid offbeat opening, focusing on the power of very early knight development, and asking the opponent to push the pawns forward too hasty. If the opponent commits to pawn moves, the tango knights can dance around the board, and cause some havoc. A fine opening for Black. Other names for this opening are: Black Knights' Tango, Mexican Defence or Kevitz-Trajkovic Defence",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-alekhine-defense-2",
+         "pubDate" : "Mon, 26 Sep 2022 19:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The two knights tango opening"
+      },
+      {
          "description" : "After World Chess Champion Magnus Carlsen won the Julius Baer Generation Cup, he announced to publish the official statement on the controversial happenings related to his withdrawal from Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves. Besides saying that we can expect his statement in the coming days, Carlsen added []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2022",
          "pubDate" : "Wed, 14 Sep 2022 21:23:00 +0400",
          "title" : "Champions Showdown 9LX 2022 - Games and Results"
-      },
-      {
-         "description" : "The year was 2013. Magnus Carlsen was about to play his first match against Viswanathan Anand, and he was knee-deep in preparation. Amid this process, Magnus shared an endgame study on Facebook. He captioned the image, \"More preparation. White to move and win, shown from black's side\". A few days later, GM Vidit Gujarathi asked me if I had solved Carlsen's challenge, which was extremely interesting. Dear reader, can you solve the Carlsen challenge?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/solving-carlsen-challenge",
-         "pubDate" : "Wed, 14 Sep 2022 17:00:00 +0100",
-         "title" : "Solving Carlsen's challenge"
       },
       {
          "description" : "\"Alireza could repeat, following Julius Caesar, veni, vidi, vici, I came, I saw and I won\", said Garry Kasparov at the Closing Ceremony of the Sinquefield Cup in St. Louis. Alireza Firouzja had won it all, but there's still a major event to go, Chess9LX, where Kasparov, Hikaru Nakamura and Peter Svidler will be joining for a battle in Chess960.",
