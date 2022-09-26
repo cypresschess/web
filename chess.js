@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than [what] he has publicly admitted\". | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-statement-on-niemann",
+         "pubDate" : "Mon, 26 Sep 2022 22:15:00 +0100",
+         "title" : "Carlsen's public statement: \"I believe that Niemann has cheated more\""
+      },
+      {
+         "description" : "Magnus Carlsen today published the official statement on the controversy related to the cheating allegations against Hans Niemann. For the first time after his withdrawal from the Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves, Carlsen publicly said that he suspects Niemann was cheating more than the American admitted in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chris-bird-chief-arbiter-of-the-sinquefield-cup-2022-reacts-to-carlsens-statement/",
+         "pubDate" : "Mon, 26 Sep 2022 20:36:34 +0000",
+         "title" : "Chris Bird - Chief Arbiter of the Sinquefield Cup 2022 reacts to Carlsen's statement"
+      },
+      {
          "description" : "&#34;I believe that Niemann has cheated more - and more recently - than he has publicly admitted,&#34; GM Magnus Carlsen wrote in a much-anticipated statement about GM Hans Niemann&#39;s alleged cheating. The world champion posted the statement on Twitter jus...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/lagno-joins-goryachkina-and-zhu-jiner-in-the-lead-of-fide-womens-grand-prix-astana-2022/",
          "pubDate" : "Sun, 25 Sep 2022 19:38:58 +0000",
          "title" : "Lagno joins Goryachkina and Zhu Jiner in the lead of FIDE Women's Grand Prix Astana 2022"
-      },
-      {
-         "description" : "Magnus Carlsen won the Julius Baer Generation Cup today after he convincingly defeated his younger opponent Arjun Erigaisi in the two-day final match. BREAKING! Magnus Carlsen publishes the official statement: I believe that Niemann has cheated more Being asked if the whole &#8220;Carlsen Niemann controversy&#8221; motivated him more to play good, Magnus said: &#8220;I []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-announces-his-statements-for-the-coming-days-i-want-cheating-in-chess-to-be-dealt-with-seriously/",
-         "pubDate" : "Sun, 25 Sep 2022 18:18:00 +0000",
-         "title" : "Magnus Carlsen announces his statement(s) for the coming days: I want cheating in chess to be dealt with seriously"
       },
       {
          "description" : "",
@@ -1560,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1983",
          "pubDate" : "Thu, 15 Sep 2022 13:52:35 +0000",
          "title" : "FIDE World Junior Championship: Deadline extended"
-      },
-      {
-         "description" : "The first three rounds of the Champions Showdown tournament were played at the Saint Louis Chess Club on Wednesday. The event featuring the Chess960 variant saw Ian Nepomniachtchi winning all three of his games, while Garry Kasparov and Peter Svidler did not manage to score on the first day of action. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d1",
-         "pubDate" : "Thu, 15 Sep 2022 11:30:00 +0100",
-         "title" : "Chess 9LX: Nepo's perfect start"
       },
       {
          "description" : "",
