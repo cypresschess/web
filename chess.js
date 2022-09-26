@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A world-famous racing driver who clinched the World Drivers' Championship in 2016, Nico Rosberg, yesterday joined the Julius Baer Generation Cup live studio for the celebrity charity chess challenge. Nico Rosberg played against the World Chess Champion Magnus Carlsen's computer bot that simulates Carlsen's play when he was aged 10. Rosberg had two minutes on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/f1-world-champion-nico-rosberg-challenges-magnus-carlsen-age-10-bot/",
+         "pubDate" : "Mon, 26 Sep 2022 13:03:56 +0000",
+         "title" : "F1 World Champion Nico Rosberg challenges Magnus Carlsen age 10 bot"
+      },
+      {
          "description" : "Once again we will be presenting you with some unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where you can move the pieces to analyse. In one case there will be an engine that will defend against your attempts to win. The solutions with full explanations will be provided in a few days.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "Mogul Chessboxing Championship - Trent vs Hambleton"
       },
       {
-         "description" : "GM Magnus Carlsen won the Julius Baer Generation Cup on Sunday, needing only two games vs. GM Arjun Erigaisi. It was one of the most dominating performances in recent years for the world champion, who announced that he will make a statement about ...",
+         "description" : "GM Magnus Carlsen won the Julius Baer Generation Cup on Sunday, needing just two games vs. GM Arjun Erigaisi. It was one of the most dominating performances in recent years for the world champion, who announced that he will make a statement about ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2022-julius-baer-generation-cup",
@@ -2072,38 +2080,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/chess324-is-thing.html",
          "pubDate" : "Mon, 05 Sep 2022 15:07:00 +0000",
          "title" : "Chess324 Is a Thing"
-      },
-      {
-         "description" : "Entries for this course https://www.englishchess.org.uk/ecf-arbiter-course-registration/ &#8212; will close at 5.00pm tomorrow September 6th. Please enter now if you plan to.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/level-1-arbiter-course-september-2022-closing-date/",
-         "pubDate" : "Mon, 05 Sep 2022 13:14:44 +0000",
-         "title" : "Level 1 Arbiter Course September 2022 closing date"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94006369.cms\" />Grandmaster Aravindh Chithambaram was in the form of his life during the 22nd Dubai Open which concluded on Sunday. The 22-year-old, who won the tournament with 7.5 points from 9 rounds, spoke to TOI on the importance of the victory, taking inspiration from the young guns like R Praggnanandhaa, D Gukesh, Arjun Erigaisi and others and more.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/wasnt-expecting-to-win-the-dubai-open-aravindh-chithambaram/articleshow/94006369.cms",
-         "pubDate" : "Mon, 05 Sep 2022 12:07:53 +0000",
-         "title" : "Wasn't expecting to win the Dubai Open: Aravindh Chithambaram"
-      },
-      {
-         "description" : " In the 2006 Chess Olympiad I went through the event with 1 win, 3 losses and 9 draws(!). On reflection this was probably too many draws, and I should have made a greater effort to convert my advantages. However this was topped by a player at a recent schools event I ran. The player in question drew his first 6 games, and was well on his way to a 7th draw when his opponent instead lost on time. What was remarkable about these draws were that they were all stalemates and I'm pretty sure the player in question was winning in each position. As some of you might now suspect, they seemed to be K+Q v K positions that 'went wrong'. Certainly the two positions I observed fitted this description, and",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/the-draw-master.html",
-         "pubDate" : "Mon, 05 Sep 2022 12:04:00 +0000",
-         "title" : "The Draw Master"
-      },
-      {
-         "description" : " <p class=\"lead\">The lowest-rated player in the Sinquefield Cup 2022, Hans Niemann, outplayed the World Champion Magnus Carlsen with the black pieces in Round 3 to cross 2700 in live ratings and grab sole lead of the tournament. That happens well&hellip; never. At least since 2011. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-Grand-Chess-Tour.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Grand Chess Tour</div> </div> \"Chess speaks for itself\" Hans Niemann stated after beating Magnus Carlsen at Crypto Cup 2022 in Miami. <a href=\"https://twitter.com/ChampChessTour/status/155958292173593804",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hans-niemann-beats-carlsen-to-cross-2700-at-the-sinquefield-cup/",
-         "pubDate" : "Mon, 05 Sep 2022 11:44:59 +0000",
-         "title" : "Hans Niemann beats Carlsen to cross 2700 at the Sinquefield Cup 2022"
       }
    ]
 }
