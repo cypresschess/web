@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After World Chess Champion Magnus Carlsen won the Julius Baer Generation Cup, he announced to publish the official statement on the controversial happenings related to his withdrawal from Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves. Besides saying that we can expect his statement in the coming days, Carlsen added []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kenneth-regan-for-al-jazeera-i-was-in-daily-communication-with-the-sinquefield-cup-organizers/",
+         "pubDate" : "Mon, 26 Sep 2022 16:32:00 +0000",
+         "title" : "Kenneth Regan for Al Jazeera: I was in daily communication with the Sinquefield Cup organizers"
+      },
+      {
          "description" : "In the diagrammed position it is Black to move and he destroyed the white kingside in a most impressive way - I wish you happy sacrificing!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -200,14 +208,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/the-root-of-all-evil.html",
          "pubDate" : "Sun, 25 Sep 2022 15:09:00 +0000",
          "title" : "'The Root of All Evil'?"
-      },
-      {
-         "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;are the finalists of the&#xA0;Julius Baer Generation Cup! The final match of the Julius Baer Generation Cup is played over two days 24-25 September, with two 4-game rapid matches. With a convincing 2.5-0.5 result, Magnus Carlsen took an important victory in the first match of the finals. Arjun Erigaisi now needs to win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/julius-baer-generation-cup-final-match-day-2-live/",
-         "pubDate" : "Sun, 25 Sep 2022 14:50:00 +0000",
-         "title" : "Julius Baer Generation Cup final match - Day 2 LIVE"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 92nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/",
          "pubDate" : "Mon, 05 Sep 2022 19:12:28 +0000",
          "title" : "Magnus Carlsen Walks Out Of the Sinquefield Cup"
-      },
-      {
-         "description" : "Click here https://www.englishchess.org.uk/uk-open-blitz-2022-results-and-qualifiers/ for the results and qualifiers as at 4th September",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-results-and-qulaifiers/",
-         "pubDate" : "Mon, 05 Sep 2022 15:49:50 +0000",
-         "title" : "UK Blitz 2022 - results and qualifiers to date"
       }
    ]
 }
