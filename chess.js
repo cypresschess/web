@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">World Chess, a global gaming company, will from now on plant a tree for each chess set sold. Beautiful chess sets and beautiful forests can co-exist. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600h900.png\" width=\"1601\" height=\"901\" alt=\"\" /> </div> This environment-conscious initiative is a collaboration with <a href=\"https://onetreeplanted.org\">One Tree Planted</a>, a nonprofit dedicated to global reforestation. The main goal is to plant 10,000 trees over the next 5 years, restoring deforested and fire-affected areas. For every chess set purchased, World Chess will plant one tree in India where its main manufacturing site is located. \"We w",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/buy-a-chess-set-plant-a-tree/",
+         "pubDate" : "Mon, 26 Sep 2022 06:52:36 +0000",
+         "title" : "Buy a Chess Set - Plant a Tree"
+      },
+      {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Mon, 26 Sep 2022 06:00:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94445878.cms\" />Teenaged Indian Grandmaster Arjun Erigaisi went down against world no.1 Magnus Carlsen in the final of the Julius Baer Generation Cup online rapid chess tournament, losing the second match 0-2.Having won the first match, the Norwegian had the advantage and he won the first two games of the second match to close out the finale early on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-indian-gm-arjun-erigaisi-goes-down-to-magnus-carlsen-in-final/articleshow/94445878.cms",
+         "pubDate" : "Mon, 26 Sep 2022 05:11:52 +0000",
+         "title" : "Julius Baer Cup: Indian GM Erigaisi goes down to Carlsen in final"
+      },
+      {
          "description" : "Magnus Carlsen won the final match of the Julius Baer Generation Cup in the lowest possible number of games. The world champion beat Arjun Erigaisi 2&frac12;-&frac12; in the first set, and then scored back-to-back wins in the second set to secure tournament victory as quickly as it is allowed by the rules. Despite losing the match, Arjun gained a spot in the final major of the Champions Chess Tour season, set to take place in November in San Francisco.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://chessimprover.com/bogo-meet-lucy/",
          "pubDate" : "Sun, 25 Sep 2022 15:36:12 +0000",
          "title" : "Bogo, Meet Lucy"
+      },
+      {
+         "description" : "In this blog's long-running monthly series on <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), this is the second post in a row to deal with the so-called 'root of all evil'. Last month we had <A HREF=\"http://chessforallages.blogspot.com/2022/08/was-fischer-avaricious.html\">Was Fischer Avaricious?</A>(August 2022). <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/pDWS6hkN5Kw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Who Has Won The Most Money In Chess History?</B> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/the-root-of-all-evil.html",
+         "pubDate" : "Sun, 25 Sep 2022 15:09:00 +0000",
+         "title" : "'The Root of All Evil'?"
       },
       {
          "description" : "Magnus Carlsen&#xA0;and&#xA0;Arjun Erigaisi&#xA0;are the finalists of the&#xA0;Julius Baer Generation Cup! The final match of the Julius Baer Generation Cup is played over two days 24-25 September, with two 4-game rapid matches. With a convincing 2.5-0.5 result, Magnus Carlsen took an important victory in the first match of the finals. Arjun Erigaisi now needs to win []",
@@ -218,7 +250,7 @@ news_feed (
          "title" : "Study of the Month - Jan Sprenger: Philosopher and Problemist"
       },
       {
-         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions, the first of whom Frederic met in the late 1970s and in the 1980s, before and during his involvement with ChessBase. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "description" : "Mikhail Botvinnik is one of twelve world chess champions Frederic Friedel has met over the years. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
@@ -762,14 +794,6 @@ news_feed (
          "title" : "Is Hans Niemann cheating? - World renowned expert Ken Regan analyzes"
       },
       {
-         "description" : "In the diagram position Black played the seemingly innocuous move 31...b5?, which gave White a surprising opportunity to win the game and to show the art of simplification at its best - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/small-move-big-effect",
-         "pubDate" : "Tue, 20 Sep 2022 16:00:00 +0100",
-         "title" : "Small move, big effect!"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG\" data-image-dimensions=\"377x227\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6329ca793a885d55577fa0e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the 2021 US Women's Champion and one of the top junior female players in the world,<a href=\"https://en.wikipedia.org/wiki/Carissa_Yip\" ta",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/what-to-do-where-to-go",
          "pubDate" : "Tue, 20 Sep 2022 09:00:00 +0100",
          "title" : "What to do, where to go?"
-      },
-      {
-         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
-         "pubDate" : "Tue, 20 Sep 2022 06:00:45 +0000",
-         "title" : "Rolling membership introduction"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94317346.cms\" />India's teenaged Grandmaster Arjun Erigaisi jumped to the top position with 17 points after eight rounds, while his compatriot R Praggnanandhaa is in second place with 15 points at the Julius Baer Cup. The much-awaited Praggnanandhaa-Magnus Carlsen clash in round eight ended in a draw. The Indian had beaten the Norwegian ace twice earlier this season in online matches.",
@@ -1608,6 +1624,14 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
          "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
          "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
+      },
+      {
+         "description" : "Ten international chess superstars are set to battle it out over the board from September 13-16 in Champions Showdown: Chess 9LX. Chess 960 is a variant of chess created by Bobby Fischer in the late 1990s in which the pieces on the home rank are randomized, with 960 representing the number of possible starting positions. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Photo: Crystal Fuller (2021)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-9lx-2022-preview",
+         "pubDate" : "Tue, 13 Sep 2022 16:00:00 +0100",
+         "title" : "Chess 9LX: Kasparov joins the fun in Saint Louis"
       },
       {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG\" data-image-dimensions=\"899x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6320966cc31a2106e1d89e25\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we are joined by award winning chess author and renowned trainer, <a href=\"https://en.wikipedia.org/wiki/Jacob_Aagaard\" target=\"_blank\">GM Jacob ",
