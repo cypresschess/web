@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana and Maurice Ashley joined the C-squared podcast tonight speaking live about the official statement by Magnus Carlsen. Carlsen said that he believes Niemann has cheated more than he publicly admitted, adding that cheating is an existential threat to the game. Fabiano Caruana agreed: &#8220;I think undoubtedly it's a threat to the entire nature []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-and-maurice-ashley-comment-on-carlsens-statement-c-squared-podcast/",
+         "pubDate" : "Mon, 26 Sep 2022 23:24:07 +0000",
+         "title" : "Fabiano Caruana and Maurice Ashley comment on Carlsen's statement (C-Squared podcast)"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen today published&#160;the official statement&#160;on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. He added that he believes &#x201C;chess organizers and all those who care about the sanctity of the game we love should seriously consider increasing security measures and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/is-carlsens-statement-the-end-the-beginning-of-the-end-or-only-the-end-of-the-beginning-tweetoftheday/",
+         "pubDate" : "Mon, 26 Sep 2022 21:30:34 +0000",
+         "title" : "Is Carlsen's statement the end, the beginning of the end, or only the end of the beginning? #TweetOftheDay"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen today published&#xA0;the official statement&#xA0;on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. He added that he believes &#x201C;chess organizers and all those who care about the sanctity of the game we love should seriously consider increasing security measures and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reactions-to-magnus-carlsens-official-statement/",
+         "pubDate" : "Mon, 26 Sep 2022 21:21:04 +0000",
+         "title" : "Reactions to Magnus Carlsen's official statement"
+      },
+      {
          "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than [what] he has publicly admitted\". | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +42,20 @@ news_feed (
          "title" : "Chris Bird - Chief Arbiter of the Sinquefield Cup 2022 reacts to Carlsen's statement"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://twitter.com/MagnusCarlsen/status/1574482694406565888\">clarified in an open letter</a> that his boycott of <strong>Hans Niemann</strong> is connected with his belief that the young American has cheated more often and more recently than he admitted and that Niemann wasn't even fully concentrated while he beat him. Carlsen mentions that he considered to withdraw from the <strong>Sinquefield Cup</strong> when Niemann replaced Rapport, and that he will not play against repeat-offenders such as he considers Niemann. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsen-wont-play-cheaters-like/",
+         "pubDate" : "Mon, 26 Sep 2022 21:29:06 +0100",
+         "title" : "Carlsen won't play cheaters like Niemann"
+      },
+      {
          "description" : "&#34;I believe that Niemann has cheated more - and more recently - than he has publicly admitted,&#34; GM Magnus Carlsen wrote in a much-anticipated statement about GM Hans Niemann&#39;s alleged cheating. The world champion posted the statement on Twitter jus...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-statement-niemann-cheating",
          "pubDate" : "Mon, 26 Sep 2022 12:42:00 -0700",
-         "title" : "Carlsen Comes With Statement: 'I Believe Niemann Has Cheated More'"
+         "title" : "Carlsen Makes Statement: 'I Believe Niemann Has Cheated More'"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen today published the official statement on the controversy related to the cheating allegations against Hans Niemann. Magnus Carlsen withdrew from the Sinquefield Cup 2022 after losing to Hans Niemann in the third round of the event, and two weeks later refused to play against Niemann in the Julius Baer Generation []",
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2005",
          "pubDate" : "Mon, 26 Sep 2022 19:06:47 +0000",
          "title" : "FIDE WGP: Goryachkina and Lagno head-to-head in Astana "
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen today published the official statement on the recent &#8220;Carlsen Niemann&#8221; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. Hikaru Nakamura commented on Carlsen's statement during his live stream saying that he believes Carlsen thinks that Hans Niemann cheated in the game they played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-on-carlsens-statement-it-seems-to-me-that-carlsen-thinks-hans-was-cheating-in-the-game-they-played-at-the-sinquefield-cup/",
+         "pubDate" : "Mon, 26 Sep 2022 19:06:00 +0000",
+         "title" : "Nakamura on Carlsen's statement: It seems to me that Carlsen thinks Hans was cheating in the game they played at the Sinquefield Cup"
       },
       {
          "description" : "The amount of decisive results in this tournament is staggering. Not a round has gone by without at least two decisive games, most rounds have between three and four and today no less than five of the six games finished with a winner. Compared to most of the top elite events, the drawing percentage is []",
@@ -130,22 +170,6 @@ news_feed (
          "title" : "Carlsen won against Erigaisi with \"Anti-young-player chess\""
       },
       {
-         "description" : "European Chess Union, taking in account the received applications, the proposals and selections by the Chairpersons, and the wider representation, appointed the following members for ECU Commissions: ECU Arbiters Council: Geert Bailleul (BEL), Chairperson Tania Karali (GRE), Secretary Alon Shulman (ISR), Councillor Alexander Sokolski (POL), Councilor Tamas Gyomber (HUN), Councilor Marco Biagioli (ITA) &#x2013; ECU []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-appoints-members-of-ecu-fide-commissions/",
-         "pubDate" : "Mon, 26 Sep 2022 09:15:08 +0000",
-         "title" : "ECU appoints members of ECU/FIDE Commissions"
-      },
-      {
-         "description" : "American live streamer, YouTuber, esports commentator and competition Ludwig Anders Ahgren, known simply as Ludwig, announced the Mogul Chessboxing Championship, a hybrid event where participants play alternating rounds of chess and boxing until one side wins either by checkmate or knockout.&#160; The main event of the Championship features the chessboxing match between GM Aman Hambleton []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mogul-chessboxing-championship-trent-vs-hambleton/",
-         "pubDate" : "Mon, 26 Sep 2022 08:09:17 +0000",
-         "title" : "Mogul Chessboxing Championship - Trent vs Hambleton"
-      },
-      {
          "description" : "GM Magnus Carlsen won the Julius Baer Generation Cup on Sunday, needing just two games vs. GM Arjun Erigaisi. It was one of the most dominating performances in recent years for the world champion, who announced that he will make a statement about ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2003",
          "pubDate" : "Sun, 25 Sep 2022 20:02:24 +0000",
          "title" : "Magnus Carlsen wins Julius Baer Generation Cup"
-      },
-      {
-         "description" : "Grand Prix events are long and tiring. Eleven games plus travel essentially means two full weeks abroad, in addition to time allocated for training purposes. The free day at the halfway point of the event is very much appreciated by the players &#x2013; and officials/volunteers &#x2013; to recharge their batteries for the last rounds. Most []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lagno-joins-goryachkina-and-zhu-jiner-in-the-lead-of-fide-womens-grand-prix-astana-2022/",
-         "pubDate" : "Sun, 25 Sep 2022 19:38:58 +0000",
-         "title" : "Lagno joins Goryachkina and Zhu Jiner in the lead of FIDE Women's Grand Prix Astana 2022"
       },
       {
          "description" : "",
@@ -1256,14 +1272,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/caruana-wins-fischer-tournament-in/",
          "pubDate" : "Sat, 17 Sep 2022 19:09:42 +0100",
          "title" : "Caruana wins Fischer tournament in St. Louis"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>International Society for Applied Chess</strong> celebrates its fifth anniversary with an <a href=\"https://www.chess-science.com/wp-content/uploads/2022/08/ISACchess-conference-2022.pdf\">online conference</a> on \"Bio-psycho social applications of the game chess\" held online on 15 October. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/social-applications-conference-on-15/",
-         "pubDate" : "Sat, 17 Sep 2022 18:28:29 +0100",
-         "title" : "Social applications conference on 15 October"
       },
       {
          "description" : "Some readers may have heard of this special tactics training regime, while others will wonder about the gimmicky sounding name. This is the name given to an intensive but very effective training method by the Swedish grandmaster Tikkanen, which just so happens to be a dream fit for the Replay Training feature in ChessBase 16. See how you can get this best of both worlds and watch the video to demonstrate!",
