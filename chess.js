@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position it is Black to move and he destroyed the white kingside in a most impressive way - I wish you happy sacrificing!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-marshall-attack--la-svidler",
+         "pubDate" : "Mon, 26 Sep 2022 16:00:00 +0100",
+         "title" : "The Marshall attack &agrave; la Svidler"
+      },
+      {
+         "description" : "The Cantabrians from C.A. Solvay were crowned champions of the Spanish League's 'Divisi&oacute;n de Honor' after securing a decisive victory over Magic Extremadura in the final round. The team led by Pentala Harikrishna and Gukesh Dommaraju was the only one of four co-leaders to get a win in Saturday's seventh round. DuoBeniaj&aacute;n Costa C&aacute;lida from Murcia and Magic from Extremadura got second and third place, respectively. | Photos: Spanish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ca-solvay-wins-spanish-league",
+         "pubDate" : "Mon, 26 Sep 2022 16:00:00 +0100",
+         "title" : "C.A. Solvay wins Spanish League, Gukesh shines"
+      },
+      {
+         "description" : "The greatly anticipated course by Vladimir Kramnik Understanding Chess Openings with 1.e4 is finally here! With a brand new Part 3, the 14th World Champion reveals his &#8216;user manual' for playing and winning with 1.e4. Get your copy of Understanding Chess Openings with Vladimir Kramnik part 1 here / Understanding Chess Openings with Vladimir []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladimir-kramnik-understanding-chess-openings-with-1-e4/",
+         "pubDate" : "Mon, 26 Sep 2022 13:46:52 +0000",
+         "title" : "Vladimir Kramnik - Understanding Chess Openings with 1.e4"
+      },
+      {
          "description" : "A world-famous racing driver who clinched the World Drivers' Championship in 2016, Nico Rosberg, yesterday joined the Julius Baer Generation Cup live studio for the celebrity charity chess challenge. Nico Rosberg played against the World Chess Champion Magnus Carlsen's computer bot that simulates Carlsen's play when he was aged 10. Rosberg had two minutes on []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/julius-baer-generation-cup-final-match-day-2-live/",
          "pubDate" : "Sun, 25 Sep 2022 14:50:00 +0000",
          "title" : "Julius Baer Generation Cup final match - Day 2 LIVE"
-      },
-      {
-         "description" : "Famous musician, singer, and songwriter Gordon Matthew Thomas Sumner, known as&#xA0;Sting, published an interesting photo with the former World Chess Champion Garry Kasparov. &#8220;Breakfast in Helsinki with Garry Kasparov, one of my heroes&#8220;, wrote Sting. Garry Kasparov tweeted that he is glad to see his friend Sting in Helsinki, adding that they had more fun []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sting-kasparov-is-one-of-my-heroes-tweetoftheday/",
-         "pubDate" : "Sun, 25 Sep 2022 14:18:43 +0000",
-         "title" : "Sting: Kasparov is one of my heroes! #TweetOftheDay"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 92nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
@@ -1610,28 +1626,12 @@ news_feed (
          "title" : "Revisited: 15-minute broadcast delay"
       },
       {
-         "description" : "FIDE, jointly with the Cook County (Chicago) Sheriff's office, will hold the second Intercontinental Online Chess Championship for Prisoners. The tournament is set to take place on the International Day of Education in Prison, from 13-14 October. The online event is open to male, female and youth teams representing correctional facilities. So far, prisons and correctional facilities from 20 countries have registered for the competition.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/inmates-preparing-for-prisoners-chess-championship",
-         "pubDate" : "Wed, 14 Sep 2022 10:30:00 +0100",
-         "title" : "Inmates around the world getting ready for Prisoners Online Chess Championship"
-      },
-      {
          "description" : "ECU Board decided to establish two new Commissions the &#8220;Media &#38; Communication Commission&#8221; and the Social Commission. ECU Media and Communication Commission &#8220;MCC&#8221; has as main task to develop strategies and propose measures to improve ECU &#8216;s communication with mainstream media and press coverage of ECU events as also to propose actions to improve ECU social media accounts&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-establishes-media-and-social-commissions/",
          "pubDate" : "Wed, 14 Sep 2022 09:26:17 +0000",
          "title" : "ECU establishes Media and Social Commissions"
-      },
-      {
-         "description" : "Alexander Alekhine was one of the greatest in chess. The skill of the world champion, who died under mysterious circumstances in 1946, emanates to this day, as proved by a letter that chess enthusiast Ludger Br&ouml;ring discovered on Alekhine's grave at the Cimetière du Montparnasse in Paris.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-letter-to-alekhine",
-         "pubDate" : "Wed, 14 Sep 2022 07:00:00 +0100",
-         "title" : "A letter to Alekhine"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen The first game below is proof that Magnus follows his own advice. Let's see it: Magnus claimed the draw to the arbiter without playing 19. Ke2. Is this a correct <a href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD 5.Bf4, repetition Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\">Need sure points? QGD 5.Bf4, repetition Edition</a> appeared firs",
