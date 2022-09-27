@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament. Rumors that Magnus Carlsen suspected Niemann was cheating were spreading over social medias, when Magnus Carlsen put more wood in the fire as he refused to play against Hans Niemann in the Julius []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sergey-karjakin-on-carlsens-statement-niemanns-guilt-has-not-been-proven-but-there-is-no-smoke-without-fire/",
+         "pubDate" : "Tue, 27 Sep 2022 14:56:59 +0000",
+         "title" : "Sergey Karjakin on Carlsen's statement: Niemann's guilt has not been proven, but there is no smoke without fire"
+      },
+      {
+         "description" : "World chess champion Magnus Carlsen said on Monday he believes Hans Niemann has \"cheated more -- and more recently -- than he has publicly admitted\" and that he no longer wants to play against the American.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/34675094/chess-cheating-saga-magnus-carlsen-accuses-hans-niemann-refuses-play-american-again?device=featurephone",
+         "pubDate" : "Tue, 27 Sep 2022 09:40:33 -0500",
+         "title" : "Chess No. 1 Carlsen accuses rival of cheating"
+      },
+      {
          "description" : " Today saw the finish to the 2022 ACT Under 14 Championships. The field of 21 players was a mixture of established junior talent, and enthusiastic newcomers. In the end the tournament was dominated by Masaki Horikawa and Charles Huang, who tied for 1st on 5.5/6. The subsequent playoff game was drawn, meaning that Horikawa won the Under 14 trophy on countback. As this event was combined with the Under 12 Championship, Huang collected that prize, meaning he has won the ACT Under 8's, 10's 14's and now the 12's over the last few years. While some of the field was there for serious competition, the real highlight for most were the endless games of bughouse played between the rounds. Normally I f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2006",
          "pubDate" : "Mon, 26 Sep 2022 20:59:54 +0000",
          "title" : "Fifth Chess in Education Lecturer course announced"
-      },
-      {
-         "description" : "Magnus Carlsen today published the official statement on the controversy related to the cheating allegations against Hans Niemann. For the first time after his withdrawal from the Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves, Carlsen publicly said that he suspects Niemann was cheating more than the American admitted in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chris-bird-chief-arbiter-of-the-sinquefield-cup-2022-reacts-to-carlsens-statement/",
-         "pubDate" : "Mon, 26 Sep 2022 20:36:34 +0000",
-         "title" : "Chris Bird - Chief Arbiter of the Sinquefield Cup 2022 reacts to Carlsen's statement"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://twitter.com/MagnusCarlsen/status/1574482694406565888\">clarified in an open letter</a> that his boycott of <strong>Hans Niemann</strong> is connected with his belief that the young American has cheated more often and more recently than he admitted and that Niemann wasn't even fully concentrated while he beat him. Carlsen mentions that he considered to withdraw from the <strong>Sinquefield Cup</strong> when Niemann replaced Rapport, and that he will not play against repeat-offenders such as he considers Niemann. </div> ",
@@ -1594,14 +1602,6 @@ news_feed (
          "title" : "FIDE World Cadet Chess Championships kick off in Batumi, Georgia"
       },
       {
-         "description" : "Dutch IM and well-known trainer Robert Ris has recorded a two-volume FritzTrainer in which he presents a complete Black repertoire against the opening moves 1.d4,c4 and 1.Nf3. His repertoire is based on the Queen's Gambit Accepted after 1.d4 d5 2.c4. Free piece play is the idea. Philipp Hillebrand took an in-depth look at the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-complete-black-repertoire-against-1-d4-a-review",
-         "pubDate" : "Thu, 15 Sep 2022 18:45:00 +0100",
-         "title" : "Robert Ris' complete black repertoire against 1.d4 - A review"
-      },
-      {
          "description" : "Ian Nepomniachtchi has taken the sole lead in the Champions Showdown: Chess 9LX tournament in St Louis with a perfect 3/3 start. A rusty Garry Kasparov could not convert a promising position and remains without a point.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2056,14 +2056,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/thank-you-jose-mourinho-we-named-a-tournament-after-you/",
          "pubDate" : "Tue, 06 Sep 2022 21:43:41 +0000",
          "title" : "Thank You, Jose Mourinho! We Named a Tournament After You"
-      },
-      {
-         "description" : " The Sinquefield Cup was rocked after world champion Magnus Carlsen withdrew from the tournament after losing to Hans Moke Niemann the previous round. Carlsen tweeted his decision and included a video of Jos&eacute; Mourinho, head coach of Italian Serie A Club Roma. Mourinho has a history of accusing referees of cheating against his teams with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/\">Carlsen bolts Sinquefield after loss; rumors swirl</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/",
-         "pubDate" : "Tue, 06 Sep 2022 14:43:58 +0000",
-         "title" : "Carlsen bolts Sinquefield after loss; rumors swirl"
       }
    ]
 }
