@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94466344.cms\" />World chess champion Magnus Carlsen said on Monday he believed Hans Niemann had \"cheated more - and more recently - than he has publicly admitted\", adding he no longer wanted to play against the American and any rivals who repeatedly cheated in the past.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-magnus-carlsen-alleges-niemann-has-cheated-more-than-he-admits/articleshow/94466344.cms",
+         "pubDate" : "Tue, 27 Sep 2022 02:43:22 +0000",
+         "title" : "World champion Magnus Carlsen alleges Niemann has cheated more than he admits"
+      },
+      {
+         "description" : "Magnus Carlsen has finally made his promised statement that once more blows open the divisive scandal that has been rocking the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-accuses-niemann-of-cheating-more-and-more-recently-than-he-admits",
+         "pubDate" : "Tue, 27 Sep 2022 02:12:45 +0000",
+         "title" : "Carlsen accuses Niemann of cheating \"more - and more recently - than he admits\""
+      },
+      {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and GM Nigel Davies asked for direct and quick action to minimize damage in chess saying that FIDE Ethics []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-nigel-davies-on-carlsens-statement-this-is-a-very-clear-accusation-of-cheating-but-without-actual-evidence/",
+         "pubDate" : "Mon, 26 Sep 2022 23:45:21 +0000",
+         "title" : "GM Nigel Davies on Carlsen's statement: This is a very clear accusation of cheating, but without actual evidence"
+      },
+      {
          "description" : "Fabiano Caruana and Maurice Ashley joined the C-squared podcast tonight speaking live about the official statement by Magnus Carlsen. Carlsen said that he believes Niemann has cheated more than he publicly admitted, adding that cheating is an existential threat to the game. Fabiano Caruana agreed: &#8220;I think undoubtedly it's a threat to the entire nature []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Is Carlsen's statement the end, the beginning of the end, or only the end of the beginning? #TweetOftheDay"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen today published&#xA0;the official statement&#xA0;on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. He added that he believes &#x201C;chess organizers and all those who care about the sanctity of the game we love should seriously consider increasing security measures and []",
+         "description" : "World Chess Champion Magnus Carlsen today published&#160;the official statement&#160;on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. He added that he believes &#x201C;chess organizers and all those who care about the sanctity of the game we love should seriously consider increasing security measures and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/reactions-to-magnus-carlsens-official-statement/",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Reactions to Magnus Carlsen's official statement"
       },
       {
-         "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than [what] he has publicly admitted\". | Photo: Amruta Mokal",
+         "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than he has publicly admitted\". | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/carlsen-statement-on-niemann",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Carlsen won't play cheaters like Niemann"
       },
       {
-         "description" : "&#34;I believe that Niemann has cheated more - and more recently - than he has publicly admitted,&#34; GM Magnus Carlsen wrote in a much-anticipated statement about GM Hans Niemann&#39;s alleged cheating. The world champion posted the statement on Twitter jus...",
+         "description" : "&#34;I believe that Niemann has cheated more &#38;mdash; and more recently &#38;mdash; than he has publicly admitted,&#34; GM Magnus Carlsen wrote in a much-anticipated statement about GM Hans Niemann&#39;s alleged cheating. The world champion posted the statement on...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-statement-niemann-cheating",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/vladimir-kramnik-understanding-chess-openings-with-1-e4/",
          "pubDate" : "Mon, 26 Sep 2022 13:46:52 +0000",
          "title" : "Vladimir Kramnik - Understanding Chess Openings with 1.e4"
-      },
-      {
-         "description" : "A world-famous racing driver who clinched the World Drivers' Championship in 2016, Nico Rosberg, yesterday joined the Julius Baer Generation Cup live studio for the celebrity charity chess challenge. Nico Rosberg played against the World Chess Champion Magnus Carlsen's computer bot that simulates Carlsen's play when he was aged 10. Rosberg had two minutes on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/f1-world-champion-nico-rosberg-challenges-magnus-carlsen-age-10-bot/",
-         "pubDate" : "Mon, 26 Sep 2022 13:03:56 +0000",
-         "title" : "F1 World Champion Nico Rosberg challenges Magnus Carlsen age 10 bot"
       },
       {
          "description" : "Once again we will be presenting you with some unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where you can move the pieces to analyse. In one case there will be an engine that will defend against your attempts to win. The solutions with full explanations will be provided in a few days.",
@@ -1800,14 +1816,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-first-round-2/",
          "pubDate" : "Sun, 11 Sep 2022 09:29:01 +0000",
          "title" : "The First Round"
-      },
-      {
-         "description" : "Alireza Firouzja won a lost position to beat Wesley So in Round 8 of the Sinquefield Cup, putting him on the verge of a $100,000 bonus for winning the Grand Chess Tour. Firouzja is level with Ian Nepomniachtchi, who beat Levon Aronian, and Fabiano Caruana, who ended his Sinquefield Cup by knocking Hans Niemann out of the 2700 club.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sinquefield-cup-8-firouzja-leapfrogs-so",
-         "pubDate" : "Sun, 11 Sep 2022 08:13:43 +0000",
-         "title" : "Sinquefield Cup 8: Firouzja leapfrogs So"
       },
       {
          "description" : "",
