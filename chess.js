@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From September 21 to 24 week a strong rapid and blitz tournament was held in Shusha, a town in Nagorno-Karabakh. Shakhriyar Mamedyarov won the open event, Nana Dzagnidze won the women's event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mamedyarov-and-dzagnidze-win-strong-rapid-and-blitz-tournament-in-nagorno-karabakh",
+         "pubDate" : "Tue, 27 Sep 2022 13:02:55 +0100",
+         "title" : "Mamedyarov and Dzagnidze win strong rapid and blitz tournament in Azerbaijan"
+      },
+      {
          "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament. Rumors that Magnus Carlsen suspected Niemann was cheating were spreading over social medias, when Magnus Carlsen put more wood in the fire as he refused to play against Hans Niemann in the Julius []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-9lx-2022-d2",
          "pubDate" : "Thu, 15 Sep 2022 18:35:00 +0100",
          "title" : "Chess 9LX: Firouzja and Mamedyarov share the lead"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show, Merijn van Delft looks at a razor-sharp encounter between Alireza Firouzja and Wesley So. A crucial game which shed some light on current top-level chess trends. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-533-firouzja-so",
-         "pubDate" : "Thu, 15 Sep 2022 18:30:00 +0100",
-         "title" : "Game of the Week #533: Firouzja vs. So"
       },
       {
          "description" : "Ian Nepomniachtchi has taken the sole lead in the Champions Showdown: Chess 9LX tournament in St Louis with a perfect 3/3 start. A rusty Garry Kasparov could not convert a promising position and remains without a point.",
