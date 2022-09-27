@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position it is Black to move. Endgames with bishops of opposite colours have large drawish tendencies but here Black's passed b-pawn and the active black king are more important. How should Black proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/activity",
+         "pubDate" : "Tue, 27 Sep 2022 09:00:00 +0100",
+         "title" : "Activity!"
+      },
+      {
+         "description" : "The Managing Editor Thinkers Publishing, Chess Grandmaster, Chess Coach GM Romain Edouard commented on the latest statement by Magnus Carlsen regarding the ongoing Carlsen Niemann cheating allegations drama. Romain says, &#8220;Magnus Carlsen has done everything right so far, and with class. The argument that he is a cry-baby is absurd he has never []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romain-edouard-magnus-carlsen-has-done-everything-right-so-far-and-with-class/",
+         "pubDate" : "Tue, 27 Sep 2022 07:21:13 +0000",
+         "title" : "Romain Edouard: Magnus Carlsen has done everything right so far, and with class"
+      },
+      {
+         "description" : "An exciting eighth round at the Women's Grand Prix in Astana, with five out of six games ending decisively, left Aleksandra Goryachkina and Kateryna Lagno (pictured) sharing the lead on 6/8 points. Notably, Goryachkina defeated former co-leader Zhu Jiner with the white pieces. Zhu now stands in sole third place, a full point behind the leaders. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r8",
+         "pubDate" : "Tue, 27 Sep 2022 05:35:00 +0100",
+         "title" : "Astana GP: Exciting round leaves Lagno and Goryachkina in the shared lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94466344.cms\" />World chess champion Magnus Carlsen said on Monday he believed Hans Niemann had \"cheated more - and more recently - than he has publicly admitted\", adding he no longer wanted to play against the American and any rivals who repeatedly cheated in the past.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -146,14 +170,6 @@ news_feed (
          "title" : "C.A. Solvay wins Spanish League, Gukesh shines"
       },
       {
-         "description" : "The greatly anticipated course by Vladimir Kramnik Understanding Chess Openings with 1.e4 is finally here! With a brand new Part 3, the 14th World Champion reveals his &#8216;user manual' for playing and winning with 1.e4. Get your copy of Understanding Chess Openings with Vladimir Kramnik part 1 here / Understanding Chess Openings with Vladimir []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladimir-kramnik-understanding-chess-openings-with-1-e4/",
-         "pubDate" : "Mon, 26 Sep 2022 13:46:52 +0000",
-         "title" : "Vladimir Kramnik - Understanding Chess Openings with 1.e4"
-      },
-      {
          "description" : "Once again we will be presenting you with some unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where you can move the pieces to analyse. In one case there will be an engine that will defend against your attempts to win. The solutions with full explanations will be provided in a few days.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/preschool-chess-conference-on-10/",
          "pubDate" : "Mon, 26 Sep 2022 10:59:39 +0100",
          "title" : "Preschool chess conference on 10 December"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Mon, 26 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : " <p class=\"lead\">After posting a record score in the Julius Baer Generation Cup Prelims, Magnus Carlsen won the final against 19-year-old Arjun Erigaisi in the minimum possible number of games! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-arjun-erigaisi-julius-baer-generation-cup.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24</div> </div> The Julius Baer Generation Cup 2022 started unorthodoxically for the World Champion, who chose to <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resign on move 2</a> against Hans Niemann. Despite gifting Hans 3 whole po",
@@ -1578,14 +1586,6 @@ news_feed (
          "title" : "Replay Training: a hidden gem in ChessBase"
       },
       {
-         "description" : "World Champion Alexander Alekhine successfully played an unusual opening in the 1920s, one that would later be named after him. For White, the opening is annoying because, although it looks unplayable for Black at first, it is very much playable for his opponent. Furthermore, although it is called \"Alekhine's Defence\" it is seemingly more suitable for attacking players, which we will learn from today's video. Svitlana enjoys this opening big time, and shares her knowledge with us.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-alekhine-defense",
-         "pubDate" : "Thu, 15 Sep 2022 16:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Alekhine's Defense"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2072,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1967",
          "pubDate" : "Tue, 06 Sep 2022 07:52:28 +0000",
          "title" : "2022 Sinquefield Cup: Carlsen withdraws, So in the lead"
-      },
-      {
-         "description" : "European Chess Union and European Chess Academy, supported by FIDE Development Fund, announce the annual training program in period from November 27th 2022 to May 20th 2023. The lecturers are: GM and FST Adrian Mikhalchishin, GM and FST Georg Mohr, and IM and FT Tadej Sakelsek. The ECU annual training program is open for all ages and levels&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/3rd-ecu-annual-training-program-develop-practical-way-of-thinking/",
-         "pubDate" : "Tue, 06 Sep 2022 06:35:47 +0000",
-         "title" : "3rd ECU annual training program - Develop practical way of thinking"
       }
    ]
 }
