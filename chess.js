@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The disgraceful comments of Ilya Smirin on women chess created a much deserved reaction from the chess community. Yet, FIDE does not seem to take any immediate action on the issue. Instead, FIDE's Director General made the situation worse by saying, &#8220;I spoke to GM Smirin. He sincerely apologized, and promised to bring an apology []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/why-is-gm-smirin-on-air-tomorrow-tweetoftheday/",
+         "pubDate" : "Tue, 27 Sep 2022 22:56:37 +0000",
+         "title" : "Why is GM Smirin on air tomorrow? #TweetOftheDay"
+      },
+      {
+         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;series&#xA0;takes place from 17-30 September 2022 in Nur-Sultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara Assaubayeva,&#xA0;Dinara Wagner&#xA0;and&#xA0;Vaishali R&#xA0;(All information&#xA0;/&#xA0;Final list of participants and players allocation) Katerina Lagno with 7,0/9 and Alexandra Goryachkina []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/unacceptable-gm-ilya-smirin-claims-chess-is-not-for-women-during-the-official-women-gp-stream/",
+         "pubDate" : "Tue, 27 Sep 2022 22:45:08 +0000",
+         "title" : "Unacceptable: GM Ilya Smirin claims \"Chess is not for women\" during the official Women GP stream"
+      },
+      {
          "description" : "Cheating allegations and the recent &#8220;Carlsen Niemann&#8221; chess drama became the top story of the news channels, magazines, and newspapers worldwide, among them: CNN, BBC, Al Jazeera, Vice, DW News, The Guardian, Washington Post, The Ney York Times etc. Magnus Carlsen yesterday published the official statement on the whole case, publicly accusing Hans Niemann []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -154,7 +170,7 @@ news_feed (
          "title" : "Women's Grand Prix Astana: Live"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/anish-giri-reveals-moves-of-the-beach-game-between-niemann-and-carlsen/",
@@ -186,14 +202,6 @@ news_feed (
          "title" : "Ramesh RB: FIDE should have devised a good practical solution to the cheating problem years ago"
       },
       {
-         "description" : "The Managing Editor Thinkers Publishing, Chess Grandmaster, Chess Coach GM Romain Edouard commented on the latest statement by Magnus Carlsen regarding the ongoing Carlsen Niemann cheating allegations drama. Romain says, &#8220;Magnus Carlsen has done everything right so far, and with class. The argument that he is a cry-baby is absurd he has never []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romain-edouard-magnus-carlsen-has-done-everything-right-so-far-and-with-class/",
-         "pubDate" : "Tue, 27 Sep 2022 07:21:13 +0000",
-         "title" : "Romain Edouard: Magnus Carlsen has done everything right so far, and with class"
-      },
-      {
          "description" : "An exciting eighth round at the Women's Grand Prix in Astana, with five out of six games ending decisively, left Aleksandra Goryachkina and Kateryna Lagno (pictured) sharing the lead on 6/8 points. Notably, Goryachkina defeated former co-leader Zhu Jiner with the white pieces. Zhu now stands in sole third place, a full point behind the leaders. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,14 +224,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-accuses-niemann-of-cheating-more-and-more-recently-than-he-admits",
          "pubDate" : "Tue, 27 Sep 2022 02:12:45 +0000",
          "title" : "Carlsen accuses Niemann of cheating \"more - and more recently - than he admits\""
-      },
-      {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen withdraw&#xA0;from the tournament without detailed explanations. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias, and GM Nigel Davies asked for direct and quick action to minimize damage in chess saying that FIDE Ethics []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-nigel-davies-on-carlsens-statement-this-is-a-very-clear-accusation-of-cheating-but-without-actual-evidence/",
-         "pubDate" : "Mon, 26 Sep 2022 23:45:21 +0000",
-         "title" : "GM Nigel Davies on Carlsen's statement: This is a very clear accusation of cheating, but without actual evidence"
       },
       {
          "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than he has publicly admitted\". | Photo: Amruta Mokal",
@@ -2080,14 +2080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1968",
          "pubDate" : "Wed, 07 Sep 2022 05:31:41 +0000",
          "title" : "2022 Sinquefield Cup - Day 5 Recap"
-      },
-      {
-         "description" : " &#8220;American Chess Magazine has been launched in November 2016 to help readers keep in touch with all the most significant happenings in the exciting world of present-day chess, both at home and abroad.&#8221; https://acmchess.com/ It is possible you will find below selection easy to solve. In anticipation of that, I am adding one more challenge. <a href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess 2022 March Exotic Wackos\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-2022-march-exotic-wackos/\">Chess 2022 March Exotic Wackos</a> appeared first on <a rel=\"nofollow\" href",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-2022-march-exotic-wackos/",
-         "pubDate" : "Tue, 06 Sep 2022 22:35:35 +0000",
-         "title" : "Chess 2022 - March Exotic Wackos"
       }
    ]
 }
