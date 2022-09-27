@@ -410,7 +410,7 @@ news_feed (
          "title" : "Generation Cup Final: Magnus \"far from satisfied\" despite win"
       },
       {
-         "description" : "Der erste der zw&ouml;lf Schachweltmeister, mit denen Frederic Friedel im Laufe der Jahre zu tun hatte, ist Max Euwe. Wie er die Spitzenspieler kennengelernt hat, welche Abenteuer sie erlebten und wie sie zu Freunden wurden, erz&auml;hlt er in unserer neuen w&ouml;chentlichen Serie. Zusammen mit Professor Christian Hesse hat Frederic ein brandneues Buch mit erstaunlichen Schachanekdoten aus den letzten 50 Jahren vorbereitet. Im Oktober wird es erstmals auf Deutsch erscheinen.",
+         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
