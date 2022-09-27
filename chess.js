@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Congratulations to Shubhi Gupta and Charvi A for becoming World Champions in Under-12 and Under-8 Girls Categories at World Cadet Chess Championship at Batumi, Georgia",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-shubhi-charvi-and-safin/",
+         "pubDate" : "Tue, 27 Sep 2022 16:59:51 +0000",
+         "title" : "Congratulations Shubhi, Charvi and Safin!!"
+      },
+      {
+         "description" : " &#8220;With major pieces (queen or rook) on the board, having bishops on opposite colors favors the side with an attack.&#8221; Edmar Mednis It's been a while since we have discussed about these principles. The last article was published here. This past week one of the games from our club tournament brought them back into the spotlight. <a href=\"https://chessimprover.com/mednis-principles-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mednis Principles (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mednis-principles-3/\">Mednis Principles (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/mednis-principles-3/",
+         "pubDate" : "Tue, 27 Sep 2022 16:58:44 +0000",
+         "title" : "Mednis Principles (3)"
+      },
+      {
+         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4e63cc95-aa64-46c7-9f02-1cb1d849968f/unnamed.jpg\" data-image-dimensions=\"920x518\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63332baecd1e400a6900ff56\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4e63cc95-aa64-46c7-9f02-1cb1d849968f/unnamed.jpg?format=1000w\" /> </figure> <p class=\"\">The Perpetual Chess Adult Improver Series returns for another detailed conversation with a very dedicated amateur. 35 year-old Hans Henning is a Dublin-based chess enthusiast, ",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/27/ep-298-adult-improver-hans-henning-on-why-he-loves-studying-openings-and-how-chess-helps-give-him-purpose",
+         "pubDate" : "Tue, 27 Sep 2022 16:58:38 +0000",
+         "title" : "EP 298- Adult Improver Hans Henning on Why he Loves Studying Openings, and How Chess Helps Give Him Purpose"
+      },
+      {
+         "description" : "World champion Magnus Carlsen has accused Hans Niemann of cheating and feels the American teenager's over-the-board progress is unusual.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34676224/magnus-carlsen-accuses-hans-niemann-cheating-chess-news?device=featurephone",
+         "pubDate" : "Tue, 27 Sep 2022 11:35:10 -0500",
+         "title" : "Check, and not mates: Magnus Carlsen's cheat charge rocks the chess world"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94488153.cms\" />After the end of the penultimate round of the IInd Chief Minister's Trophy International Grandmaster Chess Championship, Pantsulaia Levan with eight points to his credit leads the table with a solitary point lead over others. The Georgian grandmaster went for a peace with Iranian international master Tabaz Arash whose score is 6.5 points in the table.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/georgian-gm-pantsulaia-levan-leads-table-with-a-solitary-point-lead-over-others/articleshow/94488153.cms",
+         "pubDate" : "Tue, 27 Sep 2022 15:25:21 +0000",
+         "title" : "Georgian GM Pantsulaia Levan leads table with a solitary point lead over others"
+      },
+      {
          "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament. Rumors that Magnus Carlsen suspected Niemann was cheating were spreading over social medias, when Magnus Carlsen put more wood in the fire as he refused to play against Hans Niemann in the Julius []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1976,14 +2016,6 @@ news_feed (
          "link" : "https://aicf.in/world-youth-chess-championship-2022-round-1-and-round-2-report/",
          "pubDate" : "Thu, 08 Sep 2022 07:13:57 +0000",
          "title" : "World Youth Chess championship 2022 :Round 1 and Round 2 Report"
-      },
-      {
-         "description" : "&#160; CLICK HERE FOR MORE DETAILS",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/ongc-sports-scholarship-scheme-2022-23/",
-         "pubDate" : "Thu, 08 Sep 2022 05:30:05 +0000",
-         "title" : "ONGC Sports Scholarship Scheme 2022-23"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94057419.cms\" />Hans Niemann has been in the middle of a storm at the ongoing Sinquefield Cup in St Louis, Missouri, after Magnus Carlsen withdrew from the tournament on Monday. With accusations of cheating being levelled against Niemann, the 19-year-old responded by denying any wrongdoing in the tournament.",
