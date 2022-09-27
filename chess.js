@@ -50,7 +50,7 @@ news_feed (
          "title" : "Women's Grand Prix Astana: Live"
       },
       {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations.&#xA0;Rumors that Magnus Carlsen suspected Niemann was cheating&#xA0;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/anish-giri-reveals-moves-of-the-beach-game-between-niemann-and-carlsen/",
