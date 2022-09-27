@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Cheating allegations and the recent &#8220;Carlsen Niemann&#8221; chess drama became the top story of the news channels, magazines, and newspapers worldwide, among them: CNN, BBC, Al Jazeera, Vice, DW News, The Guardian, Washington Post, The Ney York Times etc. Magnus Carlsen yesterday published the official statement on the whole case, publicly accusing Hans Niemann []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-cancelling-my-diamond-membership-and-never-coming-back-to-chess-com-tweetoftheday/",
+         "pubDate" : "Tue, 27 Sep 2022 21:29:53 +0000",
+         "title" : "Magnus Carlsen: Cancelling my diamond membership and never coming back to chess.com #TweetOftheDay"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced-0",
+         "pubDate" : "Tue, 27 Sep 2022 21:06:34 +0000",
+         "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
+      },
+      {
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament giving no detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen got massive developments.&#160;Magnus Carlsen&#160;and&#160;Hans Niemann&#160;met again at the Julius Baer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-carlsen-niemann-controversy-is-top-news-in-mass-media/",
+         "pubDate" : "Tue, 27 Sep 2022 20:56:47 +0000",
+         "title" : "The Carlsen - Niemann controversy is top news in mass media"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"><h3 dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-size: 12px;\">The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions</span></h3> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced",
+         "pubDate" : "Tue, 27 Sep 2022 20:50:38 +0000",
+         "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
+      },
+      {
          "description" : "The Kazakhstan Chess Federation, in close collaboration with FIDE, is leaving no stone unturned in their desire to provide a clean and safe environment for the Women's Grand Prix in Astana. One of the main concerns is guaranteeing that the players feel comfortable as soon as they arrive at the Astana Business Hub. The venue []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -192,22 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/gm-nigel-davies-on-carlsens-statement-this-is-a-very-clear-accusation-of-cheating-but-without-actual-evidence/",
          "pubDate" : "Mon, 26 Sep 2022 23:45:21 +0000",
          "title" : "GM Nigel Davies on Carlsen's statement: This is a very clear accusation of cheating, but without actual evidence"
-      },
-      {
-         "description" : "Fabiano Caruana and Maurice Ashley joined the C-squared podcast tonight speaking live about the official statement by Magnus Carlsen. Carlsen said that he believes Niemann has cheated more than he publicly admitted, adding that cheating is an existential threat to the game. Fabiano Caruana agreed: &#8220;I think undoubtedly it's a threat to the entire nature []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-and-maurice-ashley-comment-on-carlsens-statement-c-squared-podcast/",
-         "pubDate" : "Mon, 26 Sep 2022 23:24:07 +0000",
-         "title" : "Fabiano Caruana and Maurice Ashley comment on Carlsen's statement (C-Squared podcast)"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen today published&#160;the official statement&#160;on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. He added that he believes &#x201C;chess organizers and all those who care about the sanctity of the game we love should seriously consider increasing security measures and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/is-carlsens-statement-the-end-the-beginning-of-the-end-or-only-the-end-of-the-beginning-tweetoftheday/",
-         "pubDate" : "Mon, 26 Sep 2022 21:30:34 +0000",
-         "title" : "Is Carlsen's statement the end, the beginning of the end, or only the end of the beginning? #TweetOftheDay"
       },
       {
          "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than he has publicly admitted\". | Photo: Amruta Mokal",
@@ -1370,22 +1386,6 @@ news_feed (
          "title" : "The man who took down Garry Kasparov: Vladimir Kramnik"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Shakhriyar Mamedyarov talks to Cristian Chirila after scoring 3/3 on the second day of Chess 9LX. 2022.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mamedyarov-brilliant-day-officeim-ready-go-eat-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Fa3FgX8vzc.jpg?itok=p1udWisU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mamedyarov-brilliant-day-officeim-ready-go-eat-day-2",
-         "pubDate" : "Sat, 17 Sep 2022 21:38:31 +0000",
-         "title" : "Mamedyarov: A Brilliant Day at the Office...I'm Ready to Go Eat | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after scoring 2.5/3 on the second day of Chess 9LX. 2022.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-computer-over-exaggerating-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jAI2txUVcuM.jpg?itok=nCY4s3Kh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-computer-over-exaggerating-day-2",
-         "pubDate" : "Sat, 17 Sep 2022 21:38:31 +0000",
-         "title" : "Firouzja: The Computer is Over-Exaggerating | Day 2"
-      },
-      {
          "description" : " The cheating scandal that dominated the 2022 Sinquefield Cup saw GM Hans Niemann fall into controversial spotlight in his first supertournament. The incident was precipitated by Magnus Carlsen's withdrawal from the tournament and a tweet that included a reference to cheating. Many commenting on the matter did not understand the tweet and figured it only The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/\">After the Carlsen-Niemann firestorm, what now?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-2022-march-exotic-wackos/",
          "pubDate" : "Tue, 06 Sep 2022 22:35:35 +0000",
          "title" : "Chess 2022 - March Exotic Wackos"
-      },
-      {
-         "description" : " <p class=\"lead\">Jose Mourinho, celebrated football manager, made an unexpected (yet dramatic) appearance in the world of elite chess, and now has a <a href=\"https://chessarena.com/tournaments/21645\">tournament</a> named after him and his statement \"If I speak, I will be in big trouble\". <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0095EC32-9216-4B0A-9532-8DB1AAD08124.jpeg\" width=\"1000\" height=\"1000\" alt=\"\" /> </div> Mourinho's cameo in chess is due to Magnus Carlsen, the World Champion, who suprisingly dropped out of the elite St. Louis Rapid and Blitz Tournament. The only explanation for this unprecedented action was Carlsen's very cryptic clip of Jose's sta",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/thank-you-jose-mourinho-we-named-a-tournament-after-you/",
-         "pubDate" : "Tue, 06 Sep 2022 21:43:41 +0000",
-         "title" : "Thank You, Jose Mourinho! We Named a Tournament After You"
       }
    ]
 }
