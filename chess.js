@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This book contains a revealing self-portrait of Abhimanyu Mishra. The youngest grandmaster in the history of chess tells the story of a highly ambitious family project. Supported by his father, mother and sister, Abhi sets out to beat a nineteen-year-old world record. In June 202, at the height of the Covid pandemic, he succeeded against all odds: 'I should have been jumping with excitement, but my heart was so full that I ended up teary-eyed in my father's arms.' Book review.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abhimanyu-s-book",
+         "pubDate" : "Tue, 27 Sep 2022 14:00:00 +0100",
+         "title" : "Abhimanyu's book"
+      },
+      {
          "description" : "From September 21 to 24 week a strong rapid and blitz tournament was held in Shusha, a town in Nagorno-Karabakh. Shakhriyar Mamedyarov won the open event, Nana Dzagnidze won the women's event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -402,7 +410,7 @@ news_feed (
          "title" : "Generation Cup Final: Magnus \"far from satisfied\" despite win"
       },
       {
-         "description" : "Mikhail Botvinnik is one of twelve world chess champions Frederic Friedel has met over the years. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "description" : "Der erste der zw&ouml;lf Schachweltmeister, mit denen Frederic Friedel im Laufe der Jahre zu tun hatte, ist Max Euwe. Wie er die Spitzenspieler kennengelernt hat, welche Abenteuer sie erlebten und wie sie zu Freunden wurden, erz&auml;hlt er in unserer neuen w&ouml;chentlichen Serie. Zusammen mit Professor Christian Hesse hat Frederic ein brandneues Buch mit erstaunlichen Schachanekdoten aus den letzten 50 Jahren vorbereitet. Im Oktober wird es erstmals auf Deutsch erscheinen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-complete-black-repertoire-against-1-d4-a-review",
          "pubDate" : "Thu, 15 Sep 2022 18:45:00 +0100",
          "title" : "Robert Ris' complete black repertoire against 1.d4 - A review"
-      },
-      {
-         "description" : "Ian Nepomniachtchi could not keep up the pace he had shown on Wednesday, as he is now standing in third place at the Champions Showdown tournament. Nepo was replaced at the top of the standings by Alireza Firouzja and Shakhriyar Mamedyarov. Garry Kasparov has lost all his games so far in Saint Louis. Do not miss GM Karsten M&uuml;ller's endgame analysis. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d2",
-         "pubDate" : "Thu, 15 Sep 2022 18:35:00 +0100",
-         "title" : "Chess 9LX: Firouzja and Mamedyarov share the lead"
       },
       {
          "description" : "Ian Nepomniachtchi has taken the sole lead in the Champions Showdown: Chess 9LX tournament in St Louis with a perfect 3/3 start. A rusty Garry Kasparov could not convert a promising position and remains without a point.",
