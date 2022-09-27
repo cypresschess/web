@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kazakhstan Chess Federation, in close collaboration with FIDE, is leaving no stone unturned in their desire to provide a clean and safe environment for the Women's Grand Prix in Astana. One of the main concerns is guaranteeing that the players feel comfortable as soon as they arrive at the Astana Business Hub. The venue []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lagno-defeats-zhu-jiner-to-take-the-sole-lead-in-the-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Tue, 27 Sep 2022 17:16:25 +0000",
+         "title" : "Lagno defeats Zhu Jiner to take the sole lead in the FIDE Women's Grand Prix Astana 2022"
+      },
+      {
          "description" : "Congratulations to Shubhi Gupta and Charvi A for becoming World Champions in Under-12 and Under-8 Girls Categories at World Cadet Chess Championship at Batumi, Georgia",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/27/ep-298-adult-improver-hans-henning-on-why-he-loves-studying-openings-and-how-chess-helps-give-him-purpose",
          "pubDate" : "Tue, 27 Sep 2022 16:58:38 +0000",
          "title" : "EP 298- Adult Improver Hans Henning on Why he Loves Studying Openings, and How Chess Helps Give Him Purpose"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2007",
+         "pubDate" : "Tue, 27 Sep 2022 16:49:39 +0000",
+         "title" : "FIDE WGP: Lagno takes the lead in Astana"
       },
       {
          "description" : "World champion Magnus Carlsen has accused Hans Niemann of cheating and feels the American teenager's over-the-board progress is unusual.",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/is-carlsens-statement-the-end-the-beginning-of-the-end-or-only-the-end-of-the-beginning-tweetoftheday/",
          "pubDate" : "Mon, 26 Sep 2022 21:30:34 +0000",
          "title" : "Is Carlsen's statement the end, the beginning of the end, or only the end of the beginning? #TweetOftheDay"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen today published&#160;the official statement&#160;on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. He added that he believes &#x201C;chess organizers and all those who care about the sanctity of the game we love should seriously consider increasing security measures and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reactions-to-magnus-carlsens-official-statement/",
-         "pubDate" : "Mon, 26 Sep 2022 21:21:04 +0000",
-         "title" : "Reactions to Magnus Carlsen's official statement"
       },
       {
          "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than he has publicly admitted\". | Photo: Amruta Mokal",
