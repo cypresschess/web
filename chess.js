@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament. Rumors that Magnus Carlsen suspected Niemann was cheating were spreading over social medias, when Magnus Carlsen put more wood in the fire as he refused to play against Hans Niemann in the Julius []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-raymond-keene-niemann-could-now-raise-stakes-by-consulting-mlearned-friends/",
+         "pubDate" : "Tue, 27 Sep 2022 10:36:52 +0000",
+         "title" : "GM Raymond Keene: Niemann could now raise stakes by consulting M'Learned Friends"
+      },
+      {
+         "description" : "Round 8 U-8 Open AFM SafinSafarullakhan won in the 8th Round and jointly leading with two others. Also It was a win for Aadhya V(5.5)",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/eport-world-cadets-chess-championships-2022-round-8-9/",
+         "pubDate" : "Tue, 27 Sep 2022 10:31:00 +0000",
+         "title" : "Report- World Cadets Chess Championships 2022 ,Round 8 & 9"
+      },
+      {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Tue, 27 Sep 2022 10:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-reveals-moves-of-the-beach-game-between-niemann-and-carlsen/",
+         "pubDate" : "Tue, 27 Sep 2022 08:59:16 +0000",
+         "title" : "Anish Giri reveals moves of the \"Beach Game\" between Niemann and Carlsen"
+      },
+      {
+         "description" : " <p class=\"lead\">After a <a href=\"https://worldchess.com/news/all/carlsen-won-against-erigaisi-with-anti-young-player-chess/\">record-breaking result</a> at the Julius Baer Generation Cup, Magnus Carlsen decided to make a statement <a href=\"https://worldchess.com/news/all/i-cannot-particularly-speak-on-that-magnus-carlsen-on-hans-niema/\">- as promised -</a> on the Niemann situation, in which the World Champion directly accused Hans of cheating. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-anal-bead-scandal-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Crystal Fuller, Grand Chess Tour / M",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/i-am-not-willing-to-play-chess-with-niemann-carlsen-on-the-cheat/",
+         "pubDate" : "Tue, 27 Sep 2022 08:01:06 +0000",
+         "title" : "\"I am not willing to play chess with Niemann\" Carlsen on the cheating scandal"
+      },
+      {
          "description" : "In the diagrammed position it is Black to move. Endgames with bishops of opposite colours have large drawish tendencies but here Black's passed b-pawn and the active black king are more important. How should Black proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/activity",
          "pubDate" : "Tue, 27 Sep 2022 09:00:00 +0100",
          "title" : "Activity!"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen today published the official statement on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. Hikaru Nakamura commented on Carlsen&#x2019;s statement during his live stream saying that he believes Carlsen thinks that Hans Niemann cheated in the game they played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ramesh-rb-fide-should-have-devised-a-good-practical-solution-to-the-cheating-problem-years-ago/",
+         "pubDate" : "Tue, 27 Sep 2022 07:42:03 +0000",
+         "title" : "Ramesh RB: FIDE should have devised a good practical solution to the cheating problem years ago"
       },
       {
          "description" : "The Managing Editor Thinkers Publishing, Chess Grandmaster, Chess Coach GM Romain Edouard commented on the latest statement by Magnus Carlsen regarding the ongoing Carlsen Niemann cheating allegations drama. Romain says, &#8220;Magnus Carlsen has done everything right so far, and with class. The argument that he is a cry-baby is absurd he has never []",
@@ -82,6 +130,14 @@ news_feed (
          "title" : "Carlsen's public statement: \"I believe that Niemann has cheated more\""
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2006",
+         "pubDate" : "Mon, 26 Sep 2022 20:59:54 +0000",
+         "title" : "Fifth Chess in Education Lecturer course announced"
+      },
+      {
          "description" : "Magnus Carlsen today published the official statement on the controversy related to the cheating allegations against Hans Niemann. For the first time after his withdrawal from the Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves, Carlsen publicly said that he suspects Niemann was cheating more than the American admitted in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -106,36 +162,12 @@ news_feed (
          "title" : "Carlsen Makes Statement: 'I Believe Niemann Has Cheated More'"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen today published the official statement on the controversy related to the cheating allegations against Hans Niemann. Magnus Carlsen withdrew from the Sinquefield Cup 2022 after losing to Hans Niemann in the third round of the event, and two weeks later refused to play against Niemann in the Julius Baer Generation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/breaking-magnus-carlsen-publishes-official-statement-i-believe-that-niemann-has-cheated-more/",
-         "pubDate" : "Mon, 26 Sep 2022 19:41:24 +0000",
-         "title" : "BREAKING! Magnus Carlsen publishes the official statement: I believe that Niemann has cheated more"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2005",
          "pubDate" : "Mon, 26 Sep 2022 19:06:47 +0000",
          "title" : "FIDE WGP: Goryachkina and Lagno head-to-head in Astana "
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen today published the official statement on the recent &#8220;Carlsen Niemann&#8221; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. Hikaru Nakamura commented on Carlsen's statement during his live stream saying that he believes Carlsen thinks that Hans Niemann cheated in the game they played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-on-carlsens-statement-it-seems-to-me-that-carlsen-thinks-hans-was-cheating-in-the-game-they-played-at-the-sinquefield-cup/",
-         "pubDate" : "Mon, 26 Sep 2022 19:06:00 +0000",
-         "title" : "Nakamura on Carlsen's statement: It seems to me that Carlsen thinks Hans was cheating in the game they played at the Sinquefield Cup"
-      },
-      {
-         "description" : "The amount of decisive results in this tournament is staggering. Not a round has gone by without at least two decisive games, most rounds have between three and four and today no less than five of the six games finished with a winner. Compared to most of the top elite events, the drawing percentage is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/goryachkina-and-lagno-co-lead-fide-womens-grand-prix-astana-2022-with-three-rounds-to-go/",
-         "pubDate" : "Mon, 26 Sep 2022 18:51:53 +0000",
-         "title" : "Goryachkina and Lagno co-lead FIDE Women's Grand Prix Astana 2022 with three rounds to go"
       },
       {
          "description" : "Today, Svitlana takes her \"smart moves\" very literal, and presents to us an opening, which you might not have heard of yet. The two knights tango is not a Gambit, but a quite solid offbeat opening, focusing on the power of very early knight development, and asking the opponent to push the pawns forward too hasty. If the opponent commits to pawn moves, the tango knights can dance around the board, and cause some havoc. A fine opening for Black. Other names for this opening are: Black Knights' Tango, Mexican Defence or Kevitz-Trajkovic Defence",
@@ -146,12 +178,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The two knights tango opening"
       },
       {
-         "description" : "After World Chess Champion Magnus Carlsen won the Julius Baer Generation Cup, he announced to publish the official statement on the controversial happenings related to his withdrawal from Sinquefield Cup 2022 and resignation against Hans Niemann after only two played moves. Besides saying that we can expect his statement in the coming days, Carlsen added []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kenneth-regan-for-al-jazeera-i-was-in-daily-communication-with-the-sinquefield-cup-organizers/",
-         "pubDate" : "Mon, 26 Sep 2022 16:32:00 +0000",
-         "title" : "Kenneth Regan for Al Jazeera: I was in daily communication with the Sinquefield Cup organizers"
+         "description" : "Another fortnight has passed since our previous report on the planet's top-two, ongoing, engine vs. engine competitions: <A HREF=\"http://chessforallages.blogspot.com/2022/09/tcec-s23-l1-ccc19-blitz-both-underway.html\">TCEC S23 L1, CCC19 Blitz - Both Underway</A>(September 2022). Here's a summary of that report:- <BLOCKQUOTE>TCEC: S23 L2 finished with four engines promoting. The 12-engine L1 is in the second of its four round robins. &#149; CCC: Dragon edged Lc0 by three points in the 'CCC18 Rapid Challenger' match. Later the site started a series of 'CCC19 Blitz' events. Between CCC18 and CCC19, the CCC launched an eight-engine 'Chess 324 Bonus' event. </BLOCKQUOTE> <P>In the two intervening",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html",
+         "pubDate" : "Mon, 26 Sep 2022 15:14:00 +0000",
+         "title" : "TCEC S23 Paused; 'CCC19 Blitz Main' Underway"
       },
       {
          "description" : "In the diagrammed position it is Black to move and he destroyed the white kingside in a most impressive way - I wish you happy sacrificing!",
@@ -362,20 +394,20 @@ news_feed (
          "title" : "Generation Cup Final: Magnus \"far from satisfied\" despite win"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2002",
-         "pubDate" : "Sat, 24 Sep 2022 19:26:41 +0000",
-         "title" : "Free day of WCCC 2022 filled with chess activities"
-      },
-      {
          "description" : "Mikhail Botvinnik is one of twelve world chess champions Frederic Friedel has met over the years. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
          "pubDate" : "Sat, 24 Sep 2022 15:55:00 +0100",
          "title" : "Frederic's mates - How I met Mikhail Botvinnik"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2002",
+         "pubDate" : "Sat, 24 Sep 2022 14:26:41 +0000",
+         "title" : "Free day of WCCC 2022 filled with chess activities"
       },
       {
          "description" : " This years AFL grand Final has been run and done, with the Sydney Swans getting smashed by Geelong. During (or after) the coverage, I did see an advertisement for an insurance company which had a bit of chess in it. AFL legend Kevin Sheedy was one of the players, although the game was halted when someone ran through the game, smashing board, table, pieces etc. I'd post a link but I can't find one at the moment. If anyone does have a link, please post in the comments section. ",
@@ -466,6 +498,14 @@ news_feed (
          "title" : "FIDE shares Carlsen's concerns about the damage of cheating in the sport"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1999",
+         "pubDate" : "Fri, 23 Sep 2022 17:21:03 +0000",
+         "title" : "FIDE Statement on the Carlsen - Niemann polemic "
+      },
+      {
          "description" : "In a statement released on Friday about the alleged cheating scandal, FIDE President Arkady Dvorkovich has criticized GM Magnus Carlsen for withdrawing from the Sinquefield Cup and resigning after two moves vs. GM Hans Niemann in the Julius Baer G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -504,14 +544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-statement-carlsen-niemann-polemic",
          "pubDate" : "Fri, 23 Sep 2022 15:30:00 +0100",
          "title" : "FIDE Statement on the Carlsen - Niemann polemic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1999",
-         "pubDate" : "Fri, 23 Sep 2022 14:21:03 +0000",
-         "title" : "FIDE Statement on the Carlsen - Niemann polemic "
       },
       {
          "description" : "On 29 September Anna and Mariya Muzychuk will give a simultaneous event against 30 opponents in the European Parliament in Brussels. On this occasion, the two Ukrainians will also receive an award from the Emanuel Lasker Society.",
@@ -1578,14 +1610,6 @@ news_feed (
          "title" : "Second Intercontinental Online Chess Championship for Prisoners: Registration deadline approaches"
       },
       {
-         "description" : "When you are solving an exercise in a book, or guessing a move in Solitaire Chess, and your move is wrong, the first thing you want to know is why it was wrong, and what the refutation was, but unless the author included your exact choice, you will be left scratching your head. A new feature in ChessBase solves this brilliantly and can become a powerful tool to your improvement.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/replay-training-a-hidden-gem-in-chessbase",
-         "pubDate" : "Thu, 15 Sep 2022 16:15:00 +0100",
-         "title" : "Replay Training: a hidden gem in ChessBase"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2056,22 +2080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/this-is-big.html",
          "pubDate" : "Tue, 06 Sep 2022 12:58:00 +0000",
          "title" : "This is big"
-      },
-      {
-         "description" : " <p class=\"lead\">Yesterday, Magnus Carlsen withdrew from the Sinquefield Cup 2022 after his loss to Hans Niemann in Round 3. Multiple tweets, streams, comments, and security checks later, the accusation of Niemann cheating is pretty obvious! <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/PIulWkTHuu0?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> Let's start from the beginning (shout out to <a href=\"https://www.reddit.com/r/chess/comments/x6xdk0/the_whole_hans_niemannmagnus_carlsen_withdrawal/\">u/BKtheInfamous on reddit</a> who created a dope saga) <p class=\"lead\">1. Magnus Carlsen <a href=\"https://worldchess.com/news/all/hans-niemann-",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/did-hans-niemann-actually-cheat-all-the-info-so-far/",
-         "pubDate" : "Tue, 06 Sep 2022 09:47:03 +0000",
-         "title" : "Did Hans Niemann actually cheat? All the info so far"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1967",
-         "pubDate" : "Tue, 06 Sep 2022 07:52:28 +0000",
-         "title" : "2022 Sinquefield Cup: Carlsen withdraws, So in the lead"
       }
    ]
 }
