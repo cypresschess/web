@@ -42,6 +42,14 @@ news_feed (
          "title" : "FIDE WGP: Lagno takes the lead in Astana"
       },
       {
+         "description" : "World champion Magnus Carlsen has accused Hans Niemann of cheating and feels the American teenager's over-the-board progress is unusual.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34676224/magnus-carlsen-accuses-hans-niemann-cheating-chess-news?device=featurephone",
+         "pubDate" : "Tue, 27 Sep 2022 11:35:10 -0500",
+         "title" : "Check, and not mates: Magnus Carlsen's cheat charge rocks the chess world"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94488153.cms\" />After the end of the penultimate round of the IInd Chief Minister's Trophy International Grandmaster Chess Championship, Pantsulaia Levan with eight points to his credit leads the table with a solitary point lead over others. The Georgian grandmaster went for a peace with Iranian international master Tabaz Arash whose score is 6.5 points in the table.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.chessdom.com/sergey-karjakin-on-carlsens-statement-niemanns-guilt-has-not-been-proven-but-there-is-no-smoke-without-fire/",
          "pubDate" : "Tue, 27 Sep 2022 14:56:59 +0000",
          "title" : "Sergey Karjakin on Carlsen's statement: Niemann's guilt has not been proven, but there is no smoke without fire"
+      },
+      {
+         "description" : "World chess champion Magnus Carlsen said on Monday he believes Hans Niemann has \"cheated more -- and more recently -- than he has publicly admitted\" and that he no longer wants to play against the American.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/34675094/chess-cheating-saga-magnus-carlsen-accuses-hans-niemann-refuses-play-american-again?device=featurephone",
+         "pubDate" : "Tue, 27 Sep 2022 09:40:33 -0500",
+         "title" : "Chess No. 1 Carlsen accuses rival of cheating"
       },
       {
          "description" : " Today saw the finish to the 2022 ACT Under 14 Championships. The field of 21 players was a mixture of established junior talent, and enthusiastic newcomers. In the end the tournament was dominated by Masaki Horikawa and Charles Huang, who tied for 1st on 5.5/6. The subsequent playoff game was drawn, meaning that Horikawa won the Under 14 trophy on countback. As this event was combined with the Under 12 Championship, Huang collected that prize, meaning he has won the ACT Under 8's, 10's 14's and now the 12's over the last few years. While some of the field was there for serious competition, the real highlight for most were the endless games of bughouse played between the rounds. Normally I f",
