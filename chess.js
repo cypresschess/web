@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Today saw the finish to the 2022 ACT Under 14 Championships. The field of 21 players was a mixture of established junior talent, and enthusiastic newcomers. In the end the tournament was dominated by Masaki Horikawa and Charles Huang, who tied for 1st on 5.5/6. The subsequent playoff game was drawn, meaning that Horikawa won the Under 14 trophy on countback. As this event was combined with the Under 12 Championship, Huang collected that prize, meaning he has won the ACT Under 8's, 10's 14's and now the 12's over the last few years. While some of the field was there for serious competition, the real highlight for most were the endless games of bughouse played between the rounds. Normally I f",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-under-14-chanpionships.html",
+         "pubDate" : "Tue, 27 Sep 2022 13:01:00 +0000",
+         "title" : "2022 ACT Under 14 Chanpionships"
+      },
+      {
          "description" : "This book contains a revealing self-portrait of Abhimanyu Mishra. The youngest grandmaster in the history of chess tells the story of a highly ambitious family project. Supported by his father, mother and sister, Abhi sets out to beat a nineteen-year-old world record. In June 202, at the height of the Covid pandemic, he succeeded against all odds: 'I should have been jumping with excitement, but my heart was so full that I ended up teary-eyed in my father's arms.' Book review.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2056,30 +2064,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/06/carlsen-bolts-sinquefield-after-loss-rumors-swirl/",
          "pubDate" : "Tue, 06 Sep 2022 14:43:58 +0000",
          "title" : "Carlsen bolts Sinquefield after loss; rumors swirl"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94032884.cms\" />World no. 1 Magnus Carlsen caused a major drama late on Monday night as he withdrew from the Sinquefield Cup, a classical format tournament being held at St Louis, Missouri.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-withdraws-from-sinquefield-cup-raises-eyebrows/articleshow/94032884.cms",
-         "pubDate" : "Tue, 06 Sep 2022 13:54:12 +0000",
-         "title" : "Magnus Carlsen withdraws from Sinquefield Cup, raises eyebrows"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1f04081b-386d-49de-9b9d-61750da98636/_1121218-Edit.jpg\" data-image-dimensions=\"1400x1050\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63174863f0dd8e41fc5f054b\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1f04081b-386d-49de-9b9d-61750da98636/_1121218-Edit.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of GM Gregory Kaidanov </figcaption> </figure> <p class=\"\">This week our guest is a renowned trainer, and one of t",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/6/episode-295-gm-gregory-kaidanov-one-of-the-us-top-players-and-trainers-on-maintaining-motivation-imparting-lessons-to-students-and-his-long-journey-from-the-ussr-to-the-us",
-         "pubDate" : "Tue, 06 Sep 2022 13:20:03 +0000",
-         "title" : "Episode 295- GM Gregory Kaidanov- One of the US' top players and trainers on Maintaining Motivation, Imparting Lessons to Students, and his Long Journey from the USSR to the US. "
-      },
-      {
-         "description" : " The decision by Magnus Carlsen to withdrew from the 2022 Sinquefield Cup is big news, but the supposed reason behind it is definitely bigger news. Carlsen himself was very careful not say more than the minimum, but online commentators have been freely speculating about what happened in game against Hans Neimann. At this stage I will not comment on whether the implied reason for withdrawing was valid, but I will point out that accusations of outside assistance seem to carry more weight if they come from a top 10 player than if they come from a lower rated player. Wesley So received a very quick hearing after his game against Petrosian in the online World Club Cup, but other cases have either",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/this-is-big.html",
-         "pubDate" : "Tue, 06 Sep 2022 12:58:00 +0000",
-         "title" : "This is big"
       }
    ]
 }
