@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/eugene-perelshteyn-defends-and-criticizes-carlsen-on-the-hans-niemann-cheating-accusations/",
+         "pubDate" : "Wed, 28 Sep 2022 22:59:43 +0000",
+         "title" : "Eugene Perelshteyn defends and criticizes Carlsen on the Hans Niemann cheating accusations"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-about-maxim-dlugys-leaked-e-mails-this-is-spicy/",
+         "pubDate" : "Wed, 28 Sep 2022 22:38:45 +0000",
+         "title" : "Hikaru Nakamura about Maxim Dlugy's leaked e-mails: This is spicy"
+      },
+      {
          "description" : "GM Teimour Radjabov knocked out GM Arjun Erigaisi on Wednesday, securing the last spot into the round of 16 at the Chess.com Global Championship. This was an especially electrifying matchup of experienced contender vs. up-and-comer. In this corn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,14 +264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2008",
          "pubDate" : "Wed, 28 Sep 2022 08:40:13 +0000",
          "title" : "FIDE's statement on sexist remarks"
-      },
-      {
-         "description" : "The 2022 U.S. Chess Championship will be held from 4-20 October simultaneously with the US Women's Chess Championship 2022, and features 14 of the strongest chess players in America. Over the course of 13 rounds, these competitors will battle for $250,500 in prize money and the coveted title of 2022 U.S. Champion. US Chess Champion []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/so-caruana-and-aronian-headline-the-us-chess-championship-2022-field-niemann-is-the-8th-seed/",
-         "pubDate" : "Wed, 28 Sep 2022 08:27:52 +0000",
-         "title" : "So, Caruana and Aronian headline the US Chess Championship 2022 field; Niemann is the 8th seed"
       },
       {
          "description" : "Commonwealth Chess Championship 2022 will be started from 13th to 23rd November, 2022 at Kaluthara, Sri Lanka and players participated in the Over the Board",
