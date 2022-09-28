@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Teimour Radjabov knocked out GM Arjun Erigaisi on Wednesday, securing the last spot into the round of 16 at the Chess.com Global Championship. This was an especially electrifying matchup of experienced contender vs. up-and-comer. In this corn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d5",
+         "pubDate" : "Wed, 28 Sep 2022 15:02:17 -0700",
+         "title" : "Experience Bests Youth: Radjabov Knocks Out Erigaisi"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/motherboard-reviews-e-mails-in-which-maxim-dlugy-confesses-cheating-on-chess-com/",
+         "pubDate" : "Wed, 28 Sep 2022 21:20:30 +0000",
+         "title" : "Motherboard reviews e-mails in which Maxim Dlugy confesses cheating on chess.com"
+      },
+      {
          "description" : "The 2022 U.S. Chess Championship will be held from 4-20 October simultaneously with the US Women&#x2019;s Chess Championship 2022, and features 14 of the strongest chess players in America. Over the course of 13 rounds, these competitors will battle for $250,500 in prize money and the coveted title of 2022 U.S. Champion. US Chess Championship []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r9",
          "pubDate" : "Wed, 28 Sep 2022 02:30:00 +0100",
          "title" : "Astana GP: Lagno wins fourth game in a row, leads"
-      },
-      {
-         "description" : "The disgraceful comments of Ilya Smirin on women chess created a much deserved reaction from the chess community. Yet, FIDE does not seem to take any immediate action on the issue. Instead, FIDE's Director General made the situation worse by saying, &#8220;I spoke to GM Smirin. He sincerely apologized, and promised to bring an apology []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/why-is-gm-smirin-on-air-tomorrow-tweetoftheday/",
-         "pubDate" : "Tue, 27 Sep 2022 22:56:37 +0000",
-         "title" : "Why is GM Smirin on air tomorrow? #TweetOftheDay"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/upcoming-junior-events.html",
          "pubDate" : "Fri, 16 Sep 2022 13:37:00 +0000",
          "title" : "Upcoming Junior Events"
-      },
-      {
-         "description" : "GM Alireza Firouzja continued his fine run of form in St. Louis in the 2022 Champions Showdown: Chess 9LX on Thursday with two key victories over GM Garry Kasparov and previous tournament leader GM Ian Nepomniachtchi. Firouzja&#39;s 2.5/3 score on day...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-champions-showdown-9lx-day-2",
-         "pubDate" : "Fri, 16 Sep 2022 02:48:00 -0700",
-         "title" : "Firouzja, Mamedyarov Storm To The Lead"
       },
       {
          "description" : "In ChessBase Magazine #208, our new author, GM Jan Markos, started his video training series \"Practical Tips for the Tournament Player\" with an article on \"Time Management\". In the new issue, CBM #209, he reveals how you should play in must-win situations. You certainly know such situations too - what would you tend to do? Play a risky opening line? Seek sacrifices? Try to put your opponent under time pressure? Jan Markos' recommendations go in a completely different direction. You can watch an excerpt from his video here. Have a look!",
