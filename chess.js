@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/hans-niemann-hits-back-at-magnus-carlsen-hikaru-nakamura/articleshow/94057419.cms",
          "pubDate" : "Wed, 07 Sep 2022 15:01:57 +0000",
          "title" : "Hans Niemann hits back at Magnus Carlsen & Hikaru Nakamura"
-      },
-      {
-         "description" : " Moving on from the short games at the Olympiad, I decided to have a look at the longer ones. While waiting for the round to finish, I did witness a number of interesting endings, including R+B v R, N+R v R, and in the following game, K+N+B v K. White was winning in the late middlegame, but gave Black drawing chances once the ending was reached. However Black missed the best moves, and as his position crumbled, decided to sacrifice his last two pieces for the remaining pawns, hoping to escape in a B+N ending. However, White knew exactly how to play this, and only took 21 moves to checkmate Black. For those who have never played this ending, it is well worth studying the approach that White u",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/bn-v-k.html",
-         "pubDate" : "Wed, 07 Sep 2022 13:20:00 +0000",
-         "title" : "B+N v K "
       }
    ]
 }
