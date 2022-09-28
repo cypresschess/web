@@ -2064,14 +2064,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/bn-v-k.html",
          "pubDate" : "Wed, 07 Sep 2022 13:20:00 +0000",
          "title" : "B+N v K "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1969",
-         "pubDate" : "Wed, 07 Sep 2022 11:04:55 +0000",
-         "title" : "Chess for Refugees project enters its second year"
       }
    ]
 }
