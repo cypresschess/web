@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2009",
+         "pubDate" : "Wed, 28 Sep 2022 13:00:08 +0000",
+         "title" : "2022 African Chess Championship: Bassem Amin and Shahenda Wafa claim titles"
+      },
+      {
+         "description" : "The International Chess Federation is pleased to announce the 5th Chess in Education Lecturer course. The course will be held online on 28-30 October, in English. Those who successfully pass the course will receive the title of Lead School Instructor (LSI). The course is limited to a maximum of 20 people (first come, first served).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-education-lecturer-course-2022",
+         "pubDate" : "Wed, 28 Sep 2022 14:00:00 +0100",
+         "title" : "Fifth \"Chess in Education Lecturer\" course announced"
+      },
+      {
          "description" : "The African Individual Chess Championships 2022 concluded yesterday in Lagos, Nigeria. GM Amin Bassem and WGM Shahenda Wafa were crowned African Chess Champions for 2022 at the closing ceremony which took place by the end of the last round. The Egyptian grandmaster Bassem Amin tied for the first place with his compatriot and African Chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,7 +26,23 @@ news_feed (
          "title" : "GM Bassem Amin and WGM Shahenda Wafa are African Chess Champions 2022"
       },
       {
-         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;completel...",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>US Chess Championship</strong> <a href=\"https://www.uschesschamps.com/news-press-release-2022-us-championships/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced\">starting next Tuesday</a> at the <strong>St. Louis Chess Club</strong> confirmed the participation of <strong>Hans Niemann</strong> even though his <a href=\"https://docs.google.com/spreadsheets/d/127lwTsR-2Daz0JqN1TbZ8FgITX9Df9TyXT1gtjlZ5nk/edit#gid=0\">percentage of engine first line moves while qualifying</a> in the <strong>US Juniors 2021</strong> is a suspiciously high 78,6% percent. <strong>Hikaru Nakamura</strong> had decided much earlier to miss out on th",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/niemann-confirmed-for-us/",
+         "pubDate" : "Wed, 28 Sep 2022 12:50:05 +0100",
+         "title" : "Niemann confirmed for US championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Sexist remarks about women and chess by the Israeli GM <strong>Ilya Smirin</strong> while commenting on the <strong>FIDE Women's Grand Prix</strong> in Astana caused a shitstorm on social media and led <strong>FIDE</strong> <a href=\"https://fide.com/news/2008\">to fire him</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/commentator-smirin-fired-for-sexism/",
+         "pubDate" : "Wed, 28 Sep 2022 12:17:23 +0100",
+         "title" : "Commentator Smirin fired for sexism"
+      },
+      {
+         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan, for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;complete...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-commentator-sacked-sexist-remarks-ilya-smirin",
@@ -1394,14 +1426,6 @@ news_feed (
          "title" : "Kasparov Analyzes First Playoff Game | Day 3"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>U8-12 World Championships</strong> that are going on in Batumi until 28 September have <a href=\"https://chess-results.com/tnr670151.aspx?lan=1&amp;art=25&amp;fedb=FID&amp;flag=30\">76 participants with a <strong>FIDE</strong> designation</a>, 59 of which are listed for Russia in the FIDE rating list, but not a single kid from Ukraine. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/where-are-the-ukrainian-kids/",
-         "pubDate" : "Sun, 18 Sep 2022 07:35:26 +0100",
-         "title" : "Where are the Ukrainian kids?"
-      },
-      {
          "description" : "Day four of the Chess.com Global Chess Championship&#38;nbsp;featured electrifying matchups, remarkable upset victories, and inspiring tales of vengeance.&#38;nbsp;GM Benjamin Bok knocked out GM Alexander Grischuk, one of the overall tournament favorites....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1448,14 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1989",
          "pubDate" : "Sat, 17 Sep 2022 18:37:05 +0000",
          "title" : "Women's Grand Prix 2022-2023 officially opened"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Fabiano Caruana</strong> won the <strong>9LX</strong> aka Fischer Random <a href=\"https://chess24.com/en/read/news/caruana-stops-firouzja-from-winning-everything-in-st-louis\">tournament</a> at the <strong>St Louis Chess Club</strong> after a tie-break against <strong>Alireza Firouzja</strong>. One month before the Fischer Random World Championship in Reykjavik world champion <strong>Wesley So</strong> scored 50%. The inactive former world champion <strong>Garry Kasparov</strong> clinched only one draw in nine games. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/caruana-wins-fischer-tournament-in/",
-         "pubDate" : "Sat, 17 Sep 2022 19:09:42 +0100",
-         "title" : "Caruana wins Fischer tournament in St. Louis"
       },
       {
          "description" : "Some readers may have heard of this special tactics training regime, while others will wonder about the gimmicky sounding name. This is the name given to an intensive but very effective training method by the Swedish grandmaster Tikkanen, which just so happens to be a dream fit for the Replay Training feature in ChessBase 16. See how you can get this best of both worlds and watch the video to demonstrate!",
@@ -1608,14 +1624,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/upcoming-junior-events.html",
          "pubDate" : "Fri, 16 Sep 2022 13:37:00 +0000",
          "title" : "Upcoming Junior Events"
-      },
-      {
-         "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-battle-sargissian-harikrishna",
-         "pubDate" : "Fri, 16 Sep 2022 11:15:00 +0100",
-         "title" : "An epic endgame battle"
       },
       {
          "description" : "GM Alireza Firouzja continued his fine run of form in St. Louis in the 2022 Champions Showdown: Chess 9LX on Thursday with two key victories over GM Garry Kasparov and previous tournament leader GM Ian Nepomniachtchi. Firouzja&#39;s 2.5/3 score on day...",
