@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> <strong>Wednesday, September 28, 2022 -</strong> Over more than a decade, we have worked tirelessly to fuel a resurgence of chess in America, to create a place for elite chess players to play at the highest levels for the greatest purses, and to democratize access to chess to all players, no matter age, race or skill set. It's been remarkable to see the widespread discussion around chess over the past several weeks, but it's important that we are clear on our position as it relates to cheating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/stlcc-cheating-statement",
+         "pubDate" : "Wed, 28 Sep 2022 14:38:57 +0000",
+         "title" : "STLCC Cheating Statement"
+      },
+      {
+         "description" : " <p class=\"lead\">At the Women's Grand Prix held in Astana, Kazakhstan, FIDE's official commentator Ilya Smirin made some \"completely unacceptable\" sexist remarks publicly but also privately as revealed by his co-commentator WIM Fiona Steil-Antoni. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ilya-smirin-fiona-Steil-Antoni-women-grand-prix-fide-sexism.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman / FIDE</div> </div> While the <a href=\"https://worldchess.com/news/all/i-am-not-willing-to-play-chess-with-niemann-carlsen-on-the-cheat/\">cheating scandal</a> is still ongoing, GM Ilya Smirin decided to shock the chess w",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-fires-gm-smirin-for-sexism-at-the-women-grand-prix/",
+         "pubDate" : "Wed, 28 Sep 2022 14:33:14 +0000",
+         "title" : "FIDE fires GM Smirin for sexism at the Women Grand Prix"
+      },
+      {
          "description" : "The FIDE World Cadets Chess Championships 2022, organized by FIDE, the Georgian Chess Federation and the Georgian Chess Club &#x201C;64&#x201D;, took place from 16-28 September, in three age groups &#x2013; Under 8, 10, 12 and 2 sections &#x2013; open and girls. The event gathered 747 children from 68 countries who fought over 11 swiss rounds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1448,14 +1464,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nakamura-opening-decides-everything-day-2",
          "pubDate" : "Sun, 18 Sep 2022 00:38:39 +0000",
          "title" : "Nakamura: The Opening Decides Everything | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The world's top grandmasters battle from September 14-16 in a Fischer random chess rapid round robin. It&#039;s Chess960: see what happens when bank-rank pieces are scrambled and opening theory is obliterated! Nakamura, Nepomniachtchi, Wesley So, Caruana, Aronian, Firouzja, Mamedyarov, Dominguez, Svidler, and Kasparov play the final three rounds today at 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, and WGM Anastasiya Karlovych for the move-by-move. 2021.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-day-3",
-         "pubDate" : "Sun, 18 Sep 2022 00:38:39 +0000",
-         "title" : "2022 Champions Showdown | Chess 9LX: Day 3"
       },
       {
          "description" : "In the fourth episode of \"Olympiad Stories with Saravanan\", we focus on the 14th world champion, Vladimir Kramnik. Kramnik arrived at the world scene in 1992 at the Manila Olympiad, with a score of 8&frac12;/9. His performance rating was over 2900! This was the stage where he broke through, before eventually defeating Garry Kasparov in the World Championship. In this episode, you get to know not only about the 1992 Olympiad and Kramnik's games, but also about Vladimir's personality.",
