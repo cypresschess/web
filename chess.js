@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #535 Merijn van Delft shows how Magnus Carlsen won a fine and patient attacking game against Arjun Erigaisi in the finals of the Julius B&auml;r Generation Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-535-m-carlsen-vs-a-erigaisi",
+         "pubDate" : "Wed, 28 Sep 2022 19:00:00 +0100",
+         "title" : "Game of the Week #535: M. Carlsen vs A. Erigaisi"
+      },
+      {
+         "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1664385190624-0CMNA1YTAYFT1LSUM4HO/Rowson+%281%29.jpg\" data-image-dimensions=\"750x501\" data-image-focal-point=\"0.5,0.5\" alt=\"Rowson (1).jpg\" data-load=\"false\" data-image-id=\"633480a6f23df844a5f2fa4a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1664385190624-0CMNA1YTAYFT1LSUM4HO/Rowson+%281%29.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/5",
+         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
+         "iconName" : "Perpetual<br>Chess",
+         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/28/bonus-pod-gm-jonathan-rowson-and-gm-david-smerdon-discuss-the-carlsenniemann-saga",
+         "pubDate" : "Wed, 28 Sep 2022 17:20:19 +0000",
+         "title" : "Bonus Pod- GM Jonathan Rowson and GM David Smerdon discuss the Carlsen/Niemann Saga. "
+      },
+      {
+         "description" : "Castling is a privilege which both sides have in each game. Despite the choices being two, a player can castle only once in the entire game. The choice often determines the fate of the game. It might seem easy, yet the underlying consequences of a correct or a misjudgement can be long term. GM Sundararajan Kidambi shows two examples of former world champions' games where one of the contenders made an incorrect call. Check out the grandmaster's detailed analysis and enrich your knowledge.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/castling-into-it-kidambi",
+         "pubDate" : "Wed, 28 Sep 2022 18:00:00 +0100",
+         "title" : "Castling into it"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2010",
+         "pubDate" : "Wed, 28 Sep 2022 16:41:28 +0000",
+         "title" : "Huge excitement in Astana WGP"
+      },
+      {
+         "description" : "GM Hikaru Nakamura pulled off another Titled Tuesday sweep, his third, by scoring 9.5/11 in both of the day&#39;s events. This one may be his most impressive of the three, as GM Magnus Carlsen joined the field for both events. Carlsen finished fifth i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-september-27-2022",
+         "pubDate" : "Wed, 28 Sep 2022 09:07:31 -0700",
+         "title" : "Nakamura Sweeps Titled Tuesday After Battles With Carlsen"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94514693.cms\" />Pantsulaia Levan of Georgia clinched the 2nd Chhattisgarh Chief Minister's Trophy International Grandmaster Chess Championship title, organised in Chhattisgarh's capital Raipur from September 18 to 28.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -498,7 +538,7 @@ news_feed (
          "title" : "FIDE WGP Astana: Kateryna Lagno joins the lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, join a host TBA for the opening ceremony of the 2022 U.S. &amp; U.S. Women&#039;s Championships. The field is: TBA. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions\"><img src=\"https://s",
+         "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, join a host TBA for the opening ceremony of the 2022 U.S. &amp; U.S. Women's Championships. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. The fields and inductees are listed below. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions",
@@ -690,7 +730,7 @@ news_feed (
          "title" : "Sarana 'Immortal' Upsets Mamedyarov; Duda, Xiong Cruise Through"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women&#039;s title is decided in an identical format with $40,000 at stake. Join commentators TBA for the move-by-move. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/file",
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with $40,000 at stake. Fields listed below. Join GMs Yasser Seirawan &amp; Cristian Chirila for the move-by-move. 2022.10.05<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-1",
@@ -1546,14 +1586,6 @@ news_feed (
          "title" : "Chess secrets: from Lasker to Carlsen"
       },
       {
-         "description" : "In the diagram position, Black has active heavy pieces, and his bishops are dying to join in. Help them to do so - and win the game!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bishops-unleashed",
-         "pubDate" : "Sat, 17 Sep 2022 09:00:00 +0100",
-         "title" : "Bishops unleashed"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1626,14 +1658,6 @@ news_feed (
          "title" : "FS 1972 + 20 = FS 1992"
       },
       {
-         "description" : "Fritz has fascinated the chess world for thirty years. And the success story continues. In Vienna, the most popular chess program ever was once again able to underline its premier position: the newly developed neural engine with NNUE technology won the official Chess Software World Championship! With Power Fritz 18 you have the world champion program on your PC!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-power-fritz-18-the-chess-software-world-champion-2022",
-         "pubDate" : "Fri, 16 Sep 2022 15:30:00 +0100",
-         "title" : "NEW: Power Fritz 18 - The Chess Software World Champion 2022"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e89a3300-6440-4ded-8e0e-ae9d0e24a1ee/Niemann2.jpg\" data-image-dimensions=\"228x300\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63248649421e7523ae2e3e38\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e89a3300-6440-4ded-8e0e-ae9d0e24a1ee/Niemann2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of <a href=\"https://forum.killerchesstraining.com/t/paranoia-and-insanity-by-jacob-aagaard/856\">GM Jacob Aagaard</a> </figcapt",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1704,14 +1728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d2",
          "pubDate" : "Thu, 15 Sep 2022 21:56:00 -0700",
          "title" : "Legends Fall, Prodigies Prevail"
-      },
-      {
-         "description" : "The Collegiate Chess League&#39;s Fall 2022 Season begins on September 24, with college chess players from all over the world competing for their share of the $20,000 prize fund and school pride. If you&#39;re a college student, Chess.com invites you to s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sign-up-ccl-fall-season",
-         "pubDate" : "Thu, 15 Sep 2022 16:16:00 -0700",
-         "title" : "Sign Up For The 2022 Collegiate Chess League Fall Season"
       },
       {
          "description" : "",
