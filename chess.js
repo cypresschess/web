@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;completel...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-commentator-sacked-sexist-remarks-ilya-smirin",
+         "pubDate" : "Wed, 28 Sep 2022 03:10:00 -0700",
+         "title" : "Chess Commentator Sacked For Making Sexist Remarks"
+      },
+      {
+         "description" : "From 16 to 25 December 2022 Tunisia will host the World Francophone's major annual chess meeting at Yasmine Hammamet. These 2022 Individual Francophone Championships will award the following titles for 2022: &bull; Francophone Champion&bull; Woman Francophone Champion&bull; Senior Francophone Champion &bull; Veteran Francophone Champion&bull; Blitz Francophone Champion According to their FIDE ID, only players from Francophone Chess Association&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/",
+         "pubDate" : "Wed, 28 Sep 2022 10:00:14 +0000",
+         "title" : "9 ° Rencontres Internationales des Echecs Francophones (RIDEF)"
+      },
+      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1706,14 +1722,6 @@ news_feed (
          "title" : "Champions Showdown Chess 9LX: Day 1 Recap"
       },
       {
-         "description" : "The 2022 Champions Showdown: Chess 9LX commenced at the Saint Louis Chess Club on Wednesday with three rounds of electrifying Chess960 (or Fischer Random) games, pitting the world&#39;s best chess players against each other on unfamiliar playing field...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-champions-showdown-9lx-day-1",
-         "pubDate" : "Wed, 14 Sep 2022 18:15:00 -0700",
-         "title" : "Nepomniachtchi Claims Perfect Chess960 Start"
-      },
-      {
          "description" : " The Champions Showdown 9LX takes place Wed 14th Sep to Fri 16th Sep 2022 in Saint Louis. The event is a 10 player Round Robin with: Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja, Hikaru Nakamura, Levon Aronian, Fabiano Caruana, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Peter Svidler and Wesley So. As usual I'm not setup to display the actual games because the viewer I use can't handle it. I will have the PGN.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -2064,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1969",
          "pubDate" : "Wed, 07 Sep 2022 11:04:55 +0000",
          "title" : "Chess for Refugees project enters its second year"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94050454.cms\" />Viswanathan Anand firmly believes that India has enough talent to produce the next Chess World Champion but not before 2025 since there is no \"quicker pathway\" and the process to create one will take that much time.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/we-can-have-next-chess-world-champion-from-india-by-2025-viswanathan-anand/articleshow/94050454.cms",
-         "pubDate" : "Wed, 07 Sep 2022 10:00:36 +0000",
-         "title" : "We can have next Chess World Champion from India by 2025: Anand"
       }
    ]
 }
