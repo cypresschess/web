@@ -10,6 +10,14 @@ news_feed (
          "title" : "Saint Louis Chess Club with anti-cheating measures during the US Championship 2022"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2012",
+         "pubDate" : "Wed, 28 Sep 2022 20:33:43 +0000",
+         "title" : "Winners crowned at FIDE World Cadet Championship"
+      },
+      {
          "description" : "The 19-year-old American grandmaster&#xA0;Hans Niemann&#xA0;has been in the limelight for the last couple of weeks. After&#xA0;Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
