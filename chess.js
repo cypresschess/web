@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94495697.cms\" />Magnus Carlsen's reasons why he feels that Hans Niemann cheats: \"unusual\" progress in over-the-board chess, the 19-year-old world No. 49 American \"wasn't tense or concentrating on the game at critical points\" during his classical win over the Norwegian earlier this month.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-says-wont-play-against-cheat-hans-niemann/articleshow/94495697.cms",
+         "pubDate" : "Wed, 28 Sep 2022 04:17:10 +0000",
+         "title" : "Magnus Carlsen says won't play against 'cheat' Hans Niemann"
+      },
+      {
          "description" : "Kateryna Lagno grabbed the sole lead at the Women's Grand Prix in Astana after scoring a fourth win in a row on Tuesday. Lagno defeated Zhu Jiner with the black pieces, while former co-leader Aleksandra Goryachkina signed a quick draw in her game against Zhansaya Abdumalik. Alexandra Kosteniuk and Polina Shuvalova also scored full points in round 9. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/junior-development-pathway/",
          "pubDate" : "Wed, 07 Sep 2022 07:54:36 +0000",
          "title" : "Junior Development Pathway"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1968",
-         "pubDate" : "Wed, 07 Sep 2022 05:31:41 +0000",
-         "title" : "2022 Sinquefield Cup - Day 5 Recap"
       }
    ]
 }
