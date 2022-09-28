@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 U.S. Chess Championship will be held from 4-20 October simultaneously with the US Women&#x2019;s Chess Championship 2022, and features 14 of the strongest chess players in America. Over the course of 13 rounds, these competitors will battle for $250,500 in prize money and the coveted title of 2022 U.S. Champion. US Chess Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/saint-louis-chess-club-with-anti-cheating-measures-during-the-us-championship-2022/",
+         "pubDate" : "Wed, 28 Sep 2022 20:42:35 +0000",
+         "title" : "Saint Louis Chess Club with anti-cheating measures during the US Championship 2022"
+      },
+      {
          "description" : "The 19-year-old American grandmaster&#xA0;Hans Niemann&#xA0;has been in the limelight for the last couple of weeks. After&#xA0;Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "Hikaru Nakamura comments on Yosha Iglesias's \"the most incriminating evidence against Hans Niemann\""
       },
       {
-         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan, for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;complete...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-commentator-sacked-sexist-remarks-ilya-smirin",
-         "pubDate" : "Wed, 28 Sep 2022 11:54:00 -0700",
-         "title" : "Chess Commentator Sacked For Making Sexist Remarks"
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Confidential emails between the New York grandmaster and coach <strong>Max Dlugy</strong>, confessing cheating in prize money events on <strong>Chess.com</strong> and the platform's Chief Chess Officer <strong>Danny Rensch</strong> <a href=\"https://www.vice.com/en/article/z34qz8/chess-grandmaster-maxim-dlugy-admitted-to-cheating-on-chesscom-emails-show\">have been leaked to</a> <strong>Motherboard</strong>, the tech section of <strong>Vice</strong> for an <a href=\"https://www.vice.com/en/article/z34qz8/chess-grandmaster-maxim-dlugy-admitted-to-cheating-on-chesscom-emails-show\">unproportionate article</a>. Dlugy was earlier singled out by <strong>Magn",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/cheating-related-emails-leaked/",
+         "pubDate" : "Wed, 28 Sep 2022 19:45:55 +0100",
+         "title" : "Cheating related emails leaked"
       },
       {
          "description" : "",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2011",
          "pubDate" : "Wed, 28 Sep 2022 18:43:40 +0000",
          "title" : "FIDE Chessable Academy resumes in October 2022"
+      },
+      {
+         "description" : "ChessKid is excited to announce its new Chess Clubs in Libraries initiative! This program sends out free club starter kits in North America. Each starter kit includes:&#38;nbsp; 5 chess boards &#38;amp; pieces (sets) A &#34;How the Pieces Move&#34; poster F...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-library-chess-club",
+         "pubDate" : "Wed, 28 Sep 2022 11:42:00 -0700",
+         "title" : "ChessKid Announces Library Chess Club Initiative"
       },
       {
          "description" : "In his \"Game of the Week\" show #535 Merijn van Delft shows how Magnus Carlsen won a fine and patient attacking game against Arjun Erigaisi in the finals of the Julius B&auml;r Generation Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-september-27-2022",
          "pubDate" : "Wed, 28 Sep 2022 08:55:00 -0700",
          "title" : "Nakamura Sweeps Titled Tuesday After Battles With Carlsen"
+      },
+      {
+         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan, for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;complete...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-commentator-sacked-sexist-remarks-ilya-smirin",
+         "pubDate" : "Wed, 28 Sep 2022 08:54:00 -0700",
+         "title" : "Chess Commentator Sacked For Making Sexist Remarks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94514693.cms\" />Pantsulaia Levan of Georgia clinched the 2nd Chhattisgarh Chief Minister's Trophy International Grandmaster Chess Championship title, organised in Chhattisgarh's capital Raipur from September 18 to 28.",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/why-is-gm-smirin-on-air-tomorrow-tweetoftheday/",
          "pubDate" : "Tue, 27 Sep 2022 22:56:37 +0000",
          "title" : "Why is GM Smirin on air tomorrow? #TweetOftheDay"
-      },
-      {
-         "description" : "The first event of the FIDE Women&#x2019;s Grand Prix 2022/2023&#xA0;series&#xA0;takes place from 17-30 September 2022 in Nur-Sultan, Kazakhstan. A very strong line-up is headlined by World No. 2&#xA0;Aleksandra Goryachkina&#xA0;and includes&#xA0;Katerina Lagno,&#xA0;Tan Zhongyi,&#xA0;Alexandra Kosteniuk,&#xA0;Polina Shuvalova,&#xA0;Alina Kashlinskaya,&#xA0;Zhansaya Abdumalik,&#xA0;Elisabeth Paehtz,&#xA0;Zhu Jiner,&#xA0;Bibisara Assaubayeva,&#xA0;Dinara Wagner&#xA0;and&#xA0;Vaishali R&#xA0;(All information&#xA0;/&#xA0;Final list of participants and players allocation) Katerina Lagno with 7,0/9 and Alexandra Goryachkina []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/unacceptable-gm-ilya-smirin-claims-chess-is-not-for-women-during-the-official-women-gp-stream/",
-         "pubDate" : "Tue, 27 Sep 2022 22:45:08 +0000",
-         "title" : "Unacceptable: GM Ilya Smirin claims \"Chess is not for women\" during the official Women GP stream"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -1162,14 +1178,6 @@ news_feed (
          "title" : "Generation Cup: Carlsen shines, retakes the lead"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The French start-up <strong>Immortal Game</strong> that is bringing Play2Earn to online chess based on monetization through NFT pieces has raised $3,5 million a few months ago and $12 million now from <strong>The Chernin Group</strong> (TCG) Crypto Fund and <strong>Greenfield</strong>, another investment company specializing in crypto companies. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/immortal-game-raised-155-million/",
-         "pubDate" : "Tue, 20 Sep 2022 20:46:40 +0100",
-         "title" : "Immortal Game raised $15,5 million"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-pranav-anand/",
          "pubDate" : "Fri, 16 Sep 2022 05:36:18 +0000",
          "title" : "Congratulations Pranav Anand!!"
-      },
-      {
-         "description" : "Day two of the Chess.com Global Chess Championship featured epic battles between today&#39;s up-and-comers and icons of chess history. Teenage GMs Nodirbek Abdusattorov and Raunak Sadhwani defeated their respective veteran opponents, GMs Boris Gelfand...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d2",
-         "pubDate" : "Thu, 15 Sep 2022 21:56:00 -0700",
-         "title" : "Legends Fall, Prodigies Prevail"
       },
       {
          "description" : "",
