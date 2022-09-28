@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Cadets Chess Championships 2022, organized by FIDE, the Georgian Chess Federation and the Georgian Chess Club &#x201C;64&#x201D;, took place from 16-28 September, in three age groups &#x2013; Under 8, 10, 12 and 2 sections &#x2013; open and girls. The event gathered 747 children from 68 countries who fought over 11 swiss rounds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-cadet-u8-u10-and-u12-chess-champions-crowned-in-batumi-georgia/",
+         "pubDate" : "Wed, 28 Sep 2022 14:01:05 +0000",
+         "title" : "FIDE World Cadet U8, U10 and U12 Chess Champions crowned in Batumi, Georgia"
+      },
+      {
+         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOLTYMr72_O9EcoteW6jwgd4Ph1x8PETNNZqRGvSBSOyLil2YD7mSN1t8rMKx2nFTocxwBcDNHUaRNa4upsnuEd7ILFB87fac-tCsaIFOF7CJyivSdTlHolRUCbpzN3wsD3uzHyd_BuGZpmIKtmLjGfU2o4dAtvQlGtYYuxmealwqBqssxuwg9C9I/s680/amomuh.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOLTYMr72_O9EcoteW6jwgd4Ph1x8PETNNZqRGvSBSOyLil2YD",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/a-position-to-know.html",
+         "pubDate" : "Wed, 28 Sep 2022 13:58:00 +0000",
+         "title" : "A position to know"
+      },
+      {
+         "description" : "The 19-year-old American grandmaster&#xA0;Hans Niemann&#xA0;has been in the limelight for the last couple of weeks. After Niemann defeated Magnus Carlsen in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#8220;Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-daniel-king-it-seems-to-have-been-forgotten-that-a-19-year-old-has-been-thrown-to-the-lions/",
+         "pubDate" : "Wed, 28 Sep 2022 13:35:14 +0000",
+         "title" : "GM Daniel King: \"It seems to have been forgotten that a 19-year-old has been thrown to the lions\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -162,28 +186,12 @@ news_feed (
          "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
       },
       {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament giving no detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen got massive developments.&#160;Magnus Carlsen&#160;and&#160;Hans Niemann&#160;met again at the Julius Baer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-carlsen-niemann-controversy-is-top-news-in-mass-media/",
-         "pubDate" : "Tue, 27 Sep 2022 20:56:47 +0000",
-         "title" : "The Carlsen - Niemann controversy is top news in mass media"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"><h3 dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-size: 12px;\">The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions</span></h3> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced",
          "pubDate" : "Tue, 27 Sep 2022 20:50:38 +0000",
          "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
-      },
-      {
-         "description" : "The Kazakhstan Chess Federation, in close collaboration with FIDE, is leaving no stone unturned in their desire to provide a clean and safe environment for the Women's Grand Prix in Astana. One of the main concerns is guaranteeing that the players feel comfortable as soon as they arrive at the Astana Business Hub. The venue []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lagno-defeats-zhu-jiner-to-take-the-sole-lead-in-the-fide-womens-grand-prix-astana-2022/",
-         "pubDate" : "Tue, 27 Sep 2022 17:16:25 +0000",
-         "title" : "Lagno defeats Zhu Jiner to take the sole lead in the FIDE Women's Grand Prix Astana 2022"
       },
       {
          "description" : "Congratulations to Shubhi Gupta and Charvi A for becoming World Champions in Under-12 and Under-8 Girls Categories at World Cadet Chess Championship at Batumi, Georgia",
