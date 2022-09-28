@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94514693.cms\" />Pantsulaia Levan of Georgia clinched the 2nd Chhattisgarh Chief Minister's Trophy International Grandmaster Chess Championship title, organised in Chhattisgarh's capital Raipur from September 18 to 28.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/georgian-gm-pantsulaia-levan-wins-chhattisgarh-international-grandmaster-chess-championship/articleshow/94514693.cms",
+         "pubDate" : "Wed, 28 Sep 2022 14:57:27 +0000",
+         "title" : "Georgian Levan wins Chhattisgarh International Grandmaster C'ship"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> <strong>Wednesday, September 28, 2022 -</strong> Over more than a decade, we have worked tirelessly to fuel a resurgence of chess in America, to create a place for elite chess players to play at the highest levels for the greatest purses, and to democratize access to chess to all players, no matter age, race or skill set. It's been remarkable to see the widespread discussion around chess over the past several weeks, but it's important that we are clear on our position as it relates to cheating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hans-niemann-publicly-blaming-hikaru-nakamura-is-it-payback/",
          "pubDate" : "Thu, 08 Sep 2022 13:37:21 +0000",
          "title" : "Hans Niemann publicly blaming Hikaru Nakamura. Is it payback?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94057419.cms\" />Hans Niemann has been in the middle of a storm at the ongoing Sinquefield Cup in St Louis, Missouri, after Magnus Carlsen withdrew from the tournament on Monday. With accusations of cheating being levelled against Niemann, the 19-year-old responded by denying any wrongdoing in the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/hans-niemann-hits-back-at-magnus-carlsen-hikaru-nakamura/articleshow/94057419.cms",
-         "pubDate" : "Wed, 07 Sep 2022 15:01:57 +0000",
-         "title" : "Hans Niemann hits back at Magnus Carlsen & Hikaru Nakamura"
       }
    ]
 }
