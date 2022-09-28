@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kateryna Lagno grabbed the sole lead at the Women's Grand Prix in Astana after scoring a fourth win in a row on Tuesday. Lagno defeated Zhu Jiner with the black pieces, while former co-leader Aleksandra Goryachkina signed a quick draw in her game against Zhansaya Abdumalik. Alexandra Kosteniuk and Polina Shuvalova also scored full points in round 9. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r9",
+         "pubDate" : "Wed, 28 Sep 2022 02:30:00 +0100",
+         "title" : "Astana GP: Lagno wins fourth game in a row, leads"
+      },
+      {
          "description" : "The disgraceful comments of Ilya Smirin on women chess created a much deserved reaction from the chess community. Yet, FIDE does not seem to take any immediate action on the issue. Instead, FIDE's Director General made the situation worse by saying, &#8220;I spoke to GM Smirin. He sincerely apologized, and promised to bring an apology []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://aicf.in/eport-world-cadets-chess-championships-2022-round-8-9/",
          "pubDate" : "Tue, 27 Sep 2022 10:31:00 +0000",
          "title" : "Report- World Cadets Chess Championships 2022 ,Round 8 & 9"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Tue, 27 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
