@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The African Individual Chess Championships 2022 concluded yesterday in Lagos, Nigeria. GM Amin Bassem and WGM Shahenda Wafa were crowned African Chess Champions for 2022 at the closing ceremony which took place by the end of the last round. The Egyptian grandmaster Bassem Amin tied for the first place with his compatriot and African Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-bassem-amin-and-wgm-shahenda-wafa-are-african-chess-champions-2022/",
+         "pubDate" : "Wed, 28 Sep 2022 11:53:49 +0000",
+         "title" : "GM Bassem Amin and WGM Shahenda Wafa are African Chess Champions 2022"
+      },
+      {
          "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;completel...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -194,14 +202,6 @@ news_feed (
          "title" : "Georgian GM Pantsulaia Levan leads table with a solitary point lead over others"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament. Rumors that Magnus Carlsen suspected Niemann was cheating were spreading over social medias, when Magnus Carlsen put more wood in the fire as he refused to play against Hans Niemann in the Julius []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sergey-karjakin-on-carlsens-statement-niemanns-guilt-has-not-been-proven-but-there-is-no-smoke-without-fire/",
-         "pubDate" : "Tue, 27 Sep 2022 14:56:59 +0000",
-         "title" : "Sergey Karjakin on Carlsen's statement: Niemann's guilt has not been proven, but there is no smoke without fire"
-      },
-      {
          "description" : "World chess champion Magnus Carlsen said on Monday he believes Hans Niemann has \"cheated more -- and more recently -- than he has publicly admitted\" and that he no longer wants to play against the American.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -224,14 +224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/abhimanyu-s-book",
          "pubDate" : "Tue, 27 Sep 2022 14:00:00 +0100",
          "title" : "Abhimanyu's book"
-      },
-      {
-         "description" : "From September 21 to 24 week a strong rapid and blitz tournament was held in Shusha, a town in Nagorno-Karabakh. Shakhriyar Mamedyarov won the open event, Nana Dzagnidze won the women's event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mamedyarov-and-dzagnidze-win-strong-rapid-and-blitz-tournament-in-nagorno-karabakh",
-         "pubDate" : "Tue, 27 Sep 2022 13:02:55 +0100",
-         "title" : "Mamedyarov and Dzagnidze win strong rapid and blitz tournament in Azerbaijan"
       },
       {
          "description" : "Round 8 U-8 Open AFM SafinSafarullakhan won in the 8th Round and jointly leading with two others. Also It was a win for Aadhya V(5.5)",
@@ -1616,6 +1608,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/upcoming-junior-events.html",
          "pubDate" : "Fri, 16 Sep 2022 13:37:00 +0000",
          "title" : "Upcoming Junior Events"
+      },
+      {
+         "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-battle-sargissian-harikrishna",
+         "pubDate" : "Fri, 16 Sep 2022 11:15:00 +0100",
+         "title" : "An epic endgame battle"
       },
       {
          "description" : "GM Alireza Firouzja continued his fine run of form in St. Louis in the 2022 Champions Showdown: Chess 9LX on Thursday with two key victories over GM Garry Kasparov and previous tournament leader GM Ian Nepomniachtchi. Firouzja&#39;s 2.5/3 score on day...",
