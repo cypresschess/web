@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Wed, 28 Sep 2022 10:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
+         "description" : "When chess gets featured extensively in The Wall Street Journal, The Atlantic, The New York Times, The Sunday Times and even VICE, while Elon Musk also weighs in and when it's the subject of sketches by Trevor Noah and Stephen Colbert in the same week, you'd normally think this was good. This time round, in his editorial in the October issue of CHESS Magazine, Malcolm Pein is not totally sure.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-editorial-malcolm-pein-rear-ended",
+         "pubDate" : "Wed, 28 Sep 2022 10:28:00 +0100",
+         "title" : "Malcolm Pein editorial: Rear-ended"
+      },
+      {
+         "description" : "The disgraceful remarks on women chess by GM Smirin were quickly met by a huge wave of criticism in the chess community. Initially, FIDE were slow to react, with FIDE's Director General Emil Sutovsky claiming that Smirin will appear again on the official broadcast tomorrow. The next day FIDE overruled the words of Sutovsky, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/after-a-wave-of-criticism-fide-removes-smirin-from-women-gp-live-studio/",
+         "pubDate" : "Wed, 28 Sep 2022 08:58:58 +0000",
+         "title" : "After a wave of criticism, FIDE removes Smirin from Women GP live studio"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Women's Chess Championship&#xA0;will be held from 4-20 October simultaneously with the US Chess Championship 2022 and features 14 of the strongest female chess players in America. Over the course of 13 rounds, these competitors will battle for $154,000 in prize money and the coveted title of 2022 U.S. Women's Champion. The top seeds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-womens-chess-championship-2022-list-of-participants/",
+         "pubDate" : "Wed, 28 Sep 2022 08:56:05 +0000",
+         "title" : "US Women's Chess Championship 2022 - List of participants"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2008",
+         "pubDate" : "Wed, 28 Sep 2022 08:40:13 +0000",
+         "title" : "FIDE's statement on sexist remarks"
+      },
+      {
+         "description" : "The 2022 U.S. Chess Championship will be held from 4-20 October simultaneously with the US Women's Chess Championship 2022, and features 14 of the strongest chess players in America. Over the course of 13 rounds, these competitors will battle for $250,500 in prize money and the coveted title of 2022 U.S. Champion. US Chess Champion []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/so-caruana-and-aronian-headline-the-us-chess-championship-2022-field-niemann-is-the-8th-seed/",
+         "pubDate" : "Wed, 28 Sep 2022 08:27:52 +0000",
+         "title" : "So, Caruana and Aronian headline the US Chess Championship 2022 field; Niemann is the 8th seed"
+      },
+      {
+         "description" : "Commonwealth Chess Championship 2022 will be started from 13th to 23rd November, 2022 at Kaluthara, Sri Lanka and players participated in the Over the Board",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2022-from-at-kaluthara-sri-lanka-from-13th-to-23rd-november-2022/",
+         "pubDate" : "Wed, 28 Sep 2022 08:19:44 +0000",
+         "title" : "Commonwealth Chess Championship 2022 from at Kaluthara, Sri Lanka from 13th to 23rd November, 2022"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94495697.cms\" />Magnus Carlsen's reasons why he feels that Hans Niemann cheats: \"unusual\" progress in over-the-board chess, the 19-year-old world No. 49 American \"wasn't tense or concentrating on the game at critical points\" during his classical win over the Norwegian earlier this month.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -162,28 +218,12 @@ news_feed (
          "title" : "Mamedyarov and Dzagnidze win strong rapid and blitz tournament in Azerbaijan"
       },
       {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament. Rumors that Magnus Carlsen suspected Niemann was cheating were spreading over social medias, when Magnus Carlsen put more wood in the fire as he refused to play against Hans Niemann in the Julius []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-raymond-keene-niemann-could-now-raise-stakes-by-consulting-mlearned-friends/",
-         "pubDate" : "Tue, 27 Sep 2022 10:36:52 +0000",
-         "title" : "GM Raymond Keene: Niemann could now raise stakes by consulting M'Learned Friends"
-      },
-      {
          "description" : "Round 8 U-8 Open AFM SafinSafarullakhan won in the 8th Round and jointly leading with two others. Also It was a win for Aadhya V(5.5)",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/eport-world-cadets-chess-championships-2022-round-8-9/",
          "pubDate" : "Tue, 27 Sep 2022 10:31:00 +0000",
          "title" : "Report- World Cadets Chess Championships 2022 ,Round 8 & 9"
-      },
-      {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-reveals-moves-of-the-beach-game-between-niemann-and-carlsen/",
-         "pubDate" : "Tue, 27 Sep 2022 08:59:16 +0000",
-         "title" : "Anish Giri reveals moves of the \"Beach Game\" between Niemann and Carlsen"
       },
       {
          "description" : " <p class=\"lead\">After a <a href=\"https://worldchess.com/news/all/carlsen-won-against-erigaisi-with-anti-young-player-chess/\">record-breaking result</a> at the Julius Baer Generation Cup, Magnus Carlsen decided to make a statement <a href=\"https://worldchess.com/news/all/i-cannot-particularly-speak-on-that-magnus-carlsen-on-hans-niema/\">- as promised -</a> on the Niemann situation, in which the World Champion directly accused Hans of cheating. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-anal-bead-scandal-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Crystal Fuller, Grand Chess Tour / M",
@@ -200,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/activity",
          "pubDate" : "Tue, 27 Sep 2022 09:00:00 +0100",
          "title" : "Activity!"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen today published the official statement on the recent &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy and accused Hans Niemann of cheating more than the 19-year-old American admitted publicly. Hikaru Nakamura commented on Carlsen&#x2019;s statement during his live stream saying that he believes Carlsen thinks that Hans Niemann cheated in the game they played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ramesh-rb-fide-should-have-devised-a-good-practical-solution-to-the-cheating-problem-years-ago/",
-         "pubDate" : "Tue, 27 Sep 2022 07:42:03 +0000",
-         "title" : "Ramesh RB: FIDE should have devised a good practical solution to the cheating problem years ago"
       },
       {
          "description" : "An exciting eighth round at the Women's Grand Prix in Astana, with five out of six games ending decisively, left Aleksandra Goryachkina and Kateryna Lagno (pictured) sharing the lead on 6/8 points. Notably, Goryachkina defeated former co-leader Zhu Jiner with the white pieces. Zhu now stands in sole third place, a full point behind the leaders. | Photo: FIDE / Anna Shtourman",
@@ -1570,22 +1602,6 @@ news_feed (
          "title" : "Upcoming Junior Events"
       },
       {
-         "description" : "High-stakes, classical games can be extremely enthralling as top grandmasters get enough time to discuss positions that are often cut short in events with quicker time controls. In round 8 of the Chennai Olympiad, Gabriel Sargissian scored a win that gave his team a crucial victory over India's top team. Sargissian converted a slightly superior endgame against Pentala Harikrishna, who valiantly defended until move 102. Wolfram Sch&ouml;n sent copious annotations of the epic endgame struggle. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-battle-sargissian-harikrishna",
-         "pubDate" : "Fri, 16 Sep 2022 11:15:00 +0100",
-         "title" : "An epic endgame battle"
-      },
-      {
-         "description" : "Ten international chess superstars are battling it out over the board on September 13-16 at the Champions Showdown Chess 9LX extravaganza. The field includes living legend Garry Kasparov, an in-form Alireza Firouzja and defending champion Leinier Dominguez. | Follow the games live starting at 21.00 CEST (15.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-live",
-         "pubDate" : "Fri, 16 Sep 2022 11:00:00 +0100",
-         "title" : "Chess 9LX: Games and standings"
-      },
-      {
          "description" : "GM Alireza Firouzja continued his fine run of form in St. Louis in the 2022 Champions Showdown: Chess 9LX on Thursday with two key victories over GM Garry Kasparov and previous tournament leader GM Ian Nepomniachtchi. Firouzja&#39;s 2.5/3 score on day...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2026,14 +2042,6 @@ news_feed (
          "title" : "Hans Niemann publicly blaming Hikaru Nakamura. Is it payback?"
       },
       {
-         "description" : "The much awaited World Youth Chess championship 2022 kick starts in Romania. Most of the Indians had a smooth sailing in the first 2 games.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-youth-chess-championship-2022-round-1-and-round-2-report/",
-         "pubDate" : "Thu, 08 Sep 2022 07:13:57 +0000",
-         "title" : "World Youth Chess championship 2022 :Round 1 and Round 2 Report"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94057419.cms\" />Hans Niemann has been in the middle of a storm at the ongoing Sinquefield Cup in St Louis, Missouri, after Magnus Carlsen withdrew from the tournament on Monday. With accusations of cheating being levelled against Niemann, the 19-year-old responded by denying any wrongdoing in the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2064,22 +2072,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/we-can-have-next-chess-world-champion-from-india-by-2025-viswanathan-anand/articleshow/94050454.cms",
          "pubDate" : "Wed, 07 Sep 2022 10:00:36 +0000",
          "title" : "We can have next Chess World Champion from India by 2025: Anand"
-      },
-      {
-         "description" : " <p class=\"lead\">Hans Niemann is on the quest to save his reputation from the collective innuendo that resulted in Magnus Carlsen walking away from a major tournament following an embarrassing loss to Niemann. But the new chess star is actually doing more than defending. He is aggressively building up his chess reputation and going after the three names synonymous with chess: Carlsen, Nakamura, and chess.com. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/2402B427-CB05-466C-A6C5-C154B3703348.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> </div> <a href=\"https://twitter.com/HansMokeNiemann/status/1567301263267696640\">https://twitter.com/HansMokeNiemann/status/15673012",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hans-niemann-on-quest-to-actually-build-his-reputation-from-the/",
-         "pubDate" : "Wed, 07 Sep 2022 08:28:58 +0000",
-         "title" : "Hans Niemann On Quest To Actually Build His Reputation From the Drama"
-      },
-      {
-         "description" : "The English Chess Federation's Junior Development Pathway is a new initiative by the ECF to create a structured and formal progression plan for junior chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/junior-development-pathway/",
-         "pubDate" : "Wed, 07 Sep 2022 07:54:36 +0000",
-         "title" : "Junior Development Pathway"
       }
    ]
 }
