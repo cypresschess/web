@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 19-year-old American grandmaster&#xA0;Hans Niemann&#xA0;has been in the limelight for the last couple of weeks. After&#xA0;Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-comments-on-yosha-iglesiass-the-most-incriminating-evidence-against-hans-niemann/",
+         "pubDate" : "Wed, 28 Sep 2022 19:22:45 +0000",
+         "title" : "Hikaru Nakamura comments on Yosha Iglesias's \"the most incriminating evidence against Hans Niemann\""
+      },
+      {
+         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan, for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;complete...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-commentator-sacked-sexist-remarks-ilya-smirin",
+         "pubDate" : "Wed, 28 Sep 2022 11:54:00 -0700",
+         "title" : "Chess Commentator Sacked For Making Sexist Remarks"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2011",
+         "pubDate" : "Wed, 28 Sep 2022 18:43:40 +0000",
+         "title" : "FIDE Chessable Academy resumes in October 2022"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #535 Merijn van Delft shows how Magnus Carlsen won a fine and patient attacking game against Arjun Erigaisi in the finals of the Julius B&auml;r Generation Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-september-27-2022",
-         "pubDate" : "Wed, 28 Sep 2022 09:07:31 -0700",
+         "pubDate" : "Wed, 28 Sep 2022 08:55:00 -0700",
          "title" : "Nakamura Sweeps Titled Tuesday After Battles With Carlsen"
       },
       {
@@ -53,9 +77,9 @@ news_feed (
          "description" : "<div class=\"body text-secondary\"> <strong>Wednesday, September 28, 2022 -</strong> Over more than a decade, we have worked tirelessly to fuel a resurgence of chess in America, to create a place for elite chess players to play at the highest levels for the greatest purses, and to democratize access to chess to all players, no matter age, race or skill set. It's been remarkable to see the widespread discussion around chess over the past several weeks, but it's important that we are clear on our position as it relates to cheating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/stlcc-cheating-statement",
+         "link" : "https://saintlouischessclub.org/blog/fair-play-saint-louis-chess-club",
          "pubDate" : "Wed, 28 Sep 2022 14:38:57 +0000",
-         "title" : "STLCC Cheating Statement"
+         "title" : "Fair Play at the Saint Louis Chess Club "
       },
       {
          "description" : " <p class=\"lead\">At the Women's Grand Prix held in Astana, Kazakhstan, FIDE's official commentator Ilya Smirin made some \"completely unacceptable\" sexist remarks publicly but also privately as revealed by his co-commentator WIM Fiona Steil-Antoni. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ilya-smirin-fiona-Steil-Antoni-women-grand-prix-fide-sexism.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman / FIDE</div> </div> While the <a href=\"https://worldchess.com/news/all/i-am-not-willing-to-play-chess-with-niemann-carlsen-on-the-cheat/\">cheating scandal</a> is still ongoing, GM Ilya Smirin decided to shock the chess w",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/commentator-smirin-fired-for-sexism/",
          "pubDate" : "Wed, 28 Sep 2022 12:17:23 +0100",
          "title" : "Commentator Smirin fired for sexism"
-      },
-      {
-         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan, for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;complete...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-commentator-sacked-sexist-remarks-ilya-smirin",
-         "pubDate" : "Wed, 28 Sep 2022 03:10:00 -0700",
-         "title" : "Chess Commentator Sacked For Making Sexist Remarks"
       },
       {
          "description" : "From 16 to 25 December 2022 Tunisia will host the World Francophone's major annual chess meeting at Yasmine Hammamet. These 2022 Individual Francophone Championships will award the following titles for 2022: &bull; Francophone Champion&bull; Woman Francophone Champion&bull; Senior Francophone Champion &bull; Veteran Francophone Champion&bull; Blitz Francophone Champion According to their FIDE ID, only players from Francophone Chess Association&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/\">Read More &#187;</a></span>",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/unacceptable-gm-ilya-smirin-claims-chess-is-not-for-women-during-the-official-women-gp-stream/",
          "pubDate" : "Tue, 27 Sep 2022 22:45:08 +0000",
          "title" : "Unacceptable: GM Ilya Smirin claims \"Chess is not for women\" during the official Women GP stream"
-      },
-      {
-         "description" : "Cheating allegations and the recent &#8220;Carlsen Niemann&#8221; chess drama became the top story of the news channels, magazines, and newspapers worldwide, among them: CNN, BBC, Al Jazeera, Vice, DW News, The Guardian, Washington Post, The Ney York Times etc. Magnus Carlsen yesterday published the official statement on the whole case, publicly accusing Hans Niemann []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-cancelling-my-diamond-membership-and-never-coming-back-to-chess-com-tweetoftheday/",
-         "pubDate" : "Tue, 27 Sep 2022 21:29:53 +0000",
-         "title" : "Magnus Carlsen: Cancelling my diamond membership and never coming back to chess.com #TweetOftheDay"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
