@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Sunday (October 2), the European Club Cup begins in Mayrhofen (Austria). The event consists of an Open Tournament and a Women's Tournament, and some of the world's best player will come to Austria, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the \"Europahaus\". | Photo: Google",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-and-anand-play-in-european-club-cup-in-austria-2",
+         "pubDate" : "Thu, 29 Sep 2022 12:36:36 +0100",
+         "title" : "Carlsen and Anand to play in European Club Cup in Austria"
+      },
+      {
+         "description" : "Over an hour of video training: Mihail Marin explains how Caruana achieved a clear advantage with a novelty in the Rossolimo Variation against Gukesh - and then missed the right continuation. Alexei Shirov shows with one of his games against Jorden van Foreest why you have to reckon with the Moscow Variation against him in the Semi-Slav again! \"The brilliancy\" comes from Greek GM Nikolas Theodorou, who led his team to the championship title in the 2022 Final Four of College Chess in the USA. The \"Lucky bag\" with 29 annotated games - among others Romain Edouard, Mihal Krasenkow and Spyridon Kapnisis analyse 17 games from the German Bundesliga - is again full of surprises and suggestions. Ches",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-209",
+         "pubDate" : "Thu, 29 Sep 2022 12:00:00 +0100",
+         "title" : "New: CBM Extra #209"
+      },
+      {
+         "description" : "Bodhana Sivanandan came second in the U8 Girls category at the FIDE World Cadet Chess Championship. Bodhana actually finished joint top with 9.5 points after...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-bodhana-2/",
+         "pubDate" : "Thu, 29 Sep 2022 10:56:54 +0000",
+         "title" : "Congratulations Bodhana!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2013",
+         "pubDate" : "Thu, 29 Sep 2022 09:43:14 +0000",
+         "title" : "Arkady Dvorkovich meets with President of Kazakhstan"
+      },
+      {
+         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The European Chess Club Cup 2022 will be played in 7 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-live/",
+         "pubDate" : "Thu, 29 Sep 2022 09:35:31 +0000",
+         "title" : "European Chess Club Cup 2022 - LIVE"
+      },
+      {
+         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women's section). The top seeded teams are CSU ASE Superbet Romania (average rating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-list-of-participants/",
+         "pubDate" : "Thu, 29 Sep 2022 09:23:13 +0000",
+         "title" : "European Chess Club Cup 2022 - List of participants"
+      },
+      {
+         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 10.00 CEST (4.00 ET, 13.30 IST) | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
+         "pubDate" : "Thu, 29 Sep 2022 09:50:00 +0100",
+         "title" : "Women's Grand Prix Astana: Live"
+      },
+      {
          "description" : "Chess coach Jay Weigall has published his first Chessable course. It is on the topic of the Ponziani Opening (1.e4 e5 2. Nf3 Nc6 3. c3) and you can get it for free here with 56 trainable variations Learning a simple opening right is often a more deadly force than learning a complex one sloppily. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -194,14 +250,6 @@ news_feed (
          "title" : "A position to know"
       },
       {
-         "description" : "The 19-year-old American grandmaster&#xA0;Hans Niemann&#xA0;has been in the limelight for the last couple of weeks. After Niemann defeated Magnus Carlsen in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#8220;Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-daniel-king-it-seems-to-have-been-forgotten-that-a-19-year-old-has-been-thrown-to-the-lions/",
-         "pubDate" : "Wed, 28 Sep 2022 13:35:14 +0000",
-         "title" : "GM Daniel King: \"It seems to have been forgotten that a 19-year-old has been thrown to the lions\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -216,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-in-education-lecturer-course-2022",
          "pubDate" : "Wed, 28 Sep 2022 14:00:00 +0100",
          "title" : "Fifth \"Chess in Education Lecturer\" course announced"
-      },
-      {
-         "description" : "The African Individual Chess Championships 2022 concluded yesterday in Lagos, Nigeria. GM Amin Bassem and WGM Shahenda Wafa were crowned African Chess Champions for 2022 at the closing ceremony which took place by the end of the last round. The Egyptian grandmaster Bassem Amin tied for the first place with his compatriot and African Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-bassem-amin-and-wgm-shahenda-wafa-are-african-chess-champions-2022/",
-         "pubDate" : "Wed, 28 Sep 2022 11:53:49 +0000",
-         "title" : "GM Bassem Amin and WGM Shahenda Wafa are African Chess Champions 2022"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>US Chess Championship</strong> <a href=\"https://www.uschesschamps.com/news-press-release-2022-us-championships/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced\">starting next Tuesday</a> at the <strong>St. Louis Chess Club</strong> confirmed the participation of <strong>Hans Niemann</strong> even though his <a href=\"https://docs.google.com/spreadsheets/d/127lwTsR-2Daz0JqN1TbZ8FgITX9Df9TyXT1gtjlZ5nk/edit#gid=0\">percentage of engine first line moves while qualifying</a> in the <strong>US Juniors 2021</strong> is a suspiciously high 78,6% percent. <strong>Hikaru Nakamura</strong> had decided much earlier to miss out on th",
@@ -1586,36 +1626,12 @@ news_feed (
          "title" : "The Woodpecker Method: How to get the best of both worlds"
       },
       {
-         "description" : "Fabiano Caruana scored three wins in a row on Friday to catch Alireza Firouzja in the lead of the Champions Showdown event in Saint Louis. The American star then defeated his young opponent in play-offs, choosing white in the Armageddon decider and converting a better knight endgame into a win with little time on the clock. Shakhriyar Mamedyarov and Ian Nepomniachtchi shared third place after finishing a half point behind the winners. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-9lx-2022-d3",
-         "pubDate" : "Sat, 17 Sep 2022 15:30:00 +0100",
-         "title" : "Caruana beats Firouzja in Armageddon, wins Champions Showdown"
-      },
-      {
-         "description" : "You might think that an event such as the Chess960 event in St Louis would somehow be devoid of endgame articles, but as the good doctor explained, \"for endgames Chess 960 does not make a difference\". Of course world class players will lead to world class endgame tussles such as Svidler's masterclass. Enjoy this latest entry and commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-in-st-louis",
-         "pubDate" : "Sat, 17 Sep 2022 15:00:00 +0100",
-         "title" : "Karsten M&uuml;ller: Topical Endgames in St Louis"
-      },
-      {
          "description" : "Alireza Firouzja was on the verge of scoring a sensational triple victory in St Louis, but Fabiano Caruana stopped the teenage sensation and won a dramatic Armageddon game to take the title in the Champions Showdown: Chess 9LX.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/caruana-stops-firouzja-from-winning-everything-in-st-louis",
          "pubDate" : "Sat, 17 Sep 2022 12:38:22 +0000",
          "title" : "Caruana beats Firouzja in Armageddon to win Chess 9LX"
-      },
-      {
-         "description" : "In his Power Play Show, Daniel King returns to the romantic King's Gambit, using examples from recent games. How to resist?! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-gambit-lunacy",
-         "pubDate" : "Sat, 17 Sep 2022 11:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: More King's Gambit lunacy"
       },
       {
          "description" : "Comparing the records of the world chess champions has become a popular pursuit. Such investigations have been fuelled by the fiftieth anniversary of Bobby Fischer's conquest of the championship, which fell precisely at the end of last month. Debate has been intensified by the announcement from the reigning champion, Magnus Carlsen, that he will retire []",
