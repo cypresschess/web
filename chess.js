@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What could possibly be more satisfying than playing a beautiful combination, or winning a splendid positional game? And yet, it is dangerous to rely too much on your sense of beauty, on your intuition. Why? Jan Markos explains. | Photo: Hardebeck Media on Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-14-the-trap-of-beauty",
+         "pubDate" : "Thu, 29 Sep 2022 16:00:00 +0100",
+         "title" : "The Winning Academy 14: The Trap of Beauty"
+      },
+      {
+         "description" : "The Saint Louis Chess Club and the U.S. Chess Federation have announced the fields of participants for the 2022 U.S. Championships and and U.S. Women's Championships. Among others, Hans Niemann will participate as the winner of the 2021 U.S. Youth Championships. The two championships begin on October 4 at the Saint Louis Chess Center.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2022-u-s-and-u-s-women-s-chess-championships-fields-announced",
+         "pubDate" : "Thu, 29 Sep 2022 15:00:00 +0100",
+         "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
+      },
+      {
+         "description" : " Sometimes you reach the end of a game, and despite a positive result, you aren't exactly sure why. This happened to me in a recent game, albeit one that had missed chances for both sides. Maybe what went right was not getting hit with 30.Rxf6! which leads to a better position after 31. ... Bxf6 32.Rxf6 Rxf6 33.Ng4! Instead the 'automatic' 30.Bxf6 enabled me to exploit my advantage on the queenside, although even then, it was my turn to miss the winning tactic. Fortunately there was still enough to convert the ending into a full point. <br /> <br /> <b>Pearce,Tim - Press,Shaun [E81]</b><br />Gungahlin CC (3), 27.09.2022 <script>new PgnViewer( { boardName: \"game1354\", movesFormat: \"default\", ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/not-sure-what-went-right-here.html",
+         "pubDate" : "Thu, 29 Sep 2022 13:01:00 +0000",
+         "title" : "Not sure what went right here"
+      },
+      {
          "description" : "On Sunday (October 2), the European Club Cup begins in Mayrhofen (Austria). The event consists of an Open Tournament and a Women's Tournament, and some of the world's best player will come to Austria, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the \"Europahaus\". | Photo: Google",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "Nakamura: The Opening Decides Everything | Day 2"
       },
       {
-         "description" : "In the fourth episode of \"Olympiad Stories with Saravanan\", we focus on the 14th world champion, Vladimir Kramnik. Kramnik arrived at the world scene in 1992 at the Manila Olympiad, with a score of 8&frac12;/9. His performance rating was over 2900! This was the stage where he broke through, before eventually defeating Garry Kasparov in the World Championship. In this episode, you get to know not only about the 1992 Olympiad and Kramnik's games, but also about Vladimir's personality.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saravanan-olympiad-stories-vladimir-kramnik",
-         "pubDate" : "Sat, 17 Sep 2022 23:50:00 +0100",
-         "title" : "The man who took down Garry Kasparov: Vladimir Kramnik"
-      },
-      {
          "description" : " The cheating scandal that dominated the 2022 Sinquefield Cup saw GM Hans Niemann fall into controversial spotlight in his first supertournament. The incident was precipitated by Magnus Carlsen's withdrawal from the tournament and a tweet that included a reference to cheating. Many commenting on the matter did not understand the tweet and figured it only The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/\">After the Carlsen-Niemann firestorm, what now?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1616,14 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1989",
          "pubDate" : "Sat, 17 Sep 2022 18:37:05 +0000",
          "title" : "Women's Grand Prix 2022-2023 officially opened"
-      },
-      {
-         "description" : "Some readers may have heard of this special tactics training regime, while others will wonder about the gimmicky sounding name. This is the name given to an intensive but very effective training method by the Swedish grandmaster Tikkanen, which just so happens to be a dream fit for the Replay Training feature in ChessBase 16. See how you can get this best of both worlds and watch the video to demonstrate!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-woodpecker-method-how-to-get-the-best-of-both-worlds",
-         "pubDate" : "Sat, 17 Sep 2022 16:00:00 +0100",
-         "title" : "The Woodpecker Method: How to get the best of both worlds"
       },
       {
          "description" : "Alireza Firouzja was on the verge of scoring a sensational triple victory in St Louis, but Fabiano Caruana stopped the teenage sensation and won a dramatic Armageddon game to take the title in the Champions Showdown: Chess 9LX.",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html",
          "pubDate" : "Thu, 08 Sep 2022 15:53:00 +0000",
          "title" : "Chess Players Behaving Very, Very Badly"
-      },
-      {
-         "description" : " <p class=\"lead\">After a couple of loud days full of tweets, streams, and drama, Hans Niemann decided to respond to his critics and directly ask Nakamura's comments on his late interview, and - maybe - his apology. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-Hikaru-Nakamura-Grand-Chess-tour-cheating.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes, Grand Chess Tour</div> </div> <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-all-the-info-so-far/\">You know what happened!</a> Magnus Carlsen lost with white against Hans Niemann in Round 3 of the Sinquefield Cup 2022, ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hans-niemann-publicly-blaming-hikaru-nakamura-is-it-payback/",
-         "pubDate" : "Thu, 08 Sep 2022 13:37:21 +0000",
-         "title" : "Hans Niemann publicly blaming Hikaru Nakamura. Is it payback?"
       }
    ]
 }
