@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1971",
          "pubDate" : "Fri, 09 Sep 2022 04:57:05 +0000",
          "title" : "World Youth U14, U16, and U18 Championships kick off in Mamaia, Romania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1970",
-         "pubDate" : "Thu, 08 Sep 2022 19:33:13 +0000",
-         "title" : "Arvindh Chitambaram crowned champion of 22nd Dubai Open Chess"
       }
    ]
 }
