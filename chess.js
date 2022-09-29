@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Going into the final round of the Women's Grand Prix in Astana, Kateryna Lagno leads Aleksandra Goryachkina by a half point after both contenders for first place drew their games with white on Wednesday. Zhu Jiner (pictured) beat Alina Kashlinskaya to grab sole third place. Unfortunately for the chess world, another scandal made headlines on mainstream media: commentator Ilya Smirin was fired by FIDE after making sexist remarks during round 9's broadcast. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r10",
+         "pubDate" : "Thu, 29 Sep 2022 03:05:00 +0100",
+         "title" : "Astana GP: Zhu scores, Smirin fired over sexist comments"
+      },
+      {
          "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/",
          "pubDate" : "Wed, 28 Sep 2022 10:00:14 +0000",
          "title" : "9 ° Rencontres Internationales des Echecs Francophones (RIDEF)"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 11.00 CEST (5.00 ET, 14.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Wed, 28 Sep 2022 10:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : "When chess gets featured extensively in The Wall Street Journal, The Atlantic, The New York Times, The Sunday Times and even VICE, while Elon Musk also weighs in and when it's the subject of sketches by Trevor Noah and Stephen Colbert in the same week, you'd normally think this was good. This time round, in his editorial in the October issue of CHESS Magazine, Malcolm Pein is not totally sure.",
