@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2015",
+         "pubDate" : "Thu, 29 Sep 2022 21:45:56 +0000",
+         "title" : "FIDE's FPL to form an investigatory panel for the Carlsen-Niemann controversy"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s <strong>Fair Play Commission</strong> <a href=\"https://www.sportschau.de/schach/magnus-carlsen-hans-niemann-ermittlungen-100.html\">will nominate three people</a> to run investigations against <strong>Hans Niemann</strong>, suspected of cheating, and <strong>Magnus Carlsen</strong>, suspected of false accusation. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
