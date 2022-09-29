@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess coach Jay Weigall has published his first Chessable course. It is on the topic of the Ponziani Opening (1.e4 e5 2. Nf3 Nc6 3. c3) and you can get it for free here with 56 trainable variations Learning a simple opening right is often a more deadly force than learning a complex one sloppily. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-devious-ponziani-free-course/",
+         "pubDate" : "Thu, 29 Sep 2022 06:17:07 +0000",
+         "title" : "The Devious Ponziani (FREE course)"
+      },
+      {
          "description" : "Going into the final round of the Women's Grand Prix in Astana, Kateryna Lagno leads Aleksandra Goryachkina by a half point after both contenders for first place drew their games with white on Wednesday. Zhu Jiner (pictured) beat Alina Kashlinskaya to grab sole third place. Unfortunately for the chess world, another scandal made headlines on mainstream media: commentator Ilya Smirin was fired by FIDE after making sexist remarks during round 9's broadcast. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r10",
          "pubDate" : "Thu, 29 Sep 2022 03:05:00 +0100",
          "title" : "Astana GP: Zhu scores, Smirin fired over sexist comments"
+      },
+      {
+         "description" : "The International round-robin tournament &#8220;Chess stars 2022&#8221; will be held from 29 September 5 October in Moscow, Russia. The event will gather more than 100 players, among whom are 10 world-known grandmasters from Russia, Azerbaijan, India and Spain: Sergey Karjakin, Vladimir Kramnik, Teimour Radjabov, Alexander Grischuk, Francisco Vallejo, Vladislav Artemiev, Ernesto Inarkiev, Raunak Sadhwani, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-stars-2022-tournament-in-moscow-with-karjakin-and-230-000-eur-prize-fund/",
+         "pubDate" : "Thu, 29 Sep 2022 01:15:00 +0000",
+         "title" : "\"Chess stars 2022\" tournament in Moscow, with Karjakin and 230.000 eur prize fund"
       },
       {
          "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
@@ -240,22 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-editorial-malcolm-pein-rear-ended",
          "pubDate" : "Wed, 28 Sep 2022 10:28:00 +0100",
          "title" : "Malcolm Pein editorial: Rear-ended"
-      },
-      {
-         "description" : "The disgraceful remarks on women chess by GM Smirin were quickly met by a huge wave of criticism in the chess community. Initially, FIDE were slow to react, with FIDE's Director General Emil Sutovsky claiming that Smirin will appear again on the official broadcast tomorrow. The next day FIDE overruled the words of Sutovsky, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/after-a-wave-of-criticism-fide-removes-smirin-from-women-gp-live-studio/",
-         "pubDate" : "Wed, 28 Sep 2022 08:58:58 +0000",
-         "title" : "After a wave of criticism, FIDE removes Smirin from Women GP live studio"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Women's Chess Championship&#xA0;will be held from 4-20 October simultaneously with the US Chess Championship 2022 and features 14 of the strongest female chess players in America. Over the course of 13 rounds, these competitors will battle for $154,000 in prize money and the coveted title of 2022 U.S. Women's Champion. The top seeds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-womens-chess-championship-2022-list-of-participants/",
-         "pubDate" : "Wed, 28 Sep 2022 08:56:05 +0000",
-         "title" : "US Women's Chess Championship 2022 - List of participants"
       },
       {
          "description" : "",
