@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s <strong>Fair Play Commission</strong> <a href=\"https://www.sportschau.de/schach/magnus-carlsen-hans-niemann-ermittlungen-100.html\">will nominate three people</a> to run investigations against <strong>Hans Niemann</strong>, suspected of cheating, and <strong>Magnus Carlsen</strong>, suspected of false accusation. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/fpp-investigates-against-niemann-and/",
+         "pubDate" : "Thu, 29 Sep 2022 19:21:52 +0100",
+         "title" : "FPP investigates against Niemann and Carlsen"
+      },
+      {
+         "description" : "Thanks to a strong finish, scoring five points over her last six games, GM Kateryna Lagno of Russia won the first leg of the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan. She finished half a point ahead of her compatriot GM Aleksandra Goryachkina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lagno-wins-astana-fide-women-grand-prix",
+         "pubDate" : "Thu, 29 Sep 2022 11:12:00 -0700",
+         "title" : "Lagno Wins Astana FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "After a long and tense final round, Kateryna Lagno, playing under the FIDE flag, emerged as the winner of the Astana leg of the 2022-2023 Women&#x2019;s Grand Prix. Undefeated, Lagno scored 8/11, a full point ahead of pre-event favourite Aleksandra Goryachkina, who could only achieve a draw in the final round against Vaishali and finished []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-wins-fide-womens-grand-prix-astana-2022/",
+         "pubDate" : "Thu, 29 Sep 2022 16:26:34 +0000",
+         "title" : "Kateryna Lagno wins FIDE Women's Grand Prix Astana 2022"
+      },
+      {
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since. Legendary grandmaster and former []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/garry-kasparov-carlsens-behavior-was-unacceptable/",
+         "pubDate" : "Thu, 29 Sep 2022 15:59:28 +0000",
+         "title" : "Garry Kasparov: Carlsen's behavior was unacceptable"
+      },
+      {
          "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set&#160;a new participation record&#160;with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The top seeded teams of the 2022 European Women's Club Cup are Cercle []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -150,7 +182,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d5",
-         "pubDate" : "Wed, 28 Sep 2022 15:02:17 -0700",
+         "pubDate" : "Wed, 28 Sep 2022 15:02:00 -0700",
          "title" : "Experience Bests Youth: Radjabov Knocks Out Erigaisi"
       },
       {
@@ -162,28 +194,12 @@ news_feed (
          "title" : "Motherboard reviews e-mails in which Maxim Dlugy confesses cheating on chess.com"
       },
       {
-         "description" : "The 2022 U.S. Chess Championship will be held from 4-20 October simultaneously with the US Women&#x2019;s Chess Championship 2022, and features 14 of the strongest chess players in America. Over the course of 13 rounds, these competitors will battle for $250,500 in prize money and the coveted title of 2022 U.S. Champion. US Chess Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/saint-louis-chess-club-with-anti-cheating-measures-during-the-us-championship-2022/",
-         "pubDate" : "Wed, 28 Sep 2022 20:42:35 +0000",
-         "title" : "Saint Louis Chess Club with anti-cheating measures during the US Championship 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2012",
          "pubDate" : "Wed, 28 Sep 2022 20:33:43 +0000",
          "title" : "Winners crowned at FIDE World Cadet Championship"
-      },
-      {
-         "description" : "The 19-year-old American grandmaster&#xA0;Hans Niemann&#xA0;has been in the limelight for the last couple of weeks. After&#xA0;Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-comments-on-yosha-iglesiass-the-most-incriminating-evidence-against-hans-niemann/",
-         "pubDate" : "Wed, 28 Sep 2022 19:22:45 +0000",
-         "title" : "Hikaru Nakamura comments on Yosha Iglesias's \"the most incriminating evidence against Hans Niemann\""
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Confidential emails between the New York grandmaster and coach <strong>Max Dlugy</strong>, confessing cheating in prize money events on <strong>Chess.com</strong> and the platform's Chief Chess Officer <strong>Danny Rensch</strong> <a href=\"https://www.vice.com/en/article/z34qz8/chess-grandmaster-maxim-dlugy-admitted-to-cheating-on-chesscom-emails-show\">have been leaked to</a> <strong>Motherboard</strong>, the tech section of <strong>Vice</strong> for an <a href=\"https://www.vice.com/en/article/z34qz8/chess-grandmaster-maxim-dlugy-admitted-to-cheating-on-chesscom-emails-show\">unproportionate article</a>. Dlugy was earlier singled out by <strong>Magn",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment-2",
          "pubDate" : "Mon, 26 Sep 2022 13:00:00 +0100",
          "title" : "Studies for fun and entertainment (2)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Education Commission</strong> has announced a conference on chess for preschoolers in cooperation with the <strong><a href=\"https://chesstudy.com\">Chess Scientific Research Institute</a></strong> of Armenia to be held on 10 December and is calling for papers. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/preschool-chess-conference-on-10/",
-         "pubDate" : "Mon, 26 Sep 2022 10:59:39 +0100",
-         "title" : "Preschool chess conference on 10 December"
       },
       {
          "description" : " <p class=\"lead\">After posting a record score in the Julius Baer Generation Cup Prelims, Magnus Carlsen won the final against 19-year-old Arjun Erigaisi in the minimum possible number of games! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-arjun-erigaisi-julius-baer-generation-cup.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24</div> </div> The Julius Baer Generation Cup 2022 started unorthodoxically for the World Champion, who chose to <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resign on move 2</a> against Hans Niemann. Despite gifting Hans 3 whole po",
@@ -1714,14 +1722,6 @@ news_feed (
          "title" : "Svidler Sweeps Shirov, Favorites Triumph"
       },
       {
-         "description" : "GM Fabiano Caruana soared from behind on the final day of the 2022 Champions Showdown: Chess 9LX to equal GM Alireza Firouzja&#39;s impressive 6.5/9, before beating him in a playoff that required an armageddon game to determine the winner.&#38;nbsp; Fir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-champions-showdown-chess9lx-day-3",
-         "pubDate" : "Fri, 16 Sep 2022 13:27:00 -0700",
-         "title" : "Caruana Wins Armaggedon Playoff Thriller"
-      },
-      {
          "description" : "Teenage sensation Alireza Firouzja has already won two events in St Louis. Having taken over the lead on Day 2 of the Champions Showdown: Chess 9LX along with Shakhriyar Mamedyarov, the 19-year-old could complete an incredible hat-trick of victories.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2152,14 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1970",
          "pubDate" : "Thu, 08 Sep 2022 19:33:13 +0000",
          "title" : "Arvindh Chitambaram crowned champion of 22nd Dubai Open Chess"
-      },
-      {
-         "description" : "The game:- <UL><LI>2022-09-04: <A HREF=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">Magnus Carlsen vs Hans Moke Niemann; Sinquefield Cup (2022), Saint Louis, MO USA, rd 3</A>(chessgames.com) <LI>2022-09-07: <A HREF=\"https://www.youtube.com/watch?v=Iq2DJJ_1Nu4\">The Game That Broke the Internet - Carlsen vs Niemann</A>(youtube.com; Epic Chess; analysis: James Gardner) </UL> <P>The players:- <UL><LI>2022-09-05: <A HREF=\"https://twitter.com/MagnusCarlsen/status/1566848734616555523\">Magnus Carlsen on Twitter: \"I've withdrawn from the tournament...\"</A>(twitter.com/MagnusCarlsen) &#149; '...I've always enjoyed playing in the @STLChessClub, and hope to be back in the future.' <LI>2022-09",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html",
-         "pubDate" : "Thu, 08 Sep 2022 15:53:00 +0000",
-         "title" : "Chess Players Behaving Very, Very Badly"
       }
    ]
 }
