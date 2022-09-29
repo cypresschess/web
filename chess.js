@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set&#160;a new participation record&#160;with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The top seeded teams of the 2022 European Women's Club Cup are Cercle []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-list-of-participants/",
+         "pubDate" : "Thu, 29 Sep 2022 15:08:10 +0000",
+         "title" : "European Women's Chess Club Cup 2022 - List of participants"
+      },
+      {
          "description" : "What could possibly be more satisfying than playing a beautiful combination, or winning a splendid positional game? And yet, it is dangerous to rely too much on your sense of beauty, on your intuition. Why? Jan Markos explains. | Photo: Hardebeck Media on Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-winning-academy-14-the-trap-of-beauty",
          "pubDate" : "Thu, 29 Sep 2022 16:00:00 +0100",
          "title" : "The Winning Academy 14: The Trap of Beauty"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2014",
+         "pubDate" : "Thu, 29 Sep 2022 14:49:45 +0000",
+         "title" : "2022 Astana Women's Grand Prix: Kateryna Lagno, winner "
       },
       {
          "description" : "The Saint Louis Chess Club and the U.S. Chess Federation have announced the fields of participants for the 2022 U.S. Championships and and U.S. Women's Championships. Among others, Hans Niemann will participate as the winner of the 2021 U.S. Youth Championships. The two championships begin on October 4 at the Saint Louis Chess Center.",
@@ -104,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-stars-2022-tournament-in-moscow-with-karjakin-and-230-000-eur-prize-fund/",
          "pubDate" : "Thu, 29 Sep 2022 01:15:00 +0000",
          "title" : "\"Chess stars 2022\" tournament in Moscow, with Karjakin and 230.000 eur prize fund"
+      },
+      {
+         "description" : " From the publisher: &#8220;Rashid Nezhmetdinov (1912-1974) played fearless attacking chess. With his dazzling style, the Soviet master already was a legend during his lifetime, but international fame largely eluded him. Only once did he get permission to show his exceptional talent in a tournament abroad. Five times Nezhmetdinov was chess champion of the Russian Federation. <a href=\"http://britishchessnews.com/2022/09/29/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollo",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/09/29/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/",
+         "pubDate" : "Thu, 29 Sep 2022 00:10:49 +0000",
+         "title" : "The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov"
       },
       {
          "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fide-fires-gm-smirin-for-sexism-at-the-women-grand-prix/",
          "pubDate" : "Wed, 28 Sep 2022 14:33:14 +0000",
          "title" : "FIDE fires GM Smirin for sexism at the Women Grand Prix"
-      },
-      {
-         "description" : "The FIDE World Cadets Chess Championships 2022, organized by FIDE, the Georgian Chess Federation and the Georgian Chess Club &#x201C;64&#x201D;, took place from 16-28 September, in three age groups &#x2013; Under 8, 10, 12 and 2 sections &#x2013; open and girls. The event gathered 747 children from 68 countries who fought over 11 swiss rounds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-cadet-u8-u10-and-u12-chess-champions-crowned-in-batumi-georgia/",
-         "pubDate" : "Wed, 28 Sep 2022 14:01:05 +0000",
-         "title" : "FIDE World Cadet U8, U10 and U12 Chess Champions crowned in Batumi, Georgia"
       },
       {
          "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOLTYMr72_O9EcoteW6jwgd4Ph1x8PETNNZqRGvSBSOyLil2YD7mSN1t8rMKx2nFTocxwBcDNHUaRNa4upsnuEd7ILFB87fac-tCsaIFOF7CJyivSdTlHolRUCbpzN3wsD3uzHyd_BuGZpmIKtmLjGfU2o4dAtvQlGtYYuxmealwqBqssxuwg9C9I/s680/amomuh.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOLTYMr72_O9EcoteW6jwgd4Ph1x8PETNNZqRGvSBSOyLil2YD",
@@ -1256,6 +1272,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pune-magnus-carlsens-resignation-gambit-kicks-up-row/city/pune/pune-magnus-carlsens-resignation-gambit-kicks-up-row/articleshow/94337713.cms",
          "pubDate" : "Wed, 21 Sep 2022 00:23:35 +0000",
          "title" : "Magnus Carlsen's resignation gambit kicks up row"
+      },
+      {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;Every chess player, from club level up, can improve their game by using engines. That is the message of Matthew Sadler's thought-provoking new book, based on many years of experience with the world's best chess software. You may not be able to replicate their dazzling-deep <a href=\"http://britishchessnews.com/2022/09/21/the-silicon-road-to-chess-improvement-chess-engine-training-methods-opening-strategies-middlegame-techniques/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Silicon Road To Chess Improvement: Chess Engine Training Methods, Opening Strategies &#38; Middlegame Techniques</span> <span class=\"met",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/09/21/the-silicon-road-to-chess-improvement-chess-engine-training-methods-opening-strategies-middlegame-techniques/",
+         "pubDate" : "Wed, 21 Sep 2022 00:10:21 +0000",
+         "title" : "The Silicon Road To Chess Improvement: Chess Engine Training Methods, Opening Strategies & Middlegame Techniques"
       },
       {
          "description" : "With three rounds to go, a combative final day of preliminaries awaits us in the Generation Cup, as most participants still have chances to reach the knockout stage. Meanwhile, Magnus Carlsen already clinched a spot in the knockout after retaking the lead ahead of Arjun Erigaisi, who nonetheless continues to impress in the online event. | Photo: FIDE / Niki Riga",
