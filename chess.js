@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 19-year-old, named as cheater by Magnus Carlsen, is due to play for the US title in a 14-grandmaster field including three of the world top 10 Hans Niemann will be tested by three of the top 10 grandmasters next week when the 19-year-old, who the world champion, Magnus Carlsen, has publicly declared to be a cheat, takes on the American elite in the $250,000 US championship at St Louis, which has its first round (of 13) on Wednesday. Niemann will be returning to the the \"capital of chess\" where a few weeks ago he shocked Carlsen by defeating the Norwegian in the third round of the Sinquefield Cup. <a href=\"https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-s",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-saga-expected-in-st-louis-on-wednesday",
+         "pubDate" : "Fri, 30 Sep 2022 07:00:32 +0000",
+         "title" : "Chess: latest round of Hans Niemann saga expected in St Louis on Wednesday"
+      },
+      {
+         "description" : "European Chess Union organizes European Cities &#38; Towns Chess Championship 2022 which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event will be played as a team competition in four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the ECU Development fund. Each&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
+         "pubDate" : "Fri, 30 Sep 2022 06:48:35 +0000",
+         "title" : "European Cities & Towns Chess Championship 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94550793.cms\" />FIDE said it will convene a three-person panel to look into world champion Magnus Carlsen's allegations that American player Hans Niemann had cheated.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/international-chess-federation-to-form-panel-to-look-into-cheating-allegations/articleshow/94550793.cms",
+         "pubDate" : "Fri, 30 Sep 2022 05:25:28 +0000",
+         "title" : "FIDE to form panel to look into cheating allegations"
+      },
+      {
+         "description" : "Kateryna Lagno won the first stage of the Women's Grand Prix series with an undefeated 8/11 score. Lagno finished a half point ahead of Aleksandra Goryachkina (pictured, left), who scraped a half point in the final round after Vaishali Rameshbabu failed to convert a winning rook endgame. Chinese youngster Zhu Jiner grabbed third place. Zhansaya Abdumalik and Dinara Wagner scored full points on the last day of action. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r11",
+         "pubDate" : "Fri, 30 Sep 2022 06:15:00 +0100",
+         "title" : "Kateryna Lagno wins Astana Women's Grand Prix"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1594,14 +1626,6 @@ news_feed (
          "title" : "Grumpy old man"
       },
       {
-         "description" : "The idea that you should prepare yourself before undertaking an operation is highly germane both to chess and \"real life\". As has been reiterated many times over the years, to overcome good defence, you need both some significant advantages in the sector and a clear target. To prove this point, three exquisite examples of players taking all the preparatory steps before a shattering finale are presented. | Pictured: Jon Speelman facing chess computer Sargon 2.5 in 1980",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-178",
-         "pubDate" : "Sun, 18 Sep 2022 14:00:00 +0100",
-         "title" : "First catch your rabbit!"
-      },
-      {
          "description" : " I have a question for you. Here are some positions from a tournament in which 30 games were played. How strong do you think the players were? In position 1 White played 29. Qf3??, losing at once to Nd3, winning the exchange as both Nxc1 and Ne5 are threatened. In position 2 40. Rb1 or <a href=\"https://chessimprover.com/wrong-said-fred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Said Fred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-said-fred/\">Wrong Said Fred</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2128,30 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1973",
          "pubDate" : "Fri, 09 Sep 2022 10:42:47 +0000",
          "title" : "FIDE Trainers Commission (TRG): Five FIDE Trainers Seminars announced"
-      },
-      {
-         "description" : " The 19-year-old grandmaster, whose win against the world champion led to Magnus Carlsen withdrawing from a tournament for the first time, says there is a campaign against him Magnus Carlsen's shock withdrawal from the $350,000 Sinquefield Cup in St Louis following his third-round defeat to the newcomer Hans Niemann has triggered a variety of \"cheating\" claims. It is potentially the most serious such case for international chess since the 2005 Toiletgate world championship match, when Veselin Topalov accused Vlad Kramnik of analysing games in the lavatory. Carlsen's loss to Niemann, 19, was his first for several years with White to a much lower rated opponent, and it was the first withdrawal",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/sep/09/chess-hans-niemann-hits-back-over-cheating-controversy-in-st-louis",
-         "pubDate" : "Fri, 09 Sep 2022 07:00:26 +0000",
-         "title" : "Chess: Hans Niemann hits back over 'cheating' controversy in St Louis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1972",
-         "pubDate" : "Fri, 09 Sep 2022 05:52:11 +0000",
-         "title" : "2022 Sinquefield Cup - Day 6 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1971",
-         "pubDate" : "Fri, 09 Sep 2022 04:57:05 +0000",
-         "title" : "World Youth U14, U16, and U18 Championships kick off in Mamaia, Romania"
       }
    ]
 }
