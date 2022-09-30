@@ -10,6 +10,14 @@ news_feed (
          "title" : "Tracking a player's progress"
       },
       {
+         "description" : " Phong Huynh is the 2022 ACT Junior Chess Champion, after surviving a tense final day of the competition. Sharing the overnight lead with Masaki Horikawa on 5/6, both players lost their round 7 games to open the tournament right up. Richard Ji then took the lead on 5.5/7, but a round 8 draw with Dev Raichura (and a 2nd loss of the day to Horikawa), left Huynh, Ji and Muhammed Yunus tied for 1st on 6/8. As they had already played each other, it came to to games against other opponents. Both Huynh and Ji won their games, while Yunus missed a tactic against ACT Girls Champion Shriya Karthik and resigned material down. Under the tournament tie-break rules, Huynh was awarded the 1st place trophy ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-junior-chess-championship.html",
+         "pubDate" : "Fri, 30 Sep 2022 12:55:00 +0000",
+         "title" : "2022 ACT Junior Chess Championship"
+      },
+      {
          "description" : "The International round-robin tournament &#x201C;Chess stars 2022&#x201D; will be held from 29 September &#x2013; 5 October in Moscow, Russia. The main event is a 10 player round robin tournament with 10 world-known grandmasters from Russia, Azerbaijan, India and Spain: Sergey Karjakin, Vladimir Kramnik, Teimour Radjabov, Alexander Morozevich, Francisco Vallejo, Vladislav Artemiev, Ernesto Inarkiev, Raunak Sadhwani, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
