@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, Daniel King takes a close look at the game Saric-Ivanchuk, played at the Julius B&auml;r Generation Cup. We see a bold attacking idea right out of the opening that almost catches Ivanchuk. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-raging-rook",
+         "pubDate" : "Fri, 30 Sep 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: The Raging Rook"
+      },
+      {
+         "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022 starts tomorrow in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022-starts-tomorrow/",
+         "pubDate" : "Fri, 30 Sep 2022 14:19:51 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad 2022 starts tomorrow"
+      },
+      {
+         "description" : "The fourth and the final leg of the $100.000 MPL Indian Chess Tour&#xA0;is taking place from 30 September &#x2013; 3 October on chess24.com. 16 players compete in the all-play-all tournament for a qualification spot on the&#xA0;Meltwater Champions Chess Tour. Time control is 15 minutes + 10 second increment starting from move one. The winners and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022-leg-4-live/",
+         "pubDate" : "Fri, 30 Sep 2022 13:57:35 +0000",
+         "title" : "MPL Indian Chess Tour 2022 - Leg 4 LIVE"
+      },
+      {
+         "description" : "The fourth and the final leg of the $100.000 MPL Indian Chess Tour takes place from 30 September 3 October online. 16 players compete in the all-play-all tournament for a qualification spot on the Meltwater Champions Chess Tour. Time control is 15 minutes + 10 second increment starting from move one. The winners and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022-leg-4/",
+         "pubDate" : "Fri, 30 Sep 2022 13:54:21 +0000",
+         "title" : "MPL Indian Chess Tour 2022 - Leg 4"
+      },
+      {
          "description" : "A few days ago Europe's biggest news portal, SPIEGEL Online, had YACS - yet another cheating story. It concentrated on a portrait of the accused Hans Niemann, and traced his chess development over the years. Did you know you can easily track the Elo progress in the ChessBase Players service? And also his best games, his best and his most difficult opponents, his favourite openings and most/least successful openings. If not, take a look at what you have been missing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,36 +290,12 @@ news_feed (
          "title" : "Arkady Dvorkovich meets with President of Kazakhstan"
       },
       {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The European Chess Club Cup 2022 will be played in 7 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-live/",
-         "pubDate" : "Thu, 29 Sep 2022 09:35:31 +0000",
-         "title" : "European Chess Club Cup 2022 - LIVE"
-      },
-      {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women's section). The top seeded teams are CSU ASE Superbet Romania (average rating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-list-of-participants/",
-         "pubDate" : "Thu, 29 Sep 2022 09:23:13 +0000",
-         "title" : "European Chess Club Cup 2022 - List of participants"
-      },
-      {
          "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 10.00 CEST (4.00 ET, 13.30 IST) | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
          "pubDate" : "Thu, 29 Sep 2022 09:50:00 +0100",
          "title" : "Women's Grand Prix Astana: Live"
-      },
-      {
-         "description" : "Chess coach Jay Weigall has published his first Chessable course. It is on the topic of the Ponziani Opening (1.e4 e5 2. Nf3 Nc6 3. c3) and you can get it for free here with 56 trainable variations Learning a simple opening right is often a more deadly force than learning a complex one sloppily. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-devious-ponziani-free-course/",
-         "pubDate" : "Thu, 29 Sep 2022 06:17:07 +0000",
-         "title" : "The Devious Ponziani (FREE course)"
       },
       {
          "description" : "Going into the final round of the Women's Grand Prix in Astana, Kateryna Lagno leads Aleksandra Goryachkina by a half point after both contenders for first place drew their games with white on Wednesday. Zhu Jiner (pictured) beat Alina Kashlinskaya to grab sole third place. Unfortunately for the chess world, another scandal made headlines on mainstream media: commentator Ilya Smirin was fired by FIDE after making sexist remarks during round 9's broadcast. | Photo: FIDE / Anna Shtourman",
@@ -1626,14 +1634,6 @@ news_feed (
          "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 3 (18.09.2022 ; 15:00)"
       },
       {
-         "description" : "In the first round of the tournament in the Kazakh capital, players who belong to the same federation had to play each other first. So, on Sunday, Dinara Wagner faced Elisabeth Paehtz in an all-German confrontation, with Paehtz finally grabbing the full point. Meanwhile, top seed Aleksandra Goryachkina defeated rising star Polina Shuvalova with the white pieces. The four remaining games finished drawn. | Photos: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r1",
-         "pubDate" : "Mon, 19 Sep 2022 10:10:00 +0100",
-         "title" : "Astana GP: Goryachkina and Paehtz attack and win"
-      },
-      {
          "description" : "GM Magnus Carlsen had a splendid start on the first day of the Julius Baer Generation Cup, scoring 10 out of a possible 12 points with three wins and a draw. All eyes are on round six on Monday, when the world champion is paired against GM Hans Ni...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2152,22 +2152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1975",
          "pubDate" : "Sat, 10 Sep 2022 05:10:40 +0000",
          "title" : "2022 Sinquefield Cup - So stays in front"
-      },
-      {
-         "description" : "Last week's post in the <I>Fischer Friday</I> series, <A HREF=\"http://chessforallages.blogspot.com/2022/09/benson-called-bobby.html\">Benson Called Bobby</A>(September 2022), was about the 21st and final game of the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Match</A>(m-w.com):- <BLOCKQUOTE>Brad Darrach described the transition from the 10th World Champion to the 11th in his usual colorful style. </BLOCKQUOTE> <P>A more straightforward account of the end of the match can be found in the book I introduced in an earlier post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/gm-svetozar-gligoric-playerjournalist.html\">GM Svetozar Gligoric, Player/Journalis",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/fischer-spassky-zeitgeist.html",
-         "pubDate" : "Fri, 09 Sep 2022 15:12:00 +0000",
-         "title" : "Fischer - Spassky Zeitgeist"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1974",
-         "pubDate" : "Fri, 09 Sep 2022 14:00:52 +0000",
-         "title" : "Serbia prepares for second Intercontinental Online Chess Championship for Prisoners"
       }
    ]
 }
