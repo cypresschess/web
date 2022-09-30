@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A few days ago Europe's biggest news portal, SPIEGEL Online, had YACS - yet another cheating story. It concentrated on a portrait of the accused Hans Niemann, and traced his chess development over the years. Did you know you can easily track the Elo progress in the ChessBase Players service? And also his best games, his best and his most difficult opponents, his favourite openings and most/least successful openings. If not, take a look at what you have been missing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tracking-a-player-s-progress",
+         "pubDate" : "Fri, 30 Sep 2022 14:00:00 +0100",
+         "title" : "Tracking a player's progress"
+      },
+      {
+         "description" : "The International round-robin tournament &#x201C;Chess stars 2022&#x201D; will be held from 29 September &#x2013; 5 October in Moscow, Russia. The main event is a 10 player round robin tournament with 10 world-known grandmasters from Russia, Azerbaijan, India and Spain: Sergey Karjakin, Vladimir Kramnik, Teimour Radjabov, Alexander Morozevich, Francisco Vallejo, Vladislav Artemiev, Ernesto Inarkiev, Raunak Sadhwani, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/morozevich-replaces-grischuk-at-the-chess-stars-2022-tournament/",
+         "pubDate" : "Fri, 30 Sep 2022 12:15:31 +0000",
+         "title" : "Morozevich replaces Grischuk at the \"Chess Stars 2022\" tournament"
+      },
+      {
+         "description" : " Over the last two months, we've been analyzing a game through the eyes of a beginner. We've used the opening and middle-game principles studied thus far to guide us through each move. Using game principles as the basis for your analysis is what game analysis is all about. When asking the question \"why was a <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy-Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-three/\">A Foundation for Beginners Seventy-Three</a> appeared first on <a rel=\"nofollow\" href=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-three/",
+         "pubDate" : "Fri, 30 Sep 2022 12:14:59 +0000",
+         "title" : "A Foundation for Beginners Seventy-Three"
+      },
+      {
          "description" : "After an initial statement that acknowledged the current controversy shaking the chess world, FIDE has now announced the creation of a panel by its Fair Play Commission to investigate the \"the World Champion's claims of alleged cheating by Niemann and Niemann's self-statement regarding online cheating.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r10",
          "pubDate" : "Thu, 29 Sep 2022 03:05:00 +0100",
          "title" : "Astana GP: Zhu scores, Smirin fired over sexist comments"
-      },
-      {
-         "description" : "The International round-robin tournament &#8220;Chess stars 2022&#8221; will be held from 29 September 5 October in Moscow, Russia. The event will gather more than 100 players, among whom are 10 world-known grandmasters from Russia, Azerbaijan, India and Spain: Sergey Karjakin, Vladimir Kramnik, Teimour Radjabov, Alexander Grischuk, Francisco Vallejo, Vladislav Artemiev, Ernesto Inarkiev, Raunak Sadhwani, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-stars-2022-tournament-in-moscow-with-karjakin-and-230-000-eur-prize-fund/",
-         "pubDate" : "Thu, 29 Sep 2022 01:15:00 +0000",
-         "title" : "\"Chess stars 2022\" tournament in Moscow, with Karjakin and 230.000 eur prize fund"
       },
       {
          "description" : " From the publisher: &#8220;Rashid Nezhmetdinov (1912-1974) played fearless attacking chess. With his dazzling style, the Soviet master already was a legend during his lifetime, but international fame largely eluded him. Only once did he get permission to show his exceptional talent in a tournament abroad. Five times Nezhmetdinov was chess champion of the Russian Federation. <a href=\"http://britishchessnews.com/2022/09/29/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollo",
@@ -1624,14 +1640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2022",
          "pubDate" : "Mon, 19 Sep 2022 12:35:00 +0400",
          "title" : "Julius Baer Generation Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "Magnus Carlsen ended day 1 of the Julius Baer Generation Cup in the sole lead with 10/12 points. Carlsen won three games and drew Anish Giri on Sunday. Four players stand close behind on 9/12 - Praggnanandhaa, Arjun Erigaisi, Hans Niemann and Vasyl Ivanchuk. Eight out of the sixteen participants will move on to the knockout stage, which is set to kick off on Thursday. | Photo: Anna Shtourman / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d1",
-         "pubDate" : "Mon, 19 Sep 2022 02:05:00 +0100",
-         "title" : "Generation Cup: Carlsen leads, Ivanchuk among close chasers"
       },
       {
          "description" : "Magnus Carlsen burst out of the blocks to take a 1pt lead on the opening day of the Julius Baer Generation Cup, the star-studded seventh leg of the $1.6 million Meltwater Champions Chess Tour.",
