@@ -2168,22 +2168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1974",
          "pubDate" : "Fri, 09 Sep 2022 14:00:52 +0000",
          "title" : "Serbia prepares for second Intercontinental Online Chess Championship for Prisoners"
-      },
-      {
-         "description" : "The English Chess Federation offers its condolences on the death of Her Majesty, Queen Elizabeth the Second. Our thoughts are with her family at this...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/hrh-queen-elizabeth-ii-rip/",
-         "pubDate" : "Fri, 09 Sep 2022 13:30:30 +0000",
-         "title" : "HM Queen Elizabeth II RIP"
-      },
-      {
-         "description" : " For those looking for good second hand chess books (in Canberra), this years Lifeline Bookfair has a good selection. There were around 30 books for sale when I passed through this morning, including a number that I already have in my own collection. I grabbed a couple of books (including a 2nd Edition of Basic Chess Endings by Reuben Fine), but I left plenty on the table. There was even at least one more box of books under the table, but the rules of etiquette frown on 'accidently' knocking it over! The only issue for this year is that prices on some books have gone up. This may to be discourage commercial re-sellers from buying in bulk, or simply to reflect a fairer value, so it may be a m",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/spring-bookfair.html",
-         "pubDate" : "Fri, 09 Sep 2022 13:25:00 +0000",
-         "title" : "Spring Bookfair"
       }
    ]
 }
