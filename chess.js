@@ -2176,14 +2176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/spring-bookfair.html",
          "pubDate" : "Fri, 09 Sep 2022 13:25:00 +0000",
          "title" : "Spring Bookfair"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a381545e-5010-4df5-8513-015965e6d307/abae9491-56f2-4d0c-a208-821993571619_800x452.jpg\" data-image-dimensions=\"800x452\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"631b32c42ed097161e9ef6fd\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/a381545e-5010-4df5-8513-015965e6d307/abae9491-56f2-4d0c-a208-821993571619_800x452.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo <a href=\"https://www.google.com/url?cad=rja&amp;cd=&amp;esrc=s&",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/9/bonus-pod-chess-world-in-turmoil-as-magnus-carlsen-suddenly-withdraws-from-sinquefield-cup-amid-speculation-that-gm-hans-niemann-used-engine-assistance",
-         "pubDate" : "Fri, 09 Sep 2022 12:37:38 +0000",
-         "title" : "Bonus Pod- Chess World in Turmoil as Magnus Carlsen Suddenly withdraws from Sinquefield Cup Amid Speculation that GM Hans Niemann used Engine Assistance "
       }
    ]
 }
