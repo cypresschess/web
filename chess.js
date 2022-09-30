@@ -2,7 +2,71 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The 19-year-old, named as cheater by Magnus Carlsen, is due to play for the US title in a 14-grandmaster field including three of the world top 10 Hans Niemann will be tested by three of the top 10 grandmasters next week when the 19-year-old, who the world champion, Magnus Carlsen, has publicly declared to be a cheat, takes on the American elite in the $250,000 US championship at St Louis, which has its first round (of 13) on Wednesday. Niemann will be returning to the the \"capital of chess\" where a few weeks ago he shocked Carlsen by defeating the Norwegian in the third round of the Sinquefield Cup. <a href=\"https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-s",
+         "description" : "After an initial statement that acknowledged the current controversy shaking the chess world, FIDE has now announced the creation of a panel by its Fair Play Commission to investigate the \"the World Champion's claims of alleged cheating by Niemann and Niemann's self-statement regarding online cheating.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-investigate-carlsen-niemann-controversy",
+         "pubDate" : "Fri, 30 Sep 2022 11:00:00 +0100",
+         "title" : "FIDE to form investigatory panel for Carlsen-Niemann controversy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2017",
+         "pubDate" : "Fri, 30 Sep 2022 09:16:07 +0000",
+         "title" : "Mr Short and Mr Iashvili appointed Director for Chess Development and Special Tasks Director"
+      },
+      {
+         "description" : " <p class=\"lead\">From CNN and BBC to the Washington Post and the New York Times, the chess cheating scandal is still hitting the headlines after almost 25 days since <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Magnus Carlsen withdrew from the Sinquefield Cup.</a> The chess community has moved from the initial chaos and confusion to systematically gathering information - and maybe evidence - on this matter but also cheating in general. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-sinquefield-cup-magnus-carlsen-cheating-chess.jpeg\" width=\"1000\" height=\"600\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Len",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/niemann-is-either-the-greatest-american-talent-since-fischer-or/",
+         "pubDate" : "Fri, 30 Sep 2022 08:43:46 +0000",
+         "title" : "\"Niemann is either the greatest American talent since Fischer or a fraud\" Olimpiu Di Luppi"
+      },
+      {
+         "description" : "European Chess Union organizes European Cities &#38; Towns Chess Championship 2022 which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event will be played as a team competition in four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the ECU []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-cities-towns-chess-championship-2022/",
+         "pubDate" : "Fri, 30 Sep 2022 08:14:34 +0000",
+         "title" : "European Cities & Towns Chess Championship 2022"
+      },
+      {
+         "description" : "FIDE has confirmed they will launch an investigation into Magnus Carlsen and Hans Niemann after the cheating scandal that has dominated the chess world and gathered worldwide attention in recent weeks.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-to-investigate-carlsen-and-niemann",
+         "pubDate" : "Fri, 30 Sep 2022 08:09:28 +0000",
+         "title" : "FIDE to investigate Carlsen and Niemann"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Two weeks later, Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fides-fair-play-commission-forms-the-investigatory-panel-for-the-carlsen-niemann-controversy/",
+         "pubDate" : "Fri, 30 Sep 2022 08:08:35 +0000",
+         "title" : "FIDE's Fair-Play Commission forms the investigatory panel for the Carlsen - Niemann controversy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2016",
+         "pubDate" : "Fri, 30 Sep 2022 07:53:01 +0000",
+         "title" : "Change of leadership in the FIDE Women's Commission"
+      },
+      {
+         "description" : "FIDE Women's Commission is undergoing changes. The President of WOM Eva Repkova, together with the secretary of WOM Christelle Jager Hafstad, are stepping down from their respective positions in the commission. In an open letter they explain, &#8220;It is with great regret that we have taken this difficult decision, especially in the light of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/president-of-fide-womens-commission-eva-repkova-is-stepping-down/",
+         "pubDate" : "Fri, 30 Sep 2022 07:31:14 +0000",
+         "title" : "President of FIDE Women's Commission Eva Repkova is stepping down"
+      },
+      {
+         "description" : " The 19-year-old, labelled a cheat by Magnus Carlsen, is due to play for the US title in a 14-grandmaster field including three of the world top 10 Hans Niemann will be tested by three of the top 10 grandmasters next week when the 19-year-old, who the world champion, Magnus Carlsen, has publicly declared to be a cheat, takes on the American elite in the $250,000 US championship at St Louis, which has its first round (of 13) on Wednesday. Niemann will be returning to the the \"capital of chess\" where a few weeks ago he shocked Carlsen by defeating the Norwegian in the third round of the Sinquefield Cup. <a href=\"https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-s",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-saga-expected-in-st-louis-on-wednesday",
@@ -10,7 +74,15 @@ news_feed (
          "title" : "Chess: latest round of Hans Niemann saga expected in St Louis on Wednesday"
       },
       {
-         "description" : "European Chess Union organizes European Cities &#38; Towns Chess Championship 2022 which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event will be played as a team competition in four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the ECU Development fund. Each&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
+         "description" : "The 4th and final leg of the $100,000 MPL Indian Chess Tour starts today, with 16 players competing for a place in the $25,000 knockout final and also a spot on the $1.6 million Meltwater Champions Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/last-chance-to-reach-the-mpl-indian-chess-tour-final",
+         "pubDate" : "Fri, 30 Sep 2022 07:00:00 +0000",
+         "title" : "Last chance to reach the MPL Indian Chess Tour final"
+      },
+      {
+         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
@@ -72,6 +144,14 @@ news_feed (
          "link" : "https://www.chessdom.com/garry-kasparov-carlsens-behavior-was-unacceptable/",
          "pubDate" : "Thu, 29 Sep 2022 15:59:28 +0000",
          "title" : "Garry Kasparov: Carlsen's behavior was unacceptable"
+      },
+      {
+         "description" : "It didn't take a crystal ball to predict that this month's Yahoos' post (see the footnote for an explanation of 'Yahoos') was going to be about Carlsen/Nakamura vs. Niemann, aka the chess cheating affair. The scandal broke three weeks ago and shows no sign of disappearing anytime soon. I've already featured it twice, the second time in <A HREF=\"http://chessforallages.blogspot.com/2022/09/talkchess-talks-current-topics.html\">Talkchess Talks Current Topics</A>(September 2022). <P>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from <I>Google News</I>, similar to the chart in last mont",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/cheating-mania.html",
+         "pubDate" : "Thu, 29 Sep 2022 15:50:00 +0000",
+         "title" : "Cheating Mania"
       },
       {
          "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set&#160;a new participation record&#160;with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The top seeded teams of the 2022 European Women's Club Cup are Cercle []",
@@ -202,36 +282,12 @@ news_feed (
          "title" : "The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov"
       },
       {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/eugene-perelshteyn-defends-and-criticizes-carlsen-on-the-hans-niemann-cheating-accusations/",
-         "pubDate" : "Wed, 28 Sep 2022 22:59:43 +0000",
-         "title" : "Eugene Perelshteyn defends and criticizes Carlsen on the Hans Niemann cheating accusations"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-about-maxim-dlugys-leaked-e-mails-this-is-spicy/",
-         "pubDate" : "Wed, 28 Sep 2022 22:38:45 +0000",
-         "title" : "Hikaru Nakamura about Maxim Dlugy's leaked e-mails: This is spicy"
-      },
-      {
          "description" : "GM Teimour Radjabov knocked out GM Arjun Erigaisi on Wednesday, securing the last spot into the round of 16 at the Chess.com Global Championship. This was an especially electrifying matchup of experienced contender vs. up-and-comer. In this corn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d5",
          "pubDate" : "Wed, 28 Sep 2022 15:02:00 -0700",
          "title" : "Experience Bests Youth: Radjabov Knocks Out Erigaisi"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Magnus broke the silence []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/motherboard-reviews-e-mails-in-which-maxim-dlugy-confesses-cheating-on-chess-com/",
-         "pubDate" : "Wed, 28 Sep 2022 21:20:30 +0000",
-         "title" : "Motherboard reviews e-mails in which Maxim Dlugy confesses cheating on chess.com"
       },
       {
          "description" : "",
@@ -1610,14 +1666,6 @@ news_feed (
          "title" : "Open Call of Interest for Media and Social Commissions"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 91st instalment of his ChessBase show \"Understanding before Moving\", Herman discuss the structures from the 1.e4 e5 openings. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-91",
-         "pubDate" : "Sun, 18 Sep 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 91: Backgrounds of structures (1)"
-      },
-      {
          "description" : " In looking for articles for this blog, I usually have a few rough guidelines. They should be about chess (but not always), I should find them interesting (even if you do not), I try and avoid 'clickbait' (which I can usually do), and there should be at least one game on the front page. So I went looking for an interesting game from recent events, and have run into an issue. While a lot more chess is being played and recorded than at any time previously, there is a lot more chaff to sift through. A lot of the online games (even played by strong players) are decided by blatant mistakes, or attempts to trick opponents into pre-moving the wrong response. This is both a function of the time cont",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2010,14 +2058,6 @@ news_feed (
          "title" : "FIDE and WR Group announce the World Open Teams Championship"
       },
       {
-         "description" : "53-year-old Ukrainian chess legend Vasyl Ivanchuk takes on 17-year-old Indian prodigy Praggnanandhaa when the Julius Baer Generation Cup, the 7th event on the $1.6 million Meltwater Champions Chess Tour, starts Sunday, September 18th. World Champion Magnus Carlsen, who faces one of his potential successors Arjun Erigaisi in Round 1, tops a field that spans the generations.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ivanchuk-pragg-and-erigaisi-carlsen-to-kick-off-julius-baer-generation-cup",
-         "pubDate" : "Mon, 12 Sep 2022 09:00:00 +0000",
-         "title" : "Ivanchuk-Pragg and Erigaisi-Carlsen to kick off Julius Baer Generation Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2032,14 +2072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1978",
          "pubDate" : "Mon, 12 Sep 2022 06:26:59 +0000",
          "title" : "Alireza Firouzja wins 2022 Sinquefield Cup"
-      },
-      {
-         "description" : "Alireza Firouzja beat Ian Nepomniachtchi in a playoff to complete a stunning debut in St. Louis. The 19-year-old added victory in the Sinquefield Cup and Grand Chess Tour to his crushing victory in the St. Louis Rapid and Blitz, picking up $227,500 in the space of just over two weeks.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/alireza-firouzja-wins-it-all-in-st-louis",
-         "pubDate" : "Mon, 12 Sep 2022 06:04:14 +0000",
-         "title" : "Alireza Firouzja wins it all in St. Louis"
       },
       {
          "description" : "",
@@ -2144,14 +2176,6 @@ news_feed (
          "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/9/bonus-pod-chess-world-in-turmoil-as-magnus-carlsen-suddenly-withdraws-from-sinquefield-cup-amid-speculation-that-gm-hans-niemann-used-engine-assistance",
          "pubDate" : "Fri, 09 Sep 2022 12:37:38 +0000",
          "title" : "Bonus Pod- Chess World in Turmoil as Magnus Carlsen Suddenly withdraws from Sinquefield Cup Amid Speculation that GM Hans Niemann used Engine Assistance "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1973",
-         "pubDate" : "Fri, 09 Sep 2022 10:42:47 +0000",
-         "title" : "FIDE Trainers Commission (TRG): Five FIDE Trainers Seminars announced"
       }
    ]
 }
