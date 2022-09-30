@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The &#x201C;ChessMood&#x201D; International Open Chess Tournament&#xA0;kicked off today and takes place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event is played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000).&#xA0;&#xA0;Time control for the A tournament is 90 minutes for the first 40 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessmood-international-open-2022-live/",
+         "pubDate" : "Fri, 30 Sep 2022 16:16:45 +0000",
+         "title" : "ChessMood International Open 2022 - LIVE"
+      },
+      {
          "description" : "In his Power Play Show, Daniel King takes a close look at the game Saric-Ivanchuk, played at the Julius B&auml;r Generation Cup. We see a bold attacking idea right out of the opening that almost catches Ivanchuk. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-raging-rook",
          "pubDate" : "Fri, 30 Sep 2022 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: The Raging Rook"
+      },
+      {
+         "description" : "The &#x201C;ChessMood&#x201D; International Open Chess Tournament&#xA0;kicked off today and takes place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event is played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000), with the total prize fund of 10.250.000 Armenian drams (around 21.000 euros).&#xA0;&#xA0;Time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessmood-open-2022-kicked-off-in-tsaghkadzor-armenia/",
+         "pubDate" : "Fri, 30 Sep 2022 15:50:30 +0000",
+         "title" : "ChessMood Open 2022 kicked off in Tsaghkadzor, Armenia"
       },
       {
          "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022 starts tomorrow in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by []",
@@ -202,28 +218,12 @@ news_feed (
          "title" : "Kateryna Lagno wins FIDE Women's Grand Prix Astana 2022"
       },
       {
-         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since. Legendary grandmaster and former []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/garry-kasparov-carlsens-behavior-was-unacceptable/",
-         "pubDate" : "Thu, 29 Sep 2022 15:59:28 +0000",
-         "title" : "Garry Kasparov: Carlsen's behavior was unacceptable"
-      },
-      {
          "description" : "It didn't take a crystal ball to predict that this month's Yahoos' post (see the footnote for an explanation of 'Yahoos') was going to be about Carlsen/Nakamura vs. Niemann, aka the chess cheating affair. The scandal broke three weeks ago and shows no sign of disappearing anytime soon. I've already featured it twice, the second time in <A HREF=\"http://chessforallages.blogspot.com/2022/09/talkchess-talks-current-topics.html\">Talkchess Talks Current Topics</A>(September 2022). <P>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from <I>Google News</I>, similar to the chart in last mont",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/09/cheating-mania.html",
          "pubDate" : "Thu, 29 Sep 2022 15:50:00 +0000",
          "title" : "Cheating Mania"
-      },
-      {
-         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set&#160;a new participation record&#160;with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The top seeded teams of the 2022 European Women's Club Cup are Cercle []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-list-of-participants/",
-         "pubDate" : "Thu, 29 Sep 2022 15:08:10 +0000",
-         "title" : "European Women's Chess Club Cup 2022 - List of participants"
       },
       {
          "description" : "What could possibly be more satisfying than playing a beautiful combination, or winning a splendid positional game? And yet, it is dangerous to rely too much on your sense of beauty, on your intuition. Why? Jan Markos explains. | Photo: Hardebeck Media on Pixabay",
