@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So, Levon Aronian, Leinier Dominguez and Sam Shankland all have something in common. They play for the US national team, and they are all Libra. Although many Libra grandmasters play excellent chess, none have won a world championship title, except for Ruslan Ponomariov, who won the FIDE title in 2002. Even legends like Ossip Bernstein, Viacheslav Ragozin and New York-born Reuben Fine were close, but not close enough. Maybe it's because Libras bring too much lightness to the game? | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/libra-and-their-strategy",
+         "pubDate" : "Sat, 01 Oct 2022 12:00:00 +0100",
+         "title" : "Libra and their strategy"
+      },
+      {
          "description" : "Today your defensive skills are needed: Can you refute Black's 35...Ng6? or 35...Rg6? in the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/double-flop",
          "pubDate" : "Sat, 01 Oct 2022 09:00:00 +0100",
          "title" : "Double Flop"
+      },
+      {
+         "description" : "Click the link given below to watch Live 1st Bikaner Open International Grand masters Chess Tournament 2022 (Category A ) Link : https://view.livechesscloud.com/#871d3fc8-c6c3-48d4-916c-41a0cef9cc29",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-of-1st-bikaner-open-international-grand-masters-chess-tournament-2022-category-a/",
+         "pubDate" : "Sat, 01 Oct 2022 07:39:59 +0000",
+         "title" : "Live link of 1st Bikaner Open International Grand masters Chess Tournament 2022 (Category A )"
       },
       {
          "description" : "There are many ways to train chess or to entertain yourself with chess: relaxed tactics training without time pressure or in competition with others? Or do you love the artistic appeal of studies? Do you like to follow live world-class tournaments or to watch training videos? Do you like to hone your opening repertoire by using the opening trends from the live ticker? The ChessBase Account offers you all this - and much more. Fully integrated in the ChessBase world, the WebApps work together and can be used perfectly with the ChessBase and Fritz programmes. The ChessBase Account offers a comprehensive access to the world of chess, no matter whether you play chess as a sport or as a hobby. In",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.chessdom.com/chessmood-open-2022-kicked-off-in-tsaghkadzor-armenia/",
          "pubDate" : "Fri, 30 Sep 2022 15:50:30 +0000",
          "title" : "ChessMood Open 2022 kicked off in Tsaghkadzor, Armenia"
+      },
+      {
+         "description" : "Continuing with the 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html\">1992 Fischer - Spassky 'Under the Weather'</A>(September 2022), in that post I wrote, <BLOCKQUOTE>Photo D1 is about a moment from the opening press conference that is more famous than any of the games played in the match. It shows Fischer with the letter that led to the famous spit incident. </BLOCKQUOTE> <P>The composite image including that photo in black & white is seen below, with 'photo D1' circled in red. Superimposed on the composite is a similar photo in color. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi30.jpg\" WI",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html",
+         "pubDate" : "Fri, 30 Sep 2022 15:31:00 +0000",
+         "title" : "Fischer: 'That's my answer'"
       },
       {
          "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022 starts tomorrow in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by []",
@@ -1554,14 +1578,6 @@ news_feed (
          "title" : "Astana GP: Four decisive results, four co-leaders"
       },
       {
-         "description" : "On Monday World Chess Champion Magnus Carlsen resigned after making the first move in his game against Hans Niemann. He has hinted that the young grandmaster may have cheated in his previous game between the two grandmasters. Now Carlsen action is really hitting the news pages of the World mainstream press. Full report to follow soon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-news-magnus-resigns-after-move-one",
-         "pubDate" : "Mon, 19 Sep 2022 23:18:28 +0100",
-         "title" : "Breaking news: Magnus resigns after move one"
-      },
-      {
          "description" : "The American higher seeds, GMs Hikaru Nakamura, Fabiano Caruana, and Jeffery Xiong, won the last of the round of 64 matches on day five of the Chess.com Global Chess Championship. Although the favorites ultimately won, the underdogs gave them seri...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1952,14 +1968,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/kasparov-is-back-as-firouzja-picks-up-trophies",
          "pubDate" : "Wed, 14 Sep 2022 15:46:51 +0000",
          "title" : "Kasparov is back as Firouzja picks up trophies"
-      },
-      {
-         "description" : "In World Youth Championship being played at Romania, Indians had mixed results. Girls Under-18 S.Kanishka of India continued to maintain her winning streak and moved",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-youth-chess-championship-2022round-8-report/",
-         "pubDate" : "Wed, 14 Sep 2022 13:49:53 +0000",
-         "title" : "World Youth Chess championship 2022:Round 8 Report"
       },
       {
          "description" : " The new version of the FIDE Laws of Chess are to be published soon, and will go into effect on the 1st January 2023. As a member of the FIDE Rules Commission, I have been involved in a bit of proofreading, hopefully to eliminate any glaring errors in both language and meaning. This stands in stark contrast to my experiences earlier in the day. Visiting one of the Canberra schools i coach at, I had a number of interesting rules explained to me by 5 and 6 year old chess players. The main thing they had in common was that the 'rules' allowed my opponents to escape from fairly dicey positions. One example was having played Qh4+ (as Black) to attack the White king on e1, I was told that my queen",
