@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1976",
          "pubDate" : "Sun, 11 Sep 2022 06:03:32 +0000",
          "title" : "2022 Sinquefield Cup - Day 8 Recap"
-      },
-      {
-         "description" : "Daniel Johnson is the founding editor of our online platform TheArticle where I contribute the weekly chess column every Saturday. In a previous incarnation Daniel edited the monthly Standpoint magazine, where one of his innovations was to introduce a regular Underrated/Overrated feature. Inspired by this format I shall be devoting my column this week to the theme of one of the most unfairly denigrated of the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/underrated-masters-of-the-chess-world/",
-         "pubDate" : "Sat, 10 Sep 2022 11:44:24 +0000",
-         "title" : "Underrated masters of the chess world"
       }
    ]
 }
