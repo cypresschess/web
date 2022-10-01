@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kateryna Lagno took clear first place at the Women's Grand Prix in Astana, Kazakhstan. A 12-player single round robin, the event featured a number of remarkable confrontations. GM Karsten M&uuml;ller analysed three of the most interesting endgames and shared his insights with us. Instructive and entertaining! | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-endgames",
+         "pubDate" : "Sat, 01 Oct 2022 22:00:00 +0100",
+         "title" : "Endgames from Astana"
+      },
+      {
          "description" : " WGM Shahenda Wafa (gold-women's), GM Abdelrahman Hesham (bronze-open), GM Bassem Amin (gold-open). All photos by Babatunde Ogunsiku (Africa Chess Media) Egypt's Bassem Amin wins his sixth continental title after winning the 2022 African Individual Chess Championships in Lagos, Nigeria. He edged out compatriot and fellow Grandmaster Ahmed Adly who had led most of the tournament. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/01/bassem-amin-shahenda-wafa-2022-african-champs/\">Bassem Amin &#038; Shahenda Wafa 2022 African Champs!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/generation-cup-2022-d2",
          "pubDate" : "Tue, 20 Sep 2022 09:05:00 +0100",
          "title" : "Generation Cup: Drama takes centre stage as Arjun grabs the lead"
-      },
-      {
-         "description" : "In the diagrammed position, which shows the end of a game Magnus Carlsen and Maxime Vachier-Lagrave played at the Norway Chess Tournament 2022, it is Black to move and he has to find a way to make use of his far advanced pawns before White manages to coordinate his forces. But what exactly should Black do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-to-do-where-to-go",
-         "pubDate" : "Tue, 20 Sep 2022 09:00:00 +0100",
-         "title" : "What to do, where to go?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94317346.cms\" />India's teenaged Grandmaster Arjun Erigaisi jumped to the top position with 17 points after eight rounds, while his compatriot R Praggnanandhaa is in second place with 15 points at the Julius Baer Cup. The much-awaited Praggnanandhaa-Magnus Carlsen clash in round eight ended in a draw. The Indian had beaten the Norwegian ace twice earlier this season in online matches.",
