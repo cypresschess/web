@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " WGM Shahenda Wafa (gold-women's), GM Abdelrahman Hesham (bronze-open), GM Bassem Amin (gold-open). All photos by Babatunde Ogunsiku (Africa Chess Media) Egypt's Bassem Amin wins his sixth continental title after winning the 2022 African Individual Chess Championships in Lagos, Nigeria. He edged out compatriot and fellow Grandmaster Ahmed Adly who had led most of the tournament. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/01/bassem-amin-shahenda-wafa-2022-african-champs/\">Bassem Amin &#038; Shahenda Wafa 2022 African Champs!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/10/01/bassem-amin-shahenda-wafa-2022-african-champs/",
+         "pubDate" : "Sat, 01 Oct 2022 18:41:16 +0000",
+         "title" : "Bassem Amin & Shahenda Wafa&hellip; 2022 African Champs!"
+      },
+      {
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since.&#160;Hans Niemann confessed cheating online []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-to-publish-their-findings-on-carlsen-niemann-case/",
+         "pubDate" : "Sat, 01 Oct 2022 18:37:52 +0000",
+         "title" : "Chess.com to publish their findings on Carlsen - Niemann case"
+      },
+      {
+         "description" : "The International Chess Federation has announced plans to form an investigatory panel with the intention to check both GM Magnus Carlsen&#39;s claims of alleged cheating by GM Hans Niemann and Niemann&#39;s own statement regarding online cheating. A wee...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-niemann-fide-investigatory-panel",
+         "pubDate" : "Sat, 01 Oct 2022 11:19:00 -0700",
+         "title" : "FIDE Forms Investigatory Panel For Carlsen-Niemann Controversy"
+      },
+      {
          "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022&#xA0;starts tomorrow in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by 30 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/fide-to-investigate-carlsen-and-niemann",
          "pubDate" : "Fri, 30 Sep 2022 08:09:28 +0000",
          "title" : "FIDE to investigate Carlsen and Niemann"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Two weeks later, Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fides-fair-play-commission-forms-the-investigatory-panel-for-the-carlsen-niemann-controversy/",
-         "pubDate" : "Fri, 30 Sep 2022 08:08:35 +0000",
-         "title" : "FIDE's Fair-Play Commission forms the investigatory panel for the Carlsen - Niemann controversy"
       },
       {
          "description" : "",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-pranav-anand-ilamparthi-a-r/",
          "pubDate" : "Sat, 17 Sep 2022 04:23:19 +0000",
          "title" : "Congratulations Pranav Anand & Ilamparthi A R"
-      },
-      {
-         "description" : "On day three of the Chess.com Global Chess Championship, GM Peter Svidler triumphed vs. GM Alexei Shirov in their veteran face-off, scoring the only 3-0 sweep of the day. World championship challenger GM Ian Nepomniachtchi and 19-year-old GM Arjun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d3",
-         "pubDate" : "Fri, 16 Sep 2022 18:00:00 -0700",
-         "title" : "Svidler Sweeps Shirov, Favorites Triumph"
       },
       {
          "description" : "Teenage sensation Alireza Firouzja has already won two events in St Louis. Having taken over the lead on Day 2 of the Champions Showdown: Chess 9LX along with Shakhriyar Mamedyarov, the 19-year-old could complete an incredible hat-trick of victories.",
