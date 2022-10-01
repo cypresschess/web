@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today your defensive skills are needed: Can you refute Black's 35...Ng6? or 35...Rg6? in the diagram position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/double-flop",
+         "pubDate" : "Sat, 01 Oct 2022 09:00:00 +0100",
+         "title" : "Double Flop"
+      },
+      {
          "description" : "There are many ways to train chess or to entertain yourself with chess: relaxed tactics training without time pressure or in competition with others? Or do you love the artistic appeal of studies? Do you like to follow live world-class tournaments or to watch training videos? Do you like to hone your opening repertoire by using the opening trends from the live ticker? The ChessBase Account offers you all this - and much more. Fully integrated in the ChessBase world, the WebApps work together and can be used perfectly with the ChessBase and Fritz programmes. The ChessBase Account offers a comprehensive access to the world of chess, no matter whether you play chess as a sport or as a hobby. In",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1586,14 +1594,6 @@ news_feed (
          "title" : "World Champion Resigns After 1 Move Vs. Niemann, Erigaisi Leads"
       },
       {
-         "description" : "This week Robert Ris will have a look at the current state of the good old Dilworth Variation in the Open Ruy Lopez. The material imbalance of two minor pieces vs a rook and pawn (or two) leads to fascinating play with chances for both sides. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-attractions-of-the-dilworth-variation",
-         "pubDate" : "Mon, 19 Sep 2022 17:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The attractions of the Dilworth Variation"
-      },
-      {
          "description" : "The buzz in the chess world has been dominated for the last two weeks by the Carlsen/Nakamura vs. Niemann affair. Finding it impossible to ignore, I documented it in the post <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022). Talkchess members discussed the technical possibilities for cheating in two related threads:- <UL><LI>2022-12-06: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=80630\">Carlsen withdrawal after loss to Niemann</A>(talkchess.com; lkaufman) &#149; 'I am posting here to ask those who are technologically knowledgeable how they would go about getting computer",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2144,14 +2144,6 @@ news_feed (
          "link" : "https://www.thearticle.com/underrated-masters-of-the-chess-world/",
          "pubDate" : "Sat, 10 Sep 2022 11:44:24 +0000",
          "title" : "Underrated masters of the chess world"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1975",
-         "pubDate" : "Sat, 10 Sep 2022 05:10:40 +0000",
-         "title" : "2022 Sinquefield Cup - So stays in front"
       }
    ]
 }
