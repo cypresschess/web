@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mikhail Tal was the third of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-how-i-met-mikhail-tal",
+         "pubDate" : "Sat, 01 Oct 2022 16:00:00 +0100",
+         "title" : "Frederic's mates - How I met Mikhail Tal"
+      },
+      {
+         "description" : "Having grown up in the era when the USSR dominated world chess, I must admit that the subtle distinctions between Russian, Soviet and Ukrainian were largely lost on me. Whether they were Latvian (Mikhail Tal), Armenian (Tigran Petrosian) Estonian (Paul Keres) or Ukrainian (Leonid Stein) - they all ended up representing the virtually unconquerable Soviet []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/david-bronstein-the-chess-dynamo-of-kyiv/",
+         "pubDate" : "Sat, 01 Oct 2022 13:59:52 +0000",
+         "title" : "David Bronstein: the chess dynamo of Kyiv"
+      },
+      {
          "description" : "Wesley So, Levon Aronian, Leinier Dominguez and Sam Shankland all have something in common. They play for the US national team, and they are all Libra. Although many Libra grandmasters play excellent chess, none have won a world championship title, except for Ruslan Ponomariov, who won the FIDE title in 2002. Even legends like Ossip Bernstein, Viacheslav Ragozin and New York-born Reuben Fine were close, but not close enough. Maybe it's because Libras bring too much lightness to the game? | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1568,14 +1584,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/jb-generation-cup-2-carlsen-resigns-after-1-move-erigaisi-leads",
          "pubDate" : "Tue, 20 Sep 2022 04:20:57 +0000",
          "title" : "Generation Cup 2: Carlsen resigns after 1 move, Erigaisi leads"
-      },
-      {
-         "description" : "Four decisive games in the second round of the Astana Grand Prix left four players tied for first place on 1&frac12;/2 points. Bibisara Assaubayeva, Alina Kashlinskaya and Zhu Jiner won to join Aleksandra Goryachkina in the lead, while Polina Shuvalova bounced back from her loss on Sunday to return to a fifty-percent score. | Photos: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r2",
-         "pubDate" : "Mon, 19 Sep 2022 23:30:00 +0100",
-         "title" : "Astana GP: Four decisive results, four co-leaders"
       },
       {
          "description" : "The American higher seeds, GMs Hikaru Nakamura, Fabiano Caruana, and Jeffery Xiong, won the last of the round of 64 matches on day five of the Chess.com Global Chess Championship. Although the favorites ultimately won, the underdogs gave them seri...",
