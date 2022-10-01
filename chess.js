@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022&#xA0;starts tomorrow in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by 30 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022-live/",
+         "pubDate" : "Sat, 01 Oct 2022 17:24:04 +0000",
+         "title" : "FIDE World Youth U16 Chess Olympiad 2022 - LIVE"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. It seems that the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ian-nepomniachtchi-explains-what-could-be-considered-evidence-of-cheating-in-chess/",
+         "pubDate" : "Sat, 01 Oct 2022 17:18:57 +0000",
+         "title" : "Ian Nepomniachtchi explains what could be considered evidence of cheating in chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -202,14 +218,6 @@ news_feed (
          "title" : "Change of leadership in the FIDE Women's Commission"
       },
       {
-         "description" : "FIDE Women's Commission is undergoing changes. The President of WOM Eva Repkova, together with the secretary of WOM Christelle Jager Hafstad, are stepping down from their respective positions in the commission. In an open letter they explain, &#8220;It is with great regret that we have taken this difficult decision, especially in the light of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/president-of-fide-womens-commission-eva-repkova-is-stepping-down/",
-         "pubDate" : "Fri, 30 Sep 2022 07:31:14 +0000",
-         "title" : "President of FIDE Women's Commission Eva Repkova is stepping down"
-      },
-      {
          "description" : " The 19-year-old, labelled a cheat by Magnus Carlsen, is due to play for the US title in a 14-grandmaster field including three of the world top 10 Hans Niemann will be tested by three of the top 10 grandmasters next week when the 19-year-old, who the world champion, Magnus Carlsen, has publicly declared to be a cheat, takes on the American elite in the $250,000 US championship at St Louis, which has its first round (of 13) on Wednesday. Niemann will be returning to the the \"capital of chess\" where a few weeks ago he shocked Carlsen by defeating the Norwegian in the third round of the Sinquefield Cup. <a href=\"https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-s",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -250,6 +258,14 @@ news_feed (
          "title" : "Kateryna Lagno wins Astana Women's Grand Prix"
       },
       {
+         "description" : " From the publisher: &#8220;Rashid Nezhmetdinov (1912-1974) played fearless attacking chess. With his dazzling style, the Soviet master already was a legend during his lifetime, but international fame largely eluded him. Only once did he get permission to show his exceptional talent in a tournament abroad. Five times Nezhmetdinov was chess champion of the Russian Federation. <a href=\"http://britishchessnews.com/2022/09/30/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollo",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/09/30/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/",
+         "pubDate" : "Fri, 30 Sep 2022 00:10:49 +0000",
+         "title" : "The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -272,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lagno-wins-astana-fide-women-grand-prix",
          "pubDate" : "Thu, 29 Sep 2022 11:12:00 -0700",
          "title" : "Lagno Wins Astana FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "After a long and tense final round, Kateryna Lagno, playing under the FIDE flag, emerged as the winner of the Astana leg of the 2022-2023 Women&#x2019;s Grand Prix. Undefeated, Lagno scored 8/11, a full point ahead of pre-event favourite Aleksandra Goryachkina, who could only achieve a draw in the final round against Vaishali and finished []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-wins-fide-womens-grand-prix-astana-2022/",
-         "pubDate" : "Thu, 29 Sep 2022 16:26:34 +0000",
-         "title" : "Kateryna Lagno wins FIDE Women's Grand Prix Astana 2022"
       },
       {
          "description" : "It didn't take a crystal ball to predict that this month's Yahoos' post (see the footnote for an explanation of 'Yahoos') was going to be about Carlsen/Nakamura vs. Niemann, aka the chess cheating affair. The scandal broke three weeks ago and shows no sign of disappearing anytime soon. I've already featured it twice, the second time in <A HREF=\"http://chessforallages.blogspot.com/2022/09/talkchess-talks-current-topics.html\">Talkchess Talks Current Topics</A>(September 2022). <P>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from <I>Google News</I>, similar to the chart in last mont",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r10",
          "pubDate" : "Thu, 29 Sep 2022 03:05:00 +0100",
          "title" : "Astana GP: Zhu scores, Smirin fired over sexist comments"
-      },
-      {
-         "description" : " From the publisher: &#8220;Rashid Nezhmetdinov (1912-1974) played fearless attacking chess. With his dazzling style, the Soviet master already was a legend during his lifetime, but international fame largely eluded him. Only once did he get permission to show his exceptional talent in a tournament abroad. Five times Nezhmetdinov was chess champion of the Russian Federation. <a href=\"http://britishchessnews.com/2022/09/29/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollo",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/09/29/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/",
-         "pubDate" : "Thu, 29 Sep 2022 00:10:49 +0000",
-         "title" : "The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov"
       },
       {
          "description" : "GM Teimour Radjabov knocked out GM Arjun Erigaisi on Wednesday, securing the last spot into the round of 16 at the Chess.com Global Championship. This was an especially electrifying matchup of experienced contender vs. up-and-comer. In this corn...",
