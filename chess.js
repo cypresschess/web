@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are many ways to train chess or to entertain yourself with chess: relaxed tactics training without time pressure or in competition with others? Or do you love the artistic appeal of studies? Do you like to follow live world-class tournaments or to watch training videos? Do you like to hone your opening repertoire by using the opening trends from the live ticker? The ChessBase Account offers you all this - and much more. Fully integrated in the ChessBase world, the WebApps work together and can be used perfectly with the ChessBase and Fritz programmes. The ChessBase Account offers a comprehensive access to the world of chess, no matter whether you play chess as a sport or as a hobby. In",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tutorial-chessbase-account-01-september-2022",
+         "pubDate" : "Fri, 30 Sep 2022 19:00:00 +0100",
+         "title" : "The ChessBase Account - Training with WebApps (1)"
+      },
+      {
          "description" : "The &#x201C;ChessMood&#x201D; International Open Chess Tournament&#xA0;kicked off today and takes place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event is played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000).&#xA0;&#xA0;Time control for the A tournament is 90 minutes for the first 40 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-generation-cup-praggnanandhaa-posts-three-wins-before-losing-to-fellow-teen-yoo/articleshow/94305762.cms",
          "pubDate" : "Mon, 19 Sep 2022 12:38:08 +0000",
          "title" : "Praggnanandhaa posts three wins before losing to fellow teen Yoo"
-      },
-      {
-         "description" : "The Jobava London System (1.d4 Nf6 2.Nc3 d5 3.Bf4) is itself still a young opening. In his video, Daniel King presents a fairly new gambit within this system: with 4.e4! (instead of the usual 4.e3) White offers a pawn sacrifice. A \"shocker\" for every player with the black pieces who sees the move on the board for the first time, says Daniel King in his contribution to ChessBase Magazine #209. You can watch an excerpt from his almost half-hour video analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-shocker-in-the-jobava-london-system",
-         "pubDate" : "Mon, 19 Sep 2022 13:00:00 +0100",
-         "title" : "A \"shocker\" in the Jobava London System"
       },
       {
          "description" : " Nigerian International Master Odion Aikhoje finally receives the gold medal he earned on board two at the Elista Olympiad in 1998. Twenty-four years is short in terms of age, but to wait on something for 24 years is another matter. The Chess Drum reported on Aikhoje's triumph in the very first issue of the website The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/19/aikhoje-gets-98-olympiad-gold-medal/\">Aikhoje gets '98 Olympiad gold medal!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
