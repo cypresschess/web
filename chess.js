@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2021",
+         "pubDate" : "Sun, 02 Oct 2022 18:42:15 +0000",
+         "title" : "Record-breaking attendance at FIDE Trainers' Seminar"
+      },
+      {
          "description" : "Today is Jonathan Speelman's sixty-sixth birthday, so he allowed himself a certain amount of self-indulgence, as he decided to present a selection of his favourite games and studies. His criterion: \"A preference for either the breathtakingly simple or the mind-bogglingly complex\". Happy birthday, Jon! | Pictured: Julian Hodgson and Jonathan Speelman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
