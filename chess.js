@@ -226,12 +226,12 @@ news_feed (
          "title" : "Fischer: 'That's my answer'"
       },
       {
-         "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022 starts tomorrow in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by []",
+         "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022 starts in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by 30 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022-starts-tomorrow/",
          "pubDate" : "Fri, 30 Sep 2022 14:19:51 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad 2022 starts tomorrow"
+         "title" : "FIDE World Youth U16 Chess Olympiad 2022 starts"
       },
       {
          "description" : "The fourth and the final leg of the $100.000 MPL Indian Chess Tour&#xA0;is taking place from 30 September &#x2013; 3 October on chess24.com. 16 players compete in the all-play-all tournament for a qualification spot on the&#xA0;Meltwater Champions Chess Tour. Time control is 15 minutes + 10 second increment starting from move one. The winners and []",
