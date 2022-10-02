@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you've tried nearly every answer to 1.e4but found them to be too dull or drawish for your ambitionsthen here's the fiery opening to match your penchant for sizzling attacks and winning combinations! Here's the big news: Former world #3 and four-time Dutch Champion Grandmaster Anish Giri returns to Chessable. If you don't know it []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-the-dragon-sicilian/",
+         "pubDate" : "Sun, 02 Oct 2022 22:29:52 +0000",
+         "title" : "Anish Giri, the Dragon Sicilian"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-179",
          "pubDate" : "Sun, 02 Oct 2022 19:10:00 +0100",
          "title" : "Codgerly self-indulgence"
+      },
+      {
+         "description" : " The US Chess Championship takes place in Saint Louis Wed 5th (round 1) to Thu 20th Oct 2022. The event has been bumped up to a 14 player 13 round tournament for the first time in decades. There are Open and Women's events. Players: Wesley So, Levon Aronian, Fabiano Caruana, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Hans Moke Niemann, Samuel Sevian, Dariusz Swiercz, Awonder Liang, Christopher Woojin Yoo, Elshan Moradiabadi and Aleksandr Lenderman. Women's group: , Irina Krush, Anna Zatonskih, Ashritha Eswaran, Nazi Paikidze, Gulrukhbegim Tokhirjonova, Rochelle Wu, Tatev Abrahamyan, Jennifer Yu, Thalia Cervantes Landeiro, Alice Lee, Ruiyang Yan, Megan Lee, Sabina-Fran",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championship-2022",
+         "pubDate" : "Sun, 2 Oct 2022 20:39:00 +0400",
+         "title" : "US Chess Championship 2022 - Games and Results"
+      },
+      {
+         "description" : " The 37th European Club Cup takes place in Mayrhofen, Austria 3rd to 9th October. Leading players including Magnus Carlsen, Viswanathan Anand, Richard Rapport, Shakhriyar Mamedyarov, MVL, D Gukesh and Arjun Erigaisi. CSU ASE Superbet and Novy Bor Chess club are the top two seeded teams. There is in addition a women's team event alongside.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/37th-european-club-cup-2022",
+         "pubDate" : "Sun, 2 Oct 2022 20:30:00 +0400",
+         "title" : "37th European Club Cup 2022 - Games and Results"
       },
       {
          "description" : "The&#160;4th ESNA European Small Nations Individual Chess Championship 2022&#160;took place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. GM Henderson de la Fuente Lance (AND, 2504) won the event scoring 8/9 points. With an important victory in the last round against Apol Luitjen []",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022-leg-4-live/",
          "pubDate" : "Fri, 30 Sep 2022 13:57:35 +0000",
          "title" : "MPL Indian Chess Tour 2022 - Leg 4 LIVE"
-      },
-      {
-         "description" : "The fourth and the final leg of the $100.000 MPL Indian Chess Tour takes place from 30 September 3 October online. 16 players compete in the all-play-all tournament for a qualification spot on the Meltwater Champions Chess Tour. Time control is 15 minutes + 10 second increment starting from move one. The winners and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022-leg-4/",
-         "pubDate" : "Fri, 30 Sep 2022 13:54:21 +0000",
-         "title" : "MPL Indian Chess Tour 2022 - Leg 4"
       },
       {
          "description" : "A few days ago Europe's biggest news portal, SPIEGEL Online, had YACS - yet another cheating story. It concentrated on a portrait of the accused Hans Niemann, and traced his chess development over the years. Did you know you can easily track the Elo progress in the ChessBase Players service? And also his best games, his best and his most difficult opponents, his favourite openings and most/least successful openings. If not, take a look at what you have been missing.",
@@ -2184,14 +2200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1980",
          "pubDate" : "Mon, 12 Sep 2022 05:49:39 +0000",
          "title" : "World Youth Chess Championships cross halfway"
-      },
-      {
-         "description" : "ECU E-Magazine August 2022 is out! In this edition of the ECU E-Magazine you may read about: European Women's Chess Championship 2022 European Amateur Chess Championship 2022 European Club Cup and European Women's Club Cup 2022 Communique of the ECU Board Meeting Open Call of interest for ECU/FIDE Commissions 2023-2026 ECU EDU Commission activities Chess for Protection project&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-august-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-august-2022/",
-         "pubDate" : "Sun, 11 Sep 2022 22:39:26 +0000",
-         "title" : "ECU E-Magazine August 2022"
       }
    ]
 }
