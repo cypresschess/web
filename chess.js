@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;4th ESNA European Small Nations Individual Chess Championship 2022&#160;took place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. GM Henderson de la Fuente Lance (AND, 2504) won the event scoring 8/9 points. With an important victory in the last round against Apol Luitjen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/",
+         "pubDate" : "Sun, 02 Oct 2022 15:26:55 +0000",
+         "title" : "Henderson de la Fuente Lance wins European Small Nations Individual Chess Championship"
+      },
+      {
+         "description" : "The&#160;4th ESNA European Small Nations Individual Chess Championship 2022&#160;took place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. GM Henderson de la Fuente Lance (AND, 2504) won the event scoring 8/9 points. With an important victory in the last round against Apol Luitjen Akselsson (FAI, 2113),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/",
+         "pubDate" : "Sun, 02 Oct 2022 15:02:53 +0000",
+         "title" : "Henderson de la Fuente Lance wins European Small Nations Individual Chess Championship 2022"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 93rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings by showing a Fischer-classic. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-92-backgrounds-of-structures-3",
          "pubDate" : "Sun, 02 Oct 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 93: Backgrounds of structures (3)"
+      },
+      {
+         "description" : " There's a trap in the Caro-Kann which seems to be both very popular and very successful in online chess at the moment. It made an appearance over the board in the recent British Championship. This was Thomas Villiers (2170) v Ioanis Lentzos (2097) 1. e4 c6 2. Nf3 d5 3. d3!? This looks harmless, but <a href=\"https://chessimprover.com/a-trap-in-the-caro-kann/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Trap in the Caro-Kann\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-trap-in-the-caro-kann/\">A Trap in the Caro-Kann</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-trap-in-the-caro-kann/",
+         "pubDate" : "Sun, 02 Oct 2022 13:52:48 +0000",
+         "title" : "A Trap in the Caro-Kann"
       },
       {
          "description" : "",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-junior-chess-championship.html",
          "pubDate" : "Fri, 30 Sep 2022 12:55:00 +0000",
          "title" : "2022 ACT Junior Chess Championship"
-      },
-      {
-         "description" : "The International round-robin tournament &#x201C;Chess stars 2022&#x201D; will be held from 29 September &#x2013; 5 October in Moscow, Russia. The main event is a 10 player round robin tournament with 10 world-known grandmasters from Russia, Azerbaijan, India and Spain: Sergey Karjakin, Vladimir Kramnik, Teimour Radjabov, Alexander Morozevich, Francisco Vallejo, Vladislav Artemiev, Ernesto Inarkiev, Raunak Sadhwani, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/morozevich-replaces-grischuk-at-the-chess-stars-2022-tournament/",
-         "pubDate" : "Fri, 30 Sep 2022 12:15:31 +0000",
-         "title" : "Morozevich replaces Grischuk at the \"Chess Stars 2022\" tournament"
       },
       {
          "description" : " Over the last two months, we've been analyzing a game through the eyes of a beginner. We've used the opening and middle-game principles studied thus far to guide us through each move. Using game principles as the basis for your analysis is what game analysis is all about. When asking the question \"why was a <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy-Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-three/\">A Foundation for Beginners Seventy-Three</a> appeared first on <a rel=\"nofollow\" href=\"h",
@@ -2168,22 +2184,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-august-2022/",
          "pubDate" : "Sun, 11 Sep 2022 22:39:26 +0000",
          "title" : "ECU E-Magazine August 2022"
-      },
-      {
-         "description" : "After all the anti-social behavior documented in the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), it's easy to forget that there are still role models in the game. GM Anand is one of the classiest. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/z1jQ7aCri1s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How Vishy is changing the Landscape of Chess in India | WACA Chess</B> (4:52) &#149; '[Published on] Sep 8, 2022' <P>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/chess-players-with-class.html",
-         "pubDate" : "Sun, 11 Sep 2022 15:30:00 +0000",
-         "title" : "Chess Players with Class"
-      },
-      {
-         "description" : " WFM Alana Chibnall is the 2022 ACT Women's Champion, after winning todays tournament with a perfect 7 from 7. 25 players took part in the tournament, which has returned to the ACT chess calendar after a gap of 8 years. The tournament was a 7 round Rapid, with a time control of 15m+5s. Tied for 2nd place were Shriya Karthik and Jo Mason, who finished 5.5, drawing their Round 6 game, after both losing to Chibnall earlier in the tournament. Unrated newcomer Kenisha Gaind won the Best Under 14 Years player, while 7 year old Echo Feng finished in a tie for 5th, and won the Best Under 12 Years player. With Gain picking up a medal for the Under 14 title, Claire Bradbery was the best Unrated player",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-womens-championship.html",
-         "pubDate" : "Sun, 11 Sep 2022 13:37:00 +0000",
-         "title" : "2022 ACT Women's Championship"
       }
    ]
 }
