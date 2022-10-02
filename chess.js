@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 93rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings by showing a Fischer-classic. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-92-backgrounds-of-structures-3",
+         "pubDate" : "Sun, 02 Oct 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 93: Backgrounds of structures (3)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2020",
+         "pubDate" : "Sun, 02 Oct 2022 12:37:55 +0000",
+         "title" : "FIDE World Youth U-16 Chess Olympiad 2022 starts in Nakhchivan"
+      },
+      {
+         "description" : "<h1 style=\"text-align: left;\"> 2022 Vikings Weekender</h1> 18th, 19th and 20th November 2022 6 round FIDE Rated Swiss* Lanyon Vikings, Heidelberg St, Condor, ACT Time control: 60m + 30s Open and Under 1600 sections (Both FIDE Rated) Round 1: Friday 7:00pm Round 2: Sat 10:15am Round 3: Sat 2:15pm Round 4: Sat 6:15pm Round 5: Sun 10:15am Round 6:Sun 2:15pm 1st Prize Open $1000, 1st Prize Minor $500 (All other prizes dependant upon entries) Entry fee: $65 ($45 Junior/Concession) GM, IM, WGM, WIM free Maximum of 60 players Lanyon Vikings is a Licenced club. Players under the age of 18 must be accompanied by an adult at all times in the upstairs gaming and bar areas. Please also note that bar/mea",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/2022-vikings-weekender-save-date.html",
+         "pubDate" : "Sun, 02 Oct 2022 12:31:00 +0000",
+         "title" : "2022 Vikings Weekender - Save the date"
+      },
+      {
+         "description" : "In studying the classics, we get to know the elementary strategies and tactical motifs of the game, and thus we deepen our understanding of chess. At the same time, we gain an insight into chess history and chess culture. Dorian Rogozenco presents the most beautiful classics on his new FritzTrainer. Phillip Hillebrand has reviewed the training course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-chess-classics-review",
+         "pubDate" : "Sun, 02 Oct 2022 13:25:00 +0100",
+         "title" : "Dorian Rogozenco's Chess Classics - A review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2019",
+         "pubDate" : "Sun, 02 Oct 2022 12:24:59 +0000",
+         "title" : "Jose Carrillo Pujol elected new President of the Confederation of Chess for Americas"
+      },
+      {
          "description" : "Vishy Anand re-entered the world Top 10 for the first time since 2019, while the youngesters continued their rise on the October FIDE rating list - 16-year-old Gukesh is now world no. 18, Vincent Keymer 2700, and Hans Niemann just 1 point short. Rapid and blitz ratings received a one-off reboot with some strange consequences: Garry Kasparov climbed 37 places in blitz without playing a game!",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1554,14 +1594,6 @@ news_feed (
          "title" : "Carlsen quits against Niemann&hellip; the saga continues"
       },
       {
-         "description" : "It is the story that refuses to die, and with the renewed silent protest by World Champion Magnus Carlsen it is little wonder too. Could he be justified in these dramatic gestures? The world's greatest expert on cheating detection in chess, Professor Kenneth Regan, has analyzed all of Hans Niemann's games over the last two years, online and offline, and renders his verdict.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/is-hans-niemann-cheating-world-renowned-expert-ken-regan-analyzes",
-         "pubDate" : "Tue, 20 Sep 2022 16:05:00 +0100",
-         "title" : "Is Hans Niemann cheating? - World renowned expert Ken Regan analyzes"
-      },
-      {
          "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG\" data-image-dimensions=\"377x227\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6329ca793a885d55577fa0e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the 2021 US Women's Champion and one of the top junior female players in the world,<a href=\"https://en.wikipedia.org/wiki/Carissa_Yip\" ta",
          "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
          "iconName" : "Perpetual<br>Chess",
@@ -1600,14 +1632,6 @@ news_feed (
          "link" : "https://aicf.in/world-youth-chess-championship-2022-mamaiaromania-from-september-5-to-september-172022/",
          "pubDate" : "Tue, 20 Sep 2022 09:09:45 +0000",
          "title" : "Final Report:World Youth Chess Championship 2022 Mamaia,Romania from September 5 to September 17,2022"
-      },
-      {
-         "description" : "The much anticipated direct encounter between Magnus Carlsen and Hans Niemann, following Carlsen's sudden withdrawal from the Sinquefield Cup, took place in round 6 of the Generation Cup. The game was indeed played, but it lasted only two moves, as Carlsen resigned with black after 1.d4 Nf6 2.c4. It was yet another unfortunate incident, which leaves the chess world wondering when this whole passive-aggressive quarrel will come to an end. Meanwhile, Arjun Erigaisi climbed to sole first place after grabbing two wins and two draws in rounds 5 to 8.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d2",
-         "pubDate" : "Tue, 20 Sep 2022 09:05:00 +0100",
-         "title" : "Generation Cup: Drama takes centre stage as Arjun grabs the lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94317346.cms\" />India's teenaged Grandmaster Arjun Erigaisi jumped to the top position with 17 points after eight rounds, while his compatriot R Praggnanandhaa is in second place with 15 points at the Julius Baer Cup. The much-awaited Praggnanandhaa-Magnus Carlsen clash in round eight ended in a draw. The Indian had beaten the Norwegian ace twice earlier this season in online matches.",
