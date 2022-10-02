@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand re-entered the world Top 10 for the first time since 2019, while the youngesters continued their rise on the October FIDE rating list - 16-year-old Gukesh is now world no. 18, Vincent Keymer 2700, and Hans Niemann just 1 point short. Rapid and blitz ratings received a one-off reboot with some strange consequences: Garry Kasparov climbed 37 places in blitz without playing a game!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anand-back-in-top-10-pragg-gains-660-points",
+         "pubDate" : "Sun, 02 Oct 2022 10:23:46 +0000",
+         "title" : "Anand back in Top 10, Pragg gains 660 points!"
+      },
+      {
+         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The event will be played in 7 rounds, swiss system, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-live/",
+         "pubDate" : "Sun, 02 Oct 2022 08:16:14 +0000",
+         "title" : "European Women's Chess Club Cup 2022 - LIVE"
+      },
+      {
          "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup take place from 2nd - 10th October in Mayrhofen, Austria. The Opening ceremony is scheduled for tonight at 20:00 CEST, while the first round starts tomorrow at 14:00 (local time). Schedule: With participation of 87 teams (70 in the Open event and 17 in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/niemann-is-either-the-greatest-american-talent-since-fischer-or/",
          "pubDate" : "Fri, 30 Sep 2022 08:43:46 +0000",
          "title" : "\"Niemann is either the greatest American talent since Fischer or a fraud\" Olimpiu Di Luppi"
-      },
-      {
-         "description" : "European Chess Union organizes European Cities &#38; Towns Chess Championship 2022 which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event will be played as a team competition in four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the ECU []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-cities-towns-chess-championship-2022/",
-         "pubDate" : "Fri, 30 Sep 2022 08:14:34 +0000",
-         "title" : "European Cities & Towns Chess Championship 2022"
       },
       {
          "description" : "FIDE has confirmed they will launch an investigation into Magnus Carlsen and Hans Niemann after the cheating scandal that has dominated the chess world and gathered worldwide attention in recent weeks.",
@@ -1994,14 +2002,6 @@ news_feed (
          "title" : "Champions Showdown 9LX 2022 - Games and Results"
       },
       {
-         "description" : "\"Alireza could repeat, following Julius Caesar, veni, vidi, vici, I came, I saw and I won\", said Garry Kasparov at the Closing Ceremony of the Sinquefield Cup in St. Louis. Alireza Firouzja had won it all, but there's still a major event to go, Chess9LX, where Kasparov, Hikaru Nakamura and Peter Svidler will be joining for a battle in Chess960.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kasparov-is-back-as-firouzja-picks-up-trophies",
-         "pubDate" : "Wed, 14 Sep 2022 15:46:51 +0000",
-         "title" : "Kasparov is back as Firouzja picks up trophies"
-      },
-      {
          "description" : " The new version of the FIDE Laws of Chess are to be published soon, and will go into effect on the 1st January 2023. As a member of the FIDE Rules Commission, I have been involved in a bit of proofreading, hopefully to eliminate any glaring errors in both language and meaning. This stands in stark contrast to my experiences earlier in the day. Visiting one of the Canberra schools i coach at, I had a number of interesting rules explained to me by 5 and 6 year old chess players. The main thing they had in common was that the 'rules' allowed my opponents to escape from fairly dicey positions. One example was having played Qh4+ (as Black) to attack the White king on e1, I was told that my queen",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2160,14 +2160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-womens-championship.html",
          "pubDate" : "Sun, 11 Sep 2022 13:37:00 +0000",
          "title" : "2022 ACT Women's Championship"
-      },
-      {
-         "description" : " In my personal experience, it's usually the last round of a tournament where strange things happen. But, looking at the games from last month's British Championship, I was struck by how many strange things happened in the first round. As usual, the upper half were paired against the lower half, and there were several games <a href=\"https://chessimprover.com/the-first-round-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The First Round\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-first-round-2/\">The First Round</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-first-round-2/",
-         "pubDate" : "Sun, 11 Sep 2022 09:29:01 +0000",
-         "title" : "The First Round"
       }
    ]
 }
