@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2022-10-01","149","<a href=http://www.uschess.org/msa/XtblMain.php?202210018342 target='_blank'>ST EDWARD SCHOLASTIC CHESS TOURNAME</a>",
 "HOUSTON","2022-10-01","11","<a href=http://www.uschess.org/msa/XtblMain.php?202210018312 target='_blank'>OCT 1 SATURDAY CHESS</a>",
 "CYPRESS","2022-09-30","34","<a href=http://www.uschess.org/msa/XtblMain.php?202209307812 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-09-06  - 09-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202209276772 target='_blank'>SEPTEMBER TUESDAY NIGHT SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2022-01-08","9","<a href=http://www.uschess.org/msa/XtblMain.php?202201085382 target='_blank'>DER SPRINGERS JANUARY 22</a>",
 "SPRING","2022-01-07","14","<a href=http://www.uschess.org/msa/XtblMain.php?202201074952 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-01-07","6","<a href=http://www.uschess.org/msa/XtblMain.php?202201074922 target='_blank'>FBCC 2021 ITALIAN NOVEMBER CLASSIC</a>",
-"CYPRESS","2022-01-07","16","<a href=http://www.uschess.org/msa/XtblMain.php?202201074892 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
