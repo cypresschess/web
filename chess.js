@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup take place from 2nd - 10th October in Mayrhofen, Austria. The Opening ceremony is scheduled for tonight at 20:00 CEST, while the first round starts tomorrow at 14:00 (local time). Schedule: With participation of 87 teams (70 in the Open event and 17 in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/",
+         "pubDate" : "Sun, 02 Oct 2022 06:37:29 +0000",
+         "title" : "European Chess Club Cup 2022 opens in Mayrhofen"
+      },
+      {
          "description" : "Kateryna Lagno took clear first place at the Women's Grand Prix in Astana, Kazakhstan. A 12-player single round robin, the event featured a number of remarkable confrontations. GM Karsten M&uuml;ller analysed three of the most interesting endgames and shared his insights with us. Instructive and entertaining! | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2160,14 +2168,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-first-round-2/",
          "pubDate" : "Sun, 11 Sep 2022 09:29:01 +0000",
          "title" : "The First Round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1976",
-         "pubDate" : "Sun, 11 Sep 2022 06:03:32 +0000",
-         "title" : "2022 Sinquefield Cup - Day 8 Recap"
       }
    ]
 }
