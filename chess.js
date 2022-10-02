@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today is Jonathan Speelman's sixty-sixth birthday, so he allowed himself a certain amount of self-indulgence, as he decided to present a selection of his favourite games and studies. His criterion: \"A preference for either the breathtakingly simple or the mind-bogglingly complex\". Happy birthday, Jon! | Pictured: Julian Hodgson and Jonathan Speelman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-179",
+         "pubDate" : "Sun, 02 Oct 2022 19:10:00 +0100",
+         "title" : "Codgerly self-indulgence"
+      },
+      {
          "description" : "The&#160;4th ESNA European Small Nations Individual Chess Championship 2022&#160;took place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. GM Henderson de la Fuente Lance (AND, 2504) won the event scoring 8/9 points. With an important victory in the last round against Apol Luitjen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/09/21/the-silicon-road-to-chess-improvement-chess-engine-training-methods-opening-strategies-middlegame-techniques/",
          "pubDate" : "Wed, 21 Sep 2022 00:10:21 +0000",
          "title" : "The Silicon Road To Chess Improvement: Chess Engine Training Methods, Opening Strategies & Middlegame Techniques"
-      },
-      {
-         "description" : "With three rounds to go, a combative final day of preliminaries awaits us in the Generation Cup, as most participants still have chances to reach the knockout stage. Meanwhile, Magnus Carlsen already clinched a spot in the knockout after retaking the lead ahead of Arjun Erigaisi, who nonetheless continues to impress in the online event. | Photo: FIDE / Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d3",
-         "pubDate" : "Wed, 21 Sep 2022 00:50:00 +0100",
-         "title" : "Generation Cup: Carlsen shines, retakes the lead"
       },
       {
          "description" : "",
