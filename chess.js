@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is excited to announce the launch of our newest app, &#34;Checkmate Or Die!&#34; In this game, only two things can happen: you either checkmate the zombies or they eat you! Quickly solve all the mating puzzles that come your way to escape the wr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-checkmate-or-die-zombie-bots",
+         "pubDate" : "Mon, 03 Oct 2022 12:03:59 -0700",
+         "title" : "Chess.com Releases New App And Bots: Checkmate Or Die"
+      },
+      {
+         "description" : "Each of the ten European mini-states which make up the European Small Nations Association sent one player to this single round-robin tournament with a classical time control. The event took place in Vaduz, the capital of Liechtenstein, and ended Saturday. The winner of the tournament was GM Lance Henderson de la Fuente, from Andorra, who obtained an 8/9 score. The matter was only decided in the last round, when Henderson defeated Luitjen Akselsson Apol from the Faroe Islands. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lance-henderson-wins-european-small-nations-2022",
+         "pubDate" : "Mon, 03 Oct 2022 20:00:00 +0100",
+         "title" : "Lance Henderson wins European Small Nations Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>WR Masters</strong> is <a href=\"https://mobile.twitter.com/wr_chess\">announced in D&uuml;sseldorf</a> for the second half of February with Nepomnachtchi, Giri, Aronian and Keymer among its ten participants. The event is sponsored by the German-Russian logistics entrepreneur <strong>Wadim Rosenstein</strong> and his <strong>WR Group</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/february-top-event-in-duesseldorf/",
+         "pubDate" : "Mon, 03 Oct 2022 15:57:24 +0100",
+         "title" : "February top event in D&uuml;sseldorf"
+      },
+      {
          "description" : "Some players have made considerable Elo gains as the International Chess Federation has corrected rapid and blitz ratings with the publication of the October 2022 rating lists. GM Praggnanandhaa R. gains a staggering 660 points for his rapid ratin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-october-fide-ratings-rapid-blitz",
-         "pubDate" : "Mon, 03 Oct 2022 07:12:02 -0700",
+         "pubDate" : "Mon, 03 Oct 2022 07:12:00 -0700",
          "title" : "Praggnanandhaa Gains 660 Points As FIDE Adjusts Rapid, Blitz Ratings"
       },
       {
@@ -736,14 +760,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/niemann-confirmed-for-us/",
          "pubDate" : "Wed, 28 Sep 2022 12:50:05 +0100",
          "title" : "Niemann confirmed for US championship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Sexist remarks about women and chess by the Israeli GM <strong>Ilya Smirin</strong> while commenting on the <strong>FIDE Women's Grand Prix</strong> in Astana caused a shitstorm on social media and led <strong>FIDE</strong> <a href=\"https://fide.com/news/2008\">to fire him</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/commentator-smirin-fired-for-sexism/",
-         "pubDate" : "Wed, 28 Sep 2022 12:17:23 +0100",
-         "title" : "Commentator Smirin fired for sexism"
       },
       {
          "description" : "From 16 to 25 December 2022 Tunisia will host the World Francophone's major annual chess meeting at Yasmine Hammamet. These 2022 Individual Francophone Championships will award the following titles for 2022: &bull; Francophone Champion&bull; Woman Francophone Champion&bull; Senior Francophone Champion &bull; Veteran Francophone Champion&bull; Blitz Francophone Champion According to their FIDE ID, only players from Francophone Chess Association&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/\">Read More &#187;</a></span>",
@@ -1562,14 +1578,6 @@ news_feed (
          "title" : "Breaking: Carlsen speaks after winning Generation Cup prelims"
       },
       {
-         "description" : "Top seed Aleksandra Goryachkina (pictured) and Chinese youngster Zhu Jiner are sharing the lead on 3/4 points at the first leg of the Women's Grand Prix in Astana. Zhu, aged 19, has so far defeated Dinara Wagner and Polina Shuvalova after playing three out of her four first games with the black pieces. Bibisara Assaubayeva and Kateryna Lagno stand a half point behind the co-leaders. | Photos: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r4",
-         "pubDate" : "Wed, 21 Sep 2022 21:45:00 +0100",
-         "title" : "Astana GP: Goryachkina and Zhu share the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1991",
          "pubDate" : "Mon, 19 Sep 2022 18:20:09 +0000",
          "title" : "Tactics and time trouble in Astana"
-      },
-      {
-         "description" : "On the second day of the Julius Baer Generation Cup, GM Magnus Carlsen sent waves through the chess world by playing just one move vs. GM Hans Niemann in their anticipated game before resigning. GM Arjun Erigaisi leads the event with 17 points, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-2",
-         "pubDate" : "Mon, 19 Sep 2022 10:53:00 -0700",
-         "title" : "World Champion Resigns After 1 Move Vs. Niemann, Erigaisi Leads"
       },
       {
          "description" : "The buzz in the chess world has been dominated for the last two weeks by the Carlsen/Nakamura vs. Niemann affair. Finding it impossible to ignore, I documented it in the post <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022). Talkchess members discussed the technical possibilities for cheating in two related threads:- <UL><LI>2022-12-06: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=80630\">Carlsen withdrawal after loss to Niemann</A>(talkchess.com; lkaufman) &#149; 'I am posting here to ask those who are technologically knowledgeable how they would go about getting computer",
