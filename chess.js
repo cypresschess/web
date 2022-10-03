@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 37th European Chess Club Cup kicked off today in Mayrhofen, Austria, and takes place simultaneously with the&#160;26th European Women&#x2019;s Chess Club Cup&#160;from 2nd &#x2013; 10th October at the&#160;Europahaus Mayrhofen &#x2013; Congress Zillertal. With all eyes on Magnus Carlsen and Viswanathan Anand playing the top boards for their teams, only a few upsets marked the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/europe-club-cup-2022-round-1-result/",
+         "pubDate" : "Mon, 03 Oct 2022 22:09:19 +0000",
+         "title" : "European Club Cup 2022 - Round 1 results"
+      },
+      {
+         "description" : "The 26th European Women&#x2019;s Chess Club Cup&#xA0;kicked off today in Mayrhofen, Austria, and takes place simultaneously with the&#xA0;37th European Chess Club Cup&#xA0;from 2nd &#x2013; 10th October at the&#xA0;Europahaus Mayrhofen &#x2013; Congress Zillertal. The top-seeded eight teams won their matches in the first round, and CSU ASE Superbet Romania, ASVOe Pamhagen Austria and Wood Green England []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-club-cup-2022-round-1-results/",
+         "pubDate" : "Mon, 03 Oct 2022 21:16:00 +0000",
+         "title" : "European Women's Club Cup 2022 - Round 1 results"
+      },
+      {
          "description" : "Chess.com is excited to announce the launch of our newest app, &#34;Checkmate Or Die!&#34; In this game, only two things can happen: you either checkmate the zombies or they eat you! Quickly solve all the mating puzzles that come your way to escape the wr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "European Chess Club Cup 2022 - Day 1 live"
       },
       {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Hikaru Nakamura shared his []",
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since. Hikaru Nakamura shared his []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hikaru-nakamura-on-the-recent-carlsen-niemann-case-developments-i-dont-see-a-happy-ending-to-this/",
@@ -146,7 +162,7 @@ news_feed (
          "title" : "ECF Book of the Year 2022"
       },
       {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round of the event starts today at 14:00 CEST, with Magnus []",
+         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round of the event starts today at 14:00 CEST, with Magnus []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-chess-club-cup-2022-round-1-pairings-open-section/",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/inductees-chess-halls-of-fame-2022",
          "pubDate" : "Mon, 03 Oct 2022 09:00:00 +0100",
          "title" : "Chess legends to be inducted into the U.S. and World Chess Halls of Fame"
-      },
-      {
-         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The European Chess Club Cup 2022 will be played in 7 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-live/",
-         "pubDate" : "Mon, 03 Oct 2022 07:35:00 +0000",
-         "title" : "European Chess Club Cup 2022 - LIVE"
       },
       {
          "description" : "The FIDE World Cadet Chess Championship 2022 in the U8, U10 and U12 categories is in the books. In the final round, the participants, especially those contesting for medals, showed real fighting spirit. Not all the favourites made it to the podium, giving way to uprising lower-rated players. Find the winners of all categories in this article. | Photos: Mark Livshitz",
@@ -184,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d1",
          "pubDate" : "Sun, 02 Oct 2022 17:18:00 -0700",
          "title" : "So Edges Out Xiong, Aronian Knocks Out Sevian"
-      },
-      {
-         "description" : "If you've tried nearly every answer to 1.e4but found them to be too dull or drawish for your ambitionsthen here's the fiery opening to match your penchant for sizzling attacks and winning combinations! Here's the big news: Former world #3 and four-time Dutch Champion Grandmaster Anish Giri returns to Chessable. If you don't know it []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-the-dragon-sicilian/",
-         "pubDate" : "Sun, 02 Oct 2022 22:29:52 +0000",
-         "title" : "Anish Giri, the Dragon Sicilian"
       },
       {
          "description" : "",
@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/",
          "pubDate" : "Tue, 13 Sep 2022 00:10:03 +0000",
          "title" : "United States Women's Chess Champions, 1937-2020"
-      },
-      {
-         "description" : " The 9th Sinquefield Cup took place in Saint Louis 2nd to 13th September 2022. Players: Magnus Carlsen, Ian Nepomniachtchi, Alireza Firouzja, Fabiano Caruana, Levon Aronian, Wesley So, Shakhriyar Mamedyarov, Maxime Vachier-Lagrave, Leinier Dominguez Perez and Hans Moke Niemann. Carlsen withdrew after three rounds following his loss to Hans Moke Niemann, a delay was introduced to the live broadcast in round 4. Alireza Firouzja won the event by beating Ian Nepomniachtchi in a tie-break. Nepomniachtchi failed to convert a winning position against Niemann in the final round. Firouzja also won the Grand Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
-         "pubDate" : "Mon, 12 Sep 2022 23:34:00 +0400",
-         "title" : "9th Sinquefield Cup 2022 - Games and Results"
       }
    ]
 }
