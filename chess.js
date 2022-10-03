@@ -2,6 +2,166 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some players have made considerable Elo gains as the International Chess Federation has corrected rapid and blitz ratings with the publication of the October 2022 rating lists. GM Praggnanandhaa R. gains a staggering 660 points for his rapid ratin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-october-fide-ratings-rapid-blitz",
+         "pubDate" : "Mon, 03 Oct 2022 07:12:02 -0700",
+         "title" : "Praggnanandhaa Gains 660 Points As FIDE Adjusts Rapid, Blitz Ratings"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://fide.com/news/2017\">confirmed the appointments</a> of two newly created positions: <strong>Nigel Short</strong>, who had resigned as VP in June after <a href=\"https://ethics.fide.com/wp-content/uploads/2022/06/EDC-Case-10_2021A-Appeal-Chamber-decision.pdf\">controversially being sanctioned</a> by the <strong>Ethics Commission</strong>, becomes <strong>Director of Development</strong> and shall advise young federations. <strong>Akaki Iashvili</strong> as the new <strong>Director of Special Tasks</strong> shall supervise events. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/short-and-iashvili-hired-by-fide/",
+         "pubDate" : "Mon, 03 Oct 2022 14:42:52 +0100",
+         "title" : "Short and Iashvili hired by FIDE"
+      },
+      {
+         "description" : "In view of the ongoing Carlsen Niemann story and the general tension created around the problem of cheating, the organizers of the European Chess Club Cup have implemented anti-cheating measures. There will be a 15 min delay on games transmission and cameras broadcast on all boards in the venue. The 15 minutes anti-cheating delay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anti-cheating-measures-implemented-at-the-european-chess-club-cup/",
+         "pubDate" : "Mon, 03 Oct 2022 13:18:08 +0000",
+         "title" : "Anti-cheating measures implemented at the European Chess Club Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2024",
+         "pubDate" : "Mon, 03 Oct 2022 13:06:59 +0000",
+         "title" : "Wesley So set to defend his Fischer Random title"
+      },
+      {
+         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
+         "pubDate" : "Mon, 03 Oct 2022 13:50:00 +0100",
+         "title" : "European Club Cup - Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2023",
+         "pubDate" : "Mon, 03 Oct 2022 11:53:21 +0000",
+         "title" : "FIDE Arbiters' Manual 2022 released"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2022",
+         "pubDate" : "Mon, 03 Oct 2022 11:37:30 +0000",
+         "title" : "Arkady Dvorkovich meets with President of Azerbaijan"
+      },
+      {
+         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round starts at 14:00 CEST bringing interesting encounters in both Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-day-1-live/",
+         "pubDate" : "Mon, 03 Oct 2022 10:53:29 +0000",
+         "title" : "European Chess Club Cup 2022 - Day 1 live"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Hikaru Nakamura shared his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-on-the-recent-carlsen-niemann-case-developments-i-dont-see-a-happy-ending-to-this/",
+         "pubDate" : "Mon, 03 Oct 2022 10:47:33 +0000",
+         "title" : "Hikaru Nakamura on the recent Carlsen - Niemann case developments: I don't see a happy ending to this"
+      },
+      {
+         "description" : "The&#xA0;37th edition of the European Chess Club Cup&#xA0;kicks off today in Mayrhofen, Austria, with participation of 87 teams (70 in the Open section and 17 in the women&#x2019;s section). 600 players will defend the colors of their clubs, among them Mariya Muzychuk, Anna Muzychuk, Elisabeth Paehtz, Pia Cramling, Gunay Mammadzada, Antoaneta Stefanova. The first round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mariya-muzychuk-vs-anna-muzychuk-european-womens-club-cup-r1-live/",
+         "pubDate" : "Mon, 03 Oct 2022 10:09:25 +0000",
+         "title" : "Mariya Muzychuk vs Anna Muzychuk, European Women's Club Cup R1 LIVE"
+      },
+      {
+         "description" : "The&#160;37th edition of the European Chess Club Cup&#160;kicks off today in Mayrhofen, Austria, with participation of 87 teams (70 in the Open section and 17 in the women&#x2019;s section). 600 players will defend the colors of their clubs, among them Magnus Carlsen, Viswanathan Anand, Richard Rapport, Shakhriyar Mamedyarov. The first round of the event brings []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/johann-hjartarson-vs-viswanathan-anand-european-club-cup-r1-live/",
+         "pubDate" : "Mon, 03 Oct 2022 09:59:37 +0000",
+         "title" : "Johann Hjartarson vs Viswanathan Anand, European Club Cup R1 LIVE"
+      },
+      {
+         "description" : "The 37th edition of the European Chess Club Cup kicks off today in Mayrhofen, Austria, with participation of 87 teams (70 in the Open section and 17 in the women's section). 600 players will defend the colors of their clubs, among them Magnus Carlsen, Viswanathan Anand, Richard Rapport, Shakhriyar Mamedyarov. The first round of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nikita-meshkovs-vs-magnus-carlsen-european-club-cup-r1-live/",
+         "pubDate" : "Mon, 03 Oct 2022 09:38:11 +0000",
+         "title" : "Nikita Meshkovs vs Magnus Carlsen, European Club Cup R1 LIVE"
+      },
+      {
+         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round of the event starts today at 14:00 CEST, with Mariya []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-round-1-pairings/",
+         "pubDate" : "Mon, 03 Oct 2022 09:24:21 +0000",
+         "title" : "European Women's Chess Club Cup 2022 - Round 1 pairings"
+      },
+      {
+         "description" : "Vishy Anand leads top seeds Superbet in the European Chess Club Cup that starts in Mayrhofen, Austria today, while Magnus Carlsen tops the line-up for 7th seeds Offerspill Chess Club. Anna Muzychuk is on board one for women's top seeds Cercle d'Echecs de Monte-Carlo, and we'll have live commentary and exclusive video of all the action here on chess24.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/euro-club-cup-begins-with-anand-carlsen-in-action",
+         "pubDate" : "Mon, 03 Oct 2022 08:56:30 +0000",
+         "title" : "Euro Club Cup begins with Anand & Carlsen in action"
+      },
+      {
+         "description" : "Think like a Super-GM Adams and Hurtado Quality Chess pp464 &pound;29.50 The two authors, in conjunction with the publisher, have produced a book of great...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2022/",
+         "pubDate" : "Mon, 03 Oct 2022 08:45:31 +0000",
+         "title" : "ECF Book of the Year 2022"
+      },
+      {
+         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round of the event starts today at 14:00 CEST, with Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-round-1-pairings-open-section/",
+         "pubDate" : "Mon, 03 Oct 2022 08:00:38 +0000",
+         "title" : "European Chess Club Cup 2022 - Round 1 pairings (Open section)"
+      },
+      {
+         "description" : "Chess history will be made this year at induction ceremonies recognizing several exceptional contributors to the iconic game as the newest members of the U.S. and World Chess Halls of Fame. The first ceremony will honor 2022 U.S. Chess Hall of Fame inductees Daniel Willard Fiske, James Tarjan and John Watson, as well as 2021 World Chess Hall of Fame inductees Miguel Najdorf and Eugene Torre.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/inductees-chess-halls-of-fame-2022",
+         "pubDate" : "Mon, 03 Oct 2022 09:00:00 +0100",
+         "title" : "Chess legends to be inducted into the U.S. and World Chess Halls of Fame"
+      },
+      {
+         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The European Chess Club Cup 2022 will be played in 7 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-live/",
+         "pubDate" : "Mon, 03 Oct 2022 07:35:00 +0000",
+         "title" : "European Chess Club Cup 2022 - LIVE"
+      },
+      {
+         "description" : "The FIDE World Cadet Chess Championship 2022 in the U8, U10 and U12 categories is in the books. In the final round, the participants, especially those contesting for medals, showed real fighting spirit. Not all the favourites made it to the podium, giving way to uprising lower-rated players. Find the winners of all categories in this article. | Photos: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-cadet-championships-2022",
+         "pubDate" : "Mon, 03 Oct 2022 08:00:00 +0100",
+         "title" : "Winners crowned at FIDE World Cadet Championship"
+      },
+      {
+         "description" : "GM Wesley So overcame GM Jeffery Xiong in a neck-and-neck match with all decisive games to commence the round of 16 at the Chess.com Global Championship on Sunday. GM Levon Aronian went undefeated to knock out GM Sam Sevian in three games.&#38;nbsp; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d1",
+         "pubDate" : "Sun, 02 Oct 2022 17:18:00 -0700",
+         "title" : "So Edges Out Xiong, Aronian Knocks Out Sevian"
+      },
+      {
          "description" : "If you've tried nearly every answer to 1.e4but found them to be too dull or drawish for your ambitionsthen here's the fiery opening to match your penchant for sizzling attacks and winning combinations! Here's the big news: Former world #3 and four-time Dutch Champion Grandmaster Anish Giri returns to Chessable. If you don't know it []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -42,12 +202,12 @@ news_feed (
          "title" : "37th European Club Cup 2022 - Games and Results"
       },
       {
-         "description" : "The&#160;4th ESNA European Small Nations Individual Chess Championship 2022&#160;took place from 25th September &#x2013; 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. GM Henderson de la Fuente Lance (AND, 2504) won the event scoring 8/9 points. With an important victory in the last round against Apol Luitjen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/",
-         "pubDate" : "Sun, 02 Oct 2022 15:26:55 +0000",
-         "title" : "Henderson de la Fuente Lance wins European Small Nations Individual Chess Championship"
+         "description" : "Here on <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), when you say 'chess table', you mean something like the item featured in <A HREF=\"https://chessforallages.blogspot.com/2017/02/chess-with-rare-woods.html\">Chess with Rare Woods</A>(February 2017). The item pictured below was titled 'Aldo Tura 1950, Three Nesting Tables Goatskin, Decorated with Chess Figures'. It sold for US $700.00, 'Buy It Now'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj02.jpg\" WIDTH=400 HEIGHT=300> <P>The description said, <BLOCKQUOTE>Set of three nesting tables, Aldo Tura, Italy, 1950. In high lacquered goats",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html",
+         "pubDate" : "Sun, 02 Oct 2022 15:22:00 +0000",
+         "title" : "Chess and Italian Design"
       },
       {
          "description" : "The&#160;4th ESNA European Small Nations Individual Chess Championship 2022&#160;took place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. GM Henderson de la Fuente Lance (AND, 2504) won the event scoring 8/9 points. With an important victory in the last round against Apol Luitjen Akselsson (FAI, 2113),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/\">Read More &#187;</a></span>",
@@ -114,14 +274,6 @@ news_feed (
          "title" : "Anand back in Top 10, Pragg gains 660 points!"
       },
       {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The event will be played in 7 rounds, swiss system, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-live/",
-         "pubDate" : "Sun, 02 Oct 2022 08:16:14 +0000",
-         "title" : "European Women's Chess Club Cup 2022 - LIVE"
-      },
-      {
          "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup take place from 2nd - 10th October in Mayrhofen, Austria. The Opening ceremony is scheduled for tonight at 20:00 CEST, while the first round starts tomorrow at 14:00 (local time). Schedule: With participation of 87 teams (70 in the Open event and 17 in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -146,36 +298,12 @@ news_feed (
          "title" : "Bassem Amin & Shahenda Wafa&hellip; 2022 African Champs!"
       },
       {
-         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since.&#160;Hans Niemann confessed cheating online []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-to-publish-their-findings-on-carlsen-niemann-case/",
-         "pubDate" : "Sat, 01 Oct 2022 18:37:52 +0000",
-         "title" : "Chess.com to publish their findings on Carlsen - Niemann case"
-      },
-      {
          "description" : "The International Chess Federation has announced plans to form an investigatory panel with the intention to check both GM Magnus Carlsen&#39;s claims of alleged cheating by GM Hans Niemann and Niemann&#39;s own statement regarding online cheating. A wee...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-niemann-fide-investigatory-panel",
          "pubDate" : "Sat, 01 Oct 2022 11:19:00 -0700",
          "title" : "FIDE Forms Investigatory Panel For Carlsen-Niemann Controversy"
-      },
-      {
-         "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022&#xA0;starts tomorrow in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by 30 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022-live/",
-         "pubDate" : "Sat, 01 Oct 2022 17:24:04 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad 2022 - LIVE"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. It seems that the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ian-nepomniachtchi-explains-what-could-be-considered-evidence-of-cheating-in-chess/",
-         "pubDate" : "Sat, 01 Oct 2022 17:18:57 +0000",
-         "title" : "Ian Nepomniachtchi explains what could be considered evidence of cheating in chess"
       },
       {
          "description" : "",
@@ -234,14 +362,6 @@ news_feed (
          "title" : "The ChessBase Account - Training with WebApps (1)"
       },
       {
-         "description" : "The &#x201C;ChessMood&#x201D; International Open Chess Tournament&#xA0;kicked off today and takes place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event is played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000).&#xA0;&#xA0;Time control for the A tournament is 90 minutes for the first 40 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessmood-international-open-2022-live/",
-         "pubDate" : "Fri, 30 Sep 2022 16:16:45 +0000",
-         "title" : "ChessMood International Open 2022 - LIVE"
-      },
-      {
          "description" : "In his Power Play Show, Daniel King takes a close look at the game Saric-Ivanchuk, played at the Julius B&auml;r Generation Cup. We see a bold attacking idea right out of the opening that almost catches Ivanchuk. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,36 +370,12 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The Raging Rook"
       },
       {
-         "description" : "The &#x201C;ChessMood&#x201D; International Open Chess Tournament&#xA0;kicked off today and takes place from September 29 to October 09 at the 5 star Tsaghkadzor Marriott Hotel in Armenia. The event is played in 9 rounds, swiss system, within two groups: A (2000+) and B (U2000), with the total prize fund of 10.250.000 Armenian drams (around 21.000 euros).&#xA0;&#xA0;Time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessmood-open-2022-kicked-off-in-tsaghkadzor-armenia/",
-         "pubDate" : "Fri, 30 Sep 2022 15:50:30 +0000",
-         "title" : "ChessMood Open 2022 kicked off in Tsaghkadzor, Armenia"
-      },
-      {
          "description" : "Continuing with the 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html\">1992 Fischer - Spassky 'Under the Weather'</A>(September 2022), in that post I wrote, <BLOCKQUOTE>Photo D1 is about a moment from the opening press conference that is more famous than any of the games played in the match. It shows Fischer with the letter that led to the famous spit incident. </BLOCKQUOTE> <P>The composite image including that photo in black & white is seen below, with 'photo D1' circled in red. Superimposed on the composite is a similar photo in color. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi30.jpg\" WI",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html",
          "pubDate" : "Fri, 30 Sep 2022 15:31:00 +0000",
          "title" : "Fischer: 'That's my answer'"
-      },
-      {
-         "description" : "The&#xA0;FIDE World Youth U-16 Chess Olympiad 2022 starts in Nakhchivan, Azerbaijan, and will be played from 1-11 October in Nakhchivan Chess Center. 34 teams from 24 countries registered for the event which will be played in 9 rounds, Swiss system, with the time control of 90 minutes for the first 40 moves, followed by 30 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-youth-u16-chess-olympiad-2022-starts-tomorrow/",
-         "pubDate" : "Fri, 30 Sep 2022 14:19:51 +0000",
-         "title" : "FIDE World Youth U16 Chess Olympiad 2022 starts"
-      },
-      {
-         "description" : "The fourth and the final leg of the $100.000 MPL Indian Chess Tour&#xA0;is taking place from 30 September &#x2013; 3 October on chess24.com. 16 players compete in the all-play-all tournament for a qualification spot on the&#xA0;Meltwater Champions Chess Tour. Time control is 15 minutes + 10 second increment starting from move one. The winners and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-indian-chess-tour-2022-leg-4-live/",
-         "pubDate" : "Fri, 30 Sep 2022 13:57:35 +0000",
-         "title" : "MPL Indian Chess Tour 2022 - Leg 4 LIVE"
       },
       {
          "description" : "A few days ago Europe's biggest news portal, SPIEGEL Online, had YACS - yet another cheating story. It concentrated on a portrait of the accused Hans Niemann, and traced his chess development over the years. Did you know you can easily track the Elo progress in the ChessBase Players service? And also his best games, his best and his most difficult opponents, his favourite openings and most/least successful openings. If not, take a look at what you have been missing.",
@@ -554,14 +650,6 @@ news_feed (
          "title" : "Game of the Week #535: M. Carlsen vs A. Erigaisi"
       },
       {
-         "description" : "<a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1664385190624-0CMNA1YTAYFT1LSUM4HO/Rowson+%281%29.jpg\" data-image-dimensions=\"750x501\" data-image-focal-point=\"0.5,0.5\" alt=\"Rowson (1).jpg\" data-load=\"false\" data-image-id=\"633480a6f23df844a5f2fa4a\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/1664385190624-0CMNA1YTAYFT1LSUM4HO/Rowson+%281%29.jpg?format=1000w\" /><br> </a> <a role=\"presentation\" class=\" image-slide-anchor content-fill \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/5",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/28/bonus-pod-gm-jonathan-rowson-and-gm-david-smerdon-discuss-the-carlsenniemann-saga",
-         "pubDate" : "Wed, 28 Sep 2022 17:20:19 +0000",
-         "title" : "Bonus Pod- GM Jonathan Rowson and GM David Smerdon discuss the Carlsen/Niemann Saga. "
-      },
-      {
          "description" : "Castling is a privilege which both sides have in each game. Despite the choices being two, a player can castle only once in the entire game. The choice often determines the fate of the game. It might seem easy, yet the underlying consequences of a correct or a misjudgement can be long term. GM Sundararajan Kidambi shows two examples of former world champions' games where one of the contenders made an incorrect call. Check out the grandmaster's detailed analysis and enrich your knowledge.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -738,14 +826,6 @@ news_feed (
          "title" : "Mednis Principles (3)"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4e63cc95-aa64-46c7-9f02-1cb1d849968f/unnamed.jpg\" data-image-dimensions=\"920x518\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63332baecd1e400a6900ff56\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4e63cc95-aa64-46c7-9f02-1cb1d849968f/unnamed.jpg?format=1000w\" /> </figure> <p class=\"\">The Perpetual Chess Adult Improver Series returns for another detailed conversation with a very dedicated amateur. 35 year-old Hans Henning is a Dublin-based chess enthusiast, ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/27/ep-298-adult-improver-hans-henning-on-why-he-loves-studying-openings-and-how-chess-helps-give-him-purpose",
-         "pubDate" : "Tue, 27 Sep 2022 16:58:38 +0000",
-         "title" : "EP 298- Adult Improver Hans Henning on Why he Loves Studying Openings, and How Chess Helps Give Him Purpose"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -856,14 +936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2006",
          "pubDate" : "Mon, 26 Sep 2022 20:59:54 +0000",
          "title" : "Fifth Chess in Education Lecturer course announced"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Magnus Carlsen</strong> <a href=\"https://twitter.com/MagnusCarlsen/status/1574482694406565888\">clarified in an open letter</a> that his boycott of <strong>Hans Niemann</strong> is connected with his belief that the young American has cheated more often and more recently than he admitted and that Niemann wasn't even fully concentrated while he beat him. Carlsen mentions that he considered to withdraw from the <strong>Sinquefield Cup</strong> when Niemann replaced Rapport, and that he will not play against repeat-offenders such as he considers Niemann. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-wont-play-cheaters-like/",
-         "pubDate" : "Mon, 26 Sep 2022 21:29:06 +0100",
-         "title" : "Carlsen won't play cheaters like Niemann"
       },
       {
          "description" : "&#34;I believe that Niemann has cheated more &#38;mdash; and more recently &#38;mdash; than he has publicly admitted,&#34; GM Magnus Carlsen wrote in a much-anticipated statement about GM Hans Niemann&#39;s alleged cheating. The world champion posted the statement on...",
@@ -1338,14 +1410,6 @@ news_feed (
          "title" : "World Cadets Championships are halfway through"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/86aa3b59-2fbe-46da-b19d-6a91aceab79a/Lennart.Magnus2.jpg\" data-image-dimensions=\"293x221\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"632c7153e1eafa00f1794f6f\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/86aa3b59-2fbe-46da-b19d-6a91aceab79a/Lennart.Magnus2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo by Lennart Ootes <a href=\"https://www.instagram.com/p/CiBGH9FOnRc/?hl=en\">via Grand Chess Tour</a> </figcaption> </figure",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/22/bonus-pod-gm-alex-fishbein-and-im-greg-shahade-discuss-the-latest-developments-in-the-carlsenniemann-controversy",
-         "pubDate" : "Thu, 22 Sep 2022 14:32:42 +0000",
-         "title" : "Bonus Pod- GM Alex Fishbein and IM Greg Shahade discuss the latest developments in the Carlsen/Niemann Controversy "
-      },
-      {
          "description" : "Rapid events are exciting to watch especially with the World Champion in play, controversy aside, and one of the reasons for the excitement is also the larger number of mistakes leading to more decisive games. But another way of looking at it is that there are more opportunities for a good lesson as Karsten Mueller shows. Don't miss Keymer's knight underpromotion to beat Saric!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1522,30 +1586,6 @@ news_feed (
          "title" : "Nakamura Adds Another Tournament Victory"
       },
       {
-         "description" : "In his \"Game of the Week\" show #534 Merijn van Delft looks at a nice win by rising Indian star Gukesh who defeated English Grandmaster Gawain Jones in a fine attacking game played in the Spanish League. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-534-gukesh-vs-g-jones",
-         "pubDate" : "Wed, 21 Sep 2022 17:00:00 +0100",
-         "title" : "Game of the Week #534: Gukesh vs. G. Jones"
-      },
-      {
-         "description" : "Aron Nimzowitsch, theoretician, author of \"My System\", and one of the world's best players at the end of the 1920s, liked to answer 1.e4 with the provocative move 1...Nc6, the \"Nimzowitsch Defence\". The move is slightly offbeat but offers Black good chances as the French GM Christian Bauer shows on his ChessBase course \"The Nasty Nimzowitsch Defence\", published in 2019. Paul Kane, who runs the website \"The Caissa Kid\", had a look at Bauer's course and concludes: \"'The Nasty Nimzowitsch Defence' is a quality piece of work which was a great pleasure to study.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christian-bauer-the-nasty-nimzowitsch-defence-a-review",
-         "pubDate" : "Wed, 21 Sep 2022 13:22:54 +0100",
-         "title" : "Christian Bauer: The Nasty Nimzowitsch Defence - A review"
-      },
-      {
-         "description" : "On Monday, the Chinese Team Championship, a round-robin tournament with 12 teams, ended in Fuling, which is a district of Chongqing. The team of Hangzhou Bank, in which Hou Yifan played on the first women's board, won both the Championship and the subsequent Rapid Championship. | Photos: Chinese Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hangzhou-bank-wins-chinese-team-championship",
-         "pubDate" : "Wed, 21 Sep 2022 12:13:19 +0100",
-         "title" : "Hangzhou Bank wins Chinese Team Championship"
-      },
-      {
          "description" : "GM Magnus Carlsen is back in the lead at the Julius Baer Generation Cup after scoring three wins and a draw on the third day of the preliminaries. GM Hans Niemann is still in contention of qualifying for the knockout phase and might be paired with...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1632,14 +1672,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/",
          "pubDate" : "Tue, 20 Sep 2022 16:13:27 +0000",
          "title" : "Carlsen quits against Niemann&hellip; the saga continues"
-      },
-      {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG\" data-image-dimensions=\"377x227\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6329ca793a885d55577fa0e0\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/0a173a72-f3e5-4a40-bc26-d089db2515a0/Carissa.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week we are joined by the 2021 US Women's Champion and one of the top junior female players in the world,<a href=\"https://en.wikipedia.org/wiki/Carissa_Yip\" ta",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/20/ep-297-im-carissa-yip-on-her-love-for-the-kings-indian-defense-why-levon-aronian-is-her-favorite-player-and-the-ups-and-downs-of-her-first-chess-olympiad",
-         "pubDate" : "Tue, 20 Sep 2022 14:16:53 +0000",
-         "title" : "EP 297- IM Carissa Yip on her love for the King's Indian Defense, Why Levon Aronian is her favorite player and the ups and downs of her first Chess Olympiad. "
       },
       {
          "description" : " Following the latest opening theory I tried to finish tonight's game with 2.c4. Instead my opponent decided to resist for a few more moves, but eventually the pawer of the c pawn did the business. <br /> <b>Press,Shaun - Cheng,Larry [E65]</b><br />Gungahlin CC (6), 20.09.2022 <script>new PgnViewer( { boardName: \"game1352\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.Nc3 c5 7.O-O e6 8.Bg5 Qc7 9.Nb5 Qb6 10.a4 a6 11.dxc5 Qxc5 12.Qxd6 Ne4 13.Qxc5 Nxc5 14.Nc7 Ra7 15.Be7 b6 16.Bxf8 Kxf8 17.Nb5 axb5 18.axb5 Rc7 19.Ra8 Nbd7 20.b4 Ne4 21.Rd1 Ke7 22.Nd4 Bb7 23.Nc6+ Bxc6 24.bxc6 Ndf6 25.b5 Nc3 26.Rd2 Nce4 27.Rc2 Nc5 28.Rb8 Na4 29.Rb7 Kd8 30.Rxc7 Kxc7 31.Ra2 Nc3 32",
@@ -1762,14 +1794,6 @@ news_feed (
          "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 3 (18.09.2022 ; 15:00)"
       },
       {
-         "description" : "GM Magnus Carlsen had a splendid start on the first day of the Julius Baer Generation Cup, scoring 10 out of a possible 12 points with three wins and a draw. All eyes are on round six on Monday, when the world champion is paired against GM Hans Ni...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-1",
-         "pubDate" : "Mon, 19 Sep 2022 02:05:00 -0700",
-         "title" : "Carlsen Leads Julius Baer Generation Cup Ahead Of Clash With Niemann"
-      },
-      {
          "description" : " The Julius Baer Generation Cup takes place on chess24 18th to 25th September 2022. Play starts at 17:00 BST each day. The event is part of the Meltwater Champions Chess Tour. The field has a deliberate mix of generations. Players: Magnus Carlsen, Jan-Krzysztof Duda, Quang Liem Le, R Praggnanandhaa, Levon Aronian, Arjun Erigaisi, Anish Giri, David Navara, Vincent Keymer, Radoslaw Wojtaszek, Vasyl Ivanchuk, Ivan Saric, Boris Gelfand, Hans Moke Niemann, Baskaran Adhiban and Christopher Woojin Yoo. There will obviously be a lot of attention on the day 2 round 6 game between Carlsen and Niemann (update Carlsen resigned on move 2). ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1856,14 +1880,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-first-playoff-game-day-3",
          "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
          "title" : "Kasparov Analyzes First Playoff Game | Day 3"
-      },
-      {
-         "description" : "Day four of the Chess.com Global Chess Championship&#38;nbsp;featured electrifying matchups, remarkable upset victories, and inspiring tales of vengeance.&#38;nbsp;GM Benjamin Bok knocked out GM Alexander Grischuk, one of the overall tournament favorites....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d4",
-         "pubDate" : "Sat, 17 Sep 2022 18:55:00 -0700",
-         "title" : "Sweet Revenge, Stunning Upsets"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after scoring 2.5/3 on the second day of Chess 9LX. 2022.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-opening-decides-everything-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QiIZxBH7tGs.jpg?itok=faELXUrv\" alt=\"\" /></a></div>",
@@ -1962,14 +1978,6 @@ news_feed (
          "title" : "FS 1972 + 20 = FS 1992"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e89a3300-6440-4ded-8e0e-ae9d0e24a1ee/Niemann2.jpg\" data-image-dimensions=\"228x300\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"63248649421e7523ae2e3e38\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/e89a3300-6440-4ded-8e0e-ae9d0e24a1ee/Niemann2.jpg?format=1000w\" /> <figcaption class=\"image-caption-wrapper\"> <p class=\"\">Photo courtesy of <a href=\"https://forum.killerchesstraining.com/t/paranoia-and-insanity-by-jacob-aagaard/856\">GM Jacob Aagaard</a> </figcapt",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/16/bonus-pod-gm-jacob-aagaard-joins-for-an-update-on-the-sinquefield-cup-controversy",
-         "pubDate" : "Fri, 16 Sep 2022 14:25:41 +0000",
-         "title" : "Bonus Pod- GM Jacob Aagaard joins for an update on the Sinquefield Cup Controversy"
-      },
-      {
          "description" : " If you live in Canberra (or close enough to it) and are a junior player, then there are a number of events coming up. The 2022 ACT Junior Championship is being held between the 26th and 30th September. It is being run in different age groups, but the format is designed to allow younger players to play more than one event. (Fun fact: I played in the 1982 ACT Junior Championship, my first serious event) The following week is the Spring Bootcamp, which is a week of coaching and chess. On this case the events are Lightning, Rapid and Standard, and the schedule allows players to play in 1, 2 or all 3 events. You can register for the Championship <a href=\"https://www.trybooking.com/CCPDI\">here</a",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1985",
          "pubDate" : "Thu, 15 Sep 2022 20:23:57 +0000",
          "title" : "FIDE World Cadet Chess Championships kick off in Batumi, Georgia"
-      },
-      {
-         "description" : "Ian Nepomniachtchi has taken the sole lead in the Champions Showdown: Chess 9LX tournament in St Louis with a perfect 3/3 start. A rusty Garry Kasparov could not convert a promising position and remains without a point.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepomniachtchi-gets-flying-start-in-chess-9lx-while-kasparov-suffers",
-         "pubDate" : "Thu, 15 Sep 2022 17:03:18 +0000",
-         "title" : "Nepomniachtchi gets flying start in Chess 9LX while Kasparov suffers"
       },
       {
          "description" : "",
@@ -2106,14 +2106,6 @@ news_feed (
          "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
       },
       {
-         "description" : "<figure class=\" sqs-block-image-figure intrinsic \" > <img class=\"thumb-image\" data-image=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG\" data-image-dimensions=\"899x510\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" data-image-id=\"6320966cc31a2106e1d89e25\" data-type=\"image\" src=\"https://images.squarespace-cdn.com/content/v1/581ccadb414fb5bef66c2bcb/4c051fef-9ac1-43ce-a630-7e13b3feb0c9/JA.final.JPG?format=1000w\" /> </figure> <p class=\"\">This week on Perpetual Chess we are joined by award winning chess author and renowned trainer, <a href=\"https://en.wikipedia.org/wiki/Jacob_Aagaard\" target=\"_blank\">GM Jacob ",
-         "iconLink" : "https://cypresschess.github.io/web/perpetual2.png",
-         "iconName" : "Perpetual<br>Chess",
-         "link" : "https://www.perpetualchesspod.com/new-blog/2022/9/13/mslqyy6qqfn9bi4rocj98xkid48phy",
-         "pubDate" : "Tue, 13 Sep 2022 14:42:56 +0000",
-         "title" : "EP 296- Award Winning Author/Trainer, GM Jacob Aagaard on Endgame \"Rules of Thumb\", the Wave of Young Phenoms, and the World Championship Format "
-      },
-      {
          "description" : " For anyone who has tried to teach young kids how to play chess, the clip below is amazingly accurate. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/q6ILdW5i0L4\" width=\"320\" youtube-src-id=\"q6ILdW5i0L4\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2136,70 +2128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/9th-sinquefield-cup-2022",
          "pubDate" : "Mon, 12 Sep 2022 23:34:00 +0400",
          "title" : "9th Sinquefield Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "The summer season is traditionally a slow season for chess, but the world's two foremost engine vs. engine competitions keep chugging along at the same speed as during the other seasons. Let's start our fortnightly post with a summary of the previous post, <A HREF=\"http://chessforallages.blogspot.com/2022/08/tcec-s23-leagues-underway-ccc-rudderless.html\">TCEC S23 Leagues Underway; CCC Rudderless?</A>(August 2022):- <BLOCKQUOTE>TCEC: S23 QL has finished and L2 is just getting started. &#149; CCC: Stockfish beat Lc0 in the 300 game 'CCC18 Rapid Final', after which the site launched a 'CCC18 Rapid Challenger' 300-game consolation match between Dragon and Lc0. The CCC has deviated from the seque",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/tcec-s23-l1-ccc19-blitz-both-underway.html",
-         "pubDate" : "Mon, 12 Sep 2022 15:35:00 +0000",
-         "title" : "TCEC S23 L1, CCC19 Blitz - Both Underway"
-      },
-      {
-         "description" : "The nominations for election at the forthcoming AGM are listed below. Election addresses can be found on the Council database via this link http://ecfcouncillive.ndlazi.uk/index.php?command=MeetingRecord&#38;page=B...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/nominations-for-election-at-the-agm/",
-         "pubDate" : "Mon, 12 Sep 2022 14:24:02 +0000",
-         "title" : "Nominations for election at the AGM - updated 14/9/22"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1981",
-         "pubDate" : "Mon, 12 Sep 2022 14:02:42 +0000",
-         "title" : "Sami Khader, new Chairman of the FIDE Trainer's Commission"
-      },
-      {
-         "description" : " In a few days, Africa's top players will trek to Africa's most populous city (25 million) Lagos for the African Individual Chess Championship (AICC). According to Africa Chess Media's Babatunde Ogunsiku has been counting down to the day of the tournament's start. The marquee tournament on the continent comes in the aftermath of the Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/\">2022 African Individual Championships (Lagos, Nigeria)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/09/12/nigeria-to-host-aicc-2022/",
-         "pubDate" : "Mon, 12 Sep 2022 13:05:44 +0000",
-         "title" : "2022 African Individual Championships (Lagos, Nigeria)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1979",
-         "pubDate" : "Mon, 12 Sep 2022 10:45:37 +0000",
-         "title" : "FIDE and WR Group announce the World Open Teams Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1977",
-         "pubDate" : "Mon, 12 Sep 2022 07:25:52 +0000",
-         "title" : "All set for the first leg of the FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1978",
-         "pubDate" : "Mon, 12 Sep 2022 06:26:59 +0000",
-         "title" : "Alireza Firouzja wins 2022 Sinquefield Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1980",
-         "pubDate" : "Mon, 12 Sep 2022 05:49:39 +0000",
-         "title" : "World Youth Chess Championships cross halfway"
       }
    ]
 }
