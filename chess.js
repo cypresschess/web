@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/1993",
+         "pubDate" : "Tue, 04 Oct 2022 16:42:23 +0000",
+         "title" : "Registration for the 3rd FIDE Educational Seminar \"Chess for children with ASD. Learn & teach\" is open"
+      },
+      {
          "description" : "There is a sense of frustration at this stage by parties wide and large, and while the quote in the headline will hit closer to home for chess players, the venerable British newspaper 'The Guardian' also took an unprecedented step by declaring their own official position regarding the entire scandal.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/garry-kasparov-on-magnus-carlsen-his-behavior-was-unacceptable",
          "pubDate" : "Tue, 04 Oct 2022 17:00:00 +0100",
          "title" : "Garry Kasparov on Magnus Carlsen: \"his behavior was unacceptable\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, Chess Club Executive Director Tony Rich hosts the opening ceremony of the 2022 U.S. &amp; U.S. Women's Championships. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. The fields and inductees are listed below. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-lin",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-hof-inductions",
+         "pubDate" : "Tue, 04 Oct 2022 15:50:51 +0000",
+         "title" : "2022 U.S. Chess Championships: Opening Ceremony & HOF Inductions"
       },
       {
          "description" : "The cheating accusations against Hans Niemann continue to make waves. To check these accusations, a number of chess players have statistically analysed Niemann's games with the help of computer programmes. The latest research comes from the Brazilian streamer, programmer and data analyst \"Rafaelvleite\". He comes to the conclusion that Niemann's play \"after 2018 shows unexpected\" results \"not compatible with\" a rating of 2700. Here are excerpts from his article about his research.",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/euro-club-cup-1-carlsen-and-anand-take-rating-hits",
          "pubDate" : "Tue, 04 Oct 2022 11:52:50 +0000",
          "title" : "Euro Club Cup 1: Carlsen and Anand take rating hits"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2004",
+         "pubDate" : "Tue, 04 Oct 2022 11:15:36 +0000",
+         "title" : "\"Chess in the Process of a Preschooler's Development\" International Online Conference announced"
       },
       {
          "description" : "GM Magnus Carlsen and GM Viswanathan Anand, the two biggest names in action at the 2022 European Club Cup in Mayrhofen, Austria, had to settle for draws in the first round. The tournament is a seven-round Swiss event for European club teams with o...",
@@ -1386,7 +1410,7 @@ news_feed (
          "title" : "Sarana 'Immortal' Upsets Mamedyarov; Duda, Xiong Cruise Through"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with $40,000 at stake. Fields listed below. Join GMs Yasser Seirawan &amp; Cristian Chirila for the move-by-move. 2022.10.05<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field",
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.05<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-1",
@@ -1717,14 +1741,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1993",
-         "pubDate" : "Tue, 20 Sep 2022 18:42:23 +0000",
-         "title" : "Registration for the 3rd FIDE Educational Seminar \"Chess for children with ASD. Learn & teach\" is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1992",
          "pubDate" : "Tue, 20 Sep 2022 18:08:34 +0000",
          "title" : "FIDE WGP Astana: Goryachkina leads after three rounds"
@@ -1930,14 +1946,6 @@ news_feed (
          "title" : "Kasparov Analyzes First Playoff Game | Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after scoring 2.5/3 on the second day of Chess 9LX. 2022.09.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-opening-decides-everything-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QiIZxBH7tGs.jpg?itok=faELXUrv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-opening-decides-everything-day-2",
-         "pubDate" : "Sun, 18 Sep 2022 00:38:39 +0000",
-         "title" : "Nakamura: The Opening Decides Everything | Day 2"
-      },
-      {
          "description" : " The cheating scandal that dominated the 2022 Sinquefield Cup saw GM Hans Niemann fall into controversial spotlight in his first supertournament. The incident was precipitated by Magnus Carlsen's withdrawal from the tournament and a tweet that included a reference to cheating. Many commenting on the matter did not understand the tweet and figured it only The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/\">After the Carlsen-Niemann firestorm, what now?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-establishes-media-and-social-commissions/",
          "pubDate" : "Wed, 14 Sep 2022 09:26:17 +0000",
          "title" : "ECU establishes Media and Social Commissions"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen The first game below is proof that Magnus follows his own advice. Let's see it: Magnus claimed the draw to the arbiter without playing 19. Ke2. Is this a correct <a href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD 5.Bf4, repetition Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/\">Need sure points? QGD 5.Bf4, repetition Edition</a> appeared firs",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
-         "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
-         "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
       }
    ]
 }
