@@ -10,6 +10,14 @@ news_feed (
          "title" : "The Wall Street Journal publishes chess.com's findings on the Carlsen - Niemann case"
       },
       {
+         "description" : "The&#160;2022 U.S. Chess Championship&#160;and the US Women&#x2019;s Chess Championship 2022 open today in Saint Louis! The events will be concurrently held from 5-20 October&#160;in Saint Louis Chess Club, and the first round starts Wednesday, October 5 at 12:50 P.M. CDT. 14 of the strongest chess players in America will compete over the course of 13 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championships-2022-opening-ceremony-live/",
+         "pubDate" : "Tue, 04 Oct 2022 19:03:00 +0000",
+         "title" : "US Chess Championships 2022 - Opening ceremony LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-chess-club-cup-2022-day-1-live/",
          "pubDate" : "Mon, 03 Oct 2022 10:53:29 +0000",
          "title" : "European Chess Club Cup 2022 - Day 1 live"
-      },
-      {
-         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since. Hikaru Nakamura shared his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-on-the-recent-carlsen-niemann-case-developments-i-dont-see-a-happy-ending-to-this/",
-         "pubDate" : "Mon, 03 Oct 2022 10:47:33 +0000",
-         "title" : "Hikaru Nakamura on the recent Carlsen - Niemann case developments: I don't see a happy ending to this"
       },
       {
          "description" : "Vishy Anand leads top seeds Superbet in the European Chess Club Cup that starts in Mayrhofen, Austria today, while Magnus Carlsen tops the line-up for 7th seeds Offerspill Chess Club. Anna Muzychuk is on board one for women's top seeds Cercle d'Echecs de Monte-Carlo, and we'll have live commentary and exclusive video of all the action here on chess24.",
