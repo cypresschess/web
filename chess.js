@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d2",
-         "pubDate" : "Mon, 03 Oct 2022 20:14:52 -0700",
+         "pubDate" : "Mon, 03 Oct 2022 20:14:00 -0700",
          "title" : "Nakamura Neutralizes Dominguez, Andreikin Upsets Caruana"
       },
       {
