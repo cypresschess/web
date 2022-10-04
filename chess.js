@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-publishes-72-page-report-on-carlsen-niemann-case/",
+         "pubDate" : "Tue, 04 Oct 2022 23:13:01 +0000",
+         "title" : "Chess.com publishes 72-page report on Carlsen - Niemann case"
+      },
+      {
          "description" : "A few hours ago, the Wall Street Journal published a lengthy article sharing the findings emerging from an investigation conducted by chess.com. According to the piece, chess.com asserts that Hans Niemann \"likely received illegal assistance in more than 100 online games, as recently as 2020\", including in many tournaments with prize money on the line. Niemann did not respond to requests for comments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/europe-club-cup-2022-round-1-result/",
          "pubDate" : "Mon, 03 Oct 2022 22:09:19 +0000",
          "title" : "European Club Cup 2022 - Round 1 results"
-      },
-      {
-         "description" : "The 26th European Women&#x2019;s Chess Club Cup&#160;kicked off today in Mayrhofen, Austria, and takes place simultaneously with the&#160;37th European Chess Club Cup&#160;from 2nd &#x2013; 10th October at the&#160;Europahaus Mayrhofen &#x2013; Congress Zillertal. The top-seeded eight teams won their matches in the first round, and CSU ASE Superbet Romania, ASVOe Pamhagen Austria and Wood Green England []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-club-cup-2022-round-1-results/",
-         "pubDate" : "Mon, 03 Oct 2022 21:16:00 +0000",
-         "title" : "European Women's Club Cup 2022 - Round 1 results"
       },
       {
          "description" : "Chess.com is excited to announce the launch of our newest app, &#34;Checkmate Or Die!&#34; In this game, only two things can happen: you either checkmate the zombies or they eat you! Quickly solve all the mating puzzles that come your way to escape the wr...",
