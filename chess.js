@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Chess.com Global Championship presented by Brave continued on Monday with round of 16 matchups between GMs Hikaru Nakamura and Leinier Dominguez Perez, as well as GMs Fabiano Caruana and Dmitry Andreikin. Nakamura controlled his match f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d2",
+         "pubDate" : "Mon, 03 Oct 2022 20:14:52 -0700",
+         "title" : "Nakamura Neutralizes Dominguez, Andreikin Upsets Caruana"
+      },
+      {
          "description" : "The 37th European Chess Club Cup kicked off today in Mayrhofen, Austria, and takes place simultaneously with the&#160;26th European Women&#x2019;s Chess Club Cup&#160;from 2nd &#x2013; 10th October at the&#160;Europahaus Mayrhofen &#x2013; Congress Zillertal. With all eyes on Magnus Carlsen and Viswanathan Anand playing the top boards for their teams, only a few upsets marked the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1730,14 +1738,6 @@ news_feed (
          "title" : "Generation Cup 2: Carlsen resigns after 1 move, Erigaisi leads"
       },
       {
-         "description" : "The American higher seeds, GMs Hikaru Nakamura, Fabiano Caruana, and Jeffery Xiong, won the last of the round of 64 matches on day five of the Chess.com Global Chess Championship. Although the favorites ultimately won, the underdogs gave them seri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r64-d5",
-         "pubDate" : "Mon, 19 Sep 2022 14:27:00 -0700",
-         "title" : "American Favorites Clean House"
-      },
-      {
          "description" : " <p class=\"lead\">The Niemann-Carlsen game at the Julius Baer Generation Cup was the most anticipated one after the recent chess cheating scandal, but the World Champion chose to resign on move 2, log off, and leave everyone speechless and confused. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> It comes without saying that after <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Carlsen's withdrawal</a> from the Sinquefield Cup 2022, and the <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-a",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2112,14 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/chest.html",
          "pubDate" : "Tue, 13 Sep 2022 12:51:00 +0000",
          "title" : "Chest"
-      },
-      {
-         "description" : " From the publisher's blurb: &#8220;As late as 1950, many chess clubs in America excluded women. The Marshall Chess Club in New York City was an exception, organizing the U.S. Women's Chess Championship beginning in the late 1930s. Since the 1980s, the average rating of the players has increased. The Saint Louis Chess Club has organized <a href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">United States Women's Chess Champions, 1937-2020</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/09/13/united-states-womens-chess",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/09/13/united-states-womens-chess-champions-1937-2020/",
-         "pubDate" : "Tue, 13 Sep 2022 00:10:03 +0000",
-         "title" : "United States Women's Chess Champions, 1937-2020"
       }
    ]
 }
