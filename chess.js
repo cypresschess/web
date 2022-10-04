@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">On Monday the 3rd of October, Tesla CEO Elon Musk shared on Twitter his - pro-Russian as many said - thoughts on how to end Russia's invasion of Ukraine, including a poll for people to vote. Former World Champion Garry Kasparov negatively criticised Musk's \"solution\" to start a debate. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Garry-Kasparov-Elon-Musk-Ukraine-Twitter-Russia-war.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Gerry Kasparov: Maarten de Groot/Kasparovchess.com, Elon Musk: Reuters</div> </div> The world's wealthiest man Elon Musk made four proposals for \"Ukraine-Russia Peace\" in a tweet: Formally ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/what-have-you-done-besides-tweet-elon-musk-to-garry-kasparov-on/",
+         "pubDate" : "Tue, 04 Oct 2022 08:51:34 +0000",
+         "title" : "\"What have you done besides tweet?\" Elon Musk to Garry Kasparov on Ukraine"
+      },
+      {
+         "description" : "At the beginning of October the FIDE published its new ranking list. With a rating of 2856 Magnus Carlsen continues to lead the list though he lost 5 points in the Sinquefield Cup. Currently, Carlsen is 44 ratings points away from 2900 but also 45 rating points ahead of Ding Liren, who has a rating of 2811 and is the world's number two. Hou Yifan continues to lead the women's ranking list, five juniors have a rating of 2700 or more, and Zhu Jiner from China is number one on the list of female juniors.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-october-2022",
+         "pubDate" : "Tue, 04 Oct 2022 09:47:46 +0100",
+         "title" : "FIDE ratings October 2022"
+      },
+      {
          "description" : "In the diagrammed position White is a pawn up but is also in danger because Black's passed pawns are powerful. However, with precise play White can save the game. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-3",
          "pubDate" : "Tue, 04 Oct 2022 09:00:00 +0100",
          "title" : "Passed pawns are powerful"
+      },
+      {
+         "description" : " &#8220;And now let's go hand in hand, not one before another&#8221; The Comedy of Errors, Dromio of Ephesus, Act 5 Scene 1 Round 2 of our club tournament saw the top two players facing each other. Their game ended last, meaning the effort was there. Please replay it and form an opinion about it. After <a href=\"https://chessimprover.com/a-comedy-of-errors/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Comedy of Errors\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-comedy-of-errors/\">A Comedy of Errors</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-comedy-of-errors/",
+         "pubDate" : "Tue, 04 Oct 2022 07:59:24 +0000",
+         "title" : "A Comedy of Errors"
       },
       {
          "description" : "Last week we presented you with a second set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particluarly easy to follow. You do not have to be a champion player or problem expert to follow.",
@@ -1480,14 +1504,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/aga-milewska-fide-councillor/",
          "pubDate" : "Thu, 22 Sep 2022 11:17:37 +0000",
          "title" : "Aga Milewska - ECU Women's Commission Councillor"
-      },
-      {
-         "description" : "It's like having Carlsen and Anand at your disposal. Komodo Dragon and Power Fritz both won the World Championship, each in a separate section. Both are products you can get in the ChessBase shop. They are arguably the most powerful chess programs in the world, and will do wonders for your study of the game. Komodo Dragon 3 owners can rejoice: they now automatically receive the World Champion Engine as a free update. For Fritz users there is an attractive update price.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/getting-advice-from-the-very-best",
-         "pubDate" : "Thu, 22 Sep 2022 12:00:00 +0100",
-         "title" : "Getting advice from the very best"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94375114.cms\" />Chess world champion Magnus Carlsen remained vague on Thursday about whether or not he thought Hans Niemann was a cheat after he abruptly conceded his contest against the American at the Julius Baer Generation Cup online tournament following one move.",
