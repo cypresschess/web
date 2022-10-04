@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A few hours ago, the Wall Street Journal published a lengthy article sharing the findings emerging from an investigation conducted by chess.com. According to the piece, chess.com asserts that Hans Niemann \"likely received illegal assistance in more than 100 online games, as recently as 2020\", including in many tournaments with prize money on the line. Niemann did not respond to requests for comments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wall-street-journal-niemann-likely-cheated",
+         "pubDate" : "Tue, 04 Oct 2022 23:40:00 +0100",
+         "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
+      },
+      {
+         "description" : "The Wall Street Journal today published an exclusive article with the results of chess.com's investigation on the Carlsen Niemann case. Chess.com's 72-page report discloses that Hans Niemann likely cheated in more than 100 online games, sharing the list of tournaments and number of games in which Niemann likely received illegal assistance. &#8220;This is the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-on-chess-coms-findings-about-hans-niemann-this-is-the-big-drama/",
+         "pubDate" : "Tue, 04 Oct 2022 21:56:01 +0000",
+         "title" : "Hikaru Nakamura on chess.com's findings about Hans Niemann: This is the big drama"
+      },
+      {
          "description" : "The Wall Street Journal exclusively published today the results of chess.com's investigation on the Carlsen Niemann case. After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2022",
          "pubDate" : "Mon, 03 Oct 2022 11:37:30 +0000",
          "title" : "Arkady Dvorkovich meets with President of Azerbaijan"
-      },
-      {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round starts at 14:00 CEST bringing interesting encounters in both Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-day-1-live/",
-         "pubDate" : "Mon, 03 Oct 2022 10:53:29 +0000",
-         "title" : "European Chess Club Cup 2022 - Day 1 live"
       },
       {
          "description" : "Vishy Anand leads top seeds Superbet in the European Chess Club Cup that starts in Mayrhofen, Austria today, while Magnus Carlsen tops the line-up for 7th seeds Offerspill Chess Club. Anna Muzychuk is on board one for women's top seeds Cercle d'Echecs de Monte-Carlo, and we'll have live commentary and exclusive video of all the action here on chess24.",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-now-adds-name-of-teens-mentor-to-the-drama/articleshow/94388291.cms",
          "pubDate" : "Fri, 23 Sep 2022 04:22:43 +0000",
          "title" : "Magnus Carlsen now adds name of teen's mentor to the drama"
-      },
-      {
-         "description" : "Magnus Carlsen, Vincent Keymer (pictured), Arjun Erigaisi and Le Quang Liem advanced to the semifinals of the Generation Cup. All four quarterfinal matchups offered a dose of excitement, as every single semifinalist lost at least one game on Thursday. While Le is set to play Arjun in semis, Keymer will have the tough task of facing Carlsen in a 4-game confrontation. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d5",
-         "pubDate" : "Fri, 23 Sep 2022 01:35:00 +0100",
-         "title" : "Generation Cup: Carlsen, Keymer, Arjun and Le in semis"
       },
       {
          "description" : "GMs Wesley So and Leinier Dominguez won their round of 32 matches in the Chess.com Global Chess Championship&#38;nbsp;on Thursday, defeating the legendary GM Vasyl Ivanchuk and the popular streamer GM Eric Hansen respectively. The round of 32 contin...",
