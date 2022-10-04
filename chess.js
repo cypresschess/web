@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">On Monday the 3rd of October, Tesla CEO Elon Musk shared on Twitter his - pro-Russian as many said - thoughts on how to end Russia's invasion of Ukraine, including a poll for people to vote. Former World Champion Garry Kasparov negatively criticised Musk's \"solution\" to start a debate. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Garry-Kasparov-Elon-Musk-Ukraine-Twitter-Russia-war.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Gerry Kasparov: Maarten de Groot/Kasparovchess.com, Elon Musk: Reuters</div> </div> The world's wealthiest man Elon Musk made four proposals for \"Ukraine-Russia Peace\" in a tweet: Formally ",
+         "description" : "GM Magnus Carlsen and GM Viswanathan Anand, the two biggest names in action at the 2022 European Club Cup in Mayrhofen, Austria, had to settle for draws in the first round. The tournament is a seven-round Swiss event for European club teams, with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-day-1",
+         "pubDate" : "Tue, 04 Oct 2022 03:46:57 -0700",
+         "title" : "Anand, Carlsen Start With Draws In European Club Cup"
+      },
+      {
+         "description" : "Wood Green women's team and the open teams from Blackthorne, Celtic Tigers &#38; The Sharks are representing the ECF at the seven day tournament being...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-club-cup-club-cup-for-women/",
+         "pubDate" : "Tue, 04 Oct 2022 09:42:59 +0000",
+         "title" : "European Club Cup & Club Cup for Women"
+      },
+      {
+         "description" : " <p class=\"lead\">On Monday the 3rd of October, Tesla CEO Elon Musk shared on Twitter his thoughts on how to end Russia's invasion of Ukraine, including a poll for people to vote. Former World Champion Garry Kasparov negatively criticised Musk's \"solution\" to start a debate. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Garry-Kasparov-Elon-Musk-Ukraine-Twitter-Russia-war.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Gerry Kasparov: Maarten de Groot/Kasparovchess.com, Elon Musk: Reuters</div> </div> The world's wealthiest man Elon Musk made four proposals for \"Ukraine-Russia Peace\" in a tweet: Formally recognizing the Crimean penin",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/what-have-you-done-besides-tweet-elon-musk-to-garry-kasparov-on/",
@@ -96,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lance-henderson-wins-european-small-nations-2022",
          "pubDate" : "Mon, 03 Oct 2022 20:00:00 +0100",
          "title" : "Lance Henderson wins European Small Nations Championship"
+      },
+      {
+         "description" : "Another seven-plus months, another 100 posts. Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">Chess and Italian Design</A>(October 2022), was no.3500 on this blog. That means it's time for a follow-up to <A HREF=\"http://chessforallages.blogspot.com/2022/02/breaking-3400-barrier.html\">Breaking the 3400 Barrier</A>(February 2022). If you haven't seen the series before, the number 3400 also refers to a chess rating. We had to abandon humanity at <A HREF=\"http://chessforallages.blogspot.com/2019/04/breaking-2900-barrier.html\">Breaking the 2900 Barrier</A>(April 2019), because according to the accepted rating agencies, no one has ever achieved",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html",
+         "pubDate" : "Mon, 03 Oct 2022 15:14:00 +0000",
+         "title" : "Breaking the 3500 Barrier"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>WR Masters</strong> is <a href=\"https://mobile.twitter.com/wr_chess\">announced in D&uuml;sseldorf</a> for the second half of February with Nepomnachtchi, Giri, Aronian and Keymer among its ten participants. The event is sponsored by the German-Russian logistics entrepreneur <strong>Wadim Rosenstein</strong> and his <strong>WR Group</strong>. </div> ",
@@ -1616,14 +1640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-xiong-win-titled-tuesday-september-20-2022",
          "pubDate" : "Wed, 21 Sep 2022 09:31:00 -0700",
          "title" : "Nakamura Adds Another Tournament Victory"
-      },
-      {
-         "description" : "GM Magnus Carlsen is back in the lead at the Julius Baer Generation Cup after scoring three wins and a draw on the third day of the preliminaries. GM Hans Niemann is still in contention of qualifying for the knockout phase and might be paired with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-3",
-         "pubDate" : "Wed, 21 Sep 2022 01:31:00 -0700",
-         "title" : "Carlsen Back On Top, Niemann Possible Opponent Again"
       },
       {
          "description" : "Magnus Carlsen was in imperious form as he top scored on Day 3 to take the lead and ensure qualification for the Julius Baer Generation Cup knockout stages, but there may still be trouble ahead. Statistically his most likely quarterfinal opponent is Hans Niemann, though the battle for the Top 8 places is set to be intense.",
