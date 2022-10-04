@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagrammed position White is a pawn up but is also in danger because Black's passed pawns are powerful. However, with precise play White can save the game. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-3",
+         "pubDate" : "Tue, 04 Oct 2022 09:00:00 +0100",
+         "title" : "Passed pawns are powerful"
+      },
+      {
+         "description" : "Last week we presented you with a second set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particluarly easy to follow. You do not have to be a champion player or problem expert to follow.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment-3",
+         "pubDate" : "Tue, 04 Oct 2022 08:00:00 +0100",
+         "title" : "Studies for fun and entertainment (2)"
+      },
+      {
+         "description" : "The Chess Master and Data Scientist Nate Solon begins his analysis on the Carlsen-Nieman case with, &#8220;In the effort to determine if Hans Niemann is guilty of cheating, the chess world has moved on to the only thing less reputable than beads: statistics.&#8221; With this beautiful punch line, Solon has dived into a detailed, yet []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nate-solon-did-niemann-cheat/",
+         "pubDate" : "Tue, 04 Oct 2022 06:09:08 +0000",
+         "title" : "Nate Solon: Did Hans Niemann cheat?"
+      },
+      {
+         "description" : "The European Club Cups kicked off in Mayrhofen, Austria, with 70 teams in the open and 17 teams in the women's tournament. There were no major upsets in the open, as the top teams mostly got easy wins. On the other hand, among the women, the favourites from Monaco won by the smallest of margins. Vishy Anand and Magnus Carlsen both drew with the black pieces. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r1",
+         "pubDate" : "Tue, 04 Oct 2022 06:10:00 +0100",
+         "title" : "European Club Cup: Anand and Carlsen start with draws"
+      },
+      {
          "description" : "The 2022 Chess.com Global Championship presented by Brave continued on Monday with round of 16 matchups between GMs Hikaru Nakamura and Leinier Dominguez Perez, as well as GMs Fabiano Caruana and Dmitry Andreikin. Nakamura controlled his match f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-checkmate-or-die-zombie-bots",
-         "pubDate" : "Mon, 03 Oct 2022 12:03:59 -0700",
+         "pubDate" : "Mon, 03 Oct 2022 12:03:00 -0700",
          "title" : "Chess.com Releases New App And Bots: Checkmate Or Die"
       },
       {
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2024",
          "pubDate" : "Mon, 03 Oct 2022 13:06:59 +0000",
          "title" : "Wesley So set to defend his Fischer Random title"
-      },
-      {
-         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
-         "pubDate" : "Mon, 03 Oct 2022 13:50:00 +0100",
-         "title" : "European Club Cup - Live"
       },
       {
          "description" : "",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2022/",
          "pubDate" : "Mon, 03 Oct 2022 08:45:31 +0000",
          "title" : "ECF Book of the Year 2022"
-      },
-      {
-         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round of the event starts today at 14:00 CEST, with Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-round-1-pairings-open-section/",
-         "pubDate" : "Mon, 03 Oct 2022 08:00:38 +0000",
-         "title" : "European Chess Club Cup 2022 - Round 1 pairings (Open section)"
       },
       {
          "description" : "Chess history will be made this year at induction ceremonies recognizing several exceptional contributors to the iconic game as the newest members of the U.S. and World Chess Halls of Fame. The first ceremony will honor 2022 U.S. Chess Hall of Fame inductees Daniel Willard Fiske, James Tarjan and John Watson, as well as 2021 World Chess Hall of Fame inductees Miguel Najdorf and Eugene Torre.",
@@ -1546,14 +1562,6 @@ news_feed (
          "title" : "Battle for fair play has few takers in chess"
       },
       {
-         "description" : "Magnus Carlsen won all three of his games on Wednesday to finish a whole nine points ahead of second-placed Arjun Erigaisi at the preliminary stage of the Generation Cup. Besides Arjun, four other under-20 players made it to the quarterfinals, including the youngest participant in the field, Christopher Yoo (pictured). As for the elite grandmasters, Levon Aronian barely made it through, while Anish Giri fell just short. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d4",
-         "pubDate" : "Thu, 22 Sep 2022 03:30:00 +0100",
-         "title" : "Generation Cup: Carlsen dominates prelims, five juniors make the cut"
-      },
-      {
          "description" : "GM Sam Sevian achieved a spectacular upset against GM Maxime Vachier-Lagrave to kick off the round of 32 matches in the Chess.com Global Chess Championship. Additionally, GM Dmitry Andreikin defeated GM Gata Kamsky in armageddon while GM Fabiano C...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros",
          "pubDate" : "Thu, 22 Sep 2022 00:41:43 +0000",
          "title" : "Like Teacher, Like Pupil: Leko & Keymer | How To Become a Grandmaster - GM Denes Boros"
-      },
-      {
-         "description" : "Right after dominating the preliminary stage of the Generation Cup, Magnus Carlsen gave his first interview since his sudden withdrawal from the Sinquefield Cup. Carlsen did not confirm he had resigned his game against Hans Niemann due to suspicious of cheating, but added that \"people can draw their own conclusions, and they certainly have\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-speaks-after-cheating-scandal",
-         "pubDate" : "Wed, 21 Sep 2022 22:20:00 +0100",
-         "title" : "Breaking: Carlsen speaks after winning Generation Cup prelims"
       },
       {
          "description" : "",
