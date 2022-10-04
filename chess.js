@@ -2,11 +2,59 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Magnus Carlsen and GM Viswanathan Anand, the two biggest names in action at the 2022 European Club Cup in Mayrhofen, Austria, had to settle for draws in the first round. The tournament is a seven-round Swiss event for European club teams, with ...",
+         "description" : "There is a sense of frustration at this stage by parties wide and large, and while the quote in the headline will hit closer to home for chess players, the venerable British newspaper 'The Guardian' also took an unprecedented step by declaring their own official position regarding the entire scandal.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-on-magnus-carlsen-his-behavior-was-unacceptable",
+         "pubDate" : "Tue, 04 Oct 2022 17:00:00 +0100",
+         "title" : "Garry Kasparov on Magnus Carlsen: \"his behavior was unacceptable\""
+      },
+      {
+         "description" : "The cheating accusations against Hans Niemann continue to make waves. To check these accusations, a number of chess players have statistically analysed Niemann's games with the help of computer programmes. The latest research comes from the Brazilian streamer, programmer and data analyst \"Rafaelvleite\". He comes to the conclusion that Niemann's play \"after 2018 shows unexpected\" results \"not compatible with\" a rating of 2700. Here are excerpts from his article about his research.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/statistical-analysis-of-the-games-of-hans-niemann",
+         "pubDate" : "Tue, 04 Oct 2022 15:27:17 +0100",
+         "title" : "Statistical analysis of the games of Hans Niemann"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass media&#xA0;ever since. While many think cheating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cheating-in-chess-is-a-great-publicity-stunt-tweetoftheday/",
+         "pubDate" : "Tue, 04 Oct 2022 13:47:39 +0000",
+         "title" : "Cheating in chess is a great publicity stunt #TweetOftheDay"
+      },
+      {
+         "description" : " With chess players starting competitions at very young ages, it is always a balancing act between trying to get such players to behave in the correct 'chess' manner, and not to end up pushing them too hard. During a school holiday coaching day, I saw a couple of different approaches, that seem to have different results. The first was an older junior who seemed content to win as many games as possible using Scholars Mate. While it looked good on the scoreboard, it was also clear that he wasn't actually learning how to play better chess. The second was a young player who was worried about coming last (or scoring poorly) in the blitz tournament we ran. As a compromise, I told him (and his oppo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/when-pressure-is-off.html",
+         "pubDate" : "Tue, 04 Oct 2022 12:57:00 +0000",
+         "title" : "When the pressure is off"
+      },
+      {
+         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
+         "pubDate" : "Tue, 04 Oct 2022 13:50:00 +0100",
+         "title" : "European Club Cup - Live"
+      },
+      {
+         "description" : "Magnus Carlsen and Vishy Anand both dropped 3.4 rating points, with Vishy falling out of the Top 10, as they were held to draws by lower-rated opposition on Day 1 of the European Club Cup in Mayrhofen, Austria. Their teams cruised to 5.5:0.5 wins, however, and despite scares for players such as Arjun Erigaisi the top teams all scored crushing wins. It was closer in the women's event, where Elisabeth Paehtz gave top seeds Cercle d'Echecs de Monte-Carlo a narrow win.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/euro-club-cup-1-carlsen-and-anand-take-rating-hits",
+         "pubDate" : "Tue, 04 Oct 2022 11:52:50 +0000",
+         "title" : "Euro Club Cup 1: Carlsen and Anand take rating hits"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Viswanathan Anand, the two biggest names in action at the 2022 European Club Cup in Mayrhofen, Austria, had to settle for draws in the first round. The tournament is a seven-round Swiss event for European club teams with o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-day-1",
-         "pubDate" : "Tue, 04 Oct 2022 03:46:57 -0700",
+         "pubDate" : "Tue, 04 Oct 2022 03:46:00 -0700",
          "title" : "Anand, Carlsen Start With Draws In European Club Cup"
       },
       {
@@ -34,6 +82,14 @@ news_feed (
          "title" : "FIDE ratings October 2022"
       },
       {
+         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The event will be played in 7 rounds, swiss system, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-live/",
+         "pubDate" : "Tue, 04 Oct 2022 08:16:00 +0000",
+         "title" : "European Women's Chess Club Cup 2022 - LIVE"
+      },
+      {
          "description" : "In the diagrammed position White is a pawn up but is also in danger because Black's passed pawns are powerful. However, with precise play White can save the game. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +104,14 @@ news_feed (
          "link" : "https://chessimprover.com/a-comedy-of-errors/",
          "pubDate" : "Tue, 04 Oct 2022 07:59:24 +0000",
          "title" : "A Comedy of Errors"
+      },
+      {
+         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The European Chess Club Cup 2022 will be played in 7 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-live/",
+         "pubDate" : "Tue, 04 Oct 2022 07:35:00 +0000",
+         "title" : "European Chess Club Cup 2022 - LIVE"
       },
       {
          "description" : "Last week we presented you with a second set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particluarly easy to follow. You do not have to be a champion player or problem expert to follow.",
@@ -90,7 +154,7 @@ news_feed (
          "title" : "European Club Cup 2022 - Round 1 results"
       },
       {
-         "description" : "The 26th European Women&#x2019;s Chess Club Cup&#xA0;kicked off today in Mayrhofen, Austria, and takes place simultaneously with the&#xA0;37th European Chess Club Cup&#xA0;from 2nd &#x2013; 10th October at the&#xA0;Europahaus Mayrhofen &#x2013; Congress Zillertal. The top-seeded eight teams won their matches in the first round, and CSU ASE Superbet Romania, ASVOe Pamhagen Austria and Wood Green England []",
+         "description" : "The 26th European Women&#x2019;s Chess Club Cup&#160;kicked off today in Mayrhofen, Austria, and takes place simultaneously with the&#160;37th European Chess Club Cup&#160;from 2nd &#x2013; 10th October at the&#160;Europahaus Mayrhofen &#x2013; Congress Zillertal. The top-seeded eight teams won their matches in the first round, and CSU ASE Superbet Romania, ASVOe Pamhagen Austria and Wood Green England []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-womens-club-cup-2022-round-1-results/",
@@ -200,30 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/mariya-muzychuk-vs-anna-muzychuk-european-womens-club-cup-r1-live/",
          "pubDate" : "Mon, 03 Oct 2022 10:09:25 +0000",
          "title" : "Mariya Muzychuk vs Anna Muzychuk, European Women's Club Cup R1 LIVE"
-      },
-      {
-         "description" : "The&#160;37th edition of the European Chess Club Cup&#160;kicks off today in Mayrhofen, Austria, with participation of 87 teams (70 in the Open section and 17 in the women&#x2019;s section). 600 players will defend the colors of their clubs, among them Magnus Carlsen, Viswanathan Anand, Richard Rapport, Shakhriyar Mamedyarov. The first round of the event brings []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/johann-hjartarson-vs-viswanathan-anand-european-club-cup-r1-live/",
-         "pubDate" : "Mon, 03 Oct 2022 09:59:37 +0000",
-         "title" : "Johann Hjartarson vs Viswanathan Anand, European Club Cup R1 LIVE"
-      },
-      {
-         "description" : "The 37th edition of the European Chess Club Cup kicks off today in Mayrhofen, Austria, with participation of 87 teams (70 in the Open section and 17 in the women's section). 600 players will defend the colors of their clubs, among them Magnus Carlsen, Viswanathan Anand, Richard Rapport, Shakhriyar Mamedyarov. The first round of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nikita-meshkovs-vs-magnus-carlsen-european-club-cup-r1-live/",
-         "pubDate" : "Mon, 03 Oct 2022 09:38:11 +0000",
-         "title" : "Nikita Meshkovs vs Magnus Carlsen, European Club Cup R1 LIVE"
-      },
-      {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The first round of the event starts today at 14:00 CEST, with Mariya []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-round-1-pairings/",
-         "pubDate" : "Mon, 03 Oct 2022 09:24:21 +0000",
-         "title" : "European Women's Chess Club Cup 2022 - Round 1 pairings"
       },
       {
          "description" : "Vishy Anand leads top seeds Superbet in the European Chess Club Cup that starts in Mayrhofen, Austria today, while Magnus Carlsen tops the line-up for 7th seeds Offerspill Chess Club. Anna Muzychuk is on board one for women's top seeds Cercle d'Echecs de Monte-Carlo, and we'll have live commentary and exclusive video of all the action here on chess24.",
@@ -1474,14 +1514,6 @@ news_feed (
          "title" : "So Sweeps Ivanchuk, Dominguez Defeats Hansen"
       },
       {
-         "description" : "This week Robert Ris will have a look at the Modern Defence with 4...a6, which World Champion Magnus Carlsen tried with Black in two interesting games against Arjun Erigaisi and Praggnanandhaa in the Julius B&auml;r Generation Cup. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-carlsen-playing-the-modern-defence",
-         "pubDate" : "Thu, 22 Sep 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Carlsen playing the Modern Defence"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1496,22 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1997",
          "pubDate" : "Thu, 22 Sep 2022 15:00:11 +0000",
          "title" : "World Cadets Championships are halfway through"
-      },
-      {
-         "description" : "Rapid events are exciting to watch especially with the World Champion in play, controversy aside, and one of the reasons for the excitement is also the larger number of mistakes leading to more decisive games. But another way of looking at it is that there are more opportunities for a good lesson as Karsten Mueller shows. Don't miss Keymer's knight underpromotion to beat Saric!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-topical-endgames-in-meltwater",
-         "pubDate" : "Thu, 22 Sep 2022 15:00:00 +0100",
-         "title" : "Karsten M&uuml;ller: Topical Endgames in Meltwater"
-      },
-      {
-         "description" : "In the ChessBase Magazine column \"All in one\" you can learn everything you need to know about a specific opening variation on the basis of a single, extensively annotated game in order to be able to add it to your repertoire or even try it out directly in practice! In the current CBM #209, for example, the Ukrainian GM Yuriy Kuzubov presents a surprise weapon against the Alekhine Defence. 4.a4 followed by 5.Ra3 - have you ever seen that before? You can find a short version of his analysis here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-in-one-a-crazy-alekhine",
-         "pubDate" : "Thu, 22 Sep 2022 14:00:00 +0100",
-         "title" : "\"All in one\": A crazy Alekhine"
       },
       {
          "description" : " After a break of a few years, the 2022 ACT Teams Championship is being held on Sunday, 23rd October, at Campbell High School. It will be a team of 4 tournament, played with a time limit of G15m+5s. It will be FIDE rated (Rapid) and there will be 7 rounds. Cost for the team is $10 per player, with trophies and medals being awarded. The last time it was held (in 2019) there were 10 teams, and hopefully this year will see more players (especially given the larger numbers at each of the clubs). One interesting innovation this year is that a teams average rating is based on Boards 2,3 and 4 (and not board 1). The average limit is 1700, but this rule means you can have a strong board 1 player wit",
@@ -1986,14 +2002,6 @@ news_feed (
          "title" : "Congratulations Pranav Anand & Ilamparthi A R"
       },
       {
-         "description" : "Teenage sensation Alireza Firouzja has already won two events in St Louis. Having taken over the lead on Day 2 of the Champions Showdown: Chess 9LX along with Shakhriyar Mamedyarov, the 19-year-old could complete an incredible hat-trick of victories.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/firouzja-eyes-st-louis-hat-trick-as-nepo-is-stopped",
-         "pubDate" : "Fri, 16 Sep 2022 19:17:11 +0000",
-         "title" : "Firouzja eyes St Louis hat-trick as Nepo is stopped"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94253874.cms\" />India's Pranav Anand and AR Ilamparthi emerged champions in the Open under-16 and under-14 categories respectively in the World Youth Chess Championship here on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qgd-5-bf4-repetition-edition/",
          "pubDate" : "Tue, 13 Sep 2022 18:45:24 +0000",
          "title" : "Need sure points? QGD 5.Bf4, repetition Edition"
-      },
-      {
-         "description" : " For anyone who has tried to teach young kids how to play chess, the clip below is amazingly accurate. <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/q6ILdW5i0L4\" width=\"320\" youtube-src-id=\"q6ILdW5i0L4\"></iframe></div><br /> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/chest.html",
-         "pubDate" : "Tue, 13 Sep 2022 12:51:00 +0000",
-         "title" : "Chest"
       }
    ]
 }
