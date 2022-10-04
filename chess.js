@@ -10,6 +10,14 @@ news_feed (
          "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
       },
       {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reactions-to-chess-coms-findings-about-hans-niemann/",
+         "pubDate" : "Tue, 04 Oct 2022 22:12:53 +0000",
+         "title" : "Reactions to chess.com's findings about Hans Niemann"
+      },
+      {
          "description" : "The Wall Street Journal today published an exclusive article with the results of chess.com's investigation on the Carlsen Niemann case. Chess.com's 72-page report discloses that Hans Niemann likely cheated in more than 100 online games, sharing the list of tournaments and number of games in which Niemann likely received illegal assistance. &#8220;This is the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/short-and-iashvili-hired-by-fide/",
          "pubDate" : "Mon, 03 Oct 2022 14:42:52 +0100",
          "title" : "Short and Iashvili hired by FIDE"
-      },
-      {
-         "description" : "In view of the ongoing Carlsen Niemann story and the general tension created around the problem of cheating, the organizers of the European Chess Club Cup have implemented anti-cheating measures. There will be a 15 min delay on games transmission and cameras broadcast on all boards in the venue. The 15 minutes anti-cheating delay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anti-cheating-measures-implemented-at-the-european-chess-club-cup/",
-         "pubDate" : "Mon, 03 Oct 2022 13:18:08 +0000",
-         "title" : "Anti-cheating measures implemented at the European Chess Club Cup"
       },
       {
          "description" : "",
