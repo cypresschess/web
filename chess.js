@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Wall Street Journal exclusively published today the results of chess.com's investigation on the Carlsen Niemann case. After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-wall-street-journal-publishes-chess-coms-findings-on-the-carlsen-niemann-case/",
+         "pubDate" : "Tue, 04 Oct 2022 19:47:32 +0000",
+         "title" : "The Wall Street Journal publishes chess.com's findings on the Carlsen - Niemann case"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hikaru-nakamura-on-the-recent-carlsen-niemann-case-developments-i-dont-see-a-happy-ending-to-this/",
          "pubDate" : "Mon, 03 Oct 2022 10:47:33 +0000",
          "title" : "Hikaru Nakamura on the recent Carlsen - Niemann case developments: I don't see a happy ending to this"
-      },
-      {
-         "description" : "The&#xA0;37th edition of the European Chess Club Cup&#xA0;kicks off today in Mayrhofen, Austria, with participation of 87 teams (70 in the Open section and 17 in the women&#x2019;s section). 600 players will defend the colors of their clubs, among them Mariya Muzychuk, Anna Muzychuk, Elisabeth Paehtz, Pia Cramling, Gunay Mammadzada, Antoaneta Stefanova. The first round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mariya-muzychuk-vs-anna-muzychuk-european-womens-club-cup-r1-live/",
-         "pubDate" : "Mon, 03 Oct 2022 10:09:25 +0000",
-         "title" : "Mariya Muzychuk vs Anna Muzychuk, European Women's Club Cup R1 LIVE"
       },
       {
          "description" : "Vishy Anand leads top seeds Superbet in the European Chess Club Cup that starts in Mayrhofen, Austria today, while Magnus Carlsen tops the line-up for 7th seeds Offerspill Chess Club. Anna Muzychuk is on board one for women's top seeds Cercle d'Echecs de Monte-Carlo, and we'll have live commentary and exclusive video of all the action here on chess24.",
