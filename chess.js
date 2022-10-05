@@ -26,11 +26,11 @@ news_feed (
          "title" : "Christopher Yoo vs Hans Niemann, US Chess Championship 2022 R1 LIVE"
       },
       {
-         "description" : "GM Magnus Carlsen won a lovely game in the second round of the European Club Cup in Austria, sacrificing two pawns in the endgame in return for a strong attack. He won&#39;t play in today&#39;s third round, but GM Viswanathan Anand will be back at the boa...",
+         "description" : "GM Magnus Carlsen won a lovely game in the second round of the European Club Cup in Austria, sacrificing two pawns in the endgame in return for a strong attack. He won&#39;t play in Wednesday&#39;s third round, but GM Viswanathan Anand will be back at the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-day-2",
-         "pubDate" : "Wed, 05 Oct 2022 05:36:59 -0700",
+         "pubDate" : "Wed, 05 Oct 2022 05:36:00 -0700",
          "title" : "Carlsen Sacs 2 Pawns, Scores Pretty Win"
       },
       {
@@ -2128,22 +2128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2022",
          "pubDate" : "Wed, 14 Sep 2022 21:23:00 +0400",
          "title" : "Champions Showdown 9LX 2022 - Games and Results"
-      },
-      {
-         "description" : " The new version of the FIDE Laws of Chess are to be published soon, and will go into effect on the 1st January 2023. As a member of the FIDE Rules Commission, I have been involved in a bit of proofreading, hopefully to eliminate any glaring errors in both language and meaning. This stands in stark contrast to my experiences earlier in the day. Visiting one of the Canberra schools i coach at, I had a number of interesting rules explained to me by 5 and 6 year old chess players. The main thing they had in common was that the 'rules' allowed my opponents to escape from fairly dicey positions. One example was having played Qh4+ (as Black) to attack the White king on e1, I was told that my queen",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/theory-v-practice.html",
-         "pubDate" : "Wed, 14 Sep 2022 13:34:00 +0000",
-         "title" : "Theory v Practice"
-      },
-      {
-         "description" : "It is with great sadness that we have to announce the death of Andrew Leadbetter following a road traffic accident last Thursday. Andrew was a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/andrew-leadbetter-rip/",
-         "pubDate" : "Wed, 14 Sep 2022 13:27:54 +0000",
-         "title" : "Andrew Leadbetter RIP"
       }
    ]
 }
