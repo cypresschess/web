@@ -34,6 +34,14 @@ news_feed (
          "title" : "Chess.com release 72-page Hans Niemann report"
       },
       {
+         "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-hans-niemann-report-cheating",
+         "pubDate" : "Wed, 05 Oct 2022 07:37:00 -0700",
+         "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94665185.cms\" />American international grandmaster Hans Niemann has \"probably cheated more than 100 times\" in online games, claims the chess platform chess.com in a report.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -130,12 +138,12 @@ news_feed (
          "title" : "US Chess Championship 2022 - Pairings & Schedule"
       },
       {
-         "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
+         "description" : "Chess fans will have one more reason to celebrate National Chess Day, which falls on October 8 in 2022. From October 8 to October 16, ChessKid.com is offering free access to all of its premium features: unlimited lessons, puzzles, videos, and bots...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-hans-niemann-report-cheating",
-         "pubDate" : "Wed, 05 Oct 2022 01:37:00 -0700",
-         "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
+         "link" : "https://www.chess.com/news/view/chesskid-national-chess-day-2022",
+         "pubDate" : "Wed, 05 Oct 2022 02:01:00 -0700",
+         "title" : "ChessKid Celebrates National Chess Day, Free Week Of Premium Features"
       },
       {
          "description" : "No major upsets were seen in round 2 of the European Club Cup in Mayrhofen, with the favourite teams mostly securing comfortable wins. Superbet's Vishy Anand was rested, while Offerspill's Magnus Carlsen played and beat Solingen's Alexander Naumann. In the women's event, the top two teams, Monte-Carlo (pictured) and Superbet, scored wins. Both teams will face difficult challenges in round 3, as they will play Pamhagen (third seeds) and Odlar Yurdu (fourth seeds) respectively. | Photos: European Chess Union",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-now-adds-name-of-teens-mentor-to-the-drama/articleshow/94388291.cms",
          "pubDate" : "Fri, 23 Sep 2022 04:22:43 +0000",
          "title" : "Magnus Carlsen now adds name of teen's mentor to the drama"
-      },
-      {
-         "description" : "GMs Wesley So and Leinier Dominguez won their round of 32 matches in the Chess.com Global Chess Championship&#38;nbsp;on Thursday, defeating the legendary GM Vasyl Ivanchuk and the popular streamer GM Eric Hansen respectively. The round of 32 contin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d2",
-         "pubDate" : "Thu, 22 Sep 2022 12:55:00 -0700",
-         "title" : "So Sweeps Ivanchuk, Dominguez Defeats Hansen"
       },
       {
          "description" : "",
