@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d3",
-         "pubDate" : "Wed, 05 Oct 2022 13:22:18 -0700",
+         "pubDate" : "Wed, 05 Oct 2022 13:22:00 -0700",
          "title" : "Giri, Duda Shut Down Dark Horses, Earn Seats In Toronto Finals"
       },
       {
@@ -154,20 +154,20 @@ news_feed (
          "title" : "US Chess Championship 2022 - Pairings & Schedule"
       },
       {
-         "description" : "Chess fans will have one more reason to celebrate National Chess Day, which falls on October 8 in 2022. From October 8 to October 16, ChessKid.com is offering free access to all of its premium features: unlimited lessons, puzzles, videos, and bots...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-national-chess-day-2022",
-         "pubDate" : "Wed, 05 Oct 2022 02:01:00 -0700",
-         "title" : "ChessKid Celebrates National Chess Day, Free Week Of Premium Features"
-      },
-      {
          "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-hans-niemann-report-cheating",
-         "pubDate" : "Wed, 05 Oct 2022 01:37:00 -0700",
+         "pubDate" : "Wed, 05 Oct 2022 00:37:00 -0700",
          "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
+      },
+      {
+         "description" : "Chess fans will have one more reason to celebrate National Chess Day, which falls on October 8 in 2022. From October 8 to October 16, ChessKid.com is offering free access to all of its premium features: unlimited lessons, puzzles, videos, and bots...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-national-chess-day-2022",
+         "pubDate" : "Wed, 05 Oct 2022 00:01:00 -0700",
+         "title" : "ChessKid Celebrates National Chess Day, Free Week Of Premium Features"
       },
       {
          "description" : "No major upsets were seen in round 2 of the European Club Cup in Mayrhofen, with the favourite teams mostly securing comfortable wins. Superbet's Vishy Anand was rested, while Offerspill's Magnus Carlsen played and beat Solingen's Alexander Naumann. In the women's event, the top two teams, Monte-Carlo (pictured) and Superbet, scored wins. Both teams will face difficult challenges in round 3, as they will play Pamhagen (third seeds) and Odlar Yurdu (fourth seeds) respectively. | Photos: European Chess Union",
