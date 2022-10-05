@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Anish Giri and&#38;nbsp;Jan-Krzysztof Duda overcame Pavel Ponkratov and Alexey Sarana, respectively, in the 2022 Chess.com Global Championship round of 16 on Wednesday, presented by Brave. The two matches featured pairings between players who, alt...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d3",
+         "pubDate" : "Wed, 05 Oct 2022 13:22:18 -0700",
+         "title" : "Giri, Duda Shut Down Dark Horses, Earn Seats In Toronto Finals"
+      },
+      {
+         "description" : "The US Chess Championship 2022 commenced today in Saint Louis. Fourteen of the strongest chess players in America battle for the national title and $60,000 in a classical round-robin event, including&#xA0;Fabiano Caruana,&#xA0;Levon Aronian, Wesley So&#xA0;and&#xA0;Hans Niemann&#xA0;who has been in the limelight for the last couple of weeks. Hans Niemann is playing against 15-year-old Christopher Yoo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-goes-through-strict-anti-cheating-control-at-the-us-chess-championship/",
+         "pubDate" : "Wed, 05 Oct 2022 19:31:43 +0000",
+         "title" : "Hans Niemann goes through strict anti-cheating control at the US Chess Championship"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/wall-street-journal-niemann-likely-cheated",
          "pubDate" : "Tue, 04 Oct 2022 23:40:00 +0100",
          "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
-      },
-      {
-         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since.&#160;Hans Niemann confessed cheating online&#160;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reactions-to-chess-coms-findings-about-hans-niemann/",
-         "pubDate" : "Tue, 04 Oct 2022 22:12:53 +0000",
-         "title" : "Reactions to chess.com's findings about Hans Niemann"
       },
       {
          "description" : "",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-two/",
          "pubDate" : "Fri, 23 Sep 2022 10:00:40 +0000",
          "title" : "A Foundation for Beginners Seventy Two"
-      },
-      {
-         "description" : "A final between GM Magnus Carlsen and GM Hans Niemann is not possible anymore at the Julius Baer Generation Cup after Niemann lost to GM Le Quang Liem in Thursday&#39;s quarterfinals. Carlsen eliminated GM Levon Aronian and now plays GM Vincent Keymer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-quarterfinals",
-         "pubDate" : "Fri, 23 Sep 2022 02:06:00 -0700",
-         "title" : "Carlsen Advances, Niemann Eliminated"
       },
       {
          "description" : "We won't get a Carlsen-Niemann final in the Julius Baer Generation Cup after Liem Le beat Hans Niemann 2.5:1.5 in the quarterfinals. Magnus did progress, storming back to beat Levon Aronian 3:1 after losing the first game, and now plays Vincent Keymer, who defeated Praggnanandhaa. Arjun Erigaisi faces Le in the semis after edging a thrilling battle against Christopher Yoo.",
