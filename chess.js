@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "No major upsets were seen in round 2 of the European Club Cup in Mayrhofen, with the favourite teams mostly securing comfortable wins. Superbet's Vishy Anand was rested, while Offerspill's Magnus Carlsen played and beat Solingen's Alexander Naumann. In the women's event, the top two teams, Monte-Carlo (pictured) and Superbet, scored wins. Both teams will face difficult challenges in round 3, as they will play Pamhagen (third seeds) and Odlar Yurdu (fourth seeds) respectively. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r2",
+         "pubDate" : "Wed, 05 Oct 2022 04:25:00 +0100",
+         "title" : "European Club Cup: Key matchups ahead"
+      },
+      {
          "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since.&#160;Hans Niemann confessed cheating online&#160;in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/when-pressure-is-off.html",
          "pubDate" : "Tue, 04 Oct 2022 12:57:00 +0000",
          "title" : "When the pressure is off"
-      },
-      {
-         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
-         "pubDate" : "Tue, 04 Oct 2022 13:50:00 +0100",
-         "title" : "European Club Cup - Live"
       },
       {
          "description" : "Magnus Carlsen and Vishy Anand both dropped 3.4 rating points, with Vishy falling out of the Top 10, as they were held to draws by lower-rated opposition on Day 1 of the European Club Cup in Mayrhofen, Austria. Their teams cruised to 5.5:0.5 wins, however, and despite scares for players such as Arjun Erigaisi the top teams all scored crushing wins. It was closer in the women's event, where Elisabeth Paehtz gave top seeds Cercle d'Echecs de Monte-Carlo a narrow win.",
