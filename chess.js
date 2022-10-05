@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura won his third straight Titled Tuesday on October 4 with the rare score of 10.5/11, then nearly swept the event for the second straight week with a second-place finish in the late event. Instead, it was won by GM Matthias Bluebau...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-bluebaum-win-titled-tuesday-october-4-2022",
+         "pubDate" : "Wed, 05 Oct 2022 08:03:13 -0700",
+         "title" : "Nakamura's Tuesday Dominance Continues"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Two weeks later, Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/emil-sutovsky-magnus-didnt-follow-fides-procedures-and-may-face-some-consequences/",
+         "pubDate" : "Wed, 05 Oct 2022 15:00:55 +0000",
+         "title" : "Emil Sutovsky: Magnus didn't follow FIDE's procedures and may face some consequences"
+      },
+      {
+         "description" : "Hans Niemann is accused of cheating in over 100 games at Chess.com in a 72-page report released by the company. They point to cheating in several more prize-money events than the one he admitted to as a 12-year-old, as well as in informal matches against top players. Despite highlighting \"a lack of concrete statistical evidence that he cheated in his game with Magnus or in any other over-the-board games\" Chess.com nevertheless outline \"apparent anomalies\" in Niemann's late rise to the top.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chess-com-release-72-page-hans-niemann-report",
+         "pubDate" : "Wed, 05 Oct 2022 14:48:38 +0000",
+         "title" : "Chess.com release 72-page Hans Niemann report"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94665185.cms\" />American international grandmaster Hans Niemann has \"probably cheated more than 100 times\" in online games, claims the chess platform chess.com in a report.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-hans-niemann-cheated-more-than-100-times-claims-chess-platform/articleshow/94665185.cms",
+         "pubDate" : "Wed, 05 Oct 2022 14:21:29 +0000",
+         "title" : "Grandmaster Hans Niemann cheated 'more than 100' times, claims chess platform"
+      },
+      {
          "description" : "That's how chess can be: You cheerfully let the knights rush forward and threaten everything that's standing there. The dear pawns lash out so much that it's a real joy - and suddenly the cerebrum announces: T-R-A-P. Unfortunately too late. That doesn't have to be. With the tactics app in your ChessBase account, you can work on your tactics at any time: Solve tasks at your level without time pressure, measure yourself against others in the tactics fight or compete against the clock in the tactics sprint. In the second episode of his account tutorial, Martin Fischer explains how best to use the tactics app. So that you don't fall into a trap again...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-day-2",
          "pubDate" : "Wed, 05 Oct 2022 05:36:00 -0700",
          "title" : "Carlsen Sacs 2 Pawns, Scores Pretty Win"
+      },
+      {
+         "description" : "The&#xA0;2022 US Chess Championship&#xA0;commences today in Saint Louis and will be played from 5-20 October. 14 of the strongest chess players in America will compete over the course of 13 rounds for the US Chess Champion title, including&#xA0;Fabiano Caruana,&#xA0;Levon Aronian,&#xA0;Wesley So&#xA0;and&#xA0;Hans Niemann&#xA0;who has been in the limelight for the last couple of weeks. US Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-vs-leinier-dominguez-us-chess-championship-2022-r1-live/",
+         "pubDate" : "Wed, 05 Oct 2022 11:47:00 +0000",
+         "title" : "Fabiano Caruana vs Leinier Dominguez, US Chess Championship 2022 R1 LIVE"
       },
       {
          "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
@@ -120,22 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/reactions-to-chess-coms-findings-about-hans-niemann/",
          "pubDate" : "Tue, 04 Oct 2022 22:12:53 +0000",
          "title" : "Reactions to chess.com's findings about Hans Niemann"
-      },
-      {
-         "description" : "The Wall Street Journal today published an exclusive article with the results of chess.com's investigation on the Carlsen Niemann case. Chess.com's 72-page report discloses that Hans Niemann likely cheated in more than 100 online games, sharing the list of tournaments and number of games in which Niemann likely received illegal assistance. &#8220;This is the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-on-chess-coms-findings-about-hans-niemann-this-is-the-big-drama/",
-         "pubDate" : "Tue, 04 Oct 2022 21:56:01 +0000",
-         "title" : "Hikaru Nakamura on chess.com's findings about Hans Niemann: This is the big drama"
-      },
-      {
-         "description" : "The Wall Street Journal exclusively published today the results of chess.com's investigation on the Carlsen Niemann case. After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-wall-street-journal-publishes-chess-coms-findings-on-the-carlsen-niemann-case/",
-         "pubDate" : "Tue, 04 Oct 2022 19:47:32 +0000",
-         "title" : "The Wall Street Journal publishes chess.com's findings on the Carlsen - Niemann case"
       },
       {
          "description" : "",
@@ -1634,14 +1658,6 @@ news_feed (
          "title" : "75th Russian Chess Championship 2022 - Games and Results"
       },
       {
-         "description" : "GM Magnus Carlsen was in a class of his own at the preliminaries of the Julius Baer Generation Cup. Ending with three more victories, he finished first with a 2937 performance rating before giving his first interview since withdrawing from the Sin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-day-4",
-         "pubDate" : "Thu, 22 Sep 2022 00:46:00 -0700",
-         "title" : "Carlsen Reigns Supreme, Finally Speaks Out"
-      },
-      {
          "description" : " <p class=\"lead\">Magnus Carlsen is currently thriving at the Julius Baer Generation Cup Prelims but his <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resignation on move 2</a> against Niemann a couple of days ago overshadowed all success. On the final day Magnus decided to break his silence! But he actually say anything?! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24 Oslo broadcast</div> </div> First he [Carlsen] <a href=\"https://worldchess.com/news/all/",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1989",
          "pubDate" : "Sat, 17 Sep 2022 18:37:05 +0000",
          "title" : "Women's Grand Prix 2022-2023 officially opened"
-      },
-      {
-         "description" : "Alireza Firouzja was on the verge of scoring a sensational triple victory in St Louis, but Fabiano Caruana stopped the teenage sensation and won a dramatic Armageddon game to take the title in the Champions Showdown: Chess 9LX.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/caruana-stops-firouzja-from-winning-everything-in-st-louis",
-         "pubDate" : "Sat, 17 Sep 2022 12:38:22 +0000",
-         "title" : "Caruana beats Firouzja in Armageddon to win Chess 9LX"
       },
       {
          "description" : "Comparing the records of the world chess champions has become a popular pursuit. Such investigations have been fuelled by the fiftieth anniversary of Bobby Fischer's conquest of the championship, which fell precisely at the end of last month. Debate has been intensified by the announcement from the reigning champion, Magnus Carlsen, that he will retire []",
