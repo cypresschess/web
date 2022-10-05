@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 US Chess Championship kicked off today in Saint Louis and the defending champion Wesley So drew his first game against Awonder Liang. Wesley was not satisfied with the result despite the fact he had black pieces. In the post-game interview, Wesley disclosed why he needed almost two minutes to make the first move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-after-the-us-chess-championship-round-1-i-should-have-played-another-opening/",
+         "pubDate" : "Wed, 05 Oct 2022 23:16:17 +0000",
+         "title" : "Wesley So after the US Chess Championship Round 1: I should have played another opening"
+      },
+      {
+         "description" : "Hans Niemann had a perfect start at the 2022 US Chess Championship as he defeated Christopher Yoo with black pieces in the first round of the event. Hans grabbed his chance to secure the early lead in the tournament and joined the live studio for the interview sending a short but strong message Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-leaves-the-us-chess-championship-studio-after-saying-that-chess-speaks-for-itself-video/",
+         "pubDate" : "Wed, 05 Oct 2022 22:29:40 +0000",
+         "title" : "Hans Niemann leaves the US Chess Championship studio after saying that chess speaks for itself (VIDEO)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.06<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-2-lichessorg",
+         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 2 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich talks to Cristian Chirila during Round 1 of the 2022 U.S. Chess Championships. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tony-rich-niemann%E2%80%99s-otb-innocence-must-be-assumed-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-X0PNlbnk5E.jpg?itok=FilRtHmV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tony-rich-niemann%E2%80%99s-otb-innocence-must-be-assumed-round-1",
+         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
+         "title" : "Tony Rich: Niemann's OTB Innocence Must be Assumed | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after a draw with Alex Lenderman in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-my-first-us-championship-%E2%80%9Cwonderful%E2%80%9D-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7lENkrJjFIs.jpg?itok=jZwewgO7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-my-first-us-championship-%E2%80%9Cwonderful%E2%80%9D-round-1",
+         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
+         "title" : "Aronian: My First U.S. Championship \"Wonderful\" | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Lenderman talks to Cristian Chirila after a draw with Aronian in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lenderman-regret-over-%E2%80%9Cpractical%E2%80%9D-draw-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HVRYpfboC7s.jpg?itok=pn2HmWBL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lenderman-regret-over-%E2%80%9Cpractical%E2%80%9D-draw-round-1",
+         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
+         "title" : "Lenderman: Regret over \"Practical\" Draw | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Liang in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-players-were-late-due-security-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q6fQyn01eDE.jpg?itok=pf1UVk1S\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/so-players-were-late-due-security-round-1",
+         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
+         "title" : "So: Players Were Late Due to Security | Round 1"
+      },
+      {
          "description" : "GMs Anish Giri and&#38;nbsp;Jan-Krzysztof Duda overcame Pavel Ponkratov and Alexey Sarana, respectively, in the 2022 Chess.com Global Championship round of 16 on Wednesday, presented by Brave. The two matches featured pairings between players who, alt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -146,14 +202,6 @@ news_feed (
          "title" : "US Chess Championship 2022 - Day 1 live"
       },
       {
-         "description" : "The&#160;2022 U.S. Chess Championship&#160;and the&#160;US Women&#x2019;s Chess Championship 2022&#160;opened yesterday in Saint Louis. The events will be concurrently held from 5-20 October&#160;in Saint Louis Chess Club, and the first round starts today at 13:00 CDT. The opening ceremony of the event was in the live broadcast and you can find it here. 14 of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-pairings-schedule/",
-         "pubDate" : "Wed, 05 Oct 2022 09:39:24 +0000",
-         "title" : "US Chess Championship 2022 - Pairings & Schedule"
-      },
-      {
          "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -176,14 +224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r2",
          "pubDate" : "Wed, 05 Oct 2022 04:25:00 +0100",
          "title" : "European Club Cup: Key matchups ahead"
-      },
-      {
-         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since.&#160;Hans Niemann confessed cheating online&#160;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-publishes-72-page-report-on-carlsen-niemann-case/",
-         "pubDate" : "Tue, 04 Oct 2022 23:13:01 +0000",
-         "title" : "Chess.com publishes 72-page report on Carlsen - Niemann case"
       },
       {
          "description" : "A few hours ago, the Wall Street Journal published a lengthy article sharing the findings emerging from an investigation conducted by chess.com. According to the piece, chess.com asserts that Hans Niemann \"likely received illegal assistance in more than 100 online games, as recently as 2020\", including in many tournaments with prize money on the line. Niemann did not respond to requests for comments.",
@@ -1330,14 +1370,6 @@ news_feed (
          "title" : "FIDE WGP Astana: Kateryna Lagno joins the lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, join a host TBA for the opening ceremony of the 2022 U.S. &amp; U.S. Women's Championships. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. The fields and inductees are listed below. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-hall-fame-inductions",
-         "pubDate" : "Sun, 25 Sep 2022 15:44:29 +0000",
-         "title" : "2022 U.S. Chess Championships: Opening Ceremony & Hall of Fame Inductions"
-      },
-      {
          "description" : " Here's another example of how far we've come in the past century. This is the final position in the game Bogoljubov Thomas, played in the Hastings 6 Masters Tournament on 13 September 1922. Sir George has just checked his opponent, and like the perfect English gentleman he was, has offered a draw. Bogo, on <a href=\"https://chessimprover.com/bogo-meet-lucy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bogo, Meet Lucy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bogo-meet-lucy/\">Bogo, Meet Lucy</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1522,14 +1554,6 @@ news_feed (
          "title" : "Sarana 'Immortal' Upsets Mamedyarov; Duda, Xiong Cruise Through"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.05<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-1",
-         "pubDate" : "Fri, 23 Sep 2022 21:43:47 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 1"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94405344.cms\" />The International Chess Federation (FIDE) has rebuked world champion Magnus Carlsen for abruptly conceding an online game against Hans Niemann while adding it shared the Norwegian's concerns surrounding cheating in the sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1704,14 +1728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/generation-cup-4-carlsen-scores-record-win-talks-about-niemann",
          "pubDate" : "Thu, 22 Sep 2022 01:35:52 +0000",
          "title" : "Generation Cup 4: Carlsen breaks record, talks about Niemann"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros looks at games from former world championship challenger Peter Leko and new 2700 German grandmaster Vincent Keymer, and the similarities shared between the teacher Leko and the student Keymer. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Lol4i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/teacher-pupil-leko-keymer-how-become-grandmaster-gm-denes-boros",
-         "pubDate" : "Thu, 22 Sep 2022 00:41:43 +0000",
-         "title" : "Like Teacher, Like Pupil: Leko & Keymer | How To Become a Grandmaster - GM Denes Boros"
       },
       {
          "description" : "",
@@ -1960,22 +1976,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/astana-fide-womens-grand-prix-2022",
          "pubDate" : "Sun, 18 Sep 2022 12:19:00 +0400",
          "title" : "Astana FIDE Women's Grand Prix 2022\t - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Before Chess 9LX, it's time for team standard chess! Ultimate Moves is a casual team-based event where teammates \"tag in\" every five moves. Saint Louis Chess Club co-founder Rex Sinquefield and his opponent Edward Jones General Partner John Beckstead draft the world's best players to join them on their teams. Join GM Alejandro Ramirez for the move-by-move. Best-of-4 games | G/10+5 TEAM REX: Sinquefield, Aronian, Caruana, Mamedyarov, Dominguez, Svidler TEAM JOHN: Beckstead, Kasparov, Nepomniachtchi, Firouzja, Wesley So, Nakamura </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-champions-showdown-chess-9lx-ultimate-moves",
-         "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
-         "title" : "2022 Champions Showdown | Chess 9LX: Ultimate Moves"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his armageddon playoff win over Firouzja to finish Chess 9LX. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-chess-9lx-champion-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jPeEcQKzv8M.jpg?itok=ctirfG4J\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-chess-9lx-champion-day-3",
-         "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
-         "title" : "Fabi: Chess 9LX Champion! | Day 3"
       },
       {
          "description" : " The cheating scandal that dominated the 2022 Sinquefield Cup saw GM Hans Niemann fall into controversial spotlight in his first supertournament. The incident was precipitated by Magnus Carlsen's withdrawal from the tournament and a tweet that included a reference to cheating. Many commenting on the matter did not understand the tweet and figured it only The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/\">After the Carlsen-Niemann firestorm, what now?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
