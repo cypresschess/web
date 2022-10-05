@@ -1,4 +1,5 @@
 jtable([
+"PEARLAND","2022-10-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202210049982 target='_blank'>RCC QUADS OCTOBER 4, 2022</a>",
 "SPRING","2022-10-01","149","<a href=http://www.uschess.org/msa/XtblMain.php?202210018342 target='_blank'>ST EDWARD SCHOLASTIC CHESS TOURNAME</a>",
 "HOUSTON","2022-10-01","11","<a href=http://www.uschess.org/msa/XtblMain.php?202210018312 target='_blank'>OCT 1 SATURDAY CHESS</a>",
 "SPRING","2022-09-30","4","<a href=http://www.uschess.org/msa/XtblMain.php?202209309472 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-01-09","6","<a href=http://www.uschess.org/msa/XtblMain.php?202201096572 target='_blank'>HOUSTON JAN. 9 SUNDAY SWISS</a>",
 "HOUSTON","2022-01-09","94","<a href=http://www.uschess.org/msa/XtblMain.php?202201095832 target='_blank'>THE CHESS REFINERY: NEW YEAR'S BLAST</a>",
 "SPRING","2022-01-08","9","<a href=http://www.uschess.org/msa/XtblMain.php?202201085382 target='_blank'>DER SPRINGERS JANUARY 22</a>",
-"SPRING","2022-01-07","14","<a href=http://www.uschess.org/msa/XtblMain.php?202201074952 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
