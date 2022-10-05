@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-noel-studer-its-insane-that-chess-com-knew-hans-likely-cheated-over-100-times-and-would-have-let-him-play-in-cgc/",
+         "pubDate" : "Wed, 05 Oct 2022 11:12:18 +0000",
+         "title" : "GM Noel Studer: It's insane that chess.com knew Hans likely cheated over 100 times and would have let him play in CGC"
+      },
+      {
+         "description" : " <p class=\"lead\">A 72 page report by chesscom, initially revealed by <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524\">The Wall Street Journal</a>, showed that Hans Niemann has \"likely cheated\" more than 100 times online, but there is still a lack of concrete statistical evidence that he cheated in his game with Magnus at the Sinquefield Cup 2022 or in any other over-the-board game. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-cheating-chess-chesscom-report-investigation.jpeg\" width=\"1200\" height=\"675\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> After Ha",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hans-niemann-is-likely-over-after-new-cheating-evidence/",
+         "pubDate" : "Wed, 05 Oct 2022 10:45:25 +0000",
+         "title" : "Hans Niemann is \"likely\" over after new cheating evidence"
+      },
+      {
+         "description" : "The&#xA0;US Women's Chess Championship 2022&#xA0;is going to take place October 4-14 in the Saint Louis Chess Club. It will feature 14 of the strongest US female chess player, including&#xA0;GM Irina Krush,&#xA0;IM Anna Zatonskih&#xA0;and&#xA0;FM Ashritha Eswaran. List of participants&#xA0;/&#xA0;Day 1 live video coverage Live games with analysis will be daily on Chessdom.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-womens-chess-championship-2022-live/",
+         "pubDate" : "Wed, 05 Oct 2022 10:27:42 +0000",
+         "title" : "US Women's Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;opened yesterday in Saint Louis. The events are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club, and the first round starts today at 13:00 CDT. The opening ceremony of the event was in the live broadcast and you can find it&#xA0;here. Fourteen of the country&#x2019;s strongest []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-1-live/",
+         "pubDate" : "Wed, 05 Oct 2022 10:13:09 +0000",
+         "title" : "US Chess Championship 2022 - Day 1 live"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;opened yesterday in Saint Louis. The events will be concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club, and the first round starts today at 13:00 CDT. The opening ceremony of the event was in the live broadcast and you can find it here. 14 of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-pairings-schedule/",
+         "pubDate" : "Wed, 05 Oct 2022 09:39:24 +0000",
+         "title" : "US Chess Championship 2022 - Pairings & Schedule"
+      },
+      {
+         "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-hans-niemann-report-cheating",
+         "pubDate" : "Wed, 05 Oct 2022 01:37:00 -0700",
+         "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
+      },
+      {
          "description" : "No major upsets were seen in round 2 of the European Club Cup in Mayrhofen, with the favourite teams mostly securing comfortable wins. Superbet's Vishy Anand was rested, while Offerspill's Magnus Carlsen played and beat Solingen's Alexander Naumann. In the women's event, the top two teams, Monte-Carlo (pictured) and Superbet, scored wins. Both teams will face difficult challenges in round 3, as they will play Pamhagen (third seeds) and Odlar Yurdu (fourth seeds) respectively. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +74,7 @@ news_feed (
          "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
       },
       {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass medias&#160;ever since.&#160;Hans Niemann confessed cheating online&#160;in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/reactions-to-chess-coms-findings-about-hans-niemann/",
@@ -80,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/garry-kasparov-on-magnus-carlsen-his-behavior-was-unacceptable",
          "pubDate" : "Tue, 04 Oct 2022 17:00:00 +0100",
          "title" : "Garry Kasparov on Magnus Carlsen: \"his behavior was unacceptable\""
+      },
+      {
+         "description" : "In last month's post <A HREF=\"http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html\">September 1972 & 1997 'On the Cover'</A>(September 2022), I struggled to include the 1972 Fischer - Spassky match:- <BLOCKQUOTE>CL&R couldn't yet report the final result of the match. [...] The date of today's post, 1 September, marks 50 years since the historic match ended. [...] We'll come back to the end of the 1972 match for the October 'On the Cover' post. </BLOCKQUOTE> <P>So here we are. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj04.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Joel Benjamin: The New Interplay U.S. Champion! <U>INTERPLAY</",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html",
+         "pubDate" : "Tue, 04 Oct 2022 15:53:00 +0000",
+         "title" : "October 1972 & 1997 'On the Cover'"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, Chess Club Executive Director Tony Rich hosts the opening ceremony of the 2022 U.S. &amp; U.S. Women's Championships. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. The fields and inductees are listed below. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-lin",
@@ -162,14 +218,6 @@ news_feed (
          "title" : "FIDE ratings October 2022"
       },
       {
-         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The event will be played in 7 rounds, swiss system, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-club-cup-2022-live/",
-         "pubDate" : "Tue, 04 Oct 2022 08:16:00 +0000",
-         "title" : "European Women's Chess Club Cup 2022 - LIVE"
-      },
-      {
          "description" : "In the diagrammed position White is a pawn up but is also in danger because Black's passed pawns are powerful. However, with precise play White can save the game. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,28 +234,12 @@ news_feed (
          "title" : "A Comedy of Errors"
       },
       {
-         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Chess Club Cup&#160;will simultaneously take place from 2nd &#x2013; 10th October in Mayrhofen, Austria and have set a new participation record with 87 registered teams (70 in the Open section and 17 in the Women&#x2019;s section). The European Chess Club Cup 2022 will be played in 7 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-live/",
-         "pubDate" : "Tue, 04 Oct 2022 07:35:00 +0000",
-         "title" : "European Chess Club Cup 2022 - LIVE"
-      },
-      {
          "description" : "Last week we presented you with a second set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particluarly easy to follow. You do not have to be a champion player or problem expert to follow.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment-3",
          "pubDate" : "Tue, 04 Oct 2022 08:00:00 +0100",
          "title" : "Studies for fun and entertainment (2)"
-      },
-      {
-         "description" : "The Chess Master and Data Scientist Nate Solon begins his analysis on the Carlsen-Nieman case with, &#8220;In the effort to determine if Hans Niemann is guilty of cheating, the chess world has moved on to the only thing less reputable than beads: statistics.&#8221; With this beautiful punch line, Solon has dived into a detailed, yet []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nate-solon-did-niemann-cheat/",
-         "pubDate" : "Tue, 04 Oct 2022 06:09:08 +0000",
-         "title" : "Nate Solon: Did Hans Niemann cheat?"
       },
       {
          "description" : "The European Club Cups kicked off in Mayrhofen, Austria, with 70 teams in the open and 17 teams in the women's tournament. There were no major upsets in the open, as the top teams mostly got easy wins. On the other hand, among the women, the favourites from Monaco won by the smallest of margins. Vishy Anand and Magnus Carlsen both drew with the black pieces. | Photos: European Chess Union",
@@ -224,14 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d2",
          "pubDate" : "Mon, 03 Oct 2022 20:14:00 -0700",
          "title" : "Nakamura Neutralizes Dominguez, Andreikin Upsets Caruana"
-      },
-      {
-         "description" : "The 37th European Chess Club Cup kicked off today in Mayrhofen, Austria, and takes place simultaneously with the&#160;26th European Women&#x2019;s Chess Club Cup&#160;from 2nd &#x2013; 10th October at the&#160;Europahaus Mayrhofen &#x2013; Congress Zillertal. With all eyes on Magnus Carlsen and Viswanathan Anand playing the top boards for their teams, only a few upsets marked the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/europe-club-cup-2022-round-1-result/",
-         "pubDate" : "Mon, 03 Oct 2022 22:09:19 +0000",
-         "title" : "European Club Cup 2022 - Round 1 results"
       },
       {
          "description" : "Chess.com is excited to announce the launch of our newest app, &#34;Checkmate Or Die!&#34; In this game, only two things can happen: you either checkmate the zombies or they eat you! Quickly solve all the mating puzzles that come your way to escape the wr...",
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "FIDE WGP Astana: Up-and-coming Zhu Jiner joins the lead"
       },
       {
-         "description" : "GM Hikaru Nakamura and GM Jeffery Xiong, the most successful and one of the most successful players in the history of Titled Tuesday, each added another victory feather to their caps in the September 20, 2022 editions.&#38;nbsp;&#38;nbsp; IM Anna Sargsy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-xiong-win-titled-tuesday-september-20-2022",
-         "pubDate" : "Wed, 21 Sep 2022 09:31:00 -0700",
-         "title" : "Nakamura Adds Another Tournament Victory"
-      },
-      {
          "description" : "Magnus Carlsen was in imperious form as he top scored on Day 3 to take the lead and ensure qualification for the Julius Baer Generation Cup knockout stages, but there may still be trouble ahead. Statistically his most likely quarterfinal opponent is Hans Niemann, though the battle for the Top 8 places is set to be intense.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2128,22 +2144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/andrew-leadbetter-rip/",
          "pubDate" : "Wed, 14 Sep 2022 13:27:54 +0000",
          "title" : "Andrew Leadbetter RIP"
-      },
-      {
-         "description" : "When the organisation of the 2022 Sinquefield Cup decided, after Round 3, to implement a fifteen-minute delay for the broadcast of moves, we felt some gratification. Hadn't we suggested exactly this to FIDE, seventeen years ago, as one possible measure to counteract cheating in chess? At least to make it more difficult? Not everybody was happy with the proposal and with its implementation in Saint Louis. What do you think?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/revisited-15-minute-broadcast-delay",
-         "pubDate" : "Wed, 14 Sep 2022 11:00:00 +0100",
-         "title" : "Revisited: 15-minute broadcast delay"
-      },
-      {
-         "description" : "ECU Board decided to establish two new Commissions the &#8220;Media &#38; Communication Commission&#8221; and the Social Commission. ECU Media and Communication Commission &#8220;MCC&#8221; has as main task to develop strategies and propose measures to improve ECU &#8216;s communication with mainstream media and press coverage of ECU events as also to propose actions to improve ECU social media accounts&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-establishes-media-and-social-commissions/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-establishes-media-and-social-commissions/",
-         "pubDate" : "Wed, 14 Sep 2022 09:26:17 +0000",
-         "title" : "ECU establishes Media and Social Commissions"
       }
    ]
 }
