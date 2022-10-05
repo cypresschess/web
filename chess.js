@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Wed, 05 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
          "description" : "GM Hikaru Nakamura won his third straight Titled Tuesday on October 4 with the rare score of 10.5/11, then nearly swept the event for the second straight week with a second-place finish in the late event. Instead, it was won by GM Matthias Bluebau...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1546,14 +1554,6 @@ news_feed (
          "title" : "1992 Fischer - Spassky 'Under the Weather'"
       },
       {
-         "description" : "The International Chess Federation has shared a statement regarding the scandal that has taken over the chess over. FIDE wrote: \"As the world's chess governing body, it is our duty to protect the integrity of the game and its image, and in view that the incident keeps escalating, we find it necessary to take a step forward\". | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-statement-carlsen-niemann-polemic",
-         "pubDate" : "Fri, 23 Sep 2022 15:30:00 +0100",
-         "title" : "FIDE Statement on the Carlsen - Niemann polemic"
-      },
-      {
          "description" : " We'll continue the game we start playing through a few weeks ago. I'm looking at this game and the moves we analyze through the eyes of a beginning player rather than a seasoned professional. What I mean is that we'll look at each move and the reasoning behind those moves as if a beginner was <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\">A Foundation for Beginners Seventy Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1982",
          "pubDate" : "Thu, 15 Sep 2022 06:18:34 +0000",
          "title" : "Champions Showdown Chess 9LX: Day 1 Recap"
-      },
-      {
-         "description" : " The Champions Showdown 9LX takes place Wed 14th Sep to Fri 16th Sep 2022 in Saint Louis. The event is a 10 player Round Robin with: Garry Kasparov, Ian Nepomniachtchi, Alireza Firouzja, Hikaru Nakamura, Levon Aronian, Fabiano Caruana, Shakhriyar Mamedyarov, Leinier Dominguez Perez, Peter Svidler and Wesley So. As usual I'm not setup to display the actual games because the viewer I use can't handle it. I will have the PGN.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-showdown-9lx-2022",
-         "pubDate" : "Wed, 14 Sep 2022 21:23:00 +0400",
-         "title" : "Champions Showdown 9LX 2022 - Games and Results"
       }
    ]
 }
