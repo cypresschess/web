@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "That's how chess can be: You cheerfully let the knights rush forward and threaten everything that's standing there. The dear pawns lash out so much that it's a real joy - and suddenly the cerebrum announces: T-R-A-P. Unfortunately too late. That doesn't have to be. With the tactics app in your ChessBase account, you can work on your tactics at any time: Solve tasks at your level without time pressure, measure yourself against others in the tactics fight or compete against the clock in the tactics sprint. In the second episode of his account tutorial, Martin Fischer explains how best to use the tactics app. So that you don't fall into a trap again...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/improve-your-tactics",
+         "pubDate" : "Wed, 05 Oct 2022 14:11:52 +0100",
+         "title" : "Improve your tactics!"
+      },
+      {
+         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
+         "pubDate" : "Wed, 05 Oct 2022 13:50:00 +0100",
+         "title" : "European Club Cup - Live"
+      },
+      {
+         "description" : "The 2022 US Chess Championship commences today in Saint Louis and will be played from 5-20 October. 14 of the strongest chess players in America will compete over the course of 13 rounds for the US Chess Champion title, including&#xA0;Fabiano Caruana,&#xA0;Levon Aronian,&#xA0;Wesley So&#xA0;and&#xA0;Hans Niemann&#xA0;who has been in the limelight for the last couple of weeks. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/christopher-yoo-vs-hans-niemann-us-chess-championship-2022-r1-live/",
+         "pubDate" : "Wed, 05 Oct 2022 12:46:15 +0000",
+         "title" : "Christopher Yoo vs Hans Niemann, US Chess Championship 2022 R1 LIVE"
+      },
+      {
+         "description" : "GM Magnus Carlsen won a lovely game in the second round of the European Club Cup in Austria, sacrificing two pawns in the endgame in return for a strong attack. He won&#39;t play in today&#39;s third round, but GM Viswanathan Anand will be back at the boa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-day-2",
+         "pubDate" : "Wed, 05 Oct 2022 05:36:59 -0700",
+         "title" : "Carlsen Sacs 2 Pawns, Scores Pretty Win"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-report-speaks-for-itself-tweetoftheday/",
+         "pubDate" : "Wed, 05 Oct 2022 11:43:26 +0000",
+         "title" : "\"The report speaks for itself\" #TweetOftheDay"
+      },
+      {
          "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +74,7 @@ news_feed (
          "title" : "US Chess Championship 2022 - Day 1 live"
       },
       {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;opened yesterday in Saint Louis. The events will be concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club, and the first round starts today at 13:00 CDT. The opening ceremony of the event was in the live broadcast and you can find it here. 14 of the []",
+         "description" : "The&#160;2022 U.S. Chess Championship&#160;and the&#160;US Women&#x2019;s Chess Championship 2022&#160;opened yesterday in Saint Louis. The events will be concurrently held from 5-20 October&#160;in Saint Louis Chess Club, and the first round starts today at 13:00 CDT. The opening ceremony of the event was in the live broadcast and you can find it here. 14 of the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/us-chess-championship-2022-pairings-schedule/",
@@ -98,14 +138,6 @@ news_feed (
          "title" : "The Wall Street Journal publishes chess.com's findings on the Carlsen - Niemann case"
       },
       {
-         "description" : "The&#160;2022 U.S. Chess Championship&#160;and the US Women&#x2019;s Chess Championship 2022 open today in Saint Louis! The events will be concurrently held from 5-20 October&#160;in Saint Louis Chess Club, and the first round starts Wednesday, October 5 at 12:50 P.M. CDT. 14 of the strongest chess players in America will compete over the course of 13 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championships-2022-opening-ceremony-live/",
-         "pubDate" : "Tue, 04 Oct 2022 19:03:00 +0000",
-         "title" : "US Chess Championships 2022 - Opening ceremony LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/statistical-analysis-of-the-games-of-hans-niemann",
          "pubDate" : "Tue, 04 Oct 2022 15:27:17 +0100",
          "title" : "Statistical analysis of the games of Hans Niemann"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass media&#xA0;ever since. While many think cheating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cheating-in-chess-is-a-great-publicity-stunt-tweetoftheday/",
-         "pubDate" : "Tue, 04 Oct 2022 13:47:39 +0000",
-         "title" : "Cheating in chess is a great publicity stunt #TweetOftheDay"
       },
       {
          "description" : " With chess players starting competitions at very young ages, it is always a balancing act between trying to get such players to behave in the correct 'chess' manner, and not to end up pushing them too hard. During a school holiday coaching day, I saw a couple of different approaches, that seem to have different results. The first was an older junior who seemed content to win as many games as possible using Scholars Mate. While it looked good on the scoreboard, it was also clear that he wasn't actually learning how to play better chess. The second was a young player who was worried about coming last (or scoring poorly) in the blitz tournament we ran. As a compromise, I told him (and his oppo",
@@ -1506,22 +1530,6 @@ news_feed (
          "title" : "FIDE Statement on the Carlsen - Niemann polemic"
       },
       {
-         "description" : "On 29 September Anna and Mariya Muzychuk will give a simultaneous event against 30 opponents in the European Parliament in Brussels. On this occasion, the two Ukrainians will also receive an award from the Emanuel Lasker Society.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anna-and-mariya-muzychuk-simul-and-award-in-bruxelles",
-         "pubDate" : "Fri, 23 Sep 2022 15:00:00 +0100",
-         "title" : "Anna and Mariya Muzychuk: Simul and award in Brussels"
-      },
-      {
-         "description" : "FIDE has announced a new world championship: an Open World Team Championship in which club teams can participate. The partner of the World Championship, which will offer a prize fund of 250,000 euros, is the logistics company WR Group based in D&uuml;sseldorf, Germany, where the tournament is \"tentatively\" scheduled to be played in May 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-and-wr-group-announce-world-open-teams-championship",
-         "pubDate" : "Fri, 23 Sep 2022 13:40:19 +0100",
-         "title" : "FIDE and WR Group announce World Open Teams Championship"
-      },
-      {
          "description" : " We'll continue the game we start playing through a few weeks ago. I'm looking at this game and the moves we analyze through the eyes of a beginning player rather than a seasoned professional. What I mean is that we'll look at each move and the reasoning behind those moves as if a beginner was <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\">A Foundation for Beginners Seventy Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/battle-for-fair-play-has-few-takers-in-chess/articleshow/94364001.cms",
          "pubDate" : "Thu, 22 Sep 2022 03:23:21 +0000",
          "title" : "Battle for fair play has few takers in chess"
-      },
-      {
-         "description" : "GM Sam Sevian achieved a spectacular upset against GM Maxime Vachier-Lagrave to kick off the round of 32 matches in the Chess.com Global Chess Championship. Additionally, GM Dmitry Andreikin defeated GM Gata Kamsky in armageddon while GM Fabiano C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d1",
-         "pubDate" : "Wed, 21 Sep 2022 19:03:00 -0700",
-         "title" : "Sevian Scores Spectacular Upset; Caruana, Andreikin Advance"
       },
       {
          "description" : "Magnus Carlsen won all three games on the final day of the Julius Baer Generation Cup to finish a massive 9 points ahead of 2nd placed Arjun Erigaisi. Carlsen plays Levon Aronian next, but could still meet Hans Niemann in the final. We've also got Keymer-Pragg, Niemann-Le and Yoo-Erigaisi in the quarterfinals, while Anish Giri just missed out.",
