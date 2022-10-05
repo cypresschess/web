@@ -66,6 +66,14 @@ news_feed (
          "title" : "Registration for the 3rd FIDE Educational Seminar \"Chess for children with ASD. Learn & teach\" is open"
       },
       {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Tue, 04 Oct 2022 16:00:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
          "description" : "There is a sense of frustration at this stage by parties wide and large, and while the quote in the headline will hit closer to home for chess players, the venerable British newspaper 'The Guardian' also took an unprecedented step by declaring their own official position regarding the entire scandal.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/buy-a-chess-set-plant-a-tree/",
          "pubDate" : "Mon, 26 Sep 2022 06:52:36 +0000",
          "title" : "Buy a Chess Set - Plant a Tree"
-      },
-      {
-         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
-         "pubDate" : "Mon, 26 Sep 2022 06:00:45 +0000",
-         "title" : "Rolling membership introduction"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94445878.cms\" />Teenaged Indian Grandmaster Arjun Erigaisi went down against world no.1 Magnus Carlsen in the final of the Julius Baer Generation Cup online rapid chess tournament, losing the second match 0-2.Having won the first match, the Norwegian had the advantage and he won the first two games of the second match to close out the finale early on Monday.",
