@@ -10,6 +10,14 @@ news_feed (
          "title" : "U.S. Championships - Live"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.05<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-1-lichessorg",
+         "pubDate" : "Wed, 05 Oct 2022 18:52:02 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 1 | lichess.org"
+      },
+      {
          "description" : "GM Hikaru Nakamura won his third straight Titled Tuesday on October 4 with the rare score of 10.5/11, then nearly swept the event for the second straight week with a second-place finish in the late event. Instead, it was won by GM Matthias Bluebau...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chess-com-release-72-page-hans-niemann-report",
          "pubDate" : "Wed, 05 Oct 2022 14:48:38 +0000",
          "title" : "Chess.com release 72-page Hans Niemann report"
-      },
-      {
-         "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-hans-niemann-report-cheating",
-         "pubDate" : "Wed, 05 Oct 2022 07:37:00 -0700",
-         "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94665185.cms\" />American international grandmaster Hans Niemann has \"probably cheated more than 100 times\" in online games, claims the chess platform chess.com in a report.",
@@ -144,6 +144,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesskid-national-chess-day-2022",
          "pubDate" : "Wed, 05 Oct 2022 02:01:00 -0700",
          "title" : "ChessKid Celebrates National Chess Day, Free Week Of Premium Features"
+      },
+      {
+         "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-hans-niemann-report-cheating",
+         "pubDate" : "Wed, 05 Oct 2022 01:37:00 -0700",
+         "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
       },
       {
          "description" : "No major upsets were seen in round 2 of the European Club Cup in Mayrhofen, with the favourite teams mostly securing comfortable wins. Superbet's Vishy Anand was rested, while Offerspill's Magnus Carlsen played and beat Solingen's Alexander Naumann. In the women's event, the top two teams, Monte-Carlo (pictured) and Superbet, scored wins. Both teams will face difficult challenges in round 3, as they will play Pamhagen (third seeds) and Odlar Yurdu (fourth seeds) respectively. | Photos: European Chess Union",
@@ -1968,14 +1976,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabi-chess-9lx-champion-day-3",
          "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
          "title" : "Fabi: Chess 9LX Champion! | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Garry Kasparov talks to Cristian Chirila after scoring 0.5/9 to finish Chess 9LX, and stays to analyze Firouzja vs. Caruana in the first rapid playoff game. 2022.09.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-analyzes-first-playoff-game-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/23HSQfCiPYo.jpg?itok=2bE3aOjX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-analyzes-first-playoff-game-day-3",
-         "pubDate" : "Sun, 18 Sep 2022 06:38:46 +0000",
-         "title" : "Kasparov Analyzes First Playoff Game | Day 3"
       },
       {
          "description" : " The cheating scandal that dominated the 2022 Sinquefield Cup saw GM Hans Niemann fall into controversial spotlight in his first supertournament. The incident was precipitated by Magnus Carlsen's withdrawal from the tournament and a tweet that included a reference to cheating. Many commenting on the matter did not understand the tweet and figured it only The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/\">After the Carlsen-Niemann firestorm, what now?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
