@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After three rounds, six teams in the open section of the European Club Cup have won all their matches in Mayrhofen. The top scorers on individual boards are Silla Valencia (Korobov, Santos), Offerspill (Carlsen, Tari) and Viernheim (Kryvoruchko, Korobov). In the women's event, Superbet (Bulmaga, Saduakassova) and Pamhagen (Danielian, Ushenina) have collected 6 match points in the first three rounds. | Photos: European Chess Union",
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.07<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-3-lichessorg",
+         "pubDate" : "Thu, 06 Oct 2022 03:52:28 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 3 | lichess.org"
+      },
+      {
+         "description" : "After three rounds, six teams in the open section of the European Club Cup have won all their matches in Mayrhofen. The top scorers on individual boards are Silla Valencia (Korobov, Santos), Offerspill (Carlsen, Tari) and Viernheim (Kryvoruchko, Kuzubov). In the women's event, Superbet (Bulmaga, Saduakassova) and Pamhagen (Danielian, Ushenina) have collected 6 match points in the first three rounds. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r3",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lenderman-regret-over-%E2%80%9Cpractical%E2%80%9D-draw-round-1",
          "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
          "title" : "Lenderman: Regret over \"Practical\" Draw | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Liang in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-players-were-late-due-security-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q6fQyn01eDE.jpg?itok=pf1UVk1S\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/so-players-were-late-due-security-round-1",
-         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
-         "title" : "So: Players Were Late Due to Security | Round 1"
       },
       {
          "description" : "GMs Anish Giri and&#38;nbsp;Jan-Krzysztof Duda overcame Pavel Ponkratov and Alexey Sarana, respectively, in the 2022 Chess.com Global Championship round of 16 on Wednesday, presented by Brave. The two matches featured pairings between players who, alt...",
