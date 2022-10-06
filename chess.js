@@ -2120,14 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1983",
          "pubDate" : "Thu, 15 Sep 2022 13:52:35 +0000",
          "title" : "FIDE World Junior Championship: Deadline extended"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1982",
-         "pubDate" : "Thu, 15 Sep 2022 06:18:34 +0000",
-         "title" : "Champions Showdown Chess 9LX: Day 1 Recap"
       }
    ]
 }
