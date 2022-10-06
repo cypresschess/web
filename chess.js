@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you ever asked yourself what Svitlana's favourite \"Smart Moves\" theme is, we have a clear answer - fantastic, unexpected moves. And you can try to guess them in this video. In our 50th show, Svitlana has surprising examples from real games with Le Quang Liem, Pavel Eljanov, Jonathan Levitt, Mikhail Tal, and Arshak Petrosian (No, not the world champion Petrosian). Many of you might know the famous games already, but for those who don't know them, you are in for a treat.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-guess-the-surprising-unexpected-monster-move",
+         "pubDate" : "Thu, 06 Oct 2022 18:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Guess the surprising, unexpected smart move!"
+      },
+      {
          "description" : "20 years ago, on 4 October 2002, a very special duel began in Manama, in the Kingdom of Bahrain. The reigning World Champion Vladimir Kramnik played against a PC chess programme - Deep Fritz. Dagobert Kohlmeyer followed the match in Bahrain and shares memories of this remarkable event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cheating-in-grandmaster-chess/",
          "pubDate" : "Sat, 24 Sep 2022 10:23:45 +0000",
          "title" : "Cheating in grandmaster chess?"
-      },
-      {
-         "description" : "In the diagrammed position, White has a clever way to destabilize Black's minor piece block and win material. Have a go!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/forward-and-back",
-         "pubDate" : "Sat, 24 Sep 2022 09:00:00 +0100",
-         "title" : "Forward and back"
       },
       {
          "description" : "The two-day final of the Julius Baer Generation Cup will be played between GM Magnus Carlsen and GM Arjun Erigaisi. After Carlsen knocked out GM Vincent Keymer, Erigaisi reached his first Tour final by beating GM Le Quang Liem in a&#38;nbsp;blitz play...",
