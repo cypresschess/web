@@ -10,7 +10,7 @@ news_feed (
          "title" : "20 years ago: \"Brains in Bahrain\", Vladimir Kramnik vs Deep Fritz"
       },
       {
-         "description" : "\"This game is a message\" said Hans Niemann after beating 15-year-old Christopher Yoo in Round 1 of the 2022 US Championship. He refused to analyse and left the interview in under a minute, commenting, \"it was a such a beautiful game I don't even need to describe it\". Sam Sevian was the only other player to win in the Open section, while four of the seven games were decisive in the Women's section.",
+         "description" : "\"This game is a message\" said Hans Niemann after beating 15-year-old Christopher Yoo in Round 1 of the 2022 US Championship. He refused to analyse and left the interview in under a minute, commenting, \"it was such a beautiful game I don't even need to describe it\". Sam Sevian was the only other player to win in the Open section, while four of the seven games were decisive in the Women's section.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/us-chess-champs-1-hans-niemann-defies-his-critics",
@@ -88,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-r1",
          "pubDate" : "Thu, 06 Oct 2022 12:05:00 +0100",
          "title" : "U.S. Championships: Niemann wins, claims he will not back down"
+      },
+      {
+         "description" : "The report also noted that four of the top 100 in the world admitted to cheating on Chess.com's platform.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34737621/after-magnus-carlsen-allegations-report-claims-hans-niemann-likely-cheated-100-s?device=featurephone",
+         "pubDate" : "Thu, 6 Oct 2022 05:56:07 -0500",
+         "title" : "After Carlsen allegations, report claims Niemann 'likely cheated' over 100 times"
       },
       {
          "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;commenced yesterday in Saint Louis and are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. []",
