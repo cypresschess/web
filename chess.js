@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
+         "pubDate" : "Thu, 6 Oct 2022 15:29:47 -0500",
+         "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
+      },
+      {
+         "description" : "The wait is over: Chess.com is happy to announce that the PRO Chess League is returning in 2023! The Professional Rapid Online League is the world&#39;s premier online chess league for professional players. The 2023 season starts on February 1, with t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-pro-chess-league-2023",
+         "pubDate" : "Thu, 06 Oct 2022 12:39:11 -0700",
+         "title" : "Chess.com Announces The Return Of The PRO Chess League In 2023"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1626,14 +1642,6 @@ news_feed (
          "title" : "Generation Cup SFs: It's a Carlsen-Erigaisi final!"
       },
       {
-         "description" : "GMs Jan-Krzysztof Duda, Jeffery Xiong, and Alexey Sarana were the three victorious players in their round of 32 matches on Friday as the Chess.com Global Championship continued. Favorites Duda and Xiong had to shake off the nerves early against th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d3",
-         "pubDate" : "Fri, 23 Sep 2022 16:19:00 -0700",
-         "title" : "Sarana 'Immortal' Upsets Mamedyarov; Duda, Xiong Cruise Through"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94405344.cms\" />The International Chess Federation (FIDE) has rebuked world champion Magnus Carlsen for abruptly conceding an online game against Hans Niemann while adding it shared the Norwegian's concerns surrounding cheating in the sport.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2128,14 +2136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1986",
          "pubDate" : "Fri, 16 Sep 2022 05:56:50 +0000",
          "title" : "Champions Showdown Chess 9LX: Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1985",
-         "pubDate" : "Thu, 15 Sep 2022 20:23:57 +0000",
-         "title" : "FIDE World Cadet Chess Championships kick off in Batumi, Georgia"
       }
    ]
 }
