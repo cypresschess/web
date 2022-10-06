@@ -258,14 +258,6 @@ news_feed (
          "title" : "Wesley So after the US Chess Championship Round 1: I should have played another opening"
       },
       {
-         "description" : "Hans Niemann had a perfect start at the 2022 US Chess Championship as he defeated Christopher Yoo with black pieces in the first round of the event. Hans grabbed his chance to secure the early lead in the tournament and joined the live studio for the interview sending a short but strong message Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-leaves-the-us-chess-championship-studio-after-saying-that-chess-speaks-for-itself-video/",
-         "pubDate" : "Wed, 05 Oct 2022 22:29:40 +0000",
-         "title" : "Hans Niemann leaves the US Chess Championship studio after saying that chess speaks for itself (VIDEO)"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.06<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
