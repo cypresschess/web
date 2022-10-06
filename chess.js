@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
-         "pubDate" : "Thu, 6 Oct 2022 15:29:47 -0500",
+         "pubDate" : "Thu, 6 Oct 2022 15:30:18 -0500",
          "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
       },
       {
