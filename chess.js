@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann and Sam Sevian kicked off the U.S. Championship with wins, as they defeated Christopher Yoo and Elshan Moradiabadi in the first round of the 14-player event. True to his style, Niemann was laconic in the post-game interview, noting that \"chess spoke for itself\" and that the game was so beautiful he did not even need to describe it. In the women's event, four players scored full points, including Alice Lee, who is playing her first national championship. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r1",
+         "pubDate" : "Thu, 06 Oct 2022 12:05:00 +0100",
+         "title" : "U.S. Championships: Niemann wins, claims he will not back down"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;commenced yesterday in Saint Louis and are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-2-live/",
+         "pubDate" : "Thu, 06 Oct 2022 10:40:08 +0000",
+         "title" : "US Chess Championship 2022 - Day 2 live"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #536 Merijn van Delft looks at a fascinating game Magnus Carlsen played in round 2 of the European Club Cup in Mayrhofen, Austria. The World Champion had White against the German Grandmaster Alexander Naumann and impressed with surprising maneuvers in the opening and a couple of pawn sacrifices for positional compensation. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-536-m-carlsen-vs-a-naumann",
+         "pubDate" : "Thu, 06 Oct 2022 11:31:10 +0100",
+         "title" : "Game of the Week #536: M. Carlsen vs A. Naumann"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2025",
+         "pubDate" : "Thu, 06 Oct 2022 10:14:03 +0000",
+         "title" : "2022 U.S. Championships kick off in St. Louis"
+      },
+      {
+         "description" : "GMs Hans Niemann and Sam Sevian were the two winners on the opening day of the U.S. Championship in St. Louis as Niemann looked to put to bed any speculations about his over-the-board play. The women&#39;s section saw four decisive results, including ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-1",
+         "pubDate" : "Thu, 06 Oct 2022 02:59:00 -0700",
+         "title" : "Niemann: 'This Game Is A Message To Everyone'"
+      },
+      {
+         "description" : "The US Chess Championship 2022 started yesterday in Saint Louis Chess Club featuring 14 of the strongest America's grandmasters and 14 of the strongest America's female chess players. Fabiano Caruana, Wesley So and Levon Aronian headline the Open section field, which includes 19-year-old Hans Niemann who has been in the limelight for the last couple []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tony-rich-we-have-to-assume-hans-niemann-is-innocent-until-he-is-proven-guilty/",
+         "pubDate" : "Thu, 06 Oct 2022 08:20:34 +0000",
+         "title" : "Tony Rich: We have to assume Hans Niemann is innocent until he is proven guilty"
+      },
+      {
+         "description" : "Three rounds have been already played at the 37th European Chess Club Cup and the 26th European Women's Club Cup in Mayrhofen, Austria with six teams in the Open section and two teams in the Women's section emerging on the top with the perfect score of 6 match points. With no major upsets, most of the favorites scored&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-round-3-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-club-cup-2022-round-3-report/",
+         "pubDate" : "Thu, 06 Oct 2022 08:19:34 +0000",
+         "title" : "European Chess Club Cup 2022 - Round 3 report"
+      },
+      {
          "description" : "2022 U.S. CHESS &#38; WOMEN&#x2019;S CHESS CHAMPIONSHIP OPENING CEREMONY AND DAY 1 RECAP by NM Vanessa West America&#x2019;s strongest chess players enter to find fish swimming through a giant mechanical clock. Sharks loom above grandmasters. Chess celebrities are photographed before colossal projections of octopuses and jellyfish. Where are we? The opening ceremony for the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -130,19 +186,11 @@ news_feed (
          "title" : "Hans Niemann goes through strict anti-cheating control at the US Chess Championship"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Wed, 05 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
-      },
-      {
          "description" : "GM Hikaru Nakamura won his third straight Titled Tuesday on October 4 with the rare score of 10.5/11, then nearly swept the event for the second straight week with a second-place finish in the late event. Instead, it was won by GM Matthias Bluebau...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-bluebaum-win-titled-tuesday-october-4-2022",
-         "pubDate" : "Wed, 05 Oct 2022 08:03:13 -0700",
+         "pubDate" : "Wed, 05 Oct 2022 08:03:00 -0700",
          "title" : "Nakamura's Tuesday Dominance Continues"
       },
       {
@@ -210,28 +258,12 @@ news_feed (
          "title" : "\"The report speaks for itself\" #TweetOftheDay"
       },
       {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-noel-studer-its-insane-that-chess-com-knew-hans-likely-cheated-over-100-times-and-would-have-let-him-play-in-cgc/",
-         "pubDate" : "Wed, 05 Oct 2022 11:12:18 +0000",
-         "title" : "GM Noel Studer: It's insane that chess.com knew Hans likely cheated over 100 times and would have let him play in CGC"
-      },
-      {
          "description" : " <p class=\"lead\">A 72 page report by chesscom, initially revealed by <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524\">The Wall Street Journal</a>, showed that Hans Niemann has \"likely cheated\" more than 100 times online, but there is still a lack of concrete statistical evidence that he cheated in his game with Magnus at the Sinquefield Cup 2022 or in any other over-the-board game. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-cheating-chess-chesscom-report-investigation.jpeg\" width=\"1200\" height=\"675\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> After Ha",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/hans-niemann-is-likely-over-after-new-cheating-evidence/",
          "pubDate" : "Wed, 05 Oct 2022 10:45:25 +0000",
          "title" : "Hans Niemann is \"likely\" over after new cheating evidence"
-      },
-      {
-         "description" : "The&#xA0;US Women's Chess Championship 2022&#xA0;is going to take place October 4-14 in the Saint Louis Chess Club. It will feature 14 of the strongest US female chess player, including&#xA0;GM Irina Krush,&#xA0;IM Anna Zatonskih&#xA0;and&#xA0;FM Ashritha Eswaran. List of participants&#xA0;/&#xA0;Day 1 live video coverage Live games with analysis will be daily on Chessdom.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-womens-chess-championship-2022-live/",
-         "pubDate" : "Wed, 05 Oct 2022 10:27:42 +0000",
-         "title" : "US Women's Chess Championship 2022 - LIVE"
       },
       {
          "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
@@ -378,6 +410,14 @@ news_feed (
          "title" : "A Comedy of Errors"
       },
       {
+         "description" : "Chess.com is excited to announce the launch of our newest app, &#34;Checkmate Or Die!&#34; In this game, only two things can happen: you either checkmate the zombies or they eat you! Quickly solve all the mating puzzles that come your way to escape the wr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-checkmate-or-die-zombie-bots",
+         "pubDate" : "Tue, 04 Oct 2022 00:45:00 -0700",
+         "title" : "Chess.com Releases New App And Bots: Checkmate Or Die"
+      },
+      {
          "description" : "Last week we presented you with a second set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particluarly easy to follow. You do not have to be a champion player or problem expert to follow.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d2",
          "pubDate" : "Mon, 03 Oct 2022 20:14:00 -0700",
          "title" : "Nakamura Neutralizes Dominguez, Andreikin Upsets Caruana"
-      },
-      {
-         "description" : "Chess.com is excited to announce the launch of our newest app, &#34;Checkmate Or Die!&#34; In this game, only two things can happen: you either checkmate the zombies or they eat you! Quickly solve all the mating puzzles that come your way to escape the wr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-checkmate-or-die-zombie-bots",
-         "pubDate" : "Mon, 03 Oct 2022 12:03:00 -0700",
-         "title" : "Chess.com Releases New App And Bots: Checkmate Or Die"
       },
       {
          "description" : "Each of the ten European mini-states which make up the European Small Nations Association sent one player to this single round-robin tournament with a classical time control. The event took place in Vaduz, the capital of Liechtenstein, and ended Saturday. The winner of the tournament was GM Lance Henderson de la Fuente, from Andorra, who obtained an 8/9 score. The matter was only decided in the last round, when Henderson defeated Luitjen Akselsson Apol from the Faroe Islands. | Photos: European Chess Union",
@@ -1568,14 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1999",
          "pubDate" : "Fri, 23 Sep 2022 17:21:03 +0000",
          "title" : "FIDE Statement on the Carlsen - Niemann polemic "
-      },
-      {
-         "description" : "In a statement released on Friday about the alleged cheating scandal, FIDE President Arkady Dvorkovich has criticized GM Magnus Carlsen for withdrawing from the Sinquefield Cup and resigning after two moves vs. GM Hans Niemann in the Julius Baer G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dvorkovich-fide-statement-carlsen-niemann",
-         "pubDate" : "Fri, 23 Sep 2022 10:11:00 -0700",
-         "title" : "Dvorkovich Criticizes Carlsen, Tasks Fair Play Committee To Investigate"
       },
       {
          "description" : "",
