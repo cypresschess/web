@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Thu, 06 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "The last time Alexei Shirov chose the Moscow Variation in the Semi Slav, Jorden van Foreest was just 13 years old. This June - and thus ten years later - the two players met for a mini-match over four classical games. The veteran, who had played the Botwinnik Variation over all these years, came up with a surprise and resorted to the Moscow Variation for the first time against the top player from the Netherlands. In the new ChessBase Magazine Extra #209 Shirov reviews this game in a 50-minute video. You can watch an excerpt here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surprise-succeeded",
+         "pubDate" : "Thu, 06 Oct 2022 19:00:00 +0100",
+         "title" : "Surprise succeeded!"
+      },
+      {
          "description" : "If you ever asked yourself what Svitlana's favourite \"Smart Moves\" theme is, we have a clear answer - fantastic, unexpected moves. And you can try to guess them in this video. In our 50th show, Svitlana has surprising examples from real games with Le Quang Liem, Pavel Eljanov, Jonathan Levitt, Mikhail Tal, and Arshak Petrosian (No, not the world champion Petrosian). Many of you might know the famous games already, but for those who don't know them, you are in for a treat.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-guess-the-surprising-unexpected-monster-move",
          "pubDate" : "Thu, 06 Oct 2022 18:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Guess the surprising, unexpected smart move!"
+      },
+      {
+         "description" : "Today India won the fourth round by huge margin (3.5 - 0.5 point) against Uzbekistan-2 in the ongoing World Youth Olympiad being held at Nakhchivan,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-under-16-youth-olympiad-2022/",
+         "pubDate" : "Thu, 06 Oct 2022 16:46:17 +0000",
+         "title" : "World Under 16 Youth Olympiad-2022:Report"
+      },
+      {
+         "description" : "1st Bikaner Open International Grandmasters' Chess Tournament 2022 (Category B) organized by the RAJASTHAN CHESS ASSOCIATION was concluded on 5th Oct 2022, at the Banquet",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/jaganathan-brothers-lifted-first-two-prizes-of-bikaner-gm-category-b-while-sanskruti-and-polturi-create-waves/",
+         "pubDate" : "Thu, 06 Oct 2022 16:30:31 +0000",
+         "title" : "Jaganathan Brothers lifted first two prizes of Bikaner GM Category B while Sanskruti and Polturi create waves"
       },
       {
          "description" : "20 years ago, on 4 October 2002, a very special duel began in Manama, in the Kingdom of Bahrain. The reigning World Champion Vladimir Kramnik played against a PC chess programme - Deep Fritz. Dagobert Kohlmeyer followed the match in Bahrain and shares memories of this remarkable event.",
@@ -1498,14 +1530,6 @@ news_feed (
          "title" : "Generation Cup Finals: Games and standings"
       },
       {
-         "description" : "Magnus Carlsen only needed three games to win the first set of the final match against Arjun Erigaisi at the Julius Baer Generation Cup. The world champion now only needs 2 out of 4 points in Sunday's second set to get a remarkable victory in one of his best showings at an online tournament ever.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d7",
-         "pubDate" : "Sun, 25 Sep 2022 14:45:00 +0100",
-         "title" : "Generation Cup Finals: Carlsen gets clear first-set win"
-      },
-      {
          "description" : " This example probably falls under the heading of \"Do as I do, not as I say\". I've always told young players to spend their time on understanding openings, rather than simply memorising moves. On the other hand, when I was young, I spent a lot of time memorising lines, especially lines which contained a number of traps. If White had followed my example, but not my advice, they may not have had their queen trapped so quickly. <br /> <b>White - Black</b><br />Street Chess, 24.09.2022 <script>new PgnViewer( { boardName: \"game1353\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nc6 6.Nxe4 Nd4 7.Qc3 dxe4 8.Be2 Bb4 9.Qc4 Be6 0-1', pauseBetweenMoves: 500, pieceSize:",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1552,14 +1576,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/generation-cup-final-1-magnus-far-from-satisfied-despite-win",
          "pubDate" : "Sat, 24 Sep 2022 22:31:44 +0000",
          "title" : "Generation Cup Final: Magnus \"far from satisfied\" despite win"
-      },
-      {
-         "description" : "Mikhail Botvinnik was the second of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-max-euwe-2",
-         "pubDate" : "Sat, 24 Sep 2022 15:55:00 +0100",
-         "title" : "Frederic's mates - How I met Mikhail Botvinnik"
       },
       {
          "description" : "",
@@ -2066,14 +2082,6 @@ news_feed (
          "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 1"
       },
       {
-         "description" : "All India Chess Federation congratulate Pranav Anand and Ilamparathi A R for becoming World Champions in Under-16 and Under-14 categories respectively. We are proud of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-pranav-anand-ilamparthi-a-r/",
-         "pubDate" : "Sat, 17 Sep 2022 04:23:19 +0000",
-         "title" : "Congratulations Pranav Anand & Ilamparthi A R"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94253874.cms\" />India's Pranav Anand and AR Ilamparthi emerged champions in the Open under-16 and under-14 categories respectively in the World Youth Chess Championship here on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2130,28 +2138,12 @@ news_feed (
          "title" : "Champions Showdown Chess 9LX: Day 2 Recap"
       },
       {
-         "description" : "All India Chess Federation congratulate Pranav Anand for completing all the requirements to become 76th Grandmaster of the country. We are proud of you!! &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-pranav-anand/",
-         "pubDate" : "Fri, 16 Sep 2022 05:36:18 +0000",
-         "title" : "Congratulations Pranav Anand!!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/1985",
          "pubDate" : "Thu, 15 Sep 2022 20:23:57 +0000",
          "title" : "FIDE World Cadet Chess Championships kick off in Batumi, Georgia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1984",
-         "pubDate" : "Thu, 15 Sep 2022 16:35:13 +0000",
-         "title" : "Second Intercontinental Online Chess Championship for Prisoners: Registration deadline approaches"
       }
    ]
 }
