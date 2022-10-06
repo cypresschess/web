@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "20 years ago, on 4 October 2002, a very special duel began in Manama, in the Kingdom of Bahrain. The reigning World Champion Vladimir Kramnik played against a PC chess programme - Deep Fritz. Dagobert Kohlmeyer followed the match in Bahrain and shares memories of this remarkable event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/20-years-ago-brains-in-bahrain-vladimir-kramnik-vs-deep-fritz",
+         "pubDate" : "Thu, 06 Oct 2022 16:00:00 +0100",
+         "title" : "20 years ago: \"Brains in Bahrain\", Vladimir Kramnik vs Deep Fritz"
+      },
+      {
+         "description" : "\"This game is a message\" said Hans Niemann after beating 15-year-old Christopher Yoo in Round 1 of the 2022 US Championship. He refused to analyse and left the interview in under a minute, commenting, \"it was a such a beautiful game I don't even need to describe it\". Sam Sevian was the only other player to win in the Open section, while four of the seven games were decisive in the Women's section.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-1-hans-niemann-defies-his-critics",
+         "pubDate" : "Thu, 06 Oct 2022 14:18:24 +0000",
+         "title" : "US Chess Champs 1: Hans Niemann defies his critics"
+      },
+      {
+         "description" : "The&#160;US Chess Championship 2022&#160;commenced yesterday in Saint Louis and takes place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Defending US Chess Champion Wesley []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-vs-christopher-yoo-us-chess-championship-2022-round-2-live/",
+         "pubDate" : "Thu, 06 Oct 2022 13:54:47 +0000",
+         "title" : "Wesley So vs Christopher Yoo, US Chess Championship 2022 Round 2 LIVE"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;commenced yesterday in Saint Louis and takes place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Samuel Sevian won his round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandr-lenderman-vs-samuel-sevian-us-chess-championship-2022-round-2-live/",
+         "pubDate" : "Thu, 06 Oct 2022 13:49:35 +0000",
+         "title" : "Aleksandr Lenderman vs Samuel Sevian, US Chess Championship 2022 Round 2 LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen sacrificed 3 pawns to beat Alexander Naumann in Round 2 of the European Club Cup, while in Round 3 we saw the top teams facing tough opposition for the first time. Maxime Vachier-Lagrave and his team were both on the edge of disaster before escaping with a draw. Round 4 will see major clashes, including Anand-Mamedyarov and Carlsen-Harikrishna.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/euro-club-cup-2-3-magnus-masterpiece",
+         "pubDate" : "Thu, 06 Oct 2022 13:31:56 +0000",
+         "title" : "Euro Club Cup 2-3: Magnus masterpiece"
+      },
+      {
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the topic of cheating in chess is&#160;the top news in mass medias&#160;ever since.&#160;As Norwegian government broadcasting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/president-of-the-norwegian-chess-federation-admits-he-cheated-on-chess-com/",
+         "pubDate" : "Thu, 06 Oct 2022 13:09:05 +0000",
+         "title" : "President of the Norwegian Chess Federation admits he cheated on chess.com"
+      },
+      {
+         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
+         "pubDate" : "Thu, 06 Oct 2022 13:50:00 +0100",
+         "title" : "European Club Cup - Live"
+      },
+      {
+         "description" : " The 2022 edition of the European Club Cup has attracted plenty of media attention, due in part to the participation of World Champion Magnus Carlsen and FIDE Deputy President Vishwanathan Anand. This year sees over 70 teams taking part in the Open and Women's section, in part due to the rule that each federation can send up to 5 teams. While this has increased the number of teams taking part, it has also seen a few Australian players sneak in as well. The Celtic Tigers team has both Fedja Zulfic and Chris Skulte playing for them, with the team scoring 1 win and 2 losses after 3 rounds. Round 2 saw Zulfic draw against his higher rated opponent, in a very combative game. <br /> <b>Zulfic,Fedj",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/2022-european-club-cup.html",
+         "pubDate" : "Thu, 06 Oct 2022 12:29:00 +0000",
+         "title" : "2022 European Club Cup"
+      },
+      {
+         "description" : "The US Chess Championship 2022 commenced yesterday in Saint Louis and takes place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-jeffery-xiong-us-chess-championship-2022-round-2-live/",
+         "pubDate" : "Thu, 06 Oct 2022 12:25:19 +0000",
+         "title" : "Hans Niemann vs Jeffery Xiong, US Chess Championship 2022 Round 2 LIVE"
+      },
+      {
+         "description" : "Three rounds have been already played at the 37th European Chess Club Cup and the 26th European Women&#x2019;s Club Cup in Mayrhofen, Austria with six teams in the Open section and two teams in the Women&#x2019;s section emerging on the top with the perfect score of 6 match points. With no major upsets, most of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-round-3-report/",
+         "pubDate" : "Thu, 06 Oct 2022 12:15:25 +0000",
+         "title" : "European Chess Club Cup 2022 - Round 3 report"
+      },
+      {
          "description" : "Hans Niemann and Sam Sevian kicked off the U.S. Championship with wins, as they defeated Christopher Yoo and Elshan Moradiabadi in the first round of the 14-player event. True to his style, Niemann was laconic in the post-game interview, noting that \"chess spoke for itself\" and that the game was so beautiful he did not even need to describe it. In the women's event, four players scored full points, including Alice Lee, who is playing her first national championship. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,28 +258,12 @@ news_feed (
          "title" : "Giri, Duda Shut Down Dark Horses, Earn Seats In Toronto Finals"
       },
       {
-         "description" : "The US Chess Championship 2022 commenced today in Saint Louis. Fourteen of the strongest chess players in America battle for the national title and $60,000 in a classical round-robin event, including&#xA0;Fabiano Caruana,&#xA0;Levon Aronian, Wesley So&#xA0;and&#xA0;Hans Niemann&#xA0;who has been in the limelight for the last couple of weeks. Hans Niemann is playing against 15-year-old Christopher Yoo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-goes-through-strict-anti-cheating-control-at-the-us-chess-championship/",
-         "pubDate" : "Wed, 05 Oct 2022 19:31:43 +0000",
-         "title" : "Hans Niemann goes through strict anti-cheating control at the US Chess Championship"
-      },
-      {
          "description" : "GM Hikaru Nakamura won his third straight Titled Tuesday on October 4 with the rare score of 10.5/11, then nearly swept the event for the second straight week with a second-place finish in the late event. Instead, it was won by GM Matthias Bluebau...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-bluebaum-win-titled-tuesday-october-4-2022",
          "pubDate" : "Wed, 05 Oct 2022 08:03:00 -0700",
          "title" : "Nakamura's Tuesday Dominance Continues"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since. Two weeks later, Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/emil-sutovsky-magnus-didnt-follow-fides-procedures-and-may-face-some-consequences/",
-         "pubDate" : "Wed, 05 Oct 2022 15:00:55 +0000",
-         "title" : "Emil Sutovsky: Magnus didn't follow FIDE's procedures and may face some consequences"
       },
       {
          "description" : "Hans Niemann is accused of cheating in over 100 games at Chess.com in a 72-page report released by the company. They point to cheating in several more prize-money events than the one he admitted to as a 12-year-old, as well as in informal matches against top players. Despite highlighting \"a lack of concrete statistical evidence that he cheated in his game with Magnus or in any other over-the-board games\" Chess.com nevertheless outline \"apparent anomalies\" in Niemann's late rise to the top.",
@@ -226,36 +290,12 @@ news_feed (
          "title" : "Improve your tactics!"
       },
       {
-         "description" : "The 2022 US Chess Championship commences today in Saint Louis and will be played from 5-20 October. 14 of the strongest chess players in America will compete over the course of 13 rounds for the US Chess Champion title, including&#xA0;Fabiano Caruana,&#xA0;Levon Aronian,&#xA0;Wesley So&#xA0;and&#xA0;Hans Niemann&#xA0;who has been in the limelight for the last couple of weeks. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/christopher-yoo-vs-hans-niemann-us-chess-championship-2022-r1-live/",
-         "pubDate" : "Wed, 05 Oct 2022 12:46:15 +0000",
-         "title" : "Christopher Yoo vs Hans Niemann, US Chess Championship 2022 R1 LIVE"
-      },
-      {
          "description" : "GM Magnus Carlsen won a lovely game in the second round of the European Club Cup in Austria, sacrificing two pawns in the endgame in return for a strong attack. He won&#39;t play in Wednesday&#39;s third round, but GM Viswanathan Anand will be back at the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-day-2",
          "pubDate" : "Wed, 05 Oct 2022 05:36:00 -0700",
          "title" : "Carlsen Sacs 2 Pawns, Scores Pretty Win"
-      },
-      {
-         "description" : "The&#xA0;2022 US Chess Championship&#xA0;commences today in Saint Louis and will be played from 5-20 October. 14 of the strongest chess players in America will compete over the course of 13 rounds for the US Chess Champion title, including&#xA0;Fabiano Caruana,&#xA0;Levon Aronian,&#xA0;Wesley So&#xA0;and&#xA0;Hans Niemann&#xA0;who has been in the limelight for the last couple of weeks. US Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-vs-leinier-dominguez-us-chess-championship-2022-r1-live/",
-         "pubDate" : "Wed, 05 Oct 2022 11:47:00 +0000",
-         "title" : "Fabiano Caruana vs Leinier Dominguez, US Chess Championship 2022 R1 LIVE"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-report-speaks-for-itself-tweetoftheday/",
-         "pubDate" : "Wed, 05 Oct 2022 11:43:26 +0000",
-         "title" : "\"The report speaks for itself\" #TweetOftheDay"
       },
       {
          "description" : " <p class=\"lead\">A 72 page report by chesscom, initially revealed by <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524\">The Wall Street Journal</a>, showed that Hans Niemann has \"likely cheated\" more than 100 times online, but there is still a lack of concrete statistical evidence that he cheated in his game with Magnus at the Sinquefield Cup 2022 or in any other over-the-board game. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-cheating-chess-chesscom-report-investigation.jpeg\" width=\"1200\" height=\"675\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> After Ha",
@@ -1546,14 +1586,6 @@ news_feed (
          "title" : "Carlsen, Erigaisi To Play In Generation Cup Final"
       },
       {
-         "description" : "Magnus Carlsen and Arjun Erigaisi moved on to the final of the Julius Baer Generation Cup after beating Vincent Keymer and Le Quang Liem, respectively. The match between Arjun and Le went to tiebreaks, while Carlsen got a 3-1 victory over Keymer. A 2-set match will decide the winner of the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d6",
-         "pubDate" : "Sat, 24 Sep 2022 08:50:00 +0100",
-         "title" : "Generation Cup: Carlsen and Arjun reach the final"
-      },
-      {
          "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 starts tomorrow and will take place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in the 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1608,14 +1640,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2000",
          "pubDate" : "Fri, 23 Sep 2022 16:43:33 +0000",
          "title" : "FIDE WGP Astana: Kashlinskaya and Lagno close the gap"
-      },
-      {
-         "description" : "In his Power Play Show, Daniel King looks at a couple of recent games featuring brilliant attacks - simply stunning. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautiful-kingside-attacks",
-         "pubDate" : "Fri, 23 Sep 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Beautiful kingside attacks"
       },
       {
          "description" : "This post could have been the next in the 'under the weather' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2021/11/not-under-weather-channel.html\">Not the 'Under the Weather' Channel</A>(November 2021), but I've found that keeping busy is a good medicine for a bad cold. That and lots of sleep. <P>Instead I'll continue the 'Fischer Friday' series, seen last week in <A HREF=\"http://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html\">FS 1972 + 20 = FS 1992</A>(September 2022). In that post I wrote, <BLOCKQUOTE>I don't have much in my photo archive about the 1992 [Fischer - Spassky] match. The following composite image shows the wirephotos that I found. These are b",
@@ -1874,14 +1898,6 @@ news_feed (
          "title" : "Julius Baer Cup: Arjun Erigaisi on top, R Praggnanandhaa in 2nd spot"
       },
       {
-         "description" : "Magnus Carlsen resigned after 1 move against Hans Niemann in Round 6 of the Julius Baer Generation Cup, ensuring the rest of the day's chess was a mere footnote to that drama. Magnus beat Levon Aronian and survived a scare against Praggnanandhaa to join the young Indian in second place, while a 5-game winning streak took Arjun Erigaisi into the sole lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jb-generation-cup-2-carlsen-resigns-after-1-move-erigaisi-leads",
-         "pubDate" : "Tue, 20 Sep 2022 04:20:57 +0000",
-         "title" : "Generation Cup 2: Carlsen resigns after 1 move, Erigaisi leads"
-      },
-      {
          "description" : " <p class=\"lead\">The Niemann-Carlsen game at the Julius Baer Generation Cup was the most anticipated one after the recent chess cheating scandal, but the World Champion chose to resign on move 2, log off, and leave everyone speechless and confused. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> It comes without saying that after <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Carlsen's withdrawal</a> from the Sinquefield Cup 2022, and the <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-a",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2022",
          "pubDate" : "Mon, 19 Sep 2022 12:35:00 +0400",
          "title" : "Julius Baer Generation Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "Magnus Carlsen burst out of the blocks to take a 1pt lead on the opening day of the Julius Baer Generation Cup, the star-studded seventh leg of the $1.6 million Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-grabs-sole-lead-in-julius-baer-generation-cup",
-         "pubDate" : "Sun, 18 Sep 2022 21:04:52 +0000",
-         "title" : "Carlsen grabs sole lead in Julius Baer Generation Cup"
       },
       {
          "description" : "",
@@ -2136,14 +2144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1984",
          "pubDate" : "Thu, 15 Sep 2022 16:35:13 +0000",
          "title" : "Second Intercontinental Online Chess Championship for Prisoners: Registration deadline approaches"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1983",
-         "pubDate" : "Thu, 15 Sep 2022 13:52:35 +0000",
-         "title" : "FIDE World Junior Championship: Deadline extended"
       }
    ]
 }
