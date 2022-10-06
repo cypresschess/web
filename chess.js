@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Novy Bor Chess Club grabbed the sole lead at the open section of the European Club Cup after taking down Offerspill in Thursday's fourth round. Wins by Vidit and Markus Ragger more than made up for Harikrishna's loss on board 1 against Magnus Carlsen. In the women's event, co-leaders Superbet and Pamhagen drew their direct encounter to remain atop the standings. | Photos: Fiona Steil-Antoni",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r4",
+         "pubDate" : "Thu, 06 Oct 2022 22:35:00 +0100",
+         "title" : "European Club Cup: Novy Bor beats Offerspill, grabs the lead"
+      },
+      {
          "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.chessdom.com/president-of-the-norwegian-chess-federation-admits-he-cheated-on-chess-com/",
          "pubDate" : "Thu, 06 Oct 2022 13:09:05 +0000",
          "title" : "President of the Norwegian Chess Federation admits he cheated on chess.com"
-      },
-      {
-         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
-         "pubDate" : "Thu, 06 Oct 2022 13:50:00 +0100",
-         "title" : "European Club Cup - Live"
       },
       {
          "description" : " The 2022 edition of the European Club Cup has attracted plenty of media attention, due in part to the participation of World Champion Magnus Carlsen and FIDE Deputy President Vishwanathan Anand. This year sees over 70 teams taking part in the Open and Women's section, in part due to the rule that each federation can send up to 5 teams. While this has increased the number of teams taking part, it has also seen a few Australian players sneak in as well. The Celtic Tigers team has both Fedja Zulfic and Chris Skulte playing for them, with the team scoring 1 win and 2 losses after 3 rounds. Round 2 saw Zulfic draw against his higher rated opponent, in a very combative game. <br /> <b>Zulfic,Fedj",
