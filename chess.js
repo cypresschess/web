@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three rounds, six teams in the open section of the European Club Cup have won all their matches in Mayrhofen. The top scorers on individual boards are Silla Valencia (Korobov, Santos), Offerspill (Carlsen, Tari) and Viernheim (Kryvoruchko, Korobov). In the women's event, Superbet (Bulmaga, Saduakassova) and Pamhagen (Danielian, Ushenina) have collected 6 match points in the first three rounds. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r3",
+         "pubDate" : "Thu, 06 Oct 2022 03:05:00 +0100",
+         "title" : "European Club Cup: Six teams still perfect in the open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Eswaran in Round 1 of the 2022 U.S. Women's Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-didn%E2%80%99t-expect-beat-ashritha-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CZTRqJrDB64.jpg?itok=rvbqTy4P\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-didn%E2%80%99t-expect-beat-ashritha-round-1",
+         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
+         "title" : "Alice Lee: Didn't Expect to Beat Ashritha | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after defeating Morris-Suzuki in Round 1 of the 2022 U.S. Women's Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-sophie-win-good-start-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6Ckyr9YYxx0.jpg?itok=2EEo3-Es\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-sophie-win-good-start-round-1",
+         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
+         "title" : "Begim: Sophie Win is a Good Start | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Christopher Yoo in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-not-going-back-down-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kRtpIk-BkZE.jpg?itok=rtRM0-Rs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-not-going-back-down-round-1",
+         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
+         "title" : "Niemann: Not Going to Back Down | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team recalls the opening ceremony, drawing of lots, and the inductions into the World &amp; U.S. Chess Halls of Fame the day before play began, at the St. Louis Aquarium at Union Station. This aired during Round 1. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-opening-ceremony-reel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-reel",
+         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
+         "title" : "2022 U.S. Chess Championships: Opening Ceremony Reel"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Cristian Chirila after defeating Moradiabadi in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-two-more-rounds-favor-me-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nHwh8q6p7uM.jpg?itok=i4pLjQBB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-two-more-rounds-favor-me-round-1",
+         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
+         "title" : "Sevian: Two More Rounds Favor Me | Round 1"
+      },
+      {
          "description" : "The 2022 US Chess Championship kicked off today in Saint Louis and the defending champion Wesley So drew his first game against Awonder Liang. Wesley was not satisfied with the result despite the fact he had black pieces. In the post-game interview, Wesley disclosed why he needed almost two minutes to make the first move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,14 +130,6 @@ news_feed (
          "title" : "U.S. Championships - Live"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.05<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-1-lichessorg",
-         "pubDate" : "Wed, 05 Oct 2022 18:52:02 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 1 | lichess.org"
-      },
-      {
          "description" : "GM Hikaru Nakamura won his third straight Titled Tuesday on October 4 with the rare score of 10.5/11, then nearly swept the event for the second straight week with a second-place finish in the late event. Instead, it was won by GM Matthias Bluebau...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/improve-your-tactics",
          "pubDate" : "Wed, 05 Oct 2022 14:11:52 +0100",
          "title" : "Improve your tactics!"
-      },
-      {
-         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
-         "pubDate" : "Wed, 05 Oct 2022 13:50:00 +0100",
-         "title" : "European Club Cup - Live"
       },
       {
          "description" : "The 2022 US Chess Championship commences today in Saint Louis and will be played from 5-20 October. 14 of the strongest chess players in America will compete over the course of 13 rounds for the US Chess Champion title, including&#xA0;Fabiano Caruana,&#xA0;Levon Aronian,&#xA0;Wesley So&#xA0;and&#xA0;Hans Niemann&#xA0;who has been in the limelight for the last couple of weeks. []",
@@ -218,20 +250,20 @@ news_feed (
          "title" : "ChessKid Celebrates National Chess Day, Free Week Of Premium Features"
       },
       {
+         "description" : "A few hours ago, the Wall Street Journal published a lengthy article sharing the findings emerging from an investigation conducted by chess.com. According to the piece, chess.com asserts that Hans Niemann \"likely received illegal assistance in more than 100 online games, as recently as 2020\", including in many tournaments with prize money on the line. Niemann did not respond to requests for comments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wall-street-journal-niemann-likely-cheated",
+         "pubDate" : "Wed, 05 Oct 2022 04:40:00 +0100",
+         "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
+      },
+      {
          "description" : "No major upsets were seen in round 2 of the European Club Cup in Mayrhofen, with the favourite teams mostly securing comfortable wins. Superbet's Vishy Anand was rested, while Offerspill's Magnus Carlsen played and beat Solingen's Alexander Naumann. In the women's event, the top two teams, Monte-Carlo (pictured) and Superbet, scored wins. Both teams will face difficult challenges in round 3, as they will play Pamhagen (third seeds) and Odlar Yurdu (fourth seeds) respectively. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r2",
          "pubDate" : "Wed, 05 Oct 2022 04:25:00 +0100",
          "title" : "European Club Cup: Key matchups ahead"
-      },
-      {
-         "description" : "A few hours ago, the Wall Street Journal published a lengthy article sharing the findings emerging from an investigation conducted by chess.com. According to the piece, chess.com asserts that Hans Niemann \"likely received illegal assistance in more than 100 online games, as recently as 2020\", including in many tournaments with prize money on the line. Niemann did not respond to requests for comments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wall-street-journal-niemann-likely-cheated",
-         "pubDate" : "Tue, 04 Oct 2022 23:40:00 +0100",
-         "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
       },
       {
          "description" : "",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html",
          "pubDate" : "Tue, 04 Oct 2022 15:53:00 +0000",
          "title" : "October 1972 & 1997 'On the Cover'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the St. Louis Aquarium at Union Station, Chess Club Executive Director Tony Rich hosts the opening ceremony of the 2022 U.S. &amp; U.S. Women's Championships. Plus, see the induction ceremonies for the World &amp; U.S. Chess Halls of Fame. The fields and inductees are listed below. Play begins Wednesday, October 5 at 12:50 P.M. CDT. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-lin",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-hof-inductions",
-         "pubDate" : "Tue, 04 Oct 2022 15:50:51 +0000",
-         "title" : "2022 U.S. Chess Championships: Opening Ceremony & HOF Inductions"
       },
       {
          "description" : "The cheating accusations against Hans Niemann continue to make waves. To check these accusations, a number of chess players have statistically analysed Niemann's games with the help of computer programmes. The latest research comes from the Brazilian streamer, programmer and data analyst \"Rafaelvleite\". He comes to the conclusion that Niemann's play \"after 2018 shows unexpected\" results \"not compatible with\" a rating of 2700. Here are excerpts from his article about his research.",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "Georgian Levan wins Chhattisgarh International Grandmaster C'ship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <strong>Wednesday, September 28, 2022 -</strong> Over more than a decade, we have worked tirelessly to fuel a resurgence of chess in America, to create a place for elite chess players to play at the highest levels for the greatest purses, and to democratize access to chess to all players, no matter age, race or skill set. It's been remarkable to see the widespread discussion around chess over the past several weeks, but it's important that we are clear on our position as it relates to cheating. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fair-play-saint-louis-chess-club",
-         "pubDate" : "Wed, 28 Sep 2022 14:38:57 +0000",
-         "title" : "Fair Play at the Saint Louis Chess Club "
-      },
-      {
          "description" : " <p class=\"lead\">At the Women's Grand Prix held in Astana, Kazakhstan, FIDE's official commentator Ilya Smirin made some \"completely unacceptable\" sexist remarks publicly but also privately as revealed by his co-commentator WIM Fiona Steil-Antoni. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ilya-smirin-fiona-Steil-Antoni-women-grand-prix-fide-sexism.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman / FIDE</div> </div> While the <a href=\"https://worldchess.com/news/all/i-am-not-willing-to-play-chess-with-niemann-carlsen-on-the-cheat/\">cheating scandal</a> is still ongoing, GM Ilya Smirin decided to shock the chess w",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1104,22 +1120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r9",
          "pubDate" : "Wed, 28 Sep 2022 02:30:00 +0100",
          "title" : "Astana GP: Lagno wins fourth game in a row, leads"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced-0",
-         "pubDate" : "Tue, 27 Sep 2022 21:06:34 +0000",
-         "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"><h3 dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-size: 12px;\">The Saint Louis Chess Club to Host Nation's Top Chess Talent Along with 2022 U.S. Chess Hall of Fame and 2021 World Chess Hall of Fame Inductions</span></h3> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced",
-         "pubDate" : "Tue, 27 Sep 2022 20:50:38 +0000",
-         "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
       },
       {
          "description" : "Congratulations to Shubhi Gupta and Charvi A for becoming World Champions in Under-12 and Under-8 Girls Categories at World Cadet Chess Championship at Batumi, Georgia",
