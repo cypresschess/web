@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the topic of cheating in chess is&#160;the top news in mass media&#160;ever since Hans Niemann confessed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/what-would-have-happened-if-niemann-had-not-defeated-carlsen-at-the-sinquefield-cup/",
+         "pubDate" : "Thu, 06 Oct 2022 22:03:16 +0000",
+         "title" : "What would have happened if Niemann had not defeated Carlsen at the Sinquefield Cup?"
+      },
+      {
          "description" : "The Novy Bor Chess Club grabbed the sole lead at the open section of the European Club Cup after taking down Offerspill in Thursday's fourth round. Wins by Vidit and Markus Ragger more than made up for Harikrishna's loss on board 1 against Magnus Carlsen. In the women's event, co-leaders Superbet and Pamhagen drew their direct encounter to remain atop the standings. | Photos: Fiona Steil-Antoni",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-announces-pro-chess-league-2023",
-         "pubDate" : "Thu, 06 Oct 2022 12:39:11 -0700",
+         "pubDate" : "Thu, 06 Oct 2022 12:39:00 -0700",
          "title" : "Chess.com Announces The Return Of The PRO Chess League In 2023"
       },
       {
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/sevian-two-more-rounds-favor-me-round-1",
          "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
          "title" : "Sevian: Two More Rounds Favor Me | Round 1"
-      },
-      {
-         "description" : "The 2022 US Chess Championship kicked off today in Saint Louis and the defending champion Wesley So drew his first game against Awonder Liang. Wesley was not satisfied with the result despite the fact he had black pieces. In the post-game interview, Wesley disclosed why he needed almost two minutes to make the first move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-after-the-us-chess-championship-round-1-i-should-have-played-another-opening/",
-         "pubDate" : "Wed, 05 Oct 2022 23:16:17 +0000",
-         "title" : "Wesley So after the US Chess Championship Round 1: I should have played another opening"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.06<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
