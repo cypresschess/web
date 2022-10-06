@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "2022 U.S. CHESS &#38; WOMEN&#x2019;S CHESS CHAMPIONSHIP OPENING CEREMONY AND DAY 1 RECAP by NM Vanessa West America&#x2019;s strongest chess players enter to find fish swimming through a giant mechanical clock. Sharks loom above grandmasters. Chess celebrities are photographed before colossal projections of octopuses and jellyfish. Where are we? The opening ceremony for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-and-samuel-sevian-take-early-lead-in-the-us-chess-championship/",
+         "pubDate" : "Thu, 06 Oct 2022 07:03:04 +0000",
+         "title" : "Hans Niemann and Samuel Sevian take early lead in the US Chess Championship"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.07<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/us-womens-chess-championship-2022-live/",
          "pubDate" : "Wed, 05 Oct 2022 10:27:42 +0000",
          "title" : "US Women's Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;opened yesterday in Saint Louis. The events are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club, and the first round starts today at 13:00 CDT. The opening ceremony of the event was in the live broadcast and you can find it&#xA0;here. Fourteen of the country&#x2019;s strongest []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-1-live/",
-         "pubDate" : "Wed, 05 Oct 2022 10:13:09 +0000",
-         "title" : "US Chess Championship 2022 - Day 1 live"
       },
       {
          "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
