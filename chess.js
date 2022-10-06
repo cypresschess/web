@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
+         "pubDate" : "Thu, 6 Oct 2022 18:14:54 -0500",
+         "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
+      },
+      {
+         "description" : "Ivan Sokolov, the coach of the Olympiad gold medalists and author of Winning chess middlegames, shares his opinion on cheating in chess in view of the ongoing Hans Niemann Magnus Carlsen case (scroll down for full timeline of events) Ivan Sokolov comments, &#8220;Cheating in chess discussions Many claim cheating online is not as bad []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ivan-sokolov-cheating-in-chess-online-is-as-bad-as-cheating-otb/",
+         "pubDate" : "Thu, 06 Oct 2022 22:43:46 +0000",
+         "title" : "Ivan Sokolov: cheating in chess online is as bad as cheating OTB"
+      },
+      {
+         "description" : "Vladislav Artemiev is the winner of Chess Stars 2022. Artemiev collected 18,5 points 12 from the blitz games and 6,5 from the rapid to claim the gold medal in the event. In his first official event after the FIDE ban expired, Sergey Karjakin secured the second place with 17 points 12 from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/artemiev-wins-chess-stars-ahead-of-karjakin-and-radjabov/",
+         "pubDate" : "Thu, 06 Oct 2022 22:36:32 +0000",
+         "title" : "Artemiev wins Chess Stars, ahead of Karjakin and Radjabov"
+      },
+      {
          "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the topic of cheating in chess is&#160;the top news in mass media&#160;ever since Hans Niemann confessed []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,20 +34,36 @@ news_feed (
          "title" : "What would have happened if Niemann had not defeated Carlsen at the Sinquefield Cup?"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Inductee Eugene Torre talks to Yasser Seirawan during Round 2 of the 2022 U.S. Chess Championships. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eugene-torre-wesley-so-still-pride-philippines-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5ipCqNeGb2M.jpg?itok=t8-SeUSd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/eugene-torre-wesley-so-still-pride-philippines-round-2",
+         "pubDate" : "Thu, 06 Oct 2022 21:52:44 +0000",
+         "title" : "Eugene Torre: Wesley So Still Pride of Philippines | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Cristian Chirila after a draw with Lenderman in Round 2 of the 2022 U.S. Chess Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-had-play-solid-lenderman-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yK0JP62ykO4.jpg?itok=_fKVGPqh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-had-play-solid-lenderman-round-2",
+         "pubDate" : "Thu, 06 Oct 2022 21:52:44 +0000",
+         "title" : "Sevian: Had to Play Solid with Lenderman | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after a draw with Zatonskih in Round 2 of the 2022 U.S. Women's Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-shaky-game-happy-draw-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a7LKi1c-Fxw.jpg?itok=WYF96oQC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tatev-shaky-game-happy-draw-round-2",
+         "pubDate" : "Thu, 06 Oct 2022 21:52:44 +0000",
+         "title" : "Tatev: Shaky Game; Happy with Draw | Round 2"
+      },
+      {
          "description" : "The Novy Bor Chess Club grabbed the sole lead at the open section of the European Club Cup after taking down Offerspill in Thursday's fourth round. Wins by Vidit and Markus Ragger more than made up for Harikrishna's loss on board 1 against Magnus Carlsen. In the women's event, co-leaders Superbet and Pamhagen drew their direct encounter to remain atop the standings. | Photos: Fiona Steil-Antoni",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r4",
          "pubDate" : "Thu, 06 Oct 2022 22:35:00 +0100",
          "title" : "European Club Cup: Novy Bor beats Offerspill, grabs the lead"
-      },
-      {
-         "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
-         "pubDate" : "Thu, 6 Oct 2022 15:30:18 -0500",
-         "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
       },
       {
          "description" : "The wait is over: Chess.com is happy to announce that the PRO Chess League is returning in 2023! The Professional Rapid Online League is the world&#39;s premier online chess league for professional players. The 2023 season starts on February 1, with t...",
@@ -194,28 +234,12 @@ news_feed (
          "title" : "Niemann: 'This Game Is A Message To Everyone'"
       },
       {
-         "description" : "The US Chess Championship 2022 started yesterday in Saint Louis Chess Club featuring 14 of the strongest America's grandmasters and 14 of the strongest America's female chess players. Fabiano Caruana, Wesley So and Levon Aronian headline the Open section field, which includes 19-year-old Hans Niemann who has been in the limelight for the last couple []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tony-rich-we-have-to-assume-hans-niemann-is-innocent-until-he-is-proven-guilty/",
-         "pubDate" : "Thu, 06 Oct 2022 08:20:34 +0000",
-         "title" : "Tony Rich: We have to assume Hans Niemann is innocent until he is proven guilty"
-      },
-      {
          "description" : "Three rounds have been already played at the 37th European Chess Club Cup and the 26th European Women's Club Cup in Mayrhofen, Austria with six teams in the Open section and two teams in the Women's section emerging on the top with the perfect score of 6 match points. With no major upsets, most of the favorites scored&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-round-3-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-chess-club-cup-2022-round-3-report/",
          "pubDate" : "Thu, 06 Oct 2022 08:19:34 +0000",
          "title" : "European Chess Club Cup 2022 - Round 3 report"
-      },
-      {
-         "description" : "2022 U.S. CHESS &#38; WOMEN&#x2019;S CHESS CHAMPIONSHIP OPENING CEREMONY AND DAY 1 RECAP by NM Vanessa West America&#x2019;s strongest chess players enter to find fish swimming through a giant mechanical clock. Sharks loom above grandmasters. Chess celebrities are photographed before colossal projections of octopuses and jellyfish. Where are we? The opening ceremony for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-and-samuel-sevian-take-early-lead-in-the-us-chess-championship/",
-         "pubDate" : "Thu, 06 Oct 2022 07:03:04 +0000",
-         "title" : "Hans Niemann and Samuel Sevian take early lead in the US Chess Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.07<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
@@ -280,30 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-2-lichessorg",
          "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
          "title" : "2022 U.S. Chess Championships: Round 2 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich talks to Cristian Chirila during Round 1 of the 2022 U.S. Chess Championships. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tony-rich-niemann%E2%80%99s-otb-innocence-must-be-assumed-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-X0PNlbnk5E.jpg?itok=FilRtHmV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tony-rich-niemann%E2%80%99s-otb-innocence-must-be-assumed-round-1",
-         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
-         "title" : "Tony Rich: Niemann's OTB Innocence Must be Assumed | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after a draw with Alex Lenderman in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-my-first-us-championship-%E2%80%9Cwonderful%E2%80%9D-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7lENkrJjFIs.jpg?itok=jZwewgO7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-my-first-us-championship-%E2%80%9Cwonderful%E2%80%9D-round-1",
-         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
-         "title" : "Aronian: My First U.S. Championship \"Wonderful\" | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Lenderman talks to Cristian Chirila after a draw with Aronian in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lenderman-regret-over-%E2%80%9Cpractical%E2%80%9D-draw-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HVRYpfboC7s.jpg?itok=pn2HmWBL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lenderman-regret-over-%E2%80%9Cpractical%E2%80%9D-draw-round-1",
-         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
-         "title" : "Lenderman: Regret over \"Practical\" Draw | Round 1"
       },
       {
          "description" : "GMs Anish Giri and&#38;nbsp;Jan-Krzysztof Duda overcame Pavel Ponkratov and Alexey Sarana, respectively, in the 2022 Chess.com Global Championship round of 16 on Wednesday, presented by Brave. The two matches featured pairings between players who, alt...",
