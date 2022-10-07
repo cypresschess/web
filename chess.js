@@ -10,6 +10,14 @@ news_feed (
          "title" : "U.S. Championships - Live"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.09<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-5-lichessorg",
+         "pubDate" : "Fri, 07 Oct 2022 18:53:41 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 5 | lichess.org"
+      },
+      {
          "description" : "Evgeni Vasiukov was considered one of the strongest players in the world, but never represented the Soviet team in the Olympiads. Remarkable was also, that he learned to play chess at the age of 15! Over decades, he won several tournaments from 1960 to 1991. In this time, he played some remarkable games with tough tactics. Lawrence found two jawbreakers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/sevian-had-play-solid-lenderman-round-2",
          "pubDate" : "Thu, 06 Oct 2022 21:52:44 +0000",
          "title" : "Sevian: Had to Play Solid with Lenderman | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after a draw with Zatonskih in Round 2 of the 2022 U.S. Women's Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-shaky-game-happy-draw-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a7LKi1c-Fxw.jpg?itok=WYF96oQC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-shaky-game-happy-draw-round-2",
-         "pubDate" : "Thu, 06 Oct 2022 21:52:44 +0000",
-         "title" : "Tatev: Shaky Game; Happy with Draw | Round 2"
       },
       {
          "description" : "The wait is over: Chess.com is happy to announce that the PRO Chess League is returning in 2023! The Professional Rapid Online League is the world&#39;s premier online chess league for professional players. The 2023 season starts on February 1, with t...",
