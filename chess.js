@@ -10,6 +10,14 @@ news_feed (
          "title" : "Ossip Bernstein (September 20, 1882 - November 30, 1962): The Last Star of Chess' Golden Age"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2027",
+         "pubDate" : "Fri, 07 Oct 2022 14:24:40 +0000",
+         "title" : "Teams from 46 countries to take part in 2nd Intercontinental Championship for Prisoners"
+      },
+      {
          "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
