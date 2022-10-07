@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Joachim Birger Nilsen (29) resigned as the president of the Norwegian Chess Federation, a day after admitting to cheating on Chess.com during one match in the 2016-2017 season of the PRO Chess League. Nilsen was part of the Norway Gnomes team, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norwegian-chess-federation-president-nilsen-cheating",
+         "pubDate" : "Fri, 07 Oct 2022 08:18:00 -0700",
+         "title" : "Norwegian Chess Federation President Resigns After Admitting To Cheating"
+      },
+      {
          "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1632,14 +1640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-final-day-1",
          "pubDate" : "Sun, 25 Sep 2022 01:05:00 -0700",
          "title" : "Carlsen Leads In Final vs. Erigaisi"
-      },
-      {
-         "description" : "An action-packed day that saw most of the favorites proceed through their round of 32 matchups took place on Saturday in the Chess.com Global Championship. GM Anish Giri was the standout and was able to win all three of his games with flair agains...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d4",
-         "pubDate" : "Sat, 24 Sep 2022 21:08:00 -0700",
-         "title" : "Favorites Advance; Abdusattorov, Kramnik Eliminated"
       },
       {
          "description" : "Magnus Carlsen was an accurate move or two away from making it 4 wins in a row against Arjun Erigaisi in the Julius Baer Generation Cup, but despite winning Day 1 of the final with a game to spare, the World Champion drew attention to \"some pretty bad moments\". Asked to give a positive, he replied, \"I'm winning, that's positive!\"",
