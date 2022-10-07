@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Fri, 07 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
          "description" : "Evgeni Vasiukov was considered one of the strongest players in the world, but never represented the Soviet team in the Olympiads. Remarkable was also, that he learned to play chess at the age of 15! Over decades, he won several tournaments from 1960 to 1991. In this time, he played some remarkable games with tough tactics. Lawrence found two jawbreakers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-indian-gm-arjun-erigaisi-goes-down-to-magnus-carlsen-in-final/articleshow/94445878.cms",
          "pubDate" : "Mon, 26 Sep 2022 05:11:52 +0000",
          "title" : "Julius Baer Cup: Indian GM Erigaisi goes down to Carlsen in final"
-      },
-      {
-         "description" : "Magnus Carlsen won the final match of the Julius Baer Generation Cup in the lowest possible number of games. The world champion beat Arjun Erigaisi 2&frac12;-&frac12; in the first set, and then scored back-to-back wins in the second set to secure tournament victory as quickly as it is allowed by the rules. Despite losing the match, Arjun gained a spot in the final major of the Champions Chess Tour season, set to take place in November in San Francisco.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-d8",
-         "pubDate" : "Mon, 26 Sep 2022 04:40:00 +0100",
-         "title" : "Magnus Carlsen rushes to Generation Cup victory"
       },
       {
          "description" : "Magnus Carlsen said he played \"anti-young-player chess\" to beat Arjun Erigaisi 2:0 on Day 2 of the Julius Baer Generation Cup final and win the tournament with two games to spare. Arjun never got a chance, but had a great run and has qualified for the final Tour event this year in San Francisco.",
