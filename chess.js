@@ -10,6 +10,14 @@ news_feed (
          "title" : "Trent's Tactics - The Moscow Master: Evgeni Vasiukov"
       },
       {
+         "description" : "15-year-old Christopher Yoo said he felt \"disrespected on every level\" by Hans Niemann and channeled that anger to beat reigning US Champion Wesley So with the black pieces in Round 2. There was also a comeback win for Elshan Moradiabadi, while in the women's event 12-year-old Alice Lee scored a second upset win in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-2-yoo-channels-hans-anger-to-beat-so",
+         "pubDate" : "Fri, 07 Oct 2022 16:52:26 +0000",
+         "title" : "US Chess Champs 2: Yoo channels Hans anger to beat So"
+      },
+      {
          "description" : "IM Joachim Birger Nilsen (29) resigned as the president of the Norwegian Chess Federation, a day after admitting to cheating on Chess.com during one match in the 2016-2017 season of the PRO Chess League. Nilsen was part of the Norway Gnomes team, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/battle-for-fair-play-has-few-takers-in-chess/articleshow/94364001.cms",
          "pubDate" : "Thu, 22 Sep 2022 03:23:21 +0000",
          "title" : "Battle for fair play has few takers in chess"
-      },
-      {
-         "description" : "Magnus Carlsen won all three games on the final day of the Julius Baer Generation Cup to finish a massive 9 points ahead of 2nd placed Arjun Erigaisi. Carlsen plays Levon Aronian next, but could still meet Hans Niemann in the final. We've also got Keymer-Pragg, Niemann-Le and Yoo-Erigaisi in the quarterfinals, while Anish Giri just missed out.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/generation-cup-4-carlsen-scores-record-win-talks-about-niemann",
-         "pubDate" : "Thu, 22 Sep 2022 01:35:52 +0000",
-         "title" : "Generation Cup 4: Carlsen breaks record, talks about Niemann"
       },
       {
          "description" : "",
