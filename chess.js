@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The controversial 19-year-old won his opening round at the US championship, then described the game as 'beautiful' Hans Niemann, the 19-year-old who has confessed to cheating in online games but denies any illegalities over the board, faces a crucial credibility test at St Louis on his US Championship debut. The organisers have beefed up security, with spectators barred, a new metal detector to frisk players and a 30-minute delay before the games are displayed to online viewers. Live <a href=\"https://uschesschamps.com/2022-us-championships/2022-us-championship\" title=\"\">online coverage</a> now starts at 7.30pm. <a href=\"https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credibility-test-in-st-louis-as-cheating-saga-continues",
+         "pubDate" : "Fri, 07 Oct 2022 07:00:52 +0000",
+         "title" : "Chess: Niemann faces credibility test in St Louis as cheating saga continues"
+      },
+      {
+         "description" : "The youngest players in each section, 12-year-old Alice Lee and 15-year-old Christopher Yoo, scored key upsets in Round 2 of the U.S. Chess &#38; U.S. Women&#x2019;s Chess Championships. Christopher Yoo defeated reigning champion GM Wesley So while Alice Lee defeated WGM Begim Tokhirjonova to reach 2-0.&#xA0; With chess growing so fast in the US, one []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alice-lee-and-christopher-yoo-young-chess-stars-shine-in-the-us-chess-championship/",
+         "pubDate" : "Fri, 07 Oct 2022 06:49:08 +0000",
+         "title" : "Alice Lee and Christopher Yoo - young chess stars shine in the US chess championship"
+      },
+      {
+         "description" : "The second day of the 2022 U.S. Chess Championships was a day of upsets as GM Christopher Yoo stunned 2021 champion GM Wesley So with the black pieces in a remarkably aggressive clash. Several results went the way of the underdogs in the women&#39;s e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-2",
+         "pubDate" : "Thu, 06 Oct 2022 20:53:00 -0700",
+         "title" : "Yoo Shocks U.S. Champion So With Black"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Dariusz Swiercz talks to Cristian Chirila after a draw with Shankland in Round 2 of the 2022 U.S. Chess Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/swiercz-overall-i-feel-good-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zY3wnb28PSU.jpg?itok=XNEdfvbr\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://www.chessdom.com/artemiev-wins-chess-stars-ahead-of-karjakin-and-radjabov/",
          "pubDate" : "Thu, 06 Oct 2022 22:36:32 +0000",
          "title" : "Artemiev wins Chess Stars, ahead of Karjakin and Radjabov"
+      },
+      {
+         "description" : "Chess is an unforgiving game. The slightest inaccuracy will often be punished, causing you to lose any advantage you have. Have you ever stopped to ask yourself, &#8220;what am I doing to allow my opponents to punish me?&#8221; Simply put, the mistakes you are making, or your chess crimes, are causing you to lose. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-crime-and-punishment-by-can-kabadayi/",
+         "pubDate" : "Thu, 06 Oct 2022 22:05:00 +0000",
+         "title" : "Chess Crime and Punishment by Can Kabadayi"
       },
       {
          "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the topic of cheating in chess is&#160;the top news in mass media&#160;ever since Hans Niemann confessed []",
@@ -232,22 +264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/2022-european-club-cup.html",
          "pubDate" : "Thu, 06 Oct 2022 12:29:00 +0000",
          "title" : "2022 European Club Cup"
-      },
-      {
-         "description" : "The US Chess Championship 2022 commenced yesterday in Saint Louis and takes place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Hans Niemann is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-jeffery-xiong-us-chess-championship-2022-round-2-live/",
-         "pubDate" : "Thu, 06 Oct 2022 12:25:19 +0000",
-         "title" : "Hans Niemann vs Jeffery Xiong, US Chess Championship 2022 Round 2 LIVE"
-      },
-      {
-         "description" : "Three rounds have been already played at the 37th European Chess Club Cup and the 26th European Women&#x2019;s Club Cup in Mayrhofen, Austria with six teams in the Open section and two teams in the Women&#x2019;s section emerging on the top with the perfect score of 6 match points. With no major upsets, most of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2022-round-3-report/",
-         "pubDate" : "Thu, 06 Oct 2022 12:15:25 +0000",
-         "title" : "European Chess Club Cup 2022 - Round 3 report"
       },
       {
          "description" : "Hans Niemann and Sam Sevian kicked off the U.S. Championship with wins, as they defeated Christopher Yoo and Elshan Moradiabadi in the first round of the 14-player event. True to his style, Niemann was laconic in the post-game interview, noting that \"chess spoke for itself\" and that the game was so beautiful he did not even need to describe it. In the women's event, four players scored full points, including Alice Lee, who is playing her first national championship. | Photo: Crystal Fuller",
@@ -1610,14 +1626,6 @@ news_feed (
          "title" : "Cheating in grandmaster chess?"
       },
       {
-         "description" : "The two-day final of the Julius Baer Generation Cup will be played between GM Magnus Carlsen and GM Arjun Erigaisi. After Carlsen knocked out GM Vincent Keymer, Erigaisi reached his first Tour final by beating GM Le Quang Liem in a&#38;nbsp;blitz play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-semifinals",
-         "pubDate" : "Sat, 24 Sep 2022 00:57:00 -0700",
-         "title" : "Carlsen, Erigaisi To Play In Generation Cup Final"
-      },
-      {
          "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 starts tomorrow and will take place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in the 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2104,38 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/upcoming-junior-events.html",
          "pubDate" : "Fri, 16 Sep 2022 13:37:00 +0000",
          "title" : "Upcoming Junior Events"
-      },
-      {
-         "description" : "In ChessBase Magazine #208, our new author, GM Jan Markos, started his video training series \"Practical Tips for the Tournament Player\" with an article on \"Time Management\". In the new issue, CBM #209, he reveals how you should play in must-win situations. You certainly know such situations too - what would you tend to do? Play a risky opening line? Seek sacrifices? Try to put your opponent under time pressure? Jan Markos' recommendations go in a completely different direction. You can watch an excerpt from his video here. Have a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/must-win-situations",
-         "pubDate" : "Fri, 16 Sep 2022 08:30:00 +0100",
-         "title" : "Must-win situations"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94240825.cms\" />Bengaluru teenager Pranav Anand became India's 76th Grandmaster after he crossed the 2,500 Elo mark in the ongoing World Youth Chess Championship in Mamaia, Romania.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengaluru-teen-pranav-anand-becomes-indias-76th-chess-grandmaster/articleshow/94240825.cms",
-         "pubDate" : "Fri, 16 Sep 2022 07:06:58 +0000",
-         "title" : "Bengaluru teen Pranav becomes India's 76th chess Grandmaster"
-      },
-      {
-         "description" : " The 19-year-old won the Sinquefield Cup and the Grand Tour in St Louis, while fresh cheating allegations form the backdrop to next Monday's game between the world champion and the US teen Alireza Firouzja strengthened his position among the world top last weekend: the Iranian-born, now French, player made a clean sweep at St Louis where he won the rapid, the blitz, the classical Sinquefield Cup and the overall Grand Tour. The 19-year-old collected $272,000 in prize money, and defeated the Candidates winner, Ian Nepomniachtchi, in the final tie-break. <a href=\"https://www.theguardian.com/sport/2022/sep/16/chess-firouzja-sweeps-grand-tour-while-carlsen-v-niemann-saga-continues\">Continue readi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/sep/16/chess-firouzja-sweeps-grand-tour-while-carlsen-v-niemann-saga-continues",
-         "pubDate" : "Fri, 16 Sep 2022 07:00:08 +0000",
-         "title" : "Chess: Firouzja sweeps Grand Tour while Carlsen v Niemann saga continues"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1986",
-         "pubDate" : "Fri, 16 Sep 2022 05:56:50 +0000",
-         "title" : "Champions Showdown Chess 9LX: Day 2 Recap"
       }
    ]
 }
