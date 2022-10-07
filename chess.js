@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Evgeni Vasiukov was considered one of the strongest players in the world, but never represented the Soviet team in the Olympiads. Remarkable was also, that he learned to play chess at the age of 15! Over decades, he won several tournaments from 1960 to 1991. In this time, he played some remarkable games with tough tactics. Lawrence found two jawbreakers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-35",
+         "pubDate" : "Fri, 07 Oct 2022 18:00:00 +0100",
+         "title" : "Trent's Tactics - The Moscow Master: Evgeni Vasiukov"
+      },
+      {
          "description" : "IM Joachim Birger Nilsen (29) resigned as the president of the Norwegian Chess Federation, a day after admitting to cheating on Chess.com during one match in the 2016-2017 season of the PRO Chess League. Nilsen was part of the Norway Gnomes team, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1610,14 +1618,6 @@ news_feed (
          "title" : "'The Root of All Evil'?"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 92nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-92-backgrounds-of-structures-2",
-         "pubDate" : "Sun, 25 Sep 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 92: Backgrounds of structures (2)"
-      },
-      {
          "description" : " This example probably falls under the heading of \"Do as I do, not as I say\". I've always told young players to spend their time on understanding openings, rather than simply memorising moves. On the other hand, when I was young, I spent a lot of time memorising lines, especially lines which contained a number of traps. If White had followed my example, but not my advice, they may not have had their queen trapped so quickly. <br /> <b>White - Black</b><br />Street Chess, 24.09.2022 <script>new PgnViewer( { boardName: \"game1353\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nc6 6.Nxe4 Nd4 7.Qc3 dxe4 8.Be2 Bb4 9.Qc4 Be6 0-1', pauseBetweenMoves: 500, pieceSize:",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2120,22 +2120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1987",
          "pubDate" : "Sat, 17 Sep 2022 05:06:41 +0000",
          "title" : "Winners crowned at World Youth U14, U16, and U18 Championships"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94253874.cms\" />India's Pranav Anand and AR Ilamparthi emerged champions in the Open under-16 and under-14 categories respectively in the World Youth Chess Championship here on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-players-pranav-anand-ilamparthi-win-titles/articleshow/94253874.cms",
-         "pubDate" : "Fri, 16 Sep 2022 16:20:07 +0000",
-         "title" : "Indian chess players Pranav Anand, Ilamparthi win titles"
-      },
-      {
-         "description" : "For the last few months I've been running a <I>Fischer Friday</I> series, focused on the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Title Match</A>(m-w.com). Now it's time to change the subject, if only for a few weeks. Twenty years to the day after Spassky resigned the 1972 match, a new match began:- <UL><LI><A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch; Sveti Stefan/Belgrade</A> (m-w.com) <LI><A HREF=\"https://www.mark-weeks.com/chess/92fs$$.htm\">1992 Fischer - Spassky Rematch; Highlights</A> (ditto) </UL> <P>Unfortunately, I don't have much in my photo archive about the 1992 match. The following composite image sh",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html",
-         "pubDate" : "Fri, 16 Sep 2022 15:49:00 +0000",
-         "title" : "FS 1972 + 20 = FS 1992"
       }
    ]
 }
