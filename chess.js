@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Dariusz Swiercz talks to Cristian Chirila after a draw with Shankland in Round 2 of the 2022 U.S. Chess Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/swiercz-overall-i-feel-good-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zY3wnb28PSU.jpg?itok=XNEdfvbr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/swiercz-overall-i-feel-good-round-2",
+         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
+         "title" : "Swiercz: Overall, I Feel Good! | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Megan Lee talks to Cristian Chirila after defeating Paikidze in Round 2 of the 2022 U.S. Women's Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/megan-lee-2-0-not-thinking-about-title-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/z-fvDRm0SQ8.jpg?itok=-xvfVcaz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/megan-lee-2-0-not-thinking-about-title-round-2",
+         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
+         "title" : "Megan Lee: 2-0, but Not Thinking about the Title | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Ruiyang Yan in Round 2 of the 2022 U.S. Women's Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-can-she-repeat-2019-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h_1jHlK2Rx0.jpg?itok=FOLsJ9i4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-can-she-repeat-2019-round-2",
+         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
+         "title" : "Jennifer Yu: Can She Repeat 2019? | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Elshan Moradiabadi talks to Cristian Chirila after defeating Liang in Round 2 of the 2022 U.S. Chess Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/moradiabadi-used-target-my-back-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/01c1aHJN154.jpg?itok=XH1PWlXz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/moradiabadi-used-target-my-back-round-2",
+         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
+         "title" : "Moradiabadi: Used to the Target on My Back | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Cristian Chirila after defeating Wesley So in Round 2 of the 2022 U.S. Chess Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yoo-beats-so-great-redemption-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rBz8_xy321c.jpg?itok=jBTcQUvF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yoo-beats-so-great-redemption-round-2",
+         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
+         "title" : "Yoo Beats So! A Great Redemption | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.08<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-4-lichessorg",
+         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 4 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.06<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-2",
+         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 2"
+      },
+      {
+         "description" : "Christopher Yoo has officially entered the Junior top 20 rating list three months ago after a fantastic performance at the US junior chess championship. Today, he managed to defeat with the black pieces the reigning US champion Wesley So (replay the game here). Rather than focusing on the game itself in the post match interview, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-christopher-yoo-i-felt-disrespected-on-every-level-by-hans-niemann/",
+         "pubDate" : "Thu, 06 Oct 2022 23:55:05 +0000",
+         "title" : "GM Christopher Yoo, \"I felt disrespected on every level by Hans Niemann\""
+      },
+      {
          "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -170,7 +234,7 @@ news_feed (
          "title" : "2022 European Club Cup"
       },
       {
-         "description" : "The US Chess Championship 2022 commenced yesterday in Saint Louis and takes place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann is []",
+         "description" : "The US Chess Championship 2022 commenced yesterday in Saint Louis and takes place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Hans Niemann is []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hans-niemann-vs-jeffery-xiong-us-chess-championship-2022-round-2-live/",
@@ -200,14 +264,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34737621/after-magnus-carlsen-allegations-report-claims-hans-niemann-likely-cheated-100-s?device=featurephone",
          "pubDate" : "Thu, 6 Oct 2022 05:56:07 -0500",
          "title" : "After Carlsen allegations, report claims Niemann 'likely cheated' over 100 times"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;commenced yesterday in Saint Louis and are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-2-live/",
-         "pubDate" : "Thu, 06 Oct 2022 10:40:08 +0000",
-         "title" : "US Chess Championship 2022 - Day 2 live"
       },
       {
          "description" : "In his \"Game of the Week\" show #536 Merijn van Delft looks at a fascinating game Magnus Carlsen played in round 2 of the European Club Cup in Mayrhofen, Austria. The World Champion had White against the German Grandmaster Alexander Naumann and impressed with surprising maneuvers in the opening and a couple of pawn sacrifices for positional compensation. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -242,68 +298,12 @@ news_feed (
          "title" : "European Chess Club Cup 2022 - Round 3 report"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.07<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-3-lichessorg",
-         "pubDate" : "Thu, 06 Oct 2022 03:52:28 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 3 | lichess.org"
-      },
-      {
          "description" : "After three rounds, six teams in the open section of the European Club Cup have won all their matches in Mayrhofen. The top scorers on individual boards are Silla Valencia (Korobov, Santos), Offerspill (Carlsen, Tari) and Viernheim (Kryvoruchko, Kuzubov). In the women's event, Superbet (Bulmaga, Saduakassova) and Pamhagen (Danielian, Ushenina) have collected 6 match points in the first three rounds. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r3",
          "pubDate" : "Thu, 06 Oct 2022 03:05:00 +0100",
          "title" : "European Club Cup: Six teams still perfect in the open"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Eswaran in Round 1 of the 2022 U.S. Women's Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-didn%E2%80%99t-expect-beat-ashritha-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CZTRqJrDB64.jpg?itok=rvbqTy4P\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-didn%E2%80%99t-expect-beat-ashritha-round-1",
-         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
-         "title" : "Alice Lee: Didn't Expect to Beat Ashritha | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after defeating Morris-Suzuki in Round 1 of the 2022 U.S. Women's Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-sophie-win-good-start-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6Ckyr9YYxx0.jpg?itok=2EEo3-Es\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-sophie-win-good-start-round-1",
-         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
-         "title" : "Begim: Sophie Win is a Good Start | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Christopher Yoo in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-not-going-back-down-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kRtpIk-BkZE.jpg?itok=rtRM0-Rs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-not-going-back-down-round-1",
-         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
-         "title" : "Niemann: Not Going to Back Down | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team recalls the opening ceremony, drawing of lots, and the inductions into the World &amp; U.S. Chess Halls of Fame the day before play began, at the St. Louis Aquarium at Union Station. This aired during Round 1. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championships-opening-ceremony-reel\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_t",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-opening-ceremony-reel",
-         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
-         "title" : "2022 U.S. Chess Championships: Opening Ceremony Reel"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Cristian Chirila after defeating Moradiabadi in Round 1 of the 2022 U.S. Chess Championship. 2022.10.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-two-more-rounds-favor-me-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nHwh8q6p7uM.jpg?itok=i4pLjQBB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-two-more-rounds-favor-me-round-1",
-         "pubDate" : "Thu, 06 Oct 2022 00:52:19 +0000",
-         "title" : "Sevian: Two More Rounds Favor Me | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.06<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-2-lichessorg",
-         "pubDate" : "Wed, 05 Oct 2022 21:52:01 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 2 | lichess.org"
       },
       {
          "description" : "GMs Anish Giri and&#38;nbsp;Jan-Krzysztof Duda overcame Pavel Ponkratov and Alexey Sarana, respectively, in the 2022 Chess.com Global Championship round of 16 on Wednesday, presented by Brave. The two matches featured pairings between players who, alt...",
