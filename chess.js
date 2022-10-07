@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ossip-bernstein-september-20-1882-november-30-1962-the-last-star-of-chess-golden-age",
+         "pubDate" : "Fri, 07 Oct 2022 16:00:00 +0100",
+         "title" : "Ossip Bernstein (September 20, 1882 - November 30, 1962): The Last Star of Chess' Golden Age"
+      },
+      {
+         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
+         "pubDate" : "Fri, 07 Oct 2022 13:50:00 +0100",
+         "title" : "European Club Cup - Live"
+      },
+      {
+         "description" : " Here is another game from the 2022 European Club Cup. To my untrained eye, this is the kind of game that I wish I could play, even against club opposition, let alone titled players. White seems to have everything under control, even after sacrificing a pawn, and the win almost looks like it was inevitable from move 1. Of course it wasn't, but it does show the importance of piece activity out of the opening. A game worth studying and understanding. <br /> <b>Van Foreest,Jorden (2694) - Wedberg,Tom (2395) [E07]</b><br />37th European Club Cup chess24.com (1.2), 03.10.2022 <script>new PgnViewer( { boardName: \"game1357\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.g",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/smooth-as-silk.html",
+         "pubDate" : "Fri, 07 Oct 2022 12:39:00 +0000",
+         "title" : "Smooth as silk"
+      },
+      {
          "description" : "The two players who kicked off the U.S. Championship with losses bounced back immediately by winning their round-2 games in Saint Louis. Elshan Moradiabadi defeated Awonder Liang, while Christopher Yoo got the biggest win of his young career as he took down Wesley So with the black pieces. Meanwhile, in the women's event, three players still have a perfect score - Jennifer Yu, Alice Lee and Megan Lee. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,11 +90,11 @@ news_feed (
          "title" : "Samuel Sevian vs Levon Aronian, US Chess Championship 2022 Round 3 LIVE"
       },
       {
-         "description" : "The third and fourth rounds at the European Club Cup round saw nice wins for both GM Magnus Carlsen and GM Viswanathan Anand, but their respective teams fell down in the standings. Novy Bor (Czech Republic) is the only team that scored four victor...",
+         "description" : "The third and fourth rounds at the European Club Cup saw nice wins for both GM Magnus Carlsen and GM Viswanathan Anand, but their respective teams dropped in the standings. Novy Bor (Czech Republic) is the only team that scored four victories, whi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-round-4",
-         "pubDate" : "Fri, 07 Oct 2022 01:53:08 -0700",
+         "pubDate" : "Fri, 07 Oct 2022 01:53:00 -0700",
          "title" : "Wins For Anand, Carlsen But Their Teams Drop Points"
       },
       {
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
          "pubDate" : "Thu, 6 Oct 2022 18:14:54 -0500",
          "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
-      },
-      {
-         "description" : "Ivan Sokolov, the coach of the Olympiad gold medalists and author of Winning chess middlegames, shares his opinion on cheating in chess in view of the ongoing Hans Niemann Magnus Carlsen case (scroll down for full timeline of events) Ivan Sokolov comments, &#8220;Cheating in chess discussions Many claim cheating online is not as bad []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ivan-sokolov-cheating-in-chess-online-is-as-bad-as-cheating-otb/",
-         "pubDate" : "Thu, 06 Oct 2022 22:43:46 +0000",
-         "title" : "Ivan Sokolov: cheating in chess online is as bad as cheating OTB"
       },
       {
          "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Inductee Eugene Torre talks to Yasser Seirawan during Round 2 of the 2022 U.S. Chess Championships. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eugene-torre-wesley-so-still-pride-philippines-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5ipCqNeGb2M.jpg?itok=t8-SeUSd\" alt=\"\" /></a></div>",
@@ -1586,22 +1602,6 @@ news_feed (
          "title" : "Understanding before Moving 92: Backgrounds of structures (2)"
       },
       {
-         "description" : "Last month, we talked about themes that blurred into the philosophical, but also into insanity. Jan Sprenger combines both: His profession is philosophy, his recent mastery of endgame studies is insane. Yours Truly sent a few questionnaires to Jan Sprenger, the results of the interview as well as a selection of his studies is presented below. | Photo: Pixabay + Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-jan-sprenger-philospher-and-problemist",
-         "pubDate" : "Sun, 25 Sep 2022 14:55:00 +0100",
-         "title" : "Study of the Month - Jan Sprenger: Philosopher and Problemist"
-      },
-      {
-         "description" : "The eight-day Julius Baer Generation Cup, the seventh leg of the Tour, features 16 world-class players spanning the age spectrum. Top of the bill is Magnus Carlsen with Indian teen sensation Praggnanandhaa. American 19-year-old star Hans Niemann will also compete, much like living legends Boris Gelfand and Vasyl Ivanchuk. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/generation-cup-2022-live",
-         "pubDate" : "Sun, 25 Sep 2022 14:50:00 +0100",
-         "title" : "Generation Cup Finals: Games and standings"
-      },
-      {
          "description" : " This example probably falls under the heading of \"Do as I do, not as I say\". I've always told young players to spend their time on understanding openings, rather than simply memorising moves. On the other hand, when I was young, I spent a lot of time memorising lines, especially lines which contained a number of traps. If White had followed my example, but not my advice, they may not have had their queen trapped so quickly. <br /> <b>White - Black</b><br />Street Chess, 24.09.2022 <script>new PgnViewer( { boardName: \"game1353\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nc6 6.Nxe4 Nd4 7.Qc3 dxe4 8.Be2 Bb4 9.Qc4 Be6 0-1', pauseBetweenMoves: 500, pieceSize:",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2128,14 +2128,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html",
          "pubDate" : "Fri, 16 Sep 2022 15:49:00 +0000",
          "title" : "FS 1972 + 20 = FS 1992"
-      },
-      {
-         "description" : " If you live in Canberra (or close enough to it) and are a junior player, then there are a number of events coming up. The 2022 ACT Junior Championship is being held between the 26th and 30th September. It is being run in different age groups, but the format is designed to allow younger players to play more than one event. (Fun fact: I played in the 1982 ACT Junior Championship, my first serious event) The following week is the Spring Bootcamp, which is a week of coaching and chess. On this case the events are Lightning, Rapid and Standard, and the schedule allows players to play in 1, 2 or all 3 events. You can register for the Championship <a href=\"https://www.trybooking.com/CCPDI\">here</a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/upcoming-junior-events.html",
-         "pubDate" : "Fri, 16 Sep 2022 13:37:00 +0000",
-         "title" : "Upcoming Junior Events"
       }
    ]
 }
