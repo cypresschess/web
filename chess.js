@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Christopher Yoo scored his second consecutive victory in the US Chess Championship as he defeated Elshan Moradiabadi in today's third round. Yoo joined the live studio for the post-game interview, analyzing the beautiful game he converted into a victory. Christopher then clarified his thoughts from yesterday's interview in which he said that he felt disrespected []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/christopher-yoo-my-mom-was-concerned-after-my-interview-yesterday/",
+         "pubDate" : "Fri, 07 Oct 2022 22:33:03 +0000",
+         "title" : "Christopher Yoo: My mom was concerned after my interview yesterday"
+      },
+      {
+         "description" : "After comfortably drawing his Round 3 game against Jeffery Xiong with black pieces, Wesley So joined the live studio of the US Chess Championship to share his insights on the game. Wesley seemed satisfied with the result and explained that the game went pretty smoothly for him. Speaking about his yesterday's loss against 15-year-old Christopher []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-hans-niemann-disrespected-everybody-in-the-chess-world/",
+         "pubDate" : "Fri, 07 Oct 2022 21:54:16 +0000",
+         "title" : "Wesley So: Hans Niemann disrespected everybody in the chess world"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks to Cristian Chirila during Round 3 of the 2022 U.S. Chess Championships. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/emily-allred-wchof-fischer-spassky-exhibit-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/53kBFH_Uo8M.jpg?itok=_svOJnNQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/emily-allred-wchof-fischer-spassky-exhibit-round-3",
+         "pubDate" : "Fri, 07 Oct 2022 21:53:52 +0000",
+         "title" : "Emily Allred on the WCHOF Fischer-Spassky Exhibit | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks the players what their favorite part is of the U.S. Championship being held in Saint Louis. This aired during Round 3. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championship-returning-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rquGIxqPVQM.jpg?itok=6rauiNM4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championship-returning-saint-louis",
+         "pubDate" : "Fri, 07 Oct 2022 21:53:52 +0000",
+         "title" : "2022 U.S. Chess Championship: Returning to Saint Louis"
+      },
+      {
+         "description" : "The President of the Norwegian Chess Federation Joachim Nilsen resigned from his position today, one day after he admitted to cheating on chess.com. Nilsen confessed to NRK that he cheated online during the PRO Chess League 2016/2017, as he received outside help from a person who was hidden in the room while he played for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/daniel-rensch-explains-why-chess-com-didnt-ban-joachim-nilsen-who-admitted-to-cheating-in-pro-chess-league/",
+         "pubDate" : "Fri, 07 Oct 2022 20:24:31 +0000",
+         "title" : "Daniel Rensch explains why chess.com didn't ban Joachim Nilsen who admitted to cheating in PRO Chess League"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,14 +194,6 @@ news_feed (
          "title" : "Sam Shankland vs Hans Niemann, US Chess Championship 2022 Round 3 LIVE"
       },
       {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022 are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-3-live/",
-         "pubDate" : "Fri, 07 Oct 2022 08:19:19 +0000",
-         "title" : "US Chess Championship 2022 - Day 3 live"
-      },
-      {
          "description" : "To All The Chess Federation of Sri Lanka under the auspices of the Asian Chess Federation (ACF) and the World Chess Federation (FIDE), has the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credibility-test-in-st-louis-as-cheating-saga-continues",
          "pubDate" : "Fri, 07 Oct 2022 07:00:52 +0000",
          "title" : "Chess: Niemann faces credibility test in St Louis as cheating saga continues"
-      },
-      {
-         "description" : "The youngest players in each section, 12-year-old Alice Lee and 15-year-old Christopher Yoo, scored key upsets in Round 2 of the U.S. Chess &#38; U.S. Women&#x2019;s Chess Championships. Christopher Yoo defeated reigning champion GM Wesley So while Alice Lee defeated WGM Begim Tokhirjonova to reach 2-0.&#160; With chess growing so fast in the US, one []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alice-lee-and-christopher-yoo-young-chess-stars-shine-in-the-us-chess-championship/",
-         "pubDate" : "Fri, 07 Oct 2022 06:49:08 +0000",
-         "title" : "Alice Lee and Christopher Yoo - young chess stars shine in the US chess championship"
       },
       {
          "description" : "The second day of the 2022 U.S. Chess Championships was a day of upsets as GM Christopher Yoo stunned 2021 champion GM Wesley So with the black pieces in a remarkably aggressive clash. Several results went the way of the underdogs in the women&#39;s e...",
@@ -250,36 +274,12 @@ news_feed (
          "title" : "2022 U.S. Chess Championships: Round 2"
       },
       {
-         "description" : "Christopher Yoo has officially entered the Junior top 20 rating list three months ago after a fantastic performance at the US junior chess championship. Today, he managed to defeat with the black pieces the reigning US champion Wesley So (replay the game here). Rather than focusing on the game itself in the post match interview, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-christopher-yoo-i-felt-disrespected-on-every-level-by-hans-niemann/",
-         "pubDate" : "Thu, 06 Oct 2022 23:55:05 +0000",
-         "title" : "GM Christopher Yoo, \"I felt disrespected on every level by Hans Niemann\""
-      },
-      {
          "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
          "pubDate" : "Thu, 6 Oct 2022 18:14:54 -0500",
          "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Inductee Eugene Torre talks to Yasser Seirawan during Round 2 of the 2022 U.S. Chess Championships. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eugene-torre-wesley-so-still-pride-philippines-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5ipCqNeGb2M.jpg?itok=t8-SeUSd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/eugene-torre-wesley-so-still-pride-philippines-round-2",
-         "pubDate" : "Thu, 06 Oct 2022 21:52:44 +0000",
-         "title" : "Eugene Torre: Wesley So Still Pride of Philippines | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Cristian Chirila after a draw with Lenderman in Round 2 of the 2022 U.S. Chess Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-had-play-solid-lenderman-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yK0JP62ykO4.jpg?itok=_fKVGPqh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-had-play-solid-lenderman-round-2",
-         "pubDate" : "Thu, 06 Oct 2022 21:52:44 +0000",
-         "title" : "Sevian: Had to Play Solid with Lenderman | Round 2"
       },
       {
          "description" : "The wait is over: Chess.com is happy to announce that the PRO Chess League is returning in 2023! The Professional Rapid Online League is the world&#39;s premier online chess league for professional players. The 2023 season starts on February 1, with t...",
