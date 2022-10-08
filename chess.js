@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/",
          "pubDate" : "Sat, 17 Sep 2022 21:05:15 +0000",
          "title" : "After the Carlsen-Niemann firestorm, what now?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1989",
-         "pubDate" : "Sat, 17 Sep 2022 18:37:05 +0000",
-         "title" : "Women's Grand Prix 2022-2023 officially opened"
       }
    ]
 }
