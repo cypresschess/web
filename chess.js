@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-us-chess-championship-2022-round-4-live/",
+         "pubDate" : "Sat, 08 Oct 2022 19:29:00 +0000",
+         "title" : "Hans Niemann vs Fabiano Caruana, US Chess Championship 2022 Round 4 LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/double-flop-2",
          "pubDate" : "Sat, 08 Oct 2022 09:00:00 +0100",
          "title" : "Passed pawns are powerful"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-us-chess-championship-2022-round-4-live/",
-         "pubDate" : "Sat, 08 Oct 2022 07:29:12 +0000",
-         "title" : "Hans Niemann vs Fabiano Caruana, US Chess Championship 2022 Round 4 LIVE"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Joachim Nilsen</strong>, who was elected as President of the <strong>Norwegian Chess Federation</strong> in July, <a href=\"https://www.sjakk.no/aktuelt/joachim-nilsen-trer-av-som-president\">stepped down</a> after admitting to a computer equiped assistant telling him moves during the 2016/17 <strong>PRO Chess League</strong> season. Vice President <strong>Anniken Vestby</strong> is taking over. </div> ",
