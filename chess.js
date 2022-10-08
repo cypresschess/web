@@ -18,6 +18,14 @@ news_feed (
          "title" : "U.S. Championships - Live"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.07<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-3",
+         "pubDate" : "Sat, 08 Oct 2022 18:54:21 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 3"
+      },
+      {
          "description" : "Fabiano Caruana eventually beat Dariusz Swiercz to join the US Championship leaders and tweeted afterwards, \"the 2022 Disrespect Championship is just warming up\". Wesley So made a quiet draw and then hit out at disrespect from Hans Niemann, who held a tricky endgame against Sam Shankland. Christopher Yoo tried to dial back his disrespect comments, but was on fire on the board as he won a 2nd game in a row.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/emily-allred-wchof-fischer-spassky-exhibit-round-3",
          "pubDate" : "Fri, 07 Oct 2022 21:53:52 +0000",
          "title" : "Emily Allred on the WCHOF Fischer-Spassky Exhibit | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks the players what their favorite part is of the U.S. Championship being held in Saint Louis. This aired during Round 3. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championship-returning-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rquGIxqPVQM.jpg?itok=6rauiNM4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championship-returning-saint-louis",
-         "pubDate" : "Fri, 07 Oct 2022 21:53:52 +0000",
-         "title" : "2022 U.S. Chess Championship: Returning to Saint Louis"
       },
       {
          "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
@@ -2096,14 +2096,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/astana-fide-womens-grand-prix-2022",
          "pubDate" : "Sun, 18 Sep 2022 12:19:00 +0400",
          "title" : "Astana FIDE Women's Grand Prix 2022\t - Games and Results"
-      },
-      {
-         "description" : " The cheating scandal that dominated the 2022 Sinquefield Cup saw GM Hans Niemann fall into controversial spotlight in his first supertournament. The incident was precipitated by Magnus Carlsen's withdrawal from the tournament and a tweet that included a reference to cheating. Many commenting on the matter did not understand the tweet and figured it only The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/\">After the Carlsen-Niemann firestorm, what now?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/09/17/after-the-carlsen-niemann-firestorm-what-now/",
-         "pubDate" : "Sat, 17 Sep 2022 21:05:15 +0000",
-         "title" : "After the Carlsen-Niemann firestorm, what now?"
       }
    ]
 }
