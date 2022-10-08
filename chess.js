@@ -47,7 +47,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-us-chess-championship-2022-round-4-live/",
          "pubDate" : "Sat, 08 Oct 2022 19:29:00 +0000",
-         "title" : "Hans Niemann vs Fabiano Caruana, US Chess Championship 2022 Round 4 LIVE"
+         "title" : "Hans Niemann vs Fabiano Caruana 0-1, US Chess Championship 2022 Round 4"
       },
       {
          "description" : "",
