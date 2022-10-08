@@ -10,6 +10,14 @@ news_feed (
          "title" : "Hans Niemann vs Fabiano Caruana, US Chess Championship 2022 Round 4 LIVE"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Joachim Nilsen</strong>, who was elected as President of the <strong>Norwegian Chess Federation</strong> in July, <a href=\"https://www.sjakk.no/aktuelt/joachim-nilsen-trer-av-som-president\">stepped down</a> after admitting to a computer equiped assistant telling him moves during the 2016/17 <strong>PRO Chess League</strong> season. Vice President <strong>Anniken Vestby</strong> is taking over. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/norway-president-resigns-after/",
+         "pubDate" : "Sat, 08 Oct 2022 08:22:09 +0100",
+         "title" : "Norway president resigns after admitting cheating"
+      },
+      {
          "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hikaru-nakamura-hans-niemann-is-trying-to-play-the-victim/",
          "pubDate" : "Fri, 07 Oct 2022 10:54:19 +0000",
          "title" : "Hikaru Nakamura: Hans Niemann is trying to play the victim"
-      },
-      {
-         "description" : "The Norwegian government broadcasting company NRK yesterday revealed that&#xA0;the President of the Norwegian Chess Federation IM Joachim Birger Nilsen&#xA0;cheated online during the Pro Chess League played on chess.com in 2016/2017 season. Nilsen confessed he received outside help from a person who was hidden in the room while he played.&#xA0; Faced with a wave of critics, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-president-of-the-norwegian-chess-federation-resigns-one-day-after-nrk-revealed-he-cheated-on-chess-com/",
-         "pubDate" : "Fri, 07 Oct 2022 10:43:07 +0000",
-         "title" : "The President of the Norwegian Chess Federation resigns one day after NRK revealed he cheated on chess.com"
       },
       {
          "description" : "Vishy Anand is back to World no. 9 after defeating Shakhriyar Mamedyarov in Round 4 of the European Club Cup, while Magnus Carlsen scored a second win in a row, taking down Harikrishna. Neither World Champion's team won, however, with Novy Bor taking the sole lead after wins for Vidit and Markus Ragger cancelled out Carlsen's win.",
@@ -1338,14 +1338,6 @@ news_feed (
          "title" : "Fifth \"Chess in Education Lecturer\" course announced"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>US Chess Championship</strong> <a href=\"https://www.uschesschamps.com/news-press-release-2022-us-championships/2022-us-and-us-women%E2%80%99s-chess-championships-fields-announced\">starting next Tuesday</a> at the <strong>St. Louis Chess Club</strong> confirmed the participation of <strong>Hans Niemann</strong> even though his <a href=\"https://docs.google.com/spreadsheets/d/127lwTsR-2Daz0JqN1TbZ8FgITX9Df9TyXT1gtjlZ5nk/edit#gid=0\">percentage of engine first line moves while qualifying</a> in the <strong>US Juniors 2021</strong> is a suspiciously high 78,6% percent. <strong>Hikaru Nakamura</strong> had decided much earlier to miss out on th",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/niemann-confirmed-for-us/",
-         "pubDate" : "Wed, 28 Sep 2022 12:50:05 +0100",
-         "title" : "Niemann confirmed for US championship"
-      },
-      {
          "description" : "From 16 to 25 December 2022 Tunisia will host the World Francophone's major annual chess meeting at Yasmine Hammamet. These 2022 Individual Francophone Championships will award the following titles for 2022: &bull; Francophone Champion&bull; Woman Francophone Champion&bull; Senior Francophone Champion &bull; Veteran Francophone Champion&bull; Blitz Francophone Champion According to their FIDE ID, only players from Francophone Chess Association&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2104,14 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1989",
          "pubDate" : "Sat, 17 Sep 2022 18:37:05 +0000",
          "title" : "Women's Grand Prix 2022-2023 officially opened"
-      },
-      {
-         "description" : "Comparing the records of the world chess champions has become a popular pursuit. Such investigations have been fuelled by the fiftieth anniversary of Bobby Fischer's conquest of the championship, which fell precisely at the end of last month. Debate has been intensified by the announcement from the reigning champion, Magnus Carlsen, that he will retire []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-secrets-from-lasker-to-carlsen/",
-         "pubDate" : "Sat, 17 Sep 2022 08:13:53 +0000",
-         "title" : "Chess secrets: from Lasker to Carlsen"
       }
    ]
 }
