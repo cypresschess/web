@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Sat, 08 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
          "description" : "Fabiano Caruana eventually beat Dariusz Swiercz to join the US Championship leaders and tweeted afterwards, \"the 2022 Disrespect Championship is just warming up\". Wesley So made a quiet draw and then hit out at disrespect from Hans Niemann, who held a tricky endgame against Sam Shankland. Christopher Yoo tried to dial back his disrespect comments, but was on fire on the board as he won a 2nd game in a row.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-accuses-niemann-of-cheating-more-and-more-recently-than-he-admits",
          "pubDate" : "Tue, 27 Sep 2022 02:12:45 +0000",
          "title" : "Carlsen accuses Niemann of cheating \"more - and more recently - than he admits\""
-      },
-      {
-         "description" : "A day after getting a convincing victory at the Generation Cup, as he anticipated, Magnus Carlsen has shared a public statement regarding the polemic surrounding his withdrawal from the Sinquefield Cup and his quick resignation against Hans Niemann. The world champion wrote: \"I believe that Niemann has cheated more - and more recently - than he has publicly admitted\". | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-statement-on-niemann",
-         "pubDate" : "Mon, 26 Sep 2022 22:15:00 +0100",
-         "title" : "Carlsen's public statement: \"I believe that Niemann has cheated more\""
       },
       {
          "description" : "",
