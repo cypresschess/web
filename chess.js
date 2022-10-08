@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The defending US champion Wesley So scores 1/3 points and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-vs-sam-shankland-us-chess-championship-2022-round-4-live/",
+         "pubDate" : "Sat, 08 Oct 2022 11:00:01 +0000",
+         "title" : "Wesley So vs Sam Shankland, US Chess Championship 2022 Round 4 LIVE"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. 15-year-old Christopher Yoo is one of the leaders of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandr-lenderman-vs-christopher-yoo-us-chess-championship-2022-round-4-live/",
+         "pubDate" : "Sat, 08 Oct 2022 10:50:55 +0000",
+         "title" : "Aleksandr Lenderman vs Christopher Yoo, US Chess Championship 2022 Round 4 LIVE"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen currently plays the European Chess Club Cup 2022 where he competes for Norwegian Offerspill Chess Club. Magnus scores 3.5/4 points while his team ties for the third place with 8 match points. After defeating Anton Korobov in the fifth round of the event, Magnus Carlsen joined Fiona Steil-Antoni for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-soon-i-will-have-no-world-championship-titles-so-its-time-to-start-winning-some-of-them-back/",
+         "pubDate" : "Sat, 08 Oct 2022 10:23:39 +0000",
+         "title" : "Magnus Carlsen: Soon I will have no World Championship titles so it's time to start winning some of them back"
+      },
+      {
          "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -234,28 +258,12 @@ news_feed (
          "title" : "U.S. Championships: Yoo upsets So"
       },
       {
-         "description" : "The&#xA0;37th European Chess Club Cup&#xA0;and the&#xA0;26th European Women&#x2019;s Chess Club Cup&#xA0;are simultaneously taking place from 2nd &#x2013; 10th October in Mayrhofen, Austria with participation of 87 teams and world-top chess players. More than 500 players from 45 countries defend the colors of their clubs, including the World Chess Champion&#xA0;Magnus Carlsen&#xA0;who will compete for the Offerspill []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/champion-meets-champion-jakob-schubert-chats-with-magnus-carlsen-at-the-european-club-cup/",
-         "pubDate" : "Fri, 07 Oct 2022 11:18:17 +0000",
-         "title" : "Champion meets Champion: Jakob Schubert chats with Magnus Carlsen at the European Club Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2026",
          "pubDate" : "Fri, 07 Oct 2022 10:57:28 +0000",
          "title" : "FIDE World Youth U-16 Chess Olympiad 2022 crosses halfway"
-      },
-      {
-         "description" : "Hans Niemann currently plays the US Chess Championship 2022 where he had a perfect start winning his round 1 game against Christopher Yoo. Niemann joined the US Championship live studio after the game to send a short message to the chess world: &#8220;Chess speaks for itself&#8221;, leaving the interview afterwards. Hikaru Nakamura didn't like Niemann's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-hans-niemann-is-trying-to-play-the-victim/",
-         "pubDate" : "Fri, 07 Oct 2022 10:54:19 +0000",
-         "title" : "Hikaru Nakamura: Hans Niemann is trying to play the victim"
       },
       {
          "description" : "Vishy Anand is back to World no. 9 after defeating Shakhriyar Mamedyarov in Round 4 of the European Club Cup, while Magnus Carlsen scored a second win in a row, taking down Harikrishna. Neither World Champion's team won, however, with Novy Bor taking the sole lead after wins for Vidit and Markus Ragger cancelled out Carlsen's win.",
