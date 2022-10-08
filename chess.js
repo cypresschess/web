@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana eventually beat Dariusz Swiercz to join the US Championship leaders and tweeted afterwards, \"the 2022 Disrespect Championship is just warming up\". Wesley So made a quiet draw and then hit out at disrespect from Hans Niemann, who held a tricky endgame against Sam Shankland. Christopher Yoo tried to dial back his disrespect comments, but was on fire on the board as he won a 2nd game in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-3-fabi-yoo-join-disrespect-championship-leaders",
+         "pubDate" : "Sat, 08 Oct 2022 17:32:59 +0000",
+         "title" : "US Chess Champs 3: Fabi & Yoo join \"Disrespect Championship\" leaders"
+      },
+      {
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and resigned his game after two moves of play. By the end of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-alejandro-ramirez-it-seems-very-likely-that-hans-niemann-has-cheated-over-the-board/",
+         "pubDate" : "Sat, 08 Oct 2022 15:49:25 +0000",
+         "title" : "GM Alejandro Ramirez: It seems very likely that Hans Niemann has cheated over-the-board"
+      },
+      {
          "description" : "Boris Spassky was the fourth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/christopher-yoo-my-mom-was-concerned-after-my-interview-yesterday/",
          "pubDate" : "Fri, 07 Oct 2022 22:33:03 +0000",
          "title" : "Christopher Yoo: My mom was concerned after my interview yesterday"
-      },
-      {
-         "description" : "After comfortably drawing his Round 3 game against Jeffery Xiong with black pieces, Wesley So joined the live studio of the US Chess Championship to share his insights on the game. Wesley seemed satisfied with the result and explained that the game went pretty smoothly for him. Speaking about his yesterday's loss against 15-year-old Christopher []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-hans-niemann-disrespected-everybody-in-the-chess-world/",
-         "pubDate" : "Fri, 07 Oct 2022 21:54:16 +0000",
-         "title" : "Wesley So: Hans Niemann disrespected everybody in the chess world"
       },
       {
          "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks to Cristian Chirila during Round 3 of the 2022 U.S. Chess Championships. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/emily-allred-wchof-fischer-spassky-exhibit-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/53kBFH_Uo8M.jpg?itok=_svOJnNQ\" alt=\"\" /></a></div>",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-to-meet-magnus-carlsen-in-final/articleshow/94413132.cms",
          "pubDate" : "Sat, 24 Sep 2022 06:51:27 +0000",
          "title" : "Julius Baer Cup: Arjun Erigaisi to meet Magnus Carlsen in final"
-      },
-      {
-         "description" : "Magnus Carlsen will face 19-year-old Arjun Erigaisi, who he described as \"amazingly strong\", in the final of the Julius Baer Generation Cup after overcoming tough resistance from Vincent Keymer in the semi-final. Arjun made it past Liem Le, but only after getting taken to tiebreaks for a second day in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/generation-cup-sfs-it-s-a-carlsen-erigaisi-final",
-         "pubDate" : "Sat, 24 Sep 2022 06:09:55 +0000",
-         "title" : "Generation Cup SFs: It's a Carlsen-Erigaisi final!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94405344.cms\" />The International Chess Federation (FIDE) has rebuked world champion Magnus Carlsen for abruptly conceding an online game against Hans Niemann while adding it shared the Norwegian's concerns surrounding cheating in the sport.",
