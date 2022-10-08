@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-us-chess-championship-2022-round-4-live/",
+         "pubDate" : "Sat, 08 Oct 2022 07:29:12 +0000",
+         "title" : "Hans Niemann vs Fabiano Caruana, US Chess Championship 2022 Round 4 LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-4-live/",
+         "pubDate" : "Sat, 08 Oct 2022 07:18:26 +0000",
+         "title" : "US Chess Championship 2022 - Day 4 live"
+      },
+      {
+         "description" : "GM Fabiano Caruana and GM Christopher Yoo join the tie for first in the U.S. Championship with critical victories. In the U.S. Women&#x2019;s Championship, FM Alice Lee and WIM Megan Lee reached 2.5 to narrow down the leaderboard.&#160; Check out the full replay of live coverage from the day&#160;here. The time control for the event []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niemann-caruana-sevian-and-yoo-share-lead-us-chess-championship-day-3-recap/",
+         "pubDate" : "Sat, 08 Oct 2022 07:07:56 +0000",
+         "title" : "Niemann, Caruana, Sevian and Yoo share lead; US Chess Championship Day 3 recap"
+      },
+      {
+         "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/when-dinosaurs-ruled-the-chessboard/",
+         "pubDate" : "Sat, 08 Oct 2022 07:04:03 +0000",
+         "title" : "When dinosaurs ruled the chessboard"
+      },
+      {
+         "description" : "White has active pieces and a powerful passed pawn on d6 while Black's back rank is weak. In the diagram position you are probably itching to find the decisive move that defeats Black. But can you calculate everything in your head until the knockout comes five moves later?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/double-flop-2",
+         "pubDate" : "Sat, 08 Oct 2022 07:45:00 +0100",
+         "title" : "Passed pawns are powerful"
+      },
+      {
+         "description" : "Grandmaster Smbat Lputian, chairman of the Chess and Education Commission of the International Chess Federation (EDU FIDE), informs us that an International Online Conference entitled \"Chess in the Process of a Preschooler's Development\" will be held on December 10, 2022. The goal of the conference is to discuss different approaches of teaching chess to preschoolers mainly considering chess as an educational tool for a child's development.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-preschooler-development",
+         "pubDate" : "Sat, 08 Oct 2022 07:30:00 +0100",
+         "title" : "Conference: Chess in the process of a preschooler's development"
+      },
+      {
+         "description" : "Three decisive games were seen both at the U.S. Championship and the U.S. Women's Championship in Friday's third round. In the open, Fabiano Caruana and Awonder Liang scored their first wins of the event, while Christopher Yoo grabbed a second victory in a row. Among the women, Tatev Abrahamyan, Gulrukhbegim Tokhirjonova and Ruiyang Yan collected full points. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r3",
+         "pubDate" : "Sat, 08 Oct 2022 07:00:00 +0100",
+         "title" : "U.S. Championships: Caruana scores, Yoo wins two in a row"
+      },
+      {
+         "description" : "GMs Fabiano Caruana, Christopher Yoo, and Awonder Liang all won their third-round games at the 2022 U.S. Championships on Friday, with the former two joining GMs Sam Sevian and Hans Niemann atop the leaderboard on 2/3. Players with the white pie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-3",
+         "pubDate" : "Fri, 07 Oct 2022 21:06:09 -0700",
+         "title" : "Six White Wins Shake Up The Standings"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ruiyang Yan talks to Cristian Chirila after defeating Sophie Morris-Suzuki in Round 3 of the 2022 U.S. Women's Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yan-first-us-womens-championship-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_ozTvfCtPao.jpg?itok=YBvTYqwJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yan-first-us-womens-championship-round-3",
+         "pubDate" : "Sat, 08 Oct 2022 03:53:59 +0000",
+         "title" : "Yan: First U.S. Women's Championship | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Darius Swiercz in Round 3 of the 2022 U.S. Chess Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-how-exploit-time-advantage-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/81tnPQ1HZ50.jpg?itok=DromGijB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-how-exploit-time-advantage-round-3",
+         "pubDate" : "Sat, 08 Oct 2022 03:53:59 +0000",
+         "title" : "Caruana: How To Exploit A Time Advantage | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gulrukhbegim Tokhirjonova talks to Cristian Chirila after defeating Rochelle Wu in Round 3 of the 2022 U.S. Women's Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tokhirjonova-taking-down-rochelle-wu-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Iu46R5BgzFA.jpg?itok=9YzkcLlO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tokhirjonova-taking-down-rochelle-wu-round-3",
+         "pubDate" : "Sat, 08 Oct 2022 03:53:59 +0000",
+         "title" : "Tokhirjonova: Taking Down Rochelle Wu! | Round 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Xiong in Round 3 of the 2022 U.S. Chess Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-i-always-lose-teenagers-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GsikAfMrNQA.jpg?itok=UK5mQoQ1\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,20 +170,12 @@ news_feed (
          "title" : "Daniel Rensch explains why chess.com didn't ban Joachim Nilsen who admitted to cheating in PRO Chess League"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Fri, 07 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.09<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-5-lichessorg",
-         "pubDate" : "Fri, 07 Oct 2022 18:53:41 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 5 | lichess.org"
+         "link" : "https://en.chessbase.com/post/ossip-bernstein-september-20-1882-november-30-1962-the-last-star-of-chess-golden-age",
+         "pubDate" : "Fri, 07 Oct 2022 18:30:00 +0100",
+         "title" : "Ossip Bernstein (September 20, 1882 - November 30, 1962): The Last Star of Chess' Golden Age"
       },
       {
          "description" : "Evgeni Vasiukov was considered one of the strongest players in the world, but never represented the Soviet team in the Olympiads. Remarkable was also, that he learned to play chess at the age of 15! Over decades, he won several tournaments from 1960 to 1991. In this time, he played some remarkable games with tough tactics. Lawrence found two jawbreakers.",
@@ -122,28 +202,12 @@ news_feed (
          "title" : "Norwegian Chess Federation President Resigns After Admitting To Cheating"
       },
       {
-         "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ossip-bernstein-september-20-1882-november-30-1962-the-last-star-of-chess-golden-age",
-         "pubDate" : "Fri, 07 Oct 2022 16:00:00 +0100",
-         "title" : "Ossip Bernstein (September 20, 1882 - November 30, 1962): The Last Star of Chess' Golden Age"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2027",
          "pubDate" : "Fri, 07 Oct 2022 14:24:40 +0000",
          "title" : "Teams from 46 countries to take part in 2nd Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
-         "pubDate" : "Fri, 07 Oct 2022 13:50:00 +0100",
-         "title" : "European Club Cup - Live"
       },
       {
          "description" : " Here is another game from the 2022 European Club Cup. To my untrained eye, this is the kind of game that I wish I could play, even against club opposition, let alone titled players. White seems to have everything under control, even after sacrificing a pawn, and the win almost looks like it was inevitable from move 1. Of course it wasn't, but it does show the importance of piece activity out of the opening. A game worth studying and understanding. <br /> <b>Van Foreest,Jorden (2694) - Wedberg,Tom (2395) [E07]</b><br />37th European Club Cup chess24.com (1.2), 03.10.2022 <script>new PgnViewer( { boardName: \"game1357\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.g",
@@ -202,36 +266,12 @@ news_feed (
          "title" : "Euro Club Cup 4: Anand and Carlsen win"
       },
       {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann and Samuel Sevian continued to lead in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/christopher-yoo-vs-elshan-moradiabadi-us-chess-championship-2022/",
-         "pubDate" : "Fri, 07 Oct 2022 09:09:52 +0000",
-         "title" : "Christopher Yoo vs Elshan Moradiabadi, US Chess Championship 2022"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Samuel Sevian and Hans Niemann kept the co-leadership in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/samuel-sevian-vs-levon-aronian-us-chess-championship-2022-round-3-live/",
-         "pubDate" : "Fri, 07 Oct 2022 09:01:11 +0000",
-         "title" : "Samuel Sevian vs Levon Aronian, US Chess Championship 2022 Round 3 LIVE"
-      },
-      {
          "description" : "The third and fourth rounds at the European Club Cup saw nice wins for both GM Magnus Carlsen and GM Viswanathan Anand, but their respective teams dropped in the standings. Novy Bor (Czech Republic) is the only team that scored four victories, whi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-round-4",
          "pubDate" : "Fri, 07 Oct 2022 01:53:00 -0700",
          "title" : "Wins For Anand, Carlsen But Their Teams Drop Points"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After defeating Christopher Yoo in the first round of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sam-shankland-vs-hans-niemann-us-chess-championship-2022-round-3-live/",
-         "pubDate" : "Fri, 07 Oct 2022 08:29:14 +0000",
-         "title" : "Sam Shankland vs Hans Niemann, US Chess Championship 2022 Round 3 LIVE"
       },
       {
          "description" : "To All The Chess Federation of Sri Lanka under the auspices of the Asian Chess Federation (ACF) and the World Chess Federation (FIDE), has the",
@@ -256,22 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-2",
          "pubDate" : "Thu, 06 Oct 2022 20:53:00 -0700",
          "title" : "Yoo Shocks U.S. Champion So With Black"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Dariusz Swiercz talks to Cristian Chirila after a draw with Shankland in Round 2 of the 2022 U.S. Chess Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/swiercz-overall-i-feel-good-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zY3wnb28PSU.jpg?itok=XNEdfvbr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/swiercz-overall-i-feel-good-round-2",
-         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
-         "title" : "Swiercz: Overall, I Feel Good! | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Megan Lee talks to Cristian Chirila after defeating Paikidze in Round 2 of the 2022 U.S. Women's Championship. 2022.10.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/megan-lee-2-0-not-thinking-about-title-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/z-fvDRm0SQ8.jpg?itok=-xvfVcaz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/megan-lee-2-0-not-thinking-about-title-round-2",
-         "pubDate" : "Fri, 07 Oct 2022 00:52:58 +0000",
-         "title" : "Megan Lee: 2-0, but Not Thinking about the Title | Round 2"
       },
       {
          "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "The Marshall attack &agrave; la Svidler"
       },
       {
-         "description" : "The Cantabrians from C.A. Solvay were crowned champions of the Spanish League's 'Divisi&oacute;n de Honor' after securing a decisive victory over Magic Extremadura in the final round. The team led by Pentala Harikrishna and Gukesh Dommaraju was the only one of four co-leaders to get a win in Saturday's seventh round. DuoBeniaj&aacute;n Costa C&aacute;lida from Murcia and Magic from Extremadura got second and third place, respectively. | Photos: Spanish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ca-solvay-wins-spanish-league",
-         "pubDate" : "Mon, 26 Sep 2022 16:00:00 +0100",
-         "title" : "C.A. Solvay wins Spanish League, Gukesh shines"
-      },
-      {
          "description" : "Once again we will be presenting you with some unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where you can move the pieces to analyse. In one case there will be an engine that will defend against your attempts to win. The solutions with full explanations will be provided in a few days.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-astana-fide-women-grand-prix-round-6",
          "pubDate" : "Sun, 25 Sep 2022 02:49:00 -0700",
          "title" : "Goryachkina, Zhu Lead 1st Leg Of FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the first match vs. GM Arjun Erigaisi in the final of the Julius Baer Generation Cup on Saturday. Winning two games and finishing with a draw, the world champion needs only a tie in Sunday&#39;s match to win the tournament. How...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-generation-cup-final-day-1",
-         "pubDate" : "Sun, 25 Sep 2022 01:05:00 -0700",
-         "title" : "Carlsen Leads In Final vs. Erigaisi"
       },
       {
          "description" : "Magnus Carlsen was an accurate move or two away from making it 4 wins in a row against Arjun Erigaisi in the Julius Baer Generation Cup, but despite winning Day 1 of the final with a game to spare, the World Champion drew attention to \"some pretty bad moments\". Asked to give a positive, he replied, \"I'm winning, that's positive!\"",
@@ -2104,22 +2112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-secrets-from-lasker-to-carlsen/",
          "pubDate" : "Sat, 17 Sep 2022 08:13:53 +0000",
          "title" : "Chess secrets: from Lasker to Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1988",
-         "pubDate" : "Sat, 17 Sep 2022 06:31:48 +0000",
-         "title" : "Fabiano Caruana wins 2022 Champions Showdown: Chess 9LX"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1987",
-         "pubDate" : "Sat, 17 Sep 2022 05:06:41 +0000",
-         "title" : "Winners crowned at World Youth U14, U16, and U18 Championships"
       }
    ]
 }
