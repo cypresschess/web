@@ -10,6 +10,14 @@ news_feed (
          "title" : "Frederic's mates - How I met Boris Spassky"
       },
       {
+         "description" : "India in Joint second Position- Bo. 13 Mongolia Rtg 3 India Rtg 1 : 3 4.1 FM Anand, Batsukh 2202 IM Pranav, V",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-youth-under-16-chess-olympiad-6th-round-report/",
+         "pubDate" : "Sat, 08 Oct 2022 14:37:57 +0000",
+         "title" : "World Youth (Under 16) Chess Olympiad- 6th Round report"
+      },
+      {
          "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +66,22 @@ news_feed (
          "title" : "Magnus Carlsen: Soon I will have no World Championship titles so it's time to start winning some of them back"
       },
       {
+         "description" : "Three decisive games were seen both at the U.S. Championship and the U.S. Women's Championship in Friday's third round. In the open, Fabiano Caruana and Awonder Liang scored their first wins of the event, while Christopher Yoo grabbed a second victory in a row. Among the women, Tatev Abrahamyan, Gulrukhbegim Tokhirjonova and Ruiyang Yan collected full points. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r3",
+         "pubDate" : "Sat, 08 Oct 2022 09:05:00 +0100",
+         "title" : "U.S. Championships: Caruana scores, Yoo wins two in a row"
+      },
+      {
+         "description" : "White has active pieces and a powerful passed pawn on d6 while Black's back rank is weak. In the diagram position you are probably itching to find the decisive move that defeats Black. But can you calculate everything in your head until the knockout comes five moves later?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/double-flop-2",
+         "pubDate" : "Sat, 08 Oct 2022 09:00:00 +0100",
+         "title" : "Passed pawns are powerful"
+      },
+      {
          "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,28 +122,12 @@ news_feed (
          "title" : "When dinosaurs ruled the chessboard"
       },
       {
-         "description" : "White has active pieces and a powerful passed pawn on d6 while Black's back rank is weak. In the diagram position you are probably itching to find the decisive move that defeats Black. But can you calculate everything in your head until the knockout comes five moves later?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/double-flop-2",
-         "pubDate" : "Sat, 08 Oct 2022 07:45:00 +0100",
-         "title" : "Passed pawns are powerful"
-      },
-      {
          "description" : "Grandmaster Smbat Lputian, chairman of the Chess and Education Commission of the International Chess Federation (EDU FIDE), informs us that an International Online Conference entitled \"Chess in the Process of a Preschooler's Development\" will be held on December 10, 2022. The goal of the conference is to discuss different approaches of teaching chess to preschoolers mainly considering chess as an educational tool for a child's development.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-preschooler-development",
          "pubDate" : "Sat, 08 Oct 2022 07:30:00 +0100",
          "title" : "Conference: Chess in the process of a preschooler's development"
-      },
-      {
-         "description" : "Three decisive games were seen both at the U.S. Championship and the U.S. Women's Championship in Friday's third round. In the open, Fabiano Caruana and Awonder Liang scored their first wins of the event, while Christopher Yoo grabbed a second victory in a row. Among the women, Tatev Abrahamyan, Gulrukhbegim Tokhirjonova and Ruiyang Yan collected full points. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r3",
-         "pubDate" : "Sat, 08 Oct 2022 07:00:00 +0100",
-         "title" : "U.S. Championships: Caruana scores, Yoo wins two in a row"
       },
       {
          "description" : "GMs Fabiano Caruana, Christopher Yoo, and Awonder Liang all won their third-round games at the 2022 U.S. Championships on Friday, with the former two joining GMs Sam Sevian and Hans Niemann atop the leaderboard on 2/3. Players with the white pie...",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/19/aikhoje-gets-98-olympiad-gold-medal/",
          "pubDate" : "Mon, 19 Sep 2022 11:33:02 +0000",
          "title" : "Aikhoje gets '98 Olympiad gold medal!"
-      },
-      {
-         "description" : "Round 3 (18.09.2022 ) U-8 Open: http://chess-results.com/tnr670148.aspx?lan=1&#038;art=2&#038;rd=3&#038;flag=30 AFM Safin Safarullakhan lost on the 2nd board against the 3rd seeded player Shogdzhiev Roman Sav. It was",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cadets-chess-championships-2022-batumi-georgia-round-3-18-09-2022-1500/",
-         "pubDate" : "Mon, 19 Sep 2022 09:43:41 +0000",
-         "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 3 (18.09.2022 ; 15:00)"
       },
       {
          "description" : " The Julius Baer Generation Cup takes place on chess24 18th to 25th September 2022. Play starts at 17:00 BST each day. The event is part of the Meltwater Champions Chess Tour. The field has a deliberate mix of generations. Players: Magnus Carlsen, Jan-Krzysztof Duda, Quang Liem Le, R Praggnanandhaa, Levon Aronian, Arjun Erigaisi, Anish Giri, David Navara, Vincent Keymer, Radoslaw Wojtaszek, Vasyl Ivanchuk, Ivan Saric, Boris Gelfand, Hans Moke Niemann, Baskaran Adhiban and Christopher Woojin Yoo. There will obviously be a lot of attention on the day 2 round 6 game between Carlsen and Niemann (update Carlsen resigned on move 2). ",
