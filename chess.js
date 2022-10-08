@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Boris Spassky was the fourth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-how-i-met-boris-spassky",
+         "pubDate" : "Sat, 08 Oct 2022 16:00:00 +0100",
+         "title" : "Frederic's mates - How I met Boris Spassky"
+      },
+      {
+         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
+         "pubDate" : "Sat, 08 Oct 2022 13:50:00 +0100",
+         "title" : "European Club Cup - Live"
+      },
+      {
+         "description" : "Harikrishna won his first ever game against Vishy Anand and Vidit scored a 5th win in 5 games as their team Novy Bor crushed top seeds Superbet to maintain a 100% score in the European Club Cup in Mayrhofen. Shakhriyar Mamedyarov's Viernheim are a point behind, while Magnus Carlsen's Offerspill are among 8 teams sharing 3rd after Magnus beat Anton Korobov for a 3rd win in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/euro-club-cup-5-hari-beats-vishy-as-magnus-scores-3rd-win-in-a-row",
+         "pubDate" : "Sat, 08 Oct 2022 12:16:10 +0000",
+         "title" : "Euro Club Cup 5: Hari beats Vishy as Magnus scores 3rd win in a row"
+      },
+      {
+         "description" : "The US Chess Championship 2022 is being played in Saint Louis Chess Club with Fabiano Caruana,&#xA0;Levon Aronian and Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann had a perfect start at the tournament defeating Christopher Yoo with black pieces. He gave a short post-game interview sending a message &#8220;Chess speaks for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-the-2022-disrespect-championship-is-just-warming-up-tweetoftheday/",
+         "pubDate" : "Sat, 08 Oct 2022 11:51:39 +0000",
+         "title" : "Fabiano Caruana: The 2022 Disrespect Championship is just warming up #TweetOftheDay"
+      },
+      {
          "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The defending US champion Wesley So scores 1/3 points and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,7 +58,7 @@ news_feed (
          "title" : "Magnus Carlsen: Soon I will have no World Championship titles so it's time to start winning some of them back"
       },
       {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-us-chess-championship-2022-round-4-live/",
@@ -94,8 +126,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-3",
-         "pubDate" : "Fri, 07 Oct 2022 21:06:09 -0700",
-         "title" : "Six White Wins Shake Up The Standings"
+         "pubDate" : "Fri, 07 Oct 2022 21:06:00 -0700",
+         "title" : "Six White Wins Shake Up Standings"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Ruiyang Yan talks to Cristian Chirila after defeating Sophie Morris-Suzuki in Round 3 of the 2022 U.S. Women's Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yan-first-us-womens-championship-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_ozTvfCtPao.jpg?itok=YBvTYqwJ\" alt=\"\" /></a></div>",
@@ -192,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championship-returning-saint-louis",
          "pubDate" : "Fri, 07 Oct 2022 21:53:52 +0000",
          "title" : "2022 U.S. Chess Championship: Returning to Saint Louis"
-      },
-      {
-         "description" : "The President of the Norwegian Chess Federation Joachim Nilsen resigned from his position today, one day after he admitted to cheating on chess.com. Nilsen confessed to NRK that he cheated online during the PRO Chess League 2016/2017, as he received outside help from a person who was hidden in the room while he played for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/daniel-rensch-explains-why-chess-com-didnt-ban-joachim-nilsen-who-admitted-to-cheating-in-pro-chess-league/",
-         "pubDate" : "Fri, 07 Oct 2022 20:24:31 +0000",
-         "title" : "Daniel Rensch explains why chess.com didn't ban Joachim Nilsen who admitted to cheating in PRO Chess League"
       },
       {
          "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
@@ -1538,28 +1562,12 @@ news_feed (
          "title" : "FIDE WGP: Goryachkina and Lagno head-to-head in Astana "
       },
       {
-         "description" : "Today, Svitlana takes her \"smart moves\" very literal, and presents to us an opening, which you might not have heard of yet. The two knights tango is not a Gambit, but a quite solid offbeat opening, focusing on the power of very early knight development, and asking the opponent to push the pawns forward too hasty. If the opponent commits to pawn moves, the tango knights can dance around the board, and cause some havoc. A fine opening for Black. Other names for this opening are: Black Knights' Tango, Mexican Defence or Kevitz-Trajkovic Defence",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-alekhine-defense-2",
-         "pubDate" : "Mon, 26 Sep 2022 19:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - The two knights tango opening"
-      },
-      {
          "description" : "Another fortnight has passed since our previous report on the planet's top-two, ongoing, engine vs. engine competitions: <A HREF=\"http://chessforallages.blogspot.com/2022/09/tcec-s23-l1-ccc19-blitz-both-underway.html\">TCEC S23 L1, CCC19 Blitz - Both Underway</A>(September 2022). Here's a summary of that report:- <BLOCKQUOTE>TCEC: S23 L2 finished with four engines promoting. The 12-engine L1 is in the second of its four round robins. &#149; CCC: Dragon edged Lc0 by three points in the 'CCC18 Rapid Challenger' match. Later the site started a series of 'CCC19 Blitz' events. Between CCC18 and CCC19, the CCC launched an eight-engine 'Chess 324 Bonus' event. </BLOCKQUOTE> <P>In the two intervening",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html",
          "pubDate" : "Mon, 26 Sep 2022 15:14:00 +0000",
          "title" : "TCEC S23 Paused; 'CCC19 Blitz Main' Underway"
-      },
-      {
-         "description" : "In the diagrammed position it is Black to move and he destroyed the white kingside in a most impressive way - I wish you happy sacrificing!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-marshall-attack--la-svidler",
-         "pubDate" : "Mon, 26 Sep 2022 16:00:00 +0100",
-         "title" : "The Marshall attack &agrave; la Svidler"
       },
       {
          "description" : "Once again we will be presenting you with some unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where you can move the pieces to analyse. In one case there will be an engine that will defend against your attempts to win. The solutions with full explanations will be provided in a few days.",
@@ -1752,14 +1760,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-two/",
          "pubDate" : "Fri, 23 Sep 2022 10:00:40 +0000",
          "title" : "A Foundation for Beginners Seventy Two"
-      },
-      {
-         "description" : "We won't get a Carlsen-Niemann final in the Julius Baer Generation Cup after Liem Le beat Hans Niemann 2.5:1.5 in the quarterfinals. Magnus did progress, storming back to beat Levon Aronian 3:1 after losing the first game, and now plays Vincent Keymer, who defeated Praggnanandhaa. Arjun Erigaisi faces Le in the semis after edging a thrilling battle against Christopher Yoo.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/generation-cup-qfs-carlsen-through-but-niemann-knocked-out",
-         "pubDate" : "Fri, 23 Sep 2022 06:35:48 +0000",
-         "title" : "Generation Cup QFs: Carlsen through but Niemann out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94388291.cms\" />Magnus Carlsen is still not explaining his one move resignation. But he has now added a name. That of Hans Niemann's coach GM Maxim Dlugy.",
