@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2022-10-07","3","<a href=http://www.uschess.org/msa/XtblMain.php?202210070772 target='_blank'>FBCC 2022 LUCKY 7 OPEN</a>",
+"SPRING","2022-10-07","8","<a href=http://www.uschess.org/msa/XtblMain.php?202210070752 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2022-10-07","28","<a href=http://www.uschess.org/msa/XtblMain.php?202210070732 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-10-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202210049982 target='_blank'>RCC QUADS OCTOBER 4, 2022</a>",
 "HOUSTON","2022-10-02","4","<a href=http://www.uschess.org/msa/XtblMain.php?202210029212 target='_blank'>OCTOBER  2 SUNDAY SWISS</a>",
 "SPRING","2022-10-01","149","<a href=http://www.uschess.org/msa/XtblMain.php?202210018342 target='_blank'>ST EDWARD SCHOLASTIC CHESS TOURNAME</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2022-01-15","44","<a href=http://www.uschess.org/msa/XtblMain.php?202201157612 target='_blank'>WHARTON ACADEMY SCHOLASTIC</a>",
 "SPRING","2022-01-14","22","<a href=http://www.uschess.org/msa/XtblMain.php?202201148062 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-01-14","8","<a href=http://www.uschess.org/msa/XtblMain.php?202201147822 target='_blank'>FBCC01142022</a>",
-"CYPRESS","2022-01-14","8","<a href=http://www.uschess.org/msa/XtblMain.php?202201147112 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-01-09","6","<a href=http://www.uschess.org/msa/XtblMain.php?202201096572 target='_blank'>HOUSTON JAN. 9 SUNDAY SWISS</a>",
-"HOUSTON","2022-01-09","94","<a href=http://www.uschess.org/msa/XtblMain.php?202201095832 target='_blank'>THE CHESS REFINERY: NEW YEAR'S BLAST</a>",
 ]);
