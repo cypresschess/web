@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Welcome to our new series with Lilit Mkrtchian - \"How does a chess pro prepare for a tournament?\". Very recently, the Armenian IM played quite superb tournaments at the Olympiad, and the European Women's Championship. We wanted to ask a professional chess player, how they prepare for a tournament, so you at home can get some ideas, tricks, and inspiration for your next tournament. We start off with one of the keys for a good prep - building an opening repertoire. Perhaps not as ChessBase intended it, but it seems to work wonderfully for Lilit!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-1-how-to-create-an-opening-repertoire-with-chessbase-for-the-rest-of-your-life",
+         "pubDate" : "Sun, 09 Oct 2022 13:00:00 +0100",
+         "title" : "Lilit Mkrtchian (1) - How to create an opening repertoire with ChessBase for the rest of your life"
+      },
+      {
          "description" : "After announcing the warming up of &#8220;the 2022 Disrespect Championship&#8221;, Fabiano Caruana defeated Hans Niemann in the fourth round of the US Chess Championship yesterday (Replay the game here). Joining the live studio after the game, Fabiano said that he hoped to give an interesting interview, but after more than five hours of play, he []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/i-am-not-willing-to-play-chess-with-niemann-carlsen-on-the-cheat/",
          "pubDate" : "Tue, 27 Sep 2022 08:01:06 +0000",
          "title" : "\"I am not willing to play chess with Niemann\" Carlsen on the cheating scandal"
-      },
-      {
-         "description" : "In the diagrammed position it is Black to move. Endgames with bishops of opposite colours have large drawish tendencies but here Black's passed b-pawn and the active black king are more important. How should Black proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/activity",
-         "pubDate" : "Tue, 27 Sep 2022 09:00:00 +0100",
-         "title" : "Activity!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94466344.cms\" />World chess champion Magnus Carlsen said on Monday he believed Hans Niemann had \"cheated more - and more recently - than he has publicly admitted\", adding he no longer wanted to play against the American and any rivals who repeatedly cheated in the past.",
