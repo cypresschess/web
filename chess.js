@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Sun, 09 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
          "description" : " Sixteen-year-old Saad Abobaker Elmi recently scored 7/11 in the World Youth Chess Championships in Romania after winning the Nordic Youth Championships. Of Somalian ancestry, his parents immigrated to Oslo, Norway where he took up chess at an early age. He recently came in second in the Norway Junior Championships and had a strong performance in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/\">Saad Elmi, Next Star in Norway?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1530,14 +1538,6 @@ news_feed (
          "title" : "Magnus Carlsen says won't play against 'cheat' Hans Niemann"
       },
       {
-         "description" : "Kateryna Lagno grabbed the sole lead at the Women's Grand Prix in Astana after scoring a fourth win in a row on Tuesday. Lagno defeated Zhu Jiner with the black pieces, while former co-leader Aleksandra Goryachkina signed a quick draw in her game against Zhansaya Abdumalik. Alexandra Kosteniuk and Polina Shuvalova also scored full points in round 9. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r9",
-         "pubDate" : "Wed, 28 Sep 2022 02:30:00 +0100",
-         "title" : "Astana GP: Lagno wins fourth game in a row, leads"
-      },
-      {
          "description" : "Congratulations to Shubhi Gupta and Charvi A for becoming World Champions in Under-12 and Under-8 Girls Categories at World Cadet Chess Championship at Batumi, Georgia",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -2104,14 +2104,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2022",
          "pubDate" : "Mon, 19 Sep 2022 12:35:00 +0400",
          "title" : "Julius Baer Generation Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1990",
-         "pubDate" : "Sun, 18 Sep 2022 18:40:58 +0000",
-         "title" : "FIDE WGP Astana: Goryachkina and Paehtz lead the dance"
       }
    ]
 }
