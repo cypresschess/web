@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two top seeds in the U.S. Championship won in Saturday's round 4. Wesley So bounced back from a loss by beating Sam Shankland, while Fabiano Caruana became the first sole leader of the event after taking down Hans Niemann. Aleksandr Lenderman also scored a full point, as he defeated Christopher Yoo. In the women's event, Jennifer Yu and Tatev Abrahamyan grabbed wins to join Alice Lee in the lead. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r4",
+         "pubDate" : "Sun, 09 Oct 2022 05:05:00 +0100",
+         "title" : "U.S. Championships: Caruana beats Niemann to take the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks the women's championship field what their favorite part is of the U.S. Championship being held in Saint Louis. This aired during Round 4. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-women%E2%80%99s-championship-returning-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mZuP5VwFssg.jpg?itok=UICa1_XW\" a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-women%E2%80%99s-championship-returning-saint-louis",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "2022 U.S. Women's Championship: Returning to Saint Louis"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after a draw with Swiercz in Round 4 of the 2022 U.S. Chess Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-13-rounds-reminds-me-cuba-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAA9pbBeMlc.jpg?itok=xdfL-ykP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-13-rounds-reminds-me-cuba-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "Dominguez: 13 Rounds Reminds Me of Cuba | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Morris-Suzuki in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-just-%E2%80%9Cmake-move%E2%80%9D-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cFA3YvEUurQ.jpg?itok=2ZSG2ppu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-just-%E2%80%9Cmake-move%E2%80%9D-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "Jennifer Yu: Just \"Make The Move!\" | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after defeating Eswaran in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-feels-good-get-first-win-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/whvar7R2Ghw.jpg?itok=vi-DpE4_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-feels-good-get-first-win-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "Krush: Feels Good to Get That First Win | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Sam Shankland in Round 4 of the 2022 U.S. Chess Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-knows-his-older-opponents-better-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HGZr2bKkjk4.jpg?itok=tHCtUClH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-knows-his-older-opponents-better-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "Wesley So Knows his Older Opponents Better | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after defeating Sabina Foisor in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abrahamyanback-back-wins-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uJdw3KAKC1E.jpg?itok=ENd2Iwlm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/abrahamyanback-back-wins-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "Abrahamyan:Back-To-Back Wins! | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Lenderman talks to Cristian Chirila after defeating Christopher Yoo in Round 4 of the 2022 U.S. Chess Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lenderman-how-crush-gm-catalan-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eRMBGF44Puw.jpg?itok=ZgEoot6E\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lenderman-how-crush-gm-catalan-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "Lenderman: How To Crush A GM With The Catalan! | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Cristian Chirila after defeating Megan Lee in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-exchange-semi-slav-isnt-so-easy-black-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/se26lbFHIro.jpg?itok=XLxkgbWj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/zatonskih-exchange-semi-slav-isnt-so-easy-black-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
+         "title" : "Zatonskih: Exchange Semi-Slav Isn't So Easy For Black | Round 4"
+      },
+      {
          "description" : "Fabiano Caruana defeated 19-year-old Hans Niemann in the fourth round of the US Chess Championship taking the sole lead in the event (Replay the game here). Caruana yesterday announced the warming up of &#8220;The 2022 Disrespect Championship&#8221; and today delivered a victory after a dramatic game. Joining the live studio of the US Championship, Caruana []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,22 +106,6 @@ news_feed (
          "title" : "Ruiyang Yan: First U.S. Women's Championship | Round 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Gulrukhbegim Tokhirjonova talks to Cristian Chirila after defeating Rochelle Wu in Round 3 of the 2022 U.S. Women's Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-takes-down-rochelle-wu-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Iu46R5BgzFA.jpg?itok=9YzkcLlO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-takes-down-rochelle-wu-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 21:54:27 +0000",
-         "title" : "Begim Takes Down Rochelle Wu! | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.11<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-6-lichessorg",
-         "pubDate" : "Sat, 08 Oct 2022 21:54:27 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 6 | lichess.org"
-      },
-      {
          "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,22 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2028",
          "pubDate" : "Sat, 08 Oct 2022 19:18:22 +0000",
          "title" : "FIDE President makes a tour of Latin America"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Sat, 08 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.07<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 18:54:21 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 3"
       },
       {
          "description" : "Fabiano Caruana eventually beat Dariusz Swiercz to join the US Championship leaders and tweeted afterwards, \"the 2022 Disrespect Championship is just warming up\". Wesley So made a quiet draw and then hit out at disrespect from Hans Niemann, who held a tricky endgame against Sam Shankland. Christopher Yoo tried to dial back his disrespect comments, but was on fire on the board as he won a 2nd game in a row.",
@@ -216,46 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-3",
          "pubDate" : "Fri, 07 Oct 2022 21:06:00 -0700",
          "title" : "Six White Wins Shake Up Standings"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ruiyang Yan talks to Cristian Chirila after defeating Sophie Morris-Suzuki in Round 3 of the 2022 U.S. Women's Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yan-first-us-womens-championship-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_ozTvfCtPao.jpg?itok=YBvTYqwJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yan-first-us-womens-championship-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 03:53:59 +0000",
-         "title" : "Yan: First U.S. Women's Championship | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Swiercz in Round 3 of the 2022 U.S. Chess Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-how-exploit-time-advantage-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/81tnPQ1HZ50.jpg?itok=DromGijB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-how-exploit-time-advantage-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 03:53:59 +0000",
-         "title" : "Caruana: How to Exploit a Time Advantage | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gulrukhbegim Tokhirjonova talks to Cristian Chirila after defeating Rochelle Wu in Round 3 of the 2022 U.S. Women's Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tokhirjonova-taking-down-rochelle-wu-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Iu46R5BgzFA.jpg?itok=9YzkcLlO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tokhirjonova-taking-down-rochelle-wu-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 03:53:59 +0000",
-         "title" : "Tokhirjonova: Taking Down Rochelle Wu! | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Xiong in Round 3 of the 2022 U.S. Chess Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-i-always-lose-teenagers-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GsikAfMrNQA.jpg?itok=UK5mQoQ1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-i-always-lose-teenagers-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 00:53:57 +0000",
-         "title" : "Wesley So: I Always Lose to Teenagers | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Cristian Chirila after defeating Moradiabadi in Round 3 of the 2022 U.S. Chess Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-being-center-attention-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xGiV2PqTcFA.jpg?itok=Q9emFi_M\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-being-center-attention-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 00:53:57 +0000",
-         "title" : "Christopher Yoo: Being the Center of Attention | Round 3"
       },
       {
          "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
