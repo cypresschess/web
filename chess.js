@@ -10,6 +10,22 @@ news_feed (
          "title" : "U.S. Championships - Live"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after defeating Sabina Foisor in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abrahamyan-back-back-wins-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uJdw3KAKC1E.jpg?itok=ENd2Iwlm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/abrahamyan-back-back-wins-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 18:55:04 +0000",
+         "title" : "Abrahamyan: Back-To-Back Wins! | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.08<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 18:55:04 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 4"
+      },
+      {
          "description" : " Sixteen-year-old Saad Abobaker Elmi recently scored 7/11 in the World Youth Chess Championships in Romania after winning the Nordic Youth Championships. Of Somalian ancestry, his parents immigrated to Oslo, Norway where he took up chess at an early age. He recently came in second in the Norway Junior Championships and had a strong performance in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/\">Saad Elmi, Next Star in Norway?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -202,14 +218,6 @@ news_feed (
          "title" : "Lenderman: How To Crush A GM With The Catalan! | Round 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Anna Zatonskih talks to Cristian Chirila after defeating Megan Lee in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/zatonskih-exchange-semi-slav-isnt-so-easy-black-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/se26lbFHIro.jpg?itok=XLxkgbWj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/zatonskih-exchange-semi-slav-isnt-so-easy-black-round-4",
-         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
-         "title" : "Zatonskih: Exchange Semi-Slav Isn't So Easy For Black | Round 4"
-      },
-      {
          "description" : "Fabiano Caruana defeated 19-year-old Hans Niemann in the fourth round of the US Chess Championship taking the sole lead in the event (Replay the game here). Caruana yesterday announced the warming up of &#8220;The 2022 Disrespect Championship&#8221; and today delivered a victory after a dramatic game. Joining the live studio of the US Championship, Caruana []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r6",
          "pubDate" : "Sun, 09 Oct 2022 00:40:00 +0100",
          "title" : "European Club Cup: Vidit on fire!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Xiong in Round 3 of the 2022 U.S. Chess Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-hans-most-disrespectful-teen-chess-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GsikAfMrNQA.jpg?itok=UK5mQoQ1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-hans-most-disrespectful-teen-chess-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 21:54:27 +0000",
-         "title" : "Wesley So: Hans Most Disrespectful Teen in Chess | Round 3"
       },
       {
          "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
