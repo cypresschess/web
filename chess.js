@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2029",
+         "pubDate" : "Sun, 09 Oct 2022 21:57:05 +0000",
+         "title" : "Novy Bor wins European Club Cup"
+      },
+      {
+         "description" : "Hans Niemann drew against Leinier Dominguez in the fifth round of the US Chess Championship. Hans seemed to be in trouble after the opening, but managed to convert the position into a very drawish endgame with an exchange down (Replay the game here). Niemann joined the live studio of the US Chess Championship for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-i-was-making-an-order-and-the-guy-said-to-me-this-order-speaks-for-itself/",
+         "pubDate" : "Sun, 09 Oct 2022 21:42:19 +0000",
+         "title" : "Hans Niemann: I was making an order and the guy said to me \"This order speaks for itself\""
+      },
+      {
+         "description" : "FIDE World Fischer Random Chess Championship over-the-board final will take place in the Berjaya Reykjavik Natura Hotel, Iceland, from 25-30 October 2022. The overall prize fund of the final in the Icelandic capital amounts to a whopping 400,000 USD and eight players will have a shot at the 150,000 USD first prize and the FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-to-headline-fide-world-fischer-random-chess-championship-2022/",
+         "pubDate" : "Sun, 09 Oct 2022 20:55:53 +0000",
+         "title" : "Magnus Carlsen to headline FIDE World Fischer Random Chess Championship 2022"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,14 +282,6 @@ news_feed (
          "title" : "US Chess Champs 3: Fabi & Yoo join \"Disrespect Championship\" leaders"
       },
       {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and resigned his game after two moves of play. By the end of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-alejandro-ramirez-it-seems-very-likely-that-hans-niemann-has-cheated-over-the-board/",
-         "pubDate" : "Sat, 08 Oct 2022 15:49:25 +0000",
-         "title" : "GM Alejandro Ramirez: It seems very likely that Hans Niemann has cheated over-the-board"
-      },
-      {
          "description" : "Boris Spassky was the fourth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/euro-club-cup-5-hari-beats-vishy-as-magnus-scores-3rd-win-in-a-row",
          "pubDate" : "Sat, 08 Oct 2022 12:16:10 +0000",
          "title" : "Euro Club Cup 5: Hari beats Vishy as Magnus scores 3rd win in a row"
-      },
-      {
-         "description" : "The US Chess Championship 2022 is being played in Saint Louis Chess Club with Fabiano Caruana,&#xA0;Levon Aronian and Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann had a perfect start at the tournament defeating Christopher Yoo with black pieces. He gave a short post-game interview sending a message &#8220;Chess speaks for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-the-2022-disrespect-championship-is-just-warming-up-tweetoftheday/",
-         "pubDate" : "Sat, 08 Oct 2022 11:51:39 +0000",
-         "title" : "Fabiano Caruana: The 2022 Disrespect Championship is just warming up #TweetOftheDay"
       },
       {
          "description" : "White has active pieces and a powerful passed pawn on d6 while Black's back rank is weak. In the diagram position you are probably itching to find the decisive move that defeats Black. But can you calculate everything in your head until the knockout comes five moves later?",
