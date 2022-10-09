@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After announcing the warming up of &#8220;the 2022 Disrespect Championship&#8221;, Fabiano Caruana defeated Hans Niemann in the fourth round of the US Chess Championship yesterday (Replay the game here). Joining the live studio after the game, Fabiano said that he hoped to give an interesting interview, but after more than five hours of play, he []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-fabi-disrespecting-the-entire-chess-world-by-making-hans-look-like-a-noob-tweetoftheday/",
+         "pubDate" : "Sun, 09 Oct 2022 10:39:51 +0000",
+         "title" : "Anish Giri: Fabi disrespecting the entire chess world by making Hans look like a noob #TweetOftheDay"
+      },
+      {
+         "description" : " It's White to play in this position from the recent British Championship game between Dietmar Kolbus and Peter Finn. What do you think? White win, draw or black win? Place your bets now before reading on. Some of the most interesting endings are those involving battles between a piece and an army of pawns rushing <a href=\"https://chessimprover.com/bishop-against-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Against Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-against-pawns/\">Bishop Against Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/bishop-against-pawns/",
+         "pubDate" : "Sun, 09 Oct 2022 10:00:04 +0000",
+         "title" : "Bishop Against Pawns"
+      },
+      {
+         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
+         "pubDate" : "Sun, 09 Oct 2022 10:50:00 +0100",
+         "title" : "European Club Cup - Final round: Live"
+      },
+      {
+         "description" : "The historical chess tournament, Tournament of Peace 2022, will take place from 12th 20th October 2022 in Zagreb, Croatia. The event will be played in the National and University Library, with 10 world-class grandmasters competing over 9 rounds (round-robin system). The participants are: Santos Latasa Jaime (ESP, 2672), Moussard Jules (FRA, 2670), Shevchenko Kirill (UKR, 2642), Yilmaz&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tournament-of-peace-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tournament-of-peace-2022/",
+         "pubDate" : "Sun, 09 Oct 2022 09:20:18 +0000",
+         "title" : "Tournament of Peace 2022"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. This is the first US Chess Championship for Levon Aronian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/awonder-liang-vs-levon-aronian-us-chess-championship-2022/",
+         "pubDate" : "Sun, 09 Oct 2022 08:30:53 +0000",
+         "title" : "Awonder Liang vs Levon Aronian, US Chess Championship 2022"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann had a perfect start at the tournament, but []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/leinier-dominguez-vs-hans-niemann-us-chess-championship-2022-round-5-live/",
+         "pubDate" : "Sun, 09 Oct 2022 08:25:01 +0000",
+         "title" : "Leinier Dominguez vs Hans Niemann, US Chess Championship 2022 Round 5 LIVE"
+      },
+      {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana defeated Hans Niemann after a thrilling R4 game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-vs-wesley-so-us-chess-championship-2022-round-5-live/",
+         "pubDate" : "Sun, 09 Oct 2022 08:18:31 +0000",
+         "title" : "Fabiano Caruana vs Wesley So, US Chess Championship 2022 Round 5 LIVE"
+      },
+      {
          "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -194,30 +250,6 @@ news_feed (
          "title" : "Fabiano Caruana: The 2022 Disrespect Championship is just warming up #TweetOftheDay"
       },
       {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The defending US champion Wesley So scores 1/3 points and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-vs-sam-shankland-us-chess-championship-2022-round-4-live/",
-         "pubDate" : "Sat, 08 Oct 2022 11:00:01 +0000",
-         "title" : "Wesley So vs Sam Shankland, US Chess Championship 2022 Round 4 LIVE"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. 15-year-old Christopher Yoo is one of the leaders of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandr-lenderman-vs-christopher-yoo-us-chess-championship-2022-round-4-live/",
-         "pubDate" : "Sat, 08 Oct 2022 10:50:55 +0000",
-         "title" : "Aleksandr Lenderman vs Christopher Yoo, US Chess Championship 2022 Round 4 LIVE"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen currently plays the European Chess Club Cup 2022 where he competes for Norwegian Offerspill Chess Club. Magnus scores 3.5/4 points while his team ties for the third place with 8 match points. After defeating Anton Korobov in the fifth round of the event, Magnus Carlsen joined Fiona Steil-Antoni for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-soon-i-will-have-no-world-championship-titles-so-its-time-to-start-winning-some-of-them-back/",
-         "pubDate" : "Sat, 08 Oct 2022 10:23:39 +0000",
-         "title" : "Magnus Carlsen: Soon I will have no World Championship titles so it's time to start winning some of them back"
-      },
-      {
          "description" : "White has active pieces and a powerful passed pawn on d6 while Black's back rank is weak. In the diagram position you are probably itching to find the decisive move that defeats Black. But can you calculate everything in your head until the knockout comes five moves later?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -288,6 +320,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/us-chess-champs-2-yoo-channels-hans-anger-to-beat-so",
          "pubDate" : "Fri, 07 Oct 2022 16:52:26 +0000",
          "title" : "US Chess Champs 2: Yoo channels Hans anger to beat So"
+      },
+      {
+         "description" : "Last week's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html\">Fischer: 'That's my answer'</A>(September 2022), covered the start of the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>(m-w.com). At the pre-match press conference Fischer said, <BLOCKQUOTE>\"I'll start off with, umm, ah, some impudent questions from The New York Times [Roger Cohen].\" </BLOCKQUOTE> <P>Roger Cohen wasn't some random chess journalist. His Wikipedia page <A HREF=\"https://en.wikipedia.org/wiki/Roger_Cohen\">Roger Cohen</A>(wikipedia.org) starts, <BLOCKQUOTE>Roger Cohen (born 2 August 1955) is a journalist and author. He was a reporter, e",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/roger-cohen-foreign-correspondent.html",
+         "pubDate" : "Fri, 07 Oct 2022 15:28:00 +0000",
+         "title" : "Roger Cohen, Foreign Correspondent"
       },
       {
          "description" : "IM Joachim Birger Nilsen (29) resigned as the president of the Norwegian Chess Federation, a day after admitting to cheating on Chess.com during one match in the 2016-2017 season of the PRO Chess League. Nilsen was part of the Norway Gnomes team, ...",
@@ -1546,14 +1586,6 @@ news_feed (
          "title" : "Activity!"
       },
       {
-         "description" : "An exciting eighth round at the Women's Grand Prix in Astana, with five out of six games ending decisively, left Aleksandra Goryachkina and Kateryna Lagno (pictured) sharing the lead on 6/8 points. Notably, Goryachkina defeated former co-leader Zhu Jiner with the white pieces. Zhu now stands in sole third place, a full point behind the leaders. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r8",
-         "pubDate" : "Tue, 27 Sep 2022 05:35:00 +0100",
-         "title" : "Astana GP: Exciting round leaves Lagno and Goryachkina in the shared lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94466344.cms\" />World chess champion Magnus Carlsen said on Monday he believed Hans Niemann had \"cheated more - and more recently - than he has publicly admitted\", adding he no longer wanted to play against the American and any rivals who repeatedly cheated in the past.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2080,22 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/grumpy-old-man.html",
          "pubDate" : "Sun, 18 Sep 2022 13:34:00 +0000",
          "title" : "Grumpy old man"
-      },
-      {
-         "description" : " I have a question for you. Here are some positions from a tournament in which 30 games were played. How strong do you think the players were? In position 1 White played 29. Qf3??, losing at once to Nd3, winning the exchange as both Nxc1 and Ne5 are threatened. In position 2 40. Rb1 or <a href=\"https://chessimprover.com/wrong-said-fred/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Wrong Said Fred\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/wrong-said-fred/\">Wrong Said Fred</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/wrong-said-fred/",
-         "pubDate" : "Sun, 18 Sep 2022 10:00:53 +0000",
-         "title" : "Wrong Said Fred"
-      },
-      {
-         "description" : " The Astana FIDE Women's Grand Prix takes place Sat 17th Sep to Fri 30th Sep 2022. The city in which the event is being held was renamed from Astana to Nur-Sultan in 2019 but yesterday a decree was signed to restore the city to the name of Astana, so I went with that. This is the first of four Women's Grand Prix events as part of the FIDE Women's World Championship cycle, three are next year. There are 16 players in the series, each play 3 of the 4 events. Players: Aleksandra Goryachkina, Polina Shuvalova, Kateryna Lagno, R Vaishali, Alina Kashlinskaya, Alexandra Kosteniuk, Bibisara Assaubayeva, Zhansaya Abdumalik, Zhongyi Tan, Jiner Zhu, Dinara Wagner and Elisabeth Paehtz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/astana-fide-womens-grand-prix-2022",
-         "pubDate" : "Sun, 18 Sep 2022 12:19:00 +0400",
-         "title" : "Astana FIDE Women's Grand Prix 2022\t - Games and Results"
       }
    ]
 }
