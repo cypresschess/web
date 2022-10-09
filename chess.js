@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "19-year-old Awonder Liang crushed Levon Aronian today in the fifth round of the US Chess Championship. Awonder successfully surprised Aronian by playing the Scotch gambit and achieved the completely winning position after only 16 moves of play (Replay the game here). &#8220;I feel ecstatic, it's not something I ever expected, just a lot of things []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/awonder-liang-after-he-crushed-levon-aronian-i-feel-ecstatic-my-university-professor-told-me-i-should-play-the-gambit/",
+         "pubDate" : "Sun, 09 Oct 2022 23:14:33 +0000",
+         "title" : "Awonder Liang after he crushed Levon Aronian: I feel ecstatic&hellip; My university professor told me I should play the gambit"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2029",
          "pubDate" : "Sun, 09 Oct 2022 21:57:05 +0000",
          "title" : "Novy Bor wins European Club Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Hans Niemann in Round 4 of the 2022 U.S. Chess Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-dont-think-hans-wants-chat-me-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oQ0GKwO43a8.jpg?itok=FyPNaty2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-dont-think-hans-wants-chat-me-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 21:55:05 +0000",
+         "title" : "Caruana: Don't Think Hans Wants to Chat With Me | Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.12<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-7-lichessorg",
+         "pubDate" : "Sun, 09 Oct 2022 21:55:05 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 7 | lichess.org"
       },
       {
          "description" : "Hans Niemann drew against Leinier Dominguez in the fifth round of the US Chess Championship. Hans seemed to be in trouble after the opening, but managed to convert the position into a very drawish endgame with an exchange down (Replay the game here). Niemann joined the live studio of the US Chess Championship for the []",
@@ -226,22 +250,6 @@ news_feed (
          "title" : "Wesley So Knows his Older Opponents Better | Round 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after defeating Sabina Foisor in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abrahamyanback-back-wins-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uJdw3KAKC1E.jpg?itok=ENd2Iwlm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/abrahamyanback-back-wins-round-4",
-         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
-         "title" : "Abrahamyan:Back-To-Back Wins! | Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Lenderman talks to Cristian Chirila after defeating Christopher Yoo in Round 4 of the 2022 U.S. Chess Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lenderman-how-crush-gm-catalan-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eRMBGF44Puw.jpg?itok=ZgEoot6E\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lenderman-how-crush-gm-catalan-round-4",
-         "pubDate" : "Sun, 09 Oct 2022 00:54:22 +0000",
-         "title" : "Lenderman: How To Crush A GM With The Catalan! | Round 4"
-      },
-      {
          "description" : "Fabiano Caruana defeated 19-year-old Hans Niemann in the fourth round of the US Chess Championship taking the sole lead in the event (Replay the game here). Caruana yesterday announced the warming up of &#8220;The 2022 Disrespect Championship&#8221; and today delivered a victory after a dramatic game. Joining the live studio of the US Championship, Caruana []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r6",
          "pubDate" : "Sun, 09 Oct 2022 00:40:00 +0100",
          "title" : "European Club Cup: Vidit on fire!"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-fabiano-caruana-us-chess-championship-2022-round-4-live/",
-         "pubDate" : "Sat, 08 Oct 2022 19:29:00 +0000",
-         "title" : "Hans Niemann vs Fabiano Caruana 0-1, US Chess Championship 2022 Round 4"
       },
       {
          "description" : "",
