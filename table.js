@@ -1,5 +1,5 @@
 jtable([
-"HOUSTON","2022-10-08","131","<a href=http://www.uschess.org/msa/XtblMain.php?202210081252 target='_blank'>TCR: FALL SCHOLASTIC ON "NATIONAL CHESS DAY"</a>",
+"HOUSTON","2022-10-08","131","<a href=http://www.uschess.org/msa/XtblMain.php?202210081252 target='_blank'>TCR: FALL SCHOLASTIC ON 'NATIONAL CHESS DAY'</a>",
 "SUGAR LAND","2022-10-07","3","<a href=http://www.uschess.org/msa/XtblMain.php?202210070772 target='_blank'>FBCC 2022 LUCKY 7 OPEN</a>",
 "SPRING","2022-10-07","8","<a href=http://www.uschess.org/msa/XtblMain.php?202210070752 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-10-07","28","<a href=http://www.uschess.org/msa/XtblMain.php?202210070732 target='_blank'>KNIGHTS OF CYPRESS</a>",
