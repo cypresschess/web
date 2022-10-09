@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-5-live/",
+         "pubDate" : "Sun, 09 Oct 2022 07:58:51 +0000",
+         "title" : "US Chess Championship 2022 - Day 5 live"
+      },
+      {
+         "description" : "GM Fabiano Caruana took over the sole lead of the U.S. Championship by defeating co-leader GM Hans Niemann. In the U.S. Women&#x2019;s Championship, WGM Tatev Abrahamyan and WGM Jennifer Yu won to join FM Alice Lee for the lead.&#160; Check out the full replay of live coverage from the day&#160;here. The time control for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-grabs-the-sole-lead-us-chess-championship-day-4-recap/",
+         "pubDate" : "Sun, 09 Oct 2022 07:42:10 +0000",
+         "title" : "Fabiano Caruana grabs the sole lead; US Chess Championship Day 4 recap"
+      },
+      {
          "description" : "The 2022 U.S. Chess Championship continued on Saturday with electric games across the board in round four. GMs Fabiano Caruana, Wesley So, and Alex Lenderman won their respective games with the former rising above the rest of the field by half a p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -224,22 +240,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/norway-president-resigns-after/",
          "pubDate" : "Sat, 08 Oct 2022 08:22:09 +0100",
          "title" : "Norway president resigns after admitting cheating"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-4-live/",
-         "pubDate" : "Sat, 08 Oct 2022 07:18:26 +0000",
-         "title" : "US Chess Championship 2022 - Day 4 live"
-      },
-      {
-         "description" : "GM Fabiano Caruana and GM Christopher Yoo join the tie for first in the U.S. Championship with critical victories. In the U.S. Women&#x2019;s Championship, FM Alice Lee and WIM Megan Lee reached 2.5 to narrow down the leaderboard.&#160; Check out the full replay of live coverage from the day&#160;here. The time control for the event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/niemann-caruana-sevian-and-yoo-share-lead-us-chess-championship-day-3-recap/",
-         "pubDate" : "Sat, 08 Oct 2022 07:07:56 +0000",
-         "title" : "Niemann, Caruana, Sevian and Yoo share lead; US Chess Championship Day 3 recap"
       },
       {
          "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
