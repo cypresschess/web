@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 U.S. Chess Championship continued on Saturday with electric games across the board in round four. GMs Fabiano Caruana, Wesley So, and Alex Lenderman won their respective games with the former rising above the rest of the field by half a p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-4",
+         "pubDate" : "Sat, 08 Oct 2022 21:12:50 -0700",
+         "title" : "Caruana Topples Niemann, Takes Sole Lead"
+      },
+      {
          "description" : "The two top seeds in the U.S. Championship won in Saturday's round 4. Wesley So bounced back from a loss by beating Sam Shankland, while Fabiano Caruana became the first sole leader of the event after taking down Hans Niemann. Aleksandr Lenderman also scored a full point, as he defeated Christopher Yoo. In the women's event, Jennifer Yu and Tatev Abrahamyan grabbed wins to join Alice Lee in the lead. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2022-r4",
          "pubDate" : "Sun, 09 Oct 2022 05:05:00 +0100",
          "title" : "U.S. Championships: Caruana beats Niemann to take the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Hans Niemann in Round 4 of the 2022 U.S. Chess Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-beats-niemann-taking-clear-lead-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oQ0GKwO43a8.jpg?itok=FyPNaty2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-beats-niemann-taking-clear-lead-round-4",
+         "pubDate" : "Sun, 09 Oct 2022 03:54:24 +0000",
+         "title" : "Caruana Beats Niemann Taking Clear Lead! | Round 4"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks the women's championship field what their favorite part is of the U.S. Championship being held in Saint Louis. This aired during Round 4. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-women%E2%80%99s-championship-returning-saint-louis\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mZuP5VwFssg.jpg?itok=UICa1_XW\" a",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wesley-so-hans-most-disrespectful-teen-chess-round-3",
          "pubDate" : "Sat, 08 Oct 2022 21:54:27 +0000",
          "title" : "Wesley So: Hans Most Disrespectful Teen in Chess | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ruiyang Yan talks to Cristian Chirila after defeating Morris-Suzuki in Round 3 of the 2022 U.S. Women's Championship. 2022.10.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ruiyang-yan-first-us-womens-championship-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_ozTvfCtPao.jpg?itok=YBvTYqwJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ruiyang-yan-first-us-womens-championship-round-3",
-         "pubDate" : "Sat, 08 Oct 2022 21:54:27 +0000",
-         "title" : "Ruiyang Yan: First U.S. Women's Championship | Round 3"
       },
       {
          "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. After three played rounds, Hans Niemann, Fabiano Caruana, Samuel Sevian []",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/try-and-avoid-this.html",
          "pubDate" : "Sun, 25 Sep 2022 13:08:00 +0000",
          "title" : "Try and avoid this"
-      },
-      {
-         "description" : "Halfway through the tournament, GM Aleksandra Goryachkina of Russia and WGM Zhu Jiner of China are sharing the lead at the first leg of the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan. The top two players of the Grand Prix will qualify for the n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-astana-fide-women-grand-prix-round-6",
-         "pubDate" : "Sun, 25 Sep 2022 02:49:00 -0700",
-         "title" : "Goryachkina, Zhu Lead 1st Leg Of FIDE Women's Grand Prix"
       },
       {
          "description" : "Magnus Carlsen was an accurate move or two away from making it 4 wins in a row against Arjun Erigaisi in the Julius Baer Generation Cup, but despite winning Day 1 of the final with a game to spare, the World Champion drew attention to \"some pretty bad moments\". Asked to give a positive, he replied, \"I'm winning, that's positive!\"",
