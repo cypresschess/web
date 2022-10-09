@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana defeated 19-year-old Hans Niemann in the fourth round of the US Chess Championship taking the sole lead in the event (Replay the game here). Caruana yesterday announced the warming up of &#8220;The 2022 Disrespect Championship&#8221; and today delivered a victory after a dramatic game. Joining the live studio of the US Championship, Caruana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-after-defeating-hans-niemann-i-am-exhausted-it-was-a-very-difficult-game/",
+         "pubDate" : "Sun, 09 Oct 2022 00:36:20 +0000",
+         "title" : "Fabiano Caruana after defeating Hans Niemann: I am exhausted, it was a very difficult game"
+      },
+      {
          "description" : "Novy Bor, the well-known Czech chess club, is very likely to win the open section of the European Club Cup, as it has a 2-point lead going into Sunday's final round. Playing on board 2 for the Czech team is Vidit Gujrathi, who has scored six wins in as many games in Mayrhofen. In the women's cup, Pamhagen, representing the host country, also has a 2-point lead in the standings. | Photos: Fiona Steil-Antoni",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/christopher-yoo-being-center-attention-round-3",
          "pubDate" : "Sat, 08 Oct 2022 00:53:57 +0000",
          "title" : "Christopher Yoo: Being the Center of Attention | Round 3"
-      },
-      {
-         "description" : "Christopher Yoo scored his second consecutive victory in the US Chess Championship as he defeated Elshan Moradiabadi in today's third round. Yoo joined the live studio for the post-game interview, analyzing the beautiful game he converted into a victory. Christopher then clarified his thoughts from yesterday's interview in which he said that he felt disrespected []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/christopher-yoo-my-mom-was-concerned-after-my-interview-yesterday/",
-         "pubDate" : "Fri, 07 Oct 2022 22:33:03 +0000",
-         "title" : "Christopher Yoo: My mom was concerned after my interview yesterday"
       },
       {
          "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
