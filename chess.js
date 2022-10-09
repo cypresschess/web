@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Sixteen-year-old Saad Abobaker Elmi recently scored 7/11 in the World Youth Chess Championships in Romania after winning the Nordic Youth Championships. Of Somalian ancestry, his parents immigrated to Oslo, Norway where he took up chess at an early age. He recently came in second in the Norway Junior Championships and had a strong performance in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/\">Saad Elmi, Next Star in Norway?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/",
+         "pubDate" : "Sun, 09 Oct 2022 15:29:55 +0000",
+         "title" : "Saad Elmi, Next Star in Norway?"
+      },
+      {
+         "description" : "Fabiano Caruana said \"I think we're no longer on chatting terms!\" after defeating Hans Niemann in 80 moves to take the sole lead in the 2022 US Championship in St. Louis. Defending Champion Wesley So scored his first win, against Sam Shankland, while Alex Lenderman took down Christopher Yoo. Irina Krush and Anna Zatonskih scored their 1st wins in the Women's section.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-3-fabi-beats-hans-to-grab-lead",
+         "pubDate" : "Sun, 09 Oct 2022 14:44:40 +0000",
+         "title" : "US Chess Champs 3: Fabi beats Hans to grab lead"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 94th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-94-backgrounds-of-structures-4",
+         "pubDate" : "Sun, 09 Oct 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 94: Backgrounds of structures (4)"
+      },
+      {
+         "description" : " As I have written previously, my first chess computer was a Scisys Chess Champion Pocket Chess. I credit this computer with helping learn a lot about chess in my early days, and I still have as part of my vintage chess computer collection. However, as I got better at chess I began to beat it more easily, even on the harder levels. As an example here is a game I recently found in an old collection of scoresheets. It was set to level 6, which meant it thought for around 20 minutes a move, but event with this amount of thinking, it only lasted 12 moves. <br /> <b>Scisys - Press,Shaun [C50]</b><br />Computer Match, 1985 <script>new PgnViewer( { boardName: \"game1358\", movesFormat: \"default\", pgn",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/scisys-beating.html",
+         "pubDate" : "Sun, 09 Oct 2022 12:21:00 +0000",
+         "title" : "Scisys beating"
+      },
+      {
          "description" : "Welcome to our new series with Lilit Mkrtchian - \"How does a chess pro prepare for a tournament?\". Very recently, the Armenian IM played quite superb tournaments at the Olympiad, and the European Women's Championship. We wanted to ask a professional chess player, how they prepare for a tournament, so you at home can get some ideas, tricks, and inspiration for your next tournament. We start off with one of the keys for a good prep - building an opening repertoire. Perhaps not as ChessBase intended it, but it seems to work wonderfully for Lilit!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -86,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-4",
-         "pubDate" : "Sat, 08 Oct 2022 21:12:50 -0700",
+         "pubDate" : "Sat, 08 Oct 2022 21:12:00 -0700",
          "title" : "Caruana Topples Niemann, Takes Sole Lead"
       },
       {
@@ -1722,14 +1754,6 @@ news_feed (
          "title" : "Try and avoid this"
       },
       {
-         "description" : "Magnus Carlsen was an accurate move or two away from making it 4 wins in a row against Arjun Erigaisi in the Julius Baer Generation Cup, but despite winning Day 1 of the final with a game to spare, the World Champion drew attention to \"some pretty bad moments\". Asked to give a positive, he replied, \"I'm winning, that's positive!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/generation-cup-final-1-magnus-far-from-satisfied-despite-win",
-         "pubDate" : "Sat, 24 Sep 2022 22:31:44 +0000",
-         "title" : "Generation Cup Final: Magnus \"far from satisfied\" despite win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2088,30 +2112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1990",
          "pubDate" : "Sun, 18 Sep 2022 18:40:58 +0000",
          "title" : "FIDE WGP Astana: Goryachkina and Paehtz lead the dance"
-      },
-      {
-         "description" : "Chess is so popular in Armenia that the title of this photo, 'Chess School Yerevan', doesn't tell us much. Yerevan is the capital of Armenia. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi18.jpg\" WIDTH=400 HEIGHT=300><BR><A HREF=\"https://www.flickr.com/photos/mcfarlandmo/52310265216/\">The Chess School Yerevan</A>&#169; Flickr user <I>mcfarlandmo</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <P>Thanks to Google I found a similar photo on Wikipedia's page <A HREF=\"https://en.wikipedia.org/wiki/Tigran_Petrosian_Chess_House\">Tigran Petrosian Chess House</A>. The page starts, <BLOCKQUOTE><I>Tigran Petrosian Chess House</I>, officially the",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/world-champion-petrosian-chess-school.html",
-         "pubDate" : "Sun, 18 Sep 2022 15:19:00 +0000",
-         "title" : "World Champion Petrosian Chess 'School'"
-      },
-      {
-         "description" : "European Chess Union opens an additional call of interest for the two (2) new ECU Commissions. ECU Media &#38; Communication Commission (Journalists, media &#38; social media experts, streamers). ECU Social Commission (individuals with experience and activities in social projects, specialists in sports for people with disabilities). National Federations members or interested applicants shall submit the online form&#160;https://forms.gle/QVSY8KT7dUk9gxFp9 till&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/open-call-of-interest-for-media-and-social-commissions/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/open-call-of-interest-for-media-and-social-commissions/",
-         "pubDate" : "Sun, 18 Sep 2022 14:25:35 +0000",
-         "title" : "Open Call of Interest for Media and Social Commissions"
-      },
-      {
-         "description" : " In looking for articles for this blog, I usually have a few rough guidelines. They should be about chess (but not always), I should find them interesting (even if you do not), I try and avoid 'clickbait' (which I can usually do), and there should be at least one game on the front page. So I went looking for an interesting game from recent events, and have run into an issue. While a lot more chess is being played and recorded than at any time previously, there is a lot more chaff to sift through. A lot of the online games (even played by strong players) are decided by blatant mistakes, or attempts to trick opponents into pre-moving the wrong response. This is both a function of the time cont",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/grumpy-old-man.html",
-         "pubDate" : "Sun, 18 Sep 2022 13:34:00 +0000",
-         "title" : "Grumpy old man"
       }
    ]
 }
