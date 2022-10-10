@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Maxim Dlugy has published a statement on the Hans Niemann cheating affair. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and []",
+         "description" : "GM Maxim Dlugy has published a statement on the Hans Niemann cheating affair. After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/maxim-dlugy-publishes-a-statement-on-the-hans-niemann-cheating-affair/",
