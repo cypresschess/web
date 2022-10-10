@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Club Cup&#160;concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women&#x2019;s tournament. The best individual players per boards were determined according to the rating performance. Open section Board 1:1. Magus Carlsen (Offerspill Chess Clup), []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-is-the-best-top-board-player-of-the-european-club-cup-2022/",
+         "pubDate" : "Mon, 10 Oct 2022 14:04:57 +0000",
+         "title" : "Magnus Carlsen is the best top-board player of the European Club Cup 2022"
+      },
+      {
+         "description" : "The 37th European Chess Club Cup and the 26th European Women&#x2019;s Club Cup concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women&#x2019;s tournament. The Czech team Novy Bor defeated Asnieres Le Grand Echiquier from France in the thrilling last round to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/",
+         "pubDate" : "Mon, 10 Oct 2022 13:53:16 +0000",
+         "title" : "Novy Bor Chess Club and ASVOe Pamhagen win European Club Cup 2022"
+      },
+      {
          "description" : "It never fails; in time with Magnus' chessploits, the debate in Norwegian newspapers' commentary fields rages red hot over whether chess is a sport or athletics, with no surprising conclusions: one agrees to disagree, definitions do not diminish or lessen Magnus' performances and 'you can't compare apples and oranges.' Study by Rune Vik-Hansen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/is-chess-a-sport",
          "pubDate" : "Mon, 10 Oct 2022 14:00:00 +0100",
          "title" : "Is Chess a Sport?"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess.com</strong>-sponsored online <strong>Pro Chess League</strong>, whose last final in 2020 was overshadowed by cheating allegations, has <a href=\"https://www.chess.com/news/view/chesscom-announces-pro-chess-league-2023\">announced its next season</a> for February to May. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/pro-chess-league-back-in-february/",
+         "pubDate" : "Mon, 10 Oct 2022 13:02:50 +0100",
+         "title" : "Pro Chess League back in February"
       },
       {
          "description" : "The London Junior Chess Championship website has been updated with all the qualifying events and links to entry forms available www.ljcc.co.uk The LJCC Finals...",
@@ -30,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/novy-bor-pamhagen-win-european-chess-club-cup",
-         "pubDate" : "Mon, 10 Oct 2022 02:31:48 -0700",
+         "pubDate" : "Mon, 10 Oct 2022 02:31:00 -0700",
          "title" : "Gold For Novy Bor, Pamhagen At European Club Cup"
       },
       {
@@ -296,22 +320,6 @@ news_feed (
          "link" : "https://www.europechess.org/tournament-of-peace-2022/",
          "pubDate" : "Sun, 09 Oct 2022 09:20:18 +0000",
          "title" : "Tournament of Peace 2022"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. This is the first US Chess Championship for Levon Aronian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/awonder-liang-vs-levon-aronian-us-chess-championship-2022/",
-         "pubDate" : "Sun, 09 Oct 2022 08:30:53 +0000",
-         "title" : "Awonder Liang vs Levon Aronian, US Chess Championship 2022"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann had a perfect start at the tournament, but []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/leinier-dominguez-vs-hans-niemann-us-chess-championship-2022-round-5-live/",
-         "pubDate" : "Sun, 09 Oct 2022 08:25:01 +0000",
-         "title" : "Leinier Dominguez vs Hans Niemann, US Chess Championship 2022 Round 5 LIVE"
       },
       {
          "description" : "The 2022 U.S. Chess Championship continued on Saturday with electric games across the board in round four. GMs Fabiano Caruana, Wesley So, and Alex Lenderman won their respective games with the former rising above the rest of the field by half a p...",
@@ -1354,14 +1362,6 @@ news_feed (
          "title" : "FIDE's FPL to form an investigatory panel for the Carlsen-Niemann controversy"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong>'s <strong>Fair Play Commission</strong> <a href=\"https://www.sportschau.de/schach/magnus-carlsen-hans-niemann-ermittlungen-100.html\">will nominate three people</a> to run investigations against <strong>Hans Niemann</strong>, suspected of cheating, and <strong>Magnus Carlsen</strong>, suspected of false accusation. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/fpp-investigates-against-niemann-and/",
-         "pubDate" : "Thu, 29 Sep 2022 19:21:52 +0100",
-         "title" : "FPP investigates against Niemann and Carlsen"
-      },
-      {
          "description" : "Thanks to a strong finish, scoring five points over her last six games, GM Kateryna Lagno of Russia won the first leg of the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan. She finished half a point ahead of her compatriot GM Aleksandra Goryachkina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2096,22 +2096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1991",
          "pubDate" : "Mon, 19 Sep 2022 18:20:09 +0000",
          "title" : "Tactics and time trouble in Astana"
-      },
-      {
-         "description" : "The buzz in the chess world has been dominated for the last two weeks by the Carlsen/Nakamura vs. Niemann affair. Finding it impossible to ignore, I documented it in the post <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022). Talkchess members discussed the technical possibilities for cheating in two related threads:- <UL><LI>2022-12-06: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=80630\">Carlsen withdrawal after loss to Niemann</A>(talkchess.com; lkaufman) &#149; 'I am posting here to ask those who are technologically knowledgeable how they would go about getting computer",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/talkchess-talks-current-topics.html",
-         "pubDate" : "Mon, 19 Sep 2022 15:30:00 +0000",
-         "title" : "Talkchess Talks Current Topics"
-      },
-      {
-         "description" : " Former World Champion Garry Kasparov had a tough time of it in the Chess 960 event in St Louis, finishing with a single draw over 9 games. He did acknowledge that the main reason for his showing was a lack of recent activity. Usually a decline in ability is attributed to the effects of aging, but it is more likely that simply playing less is the real culprit. Both Korchnoi and Smyslov were able to play high level chess well into their 70's, outlasting much younger players who had retired earlier. The JB Generation Cup is currently running, pitting new stars against old. Although the younger generation looks to have the upper hand, 53 year old Vasyl Ivanchuk did strike a blow for the seniors",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/activity-not-age.html",
-         "pubDate" : "Mon, 19 Sep 2022 13:47:00 +0000",
-         "title" : "Activity not age"
       }
    ]
 }
