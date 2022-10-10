@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you have a fantastic memory and a liking for sharp positions, the evaluations of which can change with a few taps of a computer button? If so, then the main lines of the Open Sicilian are for you. But if you are one of the 99% of chess players who do NOT fall into this category, and open 1 e4, then the Closed Sicilian is a worthwhile option. The Closed Sicilian offers White a set of easy-to-understand plans, the chance of a kingside attack and little danger of being outgunned by tactics in the opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-the-closed-sicilian",
+         "pubDate" : "Mon, 10 Oct 2022 18:00:00 +0100",
+         "title" : "New: The Closed Sicilian"
+      },
+      {
          "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Club Cup&#160;concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women&#x2019;s tournament. The best individual players per boards were determined according to the rating performance. Open section Board 1:1. Magus Carlsen (Offerspill Chess Clup), []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1560,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2009",
          "pubDate" : "Wed, 28 Sep 2022 13:00:08 +0000",
          "title" : "2022 African Chess Championship: Bassem Amin and Shahenda Wafa claim titles"
-      },
-      {
-         "description" : "The International Chess Federation is pleased to announce the 5th Chess in Education Lecturer course. The course will be held online on 28-30 October, in English. Those who successfully pass the course will receive the title of Lead School Instructor (LSI). The course is limited to a maximum of 20 people (first come, first served).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-education-lecturer-course-2022",
-         "pubDate" : "Wed, 28 Sep 2022 14:00:00 +0100",
-         "title" : "Fifth \"Chess in Education Lecturer\" course announced"
       },
       {
          "description" : "From 16 to 25 December 2022 Tunisia will host the World Francophone's major annual chess meeting at Yasmine Hammamet. These 2022 Individual Francophone Championships will award the following titles for 2022: &bull; Francophone Champion&bull; Woman Francophone Champion&bull; Senior Francophone Champion &bull; Veteran Francophone Champion&bull; Blitz Francophone Champion According to their FIDE ID, only players from Francophone Chess Association&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/\">Read More &#187;</a></span>",
