@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana and Jennifer Yu are the sole leaders in the U.S. Championships going into the first rest day of the 13-round event. In round 5, Caruana drew birthday boy Wesley So with the white pieces, while Yu defeated Sabina Foisor with black in what was her fifth consecutive decisive game of the tournament. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r5",
+         "pubDate" : "Mon, 10 Oct 2022 10:45:00 +0100",
+         "title" : "U.S. Championships: Yu sole leader in the women's event"
+      },
+      {
+         "description" : "Novy Bor won the 2022 European Club Cup on Sunday after beating Asnieres Le Grand Echiquier in the final round. The Czech team won the tournament nine years after their first European gold in 2013.&#38;nbsp;Third-seeded ASVOe Pamhagen became the surpr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/novy-bor-pamhagen-win-european-chess-club-cup",
+         "pubDate" : "Mon, 10 Oct 2022 02:31:48 -0700",
+         "title" : "Gold For Novy Bor, Pamhagen At European Club Cup"
+      },
+      {
+         "description" : "Magnus Carlsen will be looking to wrap up overall Meltwater Champions Chess Tour victory as he plays the Aimchess Rapid, the penultimate event on the $1.6 million Tour, from Friday October 14th at 18:00 CEST. 16-year-old world no. 18 Gukesh makes his debut this season, alongside teen stars Arjun Erigaisi, Nodirbek Abdusattorov, Vincent Keymer and Aditya Mittal.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-gukesh-erigaisi-in-aimchess-rapid",
+         "pubDate" : "Mon, 10 Oct 2022 09:17:35 +0000",
+         "title" : "Carlsen, Gukesh & Erigaisi in Aimchess Rapid"
+      },
+      {
+         "description" : "The award-winning Meltwater Champions Chess Tour, the world&#x2019;s leading year-round chess circuit, reaches its penultimate tournament with the Aimchess Rapid starting on Friday. The eight-day event, the eighth leg of the $1.6 million Tour, will feature 16 world-class players. Top of the bill is World Champion Magnus Carlsen who is going for a first hat-trick []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-with-magnus-carlsen/",
+         "pubDate" : "Mon, 10 Oct 2022 09:08:23 +0000",
+         "title" : "Aimchess Rapid with Magnus Carlsen"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Association of Chess Professionals</strong> <a href=\"https://www.chessprofessionals.org/sites/default/files/World%20Open%20Circuit.pdf\">proposes that 20 players qualify from open tournaments</a> to the <strong>FIDE World Cup</strong> and thus the classical world championship cycle. Eligible should be results from open tournaments with at least 9 rounds, not more than one double-round, a minimum of 50 participants and 5 GM among them. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/acp-asks-to-open-world-championship/",
+         "pubDate" : "Mon, 10 Oct 2022 10:07:00 +0100",
+         "title" : "ACP asks to open world championship cycle"
+      },
+      {
+         "description" : "The 37th European Chess Club Cup and the 26th European Women's Club Cup concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women's tournament. The Czech team Novy Bor defeated Asnieres Le Grand Echiquier from France in the thrilling last round to score impressive 7/7&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/",
+         "pubDate" : "Mon, 10 Oct 2022 08:48:22 +0000",
+         "title" : "Novy Bor Chess Club and ASVOe Pamhagen win European Club Cup 2022"
+      },
+      {
          "description" : "After five rounds, Fabiano Caruana continues to lead the field by half a point. Caruana is at 3,5/4, half a point ahead of Samuel Sevian and Awonder Liang. There are eight players just a point behind the leader, which makes the men section of the US Chess Championship unpredictable. In the women section, Jennifer Yu []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -138,14 +186,6 @@ news_feed (
          "title" : "Magnus Carlsen to headline FIDE World Fischer Random Chess Championship 2022"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Sun, 09 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after defeating Sabina Foisor in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abrahamyan-back-back-wins-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uJdw3KAKC1E.jpg?itok=ENd2Iwlm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -168,6 +208,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/",
          "pubDate" : "Sun, 09 Oct 2022 15:29:55 +0000",
          "title" : "Saad Elmi, Next Star in Norway?"
+      },
+      {
+         "description" : "Tired of all the recent, seemingly endless, stories and videos about cheating in chess? For this month's featured video, let's change the subject. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/sj1NhE5FcKE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>RB Ramesh free talk: \"Let your kids enjoy the game of chess!\"</B> (1:06:37) &#149; '[Published on] Sep 12, 2022' <P>The description summarized the message of the video. <BLOCKQUOTE>The great coach RB Ramesh invited parents attending the World Youth Chess Championships 2022 for a discussion to h",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/what-makes-great-coach.html",
+         "pubDate" : "Sun, 09 Oct 2022 15:03:00 +0000",
+         "title" : "What Makes a Great Coach?"
       },
       {
          "description" : "Fabiano Caruana said \"I think we're no longer on chatting terms!\" after defeating Hans Niemann in 80 moves to take the sole lead in the 2022 US Championship in St. Louis. Defending Champion Wesley So scored his first win, against Sam Shankland, while Alex Lenderman took down Christopher Yoo. Irina Krush and Anna Zatonskih scored their 1st wins in the Women's section.",
@@ -248,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/leinier-dominguez-vs-hans-niemann-us-chess-championship-2022-round-5-live/",
          "pubDate" : "Sun, 09 Oct 2022 08:25:01 +0000",
          "title" : "Leinier Dominguez vs Hans Niemann, US Chess Championship 2022 Round 5 LIVE"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana defeated Hans Niemann after a thrilling R4 game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-vs-wesley-so-us-chess-championship-2022-round-5-live/",
-         "pubDate" : "Sun, 09 Oct 2022 08:18:31 +0000",
-         "title" : "Fabiano Caruana vs Wesley So, US Chess Championship 2022 Round 5 LIVE"
       },
       {
          "description" : "The 2022 U.S. Chess Championship continued on Saturday with electric games across the board in round four. GMs Fabiano Caruana, Wesley So, and Alex Lenderman won their respective games with the former rising above the rest of the field by half a p...",
@@ -458,12 +498,12 @@ news_feed (
          "title" : "Wins For Anand, Carlsen But Their Teams Drop Points"
       },
       {
-         "description" : "To All The Chess Federation of Sri Lanka under the auspices of the Asian Chess Federation (ACF) and the World Chess Federation (FIDE), has the",
+         "description" : "16th Asian Schools Chess Championships 2022 Open &#38; Girls under 7, 9, 11, 13, 15 &#38; 17 Kaluthara, Sri Lanka -3rd to 11th December 2022",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/16-th-asian-schools-chess-championships-2022-open-girls-under-7-9-11-13-15-17-kaluthara-sri-lanka-3-rd-to-11th-december-2022/",
          "pubDate" : "Fri, 07 Oct 2022 08:15:49 +0000",
-         "title" : "16 th Asian Schools Chess Championships 2022 Open & Girls under 7, 9, 11, 13, 15 & 17 Kaluthara, Sri Lanka -3 rd to 11th December 2022"
+         "title" : "16th Asian Schools Chess Championships 2022"
       },
       {
          "description" : " The controversial 19-year-old won his opening round at the US championship, then described the game as 'beautiful' Hans Niemann, the 19-year-old who has confessed to cheating in online games but denies any illegalities over the board, faces a crucial credibility test at St Louis on his US Championship debut. The organisers have beefed up security, with spectators barred, a new metal detector to frisk players and a 30-minute delay before the games are displayed to online viewers. Live <a href=\"https://uschesschamps.com/2022-us-championships/2022-us-championship\" title=\"\">online coverage</a> now starts at 7.30pm. <a href=\"https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credi",
@@ -1418,14 +1458,6 @@ news_feed (
          "title" : "Winners crowned at FIDE World Cadet Championship"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Confidential emails between the New York grandmaster and coach <strong>Max Dlugy</strong>, confessing cheating in prize money events on <strong>Chess.com</strong> and the platform's Chief Chess Officer <strong>Danny Rensch</strong> <a href=\"https://www.vice.com/en/article/z34qz8/chess-grandmaster-maxim-dlugy-admitted-to-cheating-on-chesscom-emails-show\">have been leaked to</a> <strong>Motherboard</strong>, the tech section of <strong>Vice</strong> for an <a href=\"https://www.vice.com/en/article/z34qz8/chess-grandmaster-maxim-dlugy-admitted-to-cheating-on-chesscom-emails-show\">unproportionate article</a>. Dlugy was earlier singled out by <strong>Magn",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/cheating-related-emails-leaked/",
-         "pubDate" : "Wed, 28 Sep 2022 19:45:55 +0100",
-         "title" : "Cheating related emails leaked"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1528,6 +1560,14 @@ news_feed (
          "link" : "https://www.europechess.org/9-rencontres-internationales-des-echecs-francophones-ridef/",
          "pubDate" : "Wed, 28 Sep 2022 10:00:14 +0000",
          "title" : "9 ° Rencontres Internationales des Echecs Francophones (RIDEF)"
+      },
+      {
+         "description" : "When chess gets featured extensively in The Wall Street Journal, The Atlantic, The New York Times, The Sunday Times and even VICE, while Elon Musk also weighs in and when it's the subject of sketches by Trevor Noah and Stephen Colbert in the same week, you'd normally think this was good. This time round, in his editorial in the October issue of CHESS Magazine, Malcolm Pein is not totally sure.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-editorial-malcolm-pein-rear-ended",
+         "pubDate" : "Wed, 28 Sep 2022 10:28:00 +0100",
+         "title" : "Malcolm Pein editorial: Rear-ended"
       },
       {
          "description" : "",
@@ -1658,14 +1698,6 @@ news_feed (
          "title" : "Fifth Chess in Education Lecturer course announced"
       },
       {
-         "description" : "&#34;I believe that Niemann has cheated more &#38;mdash; and more recently &#38;mdash; than he has publicly admitted,&#34; GM Magnus Carlsen wrote in a much-anticipated statement about GM Hans Niemann&#39;s alleged cheating. The world champion posted the statement on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-statement-niemann-cheating",
-         "pubDate" : "Mon, 26 Sep 2022 12:42:00 -0700",
-         "title" : "Carlsen Makes Statement: 'I Believe Niemann Has Cheated More'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1680,14 +1712,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html",
          "pubDate" : "Mon, 26 Sep 2022 15:14:00 +0000",
          "title" : "TCEC S23 Paused; 'CCC19 Blitz Main' Underway"
-      },
-      {
-         "description" : "Once again we will be presenting you with some unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. We will present the studies on replay diagrams, where you can move the pieces to analyse. In one case there will be an engine that will defend against your attempts to win. The solutions with full explanations will be provided in a few days.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment-2",
-         "pubDate" : "Mon, 26 Sep 2022 13:00:00 +0100",
-         "title" : "Studies for fun and entertainment (2)"
       },
       {
          "description" : " <p class=\"lead\">After posting a record score in the Julius Baer Generation Cup Prelims, Magnus Carlsen won the final against 19-year-old Arjun Erigaisi in the minimum possible number of games! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-arjun-erigaisi-julius-baer-generation-cup.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24</div> </div> The Julius Baer Generation Cup 2022 started unorthodoxically for the World Champion, who chose to <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resign on move 2</a> against Hans Niemann. Despite gifting Hans 3 whole po",
@@ -1712,14 +1736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-indian-gm-arjun-erigaisi-goes-down-to-magnus-carlsen-in-final/articleshow/94445878.cms",
          "pubDate" : "Mon, 26 Sep 2022 05:11:52 +0000",
          "title" : "Julius Baer Cup: Indian GM Erigaisi goes down to Carlsen in final"
-      },
-      {
-         "description" : "Magnus Carlsen said he played \"anti-young-player chess\" to beat Arjun Erigaisi 2:0 on Day 2 of the Julius Baer Generation Cup final and win the tournament with two games to spare. Arjun never got a chance, but had a great run and has qualified for the final Tour event this year in San Francisco.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-beats-erigaisi-to-win-the-julius-baer-generation-cup",
-         "pubDate" : "Sun, 25 Sep 2022 23:15:54 +0000",
-         "title" : "Carlsen beats Erigaisi to win the Julius Baer Generation Cup"
       },
       {
          "description" : "",
@@ -2104,14 +2120,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/19/aikhoje-gets-98-olympiad-gold-medal/",
          "pubDate" : "Mon, 19 Sep 2022 11:33:02 +0000",
          "title" : "Aikhoje gets '98 Olympiad gold medal!"
-      },
-      {
-         "description" : " The Julius Baer Generation Cup takes place on chess24 18th to 25th September 2022. Play starts at 17:00 BST each day. The event is part of the Meltwater Champions Chess Tour. The field has a deliberate mix of generations. Players: Magnus Carlsen, Jan-Krzysztof Duda, Quang Liem Le, R Praggnanandhaa, Levon Aronian, Arjun Erigaisi, Anish Giri, David Navara, Vincent Keymer, Radoslaw Wojtaszek, Vasyl Ivanchuk, Ivan Saric, Boris Gelfand, Hans Moke Niemann, Baskaran Adhiban and Christopher Woojin Yoo. There will obviously be a lot of attention on the day 2 round 6 game between Carlsen and Niemann (update Carlsen resigned on move 2). ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-generation-cup-2022",
-         "pubDate" : "Mon, 19 Sep 2022 12:35:00 +0400",
-         "title" : "Julius Baer Generation Cup 2022 - Games and Results"
       }
    ]
 }
