@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After five rounds, Fabiano Caruana continues to lead the field by half a point. Caruana is at 3,5/4, half a point ahead of Samuel Sevian and Awonder Liang. There are eight players just a point behind the leader, which makes the men section of the US Chess Championship unpredictable. In the women section, Jennifer Yu []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-is-the-leader-of-the-us-chess-championship-after-r5/",
+         "pubDate" : "Mon, 10 Oct 2022 07:17:02 +0000",
+         "title" : "Fabiano Caruana is the leader of the US Chess Championship after R5"
+      },
+      {
          "description" : "After a record-setting Season 22, defending champion Stockfish once again dominated its rivals in TCEC Season 23's Premier Division, taking a 1-point lead at the half-way mark. The high-bias book reaching as high as&#xA0;+2 opening evals at book exit meant it was always hairy for the engines defending inferior positions, but Stockfish time []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "Plichta's French Defense"
       },
       {
-         "description" : "The fifth round of the 2022 U.S. Chess Championships saw a new contender, GM Awonder Liang, rise to challenge GM Fabiano Caruana after a scintillating win over one of the pre-tournament favorites, GM Levon Aronian. In the women&#39;s event, four dec...",
+         "description" : "The fifth round of the 2022 U.S. Chess Championships saw a new contender, GM Awonder Liang, rise to challenge GM Fabiano Caruana after a scintillating win over one of the pre-tournament favorites, GM Levon Aronian using the Scotch Gambit. In the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-5",
          "pubDate" : "Sun, 09 Oct 2022 21:29:00 -0700",
-         "title" : "Liang \"Ecstatic\" After Defeating Aronian"
+         "title" : "Liang 'Ecstatic' After Defeating Aronian With 19th-Century Gambit"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Ashritha Eswaran talks to Cristian Chirila after defeating Zatonskih in Round 5 of the 2022 U.S. Women's Championship. 2022.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eswaran-turning-her-terrible-start-around-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bFHy_y05qGU.jpg?itok=ixleMuEX\" alt=\"\" /></a></div>",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fabiano-caruana-vs-wesley-so-us-chess-championship-2022-round-5-live/",
          "pubDate" : "Sun, 09 Oct 2022 08:18:31 +0000",
          "title" : "Fabiano Caruana vs Wesley So, US Chess Championship 2022 Round 5 LIVE"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-day-5-live/",
-         "pubDate" : "Sun, 09 Oct 2022 07:58:51 +0000",
-         "title" : "US Chess Championship 2022 - Day 5 live"
       },
       {
          "description" : "The 2022 U.S. Chess Championship continued on Saturday with electric games across the board in round four. GMs Fabiano Caruana, Wesley So, and Alex Lenderman won their respective games with the former rising above the rest of the field by half a p...",
