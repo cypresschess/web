@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While the World Champion made his position on Hans Niemann quite clear, a later Tweet openly suggested that GM Dlugy had had a role in it as Hans Niemann's 'mentor'. Shortly thereafter, Chess.com shared emails with Dlugy with the press. GM Dlugy has now released a very long and detailed statement regarding multiple aspects, including the accusations as well as his role and impressions of Hans Niemann.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-dlugy-on-carlsen-niemann",
+         "pubDate" : "Tue, 11 Oct 2022 00:46:24 +0100",
+         "title" : "GM Dlugy on Carlsen-Niemann"
+      },
+      {
+         "description" : "Harikrishna beat Maxime Vachier-Lagrave in the final round as his Novy Bor team took European Club Cup gold after winning all their matches. Magnus Carlsen's Offerspill suffered final day heartbreak, but he took individual gold on Board 1 with a 2889 performance. In the Women's section it was Elina Danielian's Pamhagen who took gold after finishing unbeaten.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/novy-bor-crush-euro-club-cup-as-magnus-takes-gold",
+         "pubDate" : "Mon, 10 Oct 2022 22:53:31 +0000",
+         "title" : "Novy Bor crush Euro Club Cup as Magnus takes gold"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2031",
+         "pubDate" : "Mon, 10 Oct 2022 21:26:56 +0000",
+         "title" : "Turkey triumphs at the FIDE World Youth U-16 Chess Olympiad 2022"
+      },
+      {
          "description" : "GM Maxim Dlugy has published a statement on the Hans Niemann cheating affair. After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1514,14 +1538,6 @@ news_feed (
          "title" : "Game of the Week #535: M. Carlsen vs A. Erigaisi"
       },
       {
-         "description" : "Castling is a privilege which both sides have in each game. Despite the choices being two, a player can castle only once in the entire game. The choice often determines the fate of the game. It might seem easy, yet the underlying consequences of a correct or a misjudgement can be long term. GM Sundararajan Kidambi shows two examples of former world champions' games where one of the contenders made an incorrect call. Check out the grandmaster's detailed analysis and enrich your knowledge.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/castling-into-it-kidambi",
-         "pubDate" : "Wed, 28 Sep 2022 18:00:00 +0100",
-         "title" : "Castling into it"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1696,14 +1712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-magnus-carlsen-alleges-niemann-has-cheated-more-than-he-admits/articleshow/94466344.cms",
          "pubDate" : "Tue, 27 Sep 2022 02:43:22 +0000",
          "title" : "World champion Magnus Carlsen alleges Niemann has cheated more than he admits"
-      },
-      {
-         "description" : "Magnus Carlsen has finally made his promised statement that once more blows open the divisive scandal that has been rocking the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-accuses-niemann-of-cheating-more-and-more-recently-than-he-admits",
-         "pubDate" : "Tue, 27 Sep 2022 02:12:45 +0000",
-         "title" : "Carlsen accuses Niemann of cheating \"more - and more recently - than he admits\""
       },
       {
          "description" : "",
