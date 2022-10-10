@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a record-setting Season 22, defending champion Stockfish once again dominated its rivals in TCEC Season 23's Premier Division, taking a 1-point lead at the half-way mark. The high-bias book reaching as high as&#xA0;+2 opening evals at book exit meant it was always hairy for the engines defending inferior positions, but Stockfish time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-takes-1-point-lead-in-tcec-premier-division/",
+         "pubDate" : "Mon, 10 Oct 2022 06:26:56 +0000",
+         "title" : "Stockfish takes 1-point lead in TCEC Premier Division"
+      },
+      {
+         "description" : "If you&#x2019;re looking to master your openings with flare, FIDE Master Kamil Plichta is the perfect instructor for you. &#x201C;The Polish Powerhouse&#x201D; is an opening theoretician and blitz specialist. No matter what the opening, it seems FM Plichta can come up with original, aggressive lines that are sure to challenge opponents with ferocious piece activity []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/plichtas-french-defense/",
+         "pubDate" : "Mon, 10 Oct 2022 06:10:00 +0000",
+         "title" : "Plichta's French Defense"
+      },
+      {
+         "description" : "The fifth round of the 2022 U.S. Chess Championships saw a new contender, GM Awonder Liang, rise to challenge GM Fabiano Caruana after a scintillating win over one of the pre-tournament favorites, GM Levon Aronian. In the women&#39;s event, four dec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-5",
+         "pubDate" : "Sun, 09 Oct 2022 21:29:00 -0700",
+         "title" : "Liang \"Ecstatic\" After Defeating Aronian"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Ashritha Eswaran talks to Cristian Chirila after defeating Zatonskih in Round 5 of the 2022 U.S. Women's Championship. 2022.10.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eswaran-turning-her-terrible-start-around-round-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bFHy_y05qGU.jpg?itok=ixleMuEX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -234,14 +258,6 @@ news_feed (
          "title" : "US Chess Championship 2022 - Day 5 live"
       },
       {
-         "description" : "GM Fabiano Caruana took over the sole lead of the U.S. Championship by defeating co-leader GM Hans Niemann. In the U.S. Women&#x2019;s Championship, WGM Tatev Abrahamyan and WGM Jennifer Yu won to join FM Alice Lee for the lead.&#160; Check out the full replay of live coverage from the day&#160;here. The time control for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-grabs-the-sole-lead-us-chess-championship-day-4-recap/",
-         "pubDate" : "Sun, 09 Oct 2022 07:42:10 +0000",
-         "title" : "Fabiano Caruana grabs the sole lead; US Chess Championship Day 4 recap"
-      },
-      {
          "description" : "The 2022 U.S. Chess Championship continued on Saturday with electric games across the board in round four. GMs Fabiano Caruana, Wesley So, and Alex Lenderman won their respective games with the former rising above the rest of the field by half a p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -256,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-r4",
          "pubDate" : "Sun, 09 Oct 2022 05:05:00 +0100",
          "title" : "U.S. Championships: Caruana beats Niemann to take the lead"
-      },
-      {
-         "description" : "Fabiano Caruana defeated 19-year-old Hans Niemann in the fourth round of the US Chess Championship taking the sole lead in the event (Replay the game here). Caruana yesterday announced the warming up of &#8220;The 2022 Disrespect Championship&#8221; and today delivered a victory after a dramatic game. Joining the live studio of the US Championship, Caruana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-after-defeating-hans-niemann-i-am-exhausted-it-was-a-very-difficult-game/",
-         "pubDate" : "Sun, 09 Oct 2022 00:36:20 +0000",
-         "title" : "Fabiano Caruana after defeating Hans Niemann: I am exhausted, it was a very difficult game"
       },
       {
          "description" : "",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-won-against-erigaisi-with-anti-young-player-chess/",
          "pubDate" : "Mon, 26 Sep 2022 09:23:50 +0000",
          "title" : "Carlsen won against Erigaisi with \"Anti-young-player chess\""
-      },
-      {
-         "description" : "GM Magnus Carlsen won the Julius Baer Generation Cup on Sunday, needing just two games vs. GM Arjun Erigaisi. It was one of the most dominating performances in recent years for the world champion, who announced that he will make a statement about ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-wins-2022-julius-baer-generation-cup",
-         "pubDate" : "Mon, 26 Sep 2022 00:45:00 -0700",
-         "title" : "Carlsen Wins Julius Baer Generation Cup, Announces Statement"
       },
       {
          "description" : " <p class=\"lead\">World Chess, a global gaming company, will from now on plant a tree for each chess set sold. Beautiful chess sets and beautiful forests can co-exist. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600h900_1.png\" width=\"1601\" height=\"901\" alt=\"\" /> </div> This environment-conscious initiative is a collaboration with <a href=\"https://onetreeplanted.org\">One Tree Planted</a>, a nonprofit dedicated to global reforestation. The main goal is to plant 10,000 trees over the next 5 years, restoring deforested and fire-affected areas. For every chess set purchased, World Chess will plant one tree in India where its main manufacturing site is located. \"We",
