@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It never fails; in time with Magnus' chessploits, the debate in Norwegian newspapers' commentary fields rages red hot over whether chess is a sport or athletics, with no surprising conclusions: one agrees to disagree, definitions do not diminish or lessen Magnus' performances and 'you can't compare apples and oranges.' Study by Rune Vik-Hansen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/is-chess-a-sport",
+         "pubDate" : "Mon, 10 Oct 2022 14:00:00 +0100",
+         "title" : "Is Chess a Sport?"
+      },
+      {
+         "description" : "The London Junior Chess Championship website has been updated with all the qualifying events and links to entry forms available www.ljcc.co.uk The LJCC Finals...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/london-junior-chess-championship-update/",
+         "pubDate" : "Mon, 10 Oct 2022 11:44:06 +0000",
+         "title" : "London Junior Chess Championships update"
+      },
+      {
          "description" : "Fabiano Caruana and Jennifer Yu are the sole leaders in the U.S. Championships going into the first rest day of the 13-round event. In round 5, Caruana drew birthday boy Wesley So with the white pieces, while Yu defeated Sabina Foisor with black in what was her fifth consecutive decisive game of the tournament. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1562,14 +1578,6 @@ news_feed (
          "title" : "9 ° Rencontres Internationales des Echecs Francophones (RIDEF)"
       },
       {
-         "description" : "When chess gets featured extensively in The Wall Street Journal, The Atlantic, The New York Times, The Sunday Times and even VICE, while Elon Musk also weighs in and when it's the subject of sketches by Trevor Noah and Stephen Colbert in the same week, you'd normally think this was good. This time round, in his editorial in the October issue of CHESS Magazine, Malcolm Pein is not totally sure.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-editorial-malcolm-pein-rear-ended",
-         "pubDate" : "Wed, 28 Sep 2022 10:28:00 +0100",
-         "title" : "Malcolm Pein editorial: Rear-ended"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2104,22 +2112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/activity-not-age.html",
          "pubDate" : "Mon, 19 Sep 2022 13:47:00 +0000",
          "title" : "Activity not age"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94305762.cms\" />India's teenaged Grandmaster R Praggnanandhaa began his campaign in the star-studded Julius Baer Generation Cup online rapid tournament, the seventh leg of the USD 1.6 million Meltwater Champions Chess Tour, with wins over veteran Vasyl Ivanchuk and Jan Kryzstof Duda of Poland.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-generation-cup-praggnanandhaa-posts-three-wins-before-losing-to-fellow-teen-yoo/articleshow/94305762.cms",
-         "pubDate" : "Mon, 19 Sep 2022 12:38:08 +0000",
-         "title" : "Praggnanandhaa posts three wins before losing to fellow teen Yoo"
-      },
-      {
-         "description" : " Nigerian International Master Odion Aikhoje finally receives the gold medal he earned on board two at the Elista Olympiad in 1998. Twenty-four years is short in terms of age, but to wait on something for 24 years is another matter. The Chess Drum reported on Aikhoje's triumph in the very first issue of the website The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/19/aikhoje-gets-98-olympiad-gold-medal/\">Aikhoje gets '98 Olympiad gold medal!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/09/19/aikhoje-gets-98-olympiad-gold-medal/",
-         "pubDate" : "Mon, 19 Sep 2022 11:33:02 +0000",
-         "title" : "Aikhoje gets '98 Olympiad gold medal!"
       }
    ]
 }
