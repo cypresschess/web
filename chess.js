@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maxim Dlugy has published a statement on the Hans Niemann cheating affair. After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxim-dlugy-publishes-a-statement-on-the-hans-niemann-cheating-affair/",
+         "pubDate" : "Mon, 10 Oct 2022 20:24:06 +0000",
+         "title" : "Maxim Dlugy publishes a statement on the Hans Niemann cheating affair"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2030",
+         "pubDate" : "Mon, 10 Oct 2022 18:43:55 +0000",
+         "title" : "Missing FIDE President: Investigation by FIDE Historical Committee"
+      },
+      {
          "description" : "Do you have a fantastic memory and a liking for sharp positions, the evaluations of which can change with a few taps of a computer button? If so, then the main lines of the Open Sicilian are for you. But if you are one of the 99% of chess players who do NOT fall into this category, and open 1 e4, then the Closed Sicilian is a worthwhile option. The Closed Sicilian offers White a set of easy-to-understand plans, the chance of a kingside attack and little danger of being outgunned by tactics in the opening.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lilit-mkrtchian-1-how-to-create-an-opening-repertoire-with-chessbase-for-the-rest-of-your-life",
          "pubDate" : "Sun, 09 Oct 2022 13:00:00 +0100",
          "title" : "Lilit Mkrtchian (1) - How to create an opening repertoire with ChessBase for the rest of your life"
-      },
-      {
-         "description" : "After announcing the warming up of &#8220;the 2022 Disrespect Championship&#8221;, Fabiano Caruana defeated Hans Niemann in the fourth round of the US Chess Championship yesterday (Replay the game here). Joining the live studio after the game, Fabiano said that he hoped to give an interesting interview, but after more than five hours of play, he []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-fabi-disrespecting-the-entire-chess-world-by-making-hans-look-like-a-noob-tweetoftheday/",
-         "pubDate" : "Sun, 09 Oct 2022 10:39:51 +0000",
-         "title" : "Anish Giri: Fabi disrespecting the entire chess world by making Hans look like a noob #TweetOftheDay"
       },
       {
          "description" : " It's White to play in this position from the recent British Championship game between Dietmar Kolbus and Peter Finn. What do you think? White win, draw or black win? Place your bets now before reading on. Some of the most interesting endings are those involving battles between a piece and an army of pawns rushing <a href=\"https://chessimprover.com/bishop-against-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Against Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-against-pawns/\">Bishop Against Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2080,22 +2088,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-on-top-r-praggnanandhaa-in-2nd-spot/articleshow/94317346.cms",
          "pubDate" : "Tue, 20 Sep 2022 05:00:29 +0000",
          "title" : "Julius Baer Cup: Arjun Erigaisi on top, R Praggnanandhaa in 2nd spot"
-      },
-      {
-         "description" : " <p class=\"lead\">The Niemann-Carlsen game at the Julius Baer Generation Cup was the most anticipated one after the recent chess cheating scandal, but the World Champion chose to resign on move 2, log off, and leave everyone speechless and confused. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> It comes without saying that after <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Carlsen's withdrawal</a> from the Sinquefield Cup 2022, and the <a href=\"https://worldchess.com/news/all/did-hans-niemann-actually-cheat-a",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/",
-         "pubDate" : "Mon, 19 Sep 2022 18:58:33 +0000",
-         "title" : "Carlsen chose drama against Niemann, resigned after move 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1991",
-         "pubDate" : "Mon, 19 Sep 2022 18:20:09 +0000",
-         "title" : "Tactics and time trouble in Astana"
       }
    ]
 }
