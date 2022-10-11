@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagrammed position, in which White is to move, occurred in a blitz game between Wesley So and Jorden Van Foreest. White is a pawn down and but has a way to draw. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-missed-triangulation",
+         "pubDate" : "Tue, 11 Oct 2022 09:00:00 +0100",
+         "title" : "The missed triangulation"
+      },
+      {
+         "description" : "The Association of Chess Professionals has an interesting proposal: most chess player, they say, only take part in open tournaments, which are completely disconnected from the World Championship cycle. That creates \"two parallel realities.\" For this reason, the ACF proposes making opens a part of the World Championship cycle. Here is their proposal, presented in full detail. We look forward to your comments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-open-circuit",
+         "pubDate" : "Tue, 11 Oct 2022 07:34:23 +0100",
+         "title" : "World Open Circuit"
+      },
+      {
          "description" : "While the World Champion made his position on Hans Niemann quite clear, a later Tweet openly suggested that GM Dlugy had had a role in it as Hans Niemann's 'mentor'. Shortly thereafter, Chess.com shared emails with Dlugy with the press. GM Dlugy has now released a very long and detailed statement regarding multiple aspects, including the accusations as well as his role and impressions of Hans Niemann.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1490,14 +1506,6 @@ news_feed (
          "title" : "Women's Grand Prix Astana: Live"
       },
       {
-         "description" : "Going into the final round of the Women's Grand Prix in Astana, Kateryna Lagno leads Aleksandra Goryachkina by a half point after both contenders for first place drew their games with white on Wednesday. Zhu Jiner (pictured) beat Alina Kashlinskaya to grab sole third place. Unfortunately for the chess world, another scandal made headlines on mainstream media: commentator Ilya Smirin was fired by FIDE after making sexist remarks during round 9's broadcast. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r10",
-         "pubDate" : "Thu, 29 Sep 2022 03:05:00 +0100",
-         "title" : "Astana GP: Zhu scores, Smirin fired over sexist comments"
-      },
-      {
          "description" : "GM Teimour Radjabov knocked out GM Arjun Erigaisi on Wednesday, securing the last spot into the round of 16 at the Chess.com Global Championship. This was an especially electrifying matchup of experienced contender vs. up-and-comer. In this corn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesskid-library-chess-club",
          "pubDate" : "Wed, 28 Sep 2022 11:42:00 -0700",
          "title" : "ChessKid Announces Library Chess Club Initiative"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #535 Merijn van Delft shows how Magnus Carlsen won a fine and patient attacking game against Arjun Erigaisi in the finals of the Julius B&auml;r Generation Cup. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-535-m-carlsen-vs-a-erigaisi",
-         "pubDate" : "Wed, 28 Sep 2022 19:00:00 +0100",
-         "title" : "Game of the Week #535: M. Carlsen vs A. Erigaisi"
       },
       {
          "description" : "",
@@ -2088,14 +2088,6 @@ news_feed (
          "link" : "https://aicf.in/world-youth-chess-championship-2022-mamaiaromania-from-september-5-to-september-172022/",
          "pubDate" : "Tue, 20 Sep 2022 09:09:45 +0000",
          "title" : "Final Report:World Youth Chess Championship 2022 Mamaia,Romania from September 5 to September 17,2022"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94317346.cms\" />India's teenaged Grandmaster Arjun Erigaisi jumped to the top position with 17 points after eight rounds, while his compatriot R Praggnanandhaa is in second place with 15 points at the Julius Baer Cup. The much-awaited Praggnanandhaa-Magnus Carlsen clash in round eight ended in a draw. The Indian had beaten the Norwegian ace twice earlier this season in online matches.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-on-top-r-praggnanandhaa-in-2nd-spot/articleshow/94317346.cms",
-         "pubDate" : "Tue, 20 Sep 2022 05:00:29 +0000",
-         "title" : "Julius Baer Cup: Arjun Erigaisi on top, R Praggnanandhaa in 2nd spot"
       }
    ]
 }
