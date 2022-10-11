@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was not a good day for Indian team as India lost to Gold Medallist Turkey-Red in the final round of World Youth Olympiad and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/indian-team-finishes-5th-in-world-youth-under-16-chess-olympiad/",
+         "pubDate" : "Tue, 11 Oct 2022 08:15:09 +0000",
+         "title" : "Indian Team finishes 5th in World Youth (Under 16) Chess Olympiad."
+      },
+      {
          "description" : "The diagrammed position, in which White is to move, occurred in a blitz game between Wesley So and Jorden Van Foreest. White is a pawn down and but has a way to draw. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-missed-triangulation",
          "pubDate" : "Tue, 11 Oct 2022 09:00:00 +0100",
          "title" : "The missed triangulation"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The players enjoyed their first resting day yesterday and come []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-ray-robson-us-chess-championship-2022-round-6-live/",
+         "pubDate" : "Tue, 11 Oct 2022 07:57:42 +0000",
+         "title" : "Hans Niemann vs Ray Robson, US Chess Championship 2022 Round 6 LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-6-live/",
+         "pubDate" : "Tue, 11 Oct 2022 07:46:18 +0000",
+         "title" : "US Chess Championship 2022 - Round 6 live"
       },
       {
          "description" : "The Association of Chess Professionals has an interesting proposal: most chess player, they say, only take part in open tournaments, which are completely disconnected from the World Championship cycle. That creates \"two parallel realities.\" For this reason, the ACF proposes making opens a part of the World Championship cycle. Here is their proposal, presented in full detail. We look forward to your comments.",
@@ -272,22 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-7-lichessorg",
          "pubDate" : "Sun, 09 Oct 2022 21:55:05 +0000",
          "title" : "2022 U.S. Chess Championships: Round 7 | lichess.org"
-      },
-      {
-         "description" : "Hans Niemann drew against Leinier Dominguez in the fifth round of the US Chess Championship. Hans seemed to be in trouble after the opening, but managed to convert the position into a very drawish endgame with an exchange down (Replay the game here). Niemann joined the live studio of the US Chess Championship for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-i-was-making-an-order-and-the-guy-said-to-me-this-order-speaks-for-itself/",
-         "pubDate" : "Sun, 09 Oct 2022 21:42:19 +0000",
-         "title" : "Hans Niemann: I was making an order and the guy said to me \"This order speaks for itself\""
-      },
-      {
-         "description" : "FIDE World Fischer Random Chess Championship over-the-board final will take place in the Berjaya Reykjavik Natura Hotel, Iceland, from 25-30 October 2022. The overall prize fund of the final in the Icelandic capital amounts to a whopping 400,000 USD and eight players will have a shot at the 150,000 USD first prize and the FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-to-headline-fide-world-fischer-random-chess-championship-2022/",
-         "pubDate" : "Sun, 09 Oct 2022 20:55:53 +0000",
-         "title" : "Magnus Carlsen to headline FIDE World Fischer Random Chess Championship 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after defeating Sabina Foisor in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abrahamyan-back-back-wins-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uJdw3KAKC1E.jpg?itok=ENd2Iwlm\" alt=\"\" /></a></div>",
@@ -2080,14 +2088,6 @@ news_feed (
          "link" : "https://aicf.in/world-cadets-chess-championships-2022-batumi-georgia-round-4-19-09-2022/",
          "pubDate" : "Tue, 20 Sep 2022 09:57:53 +0000",
          "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 4 (19.09.2022)"
-      },
-      {
-         "description" : "World Youth Chess Championship for the age groups Under 18 (Boys and Girls),Under 16 (Boys and Girls) and Under 14(Boys and Girls) for the year",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-youth-chess-championship-2022-mamaiaromania-from-september-5-to-september-172022/",
-         "pubDate" : "Tue, 20 Sep 2022 09:09:45 +0000",
-         "title" : "Final Report:World Youth Chess Championship 2022 Mamaia,Romania from September 5 to September 17,2022"
       }
    ]
 }
