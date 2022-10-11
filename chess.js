@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2033",
+         "pubDate" : "Tue, 11 Oct 2022 19:11:39 +0000",
+         "title" : "FIDE President visits Paraguay"
+      },
+      {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Tue, 11 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.13<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-8-lichessorg",
+         "pubDate" : "Tue, 11 Oct 2022 18:56:10 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 8 | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2032",
+         "pubDate" : "Tue, 11 Oct 2022 18:27:42 +0000",
+         "title" : "Shortlist for FIDE Book Awards 2022 announced"
+      },
+      {
+         "description" : "19-year-old Awonder Liang recently called himself \"much more of a student than a chess player\", but in Round 5 of the US Championship he crushed world no. 10 Levon Aronian with the Scotch Gambit. Sam Shankland picked up the only other win in the Open section, while a 4th win in 5 games gave Jennifer Yu, currently studying at Harvard University, the sole lead in the Women's section.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-5-awonder-liang-stuns-aronian",
+         "pubDate" : "Tue, 11 Oct 2022 17:42:15 +0000",
+         "title" : "US Chess Champs 5: Awonder Liang stuns Aronian"
+      },
+      {
          "description" : "The Magician of Riga has made many incredibly smart moves in his career. Svitlana shows us in a couple of examples, what Mikhail Tal's secret for successful attacking is. Maybe you can use the tips to your advantage in a dominating position against your opponent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,7 +130,7 @@ news_feed (
          "title" : "Indian Team finishes 5th in World Youth (Under 16) Chess Olympiad."
       },
       {
-         "description" : "The diagrammed position, in which White is to move, occurred in a blitz game between Wesley So and Jorden Van Foreest. White is a pawn down and but has a way to draw. What should he do?",
+         "description" : "The diagrammed position, in which White is to move, occurred in a blitz game between Wesley So and Jorden Van Foreest. White is a pawn down but has a way to draw. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-missed-triangulation",
@@ -362,14 +402,6 @@ news_feed (
          "title" : "Abrahamyan: Back-To-Back Wins! | Round 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.08<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-4",
-         "pubDate" : "Sun, 09 Oct 2022 18:55:04 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 4"
-      },
-      {
          "description" : " Sixteen-year-old Saad Abobaker Elmi recently scored 7/11 in the World Youth Chess Championships in Romania after winning the Nordic Youth Championships. Of Somalian ancestry, his parents immigrated to Oslo, Norway where he took up chess at an early age. He recently came in second in the Norway Junior Championships and had a strong performance in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/\">Saad Elmi, Next Star in Norway?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -391,7 +423,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/us-chess-champs-3-fabi-beats-hans-to-grab-lead",
          "pubDate" : "Sun, 09 Oct 2022 14:44:40 +0000",
-         "title" : "US Chess Champs 3: Fabi beats Hans to grab lead"
+         "title" : "US Chess Champs 4: Fabi beats Hans to grab lead"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 94th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
@@ -1434,14 +1466,6 @@ news_feed (
          "title" : "Chess: latest round of Hans Niemann saga expected in St Louis on Wednesday"
       },
       {
-         "description" : "The 4th and final leg of the $100,000 MPL Indian Chess Tour starts today, with 16 players competing for a place in the $25,000 knockout final and also a spot on the $1.6 million Meltwater Champions Chess Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/last-chance-to-reach-the-mpl-indian-chess-tour-final",
-         "pubDate" : "Fri, 30 Sep 2022 07:00:00 +0000",
-         "title" : "Last chance to reach the MPL Indian Chess Tour final"
-      },
-      {
          "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1512,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2014",
          "pubDate" : "Thu, 29 Sep 2022 14:49:45 +0000",
          "title" : "2022 Astana Women's Grand Prix: Kateryna Lagno, winner "
-      },
-      {
-         "description" : "The Saint Louis Chess Club and the U.S. Chess Federation have announced the fields of participants for the 2022 U.S. Championships and and U.S. Women's Championships. Among others, Hans Niemann will participate as the winner of the 2021 U.S. Youth Championships. The two championships begin on October 4 at the Saint Louis Chess Center.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2022-u-s-and-u-s-women-s-chess-championships-fields-announced",
-         "pubDate" : "Thu, 29 Sep 2022 15:00:00 +0100",
-         "title" : "2022 U.S. and U.S. Women's Chess Championships Fields Announced"
       },
       {
          "description" : " Sometimes you reach the end of a game, and despite a positive result, you aren't exactly sure why. This happened to me in a recent game, albeit one that had missed chances for both sides. Maybe what went right was not getting hit with 30.Rxf6! which leads to a better position after 31. ... Bxf6 32.Rxf6 Rxf6 33.Ng4! Instead the 'automatic' 30.Bxf6 enabled me to exploit my advantage on the queenside, although even then, it was my turn to miss the winning tactic. Fortunately there was still enough to convert the ending into a full point. <br /> <br /> <b>Pearce,Tim - Press,Shaun [E81]</b><br />Gungahlin CC (3), 27.09.2022 <script>new PgnViewer( { boardName: \"game1354\", movesFormat: \"default\", ",
@@ -2080,22 +2096,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/09/21/the-silicon-road-to-chess-improvement-chess-engine-training-methods-opening-strategies-middlegame-techniques/",
          "pubDate" : "Wed, 21 Sep 2022 00:10:21 +0000",
          "title" : "The Silicon Road To Chess Improvement: Chess Engine Training Methods, Opening Strategies & Middlegame Techniques"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1992",
-         "pubDate" : "Tue, 20 Sep 2022 18:08:34 +0000",
-         "title" : "FIDE WGP Astana: Goryachkina leads after three rounds"
-      },
-      {
-         "description" : " Yesterday, Magnus Carlsen quit against Hans Niemann after playing his first move. Playing black after 1.d4 Nf6 2.c4 Carlsen resigned and simply logged off abruptly. The cheating insinuation by Carlsen had been simmering down, but this latest action has thrown gasoline on the fire of a controversy leaving it open to more speculation than before. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/\">Carlsen quits against Niemann the saga continues</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/",
-         "pubDate" : "Tue, 20 Sep 2022 16:13:27 +0000",
-         "title" : "Carlsen quits against Niemann&hellip; the saga continues"
       }
    ]
 }
