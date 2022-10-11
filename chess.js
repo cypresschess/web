@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana won his Round 6 game of the US Chess Championship against Elshan Moradiabadi and extended his lead in the tournament. Fabiano joined the US championship live studio for the post-game interview and explained that he chose the random line in the opening that Moradiabadi hasn't played before: &#8220;I've played a very random line []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-people-recognize-me-but-i-think-its-because-of-hans-i-get-stopped-often-and-asked-about-beads/",
+         "pubDate" : "Tue, 11 Oct 2022 22:54:17 +0000",
+         "title" : "Fabiano Caruana: People recognize me, but I think it's because of Hans; I get stopped often and asked about beads"
+      },
+      {
+         "description" : "Ray Robson defeated Hans Niemann in the sixth round of the US Chess Championship to score 3.5/6 points in the event. The 19-year-old overestimated his attacking chances choosing a very aggressive 25.f4-26.f5-27.f6 advance, but Robson found a beautiful way to refuse Niemann's attack on the kingside with 27Bf6! (Replay the game here) In the post-game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ray-robson-after-beating-hans-niemann-it-was-a-very-complicated-game-and-i-was-a-little-bit-worried/",
+         "pubDate" : "Tue, 11 Oct 2022 22:31:30 +0000",
+         "title" : "Ray Robson after beating Hans Niemann: It was a very complicated game and I was a little bit worried"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Music Director Brian Woods talks to Cristian Chirila during Round 6 of the 2022 U.S. Chess Championships. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brian-woods-classical-music-wchof-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F13pgA4uzyo.jpg?itok=OPeInvSt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/brian-woods-classical-music-wchof-round-6",
+         "pubDate" : "Tue, 11 Oct 2022 21:56:17 +0000",
+         "title" : "Brian Woods: Classical Music at the WCHOF | Round 6"
+      },
+      {
+         "description" : "Ever since the 19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen, who consequently withdrew from the Sinquefield Cup 2022 (see the timetable of events related to the Carlsen Niemann case below), the topic of cheating in chess is&#xA0;the top news in mass medias. As Norwegian VG reports, the former president of Swedish Chess Federation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/former-president-of-swedish-chess-federation-admits-to-losing-43-games-on-purpose/",
+         "pubDate" : "Tue, 11 Oct 2022 20:58:29 +0000",
+         "title" : "Former president of Swedish Chess Federation admits to losing 43 games on purpose"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -218,22 +250,6 @@ news_feed (
          "title" : "TCEC S23 DivP, CCC19 Blitz Final : 'Well' Underway"
       },
       {
-         "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Club Cup&#160;concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women&#x2019;s tournament. The best individual players per boards were determined according to the rating performance. Open section Board 1:1. Magus Carlsen (Offerspill Chess Clup), []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-is-the-best-top-board-player-of-the-european-club-cup-2022/",
-         "pubDate" : "Mon, 10 Oct 2022 14:04:57 +0000",
-         "title" : "Magnus Carlsen is the best top-board player of the European Club Cup 2022"
-      },
-      {
-         "description" : "The 37th European Chess Club Cup and the 26th European Women&#x2019;s Club Cup concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women&#x2019;s tournament. The Czech team Novy Bor defeated Asnieres Le Grand Echiquier from France in the thrilling last round to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/",
-         "pubDate" : "Mon, 10 Oct 2022 13:53:16 +0000",
-         "title" : "Novy Bor Chess Club and ASVOe Pamhagen win European Club Cup 2022"
-      },
-      {
          "description" : "It never fails; in time with Magnus' chessploits, the debate in Norwegian newspapers' commentary fields rages red hot over whether chess is a sport or athletics, with no surprising conclusions: one agrees to disagree, definitions do not diminish or lessen Magnus' performances and 'you can't compare apples and oranges.' Study by Rune Vik-Hansen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-gukesh-erigaisi-in-aimchess-rapid",
          "pubDate" : "Mon, 10 Oct 2022 09:17:35 +0000",
          "title" : "Carlsen, Gukesh & Erigaisi in Aimchess Rapid"
-      },
-      {
-         "description" : "The award-winning Meltwater Champions Chess Tour, the world&#x2019;s leading year-round chess circuit, reaches its penultimate tournament with the Aimchess Rapid starting on Friday. The eight-day event, the eighth leg of the $1.6 million Tour, will feature 16 world-class players. Top of the bill is World Champion Magnus Carlsen who is going for a first hat-trick []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-with-magnus-carlsen/",
-         "pubDate" : "Mon, 10 Oct 2022 09:08:23 +0000",
-         "title" : "Aimchess Rapid with Magnus Carlsen"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Association of Chess Professionals</strong> <a href=\"https://www.chessprofessionals.org/sites/default/files/World%20Open%20Circuit.pdf\">proposes that 20 players qualify from open tournaments</a> to the <strong>FIDE World Cup</strong> and thus the classical world championship cycle. Eligible should be results from open tournaments with at least 9 rounds, not more than one double-round, a minimum of 50 participants and 5 GM among them. </div> ",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-7-lichessorg",
          "pubDate" : "Sun, 09 Oct 2022 21:55:05 +0000",
          "title" : "2022 U.S. Chess Championships: Round 7 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after defeating Sabina Foisor in Round 4 of the 2022 U.S. Women's Championship. 2022.10.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abrahamyan-back-back-wins-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uJdw3KAKC1E.jpg?itok=ENd2Iwlm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/abrahamyan-back-back-wins-round-4",
-         "pubDate" : "Sun, 09 Oct 2022 18:55:04 +0000",
-         "title" : "Abrahamyan: Back-To-Back Wins! | Round 4"
       },
       {
          "description" : " Sixteen-year-old Saad Abobaker Elmi recently scored 7/11 in the World Youth Chess Championships in Romania after winning the Nordic Youth Championships. Of Somalian ancestry, his parents immigrated to Oslo, Norway where he took up chess at an early age. He recently came in second in the Norway Junior Championships and had a strong performance in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/\">Saad Elmi, Next Star in Norway?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
