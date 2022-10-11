@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Magician of Riga has made many incredibly smart moves in his career. Svitlana shows us in a couple of examples, what Mikhail Tal's secret for successful attacking is. Maybe you can use the tips to your advantage in a dominating position against your opponent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-attacking-like-mikhail-tal",
+         "pubDate" : "Tue, 11 Oct 2022 17:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Attacking like Mikhail Tal"
+      },
+      {
+         "description" : "Learning openings means playing openings! But who wants to play the same systems again and again against you? We recommend the world champion as your sparring partner: PowerFritz 18! With the included Powerbook, PowerFritz plays \"your\" openings. All variations! As often as you want! Until you have mastered everything perfectly. You can choose whether you want to receive tips or whether you want to play serious games under tournament conditions. The use of the PowerBooks ensures that you can train openings according to your preferences and that you have access to the entire opening theory. Let the ChessBase experts Martin Fischer and Steffen Giehring show you how it's done! To help you be pre",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/training-openings-with-powerfritz18",
+         "pubDate" : "Tue, 11 Oct 2022 15:00:00 +0100",
+         "title" : "Training openings with PowerFritz18"
+      },
+      {
+         "description" : " Early on in my career I used to play the Scotch Gambit line of the Italian quite a lot (1.e4 e5 2.Nf3 Nc6 3.d4 exd 4.Bc4). The idea was to aim for a Two Knights Defence as White, while avoiding the mainlines of the Italian game. One game that was given as a guide on what not to do was Meek v Morphy, where Meek played 5.Ng5 after 4. ... Bc5. As Morphy won brilliantly, the conventional wisdom was 'Do not play this opening'. And when I did face this line as White I chose the safer 5.O-O It appears that conventional wisdom may have wrong about this, as Awonder Liang belted Lev Aronian with this exact line. He even played the same sacrifice as Meek (adorned with a ? by Yusopov and others), and i",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/i-never-had-guts.html",
+         "pubDate" : "Tue, 11 Oct 2022 12:27:00 +0000",
+         "title" : "I never had the guts"
+      },
+      {
+         "description" : "Magnus Carlsen is the star of the Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour before the final tournament. But the field is strong and with reigning World Rapid Champion Nodirbek Abdusattorov, Germany's Vincent Keymer and a trio of Indian wonderkids in Arjun Erigaisi, Gukesh D and Aditya Mittal, who qualified via the MPL Indian Chess Tour, Carlsen will face five strong and ambitious juniors. The tournament begins Friday, 14 October, 12:00 ET (16:UTC, 18:00 CEST, 21:30 ISTAm Freitag um 18 Uhr geht es los.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-with-magnus-carlsen-and-strong-juniors",
+         "pubDate" : "Tue, 11 Oct 2022 13:00:00 +0100",
+         "title" : "Aimchess Rapid with Magnus Carlsen and strong juniors"
+      },
+      {
+         "description" : "Asian Juniors and Girls Chess Championship 2022 will be started from 17th to 26th November, 2022 at Tagaytay City, Philippines and top 50 players participated",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-juniors-and-girls-chess-championships-from-17th-to-26th-november-2022-to-be-held-at-tagaytay-city-philippines/",
+         "pubDate" : "Tue, 11 Oct 2022 10:39:39 +0000",
+         "title" : "Asian Juniors and Girls Chess Championships from 17th to 26th November 2022 to be held at Tagaytay City, Philippines"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The US defending champion Wesley So scores 2.5/5 points, same []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-vs-leinier-dominguez-us-chess-championship-2022-round-6-live/",
+         "pubDate" : "Tue, 11 Oct 2022 10:04:22 +0000",
+         "title" : "Wesley So vs Leinier Dominguez, US Chess Championship 2022 Round 6 LIVE"
+      },
+      {
+         "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World It is rather easy to spot mistakes played by others while you are watching their games. Their level matters for sure; however, many a time you can <a href=\"https://chessimprover.com/self-inflicted-wounds-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-4/\">Self Inflicted Wounds (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/self-inflicted-wounds-4/",
+         "pubDate" : "Tue, 11 Oct 2022 10:00:51 +0000",
+         "title" : "Self Inflicted Wounds (4)"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Fabiano Caruana is the sole leader of the event with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elshan-moradiabadi-vs-fabiano-caruana-us-chess-championship-2022-round-6-live/",
+         "pubDate" : "Tue, 11 Oct 2022 09:51:48 +0000",
+         "title" : "Elshan Moradiabadi vs Fabiano Caruana, US Chess Championship 2022 Round 6 LIVE"
+      },
+      {
+         "description" : "In 1939, the FIDE GA met in Buenos Aire during the Olympiad. Because of the uncertainty regarding a possible World War, Paraguay's delegate came up with a motion to replace the FIDE President, Dr Rueb, with the President of the Argentina Chess Federation.&#160; The motion was accepted by a huge majority of the delegates but []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/augusto-de-muro-the-second-fide-president/",
+         "pubDate" : "Tue, 11 Oct 2022 09:13:43 +0000",
+         "title" : "Augusto De Muro - the second FIDE President"
+      },
+      {
+         "description" : "GM Ramesh R.B. makes his Chessable debut with his hit course: Improve Your Chess Calculation, and he&#x2019;s ready to transform your calculation abilities. Ramesh RB helped stars like Praggnanandhaa and Daniel Naroditsky improve at the highest level. He coached a team of Indian teenagers to a bronze medal in their debut Chess Olympiad appearance, ahead []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-ramesh-r-b-improve-your-chess-calculation/",
+         "pubDate" : "Tue, 11 Oct 2022 08:43:49 +0000",
+         "title" : "GM Ramesh R.B. - Improve Your Chess Calculation"
+      },
+      {
          "description" : "It was not a good day for Indian team as India lost to Gold Medallist Turkey-Red in the final round of World Youth Olympiad and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -88,6 +168,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-the-closed-sicilian",
          "pubDate" : "Mon, 10 Oct 2022 18:00:00 +0100",
          "title" : "New: The Closed Sicilian"
+      },
+      {
+         "description" : "Welcome back to our ongoing coverage of the world's two foremost engine vs. engine competitions. Let's first summarize the previous report from two weeks ago, <A HREF=\"http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html\">TCEC S23 Paused; 'CCC19 Blitz Main' Underway</A>(September 2022):- <BLOCKQUOTE>TCEC: S23 L1 finished with Ethereal and Berserk promoting into DivP. Before that event starts, the site is running 'VSOB22 until replacement GPU'. &#149; CCC: The site is currently running 'CCC19 Blitz Main' with 10 engines. This was preceded by three other 'CCC19 Blitz' events: 'Newcomers', 'Qualifier #1', and 'Qualifier #2'. </BLOCKQUOTE> <P>The current situation ha",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/tcec-s23-divp-ccc19-blitz-final-well.html",
+         "pubDate" : "Mon, 10 Oct 2022 15:41:00 +0000",
+         "title" : "TCEC S23 DivP, CCC19 Blitz Final : 'Well' Underway"
       },
       {
          "description" : "The&#160;37th European Chess Club Cup&#160;and the&#160;26th European Women&#x2019;s Club Cup&#160;concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women&#x2019;s tournament. The best individual players per boards were determined according to the rating performance. Open section Board 1:1. Magus Carlsen (Offerspill Chess Clup), []",
@@ -178,30 +266,6 @@ news_feed (
          "title" : "Novy Bor Chess Club and ASVOe Pamhagen win European Club Cup 2022"
       },
       {
-         "description" : "After five rounds, Fabiano Caruana continues to lead the field by half a point. Caruana is at 3,5/4, half a point ahead of Samuel Sevian and Awonder Liang. There are eight players just a point behind the leader, which makes the men section of the US Chess Championship unpredictable. In the women section, Jennifer Yu []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-is-the-leader-of-the-us-chess-championship-after-r5/",
-         "pubDate" : "Mon, 10 Oct 2022 07:17:02 +0000",
-         "title" : "Fabiano Caruana is the leader of the US Chess Championship after R5"
-      },
-      {
-         "description" : "After a record-setting Season 22, defending champion Stockfish once again dominated its rivals in TCEC Season 23's Premier Division, taking a 1-point lead at the half-way mark. The high-bias book reaching as high as&#xA0;+2 opening evals at book exit meant it was always hairy for the engines defending inferior positions, but Stockfish time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-takes-1-point-lead-in-tcec-premier-division/",
-         "pubDate" : "Mon, 10 Oct 2022 06:26:56 +0000",
-         "title" : "Stockfish takes 1-point lead in TCEC Premier Division"
-      },
-      {
-         "description" : "If you&#x2019;re looking to master your openings with flare, FIDE Master Kamil Plichta is the perfect instructor for you. &#x201C;The Polish Powerhouse&#x201D; is an opening theoretician and blitz specialist. No matter what the opening, it seems FM Plichta can come up with original, aggressive lines that are sure to challenge opponents with ferocious piece activity []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/plichtas-french-defense/",
-         "pubDate" : "Mon, 10 Oct 2022 06:10:00 +0000",
-         "title" : "Plichta's French Defense"
-      },
-      {
          "description" : "The fifth round of the 2022 U.S. Chess Championships saw a new contender, GM Awonder Liang, rise to challenge GM Fabiano Caruana after a scintillating win over one of the pre-tournament favorites, GM Levon Aronian using the Scotch Gambit. In the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -264,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-club-cup-2022-r7",
          "pubDate" : "Mon, 10 Oct 2022 01:50:00 +0100",
          "title" : "Novy Bor and ASVOe Pamhagen are the European Club Cup champions"
-      },
-      {
-         "description" : "19-year-old Awonder Liang crushed Levon Aronian today in the fifth round of the US Chess Championship. Awonder successfully surprised Aronian by playing the Scotch gambit and achieved the completely winning position after only 16 moves of play (Replay the game here). &#8220;I feel ecstatic, it's not something I ever expected, just a lot of things []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/awonder-liang-after-he-crushed-levon-aronian-i-feel-ecstatic-my-university-professor-told-me-i-should-play-the-gambit/",
-         "pubDate" : "Sun, 09 Oct 2022 23:14:33 +0000",
-         "title" : "Awonder Liang after he crushed Levon Aronian: I feel ecstatic&hellip; My university professor told me I should play the gambit"
       },
       {
          "description" : "",
@@ -1474,22 +1530,6 @@ news_feed (
          "title" : "Not sure what went right here"
       },
       {
-         "description" : "On Sunday (October 2), the European Club Cup begins in Mayrhofen (Austria). The event consists of an Open Tournament and a Women's Tournament, and some of the world's best player will come to Austria, including Magnus Carlsen and Viswanathan Anand. The venue of the tournament is the \"Europahaus\". | Photo: Google",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-and-anand-play-in-european-club-cup-in-austria-2",
-         "pubDate" : "Thu, 29 Sep 2022 12:36:36 +0100",
-         "title" : "Carlsen and Anand to play in European Club Cup in Austria"
-      },
-      {
-         "description" : "Over an hour of video training: Mihail Marin explains how Caruana achieved a clear advantage with a novelty in the Rossolimo Variation against Gukesh - and then missed the right continuation. Alexei Shirov shows with one of his games against Jorden van Foreest why you have to reckon with the Moscow Variation against him in the Semi-Slav again! \"The brilliancy\" comes from Greek GM Nikolas Theodorou, who led his team to the championship title in the 2022 Final Four of College Chess in the USA. The \"Lucky bag\" with 29 annotated games - among others Romain Edouard, Mihal Krasenkow and Spyridon Kapnisis analyse 17 games from the German Bundesliga - is again full of surprises and suggestions. Ches",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-209",
-         "pubDate" : "Thu, 29 Sep 2022 12:00:00 +0100",
-         "title" : "New: CBM Extra #209"
-      },
-      {
          "description" : "Bodhana Sivanandan came second in the U8 Girls category at the FIDE World Cadet Chess Championship. Bodhana actually finished joint top with 9.5 points after...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1504,14 +1544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2013",
          "pubDate" : "Thu, 29 Sep 2022 09:43:14 +0000",
          "title" : "Arkady Dvorkovich meets with President of Kazakhstan"
-      },
-      {
-         "description" : "The first event of the 2022-2023 Women's Grand Prix Series is taking place on September 18-29 in Astana, Kazakhstan. Fielding 16 of the world's top female players, the Grand Prix consists of four tournaments. Each player will participate in three out of the four tournaments. Follow the games live with expert commentary starting at 10.00 CEST (4.00 ET, 13.30 IST) | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-nur-sultan-2022-live",
-         "pubDate" : "Thu, 29 Sep 2022 09:50:00 +0100",
-         "title" : "Women's Grand Prix Astana: Live"
       },
       {
          "description" : "GM Teimour Radjabov knocked out GM Arjun Erigaisi on Wednesday, securing the last spot into the round of 16 at the Chess.com Global Championship. This was an especially electrifying matchup of experienced contender vs. up-and-comer. In this corn...",
@@ -2064,30 +2096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/09/20/carlsen-quits-against-niemann-at-the-end/",
          "pubDate" : "Tue, 20 Sep 2022 16:13:27 +0000",
          "title" : "Carlsen quits against Niemann&hellip; the saga continues"
-      },
-      {
-         "description" : " Following the latest opening theory I tried to finish tonight's game with 2.c4. Instead my opponent decided to resist for a few more moves, but eventually the pawer of the c pawn did the business. <br /> <b>Press,Shaun - Cheng,Larry [E65]</b><br />Gungahlin CC (6), 20.09.2022 <script>new PgnViewer( { boardName: \"game1352\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.Nc3 c5 7.O-O e6 8.Bg5 Qc7 9.Nb5 Qb6 10.a4 a6 11.dxc5 Qxc5 12.Qxd6 Ne4 13.Qxc5 Nxc5 14.Nc7 Ra7 15.Be7 b6 16.Bxf8 Kxf8 17.Nb5 axb5 18.axb5 Rc7 19.Ra8 Nbd7 20.b4 Ne4 21.Rd1 Ke7 22.Nd4 Bb7 23.Nc6+ Bxc6 24.bxc6 Ndf6 25.b5 Nc3 26.Rd2 Nce4 27.Rc2 Nc5 28.Rb8 Na4 29.Rb7 Kd8 30.Rxc7 Kxc7 31.Ra2 Nc3 32",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/apparently-2c4-doesnt-win-instantly.html",
-         "pubDate" : "Tue, 20 Sep 2022 12:32:00 +0000",
-         "title" : "Apparently 2.c4 doesn't win instantly"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-61/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (61)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-61/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (61)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-61/",
-         "pubDate" : "Tue, 20 Sep 2022 10:00:12 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (61)"
-      },
-      {
-         "description" : "Vaz Ethan and Goutham Krishna H (U-12 Open), Shubhi Gupta (U-12 Girls) , Charvi A (U-8 Girls) jointly leading with 4 points out of 4",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-cadets-chess-championships-2022-batumi-georgia-round-4-19-09-2022/",
-         "pubDate" : "Tue, 20 Sep 2022 09:57:53 +0000",
-         "title" : "World Cadets Chess Championships 2022 , Batumi, Georgia Round 4 (19.09.2022)"
       }
    ]
 }
