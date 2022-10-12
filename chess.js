@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A day of decisive results with the black pieces ruled the sixth round of the 2022 U.S. Chess Championship on Tuesday. GM Fabiano Caruana was able to extend his lead to a full point after beating GM Elshan Moradiabadi while GMs Ray Robson and Dariu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-6",
+         "pubDate" : "Tue, 11 Oct 2022 19:55:06 -0700",
+         "title" : "Caruana Cracks Moradiabadi, Extends Lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after a draw with Wesley So in Round 6 of the 2022 U.S. Chess Championship. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-wesley-had-sharp-options-solid-opening-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p39dLwYfMG0.jpg?itok=egmcKoWp\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "FIDE President visits Paraguay"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Carissa Yip are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Anna Zatonskih are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-championships-2022-live",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-september-27-2022",
          "pubDate" : "Wed, 28 Sep 2022 08:55:00 -0700",
          "title" : "Nakamura Sweeps Titled Tuesday After Battles With Carlsen"
-      },
-      {
-         "description" : "The International Chess Federation has removed GM Ilya Smirin from his commentary job at the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan, for making sexist comments during a live broadcast. FIDE called the Israeli grandmaster&#39;s remarks &#34;complete...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-commentator-sacked-sexist-remarks-ilya-smirin",
-         "pubDate" : "Wed, 28 Sep 2022 08:54:00 -0700",
-         "title" : "Chess Commentator Sacked For Making Sexist Remarks"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94514693.cms\" />Pantsulaia Levan of Georgia clinched the 2nd Chhattisgarh Chief Minister's Trophy International Grandmaster Chess Championship title, organised in Chhattisgarh's capital Raipur from September 18 to 28.",
