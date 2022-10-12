@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2037",
+         "pubDate" : "Wed, 12 Oct 2022 22:21:37 +0000",
+         "title" : "Arkady Dvorkovich meets with President of Argentina"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sophie Morris-Suzuki talks to Cristian Chirila after defeating Rochelle Wu in Round 6 of the 2022 U.S. Women's Championship. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/morris-suzuki-finally-i-played-good-chess-round-6-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AUphj8IVTak.jpg?itok=y7A6JAQQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/morris-suzuki-finally-i-played-good-chess-round-6-0",
+         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
+         "title" : "Morris-Suzuki: Finally! I Played Good Chess! | Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.14<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-9-lichessorg",
+         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 9 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after defeating Moradiabadi in Round 7 of the 2022 U.S. Chess Championship. 2022.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-10-move-trap-elshan-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_iAwfOEkpH0.jpg?itok=A-diTMNP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-10-move-trap-elshan-round-7",
+         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
+         "title" : "Dominguez: 10-Move Trap on Elshan! | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after a draw with Christopher Yoo in Round 7 of the 2022 U.S. Chess Championship. 2022.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-i%E2%80%99ve-been-underestimating-my-opponents-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X6Paqixgjy0.jpg?itok=LUUwnhzS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-i%E2%80%99ve-been-underestimating-my-opponents-round-7",
+         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
+         "title" : "Aronian: I've Been Underestimating My Opponents | Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks the U.S. Championship field about their tournament expectations in regard to the mix of young talent and experience. This aired during Round 7. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-chess-championship-tournament-expectations\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tgWx2Uqgt3g.jpg?itok=ApSf3o51\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championship-tournament-expectations",
+         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
+         "title" : "2022 U.S. Chess Championship: Tournament Expectations"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Music Director Brian Owens talks to Cristian Chirila during Round 7 of the 2022 U.S. Chess Championships. 2022.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brian-owens-fischer-was-quintessentially-american-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XE6pa1lZDVg.jpg?itok=1oJMP167\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/brian-owens-fischer-was-quintessentially-american-round-7",
+         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
+         "title" : "Brian Owens: Fischer was Quintessentially American | Round 7"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #537 Merijn van Delft presents a game Pentala Harikrishna and Vishy Anand played at the European Club Cup in Mayrhofen, Austria. Harikrishna won with impressive technique. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-537-p-harikrishna-vs-v-anand",
+         "pubDate" : "Wed, 12 Oct 2022 22:55:27 +0100",
+         "title" : "Game of the Week #537: P. Harikrishna vs V. Anand"
+      },
+      {
+         "description" : "After defeating Levon Aronian in yesterday's sixth round of the US Chess Championship, Dariusz Swiercz scored his second victory in a row as he today crushed Hans Niemann after only two hours of play. Swiercz achieved a clear advantage in the early part of the middlegame when everything started going wrong for Hans. After Niemann's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dariusz-swiercz-after-crushing-hans-niemann-i-feel-really-really-nice/",
+         "pubDate" : "Wed, 12 Oct 2022 21:24:49 +0000",
+         "title" : "Dariusz Swiercz after crushing Hans Niemann: I feel really really nice"
+      },
+      {
+         "description" : "The seventh round of the US Chess Championship 2022 saw one of the quickest and shortest games in the history of the US Championship. Leinier Dominguez defeated Elshan Moradiabadi after only 10 moves of play. The game lasted only 20 minutes as Moradiabadi missed the well-known theoretical trick in the Petroff line and got into []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/leinier-dominguez-defeats-elshan-moradiabadi-in-10-moves-after-only-20-minutes-of-play/",
+         "pubDate" : "Wed, 12 Oct 2022 20:23:25 +0000",
+         "title" : "Leinier Dominguez defeats Elshan Moradiabadi in 10 moves after only 20 minutes of play"
+      },
+      {
+         "description" : "GM Konstantin Landa has passed away at the age of 50, after a long struggle with cancer. The news was confirmed by the Russian Chess Federation. Landa was born May 22, 1972 in Omsk, a city in southwestern Siberia. He got his first chess lessons ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/konstantin-landa-1972-2022",
+         "pubDate" : "Wed, 12 Oct 2022 12:59:00 -0700",
+         "title" : "Konstantin Landa, 1972-2022"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Anna Zatonskih are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +111,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess",
          "pubDate" : "Wed, 12 Oct 2022 11:15:00 -0700",
-         "title" : "Chess.com Launches Duck Chess, Seirawan Chess, And Setup Chess"
+         "title" : "Chess.com Launches Duck Chess, Seirawan Chess, Setup Chess"
       },
       {
          "description" : "In a day marked by underdog dominance, GMs Teimour Radjabov and Nihal Sarin defeated the two 2023 World Championship challengers Ian Nepomniachtchi and Ding Liren in the 2022 Chess.com Global Championship round of 16, presented by Brave. Nihal and...",
@@ -88,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/turkey-wins-fide-world-youth-u-16-chess-olympiad-2022",
          "pubDate" : "Wed, 12 Oct 2022 11:54:14 +0100",
          "title" : "Turkey wins FIDE World Youth U-16 Chess Olympiad 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2032",
+         "pubDate" : "Wed, 12 Oct 2022 10:27:42 +0000",
+         "title" : "Shortlist for FIDE Book Awards 2022 announced"
       },
       {
          "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20)&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 120 players from 55 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. The top seeds are GM Andrey Esipenko,&#xA0;GM Arseniy Nesterov,&#xA0;GM Frederik Svane,&#xA0;GM Leon []",
@@ -178,14 +274,6 @@ news_feed (
          "title" : "Rest in Peace Grandmaster Konstantin Landa"
       },
       {
-         "description" : "GM Fabiano Caruana increased his lead to a full point ahead of the field with a victory against GM Elshan Moradiabadi. GM Dariusz Swiercz achieved the biggest upset, defeating GM Levon Aronian.&#160;In the U.S. Women&#x2019;s Championship, GM Irina Krush won a third game in a row to join WGM Jennifer Yu at the top of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-extends-lead-us-chess-championship-2022-round-6-recap/",
-         "pubDate" : "Wed, 12 Oct 2022 07:32:00 +0000",
-         "title" : "Fabiano Caruana extends lead; US Chess Championship 2022 - Round 6 recap"
-      },
-      {
          "description" : "Fabiano Caruana defeated Elshan Moradiabadi to increase his lead at the U.S. Championship in Saint Louis. Caruana now stands a full point ahead of Sam Sevian, Awonder Liang and Ray Robson - the latter joined the chasing pack after beating Hans Niemann with the black pieces. Meanwhile, in the women's tournament, Irina Krush scored her third consecutive victory to join Jennifer Yu in first place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,76 +322,12 @@ news_feed (
          "title" : "Krush: Thalia Victory a 'Pleasant Surprise' | Round 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Moradiabadi in Round 6 of the 2022 U.S. Chess Championship. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-gets-noticed-because-hans-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QdEt4C80Ns0.jpg?itok=MVeHWtk0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-gets-noticed-because-hans-round-6",
-         "pubDate" : "Wed, 12 Oct 2022 00:56:16 +0000",
-         "title" : "Caruana Gets Noticed Because of Hans | Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.11<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-6",
-         "pubDate" : "Wed, 12 Oct 2022 00:56:16 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sophie Morris-Suzuki talks to Cristian Chirila after defeating Rochelle Wu in Round 6 of the 2022 U.S. Women's Championship. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/morris-suzuki-finally-i-played-good-chess-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AUphj8IVTak.jpg?itok=y7A6JAQQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/morris-suzuki-finally-i-played-good-chess-round-6",
-         "pubDate" : "Wed, 12 Oct 2022 00:56:16 +0000",
-         "title" : "Morris-Suzuki: Finally! I Played Good Chess!| Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Dariusz Swiercz talks to Cristian Chirila after defeating Aronian in Round 6 of the 2022 U.S. Chess Championship. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/swiercz-sapped-energy-after-aronian-win-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rIdKM7puZFM.jpg?itok=H4yBuQDk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/swiercz-sapped-energy-after-aronian-win-round-6",
-         "pubDate" : "Wed, 12 Oct 2022 00:56:16 +0000",
-         "title" : "Swiercz Sapped of Energy after Aronian Win | Round 6"
-      },
-      {
-         "description" : "Fabiano Caruana won his Round 6 game of the US Chess Championship against Elshan Moradiabadi and extended his lead in the tournament. Fabiano joined the US championship live studio for the post-game interview and explained that he chose the random line in the opening that Moradiabadi hasn't played before: &#8220;I've played a very random line []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-people-recognize-me-but-i-think-its-because-of-hans-i-get-stopped-often-and-asked-about-beads/",
-         "pubDate" : "Tue, 11 Oct 2022 22:54:17 +0000",
-         "title" : "Fabiano Caruana: People recognize me, but I think it's because of Hans; I get stopped often and asked about beads"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Music Director Brian Woods talks to Cristian Chirila during Round 6 of the 2022 U.S. Chess Championships. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brian-woods-classical-music-wchof-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F13pgA4uzyo.jpg?itok=OPeInvSt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/brian-woods-classical-music-wchof-round-6",
-         "pubDate" : "Tue, 11 Oct 2022 21:56:17 +0000",
-         "title" : "Brian Woods: Classical Music at the WCHOF | Round 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2033",
          "pubDate" : "Tue, 11 Oct 2022 19:11:39 +0000",
          "title" : "FIDE President visits Paraguay"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.13<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-8-lichessorg",
-         "pubDate" : "Tue, 11 Oct 2022 18:56:10 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 8 | lichess.org"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2032",
-         "pubDate" : "Tue, 11 Oct 2022 18:27:42 +0000",
-         "title" : "Shortlist for FIDE Book Awards 2022 announced"
       },
       {
          "description" : "19-year-old Awonder Liang recently called himself \"much more of a student than a chess player\", but in Round 5 of the US Championship he crushed world no. 10 Levon Aronian with the Scotch Gambit. Sam Shankland picked up the only other win in the Open section, while a 4th win in 5 games gave Jennifer Yu, currently studying at Harvard University, the sole lead in the Women's section.",
@@ -1498,14 +1522,6 @@ news_feed (
          "title" : "The ChessBase Account - Training with WebApps (1)"
       },
       {
-         "description" : "In his Power Play Show, Daniel King takes a close look at the game Saric-Ivanchuk, played at the Julius B&auml;r Generation Cup. We see a bold attacking idea right out of the opening that almost catches Ivanchuk. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-raging-rook",
-         "pubDate" : "Fri, 30 Sep 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: The Raging Rook"
-      },
-      {
          "description" : "Continuing with the 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html\">1992 Fischer - Spassky 'Under the Weather'</A>(September 2022), in that post I wrote, <BLOCKQUOTE>Photo D1 is about a moment from the opening press conference that is more famous than any of the games played in the match. It shows Fischer with the letter that led to the famous spit incident. </BLOCKQUOTE> <P>The composite image including that photo in black & white is seen below, with 'photo D1' circled in red. Superimposed on the composite is a similar photo in color. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi30.jpg\" WI",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1592,14 +1608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2015",
          "pubDate" : "Thu, 29 Sep 2022 21:45:56 +0000",
          "title" : "FIDE's FPL to form an investigatory panel for the Carlsen-Niemann controversy"
-      },
-      {
-         "description" : "Thanks to a strong finish, scoring five points over her last six games, GM Kateryna Lagno of Russia won the first leg of the FIDE Women&#39;s Grand Prix in Astana, Kazakhstan. She finished half a point ahead of her compatriot GM Aleksandra Goryachkina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lagno-wins-astana-fide-women-grand-prix",
-         "pubDate" : "Thu, 29 Sep 2022 11:12:00 -0700",
-         "title" : "Lagno Wins Astana FIDE Women's Grand Prix"
       },
       {
          "description" : "It didn't take a crystal ball to predict that this month's Yahoos' post (see the footnote for an explanation of 'Yahoos') was going to be about Carlsen/Nakamura vs. Niemann, aka the chess cheating affair. The scandal broke three weeks ago and shows no sign of disappearing anytime soon. I've already featured it twice, the second time in <A HREF=\"http://chessforallages.blogspot.com/2022/09/talkchess-talks-current-topics.html\">Talkchess Talks Current Topics</A>(September 2022). <P>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from <I>Google News</I>, similar to the chart in last mont",
