@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana defeated Elshan Moradiabadi to increase his lead at the U.S. Championship in Saint Louis. Caruana now stands a full point ahead of Sam Sevian, Awonder Liang and Ray Robson - the latter joined the chasing pack after beating Hans Niemann with the black pieces. Meanwhile, in the women's tournament, Irina Krush scored her third consecutive victory to join Jennifer Yu in first place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r6",
+         "pubDate" : "Wed, 12 Oct 2022 08:00:00 +0100",
+         "title" : "U.S. Championships: Caruana widens the gap"
+      },
+      {
          "description" : "A day of decisive results with the black pieces ruled the sixth round of the 2022 U.S. Chess Championship on Tuesday. GM Fabiano Caruana was able to extend his lead to a full point after beating GM Elshan Moradiabadi while GMs Ray Robson and Dariu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2033",
          "pubDate" : "Tue, 11 Oct 2022 19:11:39 +0000",
          "title" : "FIDE President visits Paraguay"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Anna Zatonskih are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Tue, 11 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.13<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
@@ -2056,30 +2056,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/sep/21/magnus-carlsen-v-hans-niemann-world-champion-resigns-after-one-move-chess-julius-baer-generation-cup",
          "pubDate" : "Wed, 21 Sep 2022 07:00:22 +0000",
          "title" : "Carlsen v Niemann debate rages on after world champion resigns after one move"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1995",
-         "pubDate" : "Wed, 21 Sep 2022 06:25:49 +0000",
-         "title" : "Lviv and Berlin to play charity match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1994",
-         "pubDate" : "Wed, 21 Sep 2022 06:12:53 +0000",
-         "title" : "Portuguese Championship: Andr&eacute; Sousa and Mariana Silva clinch titles"
-      },
-      {
-         "description" : "India's teenaged Grandmasters Arjun Erigaisi and R Praggnanandhaa are placed second and joint fourth respectively after 12 rounds in the preliminary phase of Julius Baer Generation Cup online rapid chess tournament. World champion Magnus Carlsen is on top of the standings with 25 points, one ahead of Erigiasi, while Quang Liem Le (China) is third on 20 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-in-2nd-spot-r-praggnanandhaa-in-fourth-place/articleshow/94342047.cms",
-         "pubDate" : "Wed, 21 Sep 2022 05:46:10 +0000",
-         "title" : "Julius Baer Cup: Arjun Erigaisi in 2nd spot; R Praggnanandhaa in fourth place"
       }
    ]
 }
