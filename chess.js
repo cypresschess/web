@@ -2080,22 +2080,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-in-2nd-spot-r-praggnanandhaa-in-fourth-place/articleshow/94342047.cms",
          "pubDate" : "Wed, 21 Sep 2022 05:46:10 +0000",
          "title" : "Julius Baer Cup: Arjun Erigaisi in 2nd spot; R Praggnanandhaa in fourth place"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94339279.cms\" />Magnus Carlsen's decision to resign after just one move against Hans Niemann, the 19-year-old American GM, in the sixth round of the online Generation Cup on Monday night created quite a stir and taken away the spotlight from two Indians (Arjun and Praggu), who are leading at the half-way mark of the league phase.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pune-magnus-carlsens-resignation-gambit-kicks-up-row/city/pune/pune-magnus-carlsens-resignation-gambit-kicks-up-row/articleshow/94337713.cms",
-         "pubDate" : "Wed, 21 Sep 2022 00:23:35 +0000",
-         "title" : "Magnus Carlsen's resignation gambit kicks up row"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;Every chess player, from club level up, can improve their game by using engines. That is the message of Matthew Sadler's thought-provoking new book, based on many years of experience with the world's best chess software. You may not be able to replicate their dazzling-deep <a href=\"http://britishchessnews.com/2022/09/21/the-silicon-road-to-chess-improvement-chess-engine-training-methods-opening-strategies-middlegame-techniques/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Silicon Road To Chess Improvement: Chess Engine Training Methods, Opening Strategies &#38; Middlegame Techniques</span> <span class=\"met",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/09/21/the-silicon-road-to-chess-improvement-chess-engine-training-methods-opening-strategies-middlegame-techniques/",
-         "pubDate" : "Wed, 21 Sep 2022 00:10:21 +0000",
-         "title" : "The Silicon Road To Chess Improvement: Chess Engine Training Methods, Opening Strategies & Middlegame Techniques"
       }
    ]
 }
