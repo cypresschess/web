@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1996",
          "pubDate" : "Wed, 21 Sep 2022 18:41:03 +0000",
          "title" : "FIDE WGP Astana: Up-and-coming Zhu Jiner joins the lead"
-      },
-      {
-         "description" : " Round three between the pair disappeared off the radar in the quarter-finals of the online Julius Baer Generation Cup <a href=\"https://www.theguardian.com/sport/2022/sep/19/chess-magnus-carlsen-resigns-from-online-match-hans-niemann\">It took less than a minute to reignite the feud</a>. Hans Niemann v Magnus Carlsen at the Julius Baer Generation Cup opened conventionally with 1 d2-d4 Ng8-f6 2 c2-c4. But then Carlsen disappeared from the screen, the commentators were aghast, while Niemann shrugged and then also disconnected. The world champion's father, Henrik Carlsen, had already announced that his normally media-friendly son would give no press interviews during the tournament. The action w",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/sep/21/magnus-carlsen-v-hans-niemann-world-champion-resigns-after-one-move-chess-julius-baer-generation-cup",
-         "pubDate" : "Wed, 21 Sep 2022 07:00:22 +0000",
-         "title" : "Carlsen v Niemann debate rages on after world champion resigns after one move"
       }
    ]
 }
