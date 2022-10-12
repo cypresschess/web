@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 10 October the FIDE World Youth U-16 Chess Olympiad 2022 finished in Nakhchivan, Azerbaijan. The 9-round Swiss tournament with classical time control brought together 34 teams from 22 countries. The fifth-rated Turkiye-Red swept the field, winning the event with one round to spare. | Photos: Turkish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/turkey-wins-fide-world-youth-u-16-chess-olympiad-2022",
+         "pubDate" : "Wed, 12 Oct 2022 11:54:14 +0100",
+         "title" : "Turkey wins FIDE World Youth U-16 Chess Olympiad 2022"
+      },
+      {
+         "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20)&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 120 players from 55 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. The top seeds are GM Andrey Esipenko,&#xA0;GM Arseniy Nesterov,&#xA0;GM Frederik Svane,&#xA0;GM Leon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-junior-chess-championship-2022-open-section-live/",
+         "pubDate" : "Wed, 12 Oct 2022 10:15:31 +0000",
+         "title" : "FIDE World Junior Chess Championship 2022 - Open section LIVE"
+      },
+      {
+         "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20) is taking place in Sardinia, Italy from October 11 to 23, 2022. Nearly 200 players from 58 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. GM Andrey Esipenko, GM Arseniy Nesterov, GM Frederik Svane, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-junior-chess-championship-2022-kicks-off-in-italy/",
+         "pubDate" : "Wed, 12 Oct 2022 10:11:19 +0000",
+         "title" : "FIDE World Junior Chess Championship 2022 kicks off in Italy"
+      },
+      {
+         "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20)&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 66 players from 45 countries will compete over 11 swiss rounds for the title of the World Junior Girls Chess Champion. The top seeds are&#xA0;IM Nurgyul Salimova,&#xA0;WIM Meruert Kamalidenova,&#xA0;WIM Mariam Mkrtchyan,&#xA0;WGM Govhar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-junior-chess-championship-2022-girls-section-live/",
+         "pubDate" : "Wed, 12 Oct 2022 10:03:00 +0000",
+         "title" : "FIDE World Junior Chess Championship 2022 - Girls section LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2035",
+         "pubDate" : "Wed, 12 Oct 2022 09:58:37 +0000",
+         "title" : "Konstantin Landa (1972-2022)"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann scores 2.5/6 points and currently holds the 12th []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dariusz-swiercz-vs-hans-niemann-us-chess-championship-2022-round-7-live/",
+         "pubDate" : "Wed, 12 Oct 2022 09:51:32 +0000",
+         "title" : "Dariusz Swiercz vs Hans Niemann, US Chess Championship 2022 Round 7 LIVE"
+      },
+      {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Suffering two consecutive losses in his first US Chess Championship, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/christopher-yoo-vs-levon-aronian-us-chess-championship-round-7-live/",
+         "pubDate" : "Wed, 12 Oct 2022 09:42:14 +0000",
+         "title" : "Christopher Yoo vs Levon Aronian, US Chess Championship Round 7 LIVE"
+      },
+      {
          "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana extended his lead in the tournament after defeating []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -130,28 +186,12 @@ news_feed (
          "title" : "Fabiano Caruana: People recognize me, but I think it's because of Hans; I get stopped often and asked about beads"
       },
       {
-         "description" : "Ray Robson defeated Hans Niemann in the sixth round of the US Chess Championship to score 3.5/6 points in the event. The 19-year-old overestimated his attacking chances choosing a very aggressive 25.f4-26.f5-27.f6 advance, but Robson found a beautiful way to refuse Niemann's attack on the kingside with 27Bf6! (Replay the game here) In the post-game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ray-robson-after-beating-hans-niemann-it-was-a-very-complicated-game-and-i-was-a-little-bit-worried/",
-         "pubDate" : "Tue, 11 Oct 2022 22:31:30 +0000",
-         "title" : "Ray Robson after beating Hans Niemann: It was a very complicated game and I was a little bit worried"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Music Director Brian Woods talks to Cristian Chirila during Round 6 of the 2022 U.S. Chess Championships. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brian-woods-classical-music-wchof-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F13pgA4uzyo.jpg?itok=OPeInvSt\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/brian-woods-classical-music-wchof-round-6",
          "pubDate" : "Tue, 11 Oct 2022 21:56:17 +0000",
          "title" : "Brian Woods: Classical Music at the WCHOF | Round 6"
-      },
-      {
-         "description" : "Ever since the 19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen, who consequently withdrew from the Sinquefield Cup 2022 (see the timetable of events related to the Carlsen Niemann case below), the topic of cheating in chess is&#xA0;the top news in mass medias. As Norwegian VG reports, the former president of Swedish Chess Federation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/former-president-of-swedish-chess-federation-admits-to-losing-43-games-on-purpose/",
-         "pubDate" : "Tue, 11 Oct 2022 20:58:29 +0000",
-         "title" : "Former president of Swedish Chess Federation admits to losing 43 games on purpose"
       },
       {
          "description" : "",
@@ -218,20 +258,12 @@ news_feed (
          "title" : "Aimchess Rapid with Magnus Carlsen and strong juniors"
       },
       {
-         "description" : "Asian Juniors and Girls Chess Championship 2022 will be started from 17th to 26th November, 2022 at Tagaytay City, Philippines and top 50 players participated",
+         "description" : "Asian Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Tagaytay City, Philippines from 17th 26th November, 2022 and players",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/asian-juniors-and-girls-chess-championships-from-17th-to-26th-november-2022-to-be-held-at-tagaytay-city-philippines/",
          "pubDate" : "Tue, 11 Oct 2022 10:39:39 +0000",
          "title" : "Asian Juniors and Girls Chess Championships from 17th to 26th November 2022 to be held at Tagaytay City, Philippines"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The US defending champion Wesley So scores 2.5/5 points, same []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-vs-leinier-dominguez-us-chess-championship-2022-round-6-live/",
-         "pubDate" : "Tue, 11 Oct 2022 10:04:22 +0000",
-         "title" : "Wesley So vs Leinier Dominguez, US Chess Championship 2022 Round 6 LIVE"
       },
       {
          "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World It is rather easy to spot mistakes played by others while you are watching their games. Their level matters for sure; however, many a time you can <a href=\"https://chessimprover.com/self-inflicted-wounds-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-4/\">Self Inflicted Wounds (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -240,22 +272,6 @@ news_feed (
          "link" : "https://chessimprover.com/self-inflicted-wounds-4/",
          "pubDate" : "Tue, 11 Oct 2022 10:00:51 +0000",
          "title" : "Self Inflicted Wounds (4)"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Fabiano Caruana is the sole leader of the event with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elshan-moradiabadi-vs-fabiano-caruana-us-chess-championship-2022-round-6-live/",
-         "pubDate" : "Tue, 11 Oct 2022 09:51:48 +0000",
-         "title" : "Elshan Moradiabadi vs Fabiano Caruana, US Chess Championship 2022 Round 6 LIVE"
-      },
-      {
-         "description" : "In 1939, the FIDE GA met in Buenos Aire during the Olympiad. Because of the uncertainty regarding a possible World War, Paraguay's delegate came up with a motion to replace the FIDE President, Dr Rueb, with the President of the Argentina Chess Federation.&#160; The motion was accepted by a huge majority of the delegates but []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/augusto-de-muro-the-second-fide-president/",
-         "pubDate" : "Tue, 11 Oct 2022 09:13:43 +0000",
-         "title" : "Augusto De Muro - the second FIDE President"
       },
       {
          "description" : "It was not a good day for Indian team as India lost to Gold Medallist Turkey-Red in the final round of World Youth Olympiad and",
@@ -1498,14 +1514,6 @@ news_feed (
          "title" : "FIDE to form panel to look into cheating allegations"
       },
       {
-         "description" : "Kateryna Lagno won the first stage of the Women's Grand Prix series with an undefeated 8/11 score. Lagno finished a half point ahead of Aleksandra Goryachkina (pictured, left), who scraped a half point in the final round after Vaishali Rameshbabu failed to convert a winning rook endgame. Chinese youngster Zhu Jiner grabbed third place. Zhansaya Abdumalik and Dinara Wagner scored full points on the last day of action. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-r11",
-         "pubDate" : "Fri, 30 Sep 2022 06:15:00 +0100",
-         "title" : "Kateryna Lagno wins Astana Women's Grand Prix"
-      },
-      {
          "description" : " From the publisher: &#8220;Rashid Nezhmetdinov (1912-1974) played fearless attacking chess. With his dazzling style, the Soviet master already was a legend during his lifetime, but international fame largely eluded him. Only once did he get permission to show his exceptional talent in a tournament abroad. Five times Nezhmetdinov was chess champion of the Russian Federation. <a href=\"http://britishchessnews.com/2022/09/30/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollo",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/cheating-mania.html",
          "pubDate" : "Thu, 29 Sep 2022 15:50:00 +0000",
          "title" : "Cheating Mania"
-      },
-      {
-         "description" : "What could possibly be more satisfying than playing a beautiful combination, or winning a splendid positional game? And yet, it is dangerous to rely too much on your sense of beauty, on your intuition. Why? Jan Markos explains. | Photo: Hardebeck Media on Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-14-the-trap-of-beauty",
-         "pubDate" : "Thu, 29 Sep 2022 16:00:00 +0100",
-         "title" : "The Winning Academy 14: The Trap of Beauty"
       },
       {
          "description" : "",
