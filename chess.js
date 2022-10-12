@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Anna Zatonskih are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Wed, 12 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2036",
+         "pubDate" : "Wed, 12 Oct 2022 18:20:51 +0000",
+         "title" : "FIDE World Junior Chess Championship kicks off in Cala Gonone, Sardinia"
+      },
+      {
+         "description" : "Chess.com is pleased to announce that you can now play three exciting chess variants on our website: Duck Chess, Seirawan Chess, and Setup Chess. Head over to our Variants page to try these and other chess variants now! Chess variants give pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess",
+         "pubDate" : "Wed, 12 Oct 2022 11:15:00 -0700",
+         "title" : "Chess.com Launches Duck Chess, Seirawan Chess, And Setup Chess"
+      },
+      {
+         "description" : "In a day marked by underdog dominance, GMs Teimour Radjabov and Nihal Sarin defeated the two 2023 World Championship challengers Ian Nepomniachtchi and Ding Liren in the 2022 Chess.com Global Championship round of 16, presented by Brave. Nihal and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d4",
+         "pubDate" : "Wed, 12 Oct 2022 10:49:00 -0700",
+         "title" : "Underdogs Eliminate World Championship Challengers From CGC In Day Of Upsets"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1482,14 +1514,6 @@ news_feed (
          "title" : "Fischer: 'That's my answer'"
       },
       {
-         "description" : "A few days ago Europe's biggest news portal, SPIEGEL Online, had YACS - yet another cheating story. It concentrated on a portrait of the accused Hans Niemann, and traced his chess development over the years. Did you know you can easily track the Elo progress in the ChessBase Players service? And also his best games, his best and his most difficult opponents, his favourite openings and most/least successful openings. If not, take a look at what you have been missing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tracking-a-player-s-progress",
-         "pubDate" : "Fri, 30 Sep 2022 14:00:00 +0100",
-         "title" : "Tracking a player's progress"
-      },
-      {
          "description" : " Phong Huynh is the 2022 ACT Junior Chess Champion, after surviving a tense final day of the competition. Sharing the overnight lead with Masaki Horikawa on 5/6, both players lost their round 7 games to open the tournament right up. Richard Ji then took the lead on 5.5/7, but a round 8 draw with Dev Raichura (and a 2nd loss of the day to Horikawa), left Huynh, Ji and Muhammed Yunus tied for 1st on 6/8. As they had already played each other, it came to to games against other opponents. Both Huynh and Ji won their games, while Yunus missed a tactic against ACT Girls Champion Shriya Karthik and resigned material down. Under the tournament tie-break rules, Huynh was awarded the 1st place trophy ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1618,14 +1642,6 @@ news_feed (
          "title" : "Arkady Dvorkovich meets with President of Kazakhstan"
       },
       {
-         "description" : "GM Teimour Radjabov knocked out GM Arjun Erigaisi on Wednesday, securing the last spot into the round of 16 at the Chess.com Global Championship. This was an especially electrifying matchup of experienced contender vs. up-and-comer. In this corn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r32-d5",
-         "pubDate" : "Wed, 28 Sep 2022 15:02:00 -0700",
-         "title" : "Experience Bests Youth: Radjabov Knocks Out Erigaisi"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2011",
          "pubDate" : "Wed, 28 Sep 2022 18:43:40 +0000",
          "title" : "FIDE Chessable Academy resumes in October 2022"
-      },
-      {
-         "description" : "ChessKid is excited to announce its new Chess Clubs in Libraries initiative! This program sends out free club starter kits in North America. Each starter kit includes:&#38;nbsp; 5 chess boards &#38;amp; pieces (sets) A &#34;How the Pieces Move&#34; poster F...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-library-chess-club",
-         "pubDate" : "Wed, 28 Sep 2022 11:42:00 -0700",
-         "title" : "ChessKid Announces Library Chess Club Initiative"
       },
       {
          "description" : "",
@@ -2072,14 +2080,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/battle-for-fair-play-has-few-takers-in-chess/articleshow/94364001.cms",
          "pubDate" : "Thu, 22 Sep 2022 03:23:21 +0000",
          "title" : "Battle for fair play has few takers in chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1996",
-         "pubDate" : "Wed, 21 Sep 2022 18:41:03 +0000",
-         "title" : "FIDE WGP Astana: Up-and-coming Zhu Jiner joins the lead"
       }
    ]
 }
