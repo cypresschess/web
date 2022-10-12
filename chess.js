@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana extended his lead in the tournament after defeating []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-vs-aleksandr-lenderman-us-chess-championship-2022-round-7-live/",
+         "pubDate" : "Wed, 12 Oct 2022 09:33:12 +0000",
+         "title" : "Fabiano Caruana vs Aleksandr Lenderman, US Chess Championship 2022 Round 7 LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-7-live/",
+         "pubDate" : "Wed, 12 Oct 2022 09:20:08 +0000",
+         "title" : "US Chess Championship 2022 - Round 7 live"
+      },
+      {
+         "description" : "Just weeks after Magnus Carlsen shocked the chess world after resigning against Hans Niemann on the move 2 during the Julius Baer Generation Cup, the Azerbaijani grandmaster Rauf Mamedov had the same reaction yesterday during the Late Titled Tuesday played on chess.com. Rauf Mamedov resigned his Round 10 game against Magnus Carlsen on the second []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rauf-mamedov-resigns-against-magnus-carlsen-on-the-2nd-move/",
+         "pubDate" : "Wed, 12 Oct 2022 08:59:37 +0000",
+         "title" : "Rauf Mamedov resigns against Magnus Carlsen on the 2nd move"
+      },
+      {
+         "description" : "We are saddened to know the demise of former Trainer of Indian Junior Team Grandmaster Konstantin Landa today. Rest in Peace GM Landa, you will",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/rest-in-peace-grandmaster-konstantin-landa/",
+         "pubDate" : "Wed, 12 Oct 2022 07:34:51 +0000",
+         "title" : "Rest in Peace Grandmaster Konstantin Landa"
+      },
+      {
+         "description" : "GM Fabiano Caruana increased his lead to a full point ahead of the field with a victory against GM Elshan Moradiabadi. GM Dariusz Swiercz achieved the biggest upset, defeating GM Levon Aronian.&#160;In the U.S. Women&#x2019;s Championship, GM Irina Krush won a third game in a row to join WGM Jennifer Yu at the top of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-extends-lead-us-chess-championship-2022-round-6-recap/",
+         "pubDate" : "Wed, 12 Oct 2022 07:32:00 +0000",
+         "title" : "Fabiano Caruana extends lead; US Chess Championship 2022 - Round 6 recap"
+      },
+      {
          "description" : "Fabiano Caruana defeated Elshan Moradiabadi to increase his lead at the U.S. Championship in Saint Louis. Caruana now stands a full point ahead of Sam Sevian, Awonder Liang and Ray Robson - the latter joined the chasing pack after beating Hans Niemann with the black pieces. Meanwhile, in the women's tournament, Irina Krush scored her third consecutive victory to join Jennifer Yu in first place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-6",
-         "pubDate" : "Tue, 11 Oct 2022 19:55:06 -0700",
+         "pubDate" : "Tue, 11 Oct 2022 19:55:00 -0700",
          "title" : "Caruana Cracks Moradiabadi, Extends Lead"
       },
       {
@@ -218,14 +258,6 @@ news_feed (
          "title" : "Augusto De Muro - the second FIDE President"
       },
       {
-         "description" : "GM Ramesh R.B. makes his Chessable debut with his hit course: Improve Your Chess Calculation, and he&#x2019;s ready to transform your calculation abilities. Ramesh RB helped stars like Praggnanandhaa and Daniel Naroditsky improve at the highest level. He coached a team of Indian teenagers to a bronze medal in their debut Chess Olympiad appearance, ahead []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-ramesh-r-b-improve-your-chess-calculation/",
-         "pubDate" : "Tue, 11 Oct 2022 08:43:49 +0000",
-         "title" : "GM Ramesh R.B. - Improve Your Chess Calculation"
-      },
-      {
          "description" : "It was not a good day for Indian team as India lost to Gold Medallist Turkey-Red in the final round of World Youth Olympiad and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -240,22 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-missed-triangulation",
          "pubDate" : "Tue, 11 Oct 2022 09:00:00 +0100",
          "title" : "The missed triangulation"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The players enjoyed their first resting day yesterday and come []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-ray-robson-us-chess-championship-2022-round-6-live/",
-         "pubDate" : "Tue, 11 Oct 2022 07:57:42 +0000",
-         "title" : "Hans Niemann vs Ray Robson, US Chess Championship 2022 Round 6 LIVE"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-6-live/",
-         "pubDate" : "Tue, 11 Oct 2022 07:46:18 +0000",
-         "title" : "US Chess Championship 2022 - Round 6 live"
       },
       {
          "description" : "The Association of Chess Professionals has an interesting proposal: most chess player, they say, only take part in open tournaments, which are completely disconnected from the World Championship cycle. That creates \"two parallel realities.\" For this reason, the ACF proposes making opens a part of the World Championship cycle. Here is their proposal, presented in full detail. We look forward to your comments.",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2031",
          "pubDate" : "Mon, 10 Oct 2022 21:26:56 +0000",
          "title" : "Turkey triumphs at the FIDE World Youth U-16 Chess Olympiad 2022"
-      },
-      {
-         "description" : "GM Maxim Dlugy has published a statement on the Hans Niemann cheating affair. After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxim-dlugy-publishes-a-statement-on-the-hans-niemann-cheating-affair/",
-         "pubDate" : "Mon, 10 Oct 2022 20:24:06 +0000",
-         "title" : "Maxim Dlugy publishes a statement on the Hans Niemann cheating affair"
       },
       {
          "description" : "",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/abhimanyu-s-book",
          "pubDate" : "Tue, 27 Sep 2022 14:00:00 +0100",
          "title" : "Abhimanyu's book"
-      },
-      {
-         "description" : "Round 8 U-8 Open AFM SafinSafarullakhan won in the 8th Round and jointly leading with two others. Also It was a win for Aadhya V(5.5)",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/eport-world-cadets-chess-championships-2022-round-8-9/",
-         "pubDate" : "Tue, 27 Sep 2022 10:31:00 +0000",
-         "title" : "Report- World Cadets Chess Championships 2022 ,Round 8 & 9"
       },
       {
          "description" : " <p class=\"lead\">After a <a href=\"https://worldchess.com/news/all/carlsen-won-against-erigaisi-with-anti-young-player-chess/\">record-breaking result</a> at the Julius Baer Generation Cup, Magnus Carlsen decided to make a statement <a href=\"https://worldchess.com/news/all/i-cannot-particularly-speak-on-that-magnus-carlsen-on-hans-niema/\">- as promised -</a> on the Niemann situation, in which the World Champion directly accused Hans of cheating. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-anal-bead-scandal-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Crystal Fuller, Grand Chess Tour / M",
