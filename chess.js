@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international/#new_tab",
+         "pubDate" : "Wed, 12 Oct 2022 15:27:35 +0000",
+         "title" : "International and FIDE Delegate reports from Malcolm Pein"
+      },
+      {
+         "description" : "Fabiano Caruana extended his lead in the US Chess Championship to a full point after beating Elshan Moradiabadi in Round 6. Levon Aronian lost a 2nd game in a row, this time to Dariusz Swiercz, while Hans Niemann went for an attack that was refuted by Ray Robson. Irina Krush won a 3rd game in a row to join Jennifer Yu in the Women's section lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-6-fabi-wins-again-as-hans-lev-crash",
+         "pubDate" : "Wed, 12 Oct 2022 14:57:17 +0000",
+         "title" : "US Champs 6: Fabi wins again as Hans & Lev crash to defeat"
+      },
+      {
+         "description" : "GM Hikaru Nakamura just keeps on winning Titled Tuesday, taking home the early tournament on October 11, his fourth straight week with at least one tournament victory. GM Magnus Carlsen finished in third place despite missing the first round, but ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-october-11-2022",
+         "pubDate" : "Wed, 12 Oct 2022 07:44:21 -0700",
+         "title" : "Nakamura And Carlsen Both Win In Day Of Strange Openings"
+      },
+      {
+         "description" : "Manuel Aaron was India's first International Master. Manuel is a great champion who indulged in battles with players like Fischer, Botvinnik, and other world superstars in his prime. He laid the foundation for Indian chess, due to which India has now become a superpower in the chess world. In the fifth episode of Olympiad Stories with Saravanan, IM Saravanan shares some interesting stories about the first Indian Superstar, the grand old man of Indian chess. Photo: The Hindu archives.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/manuel-aaron-the-trailblazer-of-indian-chess",
+         "pubDate" : "Wed, 12 Oct 2022 15:00:00 +0100",
+         "title" : "Manuel Aaron - The Trailblazer of Indian Chess"
+      },
+      {
+         "description" : " IM Raymond Song looks to have had a productive trip to Europe, scoring his 2nd and 3rd GM norms over the northern summer. In June he tied for 1st in the Silver Lake Open (Serbia) with 7/9, with a 2603 performance rating. After a few more events, he scored his 3rd norm at the October First Saturday event in Budapest, finishing on 7/9 and performing at 2610. Song, who formerly played for Australia (and NZ), now represents Chinese Taipei and only needs to get his rating above 2500 to confirm the title. Currently he is just short (by 3 points if I can add up correctly), and should be able to get his live rating above 2500 at his next event. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/3rd-gm-norm-for-raymond-song.html",
+         "pubDate" : "Wed, 12 Oct 2022 12:19:00 +0000",
+         "title" : "3rd GM norm for Raymond Song"
+      },
+      {
+         "description" : " The World Junior Championships take place in Cala Gonone, Italy Wednesday 12th to Sunday 23rd October 2022. This is the 59th edition and 38th Girls. The event hasn't been held since 2019 due to Covid-19.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-juniors-2022",
+         "pubDate" : "Wed, 12 Oct 2022 15:06:00 +0400",
+         "title" : "World Juniors 2022 - Games and Results"
+      },
+      {
          "description" : "On 10 October the FIDE World Youth U-16 Chess Olympiad 2022 finished in Nakhchivan, Azerbaijan. The 9-round Swiss tournament with classical time control brought together 34 teams from 22 countries. The fifth-rated Turkiye-Red swept the field, winning the event with one round to spare. | Photos: Turkish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +88,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2035",
          "pubDate" : "Wed, 12 Oct 2022 09:58:37 +0000",
          "title" : "Konstantin Landa (1972-2022)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2034",
+         "pubDate" : "Wed, 12 Oct 2022 09:53:37 +0000",
+         "title" : "Chess for Children with ASD: third education seminar conducted"
       },
       {
          "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann scores 2.5/6 points and currently holds the 12th []",
@@ -1450,14 +1506,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy-Three"
       },
       {
-         "description" : "After an initial statement that acknowledged the current controversy shaking the chess world, FIDE has now announced the creation of a panel by its Fair Play Commission to investigate the \"the World Champion's claims of alleged cheating by Niemann and Niemann's self-statement regarding online cheating.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-investigate-carlsen-niemann-controversy",
-         "pubDate" : "Fri, 30 Sep 2022 11:00:00 +0100",
-         "title" : "FIDE to form investigatory panel for Carlsen-Niemann controversy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1472,14 +1520,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/niemann-is-either-the-greatest-american-talent-since-fischer-or/",
          "pubDate" : "Fri, 30 Sep 2022 08:43:46 +0000",
          "title" : "\"Niemann is either the greatest American talent since Fischer or a fraud\" Olimpiu Di Luppi"
-      },
-      {
-         "description" : "FIDE has confirmed they will launch an investigation into Magnus Carlsen and Hans Niemann after the cheating scandal that has dominated the chess world and gathered worldwide attention in recent weeks.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-to-investigate-carlsen-and-niemann",
-         "pubDate" : "Fri, 30 Sep 2022 08:09:28 +0000",
-         "title" : "FIDE to investigate Carlsen and Niemann"
       },
       {
          "description" : "",
@@ -1616,14 +1656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2010",
          "pubDate" : "Wed, 28 Sep 2022 16:41:28 +0000",
          "title" : "Huge excitement in Astana WGP"
-      },
-      {
-         "description" : "GM Hikaru Nakamura pulled off another Titled Tuesday sweep, his third, by scoring 9.5/11 in both of the day&#39;s events. This one may be his most impressive of the three, as GM Magnus Carlsen joined the field for both events. Carlsen finished fifth i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-september-27-2022",
-         "pubDate" : "Wed, 28 Sep 2022 08:55:00 -0700",
-         "title" : "Nakamura Sweeps Titled Tuesday After Battles With Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94514693.cms\" />Pantsulaia Levan of Georgia clinched the 2nd Chhattisgarh Chief Minister's Trophy International Grandmaster Chess Championship title, organised in Chhattisgarh's capital Raipur from September 18 to 28.",
