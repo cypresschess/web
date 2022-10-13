@@ -2,6 +2,110 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A prominent open event is currently taking place in Fagernes. A strong Indian group is dominating the action. But the top group also includes 17-year-old Elham Abdrlauf, Norway's biggest rising star. Report after round 5. | Photos: Tom Eriksen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indians-dominate-in-fagernes",
+         "pubDate" : "Thu, 13 Oct 2022 12:15:00 +0100",
+         "title" : "Indians dominate in Fagernes"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess Plc, a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of chess related activities, is pleased to announce its intention to seek admission of its Ordinary Shares to the Official List and to trading on the London Stock Exchange's Main Market for listed securities, and a placing of new shares to raise up to &pound;10m. It is expected that the Admission will become effective and that dealings will commence in November 2022, under the ticker CHSS. Novum Securities Limited (\"Novum\") is acting as Financial Adviser to the Company and Retail investors will be able to register their interest in the IPO",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-plans-to-list-on-the-london-stock-exchange/",
+         "pubDate" : "Thu, 13 Oct 2022 10:51:01 +0000",
+         "title" : "World Chess Plans to List On The London Stock Exchange"
+      },
+      {
+         "description" : "An exciting round in both sections of the U.S. Championships saw 9 out of 14 games ending decisively. In the open, Fabiano Caruana, Ray Robson (pictured) and Dariusz Swiercz grabbed second consecutive wins, while Leinier Dominguez scored his first full point after merely ten moves! In the women's section, Megan Lee defeated Jennifer Yu and is now sharing the lead with Irina Krush. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championship-2022-r7",
+         "pubDate" : "Thu, 13 Oct 2022 11:40:00 +0100",
+         "title" : "U.S. Championships: Winning streaks"
+      },
+      {
+         "description" : "John Rice mate in 2 Tries &#8212; 1. e3? / Ng5? / Nd8? / Q x c8? 1.&hellip; B x e6! / Be6! /...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-solution/",
+         "pubDate" : "Thu, 13 Oct 2022 10:08:58 +0000",
+         "title" : "Winton British Chess Solving Championship - solution"
+      },
+      {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana yesterday scored a victory against Aleksandr Lenderman and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/samuel-sevian-vs-fabiano-caruana-us-chess-championship-2022-round-8-live/",
+         "pubDate" : "Thu, 13 Oct 2022 10:04:06 +0000",
+         "title" : "Samuel Sevian vs Fabiano Caruana, US Chess Championship 2022 Round 8 LIVE"
+      },
+      {
+         "description" : "The European Club Cup was played last week, with no fewer than 70 teams in the open section and 17 women's squads making their way to Mayrhofen, Austria. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Anna Muzychuk (photo by Fiona Steil-Antoni)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-club-cup-2022-endgames",
+         "pubDate" : "Thu, 13 Oct 2022 11:00:00 +0100",
+         "title" : "Endgames from Mayrhofen"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After a slow start, GM Dariusz Swiercz scored two consecutive []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-vs-dariusz-swiercz-us-chess-championship-2022-round-8-live/",
+         "pubDate" : "Thu, 13 Oct 2022 09:58:38 +0000",
+         "title" : "Wesley So vs Dariusz Swiercz, US Chess Championship 2022 Round 8 LIVE"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann suffered three losses in four days, while Levon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-vs-hans-niemann-us-chess-championship-2022-round-8-live/",
+         "pubDate" : "Thu, 13 Oct 2022 09:44:08 +0000",
+         "title" : "Levon Aronian vs Hans Niemann, US Chess Championship 2022 Round 8 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2038",
+         "pubDate" : "Thu, 13 Oct 2022 09:40:40 +0000",
+         "title" : "World Sight Day: Chess perspective"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-8-live/",
+         "pubDate" : "Thu, 13 Oct 2022 09:34:57 +0000",
+         "title" : "US Chess Championship 2022 - Round 8 live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian GM and coach <strong>Konstantin Landa</strong>, who lived in Germany for many years, <a href=\"https://fide.com/news/2035\">lost his fight</a> against Leukaemia. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/konstantin-landa-1972-2022/",
+         "pubDate" : "Thu, 13 Oct 2022 10:16:52 +0100",
+         "title" : "Konstantin Landa (1972-2022)"
+      },
+      {
+         "description" : "GM Ray Robson upset GM Wesley So to break 2700 for the first time. He&#x2019;s in clear second, trailing GM Fabiano Caruana by a point, who won again to reach plus four.&#160;In the U.S. Women&#x2019;s Championship, WIM Megan Lee defeated WGM Jennifer Yu to replace her in the tie for first with GM Irina Krush.&#160; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caruana-continues-to-lead-by-a-full-point-us-chess-championship-round-7-recap/",
+         "pubDate" : "Thu, 13 Oct 2022 08:17:35 +0000",
+         "title" : "Caruana continues to lead by a full point; US Chess Championship Round 7 recap"
+      },
+      {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Thu, 13 Oct 2022 08:00:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
          "description" : "ECU E-Magazine September 2022 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2022 ECU Commissions Global Chess Festival 2022 4th ESNA European Small Nations Individual Chess Championship 2022 European Cities &#38; Towns Chess Championship 2022 Tournament of Peace 2022 Upcoming European Senior Team Chess Championship 2022 9th RIDEF Francophone's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -14,8 +118,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-7",
-         "pubDate" : "Wed, 12 Oct 2022 19:43:24 -0700",
-         "title" : "Caruana, Robson Win Again, Dominguez Records Ten Move Victory"
+         "pubDate" : "Wed, 12 Oct 2022 19:43:00 -0700",
+         "title" : "Caruana, Robson Win Again, Dominguez Records 10-Move Victory"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Dariusz Swiercz talks to Cristian Chirila after defeating Niemann in Round 7 of the 2022 U.S. Chess Championship. 2022.10.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/swiercz-beats-hans-feels-%E2%80%98really-nice%E2%80%99-round-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZQU33IpcnS4.jpg?itok=ufRwhbIL\" alt=\"\" /></a></div>",
@@ -136,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/konstantin-landa-1972-2022",
          "pubDate" : "Wed, 12 Oct 2022 12:59:00 -0700",
          "title" : "Konstantin Landa, 1972-2022"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana head the field in the open, while Irina Krush and Anna Zatonskih are the top seeds among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Wed, 12 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
       },
       {
          "description" : "",
@@ -272,46 +368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2034",
          "pubDate" : "Wed, 12 Oct 2022 09:53:37 +0000",
          "title" : "Chess for Children with ASD: third education seminar conducted"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann scores 2.5/6 points and currently holds the 12th []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dariusz-swiercz-vs-hans-niemann-us-chess-championship-2022-round-7-live/",
-         "pubDate" : "Wed, 12 Oct 2022 09:51:32 +0000",
-         "title" : "Dariusz Swiercz vs Hans Niemann, US Chess Championship 2022 Round 7 LIVE"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Suffering two consecutive losses in his first US Chess Championship, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/christopher-yoo-vs-levon-aronian-us-chess-championship-round-7-live/",
-         "pubDate" : "Wed, 12 Oct 2022 09:42:14 +0000",
-         "title" : "Christopher Yoo vs Levon Aronian, US Chess Championship Round 7 LIVE"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana extended his lead in the tournament after defeating []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-vs-aleksandr-lenderman-us-chess-championship-2022-round-7-live/",
-         "pubDate" : "Wed, 12 Oct 2022 09:33:12 +0000",
-         "title" : "Fabiano Caruana vs Aleksandr Lenderman, US Chess Championship 2022 Round 7 LIVE"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-7-live/",
-         "pubDate" : "Wed, 12 Oct 2022 09:20:08 +0000",
-         "title" : "US Chess Championship 2022 - Round 7 live"
-      },
-      {
-         "description" : "Just weeks after Magnus Carlsen shocked the chess world after resigning against Hans Niemann on the move 2 during the Julius Baer Generation Cup, the Azerbaijani grandmaster Rauf Mamedov had the same reaction yesterday during the Late Titled Tuesday played on chess.com. Rauf Mamedov resigned his Round 10 game against Magnus Carlsen on the second []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rauf-mamedov-resigns-against-magnus-carlsen-on-the-2nd-move/",
-         "pubDate" : "Wed, 12 Oct 2022 08:59:37 +0000",
-         "title" : "Rauf Mamedov resigns against Magnus Carlsen on the 2nd move"
       },
       {
          "description" : "We are saddened to know the demise of former Trainer of Indian Junior Team Grandmaster Konstantin Landa today. Rest in Peace GM Landa, you will",
@@ -1106,14 +1162,6 @@ news_feed (
          "title" : "Registration for the 3rd FIDE Educational Seminar \"Chess for children with ASD. Learn & teach\" is open"
       },
       {
-         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
-         "pubDate" : "Tue, 04 Oct 2022 16:00:45 +0000",
-         "title" : "Rolling membership introduction"
-      },
-      {
          "description" : "There is a sense of frustration at this stage by parties wide and large, and while the quote in the headline will hit closer to home for chess players, the venerable British newspaper 'The Guardian' also took an unprecedented step by declaring their own official position regarding the entire scandal.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,14 +1320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-october-fide-ratings-rapid-blitz",
          "pubDate" : "Mon, 03 Oct 2022 07:12:00 -0700",
          "title" : "Praggnanandhaa Gains 660 Points As FIDE Adjusts Rapid, Blitz Ratings"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://fide.com/news/2017\">confirmed the appointments</a> of two newly created positions: <strong>Nigel Short</strong>, who had resigned as VP in June after <a href=\"https://ethics.fide.com/wp-content/uploads/2022/06/EDC-Case-10_2021A-Appeal-Chamber-decision.pdf\">controversially being sanctioned</a> by the <strong>Ethics Commission</strong>, becomes <strong>Director of Development</strong> and shall advise young federations. <strong>Akaki Iashvili</strong> as the new <strong>Director of Special Tasks</strong> shall supervise events. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/short-and-iashvili-hired-by-fide/",
-         "pubDate" : "Mon, 03 Oct 2022 14:42:52 +0100",
-         "title" : "Short and Iashvili hired by FIDE"
       },
       {
          "description" : "",
@@ -1506,28 +1546,12 @@ news_feed (
          "title" : "Libra and their strategy"
       },
       {
-         "description" : "Today your defensive skills are needed: Can you refute Black's 35...Ng6? or 35...Rg6? in the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/double-flop",
-         "pubDate" : "Sat, 01 Oct 2022 09:00:00 +0100",
-         "title" : "Double Flop"
-      },
-      {
          "description" : "Click the link given below to watch Live 1st Bikaner Open International Grand masters Chess Tournament 2022 (Category A ) Link : https://view.livechesscloud.com/#871d3fc8-c6c3-48d4-916c-41a0cef9cc29",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-link-of-1st-bikaner-open-international-grand-masters-chess-tournament-2022-category-a/",
          "pubDate" : "Sat, 01 Oct 2022 07:39:59 +0000",
          "title" : "Live link of 1st Bikaner Open International Grand masters Chess Tournament 2022 (Category A )"
-      },
-      {
-         "description" : "There are many ways to train chess or to entertain yourself with chess: relaxed tactics training without time pressure or in competition with others? Or do you love the artistic appeal of studies? Do you like to follow live world-class tournaments or to watch training videos? Do you like to hone your opening repertoire by using the opening trends from the live ticker? The ChessBase Account offers you all this - and much more. Fully integrated in the ChessBase world, the WebApps work together and can be used perfectly with the ChessBase and Fritz programmes. The ChessBase Account offers a comprehensive access to the world of chess, no matter whether you play chess as a sport or as a hobby. In",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tutorial-chessbase-account-01-september-2022",
-         "pubDate" : "Fri, 30 Sep 2022 19:00:00 +0100",
-         "title" : "The ChessBase Account - Training with WebApps (1)"
       },
       {
          "description" : "Continuing with the 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html\">1992 Fischer - Spassky 'Under the Weather'</A>(September 2022), in that post I wrote, <BLOCKQUOTE>Photo D1 is about a moment from the opening press conference that is more famous than any of the games played in the match. It shows Fischer with the letter that led to the famous spit incident. </BLOCKQUOTE> <P>The composite image including that photo in black & white is seen below, with 'photo D1' circled in red. Superimposed on the composite is a similar photo in color. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi30.jpg\" WI",
@@ -2024,22 +2048,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-teams-championship.html",
          "pubDate" : "Thu, 22 Sep 2022 12:34:00 +0000",
          "title" : "2022 ACT Teams Championship"
-      },
-      {
-         "description" : "The English Chess Federation is extremely proud that our Director of Women's Chess Aga Milewska has been selected to be a Councillor on the European...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/aga-milewska-fide-councillor/",
-         "pubDate" : "Thu, 22 Sep 2022 11:17:37 +0000",
-         "title" : "Aga Milewska - ECU Women's Commission Councillor"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94375114.cms\" />Chess world champion Magnus Carlsen remained vague on Thursday about whether or not he thought Hans Niemann was a cheat after he abruptly conceded his contest against the American at the Julius Baer Generation Cup online tournament following one move.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-champion-magnus-carlsen-refuses-to-clarify-cheating-claims/articleshow/94375114.cms",
-         "pubDate" : "Thu, 22 Sep 2022 10:49:44 +0000",
-         "title" : "Chess world champion Magnus Carlsen refuses to clarify cheating claims"
       }
    ]
 }
