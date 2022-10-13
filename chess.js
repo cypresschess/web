@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and will be played on chess24 from October 14-21. The 16-player field will be cut in half by the 4-day round-robin Prelims. The players will have 15 minutes for all their moves, plus a 10-second increment starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-preliminary-stage-live/",
+         "pubDate" : "Thu, 13 Oct 2022 19:12:19 +0000",
+         "title" : "Aimchess Rapid Preliminary stage LIVE"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,6 +176,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-2022/",
          "pubDate" : "Thu, 13 Oct 2022 07:11:45 +0000",
          "title" : "ECU E-Magazine September 2022"
+      },
+      {
+         "description" : "FIDE World Youth U-16 Chess Olympiad 2022 finished in Nakhchivan, Azerbaijan, on October 10. The 9-round Swiss tournament with classical time control brought together 34 teams from 22 countries. The fifth-rated Turkiye-Red swept the field, winning the event with one round to spare. The FM Eray Kilic (2428, board 1)&#xA0;won all the matches. Both FM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/turkey-wins-gold-at-the-fide-world-youth-u16-chess-olympiad-2022/",
+         "pubDate" : "Thu, 13 Oct 2022 06:38:00 +0000",
+         "title" : "Turkey wins gold at the FIDE World Youth U16 Chess Olympiad 2022"
       },
       {
          "description" : "Instructive attacking chess, dazzling tactics, and a 10-move disaster game all came to the fore during the seventh round of the 2022 U.S. Chess Championships on Tuesday. GM Fabiano Caruana won his fourth game and remains ahead of his newest challe...",
@@ -392,22 +408,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-junior-chess-championship-2022-open-section-live/",
          "pubDate" : "Wed, 12 Oct 2022 10:15:31 +0000",
          "title" : "FIDE World Junior Chess Championship 2022 - Open section LIVE"
-      },
-      {
-         "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20) is taking place in Sardinia, Italy from October 11 to 23, 2022. Nearly 200 players from 58 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. GM Andrey Esipenko, GM Arseniy Nesterov, GM Frederik Svane, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-junior-chess-championship-2022-kicks-off-in-italy/",
-         "pubDate" : "Wed, 12 Oct 2022 10:11:19 +0000",
-         "title" : "FIDE World Junior Chess Championship 2022 kicks off in Italy"
-      },
-      {
-         "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20)&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 66 players from 45 countries will compete over 11 swiss rounds for the title of the World Junior Girls Chess Champion. The top seeds are&#xA0;IM Nurgyul Salimova,&#xA0;WIM Meruert Kamalidenova,&#xA0;WIM Mariam Mkrtchyan,&#xA0;WGM Govhar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-junior-chess-championship-2022-girls-section-live/",
-         "pubDate" : "Wed, 12 Oct 2022 10:03:00 +0000",
-         "title" : "FIDE World Junior Chess Championship 2022 - Girls section LIVE"
       },
       {
          "description" : "",
