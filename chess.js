@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU E-Magazine September 2022 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2022 ECU Commissions Global Chess Festival 2022 4th ESNA European Small Nations Individual Chess Championship 2022 European Cities &#38; Towns Chess Championship 2022 Tournament of Peace 2022 Upcoming European Senior Team Chess Championship 2022 9th RIDEF Francophone's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-september-2022/",
+         "pubDate" : "Thu, 13 Oct 2022 07:11:45 +0000",
+         "title" : "ECU E-Magazine September 2022"
+      },
+      {
          "description" : "Instructive attacking chess, dazzling tactics, and a 10-move disaster game all came to the fore during the seventh round of the 2022 U.S. Chess Championships on Tuesday. GM Fabiano Caruana won his fourth game and remains ahead of his newest challe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2056,30 +2064,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/75th-russian-chess-championship-2022",
          "pubDate" : "Thu, 22 Sep 2022 11:59:00 +0400",
          "title" : "75th Russian Chess Championship 2022 - Games and Results"
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen is currently thriving at the Julius Baer Generation Cup Prelims but his <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resignation on move 2</a> against Niemann a couple of days ago overshadowed all success. On the final day Magnus decided to break his silence! But he actually say anything?! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-hans-niemann-cheating-Julius-Baer-Generation-Cup-chess.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24 Oslo broadcast</div> </div> First he [Carlsen] <a href=\"https://worldchess.com/news/all/",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/i-cannot-particularly-speak-on-that-magnus-carlsen-on-hans-niema/",
-         "pubDate" : "Thu, 22 Sep 2022 07:29:18 +0000",
-         "title" : "\"I cannot particularly speak on that\" Magnus Carlsen on Hans Niemann"
-      },
-      {
-         "description" : " <p class=\"lead\">In a cryptic interview full of smiles and innuendo, Magnus Carlsen said that Hans Niemann cheated. At least that's what we can understand from 'drawing our own conclusions'. Watch the video and try to read Carlsen's mind. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/c50PJmOj2-U?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> In what turned out to be the most talked-about chess drama in years, the World Champion walks a fine line between openly accusing Niemann of fair play violations and adding suspense to an already complicated storyline. It has it all: erratic behavior, Elon Mask's tweet, conspiracy theories, huge ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-asks-everyone-to-read-his-mind/",
-         "pubDate" : "Thu, 22 Sep 2022 07:12:19 +0000",
-         "title" : "Magnus Carlsen Asks Everyone to Read His Mind"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94367349.cms\" />Teenaged Indian Grandmasters Arjun Erigaisi and R Praggnanandhaa moved to the quarterfinals after finishing second and fourth respectively in the preliminary phase of the Julius Baer Generation Cup online rapid chess tournament early on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-indian-gms-erigaisi-praggnanandhaa-sail-to-quarterfinals/articleshow/94367349.cms",
-         "pubDate" : "Thu, 22 Sep 2022 05:54:47 +0000",
-         "title" : "Julius Baer Cup: Indian GMs Erigaisi, Praggnanandhaa sail to quarterfinals"
       }
    ]
 }
