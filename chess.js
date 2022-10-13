@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris will have a look at the good old Scotch Gambit, which was seen in the games Liang-Aronian (US Championship) and Mamedov-Anand (European Club Cup). In both games, Black got into some serious trouble, with Aronian even getting blown off the board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-good-old-scotch-gambit",
+         "pubDate" : "Thu, 13 Oct 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The good old Scotch Gambit"
+      },
+      {
          "description" : "After Maxim Dlugy's recent statement on the actions that brought him into the spotlight, suggesting a connection with the accusations Magnus Carlsen had initially made against Hans Niemann. In an interview with DER SPIEGEL, the latter, Maxim Dlugy, speaks of those accusations for the first time and discusses whether he will take legal action.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/",
          "pubDate" : "Sun, 02 Oct 2022 06:37:29 +0000",
          "title" : "European Chess Club Cup 2022 opens in Mayrhofen"
-      },
-      {
-         "description" : "Kateryna Lagno took clear first place at the Women's Grand Prix in Astana, Kazakhstan. A 12-player single round robin, the event featured a number of remarkable confrontations. GM Karsten M&uuml;ller analysed three of the most interesting endgames and shared his insights with us. Instructive and entertaining! | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-astana-2022-endgames",
-         "pubDate" : "Sat, 01 Oct 2022 22:00:00 +0100",
-         "title" : "Endgames from Astana"
       },
       {
          "description" : " WGM Shahenda Wafa (gold-women's), GM Abdelrahman Hesham (bronze-open), GM Bassem Amin (gold-open). All photos by Babatunde Ogunsiku (Africa Chess Media) Egypt's Bassem Amin wins his sixth continental title after winning the 2022 African Individual Chess Championships in Lagos, Nigeria. He edged out compatriot and fellow Grandmaster Ahmed Adly who had led most of the tournament. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/01/bassem-amin-shahenda-wafa-2022-african-champs/\">Bassem Amin &#038; Shahenda Wafa 2022 African Champs!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
