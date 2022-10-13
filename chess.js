@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Thu, 13 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
          "description" : "This week Robert Ris will have a look at the good old Scotch Gambit, which was seen in the games Liang-Aronian (US Championship) and Mamedov-Anand (European Club Cup). In both games, Black got into some serious trouble, with Aronian even getting blown off the board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The good old Scotch Gambit"
       },
       {
-         "description" : "After Maxim Dlugy's recent statement on the actions that brought him into the spotlight, suggesting a connection with the accusations Magnus Carlsen had initially made against Hans Niemann. In an interview with DER SPIEGEL, the latter, Maxim Dlugy, speaks of those accusations for the first time and discusses whether he will take legal action.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2039",
+         "pubDate" : "Thu, 13 Oct 2022 17:48:05 +0000",
+         "title" : "FIDE approves new composition of the Management Board"
+      },
+      {
+         "description" : "After Maxim Dlugy's recent statement on the actions that brought him into the spotlight, suggesting a connection with the accusations Magnus Carlsen had initially made against Hans Niemann. In an interview with DER SPIEGEL, Europe's most influential news magazine and portal, Max speaks of those accusations for the first time and discusses whether he will take legal action.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/der-spiegel-interviews-maxim-dlugy-what-magnus-carlsen-did-is-absolutely-ridiculous",
+         "link" : "https://en.chessbase.com/post/maxim-dlugy-talks-to-der-spiegel",
          "pubDate" : "Thu, 13 Oct 2022 18:35:00 +0100",
-         "title" : "Maxim Dlugy talks to Der Spiegel: \"What Carlsen did is absolutely ridiculous\""
+         "title" : "Maxim Dlugy talks to Der Spiegel"
       },
       {
          "description" : "World Junior Chess Championship, held after a gap of 3 years due to the pandemic has started in Cala Gonone, Sardinia in Italy from 12th",
@@ -285,6 +301,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2032",
+         "pubDate" : "Wed, 12 Oct 2022 19:27:42 +0000",
+         "title" : "Shortlist for FIDE Book Awards 2022 announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2036",
          "pubDate" : "Wed, 12 Oct 2022 18:20:51 +0000",
          "title" : "FIDE World Junior Chess Championship kicks off in Cala Gonone, Sardinia"
@@ -360,14 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/turkey-wins-fide-world-youth-u-16-chess-olympiad-2022",
          "pubDate" : "Wed, 12 Oct 2022 11:54:14 +0100",
          "title" : "Turkey wins FIDE World Youth U-16 Chess Olympiad 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2032",
-         "pubDate" : "Wed, 12 Oct 2022 10:27:42 +0000",
-         "title" : "Shortlist for FIDE Book Awards 2022 announced"
       },
       {
          "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20)&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 120 players from 55 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. The top seeds are GM Andrey Esipenko,&#xA0;GM Arseniy Nesterov,&#xA0;GM Frederik Svane,&#xA0;GM Leon []",
@@ -1504,14 +1520,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/2022-vikings-weekender-save-date.html",
          "pubDate" : "Sun, 02 Oct 2022 12:31:00 +0000",
          "title" : "2022 Vikings Weekender - Save the date"
-      },
-      {
-         "description" : "In studying the classics, we get to know the elementary strategies and tactical motifs of the game, and thus we deepen our understanding of chess. At the same time, we gain an insight into chess history and chess culture. Dorian Rogozenco presents the most beautiful classics on his new FritzTrainer. Phillip Hillebrand has reviewed the training course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-chess-classics-review",
-         "pubDate" : "Sun, 02 Oct 2022 13:25:00 +0100",
-         "title" : "Dorian Rogozenco's Chess Classics - A review"
       },
       {
          "description" : "",
