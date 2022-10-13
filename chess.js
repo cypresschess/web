@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ray Robson scored a hat-trick at the US Chess Championship as he defeated Elshan Moradiabadi in today's eighth round of the event. With an impressive score of 5.5/8 points, Robson passed the 2700 rating on the live rating list and now holds the second position in the 2022 US Championship, trailing GM Fabiano Caruana&#160;by half []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ray-robson-i-would-like-to-get-into-some-of-the-elite-chess-events/",
+         "pubDate" : "Thu, 13 Oct 2022 22:49:05 +0000",
+         "title" : "Ray Robson: I would like to get into some of the elite chess events"
+      },
+      {
+         "description" : "Florian P&#xFC;tz from Der Spiegel, the largest German news online website, has conducted a long interview with Maxim Dlugy. The US Grandmaster became a hot topic after being implicated by Magnus Carlsen in the Niemann Carlsen cheating allegations affair. Carlsen couldn&#x2019;t particularly speak on the topic, but he mentioned &#x201C;Niemann&#x2019;s mentor&#x201D; GM Maxim Dlugy: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dlugy-something-very-bad-happened-in-carlsens-head-hans-niemann-should-go-to-court/",
+         "pubDate" : "Thu, 13 Oct 2022 22:34:22 +0000",
+         "title" : "Dlugy: Something very bad happened in Carlsen's head; Hans Niemann should go to court"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2040",
          "pubDate" : "Thu, 13 Oct 2022 22:01:50 +0000",
          "title" : "Prisoners from 46 countries take part in the Intercontinental Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Chief Curator Shannon Bailey talks to Cristian Chirila during Round 8 of the 2022 U.S. Chess Championships. 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shannon-bailey-inside-fischer-spassky-wchof-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/D2ODI5anoc4.jpg?itok=Yf2zj93W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shannon-bailey-inside-fischer-spassky-wchof-round-8",
+         "pubDate" : "Thu, 13 Oct 2022 21:58:06 +0000",
+         "title" : "Shannon Bailey: Inside Fischer-Spassky at the WCHOF | Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Megan Lee talks to Cristian Chirila after defeating Eswaran in Round 8 of the 2022 U.S. Women's Championship. Visit Megan&#039;s business at ShopSnippet.com 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/megan-lee-never-imagined-being-1st-position-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m4_ZgHvuWdU.jpg?itok=WaLX26Iw\" alt=\"\" /></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/megan-lee-never-imagined-being-1st-position-round-8",
+         "pubDate" : "Thu, 13 Oct 2022 21:58:06 +0000",
+         "title" : "Megan Lee: Never Imagined Being in 1st Position | Round 8"
       },
       {
          "description" : "The Aimchess Rapid is the 8th and penultimate event of the $1.6 million 2022 Meltwater Champions Chess Tour and takes place on chess24 from October 14-21. The 16-player field will be cut in half by the round-robin Prelims which will be played from 14-17 October. The players will have 15 minutes for all their moves, []",
@@ -274,14 +306,6 @@ news_feed (
          "title" : "Yasser Seirawan Gets FURIOUS at Kasparov! | Round 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.12<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-7",
-         "pubDate" : "Thu, 13 Oct 2022 00:57:13 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -290,36 +314,12 @@ news_feed (
          "title" : "Arkady Dvorkovich meets with President of Argentina"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sophie Morris-Suzuki talks to Cristian Chirila after defeating Rochelle Wu in Round 6 of the 2022 U.S. Women's Championship. 2022.10.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/morris-suzuki-finally-i-played-good-chess-round-6-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AUphj8IVTak.jpg?itok=y7A6JAQQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/morris-suzuki-finally-i-played-good-chess-round-6-0",
-         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
-         "title" : "Morris-Suzuki: Finally! I Played Good Chess! | Round 6"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #537 Merijn van Delft presents a game Pentala Harikrishna and Vishy Anand played at the European Club Cup in Mayrhofen, Austria. Harikrishna won with impressive technique. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-537-p-harikrishna-vs-v-anand",
          "pubDate" : "Wed, 12 Oct 2022 22:55:27 +0100",
          "title" : "Game of the Week #537: P. Harikrishna vs V. Anand"
-      },
-      {
-         "description" : "After defeating Levon Aronian in yesterday's sixth round of the US Chess Championship, Dariusz Swiercz scored his second victory in a row as he today crushed Hans Niemann after only two hours of play. Swiercz achieved a clear advantage in the early part of the middlegame when everything started going wrong for Hans. After Niemann's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dariusz-swiercz-after-crushing-hans-niemann-i-feel-really-really-nice/",
-         "pubDate" : "Wed, 12 Oct 2022 21:24:49 +0000",
-         "title" : "Dariusz Swiercz after crushing Hans Niemann: I feel really really nice"
-      },
-      {
-         "description" : "The seventh round of the US Chess Championship 2022 saw one of the quickest and shortest games in the history of the US Championship. Leinier Dominguez defeated Elshan Moradiabadi after only 10 moves of play. The game lasted only 20 minutes as Moradiabadi missed the well-known theoretical trick in the Petroff line and got into []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/leinier-dominguez-defeats-elshan-moradiabadi-in-10-moves-after-only-20-minutes-of-play/",
-         "pubDate" : "Wed, 12 Oct 2022 20:23:25 +0000",
-         "title" : "Leinier Dominguez defeats Elshan Moradiabadi in 10 moves after only 20 minutes of play"
       },
       {
          "description" : "GM Konstantin Landa has passed away at the age of 50, after a long struggle with cancer. The news was confirmed by the Russian Chess Federation. Landa was born May 22, 1972 in Omsk, a city in southwestern Siberia. He got his first chess lessons ...",
